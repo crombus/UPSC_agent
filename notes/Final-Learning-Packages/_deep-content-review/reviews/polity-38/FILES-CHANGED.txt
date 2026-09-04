@@ -1,0 +1,19 @@
+upsc-ai-kit\knowledge\Polity\basic\Lokpal-and-Lokayuktas.md
+upsc-ai-kit\knowledge\Polity\advanced\38_Lokpal-and-Lokayuktas.md
+upsc-ai-kit\knowledge\Polity\38_Lokpal-and-Lokayuktas_Complete-Topic-Package.md
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\polity-38-2026-08-25-sequential.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\polity-38.json
+tools\deep_content_quality_overrides.json
+tools\test_refresh_all_v2_learning_sessions.py
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\ISSUE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\EVIDENCE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\MD-CHANGE-SUGGESTIONS.md
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\38-Lokpal-and-Lokayuktas
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-38
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-38\g3-g4
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-38\g3-g4
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-38\carvaka-g3-g4

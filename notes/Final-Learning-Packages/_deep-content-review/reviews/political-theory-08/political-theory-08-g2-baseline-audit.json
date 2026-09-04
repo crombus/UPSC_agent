@@ -1,0 +1,57 @@
+{
+  "record_id": "political-theory-08:learner-v2:g2",
+  "generation": 2,
+  "scores": {
+    "complete_learning_session": 38,
+    "solved_practice_workbook": 24,
+    "graphical_flowchart": 13,
+    "ascii_master_flowchart": 12,
+    "total": 87
+  },
+  "metrics": {
+    "markdown_characters": 102018,
+    "question_count": 6,
+    "mcq_count": 48,
+    "mcq_rotation": true,
+    "demand_decoding_blocks": 0,
+    "compression_plan_blocks": 0,
+    "why_this_earns_marks": 6,
+    "how_to_improve": 0,
+    "missing_model_labels": [],
+    "weak_models": [],
+    "flow_dangling_fragments": [
+      "and.",
+      "activism; relevance still requires disciplined evidence, or it collapses back into.",
+      "social environment, processing inputs (demands and supports from.",
+      "vocabulary (inputs/outputs/feedback), and foregrounds system persistence and.",
+      "distribution of power, ideology, or discontinuous change such as revolution, and.",
+      "describe how efficiently a political system receives, processes and acts on.",
+      "in ignoring urgent injustice, since choosing what to study/ignore is itself a.",
+      "(e.g. a Cabinet or Cabinet Committee decision) moves from problem recognition to."
+    ],
+    "main_pages": 32,
+    "workbook_pages": 17,
+    "main_layout": {
+      "page_count": 32,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook_layout": {
+      "page_count": 17,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "graphical_validation_passed": true
+  },
+  "defects": [
+    "All 6 solved PYQ/original Mains items lack explicit answer-specific `How to improve this answer` guidance.",
+    "All 6 solved items lack explicit directive-and-demand decoding.",
+    "All 6 solved items lack an executable mark-scaled compression plan.",
+    "The package lacks an explicit learning-goal, syllabus-boundary and answer-transition contract.",
+    "The stored ASCII/graphical source contains 8 conclusive dangling sentence fragment(s), so the flows are not independently safe."
+  ]
+}

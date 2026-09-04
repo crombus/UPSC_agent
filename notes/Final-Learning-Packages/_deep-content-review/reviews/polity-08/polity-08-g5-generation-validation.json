@@ -1,0 +1,15 @@
+{
+  "selection": "polity-08-g5-intermediate-revalidation",
+  "passed": true,
+  "topic_count": 1,
+  "topics": [
+    {
+      "topic_key": "polity-08",
+      "record_id": "polity-08:learner-v2:g5",
+      "generation": 5,
+      "passed": true,
+      "errors": [],
+      "score": 88
+    }
+  ]
+}

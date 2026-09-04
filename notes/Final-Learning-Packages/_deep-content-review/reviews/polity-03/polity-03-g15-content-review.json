@@ -1,0 +1,27 @@
+{
+  "identity": "polity-03:learner-v2:g15",
+  "score": 66,
+  "status": "changes_suggested",
+  "approved": false,
+  "immutable": true,
+  "hard_gate_failures": [
+    "2021 GS-I Q90 solved incorrectly",
+    "2023 GS-I Q84 solved incorrectly",
+    "stale g2/g12 identity metadata",
+    "non-strict MCQ sequence",
+    "incomplete matching flow masters"
+  ],
+  "issues": [
+    "wrong workbook H1",
+    "missing answer-specific improvement guidance",
+    "missing exact/cross-owned PYQ controls",
+    "overbroad Advanced claims",
+    "graphical repaired-in-place wording"
+  ],
+  "artifact_hashes": {
+    "session": "3c19f378bd335c018dd87488cde80130c9ddd840b4bb127cd184b91836288de0",
+    "workbook": "bec52e38a85c2117949a5fc2deff4b424aa7f7cc39996bd3b90c3d3121cd64ed",
+    "poster": "d6018377f504df300153d72db6b6d88976002e4f62341dbf9d62b4c94938eee7",
+    "ascii": "97a1802cf74b1baa25300e14107b4943be8f98673125fae1af2e50f5c78ec50d"
+  }
+}

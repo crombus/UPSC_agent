@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-28",
+  "record_id": "polity-28:learner-v2:g3",
+  "score": 95,
+  "status": "failed_manual_review",
+  "approval": false,
+  "issues": [
+    "Six ASCII title lines exceeded the 100-character hard gate; maximum width 113."
+  ],
+  "preserved": true
+}

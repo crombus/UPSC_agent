@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-17",
+  "identity": "polity-17:learner-v2:g5",
+  "audited_on": "2026-08-28T12:25:00+05:30",
+  "approval": false,
+  "source_hashes": {
+    "matched": 31,
+    "total": 31,
+    "mismatches": []
+  },
+  "content_metrics": {
+    "core_sessions": 20,
+    "mcq_keys": 48,
+    "how_to_improve_blocks": 15,
+    "why_earns_marks_blocks": 15,
+    "ellipsis_count": 0,
+    "replacement_glyph_count": 0,
+    "ascii_panels": 12,
+    "graphical_core_stages": 12
+  },
+  "artifacts": {
+    "complete_learning_session": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\17-Parliament\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+      "sha256": "99218f065849e21484fdb589a20ef14aa1fd081a58f3a01addb97a9d3c1108dc",
+      "bytes": 695153,
+      "pages": 71,
+      "minimum_text_characters": 413
+    },
+    "solved_practice_workbook": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\17-Parliament\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+      "sha256": "4b1c11a4485b64eaa0622efe3da7c26c38d3a43cd6f51776a0896566b66044d7",
+      "bytes": 525152,
+      "pages": 23,
+      "minimum_text_characters": 412
+    },
+    "graphical_poster": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\17-Parliament\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+      "sha256": "e1e7127b8a1ed450195900315adf4a96f225f6b037998933962545319f055505",
+      "bytes": 2142727,
+      "pages": 1,
+      "minimum_text_characters": 0
+    },
+    "ascii_master": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\17-Parliament\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+      "sha256": "1bbd52e12a28df70814c16c54b94e47259b6a5e9cd2b9be1008197b33eed0873",
+      "bytes": 58665,
+      "pages": 12,
+      "minimum_text_characters": 506
+    }
+  },
+  "layout_errors": [],
+  "tracker_aware_validation": "passed",
+  "focused_tests": "38 passed",
+  "passed": true
+}

@@ -1,0 +1,14 @@
+{
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-05",
+  "locked_at": "2026-08-29T17:29:34.260359+00:00",
+  "master_tracker_identity": "philosophy-paper-ii-philosophy-of-religion-05:learner-v2:g11",
+  "generation": 11,
+  "approval": false,
+  "hashes": {
+    "markdown": "d4cd8215aa7d533733c99d77aa0f9bfaf3cc6422839640a946ced172eebc6070",
+    "main_pdf": "f93a60c61cc9c0a8c66a855e397a83f05836957691a320da84d17c2fe5663d26",
+    "workbook": "b620b78a303b29ecc74fc1dc4d752adac1b3253505eca0fcf2f8063d16f57584",
+    "graphical_master": "5caf67b6d08c378bd08b31646ea12f54859accb138882d4a6e448760ea8596ef",
+    "ascii_master": "0af33d70dd440a9c6e41b31227a7d929c1f9aa91c445ac296dff804a50b100cf"
+  }
+}

@@ -1,0 +1,169 @@
+ASCII MASTER FLOW — PANEL 1/9: Ombudsman evolution and the statutory anti-corruption design
+ROOT QUESTION
+How can high public office be investigated without merging complaint, police and court?
+
+1809 Sweden -> ombudsman model.
+1966 First ARC -> Union Lokpal + State Lokayuktas.
+1968 onward -> repeated Bills.
+2013 Act -> assent 1 January 2014 -> commencement 16 January 2014.
+
+LEGAL IDENTITY
+statutory | corruption-specific | Union institution | no general suo-motu route.
+
+CORE DISTINCTION
+Lokpal directs a legal process; the Special Court decides criminal guilt.
+
+ASCII MASTER FLOW — PANEL 2/9: Composition, selection, search, tenure and removal lifecycle
+COMPOSITION
+Chairperson + not more than eight Members.
+50% of Members judicial | at least 50% of Members from named social categories.
+
+SELECTION COMMITTEE
+PM | Lok Sabha Speaker | Lok Sabha LoP | CJI or nominee | eminent jurist.
+
+SEARCH COMMITTEE
+assists with a panel; it does not appoint and its panel is not the final decision.
+
+TENURE
+five years or age seventy, whichever earlier | no reappointment.
+
+REMOVAL
+President + Supreme Court inquiry for misbehaviour; statutory direct grounds are separate.
+
+Common Cause v. Union of India (2017)
+vacancy did not make the Act unworkable or create a substitute committee seat.
+
+ASCII MASTER FLOW — PANEL 3/9: Jurisdiction map: Prime Minister, MPs, officials and covered entities
+PERSONAL REACH
+PM | Union Ministers | MPs | Groups A-D | specified financed/foreign-funded entities.
+
+PM FILTER
+excluded subjects: international relations | external/internal security | public order
+| atomic energy | space.
+Full bench + at least two-thirds approval | in-camera inquiry | record controls.
+
+MP FIREWALL
+speech or vote protected by Article 105(2) is outside the statutory route.
+
+Sita Soren (2024) v. Union of India
+legislative bribery is not constitutionally immunised merely because it relates to a vote.
+
+TRAP
+wide personal jurisdiction != unrestricted subject-matter jurisdiction.
+
+ASCII MASTER FLOW — PANEL 4/9: Complaint-to-trial chain with natural justice and statutory timelines
+PRESCRIBED COMPLAINT
+identity + form + allegation + supporting material -> Registry scrutiny.
+
+LOKPAL CHOICE
+preliminary inquiry | direct investigation | in-limine closure within legal bounds.
+
+PRELIMINARY INQUIRY
+prima facie screen -> public-servant hearing -> report ordinarily within ninety days
+with recorded extension.
+
+INVESTIGATION
+evidence collection -> report ordinarily within six months with recorded extensions.
+
+THREE-MEMBER BENCH
+closure | departmental action | sanction/prosecution route.
+
+END POINT
+Prosecution Wing or agency -> Special Court -> conviction or acquittal.
+
+ASCII MASTER FLOW — PANEL 5/9: Wings, CVC, CBI and superintendence without institutional merger
+INQUIRY WING
+preliminary inquiry and prima facie assessment.
+
+PROSECUTION WING
+files and conducts prosecution when Lokpal directs.
+
+CVC ROUTE
+specified Groups A-D preliminary-inquiry categories under the statutory distribution.
+
+CBI / DSPE ROUTE
+criminal investigation; Lokpal superintendence is confined to Lokpal-referred matters.
+Investigating-officer transfer in a referred matter needs Lokpal approval.
+
+VIGILANCE / WHISTLEBLOWER / GRIEVANCE
+distinct entry tests and outputs; no automatic jurisdictional substitution.
+
+LIMIT
+superintendence != power to dictate a predetermined investigative result.
+
+ASCII MASTER FLOW — PANEL 6/9: Powers, assets, limitation, attachment and Special Court control
+PROCESS POWERS
+search/seizure | civil-court powers | provisional attachment | prosecution sanction.
+
+ATTACHMENT
+recorded reasons + suspected corruption proceeds + maximum ninety-day provisional order
+-> material sent to Special Court -> confirmation, refusal or later restoration.
+
+SECTION 44
+2016 substitution -> assets/liabilities in prescribed form and manner.
+Checked official material did not yield a later fresh replacement form-and-manner rule.
+
+LIMITATION
+complaint barred after seven years from the alleged offence.
+
+FALSE COMPLAINT
+statutory safeguard requires legal proof; it must not deter bona fide disclosures.
+
+Lok Prahari v. Union of India (2018)
+electoral disclosure case; it did not restore the pre-2016 Lokpal return format.
+
+ASCII MASTER FLOW — PANEL 7/9: Lokayuktas: State-law variation inside a common federal objective
+SECTION 63
+each State shall establish a Lokayukta by State law.
+
+VARIATION AXES
+single/member body | selection panel | tenure | jurisdiction | suo-motu power
+| minister coverage | investigation support | recommendation/enforcement route.
+
+DO NOT UNIVERSALISE
+one State's Governor panel, age, term, Upalokayukta or report consequence.
+
+FEDERAL GAIN
+State adaptation and experimentation.
+
+FEDERAL RISK
+uneven minimum protection, vacancies and dependence on State agencies.
+
+REFORM
+model baseline + State autonomy + transparent appointments + public follow-up.
+
+ASCII MASTER FLOW — PANEL 8/9: Cases, independence deficits, accountability controls and reform priorities
+CASE SPINE
+Common Cause v. Union of India (2017) -> appointment cannot be blocked by committee vacancy.
+Lok Prahari v. Union of India (2018) -> electoral disclosure, not section 44 rulemaking.
+Sita Soren (2024) v. Union of India -> bribery outside legislative privilege immunity.
+
+2025 HIGH COURT-JUDGE ISSUE
+Supreme Court stay is interlocutory control; jurisdiction is not finally expanded.
+
+INDEPENDENCE RISKS
+executive weight in selection | vacancy | agency reliance | opaque closure | capacity gaps.
+
+ACCOUNTABILITY CONTROLS
+reasons | hearing | judicial review | Special Court | reports | removal safeguards.
+
+REFORM
+timely vacancies + clear section 44 rules + interoperable tracking + reasoned publication.
+
+ASCII MASTER FLOW — PANEL 9/9: UPSC traps, PYQ route and qualified answer synthesis
+PRELIMS FIREWALL
+statutory, not constitutional | maximum eight Members | PM included with filters
+| speech/vote exclusion | no general suo-motu power | seven-year limitation
+| referred-case CBI superintendence only | Lokayukta design varies.
+
+2025 PRELIMS ROUTE
+jurisdiction + composition -> test percentage denominator, PM safeguards and privilege.
+
+MAINS SPINE
+ombudsman evolution -> legal identity -> composition/independence
+-> jurisdiction -> complaint-to-court process -> agency interfaces
+-> powers and safeguards -> State variation -> capacity reform.
+
+VERDICT
+Lokpal has real process powers, but credibility depends on appointments, agency autonomy,
+reasoned transparency and court-controlled legality rather than institutional mythology.

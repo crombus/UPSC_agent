@@ -1,0 +1,35 @@
+{
+  "topic_key": "polity-11",
+  "reviewed_identity": "polity-11:learner-v2:g3",
+  "review_date": "2026-08-28",
+  "score": {
+    "complete_learning_session": 39,
+    "solved_practice_workbook": 29,
+    "graphical_flowchart": 15,
+    "ascii_master_flowchart": 15,
+    "total": 98
+  },
+  "status": "passed",
+  "approved": false,
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": true,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": true,
+    "current_data_source_dated": true
+  },
+  "validation": {
+    "complete_learning_session_pages": 53,
+    "solved_workbook_pages": 16,
+    "graphical_poster_pages": 1,
+    "graphical_tiled_pages": 4,
+    "ascii_master_pages": 11,
+    "mcq_count": 32,
+    "mcq_rotation": "ABCD x 8",
+    "answer_improvement_blocks": 9,
+    "focused_tests_passed": 38,
+    "export_validator": "passed"
+  }
+}

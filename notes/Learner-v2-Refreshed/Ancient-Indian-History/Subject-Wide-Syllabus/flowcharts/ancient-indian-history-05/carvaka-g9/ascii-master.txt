@@ -1,0 +1,328 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Neolithic & Chalcolithic Cultures: central question and analytical axes
+
+```ascii-master
+NEOLITHIC & CHALCOLITHIC CULTURES — CONCEPTUAL ATLAS
+
+
+KEY TERMS: Meaning • Chronology - Neolithic • Neolithic-Chalcolithic • Chalcolithic •
+KEY TERMS: MEANING AND CHRONOLOGY - NEOLITHIC… • Regional Map In Text - The Indian…
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Neolithic & Chalcolithic Cultures
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       The safest chronology is regional and site-based rather than a…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: MEANING AND CHRONOLOGY - NEOLITHIC, NEOLITHIC-CHALCOLITHIC AND…
+  • Meaning
+  • Neolithic conventionally combines food production with ground…
+AXIS 2: REGIONAL MAP IN TEXT - THE INDIAN NEOLITHIC MOSAIC
+  • Regional Map In Text - The Indian Neolithic Mosaic
+  • Similar tools may reflect convergent adaptation, interaction or…
+AXIS 3: AHAR-BANAS CULTURE - RIVER VALLEYS, COPPER, FARMING AND…
+  • Ahar-Banas Culture - River Valleys
+  • Balathal fauna was dominated by domesticates, especially cattle…
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  Meaning • Chronology - Neolithic • Neolithic-Chalcolithic • Chalcolithic
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Food production: chronology, domestication, tools, pottery and settlement
+
+```ascii-master
+FOOD PRODUCTION: CHRONOLOGY, DOMESTICATION, TOOLS, POTTERY AND SETTLEMENT
+
+
+KEY TERMS: Meaning • Chronology - Neolithic • Neolithic-Chalcolithic • Chalcolithic •
+KEY TERMS: MEANING AND CHRONOLOGY - NEOLITHIC… • Transition From Foraging To Food…
+STAGE 01  MEANING AND CHRONOLOGY - NEOLITHIC, NEOLITHIC-CHALCOLITHIC AND…
+  ├─ CONDITION / TERM: The safest chronology is regional and site-based rather
+  ├─ CONDITION / TERM: than a…
+  ├─ CHANGE / MECHANISM: Neolithic conventionally combines food production with
+  ├─ CHANGE / MECHANISM: ground…
+  └─ OUTCOME: NEO is not one date
+                  │
+                  ▼
+STAGE 02  TRANSITION FROM FORAGING TO FOOD PRODUCTION - MOSAIC, NOT LADDER
+  ├─ CONDITION / TERM: Transition is best understood as a changing portfolio of…
+  ├─ CHANGE / MECHANISM: Complex foraging and intensive use of wild plants could
+  ├─ CHANGE / MECHANISM: precede…
+  └─ OUTCOME: Mixed subsistence is normal, not transitional failure
+                  │
+                  ▼
+STAGE 03  WHY DOMESTICATION?
+  ├─ CONDITION / TERM: Environmental improvement can encourage domestication as
+  ├─ CONDITION / TERM: much as…
+  ├─ CHANGE / MECHANISM: Environmental improvement can encourage domestication as
+  ├─ CHANGE / MECHANISM: much as…
+  └─ OUTCOME: Social motives such as feasting, exchange, inheritance and…
+                  │
+                  ▼
+STAGE 04  DOMESTICATION OF PLANTS - DIRECT EVIDENCE, INDIRECT EVIDENCE AND RICE…
+  ├─ CONDITION / TERM: Cultivation is not identical to full domestication
+  ├─ CHANGE / MECHANISM: A crop package can combine local domestication, adoption
+  ├─ CHANGE / MECHANISM: and…
+  └─ OUTCOME: Cultivation is not identical to full domestication
+                  │
+                  ▼
+STAGE 05  DOMESTICATION OF ANIMALS - HERD STRUCTURE, MORPHOLOGY AND HUMAN…
+  ├─ CONDITION / TERM: One small bone cannot establish domestication
+  ├─ CHANGE / MECHANISM: Mehrgarh shows declining wild gazelle and rising cattle,
+  ├─ CHANGE / MECHANISM: sheep and…
+  └─ OUTCOME: Burzahom retained hunting and fishing while also using domestic…
+                  │
+                  ▼
+STAGE 06  POLISHED STONE, MICROLITHS, BONE TOOLS AND THE PERSISTENCE OF OLDER…
+  ├─ CONDITION / TERM: Technology layers overlap
+  ├─ CHANGE / MECHANISM: Tool choice depends on cost, repairability, raw materials
+  ├─ CHANGE / MECHANISM: and task…
+  └─ OUTCOME: Bone and antler industries were especially prominent at Burzahom…
+                  │
+                  ▼
+SEQUENCE CONTROL: chronology is evidence-led, not a bare dynasty/date list.
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Labour, demography, hierarchy and regional Neolithic sequences
+
+```ascii-master
+LABOUR, DEMOGRAPHY, HIERARCHY AND REGIONAL NEOLITHIC SEQUENCES
+
+
+KEY TERMS: Subsistence • Labour • Health • Demographic Consequences • SUBSISTENCE, LABOUR,
+KEY TERMS: HEALTH AND… • Crafts
+CAUSE / CONDITION 1: Farming could raise aggregate food availability and support…
+          │
+          ├── MECHANISM
+          │   Food production increased carrying capacity but could distribute…
+          │
+          └── EFFECT / CONTRAST
+              More food does not guarantee better nutrition
+          │
+          ▼
+CAUSE / CONDITION 2: Exchange can move raw materials, finished goods, people and…
+          │
+          ├── MECHANISM
+          │   Use exchange to connect ecology with society: specialized zones…
+          │
+          └── EFFECT / CONTRAST
+              Early villages were not isolated subsistence units
+          │
+          ▼
+CAUSE / CONDITION 3: Inamgaon has interpreted craft quarters, central elite…
+          │
+          ├── MECHANISM
+          │   Inamgaon has interpreted craft quarters, central elite structures…
+          │
+          └── EFFECT / CONTRAST
+              Differences in house size, settlement position, diet, burial…
+          │
+          ▼
+CAUSE / CONDITION 4: Malwa and Jorwe contexts include fire installations…
+          │
+          ├── MECHANISM
+          │   Malwa and Jorwe contexts include fire installations, figurines and…
+          │
+          └── EFFECT / CONTRAST
+              Inamgaon has unusual urn and symbolic burials as well as temporary…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Eastern and southern Neolithic; ash mounds and Chalcolithic transition
+
+```ascii-master
+EASTERN AND SOUTHERN NEOLITHIC; ASH MOUNDS AND CHALCOLITHIC TRANSITION
+│
+├── KEY CONCEPTS
+│   ├── Eastern India - Representative Sequence
+│   ├── Chirand
+│   ├── Bihar
+│   ├── Neolithic-Chalcolithic
+│   └── Other
+│
+├── EASTERN INDIA - REPRESENTATIVE SEQUENCE
+│   ├─ TERMS: Other eastern sites show regional spread, but do not memorise an…
+│   ├─ LOGIC: Other eastern sites show regional spread, but do not memorise an…
+│   └─ RESULT: other eastern sites show regional spread
+├── NORTH-EAST NEOLITHIC - REGIONAL CAUTION
+│   ├─ TERMS: North-east evidence is regionally important but uneven
+│   ├─ LOGIC: Use it to reject an all-India sequence
+│   └─ RESULT: north-east evidence is regionally important but uneven
+├── SOUTH INDIAN NEOLITHIC - CHRONOLOGY, LANDSCAPE AND REGIONAL…
+│   ├─ TERMS: South Indian Neolithic was not a copy of Mehrgarh
+│   ├─ LOGIC: The link between Mesolithic and Neolithic phases in the far south…
+│   └─ RESULT: Ash mounds are regional, not universal
+├── ASH MOUNDS - FORMATION, FUNCTION AND COMPETING INTERPRETATIONS
+│   ├─ TERMS: Present the debate as a hierarchy of confidence: dung origin is
+│   ├─ TERMS: strong
+│   ├─ LOGIC: Present the debate as a hierarchy of confidence: dung origin is…
+│   └─ RESULT: Dung origin does not settle social meaning
+├── SOUTH INDIAN CASE RECALL
+│   ├─ TERMS: Retain one southern comparison: cattle-centred lifeways, polished…
+│   ├─ LOGIC: Retain one southern comparison: cattle-centred lifeways, polished…
+│   └─ RESULT: extra site names are supporting detail, not a core inventory
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Copper cultures: Ganeswar, Ahar, Kayatha, Malwa and Jorwe
+
+```ascii-master
+COPPER CULTURES: GANESWAR, AHAR, KAYATHA, MALWA AND JORWE
+
+
+KEY TERMS: Ganeshwar-Jodhpura - Copper Zone • Craft Centre • Harappan Contact • Settlement •
+KEY TERMS: GANESHWAR-JODHPURA - COPPER ZONE, CRAFT… • Ahar-Banas Culture - River Valleys
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ GANESHWAR-JODHPURA -   │ Ore-zone communities may have │ Ore-zone communities may have │
+│ COPPER ZONE, CRAFT     │ supplied both rural           │ supplied both rural           │
+│ CENTRE AND HARAPPAN    │ neighbours and…               │ neighbours and…               │
+│ CONTACT                │                               │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ AHAR-BANAS CULTURE -   │ Compare Ahar, Gilund,         │ Compare Ahar, Gilund,         │
+│ RIVER VALLEYS, COPPER, │ Balathal and Pachamta to show │ Balathal and Pachamta to show │
+│ FARMING AND            │ internal…                     │ internal…                     │
+│ SETTLEMENT…            │                               │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ KAYATHA CULTURE -      │ Kayatha is in the Malwa       │ Use Kayatha to discuss wealth │
+│ EARLY MALWA SEQUENCE,  │ regional sequence             │ concentration, cultural       │
+│ WEALTH AND ABRUPT      │                               │ contact and…                  │
+│ BREAK                  │                               │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ MALWA CULTURE -        │ Malwa pottery is rich in form │ Fire installations and        │
+│ NAVDATOLI, ERAN, NAGDA │ and motif                     │ decorated vessels have been   │
+│ AND DECCAN SPREAD      │                               │ interpreted…                  │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ WESTERN DECCAN -       │ Western Deccan sequences show │ western Deccan sequences show │
+│ SEQUENCE CAUTION       │ overlap and reorganisation    │ overlap and reorganisation    │
+│                        │ across cultural labels        │ across…                       │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: OCP, regional comparison, evidence limits and social consequences
+
+```ascii-master
+OCP, REGIONAL COMPARISON, EVIDENCE LIMITS AND SOCIAL CONSEQUENCES
+
+
+KEY TERMS: Ocp • Copper Hoards • The Upper Ganga - Association Without… • Celts, harpoons,
+KEY TERMS: antennae swords and… • OCP, COPPER HOARDS AND THE UPPER GANGA… • Neolithic
+                 CLAIM / SYSTEM UNDER EXAMINATION
+                                  │
+                                  ▼
+PROBLEM / OBJECTION 1
+  ├─ ISSUE: use OCP to demonstrate the difference between an artefact horizon…
+  ├─ RESPONSE / CONTROL: Hoards imply sophisticated metalworking but their users
+  ├─ RESPONSE / CONTROL: are…
+  └─ QUALIFIED VERDICT: Metal skill does not require nomadism or urbanism
+                  │
+                  ▼
+PROBLEM / OBJECTION 2
+  ├─ ISSUE: These formations overlap chronologically and interacted materially…
+  ├─ RESPONSE / CONTROL: Daimabad includes a late Harappan phase within a longer
+  ├─ RESPONSE / CONTROL: Deccan…
+  └─ QUALIFIED VERDICT: Harappan demand may have stimulated rural resource
+  └─ QUALIFIED VERDICT: specialization…
+                  │
+                  ▼
+PROBLEM / OBJECTION 3
+  ├─ ISSUE: Absence of evidence can reflect preservation or research history…
+  ├─ RESPONSE / CONTROL: New methods can change old interpretations
+  └─ QUALIFIED VERDICT: These are analytical constructs and cannot independently
+  └─ QUALIFIED VERDICT: establish…
+                  │
+                  ▼
+PROBLEM / OBJECTION 4
+  ├─ ISSUE: mehrgarh, Kashmir, the Ganga valley and south India are comparison…
+  ├─ RESPONSE / CONTROL: A technological label names an archaeological pattern
+  └─ QUALIFIED VERDICT: In a Mains answer, use "mosaic", "regional" and "overlap"
+  └─ QUALIFIED VERDICT: to avoid…
+                                  │
+                                  ▼
+FINAL CONTROL: preserve the strongest insight while stating its limit.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Neolithic & Chalcolithic Cultures: traps, PYQ routes and applied recall
+
+```ascii-master
+NEOLITHIC & CHALCOLITHIC CULTURES: TRAPS, PYQ ROUTES AND APPLIED RECALL
+
+
+KEY TERMS: Meaning • Chronology - Neolithic • Neolithic-Chalcolithic • Chalcolithic •
+KEY TERMS: MEANING AND CHRONOLOGY - NEOLITHIC… • Transition From Foraging To Food…
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── INFERENCE: Labels are useful for comparison but must be applied…
+├── The 2025 radiocarbon revision must be presented alongside, not…
+├── Absence of grain remains in excavation is not proof of no farming
+├── it does not mean iron, automatic urbanism or a failed version of…
+│
+├── Verified Question - 2021 Prelims GS-I Q37 (Inferred Answer/Key — Not…
+├── Original Mains 1 - 10 marks: Mosaic Transition
+├── Question (150 words): Why should the transition to food production in…
+├── Original Mains 2 - 10 marks: Ash Mounds
+│
+└── Chalcolithic denotes the use of copper alongside stone, not an…
+└── Extra site names are supporting detail, not a core inventory
+└── Chalcolithic means copper plus stone
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Neolithic & Chalcolithic Cultures: integrated revision and answer-writing spine
+
+```ascii-master
+NEOLITHIC & CHALCOLITHIC CULTURES — ANSWER / REVISION SPINE
+
+
+KEY TERMS: Meaning • Chronology - Neolithic • Neolithic-Chalcolithic • Chalcolithic •
+KEY TERMS: MEANING AND CHRONOLOGY - NEOLITHIC… • Transition From Foraging To Food…
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ The safest chronology is regional and site-based rather than a…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ Meaning
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ Mehrgarh demonstrates that early village formation was already…
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ Neolithic-Chalcolithic
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ it does not mean iron, automatic urbanism or a failed version of…
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ Chalcolithic means copper plus stone
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

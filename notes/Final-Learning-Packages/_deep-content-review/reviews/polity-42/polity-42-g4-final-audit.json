@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "record_id": "polity-42:learner-v2:g4",
+  "score": 98,
+  "status": "passed_revalidation",
+  "approval": false,
+  "hard_gates": {
+    "sessions": 28,
+    "mcqs": 48,
+    "rotation": "A-B-C-D x12",
+    "guidance_pairs": 9,
+    "ellipsis": 0,
+    "replacement_glyphs": 0,
+    "ascii_panels": 12,
+    "ascii_max_width": 96,
+    "pdf_pages": {
+      "learning": 76,
+      "workbook": 16,
+      "poster": 1,
+      "tiled": 5,
+      "ascii": 12
+    },
+    "tests_passed": 38
+  },
+  "manual_review": "passed across learning session, workbook, graphical flowchart and ASCII master"
+}

@@ -1,0 +1,14 @@
+{
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-03",
+  "locked_at": "2026-08-30T05:29:21.766186+00:00",
+  "master_tracker_identity": "philosophy-paper-ii-socio-political-philosophy-03:learner-v2:g2",
+  "generation": 2,
+  "approval": false,
+  "hashes": {
+    "markdown": "fc8dfe8ba6bef8e0874afa937ae5ab164f24e3adb5d488d3e04a914a74c6039a",
+    "main_pdf": "a741bd0f6db1c277ba56ca13aacfbce3a8445335d1adabbcd7809886f09959e7",
+    "workbook": "f032f0a5042078c9840810d6e29c68f1a181ef0c52d635dfef9a0893209e0f18",
+    "graphical_master": "51faa35f903fa12436301a0640671cb68235298d8d3a4809169f8abc6c6f4356",
+    "ascii_master": "f7b5a5cc8d89b87d39af3bb99e59aa5fe41710ab7038d0c7c6f05154b9f104f6"
+  }
+}

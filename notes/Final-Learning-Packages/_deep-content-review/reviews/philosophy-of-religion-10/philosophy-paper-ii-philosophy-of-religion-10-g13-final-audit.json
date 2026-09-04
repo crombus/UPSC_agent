@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-10",
+  "record_id": "philosophy-paper-ii-philosophy-of-religion-10:learner-v2:g13",
+  "approval": false,
+  "result": "passed",
+  "hard_gates": {
+    "core_and_syllabus_complete": true,
+    "doctrinal_attribution_qualified": true,
+    "pyq_ledger_reconciled_2018_2025": true,
+    "answer_specific_improvement_and_compression": true,
+    "mcq_count_56": true,
+    "mcq_rotation": true,
+    "graphical_and_ascii_consistent": true,
+    "pdf_layout_clean": true
+  },
+  "metrics": {
+    "mcq_count": 56,
+    "main_pages": 65,
+    "workbook_pages": 33,
+    "answer_improvement_blocks": 1
+  },
+  "layout_errors": [],
+  "layout_metrics": {
+    "main": {
+      "page_count": 65,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook": {
+      "page_count": 33,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    }
+  },
+  "hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-10\\g13\\topic-10_Complete-Learning-Session_2026-09-03.md": "e3e92acddadfbd1221564f1d31cb20c88b53ed1962c6decf5be614c42b95732e",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-10\\g13\\topic-10_Solved-Practice-Workbook_2026-09-03.md": "cb78ddf6353f87fb1cad88eea4f73c58875403f506f6cddd07cc3401ae529fbd",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-10\\g13\\topic-10_Complete-Learning-Session_2026-09-03.pdf": "f3d6a165f995e0ed82678a1cd39b1c69c7726e450d82bab9423878f91ba738d3",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-10\\g13\\topic-10_Solved-Practice-Workbook_2026-09-03.pdf": "d5a6960b057124df4915dfd0977879ef58b16e15642da1e80dd99104a96eb04a",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-10\\g13\\validation\\main-visual-audit-map.json": "c5201e19e849c8ed7bfe7225e39c47d7793a6fc9ec184820150a8a9f2ea7a67e",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-10\\g13\\validation\\workbook-visual-audit-map.json": "876869bf711652f1a97f36458004e6300970709bb9fb5acc8a7cde1d2b6b7192",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Philosophy\\philosophy-paper-ii-philosophy-of-religion-10-g13.json": "33fe7abc77d70f736b1728d11527b468d80a7a4d7c8b17ce45827948797c156f",
+    "upsc-ai-kit\\manifests\\v2\\philosophy--paper-ii-philosophy-of-religion-content-specs\\philosophy-paper-ii-philosophy-of-religion-10-g13.json": "3e02a2fbf8b601c28520f562c8a546df35d5bd5995347f00a962ecc92ec81860",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy-paper-ii-philosophy-of-religion-10-g13-2026-09-03.json": "1da2427327b8b1ea16781d357b2aba5098ba8bb68483a6ee833a01ef881c2189",
+    "notes\\Learner-v2-Refreshed\\learning-session-v2\\philosophy-paper-ii-philosophy-of-religion-10\\assets\\religious-language-two-axes.png": "6f928246564b409729959386de833b43cf265a34e1f164c3f9403a155457ae4a",
+    "notes\\Learner-v2-Refreshed\\learning-session-v2\\philosophy-paper-ii-philosophy-of-religion-10\\assets\\topic-10_Teaching-Navigation_2026-08-23.png": "e3a5f87c51b803873d4812d523bf33a98c6cc10fd08835d152bd87cf5422ed8b",
+    "notes\\Learner-v2-Refreshed\\learning-session-v2\\philosophy-paper-ii-philosophy-of-religion-10\\assets\\topic-10_Teaching-Navigation_2026-08-27.png": "44e404c812473e4a66712949fb314863800c5740d6ba14be1a7727b616e6236c",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-10\\carvaka-g13\\ascii-master.pdf": "3e5a9ad51cc148638f7b6d05db0d691d1e5270fa216b05d370d64948e760bfb5",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-10\\carvaka-g13\\ascii-master.txt": "2ab023b8a734da7a9cab960ba0ee2aad004c736e3903fd5ea699549e0e57fb7b",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-10\\carvaka-g13\\build-audit.json": "883f9403e1085983a42c250f9e8d7a471d52c27cbcf38ff8a2708fe6562d2fe0",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-10\\carvaka-g13\\master.png": "c416bc7026142a2e2de14c8da79c8d136f1d61faad2ea97901feedadfdbe0118",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-10\\carvaka-g13\\poster.pdf": "14b561ee1ceb46c59e1dd84e240715f8cf75c3a8cde2853837cbb40cd606599f",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-10\\carvaka-g13\\preservation-hashes.json": "39fdc47a1ba8ba37a5a5564083a667614b5d08936316f90ce45bd34a3eb73c34",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-10\\carvaka-g13\\README.txt": "7d8cc9b37e5e45ecb5667baf188722177eb2551110363ab9983b16aab0b7c421",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-10\\carvaka-g13\\tiled.pdf": "214f591203f83e4a253c6cc3ff09dd57143c792aabaf3ac04d9cd04e0d8c1ae2",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-10\\carvaka-g13\\validation-report.txt": "e5c6fe07404c8fd11cc68aea94b4ee314c01bf306e06cb8660ad38e23adb64e7",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-10\\carvaka-g13\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-10\\carvaka-g13\\editable\\topic-spec.json": "33fe7abc77d70f736b1728d11527b468d80a7a4d7c8b17ce45827948797c156f",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-10\\carvaka-g13\\previews\\contact-sheet-01.png": "f325d8b5dfa7fe33c6a2f669807266b3b4628ccca4c567994c31d3c5ac3a1663",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-10\\carvaka-g13\\previews\\master-overview.png": "cbff146b3704cb38b754ab2582c0656da4732cb21d2edb8f5472557ca28b297b",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-10\\carvaka-g13\\previews\\page-001.png": "e11136b141f2e3ed1ad78720720b795a02561bfca082526c2531baf35ab94611",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-10\\carvaka-g13\\previews\\page-002.png": "6ce42c3bea8004676f754fd028f5b54b5aa83761ab069683c3390d8aec5b1470",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-10\\carvaka-g13\\previews\\page-003.png": "beb0a48d568dbbaeb6954f5908887d4aa2642b220b09da8cfa172e1b02cf19e1",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-10\\carvaka-g13\\previews\\page-004.png": "d7e7eb810c1bfe98f10b29d173aef02fb24850d2952790d63c34782df0c6d3a0"
+  },
+  "baseline_score": 96,
+  "re_review_score": 100,
+  "old_record_id": "philosophy-paper-ii-philosophy-of-religion-10:learner-v2:g12",
+  "new_record_id": "philosophy-paper-ii-philosophy-of-religion-10:learner-v2:g13",
+  "issues_closed": [
+    "pre-existing 27-August doctrine and attribution repairs preserved",
+    "exact ownership and cross-topic boundaries made explicit",
+    "semantic mode, speech function and empirical factuality separated",
+    "Ayer and Flew-Hare-Mitchell-Hick sequence made executable",
+    "Ramanuja, Buddhist, Jain and Mimamsa comparisons completed",
+    "generation-specific embedded/manual/standalone ASCII identity repaired",
+    "graphical artifacts and canonical asset metadata regenerated"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "topic_key": "indian-society-07",
+  "locked_at": "2026-09-02T06:19:03.012107+00:00",
+  "master_tracker_identity": "indian-society-07:learner-v2:g1",
+  "generation": 1,
+  "approval": false,
+  "hashes": {
+    "markdown": "50dc1455cc7b5ede726d26fa08c79bc49e0ca8816845fe3c5b403ca7d1ed4374",
+    "main_pdf": "40b09525ef9c3a8ff173ef97766e76d220f3b1a7b0c8945077b1bf22d9f8fe83",
+    "workbook": "f23c39741cf20d336adce511ca2286973a02838edba4d0e9a191586959a1c587",
+    "graphical_master": "9f2ba13bcfe2c169d3418a2e8e3f563bf69b22c4de96a67c18a81baf18976582",
+    "ascii_master": "e020abb2f875f275eb2ac7844cde60e30f90d362533645b95209c68921873ddc"
+  }
+}

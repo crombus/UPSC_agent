@@ -1,0 +1,8 @@
+{
+  "identity": "polity-05:learner-v2:g16",
+  "score": 97,
+  "status": "changes_suggested",
+  "approved": false,
+  "passed": false,
+  "reason": "The direct source punctuation was corrected, but a substantive J&K holding sentence still ended with punctuation inside a closing quotation; semantic-aid extraction appended another full stop and reproduced possible.\". three times. Preserve g16 and repair the source sentence before a new generation."
+}

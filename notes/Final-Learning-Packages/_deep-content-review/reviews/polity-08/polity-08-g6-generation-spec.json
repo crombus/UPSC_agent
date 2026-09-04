@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-08",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-08",
+  "title": "Directive Principles",
+  "generation_date": "2026-08-28",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Directive Principles — deep-content final revalidation",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-08\\g6-source\\polity-08_g6-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Directive-Principles.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\08_Directive-Principles_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\08_Directive-Principles.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Panchayati-Raj.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md"
+  ],
+  "official_question_sources": [
+    "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf",
+    "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf"
+  ],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf",
+    "books\\Courseware on Indian Polity by M Laxmikanth.pdf"
+  ],
+  "live_sources": [
+    "https://legislative.gov.in/document/constitution-of-india-in-english",
+    "https://api.sci.gov.in/supremecourt/1992/78629/78629_1992_1_1501_57003_Judgement_05-Nov-2024.pdf",
+    "https://api.sci.gov.in/supremecourt/2020/19935/19935_2020_3_1501_56637_Judgement_23-Oct-2024.pdf",
+    "https://ucc.uk.gov.in/government-orders",
+    "https://ucc.uk.gov.in/api/media/file/ucc_amendment6.pdf",
+    "https://pib.gov.in/PressReleasePage.aspx?PRID=2192463"
+  ],
+  "source_files": [
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-08\\g6-source\\polity-08_g6-reviewed-source.md",
+    "tools\\deep_content_quality_overrides.json",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Directive-Principles.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\08_Directive-Principles.md",
+    "upsc-ai-kit\\knowledge\\Polity\\08_Directive-Principles_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-08_Learning-Session.md",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf",
+    "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf",
+    "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-24-sequential-batch.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-08.json"
+  ],
+  "practice_profile": "8 routed PYQs with official/inferred key discipline; 28 original hard MCQs plus 8 remedials in strict ABCD cycle; seven original 10/15/20-mark Mains models plus one solved Mains PYQ; all eight solved answers carry answer-specific improvement guidance.",
+  "current_linkage_note": "Official status checked through 28 August 2026, including Property Owners Association, Suhas Chakma, four Labour Codes and the Uttarakhand UCC Amendment Act dated 7 April 2026.",
+  "pyq_status_note": "2020-2021 Prelims keys remain explicitly inferred; 2023 Mains wording/marks controlled; 2025 Q55 official local Set-A key C.",
+  "mcq_answer_policy": "strict-abcd-cycle",
+  "allow_existing_history": true
+}

@@ -1,0 +1,36 @@
+SOURCE OWNERS
+upsc-ai-kit\knowledge\Polity\basic\Parliamentary-System.md
+upsc-ai-kit\knowledge\Polity\advanced\11_Parliamentary-System.md
+upsc-ai-kit\knowledge\Polity\11_Parliamentary-System_Complete-Topic-Package.md
+
+BATCH REPORT
+notes\Final-Learning-Packages\_deep-content-review\batch-reports\Polity-Batch-02-polity-06-to-polity-10.md
+
+FLOW / TEST PIPELINE
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\polity-11.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\polity-2026-08-24-sequential-batch.json
+tools\test_refresh_all_v2_learning_sessions.py
+
+IMMUTABLE REVIEW RECORDS
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-11\
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\polity-11-parliamentary-system-repair.md
+
+GENERATED IMMUTABLE ARTIFACTS
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-11\g3\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-11\g3\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-11\carvaka-g3\
+
+CENTRAL TRACKERS / LEDGERS / FINAL EXPORT
+EXPORT-PDF-STATUS.json
+EXPORT-PDF-COMMAND-INDEX.md
+V2-SUBJECT-SECTION-COMMAND-INDEX.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\ISSUE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\EVIDENCE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\MD-CHANGE-SUGGESTIONS.md
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\11-Parliamentary-System\
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-28*.json
+notes\Polity\learning-session-v2\subject-wide-syllabus\indexes\

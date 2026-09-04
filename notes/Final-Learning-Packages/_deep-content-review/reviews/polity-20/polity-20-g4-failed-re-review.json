@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-20",
+  "identity": "polity-20:learner-v2:g4",
+  "reviewed_on": "2026-08-28",
+  "approval": false,
+  "status": "failed_revalidation",
+  "score": 97,
+  "hard_gate_failure": "Shared ASCII and graphical specifications retained g3 source metadata.",
+  "preserved": true,
+  "metrics": {
+    "core_sessions": 27,
+    "mcqs": 48,
+    "mcq_rotation": "ABCD x12",
+    "why_guidance": 10,
+    "how_guidance": 10,
+    "semantic_ellipses": 0,
+    "graphical_stages": 13,
+    "ascii_panels": 12
+  }
+}

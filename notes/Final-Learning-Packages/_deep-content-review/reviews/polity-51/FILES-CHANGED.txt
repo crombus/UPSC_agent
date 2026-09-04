@@ -1,0 +1,27 @@
+upsc-ai-kit\knowledge\Polity\basic\Rights-and-Liabilities-of-the-Government.md
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\polity-51-2026-08-25-sequential.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\polity-51.json
+tools\deep_content_quality_overrides.json
+tools\test_refresh_all_v2_learning_sessions.py
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\ISSUE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\EVIDENCE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\MD-CHANGE-SUGGESTIONS.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-51\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\polity-51-g2-repair.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-51\g3-source\polity-51_g3-reviewed-source.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-51\polity-51-g3-generation-spec.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-51\polity-51-g3-validation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-51\polity-51-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-51\polity-51-g3-staged-wrapper.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-51\polity-51-g3-finalization-manifest.json
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-51\g3\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-51\g3\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-51\carvaka-g3\
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\51-Rights-and-Liabilities-of-the-Government\
+EXPORT-PDF-STATUS.json
+EXPORT-PDF-COMMAND-INDEX.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-28.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-28-validation.json

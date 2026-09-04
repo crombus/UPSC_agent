@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "record_id": "polity-40:learner-v2:g4",
+  "score": 97,
+  "status": "revalidation_required",
+  "approval": false,
+  "reason": "Rendered artifacts passed, but canonical source and semantic-control hashes changed after generation; immutable provenance required a fresh generation.",
+  "preserved": true
+}

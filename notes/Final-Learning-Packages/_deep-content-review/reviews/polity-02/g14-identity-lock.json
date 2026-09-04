@@ -1,0 +1,18 @@
+{
+  "locked_at": "2026-08-27T23:59:26.176378+05:30",
+  "master_created_at": "2026-08-27T18:19:57+00:00",
+  "record_id": "polity-02:learner-v2:g14",
+  "generation": 14,
+  "master_tracker_sha256": "30b1049a5ded70924b42eb9a40e6c2e39508ac3a469ffd827ccfc49407f0940e",
+  "artifact_hashes": {
+    "session": "91a657aa802e31af8ae6779ca784a9ee3ec5dfcbb9e4a484d65345f3eed4dc94",
+    "workbook": "e28bb39cfee603a1eecf752456d3d3d8276a0445935414b016d9ffe74babcbde",
+    "poster": "ac43a840b7c7161d29a75cc4b42e4f9535a4e794923608eb142b22adf5fde394",
+    "ascii": "bf966521d41d17c23e848b92f684e898763967ec5b0d4152cdbed1389f6fe0a5"
+  },
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Making-of-the-Constitution.md": "3d960bc91198088c9c86492668d669d341dc51a7c202a0a5e8a683128cf19d30",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\02_Making-of-the-Constitution.md": "9286e00619b148cce4ef2c7f11fe0f1ed2a92f77f3c7ce84a5ecf99740e4dc19",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g14\\polity-02_Complete-Learning-Session_2026-08-23.md": "43f398abb161061a9f10f77410d9e9bb78b632f1609830076c40cf51dfa88d53"
+  }
+}

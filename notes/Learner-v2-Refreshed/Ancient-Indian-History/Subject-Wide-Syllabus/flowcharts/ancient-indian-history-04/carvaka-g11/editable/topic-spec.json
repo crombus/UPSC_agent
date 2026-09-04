@@ -1,0 +1,814 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ancient-indian-history-04",
+  "subject": "Ancient-Indian-History",
+  "title": "THE STONE AGE: PALAEOLITHIC & MESOLITHIC",
+  "short_route": "STONE AGE CHRONOLOGICAL-CLIMATIC SPINE → STONE IS A BEHAVIOURAL → LITHIC SYSTEMS COMPARED → INDIAN SITE MAP: REGION → MOBILITY-SUBSISTENCE-SOCIAL LOOP → ROCK ART AND SYMBOLIC",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g10 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\g10\\ancient-indian-history-04_Complete-Learning-Session_2026-08-23.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-2026-08-23.json",
+  "ascii_spec_sha256": "baf7da5ce98398bca090baed193c39edb2911b01ad2f9aa4e329a4379f259e1c",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "STONE AGE CHRONOLOGICAL-CLIMATIC SPINE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "STONE AGE CHRONOLOGICAL-CLIMATIC SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "PLEISTOCENE HOLOCENE",
+          "role": "outcome"
+        },
+        {
+          "text": "LOWER PALAEOLITHIC",
+          "role": "comparison"
+        },
+        {
+          "text": "MIDDLE PALAEOLITHIC",
+          "role": "evidence"
+        },
+        {
+          "text": "UPPER PALAEOLITHIC",
+          "role": "primary"
+        },
+        {
+          "text": "MESOLITHIC HANDAXE/CLEAVER FLAKES/PREPARED CORES BLADES/BONE/ART MICROLITHS MOBILE LANDSCAPES FLEXIBLE",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSITIONS ARE REGIONALLY STAGGERED; TOOL CHANGE IS NOT A",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PLEISTOCENE HOLOCENE",
+        "Lower Palaeolithic → Middle Palaeolithic → Upper Palaeolithic → Mesolithic handaxe/cleaver flakes/prepared cores blades/bone/art microliths",
+        "reduction wider symbolism diverse niches",
+        "Transitions are regionally staggered; tool change is not a single species timetable."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "PLEISTOCENE HOLOCENE",
+            "Lower Palaeolithic → Middle Palaeolithic → Upper Palaeolithic → Mesolithic handaxe/cleaver flakes/prepared cores blades/bone/art microliths mobile landscapes flexible"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "reduction wider symbolism diverse niches",
+            "Transitions are regionally staggered; tool change is not a single species timetable."
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "PLEISTOCENE HOLOCENE",
+            "Lower Palaeolithic → Middle Palaeolithic → Upper Palaeolithic → Mesolithic handaxe/cleaver flakes/prepared cores blades/bone/art microliths mobile landscapes flexible"
+          ]
+        }
+      ],
+      "mechanism_strip": "Transitions are regionally staggered; tool change is not a single species timetable.",
+      "answer_line": "Transitions are regionally staggered; tool change is not a single species timetable.",
+      "source_references": [
+        "SESSION 1 - GEOLOGICAL CONTEXT",
+        "SESSION 5 - LOWER PALAEOLITHIC",
+        "SESSION 8 - MIDDLE PALAEOLITHIC",
+        "SESSION 9 - UPPER PALAEOLITHIC",
+        "SESSION 14 - MESOLITHIC TRANSITION"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "STONE IS A BEHAVIOURAL ARCHIVE",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "STONE IS A BEHAVIOURAL ARCHIVE",
+          "role": "primary"
+        },
+        {
+          "text": "RAW-MATERIAL NODULE",
+          "role": "evidence"
+        },
+        {
+          "text": "CORE REDUCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "TOOL USE",
+          "role": "evidence"
+        },
+        {
+          "text": "DISCARD SOURCE DISTANCE SKILL/PLANNING EDGE DAMAGE ACTIVITY AREA",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSEMBLAGE + STRATIGRAPHY + DATING + PALAEOENVIRONMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "BEHAVIOURAL INFERENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "A LABELLED TOOL WITHOUT CONTEXT CANNOT ESTABLISH AGE, SPECIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RAW-MATERIAL NODULE → CORE REDUCTION → FLAKE/BLADE → TOOL USE → DISCARD source distance skill/planning",
+        "ASSEMBLAGE + STRATIGRAPHY + DATING + PALAEOENVIRONMENT → BEHAVIOURAL INFERENCE",
+        "A labelled tool without context cannot establish age, species or complete lifeway."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "RAW-MATERIAL NODULE → CORE REDUCTION → FLAKE/BLADE → TOOL USE → DISCARD source distance skill/planning edge damage activity area",
+            "ASSEMBLAGE + STRATIGRAPHY + DATING + PALAEOENVIRONMENT → BEHAVIOURAL INFERENCE"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "A labelled tool without context cannot establish age, species or complete lifeway.",
+            "RAW-MATERIAL NODULE → CORE REDUCTION → FLAKE/BLADE → TOOL USE → DISCARD source distance skill/planning edge damage activity area"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "ASSEMBLAGE + STRATIGRAPHY + DATING + PALAEOENVIRONMENT → BEHAVIOURAL INFERENCE",
+            "A labelled tool without context cannot establish age, species or complete lifeway."
+          ]
+        }
+      ],
+      "mechanism_strip": "A labelled tool without context cannot establish age, species or complete lifeway.",
+      "answer_line": "A labelled tool without context cannot establish age, species or complete lifeway.",
+      "source_references": [
+        "SESSION 3 - LITHIC EVIDENCE GRAMMAR",
+        "SESSION 4 - DATING AND ARCHAEOLOGICAL METHODS"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "LITHIC SYSTEMS COMPARED",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LITHIC SYSTEMS COMPARED",
+          "role": "primary"
+        },
+        {
+          "text": "LOWER MIDDLE UPPER MESOLITHIC BIFACES, CLEAVERS FLAKE TOOLS BLADES",
+          "role": "outcome"
+        },
+        {
+          "text": "TECHNOLOGY RECORDS CHOICES; OLDER TECHNIQUES MAY PERSIST BESIDE NEWER",
+          "role": "comparison"
+        },
+        {
+          "text": "GROWTH HAFTED COMPOSITES QUARTZITE COMMON RAW-MATERIAL ECONOMY SYMBOLIC EVIDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LOWER MIDDLE UPPER MESOLITHIC bifaces, cleavers flake tools blades, burins geometric microliths large cutting tools",
+        "growth hafted composites quartzite common raw-material economy symbolic evidence bow/sickle/barb uses",
+        "Technology records choices; older techniques may persist beside newer ones."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "LOWER MIDDLE UPPER MESOLITHIC bifaces, cleavers flake tools blades, burins geometric microliths large cutting tools prepared-core planning bone/ornament",
+          "Technology records choices; older techniques may persist beside newer ones.",
+          "growth hafted composites quartzite common raw-material economy symbolic evidence bow/sickle/barb uses"
+        ],
+        [
+          "growth hafted composites quartzite common raw-material economy symbolic evidence bow/sickle/barb uses",
+          "LOWER MIDDLE UPPER MESOLITHIC bifaces, cleavers flake tools blades, burins geometric microliths large cutting tools prepared-core planning bone/ornament",
+          "Technology records choices; older techniques may persist beside newer ones."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "LOWER MIDDLE UPPER MESOLITHIC bifaces, cleavers flake tools blades, burins geometric microliths large cutting tools prepared-core planning bone/ornament",
+            "growth hafted composites quartzite common raw-material economy symbolic evidence bow/sickle/barb uses"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Technology records choices; older techniques may persist beside newer ones.",
+            "LOWER MIDDLE UPPER MESOLITHIC bifaces, cleavers flake tools blades, burins geometric microliths large cutting tools prepared-core planning bone/ornament"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "growth hafted composites quartzite common raw-material economy symbolic evidence bow/sickle/barb uses",
+            "Technology records choices; older techniques may persist beside newer ones."
+          ]
+        }
+      ],
+      "mechanism_strip": "Technology records choices; older techniques may persist beside newer ones.",
+      "answer_line": "Technology records choices; older techniques may persist beside newer ones.",
+      "source_references": [
+        "SESSION 5 - LOWER PALAEOLITHIC",
+        "SESSION 8 - MIDDLE PALAEOLITHIC",
+        "SESSION 9 - UPPER PALAEOLITHIC",
+        "SESSION 15 - MICROLITHS"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "INDIAN SITE MAP: REGION, SITE, SIGNIFICANCE",
+      "structural_type": "map/spatial",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INDIAN SITE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "REGION, SITE, SIGNIFICANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "SOAN VALLEY",
+          "role": "comparison"
+        },
+        {
+          "text": "RIVER-TERRACE LITHICS AND SEQUENCE DEBATES",
+          "role": "evidence"
+        },
+        {
+          "text": "BELAN VALLEY",
+          "role": "primary"
+        },
+        {
+          "text": "LONG PREHISTORIC SEQUENCE TOWARD FOOD PRODUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "SHELTERS/ROCK ART",
+          "role": "comparison"
+        },
+        {
+          "text": "MESOLITHIC EVIDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NORTH-WEST: Soan valley → river-terrace lithics and sequence debates",
+        "NORTH: Belan valley → long prehistoric sequence toward food production",
+        "CENTRAL: Bhimbetka → shelters/rock art",
+        "Adamgarh → Mesolithic evidence",
+        "WEST: Bagor → Mesolithic settlement, subsistence and domestication debate"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "NORTH-WEST: Soan valley → river-terrace lithics and sequence debates",
+            "NORTH: Belan valley → long prehistoric sequence toward food production",
+            "CENTRAL: Bhimbetka → shelters/rock art"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Adamgarh → Mesolithic evidence",
+            "WEST: Bagor → Mesolithic settlement, subsistence and domestication debate",
+            "GANGA PLAIN: Sarai Nahar Rai, Mahadaha, Damdama → burials and sedentism"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "SOUTH: Attirampakkam → early Acheulian and Middle Palaeolithic chronology",
+            "DECCAN: Hunsgi-Baichbal → quarry, factory and landscape organisation"
+          ]
+        }
+      ],
+      "mechanism_strip": "DECCAN: Hunsgi-Baichbal → quarry, factory and landscape organisation.",
+      "answer_line": "DECCAN: Hunsgi-Baichbal → quarry, factory and landscape organisation.",
+      "source_references": [
+        "SESSION 7 - ATTIRAMPAKKAM",
+        "SESSION 18 - ROCK ART",
+        "SESSION 19 - MAJOR INDIAN SITES"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "MOBILITY-SUBSISTENCE-SOCIAL LOOP",
+      "structural_type": "institution-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MOBILITY-SUBSISTENCE-SOCIAL LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "SEASONAL RESOURCES",
+          "role": "outcome"
+        },
+        {
+          "text": "MOVEMENT SCHEDULE",
+          "role": "comparison"
+        },
+        {
+          "text": "CAMP TYPE",
+          "role": "evidence"
+        },
+        {
+          "text": "TOOL KIT",
+          "role": "primary"
+        },
+        {
+          "text": "SHARING NETWORK GAME, FISH, PLANTS BASE/SPECIAL CAMP HEARTHS PORTABLE/COMPOSITE",
+          "role": "outcome"
+        },
+        {
+          "text": "REPEATED OCCUPATION AND STORAGE MAY INCREASE WITHOUT FULL FARMING",
+          "role": "comparison"
+        },
+        {
+          "text": "BURIALS SHOW TREATMENT OF PERSONS; RANK NEEDS PATTERNED UNEQUAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SEASONAL RESOURCES → MOVEMENT SCHEDULE → CAMP TYPE → TOOL KIT → SHARING NETWORK game",
+        "Repeated occupation and storage may increase without full farming or permanent villages.",
+        "Burials show treatment of persons; rank needs patterned unequal evidence."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SEASONAL RESOURCES → MOVEMENT SCHEDULE → CAMP TYPE → TOOL KIT → SHARING NETWORK game, fish, plants base/special camp hearths portable/composite",
+            "Repeated occupation and storage may increase without full farming or permanent villages."
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Burials show treatment of persons; rank needs patterned unequal evidence.",
+            "SEASONAL RESOURCES → MOVEMENT SCHEDULE → CAMP TYPE → TOOL KIT → SHARING NETWORK game, fish, plants base/special camp hearths portable/composite"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Repeated occupation and storage may increase without full farming or permanent villages.",
+            "Burials show treatment of persons; rank needs patterned unequal evidence."
+          ]
+        }
+      ],
+      "mechanism_strip": "Burials show treatment of persons; rank needs patterned unequal evidence.",
+      "answer_line": "Burials show treatment of persons; rank needs patterned unequal evidence.",
+      "source_references": [
+        "SESSION 11 - MOBILITY, SETTLEMENT AND SOCIAL LIFE",
+        "SESSION 12 - SUBSISTENCE",
+        "SESSION 17 - BURIALS, RITUAL AND SOCIAL ORGANIZATION"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ROCK ART AND SYMBOLIC LIFE: INFERENCE LADDER",
+      "structural_type": "debate-evidence-verdict",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "ROCK ART AND SYMBOLIC LIFE",
+          "role": "primary"
+        },
+        {
+          "text": "INFERENCE LADDER",
+          "role": "outcome"
+        },
+        {
+          "text": "PIGMENT/ENGRAVING + SUPERIMPOSITION + MOTIF + SHELTER CONTEXT SECURE",
+          "role": "comparison"
+        },
+        {
+          "text": "IMAGE, TECHNIQUE, RELATIVE SEQUENCE AND DEMONSTRATED ASSOCIATION PROBABLE",
+          "role": "evidence"
+        },
+        {
+          "text": "HUNTING, DANCE, GROUP ACTION, ANIMALS AND CHANGING STYLE UNCERTAIN",
+          "role": "primary"
+        },
+        {
+          "text": "EXACT MYTH, DEITY, ARTIST IDENTITY OR DIRECT RITUAL MEANING",
+          "role": "outcome"
+        },
+        {
+          "text": "ART EXPANDS BEHAVIOURAL EVIDENCE BUT IS NOT ILLUSTRATED SCRIPTURE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PIGMENT/ENGRAVING + SUPERIMPOSITION + MOTIF + SHELTER CONTEXT secure: image, technique, relative sequence and demonstrated",
+        "dance, group action, animals and changing style uncertain: exact myth, deity, artist identity or direct",
+        "VERDICT: art expands behavioural evidence but is not illustrated scripture."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "PIGMENT/ENGRAVING + SUPERIMPOSITION + MOTIF + SHELTER CONTEXT secure: image, technique, relative sequence and demonstrated association probable: hunting,",
+            "dance, group action, animals and changing style uncertain: exact myth, deity, artist identity or direct ritual meaning"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "VERDICT: art expands behavioural evidence but is not illustrated scripture.",
+            "PIGMENT/ENGRAVING + SUPERIMPOSITION + MOTIF + SHELTER CONTEXT secure: image, technique, relative sequence and demonstrated association probable: hunting,"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "dance, group action, animals and changing style uncertain: exact myth, deity, artist identity or direct ritual meaning",
+            "VERDICT: art expands behavioural evidence but is not illustrated scripture."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: art expands behavioural evidence but is not illustrated scripture.",
+      "answer_line": "art expands behavioural evidence but is not illustrated scripture.",
+      "source_references": [
+        "SESSION 13 - PALAEOLITHIC ART, ORNAMENT AND CULT EVIDENCE",
+        "SESSION 18 - ROCK ART"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "MESOLITHIC TRANSITION: ADAPTATION, NOT REVOLUTION",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MESOLITHIC TRANSITION",
+          "role": "primary"
+        },
+        {
+          "text": "ADAPTATION, NOT REVOLUTION",
+          "role": "caution"
+        },
+        {
+          "text": "HOLOCENE WARMING + REGIONAL ECOLOGIES SMALL GAME/FISH/PLANT NICHES +",
+          "role": "comparison"
+        },
+        {
+          "text": "UNEVEN PATHWAYS TOWARD NEOLITHIC PRODUCTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HOLOCENE WARMING + REGIONAL ECOLOGIES small game/fish/plant niches + locality + microlithic composite tools seasonal",
+        "selective plant/animal management → uneven pathways toward Neolithic production"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "HOLOCENE WARMING + REGIONAL ECOLOGIES small game/fish/plant niches + locality + microlithic composite tools seasonal mobility repeated/semi-sedentary camps",
+            "selective plant/animal management → uneven pathways toward Neolithic production"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "HOLOCENE WARMING + REGIONAL ECOLOGIES small game/fish/plant niches + locality + microlithic composite tools seasonal mobility repeated/semi-sedentary camps",
+            "selective plant/animal management → uneven pathways toward Neolithic production"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "HOLOCENE WARMING + REGIONAL ECOLOGIES small game/fish/plant niches + locality + microlithic composite tools seasonal mobility repeated/semi-sedentary camps",
+            "selective plant/animal management → uneven pathways toward Neolithic production"
+          ]
+        }
+      ],
+      "mechanism_strip": "HOLOCENE WARMING + REGIONAL ECOLOGIES small game/fish/plant niches + locality + microlithic composite tools seasonal mobility repeated/semi-sedentary camps selective plant/animal management → uneven pathways toward Neolithic production.",
+      "answer_line": "HOLOCENE WARMING + REGIONAL ECOLOGIES small game/fish/plant niches + locality + microlithic composite tools seasonal mobility repeated/semi-sedentary camps selective plant/animal management → uneven pathways toward Neolithic production.",
+      "source_references": [
+        "SESSION 14 - MESOLITHIC TRANSITION",
+        "SESSION 16 - MESOLITHIC SUBSISTENCE, SEDENTARINESS AND DOMESTICATION DEBATES",
+        "SESSION 20 - CONTINUITY AND CHANGE TOWARD THE NEOLITHIC"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "LIMITS AND CURRENT RESEARCH",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "LIMITS AND CURRENT RESEARCH",
+          "role": "primary"
+        },
+        {
+          "text": "SPARSE FOSSILS + DISTURBED SITES + BROAD TOOL LABELS",
+          "role": "outcome"
+        },
+        {
+          "text": "FALSE SHORTCUTS",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE TOOL",
+          "role": "evidence"
+        },
+        {
+          "text": "ONE PEOPLE",
+          "role": "primary"
+        },
+        {
+          "text": "DATE CONTEXTS, RECONSTRUCT REDUCTION SEQUENCE, COMPARE REGIONS, STATE CONFIDENCE",
+          "role": "institution"
+        },
+        {
+          "text": "REFINED CHRONOMETRY AND LANDSCAPE STUDY CAN REVISE EARLY DATES.",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIAN PREHISTORY IS A MOSAIC OF LONG CONTINUITY AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROBLEM: sparse fossils + disturbed sites + broad tool labels + uncertain associations",
+        "FALSE SHORTCUTS: one tool = one people",
+        "innovation = migration",
+        "burial = hierarchy",
+        "RESPONSE: date contexts, reconstruct reduction sequence, compare regions, state confidence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "PROBLEM: sparse fossils + disturbed sites + broad tool labels + uncertain associations",
+            "FALSE SHORTCUTS: one tool = one people",
+            "innovation = migration"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "burial = hierarchy",
+            "RESPONSE: date contexts, reconstruct reduction sequence, compare regions, state confidence",
+            "Refined chronometry and landscape study can revise early dates."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: Indian prehistory is a mosaic of long continuity and episodic innovation."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: Indian prehistory is a mosaic of long continuity and episodic innovation.",
+      "answer_line": "Indian prehistory is a mosaic of long continuity and episodic innovation.",
+      "source_references": [
+        "SESSION 2 - HUMAN EVOLUTION AND THE SPARSE INDIAN HOMININ RECORD",
+        "SESSION 21 - HISTORIOGRAPHICAL DEBATES, SOURCE LIMITATIONS AND CURRENT RESEARCH"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "STONE AGE ANSWER ARCHITECTURE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "STONE AGE ANSWER ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "10 MARKS",
+          "role": "outcome"
+        },
+        {
+          "text": "DEFINE PHASE",
+          "role": "comparison"
+        },
+        {
+          "text": "DIAGNOSTIC TECHNOLOGY",
+          "role": "evidence"
+        },
+        {
+          "text": "TWO SITES",
+          "role": "primary"
+        },
+        {
+          "text": "15 MARKS",
+          "role": "outcome"
+        },
+        {
+          "text": "LITHIC COMPARISON",
+          "role": "comparison"
+        },
+        {
+          "text": "SYMBOLIC EVIDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "10 MARKS: define phase → diagnostic technology → two sites → subsistence → caution",
+        "15 MARKS: chronology → lithic comparison → ecology/mobility → symbolic evidence → limits",
+        "20 MARKS: geological frame → methods → four-stage technology → regional site map",
+        "economy/social life → Mesolithic transition → historiographical verdict",
+        "MUST DISTINGUISH: relative/absolute date; artefact/assemblage; microlith/sedentism."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "10 MARKS: define phase → diagnostic technology → two sites → subsistence → caution",
+            "15 MARKS: chronology → lithic comparison → ecology/mobility → symbolic evidence → limits"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "20 MARKS: geological frame → methods → four-stage technology → regional site map",
+            "economy/social life → Mesolithic transition → historiographical verdict"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "MUST DISTINGUISH: relative/absolute date; artefact/assemblage; microlith/sedentism.",
+            "CLOSE: technology records adaptive choices, not a uniform evolutionary ladder."
+          ]
+        }
+      ],
+      "mechanism_strip": "economy/social life → Mesolithic transition → historiographical verdict",
+      "answer_line": "economy/social life → Mesolithic transition → historiographical verdict.",
+      "source_references": [
+        "ROADMAP, SYLLABUS BOUNDARY AND EVIDENCE DISCIPLINE",
+        "SESSION 21 - HISTORIOGRAPHICAL DEBATES"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "outcome"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "evidence"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "primary"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "comparison"
+        },
+        {
+          "text": "7. MAINS ANGLES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data",
+            "3. Study links"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link",
+            "7. Mains angles"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "She discusses Lower, Middle and Upper Palaeolithic sites separately, including tool types and manufacturing contexts.",
+            "Isampur is treated as a centre of stone-tool manufacture.",
+            "Middle Palaeolithic discussions include Attirampakkam and the Levallois technique.",
+            "Mesolithic levels can yield animal bones and pottery; some claims of domesticated cattle, sheep, goat, dog and pig are questioned."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

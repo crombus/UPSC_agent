@@ -1,0 +1,12 @@
+{
+  "topic_key": "world-history-02",
+  "allocated_at": "2026-09-01T04:53:55.902535+00:00",
+  "baseline_record_id": "world-history-02:learner-v2:g1",
+  "new_record_id": "world-history-02:learner-v2:g2",
+  "review_state": "revalidation_pending",
+  "scores": null,
+  "approval": false,
+  "prior_generation_immutable": true,
+  "live_export_identity": "world-history-02:learner-v2:g1",
+  "live_master_identity": "world-history-02:learner-v2:g1"
+}

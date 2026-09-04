@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-32",
+  "record_id": "polity-32:learner-v2:g3",
+  "baseline_record_id": "polity-32:learner-v2:g2",
+  "baseline_score": 72,
+  "score": 96,
+  "status": "failed_manual_review_prose_integrity",
+  "approval": false,
+  "hard_gate_failure": "Session 11 closure contained cAG and an ellipsis-truncated sentence.",
+  "preserved_generations": [
+    "polity-32:learner-v2:g2",
+    "polity-32:learner-v2:g3"
+  ]
+}

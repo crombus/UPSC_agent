@@ -1,0 +1,14 @@
+{
+  "topic_key": "world-history-19",
+  "locked_at": "2026-09-01T05:43:38.777664+00:00",
+  "master_tracker_identity": "world-history-19:learner-v2:g2",
+  "generation": 2,
+  "approval": false,
+  "hashes": {
+    "markdown": "31e9ff4502ed5055bd0ad95281957fa4981f914112c87b182d8b502cc4ed950c",
+    "main_pdf": "8f4e8164b8e4766dfbbf53a19de8d1bd1d46084e0f11047a0148d9539567ac6a",
+    "workbook": "c439ba65df8001b722518c43ecbb0334113324079601d882f677013f56b8cc63",
+    "graphical_master": "ca4c94dd1cf2a6b55b61f5e8131ba9ec80312c5163a75773a7a7f0fd902ad0b5",
+    "ascii_master": "0c8514dbf0e6e4b18191cb754c50c63a090007e24d07d2de0b1e088b870c7a4d"
+  }
+}

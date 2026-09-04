@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-28",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-28",
+  "title": "UPSC and SPSC",
+  "generation_date": "2026-08-28",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — UPSC and SPSC — deep-content repair",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-28\\g3-source\\polity-28_g3-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\UPSC-and-SPSC.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\28_UPSC-and-SPSC_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\28_UPSC-and-SPSC.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\README.md",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Public-Services.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+  ],
+  "official_question_sources": [],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf"
+  ],
+  "live_sources": [
+    "https://upsc.gov.in/",
+    "https://dopt.gov.in/sites/default/files/OM%20dt%2021.03.2024%20-%20Amendment%20in%20UPSC%20%28Exemption%20from%20Consultation%29%20Regulations%2C%201958.pdf",
+    "https://api.sci.gov.in/jonew/judis/611.pdf",
+    "https://api.sci.gov.in/jonew/judis/9262.pdf"
+  ],
+  "practice_profile": "No directly routed recent PYQ; 36 hard original MCQs; 12 remedials; 8 original solved Mains with answer-specific guidance.",
+  "current_linkage_note": "Constitution, UPSC, DoPT, Public Examinations law and Supreme Court controls checked through 28 August 2026.",
+  "pyq_status_note": "All audited local ledgers searched; no direct routed recent question found, so none invented.",
+  "allow_existing_history": true,
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\UPSC-and-SPSC.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\28_UPSC-and-SPSC.md",
+    "upsc-ai-kit\\knowledge\\Polity\\28_UPSC-and-SPSC_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Public-Services.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+    "books\\Indian Polity by M Laxmikant.pdf",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-28\\g3-source\\polity-28_g3-reviewed-source.md",
+    "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-28-2026-08-24-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-28.json",
+    "tools\\deep_content_quality_overrides.json"
+  ]
+}

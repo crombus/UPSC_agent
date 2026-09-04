@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-35",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-35",
+  "title": "NHRC and SHRC",
+  "generation_date": "2026-08-28",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — NHRC and SHRC — prose-integrity repaired immutable generation",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-35\\g5-source\\polity-35_g5-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\NHRC-and-SHRC.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\35_NHRC-and-SHRC_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\35_NHRC-and-SHRC.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\National-Commissions-SC-ST-BC.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md"
+  ],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf"
+  ],
+  "live_sources": [
+    "https://www.indiacode.nic.in/bitstream/123456789/15709/1/a199410.pdf",
+    "https://nhrc.nic.in/about-us/composition_of_commission",
+    "https://ganhri.org/accreditation/sca-reports/"
+  ],
+  "practice_profile": "Two direct verified Mains PYQs, one supporting Prelims route; 36 original MCQs; 12 remedials; 8 original solved Mains; 10 answer-specific guidance pairs.",
+  "current_linkage_note": "Official legal, NHRC and GANHRI claims controlled to 28 August 2026; volatile composition/count data omitted.",
+  "pyq_status_note": "2018 GS-II Q16 and 2021 GS-II Q12 retained as direct routes; 2023 classification question retained only as supporting cross-link.",
+  "allow_existing_history": true,
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\NHRC-and-SHRC.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\35_NHRC-and-SHRC.md",
+    "upsc-ai-kit\\knowledge\\Polity\\35_NHRC-and-SHRC_Complete-Topic-Package.md",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-35\\g5-source\\polity-35_g5-reviewed-source.md",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-35-2026-08-24-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-35.json",
+    "tools\\deep_content_quality_overrides.json"
+  ]
+}

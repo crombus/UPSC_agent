@@ -1,0 +1,157 @@
+ASCII MASTER FLOW — PANEL 1/9: Party as democratic intermediary, not constitutional sovereign
+ROOT QUESTION
+How can parties aggregate citizens and govern without becoming private constitutional sovereigns?
+
+DEMOCRATIC FUNCTIONS
+representation | aggregation | recruitment | programme choice
+| government | opposition | legislative coordination | accountability.
+
+LEGAL LOCATION
+original Constitution: no comprehensive party code.
+Tenth Schedule: defection only.
+RPA 1951: registration, contribution and disclosure fields.
+Symbols Order 1968: recognition and symbol disputes.
+
+TENSION
+public democratic power <-> Article 19(1)(c) associational autonomy.
+
+ASCII MASTER FLOW — PANEL 2/9: Section 29A registration and ECI's bounded cancellation power
+SECTION 29A
+association applies to ECI -> memorandum/rules -> allegiance declaration
+to Constitution, socialism, secularism, democracy, sovereignty, unity and integrity.
+
+REGISTRATION != RECOGNITION
+registration creates statutory party status;
+recognition follows Symbols Order performance criteria.
+
+Indian National Congress v. Institute of Social Welfare (2002)
+ECI has no general review/deregistration power;
+narrow cancellation survives for fraud, foundational disqualification or analogous grounds.
+
+TRAP
+loss of recognition, symbol consequence and deregistration are different legal events.
+
+ASCII MASTER FLOW — PANEL 3/9: Recognition and symbol architecture without freezing party lists
+SYMBOLS ORDER 1968
+recognised National party | recognised State party | registered-unrecognised party.
+
+NATIONAL: ANY ONE DATED ROUTE
+6% valid votes in four or more States + four Lok Sabha seats
+| 2% Lok Sabha seats from at least three States
+| State-party recognition in four States.
+
+STATE: ANY ONE DATED ROUTE
+vote-plus-seat tests | 3% or three Assembly seats | Lok Sabha ratio route | 8% vote route.
+
+PRIVILEGE
+reserved symbol and specified electoral facilities.
+
+CONTROL
+criteria are Order-based and re-verifiable; do not freeze the current party list.
+
+ASCII MASTER FLOW — PANEL 4/9: Party system evolution, regionalisation and coalition federalism
+EVOLUTION
+1952-1967 Congress system -> 1967 fragmentation
+-> 1977 alternation -> 1989-2014 coalition bargaining
+-> post-2014 central dominance with strong State-party plurality.
+
+PARTY-SYSTEM TYPES
+one-party dominance | two-party tendency | multi-party competition | coalition system.
+
+REGIONAL PARTIES
+identity representation + State autonomy + policy innovation
+<-> personalisation + fragmentation + bargaining cost.
+
+2022 GS-II
+centralisation/autonomy preference follows organisational position and power incentives,
+not a permanent ideological law.
+
+ASCII MASTER FLOW — PANEL 5/9: Internal democracy, membership, candidates and dynastic control
+MEMBERSHIP
+published eligibility -> reliable roll -> notice/hearing for discipline -> appeal.
+
+LEADERSHIP
+periodic election -> real competition -> transparent counting -> State-unit voice.
+
+CANDIDATES
+local consultation + published criteria + integrity + representativeness
+<-> dynasty + money + winnability + central nomination.
+
+CURRENT GAP
+ECI receives organisational particulars but no comprehensive statutory
+internal-democracy code exists.
+
+REFORM LIMIT
+minimum process safeguards must not authorise State selection of ideology or leaders.
+
+ASCII MASTER FLOW — PANEL 6/9: Finance and the electoral-bonds constitutional reset
+PARTY FINANCE CHANNELS
+individual/corporate contribution | electoral trust | cash within law | public facilities.
+
+DISCLOSURE
+RPA Section 29C and tax/company-law rules operate through separate thresholds and filings.
+
+Association for Democratic Reforms v. Union of India (2024)
+Electoral Bond Scheme and enabling anonymity changes struck down;
+voter's Article 19(1)(a) right to information protected;
+SBI disclosure to ECI ordered.
+
+LIMIT
+judgment did not create full State funding, ban every corporate donation
+or enact a complete campaign-finance code.
+
+ASCII MASTER FLOW — PANEL 7/9: Whips, anti-defection and party-symbol identity
+PARTY ORGANISATION
+membership, leadership and candidate selection.
+
+LEGISLATURE PARTY
+members of the House belonging to the political party.
+
+TENTH SCHEDULE
+voluntary giving up | vote/abstention direction | merger | presiding-officer decision.
+
+SYMBOLS ORDER
+ECI decides rival-faction symbol/recognition questions.
+
+Sadiq Ali v. Election Commission of India (1972)
+majority in organisational and legislative wings informs symbol identity.
+
+TRAP
+symbol dispute, internal leadership, whip authorisation and defection are related
+but legally separate proceedings.
+
+ASCII MASTER FLOW — PANEL 8/9: Criminalisation, disclosure and NOTA limits
+        Union of India v. Association for Democratic Reforms (2002) + PUCL (2003)
+candidate affidavit -> criminal, financial and educational disclosure -> informed voter.
+
+Lily Thomas v. Union of India (2013)
+RPA Section 8(4) sitting-member shield removed;
+disqualification still follows conviction, not accusation alone.
+
+Rambabu Singh Thakur v. Sunil Arora (2020)
+party publication of criminal antecedents and selection reasons.
+
+PEOPLE'S UNION FOR CIVIL LIBERTIES (2013)
+negative secret choice recognised.
+
+LIMIT
+NOTA does not automatically cancel the poll, disqualify all candidates or trigger re-election.
+
+ASCII MASTER FLOW — PANEL 9/9: UPSC synthesis: regulate democratic power without nationalising association
+PRELIMS FIREWALL
+29A registration != recognition | reserved != free symbol
+| recognition loss != deregistration | disclosure != disqualification
+| NOTA != re-poll | party != legislature party | bonds verdict != finance code.
+
+MAINS SPINE
+democratic role -> segmented legal basis -> party-system evolution
+-> internal democracy -> finance -> criminalisation -> whip/symbol interfaces
+-> autonomy-transparency balance -> reform.
+
+REFORM PACKAGE
+verified internal elections | candidate criteria | donation transparency
+| independent audit | trial expedition | narrow deregistration amendment
+| proportionate ECI power + judicial review.
+
+VERDICT
+regulate the party's public consequences while preserving its legitimate associational core.

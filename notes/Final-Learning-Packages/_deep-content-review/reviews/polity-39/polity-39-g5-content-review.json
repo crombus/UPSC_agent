@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-39",
+  "record_id": "polity-39:learner-v2:g5",
+  "initial_score": 75,
+  "score": 98,
+  "status": "passed_revalidation_unapproved",
+  "approval": false,
+  "hard_gates_passed": true,
+  "preserved_generations": [
+    2,
+    3,
+    4
+  ]
+}

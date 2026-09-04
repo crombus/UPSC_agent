@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-53",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-53",
+  "title": "Special Provisions Relating to Certain Classes",
+  "generation_date": "2026-08-29",
+  "command": "Generate learner-v2 topic: Polity — Special Provisions Relating to Certain Classes — deep-reviewed immutable successor",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-53\\g3-source\\polity-53_g3-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions-Relating-to-Certain-Classes.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions-Relating-to-Certain-Classes.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\53_Special-Provisions-Relating-to-Certain-Classes.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\National-Commissions-SC-ST-BC.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+  ],
+  "official_question_sources": [
+    "books\\more_previous_papers\\QP_CS_Pre_Exam_2023_280523.pdf",
+    "books\\prelima_question_paper_answers\\2024-GS1-Set A.pdf",
+    "books\\prelima_question_paper_answers\\Ans-2024-GS1.pdf"
+  ],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf"
+  ],
+  "live_sources": [
+    "https://legislative.gov.in/static/uploads/2025/08/415c4ac11019eeed37d4e87e4e8a6831.pdf",
+    "https://censusindia.gov.in/nada/index.php/catalog/45572",
+    "https://api.sci.gov.in/supremecourt/2010/25536/25536_2010_1_1501_54462_Judgement_01-Aug-2024.pdf"
+  ],
+  "practice_profile": "Four exact routed PYQs; 48 hard MCQs in strict A-B-C-D rotation; eight original Mains questions with directive-specific models and guidance.",
+  "current_linkage_note": "Controlled to 29 August 2026; enactment, Gazette commencement, census publication, delimitation and operation remain separate.",
+  "pyq_status_note": "Two direct Prelims PYQs and two supporting cross-owned Mains PYQs reproduced exactly.",
+  "allow_existing_history": true,
+  "mcq_answer_policy": "strict-abcd-cycle",
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions-Relating-to-Certain-Classes.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\53_Special-Provisions-Relating-to-Certain-Classes.md",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-53\\g3-source\\polity-53_g3-reviewed-source.md",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-53-2026-08-25-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-53.json",
+    "tools\\deep_content_quality_overrides.json"
+  ]
+}

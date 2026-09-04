@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-47",
+  "record_id": "polity-47:learner-v2:g5",
+  "score": 98,
+  "status": "passed",
+  "approval": false,
+  "sessions": 15,
+  "mcqs": 48,
+  "rotation": "ABCD x12",
+  "answer_guidance_sets": 16,
+  "exact_pyqs": 8,
+  "ascii_panels": 12,
+  "ascii_max_width": 96,
+  "graphical_core_stages": 12,
+  "pdf_pages": {
+    "learning": 49,
+    "workbook": 18,
+    "poster": 1,
+    "tiled": 5,
+    "ascii": 12
+  },
+  "prose_ellipsis": 0,
+  "replacement_glyphs": 0,
+  "tests": "38 passed",
+  "preserved_generations": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "artifact_sha256": {
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\47-Comparative-Constitutional-Design\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf": "1c6d51dbf672c2a820392e55a1f2e367dab3f53e545a9d46a2254900cf19f927",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\47-Comparative-Constitutional-Design\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": "e8dc64ed2d41fa3b2f02691775fe9cdd14076cd54b60070174904b9995942624",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\47-Comparative-Constitutional-Design\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": "742cf1b104da21f7d5248968097b13eb3bc48b7e61c0a867b5d2b59eaee5b950",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\47-Comparative-Constitutional-Design\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf": "97d184ace2e8e178a514971556b50d76ee8bf7ee87d8fb906d27a5da99390a0d",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\47-Comparative-Constitutional-Design\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": "1a638809dff10478feb2aac5e48f764180e50192eff9dd0332be4db18171158c"
+  }
+}

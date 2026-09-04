@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-46",
+  "record_id": "polity-46:learner-v2:g4",
+  "score": 98,
+  "status": "passed",
+  "approval": false,
+  "sessions": 16,
+  "mcqs": 48,
+  "rotation": "ABCD x12",
+  "answer_guidance_sets": 12,
+  "exact_pyqs": 4,
+  "ascii_panels": 12,
+  "graphical_core_stages": 12,
+  "pdf_pages": {
+    "learning": 49,
+    "workbook": 16,
+    "poster": 1,
+    "tiled": 4,
+    "ascii": 12
+  },
+  "prose_ellipsis": 0,
+  "replacement_glyphs": 0,
+  "tests": "38 passed",
+  "preserved_generations": [
+    2,
+    3,
+    4
+  ]
+}

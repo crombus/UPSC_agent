@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-25",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-25",
+  "title": "Union Territories",
+  "generation_date": "2026-08-28",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Union Territories — deep-content repaired generation",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-25\\g3-source\\polity-25_g3-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-Territories.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\25_Union-Territories_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\25_Union-Territories.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\README.md",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-and-Territory.md",
+    "upsc-ai-kit\\knowledge\\Polity\\05_Union-and-Territory_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\Polity\\22_Special-Provisions_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\Polity\\21_High-Court-and-Subordinate-Courts_Complete-Topic-Package.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md"
+  ],
+  "official_question_sources": [
+    "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf"
+  ],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf",
+    "books\\Courseware on Indian Polity by M Laxmikanth.pdf"
+  ],
+  "live_sources": [
+    "https://legislative.gov.in/constitution-of-india",
+    "https://www.indiacode.nic.in/bitstream/123456789/12030/1/A2019-34.pdf",
+    "https://egazette.nic.in/WriteReadData/2023/248046.pdf",
+    "https://api.sci.gov.in/supremecourt/2018/11254/11254_2018_Judgement_06-Dec-2018.pdf",
+    "https://api.sci.gov.in/supremecourt/2019/29796/29796_2019_1_1501_49019_Judgement_11-Dec-2023.pdf",
+    "https://jakfinance.jk.gov.in/budget2026-27.html"
+  ],
+  "practice_profile": "2 verified solved Mains PYQs; 36 hard original MCQs; 12 remedial MCQs; 8 original solved Mains questions; 10 answer-specific guidance pairs.",
+  "current_linkage_note": "Constitution, GNCTD Act 2023, Delhi judgments, J&K Reorganisation Act and functioning elected government checked through 28 August 2026.",
+  "pyq_status_note": "2018 GS-II Q11 and 2025 GS-II Q4 retain exact available paper, marks and word-limit metadata.",
+  "allow_existing_history": true,
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-Territories.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\25_Union-Territories.md",
+    "upsc-ai-kit\\knowledge\\Polity\\25_Union-Territories_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-and-Territory.md",
+    "upsc-ai-kit\\knowledge\\Polity\\05_Union-and-Territory_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\Polity\\22_Special-Provisions_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\Polity\\21_High-Court-and-Subordinate-Courts_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf",
+    "books\\Indian Polity by M Laxmikant.pdf",
+    "books\\Courseware on Indian Polity by M Laxmikanth.pdf",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-25\\g3-source\\polity-25_g3-reviewed-source.md",
+    "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-25-2026-08-24-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-25.json",
+    "tools\\deep_content_quality_overrides.json"
+  ]
+}

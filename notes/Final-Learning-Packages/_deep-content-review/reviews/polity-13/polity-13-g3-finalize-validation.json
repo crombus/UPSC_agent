@@ -1,0 +1,57 @@
+{
+  "topic_key": "polity-13",
+  "identity": "polity-13:learner-v2:g3",
+  "source_generation": 3,
+  "approval": "Approval pending",
+  "validated_on": "2026-08-28T06:18:00+05:30",
+  "passed": true,
+  "exported_artifacts": {
+    "readme": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\13-Centre-State-and-Inter-State-Relations\\README.txt",
+      "sha256": "30f83d118c025266b801efee610c47aa1b07be948f3f6c72b704a4757dbb2915",
+      "bytes": 623
+    },
+    "complete_learning_session": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\13-Centre-State-and-Inter-State-Relations\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+      "sha256": "d99efaf5d3d9e787b941f6b2e82b059b657e51923c519e41a9c9752f743d773c",
+      "bytes": 1525094,
+      "pages": 52,
+      "blank_pages": 0,
+      "replacement_glyph_pages": 0,
+      "min_extracted_characters": 348
+    },
+    "solved_practice_workbook": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\13-Centre-State-and-Inter-State-Relations\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+      "sha256": "fdbc7ff6a9e4de806e82cfd9a0cea2b3b42b361605e7f92260aa6f5f2035bd3e",
+      "bytes": 395124,
+      "pages": 16,
+      "blank_pages": 0,
+      "replacement_glyph_pages": 0,
+      "min_extracted_characters": 443
+    },
+    "graphical_flowchart": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\13-Centre-State-and-Inter-State-Relations\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+      "sha256": "2044240b181b4f764ccac238cf0e5bdadcb3652b24462661fee31370445f6f0c",
+      "bytes": 2311765,
+      "pages": 1,
+      "blank_pages": 1,
+      "replacement_glyph_pages": 0,
+      "min_extracted_characters": 0
+    },
+    "ascii_master_flowchart": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\13-Centre-State-and-Inter-State-Relations\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+      "sha256": "8ebd03b0051db65261f8492837276d1800237f1df9179bd292aefc13acc90bf8",
+      "bytes": 57774,
+      "pages": 12,
+      "blank_pages": 0,
+      "replacement_glyph_pages": 0,
+      "min_extracted_characters": 384
+    }
+  },
+  "generated_to_export_hash_match": {
+    "complete_learning_session": true,
+    "solved_practice_workbook": true,
+    "graphical_flowchart": true,
+    "ascii_master_flowchart": true
+  }
+}

@@ -1,0 +1,29 @@
+Polity-43 Political Parties — changed-files manifest
+
+Canonical and controls
+- upsc-ai-kit\knowledge\Polity\basic\Political-Parties.md
+- upsc-ai-kit\knowledge\Polity\advanced\43_Political-Parties.md
+- upsc-ai-kit\manifests\v2\polity--subject-wide-syllabus.json
+- tools\deep_content_quality_overrides.json
+- tools\test_refresh_all_v2_learning_sessions.py
+- upsc-ai-kit\manifests\retrofits\ascii-panel-specs\polity-43-2026-08-25-sequential.json
+- upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\polity-43.json
+
+Immutable generations and reviews
+- upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-43\g3\ through g7\
+- notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-43\g3\ through g7\
+- notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-43\carvaka-g3\ through carvaka-g7\
+- notes\Final-Learning-Packages\_deep-content-review\reviews\polity-43\
+- notes\Final-Learning-Packages\_deep-content-review\repair-prompts\polity-43-g2-repair.md
+
+Central records/export
+- notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+- notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+- notes\Final-Learning-Packages\_deep-content-review\ISSUE-LEDGER.md
+- notes\Final-Learning-Packages\_deep-content-review\EVIDENCE-LEDGER.md
+- notes\Final-Learning-Packages\_deep-content-review\MD-CHANGE-SUGGESTIONS.md
+- notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\43-Political-Parties\
+- EXPORT-PDF-STATUS.json
+- EXPORT-PDF-COMMAND-INDEX.md
+- upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-28.json
+- upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-28-validation.json

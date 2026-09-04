@@ -1,0 +1,64 @@
+{
+  "record_id": "polity-10:learner-v2:g6",
+  "approval": false,
+  "artifacts": {
+    "session": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\10-Amendment-and-Basic-Structure\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+      "sha256": "c6b12aae96e46553ee90c7cd12dfda13a16e8dba19be4efb3090cfd905641e50",
+      "bytes": 1865138,
+      "pages": 60,
+      "blank_pages": [],
+      "replacement_pages": []
+    },
+    "workbook": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\10-Amendment-and-Basic-Structure\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+      "sha256": "f20626a2b2a42d547ceda0188eb838bc4a567353b5dc7db2e3e5eb1085a1bcd3",
+      "bytes": 384592,
+      "pages": 17,
+      "blank_pages": [],
+      "replacement_pages": []
+    },
+    "poster": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\10-Amendment-and-Basic-Structure\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+      "sha256": "e6d8821c2dd700bc3634fe3c50b32ba78dc08eb11a5a4e0f0a02bd7702f31b25",
+      "bytes": 1735241,
+      "pages": 1,
+      "blank_pages": [],
+      "replacement_pages": []
+    },
+    "tiles": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\10-Amendment-and-Basic-Structure\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+      "sha256": "6dd5b11c306000e129524e459815707e288bec3663424b4fedd86aadeba2ebc7",
+      "bytes": 2439015,
+      "pages": 4,
+      "blank_pages": [],
+      "replacement_pages": []
+    },
+    "master": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\10-Amendment-and-Basic-Structure\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+      "sha256": "a1e5e506378220ba1c2b50718450919bebbcd237596b3efaacfd7e9768ee4f2f",
+      "bytes": 1547212
+    },
+    "ascii_pdf": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\10-Amendment-and-Basic-Structure\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+      "sha256": "df38d071e9f63e3e457ed8b4853543c66ed163ce82b4e6c43e5a11f83a781cfe",
+      "bytes": 58799,
+      "pages": 11,
+      "blank_pages": [],
+      "replacement_pages": []
+    },
+    "ascii_text": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\10-Amendment-and-Basic-Structure\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+      "sha256": "ecf3a60a66d0e8c84e61c08358e0989cdce03769f0513ae62e3f59757442a94c",
+      "bytes": 8573
+    }
+  },
+  "source_copy_hash_match": {
+    "session": true,
+    "workbook": true,
+    "poster": true,
+    "tiles": true,
+    "master": true,
+    "ascii_text": true
+  }
+}

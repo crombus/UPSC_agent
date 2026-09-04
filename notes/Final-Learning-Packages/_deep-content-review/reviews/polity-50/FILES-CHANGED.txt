@@ -1,0 +1,17 @@
+upsc-ai-kit\knowledge\Polity\basic\Concept-of-the-Constitution.md
+tools\deep_content_quality_overrides.json
+tools\test_refresh_all_v2_learning_sessions.py
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\polity-50-2026-08-25-sequential.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\polity-50.json
+EXPORT-PDF-STATUS.json
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\ISSUE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\EVIDENCE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\MD-CHANGE-SUGGESTIONS.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-50
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\50-Concept-of-the-Constitution
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-50\g3
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-50\g3
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-50\carvaka-g3

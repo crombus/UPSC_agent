@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "selection": "polity-20 g4 technical preservation",
+  "passed": true,
+  "topic_count": 1,
+  "topics": [
+    {
+      "topic_key": "polity-20",
+      "generation": 4,
+      "passed": true,
+      "errors": [],
+      "note": "Automated validation passed; manual re-review failed because shared flow specifications identified g3 source metadata."
+    }
+  ]
+}

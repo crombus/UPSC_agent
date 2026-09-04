@@ -1,0 +1,109 @@
+{
+  "topic_key": "polity-14",
+  "locked_identity": "polity-14:learner-v2:g2",
+  "locked_at": "2026-08-28T06:19:12+05:30",
+  "approval": false,
+  "artifacts": {
+    "basic_owner": {
+      "path": "upsc-ai-kit\\knowledge\\Polity\\basic\\Emergency-Provisions.md",
+      "sha256": "bab82eeb5b976751162b463769732c7c21811ffb02428276dffe22c8d8726d23",
+      "bytes": 20341
+    },
+    "advanced_owner": {
+      "path": "upsc-ai-kit\\knowledge\\Polity\\advanced\\14_Emergency-Provisions.md",
+      "sha256": "288a363370898bf56595fede36af77d762e9f972282d18032d1289d36f1fad45",
+      "bytes": 9852
+    },
+    "canonical_owner": {
+      "path": "upsc-ai-kit\\knowledge\\Polity\\14_Emergency-Provisions_Complete-Topic-Package.md",
+      "sha256": "9d87cdf430e921ebb7c1475d8bc079855faec6569e1e7abaf0c04f74fbdebdf7",
+      "bytes": 56298
+    },
+    "legacy_session_owner": {
+      "path": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-14_Learning-Session.md",
+      "sha256": "eeafafc577a9e438d4cd5f919bc2564963f3885e201ac6861d69fe62cd578dc4",
+      "bytes": 73265
+    },
+    "generated_session_md": {
+      "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\polity-14_Complete-Learning-Session_2026-08-24.md",
+      "sha256": "05eac6100f5ba6ca76217c7ba07bffcfe4948544066604a606baf15bfdc17e7c",
+      "bytes": 109016
+    },
+    "generated_workbook_md": {
+      "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\polity-14_Solved-Practice-Workbook_2026-08-24.md",
+      "sha256": "4c1b4c4e971424a49eeecfc8a613911aeafc33a082056805ace19adb37b7e010",
+      "bytes": 28309
+    },
+    "generated_session_pdf": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\polity-14_Complete-Learning-Session_2026-08-24.pdf",
+      "sha256": "8f6de7fbcd725ae74b5a3afd067a10c99a9029c15d3342e38dc539619498585f",
+      "bytes": 1513333,
+      "page_count": 44,
+      "blank_text_pages": 0
+    },
+    "generated_workbook_pdf": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\polity-14_Solved-Practice-Workbook_2026-08-24.pdf",
+      "sha256": "88d159c4a8f2a263b3483510aad3159730e336d7eaf93ab437a2944291378549",
+      "bytes": 341255,
+      "page_count": 12,
+      "blank_text_pages": 0
+    },
+    "graphical_spec": {
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-14.json",
+      "sha256": "8673019eae7c3a3acf863d1540e64a50025be423ede9c18410aa58c49a50ba19",
+      "bytes": 40816
+    },
+    "ascii_spec": {
+      "path": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-14-2026-08-24-sequential.json",
+      "sha256": "191fbdb61b20e03aa4e1b18a9624320c313b459ecd859729ba2aeabb8f9391f4",
+      "bytes": 14255
+    },
+    "poster_pdf": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-14\\carvaka-g2\\poster.pdf",
+      "sha256": "cf9d3e9d416f72f457ff69b77941ff36c1cba5cce57042b326d84f89fb79caf4",
+      "bytes": 2131584,
+      "page_count": 1,
+      "blank_text_pages": 1
+    },
+    "tiled_pdf": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-14\\carvaka-g2\\tiled.pdf",
+      "sha256": "4960d6c3c437b39eb7a8317853d9774b32b69b857ee2119a2b351cfd4fd20d62",
+      "bytes": 3018196,
+      "page_count": 4,
+      "blank_text_pages": 0
+    },
+    "ascii_master": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-14\\carvaka-g2\\ascii-master.txt",
+      "sha256": "d3763c22cc04c13a836a5c45dda8641f025768b2d28caa30d49485b25547bea4",
+      "bytes": 5728
+    },
+    "final_session": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\14-Emergency-Provisions\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+      "sha256": "8f6de7fbcd725ae74b5a3afd067a10c99a9029c15d3342e38dc539619498585f",
+      "bytes": 1513333,
+      "page_count": 44,
+      "blank_text_pages": 0
+    },
+    "final_workbook": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\14-Emergency-Provisions\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+      "sha256": "88d159c4a8f2a263b3483510aad3159730e336d7eaf93ab437a2944291378549",
+      "bytes": 341255,
+      "page_count": 12,
+      "blank_text_pages": 0
+    },
+    "final_poster": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\14-Emergency-Provisions\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+      "sha256": "cf9d3e9d416f72f457ff69b77941ff36c1cba5cce57042b326d84f89fb79caf4",
+      "bytes": 2131584,
+      "page_count": 1,
+      "blank_text_pages": 1
+    },
+    "final_ascii": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\14-Emergency-Provisions\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+      "sha256": "414320507d085910ad5391771f9462ee4f698261885346315054401a76ffdc48",
+      "bytes": 55058,
+      "page_count": 9,
+      "blank_text_pages": 0
+    }
+  }
+}

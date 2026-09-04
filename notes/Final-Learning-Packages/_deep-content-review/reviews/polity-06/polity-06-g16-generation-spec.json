@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-06",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-06",
+  "title": "Citizenship",
+  "generation_date": "2026-08-28",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Citizenship — deep-content final revalidation",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-06\\g16-source\\polity-06_g16-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Citizenship.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\06_Citizenship_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\06_Citizenship.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md"
+  ],
+  "official_question_sources": [
+    "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf",
+    "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf"
+  ],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf",
+    "books\\Courseware on Indian Polity by M Laxmikanth.pdf"
+  ],
+  "live_sources": [
+    "https://legislative.gov.in/document/constitution-of-india-in-english",
+    "https://www.mha.gov.in/sites/default/files/2026-08/CitizenshipThirdAmendmentRules_21082026.pdf",
+    "https://www.mha.gov.in/sites/default/files/2026-08/OrderCitizenship_21082026.pdf",
+    "https://www.api.sci.gov.in/supremecourt/2009/16113/16113_2009_1_1501_56604_Judgement_17-Oct-2024.pdf",
+    "https://www.mha.gov.in/sites/default/files/OCI_18082025_0.pdf"
+  ],
+  "source_files": [
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-06\\g16-source\\polity-06_g16-reviewed-source.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Citizenship.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\06_Citizenship.md",
+    "upsc-ai-kit\\knowledge\\Polity\\06_Citizenship_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-06_Learning-Session.md",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "books\\Indian Polity by M Laxmikant.pdf",
+    "books\\Courseware on Indian Polity by M Laxmikanth.pdf",
+    "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf",
+    "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf",
+    "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-23.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-06.json",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-06\\evidence\\CitizenshipThirdAmendmentRules_21082026.pdf",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-06\\evidence\\OrderCitizenship_21082026.pdf"
+  ],
+  "practice_profile": "2 exact relevant Prelims PYQs; 40 core MCQs plus 8 remedials; six original 10/15/20-mark Mains models; all eight solved items carry answer-specific improvement guidance.",
+  "current_linkage_note": "Official law/current status checked through 28 August 2026, including G.S.R. 742(E), S.O. 4583(E), the 2025 OCI cancellation notification, Section 6A judgment and pending CAA challenges.",
+  "pyq_status_note": "2018 GS-I Q12 and 2021 GS-I Q89 use exact local official-paper wording; answers remain explicitly qualified where an official local key is absent.",
+  "mcq_answer_policy": "strict-abcd-cycle",
+  "allow_existing_history": true
+}

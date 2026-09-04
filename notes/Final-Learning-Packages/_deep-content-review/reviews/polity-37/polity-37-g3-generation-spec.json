@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-37",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-37",
+  "title": "CVC and CBI",
+  "generation_date": "2026-08-28",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — CVC and CBI — deep-reviewed immutable generation",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-37\\g3-source\\polity-37_g3-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\CVC-and-CBI.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\37_CVC-and-CBI_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\37_CVC-and-CBI.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Lokpal-and-Lokayuktas.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Federal-System.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md"
+  ],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf"
+  ],
+  "live_sources": [
+    "https://www.indiacode.nic.in/handle/123456789/2067",
+    "https://www.indiacode.nic.in/handle/123456789/2258",
+    "https://webapi.sci.gov.in/jonew/judis/13548.pdf"
+  ],
+  "practice_profile": "One verified direct Mains PYQ and one controlled unsolved Prelims route; 36 original MCQs; 12 remedials; 8 original solved Mains; 9 answer guidance pairs.",
+  "current_linkage_note": "CVC Act, DSPE Act and amendments controlled to 28 August 2026; volatile consent rosters and officeholders omitted.",
+  "pyq_status_note": "2021 GS-II Q11 solved; 2026 GS-I Q63 controlled-unsolved without invented key.",
+  "allow_existing_history": true,
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\CVC-and-CBI.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\37_CVC-and-CBI.md",
+    "upsc-ai-kit\\knowledge\\Polity\\37_CVC-and-CBI_Complete-Topic-Package.md",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-37\\g3-source\\polity-37_g3-reviewed-source.md",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-37-2026-08-24-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-37.json",
+    "tools\\deep_content_quality_overrides.json"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "polity-16-g3-intermediate",
+  "validated_on": "2026-08-28T08:05:00+05:30",
+  "selection": "polity-16-g3-technical-pass-semantic-prose-repair-pending",
+  "topic_count": 1,
+  "passed": true,
+  "errors": [],
+  "topics": [
+    {
+      "topic_key": "polity-16",
+      "record_id": "polity-16:learner-v2:g3",
+      "generation": 3,
+      "passed": true,
+      "errors": [],
+      "tests_passed": 38,
+      "content_review_status": "revalidation_pending",
+      "known_issue": "Semantic consequence fields produced repetitive generic phrasing; immutable g4 required."
+    }
+  ]
+}

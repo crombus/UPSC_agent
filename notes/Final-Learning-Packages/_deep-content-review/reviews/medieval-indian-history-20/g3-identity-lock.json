@@ -1,0 +1,14 @@
+{
+  "topic_key": "medieval-indian-history-20",
+  "locked_at": "2026-09-04T07:59:11.394454+00:00",
+  "master_tracker_identity": "medieval-indian-history-20:learner-v2:g3",
+  "generation": 3,
+  "approval": false,
+  "hashes": {
+    "markdown": "462625bf6b4d768a50d8efe21b570d9d802780746652679094a3bdb7f3af53d8",
+    "main_pdf": "02eb4c7f195b382406abdba34e564b2d8a3648bb27ddfa28f165f58b8a0549ad",
+    "workbook": "a16b3616a713f3cdcfd20a556cfd49bb9fe677a6db5857317ef4c3405ea031ad",
+    "graphical_master": "2526e55ed51d11784653ff3a27c033de408920b9252de016fdb72b8c9de2660e",
+    "ascii_master": "c6da80ce199ac60130e11b327a69b326ac7f32e3ac2c13ca894e5d74027933e3"
+  }
+}

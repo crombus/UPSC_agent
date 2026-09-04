@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "selection": "polity-20 g3 technical preservation",
+  "passed": true,
+  "topic_count": 1,
+  "topics": [
+    {
+      "topic_key": "polity-20",
+      "generation": 3,
+      "passed": true,
+      "errors": [],
+      "note": "Automated generation validation passed; subsequent manual review failed for two semantic ellipses."
+    }
+  ]
+}

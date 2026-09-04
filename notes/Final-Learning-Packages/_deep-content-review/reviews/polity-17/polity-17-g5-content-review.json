@@ -1,0 +1,37 @@
+{
+  "topic_key": "polity-17",
+  "identity": "polity-17:learner-v2:g5",
+  "reviewed_on": "2026-08-28T12:30:00+05:30",
+  "approval": false,
+  "score": {
+    "complete_learning_session": 39,
+    "solved_practice_workbook": 29,
+    "graphical_flowchart": 15,
+    "ascii_master_flowchart": 15,
+    "total": 98
+  },
+  "status": "passed",
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": true,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": true,
+    "current_data_source_dated": true
+  },
+  "issue_counts": {
+    "critical": 0,
+    "high": 0,
+    "medium": 0,
+    "low": 0
+  },
+  "immutable_history": [
+    "g2 baseline retained: 73/100, changes suggested",
+    "g3 retained: technically valid; repetitive generic answer openings",
+    "g4 retained: technically valid; stale Advanced commencement contradiction discovered on final reconciliation",
+    "g5 selected: all hard gates passed"
+  ],
+  "remaining_uncertainty": "The Article 110 larger-Bench issue, working House strength, committee chairs and delimitation implementation remain current-sensitive and are expressly date-qualified.",
+  "approval_note": "Passed review is revalidation only. Explicit package approval remains false."
+}

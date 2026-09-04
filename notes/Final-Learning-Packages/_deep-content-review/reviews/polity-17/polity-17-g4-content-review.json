@@ -1,0 +1,36 @@
+{
+  "topic_key": "polity-17",
+  "identity": "polity-17:learner-v2:g4",
+  "reviewed_on": "2026-08-28T11:45:00+05:30",
+  "approval": false,
+  "score": {
+    "complete_learning_session": 38,
+    "solved_practice_workbook": 29,
+    "graphical_flowchart": 15,
+    "ascii_master_flowchart": 15,
+    "total": 97
+  },
+  "status": "changes_suggested",
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": true,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": false,
+    "current_data_source_dated": true
+  },
+  "issue_counts": {
+    "critical": 0,
+    "high": 1,
+    "medium": 0,
+    "low": 0
+  },
+  "immutable_history": [
+    "g2 baseline retained: 73/100, changes suggested",
+    "g3 retained: technically valid; repetitive generic answer openings",
+    "g4 selected: all hard gates passed"
+  ],
+  "remaining_uncertainty": "Post-review reconciliation found the Advanced owner still denying the verified 16 April 2026 commencement; g4 remains immutable and g5 repairs the contradiction.",
+  "approval_note": "Passed review is revalidation only. Explicit package approval remains false."
+}

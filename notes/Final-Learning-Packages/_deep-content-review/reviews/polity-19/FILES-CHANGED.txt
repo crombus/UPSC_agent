@@ -1,0 +1,35 @@
+Modified source owners:
+- upsc-ai-kit\knowledge\Polity\basic\Governor-and-CM.md
+- upsc-ai-kit\knowledge\Polity\advanced\19_Governor-CM-State-Council.md
+- upsc-ai-kit\knowledge\Polity\19_Governor-CM-State-Council_Complete-Topic-Package.md
+- upsc-ai-kit\manifests\v2\polity--subject-wide-syllabus.json
+- tools\deep_content_quality_overrides.json
+- tools\test_refresh_all_v2_learning_sessions.py
+- upsc-ai-kit\manifests\retrofits\ascii-panel-specs\polity-19-2026-08-24-sequential.json
+- upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\polity-19.json
+- upsc-ai-kit\manifests\exports\polity-19-source-pyq-current-audit-2026-08-28.json
+
+Generated immutable package trees:
+- upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-19\g3, g4, g5
+- notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-19\g3, g4, g5
+- notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-19\carvaka-g3, carvaka-g4, carvaka-g5
+
+Final four-item export:
+- notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\19-Governor-CM-State-Council\
+- upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-28-polity-19-g5.json
+- upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-28-polity-19-g5-validation.json
+
+Review records:
+- notes\Final-Learning-Packages\_deep-content-review\reviews\polity-19\ (identity locks, g2/g3/g4/g5 reviews, generation specs, staged records, validations, audit, report and repair prompt)
+- notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+- notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+- notes\Final-Learning-Packages\_deep-content-review\ISSUE-LEDGER.md
+- notes\Final-Learning-Packages\_deep-content-review\EVIDENCE-LEDGER.md
+- notes\Final-Learning-Packages\_deep-content-review\MD-CHANGE-SUGGESTIONS.md
+
+Tracker/index updates from atomic finalize/export:
+- EXPORT-PDF-STATUS.json
+- EXPORT-PDF-COMMAND-INDEX.md
+- notes\Final-Learning-Packages\MASTER-TRACKER.json
+- V2-SUBJECT-SECTION-COMMAND-INDEX.md
+- Polity subject indexes under notes\Polity\learning-session-v2\subject-wide-syllabus\indexes\

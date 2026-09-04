@@ -1,0 +1,41 @@
+Direct source and pipeline changes
+upsc-ai-kit\knowledge\Polity\basic\PM-and-Council-of-Ministers.md
+upsc-ai-kit\knowledge\Polity\advanced\16_PM-and-Council-of-Ministers.md
+upsc-ai-kit\knowledge\Polity\16_PM-and-Council-of-Ministers_Complete-Topic-Package.md
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\polity-16.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\polity-16-2026-08-24-sequential.json
+tools\deep_content_quality_overrides.json
+tools\test_refresh_all_v2_learning_sessions.py
+tools\generate_v2_section_indexes.py
+tools\refresh_all_v2_learning_sessions.py
+
+Immutable review/generation records
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-16\
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\polity-16-pm-council-ministers-repair.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-16\g3\
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-16\g4\
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-16\g5\
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-16\g6\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-16\g3\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-16\g4\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-16\g5\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-16\g6\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-16\carvaka-g3\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-16\carvaka-g4\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-16\carvaka-g5\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-16\carvaka-g6\
+
+Central records and final export
+EXPORT-PDF-STATUS.json
+EXPORT-PDF-COMMAND-INDEX.md
+V2-SUBJECT-SECTION-COMMAND-INDEX.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\ISSUE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\EVIDENCE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\MD-CHANGE-SUGGESTIONS.md
+notes\Final-Learning-Packages\_deep-content-review\batch-reports\Polity-Batch-03-polity-11-to-polity-15.md
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\16-PM-and-Council-of-Ministers\
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-28.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-28-validation.json

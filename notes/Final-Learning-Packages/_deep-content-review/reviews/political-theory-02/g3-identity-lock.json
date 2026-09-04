@@ -1,0 +1,14 @@
+{
+  "topic_key": "political-theory-02",
+  "locked_at": "2026-08-30T09:22:41.693274+00:00",
+  "master_tracker_identity": "political-theory-02:learner-v2:g3",
+  "generation": 3,
+  "approval": false,
+  "hashes": {
+    "markdown": "b5842028f86a173d23a81965f3bfe4533179cb660e67dc55cf33448ba12a1297",
+    "main_pdf": "3965a97bb177688ce2b1dfa52327b7a7b0f77b303c02a466dd58042a3143d635",
+    "workbook": "f07ecf17295a34f655febadf81189eae7c8d1d1ed4d04ebdb049ea25d3f86412",
+    "graphical_master": "4a56854315eb2d3856f6d76b738fc377070e5cd6ab71c4d17e573e9d1f368398",
+    "ascii_master": "8edbcacfe4068fe5fbbfa5dfb59985ba2ae88f5d6a15509f30b2cb6ecaeec356"
+  }
+}

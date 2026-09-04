@@ -1,0 +1,369 @@
+Neolithic & Chalcolithic Cultures — COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+START / CENTRAL QUESTION
+  The safest chronology is regional and site-based rather than a subcontinent-wide start date.
+        |
+        v
++-- SESSION 01: MEANING AND CHRONOLOGY - NEOLITHIC, NEOLITHIC-CHALCOLITHIC AND CHALCOLITHIC — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : The safest chronology is regional and site-based rather than a subcontinent-wide start date.
+|   MECHANISM / ARGUMENT: Neolithic conventionally combines food production with ground, pecked and polished stone tools; many sites also show pottery and more sedentary settlement.
+|   CONSEQUENCE / CONTRAST: Memory hook: NEO is not one date; CHALCO is not only copper; CULTURE is not ethnicity.
+|   TRAP / ANSWER-USE: INFERENCE: Labels are useful for comparison but must be applied after examining local sequences.
+|   EXAM OPENING: Chalcolithic denotes the use of copper alongside stone, not an exclusive copper technology.
++--
+        |
+        v
++-- SESSION 02: TRANSITION FROM FORAGING TO FOOD PRODUCTION - MOSAIC, NOT LADDER
+|   DEFINITION / TERMS : Transition is best understood as a changing portfolio of subsistence strategies.
+|   MECHANISM / ARGUMENT: Complex foraging and intensive use of wild plants could precede domestication.
+|   CONSEQUENCE / CONTRAST: Mixed subsistence is normal, not transitional failure.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: transition is best understood as a changing portfolio of subsistence strategies.
+|   EXAM OPENING: Sedentism and food production are related but not identical.
++--
+        |
+        v
++-- SESSION 03: WHY DOMESTICATION? COMPETING EXPLANATIONS AND A MULTI-CAUSAL VERDICT
+|   DEFINITION / TERMS : Environmental improvement can encourage domestication as much as crisis.
+|   MECHANISM / ARGUMENT: Environmental improvement can encourage domestication as much as crisis.
+|   CONSEQUENCE / CONTRAST: Social motives such as feasting, exchange, inheritance and territorial claims may have mattered but are hard to recover.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: archaeologists have proposed environmental stress, nuclear-zone knowledge, demographic pressure, positive feedback from productive domesticates...
+|   EXAM OPENING: Upinder Singh treats the impulses behind domestication as regionally variable and difficult to isolate.
++--
+        |
+        v
++-- SESSION 04: DOMESTICATION OF PLANTS - DIRECT EVIDENCE, INDIRECT EVIDENCE AND RICE CAUTION — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Cultivation is not identical to full domestication.
+|   MECHANISM / ARGUMENT: A crop package can combine local domestication, adoption and long-distance transfer.
+|   CONSEQUENCE / CONTRAST: Cultivation is not identical to full domestication.
+|   TRAP / ANSWER-USE: Domestication is not identical to economic dominance.
+|   EXAM OPENING: Plant presence is not identical to cultivation.
++--
+        |
+        v
++-- SESSION 05: DOMESTICATION OF ANIMALS - HERD STRUCTURE, MORPHOLOGY AND HUMAN CONTROL — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : One small bone cannot establish domestication; assemblage pattern and secure identification are essential.
+|   MECHANISM / ARGUMENT: Mehrgarh shows declining wild gazelle and rising cattle, sheep and goat proportions through time.
+|   CONSEQUENCE / CONTRAST: Burzahom retained hunting and fishing while also using domestic cattle, sheep, goat and dog.
+|   TRAP / ANSWER-USE: One small bone cannot establish domestication; assemblage pattern and secure identification are essential.
+|   EXAM OPENING: Animal domestication is inferred from long-term morphological change, demographic profiles, geographic displacement, pathologies, residues and settlement context.
++--
+        |
+        v
++-- SESSION 06: POLISHED STONE, MICROLITHS, BONE TOOLS AND THE PERSISTENCE OF OLDER TECHNOLOGIES — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Technically, Polished Stone, Microliths, Bone Tools And The Persistence Of Older Technologies — [Core Prelims + Core Mains] is analysed by relating Polished Stone to Microliths, then testing the relationship through Bone Tools and The Persistence Of Older Technologies.
+|   MECHANISM / ARGUMENT: Tool choice depends on cost, repairability, raw materials and task suitability rather than a simple hierarchy of progress.
+|   CONSEQUENCE / CONTRAST: Bone and antler industries were especially prominent at Burzahom and Chirand.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: use technological persistence to challenge stage-based determinism.
+|   EXAM OPENING: Technology layers overlap; polished stone does not erase microliths, and copper does not erase stone.
++--
+        |
+        v
++-- SESSION 07: POTTERY, COOKING, STORAGE AND CERAMIC CHRONOLOGY — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Pottery supported cooking, serving and storage, but food production can precede pottery.
+|   MECHANISM / ARGUMENT: Ceramic seriation must be anchored by stratigraphy and absolute dates.
+|   CONSEQUENCE / CONTRAST: Treat pottery as technology, chronology and social communication, while refusing to equate style with ethnicity.
+|   TRAP / ANSWER-USE: Black-and-red ware is not one people or one date.
+|   EXAM OPENING: Pottery supported cooking, serving and storage, but food production can precede pottery.
++--
+        |
+        v
++-- SESSION 08: SETTLEMENT, HOUSES, STORAGE AND THE NEW TIME HORIZON
+|   DEFINITION / TERMS : House size, internal divisions and settlement layout can suggest household differentiation.
+|   MECHANISM / ARGUMENT: House size, internal divisions and settlement layout can suggest household differentiation.
+|   CONSEQUENCE / CONTRAST: Public works require coordination but do not by themselves prove a state.
+|   TRAP / ANSWER-USE: Sedentism concentrates waste, pathogens and social tensions while also enabling craft and community institutions.
+|   EXAM OPENING: Explain settlement as a package of permanence, storage, property, public labour, health risk and social negotiation.
++--
+        |
+        v
++-- SESSION 09: SUBSISTENCE, LABOUR, HEALTH AND DEMOGRAPHIC CONSEQUENCES
+|   DEFINITION / TERMS : Technically, Subsistence, Labour, Health And Demographic Consequences is analysed by relating Subsistence to Labour, then testing the relationship through Health and Demographic Consequences.
+|   MECHANISM / ARGUMENT: Food production increased carrying capacity but could distribute benefits unequally.
+|   CONSEQUENCE / CONTRAST: More food does not guarantee better nutrition.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: population growth can be an outcome as well as a pressure.
+|   EXAM OPENING: Farming could raise aggregate food availability and support population growth, but early farmers often faced narrower diets, infectious disease, hard labour and vulnerability to drought, pests and storage loss.
++--
+        |
+        v
++-- SESSION 10: CRAFTS, SPECIALIZATION AND EXCHANGE NETWORKS
+|   DEFINITION / TERMS : Technically, Crafts, Specialization And Exchange Networks is analysed by relating Crafts to Specialization, then testing the relationship through Exchange Networks and Mains angle.
+|   MECHANISM / ARGUMENT: Use exchange to connect ecology with society: specialized zones traded complementary resources without necessarily forming one political system.
+|   CONSEQUENCE / CONTRAST: Early villages were not isolated subsistence units.
+|   TRAP / ANSWER-USE: Imported material does not prove political control.
+|   EXAM OPENING: Exchange can move raw materials, finished goods, people and ideas.
++--
+        |
+        v
++-- SESSION 11: SOCIAL DIFFERENTIATION, HOUSEHOLD ORGANIZATION AND SETTLEMENT HIERARCHY
+|   DEFINITION / TERMS : Inamgaon has interpreted craft quarters, central elite structures and a settlement hierarchy.
+|   MECHANISM / ARGUMENT: Inamgaon has interpreted craft quarters, central elite structures and a settlement hierarchy.
+|   CONSEQUENCE / CONTRAST: Differences in house size, settlement position, diet, burial treatment, stored wealth and craft location suggest emerging ranks at some sites, but inequality varied greatly and should not be read as a fully developed class state.
+|   TRAP / ANSWER-USE: Use the phrase 'suggests ranked differentiation' rather than claiming kingship unless evidence is stronger.
+|   EXAM OPENING: Settlement hierarchy does not automatically equal state hierarchy.
++--
+        |
+        v
++-- SESSION 12: RITUAL, BURIALS, FIGURINES AND THE PROBLEM OF MEANING
+|   DEFINITION / TERMS : Malwa and Jorwe contexts include fire installations, figurines and house-floor burials.
+|   MECHANISM / ARGUMENT: Malwa and Jorwe contexts include fire installations, figurines and house-floor burials.
+|   CONSEQUENCE / CONTRAST: Inamgaon has unusual urn and symbolic burials as well as temporary clay figurines.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: burzahom has human and animal burials and a hunting engraving.
+|   EXAM OPENING: Ritual is inferred from patterned, non-utilitarian context.
++--
+        |
+        v
++-- SESSION 13: REGIONAL MAP IN TEXT - THE INDIAN NEOLITHIC MOSAIC — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Study link: Dedicated regional cases follow.
+|   MECHANISM / ARGUMENT: Similar tools may reflect convergent adaptation, interaction or shared learning; the mechanism must be tested.
+|   CONSEQUENCE / CONTRAST: North-west is not the only early agricultural zone.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: study link: Dedicated regional cases follow.
+|   EXAM OPENING: South Indian ash mounds are not universal even within the south.
++--
+        |
+        v
++-- SESSION 14: NORTH-WEST NEOLITHIC - MEHRGARH AS A LONG SEQUENCE — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Mehrgarh demonstrates that early village formation was already socially and economically complex.
+|   MECHANISM / ARGUMENT: Mehrgarh demonstrates that early village formation was already socially and economically complex.
+|   CONSEQUENCE / CONTRAST: Mehrgarh was not a city in its earliest phases.
+|   TRAP / ANSWER-USE: The 2025 radiocarbon revision must be presented alongside, not silently substituted for, older textbook chronology.
+|   EXAM OPENING: Use Mehrgarh as a sequence, not a label: subsistence, storage, craft, burial and exchange changed across periods.
++--
+        |
+        v
++-- SESSION 15: KASHMIR NEOLITHIC - BURZAHOM AND GUFKRAL — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Burzahom is not famous for rock-cut shrines.
+|   MECHANISM / ARGUMENT: Burzahom Period I is known for round or oval pits, storage pits and ground-level hearths.
+|   CONSEQUENCE / CONTRAST: Burzahom is not famous for rock-cut shrines.
+|   TRAP / ANSWER-USE: DEBATE: Pits may have been dwellings, storage units or seasonally used structures; majority opinion is not proof.
+|   EXAM OPENING: Burzahom and Gufkral show pit structures, polished stone and bone tools, hunting and fishing, increasing cultivation and herding, distinctive burials and contacts beyond the valley.
++--
+        |
+        v
++-- SESSION 16: VINDHYAN FRINGES AND MIDDLE GANGA - KOLDIHWA, MAHAGARA AND LAHURADEWA — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Lahuradewa later developed many earthen silos and wider crop-animal packages.
+|   MECHANISM / ARGUMENT: Lahuradewa later developed many earthen silos and wider crop-animal packages.
+|   CONSEQUENCE / CONTRAST: These sites are central to debates on rice, cattle, continuity from the Mesolithic and the emergence of settled food-producing communities outside the north-west.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: the regional Neolithic emerged from an established Mesolithic background and retained microliths.
+|   EXAM OPENING: Use the middle Ganga evidence to argue for regional experimentation while remaining cautious about claims of independent domestication.
++--
+        |
+        v
++-- SESSION 17: EASTERN INDIA - REPRESENTATIVE SEQUENCE
+|   DEFINITION / TERMS : Other eastern sites show regional spread, but do not memorise an exhaustive inventory unless a specific option requires it.
+|   MECHANISM / ARGUMENT: Other eastern sites show regional spread, but do not memorise an exhaustive inventory unless a specific option requires it.
+|   CONSEQUENCE / CONTRAST: The resulting consequence is that other eastern sites show regional spread.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: other eastern sites show regional spread.
+|   EXAM OPENING: Chirand is the core exam anchor: a Bihar site with a long Neolithic-Chalcolithic sequence and bone-tool evidence.
++--
+        |
+        v
++-- SESSION 18: NORTH-EAST NEOLITHIC - REGIONAL CAUTION
+|   DEFINITION / TERMS : Technically, North-East Neolithic - Regional Caution is analysed by relating North-east evidence to North-east, then testing the relationship through India and India.
+|   MECHANISM / ARGUMENT: Use it to reject an all-India sequence; do not turn corridor or extension hypotheses into settled site chronologies without a verified source.
+|   CONSEQUENCE / CONTRAST: The resulting consequence is that north-east evidence is regionally important but uneven.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: north-east evidence is regionally important but uneven.
+|   EXAM OPENING: North-east evidence is regionally important but uneven.
++--
+        |
+        v
++-- SESSION 19: SOUTH INDIAN NEOLITHIC - CHRONOLOGY, LANDSCAPE AND REGIONAL SEQUENCE — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : South Indian Neolithic was not a copy of Mehrgarh.
+|   MECHANISM / ARGUMENT: The link between Mesolithic and Neolithic phases in the far south remains incompletely worked out.
+|   CONSEQUENCE / CONTRAST: Ash mounds are regional, not universal.
+|   TRAP / ANSWER-USE: Cattle were central, but recent botanical work demonstrates important millet and pulse cultivation.
+|   EXAM OPENING: South Indian Neolithic was not a copy of Mehrgarh.
++--
+        |
+        v
++-- SESSION 20: ASH MOUNDS - FORMATION, FUNCTION AND COMPETING INTERPRETATIONS — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Technically, Ash Mounds - Formation, Function And Competing Interpretations — [Core Prelims + Core Mains] is analysed by relating Ash Mounds - Formation to Function, then testing the relationship through Competing Interpretations and Mains angle.
+|   MECHANISM / ARGUMENT: Present the debate as a hierarchy of confidence: dung origin is strong; exact function and symbolism remain variable.
+|   CONSEQUENCE / CONTRAST: Dung origin does not settle social meaning.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: utnur had pen enclosures and cattle hoof impressions.
+|   EXAM OPENING: Do not force one function on the entire class of sites.
++--
+        |
+        v
++-- SESSION 21: SOUTH INDIAN CASE RECALL
+|   DEFINITION / TERMS : Retain one southern comparison: cattle-centred lifeways, polished axes and ash-mound traditions show a distinct regional trajectory.
+|   MECHANISM / ARGUMENT: Retain one southern comparison: cattle-centred lifeways, polished axes and ash-mound traditions show a distinct regional trajectory.
+|   CONSEQUENCE / CONTRAST: The resulting consequence is that extra site names are supporting detail, not a core inventory.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: extra site names are supporting detail, not a core inventory.
+|   EXAM OPENING: Extra site names are supporting detail, not a core inventory.
++--
+        |
+        v
++-- SESSION 22: REGIONAL NEOLITHIC COMPARISON - WHAT VARIED AND WHAT CONVERGED
+|   DEFINITION / TERMS : Regional diversity persisted even as exchange networks widened.
+|   MECHANISM / ARGUMENT: Regional diversity persisted even as exchange networks widened.
+|   CONSEQUENCE / CONTRAST: Shared outcomes do not require a single origin.
+|   TRAP / ANSWER-USE: Ecology shapes but does not mechanically determine culture.
+|   EXAM OPENING: Conclude that the Indian Neolithic was a connected mosaic: multiple pathways, partial convergence and persistent regionality.
++--
+        |
+        v
++-- SESSION 23: CHALCOLITHIC INDIA - DEFINITION, GEOGRAPHY AND CULTURAL SEQUENCE — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Major concentrations include Rajasthan, Malwa, Maharashtra, the Ganga plains and eastern India.
+|   MECHANISM / ARGUMENT: Major concentrations include Rajasthan, Malwa, Maharashtra, the Ganga plains and eastern India.
+|   CONSEQUENCE / CONTRAST: Culture zones were networks of related material practice, not bounded political states.
+|   TRAP / ANSWER-USE: Painted pottery is important but not exclusive.
+|   EXAM OPENING: Chalcolithic is not a uniform period.
++--
+        |
+        v
++-- SESSION 24: COPPER AND STONE TECHNOLOGY - ORE, SMELTING, ALLOYING AND SCARCITY
+|   DEFINITION / TERMS : Inamgaon has evidence for copper extraction but copper remained scarce.
+|   MECHANISM / ARGUMENT: Control over ore and metal circulation could generate status without producing urban state power.
+|   CONSEQUENCE / CONTRAST: Inamgaon has evidence for copper extraction but copper remained scarce.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: ahar has copper sheet and slag supporting local metallurgy.
+|   EXAM OPENING: Ganeshwar yielded over a thousand copper objects but published reports do not provide direct furnace evidence for the early phase.
++--
+        |
+        v
++-- SESSION 25: GANESHWAR-JODHPURA - COPPER ZONE, CRAFT CENTRE AND HARAPPAN CONTACT — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Ore-zone communities may have supplied both rural neighbours and urban Harappans.
+|   MECHANISM / ARGUMENT: A small site can be regionally important through specialization.
+|   CONSEQUENCE / CONTRAST: Ore-zone communities may have supplied both rural neighbours and urban Harappans.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: the sequence shows movement from hunting with microliths toward extensive copper-working and wider interaction.
+|   EXAM OPENING: It is not a Harappan city.
++--
+        |
+        v
++-- SESSION 26: AHAR-BANAS CULTURE - RIVER VALLEYS, COPPER, FARMING AND SETTLEMENT DIVERSITY — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Compare Ahar, Gilund, Balathal and Pachamta to show internal settlement hierarchy and changing organization.
+|   MECHANISM / ARGUMENT: Balathal fauna was dominated by domesticates, especially cattle, and crops were stored in bins.
+|   CONSEQUENCE / CONTRAST: Compare Ahar, Gilund, Balathal and Pachamta to show internal settlement hierarchy and changing organization.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: shell and semi-precious materials indicate links to Gujarat and other zones.
+|   EXAM OPENING: White-painted black-and-red ware, copper use, mixed farming-herding and varied settlement sizes are major markers.
++--
+        |
+        v
++-- SESSION 27: KAYATHA CULTURE - EARLY MALWA SEQUENCE, WEALTH AND ABRUPT BREAK — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Kayatha is in the Malwa regional sequence.
+|   MECHANISM / ARGUMENT: The abrupt break could reflect conflict, ecological stress, mobility or other causes; evidence does not select one confidently.
+|   CONSEQUENCE / CONTRAST: Use Kayatha to discuss wealth concentration, cultural contact and the difficulty of explaining archaeological breaks.
+|   TRAP / ANSWER-USE: Absence of grain remains in excavation is not proof of no farming.
+|   EXAM OPENING: Kayatha culture in western Madhya Pradesh is an early Chalcolithic phase with fine wheel-made pottery, microliths, copper objects and concentrated bead wealth.
++--
+        |
+        v
++-- SESSION 28: MALWA CULTURE - NAVDATOLI, ERAN, NAGDA AND DECCAN SPREAD — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Malwa pottery is rich in form and motif.
+|   MECHANISM / ARGUMENT: Malwa culture followed Ahar in parts of central India and spread into the Deccan.
+|   CONSEQUENCE / CONTRAST: Fire installations and decorated vessels have been interpreted ritually, but named-deity identifications are conjectural.
+|   TRAP / ANSWER-USE: Malwa culture was a network spanning distinct local ecologies rather than a single homogeneous settlement system.
+|   EXAM OPENING: Navdatoli, Eran and Nagda are core Malwa sites.
++--
+        |
+        v
++-- SESSION 29: WESTERN DECCAN - SEQUENCE CAUTION
+|   DEFINITION / TERMS : Technically, Western Deccan - Sequence Caution is analysed by relating Western Deccan to Deccan Sequence, then testing the relationship through Sequence Caution and Sequence Caution.
+|   MECHANISM / ARGUMENT: Use the region to explain non-linear change; do not memorise every ceramic phase for a general UPSC answer.
+|   CONSEQUENCE / CONTRAST: The resulting consequence is that western Deccan sequences show overlap and reorganisation across cultural labels.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: western Deccan sequences show overlap and reorganisation across cultural labels.
+|   EXAM OPENING: Western Deccan sequences show overlap and reorganisation across cultural labels.
++--
+        |
+        v
++-- SESSION 30: JORWE CULTURE - DISTRIBUTION, POTTERY AND SETTLEMENT HIERARCHY — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Jorwe pottery has a red or bright-orange surface with black geometric painting.
+|   MECHANISM / ARGUMENT: Jorwe pottery has a red or bright-orange surface with black geometric painting.
+|   CONSEQUENCE / CONTRAST: Large centres coordinated craft, exchange or storage, but regional political integration remains uncertain.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: use settlement hierarchy to discuss regional integration without overstating state formation.
+|   EXAM OPENING: Inamgaon is a key Jorwe site.
++--
+        |
+        v
++-- SESSION 31: INAMGAON - SELECTIVE CASE USE
+|   DEFINITION / TERMS : In core answers, use it only to illustrate evidence-bound social differentiation.
+|   MECHANISM / ARGUMENT: In core answers, use it only to illustrate evidence-bound social differentiation.
+|   CONSEQUENCE / CONTRAST: The resulting consequence is that inamgaon is a useful Deccan rural-lifeway case.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: inamgaon is a useful Deccan rural-lifeway case.
+|   EXAM OPENING: Inamgaon is a useful Deccan rural-lifeway case, but detailed household and rank reconstruction belongs to Optional Advanced depth.
++--
+        |
+        v
++-- SESSION 32: DECLINE AND TRANSFORMATION - LATE JORWE AND REGIONAL REORGANIZATION
+|   DEFINITION / TERMS : Technically, Decline And Transformation - Late Jorwe And Regional Reorganization is analysed by relating Decline to Transformation - Late Jorwe, then testing the relationship through Regional Reorganization and Mains angle.
+|   MECHANISM / ARGUMENT: Use 'decline/transformation' rather than a single dramatic collapse unless evidence warrants it.
+|   CONSEQUENCE / CONTRAST: Late levels show smaller huts, coarser pottery, reduced winter crops and greater reliance on hardy crops and wild resources.
+|   TRAP / ANSWER-USE: Abandonment can mean mobility, reorganization or changed archaeological visibility rather than population disappearance.
+|   EXAM OPENING: Late Jorwe is not simply disappearance.
++--
+        |
+        v
++-- SESSION 33: OCP, COPPER HOARDS AND THE UPPER GANGA - ASSOCIATION WITHOUT ETHNIC LABELS — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Hoards imply sophisticated metalworking but their users are difficult to identify.
+|   MECHANISM / ARGUMENT: Hoards imply sophisticated metalworking but their users are difficult to identify.
+|   CONSEQUENCE / CONTRAST: Metal skill does not require nomadism or urbanism.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: use OCP to demonstrate the difference between an artefact horizon and a historically named...
+|   EXAM OPENING: OCP and copper hoards overlap but are not identical distributions.
++--
+        |
+        v
++-- SESSION 34: NEOLITHIC, CHALCOLITHIC AND HARAPPAN - RELATIONSHIP AND DISTINCTIONS — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Daimabad includes a late Harappan phase within a longer Deccan sequence.
+|   MECHANISM / ARGUMENT: Daimabad includes a late Harappan phase within a longer Deccan sequence.
+|   CONSEQUENCE / CONTRAST: Harappan demand may have stimulated rural resource specialization, but local agency remained important.
+|   TRAP / ANSWER-USE: These formations overlap chronologically and interacted materially, but differ in scale, settlement hierarchy, craft organization, writing and urban institutions.
+|   EXAM OPENING: Chalcolithic communities were not failed Harappans.
++--
+        |
+        v
++-- SESSION 35: INTERPRETATIONS AND SOURCE LIMITATIONS - ARCHAEOLOGICAL CULTURE IS NOT A PEOPLE
+|   DEFINITION / TERMS : New methods can change old interpretations.
+|   MECHANISM / ARGUMENT: New methods can change old interpretations.
+|   CONSEQUENCE / CONTRAST: These are analytical constructs and cannot independently establish ethnicity, language, polity or migration.
+|   TRAP / ANSWER-USE: Absence of evidence can reflect preservation or research history rather than ancient absence.
+|   EXAM OPENING: Culture names organize data; they do not speak for ancient identity.
++--
+        |
+        v
++-- SESSION 36: TRANSITION, NOT A SINGLE REVOLUTION
+|   DEFINITION / TERMS : A technological label names an archaeological pattern; it does not by itself name a people or a destiny.
+|   MECHANISM / ARGUMENT: A technological label names an archaeological pattern; it does not by itself name a people or a destiny.
+|   CONSEQUENCE / CONTRAST: In a Mains answer, use "mosaic", "regional" and "overlap" to avoid replacing foragers with an instant farmer category.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: mehrgarh, Kashmir, the Ganga valley and south India are comparison points, not stages of...
+|   EXAM OPENING: Mehrgarh, Kashmir, the Ganga valley and south India are comparison points, not stages of one national ladder.
++--
+        |
+        v
++-- SESSION 37: WHAT COUNTS AS DOMESTICATION EVIDENCE? — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Technically, What Counts As Domestication Evidence? — [Core Prelims + Core Mains] is analysed by relating A seed, animal bone, tool or storage feature to It, then testing the relationship through Counts Domestication and Counts.
+|   MECHANISM / ARGUMENT: A technological label names an archaeological pattern; it does not by itself name a people or a destiny.
+|   CONSEQUENCE / CONTRAST: It can support an inference about cultivation, herding or food processing; it does not automatically settle domestic status or economic dependence.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: it can support an inference about cultivation, herding or food processing.
+|   EXAM OPENING: A seed, animal bone, tool or storage feature is evidence only in context.
++--
+        |
+        v
++-- SESSION 38: REGION-SITE-MARKER TRIADS
+|   DEFINITION / TERMS : Technically, Region-Site-Marker Triads is analysed by relating Mehrgarh--north-west--early to Burzahom--Kashmir--pit, then testing the relationship through Chirand--Bihar--long Neolithic-Chalcolithic and India--cattle.
+|   MECHANISM / ARGUMENT: A technological label names an archaeological pattern; it does not by itself name a people or a destiny.
+|   CONSEQUENCE / CONTRAST: Do not add every excavated site unless it changes the option or argument.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: south India--cattle/polished axes/ash mounds.
+|   EXAM OPENING: Use compact triads: Mehrgarh--north-west--early farming; Burzahom--Kashmir--pit dwellings/bone tools; Chirand--Bihar--long Neolithic-Chalcolithic sequence; south India--cattle/polished axes/ash mounds; Ahar-Gilund--Banas valley--Chalcolithic; Malwa--Navdatoli/Eran/Nagda; Jorwe--Maharashtra.
++--
+        |
+        v
++-- SESSION 39: FROM PRODUCTION TO SOCIAL CONSEQUENCE
+|   DEFINITION / TERMS : Technically, From Production To Social Consequence is analysed by relating A useful causal flow to From Production, then testing the relationship through Production Social and Production Social.
+|   MECHANISM / ARGUMENT: A technological label names an archaeological pattern; it does not by itself name a people or a destiny.
+|   CONSEQUENCE / CONTRAST: The word "possible" matters: storage or a larger house can be a clue, not proof of a fixed hierarchy.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: storage or a larger house can be a clue, not proof of a fixed...
+|   EXAM OPENING: A useful causal flow is ecology/domesticates - cultivation or herding - storage and settlement routines - surplus/craft/exchange - possible differentiation.
++--
+        |
+        v
++-- SESSION 40: CHALCOLITHIC IS RURAL AND REGIONAL, NOT FAILED HARAPPA — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : A technological label names an archaeological pattern; it does not by itself name a people or a destiny.
+|   MECHANISM / ARGUMENT: A technological label names an archaeological pattern; it does not by itself name a people or a destiny.
+|   CONSEQUENCE / CONTRAST: Compare them with Harappan urbanism only to explain differences in scale, settlement and material organisation; never use a culture label as an ethnic identity.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: it does not mean iron, automatic urbanism or a failed version of Harappa.
+|   EXAM OPENING: Chalcolithic means copper plus stone; it does not mean iron, automatic urbanism or a failed version of Harappa.
++--
+        |
+        v
+ANSWER-WRITING SPINE
+definition -> exact terms -> mechanism/evidence -> consequence/contrast
+-> objection/trap -> qualified answer-use

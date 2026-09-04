@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "locked_at": "2026-08-29",
+  "topic_key": "polity-07",
+  "record_id": "polity-07:learner-v2:g16",
+  "generation": 16,
+  "reason": "subject completion regression repair",
+  "artifacts": {
+    "main_pdf": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g16\\polity-07_Complete-Learning-Session_2026-08-28.pdf",
+      "sha256": "d34759c67acc5aab8d6d5d0630032f9bd7742d2dbde9dcc2ae0734756052b70a"
+    },
+    "workbook": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g16\\polity-07_Solved-Practice-Workbook_2026-08-28.pdf",
+      "sha256": "ac4683e26e56063758750b1ab5b5a1c570bb9070d7ac5a019e96e170b8088ef5"
+    },
+    "markdown": {
+      "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g16\\polity-07_Complete-Learning-Session_2026-08-28.md",
+      "sha256": "848ac0ad43da7b308c68caf6668b58dcbe4f35b78747bf4a3bba3dcc0f46624f"
+    },
+    "workbook_markdown": {
+      "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g16\\polity-07_Solved-Practice-Workbook_2026-08-28.md",
+      "sha256": "7b92ee978bc8b507809d597fd56c0ae471c5b472b994ad4f761871df852465e7"
+    }
+  }
+}

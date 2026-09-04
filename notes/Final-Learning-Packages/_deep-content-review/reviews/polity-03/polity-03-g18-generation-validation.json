@@ -1,0 +1,73 @@
+{
+  "topic_key": "polity-03",
+  "source_generation": 17,
+  "refreshed_generation": 18,
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-03",
+  "main_pdf_pages": 78,
+  "workbook_pdf_pages": 20,
+  "session_count": 22,
+  "ascii_panel_count": 11,
+  "ascii_max_line_width": 90,
+  "ascii_branch_count": 0,
+  "ascii_manual_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-23.json",
+  "ascii_embedded_spec_equal": true,
+  "ascii_standalone_spec_equal": true,
+  "ascii_visual_review": {
+    "panel_count": 11,
+    "panel_pages": [
+      75,
+      75,
+      76,
+      76,
+      76,
+      76,
+      77,
+      77,
+      77,
+      77,
+      78
+    ],
+    "rendered_page_count": 4,
+    "contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-03\\carvaka-g18\\embedded-ascii-contact.png",
+    "all_panel_titles_found_once": true,
+    "sequential_panel_pages": true,
+    "blank_or_edge_touch_pages": []
+  },
+  "mcq_count": 48,
+  "mcq_key_counts": {
+    "A": 12,
+    "B": 12,
+    "C": 12,
+    "D": 12
+  },
+  "preservation_verified": true,
+  "source_content_preservation_verified": true,
+  "core_exam_complete": true,
+  "paths": {
+    "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.md",
+    "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Solved-Practice-Workbook_2026-08-28.md",
+    "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.pdf",
+    "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Solved-Practice-Workbook_2026-08-28.pdf",
+    "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-03\\carvaka-g18"
+  },
+  "pdf_layout": {
+    "main": {
+      "page_count": 78,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook": {
+      "page_count": 20,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    }
+  },
+  "errors": [],
+  "passed": true
+}

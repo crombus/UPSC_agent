@@ -1,0 +1,39 @@
+{
+  "record_id": "philosophy-paper-ii-socio-political-philosophy-02:learner-v2:g2",
+  "generation": 2,
+  "scores": {
+    "complete_learning_session": 39,
+    "solved_practice_workbook": 26,
+    "graphical_flowchart": 15,
+    "ascii_master_flowchart": 14,
+    "total": 94
+  },
+  "metrics": {
+    "markdown_characters": 266919,
+    "mcq_count": 48,
+    "mcq_rotation": true,
+    "why_this_earns_marks": 12,
+    "how_to_improve": 0,
+    "refreshed_validation_error_count": 0,
+    "main_pages": 86,
+    "workbook_pages": 29,
+    "main_layout": {
+      "page_count": 86,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook_layout": {
+      "page_count": 29,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "graphical_validation_passed": true
+  },
+  "defects": [
+    "Solved answers lack answer-specific How to improve and executable compression guidance."
+  ]
+}

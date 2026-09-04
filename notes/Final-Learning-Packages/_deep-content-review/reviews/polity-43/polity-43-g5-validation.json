@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "passed": true,
+  "topic_count": 1,
+  "topics": [
+    {
+      "topic_key": "polity-43",
+      "generation": 5,
+      "passed": true,
+      "errors": [],
+      "manual_content_review": "failed separately: malformed Session 2/14 semantic openings and stale star-campaigner attribution in factual-control body"
+    }
+  ]
+}

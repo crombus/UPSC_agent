@@ -1,0 +1,12 @@
+{
+  "topic_key": "science-and-technology-07",
+  "allocated_at": "2026-09-04T09:05:28.257154+00:00",
+  "baseline_record_id": "science-and-technology-07:learner-v2:g1",
+  "new_record_id": "science-and-technology-07:learner-v2:g2",
+  "review_state": "revalidation_pending",
+  "scores": null,
+  "approval": false,
+  "prior_generation_immutable": true,
+  "live_export_identity": "science-and-technology-07:learner-v2:g1",
+  "live_master_identity": "science-and-technology-07:learner-v2:g1"
+}

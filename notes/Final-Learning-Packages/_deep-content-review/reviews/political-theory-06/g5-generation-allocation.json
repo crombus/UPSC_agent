@@ -1,0 +1,13 @@
+{
+  "topic_key": "political-theory-06",
+  "allocated_at": "2026-08-30T10:01:14.601114+00:00",
+  "baseline_record_id": "political-theory-06:learner-v2:g4",
+  "new_record_id": "political-theory-06:learner-v2:g5",
+  "review_state": "validation_failed",
+  "score": null,
+  "approval": false,
+  "prior_generation_immutable": true,
+  "live_export_identity": "political-theory-06:learner-v2:g4",
+  "live_master_identity": "political-theory-06:learner-v2:g4",
+  "failure_reason": "The initial validator accepted only two analytical-use labels and rejected the equally explicit India-centric analytical-use label. Complete artifacts are preserved and were never published."
+}

@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-18",
+  "identity": "polity-18:learner-v2:g3",
+  "audited_on": "2026-08-28T13:20:00+05:30",
+  "approval": false,
+  "source_hashes": {
+    "matched": 39,
+    "total": 39,
+    "mismatches": []
+  },
+  "content_metrics": {
+    "core_sessions": 26,
+    "mcq_keys": 48,
+    "mcq_sequence": "ABCDABCDABCDABCDABCDABCDABCDABCDABCDABCDABCDABCD",
+    "how_to_improve_blocks": 15,
+    "why_earns_marks_blocks": 15,
+    "ellipsis_count": 0,
+    "replacement_glyph_count": 0,
+    "ascii_panels": 12,
+    "graphical_core_stages": 12
+  },
+  "artifacts": {
+    "complete_learning_session": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\18-Supreme-Court\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+      "sha256": "3af52e048d796645e45f8da1eda07b22e5b04e703755aa0ae44cf34803d45049",
+      "bytes": 721640,
+      "pages": 72,
+      "minimum_text_characters": 416
+    },
+    "solved_practice_workbook": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\18-Supreme-Court\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+      "sha256": "2147e4acb239f8bc6092e6d6660b16df212bb447f14620f29ef929f285e0e15c",
+      "bytes": 545731,
+      "pages": 20,
+      "minimum_text_characters": 415
+    },
+    "graphical_poster": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\18-Supreme-Court\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+      "sha256": "7873157471acc3b98a3c69a32f0e58b7d762090bd467c30c8187452bfb1390d3",
+      "bytes": 2840835,
+      "pages": 1,
+      "minimum_text_characters": 0
+    },
+    "ascii_master": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\18-Supreme-Court\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+      "sha256": "99bc29f197cbad57c4def812b17e8e57c7e066663f039cc1507e56a66a2df06b",
+      "bytes": 60149,
+      "pages": 12,
+      "minimum_text_characters": 615
+    }
+  },
+  "layout_errors": [],
+  "tracker_aware_validation": "passed",
+  "focused_tests": "38 refresh tests passed; 6/7 export tests passed with one unrelated pre-existing Philosophy tracker-state failure",
+  "passed": true
+}

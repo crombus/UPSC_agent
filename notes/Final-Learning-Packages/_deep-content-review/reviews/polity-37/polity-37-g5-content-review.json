@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-37",
+  "record_id": "polity-37:learner-v2:g5",
+  "score": 96,
+  "status": "failed_manual_review_truncation_and_ascii_width",
+  "approval": false,
+  "preserved": true
+}

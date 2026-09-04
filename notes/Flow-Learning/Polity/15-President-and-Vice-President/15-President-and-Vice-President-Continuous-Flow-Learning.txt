@@ -1,0 +1,137 @@
+ASCII MASTER FLOW — PANEL 1/9: Two offices and the parliamentary executive design
+PRESIDENT: ARTICLES 52-62, 72, 74
+constitutional Head of State + formal Union executive power + national continuity
+
+VICE-PRESIDENT: ARTICLES 63-71
+ex officio Chairman of Rajya Sabha + constitutional reserve for presidential vacancy
+
+PARLIAMENTARY LOGIC
+President ordinarily acts on ministerial advice
+Vice-President ordinarily works inside Parliament
+
+CURRENT DATED CONTROL: 24 AUGUST 2026
+Droupadi Murmu -> President
+C. P. Radhakrishnan -> Vice-President and Rajya Sabha Chairman.
+
+ASCII MASTER FLOW — PANEL 2/9: Presidential election, vote value and dispute route
+ELECTORAL COLLEGE: ARTICLE 54
+elected MPs + elected MLAs of States + elected MLAs of Delhi and Puducherry
+exclude nominated MPs, nominated MLAs and State Legislative Council members
+
+WEIGHTING: ARTICLE 55
+MLA vote value -> 1971 census population / elected Assembly strength / 1000
+MP vote value -> total MLA vote value / elected MPs
+
+COUNT
+proportional representation by single transferable vote + secret ballot
+
+DISPUTE
+Article 71 -> Supreme Court; vacancy does not invalidate the election.
+
+ASCII MASTER FLOW — PANEL 3/9: Qualifications, oath, tenure, vacancy and removal
+PRESIDENT
+citizen + 35 years + qualified for Lok Sabha + no office of profit
+oath before Chief Justice of India / senior-most available Supreme Court judge
+five-year term; re-election allowed; continues until successor enters office
+casual vacancy election within six months
+
+IMPEACHMENT: ARTICLE 61
+either House starts -> 14-day notice -> one-fourth signatures
+-> two-thirds of total membership in each House -> violation of Constitution
+
+ARTICLE 361
+official-act immunity and procedural protection do not create substantive impunity.
+
+ASCII MASTER FLOW — PANEL 4/9: Aid and advice, reconsideration and bounded discretion
+ARTICLE 74
+Council of Ministers with PM at head aids and advises the President
+President may require reconsideration once
+reconsidered advice binds
+court cannot inquire into what advice was tendered
+
+SITUATIONAL CHOICE
+hung Lok Sabha -> identify person most likely to command confidence
+outgoing ministry -> continuity until an alternative is formed
+
+NOT PERSONAL POLICY POWER
+Shamsher Singh (1974): constitutional head operates through responsible government.
+
+ANSWER VERDICT
+the office can warn, encourage and require reconsideration, not create a rival executive.
+
+ASCII MASTER FLOW — PANEL 5/9: Seven presidential power clusters
+EXECUTIVE -> appointments, Rules of Business, administration in President's name
+LEGISLATIVE -> summon, prorogue, dissolve LS, address, nominate, assent
+FINANCIAL -> recommendation routes, Budget presentation, Finance Commission
+JUDICIAL -> Article 72 clemency + Article 143 reference
+DIPLOMATIC -> credentials and treaty form, subject to constitutional law
+MILITARY -> Supreme Commander in constitutional form
+EMERGENCY -> Articles 352, 356 and 360 on constitutional advice
+
+CONTROL
+formal breadth is ordinarily exercised through ministerial responsibility and review.
+
+ASCII MASTER FLOW — PANEL 6/9: Veto and ordinance: the executive-legislative interface
+ARTICLE 111
+ordinary Bill -> assent / withhold / return once
+repassed ordinary Bill -> assent required
+Money Bill -> cannot be returned
+Constitution Amendment Bill -> assent required
+pocket veto -> no textual decision deadline for Union Bills
+
+ARTICLE 123
+Parliament not both in session + immediate action necessary
+-> ordinance has force of Act -> laid before Parliament
+-> ceases six weeks after reassembly unless replaced / disapproved / withdrawn
+
+CASE CONTROL
+D.C. Wadhwa (1986) and Krishna Kumar Singh (2017) reject routine re-promulgation.
+
+ASCII MASTER FLOW — PANEL 7/9: Article 72 clemency and the Governor comparison
+FIVE FORMS
+pardon | reprieve | respite | remission | commutation
+
+PRESIDENT: ARTICLE 72
+court-martial cases
+offences against Union executive field
+all death-sentence cases
+
+GOVERNOR: ARTICLE 161
+State executive field; cannot pardon a court-martial
+death sentence may be suspended, remitted or commuted, not pardoned under Article 161
+
+RULE-OF-LAW CONTROL
+ministerial advice + limited review for mala fides, arbitrariness or irrelevant material.
+
+ASCII MASTER FLOW — PANEL 8/9: Vice-President: election, removal, Chair and acting role
+ELECTION
+members of both Houses, elected and nominated; State legislatures excluded
+
+REMOVAL
+Rajya Sabha resolution by majority of all then members
+-> agreed by Lok Sabha -> 14-day notice
+not impeachment; no 'violation of Constitution' ground is required
+
+CHAIRMAN
+procedure, discipline and casting vote; no ordinary first vote
+Tenth Schedule adjudication is reviewable; own-removal debate uses special arrangement
+
+ACTING PRESIDENT
+discharges presidential functions during vacancy / inability; separate office rules apply.
+
+ASCII MASTER FLOW — PANEL 9/9: Conventions, cases, traps and the answer spine
+CASE / CONVENTION ROUTES
+Shamsher Singh (1974) -> constitutional head
+Kehar Singh (1988) / Maru Ram (1980) -> clemency on advice with bounded review
+Krishna Kumar Singh (2017) -> ordinance limits
+hung House -> confidence, not personal preference
+
+PRELIMS FIREWALL
+President and Vice-President colleges are different
+President impeachment != Vice-President removal
+six-month vacancy rule applies to President, not Vice-President
+Money Bill cannot be returned; Amendment Bill requires assent
+
+MAINS SPINE
+constitutional position -> exact power -> advice/procedure -> case -> bounded discretion
+-> accountability -> sentinel without a rival popular mandate.

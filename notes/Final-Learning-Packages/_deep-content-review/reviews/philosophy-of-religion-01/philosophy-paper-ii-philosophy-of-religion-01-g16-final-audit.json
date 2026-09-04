@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-01",
+  "record_id": "philosophy-paper-ii-philosophy-of-religion-01:learner-v2:g16",
+  "approval": false,
+  "result": "passed",
+  "hard_gates": {
+    "core_and_syllabus_complete": true,
+    "doctrinal_attribution_qualified": true,
+    "pyq_ledger_reconciled_2018_2025": true,
+    "answer_specific_improvement_and_compression": true,
+    "mcq_count_48": true,
+    "mcq_rotation": true,
+    "graphical_and_ascii_consistent": true,
+    "pdf_layout_clean": true
+  },
+  "metrics": {
+    "mcq_count": 48,
+    "main_pages": 123,
+    "workbook_pages": 50,
+    "answer_improvement_blocks": 26
+  },
+  "layout_errors": [],
+  "layout_metrics": {
+    "main": {
+      "page_count": 123,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook": {
+      "page_count": 50,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    }
+  },
+  "hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\g16\\topic-01_Complete-Learning-Session_2026-09-03.md": "6906ca5f32001e1f53bcd42fc5d0b88466b20d59ceb17610f5abad0fc0b161c1",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\g16\\topic-01_Solved-Practice-Workbook_2026-09-03.md": "fdeb5b34d0f2771e2ff2bf7a60a965e494451fb4c9917e866ca169901f6e6193",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\g16\\topic-01_Complete-Learning-Session_2026-09-03.pdf": "6432937389894775076597ccd7bd63892406e2b40f30664ff808414fb466f52c",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\g16\\topic-01_Solved-Practice-Workbook_2026-09-03.pdf": "b0f3013cabd39eeb051cf9448e5128ccaefa9728b7a2c1b1639de61af8ea61d9",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\g16\\validation\\main-visual-audit-map.json": "7e24a4d23f9c5ceeb1b2f27152ffd21d22b77fa903f3773fb3c03d1390f8b4bd",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Notions-of-God\\g16\\validation\\workbook-visual-audit-map.json": "6d4a89f55f979724f53b5e2366401cb26a56daf61ec5ce8bf531526108f8a04f",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Philosophy\\philosophy-paper-ii-philosophy-of-religion-01-g16.json": "0fbf7ae5615742931b1165b48f913063afe3463c67d01510422d72a1d291fb6d",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g16\\ascii-master.pdf": "ba0c48a49f09d9caf3e0f67cb427078384bee871fe6f0c0556cf7c35b693ff98",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g16\\ascii-master.txt": "efb7eff81641b1bcbda3f4a3739302bd9639f60f05e801b14085f25261c57c98",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g16\\build-audit.json": "478cf2d6953fa78f83dabd1e53e873b445168af7ab4223d2408661550218d633",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g16\\master.png": "716f003c39a96826df6ca0a2aef363de9b24af1e227907f331ace133d6c513f1",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g16\\poster.pdf": "43ec781a26c31e1309bee78338fdad9303500a9719015216b8761e8d1edceccd",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g16\\preservation-hashes.json": "5574231d15bb479370fc0f9ece351979f2a18c65c48282e9a647a85cfdbe2949",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g16\\README.txt": "f9cd9209de1833ad10364eef9ff273efa25df4429c37b41208ae7671171ff2c9",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g16\\tiled.pdf": "df7d19f4ca99c71fa5134cda6157e9b7222fee119c632e8d1a0f0266de303c35",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g16\\validation-report.txt": "3b98bb92a11130276862aa207b1129470f72d65580e9eee9ba8202acf4101451",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g16\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g16\\editable\\topic-spec.json": "0fbf7ae5615742931b1165b48f913063afe3463c67d01510422d72a1d291fb6d",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g16\\previews\\contact-sheet-01.png": "b1ff8b93e1397831d75d48a51bd6b15c1bc1e56047d91d002f9be4247cfef484",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g16\\previews\\master-overview.png": "8853e7ac3c57d682fcf44be830b1a48880b1f0a4d5efe6df0d0d8c54215b45fe",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g16\\previews\\page-001.png": "591aaebc8303c7deaf67ff51930e91ef0efe2a01302bb17d030ca6b543c9b661",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g16\\previews\\page-002.png": "c07ba76a06aa9e18ab84549dcabb5babf8d5797290db1fd81ec725401c95275e",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g16\\previews\\page-003.png": "0003c66a87236f4cca5f2c177407db33c782285434edf6ee86214f9546e7b24a",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Philosophy-of-Religion\\flowcharts\\Notions-of-God\\carvaka-g16\\previews\\page-004.png": "c6e5281d6303a8a7cee4507a5acc123e2b0e4f2987687513c98c2ff028bc4f94"
+  },
+  "baseline_score": 97,
+  "re_review_score": 99,
+  "old_record_id": "philosophy-paper-ii-philosophy-of-religion-01:learner-v2:g15",
+  "new_record_id": "philosophy-paper-ii-philosophy-of-religion-01:learner-v2:g16",
+  "issues_closed": [
+    "exact syllabus ownership and cross-topic boundaries made explicit",
+    "notion/role taxonomy and attribute-coherence gaps repaired",
+    "Nyaya and non-creator Indian profiles promoted without importing proofs",
+    "anthropomorphism, analogy and gender-language controls added",
+    "ASCII and graphical artifacts regenerated from the repaired source"
+  ]
+}

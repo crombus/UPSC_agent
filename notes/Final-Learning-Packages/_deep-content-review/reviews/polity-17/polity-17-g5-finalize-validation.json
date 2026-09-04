@@ -1,0 +1,25 @@
+{
+  "topic_key": "polity-17",
+  "identity": "polity-17:learner-v2:g5",
+  "validated_on": "2026-08-28T12:30:00+05:30",
+  "passed": true,
+  "approval": false,
+  "checks": {
+    "generation_local_validation": "passed",
+    "tracker_aware_validate_v2_export": "passed",
+    "source_hashes": "31/31",
+    "mcq_rotation": "48 keys; ABCD x 12",
+    "answer_guidance": "15 Why-this-earns-marks plus 15 answer-specific How-to-improve blocks",
+    "prose_integrity": "zero ellipses and replacement glyphs",
+    "four_item_export": "passed",
+    "final_pdf_layout": "no blank, near-empty or replacement-glyph pages",
+    "ascii_reconciliation": "12 text panels = 12 PDF pages",
+    "graphical_reconciliation": "12 Core stages; six layouts; same-master poster/tiled checks passed",
+    "focused_tests": "38 passed"
+  },
+  "intermediates": [
+    "polity-17:learner-v2:g3",
+    "polity-17:learner-v2:g4"
+  ],
+  "explicit_approval": false
+}

@@ -1,0 +1,1 @@
+Preserve polity-37 g2. Generate a new immutable four-artifact package from corrected CVC Act/DSPE owners. Require exact CVC/CBI/Lokpal/DoPT interfaces, consent/court routes, Director safeguards, investigation-prosecution distinction, PYQs, nine guidance pairs, ABCD x12, twelve agreeing flows, zero prose mutation and tests. Approval false; no carried score.

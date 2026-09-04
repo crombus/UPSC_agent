@@ -1,0 +1,398 @@
+{
+  "schema_version": 1,
+  "topic_key": "ancient-indian-history-02",
+  "generation": 6,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-02\\ancient-indian-history-02_Complete-Learning-Session_2026-08-22.md",
+  "master_dimensions": [
+    3600,
+    29290
+  ],
+  "stages": [
+    {
+      "title": "UPSC RELEVANCE AND ANSWER-WORTHINESS AUDIT",
+      "terms": "UPSC Relevance and Answer-Worthiness Audit: This topic is directly relevant to Prelims GS-I under History of India, where source/site/text matching and statement elimination can be tested.",
+      "mechanism": "It is indirectly relevant to the printed GS-I Mains syllabus, but directly useful as method for ancient-history/culture answers.",
+      "consequence": "The verified 2018 GS-I demand on Chinese and Arab travellers gives it a clear Mains source-method route.",
+      "trap": "PYQ frequency is limited; it supports focused preparation, not an endless catalogue.",
+      "answer": "This topic is directly relevant to Prelims GS-I under History of India, where source/site/text matching and statement elimination can be tested."
+    },
+    {
+      "title": "ROADMAP: FROM SURVIVING TRACE TO DEFENSIBLE HISTORY — [CORE MAINS]",
+      "terms": "Roadmap: From Surviving Trace to Defensible History — [CORE MAINS]: No separate dated item is forced into this subtopic; static evidence remains primary.",
+      "mechanism": "It is reconstructed from surviving traces that were created for different purposes, preserved unevenly and interpreted through explicit methods.",
+      "consequence": "CA SEARCH - India 2026 archaeology, inscriptions, manuscripts, scientific dating and source criticism.",
+      "trap": "Ancient Indian history is not retrieved from a single archive.",
+      "answer": "PRE-TEACH CHECKLIST - Book context queried directly: R.S."
+    },
+    {
+      "title": "SOURCE CRITICISM: AUTHENTICITY, MEANING AND CORROBORATION — [CORE MAINS]",
+      "terms": "Source Criticism: Authenticity, Meaning and Corroboration — [CORE MAINS]: No separate dated item is forced into this subtopic; static evidence remains primary.",
+      "mechanism": "28-43 and 59-63; Upinder Singh, local PDF pp.",
+      "consequence": "CA SEARCH - India 2026 archaeology, inscriptions, manuscripts, scientific dating and source criticism.",
+      "trap": "Context: Upinder Singh describes a text as a refracted, not direct, image of society.",
+      "answer": "PRE-TEACH CHECKLIST - Book context queried directly: R.S."
+    },
+    {
+      "title": "ARCHAEOLOGY I: ARTEFACT, INDUSTRY, ASSEMBLAGE AND CULTURE — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Archaeology I: Artefact, Industry, Assemblage and Culture — [CORE PRELIMS + CORE MAINS]: Its central move is to recover behaviour from objects without detaching them from association and context.",
+      "mechanism": "Archaeology studies the human past through material remains, from palaces and temples to broken pottery, seeds and refuse.",
+      "consequence": "CA SEARCH - PIB Rakhigarhi scientific study June 2026.",
+      "trap": "INFERENCE: laboratories add new evidence; they do not produce a self-interpreting history.",
+      "answer": "PRE-TEACH CHECKLIST - Book context queried directly: R.S."
+    },
+    {
+      "title": "ARCHAEOLOGY II: SURVEY, STRATIGRAPHY AND EXCAVATION STRATEGY — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Archaeology II: Survey, Stratigraphy and Excavation Strategy — [CORE PRELIMS + CORE MAINS]: Association matters: an artefact dates a layer only when deposition is secure and intrusion is excluded.",
+      "mechanism": "Upinder Singh adds formation process, destructive recording, remote sensing, regional survey and publication.",
+      "consequence": "Sharma contrasts vertical and horizontal excavation.",
+      "trap": "A site is excavated to answer a question, not merely to find attractive objects.",
+      "answer": "PRE-TEACH CHECKLIST - Book context queried directly: R.S."
+    },
+    {
+      "title": "SCIENTIFIC DATING AND ARCHAEOMETRY: PRECISION WITH ERROR BARS — [SUPPORTING]",
+      "terms": "Scientific Dating and Archaeometry: Precision with Error Bars — [SUPPORTING]: Modern conventional C-14 half-life is about 5,730 years; older literature may use the Libby value 5,568 years.",
+      "mechanism": "Modern conventional C-14 half-life is about 5,730 years; older literature may use the Libby value 5,568 years.",
+      "consequence": "They refine history, but every result still depends on sample integrity, calibration and archaeological association.",
+      "trap": "INFERENCE: laboratories add new evidence; they do not produce a self-interpreting history.",
+      "answer": "PRE-TEACH CHECKLIST - Book context queried directly: R.S."
+    },
+    {
+      "title": "BIOARCHAEOLOGY, ENVIRONMENT AND ETHNOARCHAEOLOGY — [SUPPORTING]",
+      "terms": "Bioarchaeology, Environment and Ethnoarchaeology — [SUPPORTING]: Village study and survival arguments must avoid assuming that a present custom is an unchanged fossil of antiquity.",
+      "mechanism": "Environmental archaeology requires collaboration between archaeologists and scientists.",
+      "consequence": "CA SEARCH - PIB Rakhigarhi scientific study June 2026.",
+      "trap": "INFERENCE: laboratories add new evidence; they do not produce a self-interpreting history.",
+      "answer": "PRE-TEACH CHECKLIST - Book context queried directly: R.S."
+    },
+    {
+      "title": "EPIGRAPHY I: INSCRIPTIONS, SCRIPTS AND DECIPHERMENT — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Epigraphy I: Inscriptions, Scripts and Decipherment — [CORE PRELIMS + CORE MAINS]: An inscription is writing engraved on stone, metal, wood, ivory, brick, pottery, shell, image or another durable surface.",
+      "mechanism": "Prinsep read the script; identification of Piyadasi with Ashoka depended on comparison with Sri Lankan Pali chronicles through George Turnour.",
+      "consequence": "Decipherment is therefore itself a multi-source achievement.",
+      "trap": "Inscriptions combine durable material, script, language, formula and social act, making them unusually rich but never neutral.",
+      "answer": "PRE-TEACH CHECKLIST - Book context queried directly: R.S."
+    },
+    {
+      "title": "EPIGRAPHY II: TYPES, DATING, USES AND BIASES — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Epigraphy II: Types, Dating, Uses and Biases — [CORE PRELIMS + CORE MAINS]: Conversion requires the era's starting year, month system and whether the year is current or expired.",
+      "mechanism": "Context: Upinder Singh classifies records by issuer, surface, language, region, purpose and content.",
+      "consequence": "Mains angle: Contrast epigraphic immediacy with epigraphic selectivity: inscriptions are close to acts, but usually far from a representative social voice.",
+      "trap": "Inscriptions are often contemporaneous, durable and locatable; these advantages do not cancel rhetoric.",
+      "answer": "PRE-TEACH CHECKLIST - Book context queried directly: R.S."
+    },
+    {
+      "title": "NUMISMATICS I: READING A COIN AS OBJECT, TEXT AND INSTRUMENT — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Numismatics I: Reading a Coin as Object, Text and Instrument — [CORE PRELIMS + CORE MAINS]: No separate dated item is forced into this subtopic; static evidence remains primary.",
+      "mechanism": "Numismatics studies coins through metal, fabric, weight, manufacture, design, legend, die, findspot and circulation.",
+      "consequence": "XRF can estimate elemental composition non-destructively; material result still needs mint and circulation interpretation.",
+      "trap": "Mint towns may be suggested by concentrations of moulds or production debris, not by a single stray coin.",
+      "answer": "PRE-TEACH CHECKLIST - Book context queried directly: R.S."
+    },
+    {
+      "title": "NUMISMATICS II: HISTORICAL USES AND INTERPRETATION LIMITS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Numismatics II: Historical Uses and Interpretation Limits — [CORE PRELIMS + CORE MAINS]: No separate dated item is forced into this subtopic; static evidence remains primary.",
+      "mechanism": "The Jogalthembi hoard of Nahapana coins counter-struck by Gautamiputra Satakarni is a classic case of numismatic-political correlation.",
+      "consequence": "CA SEARCH - India 2026 archaeology, inscriptions, manuscripts, scientific dating and source criticism.",
+      "trap": "Yet a coin's place of discovery, political frontier and area of normal use are not identical.",
+      "answer": "PRE-TEACH CHECKLIST - Book context queried directly: R.S."
+    },
+    {
+      "title": "MANUSCRIPTS, ORAL TRANSMISSION AND CRITICAL EDITIONS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Manuscripts, Oral Transmission and Critical Editions — [CORE PRELIMS + CORE MAINS]: Conflating them is one of the most common errors in ancient history.",
+      "mechanism": "Palm-leaf manuscripts were engraved with a stylus, darkened with soot/charcoal mixture, strung and protected by covers.",
+      "consequence": "CA SEARCH - Ministry of Culture Gyan Bharatam manuscript survey 2026.",
+      "trap": "INFERENCE: digitisation expands access but does not remove problems of dating, recension, authorship or bias.",
+      "answer": "PRE-TEACH CHECKLIST - Book context queried directly: R.S."
+    },
+    {
+      "title": "BRAHMANICAL LITERARY SOURCES: VEDAS, EPICS, PURANAS AND SHASTRAS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Brahmanical Literary Sources: Vedas, Epics, Puranas and Shastras — [CORE PRELIMS + CORE MAINS]: Panini's grammar is historically valuable because examples incidentally illuminate places, society and economy.",
+      "mechanism": "Panini's grammar is historically valuable because examples incidentally illuminate places, society and economy.",
+      "consequence": "CA SEARCH - Ministry of Culture Gyan Bharatam manuscript survey 2026.",
+      "trap": "INFERENCE: digitisation expands access but does not remove problems of dating, recension, authorship or bias.",
+      "answer": "PRE-TEACH CHECKLIST - Book context queried directly: R.S."
+    },
+    {
+      "title": "BUDDHIST, JAINA AND SANGAM SOURCES — [CORE PRELIMS + CORE MAINS]",
+      "terms": "The legend of three Sangams is not accepted literally; some historians prefer 'early classical Tamil literature'.",
+      "mechanism": "Buddhist, Jaina and early Tamil texts diversify the archive by preserving monastic, mercantile, regional and non-Brahmanical viewpoints.",
+      "consequence": "CA SEARCH - Ministry of Culture Gyan Bharatam manuscript survey 2026.",
+      "trap": "INFERENCE: digitisation expands access but does not remove problems of dating, recension, authorship or bias.",
+      "answer": "PRE-TEACH CHECKLIST - Book context queried directly: R.S."
+    },
+    {
+      "title": "FOREIGN ACCOUNTS: GREEK, ROMAN, CHINESE AND ARAB WITNESSES — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Foreign Accounts: Greek, Roman, Chinese and Arab Witnesses — [CORE PRELIMS + CORE MAINS]: No separate dated item is forced into this subtopic; static evidence remains primary.",
+      "mechanism": "Megasthenes survives in fragments quoted by later authors; quotation history is part of source criticism.",
+      "consequence": "CA SEARCH - India 2026 archaeology, inscriptions, manuscripts, scientific dating and source criticism.",
+      "trap": "Commercial manuals describe ports and commodities but are not population censuses or complete trade ledgers.",
+      "answer": "PRE-TEACH CHECKLIST - Book context queried directly: R.S."
+    },
+    {
+      "title": "LINGUISTIC EVIDENCE, ORAL TRADITIONS AND VILLAGE STUDY — [SUPPORTING]",
+      "terms": "No separate dated item is forced into this subtopic; static evidence remains primary.",
+      "mechanism": "Language families are identified through systematic structural and cognate relationships, not racial appearance.",
+      "consequence": "CA SEARCH - India 2026 archaeology, inscriptions, manuscripts, scientific dating and source criticism.",
+      "trap": "Language families are identified through systematic structural and cognate relationships, not racial appearance.",
+      "answer": "PRE-TEACH CHECKLIST - Book context queried directly: R.S."
+    },
+    {
+      "title": "MONUMENTS, MATERIAL CULTURE AND VISUAL SOURCES — [SUPPORTING]",
+      "terms": "Monuments, Material Culture and Visual Sources — [SUPPORTING]: Style is a relative dating aid; secure inscriptions and stratigraphy are stronger anchors.",
+      "mechanism": "An image of a deity records iconographic convention and patronage, not the statistical popularity of a cult by itself.",
+      "consequence": "CA SEARCH - ASI Nallamala epigraphy survey June 2026.",
+      "trap": "Architecture, sculpture, painting, terracotta, seals and ritual objects are not decoration added to history; they are evidence for patronage, technology, labour, movement, iconography and social practice.",
+      "answer": "PRE-TEACH CHECKLIST - Book context queried directly: R.S."
+    },
+    {
+      "title": "CHRONOLOGY: RELATIVE, ABSOLUTE AND TEXTUAL TIME — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Chronology is not one timeline but a negotiation among stratigraphic sequence, artefact typology, scientific ranges, inscriptional eras, regnal years, synchronisms and textual layers.",
+      "mechanism": "Synchronisms are powerful because they connect independent chronological systems.",
+      "consequence": "CA SEARCH - PIB Rakhigarhi scientific study June 2026.",
+      "trap": "INFERENCE: laboratories add new evidence; they do not produce a self-interpreting history.",
+      "answer": "PRE-TEACH CHECKLIST - Book context queried directly: R.S."
+    },
+    {
+      "title": "TRIANGULATION: HOW DIFFERENT SOURCES WORK TOGETHER — [CORE MAINS]",
+      "terms": "Triangulation: How Different Sources Work Together — [CORE MAINS]: No separate dated item is forced into this subtopic; static evidence remains primary.",
+      "mechanism": "First match scale: a household find cannot by itself prove an empire-wide institution.",
+      "consequence": "CA SEARCH - India 2026 archaeology, inscriptions, manuscripts, scientific dating and source criticism.",
+      "trap": "Triangulation does not force different sources to tell the same story.",
+      "answer": "PRE-TEACH CHECKLIST - Book context queried directly: R.S."
+    },
+    {
+      "title": "BIAS, SILENCE, PRESERVATION AND THE ETHICS OF INFERENCE — [CORE MAINS]",
+      "terms": "Bias, Silence, Preservation and the Ethics of Inference — [CORE MAINS]: The archive is not merely incomplete; it is structured by literacy, power, durability, collecting, excavation priorities and modern political desire.",
+      "mechanism": "The archive is not merely incomplete; it is structured by literacy, power, durability, collecting, excavation priorities and modern political desire.",
+      "consequence": "Source criticism therefore has an ethical dimension.",
+      "trap": "INFERENCE: digitisation expands access but does not remove problems of dating, recension, authorship or bias.",
+      "answer": "PRE-TEACH CHECKLIST - Book context queried directly: R.S."
+    },
+    {
+      "title": "INDIA-CENTRIC SOURCE LABS: HARAPPAN TO GUPTA — [SUPPORTING]",
+      "terms": "The quickest way to master sources is to identify which class dominates each period and what corroboration changes the confidence of the reconstruction.",
+      "mechanism": "Harappan weights support standardization; they do not by themselves define a modern state bureaucracy.",
+      "consequence": "CA SEARCH - PIB Rakhigarhi scientific study June 2026.",
+      "trap": "INFERENCE: laboratories add new evidence; they do not produce a self-interpreting history.",
+      "answer": "PRE-TEACH CHECKLIST - Book context queried directly: R.S."
+    },
+    {
+      "title": "CURRENT LINKAGES: MANUSCRIPTS, EPIGRAPHY AND SCIENTIFIC ARCHAEOLOGY — [SUPPORTING]",
+      "terms": "Current Linkages: Manuscripts, Epigraphy and Scientific Archaeology — [SUPPORTING]: No unrelated heritage item and no unverified numismatic claim is included.",
+      "mechanism": "PIB pages returned HTTP 403 to direct fetch, so PIB facts were verified through web search citations and corroborating DD/press coverage; the Ministry of Culture event page and New Indian Express report were directly available.",
+      "consequence": "INFERENCE: population-history results must not be converted directly into linguistic, caste or civilizational labels.",
+      "trap": "FACT: the Gyan Bharatam survey aims to identify, map and catalogue manuscripts; ownership is not automatically transferred.",
+      "answer": "Live-source window: 12 February-12 August 2026."
+    },
+    {
+      "title": "UPSC SOURCE-SELECTION AND ANSWER-WRITING PROTOCOL — [CORE MAINS]",
+      "terms": "UPSC Source-Selection and Answer-Writing Protocol — [CORE MAINS]: No separate dated item is forced into this subtopic; static evidence remains primary.",
+      "mechanism": "Sharma establishes the changing source profile from prehistory to Ashokan epigraphy; Upinder Singh requires context, source potential, limitation and co-relation.",
+      "consequence": "Mains angle: One-line template: 'X is a strong source for A because..., but weak for B because...; therefore it must be co-related with Y.'",
+      "trap": "For everyday life, Inamgaon's courtyard soil chemistry and marine remains show activity and contact but not the identity of every actor.",
+      "answer": "PRE-TEACH CHECKLIST - Book context queried directly: R.S."
+    },
+    {
+      "title": "AUDITED CORE APPLICATION LABS",
+      "terms": "Audited Core Application Labs: They retain the teaching moves needed for Prelims elimination and GS-I answers; laboratory minutiae and repeat examples are deliberately compressed or left to the Optional Advanced block.",
+      "mechanism": "These eight labs replace repetitive source-by-source procedural walkthroughs.",
+      "consequence": "They retain the teaching moves needed for Prelims elimination and GS-I answers; laboratory minutiae and repeat examples are deliberately compressed or left to the Optional Advanced block.",
+      "trap": "Answer-use: These eight labs replace repetitive source-by-source procedural walkthroughs.",
+      "answer": "These eight labs replace repetitive source-by-source procedural walkthroughs."
+    },
+    {
+      "title": "LAB 1. FROM A QUESTION TO AN EVIDENCE CLAIM — [CORE MAINS]",
+      "terms": "Ask what the question is actually about before selecting a source.",
+      "mechanism": "A political act, a settlement pattern, a norm and a route are not identical questions.",
+      "consequence": "A source has value when its medium and context could register the issue being asked.",
+      "trap": "A political act, a settlement pattern, a norm and a route are not identical questions.",
+      "answer": "Ask what the question is actually about before selecting a source."
+    },
+    {
+      "title": "LAB 2. TEXTS, GENRE AND TRANSMISSION — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Composition, oral transmission, manuscript copy and later edition are different dates and different historical questions.",
+      "mechanism": "Composition, oral transmission, manuscript copy and later edition are different dates and different historical questions.",
+      "consequence": "For Mains, identify genre before use: prescription gives an ideal, praise gives a public claim, narrative can preserve layered memory.",
+      "trap": "Memorise the major literary families--Vedic, epic, Puranic, Buddhist, Jaina and Sangam--but understand why they cannot be merged into a single neutral archive.",
+      "answer": "Memorise the major literary families--Vedic, epic, Puranic, Buddhist, Jaina and Sangam--but understand why they cannot be merged into a single neutral archive."
+    },
+    {
+      "title": "LAB 3. ARCHAEOLOGY: CONTEXT BEFORE OBJECT — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Lab 3. Archaeology: Context Before Object — [CORE PRELIMS + CORE MAINS]: Memorise the basic distinction: vertical excavation is especially useful for sequence/stratigraphy; horizontal exposure helps recover plan and settlement organisation.",
+      "mechanism": "Understand the reason: a find gains meaning from layer, association and recorded location.",
+      "consequence": "An artefact without secure context may be physically interesting but is weak for chronology or activity.",
+      "trap": "Do not turn a pot, seal or building into an automatic ethnic or political label.",
+      "answer": "Memorise the basic distinction: vertical excavation is especially useful for sequence/stratigraphy; horizontal exposure helps recover plan and settlement organisation."
+    },
+    {
+      "title": "LAB 4. DATING AND SCIENTIFIC EVIDENCE — [SUPPORTING]",
+      "terms": "Lab 4. Dating and Scientific Evidence — [SUPPORTING]: For Mains, one sentence is enough: science can refine chronology, foodways or technology, but it does not directly reveal identity, motive or belief.",
+      "mechanism": "Do not memorise laboratory procedure unless a question requires it.",
+      "consequence": "Retain only the exam-useful rule: a scientific method dates or measures a particular material, and its result must be read with sample association, range and context.",
+      "trap": "Do not memorise laboratory procedure unless a question requires it.",
+      "answer": "Retain only the exam-useful rule: a scientific method dates or measures a particular material, and its result must be read with sample association, range and context."
+    },
+    {
+      "title": "LAB 5. INSCRIPTIONS, SCRIPTS AND COINS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Lab 5. Inscriptions, Scripts and Coins — [CORE PRELIMS + CORE MAINS]: A royal eulogy, donation and grant are not the same; issuer is not identical to a coin's circulation zone.",
+      "mechanism": "From Ashokan times inscriptions provide firmer anchors for reconstruction.",
+      "consequence": "Coins can illuminate authority, exchange, imagery, script and circulation.",
+      "trap": "A royal eulogy, donation and grant are not the same; issuer is not identical to a coin's circulation zone.",
+      "answer": "Memorise: epigraphy studies inscriptions, palaeography old scripts, numismatics coins; Brahmi runs left-to-right and Kharoshthi right-to-left."
+    },
+    {
+      "title": "LAB 6. TRAVELLERS, LINGUISTICS AND VISUAL EVIDENCE — [CORE PRELIMS + SUPPORTING]",
+      "terms": "Treat monuments, images and architecture as material and visual evidence requiring patronage, setting and medium.",
+      "mechanism": "Treat monuments, images and architecture as material and visual evidence requiring patronage, setting and medium.",
+      "consequence": "Use traveller accounts for a located observation--route, institution or social impression--and check route, language access, informants and intended audience.",
+      "trap": "Memorise that foreign accounts supplement indigenous sources and that language cannot be mechanically equated with race or ethnicity.",
+      "answer": "Memorise that foreign accounts supplement indigenous sources and that language cannot be mechanically equated with race or ethnicity."
+    },
+    {
+      "title": "LAB 7. TRIANGULATION, SILENCE AND CHRONOLOGY — [CORE MAINS]",
+      "terms": "Triangulation means comparing independent source pathways at the same scale.",
+      "mechanism": "Agreement raises confidence only when two sources are not merely repeating one origin.",
+      "consequence": "Disagreement may reveal region, genre, chronology or audience rather than make one source useless.",
+      "trap": "Agreement raises confidence only when two sources are not merely repeating one origin.",
+      "answer": "Triangulation means comparing independent source pathways at the same scale."
+    },
+    {
+      "title": "LAB 8. THE UPSC ANSWER-WORTHINESS CHECK — [CORE MAINS]",
+      "terms": "Lab 8. The UPSC Answer-Worthiness Check — [CORE MAINS]: A qualified verdict--multi-source reconstruction is stronger because it names convergence and gaps--closes the answer.",
+      "mechanism": "Do not insert a scholar name, technical method or site list merely because it sounds authoritative.",
+      "consequence": "Do not insert a scholar name, technical method or site list merely because it sounds authoritative.",
+      "trap": "Do not insert a scholar name, technical method or site list merely because it sounds authoritative.",
+      "answer": "A source mention earns marks only when it advances the directive."
+    },
+    {
+      "title": "CORE CASE CLINICS: EIGHT NON-REPETITIVE METHOD CHECKS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Core Case Clinics: Eight Non-Repetitive Method Checks — [CORE PRELIMS + CORE MAINS]: This is stronger than writing that a text is either wholly true or wholly biased.",
+      "mechanism": "Use science to answer the question it measures--date, plant remain, animal remain or material process--and then correlate it with stratigraphy and other evidence.",
+      "consequence": "Do not write \"there is no evidence, therefore it did not exist.\" Instead write: \"this source does not attest it; the significance of that silence depends on preservation, source purpose and search intensity.\" This formulation is short, defensible and useful in debates where elite records, perishable practices or under-excavated landscapes leave gaps.",
+      "trap": "A royal inscription may establish a public grant, but cannot alone describe routine work.",
+      "answer": "A question asks about everyday production."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 3,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7760,
+      "y_end": 9960,
+      "overlap_px": 260,
+      "from_stage": 9,
+      "continues_stage": 12
+    },
+    {
+      "page": 6,
+      "y_start": 9700,
+      "y_end": 11900,
+      "overlap_px": 260,
+      "from_stage": 11,
+      "continues_stage": 14
+    },
+    {
+      "page": 7,
+      "y_start": 11640,
+      "y_end": 13840,
+      "overlap_px": 260,
+      "from_stage": 14,
+      "continues_stage": 16
+    },
+    {
+      "page": 8,
+      "y_start": 13580,
+      "y_end": 15780,
+      "overlap_px": 260,
+      "from_stage": 16,
+      "continues_stage": 18
+    },
+    {
+      "page": 9,
+      "y_start": 15520,
+      "y_end": 17720,
+      "overlap_px": 260,
+      "from_stage": 18,
+      "continues_stage": 20
+    },
+    {
+      "page": 10,
+      "y_start": 17460,
+      "y_end": 19660,
+      "overlap_px": 260,
+      "from_stage": 20,
+      "continues_stage": 23
+    },
+    {
+      "page": 11,
+      "y_start": 19400,
+      "y_end": 21600,
+      "overlap_px": 260,
+      "from_stage": 22,
+      "continues_stage": 25
+    },
+    {
+      "page": 12,
+      "y_start": 21340,
+      "y_end": 23540,
+      "overlap_px": 260,
+      "from_stage": 25,
+      "continues_stage": 27
+    },
+    {
+      "page": 13,
+      "y_start": 23280,
+      "y_end": 25480,
+      "overlap_px": 260,
+      "from_stage": 27,
+      "continues_stage": 29
+    },
+    {
+      "page": 14,
+      "y_start": 25220,
+      "y_end": 27420,
+      "overlap_px": 260,
+      "from_stage": 29,
+      "continues_stage": 31
+    },
+    {
+      "page": 15,
+      "y_start": 27090,
+      "y_end": 29290,
+      "overlap_px": 260,
+      "from_stage": 31,
+      "continues_stage": 33
+    }
+  ]
+}

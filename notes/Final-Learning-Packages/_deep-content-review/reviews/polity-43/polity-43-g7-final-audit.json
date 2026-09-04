@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "record_id": "polity-43:learner-v2:g7",
+  "score": 98,
+  "status": "passed_revalidation",
+  "approval": false,
+  "hard_gates": {
+    "sessions": 15,
+    "mcqs": 48,
+    "rotation": "A-B-C-D x12",
+    "guidance_pairs": 10,
+    "ellipsis": 0,
+    "replacement_glyphs": 0,
+    "malformed_sentences": 0,
+    "stale_claims": 0,
+    "ascii_panels": 12,
+    "ascii_max_width": 97,
+    "pdf_pages": {
+      "learning": 55,
+      "workbook": 17,
+      "poster": 1,
+      "tiled": 5,
+      "ascii": 12
+    },
+    "blank_text_pages": {
+      "learning": 0,
+      "workbook": 0,
+      "tiled": 0,
+      "ascii": 0
+    },
+    "graphical_core_stages": 12,
+    "graphical_overflow_events": 0,
+    "tests_passed": 38
+  },
+  "manual_review": "passed across learning session, solved workbook, graphical flowchart and ASCII master",
+  "baseline_preservation": {
+    "locked_hashes": 47,
+    "unchanged_immutable_generation_artifacts": 37,
+    "intentional_mutable_replacements": 10,
+    "replacement_scope": "eight final-library files plus two active shared topic specifications"
+  }
+}

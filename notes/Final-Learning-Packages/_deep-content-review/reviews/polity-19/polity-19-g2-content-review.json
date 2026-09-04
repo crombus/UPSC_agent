@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-19",
+  "identity": "polity-19:learner-v2:g2",
+  "reviewed_on": "2026-08-28T08:30:26.744+05:30",
+  "approval": false,
+  "status": "changes_suggested",
+  "score": {
+    "complete_learning_session": 29,
+    "solved_workbook": 21,
+    "graphical_flowchart": 11,
+    "ascii_flowchart": 11,
+    "total": 72
+  },
+  "issue_counts": {
+    "critical": 0,
+    "high": 5,
+    "medium": 3,
+    "low": 0
+  },
+  "hard_gates": {
+    "syllabus_core_complete": false,
+    "facts_verified": false,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": false,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": false,
+    "current_data_source_dated": false
+  },
+  "issues": [
+    {
+      "id": "POL19-G2-01",
+      "severity": "high",
+      "artifact": "Core",
+      "issue": "Article 156 treatment omitted the controlling B.P. Singhal non-arbitrariness rule.",
+      "repair": "Add exact 2010 holding and distinguish pleasure from guaranteed tenure."
+    },
+    {
+      "id": "POL19-G2-02",
+      "severity": "high",
+      "artifact": "Core/flows",
+      "issue": "Tribal and special gubernatorial responsibilities were reduced to vague Sixth Schedule shorthand.",
+      "repair": "Teach Articles 371A/371H and bounded Sixth Schedule functions without generalisation."
+    },
+    {
+      "id": "POL19-G2-03",
+      "severity": "high",
+      "artifact": "session",
+      "issue": "Generated definitions and recall prose are templated, tautological and not learner-accessible.",
+      "repair": "Add exact semantic controls for all 26 Core sessions."
+    },
+    {
+      "id": "POL19-G2-04",
+      "severity": "high",
+      "artifact": "workbook",
+      "issue": "Baseline 48-key practice is non-rotating and 13 models lack How-to-improve/compression guidance.",
+      "repair": "Enforce ABCD x12 and add answer-specific guidance."
+    },
+    {
+      "id": "POL19-G2-05",
+      "severity": "high",
+      "artifact": "flows",
+      "issue": "Nine stages compress Article 156, special responsibilities, confidence crises, assent, CM/Council and reform routes.",
+      "repair": "Replace with twelve matching Core/synthesis stages."
+    },
+    {
+      "id": "POL19-G2-06",
+      "severity": "medium",
+      "artifact": "owners",
+      "issue": "Centre representative and non-binding advice shorthand can imply general partisan discretion.",
+      "repair": "Qualify federal duality and make Shamsher advice default explicit."
+    },
+    {
+      "id": "POL19-G2-07",
+      "severity": "medium",
+      "artifact": "owners",
+      "issue": "State Planning Board claim is universalised and D.C. Wadhwa decision/report years are not distinguished.",
+      "repair": "Use variable State design and normalise 1986 decision/reported 1987."
+    },
+    {
+      "id": "POL19-G2-08",
+      "severity": "medium",
+      "artifact": "metadata",
+      "issue": "Current controls stop at 18/24 August and section manifest has placeholder ownership.",
+      "repair": "Refresh through 28 August and complete syllabus/cross-owner/PYQ/live ledger."
+    }
+  ],
+  "baseline_metrics": {
+    "session_pages": 80,
+    "workbook_pages": 18,
+    "poster_pages": 1,
+    "tiled_pages": 4,
+    "ascii_pages": 9,
+    "core_sessions": 26,
+    "mcq_keys": 48,
+    "how_guidance": 0,
+    "why_guidance": 13,
+    "graphical_core_stages": 9,
+    "ascii_panels": 9
+  },
+  "identity_lock": "g2-identity-lock.json"
+}

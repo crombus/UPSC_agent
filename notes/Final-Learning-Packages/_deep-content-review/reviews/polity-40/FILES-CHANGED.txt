@@ -1,0 +1,16 @@
+upsc-ai-kit\knowledge\Polity\basic\Official-Language.md
+upsc-ai-kit\knowledge\Polity\advanced\40_Official-Language.md
+upsc-ai-kit\knowledge\Polity\40_Official-Language_Complete-Topic-Package.md
+tools\deep_content_quality_overrides.json
+tools\test_refresh_all_v2_learning_sessions.py
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\polity-40-2026-08-25-sequential.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\polity-40.json
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\ISSUE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\EVIDENCE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\MD-CHANGE-SUGGESTIONS.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-40
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\40-Official-Language

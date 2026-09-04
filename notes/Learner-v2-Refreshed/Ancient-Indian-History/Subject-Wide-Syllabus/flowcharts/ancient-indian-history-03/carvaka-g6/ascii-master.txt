@@ -1,0 +1,288 @@
+Geographical Setting & Ecology — COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+START / CENTRAL QUESTION
+  UPSC Relevance and Answer-Worthiness Audit: This topic is directly relevant to Prelims GS-I under History of India: location/site-region matching, river systems, routes, resources and chronology-environment distinctions are testable.
+        |
+        v
++-- SESSION 01: UPSC RELEVANCE AND ANSWER-WORTHINESS AUDIT
+|   DEFINITION / TERMS : UPSC Relevance and Answer-Worthiness Audit: This topic is directly relevant to Prelims GS-I under History of India: location/site-region matching, river systems, routes, resources and chronology-environment distinctions are testable.
+|   MECHANISM / ARGUMENT: It is not a separately named Mains syllabus unit; it is a contextual answer-enricher for GS-I culture/ancient-history discussion.
+|   CONSEQUENCE / CONTRAST: The verified 2023 GS-I question on geographical factors in the development of Ancient India gives one direct Mains route.
+|   TRAP / ANSWER-USE: It is not a separately named Mains syllabus unit; it is a contextual answer-enricher for GS-I culture/ancient-history discussion.
+|   EXAM OPENING: This topic is directly relevant to Prelims GS-I under History of India: location/site-region matching, river systems, routes, resources and chronology-environment distinctions are testable.
++--
+        |
+        v
++-- SESSION 02: ROADMAP: FROM TERRAIN TO HISTORICAL EXPLANATION — [CORE MAINS]
+|   DEFINITION / TERMS : Roadmap: From Terrain to Historical Explanation — [CORE MAINS]: Geography is not a decorative opening paragraph to ancient history.
+|   MECHANISM / ARGUMENT: A river does not create a city by itself; a mineral deposit does not automatically create a state; a drought does not mechanically destroy a civilization.
+|   CONSEQUENCE / CONTRAST: INFERENCE: Geography is strongest as a mechanism-rich explanation: identify resource or constraint, human response and resulting institution.
+|   TRAP / ANSWER-USE: Geography is not a decorative opening paragraph to ancient history.
+|   EXAM OPENING: Book context queried directly: R.S.
++--
+        |
+        v
++-- SESSION 03: PHYSICAL ARCHITECTURE OF THE SUBCONTINENT — [CORE PRELIMS]
+|   DEFINITION / TERMS : Physical Architecture of the Subcontinent — [CORE PRELIMS]: The Himalayas are young and unstable; the northern plains were created by enormous sediment deposition; the Deccan plateau is associated with ancient lava flows; river courses and coastlines have changed.
+|   MECHANISM / ARGUMENT: The Himalayas are young and unstable; the northern plains were created by enormous sediment deposition; the Deccan plateau is associated with ancient lava flows; river courses and coastlines have changed.
+|   CONSEQUENCE / CONTRAST: Historical geography therefore studies landscapes in time, not a frozen modern map.
+|   TRAP / ANSWER-USE: These zones are internally diverse and historically connected rather than sealed compartments.
+|   EXAM OPENING: CA search found no need to force a dated item into basic physiography; the static geological and regional framework remains primary.
++--
+        |
+        v
++-- SESSION 04: HIMALAYAS, PASSES AND FRONTIER ZONES — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Himalayas, Passes and Frontier Zones — [CORE PRELIMS + CORE MAINS]: CA search found no dated discovery necessary; the core test is barrier-versus-corridor reasoning.
+|   MECHANISM / ARGUMENT: Nepal remained accessible through passes.
+|   CONSEQUENCE / CONTRAST: Yet they were never an absolute wall.
+|   TRAP / ANSWER-USE: Yet they were never an absolute wall.
+|   EXAM OPENING: CA search found no dated discovery necessary; the core test is barrier-versus-corridor reasoning.
++--
+        |
+        v
++-- SESSION 05: INDUS AND GHAGGAR-HAKRA RIVER SYSTEMS — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Live research was checked separately; river reconstruction is used without equating geomorphology automatically with a textual river.
+|   MECHANISM / ARGUMENT: Therefore neither 'Indus valley' nor 'river civilization' should erase regional diversity.
+|   CONSEQUENCE / CONTRAST: Therefore neither 'Indus valley' nor 'river civilization' should erase regional diversity.
+|   TRAP / ANSWER-USE: FACT: Upinder cautions that 'Harappan civilization' is the safest archaeological label because the cultural spread exceeded both Indus and Ghaggar-Hakra valleys.
+|   EXAM OPENING: Live research was checked separately; river reconstruction is used without equating geomorphology automatically with a textual river.
++--
+        |
+        v
++-- SESSION 06: GANGA-BRAHMAPUTRA PLAINS, DOABS AND DELTAS — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Ganga-Brahmaputra Plains, Doabs and Deltas — [CORE PRELIMS + CORE MAINS]: The northern alluvial plain is not one homogeneous region.
+|   MECHANISM / ARGUMENT: Context: The plains became central through combinations of rice and other crops, iron tools, forest clearance, navigable rivers, surplus, exchange and political organization.
+|   CONSEQUENCE / CONTRAST: The upper Ganga-Yamuna doab, middle Ganga plain, lower Ganga delta, Brahmaputra valley and Terai differ in rainfall, soils, forests, flood regimes and historical timing.
+|   TRAP / ANSWER-USE: CA search did not displace the static river-basin foundation.
+|   EXAM OPENING: CA search did not displace the static river-basin foundation.
++--
+        |
+        v
++-- SESSION 07: PENINSULAR PLATEAUS, RIVER VALLEYS AND COASTS — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Peninsular India consists of old rock formations, plateaus, dissected uplands, river valleys, ghats and two contrasting coastal margins.
+|   MECHANISM / ARGUMENT: FACT: Sharma emphasizes easy communication between Coromandel ports and the Andhra-Tamil interior through river openings in the Eastern Ghats.
+|   CONSEQUENCE / CONTRAST: Peninsular India consists of old rock formations, plateaus, dissected uplands, river valleys, ghats and two contrasting coastal margins.
+|   TRAP / ANSWER-USE: Its history cannot be treated as a delayed copy of the northern plains.
+|   EXAM OPENING: Live search was reserved for later climate and archaeology cards.
++--
+        |
+        v
++-- SESSION 08: CLIMATE, MONSOON AND SEASONAL RHYTHMS — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Yet 'the monsoon' is not a single uniform rain event: south-west, north-east and winter-rain regimes create regional contrasts.
+|   MECHANISM / ARGUMENT: The monsoon shaped sowing, crop choice, pasture, river discharge, travel seasons and the reliability of settlement.
+|   CONSEQUENCE / CONTRAST: Yet 'the monsoon' is not a single uniform rain event: south-west, north-east and winter-rain regimes create regional contrasts.
+|   TRAP / ANSWER-USE: Yet 'the monsoon' is not a single uniform rain event: south-west, north-east and winter-rain regimes create regional contrasts.
+|   EXAM OPENING: Live source retrieved: DST/PIB reporting of the Kondagai Lake study published 15 January 2026.
++--
+        |
+        v
++-- SESSION 09: ECOLOGICAL ZONES AND THE TINAI LENS — [SUPPORTING]
+|   DEFINITION / TERMS : Ancient Tamil poetry offers a powerful indigenous landscape vocabulary through the five tinai, but it is a poetic-cultural classification rather than a cadastral map.
+|   MECHANISM / ARGUMENT: Ancient Tamil poetry offers a powerful indigenous landscape vocabulary through the five tinai, but it is a poetic-cultural classification rather than a cadastral map.
+|   CONSEQUENCE / CONTRAST: Ancient Tamil poetry offers a powerful indigenous landscape vocabulary through the five tinai, but it is a poetic-cultural classification rather than a cadastral map.
+|   TRAP / ANSWER-USE: CA search was not forced; the card develops ecological classification and literary landscape method.
+|   EXAM OPENING: CA search was not forced; the card develops ecological classification and literary landscape method.
++--
+        |
+        v
++-- SESSION 10: SOILS, FORESTS, WATER AND AGRICULTURE — [SUPPORTING]
+|   DEFINITION / TERMS : Soils, Forests, Water and Agriculture — [SUPPORTING]: Live current research is integrated in the climate and palaeoenvironment cards.
+|   MECHANISM / ARGUMENT: Agriculture was therefore an ecological transformation, not simply the use of naturally fertile land.
+|   CONSEQUENCE / CONTRAST: Agriculture was therefore an ecological transformation, not simply the use of naturally fertile land.
+|   TRAP / ANSWER-USE: Agriculture was therefore an ecological transformation, not simply the use of naturally fertile land.
+|   EXAM OPENING: Live current research is integrated in the climate and palaeoenvironment cards.
++--
+        |
+        v
++-- SESSION 11: METALS, STONE, TIMBER, SALT AND OTHER RESOURCES — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Metals, Stone, Timber, Salt and Other Resources — [CORE PRELIMS + CORE MAINS]: This uneven distribution created exchange networks from prehistory onward.
+|   MECHANISM / ARGUMENT: Ore becomes historically effective only through knowledge, fuel, labour, transport and demand.
+|   CONSEQUENCE / CONTRAST: Ore becomes historically effective only through knowledge, fuel, labour, transport and demand.
+|   TRAP / ANSWER-USE: INFERENCE: Archaeometallurgy can distinguish ore source and production technique, but compositional similarity alone does not reconstruct the entire trade chain.
+|   EXAM OPENING: 51-53 and Upinder environmental-archaeology discussion.
++--
+        |
+        v
++-- SESSION 12: SETTLEMENT ECOLOGY AND SITE SELECTION — [CORE MAINS]
+|   DEFINITION / TERMS : Settlement is a choice among benefits and risks.
+|   MECHANISM / ARGUMENT: A large site requires a hinterland and transport system.
+|   CONSEQUENCE / CONTRAST: Settlement is a choice among benefits and risks.
+|   TRAP / ANSWER-USE: The relevant unit is often a settlement system, not an isolated site.
+|   EXAM OPENING: 102, 180 and regional prehistoric chapters.
++--
+        |
+        v
++-- SESSION 13: GEOGRAPHY-SETTLEMENT-STATE-ECONOMY RELATIONSHIPS — [CORE MAINS]
+|   DEFINITION / TERMS : Geography-Settlement-State-Economy Relationships — [CORE MAINS]: CA search not separately forced because this is the integrative static mechanism card.
+|   MECHANISM / ARGUMENT: CA search not separately forced because this is the integrative static mechanism card.
+|   CONSEQUENCE / CONTRAST: State and economy emerge through relationships rather than direct environmental effects.
+|   TRAP / ANSWER-USE: CA search not separately forced because this is the integrative static mechanism card.
+|   EXAM OPENING: Book context queried: complete Topic 03 Markdown plus Sharma pp.
++--
+        |
+        v
++-- SESSION 14: ROUTES, MIGRATION, TRADE AND CULTURAL INTERACTION — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Routes, Migration, Trade and Cultural Interaction — [CORE PRELIMS + CORE MAINS]: Movement followed corridors created by passes, river valleys, plateau gaps, coastlines and monsoon winds.
+|   MECHANISM / ARGUMENT: Movement followed corridors created by passes, river valleys, plateau gaps, coastlines and monsoon winds.
+|   CONSEQUENCE / CONTRAST: Routes were not single engineered roads; they were shifting bundles of tracks, river reaches, staging points, ports and seasonal knowledge.
+|   TRAP / ANSWER-USE: Current linkages are not needed for this durable network framework.
+|   EXAM OPENING: Current linkages are not needed for this durable network framework.
++--
+        |
+        v
++-- SESSION 15: REGIONAL DIVERSITY AND ASYNCHRONOUS DEVELOPMENT — [CORE MAINS]
+|   DEFINITION / TERMS : Regional Diversity and Asynchronous Development — [CORE MAINS]: CA search not forced because the core task is comparative chronology.
+|   MECHANISM / ARGUMENT: CA search not forced because the core task is comparative chronology.
+|   CONSEQUENCE / CONTRAST: Ancient India did not pass through one synchronized sequence.
+|   TRAP / ANSWER-USE: CA search not forced because the core task is comparative chronology.
+|   EXAM OPENING: Book context queried: full basic/advanced Topic 03 files and Upinder's regional method.
++--
+        |
+        v
++-- SESSION 16: PREHISTORIC CHANGE: PALAEOLITHIC TO CHALCOLITHIC — [SUPPORTING]
+|   DEFINITION / TERMS : Prehistoric change is best understood as changing relationships among climate, river systems, raw stone, plants, animals, mobility and settlement.
+|   MECHANISM / ARGUMENT: Context: Palaeolithic groups selected landscapes with stone and water; Mesolithic groups used varied local ecologies and microlithic technologies; Neolithic food production emerged through regional crop-animal packages; Chalcolithic communities combined copper with stone, farming, herding and exchange.
+|   CONSEQUENCE / CONTRAST: CA search was not forced beyond the later palaeoenvironment card.
+|   TRAP / ANSWER-USE: CA search was not forced beyond the later palaeoenvironment card.
+|   EXAM OPENING: Book context queried: Topic 03 advanced file; Upinder pp.
++--
+        |
+        v
++-- SESSION 17: HARAPPAN ECOLOGY, URBANISM AND ADAPTATION — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Harappan Ecology, Urbanism and Adaptation — [CORE PRELIMS + CORE MAINS]: INFERENCE: 'Metamorphosis' is a useful term because urban contraction can coexist with cultural continuity and rural reorganization.
+|   MECHANISM / ARGUMENT: Harappan civilization joined diverse ecological zones through cities, towns, villages, craft sites and ports.
+|   CONSEQUENCE / CONTRAST: Live source retrieved: IIT Gandhinagar and 2025 Nature-portfolio study on river drought.
+|   TRAP / ANSWER-USE: Transformation after the mature urban phase should be studied as regional deurbanization, dispersal and changing crops or settlement size, not as one simultaneous disappearance.
+|   EXAM OPENING: Book context queried: Topic 03 files; Sharma pp.
++--
+        |
+        v
++-- SESSION 18: VEDIC LANDSCAPES: FROM SAPTA-SINDHU TO THE GANGA — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Vedic Landscapes: From Sapta-Sindhu to the Ganga — [CORE PRELIMS + CORE MAINS]: Live current research is used only as method, not to prove textual river identities.
+|   MECHANISM / ARGUMENT: Later Vedic political and agrarian centres shifted toward the upper Ganga-Yamuna region and Kuru-Panchala, followed by wider eastern expansion.
+|   CONSEQUENCE / CONTRAST: Rig Vedic geography is centred on the north-western river world often described as Sapta-Sindhu.
+|   TRAP / ANSWER-USE: Live current research is used only as method, not to prove textual river identities.
+|   EXAM OPENING: Book context queried: Topic 03 plus Topic 08-09 geography links; Sharma pp.
++--
+        |
+        v
++-- SESSION 19: EARLY HISTORIC URBANIZATION, MAGADHA, DECCAN AND COASTS — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : The middle Ganga transformation was especially significant, while Deccan corridors and coastal ports created distinct early historic networks.
+|   MECHANISM / ARGUMENT: These advantages became historically effective through rulers, fortification, taxation, armies and strategic capitals such as Rajagriha and Pataliputra.
+|   CONSEQUENCE / CONTRAST: These advantages became historically effective through rulers, fortification, taxation, armies and strategic capitals such as Rajagriha and Pataliputra.
+|   TRAP / ANSWER-USE: CA search was not forced into this static synthesis.
+|   EXAM OPENING: 48-56 plus cross-links to Mahajanapadas, trade and peninsular chapters.
++--
+        |
+        v
++-- SESSION 20: PALAEOENVIRONMENT AND LANDSCAPE ARCHAEOLOGY — [SUPPORTING]
+|   DEFINITION / TERMS : Palaeoenvironment and Landscape Archaeology — [SUPPORTING]: Context: No proxy is self-interpreting.
+|   MECHANISM / ARGUMENT: Wrong: Remote sensing discovers a city by itself.
+|   CONSEQUENCE / CONTRAST: INFERENCE: These methods may reconstruct diet, mobility, health and human-environment relations; results must await completed analysis and publication.
+|   TRAP / ANSWER-USE: Correct: It addresses biological ancestry within sampling limits, not social identity automatically.
+|   EXAM OPENING: 176-181 and 247-249; Topic 03 advanced file.
++--
+        |
+        v
++-- SESSION 21: ENVIRONMENTAL DETERMINISM VERSUS POSSIBILISM — [CORE MAINS]
+|   DEFINITION / TERMS : Environmental Determinism versus Possibilism — [CORE MAINS]: Context: A stronger approach is relational: nature and society co-produce historical landscapes.
+|   MECHANISM / ARGUMENT: Possibilism treats geography as a field of opportunities and constraints among which people choose through technology, institutions, knowledge and power.
+|   CONSEQUENCE / CONTRAST: Environmental effects are therefore mediated and socially distributed.
+|   TRAP / ANSWER-USE: CA evidence was used to test, not replace, this debate.
+|   EXAM OPENING: 55 explicitly rejects environmental determinism; Upinder pp.
++--
+        |
+        v
++-- SESSION 22: CHANGE ACROSS PREHISTORIC, HARAPPAN, VEDIC AND EARLY HISTORIC CONTEXTS — [CORE MAINS]
+|   DEFINITION / TERMS : Change across Prehistoric, Harappan, Vedic and Early Historic Contexts — [CORE MAINS]: EXAM USE: A phasewise structure is ideal for broad 'development of Ancient India' questions.
+|   MECHANISM / ARGUMENT: A river valley used by mobile foragers can later sustain villages, cities or capitals because technology, demography, crop regimes, routes and institutions change.
+|   CONSEQUENCE / CONTRAST: The same geographical factor changes meaning across time.
+|   TRAP / ANSWER-USE: INFERENCE: Environmental change can redirect existing trajectories rather than begin history anew.
+|   EXAM OPENING: Book context queried: complete topic sources plus chronological cross-links.
++--
+        |
+        v
++-- SESSION 23: SOURCE CRITICISM AND LIMITS OF HISTORICAL GEOGRAPHY — [CORE MAINS]
+|   DEFINITION / TERMS : Source Criticism and Limits of Historical Geography — [CORE MAINS]: Historical geography is reconstructed from texts, excavated settlements, plant and animal remains, sediments, maps, remote sensing, inscriptions and later landscapes.
+|   MECHANISM / ARGUMENT: Equifinality means different processes can produce similar evidence: settlement abandonment may result from drought, river shift, conflict, disease or network change.
+|   CONSEQUENCE / CONTRAST: Equifinality means different processes can produce similar evidence: settlement abandonment may result from drought, river shift, conflict, disease or network change.
+|   TRAP / ANSWER-USE: FACT: Remote sensing and GIS identify potential palaeochannels and subsurface remains but do not replace excavation or dating.
+|   EXAM OPENING: Book context queried: Upinder's source-method and palaeoenvironment discussions, Topic 03 advanced file, and local PYQ routing.
++--
+        |
+        v
++-- SESSION 24: CURRENT RESEARCH LINKAGES: CLIMATE, RIVERS AND SCIENTIFIC ARCHAEOLOGY — [SUPPORTING]
+|   DEFINITION / TERMS : No current-affairs item is required to learn this static topic.
+|   MECHANISM / ARGUMENT: Use a new palaeochannel, remote-sensing or environmental-archaeology report only after checking its primary survey or publication.
+|   CONSEQUENCE / CONTRAST: Its safe answer use is methodological: new evidence can refine settlement ecology, but cannot independently prove a textual river identity, a civilisational collapse story or a deterministic historical outcome.
+|   TRAP / ANSWER-USE: Its safe answer use is methodological: new evidence can refine settlement ecology, but cannot independently prove a textual river identity, a civilisational collapse story or a deterministic historical outcome.
+|   EXAM OPENING: No current-affairs item is required to learn this static topic.
++--
+        |
+        v
++-- SESSION 25: UPSC MAP, TERMINOLOGY AND ANSWER-WRITING PROTOCOL — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : UPSC Map, Terminology and Answer-Writing Protocol — [CORE PRELIMS + CORE MAINS]: No unofficial answer key is claimed; the model answer is original.
+|   MECHANISM / ARGUMENT: Correct: Select examples that prove the mechanism.
+|   CONSEQUENCE / CONTRAST: The examiner rewards relationship, comparison and qualification.
+|   TRAP / ANSWER-USE: INFERENCE: The final judgement should use 'conditioned', 'enabled', 'constrained', 'mediated' and 'transformed', not 'caused inevitably'.
+|   EXAM OPENING: Book and PYQ context queried: Topic 03 sources and audited 2023 GS-I owner route.
++--
+        |
+        v
++-- SESSION 26: AUDITED CORE APPLICATION LABS
+|   DEFINITION / TERMS : Audited Core Application Labs: They replace any need for repeated regional catalogues.
+|   MECHANISM / ARGUMENT: They replace any need for repeated regional catalogues.
+|   CONSEQUENCE / CONTRAST: They replace any need for repeated regional catalogues.
+|   TRAP / ANSWER-USE: Answer-use: These five labs retain the map logic and causal teaching that improve elimination and answer quality.
+|   EXAM OPENING: These five labs retain the map logic and causal teaching that improve elimination and answer quality.
++--
+        |
+        v
++-- SESSION 27: CORE MAP LAB 1: READ A REGION AS A HISTORICAL OPPORTUNITY — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Core Map Lab 1: Read a Region as a Historical Opportunity — [CORE PRELIMS + CORE MAINS]: This is how a map fact becomes a GS-I sentence.
+|   MECHANISM / ARGUMENT: A river basin, pass, plateau, coast or forest zone matters only through a historical mechanism.
+|   CONSEQUENCE / CONTRAST: End with a bounded outcome such as settlement density, exchange or state formation.
+|   TRAP / ANSWER-USE: Geography frames a choice; it does not make the choice mechanically.
+|   EXAM OPENING: A river basin, pass, plateau, coast or forest zone matters only through a historical mechanism.
++--
+        |
+        v
++-- SESSION 28: CORE MAP LAB 2: RIVERS, PLAINS AND UNEVEN URBANISATION — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Core Map Lab 2: Rivers, Plains and Uneven Urbanisation — [CORE PRELIMS + CORE MAINS]: The trap is to say that a river alone creates a civilisation.
+|   MECHANISM / ARGUMENT: The trap is to say that a river alone creates a civilisation.
+|   CONSEQUENCE / CONTRAST: The trap is to say that a river alone creates a civilisation.
+|   TRAP / ANSWER-USE: The Indus system, Ganga plains and peninsular river valleys should not be memorised as a flat list.
+|   EXAM OPENING: The Indus system, Ganga plains and peninsular river valleys should not be memorised as a flat list.
++--
+        |
+        v
++-- SESSION 29: CORE MAP LAB 3: FRONTIERS, PASSES AND COASTS — [CORE PRELIMS]
+|   DEFINITION / TERMS : Core Map Lab 3: Frontiers, Passes and Coasts — [CORE PRELIMS]: A pass is not merely an invasion route; it can carry trade, migration and cultural interaction.
+|   MECHANISM / ARGUMENT: A pass is not merely an invasion route; it can carry trade, migration and cultural interaction.
+|   CONSEQUENCE / CONTRAST: A coast is not merely a boundary; it can connect inland production to maritime exchange.
+|   TRAP / ANSWER-USE: A pass is not merely an invasion route; it can carry trade, migration and cultural interaction.
+|   EXAM OPENING: Himalayas, northwest passes and seas worked as both constraints and contact zones.
++--
+        |
+        v
++-- SESSION 30: CORE MAP LAB 4: RESOURCES AND REGIONAL ASYNCHRONY — [CORE MAINS]
+|   DEFINITION / TERMS : Metals, timber, salt, stone and ecological diversity can create exchange and inter-regional dependence because no region has every input.
+|   MECHANISM / ARGUMENT: Metals, timber, salt, stone and ecological diversity can create exchange and inter-regional dependence because no region has every input.
+|   CONSEQUENCE / CONTRAST: Explain unequal development through resource access plus technology, labour and institutions; do not turn a mineral deposit into a ready-made state.
+|   TRAP / ANSWER-USE: Resources create possibilities, not automatic empires.
+|   EXAM OPENING: Resources create possibilities, not automatic empires.
++--
+        |
+        v
++-- SESSION 31: CORE MAP LAB 5: ONE-PARAGRAPH GEOGRAPHY ANSWER — [CORE MAINS]
+|   DEFINITION / TERMS : Core Map Lab 5: One-Paragraph Geography Answer — [CORE MAINS]: This is more valuable than a catalogue of soils, passes or palaeoclimate techniques.
+|   MECHANISM / ARGUMENT: Write: geography supplied differentiated opportunities--rivers, monsoon regimes, resources and routes; communities converted them through subsistence choices, technology and institutions; therefore development was regional and asynchronous, not environmentally predetermined.
+|   CONSEQUENCE / CONTRAST: Write: geography supplied differentiated opportunities--rivers, monsoon regimes, resources and routes; communities converted them through subsistence choices, technology and institutions; therefore development was regional and asynchronous, not environmentally predetermined.
+|   TRAP / ANSWER-USE: Write: geography supplied differentiated opportunities--rivers, monsoon regimes, resources and routes; communities converted them through subsistence choices, technology and institutions; therefore development was regional and asynchronous, not environmentally predetermined.
+|   EXAM OPENING: Write: geography supplied differentiated opportunities--rivers, monsoon regimes, resources and routes; communities converted them through subsistence choices, technology and institutions; therefore development was regional and asynchronous, not environmentally predetermined.
++--
+        |
+        v
+ANSWER-WRITING SPINE
+definition -> exact terms -> mechanism/evidence -> consequence/contrast
+-> objection/trap -> qualified answer-use

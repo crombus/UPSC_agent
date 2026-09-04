@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-34",
+  "record_id": "polity-34:learner-v2:g3",
+  "score": 95,
+  "status": "failed_manual_review_prose_integrity",
+  "approval": false,
+  "preserved": true,
+  "defects": [
+    "closure truncation in sessions 6, 8, 11, 17 and 22",
+    "lowercase acronym mutation in session 22"
+  ]
+}

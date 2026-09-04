@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "polity-17-g4-final",
+  "validated_on": "2026-08-28T11:20:00+05:30",
+  "selection": "polity-17-g4-deep-content-revalidation",
+  "topic_count": 1,
+  "passed": true,
+  "errors": [],
+  "topics": [
+    {
+      "topic_key": "polity-17",
+      "record_id": "polity-17:learner-v2:g4",
+      "generation": 4,
+      "passed": true,
+      "errors": [],
+      "tests_passed": 38,
+      "content_review_status": "passed",
+      "hard_gates_passed": true
+    }
+  ]
+}

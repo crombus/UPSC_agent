@@ -1,0 +1,16 @@
+{
+  "identity": "polity-04:learner-v2:g16",
+  "score": 96,
+  "status": "changes_suggested",
+  "approved": false,
+  "passed": false,
+  "reason": "Content, exact PYQs, 11-panel ASCII and 11-core-stage graphical package passed, but MCQ audit parsed only 27 of 48 questions because explanation lines were included as option rows. Emitted 48-key sequence was not strict A-B-C-D. Systemic parser repaired; preserve g16 and regenerate.",
+  "checks": {
+    "exact_pyqs": true,
+    "five_descriptors": true,
+    "answer_specific_improvements": 11,
+    "ascii_panels": 11,
+    "graphical_core_stages": 11,
+    "all_48_mcqs_rotated": false
+  }
+}

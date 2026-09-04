@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-51",
+  "old_identity": "polity-51:learner-v2:g2",
+  "new_identity": "polity-51:learner-v2:g3",
+  "baseline_score": 71,
+  "final_score": 98,
+  "approval": false,
+  "review_state": "passed",
+  "artifact_paths": {
+    "complete_learning_session": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\51-Rights-and-Liabilities-of-the-Government\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+    "solved_practice_workbook": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\51-Rights-and-Liabilities-of-the-Government\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+    "graphical_flowchart": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\51-Rights-and-Liabilities-of-the-Government\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+    "ascii_master_flowchart": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\51-Rights-and-Liabilities-of-the-Government\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf"
+  },
+  "artifact_sha256": {
+    "complete_learning_session": "2dd6b05290d7f37ba331ffbd23fed48ea37589d959abbd8ea449d06fb7f02340",
+    "solved_practice_workbook": "31cbe0630057150a2eaae19282b1da187abc885c4ad7094726bf338df04702e8",
+    "graphical_flowchart": "ee3c3e89a4b15d06d6e8ddb4a3dc6795b65bedbc10f998e88b1a45e08a396123",
+    "ascii_master_flowchart": "dc1b704a0aded3d4d0375529c8a0a404244767712231891c6d1555d55dab5b25"
+  },
+  "validation": {
+    "tests_passed": 38,
+    "learning_pages": 36,
+    "workbook_pages": 15,
+    "poster_pages": 1,
+    "tiled_pages": 4,
+    "mcq_rotation": "ABCD x12",
+    "ascii_panels": 12,
+    "ascii_max_width": 94,
+    "prose_errors": 0,
+    "hard_gates": "passed"
+  },
+  "preserved_generations": [
+    "polity-51:legacy-v1:g1",
+    "polity-51:learner-v2:g2"
+  ]
+}

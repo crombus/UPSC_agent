@@ -1,0 +1,111 @@
+{
+  "topic_key": "polity-12",
+  "identity": "polity-12:learner-v2:g5",
+  "reviewed_on": "2026-08-28",
+  "approved": false,
+  "score": 98,
+  "artifacts": {
+    "session_markdown": {
+      "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\g5\\polity-12_Complete-Learning-Session_2026-08-28.md",
+      "sha256": "7b59355aef7942dc1c4deaa88d293bc44b7d2a01711158d3a9bd4a652230925f",
+      "bytes": 126027
+    },
+    "workbook_markdown": {
+      "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\g5\\polity-12_Solved-Practice-Workbook_2026-08-28.md",
+      "sha256": "96a35ef24c68735dc440db2a7297881db46c106e543e30737342bf4120f60f42",
+      "bytes": 49222
+    },
+    "session_pdf": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\g5\\polity-12_Complete-Learning-Session_2026-08-28.pdf",
+      "sha256": "e310860073c4caf5890e07c54db6af1d092077f0b71abbf16e5418d821a892d3",
+      "bytes": 1639942,
+      "pages": 51,
+      "blank_pages": 0,
+      "replacement_glyph_pages": 0,
+      "min_extracted_characters": 420
+    },
+    "workbook_pdf": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\g5\\polity-12_Solved-Practice-Workbook_2026-08-28.pdf",
+      "sha256": "742fc2965f8cdd7c17b6155a7bfc77bb917c87703b982943e3e699fde8323844",
+      "bytes": 347525,
+      "pages": 17,
+      "blank_pages": 0,
+      "replacement_glyph_pages": 0,
+      "min_extracted_characters": 419
+    },
+    "poster_pdf": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-12\\carvaka-g5\\poster.pdf",
+      "sha256": "2a6a1138f4f868313029fb98cffa223beaeedeb31d7c7e3255c9864d4f25dd26",
+      "bytes": 1391385,
+      "pages": 1,
+      "blank_pages": 1,
+      "replacement_glyph_pages": 0,
+      "min_extracted_characters": 0
+    },
+    "tiled_pdf": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-12\\carvaka-g5\\tiled.pdf",
+      "sha256": "5cdc5d2ea27d8e76425bf36cd5d54a5f664c7aee6ffa62b16f77fb2ea39d0753",
+      "bytes": 1642499,
+      "pages": 3,
+      "blank_pages": 0,
+      "replacement_glyph_pages": 0,
+      "min_extracted_characters": 68
+    },
+    "master_png": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-12\\carvaka-g5\\master.png",
+      "sha256": "829a1bf06096a333479fe5c17c0607850a29172577780bc6fa7545f874043c7d",
+      "bytes": 1250637
+    },
+    "ascii_txt": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-12\\carvaka-g5\\ascii-master.txt",
+      "sha256": "7629604f5091db1f53b755f0b371d02caa046de33a676ea754b9f4c536687de6",
+      "bytes": 5911
+    }
+  },
+  "content": {
+    "current_control_28_august": true,
+    "administrative_articles_256_263": true,
+    "financial_articles_268_281_293": true,
+    "article_355_356_distinction": true,
+    "sixteenth_fc_report": true,
+    "verified_pyq_count": 10,
+    "why_blocks": 15,
+    "improvement_blocks": 15,
+    "answer_word_counts": {
+      "PYQ 1 - UPSC GS-II 2020, Q3 - direct": 122,
+      "PYQ 2 - UPSC GS-II 2021, Q11 - cross-owned": 229,
+      "PYQ 3 - UPSC GS-II 2022, Q13 - cross-owned": 234,
+      "PYQ 6 - UPSC GS-II 2020, Q11 - supporting/cross-owned": 180,
+      "PYQ 7 - UPSC GS-II 2023, Q13 - supporting/cross-owned": 186,
+      "PYQ 8 - UPSC GS-II 2023, Q15 - supporting/cross-owned": 184,
+      "PYQ 9 - UPSC GS-II 2024, Q13 - direct application": 198,
+      "PYQ 10 - UPSC GS-II 2025, Q14 - direct application": 189,
+      "M1. 10 marks | 150 words": 127,
+      "M2. 10 marks | 150 words": 155,
+      "M3. 15 marks | 250 words": 219,
+      "M4. 15 marks | 250 words": 224,
+      "M5. 20 marks | 250-300 words": 244,
+      "M6. 20 marks | 250-300 words": 251,
+      "M7. 20 marks | 250-300 words": 239
+    }
+  },
+  "mcq": {
+    "count": 36,
+    "keys": "ABCDABCDABCDABCDABCDABCDABCDABCDABCD",
+    "strict_abcd": true,
+    "option_texts_preserved": true,
+    "note": "Historical PYQs retain original options; 28 original and 8 remedial MCQs rotate ABCD x 9."
+  },
+  "flows": {
+    "graphical_core_stages": 12,
+    "graphical_cards": 13,
+    "ascii_panels": 12,
+    "ascii_max_line": 89,
+    "matching_routes": true
+  },
+  "tests": {
+    "command": "python -m pytest tools\\test_refresh_all_v2_learning_sessions.py -q",
+    "passed": 38
+  },
+  "validator": "tools\\validate_v2_export.py passed with refreshed contract"
+}

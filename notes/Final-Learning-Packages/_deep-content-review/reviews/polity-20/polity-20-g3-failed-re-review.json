@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-20",
+  "identity": "polity-20:learner-v2:g3",
+  "reviewed_on": "2026-08-28",
+  "approval": false,
+  "status": "failed_revalidation",
+  "score": 94,
+  "hard_gate_failure": "Two generated semantic traps ended in ellipses, making the limiting proposition incomplete.",
+  "preserved": true,
+  "metrics": {
+    "core_sessions": 27,
+    "why_guidance": 10,
+    "how_guidance": 10,
+    "semantic_ellipses": 2
+  }
+}

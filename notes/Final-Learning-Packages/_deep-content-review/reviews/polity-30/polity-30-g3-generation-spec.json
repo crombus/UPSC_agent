@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-30",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-30",
+  "title": "GST Council",
+  "generation_date": "2026-08-28",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — GST Council — deep-content repaired immutable generation",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-30\\g3-source\\polity-30_g3-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\GST-Council.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\30_GST-Council_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\30_GST-Council.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\README.md",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Centre-State-Relations.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md",
+    "upsc-ai-kit\\knowledge\\Economy\\basic\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md"
+  ],
+  "official_question_sources": [
+    "books\\more_previous_papers\\QP-CSM19-GeneralStudies-III.pdf",
+    "books\\more_previous_papers\\Gen_St_P3.pdf",
+    "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf"
+  ],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf"
+  ],
+  "live_sources": [
+    "https://gstcouncil.gov.in/sites/default/files/2025-09/press_release_press_information_bureau.pdf",
+    "https://gstcouncil.gov.in/sites/default/files/2024-02/procedure_conduct_business.pdf",
+    "https://api.sci.gov.in/supremecourt/2020/23083/23083_2020_4_1501_35969_Judgement_19-May-2022.pdf",
+    "https://legislative.gov.in/document/constitution-of-india-in-english"
+  ],
+  "practice_profile": "One direct Polity PYQ and four verified adjacent routes; 36 hard original MCQs; 12 remedials; 8 original solved Mains; 12 answer-specific guidance pairs.",
+  "current_linkage_note": "Official 56th Council release and GST Council newsletter archive controlled through 28 August 2026; recommendations are separated from notifications and legal effect.",
+  "pyq_status_note": "2023 GS-II direct; 2018 Prelims, 2019/2020 GS-III and 2025 GS-II adjacent routes retained with ownership labels.",
+  "allow_existing_history": true,
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\GST-Council.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\30_GST-Council.md",
+    "upsc-ai-kit\\knowledge\\Polity\\30_GST-Council_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Centre-State-Relations.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md",
+    "upsc-ai-kit\\knowledge\\Economy\\basic\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md",
+    "books\\more_previous_papers\\QP-CSM19-GeneralStudies-III.pdf",
+    "books\\more_previous_papers\\Gen_St_P3.pdf",
+    "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf",
+    "books\\Indian Polity by M Laxmikant.pdf",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-30\\g3-source\\polity-30_g3-reviewed-source.md",
+    "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-30-2026-08-24-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-30.json",
+    "upsc-ai-kit\\manifests\\exports\\polity-30-source-pyq-current-audit-2026-08-28.json",
+    "tools\\deep_content_quality_overrides.json"
+  ]
+}

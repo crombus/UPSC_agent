@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "polity-16-g4-intermediate",
+  "validated_on": "2026-08-28T08:25:00+05:30",
+  "selection": "polity-16-g4-technical-pass-repeated-semantic-closure-repair-pending",
+  "topic_count": 1,
+  "passed": true,
+  "errors": [],
+  "topics": [
+    {
+      "topic_key": "polity-16",
+      "record_id": "polity-16:learner-v2:g4",
+      "generation": 4,
+      "passed": true,
+      "errors": [],
+      "tests_passed": 38,
+      "content_review_status": "revalidation_pending",
+      "known_issue": "A repeated generic semantic consequence sentence remained across named sessions; immutable g5 required."
+    }
+  ]
+}

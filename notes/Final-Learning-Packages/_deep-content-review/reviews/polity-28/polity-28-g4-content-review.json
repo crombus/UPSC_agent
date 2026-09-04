@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-28",
+  "record_id": "polity-28:learner-v2:g4",
+  "baseline_record_id": "polity-28:learner-v2:g2",
+  "baseline_score": 68,
+  "score": 98,
+  "status": "passed",
+  "approval": false,
+  "reviewed_on": "2026-08-28",
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": true,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": true,
+    "current_data_source_dated": true
+  },
+  "metrics": {
+    "core_sessions": 56,
+    "mcqs": 48,
+    "rotation": "ABCD x12",
+    "direct_recent_pyqs": 0,
+    "why_how_pairs": 8,
+    "ascii_panels": 12,
+    "ascii_max_width": 98,
+    "graphical_core_stages": 12,
+    "graphical_optional_cards": 1,
+    "pages": {
+      "session": 98,
+      "workbook": 18,
+      "poster": 1,
+      "tiled": 5
+    }
+  },
+  "preserved_generations": [
+    {
+      "record_id": "polity-28:learner-v2:g2",
+      "score": 68,
+      "status": "changes_suggested"
+    },
+    {
+      "record_id": "polity-28:learner-v2:g3",
+      "score": 95,
+      "status": "failed_manual_review_ascii_width"
+    },
+    {
+      "record_id": "polity-28:learner-v2:g4",
+      "score": 98,
+      "status": "passed"
+    }
+  ],
+  "remaining_blockers": []
+}

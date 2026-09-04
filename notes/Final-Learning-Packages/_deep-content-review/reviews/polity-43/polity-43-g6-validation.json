@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "passed": true,
+  "topic_count": 1,
+  "topics": [
+    {
+      "topic_key": "polity-43",
+      "generation": 6,
+      "passed": true,
+      "errors": [],
+      "manual_content_review": "failed separately: one malformed retained source sentence in Session 14"
+    }
+  ]
+}

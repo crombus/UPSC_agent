@@ -1,0 +1,248 @@
+{
+  "topic_key": "polity-16",
+  "identity": "polity-16:learner-v2:g2",
+  "locked_at": "2026-08-28T07:15:00+05:30",
+  "approval": false,
+  "export_tracker_sha256": "b5b18d86ef8473af917b248985ab8d0f64ef945681f3bdff7512f8bc5accbafe",
+  "master_tracker_sha256": "b06d2d7f6ea6754a7971df9bfc17ae89c922b5b99595480797916f543cbbd75e",
+  "files": {
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-16\\polity-16_Complete-Learning-Session_2026-08-24.pdf": {
+      "sha256": "da79de6c405d047ce65e15b3d383181af08032d2e3a6f8ee267baf642f1a4992",
+      "bytes": 1824385,
+      "pages": 65
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-16\\polity-16_Solved-Practice-Workbook_2026-08-24.pdf": {
+      "sha256": "597b9633532cf651a7ec6415e36c45dc42e64d186f0ace4db4bd7f4347dce1f0",
+      "bytes": 459257,
+      "pages": 14
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-16\\polity-16_Complete-Learning-Session_2026-08-24.md": {
+      "sha256": "67bc2f002141deec27db682ad14a71516b08ccb843b7fb0f50f842321da99344",
+      "bytes": 183112
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-16\\polity-16_Solved-Practice-Workbook_2026-08-24.md": {
+      "sha256": "17aa2d301ec1bac9e58a8b9487239cb978027443640370e333311fc18b179d7f",
+      "bytes": 38773
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-16\\carvaka-g2\\master.png": {
+      "sha256": "a1827082423c76c97f734245d3cdbd2ee3f7de3da07537aa548c73e502ee68bb",
+      "bytes": 1733577
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-16\\carvaka-g2\\poster.pdf": {
+      "sha256": "bf8173d6fc9d67b91e7a357998a9c5d4f55ff3717b4cd74e589f58cc0672c7de",
+      "bytes": 1972260,
+      "pages": 1
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-16\\carvaka-g2\\tiled.pdf": {
+      "sha256": "8e4b151443739b5f7ba055d7f80f867d4f367a3674c36bf49c9686d5e37bc342",
+      "bytes": 2822944,
+      "pages": 4
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-16\\carvaka-g2\\ascii-master.txt": {
+      "sha256": "9d67378fabebdd7caa16f59bd2ab73cec3c2e660a1c35a6c044828f12ac5b690",
+      "bytes": 5778
+    },
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-16.json": {
+      "sha256": "aaafd1ec93db1b63ccb94de5c83471e36aaede401e35ab4046b6445915862be5",
+      "bytes": 41729
+    },
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-16-2026-08-24-sequential.json": {
+      "sha256": "7672b17dd2bc833385d136d9a5e10e28c6eccd10c1b8e5360daadc93befe7d0b",
+      "bytes": 17454
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-16\\carvaka-g2\\validation-report.txt": {
+      "sha256": "e4d8eb818d59bba8b009445910a1130cc35b4b2a7a3179efacf8573730d9115e",
+      "bytes": 1292
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-16\\carvaka-g2\\build-audit.json": {
+      "sha256": "502c4f61bdf1e1f36dd3b2e3cf60748f67942d135576ca648f36724f05e1e4eb",
+      "bytes": 7253
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-16\\carvaka-g2\\preservation-hashes.json": {
+      "sha256": "b56e10a599c59ca117f2bae3e4cd084d119453a591847bf498d523537a1100e1",
+      "bytes": 1903
+    },
+    "books\\Courseware on Indian Polity by M Laxmikanth.pdf": {
+      "sha256": "f487c68bd4c874d53f34bf57033f648505f4079bb866cfa79f3c8b52bf7dc4a5",
+      "bytes": 54994598,
+      "pages": 1646
+    },
+    "books\\Indian Polity by M Laxmikant.pdf": {
+      "sha256": "a5d04a6fa7b831e868d3524b25b772679206f9362d7c5b7521488fac879c79ff",
+      "bytes": 19414785,
+      "pages": 1509
+    },
+    "books\\mains\\02 UPSC 2024 Paper-II.pdf": {
+      "sha256": "e09fd90b1316063aaca652c2474a6621f3c606305835a04b71026378781de883",
+      "bytes": 260532,
+      "pages": 4
+    },
+    "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf": {
+      "sha256": "ea7bdf4b3940da6c4801ffb3223ecd6e5a119b476a31c2d7254c29573d2ac1c4",
+      "bytes": 206420,
+      "pages": 4
+    },
+    "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf": {
+      "sha256": "9919b1b3b264f5a2be5d13c2792b71e8a72c912037da5a53fc431978bac5c3c6",
+      "bytes": 15899317,
+      "pages": 48
+    },
+    "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf": {
+      "sha256": "3db2ca1932bf4cc4acac2e84345e8dabb48e5084161b93fbfca77cd89c41e4c7",
+      "bytes": 2298153,
+      "pages": 4
+    },
+    "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf": {
+      "sha256": "ea9187471ab78a029f5517d0748c758b448a15c62d8fe082f596fdd88d161b01",
+      "bytes": 4496630,
+      "pages": 6
+    },
+    "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf": {
+      "sha256": "a9476bb31b77f41981c78b30519a81a23ebe051b03d98fb12aa055f5a7b4ad46",
+      "bytes": 3546225,
+      "pages": 4
+    },
+    "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf": {
+      "sha256": "c55732cd8c4ee5fe57fec1e6dcd12955a25efcef3a2eb2169ebe03cd20213e9d",
+      "bytes": 2611162,
+      "pages": 4
+    },
+    "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf": {
+      "sha256": "658ddec60ef69c6df5695e5f0beec92375dc7cc8144c442cbc7a1f1f8333538d",
+      "bytes": 9221763,
+      "pages": 48
+    },
+    "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf": {
+      "sha256": "932a5f61b0f623a731c8210645089b70de2c404489565f446bc0766bd27b2325",
+      "bytes": 33688499,
+      "pages": 48
+    },
+    "books\\more_previous_papers\\QP_CS_Pre_Exam_2023_280523.pdf": {
+      "sha256": "c653e2beb48a8afd3f83b62f9f4694ae8bf1e76120b93c556c80cb2dbe8f4999",
+      "bytes": 6991451,
+      "pages": 48
+    },
+    "books\\prelima_question_paper_answers\\2024-GS1-Set A.pdf": {
+      "sha256": "8ff256fafbef5d24a65256067396852dbe16334c794c0eb9a28e8d17c1edb178",
+      "bytes": 10464853,
+      "pages": 48
+    },
+    "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf": {
+      "sha256": "524ebaa954062e0fe173ed432d37ffd3bf2bad9359756eb68bf3bb0ca56cd5d1",
+      "bytes": 31970151,
+      "pages": 48
+    },
+    "books\\prelima_question_paper_answers\\2026-GS1-Set A.pdf": {
+      "sha256": "94b52a2f857fb2d0b8264d47f68c46da4eb7d4051c21ebecf66a2682cdf5f311",
+      "bytes": 13460811,
+      "pages": 56
+    },
+    "books\\prelima_question_paper_answers\\Ans-2024-GS1.pdf": {
+      "sha256": "ca56c0cfa2d0cb05e3b41b01e0579470d0a348e7ec7d6d90cb46394ecef062cc",
+      "bytes": 666608,
+      "pages": 4
+    },
+    "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf": {
+      "sha256": "d009c1f8703abbf92d5b2a00781a93278fbf5b95097bf19306f5f4f1cdc6cf90",
+      "bytes": 510690,
+      "pages": 4
+    },
+    "books\\prelima_question_paper_answers\\Ans-2026-GS1-Provisional.pdf": {
+      "sha256": "c760abdf2ba0b6e78228e0c5a6dc5c42011b3636df304b03d72eed5509768b33",
+      "bytes": 123686,
+      "pages": 4
+    },
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": {
+      "sha256": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+      "bytes": 117711
+    },
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": {
+      "sha256": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+      "bytes": 28281
+    },
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": {
+      "sha256": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+      "bytes": 171735
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\16_PM-and-Council-of-Ministers_Complete-Topic-Package.md": {
+      "sha256": "a10b46e7fac00ac1f823ed961a1f948493aef8484f30d0af7c4ce360c1062d09",
+      "bytes": 109394
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\16_PM-and-Council-of-Ministers.md": {
+      "sha256": "7c455ffb23e143adc9c95925d57bfde82af5b42d78e8384400332e4785299f63",
+      "bytes": 7335
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md": {
+      "sha256": "c08bfa6257e930f3afdb49ee3e7fb583708258f3aa033e50230eac10f8b5f62a",
+      "bytes": 139952
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Anti-Defection-Law.md": {
+      "sha256": "174a69e09b5007c68068cc9f846e9ee61273337e69857e33dcd7cb6db0777d67",
+      "bytes": 21776
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md": {
+      "sha256": "7dcd7648b978383ca7fa215be112e9cbc83217489bab4def27fc9095d3442b5b",
+      "bytes": 78702
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliamentary-System.md": {
+      "sha256": "472c99e696547fa41a1c34706d3cea8c322a4330b11b8208c4f7c841faa0b803",
+      "bytes": 22941
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\PM-and-Council-of-Ministers.md": {
+      "sha256": "8a01ae5ecda9a183385592f2b6cbb6646895948e36bed84cc5b77e5d842dc343",
+      "bytes": 19219
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\President-and-Vice-President.md": {
+      "sha256": "e391f17ca85847c2a116707061b3492a0ef3b422089d27ead91248924683b2d9",
+      "bytes": 28970
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-16_Learning-Session.md": {
+      "sha256": "43c539af5ee30459796c8e8832e591f968accea56c2602c882b28ec9cb9960be",
+      "bytes": 130417
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": {
+      "sha256": "fecfb9e4a78671056ff154eb37c92412a47f77baaffa362f6cbe0c9b610fee50",
+      "bytes": 8006
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\README.md": {
+      "sha256": "8a2559da77f8dd12061f510946d689be7ffdae32b79752cfe0980e657f76176d",
+      "bytes": 14006
+    },
+    "upsc-ai-kit\\manifests\\exports\\polity-16-source-pyq-current-audit-2026-08-24.json": {
+      "sha256": "a60e7b2f3dd6f78588e1d8e607f0442085e22de875f56285282063d815e0abc9",
+      "bytes": 7900
+    },
+    "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json": {
+      "sha256": "8a4fc59b10a4d625823256cea9be07e715d553a7a919802cc2fe4c65f59274e4",
+      "bytes": 71618
+    },
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": {
+      "sha256": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+      "bytes": 821993
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\16-PM-and-Council-of-Ministers\\README.txt": {
+      "sha256": "f08e0ca01187f6e2560d66126122a34861937bd173e5fe0428a7279b75921d7d",
+      "bytes": 601
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\16-PM-and-Council-of-Ministers\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf": {
+      "sha256": "da79de6c405d047ce65e15b3d383181af08032d2e3a6f8ee267baf642f1a4992",
+      "bytes": 1824385,
+      "pages": 65
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\16-PM-and-Council-of-Ministers\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": {
+      "sha256": "597b9633532cf651a7ec6415e36c45dc42e64d186f0ace4db4bd7f4347dce1f0",
+      "bytes": 459257,
+      "pages": 14
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\16-PM-and-Council-of-Ministers\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": {
+      "sha256": "bf8173d6fc9d67b91e7a357998a9c5d4f55ff3717b4cd74e589f58cc0672c7de",
+      "bytes": 1972260,
+      "pages": 1
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\16-PM-and-Council-of-Ministers\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": {
+      "sha256": "90071a7e4265b2d0b5c730c19df7ccce063887df29243da4f984f1b2e8410c4b",
+      "bytes": 55185,
+      "pages": 9
+    }
+  }
+}

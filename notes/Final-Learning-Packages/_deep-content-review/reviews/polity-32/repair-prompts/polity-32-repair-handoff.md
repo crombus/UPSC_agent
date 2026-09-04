@@ -1,0 +1,3 @@
+# Repair handoff — polity-32
+
+Preserve `polity-32:learner-v2:g2` and its 72/100 review. Generate a new immutable successor only after re-reading all live trackers. Use `g3-source\polity-32_g3-reviewed-source.md`; regenerate session, workbook, graphical and ASCII artifacts from the same ledger. Acceptance: complete Articles 148-151/DPC Act Core before Optional; two direct PYQs and labelled adjacent routes; executable 10/15/20-mark answers with specific improvement/compression; 48 MCQs in exact A-B-C-D rotation; 12 agreeing Core flows; ASCII width <=100; no ellipsis/replacement glyph; all metadata/hash checks; approval false and revalidation state distinct from approval.

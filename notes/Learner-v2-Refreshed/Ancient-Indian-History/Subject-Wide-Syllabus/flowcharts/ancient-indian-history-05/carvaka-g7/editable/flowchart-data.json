@@ -1,0 +1,510 @@
+{
+  "schema_version": 1,
+  "topic_key": "ancient-indian-history-05",
+  "generation": 7,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g7\\ancient-indian-history-05_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    37324
+  ],
+  "stages": [
+    {
+      "title": "MEANING AND CHRONOLOGY - NEOLITHIC, NEOLITHIC-CHALCOLITHIC AND CHALCOLITHIC — [CORE PRELIMS + CORE MAINS]",
+      "terms": "METHOD: Always specify whether a date is calibrated, uncalibrated, a range, or a textbook approximation.",
+      "mechanism": "FACT: Neolithic conventionally combines food production with ground, pecked and polished stone tools; many sites also show pottery and more sedentary settlement.",
+      "consequence": "Memory hook: NEO is not one date; CHALCO is not only copper; CULTURE is not ethnicity.",
+      "trap": "INFERENCE: Labels are useful for comparison but must be applied after examining local sequences.",
+      "answer": "Chalcolithic denotes the use of copper alongside stone, not an exclusive copper technology."
+    },
+    {
+      "title": "TRANSITION FROM FORAGING TO FOOD PRODUCTION - MOSAIC, NOT LADDER",
+      "terms": "Mains angle: Frame the transition as portfolio change: resource management, domestication, storage, settlement and social coordination developed at different speeds.",
+      "mechanism": "Mains angle: Frame the transition as portfolio change: resource management, domestication, storage, settlement and social coordination developed at different speeds.",
+      "consequence": "Sedentism and food production are related but not identical.",
+      "trap": "Mixed subsistence is normal, not transitional failure.",
+      "answer": "INFERENCE: Transition is best understood as a changing portfolio of subsistence strategies."
+    },
+    {
+      "title": "WHY DOMESTICATION? COMPETING EXPLANATIONS AND A MULTI-CAUSAL VERDICT",
+      "terms": "No single theory explains every region.",
+      "mechanism": "FACT: Upinder Singh treats the impulses behind domestication as regionally variable and difficult to isolate.",
+      "consequence": "Mains angle: Use a four-factor conclusion: ecology supplied possibilities, demography and risk changed incentives, knowledge enabled experiments, and social organization stabilized new practices.",
+      "trap": "FACT: Archaeologists have proposed environmental stress, nuclear-zone knowledge, demographic pressure, positive feedback from productive domesticates and Holocene environmental amelioration.",
+      "answer": "INFERENCE: Social motives such as feasting, exchange, inheritance and territorial claims may have mattered but are hard to recover."
+    },
+    {
+      "title": "DOMESTICATION OF PLANTS - DIRECT EVIDENCE, INDIRECT EVIDENCE AND RICE CAUTION — [CORE PRELIMS + CORE MAINS]",
+      "terms": "INFERENCE: A crop package can combine local domestication, adoption and long-distance transfer.",
+      "mechanism": "INFERENCE: A crop package can combine local domestication, adoption and long-distance transfer.",
+      "consequence": "Domestication is not identical to economic dominance.",
+      "trap": "Plant presence is not identical to cultivation.",
+      "answer": "Cultivation is not identical to full domestication."
+    },
+    {
+      "title": "DOMESTICATION OF ANIMALS - HERD STRUCTURE, MORPHOLOGY AND HUMAN CONTROL — [CORE PRELIMS + CORE MAINS]",
+      "terms": "METHOD: One small bone cannot establish domestication; assemblage pattern and secure identification are essential.",
+      "mechanism": "FACT: Mehrgarh shows declining wild gazelle and rising cattle, sheep and goat proportions through time.",
+      "consequence": "FACT: Burzahom retained hunting and fishing while also using domestic cattle, sheep, goat and dog.",
+      "trap": "METHOD: One small bone cannot establish domestication; assemblage pattern and secure identification are essential.",
+      "answer": "FACT: Animal domestication is inferred from long-term morphological change, demographic profiles, geographic displacement, pathologies, residues and settlement context."
+    },
+    {
+      "title": "POLISHED STONE, MICROLITHS, BONE TOOLS AND THE PERSISTENCE OF OLDER TECHNOLOGIES — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Mains angle: Use technological persistence to challenge stage-based determinism: materials were combined according to task, access and social value.",
+      "mechanism": "INFERENCE: Tool choice depends on cost, repairability, raw materials and task suitability rather than a simple hierarchy of progress.",
+      "consequence": "Mains angle: Use technological persistence to challenge stage-based determinism: materials were combined according to task, access and social value.",
+      "trap": "Bone and antler industries were especially prominent at Burzahom and Chirand.",
+      "answer": "FACT: Technology layers overlap; polished stone does not erase microliths, and copper does not erase stone."
+    },
+    {
+      "title": "POTTERY, COOKING, STORAGE AND CERAMIC CHRONOLOGY — [CORE PRELIMS + CORE MAINS]",
+      "terms": "FACT: Pottery supported cooking, serving and storage, but food production can precede pottery.",
+      "mechanism": "METHOD: Ceramic seriation must be anchored by stratigraphy and absolute dates.",
+      "consequence": "Mains angle: Treat pottery as technology, chronology and social communication, while refusing to equate style with ethnicity.",
+      "trap": "FACT: Mehrgarh Period I was largely aceramic; pottery increased later.",
+      "answer": "FACT: Pottery supported cooking, serving and storage, but food production can precede pottery."
+    },
+    {
+      "title": "SETTLEMENT, HOUSES, STORAGE AND THE NEW TIME HORIZON",
+      "terms": "FACT: Public works require coordination but do not by themselves prove a state.",
+      "mechanism": "FACT: Public works require coordination but do not by themselves prove a state.",
+      "consequence": "INFERENCE: Sedentism concentrates waste, pathogens and social tensions while also enabling craft and community institutions.",
+      "trap": "Fortification does not equal urban civilization.",
+      "answer": "Mains angle: Explain settlement as a package of permanence, storage, property, public labour, health risk and social negotiation."
+    },
+    {
+      "title": "SUBSISTENCE, LABOUR, HEALTH AND DEMOGRAPHIC CONSEQUENCES",
+      "terms": "INFERENCE: Food production increased carrying capacity but could distribute benefits unequally.",
+      "mechanism": "INFERENCE: Food production increased carrying capacity but could distribute benefits unequally.",
+      "consequence": "More food does not guarantee better nutrition.",
+      "trap": "Population growth can be an outcome as well as a pressure.",
+      "answer": "FACT: Farming could raise aggregate food availability and support population growth, but early farmers often faced narrower diets, infectious disease, hard labour and vulnerability to drought, pests and storage loss."
+    },
+    {
+      "title": "CRAFTS, SPECIALIZATION AND EXCHANGE NETWORKS",
+      "terms": "Exchange can move raw materials, finished goods, people and ideas.",
+      "mechanism": "Exchange can move raw materials, finished goods, people and ideas.",
+      "consequence": "Imported material does not prove political control.",
+      "trap": "Mains angle: Use exchange to connect ecology with society: specialized zones traded complementary resources without necessarily forming one political system.",
+      "answer": "FACT: Early villages were not isolated subsistence units."
+    },
+    {
+      "title": "SOCIAL DIFFERENTIATION, HOUSEHOLD ORGANIZATION AND SETTLEMENT HIERARCHY",
+      "terms": "INFERENCE: Rank could emerge through control of storage, exchange, water, ritual or livestock.",
+      "mechanism": "INFERENCE: Rank could emerge through control of storage, exchange, water, ritual or livestock.",
+      "consequence": "FACT: Differences in house size, settlement position, diet, burial treatment, stored wealth and craft location suggest emerging ranks at some sites, but inequality varied greatly and should not be read as a fully developed class state.",
+      "trap": "FACT: Inamgaon has interpreted craft quarters, central elite structures and a settlement hierarchy.",
+      "answer": "Settlement hierarchy does not automatically equal state hierarchy."
+    },
+    {
+      "title": "RITUAL, BURIALS, FIGURINES AND THE PROBLEM OF MEANING",
+      "terms": "FACT: Malwa and Jorwe contexts include fire installations, figurines and house-floor burials.",
+      "mechanism": "FACT: Malwa and Jorwe contexts include fire installations, figurines and house-floor burials.",
+      "consequence": "FACT: Inamgaon has unusual urn and symbolic burials as well as temporary clay figurines.",
+      "trap": "FACT: Burzahom has human and animal burials and a hunting engraving.",
+      "answer": "Ritual is inferred from patterned, non-utilitarian context."
+    },
+    {
+      "title": "REGIONAL MAP IN TEXT - THE INDIAN NEOLITHIC MOSAIC — [CORE PRELIMS + CORE MAINS]",
+      "terms": "INFERENCE: Similar tools may reflect convergent adaptation, interaction or shared learning; the mechanism must be tested.",
+      "mechanism": "INFERENCE: Similar tools may reflect convergent adaptation, interaction or shared learning; the mechanism must be tested.",
+      "consequence": "North-west is not the only early agricultural zone.",
+      "trap": "The north-east chronology remains especially incomplete.",
+      "answer": "South Indian ash mounds are not universal even within the south."
+    },
+    {
+      "title": "NORTH-WEST NEOLITHIC - MEHRGARH AS A LONG SEQUENCE — [CORE PRELIMS + CORE MAINS]",
+      "terms": "METHOD: The 2025 radiocarbon revision must be presented alongside, not silently substituted for, older textbook chronology.",
+      "mechanism": "METHOD: The 2025 radiocarbon revision must be presented alongside, not silently substituted for, older textbook chronology.",
+      "consequence": "Mehrgarh was not a city in its earliest phases.",
+      "trap": "INFERENCE: Mehrgarh demonstrates that early village formation was already socially and economically complex.",
+      "answer": "Mains angle: Use Mehrgarh as a sequence, not a label: subsistence, storage, craft, burial and exchange changed across periods."
+    },
+    {
+      "title": "KASHMIR NEOLITHIC - BURZAHOM AND GUFKRAL — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Burzahom and Gufkral show pit structures, polished stone and bone tools, hunting and fishing, increasing cultivation and herding, distinctive burials and contacts beyond the valley.",
+      "mechanism": "Mains angle: Explain Kashmir as a highland adaptation and use the pit debate to demonstrate how archaeological interpretation changes.",
+      "consequence": "DEBATE: Pits may have been dwellings, storage units or seasonally used structures; majority opinion is not proof.",
+      "trap": "Burzahom is not famous for rock-cut shrines.",
+      "answer": "Burzahom and Gufkral show pit structures, polished stone and bone tools, hunting and fishing, increasing cultivation and herding, distinctive burials and contacts beyond the valley."
+    },
+    {
+      "title": "VINDHYAN FRINGES AND MIDDLE GANGA - KOLDIHWA, MAHAGARA AND LAHURADEWA — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Mains angle: Use the middle Ganga evidence to argue for regional experimentation while remaining cautious about claims of independent domestication.",
+      "mechanism": "FACT: Mahagara's cattle pen links settlement space with herd management.",
+      "consequence": "FACT: Lahuradewa later developed many earthen silos and wider crop-animal packages.",
+      "trap": "FACT: These sites are central to debates on rice, cattle, continuity from the Mesolithic and the emergence of settled food-producing communities outside the north-west.",
+      "answer": "Mains angle: Use the middle Ganga evidence to argue for regional experimentation while remaining cautious about claims of independent domestication."
+    },
+    {
+      "title": "EASTERN INDIA - REPRESENTATIVE SEQUENCE",
+      "terms": "Other eastern sites show regional spread, but do not memorise an exhaustive inventory unless a specific option requires it.",
+      "mechanism": "Other eastern sites show regional spread, but do not memorise an exhaustive inventory unless a specific option requires it.",
+      "consequence": "Other eastern sites show regional spread, but do not memorise an exhaustive inventory unless a specific option requires it.",
+      "trap": "Other eastern sites show regional spread, but do not memorise an exhaustive inventory unless a specific option requires it.",
+      "answer": "Chirand is the core exam anchor: a Bihar site with a long Neolithic-Chalcolithic sequence and bone-tool evidence."
+    },
+    {
+      "title": "NORTH-EAST NEOLITHIC - REGIONAL CAUTION",
+      "terms": "Use it to reject an all-India sequence; do not turn corridor or extension hypotheses into settled site chronologies without a verified source.",
+      "mechanism": "Use it to reject an all-India sequence; do not turn corridor or extension hypotheses into settled site chronologies without a verified source.",
+      "consequence": "North-east evidence is regionally important but uneven.",
+      "trap": "North-east evidence is regionally important but uneven.",
+      "answer": "North-east evidence is regionally important but uneven."
+    },
+    {
+      "title": "SOUTH INDIAN NEOLITHIC - CHRONOLOGY, LANDSCAPE AND REGIONAL SEQUENCE — [CORE PRELIMS + CORE MAINS]",
+      "terms": "FACT: The link between Mesolithic and Neolithic phases in the far south remains incompletely worked out.",
+      "mechanism": "FACT: The link between Mesolithic and Neolithic phases in the far south remains incompletely worked out.",
+      "consequence": "FACT: Ash mounds are absent from several southern zones and therefore are not a universal marker.",
+      "trap": "Cattle were central, but recent botanical work demonstrates important millet and pulse cultivation.",
+      "answer": "South Indian Neolithic was not a copy of Mehrgarh."
+    },
+    {
+      "title": "ASH MOUNDS - FORMATION, FUNCTION AND COMPETING INTERPRETATIONS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "METHOD: Do not force one function on the entire class of sites.",
+      "mechanism": "METHOD: Do not force one function on the entire class of sites.",
+      "consequence": "Dung origin does not settle social meaning.",
+      "trap": "FACT: Utnur had pen enclosures and cattle hoof impressions.",
+      "answer": "Mains angle: Present the debate as a hierarchy of confidence: dung origin is strong; exact function and symbolism remain variable."
+    },
+    {
+      "title": "SOUTH INDIAN CASE RECALL",
+      "terms": "Retain one southern comparison: cattle-centred lifeways, polished axes and ash-mound traditions show a distinct regional trajectory.",
+      "mechanism": "Extra site names are supporting detail, not a core inventory.",
+      "consequence": "Extra site names are supporting detail, not a core inventory.",
+      "trap": "Extra site names are supporting detail, not a core inventory.",
+      "answer": "Retain one southern comparison: cattle-centred lifeways, polished axes and ash-mound traditions show a distinct regional trajectory."
+    },
+    {
+      "title": "REGIONAL NEOLITHIC COMPARISON - WHAT VARIED AND WHAT CONVERGED",
+      "terms": "METHOD: Comparison should use the same dimensions across every region.",
+      "mechanism": "Mains angle: Conclude that the Indian Neolithic was a connected mosaic: multiple pathways, partial convergence and persistent regionality.",
+      "consequence": "Ecology shapes but does not mechanically determine culture.",
+      "trap": "INFERENCE: Crop packages reflect both local ecology and interregional transfer.",
+      "answer": "INFERENCE: Shared outcomes do not require a single origin."
+    },
+    {
+      "title": "CHALCOLITHIC INDIA - DEFINITION, GEOGRAPHY AND CULTURAL SEQUENCE — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Major concentrations include Rajasthan, Malwa, Maharashtra, the Ganga plains and eastern India.",
+      "mechanism": "Major concentrations include Rajasthan, Malwa, Maharashtra, the Ganga plains and eastern India.",
+      "consequence": "Chalcolithic is not a uniform period.",
+      "trap": "Painted pottery is important but not exclusive.",
+      "answer": "INFERENCE: Culture zones were networks of related material practice, not bounded political states."
+    },
+    {
+      "title": "COPPER AND STONE TECHNOLOGY - ORE, SMELTING, ALLOYING AND SCARCITY",
+      "terms": "FACT: Ganeshwar yielded over a thousand copper objects but published reports do not provide direct furnace evidence for the early phase.",
+      "mechanism": "INFERENCE: Control over ore and metal circulation could generate status without producing urban state power.",
+      "consequence": "FACT: Inamgaon has evidence for copper extraction but copper remained scarce.",
+      "trap": "FACT: Ahar has copper sheet and slag supporting local metallurgy.",
+      "answer": "FACT: Ganeshwar yielded over a thousand copper objects but published reports do not provide direct furnace evidence for the early phase."
+    },
+    {
+      "title": "GANESHWAR-JODHPURA - COPPER ZONE, CRAFT CENTRE AND HARAPPAN CONTACT — [CORE PRELIMS + CORE MAINS]",
+      "terms": "INFERENCE: A small site can be regionally important through specialization.",
+      "mechanism": "INFERENCE: A small site can be regionally important through specialization.",
+      "consequence": "It is not a Harappan city.",
+      "trap": "INFERENCE: Ore-zone communities may have supplied both rural neighbours and urban Harappans.",
+      "answer": "The sequence shows movement from hunting with microliths toward extensive copper-working and wider interaction."
+    },
+    {
+      "title": "AHAR-BANAS CULTURE - RIVER VALLEYS, COPPER, FARMING AND SETTLEMENT DIVERSITY — [CORE PRELIMS + CORE MAINS]",
+      "terms": "FACT: Balathal fauna was dominated by domesticates, especially cattle, and crops were stored in bins.",
+      "mechanism": "FACT: Balathal fauna was dominated by domesticates, especially cattle, and crops were stored in bins.",
+      "consequence": "Mains angle: Compare Ahar, Gilund, Balathal and Pachamta to show internal settlement hierarchy and changing organization.",
+      "trap": "FACT: Shell and semi-precious materials indicate links to Gujarat and other zones.",
+      "answer": "White-painted black-and-red ware, copper use, mixed farming-herding and varied settlement sizes are major markers."
+    },
+    {
+      "title": "KAYATHA CULTURE - EARLY MALWA SEQUENCE, WEALTH AND ABRUPT BREAK — [CORE PRELIMS + CORE MAINS]",
+      "terms": "INFERENCE: The abrupt break could reflect conflict, ecological stress, mobility or other causes; evidence does not select one confidently.",
+      "mechanism": "INFERENCE: The abrupt break could reflect conflict, ecological stress, mobility or other causes; evidence does not select one confidently.",
+      "consequence": "Mains angle: Use Kayatha to discuss wealth concentration, cultural contact and the difficulty of explaining archaeological breaks.",
+      "trap": "Absence of grain remains in excavation is not proof of no farming.",
+      "answer": "FACT: Kayatha culture in western Madhya Pradesh is an early Chalcolithic phase with fine wheel-made pottery, microliths, copper objects and concentrated bead wealth."
+    },
+    {
+      "title": "MALWA CULTURE - NAVDATOLI, ERAN, NAGDA AND DECCAN SPREAD — [CORE PRELIMS + CORE MAINS]",
+      "terms": "INFERENCE: Malwa culture was a network spanning distinct local ecologies rather than a single homogeneous settlement system.",
+      "mechanism": "FACT: More stone than copper occurs at many Malwa sites because copper was scarce.",
+      "consequence": "FACT: Malwa culture followed Ahar in parts of central India and spread into the Deccan.",
+      "trap": "FACT: Fire installations and decorated vessels have been interpreted ritually, but named-deity identifications are conjectural.",
+      "answer": "Navdatoli, Eran and Nagda are core Malwa sites."
+    },
+    {
+      "title": "WESTERN DECCAN - SEQUENCE CAUTION",
+      "terms": "Use the region to explain non-linear change; do not memorise every ceramic phase for a general UPSC answer.",
+      "mechanism": "Use the region to explain non-linear change; do not memorise every ceramic phase for a general UPSC answer.",
+      "consequence": "Western Deccan sequences show overlap and reorganisation across cultural labels.",
+      "trap": "Western Deccan sequences show overlap and reorganisation across cultural labels.",
+      "answer": "Western Deccan sequences show overlap and reorganisation across cultural labels."
+    },
+    {
+      "title": "JORWE CULTURE - DISTRIBUTION, POTTERY AND SETTLEMENT HIERARCHY — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Mains angle: Use settlement hierarchy to discuss regional integration without overstating state formation.",
+      "mechanism": "Mains angle: Use settlement hierarchy to discuss regional integration without overstating state formation.",
+      "consequence": "INFERENCE: Large centres coordinated craft, exchange or storage, but regional political integration remains uncertain.",
+      "trap": "FACT: Jorwe pottery has a red or bright-orange surface with black geometric painting.",
+      "answer": "FACT: Copper was used sparingly while stone blades remained important."
+    },
+    {
+      "title": "INAMGAON - SELECTIVE CASE USE",
+      "terms": "In core answers, use it only to illustrate evidence-bound social differentiation.",
+      "mechanism": "In core answers, use it only to illustrate evidence-bound social differentiation.",
+      "consequence": "Inamgaon is a useful Deccan rural-lifeway case, but detailed household and rank reconstruction belongs to Optional Advanced depth.",
+      "trap": "Inamgaon is a useful Deccan rural-lifeway case, but detailed household and rank reconstruction belongs to Optional Advanced depth.",
+      "answer": "Inamgaon is a useful Deccan rural-lifeway case, but detailed household and rank reconstruction belongs to Optional Advanced depth."
+    },
+    {
+      "title": "DECLINE AND TRANSFORMATION - LATE JORWE AND REGIONAL REORGANIZATION",
+      "terms": "METHOD: Use 'decline/transformation' rather than a single dramatic collapse unless evidence warrants it.",
+      "mechanism": "METHOD: Use 'decline/transformation' rather than a single dramatic collapse unless evidence warrants it.",
+      "consequence": "Late Jorwe is not simply disappearance.",
+      "trap": "FACT: Not all sites ended simultaneously.",
+      "answer": "Late levels show smaller huts, coarser pottery, reduced winter crops and greater reliance on hardy crops and wild resources."
+    },
+    {
+      "title": "OCP, COPPER HOARDS AND THE UPPER GANGA - ASSOCIATION WITHOUT ETHNIC LABELS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Mains angle: Use OCP to demonstrate the difference between an artefact horizon and a historically named community.",
+      "mechanism": "Mains angle: Use OCP to demonstrate the difference between an artefact horizon and a historically named community.",
+      "consequence": "FACT: Hoards imply sophisticated metalworking but their users are difficult to identify.",
+      "trap": "Metal skill does not require nomadism or urbanism.",
+      "answer": "OCP and copper hoards overlap but are not identical distributions."
+    },
+    {
+      "title": "NEOLITHIC, CHALCOLITHIC AND HARAPPAN - RELATIONSHIP AND DISTINCTIONS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "FACT: Daimabad includes a late Harappan phase within a longer Deccan sequence.",
+      "mechanism": "FACT: Daimabad includes a late Harappan phase within a longer Deccan sequence.",
+      "consequence": "INFERENCE: Harappan demand may have stimulated rural resource specialization, but local agency remained important.",
+      "trap": "FACT: These formations overlap chronologically and interacted materially, but differ in scale, settlement hierarchy, craft organization, writing and urban institutions.",
+      "answer": "Chalcolithic communities were not failed Harappans."
+    },
+    {
+      "title": "INTERPRETATIONS AND SOURCE LIMITATIONS - ARCHAEOLOGICAL CULTURE IS NOT A PEOPLE",
+      "terms": "METHOD: Use multiple independent lines of evidence and state alternatives.",
+      "mechanism": "These are analytical constructs and cannot independently establish ethnicity, language, polity or migration.",
+      "consequence": "New methods can change old interpretations.",
+      "trap": "FACT: Organic materials, ordinary houses and mobile populations are under-represented.",
+      "answer": "Culture names organize data; they do not speak for ancient identity."
+    },
+    {
+      "title": "CURRENT-RESEARCH GUARDRAIL",
+      "terms": "No current-affairs item is required for this static topic.",
+      "mechanism": "No current-affairs item is required for this static topic.",
+      "consequence": "The safe lesson is methodological: new evidence can refine a site sequence or domestication inference, but it does not automatically rewrite an all-India transition.",
+      "trap": "The safe lesson is methodological: new evidence can refine a site sequence or domestication inference, but it does not automatically rewrite an all-India transition.",
+      "answer": "The safe lesson is methodological: new evidence can refine a site sequence or domestication inference, but it does not automatically rewrite an all-India transition."
+    },
+    {
+      "title": "UPSC TRAP MATRIX - HIGH-FREQUENCY ELIMINATIONS",
+      "terms": "METHOD: Treat absolute words such as only, entirely and everywhere with suspicion.",
+      "mechanism": "METHOD: Treat absolute words such as only, entirely and everywhere with suspicion.",
+      "consequence": "Chandraketugarh is known for terracotta art.",
+      "trap": "Ganeshwar is known for copper artefacts.",
+      "answer": "METHOD: If official key is unavailable, label the solution inferred and show statement-level reasoning."
+    },
+    {
+      "title": "TRANSITION, NOT A SINGLE REVOLUTION",
+      "terms": "A technological label names an archaeological pattern; it does not by itself name a people or a destiny.",
+      "mechanism": "A technological label names an archaeological pattern; it does not by itself name a people or a destiny.",
+      "consequence": "In a Mains answer, use \"mosaic\", \"regional\" and \"overlap\" to avoid replacing foragers with an instant farmer category.",
+      "trap": "Mehrgarh, Kashmir, the Ganga valley and south India are comparison points, not stages of one national ladder.",
+      "answer": "Mehrgarh, Kashmir, the Ganga valley and south India are comparison points, not stages of one national ladder."
+    },
+    {
+      "title": "WHAT COUNTS AS DOMESTICATION EVIDENCE? — [CORE PRELIMS + CORE MAINS]",
+      "terms": "A technological label names an archaeological pattern; it does not by itself name a people or a destiny.",
+      "mechanism": "A technological label names an archaeological pattern; it does not by itself name a people or a destiny.",
+      "consequence": "It can support an inference about cultivation, herding or food processing; it does not automatically settle domestic status or economic dependence.",
+      "trap": "It can support an inference about cultivation, herding or food processing; it does not automatically settle domestic status or economic dependence.",
+      "answer": "A seed, animal bone, tool or storage feature is evidence only in context."
+    },
+    {
+      "title": "REGION-SITE-MARKER TRIADS",
+      "terms": "A technological label names an archaeological pattern; it does not by itself name a people or a destiny.",
+      "mechanism": "A technological label names an archaeological pattern; it does not by itself name a people or a destiny.",
+      "consequence": "Do not add every excavated site unless it changes the option or argument.",
+      "trap": "Use compact triads: Mehrgarh--north-west--early farming; Burzahom--Kashmir--pit dwellings/bone tools; Chirand--Bihar--long Neolithic-Chalcolithic sequence; south India--cattle/polished axes/ash mounds; Ahar-Gilund--Banas valley--Chalcolithic; Malwa--Navdatoli/Eran/Nagda; Jorwe--Maharashtra.",
+      "answer": "Use compact triads: Mehrgarh--north-west--early farming; Burzahom--Kashmir--pit dwellings/bone tools; Chirand--Bihar--long Neolithic-Chalcolithic sequence; south India--cattle/polished axes/ash mounds; Ahar-Gilund--Banas valley--Chalcolithic; Malwa--Navdatoli/Eran/Nagda; Jorwe--Maharashtra."
+    },
+    {
+      "title": "FROM PRODUCTION TO SOCIAL CONSEQUENCE",
+      "terms": "A technological label names an archaeological pattern; it does not by itself name a people or a destiny.",
+      "mechanism": "A technological label names an archaeological pattern; it does not by itself name a people or a destiny.",
+      "consequence": "The word \"possible\" matters: storage or a larger house can be a clue, not proof of a fixed hierarchy.",
+      "trap": "The word \"possible\" matters: storage or a larger house can be a clue, not proof of a fixed hierarchy.",
+      "answer": "A useful causal flow is ecology/domesticates - cultivation or herding - storage and settlement routines - surplus/craft/exchange - possible differentiation."
+    },
+    {
+      "title": "CHALCOLITHIC IS RURAL AND REGIONAL, NOT FAILED HARAPPA — [CORE PRELIMS + CORE MAINS]",
+      "terms": "A technological label names an archaeological pattern; it does not by itself name a people or a destiny.",
+      "mechanism": "A technological label names an archaeological pattern; it does not by itself name a people or a destiny.",
+      "consequence": "Compare them with Harappan urbanism only to explain differences in scale, settlement and material organisation; never use a culture label as an ethnic identity.",
+      "trap": "Chalcolithic means copper plus stone; it does not mean iron, automatic urbanism or a failed version of Harappa.",
+      "answer": "Chalcolithic means copper plus stone; it does not mean iron, automatic urbanism or a failed version of Harappa."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 2,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7760,
+      "y_end": 9960,
+      "overlap_px": 260,
+      "from_stage": 9,
+      "continues_stage": 12
+    },
+    {
+      "page": 6,
+      "y_start": 9700,
+      "y_end": 11900,
+      "overlap_px": 260,
+      "from_stage": 11,
+      "continues_stage": 14
+    },
+    {
+      "page": 7,
+      "y_start": 11640,
+      "y_end": 13840,
+      "overlap_px": 260,
+      "from_stage": 13,
+      "continues_stage": 16
+    },
+    {
+      "page": 8,
+      "y_start": 13580,
+      "y_end": 15780,
+      "overlap_px": 260,
+      "from_stage": 16,
+      "continues_stage": 18
+    },
+    {
+      "page": 9,
+      "y_start": 15520,
+      "y_end": 17720,
+      "overlap_px": 260,
+      "from_stage": 18,
+      "continues_stage": 20
+    },
+    {
+      "page": 10,
+      "y_start": 17460,
+      "y_end": 19660,
+      "overlap_px": 260,
+      "from_stage": 20,
+      "continues_stage": 23
+    },
+    {
+      "page": 11,
+      "y_start": 19400,
+      "y_end": 21600,
+      "overlap_px": 260,
+      "from_stage": 22,
+      "continues_stage": 25
+    },
+    {
+      "page": 12,
+      "y_start": 21340,
+      "y_end": 23540,
+      "overlap_px": 260,
+      "from_stage": 24,
+      "continues_stage": 27
+    },
+    {
+      "page": 13,
+      "y_start": 23280,
+      "y_end": 25480,
+      "overlap_px": 260,
+      "from_stage": 27,
+      "continues_stage": 29
+    },
+    {
+      "page": 14,
+      "y_start": 25220,
+      "y_end": 27420,
+      "overlap_px": 260,
+      "from_stage": 29,
+      "continues_stage": 31
+    },
+    {
+      "page": 15,
+      "y_start": 27160,
+      "y_end": 29360,
+      "overlap_px": 260,
+      "from_stage": 31,
+      "continues_stage": 34
+    },
+    {
+      "page": 16,
+      "y_start": 29100,
+      "y_end": 31300,
+      "overlap_px": 260,
+      "from_stage": 33,
+      "continues_stage": 36
+    },
+    {
+      "page": 17,
+      "y_start": 31040,
+      "y_end": 33240,
+      "overlap_px": 260,
+      "from_stage": 35,
+      "continues_stage": 38
+    },
+    {
+      "page": 18,
+      "y_start": 32980,
+      "y_end": 35180,
+      "overlap_px": 260,
+      "from_stage": 38,
+      "continues_stage": 40
+    },
+    {
+      "page": 19,
+      "y_start": 34920,
+      "y_end": 37120,
+      "overlap_px": 260,
+      "from_stage": 40,
+      "continues_stage": 42
+    },
+    {
+      "page": 20,
+      "y_start": 35124,
+      "y_end": 37324,
+      "overlap_px": 260,
+      "from_stage": 40,
+      "continues_stage": 42
+    }
+  ]
+}

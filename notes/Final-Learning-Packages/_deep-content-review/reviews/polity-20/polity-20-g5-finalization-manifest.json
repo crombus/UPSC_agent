@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-20",
+  "source_record_id": "polity-20:learner-v2:g5",
+  "source_generation": 5,
+  "status": "passed",
+  "approval": false,
+  "final_folder": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\20-State-Legislature",
+  "review": "polity-20-g5-content-review.json",
+  "audit": "polity-20-g5-final-audit.json"
+}

@@ -1,0 +1,13 @@
+{
+  "topic_key": "political-theory-01",
+  "allocated_at": "2026-08-30T09:19:43.850760+00:00",
+  "baseline_record_id": "political-theory-01:learner-v2:g3",
+  "new_record_id": "political-theory-01:learner-v2:g4",
+  "review_state": "failed_before_render",
+  "score": null,
+  "approval": false,
+  "prior_generation_immutable": true,
+  "live_export_identity": "political-theory-01:learner-v2:g3",
+  "live_master_identity": "political-theory-01:learner-v2:g3",
+  "failure_reason": "The first immutable target pre-created the graphical output directory; the renderer correctly refused overwrite. Partial files are preserved and were never published."
+}

@@ -1,0 +1,59 @@
+{
+  "topic_key": "polity-16",
+  "identity": "polity-16:learner-v2:g6",
+  "audited_on": "2026-08-28T09:15:00+05:30",
+  "approval": false,
+  "source_hashes": {
+    "matched": 23,
+    "total": 23
+  },
+  "content": {
+    "core_sessions": 24,
+    "routed_pyqs": 3,
+    "guided_mains_models": 10,
+    "answer_guidance_pairs": 10,
+    "original_mcqs": 28,
+    "remedial_mcqs": 8,
+    "mcq_keys": "ABCDABCDABCDABCDABCDABCDABCDABCDABCD",
+    "strict_abcd": true,
+    "ellipsis_markers": 0,
+    "graphical_core_stages": 12,
+    "ascii_panels": 12
+  },
+  "generated_pages": {
+    "session": 62,
+    "workbook": 14,
+    "poster": 1,
+    "tiled": 4
+  },
+  "final_export": {
+    "session": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\16-PM-and-Council-of-Ministers\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+      "pages": 62,
+      "sha256": "8353ad2447859c7f4ea523c1b33f3672f3ce3f47ba189b13b3055b4686ab8096"
+    },
+    "workbook": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\16-PM-and-Council-of-Ministers\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+      "pages": 14,
+      "sha256": "f13999147ca2ad761cc7dc8cdfecdd6c6350a6b7d9dff56ce73c4b24e279d628"
+    },
+    "poster": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\16-PM-and-Council-of-Ministers\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+      "pages": 1,
+      "sha256": "9ade082216da85636bd4db61a61030b3061a2c63e2bd9cdd93ad7ada2f2242c8"
+    },
+    "ascii": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\16-PM-and-Council-of-Ministers\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+      "pages": 12,
+      "sha256": "297befea64848dc6ddb97227c5e53ac6ac5bfef1636689bdff0fbc95f9be2c50"
+    }
+  },
+  "validation": {
+    "generation": "passed",
+    "focused_tests": "38 passed",
+    "tracker_aware": "passed",
+    "four_item_export": "passed",
+    "replacement_glyphs": 0,
+    "approval": false
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "records": [
+    {
+      "record_id": "polity-45:learner-v2:g5",
+      "topic_key": "polity-45",
+      "variant": "learner-v2",
+      "generation": 5,
+      "supersedes": "polity-45:learner-v2:g4",
+      "command": "Generate learner-v2 topic: Polity \u2014 Subject-wide Syllabus \u2014 National Integration and Foreign Policy \u2014 deep-reviewed immutable g5",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g5\\polity-45_Complete-Learning-Session_2026-08-28.pdf",
+      "workbook": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g5\\polity-45_Solved-Practice-Workbook_2026-08-28.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g5\\polity-45_Complete-Learning-Session_2026-08-28.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g5\\polity-45_Solved-Practice-Workbook_2026-08-28.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g5\\assets",
+      "generated_on": "2026-08-28",
+      "approved": false,
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\National-Integration-and-Foreign-Policy.md",
+        "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\National-Integration-and-Foreign-Policy.md",
+        "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\45_National-Integration-and-Foreign-Policy.md",
+        "cross_topic_sources": [
+          "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\Federal-System.md",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\Official-Language.md",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\Emergency-Provisions.md"
+        ],
+        "pyq_indexes": [
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md"
+        ],
+        "official_question_sources": [],
+        "local_ocr_sources": [
+          "books\\Indian Polity by M Laxmikant.pdf"
+        ],
+        "live_sources": [
+          "https://legislative.gov.in/constitution-of-india/",
+          "https://archivepmo.nic.in/drmanmohansingh/speech-details.php?nodeid=1360",
+          "https://pib.gov.in/newsite/PrintRelease.aspx?relid=99563",
+          "https://www.mea.gov.in/images/CPV/140725MEAAnnualReport2024English.pdf",
+          "https://www.mea.gov.in/bilateral-documents.htm?dtl/38389/Chairs_Summary_3rd_Voice_of_Global_South_Summit_August_17_2024",
+          "https://upsc.gov.in/examinations/previous-question-papers"
+        ],
+        "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g5\\polity-45_Complete-Learning-Session_2026-08-28.md",
+        "renderer": {
+          "name": "tools/markdown_learning_pdf.py",
+          "version": "2.1"
+        },
+        "generation_date": "2026-08-28",
+        "superseded_v1": "polity-45:learner-v2:g4",
+        "source_hashes": {
+          "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-45\\g3-source\\polity-45_g3-reviewed-source.md": "eeeefa03bbaf1f8239d9bba38ab87906c427c4ef5b5624ff3d526ed26c1bc2fd",
+          "upsc-ai-kit\\knowledge\\Polity\\advanced\\45_National-Integration-and-Foreign-Policy.md": "9915181aa329229c8f0ae1e907a87cd7d7dcd3a91fd9472ee31620b49bb6bfdc",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\National-Integration-and-Foreign-Policy.md": "eeeefa03bbaf1f8239d9bba38ab87906c427c4ef5b5624ff3d526ed26c1bc2fd",
+          "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-45-2026-08-25-sequential.json": "4283d272d65a27856b03d3977df3e551f4b6363f00f0170433d3bdc316bf3459",
+          "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-45.json": "4264878239df3720cc134e65bf5a234a2065403c7bb000217cd13af140f448f2"
+        },
+        "session_contract": "named-session definition/opening/keywords/use/closure",
+        "mcq_keys": "strict A-B-C-D rotation",
+        "practice_profile": "Exact 2018 GS-I communalism, 2022 GS-II BIMSTEC-SAARC, 2023 GS-I ethnic identity and 2023 GS-II diaspora; 48 strict-rotation MCQs; 8 original Mains; 12 answer-guidance sets.",
+        "current_linkage_note": "Constitutional provisions, NIC meeting record and MEA strategic-autonomy/Global South examples checked to 28 August 2026; volatile claims omitted.",
+        "pyq_status_note": "Four exact questions are solved with mark and word limits.",
+        "new_visual_count": 1,
+        "new_flowchart_page_count": 4,
+        "flowchart_renderer": "C\u0101rv\u0101ka-style continuous same-master PNG/poster/tiled renderer",
+        "tracker_updated": false,
+        "tracker_sha256": "4c960deada4c54c4af62b549986e7b2744efb710e0527b206d3f4460e5e1b618"
+      },
+      "approval": {
+        "approved": false,
+        "approved_on": null,
+        "scope": "polity-45:learner-v2:g5"
+      },
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-08-28",
+        "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+      },
+      "continuous_core_first": {
+        "folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-45\\carvaka-g5",
+        "master_image": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-45\\carvaka-g5\\master.png",
+        "poster_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-45\\carvaka-g5\\poster.pdf",
+        "tiled_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-45\\carvaka-g5\\tiled.pdf",
+        "editable": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-45\\carvaka-g5\\editable",
+        "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g5\\polity-45_Graphical-Spec-g5.json",
+        "graphical_spec_sha256": "2fd1021a61345dcf91dffcb867078e8a15022cc4e7292bb7886817323db39964",
+        "renderer": {
+          "name": "carvaka-continuous-at-a-glance-graphical-v2",
+          "version": "2.0"
+        },
+        "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+        "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "previews": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-45\\carvaka-g5\\previews",
+        "contact_sheets": [
+          "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-45\\carvaka-g5\\previews\\contact-sheet-01.png"
+        ],
+        "master_overview": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-45\\carvaka-g5\\previews\\master-overview.png",
+        "validation_report": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-45\\carvaka-g5\\validation-report.txt",
+        "build_audit": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-45\\carvaka-g5\\build-audit.json",
+        "preservation_hashes": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-45\\carvaka-g5\\preservation-hashes.json",
+        "ascii_master": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-45\\carvaka-g5\\ascii-master.txt",
+        "ascii_master_preserved": true,
+        "core_stage_count": 12,
+        "card_count": 13,
+        "tiled_page_count": 4,
+        "approval": false,
+        "ascii_master_source": "manual-authored-spec",
+        "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-45-2026-08-25-sequential.json",
+        "ascii_master_spec_sha256": "4283d272d65a27856b03d3977df3e551f4b6363f00f0170433d3bdc316bf3459"
+      },
+      "refresh_profile": "learner-v2-refreshed-new-topic"
+    }
+  ]
+}

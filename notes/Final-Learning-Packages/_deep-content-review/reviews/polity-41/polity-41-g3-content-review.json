@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "record_id": "polity-41:learner-v2:g3",
+  "score": 97,
+  "status": "changes_suggested",
+  "approval": false,
+  "failures": [
+    "ASCII panel 5 header reached 104 characters, exceeding the 100-character hard gate"
+  ],
+  "preserved": true
+}

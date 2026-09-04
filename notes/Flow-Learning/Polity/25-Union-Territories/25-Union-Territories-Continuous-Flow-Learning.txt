@@ -1,0 +1,164 @@
+ASCII MASTER FLOW — PANEL 1/9: Why Union Territories exist and how Part VIII classifies them
+CONSTITUTIONAL LOCATION
+Article 1 -> States and Union Territories form the territory of India.
+Part VIII -> Articles 239-241; related Articles 239A, 239AA, 239AB and 240.
+
+RATIONALES
+small size | strategic frontier/islands | national capital
+| cultural/administrative history | transitional reorganisation.
+
+CURRENT EIGHT
+Andaman and Nicobar Islands | Chandigarh
+| Dadra and Nagar Haveli and Daman and Diu | Delhi
+| Jammu and Kashmir | Ladakh | Lakshadweep | Puducherry.
+
+CLASSIFICATION
+with legislature: Delhi, Puducherry, J&K
+without legislature: the other five.
+
+CORE IDEA one constitutional label contains deliberately unequal governance models.
+
+ASCII MASTER FLOW — PANEL 2/9: President, Administrator and Parliament in the UT administration chain
+ARTICLE 239
+President administers UT through an appointed Administrator
+unless the Constitution or parliamentary law creates another arrangement.
+
+ADMINISTRATOR / LIEUTENANT GOVERNOR
+designation does not convert the office into a Part VI State Governor.
+power depends on the exact Constitution, statute and rules.
+
+PARLIAMENT
+may legislate for any UT, including matters otherwise in the State List.
+
+UT WITH LEGISLATURE
+local Assembly + Council of Ministers operate only inside the allotted field.
+Parliament retains overriding legislative competence.
+
+ARTICLE 239A
+Parliament may create Puducherry legislature/CoM by law.
+ARTICLE 239B -> Administrator ordinance within the statutory legislature model.
+
+ASCII MASTER FLOW — PANEL 3/9: Article 240 regulations, High Courts, budgets and representation
+ARTICLE 240
+President may make regulations for listed UTs; a regulation can amend/repeal Acts.
+Its availability changes when a qualifying legislature is functioning.
+
+ARTICLE 241
+Parliament may constitute a High Court for a UT or extend another High Court's jurisdiction.
+
+JUDICIAL MAP
+Delhi has its High Court | J&K and Ladakh share one High Court
+| other UTs use constitutionally/statutorily assigned High Courts.
+
+BUDGET AND REPRESENTATION
+legislature UTs have statutory/constitutional budget procedures.
+Parliamentary representation follows the Constitution and representation statutes.
+
+LIMIT direct Union administration does not mean absence of courts, elected MPs or local bodies.
+
+ASCII MASTER FLOW — PANEL 4/9: Delhi Article 239AA: elected government inside reserved-field asymmetry
+ARTICLE 239AA
+NCT Assembly may legislate on State/Concurrent matters
+EXCEPT public order, police and land, plus related entries.
+
+EXECUTIVE POWER
+normally co-extensive with the allotted legislative field.
+Council of Ministers aids and advises LG within that field.
+
+REFERENCE MECHANISM
+LG difference route is exceptional and must not convert "any matter" into "every matter".
+
+PARLIAMENTARY OVERRIDE
+Parliament may legislate for Delhi on any subject; inconsistent local law yields as provided.
+
+NCT IS NOT A STATE
+representative government is constitutionally real but operates inside Union-capital safeguards.
+
+ASCII MASTER FLOW — PANEL 5/9: Delhi cases, services and the operative 2023 statutory layer
+            GNCTD aid-and-advice judgment (2018)
+aid/advice is the rule within Delhi's field; LG has no general independent power.
+
+Delhi services judgment (2023)
+Entry 41 services followed the representative-accountability chain
+outside public order, police and land.
+
+GNCTD AMENDMENT ACT, 2023
+National Capital Civil Service Authority -> recommendation
+-> LG may differ and has the statutory final decision on disagreement.
+
+CURRENT CONTROL: 24 AUGUST 2026
+the Act is treated as operative; a pending challenge is not a final invalidation.
+
+ANSWER RULE
+state the 2018 principle -> 2023 services holding -> later statute -> pending-review caveat.
+
+ASCII MASTER FLOW — PANEL 6/9: Puducherry under Article 239A and its nominated-member design
+ARTICLE 239A + GOVERNMENT OF UNION TERRITORIES ACT, 1963
+statutory Assembly + Council of Ministers + Administrator.
+
+LEGISLATIVE FIELD
+defined by parliamentary law; Parliament retains UT-wide competence.
+
+K. Lakshminarayanan (2018)
+upheld Central nomination of Assembly members under the governing statute.
+Nominees may vote unless the law provides otherwise.
+
+ARTICLE 240
+presidential-regulation power is unavailable while the legislature operates
+and may revive during dissolution/suspension under the constitutional text.
+
+LIMIT Puducherry is not Delhi: Article 239A statutory design != Article 239AA NCT design.
+
+ASCII MASTER FLOW — PANEL 7/9: Jammu and Kashmir, Ladakh and the present statutory position
+J&K REORGANISATION ACT, 2019
+former State -> J&K UT with legislature + Ladakh UT without legislature
+from 31 October 2019.
+
+J&K ASSEMBLY
+statutory legislative field and LG relationship follow the 2019 Act and rules.
+Police and public order remain outside the Assembly's ordinary field.
+
+In Re: Article 370 of the Constitution (2023)
+upheld the operative abrogation result; recorded Statehood assurance
+and did not set a judicial restoration date.
+
+CURRENT: 24 AUGUST 2026
+J&K Statehood not restored | Ladakh has no legislature.
+Demands for Sixth Schedule/Statehood/special provisions are proposals, not law.
+
+ASCII MASTER FLOW — PANEL 8/9: Bounded UT profiles and State-UT-NCT comparison
+WITHOUT LEGISLATURE
+Andaman and Nicobar -> strategic archipelago
+Lakshadweep -> small island UT
+Chandigarh -> capital of Punjab and Haryana
+DNHDD -> merged western UT
+Ladakh -> frontier UT after 2019 reorganisation.
+
+STATE                     ORDINARY UT               DELHI NCT
+Part VI government        Article 239 chain         Article 239AA elected design
+State-list autonomy       Parliament plenary        three reserved fields
+Governor/CoM model        Administrator              LG + CoM + reference route
+
+ACCOUNTABILITY TEST
+exact field -> decision-maker -> override -> finance/staff -> court remedy.
+
+LIMIT Administrator powers are UT-specific; title alone supplies no common rule.
+
+ASCII MASTER FLOW — PANEL 9/9: Creation, reorganisation, current traps and qualified answer synthesis
+CREATION / MERGER
+Articles 2-4 and parliamentary reorganisation law can alter territory and status.
+UT status is constitutional-administrative design, not a permanently fixed category.
+
+PRELIMS FIREWALL
+Article 239 = presidential administration
+| 239A Puducherry enabling route | 239AA Delhi
+| 239AB Delhi constitutional breakdown | 240 listed-UT regulations
+| 241 High Courts | Parliament can legislate on State List for UTs.
+
+CURRENT FIREWALL
+operative statute != pending challenge outcome
+| political proposal != law | office/status facts require a date.
+
+MAINS SPINE
+rationale -> classify UT -> exact Article/statute -> democratic mechanism
+-> Union safeguard -> friction -> case-year control -> calibrated reform/verdict.

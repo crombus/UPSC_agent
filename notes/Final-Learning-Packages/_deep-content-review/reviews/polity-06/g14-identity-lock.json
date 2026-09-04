@@ -1,0 +1,40 @@
+{
+  "topic_key": "polity-06",
+  "identity": "polity-06:learner-v2:g14",
+  "generation": 14,
+  "approval": "Approval pending",
+  "master_tracker_created_at": "2026-08-27T20:46:36+00:00",
+  "locked_at": "2026-08-28T02:20:00+05:30",
+  "hashes": {
+    "session_pdf": "cc8ba53f20de35e393defeadfe93a644fdf89bab1b1e53d14b970d062a62482b",
+    "workbook_pdf": "c17ca803528ee6826c537676fc493a962e0c430bb8d941f7aaf95fad519b820d",
+    "session_markdown": "241e88d7cc37f2a0242842b69ce81a382b15f782373f19df359a5d4963b6423d",
+    "graphical_poster": "329f8613a26bdc8da2c17881be63f3b53088f5ca4cd5b4cd676304fdfdf08760",
+    "graphical_tiled": "35b2da1b14cc8aa6884176b91157bd5dd399537a1495a19f8f4d3221b74e6762",
+    "graphical_master": "8da363ff0dcdc7d19e75d93928919d434d539b2cd721dc63518729078e32ff7c",
+    "ascii_master": "8cea0c9182bd24f58c2d83a0681587a4fc5fd8989d33bde034eacfc929f87b83",
+    "canonical": "b1ffeb37cc7a02741f4adf19003256ec0628479a6d6aced950232ca339812a07",
+    "basic": "5a63ab5056f7e111634cd5ddfafcc614100797a1dee93c257b3e762a5ec01656",
+    "advanced": "c54426b83470c669a1fa4642d7db71d1bd191fc878eccd475a673ad4fd687dbc",
+    "generation_source": "139fc92ec7517959187cb7a180686329bd419f0e606cfa98eeaaf3a47ebb8718"
+  },
+  "pages": {
+    "session_pdf": 61,
+    "workbook_pdf": 14,
+    "graphical_poster": 1,
+    "graphical_tiled": 4
+  },
+  "paths": {
+    "session_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g14\\polity-06_Complete-Learning-Session_2026-08-23.pdf",
+    "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g14\\polity-06_Solved-Practice-Workbook_2026-08-23.pdf",
+    "session_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g14\\polity-06_Complete-Learning-Session_2026-08-23.md",
+    "graphical_poster": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-06\\carvaka-g14\\poster.pdf",
+    "graphical_tiled": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-06\\carvaka-g14\\tiled.pdf",
+    "graphical_master": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-06\\carvaka-g14\\master.png",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-06\\carvaka-g14\\ascii-master.txt",
+    "canonical": "upsc-ai-kit\\knowledge\\Polity\\06_Citizenship_Complete-Topic-Package.md",
+    "basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Citizenship.md",
+    "advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\06_Citizenship.md",
+    "generation_source": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-06_Learning-Session.md"
+  }
+}

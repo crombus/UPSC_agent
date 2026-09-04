@@ -1,0 +1,13 @@
+{
+  "topic_key": "political-theory-01",
+  "allocated_at": "2026-08-30T09:20:17.741339+00:00",
+  "baseline_record_id": "political-theory-01:learner-v2:g3",
+  "new_record_id": "political-theory-01:learner-v2:g5",
+  "review_state": "validation_failed",
+  "score": null,
+  "approval": false,
+  "prior_generation_immutable": true,
+  "live_export_identity": "political-theory-01:learner-v2:g3",
+  "live_master_identity": "political-theory-01:learner-v2:g3",
+  "failure_reason": "Tracker validation rejected the asset_folder path. Complete artifacts are preserved and were never selected."
+}

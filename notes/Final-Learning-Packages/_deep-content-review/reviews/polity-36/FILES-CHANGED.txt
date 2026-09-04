@@ -1,0 +1,14 @@
+upsc-ai-kit\knowledge\Polity\basic\CIC-and-SIC.md
+upsc-ai-kit\knowledge\Polity\advanced\36_CIC-and-SIC.md
+upsc-ai-kit\knowledge\Polity\36_CIC-and-SIC_Complete-Topic-Package.md
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\polity-36-2026-08-24-sequential.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\polity-36.json
+tools\deep_content_quality_overrides.json
+tools\test_refresh_all_v2_learning_sessions.py
+notes\Final-Learning-Packages\MASTER-TRACKER.json/.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json/.md
+notes\Final-Learning-Packages\_deep-content-review\ISSUE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\EVIDENCE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\MD-CHANGE-SUGGESTIONS.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-36\
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\36-CIC-and-SIC\

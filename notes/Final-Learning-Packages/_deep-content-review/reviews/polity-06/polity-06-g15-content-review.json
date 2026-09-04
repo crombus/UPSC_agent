@@ -1,0 +1,46 @@
+{
+  "topic_key": "polity-06",
+  "reviewed_identity": "polity-06:learner-v2:g15",
+  "score": {
+    "complete_learning_session": 38,
+    "solved_practice_workbook": 29,
+    "graphical_flowchart": 15,
+    "ascii_master_flowchart": 15,
+    "total": 97
+  },
+  "status": "changes_suggested",
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": true,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": false,
+    "current_data_source_dated": true
+  },
+  "remaining_issues": [
+    {
+      "severity": "high",
+      "issue": "Generated complete session still declares generation identity g2 because the substantive source retained its legacy identity line."
+    },
+    {
+      "severity": "medium",
+      "issue": "Current-status MCQ 40 still omits the 19 August 2026 procedural amendment."
+    }
+  ],
+  "artifact_hashes": {
+    "session": "5b84d9e3d6387ecc0adcdd18a4ed713cea754a31e1dae0bc6b4423fb880be4f7",
+    "workbook": "391e05316a367da93c61253f7c039ab364d822a917339b752302f945e7e4a66d",
+    "poster": "77ad85d9a6601940f6eb7139dcbdff7afbb89f0625faf27dae44f268aa0ee0ad",
+    "tiled": "cfb38db7889b9fd54326a095f8eb8bd2e8ef77744e01529c29add5c550f6c1ad",
+    "master": "e3840a9a22aaf7815ec62e58fd3353077f00623c091ad732c0ebbadf1a4f3fa6",
+    "ascii": "0773df4c492a27ae4bf6f09a1cbdd4cbbf25deb588c14b46244810a93ca2faeb"
+  },
+  "pages": {
+    "session": 67,
+    "workbook": 15,
+    "poster": 1,
+    "tiled": 5
+  },
+  "approval": false
+}

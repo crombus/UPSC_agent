@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "record_id": "polity-42:learner-v2:g4",
+  "score": 98,
+  "review": "passed",
+  "approved": false,
+  "preserved_generations": [
+    "polity-42:learner-v2:g2",
+    "polity-42:learner-v2:g3"
+  ],
+  "artifacts": {
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\g4\\polity-42_Complete-Learning-Session_2026-08-28.pdf": "1200d58c440a3c2f827564085ec0d1010ae612bddde96637b3ea0a013568ac3a",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\g4\\polity-42_Solved-Practice-Workbook_2026-08-28.pdf": "919f01b45111582d08506cd519dc15c5a2a6986ee345480facef351ab9f2ffe0",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-42\\carvaka-g4\\poster.pdf": "e811bec1125f51ea9c4eea81ab892db6b003e83344db12b92892fc3e2a8d9842",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-42\\carvaka-g4\\ascii-master.txt": "ad0ca861405c160c698fa9578269c39fbab237472c63cc584f4e37cddd56da3b"
+  },
+  "tests_passed": 38
+}

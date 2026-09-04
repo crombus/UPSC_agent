@@ -1,0 +1,15 @@
+{
+  "selection": "polity-09-g4-final-revalidation",
+  "passed": true,
+  "topic_count": 1,
+  "topics": [
+    {
+      "topic_key": "polity-09",
+      "record_id": "polity-09:learner-v2:g4",
+      "generation": 4,
+      "passed": true,
+      "errors": [],
+      "score": 98
+    }
+  ]
+}

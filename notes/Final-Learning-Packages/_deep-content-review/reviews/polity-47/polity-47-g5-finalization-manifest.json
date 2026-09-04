@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-47",
+  "record_id": "polity-47:learner-v2:g5",
+  "status": "passed",
+  "approval": false,
+  "review_report": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-47\\REVIEW-REPORT.md",
+  "final_audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-47\\polity-47-g5-final-audit.json",
+  "final_export": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\47-Comparative-Constitutional-Design",
+  "generation_history": [
+    {
+      "record_id": "polity-47:learner-v2:g2",
+      "score": 73,
+      "status": "changes_suggested",
+      "approved": false,
+      "immutable": true
+    },
+    {
+      "record_id": "polity-47:learner-v2:g3",
+      "score": 94,
+      "status": "failed_manual_review_incomplete_mcq_inventory",
+      "approved": false,
+      "immutable": true
+    },
+    {
+      "record_id": "polity-47:learner-v2:g4",
+      "score": 96,
+      "status": "failed_manual_review_comparative_qualification",
+      "approved": false,
+      "immutable": true
+    },
+    {
+      "record_id": "polity-47:learner-v2:g5",
+      "score": 98,
+      "status": "passed",
+      "approved": false,
+      "immutable": true
+    }
+  ],
+  "preserved_generations": [
+    2,
+    3,
+    4,
+    5
+  ]
+}

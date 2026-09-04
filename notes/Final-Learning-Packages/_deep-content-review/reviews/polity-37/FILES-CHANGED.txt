@@ -1,0 +1,19 @@
+upsc-ai-kit\knowledge\Polity\basic\CVC-and-CBI.md
+upsc-ai-kit\knowledge\Polity\advanced\37_CVC-and-CBI.md
+upsc-ai-kit\knowledge\Polity\37_CVC-and-CBI_Complete-Topic-Package.md
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\polity-37-2026-08-24-sequential.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\polity-37.json
+tools\deep_content_quality_overrides.json
+tools\test_refresh_all_v2_learning_sessions.py
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\ISSUE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\EVIDENCE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\MD-CHANGE-SUGGESTIONS.md
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\37-CVC-and-CBI
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-37
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-37\g3-g7
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-37\g3-g7
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-37\carvaka-g3-g7

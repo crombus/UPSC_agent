@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "audited_on": "2026-08-29",
+  "subject": "Polity",
+  "review_topic_count": 55,
+  "master_topic_count": 55,
+  "review_passed_count": 55,
+  "identity_agreement": true,
+  "approval_false_or_pending": true,
+  "final_export_topic_count": 55,
+  "targeted_regression_tests": "104 passed",
+  "blockers": []
+}

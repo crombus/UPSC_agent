@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "records": [
+    {
+      "record_id": "polity-39:learner-v2:g5",
+      "topic_key": "polity-39",
+      "variant": "learner-v2",
+      "generation": 5,
+      "supersedes": "polity-39:learner-v2:g4",
+      "command": "Generate learner-v2 topic: Polity \u2014 Subject-wide Syllabus \u2014 Cooperative Societies \u2014 deep-reviewed immutable generation",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g5\\polity-39_Complete-Learning-Session_2026-08-28.pdf",
+      "workbook": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g5\\polity-39_Solved-Practice-Workbook_2026-08-28.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g5\\polity-39_Complete-Learning-Session_2026-08-28.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g5\\polity-39_Solved-Practice-Workbook_2026-08-28.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g5\\assets",
+      "generated_on": "2026-08-28",
+      "approved": false,
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Cooperative-Societies.md",
+        "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\39_Cooperative-Societies_Complete-Topic-Package.md",
+        "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\39_Cooperative-Societies.md",
+        "cross_topic_sources": [
+          "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+        ],
+        "pyq_indexes": [
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md"
+        ],
+        "official_question_sources": [],
+        "local_ocr_sources": [
+          "books\\Indian Polity by M Laxmikant.pdf"
+        ],
+        "live_sources": [
+          "https://legislative.gov.in/sites/default/files/COI-97th-amendment.pdf",
+          "https://api.sci.gov.in/supremecourt/2013/21321/21321_2013_32_1501_28728_Judgement_20-Jul-2021.pdf",
+          "https://crcs.gov.in/"
+        ],
+        "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g5\\polity-39_Complete-Learning-Session_2026-08-28.md",
+        "renderer": {
+          "name": "tools/markdown_learning_pdf.py",
+          "version": "2.1"
+        },
+        "generation_date": "2026-08-28",
+        "superseded_v1": "polity-39:learner-v2:g4",
+        "source_hashes": {
+          "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-39\\g5-source\\polity-39_g5-reviewed-source.md": "8756358e21bc425e51574eb70b700e5542a7370c76bdd75927392f4ff0b8c25d",
+          "tools\\deep_content_quality_overrides.json": "2d46f3df44e4ad5c5a35e48ee9501e18c592739f9ff473cef0d25229474945a1",
+          "upsc-ai-kit\\knowledge\\Polity\\39_Cooperative-Societies_Complete-Topic-Package.md": "776ce1481e77d242f035e1f47131202da94649dccb85921bbc43247238cd3974",
+          "upsc-ai-kit\\knowledge\\Polity\\advanced\\39_Cooperative-Societies.md": "7dbaefdb6b0a88ddf9bc11ddc684f3db55ad78be8c3d7424a6c545255e5aa803",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\Cooperative-Societies.md": "66f355e449936f86e507365e5546ba5ccd573fbe462922013ad34480cca3b8c2",
+          "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-39-2026-08-25-sequential.json": "d7a074a9f935f9a713aac8276bd9eb8014591e5e21974a1c2155e221701e27b1",
+          "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-39.json": "9db0d1516c95c77d96de0b06d31eee030c0ec95e8c571817c432cbe6f62166f5"
+        },
+        "session_contract": "named-session definition/opening/keywords/use/closure",
+        "mcq_keys": "strict A-B-C-D rotation",
+        "practice_profile": "Three verified adjacent Prelims PYQs; 36 original MCQs; 12 remedials; 8 solved Mains with answer-specific guidance.",
+        "current_linkage_note": "Constitution, Rajendra N. Shah, MSCS Act 2002 as amended in 2023 and CRCS institutions checked to 28 August 2026; volatile counts omitted.",
+        "pyq_status_note": "No direct standalone Polity PYQ verified; 2020, 2021 and 2023 adjacent cooperative-sector PYQs retain correct labels.",
+        "new_visual_count": 1,
+        "new_flowchart_page_count": 5,
+        "flowchart_renderer": "C\u0101rv\u0101ka-style continuous same-master PNG/poster/tiled renderer",
+        "tracker_updated": false,
+        "tracker_sha256": "68e1d3b84f7471bc5a4dc3b4dda97688bddc5973f80e7b85f2ea2a7eb8b91989"
+      },
+      "approval": {
+        "approved": false,
+        "approved_on": null,
+        "scope": "polity-39:learner-v2:g5"
+      },
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-08-28",
+        "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+      },
+      "continuous_core_first": {
+        "folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-39\\carvaka-g5",
+        "master_image": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-39\\carvaka-g5\\master.png",
+        "poster_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-39\\carvaka-g5\\poster.pdf",
+        "tiled_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-39\\carvaka-g5\\tiled.pdf",
+        "editable": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-39\\carvaka-g5\\editable",
+        "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g5\\polity-39_Graphical-Spec-g5.json",
+        "graphical_spec_sha256": "3058bcb1ab379a16ed3f700adfea60ed054662862d9d099fa9e6d0514383e566",
+        "renderer": {
+          "name": "carvaka-continuous-at-a-glance-graphical-v2",
+          "version": "2.0"
+        },
+        "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+        "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "previews": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-39\\carvaka-g5\\previews",
+        "contact_sheets": [
+          "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-39\\carvaka-g5\\previews\\contact-sheet-01.png"
+        ],
+        "master_overview": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-39\\carvaka-g5\\previews\\master-overview.png",
+        "validation_report": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-39\\carvaka-g5\\validation-report.txt",
+        "build_audit": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-39\\carvaka-g5\\build-audit.json",
+        "preservation_hashes": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-39\\carvaka-g5\\preservation-hashes.json",
+        "ascii_master": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-39\\carvaka-g5\\ascii-master.txt",
+        "ascii_master_preserved": true,
+        "core_stage_count": 12,
+        "card_count": 13,
+        "tiled_page_count": 5,
+        "approval": false,
+        "ascii_master_source": "manual-authored-spec",
+        "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-39-2026-08-25-sequential.json",
+        "ascii_master_spec_sha256": "d7a074a9f935f9a713aac8276bd9eb8014591e5e21974a1c2155e221701e27b1"
+      },
+      "refresh_profile": "learner-v2-refreshed-new-topic"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+Polity-33 Basic, Advanced and canonical owners
+Reviewed g3/g4/g5 sources, specifications, audits and reports
+ASCII and graphical specifications
+Targeted semantic overrides and panel inventory test
+Immutable g3/g4 preserved; g5 passed and exported
+Central trackers and ledgers

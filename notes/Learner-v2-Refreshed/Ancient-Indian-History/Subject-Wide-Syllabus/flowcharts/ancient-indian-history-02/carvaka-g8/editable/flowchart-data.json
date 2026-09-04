@@ -1,0 +1,358 @@
+{
+  "schema_version": 1,
+  "topic_key": "ancient-indian-history-02",
+  "generation": 8,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-02\\g8\\ancient-indian-history-02_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    25770
+  ],
+  "stages": [
+    {
+      "title": "SOURCE CRITICISM: AUTHENTICITY, MEANING AND CORROBORATION",
+      "terms": "Technically, Source Criticism: Authenticity, Meaning And Corroboration is analysed by relating Source Criticism to Authenticity, then testing the relationship through Meaning and Corroboration.",
+      "mechanism": "Use the five-test frame - authenticity, context, chronology, corroboration and silence - in any source-based GS-I answer.",
+      "consequence": "Upinder Singh describes a text as a refracted, not direct, image of society.",
+      "trap": "Myth, drama and praise are historically valuable, but not as stenographic reports.",
+      "answer": "Source criticism separates three questions: Is the object or text genuine?"
+    },
+    {
+      "title": "ARCHAEOLOGY I: ARTEFACT, INDUSTRY, ASSEMBLAGE AND CULTURE — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Archaeology is the only direct evidence class for prehistory.",
+      "mechanism": "Archaeology studies the human past through material remains, from palaces and temples to broken pottery, seeds and refuse.",
+      "consequence": "An archaeological culture is an analytical pattern; it does not automatically equal a race, language, tribe, dynasty or political state.",
+      "trap": "Do not miss this limiting distinction: the archaeological record includes structures, artefacts, bones, seeds, pollen, seals, coins, sculpture and inscriptions.",
+      "answer": "Upinder Singh defines artefact, industry and assemblage as nested analytical units."
+    },
+    {
+      "title": "ARCHAEOLOGY II: SURVEY, STRATIGRAPHY AND EXCAVATION STRATEGY — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Horizontal and vertical strategies are complementary, not rival doctrines.",
+      "mechanism": "Remote sensing is non-invasive but does not by itself identify date or function.",
+      "consequence": "Horizontal and vertical strategies are complementary, not rival doctrines.",
+      "trap": "A site is excavated to answer a question, not merely to find attractive objects.",
+      "answer": "Recording, drawing, photography, labelling, conservation and prompt publication are parts of excavation, because the original layer cannot be recreated."
+    },
+    {
+      "title": "SCIENTIFIC DATING AND ARCHAEOMETRY: PRECISION WITH ERROR BARS",
+      "terms": "Technically, Scientific Dating And Archaeometry: Precision With Error Bars is analysed by relating Scientific Dating to Archaeometry, then testing the relationship through Precision With Error Bars and BP.",
+      "mechanism": "They refine history, but every result still depends on sample integrity, calibration and archaeological association.",
+      "consequence": "Calibration corrects radiocarbon-age variation against independent chronological records; calibrated and uncalibrated dates must not be mixed.",
+      "trap": "Do not miss this limiting distinction: interpretation connects those measurements to production, exchange, diet or mobility.",
+      "answer": "Radiocarbon dates are ranges, commonly expressed with a plus/minus error; BP uses 1950 as the baseline."
+    },
+    {
+      "title": "BIOARCHAEOLOGY, ENVIRONMENT AND ETHNOARCHAEOLOGY",
+      "terms": "Ethnoarchaeology suggests possible functions and production systems; it cannot establish direct cultural continuity without other evidence.",
+      "mechanism": "Use bioarchaeology to recover ordinary bodies and environmental archaeology to replace a static backdrop with reciprocal interaction.",
+      "consequence": "Ethnoarchaeology suggests possible functions and production systems; it cannot establish direct cultural continuity without other evidence.",
+      "trap": "Do not miss this limiting distinction: isotope values require local environmental baselines before mobility claims are made.",
+      "answer": "Upinder Singh treats environment as an active part of human experience and ethnoarchaeology as a controlled analogy, not a time machine."
+    },
+    {
+      "title": "EPIGRAPHY I: INSCRIPTIONS, SCRIPTS AND DECIPHERMENT — [CORE PRELIMS + CORE MAINS]",
+      "terms": "An inscription is writing engraved on stone, metal, wood, ivory, brick, pottery, shell, image or another durable surface.",
+      "mechanism": "Sharma treats Ashokan inscriptions as solid evidence from the 3rd century BCE.",
+      "consequence": "Script form can provide relative dates, but palaeographic dating is approximate and region-sensitive.",
+      "trap": "Do not miss this limiting distinction: decipherment is therefore itself a multi-source achievement.",
+      "answer": "Epigraphy becomes powerful when material context, script, language, formula and historical comparison are read together."
+    },
+    {
+      "title": "EPIGRAPHY II: TYPES, DATING, USES AND BIASES — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Technically, Epigraphy Ii: Types, Dating, Uses And Biases — [Core Prelims + Core Mains] is analysed by relating Epigraphy Ii to Types, then testing the relationship through Dating and Uses.",
+      "mechanism": "Upinder Singh classifies records by issuer, surface, language, region, purpose and content.",
+      "consequence": "Movable inscriptions may not be found in situ; geographical spread should not be equated mechanically with political frontiers.",
+      "trap": "Contrast epigraphic immediacy with epigraphic selectivity: inscriptions are close to acts, but usually far from a representative social voice.",
+      "answer": "Epigraphy Ii: Types, Dating, Uses And Biases — [Core Prelims + Core Mains] comprises Epigraphy Ii, Types and Dating as its core connected dimensions."
+    },
+    {
+      "title": "NUMISMATICS I: READING A COIN AS OBJECT, TEXT AND INSTRUMENT — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Hoards are valuable because their composition and latest coin can establish a terminus after which burial occurred.",
+      "mechanism": "Hoards are valuable because their composition and latest coin can establish a terminus after which burial occurred.",
+      "consequence": "Sharma links coins with exchange, dynastic history, art and religion.",
+      "trap": "Do not miss this limiting distinction: punch-marked coins are the oldest definite coin series in the subcontinent.",
+      "answer": "A coin is simultaneously money, political message and archaeological object."
+    },
+    {
+      "title": "NUMISMATICS II: HISTORICAL USES AND INTERPRETATION LIMITS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Technically, Numismatics Ii: Historical Uses And Interpretation Limits — [Core Prelims + Core Mains] is analysed by relating Numismatics Ii to Historical Uses, then testing the relationship through Interpretation Limits and gana.",
+      "mechanism": "The Jogalthembi hoard of Nahapana coins counter-struck by Gautamiputra Satakarni is a classic case of numismatic-political correlation.",
+      "consequence": "Yet a coin's place of discovery, political frontier and area of normal use are not identical.",
+      "trap": "Gupta types show kings in martial, sacrificial and cultural poses; iconography is royal representation, not candid biography.",
+      "answer": "200 BCE-300 CE as especially coin-rich for political history and uses counter-striking to demonstrate relative chronology and changing authority."
+    },
+    {
+      "title": "MANUSCRIPTS, ORAL TRANSMISSION AND CRITICAL EDITIONS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Manuscript history is part of textual history: preservation and transmission shape the evidence before interpretation begins.",
+      "mechanism": "Palm-leaf manuscripts were engraved with a stylus, darkened with soot/charcoal mixture, strung and protected by covers.",
+      "consequence": "The oldest surviving manuscript is not necessarily the oldest form of the text.",
+      "trap": "Repeated scribal copying preserved texts but also introduced variants, omissions and interpolations.",
+      "answer": "A text's composition, oral transmission, written copy, surviving manuscript and modern edition are different chronological objects."
+    },
+    {
+      "title": "BRAHMANICAL LITERARY SOURCES: VEDAS, EPICS, PURANAS AND SHASTRAS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Epic archaeology can show settlement and material pattern at named places; it cannot easily verify named characters or narrated wars.",
+      "mechanism": "Their historical value depends on chronology, genre and the gap between prescription and practice.",
+      "consequence": "Upinder further warns that the modern religious/secular division does not map neatly onto ancient categories such as dharma.",
+      "trap": "The Arthashastra is composite; institutional detail should not be projected wholesale onto one reign without argument.",
+      "answer": "Epic archaeology can show settlement and material pattern at named places; it cannot easily verify named characters or narrated wars."
+    },
+    {
+      "title": "BUDDHIST, JAINA AND SANGAM SOURCES — [CORE PRELIMS + CORE MAINS]",
+      "terms": "The legend of three Sangams is not accepted literally; some historians prefer 'early classical Tamil literature'.",
+      "mechanism": "Textual trade references are strengthened by Mediterranean material and port archaeology.",
+      "consequence": "The legend of three Sangams is not accepted literally; some historians prefer 'early classical Tamil literature'.",
+      "trap": "Use these sources to widen social visibility while retaining the same criticism applied to Brahmanical texts.",
+      "answer": "Wrong: Buddhist/Jaina texts are objective because they are non-Brahmanical."
+    },
+    {
+      "title": "FOREIGN ACCOUNTS: GREEK, ROMAN, CHINESE AND ARAB WITNESSES — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Alexander's Indian campaign is reconstructed principally through Greek sources.",
+      "mechanism": "Sharma uses Greek accounts for Alexander and Mauryan chronology, Graeco-Roman works for trade, and Chinese pilgrims for Gupta-Harsha India.",
+      "consequence": "External testimony can notice practices indigenous elite texts ignore, but it can also misunderstand unfamiliar institutions.",
+      "trap": "Commercial manuals describe ports and commodities but are not population censuses or complete trade ledgers.",
+      "answer": "Foreign accounts are strongest when co-related with inscriptions, coins, ports and archaeology."
+    },
+    {
+      "title": "LINGUISTIC EVIDENCE, ORAL TRADITIONS AND VILLAGE STUDY",
+      "terms": "Technically, Linguistic Evidence, Oral Traditions And Village Study is analysed by relating Linguistic Evidence to Oral Traditions, then testing the relationship through Village Study and Mains angle.",
+      "mechanism": "Village study can generate hypotheses about technology, ritual and social organization; historical documents must test continuity.",
+      "consequence": "Linguistic antiquity is evidence for language history, not a direct ethnic census.",
+      "trap": "Do not miss this limiting distinction: language history, loanwords, place names, oral traditions and ethnographic survivals can reveal contact and...",
+      "answer": "Use linguistic evidence as a contact map, not as a shortcut to race, nation or political frontier."
+    },
+    {
+      "title": "MONUMENTS, MATERIAL CULTURE AND VISUAL SOURCES",
+      "terms": "Visual evidence has formal content and material context; both must be read.",
+      "mechanism": "Upinder Singh treats visual sources as a distinctive material category and warns that anonymous artists, peripatetic workshops and religious patronage require contextual art history.",
+      "consequence": "Architecture, sculpture, painting, terracotta, seals and ritual objects are not decoration added to history; they are evidence for patronage, technology, labour, movement, iconography and social practice.",
+      "trap": "Most ancient Indian artists remain unnamed, while patrons are more visible.",
+      "answer": "Rock-cut monuments are sources for art, technology, donor networks, routes and institutional history."
+    },
+    {
+      "title": "CHRONOLOGY: RELATIVE, ABSOLUTE AND TEXTUAL TIME — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Build chronology by convergence: sequence + absolute range + inscriptional anchor + textual layer.",
+      "mechanism": "Build chronology by convergence: sequence + absolute range + inscriptional anchor + textual layer.",
+      "consequence": "Relative chronology remains indispensable even when absolute dates exist; it tests sequence and association.",
+      "trap": "Chronological disagreement should be displayed as a range or debate, not concealed through false precision.",
+      "answer": "Chronology is not one timeline but a negotiation among stratigraphic sequence, artefact typology, scientific ranges, inscriptional eras, regnal years, synchronisms and textual layers."
+    },
+    {
+      "title": "TRIANGULATION: HOW DIFFERENT SOURCES WORK TOGETHER",
+      "terms": "Technically, Triangulation: How Different Sources Work Together is analysed by relating Triangulation to How Different Sources Work Together, then testing the relationship through Mains angle and Study link.",
+      "mechanism": "First match scale: a household find cannot by itself prove an empire-wide institution.",
+      "consequence": "Third test independence: two texts copying one source do not count as independent corroboration.",
+      "trap": "Do not miss this limiting distinction: the best answer says what remains unknown after triangulation.",
+      "answer": "Triangulation does not force different sources to tell the same story."
+    },
+    {
+      "title": "BIAS, SILENCE, PRESERVATION AND THE ETHICS OF INFERENCE",
+      "terms": "Archaeological preservation and research choices create separate but equally important silences.",
+      "mechanism": "The historian's duty is not to fill every silence, but to identify its cause and limit the claim.",
+      "consequence": "The archive is not merely incomplete; it is structured by literacy, power, durability, collecting, excavation priorities and modern political desire.",
+      "trap": "Normative anxiety can itself indicate social practices that authors sought to control, but not their frequency.",
+      "answer": "Archaeological preservation and research choices create separate but equally important silences."
+    },
+    {
+      "title": "INDIA-CENTRIC SOURCE LABS: HARAPPAN TO GUPTA",
+      "terms": "Harappan weights support standardization; they do not by themselves define a modern state bureaucracy.",
+      "mechanism": "Harappan weights support standardization; they do not by themselves define a modern state bureaucracy.",
+      "consequence": "Undeciphered writing creates protohistory, not an absence of complexity.",
+      "trap": "Do not miss this limiting distinction: the quickest way to master sources is to identify which class dominates each period...",
+      "answer": "This laboratory operationalizes the authored files' study links: Harappan is archaeology-led; Vedic is text-heavy; Mauryan is epigraphy-rich; early historic regional history is multi-source."
+    },
+    {
+      "title": "UPSC SOURCE-SELECTION AND ANSWER-WRITING PROTOCOL",
+      "terms": "Technically, Upsc Source-Selection And Answer-Writing Protocol is analysed by relating Upsc Source-Selection to Writing Protocol, then testing the relationship through assess and Mains angle.",
+      "mechanism": "One-line template: 'X is a strong source for A because..., but weak for B because...; therefore it must be co-related with Y.'.",
+      "consequence": "For everyday life, Inamgaon's courtyard soil chemistry and marine remains show activity and contact but not the identity of every actor.",
+      "trap": "For political chronology, Rudradaman's Shaka 72 Junagadh inscription and the Jogalthembi overstrikes provide explicit and relative sequence, but both are elite or selected deposits.",
+      "answer": "Study link: Use as the final answer-writing layer for all subsequent Ancient History topics."
+    },
+    {
+      "title": "LAB 1. FROM A QUESTION TO AN EVIDENCE CLAIM",
+      "terms": "Technically, Lab 1. From A Question To An Evidence Claim is analysed by relating Ask what the question to Ask, then testing the relationship through From Claim and From.",
+      "mechanism": "Ask what the question is actually about before selecting a source.",
+      "consequence": "A political act, a settlement pattern, a norm and a route are not identical questions.",
+      "trap": "A source is not a ready-made fact.",
+      "answer": "Use this answer spine: claim - named trace - what it directly preserves - bounded inference - limit."
+    },
+    {
+      "title": "LAB 2. TEXTS, GENRE AND TRANSMISSION — [CORE PRELIMS + CORE MAINS]",
+      "terms": "For Mains, identify genre before use: prescription gives an ideal, praise gives a public claim, narrative can preserve layered memory.",
+      "mechanism": "For Mains, identify genre before use: prescription gives an ideal, praise gives a public claim, narrative can preserve layered memory.",
+      "consequence": "A source is not a ready-made fact.",
+      "trap": "Do not miss this limiting distinction: composition, oral transmission, manuscript copy and later edition are different dates and different historical...",
+      "answer": "Composition, oral transmission, manuscript copy and later edition are different dates and different historical questions."
+    },
+    {
+      "title": "LAB 3. ARCHAEOLOGY: CONTEXT BEFORE OBJECT — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Technically, Lab 3. Archaeology: Context Before Object — [Core Prelims + Core Mains] is analysed by relating Lab 3. Archaeology to Context Before Object, then testing the relationship through Memorise the basic distinction: vertical excavation and Memorise.",
+      "mechanism": "An artefact without secure context may be physically interesting but is weak for chronology or activity.",
+      "consequence": "Do not turn a pot, seal or building into an automatic ethnic or political label.",
+      "trap": "A source is not a ready-made fact.",
+      "answer": "Memorise the basic distinction: vertical excavation is especially useful for sequence/stratigraphy; horizontal exposure helps recover plan and settlement organisation."
+    },
+    {
+      "title": "LAB 4. DATING AND SCIENTIFIC EVIDENCE",
+      "terms": "For Mains, one sentence is enough: science can refine chronology, foodways or technology, but it does not directly reveal identity, motive or belief.",
+      "mechanism": "For Mains, one sentence is enough: science can refine chronology, foodways or technology, but it does not directly reveal identity, motive or belief.",
+      "consequence": "Do not memorise laboratory procedure unless a question requires it.",
+      "trap": "A source is not a ready-made fact.",
+      "answer": "Retain only the exam-useful rule: a scientific method dates or measures a particular material, and its result must be read with sample association, range and context."
+    },
+    {
+      "title": "LAB 5. INSCRIPTIONS, SCRIPTS AND COINS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "A royal eulogy, donation and grant are not the same; issuer is not identical to a coin's circulation zone.",
+      "mechanism": "A royal eulogy, donation and grant are not the same; issuer is not identical to a coin's circulation zone.",
+      "consequence": "A source is not a ready-made fact.",
+      "trap": "Do not miss this limiting distinction: a royal eulogy, donation and grant are not the same.",
+      "answer": "Coins can illuminate authority, exchange, imagery, script and circulation."
+    },
+    {
+      "title": "LAB 6. TRAVELLERS, LINGUISTICS AND VISUAL EVIDENCE — [CORE PRELIMS + SUPPORTING]",
+      "terms": "Technically, Lab 6. Travellers, Linguistics And Visual Evidence — [Core Prelims + Supporting] is analysed by relating Lab 6. Travellers to Linguistics, then testing the relationship through Visual Evidence and Treat.",
+      "mechanism": "Use traveller accounts for a located observation--route, institution or social impression--and check route, language access, informants and intended audience.",
+      "consequence": "A source is not a ready-made fact.",
+      "trap": "Do not miss this limiting distinction: treat monuments, images and architecture as material and visual evidence requiring patronage, setting and...",
+      "answer": "Treat monuments, images and architecture as material and visual evidence requiring patronage, setting and medium."
+    },
+    {
+      "title": "LAB 7. TRIANGULATION, SILENCE AND CHRONOLOGY",
+      "terms": "Before using silence, ask whether a trace would survive, be recognised and be searched for.",
+      "mechanism": "Before using silence, ask whether a trace would survive, be recognised and be searched for.",
+      "consequence": "Agreement raises confidence only when two sources are not merely repeating one origin.",
+      "trap": "Absence is not proof of non-existence.",
+      "answer": "Triangulation means comparing independent source pathways at the same scale."
+    },
+    {
+      "title": "LAB 8. THE UPSC ANSWER-WORTHINESS CHECK",
+      "terms": "A qualified verdict--multi-source reconstruction is stronger because it names convergence and gaps--closes the answer.",
+      "mechanism": "A qualified verdict--multi-source reconstruction is stronger because it names convergence and gaps--closes the answer.",
+      "consequence": "Do not insert a scholar name, technical method or site list merely because it sounds authoritative.",
+      "trap": "A source is not a ready-made fact.",
+      "answer": "Before finalising an answer, check: Have I stated the claim? named evidence? explained what it reveals? stated a real limitation? linked another source where useful?"
+    },
+    {
+      "title": "CORE CASE CLINICS: EIGHT NON-REPETITIVE METHOD CHECKS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Technically, Core Case Clinics: Eight Non-Repetitive Method Checks — [Core Prelims + Core Mains] is analysed by relating Core Case Clinics to Eight Non-Repetitive Method Checks, then testing the relationship through Recall and It.",
+      "mechanism": "Its value grows when the answer identifies where the visitor went, what information could be observed directly and what could have been mediated by interpreters or informants.",
+      "consequence": "It does not automatically date every structure at a site, identify every population or prove a story in a text.",
+      "trap": "In a 15-marker, this distinction turns a list into analysis: source form establishes a particular claim, while context prevents it from being expanded into a universal political map.",
+      "answer": "To argue that the ideal was universal practice, a learner needs an independent check: a donation, a settlement pattern, an inscriptional category or another time-specific source."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 3,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7760,
+      "y_end": 9960,
+      "overlap_px": 260,
+      "from_stage": 9,
+      "continues_stage": 12
+    },
+    {
+      "page": 6,
+      "y_start": 9700,
+      "y_end": 11900,
+      "overlap_px": 260,
+      "from_stage": 11,
+      "continues_stage": 14
+    },
+    {
+      "page": 7,
+      "y_start": 11640,
+      "y_end": 13840,
+      "overlap_px": 260,
+      "from_stage": 14,
+      "continues_stage": 16
+    },
+    {
+      "page": 8,
+      "y_start": 13580,
+      "y_end": 15780,
+      "overlap_px": 260,
+      "from_stage": 16,
+      "continues_stage": 18
+    },
+    {
+      "page": 9,
+      "y_start": 15520,
+      "y_end": 17720,
+      "overlap_px": 260,
+      "from_stage": 18,
+      "continues_stage": 20
+    },
+    {
+      "page": 10,
+      "y_start": 17460,
+      "y_end": 19660,
+      "overlap_px": 260,
+      "from_stage": 20,
+      "continues_stage": 23
+    },
+    {
+      "page": 11,
+      "y_start": 19400,
+      "y_end": 21600,
+      "overlap_px": 260,
+      "from_stage": 22,
+      "continues_stage": 25
+    },
+    {
+      "page": 12,
+      "y_start": 21340,
+      "y_end": 23540,
+      "overlap_px": 260,
+      "from_stage": 25,
+      "continues_stage": 27
+    },
+    {
+      "page": 13,
+      "y_start": 23280,
+      "y_end": 25480,
+      "overlap_px": 260,
+      "from_stage": 27,
+      "continues_stage": 29
+    },
+    {
+      "page": 14,
+      "y_start": 23570,
+      "y_end": 25770,
+      "overlap_px": 260,
+      "from_stage": 27,
+      "continues_stage": 29
+    }
+  ]
+}

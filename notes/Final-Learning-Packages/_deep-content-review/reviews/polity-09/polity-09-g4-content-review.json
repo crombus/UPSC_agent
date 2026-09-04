@@ -1,0 +1,58 @@
+{
+  "topic_key": "polity-09",
+  "reviewed_identity": "polity-09:learner-v2:g4",
+  "review_date": "2026-08-28",
+  "score": {
+    "complete_learning_session": 39,
+    "solved_practice_workbook": 29,
+    "graphical_flowchart": 15,
+    "ascii_master_flowchart": 15,
+    "total": 98
+  },
+  "status": "passed",
+  "approved": false,
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": true,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": true,
+    "current_data_source_dated": true
+  },
+  "checks": {
+    "syllabus_core_complete": true,
+    "facts_verified": true,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": true,
+    "current_data_source_dated": true,
+    "strict_mcq_rotation": true,
+    "rotation_prose_integrity": true,
+    "pdf_layout": true,
+    "graphical_source_anchors": true,
+    "ascii_embedded_standalone_equal": true,
+    "canonical_provenance_exact": true,
+    "answer_specific_improvements": true
+  },
+  "artifact_hashes": {
+    "session": "a8e4791ad198a5dc2ebfbe9ece5814c0657639ec2345833f41b8bdf5b4cb2402",
+    "workbook": "d567c6dd890c84eae139cc4e87fed2b7f96794036953fc54f27f400fbfce323e",
+    "poster": "806f71ef75b91677b53d9b2343ec5dc1da5c9834cdc9d62125f340daa4a13e7f",
+    "tiled": "370153cc32682c434badd763e2ea47ff904fedb233e757546e425120b5facc76",
+    "master": "24328a0164a08e6f06cad2c2518e108e20fe31468c5c56731f8a337919782053",
+    "ascii": "72f0405ce4a7d9e42f979d4791553cc6f509d2bc3a33496993409de943744494"
+  },
+  "page_counts": {
+    "complete_learning_session": 51,
+    "solved_practice_workbook": 13,
+    "graphical_poster": 1,
+    "graphical_tiled": 4,
+    "ascii_master_pdf": 11
+  },
+  "intermediates": [
+    "polity-09:learner-v2:g3"
+  ],
+  "remaining_uncertainty": "No direct routed PYQ appears in maintained 2018-2025 ledgers; supporting 2020/2025 questions retain Polity-08 ownership. Approval remains pending."
+}

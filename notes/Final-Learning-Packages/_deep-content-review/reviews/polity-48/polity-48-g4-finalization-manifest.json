@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-48",
+  "record_id": "polity-48:learner-v2:g4",
+  "status": "passed",
+  "approval": false,
+  "review_report": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-48\\REVIEW-REPORT.md",
+  "final_audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-48\\polity-48-g4-final-audit.json",
+  "final_export": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\48-Ministries-Departments-and-Central-Secretariat",
+  "generation_history": [
+    {
+      "record_id": "polity-48:learner-v2:g2",
+      "score": 71,
+      "status": "changes_suggested",
+      "approved": false,
+      "immutable": true
+    },
+    {
+      "record_id": "polity-48:learner-v2:g3",
+      "score": 97,
+      "status": "failed_manual_review_metadata_mismatch",
+      "approved": false,
+      "immutable": true
+    },
+    {
+      "record_id": "polity-48:learner-v2:g4",
+      "score": 98,
+      "status": "passed",
+      "approved": false,
+      "immutable": true
+    }
+  ],
+  "preserved_generations": [
+    2,
+    3,
+    4
+  ]
+}

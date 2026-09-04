@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-23",
+  "record_id": "polity-23:learner-v2:g5",
+  "approval": false,
+  "validated_on": "2026-08-28",
+  "artifacts": [
+    {
+      "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g5\\polity-23_Complete-Learning-Session_2026-08-28.md",
+      "sha256": "4e6822f0de7cb4443b5f2eca72b94f7bfe42684a58e843c28ec26fe0015befca",
+      "bytes": 168434
+    },
+    {
+      "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g5\\polity-23_Solved-Practice-Workbook_2026-08-28.md",
+      "sha256": "c14bb754b6277ab433c25904bff7a2e065bbd0d0af70f56c588c6579e49a170b",
+      "bytes": 32000
+    },
+    {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g5\\polity-23_Complete-Learning-Session_2026-08-28.pdf",
+      "sha256": "ecd2a49dcc4280eee1f54fa5bd943499d1340c3c02ae14deddec4244b9de6d33",
+      "bytes": 2036082
+    },
+    {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g5\\polity-23_Solved-Practice-Workbook_2026-08-28.pdf",
+      "sha256": "5efb43e5f3209cd7cd583923ada3eaba49590f8301390467b16a205ba7e8da74",
+      "bytes": 633664
+    },
+    {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-23\\carvaka-g5\\master.png",
+      "sha256": "46269a15e0ff813f7d04e1f04526cd9d5a65d07bf5049d320436a046f210ae46",
+      "bytes": 2594444
+    },
+    {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-23\\carvaka-g5\\poster.pdf",
+      "sha256": "1750494cec6e3341870e1a98dd628cd28e28c7d7b446ed232736032d7b2b471d",
+      "bytes": 2921002
+    },
+    {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-23\\carvaka-g5\\tiled.pdf",
+      "sha256": "2ef467728b6084061cf76642a80479e029a56f07563d1416f727a98d1411c965",
+      "bytes": 3732048
+    },
+    {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-23\\carvaka-g5\\ascii-master.txt",
+      "sha256": "515e59082ef44341deb7239cfde93ad3a747661614ec63d81f0d89f6d6b03c4f",
+      "bytes": 8678
+    },
+    {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\23-Panchayati-Raj\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+      "sha256": "a1cef3a909ed6251319c20255854f45d1d6739b0cf2aa9a3a860a84c39e775e9",
+      "bytes": 60095
+    }
+  ],
+  "metrics": {
+    "core_sessions": 41,
+    "mcqs": 48,
+    "rotation": "ABCD x12",
+    "why_how_pairs": 12,
+    "ascii_panels": 12,
+    "graphical_core_stages": 12,
+    "graphical_optional_cards": 1,
+    "pages": {
+      "session": 79,
+      "workbook": 15,
+      "poster": 1,
+      "tiled": 5,
+      "ascii": 12
+    }
+  },
+  "validation": {
+    "generator": true,
+    "tracker_aware": true,
+    "four_item_export": true,
+    "focused_tests": "38 passed",
+    "manual_review": true,
+    "graphical_validation": "errors=none"
+  }
+}

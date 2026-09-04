@@ -1,0 +1,148 @@
+ASCII MASTER FLOW — PANEL 1/9: Articles 1-4: the territorial power hierarchy
+ARTICLE 1
+  India, that is Bharat = Union of States
+  territory = States + Union territories + acquired territories
+        |
+ARTICLE 2
+  Parliament admits into Union or establishes new States
+        |
+ARTICLE 3
+  Parliament forms new States and alters area, boundary or name
+        |
+ARTICLE 4
+  consequential First/Fourth Schedule changes and supplemental provisions
+  laws under Articles 2 and 3 are not amendments under Article 368
+
+FIRST SCHEDULE = living ledger of States and Union territories
+PRINCIPLE: States have constitutional status, but no right to secede.
+
+ASCII MASTER FLOW — PANEL 2/9: Article 3 procedure: consultation without a State veto
+PRESIDENT'S RECOMMENDATION REQUIRED
+        |
+BILL affects area, boundary or name of a State?
+  +-- YES -> President refers bill to affected State legislature
+  |          +-- specifies time for expressing views
+  |          +-- may extend that time
+  |          +-- Parliament is not bound by those views
+  +-- NO State affected -> proviso referral does not arise in that form
+        |
+PARLIAMENT passes by ordinary legislative majority
+        |
+PRESIDENTIAL ASSENT -> territorial and Schedule changes
+
+State view is required consultation, not consent.
+
+ASCII MASTER FLOW — PANEL 3/9: Article 2, Article 3 and foreign-territory transfer are distinct
+QUESTION                         CONSTITUTIONAL ROUTE
+admit or establish new State    Article 2
+reorganise existing Indian unit Article 3
+acquire foreign territory       sovereign power; Article 1 can accommodate it
+cede Indian territory           constitutional amendment under Article 368
+settle uncertain boundary       no cession if agreement only identifies boundary
+
+BERUBARI UNION (1960)
+cession of Indian territory cannot be completed through Article 3 alone.
+
+MAGANBHAI ISHWARBHAI PATEL (1969)
+boundary settlement differs from cession.
+
+100TH AMENDMENT, 2015
+constitutional route used for India-Bangladesh land-boundary exchange.
+
+ASCII MASTER FLOW — PANEL 4/9: First Schedule as a constitutional change ledger
+TERRITORIAL LAW UNDER ARTICLE 2 OR 3
+  +-- changes First Schedule: State and Union-territory description
+  +-- may change Fourth Schedule: Rajya Sabha seat allocation
+  +-- may include supplemental, incidental and consequential provisions
+        |
+ARTICLE 4 DECLARATION
+such law is not deemed an Article 368 amendment
+        |
+ORDINARY LEGISLATIVE ROUTE
+
+LIMIT
+Article 4 supports territorial reorganisation;
+it does not bypass Article 368 for unrelated constitutional changes.
+
+ASCII MASTER FLOW — PANEL 5/9: Integration and linguistic reorganisation, 1947-1956
+1947-49  accession and integration of princely states
+1950     Part A, B, C and D classification begins
+1948     Dhar Commission cautions against language-only reorganisation
+1949     JVP Committee postpones linguistic reorganisation
+1952     Potti Sriramulu's death intensifies Andhra demand
+1953     Andhra State formed; States Reorganisation Commission appointed
+1955     Fazl Ali Commission report
+1956     States Reorganisation Act + Seventh Amendment
+         +-- language accepted with unity, administration and economy
+         +-- Part classifications abolished
+         +-- States and Union territories reorganised
+
+Language became accommodation's basis, not an automatic sole test.
+
+ASCII MASTER FLOW — PANEL 6/9: Post-1956 map-making: reorganisation, creation and renaming
+1956 SETTLEMENT
+  +-- 1960 Maharashtra + Gujarat
+  +-- 1963 Nagaland
+  +-- 1966 Haryana + Chandigarh; Punjab reorganised
+  +-- 1971 Himachal Pradesh
+  +-- 1972 Meghalaya, Manipur and Tripura
+  +-- 1975 Sikkim becomes a State
+  +-- 1987 Mizoram, Arunachal Pradesh and Goa
+  +-- 2000 Chhattisgarh, Uttarakhand and Jharkhand
+  +-- 2014 Telangana
+  +-- 2019 Jammu and Kashmir reorganised into two Union territories
+
+RENAMING uses Article 3 when a State name changes.
+CURRENT MAP IN SOURCE: 28 States and 8 Union territories.
+
+ASCII MASTER FLOW — PANEL 7/9: Jammu and Kashmir reorganisation as an Article 3 stress test
+2019 PRESIDENT'S RULE CONTEXT
+State legislative powers exercisable by Parliament
+        |
+J&K REORGANISATION BILL
+  +-- Article 3 route
+  +-- former State divided into
+        +-- Jammu and Kashmir Union territory with legislature
+        +-- Ladakh Union territory without legislature
+        |
+FIRST SCHEDULE AND REPRESENTATIONAL CONSEQUENCES
+
+ISSUE
+Does State-to-Union-territory conversion alter the federal bargain too deeply
+for ordinary Article 3 power?
+
+EXAM USE: separate procedural validity from political desirability.
+
+ASCII MASTER FLOW — PANEL 8/9: New-State demand: democratic claim versus viable federal unit
+CLAIM FOR NEW STATE
+identity + distance from capital + uneven development + administrative access
+        |
+CONSTITUTIONAL RESPONSE
+Article 3 reorganisation after required consultation
+        |
+TESTS
+  +-- administrative viability
+  +-- fiscal and resource sustainability
+  +-- minority protection inside proposed unit
+  +-- water, capital, assets, debt and employees
+  +-- security and territorial integrity
+  +-- democratic legitimacy and transition costs
+
+Smaller can improve access; it does not automatically produce capacity or equality.
+
+ASCII MASTER FLOW — PANEL 9/9: Exact 10/15-mark architecture: flexible territory within an indestructible Union
+10 MARKS / 150 WORDS
+1. Open with Article 1: Union of States, not a secession compact.
+2. Distinguish Articles 2, 3 and 4.
+3. Write Article 3 referral and non-binding State view.
+4. Add Berubari Union (1960) cession limit.
+5. Conclude: flexible internal map, protected national territory.
+
+15 MARKS / 250 WORDS
+1. Map Articles 1-4 and First Schedule.
+2. Compare admission, reorganisation, acquisition and cession.
+3. Trace integration -> linguistic settlement -> post-1956 creation.
+4. Evaluate consultation without consent as strong-Union design.
+5. Use J&K or a new-State demand as stress test.
+6. Balance identity, viability, consent and integrity.
+7. Conclude: flexibility is a federal conflict-management device.

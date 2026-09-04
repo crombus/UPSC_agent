@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-22",
+  "record_id": "polity-22:learner-v2:g4",
+  "status": "passed",
+  "approval": false,
+  "validated_on": "2026-08-28",
+  "artifact_hashes": {
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\22-Special-Provisions\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf": "5fc6bffb543da804ef2f2a91059dd4bbc7d0b372a185f819b3af4ffd6cfdcce8",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\22-Special-Provisions\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": "d452ec9c81321d9e8512fe2d30bab729f4b4f406201e6ec7797b98c33592df3d",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\22-Special-Provisions\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": "9bc09e332e3c773ab13dff16c8dda6cd7f868d50dbc11591bc637367422ed249",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\22-Special-Provisions\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png": "6041e470a05eb48a6c16afa19c75abb14af2d974c5da6d055b86db0cfc194a2c",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\22-Special-Provisions\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf": "e3b746be1fb7dfe79eab6d90b9bc2a73174faf1e7e3104bdb24d99fa16948edf",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\22-Special-Provisions\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": "f646e022eeecb02066f9f0af61f382b11120a1e8d350c42e4906d0fca6116610",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\22-Special-Provisions\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt": "eeb479d7d4f7dccee536654f6969245b2702d55ac2c349aa79c83efa361838bf",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\22-Special-Provisions\\README.txt": "925ad5c2c60f4620ef3eb426a8d8cee7e34c1b6d2ebcc8894919b1d72d2b72f4"
+  },
+  "artifact_hash_count": 8,
+  "validation": [
+    "tracker-aware validator passed",
+    "four-item export validation passed",
+    "38 focused tests passed",
+    "strict ABCD x12",
+    "zero ellipses/replacement glyphs"
+  ],
+  "page_counts": {
+    "session": 65,
+    "workbook": 18,
+    "poster": 1,
+    "tiled": 4,
+    "ascii": 12
+  }
+}

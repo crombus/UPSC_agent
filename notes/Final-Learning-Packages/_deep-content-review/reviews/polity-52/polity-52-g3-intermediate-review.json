@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "record_id": "polity-52:learner-v2:g3",
+  "preserved": true,
+  "automatic_validation": "passed",
+  "manual_review": "failed",
+  "finding": "Official 2024 GS-II Q1 printed spellings had been normalised; exact transcription required another immutable generation.",
+  "superseded_by": "polity-52:learner-v2:g4",
+  "approval": false
+}

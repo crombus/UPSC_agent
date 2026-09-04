@@ -1,0 +1,74 @@
+{
+  "topic_key": "polity-15",
+  "identity": "polity-15:learner-v2:g2",
+  "reviewed_on": "2026-08-28T07:05:00+05:30",
+  "approval": false,
+  "score": {
+    "complete_learning_session": 30,
+    "solved_practice_workbook": 21,
+    "graphical_flowchart": 11,
+    "ascii_master_flowchart": 11,
+    "total": 73
+  },
+  "status": "changes_suggested",
+  "hard_gates": {
+    "syllabus_core_complete": false,
+    "facts_verified": false,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": false,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": false,
+    "current_data_source_dated": false
+  },
+  "issues": [
+    {
+      "id": "P15-001",
+      "severity": "high",
+      "finding": "The package omits the 1952 Act, 1974 Rules and 1997 nomination/deposit reform timeline requested for election-law understanding."
+    },
+    {
+      "id": "P15-002",
+      "severity": "high",
+      "finding": "Ten Mains models have no demand decoding, Why this earns marks or answer-specific How to improve guidance."
+    },
+    {
+      "id": "P15-003",
+      "severity": "high",
+      "finding": "D.C. Wadhwa and Kehar Singh years conflict across owners/flows; judgment-year normalization is absent."
+    },
+    {
+      "id": "P15-004",
+      "severity": "high",
+      "finding": "Eight graphical Core stages and nine ASCII panels compress 21 Core sessions, omit the election-law timeline and incomplete PYQ/answer routes, and retain in-place g2 provenance."
+    },
+    {
+      "id": "P15-005",
+      "severity": "high",
+      "finding": "Generated session contains ten ellipsis/truncation markers and requires curated named-session semantic controls."
+    },
+    {
+      "id": "P15-006",
+      "severity": "medium",
+      "finding": "President-Governor discretion contrast overstates Article 163 unless described as textually recognized but constitutionally bounded."
+    },
+    {
+      "id": "P15-007",
+      "severity": "medium",
+      "finding": "Current office and 2025 election/assent controls are dated only to 16/24 August rather than the review date and lack consolidated source URLs/status."
+    }
+  ],
+  "baseline_metrics": {
+    "session_pages": 51,
+    "workbook_pages": 12,
+    "poster_pages": 1,
+    "tiled_pages": 4,
+    "ascii_pages": 9,
+    "routed_pyqs": 8,
+    "guided_mains_models": 10,
+    "answer_guidance_pairs": 0,
+    "original_mcqs": 28,
+    "remedial_mcqs": 8,
+    "graphical_core_stages": 8,
+    "ascii_panels": 9
+  }
+}

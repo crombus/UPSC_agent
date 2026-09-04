@@ -1,0 +1,155 @@
+ASCII MASTER FLOW — PANEL 1/9: One hierarchy, constitutionally significant High Courts
+SUPREME COURT
+     |
+HIGH COURT: constitutional court + appellate court + judicial administrator
+     |
+DISTRICT AND SUBORDINATE COURTS: ordinary civil/criminal justice.
+
+ARTICLES 214-231 -> High Courts | ARTICLES 233-237 -> subordinate courts.
+
+CURRENT STRUCTURE
+25 High Courts; Parliament may establish a common High Court for two or more States/UTs.
+
+INTEGRATED DOES NOT ERASE DECENTRALISED CONTROL
+High Court Article 226 access + Article 227 superintendence + Article 235 control
+make it the everyday constitutional and administrative court within its territory.
+
+ASCII MASTER FLOW — PANEL 2/9: High Court appointments, qualification and independence
+ARTICLE 217 APPOINTMENT
+President appoints after the constitutionally required consultation architecture
+operating through the higher-judiciary collegium system.
+
+QUALIFICATION
+Indian citizen + ten years in judicial office OR ten years as High Court advocate.
+
+SERVICE
+oath before Governor or appointee | retirement 62 | removal through Article 124(4)-type route
+| protected salary and conditions | charged expenditure | post-retirement practice limits.
+
+APPOINTMENT CASE ARC
+First Judges Case (1981) -> executive primacy
+Second Judges Case (1993) -> judicial primacy
+Third Judges Case (1998) -> plural collegium
+Fourth Judges Case (2015) -> NJAC invalid; collegium remains operative.
+
+ASCII MASTER FLOW — PANEL 3/9: Transfer, acting/additional judges and common High Courts
+ARTICLE 222 TRANSFER
+President transfers after CJI consultation; public interest and judicial independence govern.
+Sankalchand Himmatlal Sheth (1977) -> transfer power exists;
+consultation must be full and effective.
+
+TEMPORARY CAPACITY
+Article 223 acting Chief Justice
+Article 224 additional and acting judges for arrears or temporary need
+Article 224A retired-judge sitting with consent
+Article 231 common High Court by parliamentary law.
+
+TRAPS
+additional judge is not a lower rank | common High Court does not merge States
+| transfer is not ordinary executive service management | vacancy data are dynamic.
+
+ASCII MASTER FLOW — PANEL 4/9: Original, appellate, writ and territorial jurisdiction
+ORIGINAL
+constitutional/statutory matters and specified civil jurisdictions depend on law and court history.
+
+APPELLATE
+civil + criminal appeals from subordinate hierarchy;
+death sentence requires High Court confirmation.
+
+ARTICLE 226 WRIT
+Fundamental Rights + any other legal right; habeas corpus may reach private detention;
+public-duty mandamus may reach a non-State body.
+
+TERRITORIAL RULE
+seat/respondent connection plus Article 226(2) cause of action wholly or partly within territory.
+
+FIVE WRITS
+habeas corpus | mandamus | prohibition | certiorari | quo warranto:
+choose by wrong, target, timing and remedy, not by memorised definition alone.
+
+ASCII MASTER FLOW — PANEL 5/9: Article 226 versus 32, superintendence and control
+ARTICLE 32                         ARTICLE 226
+Supreme Court                       High Court
+itself a Fundamental Right          constitutional power, not a Part III right
+Fundamental Rights                  Fundamental Rights + other legal rights
+national apex route                 territorial cause-of-action route
+
+ARTICLE 227
+superintendence over courts and tribunals within territory, subject to constitutional exclusions.
+
+ARTICLE 228
+withdraw case involving a substantial constitutional question and decide or return it.
+
+ARTICLE 235
+High Court control over district and subordinate judiciary protects decisional independence.
+
+L. Chandra Kumar (1997) -> Articles 226/227 and 32 review are Basic Structure;
+tribunals supplement but cannot wholly replace constitutional courts.
+
+ASCII MASTER FLOW — PANEL 6/9: District judges and subordinate judicial independence
+ARTICLE 233 DISTRICT JUDGES
+Governor appoints in consultation with High Court;
+direct Bar recruit requires at least seven years as advocate/pleader and High Court recommendation.
+
+ARTICLE 234 OTHER JUDICIAL SERVICE
+Governor makes appointments under rules after consultation with State PSC and High Court.
+
+ARTICLE 235 CONTROL
+posting, promotion, leave and discipline under High Court control, subject to legal safeguards.
+
+ARTICLE 50
+State shall separate judiciary from executive in public services.
+
+Chandra Mohan (1966) -> executive dominance over district-judge selection violates
+the constitutional scheme of an independent judicial service.
+
+ASCII MASTER FLOW — PANEL 7/9: Gram Nyayalayas, tribunals and the AIJS debate
+GRAM NYAYALAYAS ACT, 2008
+bounded statutory local-court model for notified areas; establishment and functioning are uneven.
+
+TRIBUNALS
+specialisation + speed potential
+VERSUS appointments, tenure, executive control and fragmented appeals.
+L. Chandra Kumar (1997) keeps High Court judicial review as the constitutional floor.
+
+ALL INDIA JUDICIAL SERVICE
+Article 312 route -> Rajya Sabha two-thirds of members present and voting
+-> parliamentary law; Article 312(3) excludes posts below district judge.
+
+DEBATE
+national standards and vacancies versus language, local law, federal control and career integration.
+CURRENT STATUS: no AIJS has been created.
+
+ASCII MASTER FLOW — PANEL 8/9: Vacancies, pendency, legal aid and eCourts
+DELIVERY BOTTLENECK
+vacancies + infrastructure + process delay + adjournments + government litigation
+-> pendency -> cost -> unequal bargaining -> reduced trust.
+
+ACCESS LAYER
+Article 39A legal aid | NALSA/SLSA/DLSA | Lok Adalats | e-Sewa Kendras.
+Speedy-trial access principles belong to the wider rights chain;
+do not equate disposal with justice.
+
+eCOURTS PHASE III, 2023-2027
+digitisation + e-filing + e-payments + paperless courts + data-based management.
+
+LIMIT
+technology can reduce transaction costs but cannot replace judges, translators, connectivity,
+accessible design, reasoned hearings or enforcement capacity.
+Quote dynamic numbers only with a date.
+
+ASCII MASTER FLOW — PANEL 9/9: SC-HC-subordinate comparison, traps and answer spine
+SUPREME COURT             HIGH COURT                  SUBORDINATE COURTS
+national apex              territorial constitutional court ordinary trial hierarchy
+Article 32                 Article 226 wider in cause        statutory jurisdiction
+Article 141 precedent      Article 227 superintendence       bound by higher courts
+final appeals/SLP          appeals + administration          facts, trial and first appeal
+
+PRELIMS FIREWALL
+HC retirement 62, SC 65 | Article 226 wider than 32 | common HC by Parliament
+| district judges: Governor + HC consultation | Article 235 control with HC | AIJS absent.
+
+MAINS SPINE
+locate Article -> state institutional function -> appointment/control safeguard
+-> access or capacity problem -> case with year -> cooperative reform
+-> independent, decentralised and digitally inclusive justice conclusion.

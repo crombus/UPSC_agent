@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-22",
+  "source_record_id": "polity-22:learner-v2:g4",
+  "source_generation": 4,
+  "status": "passed",
+  "approval": false,
+  "final_folder": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\22-Special-Provisions",
+  "review": "polity-22-g4-content-review.json",
+  "audit": "polity-22-g4-final-audit.json"
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-20",
+  "identity": "polity-20:learner-v2:g5",
+  "reviewed_on": "2026-08-28",
+  "approval": false,
+  "status": "passed",
+  "score": {
+    "complete_learning_session": 39,
+    "solved_workbook": 29,
+    "graphical_flowchart": 15,
+    "ascii_master_flowchart": 15,
+    "total": 98
+  },
+  "issue_counts": {
+    "critical": 0,
+    "high": 0,
+    "medium": 0,
+    "low": 0
+  },
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": true,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": true,
+    "current_data_source_dated": true
+  },
+  "metrics": {
+    "core_sessions": 27,
+    "optional_advanced_units": 4,
+    "mcqs": 48,
+    "mcq_rotation": "ABCD x12",
+    "why_how_pairs": 10,
+    "graphical_core_synthesis_routes": 12,
+    "graphical_optional_cards": 1,
+    "ascii_panels": 12,
+    "session_pages": 56,
+    "workbook_pages": 15,
+    "poster_pages": 1,
+    "tiled_pages": 4,
+    "ascii_pages": 12,
+    "semantic_ellipses": 0,
+    "replacement_glyphs": 0,
+    "focused_tests_passed": 38
+  },
+  "intermediates": [
+    {
+      "identity": "polity-20:learner-v2:g3",
+      "status": "failed_revalidation",
+      "reason": "two truncated semantic traps",
+      "preserved": true
+    },
+    {
+      "identity": "polity-20:learner-v2:g4",
+      "status": "failed_revalidation",
+      "reason": "stale g3 shared-flow metadata",
+      "preserved": true
+    }
+  ],
+  "validation": [
+    "new-topic automated validation passed",
+    "tracker-aware validate_v2_export passed",
+    "38 focused tests passed",
+    "four-item export validation passed",
+    "all preservation hashes unchanged",
+    "visual contact sheet reviewed; no overflow or clipping"
+  ],
+  "source_audit": "upsc-ai-kit\\manifests\\exports\\polity-20-source-pyq-current-audit-2026-08-28.json",
+  "final_export_hashes": {
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\20-State-Legislature\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf": "55d79df6db1aa86f780c513003c3d9afa059f6749bdea8b49ad08fd8a0574f15",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\20-State-Legislature\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": "8cd7113b8dfd2852c22cf3a7c4e2d742c599dc128dbd147a489d2e4cb5107d1b",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\20-State-Legislature\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": "dc1d1392e6820121012cc2d29d945f78cd5d49681a87ae5b624a8a743493dd7f",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\20-State-Legislature\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png": "714439c5544b53e0f742571d76eebee821fd56eca108a6ca9c721ac7b155a0c6",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\20-State-Legislature\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf": "57f0b60dc5bfd6f738e1181b3d672c9fc99c8457c863d3112b629da26ff3f50d",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\20-State-Legislature\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": "0816cd0e7042af61be17960b9e815f029089997ba96343cdc93932b799caa361",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\20-State-Legislature\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt": "c7edbe6becc427164972b57107dbad18fe90a4e4ba7237ba3b3d5e1c0e054a87",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\20-State-Legislature\\README.txt": "8fa0ae10b6ae3a3d4c80526b5eed5ea5121b2fb0e06faf8c1ce663527f48ecfd"
+  }
+}

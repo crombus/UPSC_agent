@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-35",
+  "record_id": "polity-35:learner-v2:g5",
+  "baseline_record_id": "polity-35:learner-v2:g2",
+  "baseline_score": 76,
+  "score": 98,
+  "status": "passed",
+  "approval": false,
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": true,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": true,
+    "current_data_source_dated": true
+  },
+  "metrics": {
+    "sessions": 16,
+    "pyq_routes": 3,
+    "direct_pyqs": 2,
+    "mcqs": 48,
+    "rotation": "ABCD x12",
+    "guidance_pairs": 10,
+    "ellipsis_count": 0,
+    "replacement_chars": 0,
+    "ascii_panels": 12,
+    "ascii_max_width": 99,
+    "graphical_core_stages": 12,
+    "graphical_optional_cards": 1,
+    "tests": "38 passed",
+    "baseline_g2_hashes_checked": 41,
+    "baseline_g2_hash_mismatches": [],
+    "pages": {
+      "01-Complete-Learning-Session\\Complete-Learning-Session.pdf": 70,
+      "02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": 21,
+      "03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": 1,
+      "03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf": 4,
+      "04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": 12
+    }
+  },
+  "preserved_generations": [
+    {
+      "record_id": "polity-35:learner-v2:g2",
+      "score": 76,
+      "status": "changes_suggested",
+      "approved": false,
+      "immutable": true
+    },
+    {
+      "record_id": "polity-35:learner-v2:g3",
+      "score": 94,
+      "status": "failed_manual_review_prose_integrity",
+      "approved": false,
+      "immutable": true
+    },
+    {
+      "record_id": "polity-35:learner-v2:g4",
+      "score": 97,
+      "status": "failed_manual_review_acronym_integrity",
+      "approved": false,
+      "immutable": true
+    },
+    {
+      "record_id": "polity-35:learner-v2:g5",
+      "score": 98,
+      "status": "passed",
+      "approved": false,
+      "immutable": true
+    }
+  ]
+}

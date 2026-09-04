@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "rechecked_at": "2026-08-29T07:53:26.241371+05:30",
+  "topic_key": "polity-54",
+  "live_record_id": "polity-54:learner-v2:g2",
+  "tracker_identity_match": true,
+  "all_artifacts_match": true,
+  "artifact_checks": {
+    "EXPORT-PDF-STATUS.json": {
+      "sha256": "3d2d15a8c866898d6a017a40c825d13e391b957493b9348a3b3191e9b6086e47",
+      "bytes": 10001914
+    },
+    "notes\\Final-Learning-Packages\\MASTER-TRACKER.json": {
+      "sha256": "0a18201639fe436921e1a2559cbcaf779f7c02b4c74bb564a39cb51b7fe52880",
+      "bytes": 192292
+    },
+    "notes\\Final-Learning-Packages\\_deep-content-review\\REVIEW-TRACKER.json": {
+      "sha256": "5fbd610f039c2adaab7243a2cb47379740077b3060108e9bc0ced39376197d47",
+      "bytes": 246560
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Lok-Adalats-and-Other-Courts.md": {
+      "sha256": "d29b3c674b5d45349ebc465de520338e34d087f7c4a7f8b86dfec522870079a4",
+      "bytes": 20876
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\54_Lok-Adalats-and-Other-Courts.md": {
+      "sha256": "093d5577f7491acff456ce35b791f1294697447a5dc832e42a595778fb5e2511",
+      "bytes": 1915
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-54\\polity-54_Complete-Learning-Session_2026-08-25.pdf": {
+      "sha256": "73e0e77035b35a38b7dc82c080b3e6592d7ef3b6e81ee37c41d7ba9e701580a6",
+      "bytes": 1664770
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-54\\polity-54_Solved-Practice-Workbook_2026-08-25.pdf": {
+      "sha256": "ab24e4c53e0566231ff27db90dfc7a2d9c565bcec3f2eceb4efd28fee2d3f194",
+      "bytes": 477369
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-54\\polity-54_Complete-Learning-Session_2026-08-25.md": {
+      "sha256": "b063ec406d3ff753327ae75d30f4c37ace3319efae39b3f368ef8a8ca76c3bc5",
+      "bytes": 170454
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-54\\polity-54_Solved-Practice-Workbook_2026-08-25.md": {
+      "sha256": "94edeeb8807f8fabe574e2ce7d2dd00068a51038036754e34305fb55384bec1c",
+      "bytes": 44049
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-54\\carvaka-g2\\master.png": {
+      "sha256": "605fefbba0c64926ef5b8db8b4ea6d555ec3bdaebc571f7697cc7b18367a3e1d",
+      "bytes": 1745557
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-54\\carvaka-g2\\poster.pdf": {
+      "sha256": "3ec8c680bbe409ca934ae83a498dfc95b6571bf27025c5bd1424c70d50f8aab1",
+      "bytes": 1990286
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-54\\carvaka-g2\\tiled.pdf": {
+      "sha256": "93ee68328090a1461613a574ffc79d131244e10abe3afe6a2e4aab688e8e7742",
+      "bytes": 2810703
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-54\\carvaka-g2\\ascii-master.txt": {
+      "sha256": "b7e50481f99b6a3a2e99adf3bc8b4ab41e4157c438776d814270266998cdb045",
+      "bytes": 4622
+    }
+  }
+}

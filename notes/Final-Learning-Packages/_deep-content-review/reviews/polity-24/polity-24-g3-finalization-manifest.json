@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-24",
+  "selected_record_id": "polity-24:learner-v2:g3",
+  "approval": false,
+  "final_package": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\24-Municipalities",
+  "preserved_records": [
+    "polity-24:learner-v2:g2",
+    "polity-24:learner-v2:g3"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "selection": "polity-08-g4-intermediate-revalidation",
+  "passed": true,
+  "topic_count": 1,
+  "topics": [
+    {
+      "topic_key": "polity-08",
+      "record_id": "polity-08:learner-v2:g4",
+      "generation": 4,
+      "passed": true,
+      "errors": [],
+      "score": 88
+    }
+  ]
+}

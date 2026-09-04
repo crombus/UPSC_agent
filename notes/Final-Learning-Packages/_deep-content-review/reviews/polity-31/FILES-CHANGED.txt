@@ -1,0 +1,2 @@
+Batch report: notes\Final-Learning-Packages\_deep-content-review\batch-reports\Polity-Batch-06-polity-26-to-polity-30.md
+Polity-31 owners, g3 source/artifacts, flow specs, semantic overrides, tests, trackers, ledgers, audits and final four-item export.

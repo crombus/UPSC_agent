@@ -1,0 +1,169 @@
+{
+  "identity": true,
+  "workbook_h1": true,
+  "keys": "ABCDABCDABCDABCDABCDABCDABCDABCD",
+  "rotation": true,
+  "why": 7,
+  "improve": 7,
+  "pending_control": true,
+  "wrong_party": false,
+  "banned": [],
+  "ascii_panels": 11,
+  "ascii_width": 96,
+  "session_pages": 51,
+  "session_blanks": [],
+  "session_replacement": [],
+  "workbook_pages": 13,
+  "workbook_blanks": [],
+  "workbook_replacement": [],
+  "poster_pages": 1,
+  "poster_blanks": [],
+  "poster_replacement": [],
+  "tiles_pages": 4,
+  "tiles_blanks": [],
+  "tiles_replacement": [],
+  "master_size": [
+    4800,
+    9627
+  ],
+  "graph_stages": [
+    [
+      "00",
+      "core"
+    ],
+    [
+      "01",
+      "core"
+    ],
+    [
+      "02",
+      "core"
+    ],
+    [
+      "03",
+      "core"
+    ],
+    [
+      "04",
+      "core"
+    ],
+    [
+      "05",
+      "core"
+    ],
+    [
+      "06",
+      "core"
+    ],
+    [
+      "07",
+      "core"
+    ],
+    [
+      "08",
+      "synthesis"
+    ],
+    [
+      "09",
+      "core"
+    ],
+    [
+      "10",
+      "synthesis"
+    ],
+    [
+      "E",
+      "extra"
+    ]
+  ],
+  "session_defs": [
+    [
+      "1",
+      "CONSTITUTIONAL PLACEMENT, ORIGIN AND HISTORICAL CONTEXT\n",
+      "Fundamental Duties are eleven citizen obligations listed in Part IVA, Article 51A.",
+      "Part IVA constitutionalised a citizen-side ethic, but its Emergency-era origin makes rights-compatible interpretation essential."
+    ],
+    [
+      "2",
+      "EXACT TEXT AND EXAM-READY MEANING OF ALL ELEVEN DUTIES\n",
+      "Article 51A(a) to (k) groups constitutional loyalty, fraternity, culture, ecology, inquiry, public ethics, excellence and education.",
+      "Marks depend on exact clause language and limits, not a one-word mnemonic."
+    ],
+    [
+      "3",
+      "LEGAL CHARACTER: WHAT ARTICLE 51A CAN AND CANNOT DO\n",
+      "Fundamental Duties are constitutionally authoritative but non-justiciable and non-self-executing.",
+      "Article 51A supplies constitutional purpose, not an automatic writ, offence or punishment."
+    ],
+    [
+      "4",
+      "RIGHTS-DUTIES-DPSP RELATIONSHIP\n",
+      "Rights protect agency, Directive Principles guide State purpose and Fundamental Duties state citizen responsibilities.",
+      "The rights-duties-DPSP relationship is balanced constitutionalism: rights protect agency, duties orient citizens and directives guide State purpose."
+    ],
+    [
+      "5",
+      "NATIONAL SYMBOLS: RESPECT WITHOUT COMPELLED CONFORMITY\n",
+      "Article 51A(a) requires respect for constitutional institutions, the Flag and the Anthem without prescribing one compulsory patriotic performance.",
+      "Constitutional patriotism protects republican symbols and the freedom that gives them democratic meaning."
+    ],
+    [
+      "6",
+      "HARMONY, COMMON BROTHERHOOD AND DIGNITY OF WOMEN\n",
+      "Article 51A(e) combines fraternity across difference with renunciation of practices derogatory to women.",
+      "Fraternity is constitutional only when it protects difference and equal dignity rather than silencing disagreement."
+    ],
+    [
+      "7",
+      "COMPOSITE CULTURE, SCIENTIFIC TEMPER AND EXCELLENCE\n",
+      "Clauses (f), (h) and (j) protect plural heritage, evidence-minded inquiry and individual and collective excellence.",
+      "Culture, inquiry and excellence are democratic capacities when joined to pluralism, correction and fair opportunity."
+    ],
+    [
+      "8",
+      "ENVIRONMENT AND COMPASSION FOR LIVING CREATURES\n",
+      "Article 51A(g) makes environmental care and compassion citizen duties alongside Article 48A State direction.",
+      "Environment and compassion for living creatures form a shared constitutional ethic implemented through Article 48A, Article 21, statutes and citizen conduct."
+    ],
+    [
+      "9",
+      "PUBLIC PROPERTY, NON-VIOLENCE AND DEMOCRATIC PROTEST\n",
+      "Article 51A(i) joins care for shared assets with a duty to abjure violence.",
+      "Protecting public property strengthens democratic protest when law distinguishes dissent from violence."
+    ],
+    [
+      "10",
+      "EDUCATION: ARTICLE 21A, ARTICLE 45 AND ARTICLE 51A(K)\n",
+      "The 86th Amendment created an education triad of child right, State directive and parent or guardian duty.",
+      "Education under Articles 21A, 45 and 51A(k) distributes responsibility among the State, early-childhood policy and parents or guardians."
+    ],
+    [
+      "11",
+      "DUTY-BY-DUTY OPERATIONALISATION\n",
+      "Operationalisation maps each duty to education, institutions or precise statutes without claiming a one-to-one legal source.",
+      "Duty-by-duty operationalisation follows a chain from constitutional value to civic learning, institutional practice, valid law and accountable enforcement."
+    ],
+    [
+      "12",
+      "J.S. VERMA COMMITTEE, 1999\n",
+      "The Verma Committee operationalised Fundamental Duties chiefly through education, awareness and compliance with existing laws.",
+      "The Verma model makes citizenship learned and practised before it is penalised."
+    ],
+    [
+      "13",
+      "CRITICISM, COUNTERARGUMENTS AND GRADED REFORM\n",
+      "The debate weighs vagueness, Emergency provenance and coercive misuse against civic vocabulary, interpretation and existing-law value.",
+      "Criticism, counterarguments and graded reform reject both decorative duties and blanket punishment in favour of rights-compatible operationalisation."
+    ]
+  ],
+  "hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g3\\polity-09_Complete-Learning-Session_2026-08-28.md": "fca50fc52bbf1771777460a837a035a51afc31851eb5a188052da4855161727e",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g3\\polity-09_Solved-Practice-Workbook_2026-08-28.md": "b9f7cda851d0be933c4c00a09b11ce1927b45c746ff947ca0d3dbc68901fe604",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g3\\polity-09_Complete-Learning-Session_2026-08-28.pdf": "408728189bf536b71e3390f4cdf384d30a4c29ef24a17605e465080b3e9989ed",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g3\\polity-09_Solved-Practice-Workbook_2026-08-28.pdf": "90aaf3a5fd225882a2382f24c0f369fa452c059817c33a7322eb25339e82e9da",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-09\\carvaka-g3\\poster.pdf": "cac4df6091bc16edaf5b036930bff189bb15b335dff0be092b0dc3152e6119fb",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-09\\carvaka-g3\\tiled.pdf": "0016cfcebede749744f0f9b373fb911847119ba5e758ec0e4b396cbd718ad1b5",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-09\\carvaka-g3\\master.png": "14aca53c6b8b3047488508e26b394faaa5fafa4b2546705788b1a9b12358ac44",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-09\\carvaka-g3\\ascii-master.txt": "72f0405ce4a7d9e42f979d4791553cc6f509d2bc3a33496993409de943744494"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-33",
+  "record_id": "polity-33:learner-v2:g3",
+  "baseline_score": 73,
+  "score": 94,
+  "status": "failed_manual_review_prose_integrity",
+  "approval": false,
+  "hard_gate_failure": "17 ellipsis-truncated closure lines across ten sessions.",
+  "preserved_generations": [
+    "polity-33:learner-v2:g2",
+    "polity-33:learner-v2:g3"
+  ]
+}

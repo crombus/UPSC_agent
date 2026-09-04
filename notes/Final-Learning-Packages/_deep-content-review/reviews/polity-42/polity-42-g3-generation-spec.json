@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-42",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-42",
+  "title": "Anti Defection Law",
+  "generation_date": "2026-08-28",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Anti Defection Law — deep-reviewed immutable generation",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-42\\g3-source\\polity-42_g3-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Anti-Defection-Law.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\42_Anti-Defection-Law_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\42_Anti-Defection-Law.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\State-Legislature.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md"
+  ],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf"
+  ],
+  "live_sources": [
+    "https://legislative.gov.in/document/constitution-of-india-in-english",
+    "https://www.legislative.gov.in/document-category/amendment-acts",
+    "https://api.sci.gov.in/judgment/judis/12491.pdf",
+    "https://api.sci.gov.in/jonew/judis/28588.pdf",
+    "https://www.api.sci.gov.in/supremecourt/2022/20234/20234_2022_1_1502_44512_Judgement_11-May-2023.pdf",
+    "https://api.sci.gov.in/supremecourt/2025/2745/2745_2025_1_1501_62743_Judgement_31-Jul-2025.pdf",
+    "https://upsc.gov.in/examinations/previous-question-papers",
+    "https://upsc.gov.in/examinations/answer-key"
+  ],
+  "practice_profile": "Exact verified 2022 and 2025 Prelims PYQs and 2023 GS-II Q5; 36 original MCQs; 12 remedials; 8 original solved Mains; 9 answer-specific guidance pairs.",
+  "current_linkage_note": "Constitution, amendment texts and Supreme Court doctrine checked to 28 August 2026; Nabam Rebia larger-bench reference remains unresolved in verified official merits material.",
+  "pyq_status_note": "Exact 2022 Q16 answer B, 2025 Q88 answer D, and 2023 GS-II Q5 10 marks/150 words retained.",
+  "allow_existing_history": true,
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Anti-Defection-Law.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\42_Anti-Defection-Law.md",
+    "upsc-ai-kit\\knowledge\\Polity\\42_Anti-Defection-Law_Complete-Topic-Package.md",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-42\\g3-source\\polity-42_g3-reviewed-source.md",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-42-2026-08-25-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-42.json",
+    "tools\\deep_content_quality_overrides.json"
+  ]
+}

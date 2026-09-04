@@ -1,0 +1,56 @@
+{
+  "identity": "polity-03:learner-v2:g17",
+  "baseline_identity": "polity-03:learner-v2:g15",
+  "intermediate_identity": "polity-03:learner-v2:g16",
+  "score": 97,
+  "status": "passed",
+  "approved": false,
+  "review_note": "Passed deep-content revalidation; explicit package approval remains pending.",
+  "checks": {
+    "identity_g17": true,
+    "strict_mcq_cycle": true,
+    "answer_text_preserved": true,
+    "pyq_2021_q90_fixed": true,
+    "pyq_2023_q84_fixed": true,
+    "prelims_12": true,
+    "guidance_20": true,
+    "ascii_11": true,
+    "pdf_layout_clean": true
+  },
+  "artifacts": {
+    "session": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g17\\polity-03_Complete-Learning-Session_2026-08-28.pdf",
+      "pages": 78,
+      "sha256": "4d81ecc3c9c9a88747c248e13578dab04891b4ad353e428c89cafbd9bc173e16"
+    },
+    "workbook": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g17\\polity-03_Solved-Practice-Workbook_2026-08-28.pdf",
+      "pages": 20,
+      "sha256": "a41aa7269b5ea605744d6cfc3462c803942fbd110ba85532c0fac581503bddb1"
+    },
+    "poster": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-03\\carvaka-g17\\poster.pdf",
+      "sha256": "39f905b10360be74179c5aaa96d4d92ad95d9bf8ce5735ddf2d5fb86c82b2648"
+    },
+    "tiled": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-03\\carvaka-g17\\tiled.pdf",
+      "sha256": "168d5d282ec57e4e90b66d9211187a49414a4873df7931cfd89d97ebbb18445a"
+    },
+    "master": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-03\\carvaka-g17\\master.png",
+      "sha256": "fcbcbb408757fa3f63fc7d76bc70a8f2dfdebfd16e4a1eab422efc0e9ba74f84"
+    },
+    "ascii": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-03\\carvaka-g17\\ascii-master.txt",
+      "sha256": "efda7afbd930c46c6fd3db8981b550ff821fddced8f2f0371c3bb256db684ec8"
+    }
+  },
+  "tests": {
+    "passed": 129,
+    "commands": [
+      "python -m unittest tools.test_refresh_all_v2_learning_sessions tools.test_retrofit_v2_core_first tools.test_v2_export_foundation tools.test_v2_section_indexes tools.test_v2_topic_command_catalog tools.test_plan_v2_topic_batch",
+      "python -m unittest tools.test_polity_flowchart_case_years",
+      "python -m unittest tools.test_carvaka_flowchart"
+    ]
+  }
+}

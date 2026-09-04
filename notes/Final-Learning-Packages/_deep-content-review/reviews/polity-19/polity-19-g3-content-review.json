@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-19",
+  "identity": "polity-19:learner-v2:g3",
+  "reviewed_on": "2026-08-28",
+  "approval": false,
+  "status": "changes_suggested",
+  "score": 93,
+  "passed": false,
+  "preserved": true,
+  "blocking_issue": "Stale 2026-08-18 front-matter/export identity remained in otherwise repaired output.",
+  "successor": "polity-19:learner-v2:g4"
+}

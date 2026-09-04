@@ -1,0 +1,30 @@
+{
+  "identity": "polity-04:learner-v2:g14",
+  "score": 68,
+  "status": "changes_suggested",
+  "approved": false,
+  "scores": {
+    "complete_learning_session": 29,
+    "solved_practice_workbook": 18,
+    "graphical_flowchart": 10,
+    "ascii_master_flowchart": 11
+  },
+  "hard_gate_failures": [
+    "stale g2 identity and wrong workbook artifact title",
+    "2021 GS-II Q1 wording altered and model omits required judicial decisions",
+    "2019 GS-II Q5 transformed into a fabricated symmetrical two-country question",
+    "five State descriptors mislabelled as six by treating integrity as a descriptor",
+    "MCQ keys do not follow claimed strict A-B-C-D cycle",
+    "all eleven Mains models lack answer-specific improvement guidance",
+    "2025 Mains marks omitted for GS-II Q11 and GS-IV Q1(b)",
+    "graphical and ASCII sources point to g11 and graphical metadata claims g14 was repaired in place",
+    "flows omit exact PYQ correction routes and 20-mark/250-word architecture"
+  ],
+  "artifact_findings": {
+    "session": "Strong 20-session teaching base but failed identity, exact-PYQ and five-descriptor factual controls.",
+    "workbook": "Useful models, but wrong H1, non-rotated keys, two altered PYQs, missing marks and no answer-specific improvements.",
+    "graphical": "Clean render but stale g11 source anchors, in-place metadata and inherited six-descriptor error.",
+    "ascii": "Readable nine panels but inherited factual error and stops at 15 marks without exact PYQ control panel."
+  },
+  "passed": false
+}

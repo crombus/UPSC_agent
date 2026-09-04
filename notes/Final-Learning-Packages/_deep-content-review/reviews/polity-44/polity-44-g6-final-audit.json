@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-44",
+  "record_id": "polity-44:learner-v2:g6",
+  "baseline": {
+    "record_id": "polity-44:learner-v2:g2",
+    "score": 70,
+    "hash_lock": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g2-identity-lock.json"
+  },
+  "final_score": 98,
+  "approved": false,
+  "metrics": {
+    "core_sessions": 14,
+    "mcqs": 48,
+    "mcq_rotation": "ABCD x12",
+    "answer_guidance_sets": 11,
+    "ascii_panels": 12,
+    "ascii_max_width": 85,
+    "graphical_core_stages": 12,
+    "graphical_cards": 13,
+    "learning_pdf_pages": 42,
+    "workbook_pdf_pages": 16,
+    "poster_pages": 1,
+    "tiled_pages": 4,
+    "targeted_tests_passed": 38
+  },
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": true,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": true,
+    "current_data_source_dated": true
+  },
+  "artifact_sha256": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\g6\\polity-44_Complete-Learning-Session_2026-08-28.md": "ad19895977e2a428d04872a3898ec4500ed4cd9915d6f753d13b5967a3a6940e",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\g6\\polity-44_Solved-Practice-Workbook_2026-08-28.md": "01e7a2d66e24256931ee02fc0a55b5faa3b680a305416404313d1830071e9e22",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\g6\\polity-44_Complete-Learning-Session_2026-08-28.pdf": "faba505fd328b9916df113869d8a093cd7b181bfa0c014c2a04bf59d210a6fb2",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\g6\\polity-44_Solved-Practice-Workbook_2026-08-28.pdf": "25295282b4b387c4403fb0c07c18e72ec10a289eab9d9534502e5d40432ae093",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-44\\carvaka-g6\\poster.pdf": "249937fc878e775edf6ef24f471b3a16afeaadb859442bc6147459dc4734f514",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-44\\carvaka-g6\\tiled.pdf": "9b3ba0a9d8ff6177200e5695de50e1bb2b42271caef8b7ad25016bbaa12982c4",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-44\\carvaka-g6\\ascii-master.txt": "d47cdb874b66092fcd79fd9d403e79d353305acc01f499daf0e2a1cb3d36f466"
+  },
+  "final_export_sha256": {
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\44-Pressure-Groups\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf": "faba505fd328b9916df113869d8a093cd7b181bfa0c014c2a04bf59d210a6fb2",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\44-Pressure-Groups\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": "25295282b4b387c4403fb0c07c18e72ec10a289eab9d9534502e5d40432ae093",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\44-Pressure-Groups\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": "249937fc878e775edf6ef24f471b3a16afeaadb859442bc6147459dc4734f514",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\44-Pressure-Groups\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png": "4ea4c241657422a3b16f2e7f4c930db2df637a61683a51de58589bd41cbaf419",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\44-Pressure-Groups\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf": "9b3ba0a9d8ff6177200e5695de50e1bb2b42271caef8b7ad25016bbaa12982c4",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\44-Pressure-Groups\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": "8ec699477455fccf3f869afc1a22cf9602f5bcd42d19253eb39ad03db64cbe9e",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\44-Pressure-Groups\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt": "d47cdb874b66092fcd79fd9d403e79d353305acc01f499daf0e2a1cb3d36f466",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\44-Pressure-Groups\\README.txt": "1acc3ad86301efff6d83b8b2e93a9d9cedbc8e29b40edd08ce89eb1fc5761827"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-29",
+  "record_id": "polity-29:learner-v2:g3",
+  "baseline_record_id": "polity-29:learner-v2:g2",
+  "baseline_score": 69,
+  "score": 98,
+  "status": "passed",
+  "approval": false,
+  "reviewed_on": "2026-08-28",
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": true,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": true,
+    "current_data_source_dated": true
+  },
+  "metrics": {
+    "sessions": 24,
+    "direct_mains_pyqs": 2,
+    "supporting_pyqs": 3,
+    "mcqs": 48,
+    "rotation": "ABCD x12",
+    "guidance_blocks": 11,
+    "ascii_panels": 12,
+    "ascii_max_width": 92,
+    "tests": "38 passed",
+    "pages": {
+      "01-Complete-Learning-Session\\Complete-Learning-Session.pdf": 80,
+      "02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": 20,
+      "03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": 1,
+      "03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf": 5,
+      "04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": 12
+    }
+  },
+  "preserved_generations": [
+    {
+      "record_id": "polity-29:learner-v2:g2",
+      "score": 69,
+      "status": "changes_suggested"
+    },
+    {
+      "record_id": "polity-29:learner-v2:g3",
+      "score": 98,
+      "status": "passed"
+    }
+  ],
+  "remaining_blockers": []
+}

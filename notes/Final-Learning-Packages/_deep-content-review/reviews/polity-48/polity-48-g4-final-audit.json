@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-48",
+  "record_id": "polity-48:learner-v2:g4",
+  "score": 98,
+  "status": "passed",
+  "approval": false,
+  "sessions": 17,
+  "mcqs": 48,
+  "rotation": "ABCD x12",
+  "answer_guidance_sets": 12,
+  "exact_pyqs": 4,
+  "ascii_panels": 12,
+  "ascii_max_width": 98,
+  "graphical_core_stages": 12,
+  "pdf_pages": {
+    "learning": 46,
+    "workbook": 15,
+    "poster": 1,
+    "tiled": 4,
+    "ascii": 12
+  },
+  "prose_ellipsis": 0,
+  "replacement_glyphs": 0,
+  "tests": "38 passed",
+  "preserved_generations": [
+    2,
+    3,
+    4
+  ],
+  "artifact_sha256": {
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\48-Ministries-Departments-and-Central-Secretariat\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf": "17634cac9b5835f225e28f64334ab521d24d3eb439e384748c8f45da2f40e060",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\48-Ministries-Departments-and-Central-Secretariat\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": "0dd0b8c72b6f7820ec1dd8c95bbbce20c245170b5815855a6cb3aed4c25fce3e",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\48-Ministries-Departments-and-Central-Secretariat\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": "4f5081063bae899bd657899de15e9b93226f93219e71eee012a46a1392e79fbb",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\48-Ministries-Departments-and-Central-Secretariat\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf": "3e6f2b791e7758dcd8d138de4fab7b94dce7450691db69fe13d2f1b6b204ab0d",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\48-Ministries-Departments-and-Central-Secretariat\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": "3cee3dbb8e7d10e43269a5505d24c7d0c6dd5eee48fcb2071e486d592566cb91"
+  }
+}

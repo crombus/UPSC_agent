@@ -1,0 +1,32 @@
+{
+  "topic_key": "polity-13",
+  "reviewed_identity": "polity-13:learner-v2:g2",
+  "review_date": "2026-08-28",
+  "score": {
+    "complete_learning_session": 27,
+    "solved_practice_workbook": 18,
+    "graphical_flowchart": 12,
+    "ascii_master_flowchart": 12,
+    "total": 69
+  },
+  "status": "changes_suggested",
+  "approved": false,
+  "hard_gates": {
+    "syllabus_core_complete": false,
+    "facts_verified": false,
+    "pyqs_verified": false,
+    "model_answers_marks_worthy": false,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": false,
+    "current_data_source_dated": false
+  },
+  "findings": [
+    "The generated session contains heuristic definitions, truncated recall text and duplicated generic scaffolding despite a substantially stronger canonical owner.",
+    "Articles 355-365 are represented mainly by Articles 355, 356 and 365; their Centre-State consequences, especially Articles 357 and 360, lack an executable Core route.",
+    "The water-dispute current note says only that the 2019 Bill was not enacted, omitting that it lapsed and that an officially proposed revised Bill remained pre-enactment.",
+    "Only eight routed PYQs are solved; the directly relevant 2022 party-autonomy and 2023 Article 356/GST federalism demands are absent.",
+    "Eight PYQ models and seven original Mains models have no Why-this-earns-marks or answer-specific improvement guidance.",
+    "The nine-stage graphical and ASCII flows compress emergency-linked relations, case law, current institutions, eleven PYQ routes and answer execution.",
+    "Graphical status metadata incorrectly states that active g2 was repaired in place."
+  ]
+}

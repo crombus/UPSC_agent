@@ -1,0 +1,74 @@
+{
+  "topic_key": "polity-16",
+  "identity": "polity-16:learner-v2:g2",
+  "reviewed_on": "2026-08-28T07:30:00+05:30",
+  "approval": false,
+  "score": {
+    "complete_learning_session": 30,
+    "solved_practice_workbook": 20,
+    "graphical_flowchart": 11,
+    "ascii_master_flowchart": 11,
+    "total": 72
+  },
+  "status": "changes_suggested",
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": false,
+    "pyqs_verified": false,
+    "model_answers_marks_worthy": false,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": false,
+    "current_data_source_dated": true
+  },
+  "issues": [
+    {
+      "id": "P16-001",
+      "severity": "high",
+      "finding": "Basic and Advanced owners retain fixed Council/Cabinet sizes, a frozen 2019 committee count and obsolete universal chairmanship claims contradicted by the dated official notification."
+    },
+    {
+      "id": "P16-002",
+      "severity": "high",
+      "finding": "The Basic/Advanced owners misdate Ambedkar's Hindu Code Bill resignation as 1953 rather than 1951."
+    },
+    {
+      "id": "P16-003",
+      "severity": "high",
+      "finding": "The 2020 PYQ is mischaracterised as a direct Union-minister question; the official paper asks a State-minister/RPA combination and requires Article 164(4), with Article 75(5) only as an analogue."
+    },
+    {
+      "id": "P16-004",
+      "severity": "high",
+      "finding": "Three PYQ solutions and seven original Mains models contain marks rationales but no answer-specific How to improve or executable compression guidance."
+    },
+    {
+      "id": "P16-005",
+      "severity": "high",
+      "finding": "Generated MCQ headings do not evidence strict A-B-C-D rotation, while remediation advertises B-B-C-D; generated prose also contains heuristic generic/truncated trap sentences."
+    },
+    {
+      "id": "P16-006",
+      "severity": "high",
+      "finding": "Nine graphical stages and nine ASCII panels compress 24 Core sessions and omit independent Article 77, Article 78, current committee-control, PYQ and answer-execution routes."
+    },
+    {
+      "id": "P16-007",
+      "severity": "medium",
+      "finding": "The current package uses in-place g2 repair provenance and stale generation-local paths rather than a fresh immutable reviewed identity."
+    }
+  ],
+  "baseline_metrics": {
+    "session_pages": 65,
+    "workbook_pages": 14,
+    "poster_pages": 1,
+    "tiled_pages": 4,
+    "ascii_pages": 9,
+    "routed_pyqs": 3,
+    "guided_mains_models": 10,
+    "answer_guidance_pairs": 0,
+    "original_mcqs": 28,
+    "remedial_mcqs": 8,
+    "graphical_core_stages": 9,
+    "ascii_panels": 9
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "topic_key": "polity-12",
+  "reviewed_identity": "polity-12:learner-v2:g5",
+  "review_date": "2026-08-28",
+  "score": {
+    "complete_learning_session": 39,
+    "solved_practice_workbook": 29,
+    "graphical_flowchart": 15,
+    "ascii_master_flowchart": 15,
+    "total": 98
+  },
+  "status": "passed",
+  "approved": false,
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": true,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": true,
+    "current_data_source_dated": true
+  },
+  "re_review_findings": [
+    "Fourteen Core sessions teach territorial, legislative, administrative, financial, institutional, asymmetric and current federalism before Optional Advanced.",
+    "Ten relevant PYQs are verified and solved; fifteen Mains models include demand decoding, marks rationale and answer-specific improvement guidance.",
+    "Thirty-six original/remedial MCQs follow strict ABCD x 9 with option-text preservation.",
+    "Twelve graphical stages and twelve ASCII panels reconstruct identical Core routes and current limits.",
+    "Session, workbook, poster/tiled flow and ASCII render cleanly with exact g5 source hashes."
+  ],
+  "immutable_history": [
+    "polity-12:learner-v2:g2 baseline",
+    "polity-12:learner-v2:g3 preserved intermediate",
+    "polity-12:learner-v2:g4 preserved intermediate",
+    "polity-12:learner-v2:g5 final review pass"
+  ]
+}

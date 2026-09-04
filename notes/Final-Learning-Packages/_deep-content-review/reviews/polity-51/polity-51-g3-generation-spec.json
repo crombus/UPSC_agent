@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-51",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-51",
+  "title": "Rights and Liabilities of the Government",
+  "generation_date": "2026-08-28",
+  "command": "Generate learner-v2 topic: Polity — Rights and Liabilities of the Government — deep-reviewed immutable g3",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Rights-and-Liabilities-of-the-Government.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Rights-and-Liabilities-of-the-Government.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\51_Rights-and-Liabilities-of-the-Government.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\President-and-Vice-President.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Governor-and-CM.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md"
+  ],
+  "official_question_sources": [
+    "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf"
+  ],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf"
+  ],
+  "live_sources": [
+    "https://legislative.gov.in/constitution-of-india/",
+    "https://www.indiacode.nic.in/",
+    "https://api.sci.gov.in/supremecourt/2020/8899/8899_2020_15_1502_53160_Judgement_16-May-2024.pdf",
+    "https://api.sci.gov.in/jonew/judis/42510.pdf",
+    "https://upsc.gov.in/examinations/previous-question-papers"
+  ],
+  "practice_profile": "Two exact supporting Prelims PYQs; 48 hard MCQs in strict A-B-C-D rotation; eight original Mains questions with answer-specific guidance.",
+  "current_linkage_note": "Article 300A and disclosure law controlled through dated Supreme Court and current statutory sources.",
+  "pyq_status_note": "Exact 2021 right-to-property and 2025 constitutional-immunities questions included; no direct routed Mains question fabricated.",
+  "allow_existing_history": true,
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Rights-and-Liabilities-of-the-Government.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\51_Rights-and-Liabilities-of-the-Government.md",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-51\\g3-source\\polity-51_g3-reviewed-source.md",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-51-2026-08-25-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-51.json",
+    "tools\\deep_content_quality_overrides.json"
+  ]
+}

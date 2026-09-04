@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "passed": true,
+  "topic_count": 1,
+  "topics": [
+    {
+      "topic_key": "polity-39",
+      "generation": 5,
+      "passed": true,
+      "errors": [],
+      "manual_review": true,
+      "tests_passed": 38
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+# Repair handoff — Polity 19
+
+Preserve `polity-19:learner-v2:g2` and `g2-identity-lock.json`. Correct POL19-G2-01 through POL19-G2-08 in the Basic, canonical, Advanced, manifest, semantic and flow owners. Re-read the live tracker, create a collision-free immutable successor, regenerate all four artifacts, and mark it revalidation-pending before review. Acceptance: 26 accessible Core sessions; B.P. Singhal and special-responsibility completeness; 13 Why/How pairs; 48 MCQs strict ABCD x12 with intact prose; 12 matching graphical/ASCII routes; exact hashes and clean PDFs; approval false. Never inherit g2's score.

@@ -1,0 +1,15 @@
+{
+  "selection": "polity-05-g17-final-review",
+  "passed": true,
+  "topic_count": 1,
+  "topics": [
+    {
+      "topic_key": "polity-05",
+      "record_id": "polity-05:learner-v2:g17",
+      "generation": 17,
+      "passed": true,
+      "errors": [],
+      "score": 98
+    }
+  ]
+}

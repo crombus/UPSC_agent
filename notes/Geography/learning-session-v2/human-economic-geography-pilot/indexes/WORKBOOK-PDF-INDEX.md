@@ -1,0 +1,10 @@
+# Human and Economic Geography Pilot — Workbook PDF Index
+
+> **Section key:** `human-economic-geography-pilot`
+> This index intentionally contains only one deliverable type.
+
+| # | Topic key | Display title | Solved workbook PDF | Package state | Approval | Validation | Variant / generation |
+|---:|---|---|---|---|---|---|---|
+| 1 | `geography-28-human-settlements-and-urbanisation` | Human Settlements and Urbanisation | [`notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-28\g14\geography-28-human-settlements-and-urbanisation_Solved-Practice-Workbook_2026-09-02.pdf`](../../../../Learner-v2-Refreshed/Geography/GEO/learning-sessions/geo-28/g14/geography-28-human-settlements-and-urbanisation_Solved-Practice-Workbook_2026-09-02.pdf) | generated | pending explicit topic approval | passed | learner-v2 / g14 |
+| 2 | `geography-30-primary-economic-activities-agriculture` | Primary Economic Activities: Agriculture | [`notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-30\g14\geography-30-primary-economic-activities-agriculture_Solved-Practice-Workbook_2026-09-02.pdf`](../../../../Learner-v2-Refreshed/Geography/GEO/learning-sessions/geo-30/g14/geography-30-primary-economic-activities-agriculture_Solved-Practice-Workbook_2026-09-02.pdf) | generated | pending explicit topic approval | passed | learner-v2 / g14 |
+| 3 | `geography-32-industries-and-industrial-regions` | Industries and Industrial Regions | [`notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g16\geography-32-industries-and-industrial-regions_Solved-Practice-Workbook_2026-09-02.pdf`](../../../../Learner-v2-Refreshed/Geography/GEO/learning-sessions/geo-32/g16/geography-32-industries-and-industrial-regions_Solved-Practice-Workbook_2026-09-02.pdf) | generated | pending explicit topic approval | passed | learner-v2 / g16 |

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-40",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-40",
+  "title": "Official Language",
+  "generation_date": "2026-08-28",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Official Language — deep-reviewed immutable generation",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-40\\g3-source\\polity-40_g3-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Official-Language.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\40_Official-Language_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\40_Official-Language.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md"
+  ],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf"
+  ],
+  "live_sources": [
+    "https://legislative.gov.in/",
+    "https://www.indiacode.nic.in/",
+    "https://rajbhasha.gov.in/en/official-language-rules-1976",
+    "https://samiti.rajbhasha.gov.in/"
+  ],
+  "practice_profile": "One verified direct 2024 Prelims PYQ; 36 original MCQs; 12 remedials; 8 solved Mains with answer-specific guidance.",
+  "current_linkage_note": "Constitution, 1963 Act, 1976 Rules and 1973 authoritative-text statute checked to 28 August 2026; volatile counts omitted.",
+  "pyq_status_note": "One direct verified UPSC Prelims 2024 GS-I Set A Q72; no official answer letter inferred where ledger omits it.",
+  "allow_existing_history": true,
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Official-Language.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\40_Official-Language.md",
+    "upsc-ai-kit\\knowledge\\Polity\\40_Official-Language_Complete-Topic-Package.md",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-40\\g3-source\\polity-40_g3-reviewed-source.md",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-40-2026-08-25-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-40.json",
+    "tools\\deep_content_quality_overrides.json"
+  ]
+}

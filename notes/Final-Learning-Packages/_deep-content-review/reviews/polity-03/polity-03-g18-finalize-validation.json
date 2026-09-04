@@ -1,0 +1,63 @@
+{
+  "passed": true,
+  "selection": "polity-03 g18 final passed revalidation",
+  "identity": "polity-03:learner-v2:g18",
+  "approved": false,
+  "generation_validation": "polity-03-g18-generation-validation.json",
+  "content_review": "polity-03-g18-content-review.json",
+  "tests_passed": 129,
+  "master_tracker": {
+    "source_record_id": "polity-03:learner-v2:g18",
+    "source_generation": 18,
+    "approval": "Approval pending",
+    "status": "passed",
+    "links": {
+      "readme": "Polity\\Subject-wide Syllabus\\03-Salient-Features\\README.txt",
+      "complete_learning_session": "Polity\\Subject-wide Syllabus\\03-Salient-Features\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+      "solved_practice_workbook": "Polity\\Subject-wide Syllabus\\03-Salient-Features\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+      "graphical_flowchart": "Polity\\Subject-wide Syllabus\\03-Salient-Features\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+      "ascii_master_flowchart": "Polity\\Subject-wide Syllabus\\03-Salient-Features\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf"
+    }
+  },
+  "export_validation_manifest": "upsc-ai-kit\\manifests\\exports\\final-four-item-library-2026-08-28-validation.json",
+  "export_validation_status": "passed",
+  "source_artifact_hashes": {
+    "session": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Complete-Learning-Session_2026-08-28.pdf",
+      "sha256": "39b84c1729a3de5bc244e1c0df3468f57a8d19aba8fe5733beb1801e86b081ff",
+      "pages": 78
+    },
+    "workbook": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g18\\polity-03_Solved-Practice-Workbook_2026-08-28.pdf",
+      "sha256": "a41aa7269b5ea605744d6cfc3462c803942fbd110ba85532c0fac581503bddb1",
+      "pages": 20
+    },
+    "poster": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-03\\carvaka-g18\\poster.pdf",
+      "sha256": "61e15c5457eb19ceb7955179b6e978fe98580875050b6ae3cb1a5e10530a0734"
+    },
+    "tiled": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-03\\carvaka-g18\\tiled.pdf",
+      "sha256": "18d853f04e7014ff8ff8e8da91f998194abe73c335ee9093251c035f2e9f0418"
+    },
+    "master": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-03\\carvaka-g18\\master.png",
+      "sha256": "e79a7996066123963689cfee8ef61ac39d7b456986d002135f9dd5be255c0456"
+    },
+    "ascii": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-03\\carvaka-g18\\ascii-master.txt",
+      "sha256": "efda7afbd930c46c6fd3db8981b550ff821fddced8f2f0371c3bb256db684ec8"
+    }
+  },
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": true,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": true,
+    "current_data_source_dated": true,
+    "identity_and_hashes_exact": true,
+    "pdf_layout_clean": true
+  }
+}

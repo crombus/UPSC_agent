@@ -1,0 +1,27 @@
+upsc-ai-kit\knowledge\Polity\basic\GST-Council.md
+upsc-ai-kit\knowledge\Polity\advanced\30_GST-Council.md
+upsc-ai-kit\knowledge\Polity\30_GST-Council_Complete-Topic-Package.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-30\g3
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-30\g4
+upsc-ai-kit\manifests\exports\polity-30-source-pyq-current-audit-2026-08-28.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\polity-30-2026-08-24-sequential.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\polity-30.json
+tools\deep_content_quality_overrides.json
+tools\test_refresh_all_v2_learning_sessions.py
+EXPORT-PDF-STATUS.json
+EXPORT-PDF-COMMAND-INDEX.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\ISSUE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\EVIDENCE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\MD-CHANGE-SUGGESTIONS.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-30
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\30-GST-Council
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-30\g3
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-30\g4
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-30\carvaka-g3
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-30\carvaka-g4
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-28.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-28-validation.json

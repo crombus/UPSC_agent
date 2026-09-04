@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-27",
+  "record_id": "polity-27:learner-v2:g3",
+  "score": 96,
+  "status": "failed_manual_review",
+  "approval": false,
+  "issues": [
+    "ASCII panel 1 title rendered at 101 characters, exceeding the 100-character hard gate."
+  ],
+  "preserved": true
+}

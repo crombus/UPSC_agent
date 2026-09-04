@@ -1,0 +1,45 @@
+{
+  "identity": "polity-07:learner-v2:g16",
+  "passed": true,
+  "approval": false,
+  "tracker_selected": true,
+  "master_tracker_selected": "polity-07:learner-v2:g16",
+  "final_four_item_export": "passed",
+  "checks": {
+    "syllabus_core_complete": true,
+    "facts_verified": true,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": true,
+    "current_data_source_dated": true,
+    "strict_mcq_rotation": true,
+    "pdf_layout": true,
+    "graphical_source_anchors": true,
+    "ascii_embedded_standalone_equal": true,
+    "canonical_provenance_exact": true,
+    "prose_integrity": true,
+    "answer_specific_improvements": true
+  },
+  "artifact_hashes": {
+    "session": "d34759c67acc5aab8d6d5d0630032f9bd7742d2dbde9dcc2ae0734756052b70a",
+    "workbook": "ac4683e26e56063758750b1ab5b5a1c570bb9070d7ac5a019e96e170b8088ef5",
+    "poster": "0cc536b832f1f49faa4a26829dbf45471048f7aae3e964542c5c3e3c55a27cb3",
+    "tiled": "fdfde4f4beebd3df35e0d9691bd1f4f98101bcf9764fcdfc93190a07bbf57ea4",
+    "master": "8593950d2d1126fa60dfd5ae352c15c95ed3c1162b0d058d732654020277879d",
+    "ascii": "0df126f3a65df01fc45f0b5a02aa7e175022fb50e59799e64621585a07b55f7a"
+  },
+  "page_counts": {
+    "complete_learning_session": 94,
+    "solved_practice_workbook": 24,
+    "graphical_poster": 1,
+    "graphical_tiled": 5,
+    "ascii_master_pdf": 11
+  },
+  "graphical_master_dimensions": [
+    4800,
+    12363
+  ],
+  "targeted_tests": "40 passed; 2 historical/global tests deliberately deselected; full export-library inventory remains blocked by unrelated Philosophy g12 validation state",
+  "validated_on": "2026-08-28"
+}

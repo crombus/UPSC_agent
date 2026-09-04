@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "id": "polity-12-g5",
+  "validated_on": "2026-08-28T05:50:00+05:30",
+  "selection": "polity-12-g5-final-revalidation",
+  "topic_count": 1,
+  "passed": true,
+  "errors": [],
+  "topics": [
+    {
+      "topic_key": "polity-12",
+      "record_id": "polity-12:learner-v2:g5",
+      "generation": 5,
+      "passed": true,
+      "errors": [],
+      "artifacts": {
+        "markdown": {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\g5\\polity-12_Complete-Learning-Session_2026-08-28.md",
+          "sha256": "7b59355aef7942dc1c4deaa88d293bc44b7d2a01711158d3a9bd4a652230925f",
+          "bytes": 126027
+        },
+        "workbook_markdown": {
+          "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\g5\\polity-12_Solved-Practice-Workbook_2026-08-28.md",
+          "sha256": "96a35ef24c68735dc440db2a7297881db46c106e543e30737342bf4120f60f42",
+          "bytes": 49222
+        },
+        "main_pdf": {
+          "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\g5\\polity-12_Complete-Learning-Session_2026-08-28.pdf",
+          "sha256": "e310860073c4caf5890e07c54db6af1d092077f0b71abbf16e5418d821a892d3",
+          "bytes": 1639942,
+          "pages": 51,
+          "blank_pages": 0,
+          "replacement_glyph_pages": 0,
+          "min_extracted_characters": 420
+        },
+        "workbook": {
+          "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\g5\\polity-12_Solved-Practice-Workbook_2026-08-28.pdf",
+          "sha256": "742fc2965f8cdd7c17b6155a7bfc77bb917c87703b982943e3e699fde8323844",
+          "bytes": 347525,
+          "pages": 17,
+          "blank_pages": 0,
+          "replacement_glyph_pages": 0,
+          "min_extracted_characters": 419
+        },
+        "poster": {
+          "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-12\\carvaka-g5\\poster.pdf",
+          "sha256": "2a6a1138f4f868313029fb98cffa223beaeedeb31d7c7e3255c9864d4f25dd26",
+          "bytes": 1391385,
+          "pages": 1,
+          "blank_pages": 1,
+          "replacement_glyph_pages": 0,
+          "min_extracted_characters": 0
+        },
+        "tiled": {
+          "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-12\\carvaka-g5\\tiled.pdf",
+          "sha256": "5cdc5d2ea27d8e76425bf36cd5d54a5f664c7aee6ffa62b16f77fb2ea39d0753",
+          "bytes": 1642499,
+          "pages": 3,
+          "blank_pages": 0,
+          "replacement_glyph_pages": 0,
+          "min_extracted_characters": 68
+        },
+        "master": {
+          "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-12\\carvaka-g5\\master.png",
+          "sha256": "829a1bf06096a333479fe5c17c0607850a29172577780bc6fa7545f874043c7d",
+          "bytes": 1250637
+        },
+        "ascii": {
+          "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-12\\carvaka-g5\\ascii-master.txt",
+          "sha256": "7629604f5091db1f53b755f0b371d02caa046de33a676ea754b9f4c536687de6",
+          "bytes": 5911
+        }
+      },
+      "mcq_count": 36,
+      "mcq_keys": "ABCD x 9",
+      "answer_improvement_blocks": 15,
+      "core_stage_count": 12,
+      "ascii_panel_count": 12,
+      "tests_passed": 38
+    }
+  ]
+}

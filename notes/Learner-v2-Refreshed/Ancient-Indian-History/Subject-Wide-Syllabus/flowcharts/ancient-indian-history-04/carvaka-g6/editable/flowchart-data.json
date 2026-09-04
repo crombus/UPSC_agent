@@ -1,0 +1,278 @@
+{
+  "schema_version": 1,
+  "topic_key": "ancient-indian-history-04",
+  "generation": 6,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\ancient-indian-history-04_Complete-Learning-Session_2026-08-22.md",
+  "master_dimensions": [
+    3600,
+    19776
+  ],
+  "stages": [
+    {
+      "title": "ROADMAP, SYLLABUS BOUNDARY AND EVIDENCE DISCIPLINE",
+      "terms": "Roadmap, Syllabus Boundary and Evidence Discipline: The Stone Age is the longest span of the human past and must be studied as history reconstructed without texts.",
+      "mechanism": "Correct: It means history reconstructed mainly through material, biological and environmental evidence.",
+      "consequence": "Qdrant was optional and was not used.",
+      "trap": "Qdrant was optional and was not used.",
+      "answer": "FACT: Static foundation comes first from the authored Topic 04 basic and advanced files, then local OCR-searchable R.S."
+    },
+    {
+      "title": "GEOLOGICAL CONTEXT: PLEISTOCENE, HOLOCENE AND CHANGING LANDSCAPES",
+      "terms": "Context: The textbook equation Palaeolithic equals Pleistocene and Mesolithic equals Holocene is a useful first approximation, not a rigid law.",
+      "mechanism": "Mains angle: Explain climate as mechanism, not master cause: climate - water/biota - resource distribution - technological and mobility response.",
+      "consequence": "The Pleistocene began about 2.6 million years ago and contained repeated cold-warm oscillations; the Holocene began about 12,000 years ago.",
+      "trap": "CURRENT: The 2024 Retlapalle study and the 2026 South Asian Palaeolithic symposium show that chronology and environmental context remain active research fields rather than settled textbook tables.",
+      "answer": "CURRENT: The 2024 Retlapalle study and the 2026 South Asian Palaeolithic symposium show that chronology and environmental context remain active research fields rather than settled textbook tables."
+    },
+    {
+      "title": "HUMAN EVOLUTION AND THE SPARSE INDIAN HOMININ RECORD",
+      "terms": "Human evolution is included only to the extent necessary for Indian prehistory.",
+      "mechanism": "Correct: It refers to an archaic human population first identified through remains and DNA from Denisova Cave.",
+      "consequence": "Human evolution is included only to the extent necessary for Indian prehistory.",
+      "trap": "Biological evolution was branching and reticulate, not a neat ladder.",
+      "answer": "CURRENT: Science Advances, 24 July 2026, published genome-wide data from Old Lady Spider Cave in Ladakh."
+    },
+    {
+      "title": "LITHIC EVIDENCE GRAMMAR: ARTEFACT, CORE, FLAKE, DEBITAGE AND CONTEXT",
+      "terms": "Lithic Evidence Grammar: Artefact, Core, Flake, Debitage and Context: A stone tool is the surviving product of a technological sequence.",
+      "mechanism": "METHOD: Distinguish a factory site, habitation site, butchery area and short camp through the whole assemblage.",
+      "consequence": "Archaeologists reconstruct procurement, preparation, production, use, repair and discard from cores, flakes, unfinished pieces, hammerstones, waste and use-wear.",
+      "trap": "Answer-use: CURRENT: Retlapalle's published lithic analysis counted cores, flakes, retouched pieces, cortex, scars, platforms and reduction strategies, illustrating how modern prehistory moves beyond naming a few finished tools.",
+      "answer": "CURRENT: Retlapalle's published lithic analysis counted cores, flakes, retouched pieces, cortex, scars, platforms and reduction strategies, illustrating how modern prehistory moves beyond naming a few finished tools."
+    },
+    {
+      "title": "DATING AND ARCHAEOLOGICAL METHODS: BUILDING A DEFENSIBLE CHRONOLOGY",
+      "terms": "Dating and Archaeological Methods: Building a Defensible Chronology: INFERENCE: Precision is not the same as accuracy; a narrow date on the wrong event is misleading.",
+      "mechanism": "Luminescence methods are therefore especially important because they can date sediment burial or last light exposure, while ESR, uranium-series, palaeomagnetism and potassium-argon address other materials and time depths.",
+      "consequence": "Luminescence methods are therefore especially important because they can date sediment burial or last light exposure, while ESR, uranium-series, palaeomagnetism and potassium-argon address other materials and time depths.",
+      "trap": "A strong chronology combines stratigraphy, sediment history, typology and appropriate scientific dates rather than treating one laboratory number as self-explanatory.",
+      "answer": "CURRENT: Tamil Nadu's recent scientific-dating programme and the 2024 Retlapalle study demonstrate the expanding use of luminescence and laboratory analysis in Indian archaeology."
+    },
+    {
+      "title": "LOWER PALAEOLITHIC: ACHEULIAN LANDSCAPES AND LARGE CUTTING TOOLS",
+      "terms": "The Lower Palaeolithic is marked by large core and flake tools, especially Acheulian handaxes and cleavers in peninsular India.",
+      "mechanism": "The Lower Palaeolithic is marked by large core and flake tools, especially Acheulian handaxes and cleavers in peninsular India.",
+      "consequence": "Correct: The old contrast based on supposed absence of pebble tools has been rejected.",
+      "trap": "It represents repeated occupation of resource-rich landscapes rather than a single uniform culture moving across an empty map.",
+      "answer": "CURRENT: The 2026 'Rethinking Deep Time' symposium at IIT Gandhinagar highlighted transitions, origins, identities and new dating evidence in South Asian Palaeolithic archaeology."
+    },
+    {
+      "title": "RAW MATERIALS, FACTORY SITES AND THE ECONOMICS OF STONE",
+      "terms": "Raw Materials, Factory Sites and the Economics of Stone: Wrong: Local stone means no mobility.",
+      "mechanism": "INFERENCE: Raw-material distance can indicate direct procurement, seasonal rounds, exchange or embedded travel; it does not identify one mechanism automatically.",
+      "consequence": "Grain, fracture quality, nodule size, distance and intended tool form shaped selection.",
+      "trap": "Stone was not an undifferentiated resource.",
+      "answer": "CURRENT: Modern lithic studies, including Retlapalle and the 2025 Lower Ganga microlithic study, use raw-material selection and reduction strategies to reconstruct mobility and ecology."
+    },
+    {
+      "title": "ATTIRAMPAKKAM AND THE CHRONOLOGY DEBATE",
+      "terms": "Attirampakkam in the Kortallaiyar basin is central because multidisciplinary excavation exposed a long fluvial sequence containing Acheulian and Middle Palaeolithic technologies.",
+      "mechanism": "Attirampakkam in the Kortallaiyar basin is central because multidisciplinary excavation exposed a long fluvial sequence containing Acheulian and Middle Palaeolithic technologies.",
+      "consequence": "Its dates pushed the South Indian record far earlier than older textbook periodization.",
+      "trap": "CURRENT: The 2026 South Asian Palaeolithic symposium foregrounded precisely the problem Attirampakkam raises: transitions cannot be assumed from inherited European period bands.",
+      "answer": "CURRENT: The 2026 South Asian Palaeolithic symposium foregrounded precisely the problem Attirampakkam raises: transitions cannot be assumed from inherited European period bands."
+    },
+    {
+      "title": "MIDDLE PALAEOLITHIC: FLAKE INDUSTRIES AND PREPARED-CORE PLANNING",
+      "terms": "Middle Palaeolithic: Flake Industries and Prepared-Core Planning: Wrong: Levallois is a finished tool type.",
+      "mechanism": "The label 'Middle Palaeolithic' therefore names a broad technological pattern, not a homogeneous population or simultaneous event.",
+      "consequence": "The label 'Middle Palaeolithic' therefore names a broad technological pattern, not a homogeneous population or simultaneous event.",
+      "trap": "Prepared-core methods demonstrate anticipation of the desired blank before the decisive blow, though handaxes and cleavers did not disappear everywhere.",
+      "answer": "CURRENT: PLOS ONE's Retlapalle study, published 27 August 2024, documented a terminal Middle Pleistocene Middle Palaeolithic assemblage with Levallois, discoidal, radial, blade and unidirectional core strategies."
+    },
+    {
+      "title": "UPPER PALAEOLITHIC: BLADES, BONE TOOLS AND SYMBOLIC EXPANSION",
+      "terms": "The Upper Palaeolithic is conventionally associated with parallel-sided blades, burins, bone tools, ornaments and more visible symbolic evidence.",
+      "mechanism": "The Upper Palaeolithic is conventionally associated with parallel-sided blades, burins, bone tools, ornaments and more visible symbolic evidence.",
+      "consequence": "It represents technological diversification during the later Pleistocene, but older heavy tools remained useful for some tasks.",
+      "trap": "INFERENCE: Symbolic evidence expands, yet does not justify reconstructing a formal religion.",
+      "answer": "CURRENT: Scientific reassessment of early microliths and Late Pleistocene occupations continues to blur a rigid Upper Palaeolithic-Mesolithic boundary."
+    },
+    {
+      "title": "TECHNOLOGY AS ADAPTATION: CORE TOOLS TO MICROLITHIC COMPOSITES",
+      "terms": "Technology as Adaptation: Core Tools to Microlithic Composites: FACT: A microlith is generally under 5 cm and often made on short blades of cryptocrystalline stone.",
+      "mechanism": "Heavy and small tools can coexist because they solve different problems.",
+      "consequence": "It must not be read as a universal ladder of intelligence or a clean replacement sequence.",
+      "trap": "It must not be read as a universal ladder of intelligence or a clean replacement sequence.",
+      "answer": "CURRENT: The 2025 Lower Ganga Basin microlithic study explicitly combines chronology, ecology, raw-material selection and reduction strategies, reinforcing a systems approach to technology."
+    },
+    {
+      "title": "MOBILITY, SETTLEMENT AND SOCIAL LIFE OF PALAEOLITHIC COMMUNITIES",
+      "terms": "Mobility, Settlement and Social Life of Palaeolithic Communities: Context: Band society is a cautious ethnographic model: small kin-based groups, reciprocal sharing, flexible leadership and division of labour.",
+      "mechanism": "Correct: Site systems and raw-material routes indicate planned movement through known landscapes.",
+      "consequence": "Mobility was scheduled around water, food, stone and seasonality.",
+      "trap": "CURRENT: Landscape and raw-material studies increasingly reconstruct networks of sites rather than treating every artefact scatter as an isolated camp.",
+      "answer": "CURRENT: Landscape and raw-material studies increasingly reconstruct networks of sites rather than treating every artefact scatter as an isolated camp."
+    },
+    {
+      "title": "SUBSISTENCE AND CLIMATE-ECOLOGY ADAPTATION",
+      "terms": "INFERENCE: 'Broad-spectrum adaptation' describes diversification without assuming farming.",
+      "mechanism": "CURRENT: Kachchh shell-midden research publicized by PIB and IIT Gandhinagar on 4 June 2025 used AMS radiocarbon dating to establish pre-Harappan coastal hunter-gatherer adaptations.",
+      "consequence": "Hunting matters, but gathering, fishing, shellfish collection, scavenging, plant processing and small-animal capture may have supplied substantial food.",
+      "trap": "Answer-use: CURRENT: Kachchh shell-midden research publicized by PIB and IIT Gandhinagar on 4 June 2025 used AMS radiocarbon dating to establish pre-Harappan coastal hunter-gatherer adaptations.",
+      "answer": "CURRENT: Kachchh shell-midden research publicized by PIB and IIT Gandhinagar on 4 June 2025 used AMS radiocarbon dating to establish pre-Harappan coastal hunter-gatherer adaptations."
+    },
+    {
+      "title": "PALAEOLITHIC ART, ORNAMENT AND CULT EVIDENCE",
+      "terms": "Palaeolithic Art, Ornament and Cult Evidence: FACT: Baghor I's roughly circular rubble platform held a patterned triangular stone and is dated in the cited account to c.",
+      "mechanism": "CURRENT: Conservation science and direct/indirect dating remain crucial because claims about 'oldest art' are especially vulnerable to overstatement.",
+      "consequence": "These finds show non-utilitarian behaviour but do not permit a complete reconstruction of religion.",
+      "trap": "These finds show non-utilitarian behaviour but do not permit a complete reconstruction of religion.",
+      "answer": "CURRENT: Conservation science and direct/indirect dating remain crucial because claims about 'oldest art' are especially vulnerable to overstatement."
+    },
+    {
+      "title": "MESOLITHIC TRANSITION: HOLOCENE ADAPTATION, NOT A SINGLE REVOLUTION",
+      "terms": "CURRENT: Recent regional microlithic research in the Lower Ganga Basin treats chronology and ecology together, reinforcing that the Mesolithic is regionally defined.",
+      "mechanism": "Mains angle: Evaluate the Mesolithic through continuity and change: foraging continues, but toolkit, niche breadth, residence and ritual visibility change.",
+      "consequence": "It was neither merely a gap between two important ages nor an automatic farming stage.",
+      "trap": "Upinder Singh shows that microliths begin earlier at some sites and continue later, so phase labels must be linked to assemblage and subsistence rather than tool size alone.",
+      "answer": "CURRENT: Recent regional microlithic research in the Lower Ganga Basin treats chronology and ecology together, reinforcing that the Mesolithic is regionally defined."
+    },
+    {
+      "title": "MICROLITHS AND COMPOSITE TECHNOLOGY",
+      "terms": "Microliths and Composite Technology: INFERENCE: Bow-and-arrow use is plausible at many sites but should be supported by impact and contextual evidence.",
+      "mechanism": "CURRENT: The 2025 article 'Understanding the Microlithic Technology in the Lower Ganga Basin' examines microliths through chronological and ecological perspectives rather than treating them as a timeless fossil type.",
+      "consequence": "Their importance lies in modular composite technology.",
+      "trap": "CURRENT: The 2025 article 'Understanding the Microlithic Technology in the Lower Ganga Basin' examines microliths through chronological and ecological perspectives rather than treating them as a timeless fossil type.",
+      "answer": "CURRENT: The 2025 article 'Understanding the Microlithic Technology in the Lower Ganga Basin' examines microliths through chronological and ecological perspectives rather than treating them as a timeless fossil type."
+    },
+    {
+      "title": "MESOLITHIC SUBSISTENCE, SEDENTARINESS AND DOMESTICATION DEBATES",
+      "terms": "Context: Sedentariness is a continuum.",
+      "mechanism": "Mesolithic economies combined hunting, gathering, fishing, aquatic resources and plant processing.",
+      "consequence": "Some sites report domesticated animals, pottery or cultivated plants, but identification, stratigraphy and dating are frequently contested.",
+      "trap": "Answer-use: CURRENT: Kachchh shell middens and Lower Ganga microlithic studies highlight coastal and alluvial adaptations beyond the classic central-Indian rock-shelter model.",
+      "answer": "CURRENT: Kachchh shell middens and Lower Ganga microlithic studies highlight coastal and alluvial adaptations beyond the classic central-Indian rock-shelter model."
+    },
+    {
+      "title": "BURIALS, RITUAL AND SOCIAL ORGANIZATION",
+      "terms": "CURRENT: The 2026 Ladakh aDNA study is later than the Stone Age, but it illustrates how burials can now be studied through osteology, radiocarbon, kinship and genome-wide data together.",
+      "mechanism": "CURRENT: The 2026 Ladakh aDNA study is later than the Stone Age, but it illustrates how burials can now be studied through osteology, radiocarbon, kinship and genome-wide data together.",
+      "consequence": "Burial is an action by survivors, not a transparent portrait of the deceased.",
+      "trap": "Burial is an action by survivors, not a transparent portrait of the deceased.",
+      "answer": "CURRENT: The 2026 Ladakh aDNA study is later than the Stone Age, but it illustrates how burials can now be studied through osteology, radiocarbon, kinship and genome-wide data together."
+    },
+    {
+      "title": "ROCK ART: BHIMBETKA, REGIONAL TRADITIONS AND INTERPRETATION",
+      "terms": "Rock Art: Bhimbetka, Regional Traditions and Interpretation: It is an archaeological source, not a picture-book transcript.",
+      "mechanism": "ASI remains the official site manager.",
+      "consequence": "Rock art includes paintings and petroglyphs.",
+      "trap": "It is an archaeological source, not a picture-book transcript.",
+      "answer": "CURRENT: On 25 April 2026 the Madhya Pradesh Tourism Board promoted Bhimbetka as a global prehistoric-art destination, renewing the UPSC link between interpretation, tourism pressure and conservation."
+    },
+    {
+      "title": "MAJOR INDIAN SITES AND REGIONAL TRADITIONS: A TEXT MAP",
+      "terms": "Indian prehistory is a mosaic of river valleys, plateaus, deserts, coasts, caves and alluvial plains.",
+      "mechanism": "CURRENT: New research continues to add sites and revise dates; UPSC therefore rewards site-region-evidence matching more than memorizing one national sequence.",
+      "consequence": "CURRENT: New research continues to add sites and revise dates; UPSC therefore rewards site-region-evidence matching more than memorizing one national sequence.",
+      "trap": "Answer-use: CURRENT: New research continues to add sites and revise dates; UPSC therefore rewards site-region-evidence matching more than memorizing one national sequence.",
+      "answer": "CURRENT: New research continues to add sites and revise dates; UPSC therefore rewards site-region-evidence matching more than memorizing one national sequence."
+    },
+    {
+      "title": "CONTINUITY AND CHANGE TOWARD THE NEOLITHIC",
+      "terms": "Continuity and Change toward the Neolithic: The overlap is regionally variable; no single feature dates every transition.",
+      "mechanism": "FACT: Chopani Mando preserves a sequence from epi-Palaeolithic through Mesolithic toward early settled food processing.",
+      "consequence": "Mesolithic communities could experiment with plant intensification, animal management, pottery, storage and longer residence while continuing to hunt, gather and fish.",
+      "trap": "Context: Neolithic markers include domesticated plants/animals, cultivation, more settled village life, polished tools and often pottery, but these features do not always arrive together.",
+      "answer": "CURRENT: Current regional research rejects a single 'revolution' date and examines how foragers, herders and cultivators overlapped."
+    },
+    {
+      "title": "HISTORIOGRAPHICAL DEBATES, SOURCE LIMITATIONS AND CURRENT RESEARCH",
+      "terms": "The central historiographical shift is from a typological culture ladder to regional, behavioural and interdisciplinary prehistory.",
+      "mechanism": "Correct: Analogy generates hypotheses; continuity requires historical evidence.",
+      "consequence": "Tools remain essential, but they are now integrated with geomorphology, palaeoclimate, use-wear, residue, fauna, burials, aDNA and heritage science.",
+      "trap": "Dates can conflict, samples are sparse, taphonomy is uneven, species identifications differ and current populations cannot be projected unchanged into the deep past.",
+      "answer": "CURRENT: Live anchors used here: Retlapalle PLOS ONE (27 August 2024); Kachchh shell middens, PIB/IITGN (4 June 2025); Lower Ganga microlithic study (2025); IITGN South Asian Palaeolithic symposium (29 January-2 February 2026); Ladakh aDNA, Science Advances (24 July 2026); Bhimbetka heritage promotion (25 April 2026)."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 3,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7760,
+      "y_end": 9960,
+      "overlap_px": 260,
+      "from_stage": 9,
+      "continues_stage": 12
+    },
+    {
+      "page": 6,
+      "y_start": 9700,
+      "y_end": 11900,
+      "overlap_px": 260,
+      "from_stage": 11,
+      "continues_stage": 14
+    },
+    {
+      "page": 7,
+      "y_start": 11640,
+      "y_end": 13840,
+      "overlap_px": 260,
+      "from_stage": 13,
+      "continues_stage": 16
+    },
+    {
+      "page": 8,
+      "y_start": 13580,
+      "y_end": 15780,
+      "overlap_px": 260,
+      "from_stage": 16,
+      "continues_stage": 18
+    },
+    {
+      "page": 9,
+      "y_start": 15520,
+      "y_end": 17720,
+      "overlap_px": 260,
+      "from_stage": 18,
+      "continues_stage": 20
+    },
+    {
+      "page": 10,
+      "y_start": 17460,
+      "y_end": 19660,
+      "overlap_px": 260,
+      "from_stage": 20,
+      "continues_stage": 22
+    },
+    {
+      "page": 11,
+      "y_start": 17576,
+      "y_end": 19776,
+      "overlap_px": 260,
+      "from_stage": 20,
+      "continues_stage": 22
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "polity-15-g3-intermediate",
+  "validated_on": "2026-08-28T07:50:00+05:30",
+  "selection": "polity-15-g3-technical-pass-content-repair-pending",
+  "topic_count": 1,
+  "passed": true,
+  "errors": [],
+  "topics": [
+    {
+      "topic_key": "polity-15",
+      "record_id": "polity-15:learner-v2:g3",
+      "generation": 3,
+      "passed": true,
+      "errors": [],
+      "tests_passed": 38,
+      "content_review_status": "revalidation_pending",
+      "known_issue": "One guidance pair was placed outside its Mains item in the workbook; immutable g4 required."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-38",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-38",
+  "title": "Lokpal and Lokayuktas",
+  "generation_date": "2026-08-28",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Lokpal and Lokayuktas — deep-reviewed immutable generation",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-38\\g4-source\\polity-38_g4-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Lokpal-and-Lokayuktas.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\38_Lokpal-and-Lokayuktas_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\38_Lokpal-and-Lokayuktas.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\CVC-and-CBI.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md"
+  ],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf"
+  ],
+  "live_sources": [
+    "https://www.indiacode.nic.in/handle/123456789/2122",
+    "https://lokpal.gov.in/",
+    "https://api.sci.gov.in/supremecourt/2025/9527/9527_2025_2_301_59727_Order_20-Feb-2025.pdf"
+  ],
+  "practice_profile": "One verified direct Prelims PYQ; 36 original MCQs; 12 remedials; 8 solved Mains with answer-specific guidance.",
+  "current_linkage_note": "Act, Complaint Rules, institutional circulars and controlling judgments checked to 28 August 2026; volatile statistics omitted unless primary and dated.",
+  "pyq_status_note": "2025 GS-I routed and key controlled by official-paper ledger.",
+  "allow_existing_history": true,
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Lokpal-and-Lokayuktas.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\38_Lokpal-and-Lokayuktas.md",
+    "upsc-ai-kit\\knowledge\\Polity\\38_Lokpal-and-Lokayuktas_Complete-Topic-Package.md",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-38\\g4-source\\polity-38_g4-reviewed-source.md",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-38-2026-08-25-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-38.json",
+    "tools\\deep_content_quality_overrides.json"
+  ]
+}

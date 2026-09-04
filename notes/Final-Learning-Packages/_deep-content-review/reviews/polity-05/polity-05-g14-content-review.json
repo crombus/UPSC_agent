@@ -1,0 +1,30 @@
+{
+  "identity": "polity-05:learner-v2:g14",
+  "score": 70,
+  "status": "changes_suggested",
+  "approved": false,
+  "passed": false,
+  "artifact_scores": {
+    "complete_learning_session": 29,
+    "solved_practice_workbook": 19,
+    "graphical_flowchart": 10,
+    "ascii_master_flowchart": 12
+  },
+  "hard_gate_failures": [
+    "exact generation/artifact identity",
+    "strict A-B-C-D MCQ rotation",
+    "exact PYQ wording",
+    "answer-specific improvement guidance",
+    "cross-owner factual consistency",
+    "complete graphical and ASCII exam controls"
+  ],
+  "issues": [
+    "Session body says g2; workbook H1 says Learning Session.",
+    "MCQs are balanced but not strict A-B-C-D.",
+    "Basic/Advanced owners overstate Ninth Amendment implementation, use disputed 552/549 as unqualified fact, misspell Junagadh, and Advanced gives a disputed 56-day fast.",
+    "2018 and 2022 Mains demands are paraphrased rather than exact.",
+    "All nine solved models lack answer-specific improvement guidance.",
+    "Current-law check stops at 21 August 2026.",
+    "ASCII and graphical metadata point to g11/g14 repaired in place; nine stages omit an exact PYQ-control panel and complete 20-mark architecture."
+  ]
+}

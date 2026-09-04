@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-36",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-36",
+  "title": "CIC and SIC",
+  "generation_date": "2026-08-28",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — CIC and SIC — deep-reviewed immutable generation",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-36\\g4-source\\polity-36_g4-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\CIC-and-SIC.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\36_CIC-and-SIC_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\36_CIC-and-SIC.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Statutory-Regulatory-and-Quasi-Judicial-Bodies.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md"
+  ],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf"
+  ],
+  "live_sources": [
+    "https://www.indiacode.nic.in/handle/123456789/2065",
+    "https://dopt.gov.in/sites/default/files/RTI%20Rules%202019.pdf",
+    "https://cic.gov.in/supreme-court-rulings"
+  ],
+  "practice_profile": "One verified direct Mains PYQ; 36 original MCQs; 12 remedials; 8 original solved Mains; 9 answer-specific guidance pairs.",
+  "current_linkage_note": "RTI Act, 2019 service rules and commenced DPDP section 44(3) controlled to 28 August 2026; volatile vacancies and portal metrics omitted.",
+  "pyq_status_note": "2020 GS-II Q2 is the direct routed demand; no objective key invented.",
+  "allow_existing_history": true,
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\CIC-and-SIC.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\36_CIC-and-SIC.md",
+    "upsc-ai-kit\\knowledge\\Polity\\36_CIC-and-SIC_Complete-Topic-Package.md",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-36\\g4-source\\polity-36_g4-reviewed-source.md",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-36-2026-08-24-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-36.json",
+    "tools\\deep_content_quality_overrides.json"
+  ]
+}

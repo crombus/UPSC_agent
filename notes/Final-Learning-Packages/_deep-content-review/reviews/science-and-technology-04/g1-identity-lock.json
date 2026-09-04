@@ -1,0 +1,14 @@
+{
+  "topic_key": "science-and-technology-04",
+  "locked_at": "2026-09-04T09:04:07.141020+00:00",
+  "master_tracker_identity": "science-and-technology-04:learner-v2:g1",
+  "generation": 1,
+  "approval": false,
+  "hashes": {
+    "markdown": "31a5c738a113e14da25653852e92e10d3679f29b7754a180d5655fe34a9b30b9",
+    "main_pdf": "77d751348ab9f0d1d32213edffa643a6f931a45b413b919473398670e8e56ca4",
+    "workbook": "71a2b09c9cd78654959602fe29f3e9c25659a8f3f3b85574a9f10b451fb5286a",
+    "graphical_master": "d084b507d61a7c85b7e6a3fc04505fdc67d3750b8bd78f774b58a09843985154",
+    "ascii_master": "3dcfe66c173d1f16f94d2193b73c4cb4b44ba65fa9acb50a580316c6444f7536"
+  }
+}

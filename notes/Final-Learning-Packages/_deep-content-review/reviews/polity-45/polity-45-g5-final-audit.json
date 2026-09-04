@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-45",
+  "record_id": "polity-45:learner-v2:g5",
+  "score": 98,
+  "status": "passed",
+  "approval": false,
+  "sessions": 15,
+  "mcqs": 48,
+  "rotation": "ABCD x12",
+  "answer_guidance_sets": 12,
+  "ascii_panels": 12,
+  "graphical_core_stages": 12,
+  "pdf_pages": {
+    "learning": 36,
+    "workbook": 15,
+    "poster": 1,
+    "tiled": 4,
+    "ascii": 12
+  },
+  "prose_ellipsis": 0,
+  "replacement_glyphs": 0,
+  "tests": "38 passed",
+  "preserved_generations": [
+    2,
+    3,
+    4,
+    5
+  ]
+}

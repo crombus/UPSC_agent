@@ -1,0 +1,57 @@
+{
+  "record_id": "political-theory-21:learner-v2:g2",
+  "generation": 2,
+  "scores": {
+    "complete_learning_session": 38,
+    "solved_practice_workbook": 22,
+    "graphical_flowchart": 15,
+    "ascii_master_flowchart": 14,
+    "total": 89
+  },
+  "metrics": {
+    "markdown_characters": 130408,
+    "question_count": 12,
+    "mcq_count": 48,
+    "mcq_rotation": true,
+    "demand_decoding_blocks": 0,
+    "compression_plan_blocks": 0,
+    "why_this_earns_marks": 12,
+    "how_to_improve": 0,
+    "missing_model_labels": [
+      "PYQ 5 — 2023 · Q3(b) (15 marks)"
+    ],
+    "weak_models": [
+      {
+        "title": "PYQ 5 — 2023 · Q3(b) (15 marks)",
+        "marks": 15,
+        "words": 84
+      }
+    ],
+    "flow_dangling_fragments": [],
+    "main_pages": 50,
+    "workbook_pages": 26,
+    "main_layout": {
+      "page_count": 50,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook_layout": {
+      "page_count": 26,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "graphical_validation_passed": true
+  },
+  "defects": [
+    "All 12 solved PYQ/original Mains items lack explicit answer-specific `How to improve this answer` guidance.",
+    "All 12 solved items lack explicit directive-and-demand decoding.",
+    "All 12 solved items lack an executable mark-scaled compression plan.",
+    "1 solved item(s) lack an explicit model-solution label: PYQ 5 — 2023 · Q3(b) (15 marks)",
+    "1 model(s) are below the marks-worthy length floor: PYQ 5 — 2023 · Q3(b) (15 marks) (84 words)",
+    "The package lacks an explicit learning-goal, syllabus-boundary and answer-transition contract."
+  ]
+}

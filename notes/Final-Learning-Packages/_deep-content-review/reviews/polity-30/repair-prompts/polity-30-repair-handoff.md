@@ -1,0 +1,2 @@
+# Polity-30 repair handoff
+Generate only from the reviewed source. Preserve complete Core before Optional Advanced; strict 48-key ABCD rotation; verified 2018/2019/2020/2023 and adjacent 2025 routes; 12 answer-specific guidance pairs; recommendation-law-effective-date separation; exact Mohit Minerals doctrine; all 12 agreeing flows; ASCII width <=100; no ellipses, stale metadata, clipping or prose mutation. Approval remains false.

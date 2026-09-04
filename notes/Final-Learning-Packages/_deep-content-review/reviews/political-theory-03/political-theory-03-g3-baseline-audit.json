@@ -1,0 +1,52 @@
+{
+  "record_id": "political-theory-03:learner-v2:g3",
+  "generation": 3,
+  "scores": {
+    "complete_learning_session": 38,
+    "solved_practice_workbook": 24,
+    "graphical_flowchart": 13,
+    "ascii_master_flowchart": 12,
+    "total": 87
+  },
+  "metrics": {
+    "markdown_characters": 115701,
+    "question_count": 8,
+    "mcq_count": 48,
+    "mcq_rotation": true,
+    "demand_decoding_blocks": 0,
+    "compression_plan_blocks": 0,
+    "why_this_earns_marks": 8,
+    "how_to_improve": 0,
+    "missing_model_labels": [],
+    "weak_models": [],
+    "flow_dangling_fragments": [
+      "negative role of the state; the state is treated as a necessary evil and the.",
+      "market exchange coordinates dispersed knowledge and choices more effectively than.",
+      "exponent of rollback liberalism, grounded in rights and entitlement rather than."
+    ],
+    "main_pages": 36,
+    "workbook_pages": 19,
+    "main_layout": {
+      "page_count": 36,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook_layout": {
+      "page_count": 19,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "graphical_validation_passed": true
+  },
+  "defects": [
+    "All 8 solved PYQ/original Mains items lack explicit answer-specific `How to improve this answer` guidance.",
+    "All 8 solved items lack explicit directive-and-demand decoding.",
+    "All 8 solved items lack an executable mark-scaled compression plan.",
+    "The package lacks an explicit learning-goal, syllabus-boundary and answer-transition contract.",
+    "The stored ASCII/graphical source contains 3 conclusive dangling sentence fragment(s), so the flows are not independently safe."
+  ]
+}

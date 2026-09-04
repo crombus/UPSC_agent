@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "records": [
+    {
+      "record_id": "polity-36:learner-v2:g5",
+      "topic_key": "polity-36",
+      "variant": "learner-v2",
+      "generation": 5,
+      "supersedes": "polity-36:learner-v2:g4",
+      "command": "Generate learner-v2 topic: Polity \u2014 Subject-wide Syllabus \u2014 CIC and SIC \u2014 deep-reviewed immutable generation",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\g5\\polity-36_Complete-Learning-Session_2026-08-28.pdf",
+      "workbook": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\g5\\polity-36_Solved-Practice-Workbook_2026-08-28.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\g5\\polity-36_Complete-Learning-Session_2026-08-28.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\g5\\polity-36_Solved-Practice-Workbook_2026-08-28.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\g5\\assets",
+      "generated_on": "2026-08-28",
+      "approved": false,
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\CIC-and-SIC.md",
+        "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\36_CIC-and-SIC_Complete-Topic-Package.md",
+        "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\36_CIC-and-SIC.md",
+        "cross_topic_sources": [
+          "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\Statutory-Regulatory-and-Quasi-Judicial-Bodies.md"
+        ],
+        "pyq_indexes": [
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md"
+        ],
+        "official_question_sources": [],
+        "local_ocr_sources": [
+          "books\\Indian Polity by M Laxmikant.pdf"
+        ],
+        "live_sources": [
+          "https://www.indiacode.nic.in/handle/123456789/2065",
+          "https://dopt.gov.in/sites/default/files/RTI%20Rules%202019.pdf",
+          "https://cic.gov.in/supreme-court-rulings"
+        ],
+        "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\g5\\polity-36_Complete-Learning-Session_2026-08-28.md",
+        "renderer": {
+          "name": "tools/markdown_learning_pdf.py",
+          "version": "2.1"
+        },
+        "generation_date": "2026-08-28",
+        "superseded_v1": "polity-36:learner-v2:g4",
+        "source_hashes": {
+          "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-36\\g5-source\\polity-36_g5-reviewed-source.md": "d1715e07c49aabb0a32323aff60202a8ed4ddcc1d12004895e869858c1de1dba",
+          "tools\\deep_content_quality_overrides.json": "ddc7c2174c7bd91d2260fb9f8ab5d12a3c55b38fee71e7c3914a5b13a250f0fe",
+          "upsc-ai-kit\\knowledge\\Polity\\36_CIC-and-SIC_Complete-Topic-Package.md": "297ddc4c4ab93e9cf90accdc178eea84b54a0025892a9519ad52e082eb864714",
+          "upsc-ai-kit\\knowledge\\Polity\\advanced\\36_CIC-and-SIC.md": "9acf80ecb79ecc60c2f1ea96e357449dab4edd1af186d4ec2d31e7958fd359d8",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\CIC-and-SIC.md": "4e6e581b2ea25bb8a0a967d46cf5b1de4fd2b258b6503982e555a2e6bf521177",
+          "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-36-2026-08-24-sequential.json": "1c2acc72364dec70bcd47acbce70c0c735780527accac472c2329078ad462f58",
+          "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-36.json": "3699730e2e6885449b6e6ed87345652a4e0ac78f8ce1de18791b8859effa46ed"
+        },
+        "session_contract": "named-session definition/opening/keywords/use/closure",
+        "mcq_keys": "strict A-B-C-D rotation",
+        "practice_profile": "One verified direct Mains PYQ; 36 original MCQs; 12 remedials; 8 original solved Mains; 9 answer-specific guidance pairs.",
+        "current_linkage_note": "RTI Act, 2019 service rules and commenced DPDP section 44(3) controlled to 28 August 2026; volatile vacancies and portal metrics omitted.",
+        "pyq_status_note": "2020 GS-II Q2 is the direct routed demand; no objective key invented.",
+        "new_visual_count": 1,
+        "new_flowchart_page_count": 4,
+        "flowchart_renderer": "C\u0101rv\u0101ka-style continuous same-master PNG/poster/tiled renderer",
+        "tracker_updated": false,
+        "tracker_sha256": "7d5c350443217e4fa0a669468d06747e8f93d0f6c571c069f6add0d2733e3e4a"
+      },
+      "approval": {
+        "approved": false,
+        "approved_on": null,
+        "scope": "polity-36:learner-v2:g5"
+      },
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-08-28",
+        "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+      },
+      "continuous_core_first": {
+        "folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-36\\carvaka-g5",
+        "master_image": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-36\\carvaka-g5\\master.png",
+        "poster_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-36\\carvaka-g5\\poster.pdf",
+        "tiled_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-36\\carvaka-g5\\tiled.pdf",
+        "editable": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-36\\carvaka-g5\\editable",
+        "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\g5\\polity-36_Graphical-Spec-g5.json",
+        "graphical_spec_sha256": "ec7b94891965d30f28d2b488df1e3c5444ea1ee193ad216b6fae10c049452e26",
+        "renderer": {
+          "name": "carvaka-continuous-at-a-glance-graphical-v2",
+          "version": "2.0"
+        },
+        "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+        "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "previews": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-36\\carvaka-g5\\previews",
+        "contact_sheets": [
+          "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-36\\carvaka-g5\\previews\\contact-sheet-01.png"
+        ],
+        "master_overview": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-36\\carvaka-g5\\previews\\master-overview.png",
+        "validation_report": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-36\\carvaka-g5\\validation-report.txt",
+        "build_audit": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-36\\carvaka-g5\\build-audit.json",
+        "preservation_hashes": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-36\\carvaka-g5\\preservation-hashes.json",
+        "ascii_master": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-36\\carvaka-g5\\ascii-master.txt",
+        "ascii_master_preserved": true,
+        "core_stage_count": 12,
+        "card_count": 13,
+        "tiled_page_count": 4,
+        "approval": false,
+        "ascii_master_source": "manual-authored-spec",
+        "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-36-2026-08-24-sequential.json",
+        "ascii_master_spec_sha256": "1c2acc72364dec70bcd47acbce70c0c735780527accac472c2329078ad462f58"
+      },
+      "refresh_profile": "learner-v2-refreshed-new-topic"
+    }
+  ]
+}

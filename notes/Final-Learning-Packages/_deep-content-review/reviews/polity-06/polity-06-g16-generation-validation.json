@@ -1,0 +1,15 @@
+{
+  "selection": "polity-06-g16-final-review",
+  "passed": true,
+  "topic_count": 1,
+  "topics": [
+    {
+      "topic_key": "polity-06",
+      "record_id": "polity-06:learner-v2:g16",
+      "generation": 16,
+      "passed": true,
+      "errors": [],
+      "score": 98
+    }
+  ]
+}

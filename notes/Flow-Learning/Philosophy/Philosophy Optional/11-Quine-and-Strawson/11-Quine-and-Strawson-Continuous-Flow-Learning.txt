@@ -1,0 +1,216 @@
+ASCII MASTER FLOW — PANEL 1/10: One heading, two projects: what the clause actually asks
+START -> the clause reads: Critique of Empiricism; Theory of Basic Particulars and Persons.
+TARGET -> classical and logical empiricism, attacked at two different levels.
+        |
+   +----+-----------------------------+
+   v                                  v
+QUINE 1908-2000                   STRAWSON 1919-2006
+  'Two Dogmas of Empiricism' 1951   'Individuals' 1959
+  LEVEL -> epistemology of           LEVEL -> starting point; the private
+           confirmation                       momentary sense-datum
+  MOVE  -> analytic/synthetic and    MOVE  -> identification needs a public
+           reductionism both fall             spatio-temporal framework
+  RESULT-> empiricism WITHOUT the    RESULT-> bodies and persons are basic;
+           dogmas; still empiricist           not an empiricist at all
+CLASH -> Grice and Strawson, 'In Defence of a Dogma', 1956, defend what Quine attacks.
+OWNERSHIP -> nine PYQ parts 2018-2025; none in 2022; two each in 2018 and 2021.
+TRAP -> writing 'the Quine-Strawson critique' as one united front.
+
+ASCII MASTER FLOW — PANEL 2/10: Dogma one: the circle of synonymy
+CLAIM UNDER TEST -> there is a principled line between analytic and synthetic truth.
+ANALYTIC = true by virtue of MEANING
+        |
+        v
+MEANING -> requires SYNONYMY
+        |
+        +--> DEFINITION -> only RECORDS an antecedent synonymy -> CIRCULAR
+        |
+        +--> INTERCHANGEABILITY salva veritate
+        |        needs NECESSITY, a cognate of analyticity -> CIRCULAR
+        |        extensional counter-case: creature with a heart / with a kidney
+        |
+        +--> SEMANTIC RULES (Carnap) -> defined via 'analytic-in-L' -> CIRCULAR
+OUTCOME -> no principled, non-circular criterion of analyticity.
+EXACT CONCLUSION -> a difference of DEGREE (centrality), not of KIND.
+OBJECTION -> Grice and Strawson 1956: a usable distinction needs no definition.
+REPLY -> usability is not theoretical legitimacy; compare witch / non-witch.
+PROVENANCE -> Philosophical Review, January 1951; revised 1953.
+
+ASCII MASTER FLOW — PANEL 3/10: Dogma two and the web of belief
+DOGMA 2 -> reductionism: each sentence has its own confirming experiences.
+REFUTATION -> statements face the tribunal of sense experience only as a corporate body.
+  (o)  (o)  (o)  (o)  (o)   <- observation sentences at the PERIPHERY
+    \    \    |    /    /
+     [ physics, chemistry, biology ]   <- revised fairly easily
+          [  mathematics  ]            <- revised rarely
+             [   LOGIC   ]             <- revised last, never immune
+CLASH AT THE EDGE -> revise somewhere -> the place of revision is CHOSEN.
+  option A -> adjust a peripheral belief      option B -> plead hallucination
+  option C -> revise a deep interior law
+DOCTRINE 1 -> any statement can be held true come what may.
+DOCTRINE 2 -> no statement is immune to revision, not even a law of logic.
+CONSEQUENCES -> no analytic/synthetic line; no a priori/a posteriori line;
+                theory-choice by simplicity, conservatism, generality, fecundity;
+                the verification principle loses its application.
+LIMIT -> minimum mutilation, Philosophy of Logic 1970, blocks 'anything goes'.
+
+ASCII MASTER FLOW — PANEL 4/10: The Duhem-Quine machinery and its two authors
+TESTABLE CLAIM -> ( H & A ) implies O, where A is background theory and conditions.
+        |
+OBSERVATION -> NOT-O
+        |
+MODUS TOLLENS -> NOT ( H & A ) only: H is false OR some element of A is false.
+        |
+LOGIC IS SILENT -> the conjunct to surrender is not dictated by the evidence.
+        |
+RESULT -> refutation is never conclusive against a single statement;
+          individual verifiability has no application; dogma 2 falls structurally.
++---------------+---------------------------+--------------------------+
+| Axis          | DUHEM 1906                | QUINE 1951               |
++---------------+---------------------------+--------------------------+
+| Scope         | theoretical physics only  | the whole of science     |
+| Logic & maths | exempt                    | included; none immune    |
+| Corollary     | no experimentum crucis    | underdetermination       |
++---------------+---------------------------+--------------------------+
+CASE 1 -> Uranus: revise the auxiliary -> NEPTUNE, Le Verrier and Adams, 1846.
+CASE 2 -> Mercury: 'VULCAN' fails -> revise the deep law -> relativity, 1915.
+REPLIES -> Popper: falsification is a methodological decision, not pure logic.
+           Lakatos: hard core plus revisable protective belt.
+
+ASCII MASTER FLOW — PANEL 5/10: Radical translation, gavagai and the three results
+SET-UP -> radical translation: no dictionary, no interpreter; evidence is
+          stimulation plus assent or dissent only. Word and Object 1960, ch. 2.
+A rabbit runs past; the native says 'Gavagai'.
+        |
+  +-------+---------+-----------+-------------+
+  v       v         v           v             v
+'rabbit' 'undetached 'temporal  'rabbithood'  'it is rabbiting'
+         rabbit-     stage of a  (universal    (feature-placing;
+         parts'      rabbit'     instantiated)  no object at all)
+  \_______\_________|___________/______________/
+        |  all share ONE stimulus meaning
+ASK 'same gavagai?' -> presupposes the identity predicate, articles, plurals,
+                       quantifiers: the APPARATUS OF INDIVIDUATION in dispute.
+        |
+RESULT 1 -> INSCRUTABILITY OF REFERENCE: no fact about what the terms refer to.
+RESULT 2 -> INDETERMINACY OF TRANSLATION: rival analytical hypotheses agree on all
+            observation sentences yet differ elsewhere; nothing decides.
+RESULT 3 -> ONTOLOGICAL RELATIVITY: reference only relative to a background manual.
+PREMISES -> behaviourism about evidence; verificationism about facts; naturalism.
+OBJECTIONS -> Chomsky: only underdetermination. Davidson: harmless, scale-like.
+
+ASCII MASTER FLOW — PANEL 6/10: Quine's positive system and the reform of empiricism
+QUESTION 1 -> what is there?
+  CRITERION -> 'to be is to be the value of a bound variable', On What There Is 1948.
+  METHOD -> regiment best science into first-order logic; audit its quantifiers.
+  CONSEQUENCE -> commitment is relative to the regimentation -> ontological relativity.
+        |
+QUESTION 2 -> how do we know?
+  ANSWER -> naturalized epistemology; philosophy continuous with science,
+            'a chapter of psychology', 1968/69; sensory input to theoretical output.
+  IMAGE -> Neurath's boat: rebuilt plank by plank at sea, never in dry dock.
+        |
+QUESTION 3 -> what happens to the a priori?
+  CHARGE -> no non-circular analyticity + universal revisability + no first
+            philosophy => holding a belief a priori is a metaphysical article of faith.
+        |
+QUESTION 4 -> is empiricism abandoned?
+  ANSWER -> no: empiricism WITHOUT the dogmas; experience still governs belief,
+            holistically rather than sentence by sentence.
+BRIDGE -> later Wittgenstein converges (museum myth rejected, holism, anti-private)
+          but parts on method: Quine REFORMS by regimentation, Wittgenstein DESCRIBES.
+
+ASCII MASTER FLOW — PANEL 7/10: Strawson's basic particulars and the identification framework
+METHOD -> DESCRIPTIVE metaphysics: describe the scheme we actually use.
+  contrast -> REVISIONARY: Descartes, Leibniz, Berkeley propose a better scheme.
+  provenance -> Individuals 1959, 'An Essay in Descriptive Metaphysics'.
+        |
+DEFINITION -> a BASIC PARTICULAR is identifiable without identifying anything else.
+        |
+ARGUMENT FROM RE-IDENTIFICATION
+  1 objective thought requires re-identifying a particular as the same again
+  2 re-identification requires ONE unified spatio-temporal system
+  3 material bodies constitute it: three-dimensional, enduring, publicly located
+  4 sounds, events, private experiences are identified only BY reference to bodies
+  5 therefore MATERIAL BODIES are basic; PERSONS are the second basic particular
+  STATUS -> conceptual dependence, not causal or metaphysical priority.
+        |
+TEST -> the purely AUDITORY no-space world
+  can 'the same sound returning' be distinguished from a duplicate? Only by a
+  MASTER-SOUND whose pitch fixes position -> a space-analogue is reintroduced.
+  VERDICT -> the experiment supports the thesis rather than defeating it.
+OBJECTION -> Evans: the construction may smuggle in spatial notions.
+2020 LINK -> spatio-temporal thinking is a precondition of OBJECTIVE thinking.
+
+ASCII MASTER FLOW — PANEL 8/10: Persons: the predicate matrix and the double demolition
+THESIS -> the concept of a PERSON is logically PRIMITIVE; not mind plus body assembled.
++----------------------+--------------------------------------------------+
+| M-PREDICATES         | P-PREDICATES                                     |
+| also true of mere    | states of consciousness and action; only persons |
+| material bodies      | others by behavioural criteria; self without     |
+| 'weighs 70 kg'       | observation or criteria -> ASYMMETRY             |
++----------------------+--------------------------------------------------+
+ARGUMENT
+  1 I self-ascribe P-predicates ('I am in pain')
+  2 a self-ascribable predicate must be understood as ascribable to others
+  3 other-ascription requires identifying others as single M-and-P subjects
+  4 therefore the person concept is presupposed by self-ascription itself
+        |
+   +----+---------------------------------+
+   v                                      v
+BLOCKS CARTESIAN DUALISM             BLOCKS THE NO-OWNERSHIP THEORY
+  two independent substances cannot     'the experiences had by this body'
+  be the ONE subject; P-predicates      covertly restores the ownership it
+  become unlearnable and other minds    denies; Schlick and Lichtenberg's
+  unknowable                            'it thinks' is self-refuting
+GUARD -> not logical behaviourism: behaviour is criterial evidence, not meaning.
+OBJECTIONS -> co-instantiation rather than primitiveness; Ayer on no-ownership.
+
+ASCII MASTER FLOW — PANEL 9/10: Reference, presupposition and Strawson's own anti-empiricism
+TEST SENTENCE -> 'The present King of France is bald' (there is no such king).
++--------------+----------------------------+---------------------------+
+| Issue        | RUSSELL, On Denoting 1905  | STRAWSON, On Referring    |
+|              |                            | 1950                      |
++--------------+----------------------------+---------------------------+
+| Who refers   | the sentence, by quantifier| people, in a USE          |
+| Existence    | ASSERTED in the analysis   | PRESUPPOSED, not asserted |
+| Empty term   | the statement is FALSE     | a TRUTH-VALUE GAP         |
+| Meaning      | truth-conditions of a type | rules for correct use     |
++--------------+----------------------------+---------------------------+
+THREE LEVELS -> sentence (meaning) / use (truth-value) / utterance (voicing).
+        |
+STRAWSON AS CRITIC OF EMPIRICISM -> five distinct lines
+  1 sense-data cannot be basic: private, momentary, non-spatial   [Individuals I]
+  2 bundle and no-ownership selves collapse -> person is primitive [Individuals 3]
+  3 reference abstracted from use is a mistake                    [On Referring]
+  4 the global demand to justify induction is senseless           [Logical Theory 1952]
+  5 objectivity needs a framework not drawn from experience       [Bounds of Sense 1966]
+FORM -> take an undisputed fact, ask its conditions, show the empiricist materials fail.
+HONEST LIMIT -> descriptive metaphysics maps our scheme, not mind-independent reality.
+
+ASCII MASTER FLOW — PANEL 10/10: Confrontation, convergence and the reusable answer spine
++----------+------------------------------+-----------------------------+
+| Axis     | QUINE                        | STRAWSON                    |
++----------+------------------------------+-----------------------------+
+| Method   | naturalism                   | descriptive metaphysics     |
+| Scheme   | revisable come what may      | core is indispensable       |
+| Meaning  | behavioural, indeterminate   | fixed by public criteria    |
+| Ontology | read off best science        | the framework we must use   |
+| Given    | the whole web of belief      | the public spatio-temporal  |
+|          |                              | world                       |
++----------+------------------------------+-----------------------------+
+CONVERGENCES -> anti-Cartesian about a private inner object; the public and
+                structured replaces the atomic and private; the museum myth of
+                determinate private meanings is rejected by both.
+DO NOT OVERSTATE -> they differ on status, meaning and method; 'they basically agree'
+                    is the standing trap on comparative stems.
+STANDING PIVOT -> is the conceptual scheme REVISABLE or PRESUPPOSED?
+GRADED VERDICT -> the periphery is Quineanly revisable; the framework role looks
+                  Strawsonianly indispensable; the truth is layered.
+ANSWER SPINE -> 1 decode the directive and name the owner-thinker
+                2 thesis in one line
+                3 mechanism with the exact term
+                4 objection and reply, objector named
+                5 graded verdict with a provenance-clean date
+TIERS -> 10 marks: steps 1-3 plus a verdict; 15: full spine plus one objection;
+         20: full spine, two objections and a convergence close.

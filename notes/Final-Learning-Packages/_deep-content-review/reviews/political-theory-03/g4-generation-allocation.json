@@ -1,0 +1,13 @@
+{
+  "topic_key": "political-theory-03",
+  "allocated_at": "2026-08-30T09:23:17.065501+00:00",
+  "baseline_record_id": "political-theory-03:learner-v2:g3",
+  "new_record_id": "political-theory-03:learner-v2:g4",
+  "review_state": "validation_failed",
+  "score": null,
+  "approval": false,
+  "prior_generation_immutable": true,
+  "live_export_identity": "political-theory-03:learner-v2:g3",
+  "live_master_identity": "political-theory-03:learner-v2:g3",
+  "failure_reason": "All four artifacts rendered and validated, but concurrent access denied the atomic EXPORT-PDF-STATUS publication. The complete unpublished generation is preserved."
+}

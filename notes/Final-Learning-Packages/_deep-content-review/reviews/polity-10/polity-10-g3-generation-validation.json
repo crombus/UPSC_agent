@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "learner-v2-refreshed-2026-08-22",
+  "validated_on": "2026-08-28T04:36:10.031106+05:30",
+  "selection": "polity-10-g3-intermediate-revalidation",
+  "topic_count": 1,
+  "passed": true,
+  "errors": [],
+  "topics": [
+    {
+      "topic_key": "polity-10",
+      "source_generation": 2,
+      "refreshed_generation": 3,
+      "subject": "Polity",
+      "section": "Subject-Wide-Syllabus",
+      "topic_folder": "polity-10",
+      "main_pdf_pages": 60,
+      "workbook_pdf_pages": 18,
+      "session_count": 15,
+      "ascii_panel_count": 11,
+      "ascii_max_line_width": 96,
+      "ascii_branch_count": 0,
+      "ascii_manual_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-24-sequential-batch.json",
+      "ascii_embedded_spec_equal": true,
+      "ascii_standalone_spec_equal": true,
+      "ascii_visual_review": {
+        "panel_count": 11,
+        "panel_pages": [
+          57,
+          57,
+          58,
+          58,
+          58,
+          59,
+          59,
+          59,
+          60,
+          60,
+          60
+        ],
+        "rendered_page_count": 4,
+        "contact_sheet": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-10\\carvaka-g3\\embedded-ascii-contact.png",
+        "all_panel_titles_found_once": true,
+        "sequential_panel_pages": true,
+        "blank_or_edge_touch_pages": []
+      },
+      "mcq_count": 36,
+      "mcq_key_counts": {
+        "A": 9,
+        "B": 9,
+        "C": 9,
+        "D": 9
+      },
+      "preservation_verified": true,
+      "source_content_preservation_verified": true,
+      "core_exam_complete": true,
+      "paths": {
+        "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g3\\polity-10_Complete-Learning-Session_2026-08-28.md",
+        "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g3\\polity-10_Solved-Practice-Workbook_2026-08-28.md",
+        "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g3\\polity-10_Complete-Learning-Session_2026-08-28.pdf",
+        "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g3\\polity-10_Solved-Practice-Workbook_2026-08-28.pdf",
+        "flowchart": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-10\\carvaka-g3"
+      },
+      "pdf_layout": {
+        "main": {
+          "page_count": 60,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "workbook": {
+          "page_count": 18,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "errors": [],
+      "passed": true,
+      "flowchart_tiled_pages": 4
+    }
+  ]
+}

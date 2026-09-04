@@ -1,0 +1,50 @@
+Polity-04 review/repair changed-files manifest
+
+Canonical and generation sources
+- upsc-ai-kit\knowledge\Polity\basic\Preamble.md
+- upsc-ai-kit\knowledge\Polity\advanced\04_Preamble.md
+- upsc-ai-kit\knowledge\Polity\04_Preamble_Complete-Topic-Package.md
+- upsc-ai-kit\knowledge\Polity\learning-sessions\v2\subject-wide-syllabus\polity-04_Learning-Session.md
+- notes\Final-Learning-Packages\_deep-content-review\reviews\polity-04\g15-source\
+- notes\Final-Learning-Packages\_deep-content-review\reviews\polity-04\g16-source\
+- notes\Final-Learning-Packages\_deep-content-review\reviews\polity-04\g17-source\
+- notes\Final-Learning-Packages\_deep-content-review\reviews\polity-04\g18-source\
+
+Pipeline and specifications
+- tools\refresh_all_v2_learning_sessions.py
+- tools\validate_v2_export.py
+- tools\test_refresh_all_v2_learning_sessions.py
+- upsc-ai-kit\manifests\retrofits\ascii-panel-specs\polity-2026-08-23.json
+- upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\polity-04.json
+
+Immutable generated artifacts
+- upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-04\g15\
+- upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-04\g16\
+- upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-04\g17\
+- upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-04\g18\
+- notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-04\g15\
+- notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-04\g16\
+- notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-04\g17\
+- notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-04\g18\
+- notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-04\carvaka-g15\
+- notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-04\carvaka-g16\
+- notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-04\carvaka-g17\
+- notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-04\carvaka-g18\
+
+Review records and ledgers
+- notes\Final-Learning-Packages\_deep-content-review\reviews\polity-04\
+- notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+- notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+- notes\Final-Learning-Packages\_deep-content-review\ISSUE-LEDGER.md
+- notes\Final-Learning-Packages\_deep-content-review\EVIDENCE-LEDGER.md
+- notes\Final-Learning-Packages\_deep-content-review\MD-CHANGE-SUGGESTIONS.md
+
+Finalized trackers and four-item export
+- EXPORT-PDF-STATUS.json
+- EXPORT-PDF-COMMAND-INDEX.md
+- generated learner-v2 section indexes refreshed by atomic finalize
+- notes\Final-Learning-Packages\MASTER-TRACKER.json
+- notes\Final-Learning-Packages\MASTER-TRACKER.md
+- notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\04-Preamble\
+- upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-28.json
+- upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-28-validation.json

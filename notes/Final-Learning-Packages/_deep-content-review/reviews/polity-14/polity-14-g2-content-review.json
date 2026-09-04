@@ -1,0 +1,31 @@
+{
+  "topic_key": "polity-14",
+  "reviewed_identity": "polity-14:learner-v2:g2",
+  "review_date": "2026-08-28",
+  "score": {
+    "complete_learning_session": 29,
+    "solved_practice_workbook": 19,
+    "graphical_flowchart": 12,
+    "ascii_master_flowchart": 12,
+    "total": 72
+  },
+  "status": "changes_suggested",
+  "approved": false,
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": false,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": false,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": false,
+    "current_data_source_dated": false
+  },
+  "findings": [
+    "The Basic and Advanced shorthand says the federal system turns unitary and Article 19 is suspended, flattening the narrower constitutional effects in Articles 353 and 358.",
+    "Current control omits the 4 February 2026 revocation of President's Rule in Manipur and does not explicitly state the no-active National/Financial Emergency position.",
+    "Ten Mains models have no demand decoding, marks rationale or answer-specific improvement/compression guidance.",
+    "The generated learning session contains heuristic definitions, truncated recall prose and duplicated generic scaffolding.",
+    "The nine-stage graphical and ASCII flows compress amendment evolution, Article 352 procedure, rights doctrine, current proclamation status, PYQs and answer execution.",
+    "Graphical/export metadata records in-place repair of active g2 instead of a fresh immutable generation."
+  ]
+}

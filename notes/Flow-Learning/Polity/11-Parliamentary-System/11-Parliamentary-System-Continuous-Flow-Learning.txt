@@ -1,0 +1,179 @@
+ASCII MASTER FLOW — PANEL 1/9: Responsible government: the constitutional architecture
+PARLIAMENTARY GOVERNMENT
+  +-- real executive is drawn from and responsible to the legislature
+  +-- survival depends on confidence of the popularly elected House
+
+UNION ARCHITECTURE
+Articles 74-75 -> PM-led Council; collective responsibility to Lok Sabha
+Article 77     -> conduct of Union business
+Article 78     -> PM's duties toward the President
+
+STATE PARALLELS
+Articles 163-164 -> CM-led Council; responsibility to Legislative Assembly
+Articles 166-167 -> State business and CM-Governor information duties
+
+SYSTEM LOGIC
+popular election -> legislative majority -> ministry -> continuing confidence -> accountability
+
+TRAP: Parliament does not elect every minister separately.
+
+ASCII MASTER FLOW — PANEL 2/9: Nominal and real executive: advice, office and limited discretion
+PRESIDENT: CONSTITUTIONAL HEAD
+  +-- formal executive authority is vested in the President
+  +-- normal exercise follows Article 74 ministerial advice
+        |
+PRIME MINISTER + COUNCIL: REAL POLITICAL EXECUTIVE
+  +-- formulates policy and controls administration
+  +-- remains responsible to Lok Sabha
+        |
+ADVICE CONTROL
+  +-- President may once require reconsideration
+  +-- reconsidered advice binds
+  +-- Article 74(2) protects inquiry into advice, not every underlying act
+
+LIMITED DISCRETION / CONVENTION ZONES
+  +-- appoint PM where no clear majority exists
+  +-- test confidence on the floor
+  +-- assess dissolution where an alternative government may be possible
+
+ASCII MASTER FLOW — PANEL 3/9: The parliamentary mechanism: fusion, membership and responsibility
+CLASSIC FEATURES
+  +-- dual executive: nominal head + real ministry
+  +-- majority-party / coalition government
+  +-- collective responsibility to Lok Sabha
+  +-- political homogeneity or negotiated common programme
+  +-- double membership: executive drawn from legislature
+  +-- PM leadership
+  +-- lower-House dissolution possibility
+  +-- secrecy and Cabinet solidarity
+
+COLLECTIVE RESPONSIBILITY
+Cabinet decision -> all ministers publicly support or resign
+loss of Lok Sabha confidence -> entire ministry resigns or seeks lawful dissolution
+
+INDIVIDUAL RESPONSIBILITY
+personal misconduct / departmental failure may trigger resignation without government fall
+
+FUSION != absence of checks; courts, bicameralism, committees and elections remain.
+
+ASCII MASTER FLOW — PANEL 4/9: Confidence, no-confidence, dissolution and caretaker government
+GOVERNMENT FORMS
+  +-- majority ministry
+  +-- coalition ministry
+  +-- minority ministry with outside support
+        |
+CONTINUING TEST: DOES THE MINISTRY COMMAND LOK SABHA CONFIDENCE?
+  +-- no-confidence motion
+  +-- confidence motion
+  +-- defeat on an issue expressly treated as confidence
+  +-- floor test where majority is disputed
+        |
+IF CONFIDENCE IS LOST
+  +-- resign
+  +-- or advise dissolution, subject to assessment of alternatives
+        |
+CARETAKER CONVENTION
+  +-- continuity until successor takes office
+  +-- restraint in major irreversible policy unless necessity demands
+
+TRAP: an internal party setback is not automatically loss of House confidence.
+
+ASCII MASTER FLOW — PANEL 5/9: Cabinet, Council of Ministers and Prime Ministerial leadership
+COUNCIL OF MINISTERS: THE WIDER CONSTITUTIONAL BODY
+  +-- Cabinet Ministers
+  +-- Ministers of State, independent charge or attached
+  +-- all ranks share collective responsibility
+
+CABINET: SMALLER INNER DECISION CORE
+  +-- major policy, legislation, budget, appointments and crisis decisions
+  +-- supported by Cabinet Committees and Secretariat coordination
+
+PRIME MINISTER
+  +-- selects / allocates portfolios through advice
+  +-- chairs Cabinet and coordinates ministries
+  +-- leads majority or coalition and government business in Parliament
+  +-- communicates between President and ministry under Article 78
+
+DOMINANCE RISKS
+party control + agenda control + ordinance / delegated legislation + weak scrutiny
+
+LIMIT: presidentialisation is an analytical label; responsibility remains parliamentary.
+
+ASCII MASTER FLOW — PANEL 6/9: Parliamentary accountability: the corrective ecosystem
+DAILY / PERIODIC SCRUTINY
+  +-- Question Hour, debates, calling-attention devices and motions
+  +-- budget, demands for grants, cut motions and financial control
+  +-- committee examination of Bills, ministries and delegated legislation
+
+FINANCIAL ACCOUNTABILITY
+CAG reports -> Public Accounts Committee / other financial committees -> government response
+
+POLITICAL ACCOUNTABILITY
+opposition + media + federal second chamber + constituency pressure + elections
+
+LEGAL / CONSTITUTIONAL ACCOUNTABILITY
+judicial review + constitutional offices + statutory transparency and audit
+
+WHY CONTROL MAY WEAKEN
+whip and anti-defection pressure -> limited dissent
+compressed sittings / rushed Bills -> reduced deliberation
+executive information advantage -> scrutiny gap
+
+REFORM: time, information, committee capacity and opposition rights.
+
+ASCII MASTER FLOW — PANEL 7/9: Parliamentary and presidential systems compared precisely
+AXIS                 PARLIAMENTARY                    PRESIDENTIAL
+executive-legislature  fusion / interdependence         organisational separation
+survival               continuing House confidence      fixed constitutional term
+executive form         nominal + real executive         generally single real executive
+membership             ministers usually legislators    executive normally outside legislature
+removal                 political no-confidence          exceptional impeachment process
+strength                continuous accountability        tenure stability
+risk                    dominance / instability          deadlock / rigid mandate
+
+INDIA
+  +-- parliamentary responsibility + written supreme Constitution
+  +-- federalism, judicial review and rights limit legislative majorities
+
+UK contrast: orthodox parliamentary sovereignty and constitutional monarchy
+US contrast: separately elected President and stronger personnel separation.
+
+ASCII MASTER FLOW — PANEL 8/9: Indian adaptation: stability, coalition and current design debate
+WHY ADOPTED
+familiar institutions + diversity accommodation + daily accountability + flexible change
+
+MERITS                              DEMERITS
+executive-legislature coordination  Cabinet / PM dominance
+continuous responsibility           instability in fragmented Houses
+adaptable coalition bargaining      short-term politics and secrecy
+easy peaceful replacement           weak separation and limited expertise
+
+INDIAN ADAPTATIONS
+coalition agreements -> common programme -> coordination committees
+minority government -> issue-based confidence -> bargaining and instability risks
+anti-defection -> stability support, but reduced legislative independence
+
+CURRENT CONTROL
+129th Amendment Bill, 2024 remains a committee-stage proposal.
+Proposed Article 82A is not current law; use only for stability-accountability analysis.
+
+ASCII MASTER FLOW — PANEL 9/9: Prelims traps, verified PYQs and the Mains answer spine
+PRELIMS CONTROL
+Articles 74-75 -> Union                Articles 163-164 -> States
+collective responsibility -> Lok Sabha / Assembly, not both Houses
+non-member minister -> maximum six consecutive months
+Cabinet != entire Council of Ministers
+no-confidence removes ministry, not Lok Sabha
+President normally acts on advice; reconsideration is once
+
+VERIFIED PYQS
+2020 Prelims Q11; 2021 Prelims Q77
+2018 GS-II Q13; 2023 GS-II Q4; 2024 GS-II Q3
+Historical objective keys remain explicitly inferred; no key is fabricated.
+
+MAINS SPINE
+1 define responsible government through executive-legislature relationship
+2 map Articles, nominal-real executive and confidence
+3 explain responsibility and accountability instruments
+4 compare presidential system; add Indian adaptation and dominance risks
+5 propose scrutiny reforms and conclude: stability must serve responsibility.

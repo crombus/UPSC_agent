@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-17",
+  "identity": "polity-17:learner-v2:g2",
+  "reviewed_on": "2026-08-28T10:05:00+05:30",
+  "approval": false,
+  "score": {
+    "complete_learning_session": 30,
+    "solved_practice_workbook": 22,
+    "graphical_flowchart": 11,
+    "ascii_master_flowchart": 10,
+    "total": 73
+  },
+  "status": "changes_suggested",
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": false,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": false,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": false,
+    "current_data_source_dated": false
+  },
+  "issues": [
+    {
+      "severity": "high",
+      "area": "constitutional/current accuracy",
+      "finding": "The Advanced owner dates the Deputy Speaker vacancy from 2018; the official Lok Sabha page states that the office has been vacant since May 2019. Core also avoids a fresh current-office conclusion despite that official control."
+    },
+    {
+      "severity": "high",
+      "area": "legal precision",
+      "finding": "The Core treats one-tenth strength as a statutory prerequisite for recognition of the Leader of Opposition. The 1977 Act contains no numerical threshold; recognition is by the presiding officer, and the ten-percent convention must be described as practice rather than statutory text."
+    },
+    {
+      "severity": "high",
+      "area": "answer execution",
+      "finding": "Eight routed PYQ models and seven original Mains models lack answer-specific How-to-improve and compression guidance."
+    },
+    {
+      "severity": "high",
+      "area": "generated prose",
+      "finding": "The session contains generic and ellipsis-truncated semantic definitions, mechanisms and traps."
+    },
+    {
+      "severity": "medium",
+      "area": "current controls",
+      "finding": "Canonical status remains dated 16 August 2026 although official checks were repeated on 28 August 2026."
+    },
+    {
+      "severity": "medium",
+      "area": "composition and sessions",
+      "finding": "The Advanced owner freezes 245/543 as current facts and presents Budget/Monsoon/Winter labels and months too categorically; sanctioned/elected strength, working strength and constitutional session rules require separation."
+    },
+    {
+      "severity": "medium",
+      "area": "practice",
+      "finding": "The baseline workbook labels its key order non-patterned even though the package contract requires strict A-B-C-D rotation."
+    },
+    {
+      "severity": "high",
+      "area": "flow completeness",
+      "finding": "Nine graphical stages and nine ASCII panels compress major examinable routes, especially separate membership/opposition, sessions/devices, privilege/chairs, live delimitation controls, and answer/PYQ synthesis."
+    }
+  ],
+  "immutable_note": "Generation g2 and its score remain immutable. Repairs require a new generation and cannot inherit this review score."
+}

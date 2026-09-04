@@ -1,0 +1,24 @@
+upsc-ai-kit\knowledge\Polity\basic\Fundamental-Duties.md
+upsc-ai-kit\knowledge\Polity\advanced\09_Fundamental-Duties.md
+upsc-ai-kit\knowledge\Polity\09_Fundamental-Duties_Complete-Topic-Package.md
+upsc-ai-kit\knowledge\Polity\learning-sessions\v2\subject-wide-syllabus\polity-09_Learning-Session.md
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\polity-2026-08-24-sequential-batch.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\polity-09.json
+tools\deep_content_quality_overrides.json
+tools\refresh_all_v2_learning_sessions.py
+tools\test_refresh_all_v2_learning_sessions.py
+EXPORT-PDF-STATUS.json
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\ISSUE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\EVIDENCE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\MD-CHANGE-SUGGESTIONS.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-09\
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\polity-09-fundamental-duties-repair.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-09\g3-g4\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-09\g3-g4\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-09\carvaka-g3-g4\
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\09-Fundamental-Duties\
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-28*.json
+generated command/subject indexes refreshed by finalize

@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-27",
+  "record_id": "polity-27:learner-v2:g4",
+  "score": 98,
+  "approval": false,
+  "files": {
+    "README.txt": "8fa0cdc29754c2f1950306283ad7d35c4de20ad84139f18c8ad61489118ccf8f",
+    "01-Complete-Learning-Session\\Complete-Learning-Session.pdf": "a700169113c4a6d08dabf07392e05c6f87f07e766ba4c1078d0152293834b8bf",
+    "02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": "129e6032e6219ccd57df684a1358e30f2864d5865d4e7f4f7a1eb207be3050f1",
+    "03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": "c717687184581c14cbe44870c2917e103df28699737d10300987671de01e0e63",
+    "03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png": "3625b5280b09ee62d3369609db9fd74a9414e956f0efce7a1e5b6d11e1f4e2a0",
+    "03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf": "c624161c5d75e8ea8a0e8bf76bdb7865636934cca16136ef7c808191daaeff67",
+    "04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": "cc9ef5be5cd777c2b7db29577e4b0ecdd8a49640eec36f7a5fb4525c59a371b6",
+    "04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt": "89eb4d7e21beef8b3d345a26b6e2069987aca3338aed448da11b445e1ac4f280"
+  },
+  "pdf_pages": {
+    "01-Complete-Learning-Session\\Complete-Learning-Session.pdf": 111,
+    "02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": 22,
+    "03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": 1,
+    "03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf": 5,
+    "04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": 12
+  },
+  "validation": {
+    "sessions": 60,
+    "solved_mains_pyqs": 7,
+    "mcqs": 48,
+    "rotation": "ABCD x12",
+    "guidance_blocks": 15,
+    "ascii_panels": 12,
+    "ascii_max_width": 100,
+    "tests": "38 passed"
+  }
+}

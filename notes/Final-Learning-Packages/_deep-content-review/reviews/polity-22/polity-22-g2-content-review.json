@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-22",
+  "record_id": "polity-22:learner-v2:g2",
+  "score": 68,
+  "status": "changes_suggested",
+  "approval": false,
+  "reviewed_on": "2026-08-28",
+  "metrics": {
+    "core_sessions": 35,
+    "mcqs": 48,
+    "keys": "ADCCABCBDADAADBDADCBCACABCDACACBDBBDBCABBDDADCBC",
+    "why_how_pairs": 0,
+    "semantic_ellipses": 7,
+    "ascii_panels": 9,
+    "graphical_cards": 10,
+    "pages": {
+      "session": 65,
+      "workbook": 13,
+      "poster": 1,
+      "tiled": 4
+    }
+  },
+  "issues": [
+    {
+      "id": "P22-001",
+      "severity": "high",
+      "issue": "Basic owner promises but omits the complete Article 371-371J table and exact state-wise clauses."
+    },
+    {
+      "id": "P22-002",
+      "severity": "high",
+      "issue": "Amendment origins and exact Governor/President mechanisms are absent or compressed."
+    },
+    {
+      "id": "P22-003",
+      "severity": "high",
+      "issue": "Article 371D is described through an Administrative Tribunal without current abolition/status qualification."
+    },
+    {
+      "id": "P22-004",
+      "severity": "high",
+      "issue": "Article 371F transition safeguards and Article 371J reservation mechanism are materially under-taught."
+    },
+    {
+      "id": "P22-005",
+      "severity": "medium",
+      "issue": "Article 370 dominates early Core and current date/status is stale; ownership boundary needs tighter control."
+    },
+    {
+      "id": "P22-006",
+      "severity": "high",
+      "issue": "All ten solved answers lack Why-this-earns-marks and answer-specific improvement/compression guidance."
+    },
+    {
+      "id": "P22-007",
+      "severity": "high",
+      "issue": "Baseline MCQs are elementary and keys are balanced but not strict A-B-C-D."
+    },
+    {
+      "id": "P22-008",
+      "severity": "high",
+      "issue": "Generated session has generic semantic filler and seven ellipsis truncations."
+    },
+    {
+      "id": "P22-009",
+      "severity": "high",
+      "issue": "Nine-panel ASCII and ten-card graphical flows compress the state-wise constitutional architecture."
+    },
+    {
+      "id": "P22-010",
+      "severity": "medium",
+      "issue": "Section manifest retains empty cross-owner, PYQ and live-source metadata."
+    }
+  ]
+}

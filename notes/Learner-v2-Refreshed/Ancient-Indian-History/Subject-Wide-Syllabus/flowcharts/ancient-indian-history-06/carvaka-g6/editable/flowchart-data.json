@@ -1,0 +1,542 @@
+{
+  "schema_version": 1,
+  "topic_key": "ancient-indian-history-06",
+  "generation": 6,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-06\\ancient-indian-history-06_Complete-Learning-Session_2026-08-22.md",
+  "master_dimensions": [
+    3600,
+    40076
+  ],
+  "stages": [
+    {
+      "title": "UPSC RELEVANCE AND ANSWER-WORTHINESS AUDIT",
+      "terms": "UPSC Relevance and Answer-Worthiness Audit: The Harappan Civilization is high-value direct Prelims history: chronology, sites, features, material culture, trade and statement matching recur in objective formats.",
+      "mechanism": "The Harappan Civilization is high-value direct Prelims history: chronology, sites, features, material culture, trade and statement matching recur in objective formats.",
+      "consequence": "It is not separately named in the printed GS-I Mains syllabus, but can directly support Mains culture, architecture and urbanism questions; the routed 2025 GS-I architecture question is a verified demand.",
+      "trap": "It is not separately named in the printed GS-I Mains syllabus, but can directly support Mains culture, architecture and urbanism questions; the routed 2025 GS-I architecture question is a verified demand.",
+      "answer": "Official boundary and verified-question reality."
+    },
+    {
+      "title": "ROADMAP, SOURCES AND EVIDENCE DISCIPLINE — [CORE MAINS]",
+      "terms": "METHOD: Material evidence is strongest for construction, technology, production, diet and exchange.",
+      "mechanism": "RECALL: The script is undeciphered; conclusions about polity, religion and social ideology are therefore probabilistic.",
+      "consequence": "RECALL: The script is undeciphered; conclusions about polity, religion and social ideology are therefore probabilistic.",
+      "trap": "FACT: This package follows the mandatory order: authored Topic 06 Markdown, OCR-searchable local books, and no Qdrant dependency; live sources were not needed.",
+      "answer": "FACT: This package follows the mandatory order: authored Topic 06 Markdown, OCR-searchable local books, and no Qdrant dependency; live sources were not needed."
+    },
+    {
+      "title": "TERMINOLOGY, CHRONOLOGY AND THE INTEGRATION-LOCALISATION MODEL — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Terminology, Chronology and the Integration-Localisation Model — [CORE PRELIMS + CORE MAINS]: FACT: \"Harappan\" is the safest archaeological label because the culture extended far beyond the Indus valley and the identification of the Ghaggar-Hakra with the Vedic Sarasvati remains debated.",
+      "mechanism": "FACT: \"Harappan\" is the safest archaeological label because the culture extended far beyond the Indus valley and the identification of the Ghaggar-Hakra with the Vedic Sarasvati remains debated.",
+      "consequence": "2600-1900 BCE for the urban phase, but dates vary by site and remain revisable.",
+      "trap": "INFERENCE: The tripartite scheme describes processes, not three sealed ethnic populations.",
+      "answer": "FACT: \"Harappan\" is the safest archaeological label because the culture extended far beyond the Indus valley and the identification of the Ghaggar-Hakra with the Vedic Sarasvati remains debated."
+    },
+    {
+      "title": "DISCOVERY, EXCAVATION AND CHANGING HISTORIOGRAPHY — [SUPPORTING]",
+      "terms": "Discovery, Excavation and Changing Historiography — [SUPPORTING]: MAINS ANGLE: Historiography is a movement from diffusion, monarchy and invasion toward indigenous development, regional variation and multidisciplinary process.",
+      "mechanism": "MAINS ANGLE: Historiography is a movement from diffusion, monarchy and invasion toward indigenous development, regional variation and multidisciplinary process.",
+      "consequence": "Banerji worked at Mohenjo-daro; John Marshall announced the civilization and supervised major work.",
+      "trap": "INFERENCE: New methods have not removed interpretation; they have made the evidentiary chain more explicit.",
+      "answer": "FACT: Alexander Cunningham noticed a Harappan seal in 1853 without recognizing the civilization."
+    },
+    {
+      "title": "GEOGRAPHICAL EXTENT, ECOLOGICAL ZONES AND REGIONAL DOMAINS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Geographical Extent, Ecological Zones and Regional Domains — [CORE PRELIMS + CORE MAINS]: TRAP: Indus Valley Civilization means all sites lie in the Indus valley. || The distribution includes Afghanistan, the Ghaggar-Hakra zone, Rajasthan, Gujarat and western Uttar Pradesh.",
+      "mechanism": "FACT: Published culture-zone area estimates differ because survey intensity, phase criteria and site definitions vary.",
+      "consequence": "FACT: Published culture-zone area estimates differ because survey intensity, phase criteria and site definitions vary.",
+      "trap": "Use \"vast, multi-ecological zone\" rather than one immutable number.",
+      "answer": "FACT: Harappan settlements occur from Sutkagen-dor on the Makran coast in the west to Alamgirpur in western Uttar Pradesh in the east, and from Manda in the north to Malvan in southern Gujarat."
+    },
+    {
+      "title": "FROM EARLIER FARMING COMMUNITIES TO EARLY HARAPPAN URBAN POTENTIAL — [CORE MAINS]",
+      "terms": "From Earlier Farming Communities to Early Harappan Urban Potential — [CORE MAINS]: INFERENCE: Urbanisation emerged through convergence among regional traditions, craft intensification, exchange, agricultural surplus, leadership and ideology; no single trigger is sufficient.",
+      "mechanism": "INFERENCE: Urbanisation emerged through convergence among regional traditions, craft intensification, exchange, agricultural surplus, leadership and ideology; no single trigger is sufficient.",
+      "consequence": "RECALL: Some mature sites lack known early levels, and some early sites did not become mature cities.",
+      "trap": "RECALL: Some mature sites lack known early levels, and some early sites did not become mature cities.",
+      "answer": "FACT: The deeper background lies in settled farming communities of Baluchistan from the seventh millennium BCE and in later regional traditions such as Amri, Kot Diji, Hakra, Sothi-Siswal and Ravi."
+    },
+    {
+      "title": "SETTLEMENT HIERARCHY AND THE URBAN-RURAL SYSTEM — [CORE PRELIMS + CORE MAINS]",
+      "terms": "TRAP: Urban civilization means every Harappan settlement was a city. || The settlement network was predominantly rural and functionally differentiated.",
+      "mechanism": "INFERENCE: Standardisation across this hierarchy required coordination, but it does not by itself prove one centralized empire.",
+      "consequence": "INFERENCE: Standardisation across this hierarchy required coordination, but it does not by itself prove one centralized empire.",
+      "trap": "INFERENCE: Standardisation across this hierarchy required coordination, but it does not by itself prove one centralized empire.",
+      "answer": "FACT: The civilization was urban, but most settlements were villages."
+    },
+    {
+      "title": "SITE ATLAS I - HARAPPA AND MOHENJO-DARO — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Site Atlas I - Harappa and Mohenjo-daro — [CORE PRELIMS + CORE MAINS]: Its secure significance is collective engineering; ritual bathing is plausible, not proven.",
+      "mechanism": "Mound F contained craft-related structures and circular platforms where husked barley and straw support a grain-processing interpretation.",
+      "consequence": "Its secure significance is collective engineering; ritual bathing is plausible, not proven.",
+      "trap": "Its secure significance is collective engineering; ritual bathing is plausible, not proven.",
+      "answer": "FACT: Harappa's mounds cover an extensive area and include a mature cemetery south of the citadel."
+    },
+    {
+      "title": "SITE ATLAS II - DHOLAVIRA AND RAKHIGARHI — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Site Atlas II - Dholavira and Rakhigarhi — [CORE PRELIMS + CORE MAINS]: It demonstrates civic display of writing but does not reveal the city's name until the script is deciphered.",
+      "mechanism": "Dams diverted water into reservoirs; stone masonry and a multi-part plan distinguish it from the simple two-part city model.",
+      "consequence": "FACT: The Dholavira signboard used large gypsum symbols once inlaid in wood.",
+      "trap": "It demonstrates civic display of writing but does not reveal the city's name until the script is deciphered.",
+      "answer": "FACT: Dholavira stood on Khadir island between the seasonal Manhar and Mansar streams."
+    },
+    {
+      "title": "SITE ATLAS III - KALIBANGAN, LOTHAL AND BANAWALI — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Site Atlas III - Kalibangan, Lothal and Banawali — [CORE PRELIMS + CORE MAINS]: This is regional variation, not urban failure.",
+      "mechanism": "This is regional variation, not urban failure.",
+      "consequence": "FACT: Lothal's basin had a sluice and spill channel in the excavator's dockyard interpretation.",
+      "trap": "This is regional variation, not urban failure.",
+      "answer": "FACT: Kalibangan's lower town lacked the Mohenjo-daro type street drains; household wastewater could empty into jars or troughs outside."
+    },
+    {
+      "title": "SITE ATLAS IV - SURKOTADA, CHANHUDARO AND OTHER STRATEGIC SITES — [SUPPORTING]",
+      "terms": "Site Atlas IV - Surkotada, Chanhudaro and Other Strategic Sites — [SUPPORTING]: The humped bull and cattle economy are much more characteristic.",
+      "mechanism": "The humped bull and cattle economy are much more characteristic.",
+      "consequence": "INFERENCE: Chanhudaro proves that major craft production could occur in a town without the monumental form of Mohenjo-daro.",
+      "trap": "FACT: Horse remains are rare and disputed; the mature civilization was not horse-centred.",
+      "answer": "FACT: Horse remains are rare and disputed; the mature civilization was not horse-centred."
+    },
+    {
+      "title": "TOWN PLANNING, ARCHITECTURE AND BUILT STANDARDS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Town Planning, Architecture and Built Standards — [CORE PRELIMS + CORE MAINS]: TRAP: Planned layout means every city followed one blueprint. || Dholavira, Kalibangan, Lothal and smaller settlements show distinct plans.",
+      "mechanism": "Houses usually opened into side lanes and were arranged around courtyards.",
+      "consequence": "INFERENCE: Modularity implies shared training, norms and coordination, but not necessarily direct bureaucratic control of every mason.",
+      "trap": "FACT: Streets often followed planned alignments, but even Mohenjo-daro did not have a perfect universal grid.",
+      "answer": "FACT: Streets often followed planned alignments, but even Mohenjo-daro did not have a perfect universal grid."
+    },
+    {
+      "title": "WATER, SANITATION, DRAINAGE AND COLLECTIVE MAINTENANCE — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Water, Sanitation, Drainage and Collective Maintenance — [CORE PRELIMS + CORE MAINS]: INFERENCE: Infrastructure required repeated maintenance by workers whose social position is archaeologically under-visible.",
+      "mechanism": "INFERENCE: Infrastructure required repeated maintenance by workers whose social position is archaeologically under-visible.",
+      "consequence": "RECALL: Sewage channels and rainwater collection were not necessarily the same system.",
+      "trap": "RECALL: Sewage channels and rainwater collection were not necessarily the same system.",
+      "answer": "FACT: Harappan water systems included wells, reservoirs, cisterns, bathing platforms, toilets, soak-pits, covered street drains, rainwater drains and controlled outlets."
+    },
+    {
+      "title": "PUBLIC STRUCTURES, CRAFT ZONES AND THE PROBLEM OF FUNCTIONAL LABELS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Public Structures, Craft Zones and the Problem of Functional Labels — [CORE PRELIMS + CORE MAINS]: TRAP: A large building is automatically a palace, temple or state warehouse. || Function requires converging contextual evidence.",
+      "mechanism": "TRAP: A large building is automatically a palace, temple or state warehouse. || Function requires converging contextual evidence.",
+      "consequence": "INFERENCE: Public buildings reveal labour mobilisation, but the responsible institution could have been rulers, councils, merchants, ritual specialists or combined authorities.",
+      "trap": "TRAP: A large building is automatically a palace, temple or state warehouse. || Function requires converging contextual evidence.",
+      "answer": "FACT: Craft areas are better identified when raw material, waste, tools, unfinished pieces and furnaces occur together."
+    },
+    {
+      "title": "AGRICULTURE, CROPS, SEASONS AND FOOD SURPLUS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Agriculture, Crops, Seasons and Food Surplus — [CORE PRELIMS + CORE MAINS]: RECALL: Shortughai has canal evidence; Allahdino irrigation from wells is suggested but not conclusive.",
+      "mechanism": "INFERENCE: Surplus did not arise from one irrigation bureaucracy; flood recession, rainfall, wells, bunds and limited canals varied by region.",
+      "consequence": "INFERENCE: Surplus did not arise from one irrigation bureaucracy; flood recession, rainfall, wells, bunds and limited canals varied by region.",
+      "trap": "INFERENCE: Surplus did not arise from one irrigation bureaucracy; flood recession, rainfall, wells, bunds and limited canals varied by region.",
+      "answer": "FACT: Agriculture was the mainstay, but crop packages varied regionally."
+    },
+    {
+      "title": "PASTORALISM, MEAT, DAIRY, FISHING AND ENVIRONMENTAL RESOURCE USE — [SUPPORTING]",
+      "terms": "Pastoralism, Meat, Dairy, Fishing and Environmental Resource Use — [SUPPORTING]: FACT: The horse is rare, debated and not characteristic.",
+      "mechanism": "Hunting, fishing, shellfish collection and coastal resources supplemented farming.",
+      "consequence": "FACT: The horse is rare, debated and not characteristic.",
+      "trap": "FACT: The horse is rare, debated and not characteristic.",
+      "answer": "FACT: Cattle and buffalo were central; sheep, goats, pigs, dogs and cats also occur."
+    },
+    {
+      "title": "CRAFT PRODUCTION, METALLURGY AND TECHNICAL SKILL — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Craft Production, Metallurgy and Technical Skill — [CORE PRELIMS + CORE MAINS]: This is not technological ignorance.",
+      "mechanism": "FACT: The bronze \"Dancing Girl\" was made by lost-wax casting.",
+      "consequence": "FACT: The bronze \"Dancing Girl\" was made by lost-wax casting.",
+      "trap": "This is not technological ignorance.",
+      "answer": "FACT: Pure copper objects were more numerous than bronze objects; alloys were selected especially where harder edges were useful."
+    },
+    {
+      "title": "ART AND MATERIAL CULTURE - SCULPTURE, POTTERY, TERRACOTTAS AND TOYS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Art and Material Culture - Sculpture, Pottery, Terracottas and Toys — [CORE PRELIMS + CORE MAINS]: TRAP: A modern museum nickname is an ancient identity. || Use the nickname for recall but state its interpretive status.",
+      "mechanism": "INFERENCE: Differences in materials, skill and distribution may reflect audience, function and access, not a simple high-art/low-art hierarchy.",
+      "consequence": "RECALL: The 2025 Prelims question asks the material of the Dancing Girl: bronze.",
+      "trap": "INFERENCE: Differences in materials, skill and distribution may reflect audience, function and access, not a simple high-art/low-art hierarchy.",
+      "answer": "FACT: Seals are among the finest artistic products, but terracottas range from carefully modelled to quickly made objects for everyday or short-term use."
+    },
+    {
+      "title": "WEIGHTS, MEASURES, GEOMETRY AND EVIDENCE OF SCIENTIFIC KNOWLEDGE — [CORE PRELIMS + CORE MAINS]",
+      "terms": "RECALL: No coinage is known; weights facilitated commodity exchange.",
+      "mechanism": "INFERENCE: Standardization could arise through state regulation, merchant coordination, hereditary specialists, exchange networks or combinations of these.",
+      "consequence": "FACT: The 2026 Prelims PYQ correctly treats weights and graduated scales as evidence of scientific knowledge, while rejecting a property-system inference from house form.",
+      "trap": "TRAP: \"Multiple of 16\" alone describes the whole weight system. || Smaller and larger series show binary and decimal patterning.",
+      "answer": "FACT: Cubical weights occur across excavated sites with remarkable accuracy."
+    },
+    {
+      "title": "SEALS, SEALINGS AND THE UNDECIPHERED SCRIPT — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Seals, Sealings and the Undeciphered Script — [CORE PRELIMS + CORE MAINS]: TRAP: A proposed Dravidian, Sanskrit or non-linguistic reading is settled. || Competing proposals exist; no decipherment is accepted.",
+      "mechanism": "Most inscriptions are short, averaging about five signs; the longest has 26 signs.",
+      "consequence": "FACT: Dholavira's large signboard indicates public/civic writing.",
+      "trap": "INFERENCE: A common script supports cultural integration, not necessarily one language or one state.",
+      "answer": "FACT: More than 6,000 inscribed objects are known in Upinder Singh's synthesis."
+    },
+    {
+      "title": "INTERNAL EXCHANGE, RAW MATERIALS AND TRANSPORT — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Internal Exchange, Raw Materials and Transport — [CORE PRELIMS + CORE MAINS]: FACT: Randall Law compared archaeological artefacts with geological samples using mineralogical and chemical methods, showing that many resources came from within or near the wider Harappan zone.",
+      "mechanism": "FACT: Two-wheeled carts with solid wheels, pack animals, river boats and seagoing craft are supported by models, tracks and depictions.",
+      "consequence": "INFERENCE: Internal exchange was more structurally important than the visually attractive but limited Mesopotamian trade.",
+      "trap": "TRAP: A non-local bead proves conquest or colony. || It proves movement; the mechanism may be trade, gifting, mobility or down-the-line exchange.",
+      "answer": "FACT: Two-wheeled carts with solid wheels, pack animals, river boats and seagoing craft are supported by models, tracks and depictions."
+    },
+    {
+      "title": "LONG-DISTANCE TRADE, MELUHHA AND THE MESOPOTAMIAN LINK — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Dilmun is generally identified with Bahrain; Magan with Oman/Makran; Meluhha probably included the Indus region but its exact scope is debated.",
+      "mechanism": "Dilmun is generally identified with Bahrain; Magan with Oman/Makran; Meluhha probably included the Indus region but its exact scope is debated.",
+      "consequence": "FACT: Possible exports include carnelian beads, textiles, shell and ivory; possible imports include selected metals and luxury materials.",
+      "trap": "INFERENCE: The evidence supports contact but not dependence.",
+      "answer": "FACT: Mesopotamian texts refer to Dilmun, Magan and Meluhha."
+    },
+    {
+      "title": "SOCIAL ORGANISATION, WEALTH AND OCCUPATIONAL DIVERSITY — [CORE MAINS]",
+      "terms": "Social Organisation, Wealth and Occupational Diversity — [CORE MAINS]: FACT: Likely occupational groups included farmers, herders, fishers, craftspeople, merchants, sailors, builders, well diggers, administrators, ritual specialists and sanitation workers.",
+      "mechanism": "MAINS ANGLE: Argue from converging evidence and finish with the limit imposed by the undeciphered script.",
+      "consequence": "INFERENCE: Rank and class differences probably existed, but claims of a Harappan caste system are highly speculative.",
+      "trap": "TRAP: Courtyard houses imply common property. || The 2026 PYQ makes this an explicitly invalid inference.",
+      "answer": "FACT: House size, location, craft access, ornaments, hoards, diet and burials indicate differentiation, but there are no royal tombs or lavish elite burials comparable to Egypt and Mesopotamia."
+    },
+    {
+      "title": "POLITY DEBATE - EMPIRE, CITY-STATES, COUNCILS OR CORPORATE ELITES — [CORE MAINS]",
+      "terms": "Polity Debate - Empire, City-States, Councils or Corporate Elites — [CORE MAINS]: INFERENCE: The most defensible position is organized authority with uncertain scale, personnel and coercive structure.",
+      "mechanism": "TRAP: No palace means no state. || Early states can express authority through infrastructure, standards and networks rather than royal monuments.",
+      "consequence": "INFERENCE: The most defensible position is organized authority with uncertain scale, personnel and coercive structure.",
+      "trap": "TRAP: No palace means no state. || Early states can express authority through infrastructure, standards and networks rather than royal monuments.",
+      "answer": "FACT: Fortifications, labour mobilisation, Shortughai, standardization and maintenance of urban facilities make some form of state structure plausible."
+    },
+    {
+      "title": "RELIGION AND RITUAL - INTERPRETATION WITHOUT BACK-PROJECTION — [CORE MAINS]",
+      "terms": "Religion and Ritual - Interpretation without Back-Projection — [CORE MAINS]: FACT: Female figurines are abundant at some sites and rare at others, demonstrating regional or functional variation.",
+      "mechanism": "FACT: Female figurines are abundant at some sites and rare at others, demonstrating regional or functional variation.",
+      "consequence": "INFERENCE: Harappan ritual was plural, household and civic; a single standardized creed cannot be reconstructed.",
+      "trap": "INFERENCE: Harappan ritual was plural, household and civic; a single standardized creed cannot be reconstructed.",
+      "answer": "FACT: No structure has been conclusively identified as a monumental temple."
+    },
+    {
+      "title": "GENDER, BURIALS, HEALTH AND THE LIMITS OF SOCIAL RECONSTRUCTION — [SUPPORTING]",
+      "terms": "Gender, Burials, Health and the Limits of Social Reconstruction — [SUPPORTING]: TRAP: Goddess worship means matriarchy. || Divine femininity and ordinary women's authority are separate questions.",
+      "mechanism": "INFERENCE: Gendered labour may be suggested by food-processing figurines or textile contexts, but exact gender roles cannot be mechanically assigned.",
+      "consequence": "Later research abandoned crude racial typologies for population, diet and disease questions.",
+      "trap": "INFERENCE: Gendered labour may be suggested by food-processing figurines or textile contexts, but exact gender roles cannot be mechanically assigned.",
+      "answer": "FACT: Extended inhumation, fractional burial, urn burial suggestive of cremation, symbolic graves and multiple burials occur in different proportions across sites."
+    },
+    {
+      "title": "DECLINE AND DEURBANISATION - A MULTI-CAUSAL, REGIONAL PROCESS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Decline and Deurbanisation - A Multi-Causal, Regional Process — [CORE PRELIMS + CORE MAINS]: Mohenjo-daro and Dholavira show gradual deterioration, while urban life ended more abruptly at Kalibangan and Banawali.",
+      "mechanism": "FACT: The mature phase was followed by Late Harappan cultures; people and practices did not vanish.",
+      "consequence": "FACT: The mature phase was followed by Late Harappan cultures; people and practices did not vanish.",
+      "trap": "FACT: The mature phase was followed by Late Harappan cultures; people and practices did not vanish.",
+      "answer": "FACT: Urban decline varied in timing and pace."
+    },
+    {
+      "title": "LATE HARAPPAN CONTINUITY, TRANSFORMATION AND SUCCESSOR CULTURES — [CORE PRELIMS + CORE MAINS]",
+      "terms": "RECALL: Continuity is selective: pottery, crops, craft and population can continue even when cities, script and standardized institutions weaken.",
+      "mechanism": "Overlap shows contact and sequence, not ethnic identity.",
+      "consequence": "FACT: Jhukar in Sindh, Cemetery H in Punjab, Rangpur/Rojdi in Gujarat and eastern settlements represent regional trajectories.",
+      "trap": "Overlap shows contact and sequence, not ethnic identity.",
+      "answer": "FACT: Late Harappan levels overlap with Painted Grey Ware at some Punjab-Haryana sites and with Ochre Coloured Pottery in western Uttar Pradesh."
+    },
+    {
+      "title": "RELATIONS WITH NEOLITHIC-CHALCOLITHIC AND VEDIC WORLDS — [CORE MAINS]",
+      "terms": "Horse-centred Vedic symbolism also contrasts with the marginal Harappan horse.",
+      "mechanism": "Horse-centred Vedic symbolism also contrasts with the marginal Harappan horse.",
+      "consequence": "Horse-centred Vedic symbolism also contrasts with the marginal Harappan horse.",
+      "trap": "FACT: Mature cities, script, seals and baked-brick urban systems are not characteristic of the Rig Veda.",
+      "answer": "FACT: Mature cities, script, seals and baked-brick urban systems are not characteristic of the Rig Veda."
+    },
+    {
+      "title": "CURRENT-RESEARCH GUARDRAIL — [SUPPORTING]",
+      "terms": "Current-Research Guardrail — [SUPPORTING]: No current-affairs item is required for this static topic.",
+      "mechanism": "A new excavation, river study, genome result or conservation report may refine a bounded site-level claim only after a primary publication or official report is checked.",
+      "consequence": "A new excavation, river study, genome result or conservation report may refine a bounded site-level claim only after a primary publication or official report is checked.",
+      "trap": "It must not be used to declare script decipherment, a known polity or one final decline cause.",
+      "answer": "No current-affairs item is required for this static topic."
+    },
+    {
+      "title": "UPSC TRAPS, TERMINOLOGY AND ANSWER-BUILDING RULES — [SUPPORTING]",
+      "terms": "UPSC Traps, Terminology and Answer-Building Rules — [SUPPORTING]: MAINS ANGLE: The qualification should sharpen the answer, not dissolve it into \"nothing is known.\"",
+      "mechanism": "MAINS ANGLE: The qualification should sharpen the answer, not dissolve it into \"nothing is known.\"",
+      "consequence": "MAINS ANGLE: The qualification should sharpen the answer, not dissolve it into \"nothing is known.\"",
+      "trap": "MAINS ANGLE: The qualification should sharpen the answer, not dissolve it into \"nothing is known.\"",
+      "answer": "RECALL: Evidence density: normally 2-3 named examples for 10 marks, 4-6 for 15, and 5-8 for 20."
+    },
+    {
+      "title": "AUDITED CORE APPLICATION LABS",
+      "terms": "Audited Core Application Labs: These six labs retain the causal teaching needed for Prelims elimination and Mains answers while avoiding duplicate site tours and live-news decoration.",
+      "mechanism": "These six labs retain the causal teaching needed for Prelims elimination and Mains answers while avoiding duplicate site tours and live-news decoration.",
+      "consequence": "These six labs retain the causal teaching needed for Prelims elimination and Mains answers while avoiding duplicate site tours and live-news decoration.",
+      "trap": "These six labs retain the causal teaching needed for Prelims elimination and Mains answers while avoiding duplicate site tours and live-news decoration.",
+      "answer": "These six labs retain the causal teaching needed for Prelims elimination and Mains answers while avoiding duplicate site tours and live-news decoration."
+    },
+    {
+      "title": "CORE LAB 1: PHASE -> PROCESS -> REGIONAL CHANGE — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Core Lab 1: Phase - Process - Regional Change — [CORE PRELIMS + CORE MAINS]: It is not sudden appearance then extinction.",
+      "mechanism": "Use Early, Mature and Late Harappan as a process sequence: regional foundations - integrated urban traits - de-urbanisation and localisation.",
+      "consequence": "Mature urbanism is the core factual phase; Late Harappan continuity prevents a one-line collapse story.",
+      "trap": "It is not sudden appearance then extinction.",
+      "answer": "Use Early, Mature and Late Harappan as a process sequence: regional foundations - integrated urban traits - de-urbanisation and localisation."
+    },
+    {
+      "title": "CORE LAB 2: SITE-FEATURE TRIADS, NOT A SITE CATALOGUE — [CORE PRELIMS]",
+      "terms": "Core Lab 2: Site-Feature Triads, Not a Site Catalogue — [CORE PRELIMS]: A modern archaeological label is not a Harappan self-description.",
+      "mechanism": "A feature gains marks only with its site and interpretive caution.",
+      "consequence": "A modern archaeological label is not a Harappan self-description.",
+      "trap": "A feature gains marks only with its site and interpretive caution.",
+      "answer": "Memorise only high-yield triads: Mohenjo-daro--Great Bath/Dancing Girl; Dholavira--reservoirs/signboard/tripartite plan; Lothal--beads and basin conventionally called dockyard; Kalibangan--ploughed field; Harappa--Ravi/first excavated; Rakhigarhi--major Haryana settlement; Chanhudaro--craft."
+    },
+    {
+      "title": "CORE LAB 3: URBAN WATER AND BUILT FORM — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Core Lab 3: Urban Water and Built Form — [CORE PRELIMS + CORE MAINS]: A modern archaeological label is not a Harappan self-description.",
+      "mechanism": "Dholavira corrects any universal two-part city model through its distinctive tripartite plan and water structures.",
+      "consequence": "Dholavira corrects any universal two-part city model through its distinctive tripartite plan and water structures.",
+      "trap": "They do not securely identify kings, a palace, a granary or one central state.",
+      "answer": "Grid streets, standard bricks, wells, bathing floors and covered drains securely show planned civic construction and water management."
+    },
+    {
+      "title": "CORE LAB 4: PRODUCTION, MEASUREMENT AND EXCHANGE — [CORE MAINS]",
+      "terms": "Core Lab 4: Production, Measurement and Exchange — [CORE MAINS]: No coinage is known; weights and commodities do not tell us the title of a ruler.",
+      "mechanism": "The argument should be: evidence of coordination - craft/exchange implication - limit on exact political control.",
+      "consequence": "The argument should be: evidence of coordination - craft/exchange implication - limit on exact political control.",
+      "trap": "No coinage is known; weights and commodities do not tell us the title of a ruler.",
+      "answer": "Agriculture, specialised craft, standard weights, seals, raw-material movement and Mesopotamian references to Meluhha support a networked urban economy."
+    },
+    {
+      "title": "CORE LAB 5: SCRIPT, RITUAL AND AUTHORITY — [CORE MAINS]",
+      "terms": "A modern archaeological label is not a Harappan self-description.",
+      "mechanism": "Use 'horned figure', 'female figurines' and 'structure conventionally called...' before advancing a cautious interpretation.",
+      "consequence": "A modern archaeological label is not a Harappan self-description.",
+      "trap": "Seals, figurines, fire installations, burials and monumental-looking buildings can reveal material practice and repeated symbols; they cannot securely disclose doctrine, named gods, caste or a monarchy.",
+      "answer": "Seals, figurines, fire installations, burials and monumental-looking buildings can reveal material practice and repeated symbols; they cannot securely disclose doctrine, named gods, caste or a monarchy."
+    },
+    {
+      "title": "CORE LAB 6: DECLINE AS TRANSFORMATION — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Core Lab 6: Decline as Transformation — [CORE PRELIMS + CORE MAINS]: A modern archaeological label is not a Harappan self-description.",
+      "mechanism": "River/environmental change, trade disruption and internal reorganisation are contributory explanations, not a settled single cause.",
+      "consequence": "Late Harappan rural communities and diversified agriculture make the safest term de-urbanisation with continuity, not annihilation.",
+      "trap": "River/environmental change, trade disruption and internal reorganisation are contributory explanations, not a settled single cause.",
+      "answer": "1900 BCE urban features declined unevenly."
+    },
+    {
+      "title": "DEEP TEACHING UNIT 1: FROM REGIONAL CULTURES TO URBAN INTEGRATION — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Deep Teaching Unit 1: From Regional Cultures to Urban Integration — [CORE PRELIMS + CORE MAINS]: A city is not created by one large building.",
+      "mechanism": "A city is not created by one large building.",
+      "consequence": "The Early Harappan phase shows several regional communities developing some of these capacities.",
+      "trap": "A city is not created by one large building.",
+      "answer": "A city is not created by one large building."
+    },
+    {
+      "title": "DEEP TEACHING UNIT 2: EXTENT, ECOLOGY AND THE URBAN-RURAL SYSTEM — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Deep Teaching Unit 2: Extent, Ecology and the Urban-Rural System — [CORE PRELIMS + CORE MAINS]: “Indus Valley” is too narrow if it makes the civilization look like a single river-bank city.",
+      "mechanism": "Cities therefore depended on villages, pastoral areas and resource routes; they were not self-sufficient islands.",
+      "consequence": "Cities therefore depended on villages, pastoral areas and resource routes; they were not self-sufficient islands.",
+      "trap": "Cities therefore depended on villages, pastoral areas and resource routes; they were not self-sufficient islands.",
+      "answer": "“Indus Valley” is too narrow if it makes the civilization look like a single river-bank city."
+    },
+    {
+      "title": "DEEP TEACHING UNIT 3: PLANNING, WATER AND EVERYDAY MAINTENANCE — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Deep Teaching Unit 3: Planning, Water and Everyday Maintenance — [CORE PRELIMS + CORE MAINS]: Town planning means more than a grid seen from above.",
+      "mechanism": "Houses had wells, bathing areas and drains; street drains had to be laid out, cleaned and repaired.",
+      "consequence": "The contrast prevents the memorised rule “every Harappan town had a western citadel and eastern lower town” from becoming a false universal.",
+      "trap": "They do not reveal whether a monarch, council, merchant group or several local authorities organised it.",
+      "answer": "Town planning means more than a grid seen from above."
+    },
+    {
+      "title": "DEEP TEACHING UNIT 4: THE ECONOMY AS A LINKED SYSTEM — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Deep Teaching Unit 4: The Economy as a Linked System — [CORE PRELIMS + CORE MAINS]: A bead is not just an ornament for a list.",
+      "mechanism": "Standard weights prove exchange and shared norms; they do not by themselves prove taxation by a named central monarch.",
+      "consequence": "Each element makes more sense when connected to the next.",
+      "trap": "Do not learn crops, beads, weights and trade as disconnected lists.",
+      "answer": "Do not learn crops, beads, weights and trade as disconnected lists."
+    },
+    {
+      "title": "DEEP TEACHING UNIT 5: EVIDENCE LADDER FOR SCRIPT, POLITY, SOCIETY AND RELIGION — [CORE MAINS]",
+      "terms": "Deep Teaching Unit 5: Evidence Ladder for Script, Polity, Society and Religion — [CORE MAINS]: Archaeology does not mean “we know nothing”; it means that the strength of a claim changes with the evidence.",
+      "mechanism": "Because the script is undeciphered, they cannot securely name a king, identify a god, translate a law or establish caste.",
+      "consequence": "Standardisation therefore permits several models--central state, city-states or corporate elites.",
+      "trap": "Archaeology does not mean “we know nothing”; it means that the strength of a claim changes with the evidence.",
+      "answer": "Archaeology does not mean “we know nothing”; it means that the strength of a claim changes with the evidence."
+    },
+    {
+      "title": "DEEP TEACHING UNIT 6: DE-URBANISATION AS CAUSAL SEQUENCE AND CONTINUITY — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Deep Teaching Unit 6: De-urbanisation as Causal Sequence and Continuity — [CORE PRELIMS + CORE MAINS]: It is not a licence to choose one dramatic event.",
+      "mechanism": "River shifts, local water stress, ecological change, changing external exchange and internal reorganisation are possible contributors whose weight differs by region and site.",
+      "consequence": "River shifts, local water stress, ecological change, changing external exchange and internal reorganisation are possible contributors whose weight differs by region and site.",
+      "trap": "It is not a licence to choose one dramatic event.",
+      "answer": "“Decline” asks why a particular city-centred system lost some urban features."
+    },
+    {
+      "title": "DEEP TEACHING UNIT 7: SITE MEMORY METHOD AND THE FIVE-SENTENCE ANSWER — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Deep Teaching Unit 7: Site Memory Method and the Five-Sentence Answer — [CORE PRELIMS + CORE MAINS]: Memory improves when a site is stored as a triad rather than as an isolated name.",
+      "mechanism": "Eliminate by geography and feature: a Rajasthan farming association points toward Kalibangan, a Kutch water/signboard pair toward Dholavira, and a Sindh water monument toward Mohenjo-daro.",
+      "consequence": "Exam link: five-sentence answer. (1) Define the issue. (2) Make one claim. (3) attach a named site/material example. (4) add the evidence limit or regional contrast. (5) give a balanced verdict.",
+      "trap": "Memory improves when a site is stored as a triad rather than as an isolated name.",
+      "answer": "Memory improves when a site is stored as a triad rather than as an isolated name."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 3,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7760,
+      "y_end": 9960,
+      "overlap_px": 260,
+      "from_stage": 9,
+      "continues_stage": 12
+    },
+    {
+      "page": 6,
+      "y_start": 9700,
+      "y_end": 11900,
+      "overlap_px": 260,
+      "from_stage": 11,
+      "continues_stage": 14
+    },
+    {
+      "page": 7,
+      "y_start": 11640,
+      "y_end": 13840,
+      "overlap_px": 260,
+      "from_stage": 13,
+      "continues_stage": 16
+    },
+    {
+      "page": 8,
+      "y_start": 13580,
+      "y_end": 15780,
+      "overlap_px": 260,
+      "from_stage": 16,
+      "continues_stage": 18
+    },
+    {
+      "page": 9,
+      "y_start": 15520,
+      "y_end": 17720,
+      "overlap_px": 260,
+      "from_stage": 18,
+      "continues_stage": 20
+    },
+    {
+      "page": 10,
+      "y_start": 17460,
+      "y_end": 19660,
+      "overlap_px": 260,
+      "from_stage": 20,
+      "continues_stage": 22
+    },
+    {
+      "page": 11,
+      "y_start": 19400,
+      "y_end": 21600,
+      "overlap_px": 260,
+      "from_stage": 22,
+      "continues_stage": 25
+    },
+    {
+      "page": 12,
+      "y_start": 21340,
+      "y_end": 23540,
+      "overlap_px": 260,
+      "from_stage": 24,
+      "continues_stage": 27
+    },
+    {
+      "page": 13,
+      "y_start": 23280,
+      "y_end": 25480,
+      "overlap_px": 260,
+      "from_stage": 27,
+      "continues_stage": 29
+    },
+    {
+      "page": 14,
+      "y_start": 25220,
+      "y_end": 27420,
+      "overlap_px": 260,
+      "from_stage": 29,
+      "continues_stage": 31
+    },
+    {
+      "page": 15,
+      "y_start": 27160,
+      "y_end": 29360,
+      "overlap_px": 260,
+      "from_stage": 31,
+      "continues_stage": 33
+    },
+    {
+      "page": 16,
+      "y_start": 29100,
+      "y_end": 31300,
+      "overlap_px": 260,
+      "from_stage": 33,
+      "continues_stage": 36
+    },
+    {
+      "page": 17,
+      "y_start": 31040,
+      "y_end": 33240,
+      "overlap_px": 260,
+      "from_stage": 35,
+      "continues_stage": 38
+    },
+    {
+      "page": 18,
+      "y_start": 32980,
+      "y_end": 35180,
+      "overlap_px": 260,
+      "from_stage": 38,
+      "continues_stage": 40
+    },
+    {
+      "page": 19,
+      "y_start": 34920,
+      "y_end": 37120,
+      "overlap_px": 260,
+      "from_stage": 40,
+      "continues_stage": 42
+    },
+    {
+      "page": 20,
+      "y_start": 36860,
+      "y_end": 39060,
+      "overlap_px": 260,
+      "from_stage": 42,
+      "continues_stage": 44
+    },
+    {
+      "page": 21,
+      "y_start": 37876,
+      "y_end": 40076,
+      "overlap_px": 260,
+      "from_stage": 43,
+      "continues_stage": 45
+    }
+  ]
+}

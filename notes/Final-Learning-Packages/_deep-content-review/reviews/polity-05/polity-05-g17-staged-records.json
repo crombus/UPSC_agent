@@ -1,0 +1,131 @@
+{
+  "selection": "polity-05-g17-final-review",
+  "records": [
+    {
+      "record_id": "polity-05:learner-v2:g17",
+      "topic_key": "polity-05",
+      "variant": "learner-v2",
+      "generation": 17,
+      "supersedes": "polity-05:learner-v2:g16",
+      "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Union and Territory — deep-content repair revalidation",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.pdf",
+      "workbook": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Solved-Practice-Workbook_2026-08-28.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Solved-Practice-Workbook_2026-08-28.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\assets",
+      "generated_on": "2026-08-28",
+      "approved": false,
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-and-Territory.md",
+        "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\05_Union-and-Territory_Complete-Topic-Package.md",
+        "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\05_Union-and-Territory.md",
+        "cross_topic_sources": [
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-Territories.md",
+          "upsc-ai-kit\\knowledge\\Polity\\advanced\\25_Union-Territories.md",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions.md"
+        ],
+        "pyq_indexes": [
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md"
+        ],
+        "official_question_sources": [
+          "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf",
+          "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf"
+        ],
+        "local_ocr_sources": [
+          "books\\Indian Polity by M Laxmikant.pdf",
+          "books\\Courseware on Indian Polity by M Laxmikanth.pdf"
+        ],
+        "live_sources": [
+          "https://legislative.gov.in/constitution-of-india",
+          "https://api.sci.gov.in/supremecourt/2019/29796/29796_2019_1_1501_49019_Judgement_11-Dec-2023.pdf",
+          "https://www.mha.gov.in/en/divisionofmha/jammu-kashmir-and-ladakh-affairs",
+          "https://pib.gov.in/PressReleasePage.aspx?PRID=2170941",
+          "https://pib.gov.in/PressReleasePage.aspx?PRID=2240077",
+          "https://www.mea.gov.in/outoging-visit-detail.htm?26048/Exchange+of+enclaves+between+India+and+Bangladesh"
+        ],
+        "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md",
+        "renderer": {
+          "name": "tools/markdown_learning_pdf.py",
+          "version": "2.1"
+        },
+        "generation_date": "2026-08-28",
+        "superseded_v1": "polity-05:learner-v2:g16",
+        "source_hashes": {
+          "books\\Courseware on Indian Polity by M Laxmikanth.pdf": "f487c68bd4c874d53f34bf57033f648505f4079bb866cfa79f3c8b52bf7dc4a5",
+          "books\\Indian Polity by M Laxmikant.pdf": "a5d04a6fa7b831e868d3524b25b772679206f9362d7c5b7521488fac879c79ff",
+          "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf": "524ebaa954062e0fe173ed432d37ffd3bf2bad9359756eb68bf3bb0ca56cd5d1",
+          "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf": "d009c1f8703abbf92d5b2a00781a93278fbf5b95097bf19306f5f4f1cdc6cf90",
+          "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-05\\g17-source\\polity-05_g17-reviewed-source.md": "ca66ad4f0af683b9f0a864a7c9e673e4a1eb5064b6b1a7fbe98b025b6a7aa74f",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+          "upsc-ai-kit\\knowledge\\Polity\\05_Union-and-Territory_Complete-Topic-Package.md": "f88b8de1167e219f175ae07dc2996e63eb0ffc965523450c00aed632aa39a970",
+          "upsc-ai-kit\\knowledge\\Polity\\advanced\\05_Union-and-Territory.md": "3005f985ce578dfa7bf392c846c6fb7291cbf7c5a3e7122860772a0920a0686c",
+          "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md": "c08bfa6257e930f3afdb49ee3e7fb583708258f3aa033e50230eac10f8b5f62a",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-and-Territory.md": "06836a442363f78912fa50654718360c4c115abefa806c58ea7904f7000f9e2b",
+          "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-05_Learning-Session.md": "ca66ad4f0af683b9f0a864a7c9e673e4a1eb5064b6b1a7fbe98b025b6a7aa74f",
+          "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "fecfb9e4a78671056ff154eb37c92412a47f77baaffa362f6cbe0c9b610fee50",
+          "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-23.json": "8f92a7e19701790767821e96c0b0cc06baaf29339305059f8f0e1123162e8de5",
+          "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-05.json": "241ec9d6ee524678dffc207abcf5813bf04a0baa963ecfcb35249f0402d5996d",
+          "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json": "8a4fc59b10a4d625823256cea9be07e715d553a7a919802cc2fe4c65f59274e4"
+        },
+        "session_contract": "named-session definition/opening/keywords/use/closure",
+        "mcq_keys": "strict A-B-C-D rotation",
+        "practice_profile": "3 verified relevant PYQs; 40 core MCQs plus 8 remedials; six original solved Mains questions across 10, 15 and 20 marks; all nine solved items carry answer-specific improvement guidance.",
+        "current_linkage_note": "Official Constitution, Supreme Court judgment, MHA/Gazette and PIB status controls checked through 28 August 2026; 28 States and 8 UTs remain operative, J&K Statehood has not been restored, and Ladakh demands remain under dialogue rather than enacted law.",
+        "pyq_status_note": "2025 Prelims Q52 uses the local official paper/key; 2018 GS-I Q12 and 2022 GS-I Q11 use exact verified wording, marks and word limits.",
+        "new_visual_count": 1,
+        "new_flowchart_page_count": 4,
+        "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+        "tracker_updated": false,
+        "tracker_sha256": "6c14579603dbb74b7efd5c413af159cfc210f045ee2e674c6035476c7d6dd21d"
+      },
+      "approval": {
+        "approved": false,
+        "approved_on": null,
+        "scope": "polity-05:learner-v2:g17"
+      },
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-08-28",
+        "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+      },
+      "continuous_core_first": {
+        "folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-05\\carvaka-g17",
+        "master_image": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-05\\carvaka-g17\\master.png",
+        "poster_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-05\\carvaka-g17\\poster.pdf",
+        "tiled_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-05\\carvaka-g17\\tiled.pdf",
+        "editable": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-05\\carvaka-g17\\editable",
+        "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Graphical-Spec-g17.json",
+        "graphical_spec_sha256": "61beb522bbca60c88d3a325b886849f1d40293586dd44039a325fb087b308d94",
+        "renderer": {
+          "name": "carvaka-continuous-at-a-glance-graphical-v2",
+          "version": "2.0"
+        },
+        "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+        "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "previews": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-05\\carvaka-g17\\previews",
+        "contact_sheets": [
+          "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-05\\carvaka-g17\\previews\\contact-sheet-01.png"
+        ],
+        "master_overview": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-05\\carvaka-g17\\previews\\master-overview.png",
+        "validation_report": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-05\\carvaka-g17\\validation-report.txt",
+        "build_audit": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-05\\carvaka-g17\\build-audit.json",
+        "preservation_hashes": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-05\\carvaka-g17\\preservation-hashes.json",
+        "ascii_master": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-05\\carvaka-g17\\ascii-master.txt",
+        "ascii_master_preserved": true,
+        "core_stage_count": 11,
+        "card_count": 12,
+        "tiled_page_count": 4,
+        "approval": false,
+        "ascii_master_source": "manual-authored-spec",
+        "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-23.json",
+        "ascii_master_spec_sha256": "8f92a7e19701790767821e96c0b0cc06baaf29339305059f8f0e1123162e8de5"
+      },
+      "refresh_profile": "learner-v2-refreshed-new-topic"
+    }
+  ]
+}

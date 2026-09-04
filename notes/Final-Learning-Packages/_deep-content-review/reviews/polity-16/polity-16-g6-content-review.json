@@ -1,0 +1,38 @@
+{
+  "topic_key": "polity-16",
+  "identity": "polity-16:learner-v2:g6",
+  "reviewed_on": "2026-08-28T09:20:00+05:30",
+  "approval": false,
+  "score": {
+    "complete_learning_session": 39,
+    "solved_practice_workbook": 29,
+    "graphical_flowchart": 15,
+    "ascii_master_flowchart": 15,
+    "total": 98
+  },
+  "status": "passed",
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": true,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": true,
+    "current_data_source_dated": true
+  },
+  "issue_counts": {
+    "critical": 0,
+    "high": 0,
+    "medium": 0,
+    "low": 0
+  },
+  "immutable_history": [
+    "g2 baseline retained",
+    "g3 retained: technically valid; generic semantic consequence phrasing",
+    "g4 retained: technically valid; repeated semantic closure",
+    "g5 retained: technically valid; sixteen consequence truncation markers",
+    "g6 selected: all hard gates passed"
+  ],
+  "remaining_uncertainty": "Cabinet Committee composition remains notification-sensitive; the package correctly requires rechecking the latest official document.",
+  "approval_note": "Passed review is revalidation only. Explicit package approval remains false."
+}

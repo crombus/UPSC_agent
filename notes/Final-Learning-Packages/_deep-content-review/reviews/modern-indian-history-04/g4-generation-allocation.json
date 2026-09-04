@@ -1,0 +1,12 @@
+{
+  "topic_key": "modern-indian-history-04",
+  "allocated_at": "2026-09-04T09:15:33.525023+00:00",
+  "baseline_record_id": "modern-indian-history-04:learner-v2:g3",
+  "new_record_id": "modern-indian-history-04:learner-v2:g4",
+  "review_state": "revalidation_pending",
+  "scores": null,
+  "approval": false,
+  "prior_generation_immutable": true,
+  "live_export_identity": "modern-indian-history-04:learner-v2:g3",
+  "live_master_identity": "modern-indian-history-04:learner-v2:g3"
+}

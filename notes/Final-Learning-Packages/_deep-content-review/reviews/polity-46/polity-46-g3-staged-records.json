@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "records": [
+    {
+      "record_id": "polity-46:learner-v2:g3",
+      "topic_key": "polity-46",
+      "variant": "learner-v2",
+      "generation": 3,
+      "supersedes": "polity-46:learner-v2:g2",
+      "command": "Generate learner-v2 topic: Polity \u2014 Subject-wide Syllabus \u2014 Administrative Tribunals \u2014 deep-reviewed immutable g3",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g3\\polity-46_Complete-Learning-Session_2026-08-28.pdf",
+      "workbook": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g3\\polity-46_Solved-Practice-Workbook_2026-08-28.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g3\\polity-46_Complete-Learning-Session_2026-08-28.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g3\\polity-46_Solved-Practice-Workbook_2026-08-28.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g3\\assets",
+      "generated_on": "2026-08-28",
+      "approved": false,
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+        "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+        "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+        "cross_topic_sources": [
+          "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\Supreme-Court.md",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\High-Court-and-Subordinate-Courts.md",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\Public-Services.md"
+        ],
+        "pyq_indexes": [
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md"
+        ],
+        "official_question_sources": [],
+        "local_ocr_sources": [
+          "books\\Indian Polity by M Laxmikant.pdf"
+        ],
+        "live_sources": [
+          "https://legislative.gov.in/constitution-of-india/",
+          "https://www.indiacode.nic.in/handle/123456789/1832",
+          "https://api.sci.gov.in/supremecourt/2021/20410/20410_2021_1_1502_66136_Judgement_19-Nov-2025.pdf",
+          "https://api.sci.gov.in/supremecourt/2020/15037/15037_2020_1_23_69311_Order_09-Mar-2026.pdf",
+          "https://egazette.gov.in/",
+          "https://upsc.gov.in/examinations/previous-question-papers"
+        ],
+        "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g3\\polity-46_Complete-Learning-Session_2026-08-28.md",
+        "renderer": {
+          "name": "tools/markdown_learning_pdf.py",
+          "version": "2.1"
+        },
+        "generation_date": "2026-08-28",
+        "superseded_v1": "polity-46:learner-v2:g2",
+        "source_hashes": {
+          "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-46\\g3-source\\polity-46_g3-reviewed-source.md": "fd5cd745dfab1930e6b05a7918b80ad1b3d6d16584e8baa9eb0aa6fae116ecef",
+          "tools\\deep_content_quality_overrides.json": "94a39630c40bb599e4af2581a911c0dceafd2320fdb33609d6ed8adf62e308b7",
+          "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md": "38fc86ec34ac6912eefcab823165e8b26fea5fd5431d2c7a35499bc16fa39ad4",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md": "fd5cd745dfab1930e6b05a7918b80ad1b3d6d16584e8baa9eb0aa6fae116ecef",
+          "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-46-2026-08-25-sequential.json": "227b8b537d0bb499f65efb2e9d39955d565dd40c6e819ce0ec2f21b71198e9dd",
+          "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-46.json": "e382bb8cf786eb03962b2b98595a577d5962da589c8b060abf5adaead09356ef"
+        },
+        "session_contract": "named-session definition/opening/keywords/use/closure",
+        "mcq_keys": "strict A-B-C-D rotation",
+        "practice_profile": "Exact 2018, 2019, 2024 and 2025 GS-II PYQs; 48 strict-rotation MCQs; 8 original Mains; 12 answer-specific guidance sets.",
+        "current_linkage_note": "Official 2025 INSC 1330 and 9 March 2026 continuity order verified; August 2026 enactment/commencement/operationalisation are kept distinct pending an official searchable commencement instrument.",
+        "pyq_status_note": "Four exact questions solved with exact year, paper, question number, marks and word limit.",
+        "new_visual_count": 1,
+        "new_flowchart_page_count": 4,
+        "flowchart_renderer": "C\u0101rv\u0101ka-style continuous same-master PNG/poster/tiled renderer",
+        "tracker_updated": false,
+        "tracker_sha256": "0a61e3185bedaf185bcde10ba5cb108cc17653367b6d332f7d346a7d9758d49e"
+      },
+      "approval": {
+        "approved": false,
+        "approved_on": null,
+        "scope": "polity-46:learner-v2:g3"
+      },
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-08-28",
+        "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+      },
+      "continuous_core_first": {
+        "folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-46\\carvaka-g3",
+        "master_image": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-46\\carvaka-g3\\master.png",
+        "poster_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-46\\carvaka-g3\\poster.pdf",
+        "tiled_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-46\\carvaka-g3\\tiled.pdf",
+        "editable": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-46\\carvaka-g3\\editable",
+        "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g3\\polity-46_Graphical-Spec-g3.json",
+        "graphical_spec_sha256": "b773b40a6f9231a483e9944057c491756095dc2aa0850f5086e405fd3cf13189",
+        "renderer": {
+          "name": "carvaka-continuous-at-a-glance-graphical-v2",
+          "version": "2.0"
+        },
+        "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+        "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "previews": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-46\\carvaka-g3\\previews",
+        "contact_sheets": [
+          "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-46\\carvaka-g3\\previews\\contact-sheet-01.png"
+        ],
+        "master_overview": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-46\\carvaka-g3\\previews\\master-overview.png",
+        "validation_report": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-46\\carvaka-g3\\validation-report.txt",
+        "build_audit": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-46\\carvaka-g3\\build-audit.json",
+        "preservation_hashes": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-46\\carvaka-g3\\preservation-hashes.json",
+        "ascii_master": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-46\\carvaka-g3\\ascii-master.txt",
+        "ascii_master_preserved": true,
+        "core_stage_count": 9,
+        "card_count": 10,
+        "tiled_page_count": 4,
+        "approval": false,
+        "ascii_master_source": "manual-authored-spec",
+        "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-46-2026-08-25-sequential.json",
+        "ascii_master_spec_sha256": "227b8b537d0bb499f65efb2e9d39955d565dd40c6e819ce0ec2f21b71198e9dd"
+      },
+      "refresh_profile": "learner-v2-refreshed-new-topic"
+    }
+  ]
+}

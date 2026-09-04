@@ -1,0 +1,319 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Sources of Ancient Indian History: central question and analytical axes
+
+```ascii-master
+SOURCES OF ANCIENT INDIAN HISTORY — CONCEPTUAL ATLAS
+
+
+KEY TERMS: Source Criticism • Authenticity • Meaning • Corroboration • provenance •
+KEY TERMS: provenience
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Sources of Ancient Indian History
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       Source criticism separates three questions: Is the object or text…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: SOURCE CRITICISM: AUTHENTICITY, MEANING AND CORROBORATION
+  • Source Criticism
+  • Use the five-test frame - authenticity, context, chronology…
+AXIS 2: NUMISMATICS II: HISTORICAL USES AND INTERPRETATION LIMITS
+  • Numismatics Ii
+  • The Jogalthembi hoard of Nahapana coins counter-struck by…
+AXIS 3: INDIA-CENTRIC SOURCE LABS: HARAPPAN TO GUPTA
+  • India-Centric Source Labs
+  • Harappan weights support standardization
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  Source Criticism • Authenticity • Meaning • Corroboration
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Source criticism, archaeology, dating and bioarchaeology
+
+```ascii-master
+SOURCE CRITICISM, ARCHAEOLOGY, DATING AND BIOARCHAEOLOGY
+│
+
+KEY TERMS: Source Criticism • Authenticity • Meaning • Corroboration • provenance •
+KEY TERMS: provenience
+├── KEY CONCEPTS
+│   ├── Source Criticism
+│   ├── Authenticity
+│   ├── Meaning
+│   ├── Corroboration
+│   └── provenance
+│
+├── SOURCE CRITICISM: AUTHENTICITY, MEANING AND CORROBORATION
+│   ├─ TERMS: Source criticism separates three questions: Is the object or text
+│   ├─ TERMS: genuine?
+│   ├─ LOGIC: Use the five-test frame - authenticity, context, chronology…
+│   └─ RESULT: Upinder Singh describes a text as a refracted, not direct, image
+│   └─ RESULT: of…
+├── ARCHAEOLOGY I: ARTEFACT, INDUSTRY, ASSEMBLAGE AND CULTURE
+│   ├─ TERMS: Archaeology is the only direct evidence class for prehistory
+│   ├─ LOGIC: Archaeology studies the human past through material remains, from…
+│   └─ RESULT: An archaeological culture is an analytical pattern
+├── ARCHAEOLOGY II: SURVEY, STRATIGRAPHY AND EXCAVATION STRATEGY
+│   ├─ TERMS: Horizontal and vertical strategies are complementary, not rival…
+│   ├─ LOGIC: Remote sensing is non-invasive but does not by itself identify date…
+│   └─ RESULT: Horizontal and vertical strategies are complementary, not rival…
+├── SCIENTIFIC DATING AND ARCHAEOMETRY: PRECISION WITH ERROR BARS
+│   ├─ TERMS: Radiocarbon dates are ranges, commonly expressed with a plus/minus
+│   ├─ TERMS: error
+│   ├─ LOGIC: They refine history, but every result still depends on sample…
+│   └─ RESULT: Calibration corrects radiocarbon-age variation against independent…
+├── BIOARCHAEOLOGY, ENVIRONMENT AND ETHNOARCHAEOLOGY
+│   ├─ TERMS: Ethnoarchaeology suggests possible functions and production systems
+│   ├─ LOGIC: Use bioarchaeology to recover ordinary bodies and environmental…
+│   └─ RESULT: Ethnoarchaeology suggests possible functions and production systems
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Epigraphy, numismatics, manuscripts and literary traditions
+
+```ascii-master
+EPIGRAPHY, NUMISMATICS, MANUSCRIPTS AND LITERARY TRADITIONS
+
+
+KEY TERMS: Epigraphy Ii • Types • Dating • Uses • Biases • EPIGRAPHY II: TYPES, DATING, USES
+KEY TERMS: AND…
+CAUSE / CONDITION 1: Epigraphy Ii: Types, Dating, Uses And Biases comprises…
+          │
+          ├── MECHANISM
+          │   Upinder Singh classifies records by issuer, surface, language…
+          │
+          └── EFFECT / CONTRAST
+              Movable inscriptions may not be found in situ
+          │
+          ▼
+CAUSE / CONDITION 2: Hoards are valuable because their composition and latest coin…
+          │
+          ├── MECHANISM
+          │   Hoards are valuable because their composition and latest coin can…
+          │
+          └── EFFECT / CONTRAST
+              Sharma links coins with exchange, dynastic history, art and religion
+          │
+          ▼
+CAUSE / CONDITION 3: 200 BCE-300 CE as especially coin-rich for political history…
+          │
+          ├── MECHANISM
+          │   The Jogalthembi hoard of Nahapana coins counter-struck by…
+          │
+          └── EFFECT / CONTRAST
+              Yet a coin's place of discovery, political frontier and area of…
+          │
+          ▼
+CAUSE / CONDITION 4: Manuscript history is part of textual history: preservation…
+          │
+          ├── MECHANISM
+          │   Palm-leaf manuscripts were engraved with a stylus, darkened with…
+          │
+          └── EFFECT / CONTRAST
+              The oldest surviving manuscript is not necessarily the oldest form…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Foreign, linguistic and visual sources; chronology and triangulation
+
+```ascii-master
+FOREIGN, LINGUISTIC AND VISUAL SOURCES; CHRONOLOGY AND TRIANGULATION
+│
+
+KEY TERMS: Foreign Accounts • Greek • Roman • Chinese • Arab Witnesses • FOREIGN ACCOUNTS:
+KEY TERMS: GREEK, ROMAN, CHINESE…
+├── KEY CONCEPTS
+│   ├── Foreign Accounts
+│   ├── Greek
+│   ├── Roman
+│   ├── Chinese
+│   └── Arab Witnesses
+│
+├── FOREIGN ACCOUNTS: GREEK, ROMAN, CHINESE AND ARAB WITNESSES
+│   ├─ TERMS: Alexander's Indian campaign is reconstructed principally through…
+│   ├─ LOGIC: Sharma uses Greek accounts for Alexander and Mauryan chronology…
+│   └─ RESULT: External testimony can notice practices indigenous elite texts…
+├── LINGUISTIC EVIDENCE, ORAL TRADITIONS AND VILLAGE STUDY
+│   ├─ TERMS: Linguistic antiquity is evidence for language history, not a direct
+│   ├─ TERMS: ethnic census
+│   ├─ LOGIC: Village study can generate hypotheses about technology, ritual and…
+│   └─ RESULT: Linguistic antiquity is evidence for language history, not a
+│   └─ RESULT: direct…
+├── MONUMENTS, MATERIAL CULTURE AND VISUAL SOURCES
+│   ├─ TERMS: Visual evidence has formal content and material context
+│   ├─ LOGIC: Upinder Singh treats visual sources as a distinctive material…
+│   └─ RESULT: Architecture, sculpture, painting, terracotta, seals and ritual…
+├── CHRONOLOGY: RELATIVE, ABSOLUTE AND TEXTUAL TIME
+│   ├─ TERMS: Build chronology by convergence: sequence + absolute range +…
+│   ├─ LOGIC: Build chronology by convergence: sequence + absolute range +…
+│   └─ RESULT: Relative chronology remains indispensable even when absolute dates…
+├── TRIANGULATION: HOW DIFFERENT SOURCES WORK TOGETHER
+│   ├─ TERMS: Triangulation does not force different sources to tell the same
+│   ├─ TERMS: story
+│   ├─ LOGIC: First match scale: a household find cannot by itself prove an…
+│   └─ RESULT: Third test independence: two texts copying one source do not count…
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Bias, preservation and India-centred source laboratories
+
+```ascii-master
+BIAS, PRESERVATION AND INDIA-CENTRED SOURCE LABORATORIES
+
+
+KEY TERMS: Bias • Silence • The Ethics Of Inference • Elite textual bias • BIAS, SILENCE,
+KEY TERMS: PRESERVATION AND THE… • India-Centric Source Labs
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ BIAS, SILENCE,         │ Archaeological preservation   │ The archive is not merely     │
+│ PRESERVATION AND THE   │ and research choices create   │ incomplete                    │
+│ ETHICS OF INFERENCE    │ separate…                     │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ INDIA-CENTRIC SOURCE   │ Harappan weights support      │ Rakhigarhi material is being  │
+│ LABS: HARAPPAN TO      │ standardization               │ subjected to                  │
+│ GUPTA                  │                               │ multidisciplinary…            │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ UPSC SOURCE-SELECTION  │ Use as the final              │ For everyday life, Inamgaon's │
+│ AND ANSWER-WRITING     │ answer-writing layer for all  │ courtyard soil chemistry and  │
+│ PROTOCOL               │ subsequent Ancient History    │ marine…                       │
+│                        │ topics                        │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ LAB 1                  │ Lab 1                         │ A political act, a settlement │
+│                        │                               │ pattern, a norm and a route   │
+│                        │                               │ are not…                      │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ LAB 2                  │ For Mains, identify genre     │ A source is not a ready-made  │
+│                        │ before use: prescription      │ fact                          │
+│                        │ gives an ideal…               │                               │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Evidence clinics and the UPSC source-selection protocol
+
+```ascii-master
+EVIDENCE CLINICS AND THE UPSC SOURCE-SELECTION PROTOCOL
+
+
+KEY TERMS: Lab 4 • Scientific Evidence • Retain • For Mains, one sentence • For Mains • Lab
+KEY TERMS: 5
+                 CLAIM / SYSTEM UNDER EXAMINATION
+                                  │
+                                  ▼
+PROBLEM / OBJECTION 1
+  ├─ ISSUE: A source is not a ready-made fact
+  ├─ RESPONSE / CONTROL: For Mains, one sentence is enough: science can refine
+  ├─ RESPONSE / CONTROL: chronology…
+  └─ QUALIFIED VERDICT: Do not memorise laboratory procedure unless a question
+  └─ QUALIFIED VERDICT: requires it
+                  │
+                  ▼
+PROBLEM / OBJECTION 2
+  ├─ ISSUE: a royal eulogy, donation and grant are not the same
+  ├─ RESPONSE / CONTROL: A royal eulogy, donation and grant are not the same
+  └─ QUALIFIED VERDICT: A source is not a ready-made fact
+                  │
+                  ▼
+PROBLEM / OBJECTION 3
+  ├─ ISSUE: treat monuments, images and architecture as material and visual…
+  ├─ RESPONSE / CONTROL: Use traveller accounts for a located observation--route…
+  └─ QUALIFIED VERDICT: A source is not a ready-made fact
+                  │
+                  ▼
+PROBLEM / OBJECTION 4
+  ├─ ISSUE: Absence is not proof of non-existence
+  ├─ RESPONSE / CONTROL: Before using silence, ask whether a trace would survive,
+  ├─ RESPONSE / CONTROL: be…
+  └─ QUALIFIED VERDICT: Agreement raises confidence only when two sources are not
+  └─ QUALIFIED VERDICT: merely…
+                                  │
+                                  ▼
+FINAL CONTROL: preserve the strongest insight while stating its limit.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Sources of Ancient Indian History: traps, PYQ routes and applied recall
+
+```ascii-master
+SOURCES OF ANCIENT INDIAN HISTORY: TRAPS, PYQ ROUTES AND APPLIED RECALL
+
+
+KEY TERMS: Source Criticism • Authenticity • Meaning • Corroboration • provenance •
+KEY TERMS: provenience
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── Myth, drama and praise are historically valuable, but not as…
+├── Repeated scribal copying preserved texts but also introduced…
+├── For political chronology, Rudradaman's Shaka 72 Junagadh…
+├── In a 15-marker, this distinction turns a list into analysis: source…
+│
+├── PYQ 1
+├── Status: Official printed question verified from the local UPSC paper
+├── Question: Assess the importance of the accounts of the Chinese and Arab…
+├── PYQ 2
+│
+└── Source criticism separates three questions: Is the object or text…
+└── Rock-cut monuments are sources for art, technology, donor networks…
+└── To argue that the ideal was universal practice, a learner needs an…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Sources of Ancient Indian History: integrated revision and answer-writing spine
+
+```ascii-master
+SOURCES OF ANCIENT INDIAN HISTORY — ANSWER / REVISION SPINE
+
+
+KEY TERMS: Source Criticism • Authenticity • Meaning • Corroboration • provenance •
+KEY TERMS: provenience
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ Source criticism separates three questions: Is the object or text genuine?
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ Source Criticism
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ Palm-leaf manuscripts were engraved with a stylus, darkened with…
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ Meaning
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ In a 15-marker, this distinction turns a list into analysis: source…
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ To argue that the ideal was universal practice, a learner needs an…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

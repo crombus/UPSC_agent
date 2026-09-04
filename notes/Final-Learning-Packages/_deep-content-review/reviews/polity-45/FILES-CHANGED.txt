@@ -1,0 +1,16 @@
+ M EXPORT-PDF-STATUS.json
+ M upsc-ai-kit/knowledge/Polity/advanced/45_National-Integration-and-Foreign-Policy.md
+ M upsc-ai-kit/knowledge/Polity/basic/National-Integration-and-Foreign-Policy.md
+?? notes/Polity/assets/45_National-Integration-and-Foreign-Policy/
+?? tools/deep_content_quality_overrides.json
+?? tools/test_refresh_all_v2_learning_sessions.py
+?? upsc-ai-kit/manifests/exports/final-four-item-library-2026-08-28-polity-19-g5-validation.json
+?? upsc-ai-kit/manifests/exports/final-four-item-library-2026-08-28-polity-19-g5.json
+?? upsc-ai-kit/manifests/exports/final-four-item-library-2026-08-28-validation.json
+?? upsc-ai-kit/manifests/exports/final-four-item-library-2026-08-28.json
+?? upsc-ai-kit/manifests/exports/polity-45-flow-learning-2026-08-25-validation.json
+?? upsc-ai-kit/manifests/exports/polity-45-new-topic-2026-08-25.json
+?? upsc-ai-kit/manifests/exports/polity-45-source-pyq-current-audit-2026-08-25.json
+?? upsc-ai-kit/manifests/exports/polity-45-staged-records-2026-08-25.json
+?? upsc-ai-kit/manifests/exports/polity-45-validation-2026-08-25.json
+?? upsc-ai-kit/manifests/retrofits/ascii-panel-specs/polity-45-2026-08-25-sequential.json

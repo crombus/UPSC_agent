@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-33",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-33",
+  "title": "Attorney General and Advocate General",
+  "generation_date": "2026-08-28",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Attorney General and Advocate General — ASCII-width repaired immutable generation",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Attorney-General.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\33_Attorney-General-and-Advocate-General_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\33_Attorney-General-and-Advocate-General.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\State-Legislature.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+  ],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf"
+  ],
+  "live_sources": [
+    "https://legislative.gov.in/document/constitution-of-india",
+    "https://www.legalaffairs.gov.in/",
+    "https://api.sci.gov.in/jonew/bosir/orderpdf/2812218.pdf"
+  ],
+  "practice_profile": "Three verified PYQ routes; 36 hard original MCQs; 12 remedials; 8 solved Mains; 10 answer-specific guidance pairs.",
+  "current_linkage_note": "Constitution and Union rules checked through 28 August 2026; officeholder names omitted.",
+  "pyq_status_note": "2019/2025 direct Mains and 2022 Prelims distinction retained with key limitation.",
+  "allow_existing_history": true,
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Attorney-General.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\33_Attorney-General-and-Advocate-General.md",
+    "upsc-ai-kit\\knowledge\\Polity\\33_Attorney-General-and-Advocate-General_Complete-Topic-Package.md",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-33-2026-08-24-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-33.json",
+    "tools\\deep_content_quality_overrides.json"
+  ]
+}

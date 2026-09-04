@@ -1,0 +1,72 @@
+{
+  "topic_key": "polity-08",
+  "reviewed_identity": "polity-08:learner-v2:g2",
+  "review_date": "2026-08-28",
+  "score": {
+    "complete_learning_session": 32,
+    "solved_practice_workbook": 20,
+    "graphical_flowchart": 10,
+    "ascii_master_flowchart": 10,
+    "total": 72
+  },
+  "status": "changes_suggested",
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": false,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": false,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": false,
+    "current_data_source_dated": false
+  },
+  "issues": [
+    {
+      "id": "P08-001",
+      "severity": "critical",
+      "issue": "The package still treats the January 2026 Uttarakhand UCC Amendment Ordinance as having unknown later status although the official UCC portal publishes the succeeding Amendment Act dated 7 April 2026."
+    },
+    {
+      "id": "P08-002",
+      "severity": "high",
+      "issue": "The generated workbook has the learning-session H1, 36 non-rotating answer keys and no answer-specific improvement guidance after the solved 2023 PYQ and seven original Mains models."
+    },
+    {
+      "id": "P08-003",
+      "severity": "high",
+      "issue": "Graphical and ASCII controls compress the topic into nine core stages/panels, omit dedicated current-evidence control and complete 10/15/20-mark routes, and the graphical implementation answer line is corrupted/generic."
+    },
+    {
+      "id": "P08-004",
+      "severity": "high",
+      "issue": "The graphical status falsely says g2 was repaired in place; immutable provenance and successor allocation are not represented accurately."
+    },
+    {
+      "id": "P08-005",
+      "severity": "medium",
+      "issue": "Core/Advanced owners describe Article 39(f) as added by the 42nd Amendment instead of substituted/recast, associate Article 40 directly with both the 73rd and 74th Amendments, and use overbroad Special Marriage Act eligibility wording."
+    },
+    {
+      "id": "P08-006",
+      "severity": "medium",
+      "issue": "Owner shorthand that Fundamental Rights enjoy supremacy over DPSP is too broad; the current rule requires harmony/basic-structure wording plus the specific surviving Article 31C exception."
+    },
+    {
+      "id": "P08-007",
+      "severity": "medium",
+      "issue": "Current legal-aid control omits the official Suhas Chakma 2024 prison legal-aid monitoring directions and embeds volatile NALSA office-holder detail."
+    }
+  ],
+  "baseline_hashes": {
+    "session_pdf": "48c4a5891790ca4ad52b4bb1a12c1b40099a99e2c764d85a6fe92bc4dfc0908c",
+    "workbook_pdf": "33505043213201e92b52f424fb8e992f9cb2acdc04e305a8cad0ff5aeb53b1f5",
+    "session_markdown": "7153cc7bb645f532025238f1105dd050fe0a9d32a44090f4cf0e44131d7da07b",
+    "graphical_poster": "e0c31b0fa24584d079acdbbb97359a94a5ec00293ef6c42d93b208d425044de6",
+    "graphical_tiled": "c91219dceac0437d091f845e1b8f43632501103d3965b49747329002003ddb1e",
+    "graphical_master": "66d8fbcc70dc65a1ec2b9bbe531a2716b873c7aeacdc1d2f6736eab1d3f62336",
+    "ascii_master": "0ed1123a9622db1ec730ac8ca1fdecccce63b96c5568deec8c1b127ece1e2824",
+    "canonical": "6f64b67f8b7dbce66e987b3bdb10aa1b1c087fcb2b4f7f6eb4c77d210aedc91c",
+    "basic": "99fed1fedbd8eed0e648be4d62ab505827ea2a3beb99058554c2d3fb106d4cda",
+    "advanced": "0fd17cb6e1e1944bc98f3d33c4e10b7dfe262d757f0f4335759d981f287bef3c",
+    "generation_source": "1f6ff98985e230682bedd42272606798385e397e666c40a905f44a081e71dc5c"
+  }
+}

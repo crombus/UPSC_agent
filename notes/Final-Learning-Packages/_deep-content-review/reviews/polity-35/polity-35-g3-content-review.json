@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-35",
+  "record_id": "polity-35:learner-v2:g3",
+  "score": 94,
+  "status": "failed_manual_review_prose_integrity",
+  "approval": false,
+  "preserved": true,
+  "defects": [
+    "ellipsis truncation in Sessions 1 and 12",
+    "Nhrc title-case mutation in Session 4",
+    "nHRC mutation in Session 14"
+  ]
+}

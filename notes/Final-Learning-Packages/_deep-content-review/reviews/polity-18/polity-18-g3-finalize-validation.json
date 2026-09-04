@@ -1,0 +1,22 @@
+{
+  "topic_key": "polity-18",
+  "identity": "polity-18:learner-v2:g3",
+  "validated_on": "2026-08-28T13:25:00+05:30",
+  "passed": true,
+  "approval": false,
+  "checks": {
+    "generation_local_validation": "passed",
+    "tracker_aware_validate_v2_export": "passed",
+    "source_hashes": "39/39",
+    "mcq_rotation": "48 keys; ABCD x 12",
+    "answer_guidance": "15 Why-this-earns-marks plus 15 answer-specific How-to-improve blocks",
+    "prose_integrity": "zero ellipses and replacement glyphs",
+    "four_item_export": "passed",
+    "final_pdf_layout": "no blank or near-empty textual pages",
+    "ascii_reconciliation": "12 text panels = 12 PDF pages",
+    "graphical_reconciliation": "12 Core/synthesis stages; seven layouts; same-master poster/tiled checks passed",
+    "focused_tests": "38 refresh tests passed; final exporter topic validation passed"
+  },
+  "explicit_approval": false,
+  "external_test_note": "One broad exporter inventory test remains blocked by an unrelated pre-existing Philosophy g12 tracker state; no Supreme Court assertion failed."
+}

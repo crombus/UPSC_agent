@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "id": "polity-54-g3-deep-review",
+  "selection": "polity-54",
+  "tracker_updated": false,
+  "record_count": 1,
+  "records": [
+    {
+      "record_id": "polity-54:learner-v2:g3",
+      "topic_key": "polity-54",
+      "variant": "learner-v2",
+      "generation": 3,
+      "supersedes": "polity-54:learner-v2:g2",
+      "command": "Generate learner-v2 topic: Polity — Lok Adalats and Other Courts — deep-reviewed immutable successor",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-54\\g3\\polity-54_Complete-Learning-Session_2026-08-29.pdf",
+      "workbook": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-54\\g3\\polity-54_Solved-Practice-Workbook_2026-08-29.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-54\\g3\\polity-54_Complete-Learning-Session_2026-08-29.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-54\\g3\\polity-54_Solved-Practice-Workbook_2026-08-29.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-54\\g3\\assets",
+      "generated_on": "2026-08-29",
+      "approved": false,
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Lok-Adalats-and-Other-Courts.md",
+        "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Lok-Adalats-and-Other-Courts.md",
+        "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\54_Lok-Adalats-and-Other-Courts.md",
+        "cross_topic_sources": [
+          "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\Directive-Principles.md",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\High-Court.md"
+        ],
+        "pyq_indexes": [
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+        ],
+        "official_question_sources": [
+          "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf",
+          "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf",
+          "books\\mains\\02 UPSC 2024 Paper-II.pdf"
+        ],
+        "local_ocr_sources": [
+          "books\\Indian Polity by M Laxmikant.pdf"
+        ],
+        "live_sources": [
+          "https://nalsa.gov.in/lok-adalats/",
+          "https://nalsa.gov.in/permanent-lok-adalat/",
+          "https://indiacode.gov.in/"
+        ],
+        "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-54\\g3\\polity-54_Complete-Learning-Session_2026-08-29.md",
+        "renderer": {
+          "name": "tools/markdown_learning_pdf.py",
+          "version": "2.1"
+        },
+        "generation_date": "2026-08-29",
+        "superseded_v1": "polity-54:learner-v2:g2",
+        "source_hashes": {
+          "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-54\\g3-source\\polity-54_g3-reviewed-source.md": "e3015544d7f41556c7496675c8fc00b8ea538b1c8dbb07019340f0a0bdf43f0e",
+          "tools\\deep_content_quality_overrides.json": "5f63e03700ca2e44c9c76574ec95fcbf5ad04361a4a193ecf8004834a7c50f88",
+          "upsc-ai-kit\\knowledge\\Polity\\advanced\\54_Lok-Adalats-and-Other-Courts.md": "093d5577f7491acff456ce35b791f1294697447a5dc832e42a595778fb5e2511",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\Lok-Adalats-and-Other-Courts.md": "a166d23530a6e57ec7ce1369b25540d0369826608d89e163bfe84147c65c1152",
+          "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-54-2026-08-25-sequential.json": "b8d45e3280286c6ff91ca4c0551831aaa44c6ce36f7bbed307174943fd30cb08",
+          "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-54.json": "4420e3756524d750143f9da0a5649b1a3f63c97acf364558120c72f0fa815ccc"
+        },
+        "session_contract": "named-session definition/opening/keywords/use/closure",
+        "mcq_keys": "strict A-B-C-D rotation",
+        "practice_profile": "Three exact direct PYQs; 48 hard MCQs in strict A-B-C-D rotation; eight original Mains questions with directive-specific models and guidance.",
+        "current_linkage_note": "Controlled to 29 August 2026; changing ceilings, notified services, counts and commencement claims require dated official evidence.",
+        "pyq_status_note": "Three direct PYQs reproduced exactly; 2024 printed spelling retained inside the quotation only.",
+        "new_visual_count": 1,
+        "new_flowchart_page_count": 4,
+        "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+        "tracker_updated": false,
+        "tracker_sha256": "3d2d15a8c866898d6a017a40c825d13e391b957493b9348a3b3191e9b6086e47"
+      },
+      "approval": {
+        "approved": false,
+        "approved_on": null,
+        "scope": "polity-54:learner-v2:g3"
+      },
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-08-29",
+        "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+      },
+      "continuous_core_first": {
+        "folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-54\\carvaka-g3",
+        "master_image": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-54\\carvaka-g3\\master.png",
+        "poster_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-54\\carvaka-g3\\poster.pdf",
+        "tiled_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-54\\carvaka-g3\\tiled.pdf",
+        "editable": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-54\\carvaka-g3\\editable",
+        "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-54\\g3\\polity-54_Graphical-Spec-g3.json",
+        "graphical_spec_sha256": "1bedfe6f17babfebcca1f1a7e3dbaa0cbac4c92484e44bfb4e5f42f651f3b049",
+        "renderer": {
+          "name": "carvaka-continuous-at-a-glance-graphical-v2",
+          "version": "2.0"
+        },
+        "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+        "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "previews": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-54\\carvaka-g3\\previews",
+        "contact_sheets": [
+          "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-54\\carvaka-g3\\previews\\contact-sheet-01.png"
+        ],
+        "master_overview": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-54\\carvaka-g3\\previews\\master-overview.png",
+        "validation_report": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-54\\carvaka-g3\\validation-report.txt",
+        "build_audit": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-54\\carvaka-g3\\build-audit.json",
+        "preservation_hashes": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-54\\carvaka-g3\\preservation-hashes.json",
+        "ascii_master": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-54\\carvaka-g3\\ascii-master.txt",
+        "ascii_master_preserved": true,
+        "core_stage_count": 12,
+        "card_count": 13,
+        "tiled_page_count": 4,
+        "approval": false,
+        "ascii_master_source": "manual-authored-spec",
+        "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-54-2026-08-25-sequential.json",
+        "ascii_master_spec_sha256": "b8d45e3280286c6ff91ca4c0551831aaa44c6ce36f7bbed307174943fd30cb08"
+      },
+      "refresh_profile": "learner-v2-refreshed-new-topic"
+    }
+  ]
+}

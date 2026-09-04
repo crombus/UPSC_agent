@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-19",
+  "identity": "polity-19:learner-v2:g5",
+  "reviewed_on": "2026-08-28T15:10:00+05:30",
+  "approval": false,
+  "status": "passed",
+  "score": {
+    "complete_learning_session": 39,
+    "solved_workbook": 29,
+    "graphical_flowchart": 15,
+    "ascii_flowchart": 15,
+    "total": 98
+  },
+  "issue_counts": {
+    "critical": 0,
+    "high": 0,
+    "medium": 0,
+    "low": 0
+  },
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": true,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": true,
+    "current_data_source_dated": true
+  },
+  "resolved_issues": [
+    "POL19-G2-01",
+    "POL19-G2-02",
+    "POL19-G2-03",
+    "POL19-G2-04",
+    "POL19-G2-05",
+    "POL19-G2-06",
+    "POL19-G2-07",
+    "POL19-G2-08"
+  ],
+  "metrics": {
+    "core_sessions": 26,
+    "mcq_keys": 48,
+    "mcq_sequence": "ABCDABCDABCDABCDABCDABCDABCDABCDABCDABCDABCDABCD",
+    "how_to_improve_blocks": 13,
+    "why_earns_marks_blocks": 13,
+    "ellipsis_count": 0,
+    "replacement_glyph_count": 0,
+    "ascii_panels": 12,
+    "graphical_core_stages": 12
+  },
+  "artifacts": {
+    "complete_learning_session": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\19-Governor-CM-State-Council\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+      "sha256": "ad740012cbdfa3c076f1d7d5e35109d00369cf10e8131d7d45dfe90ed66a4bc8",
+      "bytes": 765777,
+      "pages": 75,
+      "minimum_text_characters": 428
+    },
+    "solved_practice_workbook": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\19-Governor-CM-State-Council\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+      "sha256": "6215f1eba6f9167d97cadcb1d71767d410728f7f39f5ecb5fbbacf781092ab36",
+      "bytes": 554059,
+      "pages": 19,
+      "minimum_text_characters": 427
+    },
+    "graphical_poster": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\19-Governor-CM-State-Council\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+      "sha256": "1ec8955574e14864b84f09b868b9f06de7df6e7bb0b397b57162f56c34ca94ca",
+      "bytes": 2733885,
+      "pages": 1,
+      "minimum_text_characters": 0
+    },
+    "ascii_master": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\19-Governor-CM-State-Council\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+      "sha256": "0618688dbd8babc0c493d0014e536abcd1913b3079037f48e88311b5f9cfdc95",
+      "bytes": 59473,
+      "pages": 12,
+      "minimum_text_characters": 546
+    }
+  },
+  "intermediate_generations": [
+    {
+      "identity": "polity-19:learner-v2:g3",
+      "review": "failed_stale_export_date",
+      "preserved": true
+    },
+    {
+      "identity": "polity-19:learner-v2:g4",
+      "review": "failed_two_semantic_ellipses",
+      "preserved": true
+    }
+  ]
+}

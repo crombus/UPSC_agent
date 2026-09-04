@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-45",
+  "record_id": "polity-45:learner-v2:g5",
+  "status": "passed",
+  "approval": false,
+  "review_report": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-45\\REVIEW-REPORT.md",
+  "final_audit": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-45\\polity-45-g5-final-audit.json",
+  "final_export": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\45-National-Integration-and-Foreign-Policy",
+  "generation_history": [
+    {
+      "record_id": "polity-45:learner-v2:g2",
+      "score": 70,
+      "status": "changes_suggested",
+      "approved": false,
+      "immutable": true
+    },
+    {
+      "record_id": "polity-45:learner-v2:g3",
+      "score": 95,
+      "status": "failed_manual_review_graphical",
+      "approved": false,
+      "immutable": true
+    },
+    {
+      "record_id": "polity-45:learner-v2:g4",
+      "score": 96,
+      "status": "failed_manual_review_prose",
+      "approved": false,
+      "immutable": true
+    },
+    {
+      "record_id": "polity-45:learner-v2:g5",
+      "score": 98,
+      "status": "passed",
+      "approved": false,
+      "immutable": true
+    }
+  ],
+  "preserved_generations": [
+    2,
+    3,
+    4,
+    5
+  ]
+}

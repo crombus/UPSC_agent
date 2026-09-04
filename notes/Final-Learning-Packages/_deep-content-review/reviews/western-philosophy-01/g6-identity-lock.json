@@ -1,0 +1,14 @@
+{
+  "topic_key": "philosophy-paper-i-western-philosophy-01",
+  "locked_at": "2026-09-02T15:24:25.887628+00:00",
+  "master_tracker_identity": "philosophy-paper-i-western-philosophy-01:learner-v2:g6",
+  "generation": 6,
+  "approval": false,
+  "hashes": {
+    "markdown": "f3ebfdf45d72f335902f541618722583a033b2701ab877ff3e134155a77d2195",
+    "main_pdf": "521c226598e406590b5d8d6f69743db99af844aa6a6c8d11b8d76ab649ea3eeb",
+    "workbook": "c7632f8006bb9b161ffa99fad7043cfe4c90f510cba4f02e42023ce5b5c5d9a6",
+    "graphical_master": "eb7e50c1de36a6d1acf0a2ee31431b8ccc52f013d5d4e9ee6d45453de3632472",
+    "ascii_master": "808b0e8d0245fd0ecc1c7d63339f48e0a974993f7cb968a433ea98f775fa6e4a"
+  }
+}

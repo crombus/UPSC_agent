@@ -1,0 +1,84 @@
+{
+  "topic_key": "polity-09",
+  "locked_identity": "polity-09:learner-v2:g2",
+  "locked_at": "2026-08-28T03:55:00+05:30",
+  "approval": false,
+  "master_tracker_source_record_id": "polity-09:learner-v2:g2",
+  "files": {
+    "final_session": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\09-Fundamental-Duties\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+      "sha256": "cc080b2ad81b05c12821224a897ccbf78c8aa655f7b98a51eac5c945ffc439a4",
+      "bytes": 1655387,
+      "pages": 48
+    },
+    "final_workbook": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\09-Fundamental-Duties\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+      "sha256": "b17084c3d2eb47782c07e772dde4ea969f663d4d5d9555de38909b7d05f86e39",
+      "bytes": 331442,
+      "pages": 12
+    },
+    "final_poster": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\09-Fundamental-Duties\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+      "sha256": "8e2e161c3042f4b2abba989ed9a3a9354b8f4c601e540b64cd8857aa0eeac4c8",
+      "bytes": 1358638,
+      "pages": 1
+    },
+    "final_tiled": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\09-Fundamental-Duties\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+      "sha256": "8681997c9d7e7e890783bcf067697d9a1e5da4bb13d97c5925db4b0aa28569ff",
+      "bytes": 1691272,
+      "pages": 3
+    },
+    "final_master": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\09-Fundamental-Duties\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+      "sha256": "adb5ec589f52a6aff31730ac16be4c75c1fce1186b88724a88714ee4d57f7318",
+      "bytes": 1211796
+    },
+    "final_ascii_pdf": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\09-Fundamental-Duties\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+      "sha256": "79a286cf192d9f6a553aa36c9d3b91d2c521e05c464b6f1dc620a5f925ff97f1",
+      "bytes": 56178,
+      "pages": 9
+    },
+    "final_ascii_text": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\09-Fundamental-Duties\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+      "sha256": "ddd857288690f0223d7cce864f3ff3b54ea446282598811785956f709e95793d",
+      "bytes": 7438
+    },
+    "session_md": {
+      "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Complete-Learning-Session_2026-08-24.md",
+      "sha256": "4cb897561ae9c7d37f4e5f88bbcf5272d96250faae3d62038d833ea6988e8337",
+      "bytes": 120560
+    },
+    "workbook_md": {
+      "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Solved-Practice-Workbook_2026-08-24.md",
+      "sha256": "95cdf56524a6700dc44c91d770a5e3807a07645d4ce27db6fe8e90a8b821031a",
+      "bytes": 29980
+    },
+    "canonical": {
+      "path": "upsc-ai-kit\\knowledge\\Polity\\09_Fundamental-Duties_Complete-Topic-Package.md",
+      "sha256": "3c9e1dc1078c0eb27309c45241b21f8d53f41f13f40cb0d429204fcb2276616c",
+      "bytes": 88802
+    },
+    "basic": {
+      "path": "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Duties.md",
+      "sha256": "7f366e4f264e1ada809d837a95ef4dc3ea885f495ad35d4489e8ba82a4c29d51",
+      "bytes": 11538
+    },
+    "advanced": {
+      "path": "upsc-ai-kit\\knowledge\\Polity\\advanced\\09_Fundamental-Duties.md",
+      "sha256": "5c0e6684a61c8ed134917c01066341fe222634ebca0850f27e0e70f96e3ce8a0",
+      "bytes": 7719
+    },
+    "graphical_spec": {
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-09.json",
+      "sha256": "8133bc021497b2137427796b6676d77b429cd11551e34ac075892b81f7a63cd2",
+      "bytes": 26910
+    },
+    "ascii_spec": {
+      "path": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-24-sequential-batch.json",
+      "sha256": "49f06713dc771335a176a6cd492b7cc76183fefcacd7a54bd3ed0235037976bf",
+      "bytes": 72990
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "record_id": "polity-43:learner-v2:g3",
+  "score": 97,
+  "status": "failed_revalidation",
+  "approval": false,
+  "hard_gates": {
+    "sessions": 15,
+    "mcqs": 48,
+    "rotation": "A-B-C-D x12",
+    "guidance_pairs": 10,
+    "ellipsis": 2,
+    "ascii_panels": 12,
+    "graphical_core_stages": 12
+  },
+  "manual_review": "failed prose-integrity gate; generation preserved"
+}

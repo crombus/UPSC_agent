@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "polity-15-g4-intermediate",
+  "validated_on": "2026-08-28T08:20:00+05:30",
+  "selection": "polity-15-g4-technical-pass-semantic-repair-pending",
+  "topic_count": 1,
+  "passed": true,
+  "errors": [],
+  "topics": [
+    {
+      "topic_key": "polity-15",
+      "record_id": "polity-15:learner-v2:g4",
+      "generation": 4,
+      "passed": true,
+      "errors": [],
+      "tests_passed": 38,
+      "content_review_status": "revalidation_pending",
+      "known_issue": "Scope-ownership metadata was converted into a generic first teaching session; immutable g5 required."
+    }
+  ]
+}

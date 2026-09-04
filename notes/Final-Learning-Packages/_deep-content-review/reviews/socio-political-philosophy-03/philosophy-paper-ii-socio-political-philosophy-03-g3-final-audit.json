@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-ii-socio-political-philosophy-03",
+  "record_id": "philosophy-paper-ii-socio-political-philosophy-03:learner-v2:g3",
+  "approval": false,
+  "result": "passed",
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_and_doctrine_verified": true,
+    "pyq_ledger_reconciled_2018_2025": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "mcq_count_48": true,
+    "mcq_rotation": true,
+    "graphical_and_ascii_consistent": true,
+    "current_data_source_dated": true,
+    "pdf_layout_clean": true,
+    "approval_false": true
+  },
+  "metrics": {
+    "mcq_count": 48,
+    "main_pages": 98,
+    "workbook_pages": 38,
+    "answer_improvement_blocks": 12,
+    "question_level_upgrade_targets": 12
+  },
+  "errors": [],
+  "layout_metrics": {
+    "main": {
+      "page_count": 98,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook": {
+      "page_count": 38,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    }
+  },
+  "hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-03\\g3\\topic-03_Complete-Learning-Session_2026-08-30.md": "5cf9491232efc18c85bb492181f9a76720f57a4a5ff93629e366d42d84389933",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-03\\g3\\topic-03_Solved-Practice-Workbook_2026-08-30.md": "cb8db4677a7d1726a7851f544f5eb526451796959a9699898078ddaa65c4e9ce",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-03\\g3\\topic-03_Complete-Learning-Session_2026-08-30.pdf": "a425a27266421e417bf37c66461c93aaa7dd7e555aa4b4efa3707305c666a4cb",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-03\\g3\\topic-03_Solved-Practice-Workbook_2026-08-30.pdf": "1a43815addfffa2b0ae6d1669f32006508c12b6992f1089b8ae88bdb4b582015",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-03\\g3\\validation\\main-visual-audit-map.json": "d473968bdc6eeb44706ccae9f2f1d9d631e022845dabb7633cdfd4dcfdcfda86",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-03\\g3\\validation\\workbook-visual-audit-map.json": "9ce695c2d9259bdad152bdc02feb63d6605f23478a07d08f4f556e3338a84e6d",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy-paper-ii-socio-political-philosophy-03-ascii-g3-2026-08-30.json": "d78904a008a69cc2bc93d68a288838e51e59a5674b8b297fe48c8682b841d233",
+    "upsc-ai-kit\\manifests\\v2\\philosophy--paper-ii-socio-political-philosophy-graphical-specs\\philosophy-paper-ii-socio-political-philosophy-03-g3.json": "38f75190285fce1579e6f78f2634ee66148833ad8499a2b760022460cbaffa93",
+    "upsc-ai-kit\\manifests\\v2\\philosophy--paper-ii-socio-political-philosophy-content-specs\\philosophy-paper-ii-socio-political-philosophy-03-g3.json": "135c7cfef8c0e6b8e302b8782bd1739c9ae9423bc1eface0e73366bbaa321634",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\learning-sessions\\topic-03\\g3\\assets\\philosophy-paper-ii-socio-political-philosophy-03\\rights-duties-accountability-map.png": "518271c1f8fa91eb6d2345ae7fcb0d739a6f38647b860c73c156aaafd74413c8",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-03\\carvaka-g3\\ascii-master.pdf": "42eaf5a4a53ee1da8b82574e49c797c424a09050129b889697bf7291a2c12e8c",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-03\\carvaka-g3\\ascii-master.txt": "f7b5a5cc8d89b87d39af3bb99e59aa5fe41710ab7038d0c7c6f05154b9f104f6",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-03\\carvaka-g3\\build-audit.json": "cc2e19b7d8c9ae35e4d5cb6c68630432a6a58734a442d53d38d439f05cf6c6e7",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-03\\carvaka-g3\\master.png": "cf3b755848bdc3c0ea1eac647138978404e78caa71cd0095c5c11cf8d9bceeb4",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-03\\carvaka-g3\\poster.pdf": "9f272184d67fe5834f8baa3a00d2e813947042a20767215f0a11aa609f5e7303",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-03\\carvaka-g3\\preservation-hashes.json": "2d41976751726a254b05c82373c3bfac019da48028039f92fe8e1e46e4cfa5b3",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-03\\carvaka-g3\\README.txt": "a2460d2e1e7326c824cbccc7c555ff6b28cb7767718454d582b197368dbe2f09",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-03\\carvaka-g3\\tiled.pdf": "5109c77550f7e3493972b2970596c3b6b9871744c5f14fb740b48339268293c2",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-03\\carvaka-g3\\validation-report.txt": "87f09a346347ea8c54e6246acc732de6ce0f79aab520783d2988a08796f2f27c",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-03\\carvaka-g3\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-03\\carvaka-g3\\editable\\topic-spec.json": "38f75190285fce1579e6f78f2634ee66148833ad8499a2b760022460cbaffa93",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-03\\carvaka-g3\\previews\\contact-sheet-01.png": "151fdd29d9f6ea64e4d74f0c158b6bb2baacd6d89961f20a3a08b09dbc02fb4a",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-03\\carvaka-g3\\previews\\master-overview.png": "bb9c7d47ebf29b5161cd45aa5fedde8864f46d2a689acda107eceb2e903a0822",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-03\\carvaka-g3\\previews\\page-001.png": "cbcba1e77d4051cf6a243aa24cac96976a0e307405a7b85d72c3f0c68f57129e",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-03\\carvaka-g3\\previews\\page-002.png": "3d5d24f4bbd84f2f770eeb72dbd42e88ff40614f61f1de982790596d07d48d5d",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-03\\carvaka-g3\\previews\\page-003.png": "d985d7bacb892a25187476e5ff057e087e0ae203bf0e54f7f40364ba7012c2fc",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Socio-Political\\flowcharts\\topic-03\\carvaka-g3\\previews\\page-004.png": "1d1733118a90a6adffec96b0ae7ef112617a594af97617caf88c67ecddcfdad0"
+  },
+  "baseline_record_id": "philosophy-paper-ii-socio-political-philosophy-03:learner-v2:g2",
+  "baseline_scores": {
+    "complete_learning_session": 39,
+    "solved_practice_workbook": 26,
+    "graphical_flowchart": 15,
+    "ascii_master_flowchart": 14,
+    "total": 94
+  },
+  "re_review_scores": {
+    "complete_learning_session": 39,
+    "solved_practice_workbook": 29,
+    "graphical_flowchart": 15,
+    "ascii_master_flowchart": 14,
+    "total": 97
+  },
+  "baseline_defects": [
+    "Solved answers lack answer-specific How to improve and executable compression guidance."
+  ],
+  "review_state": "passed"
+}

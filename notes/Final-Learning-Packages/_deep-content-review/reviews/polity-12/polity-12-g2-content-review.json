@@ -1,0 +1,40 @@
+{
+  "topic_key": "polity-12",
+  "reviewed_identity": "polity-12:learner-v2:g2",
+  "review_date": "2026-08-28",
+  "score": {
+    "complete_learning_session": 31,
+    "solved_practice_workbook": 17,
+    "graphical_flowchart": 10,
+    "ascii_master_flowchart": 10,
+    "total": 68
+  },
+  "status": "changes_suggested",
+  "approved": false,
+  "hard_gates": {
+    "syllabus_core_complete": false,
+    "facts_verified": false,
+    "pyqs_verified": false,
+    "model_answers_marks_worthy": false,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": false,
+    "current_data_source_dated": false
+  },
+  "issues": [
+    "Core explains legislative distribution well but delegates away the examinable administrative and financial distribution: Articles 256-263, the Article 355/356 distinction and the main Articles 268-281/293 fiscal architecture are not taught as one usable Core route.",
+    "Basic and Advanced owners retain unsafe textbook shorthand: India is called unitary in spirit, States are called sovereign in their fields, and the Governor is called the Centre's agent without a misuse qualification.",
+    "Only five PYQs are solved. Relevant verified routes on the 2020 centralising tendency, 2023 Article 356, 2023 GST accommodative federalism, 2024 Centre-State relations and 2025 fiscal federalism are absent.",
+    "None of the ten Mains models has Why this earns marks or answer-specific How to improve guidance; the 2020 10-mark PYQ and M1 exceed the 150-word demand.",
+    "Current control predates publication of the Sixteenth Finance Commission report and does not record its 17 November 2025 submission/publication provenance or the latest official GST/Inter-State institutional anchors.",
+    "The nine-stage graphical and nine-panel ASCII masters compress the complete administrative/financial distribution, asymmetry, current institutions, ten-PYQ route and marks-scaled answer execution.",
+    "Generated recall prose contains truncation ellipses, generic scaffolding and lower-case corruption such as 'gST' and 'india', so prose integrity fails despite clean rendering."
+  ],
+  "baseline_pages": {
+    "complete_learning_session": 41,
+    "solved_practice_workbook": 13,
+    "graphical_poster": 1,
+    "graphical_tiled": 3,
+    "ascii_master_pdf": 9
+  },
+  "immutable_lock": "g2-identity-lock.json"
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-52",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-52",
+  "title": "NCRWC and Working of the Constitution",
+  "generation_date": "2026-08-28",
+  "command": "Generate learner-v2 topic: Polity — NCRWC and Working of the Constitution — deep-reviewed immutable g3",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\NCRWC-and-Working-of-the-Constitution.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\NCRWC-and-Working-of-the-Constitution.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\52_NCRWC-and-Working-of-the-Constitution.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-of-Constitution.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Supreme-Court.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY:2024- 2025.md"
+  ],
+  "official_question_sources": [
+    "books\\mains\\02 UPSC 2024 Paper-II.pdf"
+  ],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf"
+  ],
+  "live_sources": [
+    "https://legalaffairs.gov.in/national-commission-review-working-constitution-ncrwc-report",
+    "https://legislative.gov.in/constitution-of-india/",
+    "https://upsc.gov.in/examinations/previous-question-papers"
+  ],
+  "practice_profile": "Four exact supporting Mains PYQs; 48 hard MCQs in strict A-B-C-D rotation; eight original Mains questions with answer-specific guidance.",
+  "current_linkage_note": "Current legal status is controlled through constitutional text, later legal instruments and judgments; similarity is not treated as attribution.",
+  "pyq_status_note": "No direct NCRWC-specific Mains PYQ located; four exact supporting cross-owned routes are clearly labelled.",
+  "allow_existing_history": true,
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\NCRWC-and-Working-of-the-Constitution.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\52_NCRWC-and-Working-of-the-Constitution.md",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-52-2026-08-25-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-52.json",
+    "tools\\deep_content_quality_overrides.json"
+  ]
+}

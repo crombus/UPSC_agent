@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "polity-16-g5-intermediate",
+  "validated_on": "2026-08-28T08:40:00+05:30",
+  "selection": "polity-16-g5-technical-pass-consequence-truncation-repair-pending",
+  "topic_count": 1,
+  "passed": true,
+  "errors": [],
+  "topics": [
+    {
+      "topic_key": "polity-16",
+      "record_id": "polity-16:learner-v2:g5",
+      "generation": 5,
+      "passed": true,
+      "errors": [],
+      "tests_passed": 38,
+      "content_review_status": "revalidation_pending",
+      "known_issue": "Sixteen generated consequence lines were length-truncated with ellipses; immutable g6 required."
+    }
+  ]
+}

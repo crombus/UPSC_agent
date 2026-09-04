@@ -1,0 +1,14 @@
+{
+  "topic_key": "modern-indian-history-09",
+  "locked_at": "2026-09-04T09:54:57.010694+00:00",
+  "master_tracker_identity": "modern-indian-history-09:learner-v2:g4",
+  "generation": 4,
+  "approval": false,
+  "hashes": {
+    "markdown": "30eff60e0f3537ef6f9ff5204e4d1e0d98b629ba7dd2a07b94c93c2e4147f421",
+    "main_pdf": "8a7bb892304a73d4a6b3489116a84d8b9d9915cf6e7848ff00c38ebbce2becf7",
+    "workbook": "658337adfb5e62e226f15d5cd3af9ce972b4346de6fc7108930688fb48dd54eb",
+    "graphical_master": "ed06e7b85a9b3db7e9e1dcf2be14126c8991ee72a1d5c6fad81c284d8781c8dc",
+    "ascii_master": "76009bd36e9ac6d8fa9a10d8840449b9d740ddadc77f31b0bc6057e4ba0bd64e"
+  }
+}

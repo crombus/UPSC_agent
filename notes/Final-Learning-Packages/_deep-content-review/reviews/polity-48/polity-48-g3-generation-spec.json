@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-48",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-48",
+  "title": "Ministries Departments and Central Secretariat",
+  "generation_date": "2026-08-28",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Ministries Departments and Central Secretariat — deep-reviewed immutable g3",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-48\\g3-source\\polity-48_g3-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Ministries-and-Departments-of-Government.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Ministries-and-Departments-of-Government.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\48_Ministries-Departments-and-Central-Secretariat.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\PM-and-Council-of-Ministers.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Public-Services.md",
+    "upsc-ai-kit\\knowledge\\Governance\\basic\\05_E-Governance-Models-and-User-Centricity.md",
+    "upsc-ai-kit\\knowledge\\Governance\\basic\\09_Civil-Services-and-Mission-Karmayogi.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+  ],
+  "official_question_sources": [
+    "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf",
+    "books\\mains\\02 UPSC 2024 Paper-II.pdf",
+    "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf",
+    "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf"
+  ],
+  "local_ocr_sources": ["books\\Indian Polity by M Laxmikant.pdf"],
+  "live_sources": [
+    "https://legislative.gov.in/constitution-of-india/",
+    "https://cabsec.gov.in/allocationofbusinessrules/completeaobrules/",
+    "https://cabsec.gov.in/writereaddata/transactionofbusinessrulescomplete/completeaobrules/english/1_Upload_2214.pdf",
+    "https://cabsec.gov.in/aboutus/functions/",
+    "https://darpg.gov.in/sites/default/files/CSMOP_16th_Edition_2022.pdf",
+    "https://www.pmindia.gov.in/en/list-of-officers-pmo/",
+    "https://upsc.gov.in/examinations/previous-question-papers"
+  ],
+  "practice_profile": "Four exact relevant PYQs; 48 hard MCQs in strict A-B-C-D rotation; eight original Mains questions; twelve answer-specific guidance sets.",
+  "current_linkage_note": "Current organisational names, Cabinet Committee composition and PMO staffing are treated as dated official claims, not permanent constitutional facts.",
+  "pyq_status_note": "Exact 2025 Prelims Q57, 2020 GS-II Q7/Q8 and 2024 GS-II Q3 are solved; supporting cross-ownership is labelled.",
+  "allow_existing_history": true,
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Ministries-and-Departments-of-Government.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\48_Ministries-Departments-and-Central-Secretariat.md",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-48\\g3-source\\polity-48_g3-reviewed-source.md",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-48-2026-08-25-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-48.json",
+    "tools\\deep_content_quality_overrides.json"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "record_id": "philosophy-paper-ii-socio-political-philosophy-09:learner-v2:g3",
+  "generation": 3,
+  "scores": {
+    "complete_learning_session": 38,
+    "solved_practice_workbook": 26,
+    "graphical_flowchart": 15,
+    "ascii_master_flowchart": 14,
+    "total": 93
+  },
+  "metrics": {
+    "markdown_characters": 198939,
+    "mcq_count": 48,
+    "mcq_rotation": true,
+    "why_this_earns_marks": 12,
+    "how_to_improve": 0,
+    "refreshed_validation_error_count": 0,
+    "main_pages": 61,
+    "workbook_pages": 20,
+    "main_layout": {
+      "page_count": 61,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook_layout": {
+      "page_count": 20,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "graphical_validation_passed": true
+  },
+  "defects": [
+    "Solved answers lack answer-specific How to improve and executable compression guidance.",
+    "The 106th Amendment example lacks the dated 16 April 2026 commencement update."
+  ]
+}

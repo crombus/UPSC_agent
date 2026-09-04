@@ -1,0 +1,207 @@
+The Stone Age: Palaeolithic & Mesolithic — COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+START / CENTRAL QUESTION
+  Roadmap, Syllabus Boundary and Evidence Discipline: The Stone Age is the longest span of the human past and must be studied as history reconstructed without texts.
+        |
+        v
++-- SESSION 01: ROADMAP, SYLLABUS BOUNDARY AND EVIDENCE DISCIPLINE
+|   DEFINITION / TERMS : Roadmap, Syllabus Boundary and Evidence Discipline: The Stone Age is the longest span of the human past and must be studied as history reconstructed without texts.
+|   MECHANISM / ARGUMENT: Correct: It means history reconstructed mainly through material, biological and environmental evidence.
+|   CONSEQUENCE / CONTRAST: Qdrant was optional and was not used.
+|   TRAP / ANSWER-USE: Qdrant was optional and was not used.
+|   EXAM OPENING: FACT: Static foundation comes first from the authored Topic 04 basic and advanced files, then local OCR-searchable R.S.
++--
+        |
+        v
++-- SESSION 02: GEOLOGICAL CONTEXT: PLEISTOCENE, HOLOCENE AND CHANGING LANDSCAPES
+|   DEFINITION / TERMS : Context: The textbook equation Palaeolithic equals Pleistocene and Mesolithic equals Holocene is a useful first approximation, not a rigid law.
+|   MECHANISM / ARGUMENT: Mains angle: Explain climate as mechanism, not master cause: climate - water/biota - resource distribution - technological and mobility response.
+|   CONSEQUENCE / CONTRAST: The Pleistocene began about 2.6 million years ago and contained repeated cold-warm oscillations; the Holocene began about 12,000 years ago.
+|   TRAP / ANSWER-USE: CURRENT: The 2024 Retlapalle study and the 2026 South Asian Palaeolithic symposium show that chronology and environmental context remain active research fields rather than settled textbook tables.
+|   EXAM OPENING: CURRENT: The 2024 Retlapalle study and the 2026 South Asian Palaeolithic symposium show that chronology and environmental context remain active research fields rather than settled textbook tables.
++--
+        |
+        v
++-- SESSION 03: HUMAN EVOLUTION AND THE SPARSE INDIAN HOMININ RECORD
+|   DEFINITION / TERMS : Human evolution is included only to the extent necessary for Indian prehistory.
+|   MECHANISM / ARGUMENT: Correct: It refers to an archaic human population first identified through remains and DNA from Denisova Cave.
+|   CONSEQUENCE / CONTRAST: Human evolution is included only to the extent necessary for Indian prehistory.
+|   TRAP / ANSWER-USE: Biological evolution was branching and reticulate, not a neat ladder.
+|   EXAM OPENING: CURRENT: Science Advances, 24 July 2026, published genome-wide data from Old Lady Spider Cave in Ladakh.
++--
+        |
+        v
++-- SESSION 04: LITHIC EVIDENCE GRAMMAR: ARTEFACT, CORE, FLAKE, DEBITAGE AND CONTEXT
+|   DEFINITION / TERMS : Lithic Evidence Grammar: Artefact, Core, Flake, Debitage and Context: A stone tool is the surviving product of a technological sequence.
+|   MECHANISM / ARGUMENT: METHOD: Distinguish a factory site, habitation site, butchery area and short camp through the whole assemblage.
+|   CONSEQUENCE / CONTRAST: Archaeologists reconstruct procurement, preparation, production, use, repair and discard from cores, flakes, unfinished pieces, hammerstones, waste and use-wear.
+|   TRAP / ANSWER-USE: Answer-use: CURRENT: Retlapalle's published lithic analysis counted cores, flakes, retouched pieces, cortex, scars, platforms and reduction strategies, illustrating how modern prehistory moves beyond naming a few finished tools.
+|   EXAM OPENING: CURRENT: Retlapalle's published lithic analysis counted cores, flakes, retouched pieces, cortex, scars, platforms and reduction strategies, illustrating how modern prehistory moves beyond naming a few finished tools.
++--
+        |
+        v
++-- SESSION 05: DATING AND ARCHAEOLOGICAL METHODS: BUILDING A DEFENSIBLE CHRONOLOGY
+|   DEFINITION / TERMS : Dating and Archaeological Methods: Building a Defensible Chronology: INFERENCE: Precision is not the same as accuracy; a narrow date on the wrong event is misleading.
+|   MECHANISM / ARGUMENT: Luminescence methods are therefore especially important because they can date sediment burial or last light exposure, while ESR, uranium-series, palaeomagnetism and potassium-argon address other materials and time depths.
+|   CONSEQUENCE / CONTRAST: Luminescence methods are therefore especially important because they can date sediment burial or last light exposure, while ESR, uranium-series, palaeomagnetism and potassium-argon address other materials and time depths.
+|   TRAP / ANSWER-USE: A strong chronology combines stratigraphy, sediment history, typology and appropriate scientific dates rather than treating one laboratory number as self-explanatory.
+|   EXAM OPENING: CURRENT: Tamil Nadu's recent scientific-dating programme and the 2024 Retlapalle study demonstrate the expanding use of luminescence and laboratory analysis in Indian archaeology.
++--
+        |
+        v
++-- SESSION 06: LOWER PALAEOLITHIC: ACHEULIAN LANDSCAPES AND LARGE CUTTING TOOLS
+|   DEFINITION / TERMS : The Lower Palaeolithic is marked by large core and flake tools, especially Acheulian handaxes and cleavers in peninsular India.
+|   MECHANISM / ARGUMENT: The Lower Palaeolithic is marked by large core and flake tools, especially Acheulian handaxes and cleavers in peninsular India.
+|   CONSEQUENCE / CONTRAST: Correct: The old contrast based on supposed absence of pebble tools has been rejected.
+|   TRAP / ANSWER-USE: It represents repeated occupation of resource-rich landscapes rather than a single uniform culture moving across an empty map.
+|   EXAM OPENING: CURRENT: The 2026 'Rethinking Deep Time' symposium at IIT Gandhinagar highlighted transitions, origins, identities and new dating evidence in South Asian Palaeolithic archaeology.
++--
+        |
+        v
++-- SESSION 07: RAW MATERIALS, FACTORY SITES AND THE ECONOMICS OF STONE
+|   DEFINITION / TERMS : Raw Materials, Factory Sites and the Economics of Stone: Wrong: Local stone means no mobility.
+|   MECHANISM / ARGUMENT: INFERENCE: Raw-material distance can indicate direct procurement, seasonal rounds, exchange or embedded travel; it does not identify one mechanism automatically.
+|   CONSEQUENCE / CONTRAST: Grain, fracture quality, nodule size, distance and intended tool form shaped selection.
+|   TRAP / ANSWER-USE: Stone was not an undifferentiated resource.
+|   EXAM OPENING: CURRENT: Modern lithic studies, including Retlapalle and the 2025 Lower Ganga microlithic study, use raw-material selection and reduction strategies to reconstruct mobility and ecology.
++--
+        |
+        v
++-- SESSION 08: ATTIRAMPAKKAM AND THE CHRONOLOGY DEBATE
+|   DEFINITION / TERMS : Attirampakkam in the Kortallaiyar basin is central because multidisciplinary excavation exposed a long fluvial sequence containing Acheulian and Middle Palaeolithic technologies.
+|   MECHANISM / ARGUMENT: Attirampakkam in the Kortallaiyar basin is central because multidisciplinary excavation exposed a long fluvial sequence containing Acheulian and Middle Palaeolithic technologies.
+|   CONSEQUENCE / CONTRAST: Its dates pushed the South Indian record far earlier than older textbook periodization.
+|   TRAP / ANSWER-USE: CURRENT: The 2026 South Asian Palaeolithic symposium foregrounded precisely the problem Attirampakkam raises: transitions cannot be assumed from inherited European period bands.
+|   EXAM OPENING: CURRENT: The 2026 South Asian Palaeolithic symposium foregrounded precisely the problem Attirampakkam raises: transitions cannot be assumed from inherited European period bands.
++--
+        |
+        v
++-- SESSION 09: MIDDLE PALAEOLITHIC: FLAKE INDUSTRIES AND PREPARED-CORE PLANNING
+|   DEFINITION / TERMS : Middle Palaeolithic: Flake Industries and Prepared-Core Planning: Wrong: Levallois is a finished tool type.
+|   MECHANISM / ARGUMENT: The label 'Middle Palaeolithic' therefore names a broad technological pattern, not a homogeneous population or simultaneous event.
+|   CONSEQUENCE / CONTRAST: The label 'Middle Palaeolithic' therefore names a broad technological pattern, not a homogeneous population or simultaneous event.
+|   TRAP / ANSWER-USE: Prepared-core methods demonstrate anticipation of the desired blank before the decisive blow, though handaxes and cleavers did not disappear everywhere.
+|   EXAM OPENING: CURRENT: PLOS ONE's Retlapalle study, published 27 August 2024, documented a terminal Middle Pleistocene Middle Palaeolithic assemblage with Levallois, discoidal, radial, blade and unidirectional core strategies.
++--
+        |
+        v
++-- SESSION 10: UPPER PALAEOLITHIC: BLADES, BONE TOOLS AND SYMBOLIC EXPANSION
+|   DEFINITION / TERMS : The Upper Palaeolithic is conventionally associated with parallel-sided blades, burins, bone tools, ornaments and more visible symbolic evidence.
+|   MECHANISM / ARGUMENT: The Upper Palaeolithic is conventionally associated with parallel-sided blades, burins, bone tools, ornaments and more visible symbolic evidence.
+|   CONSEQUENCE / CONTRAST: It represents technological diversification during the later Pleistocene, but older heavy tools remained useful for some tasks.
+|   TRAP / ANSWER-USE: INFERENCE: Symbolic evidence expands, yet does not justify reconstructing a formal religion.
+|   EXAM OPENING: CURRENT: Scientific reassessment of early microliths and Late Pleistocene occupations continues to blur a rigid Upper Palaeolithic-Mesolithic boundary.
++--
+        |
+        v
++-- SESSION 11: TECHNOLOGY AS ADAPTATION: CORE TOOLS TO MICROLITHIC COMPOSITES
+|   DEFINITION / TERMS : Technology as Adaptation: Core Tools to Microlithic Composites: FACT: A microlith is generally under 5 cm and often made on short blades of cryptocrystalline stone.
+|   MECHANISM / ARGUMENT: Heavy and small tools can coexist because they solve different problems.
+|   CONSEQUENCE / CONTRAST: It must not be read as a universal ladder of intelligence or a clean replacement sequence.
+|   TRAP / ANSWER-USE: It must not be read as a universal ladder of intelligence or a clean replacement sequence.
+|   EXAM OPENING: CURRENT: The 2025 Lower Ganga Basin microlithic study explicitly combines chronology, ecology, raw-material selection and reduction strategies, reinforcing a systems approach to technology.
++--
+        |
+        v
++-- SESSION 12: MOBILITY, SETTLEMENT AND SOCIAL LIFE OF PALAEOLITHIC COMMUNITIES
+|   DEFINITION / TERMS : Mobility, Settlement and Social Life of Palaeolithic Communities: Context: Band society is a cautious ethnographic model: small kin-based groups, reciprocal sharing, flexible leadership and division of labour.
+|   MECHANISM / ARGUMENT: Correct: Site systems and raw-material routes indicate planned movement through known landscapes.
+|   CONSEQUENCE / CONTRAST: Mobility was scheduled around water, food, stone and seasonality.
+|   TRAP / ANSWER-USE: CURRENT: Landscape and raw-material studies increasingly reconstruct networks of sites rather than treating every artefact scatter as an isolated camp.
+|   EXAM OPENING: CURRENT: Landscape and raw-material studies increasingly reconstruct networks of sites rather than treating every artefact scatter as an isolated camp.
++--
+        |
+        v
++-- SESSION 13: SUBSISTENCE AND CLIMATE-ECOLOGY ADAPTATION
+|   DEFINITION / TERMS : INFERENCE: 'Broad-spectrum adaptation' describes diversification without assuming farming.
+|   MECHANISM / ARGUMENT: CURRENT: Kachchh shell-midden research publicized by PIB and IIT Gandhinagar on 4 June 2025 used AMS radiocarbon dating to establish pre-Harappan coastal hunter-gatherer adaptations.
+|   CONSEQUENCE / CONTRAST: Hunting matters, but gathering, fishing, shellfish collection, scavenging, plant processing and small-animal capture may have supplied substantial food.
+|   TRAP / ANSWER-USE: Answer-use: CURRENT: Kachchh shell-midden research publicized by PIB and IIT Gandhinagar on 4 June 2025 used AMS radiocarbon dating to establish pre-Harappan coastal hunter-gatherer adaptations.
+|   EXAM OPENING: CURRENT: Kachchh shell-midden research publicized by PIB and IIT Gandhinagar on 4 June 2025 used AMS radiocarbon dating to establish pre-Harappan coastal hunter-gatherer adaptations.
++--
+        |
+        v
++-- SESSION 14: PALAEOLITHIC ART, ORNAMENT AND CULT EVIDENCE
+|   DEFINITION / TERMS : Palaeolithic Art, Ornament and Cult Evidence: FACT: Baghor I's roughly circular rubble platform held a patterned triangular stone and is dated in the cited account to c.
+|   MECHANISM / ARGUMENT: CURRENT: Conservation science and direct/indirect dating remain crucial because claims about 'oldest art' are especially vulnerable to overstatement.
+|   CONSEQUENCE / CONTRAST: These finds show non-utilitarian behaviour but do not permit a complete reconstruction of religion.
+|   TRAP / ANSWER-USE: These finds show non-utilitarian behaviour but do not permit a complete reconstruction of religion.
+|   EXAM OPENING: CURRENT: Conservation science and direct/indirect dating remain crucial because claims about 'oldest art' are especially vulnerable to overstatement.
++--
+        |
+        v
++-- SESSION 15: MESOLITHIC TRANSITION: HOLOCENE ADAPTATION, NOT A SINGLE REVOLUTION
+|   DEFINITION / TERMS : CURRENT: Recent regional microlithic research in the Lower Ganga Basin treats chronology and ecology together, reinforcing that the Mesolithic is regionally defined.
+|   MECHANISM / ARGUMENT: Mains angle: Evaluate the Mesolithic through continuity and change: foraging continues, but toolkit, niche breadth, residence and ritual visibility change.
+|   CONSEQUENCE / CONTRAST: It was neither merely a gap between two important ages nor an automatic farming stage.
+|   TRAP / ANSWER-USE: Upinder Singh shows that microliths begin earlier at some sites and continue later, so phase labels must be linked to assemblage and subsistence rather than tool size alone.
+|   EXAM OPENING: CURRENT: Recent regional microlithic research in the Lower Ganga Basin treats chronology and ecology together, reinforcing that the Mesolithic is regionally defined.
++--
+        |
+        v
++-- SESSION 16: MICROLITHS AND COMPOSITE TECHNOLOGY
+|   DEFINITION / TERMS : Microliths and Composite Technology: INFERENCE: Bow-and-arrow use is plausible at many sites but should be supported by impact and contextual evidence.
+|   MECHANISM / ARGUMENT: CURRENT: The 2025 article 'Understanding the Microlithic Technology in the Lower Ganga Basin' examines microliths through chronological and ecological perspectives rather than treating them as a timeless fossil type.
+|   CONSEQUENCE / CONTRAST: Their importance lies in modular composite technology.
+|   TRAP / ANSWER-USE: CURRENT: The 2025 article 'Understanding the Microlithic Technology in the Lower Ganga Basin' examines microliths through chronological and ecological perspectives rather than treating them as a timeless fossil type.
+|   EXAM OPENING: CURRENT: The 2025 article 'Understanding the Microlithic Technology in the Lower Ganga Basin' examines microliths through chronological and ecological perspectives rather than treating them as a timeless fossil type.
++--
+        |
+        v
++-- SESSION 17: MESOLITHIC SUBSISTENCE, SEDENTARINESS AND DOMESTICATION DEBATES
+|   DEFINITION / TERMS : Context: Sedentariness is a continuum.
+|   MECHANISM / ARGUMENT: Mesolithic economies combined hunting, gathering, fishing, aquatic resources and plant processing.
+|   CONSEQUENCE / CONTRAST: Some sites report domesticated animals, pottery or cultivated plants, but identification, stratigraphy and dating are frequently contested.
+|   TRAP / ANSWER-USE: Answer-use: CURRENT: Kachchh shell middens and Lower Ganga microlithic studies highlight coastal and alluvial adaptations beyond the classic central-Indian rock-shelter model.
+|   EXAM OPENING: CURRENT: Kachchh shell middens and Lower Ganga microlithic studies highlight coastal and alluvial adaptations beyond the classic central-Indian rock-shelter model.
++--
+        |
+        v
++-- SESSION 18: BURIALS, RITUAL AND SOCIAL ORGANIZATION
+|   DEFINITION / TERMS : CURRENT: The 2026 Ladakh aDNA study is later than the Stone Age, but it illustrates how burials can now be studied through osteology, radiocarbon, kinship and genome-wide data together.
+|   MECHANISM / ARGUMENT: CURRENT: The 2026 Ladakh aDNA study is later than the Stone Age, but it illustrates how burials can now be studied through osteology, radiocarbon, kinship and genome-wide data together.
+|   CONSEQUENCE / CONTRAST: Burial is an action by survivors, not a transparent portrait of the deceased.
+|   TRAP / ANSWER-USE: Burial is an action by survivors, not a transparent portrait of the deceased.
+|   EXAM OPENING: CURRENT: The 2026 Ladakh aDNA study is later than the Stone Age, but it illustrates how burials can now be studied through osteology, radiocarbon, kinship and genome-wide data together.
++--
+        |
+        v
++-- SESSION 19: ROCK ART: BHIMBETKA, REGIONAL TRADITIONS AND INTERPRETATION
+|   DEFINITION / TERMS : Rock Art: Bhimbetka, Regional Traditions and Interpretation: It is an archaeological source, not a picture-book transcript.
+|   MECHANISM / ARGUMENT: ASI remains the official site manager.
+|   CONSEQUENCE / CONTRAST: Rock art includes paintings and petroglyphs.
+|   TRAP / ANSWER-USE: It is an archaeological source, not a picture-book transcript.
+|   EXAM OPENING: CURRENT: On 25 April 2026 the Madhya Pradesh Tourism Board promoted Bhimbetka as a global prehistoric-art destination, renewing the UPSC link between interpretation, tourism pressure and conservation.
++--
+        |
+        v
++-- SESSION 20: MAJOR INDIAN SITES AND REGIONAL TRADITIONS: A TEXT MAP
+|   DEFINITION / TERMS : Indian prehistory is a mosaic of river valleys, plateaus, deserts, coasts, caves and alluvial plains.
+|   MECHANISM / ARGUMENT: CURRENT: New research continues to add sites and revise dates; UPSC therefore rewards site-region-evidence matching more than memorizing one national sequence.
+|   CONSEQUENCE / CONTRAST: CURRENT: New research continues to add sites and revise dates; UPSC therefore rewards site-region-evidence matching more than memorizing one national sequence.
+|   TRAP / ANSWER-USE: Answer-use: CURRENT: New research continues to add sites and revise dates; UPSC therefore rewards site-region-evidence matching more than memorizing one national sequence.
+|   EXAM OPENING: CURRENT: New research continues to add sites and revise dates; UPSC therefore rewards site-region-evidence matching more than memorizing one national sequence.
++--
+        |
+        v
++-- SESSION 21: CONTINUITY AND CHANGE TOWARD THE NEOLITHIC
+|   DEFINITION / TERMS : Continuity and Change toward the Neolithic: The overlap is regionally variable; no single feature dates every transition.
+|   MECHANISM / ARGUMENT: FACT: Chopani Mando preserves a sequence from epi-Palaeolithic through Mesolithic toward early settled food processing.
+|   CONSEQUENCE / CONTRAST: Mesolithic communities could experiment with plant intensification, animal management, pottery, storage and longer residence while continuing to hunt, gather and fish.
+|   TRAP / ANSWER-USE: Context: Neolithic markers include domesticated plants/animals, cultivation, more settled village life, polished tools and often pottery, but these features do not always arrive together.
+|   EXAM OPENING: CURRENT: Current regional research rejects a single 'revolution' date and examines how foragers, herders and cultivators overlapped.
++--
+        |
+        v
++-- SESSION 22: HISTORIOGRAPHICAL DEBATES, SOURCE LIMITATIONS AND CURRENT RESEARCH
+|   DEFINITION / TERMS : The central historiographical shift is from a typological culture ladder to regional, behavioural and interdisciplinary prehistory.
+|   MECHANISM / ARGUMENT: Correct: Analogy generates hypotheses; continuity requires historical evidence.
+|   CONSEQUENCE / CONTRAST: Tools remain essential, but they are now integrated with geomorphology, palaeoclimate, use-wear, residue, fauna, burials, aDNA and heritage science.
+|   TRAP / ANSWER-USE: Dates can conflict, samples are sparse, taphonomy is uneven, species identifications differ and current populations cannot be projected unchanged into the deep past.
+|   EXAM OPENING: CURRENT: Live anchors used here: Retlapalle PLOS ONE (27 August 2024); Kachchh shell middens, PIB/IITGN (4 June 2025); Lower Ganga microlithic study (2025); IITGN South Asian Palaeolithic symposium (29 January-2 February 2026); Ladakh aDNA, Science Advances (24 July 2026); Bhimbetka heritage promotion (25 April 2026).
++--
+        |
+        v
+ANSWER-WRITING SPINE
+definition -> exact terms -> mechanism/evidence -> consequence/contrast
+-> objection/trap -> qualified answer-use

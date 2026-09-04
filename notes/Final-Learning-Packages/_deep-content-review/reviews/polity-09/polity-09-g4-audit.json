@@ -1,0 +1,71 @@
+{
+  "identity": true,
+  "workbook_h1": true,
+  "keys": "ABCDABCDABCDABCDABCDABCDABCDABCD",
+  "rotation": true,
+  "rotation_notes_ok": true,
+  "why": 7,
+  "improve": 7,
+  "pending_control": true,
+  "wrong_claims": [],
+  "ascii_panels": 11,
+  "ascii_width": 96,
+  "answer_words": [
+    [
+      "M1",
+      155
+    ],
+    [
+      "M2",
+      142
+    ],
+    [
+      "M3",
+      213
+    ],
+    [
+      "M4",
+      182
+    ],
+    [
+      "M5",
+      195
+    ],
+    [
+      "M6",
+      235
+    ],
+    [
+      "M7",
+      214
+    ]
+  ],
+  "session_pages": 51,
+  "session_blanks": [],
+  "session_replacement": [],
+  "workbook_pages": 13,
+  "workbook_blanks": [],
+  "workbook_replacement": [],
+  "poster_pages": 1,
+  "poster_blanks": [],
+  "poster_replacement": [],
+  "tiles_pages": 4,
+  "tiles_blanks": [],
+  "tiles_replacement": [],
+  "master_size": [
+    4800,
+    9627
+  ],
+  "graph_core_count": 11,
+  "graph_extra_count": 1,
+  "hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g4\\polity-09_Complete-Learning-Session_2026-08-28.md": "a8e4791ad198a5dc2ebfbe9ece5814c0657639ec2345833f41b8bdf5b4cb2402",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g4\\polity-09_Solved-Practice-Workbook_2026-08-28.md": "d567c6dd890c84eae139cc4e87fed2b7f96794036953fc54f27f400fbfce323e",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g4\\polity-09_Complete-Learning-Session_2026-08-28.pdf": "a4c7833817238a0791d8abaf2442c96650f8b283cc8f767365eb44b98a16a715",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g4\\polity-09_Solved-Practice-Workbook_2026-08-28.pdf": "ac9036d89a90afd725af35bc9e8be458aee12bb6e51932e29683f8fe60f70e58",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-09\\carvaka-g4\\poster.pdf": "806f71ef75b91677b53d9b2343ec5dc1da5c9834cdc9d62125f340daa4a13e7f",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-09\\carvaka-g4\\tiled.pdf": "370153cc32682c434badd763e2ea47ff904fedb233e757546e425120b5facc76",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-09\\carvaka-g4\\master.png": "24328a0164a08e6f06cad2c2518e108e20fe31468c5c56731f8a337919782053",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-09\\carvaka-g4\\ascii-master.txt": "72f0405ce4a7d9e42f979d4791553cc6f509d2bc3a33496993409de943744494"
+  }
+}

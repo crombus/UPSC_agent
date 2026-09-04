@@ -1,0 +1,47 @@
+{
+  "identity": "polity-04:learner-v2:g18",
+  "score": 98,
+  "status": "passed",
+  "approved": false,
+  "passed": true,
+  "artifact_scores": {
+    "complete_learning_session": 39,
+    "solved_practice_workbook": 29,
+    "graphical_flowchart": 15,
+    "ascii_master_flowchart": 15
+  },
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": true,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": true,
+    "current_data_source_dated": true
+  },
+  "validation": {
+    "sessions": 20,
+    "session_pdf_pages": 77,
+    "workbook_pdf_pages": 22,
+    "mcqs": 48,
+    "mcq_rotation": "ABCD x 12",
+    "graphical_core_stages": 11,
+    "graphical_cards": 12,
+    "graphical_tiles": 4,
+    "ascii_panels": 11,
+    "blank_or_near_empty_pages": 0,
+    "replacement_glyph_pages": 0,
+    "exact_graphical_anchors": true,
+    "targeted_tests_passed": 85,
+    "full_suite_note": "193-test repository suite was also run; 17 unrelated pre-existing/baseline failures remained outside polity-04."
+  },
+  "artifact_hashes": {
+    "session": "0e7f14863cec57e22d9d22d830455b89d30fdb6da5a7ac74dab5767c3bac78ec",
+    "workbook": "d67ff2e8a6fe9654d0d29fb98dc358b401058ec620f28e0e9d3936fa9a28d984",
+    "poster": "76d8cff3c27d083bb9d930d65cf53b9772ca39bbbd7c91903fa0bb7b58ae5eb9",
+    "tiled": "aa7a46e37c617fd9dfff8bdd345ac511ed8a1b327567238d563ba16dcadff01a",
+    "master": "3beea3a95b8da0e1040a30d579ea4ccbfb37ecee5c6ef6d29274981ebb1c9fe0",
+    "ascii": "07fd14df0a685fac2ffcdde1c1d6f9a138a6d75e25af7639b48b4d8bd5b6e860"
+  },
+  "reason": "Fresh immutable g18 corrects factual/PYQ/practice/provenance defects, passes all four hard-gated artifact reviews, and remains explicitly unapproved."
+}

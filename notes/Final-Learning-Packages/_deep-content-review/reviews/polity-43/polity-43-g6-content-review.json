@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "record_id": "polity-43:learner-v2:g6",
+  "score": 97,
+  "status": "failed_revalidation",
+  "approval": false,
+  "hard_gates": {
+    "sessions": 15,
+    "mcqs": 48,
+    "rotation": "A-B-C-D x12",
+    "guidance_pairs": 10,
+    "ellipsis": 0,
+    "replacement_glyphs": 0,
+    "malformed_sentences": 1,
+    "ascii_panels": 12,
+    "ascii_max_width": 97,
+    "pdf_pages": {
+      "learning": 55,
+      "workbook": 17,
+      "poster": 1,
+      "tiled": 5
+    },
+    "tests_passed": 38
+  },
+  "manual_review": "failed one prose-integrity gate; generation preserved"
+}

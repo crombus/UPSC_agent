@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-26",
+  "record_id": "polity-26:learner-v2:g3",
+  "score": 96,
+  "status": "failed_manual_review",
+  "approval": false,
+  "issues": [
+    "ASCII master title lines for panels 8 and 9 exceeded the 100-character hard limit (106 and 111)."
+  ],
+  "preserved": true
+}

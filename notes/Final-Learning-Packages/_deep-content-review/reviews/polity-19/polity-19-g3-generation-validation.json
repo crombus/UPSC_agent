@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "selection": "polity-19-g3-technical-validation",
+  "generated_on": "2026-08-28",
+  "passed": true,
+  "topics": [
+    {
+      "topic_key": "polity-19",
+      "generation": 3,
+      "passed": true,
+      "errors": []
+    }
+  ],
+  "checks": {
+    "new_topic_validation": "passed",
+    "manual_content_review": "failed_stale_export_date",
+    "focused_tests": "38 passed"
+  }
+}

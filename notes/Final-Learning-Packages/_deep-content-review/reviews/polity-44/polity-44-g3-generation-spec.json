@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-44",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-44",
+  "title": "Pressure Groups",
+  "generation_date": "2026-08-28",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Pressure Groups — deep-reviewed immutable g3",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g3-source\\polity-44_g3-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Pressure-Groups.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Pressure-Groups.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\44_Pressure-Groups.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md"
+  ],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf"
+  ],
+  "live_sources": [
+    "https://legislative.gov.in/constitution-of-india/",
+    "https://www.indiacode.nic.in/handle/123456789/2098",
+    "https://api.sci.gov.in/supremecourt/2021/566/566_2021_35_1501_34890_Judgement_08-Apr-2022.pdf",
+    "https://legalaffairs.gov.in/sites/default/files/PLCP.pdf",
+    "https://upsc.gov.in/examinations/previous-question-papers"
+  ],
+  "practice_profile": "Exact 2019 GS-II Q3, 2021 GS-II Q5 and 2025 GS-II Q15; 36 original MCQs; 12 remedials; 8 original solved Mains; 11 answer-specific guidance sets.",
+  "current_linkage_note": "Constitutional channels, protest cases, FCRA 2010/2020, Noel Harper and lobbying-disclosure status checked to 28 August 2026; volatile organisation rankings and counts omitted.",
+  "pyq_status_note": "Exact direct 2019 GS-II Q3 (10/150), 2021 GS-II Q5 (10/150) and 2025 GS-II Q15 (15/250) solved.",
+  "allow_existing_history": true,
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Pressure-Groups.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\44_Pressure-Groups.md",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g3-source\\polity-44_g3-reviewed-source.md",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-44-2026-08-25-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-44.json",
+    "tools\\deep_content_quality_overrides.json"
+  ]
+}

@@ -1,0 +1,3 @@
+# Repair handoff — polity-22
+
+Preserve `polity-22:learner-v2:g2` and its 68/100 review. Correct the Basic, canonical and Advanced owners; complete Articles 371–371J with exact state, amendment, actor, mechanism and limits; qualify Article 370/35A and current J&K/Ladakh status; distinguish Fifth/Sixth Schedules; verify PYQs. Add ten answer-specific Why/How pairs, hard strict `ABCD × 12` MCQs, bespoke semantic controls and twelve agreeing Core flow routes plus subordinate Advanced. Allocate a new immutable generation only after re-reading live trackers. New review and approval must not be inherited.

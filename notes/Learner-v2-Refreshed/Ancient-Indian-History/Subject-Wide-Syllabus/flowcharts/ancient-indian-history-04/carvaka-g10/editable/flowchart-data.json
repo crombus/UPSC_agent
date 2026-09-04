@@ -1,0 +1,262 @@
+{
+  "schema_version": 1,
+  "topic_key": "ancient-indian-history-04",
+  "generation": 10,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-04\\g10\\ancient-indian-history-04_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    18730
+  ],
+  "stages": [
+    {
+      "title": "GEOLOGICAL CONTEXT: PLEISTOCENE, HOLOCENE AND CHANGING LANDSCAPES",
+      "terms": "Stone Age phases are anchored in geological time.",
+      "mechanism": "Explain climate as mechanism, not master cause: climate - water/biota - resource distribution - technological and mobility response.",
+      "consequence": "The impact of the Toba super-eruption on South Asian populations remains debated.",
+      "trap": "Do not miss this limiting distinction: thar evidence indicates more surface water during much of the Pleistocene and increased mid-Holocene...",
+      "answer": "The textbook equation Palaeolithic equals Pleistocene and Mesolithic equals Holocene is a useful first approximation, not a rigid law."
+    },
+    {
+      "title": "HUMAN EVOLUTION AND THE SPARSE INDIAN HOMININ RECORD",
+      "terms": "Technically, Human Evolution And The Sparse Indian Hominin Record is analysed by relating Human Evolution to The Sparse Indian Hominin Record, then testing the relationship through Mains angle and Study link.",
+      "mechanism": "Correct: It refers to an archaic human population first identified through remains and DNA from Denisova Cave.",
+      "consequence": "South Asia has a rich lithic record but a meagre authenticated hominin fossil record.",
+      "trap": "Biological evolution was branching and reticulate, not a neat ladder.",
+      "answer": "Human evolution is included only to the extent necessary for Indian prehistory."
+    },
+    {
+      "title": "LITHIC EVIDENCE GRAMMAR: ARTEFACT, CORE, FLAKE, DEBITAGE AND CONTEXT",
+      "terms": "Archaeologists reconstruct procurement, preparation, production, use, repair and discard from cores, flakes, unfinished pieces, hammerstones, waste and use-wear.",
+      "mechanism": "Archaeologists reconstruct procurement, preparation, production, use, repair and discard from cores, flakes, unfinished pieces, hammerstones, waste and use-wear.",
+      "consequence": "Correct: It can establish distribution, but behaviour and chronology require stronger context.",
+      "trap": "Do not miss this limiting distinction: source - core preparation - blank production - retouch/hafting - use - resharpening...",
+      "answer": "CURRENT: Retlapalle's published lithic analysis counted cores, flakes, retouched pieces, cortex, scars, platforms and reduction strategies, illustrating how modern prehistory moves beyond naming a few finished tools."
+    },
+    {
+      "title": "DATING AND ARCHAEOLOGICAL METHODS: BUILDING A DEFENSIBLE CHRONOLOGY",
+      "terms": "Rock art can be approached through superimposition, style, associated deposits, pigment/accretion radiocarbon, luminescence and uranium-series methods.",
+      "mechanism": "Rock art can be approached through superimposition, style, associated deposits, pigment/accretion radiocarbon, luminescence and uranium-series methods.",
+      "consequence": "Precision is not the same as accuracy; a narrow date on the wrong event is misleading.",
+      "trap": "Do not miss this limiting distinction: relative dating establishes order; absolute methods estimate age ranges.",
+      "answer": "Luminescence methods are therefore especially important because they can date sediment burial or last light exposure, while ESR, uranium-series, palaeomagnetism and potassium-argon address other materials and time depths."
+    },
+    {
+      "title": "LOWER PALAEOLITHIC: ACHEULIAN LANDSCAPES AND LARGE CUTTING TOOLS",
+      "terms": "Upinder Singh notes that Palaeolithic tools are widespread but excavated habitation sites are comparatively few.",
+      "mechanism": "Compare textbook chronology with newer site dates, then explain the phase through landscape, manufacture and mobility rather than a list of tools.",
+      "consequence": "Upinder Singh notes that Palaeolithic tools are widespread but excavated habitation sites are comparatively few.",
+      "trap": "Do not miss this limiting distinction: the old contrast based on supposed absence of pebble tools has been rejected.",
+      "answer": "The Lower Palaeolithic is marked by large core and flake tools, especially Acheulian handaxes and cleavers in peninsular India."
+    },
+    {
+      "title": "RAW MATERIALS, FACTORY SITES AND THE ECONOMICS OF STONE",
+      "terms": "A factory site could also be a habitation or meeting place.",
+      "mechanism": "Raw-material distance can indicate direct procurement, seasonal rounds, exchange or embedded travel; it does not identify one mechanism automatically.",
+      "consequence": "A factory site could also be a habitation or meeting place.",
+      "trap": "Do not miss this limiting distinction: baghor II's Mesolithic lithic material was overwhelmingly waste, suggesting manufacture for use elsewhere.",
+      "answer": "Stone was not an undifferentiated resource."
+    },
+    {
+      "title": "ATTIRAMPAKKAM AND THE CHRONOLOGY DEBATE",
+      "terms": "Attirampakkam is a model case for how new dates revise periodization without eliminating uncertainty.",
+      "mechanism": "CURRENT: The 2026 South Asian Palaeolithic symposium foregrounded precisely the problem Attirampakkam raises: transitions cannot be assumed from inherited European period bands.",
+      "consequence": "The site does not prove which hominin species made the tools.",
+      "trap": "Do not attach the transition to Homo sapiens without fossil evidence.",
+      "answer": "Attirampakkam in the Kortallaiyar basin is central because multidisciplinary excavation exposed a long fluvial sequence containing Acheulian and Middle Palaeolithic technologies."
+    },
+    {
+      "title": "MIDDLE PALAEOLITHIC: FLAKE INDUSTRIES AND PREPARED-CORE PLANNING",
+      "terms": "The Middle Palaeolithic shows a shift in balance from large bifaces toward smaller, lighter flake tools.",
+      "mechanism": "Correct: It is a prepared-core reduction strategy that produces planned flakes.",
+      "consequence": "Prepared-core methods demonstrate anticipation of the desired blank before the decisive blow, though handaxes and cleavers did not disappear everywhere.",
+      "trap": "Do not miss this limiting distinction: middle Palaeolithic assemblages include scrapers, points, borers and other flake tools, with regional persistence...",
+      "answer": "The Middle Palaeolithic shows a shift in balance from large bifaces toward smaller, lighter flake tools."
+    },
+    {
+      "title": "UPPER PALAEOLITHIC: BLADES, BONE TOOLS AND SYMBOLIC EXPANSION",
+      "terms": "Technically, Upper Palaeolithic: Blades, Bone Tools And Symbolic Expansion is analysed by relating Upper Palaeolithic to Blades, then testing the relationship through Bone Tools and Symbolic Expansion.",
+      "mechanism": "Wrong: Upper Palaeolithic means only stone blades.",
+      "consequence": "Symbolic evidence expands, yet does not justify reconstructing a formal religion.",
+      "trap": "Ornament production implies skill, social communication and non-utilitarian value, but exact identity messages are unknown.",
+      "answer": "The Upper Palaeolithic is conventionally associated with parallel-sided blades, burins, bone tools, ornaments and more visible symbolic evidence."
+    },
+    {
+      "title": "TECHNOLOGY AS ADAPTATION: CORE TOOLS TO MICROLITHIC COMPOSITES",
+      "terms": "Composite tools reduce replacement cost because a broken insert can be changed without discarding the whole implement.",
+      "mechanism": "Composite tools reduce replacement cost because a broken insert can be changed without discarding the whole implement.",
+      "consequence": "It must not be read as a universal ladder of intelligence or a clean replacement sequence.",
+      "trap": "Miniaturization can support mobility and task diversity, not merely scarcity of stone.",
+      "answer": "Correct: Tool size reflects task, raw material and design, not a simple cognitive scale."
+    },
+    {
+      "title": "MOBILITY, SETTLEMENT AND SOCIAL LIFE OF PALAEOLITHIC COMMUNITIES",
+      "terms": "Technically, Mobility, Settlement And Social Life Of Palaeolithic Communities is analysed by relating Mobility to Settlement, then testing the relationship through Social Life Of Palaeolithic Communities and Mains angle.",
+      "mechanism": "Mobility was a knowledge-intensive adaptation involving routes, seasons and social ties.",
+      "consequence": "Reciprocity and sharing are plausible in small mobile groups, but status and gender cannot be reconstructed solely from analogy.",
+      "trap": "Do not miss this limiting distinction: mobility was scheduled around water, food, stone and seasonality.",
+      "answer": "It is not direct evidence for every prehistoric community."
+    },
+    {
+      "title": "SUBSISTENCE AND CLIMATE-ECOLOGY ADAPTATION",
+      "terms": "Palaeolithic and Mesolithic subsistence was broad and ecologically specific.",
+      "mechanism": "Kachchh shell middens preserve discarded shells from food consumption and were dated through AMS carbon-14 research.",
+      "consequence": "Hunting matters, but gathering, fishing, shellfish collection, scavenging, plant processing and small-animal capture may have supplied substantial food.",
+      "trap": "Resource diversity can support longer residence, but settlement permanence must be demonstrated independently.",
+      "answer": "Palaeolithic and Mesolithic subsistence was broad and ecologically specific."
+    },
+    {
+      "title": "PALAEOLITHIC ART, ORNAMENT AND CULT EVIDENCE",
+      "terms": "CURRENT: Conservation science and direct/indirect dating remain crucial because claims about 'oldest art' are especially vulnerable to overstatement.",
+      "mechanism": "CURRENT: Conservation science and direct/indirect dating remain crucial because claims about 'oldest art' are especially vulnerable to overstatement.",
+      "consequence": "These finds show non-utilitarian behaviour but do not permit a complete reconstruction of religion.",
+      "trap": "Continuity with present communities can inspire questions but cannot prove unchanged belief.",
+      "answer": "Indian Palaeolithic symbolic evidence includes cupules, engravings, beads, unusual discs, ochre and the debated Baghor I platform."
+    },
+    {
+      "title": "MESOLITHIC TRANSITION: HOLOCENE ADAPTATION, NOT A SINGLE REVOLUTION",
+      "terms": "Pottery is absent at many Mesolithic sites but occurs at some.",
+      "mechanism": "The Mesolithic record is larger and more socially detailed than the Indian Palaeolithic record.",
+      "consequence": "Pottery is absent at many Mesolithic sites but occurs at some.",
+      "trap": "Transition means changing proportions and combinations, not universal replacement.",
+      "answer": "CURRENT: Recent regional microlithic research in the Lower Ganga Basin treats chronology and ecology together, reinforcing that the Mesolithic is regionally defined."
+    },
+    {
+      "title": "MICROLITHS AND COMPOSITE TECHNOLOGY",
+      "terms": "Explain why microliths are a technological system: production + backing + hafting + replaceability + functional diversity.",
+      "mechanism": "Do not date an undated surface microlith merely by typology.",
+      "consequence": "Bow-and-arrow use is plausible at many sites but should be supported by impact and contextual evidence.",
+      "trap": "Do not miss this limiting distinction: explain why microliths are a technological system.",
+      "answer": "Microliths are small stone inserts, usually under 5 cm, commonly made on short blades of chert, chalcedony, jasper, agate, quartz or related stone."
+    },
+    {
+      "title": "MESOLITHIC SUBSISTENCE, SEDENTARINESS AND DOMESTICATION DEBATES",
+      "terms": "Technically, Mesolithic Subsistence, Sedentariness And Domestication Debates is analysed by relating Mesolithic Subsistence to Sedentariness, then testing the relationship through Domestication Debates and Mains angle.",
+      "mechanism": "Pottery and copper can enter forager communities through interaction.",
+      "consequence": "Some sites report domesticated animals, pottery or cultivated plants, but identification, stratigraphy and dating are frequently contested.",
+      "trap": "Do not miss this limiting distinction: thick deposits, huts, heavy grinding stones, commensal species, seasonality evidence and cemeteries can demonstrate...",
+      "answer": "Adamgarh domestication claims are questioned because of uncertain dates and stratigraphy."
+    },
+    {
+      "title": "BURIALS, RITUAL AND SOCIAL ORGANIZATION",
+      "terms": "Technically, Burials, Ritual And Social Organization is analysed by relating Burials to Ritual, then testing the relationship through Social Organization and Mains angle.",
+      "mechanism": "CURRENT: The 2026 Ladakh aDNA study is later than the Stone Age, but it illustrates how burials can now be studied through osteology, radiocarbon, kinship and genome-wide data together.",
+      "consequence": "Burial is an action by survivors, not a transparent portrait of the deceased.",
+      "trap": "Unequal grave goods may signal social difference, but a hereditary hierarchy is not demonstrated.",
+      "answer": "Use burials to connect settlement permanence, social memory and ritual while distinguishing evidence from interpretation."
+    },
+    {
+      "title": "ROCK ART: BHIMBETKA, REGIONAL TRADITIONS AND INTERPRETATION",
+      "terms": "Bhimbetka should be used as a combined history-art-conservation case: evidence of life, limits of meaning, and heritage-management ethics.",
+      "mechanism": "Rock art also occurs in Mirzapur, Odisha, Jharkhand, Bihar, Ladakh, Kumaon and peninsular India.",
+      "consequence": "It is an archaeological source, not a picture-book transcript.",
+      "trap": "Do not miss this limiting distinction: bhimbetka should be used as a combined history-art-conservation case.",
+      "answer": "Tourism can improve interpretation and funding but increases touch, moisture, litter and infrastructure risks."
+    },
+    {
+      "title": "MAJOR INDIAN SITES AND REGIONAL TRADITIONS: A TEXT MAP",
+      "terms": "Isampur is a major manufacturing and habitation centre in the Hunsgi valley.",
+      "mechanism": "Site clusters should be read as regional systems connected by movement and exchange.",
+      "consequence": "Isampur is a major manufacturing and habitation centre in the Hunsgi valley.",
+      "trap": "Wrong: Sarai Nahar Rai is a Lower Palaeolithic handaxe site.",
+      "answer": "Indian prehistory is a mosaic of river valleys, plateaus, deserts, coasts, caves and alluvial plains."
+    },
+    {
+      "title": "CONTINUITY AND CHANGE TOWARD THE NEOLITHIC",
+      "terms": "The movement toward food production was gradual and regionally varied.",
+      "mechanism": "Correct: Pottery can occur among foragers and may be acquired through contact.",
+      "consequence": "The Neolithic threshold is a bundle of processes, not a single invention.",
+      "trap": "Mesolithic communities could experiment with plant intensification, animal management, pottery, storage and longer residence while continuing to hunt, gather and fish.",
+      "answer": "Neolithic markers include domesticated plants/animals, cultivation, more settled village life, polished tools and often pottery, but these features do not always arrive together."
+    },
+    {
+      "title": "HISTORIOGRAPHICAL DEBATES, SOURCE LIMITATIONS AND CURRENT RESEARCH",
+      "terms": "Kachchh research uses shell middens and AMS dating to reconstruct early coastal adaptation.",
+      "mechanism": "Conclude: Indian prehistory is no longer a single march from crude to refined tools; it is a regionally varied history of adaptation reconstructed through converging but incomplete evidence.",
+      "consequence": "Tools remain essential, but they are now integrated with geomorphology, palaeoclimate, use-wear, residue, fauna, burials, aDNA and heritage science.",
+      "trap": "The 2026 Ladakh study recovered genome-wide data from 10 unique individuals and demonstrates current South Asian aDNA capacity, while remaining chronologically later than this topic.",
+      "answer": "The central historiographical shift is from a typological culture ladder to regional, behavioural and interdisciplinary prehistory."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 3,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7760,
+      "y_end": 9960,
+      "overlap_px": 260,
+      "from_stage": 9,
+      "continues_stage": 12
+    },
+    {
+      "page": 6,
+      "y_start": 9700,
+      "y_end": 11900,
+      "overlap_px": 260,
+      "from_stage": 11,
+      "continues_stage": 14
+    },
+    {
+      "page": 7,
+      "y_start": 11640,
+      "y_end": 13840,
+      "overlap_px": 260,
+      "from_stage": 14,
+      "continues_stage": 16
+    },
+    {
+      "page": 8,
+      "y_start": 13580,
+      "y_end": 15780,
+      "overlap_px": 260,
+      "from_stage": 16,
+      "continues_stage": 18
+    },
+    {
+      "page": 9,
+      "y_start": 15520,
+      "y_end": 17720,
+      "overlap_px": 260,
+      "from_stage": 18,
+      "continues_stage": 20
+    },
+    {
+      "page": 10,
+      "y_start": 16530,
+      "y_end": 18730,
+      "overlap_px": 260,
+      "from_stage": 19,
+      "continues_stage": 21
+    }
+  ]
+}

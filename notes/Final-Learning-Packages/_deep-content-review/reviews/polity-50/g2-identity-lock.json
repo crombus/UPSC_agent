@@ -1,0 +1,251 @@
+{
+  "schema_version": 1,
+  "locked_at": "2026-08-28T21:52:16+05:30",
+  "topic_key": "polity-50",
+  "record_id": "polity-50:learner-v2:g2",
+  "generation": 2,
+  "approval": false,
+  "file_count": 60,
+  "files": {
+    "books\\Courseware on Indian Polity by M Laxmikanth.pdf": {
+      "sha256": "f487c68bd4c874d53f34bf57033f648505f4079bb866cfa79f3c8b52bf7dc4a5",
+      "bytes": 54994598
+    },
+    "books\\Indian Polity by M Laxmikant.pdf": {
+      "sha256": "a5d04a6fa7b831e868d3524b25b772679206f9362d7c5b7521488fac879c79ff",
+      "bytes": 19414785
+    },
+    "books\\mains\\02 UPSC 2024 Paper-II.pdf": {
+      "sha256": "e09fd90b1316063aaca652c2474a6621f3c606305835a04b71026378781de883",
+      "bytes": 260532
+    },
+    "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf": {
+      "sha256": "ea7bdf4b3940da6c4801ffb3223ecd6e5a119b476a31c2d7254c29573d2ac1c4",
+      "bytes": 206420
+    },
+    "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf": {
+      "sha256": "9919b1b3b264f5a2be5d13c2792b71e8a72c912037da5a53fc431978bac5c3c6",
+      "bytes": 15899317
+    },
+    "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf": {
+      "sha256": "3db2ca1932bf4cc4acac2e84345e8dabb48e5084161b93fbfca77cd89c41e4c7",
+      "bytes": 2298153
+    },
+    "books\\more_previous_papers\\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf": {
+      "sha256": "ea9187471ab78a029f5517d0748c758b448a15c62d8fe082f596fdd88d161b01",
+      "bytes": 4496630
+    },
+    "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf": {
+      "sha256": "a9476bb31b77f41981c78b30519a81a23ebe051b03d98fb12aa055f5a7b4ad46",
+      "bytes": 3546225
+    },
+    "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf": {
+      "sha256": "c55732cd8c4ee5fe57fec1e6dcd12955a25efcef3a2eb2169ebe03cd20213e9d",
+      "bytes": 2611162
+    },
+    "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf": {
+      "sha256": "658ddec60ef69c6df5695e5f0beec92375dc7cc8144c442cbc7a1f1f8333538d",
+      "bytes": 9221763
+    },
+    "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf": {
+      "sha256": "932a5f61b0f623a731c8210645089b70de2c404489565f446bc0766bd27b2325",
+      "bytes": 33688499
+    },
+    "books\\more_previous_papers\\QP_CS_Pre_Exam_2023_280523.pdf": {
+      "sha256": "c653e2beb48a8afd3f83b62f9f4694ae8bf1e76120b93c556c80cb2dbe8f4999",
+      "bytes": 6991451
+    },
+    "books\\prelima_question_paper_answers\\2024-GS1-Set A.pdf": {
+      "sha256": "8ff256fafbef5d24a65256067396852dbe16334c794c0eb9a28e8d17c1edb178",
+      "bytes": 10464853
+    },
+    "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf": {
+      "sha256": "524ebaa954062e0fe173ed432d37ffd3bf2bad9359756eb68bf3bb0ca56cd5d1",
+      "bytes": 31970151
+    },
+    "books\\prelima_question_paper_answers\\2026-GS1-Set A.pdf": {
+      "sha256": "94b52a2f857fb2d0b8264d47f68c46da4eb7d4051c21ebecf66a2682cdf5f311",
+      "bytes": 13460811
+    },
+    "books\\prelima_question_paper_answers\\Ans-2024-GS1.pdf": {
+      "sha256": "ca56c0cfa2d0cb05e3b41b01e0579470d0a348e7ec7d6d90cb46394ecef062cc",
+      "bytes": 666608
+    },
+    "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf": {
+      "sha256": "d009c1f8703abbf92d5b2a00781a93278fbf5b95097bf19306f5f4f1cdc6cf90",
+      "bytes": 510690
+    },
+    "books\\prelima_question_paper_answers\\Ans-2026-GS1-Provisional.pdf": {
+      "sha256": "c760abdf2ba0b6e78228e0c5a6dc5c42011b3636df304b03d72eed5509768b33",
+      "bytes": 123686
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\50-Concept-of-the-Constitution\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf": {
+      "sha256": "0f439ae17654b70ab8256c9d5507ffc3707e7fdbe89ba2d2860fa3c23717c49a",
+      "bytes": 1686772
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\50-Concept-of-the-Constitution\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": {
+      "sha256": "8f03265795e036475fd3a6da582db19df134d49373f1a0eb48168e679ecd82dd",
+      "bytes": 443046
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\50-Concept-of-the-Constitution\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": {
+      "sha256": "0cea6d705f77db8c62d8c2d93d85ff9c04d6d9a0878e699cd227d8ce0b5d1766",
+      "bytes": 2122425
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\50-Concept-of-the-Constitution\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png": {
+      "sha256": "ab28e804295ecf79dc60fabaf04b9ccc826f0df1153f91e4411b923fea94ed64",
+      "bytes": 1856033
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\50-Concept-of-the-Constitution\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf": {
+      "sha256": "678522d4567ae037371ca0482a23caad2fa187526645e34e9b164ddfcd0ed95a",
+      "bytes": 2803628
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\50-Concept-of-the-Constitution\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": {
+      "sha256": "7e0a8bd28e8db5cb7812152e02304f21e8fe791b8194629ce907cd3c12151948",
+      "bytes": 54980
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\50-Concept-of-the-Constitution\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt": {
+      "sha256": "680fad35fe5000f5a80ee30b5a366660ec1ae6ef106520dedce343f8981e4106",
+      "bytes": 5615
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\50-Concept-of-the-Constitution\\README.txt": {
+      "sha256": "6d98976ecee2dcc6b2a21c365916b6154c5155f9a53007a31e193f0880c3f018",
+      "bytes": 601
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-50\\carvaka-g2\\ascii-master.txt": {
+      "sha256": "680fad35fe5000f5a80ee30b5a366660ec1ae6ef106520dedce343f8981e4106",
+      "bytes": 5615
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-50\\carvaka-g2\\build-audit.json": {
+      "sha256": "3d476c6fd483b50e6678a76a4831c6a6c8a348bf23f08770b41f4a1d317c887f",
+      "bytes": 7237
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-50\\carvaka-g2\\master.png": {
+      "sha256": "ab28e804295ecf79dc60fabaf04b9ccc826f0df1153f91e4411b923fea94ed64",
+      "bytes": 1856033
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-50\\carvaka-g2\\poster.pdf": {
+      "sha256": "0cea6d705f77db8c62d8c2d93d85ff9c04d6d9a0878e699cd227d8ce0b5d1766",
+      "bytes": 2122425
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-50\\carvaka-g2\\preservation-hashes.json": {
+      "sha256": "c56e761b64b9fa31f14d9cf729cc2bca603cd686c7e733ae24d4ad2ee8dc897f",
+      "bytes": 1903
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-50\\carvaka-g2\\previews\\master-overview.png": {
+      "sha256": "71fa64c6824b6b2b7bd8fd88514032472d81305eac57452d2e1dd90a71ee1ad2",
+      "bytes": 1275066
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-50\\carvaka-g2\\tiled.pdf": {
+      "sha256": "678522d4567ae037371ca0482a23caad2fa187526645e34e9b164ddfcd0ed95a",
+      "bytes": 2803628
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-50\\carvaka-g2\\validation-report.txt": {
+      "sha256": "d6e9710a9ce9d7a47282a27b48a7321d155a049b967c55262c66e4a6b5669269",
+      "bytes": 1274
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.pdf": {
+      "sha256": "0f439ae17654b70ab8256c9d5507ffc3707e7fdbe89ba2d2860fa3c23717c49a",
+      "bytes": 1686772
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Solved-Practice-Workbook_2026-08-25.pdf": {
+      "sha256": "8f03265795e036475fd3a6da582db19df134d49373f1a0eb48168e679ecd82dd",
+      "bytes": 443046
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md": {
+      "sha256": "2c1fecca2b6ab48ca5deda7cb2899bded66aae7ac3ea57eb6be029808af75106",
+      "bytes": 164528
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Solved-Practice-Workbook_2026-08-25.md": {
+      "sha256": "7c97cfbcce481de282691f814ceb2075b637973092ea06be8e305b266201a589",
+      "bytes": 49768
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md": {
+      "sha256": "c08bfa6257e930f3afdb49ee3e7fb583708258f3aa033e50230eac10f8b5f62a",
+      "bytes": 139952
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": {
+      "sha256": "fecfb9e4a78671056ff154eb37c92412a47f77baaffa362f6cbe0c9b610fee50",
+      "bytes": 8006
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\README.md": {
+      "sha256": "8a2559da77f8dd12061f510946d689be7ffdae32b79752cfe0980e657f76176d",
+      "bytes": 14006
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md": {
+      "sha256": "f84e840172ac9bb800fdbdba14cfe3b42234394944b10cd184217729fa848f4d",
+      "bytes": 7376
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md": {
+      "sha256": "68abe9583f5eb4811ea8c6faf18c35be5bdc35f2b160b247620c8eb16c60307b",
+      "bytes": 30302
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md": {
+      "sha256": "8025473592cb72bbda35a10b8af15d4ebbd79c56899cc0f53a06795976326444",
+      "bytes": 14611
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Emergency-Provisions.md": {
+      "sha256": "41654affc7f3c0e0143f860812c0ed7150f736350c8c164c34b72b443f4b3240",
+      "bytes": 20885
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Federal-System.md": {
+      "sha256": "399986d50ecc451c84dadf22065480a1ee6fee9512c90ae34ba0fe418201ead7",
+      "bytes": 31303
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md": {
+      "sha256": "c195bdf2abb74856ec81505228eea306a89be1b27430abb21d38ed6e7c03dcce",
+      "bytes": 86507
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Making-of-the-Constitution.md": {
+      "sha256": "91596ec81a5683f67ffcb47c4160f11c1885079a8d4b070596a28dbce97e87d5",
+      "bytes": 22963
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliamentary-System.md": {
+      "sha256": "472c99e696547fa41a1c34706d3cea8c322a4330b11b8208c4f7c841faa0b803",
+      "bytes": 22941
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Preamble.md": {
+      "sha256": "3697c5120bfda545932fb2e5d628e5e32b1480f0b7efda09d050c350fc135413",
+      "bytes": 14090
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Salient-Features.md": {
+      "sha256": "b214e89a6a380bb0091d48fe4a935d7a05b555cb5fc5b7d4677d28f6f9739438",
+      "bytes": 25612
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-50_Learning-Session.md": {
+      "sha256": "d0ec16c243d377ab67e0ad63a2d0ec08a4b728b5c3e2a6a6c0253274a6cd5ae8",
+      "bytes": 109141
+    },
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": {
+      "sha256": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+      "bytes": 117711
+    },
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": {
+      "sha256": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+      "bytes": 28281
+    },
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": {
+      "sha256": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+      "bytes": 171735
+    },
+    "upsc-ai-kit\\manifests\\exports\\polity-50-source-pyq-current-audit-2026-08-25.json": {
+      "sha256": "aa14cc378d5e185fda966946b07ddbd985c73f3878e15a166ec087bbdd249eb9",
+      "bytes": 11786
+    },
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-50-2026-08-25-sequential.json": {
+      "sha256": "7e9daa33391845261bbaf2d4879e55eb41968d4915df3facec3d87adc280e60a",
+      "bytes": 12314
+    },
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-50.json": {
+      "sha256": "8850975c63ee6cf27612d14115d513cb31818d11de22aee6d74a50f7d56994f0",
+      "bytes": 37836
+    },
+    "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json": {
+      "sha256": "fb259019957e6089d27d5e5c5c4ec49b33f4bf8426041869fe93d507d52bd175",
+      "bytes": 89992
+    },
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": {
+      "sha256": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+      "bytes": 821993
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-32",
+  "record_id": "polity-32:learner-v2:g3",
+  "finalized": true,
+  "exported_four_item": true,
+  "approval": false,
+  "artifact_hashes": {
+    "README.txt": "7d8f010406fa88057887e715f6176e132cf1016a562f9fc758d10cf2ed50727c",
+    "01-Complete-Learning-Session\\Complete-Learning-Session.pdf": "8d78e38d9d3146d2f37a37cc5e1fbae2594ceba13a0a3094a46ef6f5952a92e0",
+    "02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": "936894583d7acd204531432dbd50cd1fd4efaf96c8e828029272ea1598048eec",
+    "03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": "c9c0db46663a7aeac46792b8180e2cd860406c7098798e5d55b6a03c706a8549",
+    "03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png": "34a187f4fa136d92db755d9244208e042ea0c3757d96c64b76ab8a520e37c6cd",
+    "03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf": "e67cdba7e53eb3121ec6dc7e95124d82602dbeb32554045077f15ef11bf58341",
+    "04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": "45fec11805e5f318c5e4c54ae0cd59b81b8c081d79aaa2eb8847fde0b07e1a91",
+    "04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt": "4bb7ac0c4186318771c27e8ecd48b4ae20063a2db82b0749643c20816aaa482f"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-43",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-43",
+  "title": "Political Parties",
+  "generation_date": "2026-08-28",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Political Parties — deep-reviewed immutable g5",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\g5-source\\polity-43_g5-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\43_Political-Parties.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Election-Commission.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Anti-Defection-Law.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Federal-System.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md"
+  ],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf"
+  ],
+  "live_sources": [
+    "https://www.indiacode.nic.in/handle/123456789/2096",
+    "https://www.eci.gov.in/election-symbol",
+    "https://www.eci.gov.in/candidate-political-parties",
+    "https://api.sci.gov.in/supremecourt/2017/33395/33395_2017_1_1501_50505_Judgement_15-Feb-2024.pdf",
+    "https://upsc.gov.in/examinations/previous-question-papers"
+  ],
+  "practice_profile": "Exact 2022 GS-II Q13 and cross-owned 2023 GS-II Q5; 36 original MCQs; 12 remedials; 8 original solved Mains; 10 answer-specific guidance pairs.",
+  "current_linkage_note": "RPA 1951, Symbols Order framework, electoral-bonds judgment, deregistration and criminalisation doctrine checked to 28 August 2026; volatile recognition lists omitted.",
+  "pyq_status_note": "Exact direct 2022 GS-II Q13 (15 marks/250 words) and supporting 2023 GS-II Q5 (10 marks/150 words) solved.",
+  "allow_existing_history": true,
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\43_Political-Parties.md",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\g5-source\\polity-43_g5-reviewed-source.md",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-43-2026-08-25-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-43.json",
+    "tools\\deep_content_quality_overrides.json"
+  ]
+}

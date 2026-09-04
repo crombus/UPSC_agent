@@ -1,0 +1,838 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ancient-indian-history-05",
+  "subject": "Ancient-Indian-History",
+  "title": "NEOLITHIC & CHALCOLITHIC CULTURES",
+  "short_route": "FOOD PRODUCTION: A REGIONAL → DOMESTICATION EVIDENCE AND CAUSAL → TECHNOLOGY-SETTLEMENT-SOCIAL CONSEQUENCE CHAIN → INDIAN NEOLITHIC REGIONAL MAP → ASH MOUNDS: FORMATION-FUNCTION DEBATE → CHALCOLITHIC CULTURES: REGION-SITE-MARKER MATRIX",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g10 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-05\\g10\\ancient-indian-history-05_Complete-Learning-Session_2026-08-23.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-2026-08-23.json",
+  "ascii_spec_sha256": "baf7da5ce98398bca090baed193c39edb2911b01ad2f9aa4e329a4379f259e1c",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FOOD PRODUCTION: A REGIONAL MOSAIC",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FOOD PRODUCTION",
+          "role": "primary"
+        },
+        {
+          "text": "A REGIONAL MOSAIC",
+          "role": "outcome"
+        },
+        {
+          "text": "MIXED FARMING",
+          "role": "comparison"
+        },
+        {
+          "text": "SURPLUS/STORAGE WILD USE SELECTIVE TENDING HERITABLE CHANGE CROPS+HERDS DELAYED",
+          "role": "evidence"
+        },
+        {
+          "text": "NO UNIVERSAL PACKAGE",
+          "role": "caution"
+        },
+        {
+          "text": "POLISHED STONE, POTTERY, HERDING AND CROPS APPEAR IN VARIED",
+          "role": "outcome"
+        },
+        {
+          "text": "NEOLITHIC CHANGES LIFEWAYS; CHALCOLITHIC ADDS COPPER WITHIN STONE-USING ECONOMIES.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "FORAGING → MANAGEMENT → DOMESTICATION → MIXED FARMING → SURPLUS/STORAGE wild use selective tending heritable",
+        "No universal package: polished stone, pottery, herding and crops appear in varied order.",
+        "Neolithic changes lifeways; Chalcolithic adds copper within stone-using economies."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "FORAGING → MANAGEMENT → DOMESTICATION → MIXED FARMING → SURPLUS/STORAGE wild use selective tending heritable change crops+herds delayed consumption",
+            "No universal package: polished stone, pottery, herding and crops appear in varied order."
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "Neolithic changes lifeways; Chalcolithic adds copper within stone-using economies.",
+            "FORAGING → MANAGEMENT → DOMESTICATION → MIXED FARMING → SURPLUS/STORAGE wild use selective tending heritable change crops+herds delayed consumption"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "No universal package: polished stone, pottery, herding and crops appear in varied order.",
+            "Neolithic changes lifeways; Chalcolithic adds copper within stone-using economies."
+          ]
+        }
+      ],
+      "mechanism_strip": "Neolithic changes lifeways; Chalcolithic adds copper within stone-using economies.",
+      "answer_line": "Neolithic changes lifeways; Chalcolithic adds copper within stone-using economies.",
+      "source_references": [
+        "SESSION 1 - MEANING AND CHRONOLOGY",
+        "SESSION 2 - TRANSITION FROM FORAGING TO FOOD PRODUCTION",
+        "SESSION 36 - TRANSITION, NOT A SINGLE REVOLUTION"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DOMESTICATION EVIDENCE AND CAUSAL DEBATE",
+      "structural_type": "debate-evidence-verdict",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "DOMESTICATION EVIDENCE AND CAUSAL DEBATE",
+          "role": "evidence"
+        },
+        {
+          "text": "SEED-SIZE/RACHIS CHANGE + WEED ECOLOGY + STORAGE + GRINDING",
+          "role": "outcome"
+        },
+        {
+          "text": "MORPHOLOGY + AGE/SEX KILL PROFILE + CORRALS/DUNG + HERD",
+          "role": "comparison"
+        },
+        {
+          "text": "RISK BUFFERING",
+          "role": "caution"
+        },
+        {
+          "text": "SOCIAL COMPETITION",
+          "role": "primary"
+        },
+        {
+          "text": "NICHE CONSTRUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "DOMESTICATION NEEDS CONVERGING BIOLOGICAL AND CONTEXTUAL EVIDENCE.",
+          "role": "evidence"
+        },
+        {
+          "text": "RICE PRESENCE ALONE DOES NOT PROVE CULTIVATION; SECURE DATE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PLANTS: seed-size/rachis change + weed ecology + storage + grinding tools",
+        "ANIMALS: morphology + age/sex kill profile + corrals/dung + herd demography",
+        "CAUSES: climate",
+        "risk buffering",
+        "social competition"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "PLANTS: seed-size/rachis change + weed ecology + storage + grinding tools",
+            "ANIMALS: morphology + age/sex kill profile + corrals/dung + herd demography",
+            "CAUSES: climate"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "risk buffering",
+            "social competition",
+            "niche construction"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "VERDICT: domestication needs converging biological and contextual evidence.",
+            "Rice presence alone does not prove cultivation; secure date and morphology matter."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: domestication needs converging biological and contextual evidence.",
+      "answer_line": "Rice presence alone does not prove cultivation; secure date and morphology matter.",
+      "source_references": [
+        "SESSION 3 - WHY DOMESTICATION?",
+        "SESSION 4 - DOMESTICATION OF PLANTS",
+        "SESSION 5 - DOMESTICATION OF ANIMALS",
+        "SESSION 37 - WHAT COUNTS AS DOMESTICATION EVIDENCE?"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "TECHNOLOGY-SETTLEMENT-SOCIAL CONSEQUENCE CHAIN",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TECHNOLOGY-SETTLEMENT-SOCIAL CONSEQUENCE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "POLISHED STONE + MICROLITHS + BONE TOOLS + POTTERY",
+          "role": "outcome"
+        },
+        {
+          "text": "LONGER RESIDENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "ACCUMULATED PROPERTY CRAFT/EXCHANGE GROWTH DISEASE, LABOUR LOAD AND DIETARY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "polished stone + microliths + bone tools + pottery cultivation/herding → houses → storage →",
+        "accumulated property craft/exchange growth disease, labour load and dietary risk household differentiation and settlement hierarchy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "polished stone + microliths + bone tools + pottery cultivation/herding → houses → storage → longer residence →",
+            "accumulated property craft/exchange growth disease, labour load and dietary risk household differentiation and settlement hierarchy become possible, not"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "polished stone + microliths + bone tools + pottery cultivation/herding → houses → storage → longer residence →",
+            "accumulated property craft/exchange growth disease, labour load and dietary risk household differentiation and settlement hierarchy become possible, not"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "polished stone + microliths + bone tools + pottery cultivation/herding → houses → storage → longer residence →",
+            "accumulated property craft/exchange growth disease, labour load and dietary risk household differentiation and settlement hierarchy become possible, not"
+          ]
+        }
+      ],
+      "mechanism_strip": "polished stone + microliths + bone tools + pottery cultivation/herding → houses → storage → longer residence → accumulated property craft/exchange growth disease, labour load and dietary risk household differentiation and settlement hierarchy become possible, not inevitable.",
+      "answer_line": "polished stone + microliths + bone tools + pottery cultivation/herding → houses → storage → longer residence → accumulated property craft/exchange growth disease, labour load and dietary risk household differentiation and settlement hierarchy become possible, not inevitable.",
+      "source_references": [
+        "SESSION 6 - POLISHED STONE, MICROLITHS, BONE TOOLS",
+        "SESSION 7 - POTTERY",
+        "SESSION 8 - SETTLEMENT, HOUSES, STORAGE",
+        "SESSION 9 - SUBSISTENCE, LABOUR, HEALTH"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "INDIAN NEOLITHIC REGIONAL MAP",
+      "structural_type": "map/spatial",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INDIAN NEOLITHIC REGIONAL MAP",
+          "role": "primary"
+        },
+        {
+          "text": "LONG FARMING/HERDING SEQUENCE BEFORE HARAPPAN URBANISM",
+          "role": "outcome"
+        },
+        {
+          "text": "BURZAHOM, GUFKRAL",
+          "role": "comparison"
+        },
+        {
+          "text": "PIT DWELLINGS, BONE TOOLS, AGRO-PASTORALISM",
+          "role": "evidence"
+        },
+        {
+          "text": "VINDHYA/MIDDLE GANGA",
+          "role": "primary"
+        },
+        {
+          "text": "KOLDIHWA, MAHAGARA, LAHURADEWA",
+          "role": "outcome"
+        },
+        {
+          "text": "RICE/DATE CAUTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "SHOULDERED CELTS AND REGIONAL LINKS; CHRONOLOGY REMAINS UNEVEN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NORTH-WEST: Mehrgarh → long farming/herding sequence before Harappan urbanism",
+        "KASHMIR: Burzahom, Gufkral → pit dwellings, bone tools, agro-pastoralism",
+        "VINDHYA/MIDDLE GANGA: Koldihwa, Mahagara, Lahuradewa → rice/date cautions",
+        "NORTH-EAST: shouldered celts and regional links; chronology remains uneven",
+        "SOUTH: Utnur, Piklihal, Tekkalakota, Hallur → cattle, millets, ash mounds"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "NORTH-WEST: Mehrgarh → long farming/herding sequence before Harappan urbanism",
+            "KASHMIR: Burzahom, Gufkral → pit dwellings, bone tools, agro-pastoralism"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "VINDHYA/MIDDLE GANGA: Koldihwa, Mahagara, Lahuradewa → rice/date cautions",
+            "NORTH-EAST: shouldered celts and regional links; chronology remains uneven"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "SOUTH: Utnur, Piklihal, Tekkalakota, Hallur → cattle, millets, ash mounds",
+            "RULE: attach each site to region + marker + chronological caution."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: attach each site to region + marker + chronological caution.",
+      "answer_line": "attach each site to region + marker + chronological caution.",
+      "source_references": [
+        "SESSION 13 - REGIONAL MAP IN TEXT",
+        "SESSION 14 - MEHRGARH",
+        "SESSION 15 - KASHMIR",
+        "SESSION 16 - VINDHYAN FRINGES",
+        "SESSION 19 - SOUTH INDIAN NEOLITHIC"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ASH MOUNDS: FORMATION-FUNCTION DEBATE",
+      "structural_type": "debate-evidence-verdict",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "ASH MOUNDS",
+          "role": "primary"
+        },
+        {
+          "text": "FORMATION-FUNCTION DEBATE",
+          "role": "outcome"
+        },
+        {
+          "text": "BURNT CATTLE DUNG + ENCLOSURE/SETTLEMENT CONTEXT",
+          "role": "comparison"
+        },
+        {
+          "text": "SOUTH INDIAN ASH MOUND PERIODIC PEN BURNING COMMUNAL FEASTING",
+          "role": "evidence"
+        },
+        {
+          "text": "REPEATED FIRING AND CATTLE CENTRALITY ARE STRONG; ONE EXCLUSIVE",
+          "role": "primary"
+        },
+        {
+          "text": "USE UTNUR AND RELATED SITES AS A PASTORAL-LANDSCAPE PROBLEM",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "BURNT CATTLE DUNG + ENCLOSURE/SETTLEMENT CONTEXT → SOUTH INDIAN ASH MOUND periodic pen burning communal",
+        "Repeated firing and cattle centrality are strong; one exclusive ritual meaning is not.",
+        "Use Utnur and related sites as a pastoral-landscape problem, not a curiosity list."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "BURNT CATTLE DUNG + ENCLOSURE/SETTLEMENT CONTEXT → SOUTH INDIAN ASH MOUND periodic pen burning communal feasting sanitation/fuel practice",
+            "Repeated firing and cattle centrality are strong; one exclusive ritual meaning is not."
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "Use Utnur and related sites as a pastoral-landscape problem, not a curiosity list.",
+            "BURNT CATTLE DUNG + ENCLOSURE/SETTLEMENT CONTEXT → SOUTH INDIAN ASH MOUND periodic pen burning communal feasting sanitation/fuel practice"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "Repeated firing and cattle centrality are strong; one exclusive ritual meaning is not.",
+            "Use Utnur and related sites as a pastoral-landscape problem, not a curiosity list."
+          ]
+        }
+      ],
+      "mechanism_strip": "Use Utnur and related sites as a pastoral-landscape problem, not a curiosity list.",
+      "answer_line": "Use Utnur and related sites as a pastoral-landscape problem, not a curiosity list.",
+      "source_references": [
+        "SESSION 20 - ASH MOUNDS - FORMATION, FUNCTION AND COMPETING INTERPRETATIONS",
+        "SESSION 21 - SOUTH INDIAN CASE RECALL"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CHALCOLITHIC CULTURES: REGION-SITE-MARKER MATRIX",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CHALCOLITHIC CULTURES",
+          "role": "primary"
+        },
+        {
+          "text": "REGION-SITE-MARKER MATRIX",
+          "role": "outcome"
+        },
+        {
+          "text": "CULTURE/ZONE CORE SITES HIGH-YIELD MARKERS",
+          "role": "comparison"
+        },
+        {
+          "text": "GANESHWAR-JODHPURA GANESHWAR/JODHPURA COPPER CRAFT; HARAPPAN CONTACT",
+          "role": "evidence"
+        },
+        {
+          "text": "AHAR-BANAS AHAR, BALATHAL, GILUND BLACK-RED WARE; COPPER; FARMING",
+          "role": "primary"
+        },
+        {
+          "text": "KAYATHA KAYATHA EARLY MALWA SEQUENCE; RICH DEPOSITS",
+          "role": "outcome"
+        },
+        {
+          "text": "MALWA NAVDATOLI, ERAN, NAGDA PAINTED WARE; LARGE VILLAGES; SPREAD",
+          "role": "comparison"
+        },
+        {
+          "text": "JORWE INAMGAON, NEVASA DECCAN HIERARCHY; LATE JORWE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CULTURE/ZONE CORE SITES HIGH-YIELD MARKERS",
+        "Ganeshwar-Jodhpura Ganeshwar/Jodhpura copper craft; Harappan contact",
+        "Ahar-Banas Ahar, Balathal, Gilund black-red ware; copper; farming",
+        "Kayatha Kayatha early Malwa sequence; rich deposits",
+        "Malwa Navdatoli, Eran, Nagda painted ware; large villages; spread"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "CULTURE/ZONE CORE SITES HIGH-YIELD MARKERS",
+          "Kayatha Kayatha early Malwa sequence; rich deposits",
+          "OCP/Copper Hoards upper Ganga sites association varies; no ethnic label"
+        ],
+        [
+          "Ganeshwar-Jodhpura Ganeshwar/Jodhpura copper craft; Harappan contact",
+          "Malwa Navdatoli, Eran, Nagda painted ware; large villages; spread",
+          ""
+        ],
+        [
+          "Ahar-Banas Ahar, Balathal, Gilund black-red ware; copper; farming",
+          "Jorwe Inamgaon, Nevasa Deccan hierarchy; Late Jorwe",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CULTURE/ZONE CORE SITES HIGH-YIELD MARKERS",
+            "Ganeshwar-Jodhpura Ganeshwar/Jodhpura copper craft; Harappan contact",
+            "Ahar-Banas Ahar, Balathal, Gilund black-red ware; copper; farming"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Kayatha Kayatha early Malwa sequence; rich deposits",
+            "Malwa Navdatoli, Eran, Nagda painted ware; large villages; spread",
+            "Jorwe Inamgaon, Nevasa Deccan hierarchy; Late Jorwe"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "OCP/Copper Hoards upper Ganga sites association varies; no ethnic label"
+          ]
+        }
+      ],
+      "mechanism_strip": "OCP/Copper Hoards upper Ganga sites association varies; no ethnic label.",
+      "answer_line": "OCP/Copper Hoards upper Ganga sites association varies; no ethnic label.",
+      "source_references": [
+        "SESSION 23 - CHALCOLITHIC INDIA",
+        "SESSION 25 - GANESHWAR-JODHPURA",
+        "SESSION 26 - AHAR-BANAS",
+        "SESSION 27 - KAYATHA",
+        "SESSION 28 - MALWA",
+        "SESSION 30 - JORWE",
+        "SESSION 33 - OCP, COPPER HOARDS"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CHALCOLITHIC RURAL POLITICAL ECONOMY",
+      "structural_type": "institution-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CHALCOLITHIC RURAL POLITICAL ECONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "VILLAGE HOUSEHOLDS",
+          "role": "outcome"
+        },
+        {
+          "text": "CROP/HERD PRODUCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "CRAFT WORK",
+          "role": "evidence"
+        },
+        {
+          "text": "EXCHANGE UNEQUAL HOUSES RISK AND SURPLUS COPPER/POTTERY REGIONAL NETWORKS",
+          "role": "caution"
+        },
+        {
+          "text": "SETTLEMENT HIERARCHY AND DIFFERENTIAL BURIALS MAY INDICATE INEQUALITY.",
+          "role": "outcome"
+        },
+        {
+          "text": "MOST SYSTEMS WERE REGIONAL AND RURAL, NOT FAILED HARAPPAN",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "VILLAGE HOUSEHOLDS → crop/herd production → storage → craft work → exchange unequal houses risk",
+        "Settlement hierarchy and differential burials may indicate inequality.",
+        "Most systems were regional and rural, not failed Harappan cities."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "VILLAGE HOUSEHOLDS → crop/herd production → storage → craft work → exchange unequal houses risk and surplus copper/pottery regional networks",
+            "Settlement hierarchy and differential burials may indicate inequality."
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Most systems were regional and rural, not failed Harappan cities.",
+            "VILLAGE HOUSEHOLDS → crop/herd production → storage → craft work → exchange unequal houses risk and surplus copper/pottery regional networks"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Settlement hierarchy and differential burials may indicate inequality.",
+            "Most systems were regional and rural, not failed Harappan cities."
+          ]
+        }
+      ],
+      "mechanism_strip": "Most systems were regional and rural, not failed Harappan cities.",
+      "answer_line": "Most systems were regional and rural, not failed Harappan cities.",
+      "source_references": [
+        "SESSION 10 - CRAFTS, SPECIALIZATION AND EXCHANGE",
+        "SESSION 11 - SOCIAL DIFFERENTIATION",
+        "SESSION 40 - CHALCOLITHIC IS RURAL AND REGIONAL, NOT FAILED HARAPPA"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "DECLINE, TRANSFORMATION AND CULTURAL LABELS",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "DECLINE, TRANSFORMATION AND CULTURAL LABELS",
+          "role": "caution"
+        },
+        {
+          "text": "LATE JORWE/REGIONAL CHANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "ARIDITY + PRODUCTION STRESS + SETTLEMENT REORGANISATION SOME ABANDONMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "CAUTION 1",
+          "role": "caution"
+        },
+        {
+          "text": "ARCHAEOLOGICAL CULTURE",
+          "role": "primary"
+        },
+        {
+          "text": "MATERIAL PATTERN, NOT A NAMED PEOPLE.",
+          "role": "caution"
+        },
+        {
+          "text": "CAUTION 2",
+          "role": "caution"
+        },
+        {
+          "text": "COPPER USE DOES NOT DISPLACE STONE OR PROVE URBANISATION.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "LATE JORWE/REGIONAL CHANGE: aridity + production stress + settlement reorganisation some abandonment + smaller settlements",
+        "+ local continuity",
+        "CAUTION 1: archaeological culture = material pattern, not a named people.",
+        "CAUTION 2: copper use does not displace stone or prove urbanisation.",
+        "CAUTION 3: Neolithic, Chalcolithic and Harappan worlds overlap and interact."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "LATE JORWE/REGIONAL CHANGE: aridity + production stress + settlement reorganisation some abandonment + smaller settlements + mobile strategies",
+            "+ local continuity"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "CAUTION 1: archaeological culture = material pattern, not a named people.",
+            "CAUTION 2: copper use does not displace stone or prove urbanisation."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CAUTION 3: Neolithic, Chalcolithic and Harappan worlds overlap and interact.",
+            "LATE JORWE/REGIONAL CHANGE: aridity + production stress + settlement reorganisation some abandonment + smaller settlements + mobile strategies"
+          ]
+        }
+      ],
+      "mechanism_strip": "CAUTION 3: Neolithic, Chalcolithic and Harappan worlds overlap and interact.",
+      "answer_line": "CAUTION 3: Neolithic, Chalcolithic and Harappan worlds overlap and interact.",
+      "source_references": [
+        "SESSION 32 - DECLINE AND TRANSFORMATION",
+        "SESSION 34 - NEOLITHIC, CHALCOLITHIC AND HARAPPAN",
+        "SESSION 35 - INTERPRETATIONS AND SOURCE LIMITATIONS"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "NEOLITHIC-CHALCOLITHIC ANSWER ARCHITECTURE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "NEOLITHIC-CHALCOLITHIC ANSWER ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "10 MARKS",
+          "role": "outcome"
+        },
+        {
+          "text": "DEFINE PHASE",
+          "role": "comparison"
+        },
+        {
+          "text": "TWO REGIONAL SITES",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "15 MARKS",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSITION CAUSES",
+          "role": "comparison"
+        },
+        {
+          "text": "DOMESTICATION PROOF",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "10 MARKS: define phase → process → two regional sites → evidence caution",
+        "15 MARKS: transition causes → domestication proof → technology/settlement → comparison",
+        "20 MARKS: mosaic chronology → regional map → Chalcolithic matrix → economy/society",
+        "ash-mound debate → transformation → qualified synthesis",
+        "Use triads: region + site + marker; never write an undifferentiated site catalogue."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "10 MARKS: define phase → process → two regional sites → evidence caution",
+            "15 MARKS: transition causes → domestication proof → technology/settlement → comparison"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "20 MARKS: mosaic chronology → regional map → Chalcolithic matrix → economy/society",
+            "ash-mound debate → transformation → qualified synthesis"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Use triads: region + site + marker; never write an undifferentiated site catalogue.",
+            "CLOSE: food production reorganised time, labour and settlement through diverse paths."
+          ]
+        }
+      ],
+      "mechanism_strip": "ash-mound debate → transformation → qualified synthesis",
+      "answer_line": "CLOSE: food production reorganised time, labour and settlement through diverse paths.",
+      "source_references": [
+        "SESSION 22 - REGIONAL NEOLITHIC COMPARISON",
+        "SESSION 38 - REGION-SITE-MARKER TRIADS",
+        "SESSION 39 - FROM PRODUCTION TO SOCIAL CONSEQUENCE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "outcome"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "evidence"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "primary"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "comparison"
+        },
+        {
+          "text": "7. MAINS ANGLES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data",
+            "3. Study links"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link",
+            "7. Mains angles"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Optional Advanced Case Clinics: Evidence Without Overreach — [OPTIONAL ADVANCED]",
+            "At Koldihwa, Mahagara, Pachoh and Indari, key issues are dates and whether rice remains are wild or domesticated.",
+            "Upinder Singh also highlights Lahuradewa as evidence that the middle Ganga valley was an early rice-cultivation zone, preventing",
+            "a single north-west-to-east diffusion model."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

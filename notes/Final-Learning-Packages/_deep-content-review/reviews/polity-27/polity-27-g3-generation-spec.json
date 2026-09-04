@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-27",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-27",
+  "title": "Election Commission",
+  "generation_date": "2026-08-28",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Election Commission — deep-content repair",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-27\\g3-source\\polity-27_g3-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Election-Commission.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\27_Election-Commission_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\27_Election-Commission.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\README.md",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\Polity\\15_President-and-Vice-President_Complete-Topic-Package.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+  ],
+  "official_question_sources": [],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf"
+  ],
+  "live_sources": [
+    "https://www.indiacode.nic.in/handle/123456789/19721",
+    "https://www.eci.gov.in/honble-commission/",
+    "https://api.sci.gov.in/supremecourt/2023/10857/10857_2023_2_1501_52646_Judgement_26-Apr-2024.pdf",
+    "https://www.eci.gov.in/faq/5/16"
+  ],
+  "practice_profile": "2 solved routed Prelims; 7 solved verified Mains PYQs; 36 hard original MCQs; 12 remedials; 8 original solved Mains; 15 answer-specific guidance blocks.",
+  "current_linkage_note": "India Code, ECI and official Supreme Court controls checked through 28 August 2026.",
+  "pyq_status_note": "2018, 2019, 2020, 2022, 2024 and 2025 GS-II demands retain exact available marks and word limits.",
+  "allow_existing_history": true,
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Election-Commission.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\27_Election-Commission.md",
+    "upsc-ai-kit\\knowledge\\Polity\\27_Election-Commission_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\Polity\\15_President-and-Vice-President_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+    "books\\Indian Polity by M Laxmikant.pdf",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-27\\g3-source\\polity-27_g3-reviewed-source.md",
+    "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-27-2026-08-24-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-27.json",
+    "tools\\deep_content_quality_overrides.json"
+  ]
+}

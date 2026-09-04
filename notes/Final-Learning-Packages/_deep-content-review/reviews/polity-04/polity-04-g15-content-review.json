@@ -1,0 +1,9 @@
+{
+  "identity": "polity-04:learner-v2:g15",
+  "score": 94,
+  "status": "changes_suggested",
+  "approved": false,
+  "passed": false,
+  "reason": "Session/workbook/ASCII repairs passed generation, but graphical g15 was authored before the corrected 11-core-stage graphical specification; its graphical provenance/spec hash is therefore stale and exact PYQ/current synthesis stages are absent. Preserve g15 and allocate a new generation.",
+  "generation_validation": "topic=polity-04\nsource_record=polity-04:learner-v2:g14\nrefreshed_generation=15\nsessions=20\nascii_panels=11\nascii_max_line_width=96\nascii_branch_count=0\nmcqs=27\nmain_pdf_pages=77\nworkbook_pdf_pages=22\nsource_preservation=PASS\nsource_content_preservation=PASS\ncore_exam_completeness=PASS\ncanonical_h2_order=PASS\nsession_contract=PASS\nascii_master=PASS\nmcq_keys=PASS\npdf_layout=PASS\nflowchart_package=PASS\nerrors=none\n"
+}

@@ -1,0 +1,778 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ancient-indian-history-01",
+  "subject": "Ancient-Indian-History",
+  "title": "IMPORTANCE & HISTORIOGRAPHY OF ANCIENT INDIA",
+  "short_route": "WHY ANCIENT INDIA MATTERS → FROM SURVIVING TRACE TO → HISTORIOGRAPHICAL SCHOOLS: CLAIMS AND → PERIODISATION WITHOUT COMMUNAL BOXES → UNITY IN DIVERSITY: A → VARNA, CASTE AND SOCIAL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g10 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-01\\g10\\ancient-indian-history-01_Complete-Learning-Session_2026-08-23.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-2026-08-23.json",
+  "ascii_spec_sha256": "baf7da5ce98398bca090baed193c39edb2911b01ad2f9aa4e329a4379f259e1c",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "WHY ANCIENT INDIA MATTERS: THE COMPLETE INQUIRY",
+      "structural_type": "root-branch",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WHY ANCIENT INDIA MATTERS",
+          "role": "primary"
+        },
+        {
+          "text": "THE COMPLETE INQUIRY",
+          "role": "outcome"
+        },
+        {
+          "text": "ANCIENT INDIA",
+          "role": "comparison"
+        },
+        {
+          "text": "WHY STUDY IT?",
+          "role": "evidence"
+        },
+        {
+          "text": "CHRONOLOGY GEOGRAPHY SOCIETY CULTURE PRESENT HOW/WHEN? WHERE? VARNA, TEXTS",
+          "role": "primary"
+        },
+        {
+          "text": "HISTORY IS RECONSTRUCTION OF CHANGE THROUGH EVIDENCE, NOT A",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ANCIENT INDIA: WHY STUDY IT?",
+        "chronology geography society culture present how/when? where? varna, texts, identities, caste, scripts, institutions, labour ideas",
+        "History is reconstruction of change through evidence, not a memory-list of rulers."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ANCIENT INDIA: WHY STUDY IT?",
+            "chronology geography society culture present how/when? where? varna, texts, identities, caste, scripts, institutions, labour ideas inherited debates"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "History is reconstruction of change through evidence, not a memory-list of rulers.",
+            "ANCIENT INDIA: WHY STUDY IT?"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "chronology geography society culture present how/when? where? varna, texts, identities, caste, scripts, institutions, labour ideas inherited debates",
+            "History is reconstruction of change through evidence, not a memory-list of rulers."
+          ]
+        }
+      ],
+      "mechanism_strip": "History is reconstruction of change through evidence, not a memory-list of rulers.",
+      "answer_line": "History is reconstruction of change through evidence, not a memory-list of rulers.",
+      "source_references": [
+        "SESSION 1 - IMPORTANCE OF ANCIENT INDIAN HISTORY",
+        "The opening move: how, when and where",
+        "History beyond kings and battles"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "FROM SURVIVING TRACE TO HISTORICAL CLAIM",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FROM SURVIVING TRACE TO HISTORICAL CLAIM",
+          "role": "primary"
+        },
+        {
+          "text": "SURVIVING TRACE",
+          "role": "outcome"
+        },
+        {
+          "text": "SOURCE CRITICISM",
+          "role": "evidence"
+        },
+        {
+          "text": "HISTORICAL CLAIM TEXT",
+          "role": "evidence"
+        },
+        {
+          "text": "OBJECT AUTHOR, DATE, GENRE, LAYER, AGREEMENT OR INSCRIPTION",
+          "role": "evidence"
+        },
+        {
+          "text": "COIN PURPOSE, BIAS FIND-CONTEXT PRODUCTIVE CONFLICT",
+          "role": "outcome"
+        },
+        {
+          "text": "PROVISIONAL EXPLANATION WITH STATED LIMITS",
+          "role": "comparison"
+        },
+        {
+          "text": "ABSENCE OF EVIDENCE MAY REFLECT PRESERVATION, EXCAVATION OR ELITE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SURVIVING TRACE → SOURCE CRITICISM → CONTEXT → CORROBORATION → HISTORICAL CLAIM text / object",
+        "layer, agreement or inscription / coin purpose, bias find-context productive conflict",
+        "PROVISIONAL EXPLANATION WITH STATED LIMITS",
+        "Rule: absence of evidence may reflect preservation, excavation or elite silence."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SURVIVING TRACE → SOURCE CRITICISM → CONTEXT → CORROBORATION → HISTORICAL CLAIM text / object author, date, genre,",
+            "layer, agreement or inscription / coin purpose, bias find-context productive conflict"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "PROVISIONAL EXPLANATION WITH STATED LIMITS",
+            "Rule: absence of evidence may reflect preservation, excavation or elite silence."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "SURVIVING TRACE → SOURCE CRITICISM → CONTEXT → CORROBORATION → HISTORICAL CLAIM text / object author, date, genre,",
+            "layer, agreement or inscription / coin purpose, bias find-context productive conflict"
+          ]
+        }
+      ],
+      "mechanism_strip": "Rule: absence of evidence may reflect preservation, excavation or elite silence.",
+      "answer_line": "absence of evidence may reflect preservation, excavation or elite silence.",
+      "source_references": [
+        "SESSION 2 - HISTORY, HISTORIOGRAPHY AND RECONSTRUCTION",
+        "SESSION 3 - EVIDENCE ARCHITECTURE AND METHOD"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "HISTORIOGRAPHICAL SCHOOLS: CLAIMS AND CORRECTIONS",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "HISTORIOGRAPHICAL SCHOOLS",
+          "role": "primary"
+        },
+        {
+          "text": "CLAIMS AND CORRECTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "SOCIAL/SUBALTERN TURNS TEXTS AND DESPOTISM, AGENCY AND MODE, CLASS",
+          "role": "comparison"
+        },
+        {
+          "text": "NO SCHOOL IS A NEUTRAL FINAL WORD",
+          "role": "caution"
+        },
+        {
+          "text": "COMPARE QUESTION, EVIDENCE, CATEGORY AND SILENCE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ORIENTALIST → IMPERIAL/COLONIAL → NATIONALIST → MARXIST → SOCIAL/SUBALTERN TURNS texts and despotism, agency and",
+        "caste, antiquity stagnation, unity, surplus, tribe, labour, admired period labels achievement production ecology, region",
+        "No school is a neutral final word: compare question, evidence, category and silence."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "ORIENTALIST → IMPERIAL/COLONIAL → NATIONALIST → MARXIST → SOCIAL/SUBALTERN TURNS texts and despotism, agency and mode, class, gender,",
+            "caste, antiquity stagnation, unity, surplus, tribe, labour, admired period labels achievement production ecology, region"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "No school is a neutral final word: compare question, evidence, category and silence.",
+            "ORIENTALIST → IMPERIAL/COLONIAL → NATIONALIST → MARXIST → SOCIAL/SUBALTERN TURNS texts and despotism, agency and mode, class, gender,"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "caste, antiquity stagnation, unity, surplus, tribe, labour, admired period labels achievement production ecology, region",
+            "No school is a neutral final word: compare question, evidence, category and silence."
+          ]
+        }
+      ],
+      "mechanism_strip": "No school is a neutral final word: compare question, evidence, category and silence.",
+      "answer_line": "No school is a neutral final word: compare question, evidence, category and silence.",
+      "source_references": [
+        "SESSION 4 - COLONIAL, ORIENTALIST AND IMPERIAL HISTORIOGRAPHY",
+        "SESSION 5 - NATIONALIST HISTORIOGRAPHY",
+        "SESSION 6 - MARXIST, MATERIALIST AND SOCIAL-HISTORY TURN"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PERIODISATION WITHOUT COMMUNAL BOXES",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "PERIODISATION WITHOUT COMMUNAL BOXES",
+          "role": "primary"
+        },
+        {
+          "text": "BRITISH LABELS MAKE RULERS RELIGION THE CLOCK OF HISTORY.",
+          "role": "outcome"
+        },
+        {
+          "text": "USE OVERLAPPING PROCESSES, NOT SEALED CIVILISATIONAL BLOCKS POLITY",
+          "role": "caution"
+        },
+        {
+          "text": "REGIONAL FORMATIONS ECONOMY",
+          "role": "evidence"
+        },
+        {
+          "text": "AGRARIAN EXPANSION SOCIETY",
+          "role": "primary"
+        },
+        {
+          "text": "VARNA ORDERING",
+          "role": "outcome"
+        },
+        {
+          "text": "JATI PROLIFERATION",
+          "role": "comparison"
+        },
+        {
+          "text": "LOCAL NEGOTIATION CULTURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROBLEM: Hindu / Muslim / British labels make rulers religion the clock of history.",
+        "RESPONSE: use overlapping processes, not sealed civilisational blocks polity: lineage → state → empire →",
+        "foraging → farming → towns → agrarian expansion society: kinship → varna ordering → jati",
+        "negotiation culture: oral/textual traditions + material practice + cross-regional exchange",
+        "VERDICT: dates organise; processes explain; regional change is asynchronous."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "PROBLEM: Hindu / Muslim / British labels make rulers religion the clock of history.",
+            "RESPONSE: use overlapping processes, not sealed civilisational blocks polity: lineage → state → empire → regional formations economy"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "foraging → farming → towns → agrarian expansion society: kinship → varna ordering → jati proliferation → local",
+            "negotiation culture: oral/textual traditions + material practice + cross-regional exchange"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: dates organise; processes explain; regional change is asynchronous.",
+            "PROBLEM: Hindu / Muslim / British labels make rulers religion the clock of history."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: dates organise; processes explain; regional change is asynchronous.",
+      "answer_line": "dates organise; processes explain; regional change is asynchronous.",
+      "source_references": [
+        "SESSION 7 - PERIODISATION DEBATES"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "UNITY IN DIVERSITY: A HISTORICAL MECHANISM",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "UNITY IN DIVERSITY",
+          "role": "primary"
+        },
+        {
+          "text": "A HISTORICAL MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "ECOLOGICAL + LINGUISTIC + ETHNIC DIVERSITY MIGRATION + INTERMARRIAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "REPEATED INTERACTION AND ACCOMMODATION; NOT PRIMORDIAL SAMENESS.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ECOLOGICAL + LINGUISTIC + ETHNIC DIVERSITY migration + intermarriage + trade + pilgrimage + conquest",
+        "local persistence shared repertoires crops, cults, speech epics, scripts, sacred places, state forms",
+        "UNITY = repeated interaction and accommodation; not primordial sameness."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ECOLOGICAL + LINGUISTIC + ETHNIC DIVERSITY migration + intermarriage + trade + pilgrimage + conquest + textual circulation",
+            "local persistence shared repertoires crops, cults, speech epics, scripts, sacred places, state forms"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "UNITY = repeated interaction and accommodation; not primordial sameness.",
+            "ECOLOGICAL + LINGUISTIC + ETHNIC DIVERSITY migration + intermarriage + trade + pilgrimage + conquest + textual circulation"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "local persistence shared repertoires crops, cults, speech epics, scripts, sacred places, state forms",
+            "UNITY = repeated interaction and accommodation; not primordial sameness."
+          ]
+        }
+      ],
+      "mechanism_strip": "UNITY = repeated interaction and accommodation; not primordial sameness.",
+      "answer_line": "UNITY = repeated interaction and accommodation; not primordial sameness.",
+      "source_references": [
+        "SESSION 1 - IMPORTANCE OF ANCIENT INDIAN HISTORY",
+        "Unity in diversity - the intermixture argument"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "VARNA, CASTE AND SOCIAL HISTORY",
+      "structural_type": "institution-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "VARNA, CASTE AND SOCIAL HISTORY",
+          "role": "primary"
+        },
+        {
+          "text": "NORMATIVE VARNA TEXTS ------ PRESCRIBE RANKED FOURFOLD ORDER MUST",
+          "role": "outcome"
+        },
+        {
+          "text": "INSCRIPTIONS + ARCHAEOLOGY + REGIONAL TEXTS + OCCUPATIONAL PRACTICE",
+          "role": "evidence"
+        },
+        {
+          "text": "HISTORICAL FIELD",
+          "role": "evidence"
+        },
+        {
+          "text": "JATI, LABOUR, GENDER, TRIBE, MOBILITY, EXCLUSION, PATRONAGE",
+          "role": "primary"
+        },
+        {
+          "text": "NEITHER TIMELESS RIGIDITY NOR AUTOMATIC FLUIDITY",
+          "role": "outcome"
+        },
+        {
+          "text": "INSTITUTIONS CHANGED UNEVENLY.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "NORMATIVE VARNA TEXTS ------ prescribe ranked fourfold order must be tested against",
+        "INSCRIPTIONS + ARCHAEOLOGY + REGIONAL TEXTS + OCCUPATIONAL PRACTICE",
+        "HISTORICAL FIELD: jati, labour, gender, tribe, mobility, exclusion, patronage",
+        "Neither timeless rigidity nor automatic fluidity: institutions changed unevenly."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "NORMATIVE VARNA TEXTS ------ prescribe ranked fourfold order must be tested against",
+            "INSCRIPTIONS + ARCHAEOLOGY + REGIONAL TEXTS + OCCUPATIONAL PRACTICE"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "HISTORICAL FIELD: jati, labour, gender, tribe, mobility, exclusion, patronage",
+            "Neither timeless rigidity nor automatic fluidity: institutions changed unevenly."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "NORMATIVE VARNA TEXTS ------ prescribe ranked fourfold order must be tested against",
+            "INSCRIPTIONS + ARCHAEOLOGY + REGIONAL TEXTS + OCCUPATIONAL PRACTICE"
+          ]
+        }
+      ],
+      "mechanism_strip": "Neither timeless rigidity nor automatic fluidity: institutions changed unevenly.",
+      "answer_line": "Neither timeless rigidity nor automatic fluidity: institutions changed unevenly.",
+      "source_references": [
+        "SESSION 1 - IMPORTANCE OF ANCIENT INDIAN HISTORY",
+        "Varna and caste: why Sharma singles this out",
+        "SESSION 6 - MARXIST, MATERIALIST AND SOCIAL-HISTORY TURN"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CAUSATION: EXPLANATION BEYOND GREAT MEN",
+      "structural_type": "root-branch",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EXPLANATION BEYOND GREAT MEN",
+          "role": "primary"
+        },
+        {
+          "text": "HISTORICAL CHANGE ECOLOGY TECHNOLOGY SURPLUS POWER IDEAS/RITUAL CONSTRAINT TOOL",
+          "role": "mechanism"
+        },
+        {
+          "text": "AGENCY SELECTS AMONG CONDITIONS; NO SINGLE FACTOR MECHANICALLY DETERMINES",
+          "role": "caution"
+        },
+        {
+          "text": "HISTORICAL CHANGE ECOLOGY TECHNOLOGY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HISTORICAL CHANGE ecology technology surplus power ideas/ritual constraint tool resource state legitimation",
+        "Agency selects among conditions; no single factor mechanically determines outcome."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "HISTORICAL CHANGE ecology technology surplus power ideas/ritual constraint tool resource state legitimation",
+            "Agency selects among conditions; no single factor mechanically determines outcome."
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "HISTORICAL CHANGE ecology technology surplus power ideas/ritual constraint tool resource state legitimation",
+            "Agency selects among conditions; no single factor mechanically determines outcome."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "HISTORICAL CHANGE ecology technology surplus power ideas/ritual constraint tool resource state legitimation",
+            "Agency selects among conditions; no single factor mechanically determines outcome."
+          ]
+        }
+      ],
+      "mechanism_strip": "Agency selects among conditions; no single factor mechanically determines outcome.",
+      "answer_line": "Agency selects among conditions; no single factor mechanically determines outcome.",
+      "source_references": [
+        "SESSION 2 - HISTORY, HISTORIOGRAPHY AND RECONSTRUCTION",
+        "SESSION 6 - MARXIST, MATERIALIST AND SOCIAL-HISTORY TURN"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "BIAS, SILENCE AND ETHICAL RECONSTRUCTION",
+      "structural_type": "debate-evidence-verdict",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "BIAS, SILENCE AND ETHICAL RECONSTRUCTION",
+          "role": "primary"
+        },
+        {
+          "text": "ARCHIVE OVER-REPRESENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "LITERATE ELITES",
+          "role": "comparison"
+        },
+        {
+          "text": "DURABLE MATERIALS",
+          "role": "evidence"
+        },
+        {
+          "text": "ARCHIVE UNDER-REPRESENTS",
+          "role": "primary"
+        },
+        {
+          "text": "FOREST GROUPS",
+          "role": "outcome"
+        },
+        {
+          "text": "ORAL COMMUNITIES",
+          "role": "comparison"
+        },
+        {
+          "text": "WHO PRODUCED IT? FOR WHOM? WHAT GENRE? WHAT WAS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARCHIVE OVER-REPRESENTS: rulers",
+        "literate elites",
+        "durable materials",
+        "ARCHIVE UNDER-REPRESENTS: women",
+        "forest groups"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "ARCHIVE OVER-REPRESENTS: rulers",
+            "literate elites",
+            "durable materials"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "ARCHIVE UNDER-REPRESENTS: women",
+            "forest groups",
+            "oral communities"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "CHECK: who produced it? for whom? what genre? what was unlikely to survive?",
+            "read statement critically read silence cautiously",
+            "VERDICT: recover plurality without inventing voices the evidence cannot supply."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: recover plurality without inventing voices the evidence cannot supply.",
+      "answer_line": "recover plurality without inventing voices the evidence cannot supply.",
+      "source_references": [
+        "SESSION 8 - BIAS, SILENCES AND THE ETHICS OF INTERPRETATION",
+        "SESSION 9 - PUBLIC HISTORY AND LIVING STAKES"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "synthesis",
+      "title": "HISTORIOGRAPHY ANSWER ARCHITECTURE: 10/15/20 MARKS",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "HISTORIOGRAPHY ANSWER ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "10/15/20 MARKS",
+          "role": "outcome"
+        },
+        {
+          "text": "10 MARKS",
+          "role": "comparison"
+        },
+        {
+          "text": "DEFINE HISTORIOGRAPHY",
+          "role": "evidence"
+        },
+        {
+          "text": "NAME 2 SCHOOLS",
+          "role": "primary"
+        },
+        {
+          "text": "ONE EVIDENCE CONTRAST",
+          "role": "evidence"
+        },
+        {
+          "text": "15 MARKS",
+          "role": "comparison"
+        },
+        {
+          "text": "FRAME ISSUE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "10 MARKS: define historiography → name 2 schools → one evidence contrast → verdict",
+        "15 MARKS: frame issue → colonial claim → nationalist reply → material/social turn",
+        "source example → limitation of each → balanced judgement",
+        "20 MARKS: question/category → school timeline → evidence architecture → neglected groups/regions → periodisation dispute",
+        "MUST NAME: source, historian/school, explanatory gain, residual blind spot."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "10 MARKS: define historiography → name 2 schools → one evidence contrast → verdict",
+            "15 MARKS: frame issue → colonial claim → nationalist reply → material/social turn"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "source example → limitation of each → balanced judgement",
+            "20 MARKS: question/category → school timeline → evidence architecture → neglected groups/regions → periodisation dispute → present stakes → synthesis"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "MUST NAME: source, historian/school, explanatory gain, residual blind spot.",
+            "CLOSE: ancient history is plural, evidence-led reconstruction, not usable myth."
+          ]
+        }
+      ],
+      "mechanism_strip": "20 MARKS: question/category → school timeline → evidence architecture → neglected groups/regions → periodisation dispute → present stakes → synthesis",
+      "answer_line": "question/category → school timeline → evidence architecture → neglected groups/regions → periodisation dispute → present stakes → synthesis.",
+      "source_references": [
+        "SESSION 2 - HISTORY, HISTORIOGRAPHY AND RECONSTRUCTION",
+        "SESSION 7 - PERIODISATION DEBATES",
+        "SESSION 9 - PUBLIC HISTORY AND LIVING STAKES"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED-OWNER CLAIM SET",
+          "role": "outcome"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "comparison"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "primary"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "outcome"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "comparison"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Advanced-owner claim set",
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "VISUAL — Eleven turns: what each ADDS, and the wall each one hits",
+            "VISUAL — The eight distortions, and the discipline that answers each",
+            "PART E — ADVANCED REFINEMENTS"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

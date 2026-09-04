@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-14",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-14",
+  "title": "Emergency Provisions",
+  "generation_date": "2026-08-28",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Emergency Provisions — deep-content repair",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Emergency-Provisions.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\14_Emergency-Provisions_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\14_Emergency-Provisions.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\README.md",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Federal-System.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Centre-State-Relations.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Constitutional-Interpretation-Doctrines.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+  ],
+  "official_question_sources": [
+    "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf",
+    "books\\mains\\02 UPSC 2024 Paper-II.pdf"
+  ],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf",
+    "books\\Courseware on Indian Polity by M Laxmikanth.pdf"
+  ],
+  "live_sources": [
+    "https://legislative.gov.in/constitution-of-india",
+    "https://www.legislative.gov.in/static/uploads/2025/07/376b37bf0ae18f1d9276ce226d0e67a1.pdf",
+    "https://api.sci.gov.in/jonew/judis/27437.pdf",
+    "https://newsonair.gov.in/presidents-rule-revoked-in-manipur/"
+  ],
+  "practice_profile": "6 verified routed PYQs; 28 hard original MCQs; 8 remedial MCQs; 7 original solved Mains questions; ten answer-specific guidance blocks.",
+  "current_linkage_note": "Official Constitution, 44th Amendment, Supreme Court and public-broadcast/Gazette-reported Manipur revocation controls checked 28 August 2026.",
+  "pyq_status_note": "Exact wording and metadata retained from local official papers and repository ledgers; unavailable historical Prelims keys remain explicitly inferred.",
+  "allow_existing_history": true,
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Emergency-Provisions.md",
+    "upsc-ai-kit\\knowledge\\Polity\\14_Emergency-Provisions_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\14_Emergency-Provisions.md",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-14\\g3-source\\polity-14_g3-reviewed-source.md",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Federal-System.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Centre-State-Relations.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Constitutional-Interpretation-Doctrines.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "books\\more_previous_papers\\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf",
+    "books\\mains\\02 UPSC 2024 Paper-II.pdf",
+    "books\\Indian Polity by M Laxmikant.pdf",
+    "books\\Courseware on Indian Polity by M Laxmikanth.pdf",
+    "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-14-2026-08-24-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-14.json",
+    "tools\\deep_content_quality_overrides.json"
+  ]
+}

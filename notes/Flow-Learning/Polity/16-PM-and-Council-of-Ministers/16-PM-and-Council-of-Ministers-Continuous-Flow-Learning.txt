@@ -1,0 +1,134 @@
+ASCII MASTER FLOW — PANEL 1/9: Responsible executive: Articles 74, 75, 77 and 78
+FORMAL HEAD                     REAL EXECUTIVE
+President                       Prime Minister + Council of Ministers
+        \                         /
+         +-- ARTICLE 74: aid and advice --+
+                         |
+ARTICLE 75 -> appointment, tenure, responsibility, six-month rule, ministry cap
+ARTICLE 77 -> Union business in President's name + Rules of Business
+ARTICLE 78 -> PM informs President and submits matters for reconsideration
+
+CORE RESULT
+executive power is politically answerable to Lok Sabha through responsible government.
+
+ASCII MASTER FLOW — PANEL 2/9: Prime Minister appointment and government formation
+CLEAR MAJORITY
+President appoints recognised majority leader -> ministers on PM advice
+
+HUNG LOK SABHA
+objective support evidence -> appoint person most likely to command confidence
+-> prompt floor test -> ministry survives or resigns
+
+ELIGIBILITY
+minister may be non-member for six consecutive months
+disqualified person cannot use six-month rule to evade the Constitution
+
+TENURE
+no fixed PM term; office depends on Lok Sabha confidence and constitutional continuity.
+
+ASCII MASTER FLOW — PANEL 3/9: Council, Cabinet, ranks and the 91st Amendment
+COUNCIL OF MINISTERS                 CABINET
+larger constitutional body              inner decision-making core
+Cabinet + Ministers of State + deputies senior portfolios and collective direction
+Article 74                              Article 352 expressly names Cabinet
+
+RANKS
+Cabinet Minister | Minister of State (independent charge / attached) | Deputy Minister
+labels such as parliamentary secretary do not automatically create Cabinet rank
+
+91ST AMENDMENT
+Union ministry <= 15% of Lok Sabha strength
+Tenth Schedule defector disqualified from ministerial appointment for the stated period.
+
+ASCII MASTER FLOW — PANEL 4/9: Collective, individual and legal responsibility
+COLLECTIVE: ARTICLE 75(3)
+one political unit -> Cabinet solidarity -> Lok Sabha confidence
+loss of confidence -> whole ministry resigns
+
+INDIVIDUAL: ARTICLE 75(2)
+minister holds office during President's pleasure, exercised within PM-led government
+PM may require resignation or advise dismissal
+
+LEGAL RESPONSIBILITY
+India lacks the British rule requiring a ministerial countersignature on every formal act
+Article 77 authentication protects authorised orders from challenge on signature form alone
+
+ACCOUNTABILITY CHAIN
+decision -> shared defence -> questions/committee/audit -> confidence sanction.
+
+ASCII MASTER FLOW — PANEL 5/9: Prime Minister's five relationship arenas
+COUNCIL / CABINET
+selects team, allocates portfolios, sets agenda, coordinates and can seek resignation
+
+PRESIDENT
+principal adviser + Article 78 information bridge + reconsideration channel
+
+PARLIAMENT
+government leader, confidence manager, policy statement and legislative programme
+
+PARTY / COALITION
+leadership depends on majority, alliance agreements, internal bargaining and legitimacy
+
+FEDERAL / NATIONAL
+intergovernmental leadership, crisis coordination and national policy direction.
+
+ASCII MASTER FLOW — PANEL 6/9: Cabinet ecosystem: committees, Secretariat and PMO
+ARTICLE 77(3) RULES
+Allocation of Business -> who handles a subject
+Transaction of Business -> how important business moves and is decided
+
+CABINET COMMITTEES
+standing / ad hoc; reduce workload and coordinate cross-ministry choices
+current number, membership and chairs depend on dated notification
+
+CABINET SECRETARIAT
+Cabinet support + records + inter-ministerial coordination + crisis management
+
+PMO
+staff support, monitoring and policy coordination; not a constitutional substitute for ministries.
+
+ASCII MASTER FLOW — PANEL 7/9: Parliamentary control, confidence and anti-defection
+INFORMATION
+Question Hour -> Zero Hour -> discussions -> committee evidence
+        |
+FINANCIAL CONTROL
+Budget -> grants -> appropriation -> CAG -> PAC / DRSC
+        |
+POLITICAL SANCTION
+no-confidence motion in Lok Sabha -> collective resignation if carried
+
+ANTI-DEFECTION INTERFACE
+whip supports government stability but can compress independent legislative judgment
+
+CONSTRUCTIVE NO-CONFIDENCE
+reform proposal for stability; not current constitutional law in India.
+
+ASCII MASTER FLOW — PANEL 8/9: Coalition, minority, caretaker and prime-ministerial government
+MAJORITY GOVERNMENT -> stronger agenda control, risk of executive dominance
+COALITION -> bargaining and inclusion, risk of fragmented responsibility
+MINORITY -> issue-based support and greater parliamentary negotiation
+CARETAKER -> continuity with self-restraint; no separate constitutional article
+
+CABINET GOVERNMENT                     PRIME-MINISTERIAL GOVERNMENT
+collective deliberation                 central agenda and appointment influence
+ministerial expertise                   PMO / communication / electoral leadership
+
+QUALIFIED VERDICT
+PM predominance varies with party control, coalition arithmetic, institutions and public legitimacy.
+
+ASCII MASTER FLOW — PANEL 9/9: Cases, conventions, reforms and the answer spine
+CONSTITUTIONAL CONTROLS
+Shamsher Singh (1974) -> responsible advice
+S.R. Chaudhuri (2001) -> six-month rule cannot be serially abused
+Tenth Schedule + 91st Amendment -> stability and anti-defection constraints
+
+PRELIMS FIREWALL
+Council != Cabinet | Article 88 gives participation, not a vote without membership
+ministry cap uses Lok Sabha strength | Cabinet Committee composition is current-sensitive
+
+REFORM
+publish reasons and outcomes, strengthen committees, limit whip, protect Cabinet deliberation
+
+MAINS SPINE
+text -> formation -> responsibility -> coordination institutions -> accountability
+-> political variation -> balanced strong-executive / responsible-government verdict.

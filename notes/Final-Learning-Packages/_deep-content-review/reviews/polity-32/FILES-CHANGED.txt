@@ -1,0 +1,7 @@
+Polity-32 Basic, Advanced and canonical knowledge owners
+Polity-32 reviewed g3/g4 sources, generation specs, audits and review records
+Polity-32 ASCII and graphical specifications
+tools\deep_content_quality_overrides.json
+Generated immutable g3 (preserved failed review) and g4 (passed) artifacts; final four-item export
+Central MASTER/REVIEW trackers and issue/evidence/MD ledgers
+tools\test_refresh_all_v2_learning_sessions.py (panel inventory 859)

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-47",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-47",
+  "title": "Comparative Constitutional Design",
+  "generation_date": "2026-08-28",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Comparative Constitutional Design — deep-reviewed immutable g5",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-47\\g3-source\\polity-47_g3-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Comparative-Constitutional-Schemes.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Comparative-Constitutional-Schemes.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\47_Comparative-Constitutional-Design.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliamentary-System.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Federal-System.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Supreme-Court.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md"
+  ],
+  "local_ocr_sources": ["books\\Indian Polity by M Laxmikant.pdf"],
+  "live_sources": [
+    "https://legislative.gov.in/constitution-of-india/",
+    "https://upsc.gov.in/examinations/previous-question-papers",
+    "https://www.parliament.uk/about/how/role/sovereignty/",
+    "https://www.legislation.gov.uk/ukpga/1998/42/section/4",
+    "https://constitution.congress.gov/constitution/amendment-10/",
+    "https://constitution.congress.gov/constitution/article-5/",
+    "https://laws-lois.justice.gc.ca/eng/const/page-3.html",
+    "https://www.irishstatutebook.ie/eli/cons/en/html",
+    "https://www.aph.gov.au/constitution",
+    "https://www.elysee.fr/en/french-presidency/constitution-of-4-october-1958",
+    "https://www.justice.gov.za/constitution/"
+  ],
+  "practice_profile": "Eight exact comparative GS-II questions; 48 hard MCQs in strict A-B-C-D rotation; eight original Mains questions; sixteen answer-specific guidance sets.",
+  "current_linkage_note": "Stable constitutional texts and institutions are compared; no volatile current office-holder or party-majority claim is frozen.",
+  "pyq_status_note": "Eight exact questions solved with year, paper, marks and word limit; the two 2025 questions are supporting cross-owned comparative practice.",
+  "allow_existing_history": true,
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Comparative-Constitutional-Schemes.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\47_Comparative-Constitutional-Design.md",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-47\\g3-source\\polity-47_g3-reviewed-source.md",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-47-2026-08-25-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-47.json",
+    "tools\\deep_content_quality_overrides.json"
+  ]
+}

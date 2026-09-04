@@ -1,0 +1,48 @@
+{
+  "record_id": "political-theory-18:learner-v2:g2",
+  "generation": 2,
+  "scores": {
+    "complete_learning_session": 38,
+    "solved_practice_workbook": 22,
+    "graphical_flowchart": 15,
+    "ascii_master_flowchart": 14,
+    "total": 89
+  },
+  "metrics": {
+    "markdown_characters": 207001,
+    "question_count": 28,
+    "mcq_count": 48,
+    "mcq_rotation": true,
+    "demand_decoding_blocks": 0,
+    "compression_plan_blocks": 0,
+    "why_this_earns_marks": 15,
+    "how_to_improve": 0,
+    "missing_model_labels": [],
+    "weak_models": [],
+    "flow_dangling_fragments": [],
+    "main_pages": 71,
+    "workbook_pages": 36,
+    "main_layout": {
+      "page_count": 71,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook_layout": {
+      "page_count": 36,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "graphical_validation_passed": true
+  },
+  "defects": [
+    "All 28 solved PYQ/original Mains items lack explicit answer-specific `How to improve this answer` guidance.",
+    "All 28 solved items lack explicit directive-and-demand decoding.",
+    "All 28 solved items lack an executable mark-scaled compression plan.",
+    "13 solved item(s) lack `Why this earns marks`: Solved PYQ 2 - 2019 Q1(a), 10 marks; Solved PYQ 4 - 2020 Q1(a), 10 marks; Solved PYQ 5 - 2021 Q1(a), 10 marks; Solved PYQ 6 - 2021 Q1(b), 10 marks",
+    "The package lacks an explicit learning-goal, syllabus-boundary and answer-transition contract."
+  ]
+}

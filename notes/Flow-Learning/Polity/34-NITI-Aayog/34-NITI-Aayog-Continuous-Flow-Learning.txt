@@ -1,0 +1,184 @@
+ASCII MASTER FLOW — PANEL 1/9: 2015 Cabinet resolution, executive status and Planning Commission transition
+ROOT PROBLEM
+How can national development strategy coordinate Union, States and local needs
+without reviving central command planning?
+
+1 JANUARY 2015 CABINET RESOLUTION
+creates National Institution for Transforming India, NITI Aayog.
+
+LEGAL STATUS
+executive | non-constitutional | non-statutory | recommendation-based.
+
+TRANSITION
+Planning Commission model -> NITI policy platform.
+Five-Year Plans ended; plan/non-plan budget classification ended through later budget reform.
+
+CONTINUITY
+both institutions arose through Union executive resolutions.
+
+LIMIT
+replacement did not transfer Article 280, budget, legislative or taxing powers to NITI.
+
+ASCII MASTER FLOW — PANEL 2/9: Foundational objectives, principles and the Team India-knowledge dual role
+TEAM INDIA ROLE
+shared national vision with active State participation
+-> cooperative federal dialogue -> policy coordination.
+
+KNOWLEDGE AND INNOVATION ROLE
+long-term strategy | best practice | research | technology
+| capacity support | monitoring and feedback.
+
+FOUNDATIONAL PRINCIPLES
+bottom-up planning | inclusion of vulnerable sections
+| village-to-national aggregation | partnership | outcome orientation.
+
+POLICY CHAIN
+diagnose problem -> consult -> design option -> advise competent government
+-> implement through law, budget and administration -> evaluate -> revise.
+
+LIMIT
+an official objective describes mandate; it does not prove achievement or create coercive power.
+
+ASCII MASTER FLOW — PANEL 3/9: Composition: political leadership, expert capacity and notification-sensitive categories
+CHAIRPERSON
+Prime Minister.
+
+FEDERAL FORUM
+Governing Council includes Chief Ministers and relevant Union Territory leadership.
+
+EXECUTIVE-EXPERT SIDE
+Vice-Chairperson | full-time members | part-time members from institutions
+| ex-officio Union Ministers | special invitees | CEO.
+
+FOUNDATIONAL LIMITS
+part-time members: maximum two | ex-officio members: maximum four.
+
+NOTIFICATION CONTROL
+names, portfolios, invitees and exact composition may be reconstituted.
+Use the current official notification only when a dated fact is required.
+
+TRAP
+CEO or Vice-Chairperson status is executive design, not constitutional tenure.
+
+ASCII MASTER FLOW — PANEL 4/9: Governing Council, Regional Councils and cooperative federal process
+GOVERNING COUNCIL
+continuing development-policy forum chaired by Prime Minister
+-> State and Union Territory leaders deliberate on shared priorities.
+
+REGIONAL COUNCILS
+temporary issue-specific groups for more than one State or a region
+-> chaired or convened under the resolution's executive design.
+
+COOPERATIVE FEDERALISM
+consultation + agenda sharing + joint diagnosis + peer learning + follow-up.
+
+STATE SUPPORT
+State Support Mission and State Institutions for Transformation
+offer capacity and policy-system assistance; uptake varies.
+
+BOTTOM-UP CLAIM
+village plans should aggregate upward, but local planning depends on State law and capacity.
+
+LIMIT
+Council consensus is political coordination, not a second chamber or binding intergovernmental law.
+
+ASCII MASTER FLOW — PANEL 5/9: Competitive federalism, dashboards and the evidence-to-action mechanism
+COMPETITIVE FEDERALISM
+common indicators -> comparable performance -> public ranking or delta
+-> peer pressure -> administrative attention -> corrective action.
+
+DATA-TO-POLICY LOOP
+define outcome -> select indicator -> establish baseline -> collect and verify
+-> compare -> diagnose cause -> intervene -> reassess.
+
+POTENTIAL GAIN
+visibility, learning, priority focus and faster feedback without command power.
+
+RISKS
+Goodhart's law | gaming | data lag | unequal capacity
+| composite-index opacity | correlation mistaken for causation.
+
+SAFE USE
+publish method and uncertainty; pair rank with levels, change and field evidence.
+
+ASCII MASTER FLOW — PANEL 6/9: Aspirational initiatives, SDG localisation, DMEO and innovation within bounds
+ASPIRATIONAL DISTRICTS / BLOCKS
+convergence + collaboration + competition
+-> indicator tracking and delta improvement
+-> implementation remains with governments and field agencies.
+
+SDG LOCALISATION
+national goals -> indicator framework -> State and local comparison
+-> policy attention; index publication is not constitutional power.
+
+DMEO
+monitoring and evaluation support -> evidence on design, process and outcomes.
+
+ATAL INNOVATION MISSION
+executive programme under NITI; current architecture depends on Cabinet and programme controls.
+
+BOUNDARY
+NITI may coordinate, study, rank and recommend.
+It does not legislate, appropriate money or guarantee district outcomes.
+
+ASCII MASTER FLOW — PANEL 7/9: NITI, Planning Commission, Finance Commission and GST Council compared
+NITI AAYOG
+2015 executive resolution | strategy, dialogue, knowledge and monitoring | no transfer award.
+
+PLANNING COMMISSION
+1950 executive resolution | Five-Year Plans and plan-resource influence | abolished.
+
+FINANCE COMMISSION
+Article 280 | periodic expert recommendations on tax distribution and grants.
+
+GST COUNCIL
+Article 279A | continuing Union-State forum for GST recommendations.
+
+INTER-STATE COUNCIL
+Article 263 route | intergovernmental coordination and advice.
+
+STATE FINANCE COMMISSION
+Articles 243I and 243Y | State-local fiscal recommendations.
+
+TRAP
+strategy, fiscal distribution, tax coordination and intergovernmental consultation are distinct.
+
+ASCII MASTER FLOW — PANEL 8/9: Strengths, accountability deficits, reform and the dated federal anchor
+STRENGTHS
+flexibility | high-level convening | cross-sector knowledge
+| State dialogue | rapid policy studies | monitoring and innovation.
+
+LIMITS
+non-binding advice | central agenda power | weak legislative reporting
+| data quality | uncertain follow-through | capacity asymmetry.
+
+REFORM
+publish consultation records and evaluation methods
+-> independent data audit -> State agenda windows
+-> action-taken tracking -> parliamentary scrutiny without statutory rigidity.
+
+DATED ANCHOR
+11th Governing Council, 11 June 2026:
+"Inclusive Human Development for Viksit Bharat@2047."
+
+CAUTION
+meeting theme proves agenda and convening, not implementation success or a justiciable target.
+
+ASCII MASTER FLOW — PANEL 9/9: PYQ routes, close-option traps and qualified policy-platform synthesis
+PYQ ROUTES
+2018 GS-III -> principles of NITI versus Planning Commission.
+2019 Prelims -> Atal Innovation Mission institutional location.
+
+PRELIMS FIREWALL
+executive != unconstitutional | no Article 280 allocation
+| Governing Council != legislature | Regional Council != Zonal Council
+| index != binding power | plan/non-plan abolition != NITI decree.
+
+MAINS SPINE
+2015 origin -> legal status -> objectives -> composition
+-> federal mechanism -> evidence tools -> comparison
+-> strength and deficit -> accountable reform.
+
+QUALIFIED VERDICT
+NITI is influential when credible evidence, State ownership and competent implementation converge;
+without them, soft coordination cannot substitute for law, finance or administrative capacity.

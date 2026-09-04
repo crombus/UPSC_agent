@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-21",
+  "record_id": "polity-21:learner-v2:g3",
+  "score": 90,
+  "status": "changes_suggested",
+  "approval": false,
+  "hard_gate_failures": [
+    "Four generated semantic recall lines ended in ellipsis truncation.",
+    "The tenth answer-specific Why/How pair was positioned after Optional Advanced and omitted from the workbook."
+  ],
+  "preserved": true,
+  "successor": "polity-21:learner-v2:g4"
+}

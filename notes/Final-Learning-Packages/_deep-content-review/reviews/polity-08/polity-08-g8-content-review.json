@@ -1,0 +1,63 @@
+{
+  "topic_key": "polity-08",
+  "reviewed_identity": "polity-08:learner-v2:g8",
+  "review_date": "2026-08-28",
+  "score": {
+    "complete_learning_session": 39,
+    "solved_practice_workbook": 29,
+    "graphical_flowchart": 15,
+    "ascii_master_flowchart": 15,
+    "total": 98
+  },
+  "status": "passed",
+  "approved": false,
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": true,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": true,
+    "current_data_source_dated": true
+  },
+  "checks": {
+    "syllabus_core_complete": true,
+    "facts_verified": true,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": true,
+    "current_data_source_dated": true,
+    "strict_mcq_rotation": true,
+    "pdf_layout": true,
+    "graphical_source_anchors": true,
+    "ascii_embedded_standalone_equal": true,
+    "canonical_provenance_exact": true,
+    "prose_integrity": true,
+    "answer_specific_improvements": true,
+    "pyq_answer_word_limit": true
+  },
+  "artifact_hashes": {
+    "session": "8ff81d76294e45c4fcd07739ba11b6a004ab9e119d9ffadf87e1b32a47d586a1",
+    "workbook": "a71171d47812099927de917ee11fbefe7dbfe95f7e1b75907375567a0d0208bf",
+    "poster": "16e2b91d865f3854225f45d9e9ee15038987679f2eb1632478f6af4a4421d2ac",
+    "tiled": "442996731bb554bfc38bac904a54270ddb94ecfe7d89fc9d4864dd32ba97f6ce",
+    "master": "cf5b5a70e62bf7751bc89ef313efb7f7aeb88fcb4bc47ae177c1458a3bc85017",
+    "ascii": "447ad8e195309a0de7b3034bd3ab7cf69b6289c42dc0d3649c1f5524890f69ba"
+  },
+  "page_counts": {
+    "complete_learning_session": 61,
+    "solved_practice_workbook": 16,
+    "graphical_poster": 1,
+    "graphical_tiled": 4,
+    "ascii_master_pdf": 11
+  },
+  "intermediates": [
+    "polity-08:learner-v2:g3",
+    "polity-08:learner-v2:g4",
+    "polity-08:learner-v2:g5",
+    "polity-08:learner-v2:g6",
+    "polity-08:learner-v2:g7"
+  ],
+  "remaining_uncertainty": "No hard-gate blocker; explicit approval of g8 remains pending."
+}

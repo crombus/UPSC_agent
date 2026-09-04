@@ -1,0 +1,382 @@
+{
+  "schema_version": 1,
+  "topic_key": "ancient-indian-history-03",
+  "generation": 6,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-03\\ancient-indian-history-03_Complete-Learning-Session_2026-08-22.md",
+  "master_dimensions": [
+    3600,
+    27672
+  ],
+  "stages": [
+    {
+      "title": "UPSC RELEVANCE AND ANSWER-WORTHINESS AUDIT",
+      "terms": "UPSC Relevance and Answer-Worthiness Audit: This topic is directly relevant to Prelims GS-I under History of India: location/site-region matching, river systems, routes, resources and chronology-environment distinctions are testable.",
+      "mechanism": "It is not a separately named Mains syllabus unit; it is a contextual answer-enricher for GS-I culture/ancient-history discussion.",
+      "consequence": "The verified 2023 GS-I question on geographical factors in the development of Ancient India gives one direct Mains route.",
+      "trap": "It is not a separately named Mains syllabus unit; it is a contextual answer-enricher for GS-I culture/ancient-history discussion.",
+      "answer": "This topic is directly relevant to Prelims GS-I under History of India: location/site-region matching, river systems, routes, resources and chronology-environment distinctions are testable."
+    },
+    {
+      "title": "ROADMAP: FROM TERRAIN TO HISTORICAL EXPLANATION — [CORE MAINS]",
+      "terms": "Roadmap: From Terrain to Historical Explanation — [CORE MAINS]: Geography is not a decorative opening paragraph to ancient history.",
+      "mechanism": "A river does not create a city by itself; a mineral deposit does not automatically create a state; a drought does not mechanically destroy a civilization.",
+      "consequence": "INFERENCE: Geography is strongest as a mechanism-rich explanation: identify resource or constraint, human response and resulting institution.",
+      "trap": "Geography is not a decorative opening paragraph to ancient history.",
+      "answer": "Book context queried directly: R.S."
+    },
+    {
+      "title": "PHYSICAL ARCHITECTURE OF THE SUBCONTINENT — [CORE PRELIMS]",
+      "terms": "Physical Architecture of the Subcontinent — [CORE PRELIMS]: The Himalayas are young and unstable; the northern plains were created by enormous sediment deposition; the Deccan plateau is associated with ancient lava flows; river courses and coastlines have changed.",
+      "mechanism": "The Himalayas are young and unstable; the northern plains were created by enormous sediment deposition; the Deccan plateau is associated with ancient lava flows; river courses and coastlines have changed.",
+      "consequence": "Historical geography therefore studies landscapes in time, not a frozen modern map.",
+      "trap": "These zones are internally diverse and historically connected rather than sealed compartments.",
+      "answer": "CA search found no need to force a dated item into basic physiography; the static geological and regional framework remains primary."
+    },
+    {
+      "title": "HIMALAYAS, PASSES AND FRONTIER ZONES — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Himalayas, Passes and Frontier Zones — [CORE PRELIMS + CORE MAINS]: CA search found no dated discovery necessary; the core test is barrier-versus-corridor reasoning.",
+      "mechanism": "Nepal remained accessible through passes.",
+      "consequence": "Yet they were never an absolute wall.",
+      "trap": "Yet they were never an absolute wall.",
+      "answer": "CA search found no dated discovery necessary; the core test is barrier-versus-corridor reasoning."
+    },
+    {
+      "title": "INDUS AND GHAGGAR-HAKRA RIVER SYSTEMS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Live research was checked separately; river reconstruction is used without equating geomorphology automatically with a textual river.",
+      "mechanism": "Therefore neither 'Indus valley' nor 'river civilization' should erase regional diversity.",
+      "consequence": "Therefore neither 'Indus valley' nor 'river civilization' should erase regional diversity.",
+      "trap": "FACT: Upinder cautions that 'Harappan civilization' is the safest archaeological label because the cultural spread exceeded both Indus and Ghaggar-Hakra valleys.",
+      "answer": "Live research was checked separately; river reconstruction is used without equating geomorphology automatically with a textual river."
+    },
+    {
+      "title": "GANGA-BRAHMAPUTRA PLAINS, DOABS AND DELTAS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Ganga-Brahmaputra Plains, Doabs and Deltas — [CORE PRELIMS + CORE MAINS]: The northern alluvial plain is not one homogeneous region.",
+      "mechanism": "Context: The plains became central through combinations of rice and other crops, iron tools, forest clearance, navigable rivers, surplus, exchange and political organization.",
+      "consequence": "The upper Ganga-Yamuna doab, middle Ganga plain, lower Ganga delta, Brahmaputra valley and Terai differ in rainfall, soils, forests, flood regimes and historical timing.",
+      "trap": "CA search did not displace the static river-basin foundation.",
+      "answer": "CA search did not displace the static river-basin foundation."
+    },
+    {
+      "title": "PENINSULAR PLATEAUS, RIVER VALLEYS AND COASTS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Peninsular India consists of old rock formations, plateaus, dissected uplands, river valleys, ghats and two contrasting coastal margins.",
+      "mechanism": "FACT: Sharma emphasizes easy communication between Coromandel ports and the Andhra-Tamil interior through river openings in the Eastern Ghats.",
+      "consequence": "Peninsular India consists of old rock formations, plateaus, dissected uplands, river valleys, ghats and two contrasting coastal margins.",
+      "trap": "Its history cannot be treated as a delayed copy of the northern plains.",
+      "answer": "Live search was reserved for later climate and archaeology cards."
+    },
+    {
+      "title": "CLIMATE, MONSOON AND SEASONAL RHYTHMS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Yet 'the monsoon' is not a single uniform rain event: south-west, north-east and winter-rain regimes create regional contrasts.",
+      "mechanism": "The monsoon shaped sowing, crop choice, pasture, river discharge, travel seasons and the reliability of settlement.",
+      "consequence": "Yet 'the monsoon' is not a single uniform rain event: south-west, north-east and winter-rain regimes create regional contrasts.",
+      "trap": "Yet 'the monsoon' is not a single uniform rain event: south-west, north-east and winter-rain regimes create regional contrasts.",
+      "answer": "Live source retrieved: DST/PIB reporting of the Kondagai Lake study published 15 January 2026."
+    },
+    {
+      "title": "ECOLOGICAL ZONES AND THE TINAI LENS — [SUPPORTING]",
+      "terms": "Ancient Tamil poetry offers a powerful indigenous landscape vocabulary through the five tinai, but it is a poetic-cultural classification rather than a cadastral map.",
+      "mechanism": "Ancient Tamil poetry offers a powerful indigenous landscape vocabulary through the five tinai, but it is a poetic-cultural classification rather than a cadastral map.",
+      "consequence": "Ancient Tamil poetry offers a powerful indigenous landscape vocabulary through the five tinai, but it is a poetic-cultural classification rather than a cadastral map.",
+      "trap": "CA search was not forced; the card develops ecological classification and literary landscape method.",
+      "answer": "CA search was not forced; the card develops ecological classification and literary landscape method."
+    },
+    {
+      "title": "SOILS, FORESTS, WATER AND AGRICULTURE — [SUPPORTING]",
+      "terms": "Soils, Forests, Water and Agriculture — [SUPPORTING]: Live current research is integrated in the climate and palaeoenvironment cards.",
+      "mechanism": "Agriculture was therefore an ecological transformation, not simply the use of naturally fertile land.",
+      "consequence": "Agriculture was therefore an ecological transformation, not simply the use of naturally fertile land.",
+      "trap": "Agriculture was therefore an ecological transformation, not simply the use of naturally fertile land.",
+      "answer": "Live current research is integrated in the climate and palaeoenvironment cards."
+    },
+    {
+      "title": "METALS, STONE, TIMBER, SALT AND OTHER RESOURCES — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Metals, Stone, Timber, Salt and Other Resources — [CORE PRELIMS + CORE MAINS]: This uneven distribution created exchange networks from prehistory onward.",
+      "mechanism": "Ore becomes historically effective only through knowledge, fuel, labour, transport and demand.",
+      "consequence": "Ore becomes historically effective only through knowledge, fuel, labour, transport and demand.",
+      "trap": "INFERENCE: Archaeometallurgy can distinguish ore source and production technique, but compositional similarity alone does not reconstruct the entire trade chain.",
+      "answer": "51-53 and Upinder environmental-archaeology discussion."
+    },
+    {
+      "title": "SETTLEMENT ECOLOGY AND SITE SELECTION — [CORE MAINS]",
+      "terms": "Settlement is a choice among benefits and risks.",
+      "mechanism": "A large site requires a hinterland and transport system.",
+      "consequence": "Settlement is a choice among benefits and risks.",
+      "trap": "The relevant unit is often a settlement system, not an isolated site.",
+      "answer": "102, 180 and regional prehistoric chapters."
+    },
+    {
+      "title": "GEOGRAPHY-SETTLEMENT-STATE-ECONOMY RELATIONSHIPS — [CORE MAINS]",
+      "terms": "Geography-Settlement-State-Economy Relationships — [CORE MAINS]: CA search not separately forced because this is the integrative static mechanism card.",
+      "mechanism": "CA search not separately forced because this is the integrative static mechanism card.",
+      "consequence": "State and economy emerge through relationships rather than direct environmental effects.",
+      "trap": "CA search not separately forced because this is the integrative static mechanism card.",
+      "answer": "Book context queried: complete Topic 03 Markdown plus Sharma pp."
+    },
+    {
+      "title": "ROUTES, MIGRATION, TRADE AND CULTURAL INTERACTION — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Routes, Migration, Trade and Cultural Interaction — [CORE PRELIMS + CORE MAINS]: Movement followed corridors created by passes, river valleys, plateau gaps, coastlines and monsoon winds.",
+      "mechanism": "Movement followed corridors created by passes, river valleys, plateau gaps, coastlines and monsoon winds.",
+      "consequence": "Routes were not single engineered roads; they were shifting bundles of tracks, river reaches, staging points, ports and seasonal knowledge.",
+      "trap": "Current linkages are not needed for this durable network framework.",
+      "answer": "Current linkages are not needed for this durable network framework."
+    },
+    {
+      "title": "REGIONAL DIVERSITY AND ASYNCHRONOUS DEVELOPMENT — [CORE MAINS]",
+      "terms": "Regional Diversity and Asynchronous Development — [CORE MAINS]: CA search not forced because the core task is comparative chronology.",
+      "mechanism": "CA search not forced because the core task is comparative chronology.",
+      "consequence": "Ancient India did not pass through one synchronized sequence.",
+      "trap": "CA search not forced because the core task is comparative chronology.",
+      "answer": "Book context queried: full basic/advanced Topic 03 files and Upinder's regional method."
+    },
+    {
+      "title": "PREHISTORIC CHANGE: PALAEOLITHIC TO CHALCOLITHIC — [SUPPORTING]",
+      "terms": "Prehistoric change is best understood as changing relationships among climate, river systems, raw stone, plants, animals, mobility and settlement.",
+      "mechanism": "Context: Palaeolithic groups selected landscapes with stone and water; Mesolithic groups used varied local ecologies and microlithic technologies; Neolithic food production emerged through regional crop-animal packages; Chalcolithic communities combined copper with stone, farming, herding and exchange.",
+      "consequence": "CA search was not forced beyond the later palaeoenvironment card.",
+      "trap": "CA search was not forced beyond the later palaeoenvironment card.",
+      "answer": "Book context queried: Topic 03 advanced file; Upinder pp."
+    },
+    {
+      "title": "HARAPPAN ECOLOGY, URBANISM AND ADAPTATION — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Harappan Ecology, Urbanism and Adaptation — [CORE PRELIMS + CORE MAINS]: INFERENCE: 'Metamorphosis' is a useful term because urban contraction can coexist with cultural continuity and rural reorganization.",
+      "mechanism": "Harappan civilization joined diverse ecological zones through cities, towns, villages, craft sites and ports.",
+      "consequence": "Live source retrieved: IIT Gandhinagar and 2025 Nature-portfolio study on river drought.",
+      "trap": "Transformation after the mature urban phase should be studied as regional deurbanization, dispersal and changing crops or settlement size, not as one simultaneous disappearance.",
+      "answer": "Book context queried: Topic 03 files; Sharma pp."
+    },
+    {
+      "title": "VEDIC LANDSCAPES: FROM SAPTA-SINDHU TO THE GANGA — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Vedic Landscapes: From Sapta-Sindhu to the Ganga — [CORE PRELIMS + CORE MAINS]: Live current research is used only as method, not to prove textual river identities.",
+      "mechanism": "Later Vedic political and agrarian centres shifted toward the upper Ganga-Yamuna region and Kuru-Panchala, followed by wider eastern expansion.",
+      "consequence": "Rig Vedic geography is centred on the north-western river world often described as Sapta-Sindhu.",
+      "trap": "Live current research is used only as method, not to prove textual river identities.",
+      "answer": "Book context queried: Topic 03 plus Topic 08-09 geography links; Sharma pp."
+    },
+    {
+      "title": "EARLY HISTORIC URBANIZATION, MAGADHA, DECCAN AND COASTS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "The middle Ganga transformation was especially significant, while Deccan corridors and coastal ports created distinct early historic networks.",
+      "mechanism": "These advantages became historically effective through rulers, fortification, taxation, armies and strategic capitals such as Rajagriha and Pataliputra.",
+      "consequence": "These advantages became historically effective through rulers, fortification, taxation, armies and strategic capitals such as Rajagriha and Pataliputra.",
+      "trap": "CA search was not forced into this static synthesis.",
+      "answer": "48-56 plus cross-links to Mahajanapadas, trade and peninsular chapters."
+    },
+    {
+      "title": "PALAEOENVIRONMENT AND LANDSCAPE ARCHAEOLOGY — [SUPPORTING]",
+      "terms": "Palaeoenvironment and Landscape Archaeology — [SUPPORTING]: Context: No proxy is self-interpreting.",
+      "mechanism": "Wrong: Remote sensing discovers a city by itself.",
+      "consequence": "INFERENCE: These methods may reconstruct diet, mobility, health and human-environment relations; results must await completed analysis and publication.",
+      "trap": "Correct: It addresses biological ancestry within sampling limits, not social identity automatically.",
+      "answer": "176-181 and 247-249; Topic 03 advanced file."
+    },
+    {
+      "title": "ENVIRONMENTAL DETERMINISM VERSUS POSSIBILISM — [CORE MAINS]",
+      "terms": "Environmental Determinism versus Possibilism — [CORE MAINS]: Context: A stronger approach is relational: nature and society co-produce historical landscapes.",
+      "mechanism": "Possibilism treats geography as a field of opportunities and constraints among which people choose through technology, institutions, knowledge and power.",
+      "consequence": "Environmental effects are therefore mediated and socially distributed.",
+      "trap": "CA evidence was used to test, not replace, this debate.",
+      "answer": "55 explicitly rejects environmental determinism; Upinder pp."
+    },
+    {
+      "title": "CHANGE ACROSS PREHISTORIC, HARAPPAN, VEDIC AND EARLY HISTORIC CONTEXTS — [CORE MAINS]",
+      "terms": "Change across Prehistoric, Harappan, Vedic and Early Historic Contexts — [CORE MAINS]: EXAM USE: A phasewise structure is ideal for broad 'development of Ancient India' questions.",
+      "mechanism": "A river valley used by mobile foragers can later sustain villages, cities or capitals because technology, demography, crop regimes, routes and institutions change.",
+      "consequence": "The same geographical factor changes meaning across time.",
+      "trap": "INFERENCE: Environmental change can redirect existing trajectories rather than begin history anew.",
+      "answer": "Book context queried: complete topic sources plus chronological cross-links."
+    },
+    {
+      "title": "SOURCE CRITICISM AND LIMITS OF HISTORICAL GEOGRAPHY — [CORE MAINS]",
+      "terms": "Source Criticism and Limits of Historical Geography — [CORE MAINS]: Historical geography is reconstructed from texts, excavated settlements, plant and animal remains, sediments, maps, remote sensing, inscriptions and later landscapes.",
+      "mechanism": "Equifinality means different processes can produce similar evidence: settlement abandonment may result from drought, river shift, conflict, disease or network change.",
+      "consequence": "Equifinality means different processes can produce similar evidence: settlement abandonment may result from drought, river shift, conflict, disease or network change.",
+      "trap": "FACT: Remote sensing and GIS identify potential palaeochannels and subsurface remains but do not replace excavation or dating.",
+      "answer": "Book context queried: Upinder's source-method and palaeoenvironment discussions, Topic 03 advanced file, and local PYQ routing."
+    },
+    {
+      "title": "CURRENT RESEARCH LINKAGES: CLIMATE, RIVERS AND SCIENTIFIC ARCHAEOLOGY — [SUPPORTING]",
+      "terms": "No current-affairs item is required to learn this static topic.",
+      "mechanism": "Use a new palaeochannel, remote-sensing or environmental-archaeology report only after checking its primary survey or publication.",
+      "consequence": "Its safe answer use is methodological: new evidence can refine settlement ecology, but cannot independently prove a textual river identity, a civilisational collapse story or a deterministic historical outcome.",
+      "trap": "Its safe answer use is methodological: new evidence can refine settlement ecology, but cannot independently prove a textual river identity, a civilisational collapse story or a deterministic historical outcome.",
+      "answer": "No current-affairs item is required to learn this static topic."
+    },
+    {
+      "title": "UPSC MAP, TERMINOLOGY AND ANSWER-WRITING PROTOCOL — [CORE PRELIMS + CORE MAINS]",
+      "terms": "UPSC Map, Terminology and Answer-Writing Protocol — [CORE PRELIMS + CORE MAINS]: No unofficial answer key is claimed; the model answer is original.",
+      "mechanism": "Correct: Select examples that prove the mechanism.",
+      "consequence": "The examiner rewards relationship, comparison and qualification.",
+      "trap": "INFERENCE: The final judgement should use 'conditioned', 'enabled', 'constrained', 'mediated' and 'transformed', not 'caused inevitably'.",
+      "answer": "Book and PYQ context queried: Topic 03 sources and audited 2023 GS-I owner route."
+    },
+    {
+      "title": "AUDITED CORE APPLICATION LABS",
+      "terms": "Audited Core Application Labs: They replace any need for repeated regional catalogues.",
+      "mechanism": "They replace any need for repeated regional catalogues.",
+      "consequence": "They replace any need for repeated regional catalogues.",
+      "trap": "Answer-use: These five labs retain the map logic and causal teaching that improve elimination and answer quality.",
+      "answer": "These five labs retain the map logic and causal teaching that improve elimination and answer quality."
+    },
+    {
+      "title": "CORE MAP LAB 1: READ A REGION AS A HISTORICAL OPPORTUNITY — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Core Map Lab 1: Read a Region as a Historical Opportunity — [CORE PRELIMS + CORE MAINS]: This is how a map fact becomes a GS-I sentence.",
+      "mechanism": "A river basin, pass, plateau, coast or forest zone matters only through a historical mechanism.",
+      "consequence": "End with a bounded outcome such as settlement density, exchange or state formation.",
+      "trap": "Geography frames a choice; it does not make the choice mechanically.",
+      "answer": "A river basin, pass, plateau, coast or forest zone matters only through a historical mechanism."
+    },
+    {
+      "title": "CORE MAP LAB 2: RIVERS, PLAINS AND UNEVEN URBANISATION — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Core Map Lab 2: Rivers, Plains and Uneven Urbanisation — [CORE PRELIMS + CORE MAINS]: The trap is to say that a river alone creates a civilisation.",
+      "mechanism": "The trap is to say that a river alone creates a civilisation.",
+      "consequence": "The trap is to say that a river alone creates a civilisation.",
+      "trap": "The Indus system, Ganga plains and peninsular river valleys should not be memorised as a flat list.",
+      "answer": "The Indus system, Ganga plains and peninsular river valleys should not be memorised as a flat list."
+    },
+    {
+      "title": "CORE MAP LAB 3: FRONTIERS, PASSES AND COASTS — [CORE PRELIMS]",
+      "terms": "Core Map Lab 3: Frontiers, Passes and Coasts — [CORE PRELIMS]: A pass is not merely an invasion route; it can carry trade, migration and cultural interaction.",
+      "mechanism": "A pass is not merely an invasion route; it can carry trade, migration and cultural interaction.",
+      "consequence": "A coast is not merely a boundary; it can connect inland production to maritime exchange.",
+      "trap": "A pass is not merely an invasion route; it can carry trade, migration and cultural interaction.",
+      "answer": "Himalayas, northwest passes and seas worked as both constraints and contact zones."
+    },
+    {
+      "title": "CORE MAP LAB 4: RESOURCES AND REGIONAL ASYNCHRONY — [CORE MAINS]",
+      "terms": "Metals, timber, salt, stone and ecological diversity can create exchange and inter-regional dependence because no region has every input.",
+      "mechanism": "Metals, timber, salt, stone and ecological diversity can create exchange and inter-regional dependence because no region has every input.",
+      "consequence": "Explain unequal development through resource access plus technology, labour and institutions; do not turn a mineral deposit into a ready-made state.",
+      "trap": "Resources create possibilities, not automatic empires.",
+      "answer": "Resources create possibilities, not automatic empires."
+    },
+    {
+      "title": "CORE MAP LAB 5: ONE-PARAGRAPH GEOGRAPHY ANSWER — [CORE MAINS]",
+      "terms": "Core Map Lab 5: One-Paragraph Geography Answer — [CORE MAINS]: This is more valuable than a catalogue of soils, passes or palaeoclimate techniques.",
+      "mechanism": "Write: geography supplied differentiated opportunities--rivers, monsoon regimes, resources and routes; communities converted them through subsistence choices, technology and institutions; therefore development was regional and asynchronous, not environmentally predetermined.",
+      "consequence": "Write: geography supplied differentiated opportunities--rivers, monsoon regimes, resources and routes; communities converted them through subsistence choices, technology and institutions; therefore development was regional and asynchronous, not environmentally predetermined.",
+      "trap": "Write: geography supplied differentiated opportunities--rivers, monsoon regimes, resources and routes; communities converted them through subsistence choices, technology and institutions; therefore development was regional and asynchronous, not environmentally predetermined.",
+      "answer": "Write: geography supplied differentiated opportunities--rivers, monsoon regimes, resources and routes; communities converted them through subsistence choices, technology and institutions; therefore development was regional and asynchronous, not environmentally predetermined."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 2,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7760,
+      "y_end": 9960,
+      "overlap_px": 260,
+      "from_stage": 9,
+      "continues_stage": 12
+    },
+    {
+      "page": 6,
+      "y_start": 9700,
+      "y_end": 11900,
+      "overlap_px": 260,
+      "from_stage": 11,
+      "continues_stage": 14
+    },
+    {
+      "page": 7,
+      "y_start": 11640,
+      "y_end": 13840,
+      "overlap_px": 260,
+      "from_stage": 14,
+      "continues_stage": 16
+    },
+    {
+      "page": 8,
+      "y_start": 13580,
+      "y_end": 15780,
+      "overlap_px": 260,
+      "from_stage": 16,
+      "continues_stage": 18
+    },
+    {
+      "page": 9,
+      "y_start": 15520,
+      "y_end": 17720,
+      "overlap_px": 260,
+      "from_stage": 18,
+      "continues_stage": 20
+    },
+    {
+      "page": 10,
+      "y_start": 17460,
+      "y_end": 19660,
+      "overlap_px": 260,
+      "from_stage": 20,
+      "continues_stage": 23
+    },
+    {
+      "page": 11,
+      "y_start": 19400,
+      "y_end": 21600,
+      "overlap_px": 260,
+      "from_stage": 22,
+      "continues_stage": 25
+    },
+    {
+      "page": 12,
+      "y_start": 21340,
+      "y_end": 23540,
+      "overlap_px": 260,
+      "from_stage": 25,
+      "continues_stage": 27
+    },
+    {
+      "page": 13,
+      "y_start": 23280,
+      "y_end": 25480,
+      "overlap_px": 260,
+      "from_stage": 27,
+      "continues_stage": 29
+    },
+    {
+      "page": 14,
+      "y_start": 25220,
+      "y_end": 27420,
+      "overlap_px": 260,
+      "from_stage": 29,
+      "continues_stage": 31
+    },
+    {
+      "page": 15,
+      "y_start": 25472,
+      "y_end": 27672,
+      "overlap_px": 260,
+      "from_stage": 29,
+      "continues_stage": 31
+    }
+  ]
+}

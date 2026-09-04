@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-21",
+  "record_id": "polity-21:learner-v2:g4",
+  "status": "passed",
+  "approval": false,
+  "validated_on": "2026-08-28",
+  "artifact_hashes": {
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\21-High-Court-and-Subordinate-Courts\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf": "7b1f0c3ab9765f27a65fa9fb23eece2ddf33982cbf520ee0a190c08565815866",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\21-High-Court-and-Subordinate-Courts\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": "5e133931693bb22bb601e6937fc181acf6a370d6aea8de4a4e9ce77e08e5667f",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\21-High-Court-and-Subordinate-Courts\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": "2aa161a66ffcf580dd5efbeeef7b160778e77a1a07d41ee3f5464eea77e4c0f7",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\21-High-Court-and-Subordinate-Courts\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png": "3cc278adfc2b25c8c475c5f340fa87f9c115cc1ef78174311cca1c0ecf23348e",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\21-High-Court-and-Subordinate-Courts\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf": "4d97a767e51a6b6d6e085841077fd96004a12e908428d6f67a6ae088e8db881b",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\21-High-Court-and-Subordinate-Courts\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": "e01a5af6898b0494dcd027ff1c7c42b67d2fd36b9407f07d357a79f2c07ef16d",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\21-High-Court-and-Subordinate-Courts\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt": "33f8237623f77899da9251bf0dca38e8efe8b2926a39ef0014dce6fbf1b4135a",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\21-High-Court-and-Subordinate-Courts\\README.txt": "37ba183f5b92e3d726399bfed2a66b9f7bbe342886dac8635dd60982296c916f"
+  },
+  "artifact_hash_count": 8,
+  "validation": [
+    "tracker-aware validate_v2_export passed",
+    "four-item exporter and validation passed",
+    "38 focused refresh tests passed",
+    "zero semantic ellipses or replacement glyphs",
+    "strict ABCD x12 confirmed"
+  ],
+  "page_counts": {
+    "session": 64,
+    "workbook": 15,
+    "poster": 1,
+    "tiled": 5,
+    "ascii": 12
+  }
+}

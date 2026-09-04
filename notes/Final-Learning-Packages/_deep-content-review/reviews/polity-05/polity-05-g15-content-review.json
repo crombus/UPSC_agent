@@ -1,0 +1,8 @@
+{
+  "identity": "polity-05:learner-v2:g15",
+  "score": 97,
+  "status": "changes_suggested",
+  "approved": false,
+  "passed": false,
+  "reason": "All substantive repairs and four-artifact controls passed, but re-review found three generated J&K teaching-aid lines with duplicated quote/full-stop punctuation (possible.\".). Preserve g15 and regenerate from corrected source."
+}

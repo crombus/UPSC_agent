@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-55",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-55",
+  "title": "Constitutional Interpretation Doctrines",
+  "generation_date": "2026-08-29",
+  "command": "Generate learner-v2 topic: Polity — Constitutional Interpretation Doctrines — deep-reviewed immutable successor",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-55\\g3-source\\polity-55_g3-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Constitutional-Interpretation-Doctrines.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Constitutional-Interpretation-Doctrines.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\55_Constitutional-Interpretation-Doctrines.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Centre-State-Relations.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Supreme-Court.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+  ],
+  "official_question_sources": [
+    "books\\more_previous_papers\\QP-CSM19-GeneralStudies-II.pdf",
+    "books\\more_previous_papers\\QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf",
+    "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf",
+    "books\\more_previous_papers\\QP_CS_Pre_Exam_2023_280523.pdf",
+    "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf"
+  ],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf"
+  ],
+  "live_sources": [
+    "https://www.sci.gov.in/free-text-judgements/",
+    "https://scr.sci.gov.in/",
+    "https://legislative.gov.in/constitution-of-india/"
+  ],
+  "practice_profile": "Six exact or status-qualified routed PYQs; 48 hard MCQs in strict A-B-C-D rotation; eight original Mains questions with doctrine-specific models.",
+  "current_linkage_note": "Controlled to 29 August 2026; decided holdings, bench strength, reviews, references and interim orders are separately labelled.",
+  "pyq_status_note": "Six routed PYQs reproduce exact wording/status; the dropped 2023 item has no fabricated scored key.",
+  "allow_existing_history": true,
+  "mcq_answer_policy": "strict-abcd-cycle",
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Constitutional-Interpretation-Doctrines.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\55_Constitutional-Interpretation-Doctrines.md",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-55\\g3-source\\polity-55_g3-reviewed-source.md",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-55-2026-08-25-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-55.json",
+    "tools\\deep_content_quality_overrides.json"
+  ]
+}

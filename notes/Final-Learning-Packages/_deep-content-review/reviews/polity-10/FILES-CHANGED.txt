@@ -1,0 +1,56 @@
+SOURCE OWNERS
+upsc-ai-kit\knowledge\Polity\basic\Amendment-and-Basic-Structure.md
+upsc-ai-kit\knowledge\Polity\advanced\10_Amendment-and-Basic-Structure.md
+upsc-ai-kit\knowledge\Polity\10_Amendment-and-Basic-Structure_Complete-Topic-Package.md
+upsc-ai-kit\knowledge\Polity\learning-sessions\v2\subject-wide-syllabus\polity-10_Learning-Session.md
+
+FLOW / TEST PIPELINE
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\polity-10.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\polity-2026-08-24-sequential-batch.json
+upsc-ai-kit\manifests\retrofits\semantic-aid-quality-audit-2026-08-23.json
+tools\test_refresh_all_v2_learning_sessions.py
+
+IMMUTABLE REVIEW SOURCES AND RECORDS
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-10\g3-source\
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-10\g4-source\
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-10\g5-source\
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-10\g6-source\
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-10\polity-10-g3-*.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-10\polity-10-g4-*.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-10\polity-10-g5-*.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-10\polity-10-g6-*.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-10\REPAIR-HANDOFF.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-10\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\polity-10-amendment-basic-structure-repair.md
+
+GENERATED IMMUTABLE ARTIFACTS
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\g3\
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\g3-first-attempt\
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\g4\
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\g5\
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\g6\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\g3\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\g3-first-attempt\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\g4\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\g5\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-10\g6\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-10\carvaka-g3\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-10\carvaka-g3-first-attempt\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-10\carvaka-g4\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-10\carvaka-g5\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-10\carvaka-g6\
+
+CENTRAL TRACKERS / LEDGERS / FINAL EXPORT
+EXPORT-PDF-STATUS.json
+EXPORT-PDF-COMMAND-INDEX.md
+V2-SUBJECT-SECTION-COMMAND-INDEX.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\ISSUE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\EVIDENCE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\MD-CHANGE-SUGGESTIONS.md
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\10-Amendment-and-Basic-Structure\
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-28*.json
+notes\Polity\learning-session-v2\subject-wide-syllabus\indexes\

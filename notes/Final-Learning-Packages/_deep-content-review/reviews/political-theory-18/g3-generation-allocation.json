@@ -1,0 +1,13 @@
+{
+  "topic_key": "political-theory-18",
+  "allocated_at": "2026-08-30T10:09:44.193990+00:00",
+  "baseline_record_id": "political-theory-18:learner-v2:g2",
+  "new_record_id": "political-theory-18:learner-v2:g3",
+  "review_state": "validation_failed",
+  "score": null,
+  "approval": false,
+  "prior_generation_immutable": true,
+  "live_export_identity": "political-theory-18:learner-v2:g2",
+  "live_master_identity": "political-theory-18:learner-v2:g2",
+  "failure_reason": "The initial source-label validator accepted singular Source but not the valid plural Official sources label. Complete artifacts are preserved and were never published."
+}

@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "records": [
+    {
+      "record_id": "polity-48:learner-v2:g3",
+      "topic_key": "polity-48",
+      "variant": "learner-v2",
+      "generation": 3,
+      "supersedes": "polity-48:learner-v2:g2",
+      "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Ministries Departments and Central Secretariat — deep-reviewed immutable g3",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g3\\polity-48_Complete-Learning-Session_2026-08-28.pdf",
+      "workbook": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g3\\polity-48_Solved-Practice-Workbook_2026-08-28.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g3\\polity-48_Complete-Learning-Session_2026-08-28.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g3\\polity-48_Solved-Practice-Workbook_2026-08-28.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g3\\assets",
+      "generated_on": "2026-08-28",
+      "approved": false,
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Ministries-and-Departments-of-Government.md",
+        "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Ministries-and-Departments-of-Government.md",
+        "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\48_Ministries-Departments-and-Central-Secretariat.md",
+        "cross_topic_sources": [
+          "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\PM-and-Council-of-Ministers.md",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\Public-Services.md",
+          "upsc-ai-kit\\knowledge\\Governance\\basic\\05_E-Governance-Models-and-User-Centricity.md",
+          "upsc-ai-kit\\knowledge\\Governance\\basic\\09_Civil-Services-and-Mission-Karmayogi.md"
+        ],
+        "pyq_indexes": [
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+        ],
+        "official_question_sources": [
+          "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf",
+          "books\\mains\\02 UPSC 2024 Paper-II.pdf",
+          "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf",
+          "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf"
+        ],
+        "local_ocr_sources": [
+          "books\\Indian Polity by M Laxmikant.pdf"
+        ],
+        "live_sources": [
+          "https://legislative.gov.in/constitution-of-india/",
+          "https://cabsec.gov.in/allocationofbusinessrules/completeaobrules/",
+          "https://cabsec.gov.in/writereaddata/transactionofbusinessrulescomplete/completeaobrules/english/1_Upload_2214.pdf",
+          "https://cabsec.gov.in/aboutus/functions/",
+          "https://darpg.gov.in/sites/default/files/CSMOP_16th_Edition_2022.pdf",
+          "https://www.pmindia.gov.in/en/list-of-officers-pmo/",
+          "https://upsc.gov.in/examinations/previous-question-papers"
+        ],
+        "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g3\\polity-48_Complete-Learning-Session_2026-08-28.md",
+        "renderer": {
+          "name": "tools/markdown_learning_pdf.py",
+          "version": "2.1"
+        },
+        "generation_date": "2026-08-28",
+        "superseded_v1": "polity-48:learner-v2:g2",
+        "source_hashes": {
+          "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-48\\g3-source\\polity-48_g3-reviewed-source.md": "d4ea65c67aeb26446badfacfb2849e82e9096c85db67b1333597c89462844360",
+          "tools\\deep_content_quality_overrides.json": "fec3ea3f91bf526825ab512013677cb6e4116ef2ffcb0ade93797f3bc3177a00",
+          "upsc-ai-kit\\knowledge\\Polity\\advanced\\48_Ministries-Departments-and-Central-Secretariat.md": "88c1b193960107cace0e9b19598864f74b0d12f1b23137765914f0641fae0bea",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\Ministries-and-Departments-of-Government.md": "a36fa1dd773ce9bcf31ddb93ca77aeef1ba757d720aa07a3ef1c41633d6980e2",
+          "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-48-2026-08-25-sequential.json": "d785da1ad9b12778f609f2910bb03be1423c37713eaaf99199948cb6f0d58a16",
+          "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-48.json": "91b2e58252f812d595e4eeaab1d5505726659aa06105d56b1e450b644e69c39e"
+        },
+        "session_contract": "named-session definition/opening/keywords/use/closure",
+        "mcq_keys": "strict A-B-C-D rotation",
+        "practice_profile": "Four exact relevant PYQs; 48 hard MCQs in strict A-B-C-D rotation; eight original Mains questions; sixteen answer-specific guidance sets.",
+        "current_linkage_note": "Current organisational names, Cabinet Committee composition and PMO staffing are treated as dated official claims, not permanent constitutional facts.",
+        "pyq_status_note": "Exact 2025 Prelims Q57, 2020 GS-II Q7/Q8 and 2024 GS-II Q3 are solved; supporting cross-ownership is labelled.",
+        "new_visual_count": 1,
+        "new_flowchart_page_count": 4,
+        "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+        "tracker_updated": false,
+        "tracker_sha256": "31acb2a38dd5692bcbae9887f21070bc93623edab50778f9e87c017d65f1e106"
+      },
+      "approval": {
+        "approved": false,
+        "approved_on": null,
+        "scope": "polity-48:learner-v2:g3"
+      },
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-08-28",
+        "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+      },
+      "continuous_core_first": {
+        "folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-48\\carvaka-g3",
+        "master_image": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-48\\carvaka-g3\\master.png",
+        "poster_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-48\\carvaka-g3\\poster.pdf",
+        "tiled_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-48\\carvaka-g3\\tiled.pdf",
+        "editable": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-48\\carvaka-g3\\editable",
+        "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g3\\polity-48_Graphical-Spec-g3.json",
+        "graphical_spec_sha256": "9101bc3cf6680c3d8c13475443402df5d2db85afc632da629b8058403fb4ddb3",
+        "renderer": {
+          "name": "carvaka-continuous-at-a-glance-graphical-v2",
+          "version": "2.0"
+        },
+        "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+        "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "previews": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-48\\carvaka-g3\\previews",
+        "contact_sheets": [
+          "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-48\\carvaka-g3\\previews\\contact-sheet-01.png"
+        ],
+        "master_overview": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-48\\carvaka-g3\\previews\\master-overview.png",
+        "validation_report": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-48\\carvaka-g3\\validation-report.txt",
+        "build_audit": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-48\\carvaka-g3\\build-audit.json",
+        "preservation_hashes": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-48\\carvaka-g3\\preservation-hashes.json",
+        "ascii_master": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-48\\carvaka-g3\\ascii-master.txt",
+        "ascii_master_preserved": true,
+        "core_stage_count": 12,
+        "card_count": 13,
+        "tiled_page_count": 4,
+        "approval": false,
+        "ascii_master_source": "manual-authored-spec",
+        "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-48-2026-08-25-sequential.json",
+        "ascii_master_spec_sha256": "d785da1ad9b12778f609f2910bb03be1423c37713eaaf99199948cb6f0d58a16"
+      },
+      "refresh_profile": "learner-v2-refreshed-new-topic"
+    }
+  ]
+}

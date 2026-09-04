@@ -1,0 +1,15 @@
+{
+  "selection": "polity-08-g8-final-revalidation",
+  "passed": true,
+  "topic_count": 1,
+  "topics": [
+    {
+      "topic_key": "polity-08",
+      "record_id": "polity-08:learner-v2:g8",
+      "generation": 8,
+      "passed": true,
+      "errors": [],
+      "score": 98
+    }
+  ]
+}

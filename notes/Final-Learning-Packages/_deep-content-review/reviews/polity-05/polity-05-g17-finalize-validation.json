@@ -1,0 +1,32 @@
+{
+  "identity": "polity-05:learner-v2:g17",
+  "passed": true,
+  "approval": false,
+  "tracker_selected": true,
+  "final_four_item_export": "passed",
+  "master_tracker_selected": "polity-05:learner-v2:g17",
+  "checks": {
+    "syllabus_core_complete": true,
+    "facts_verified": true,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": true,
+    "current_data_source_dated": true,
+    "strict_mcq_rotation": true,
+    "pdf_layout": true,
+    "graphical_source_anchors": true,
+    "ascii_embedded_standalone_equal": true,
+    "canonical_provenance_exact": true,
+    "prose_integrity": true
+  },
+  "artifact_hashes": {
+    "session": "e2dfa865b1f79c7fdf84092705fee16e8b867b65bbfe8fda37eec3b0c3db073a",
+    "workbook": "fa7261c66c9f7063ed51a7a6dc7404814563c71a1b42e1e1a4d3cae254cfc2b4",
+    "poster": "b55e3aa3707831a906854b3fcd5b0694f53aee049ad5dd998e1406a46af0faff",
+    "tiled": "3603f695adc122273480d373c62b3fca4960f23d62861fb02e74d2f504c9026d",
+    "master": "59be1a66255cc4b7e21681264a482056bba0e4b6966f3837ee0920b0967e1a93",
+    "ascii": "b898e27f724270c2c88844ddeb7328add2c4cd4eb2f5a38507b4f6072c76b607"
+  },
+  "validated_on": "2026-08-28"
+}

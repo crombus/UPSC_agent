@@ -1,0 +1,150 @@
+ASCII MASTER FLOW — PANEL 1/9: Article 79 architecture, composition and representation
+PARLIAMENT = PRESIDENT + RAJYA SABHA + LOK SABHA
+
+LOK SABHA
+direct adult-suffrage election | normal five-year term | dissolution possible
+
+RAJYA SABHA
+indirect State/UT representation | nominated members | permanent House
+one-third retire every second year
+
+REPRESENTATION CONTROL
+seat allocation + delimitation + population-freeze chronology
+106th Amendment commencement does not itself operationalise women's reservation
+
+CORE VERDICT
+popular chamber, federal chamber and constitutional head form one legislative institution.
+
+ASCII MASTER FLOW — PANEL 2/9: Membership, vacancies, officers and sessions
+MEMBERSHIP
+Article 84 qualification -> Article 102 disqualification -> Article 103 decision with ECI opinion
+vacancy, double membership, resignation and prolonged absence follow distinct rules
+
+OFFICERS
+Speaker / Deputy Speaker -> Articles 93-97
+Chairman / Deputy Chairman -> Articles 89-92
+Speaker continues after dissolution until immediately before first new-LS meeting
+
+SESSIONS
+summon -> sitting -> adjourn / adjourn sine die -> prorogue -> dissolution
+Article 85: no more than six months between sessions; no minimum sitting-day count.
+
+ASCII MASTER FLOW — PANEL 3/9: Privileges, questions and parliamentary devices
+FUNCTIONAL PRIVILEGE
+speech / vote protection + House powers needed for legislative work
+not a personal licence for corruption or unrelated crime
+
+SITA SOREN (2024)
+bribery is not protected merely because it relates to a vote or speech.
+
+INFORMATION DEVICES
+starred -> oral answer + supplementaries
+unstarred -> written answer
+short-notice -> urgent public importance
+Zero Hour -> convention, not Rules
+
+MOTIONS
+no-confidence | censure | adjournment | privilege | cut motions | discussions.
+
+ASCII MASTER FLOW — PANEL 4/9: Legislative procedure and the Bill-class firewall
+ORDINARY BILL
+introduction -> consideration / committee -> passage -> other House
+-> deadlock route where available -> presidential assent
+
+MONEY BILL: ARTICLES 109-110
+Lok Sabha only + presidential recommendation + Speaker certificate
+Rajya Sabha recommendations within 14 days + no joint sitting
+
+FINANCIAL BILL-I
+Article 110 matter plus others; LS only, but Rajya Sabha has full legislative power
+
+FINANCIAL BILL-II
+expenditure from Consolidated Fund; either House, recommendation before consideration
+
+ARTICLE 368 BILL
+special majority; no joint sitting; presidential assent obligatory.
+
+ASCII MASTER FLOW — PANEL 5/9: Budget, grants, funds and financial control
+ARTICLE 112 ANNUAL FINANCIAL STATEMENT
+charged expenditure discussed, not voted
+voted expenditure -> demands for grants in Lok Sabha
+        |
+cut motions -> guillotine -> Appropriation Bill -> Finance Bill
+        |
+CAG audit -> PAC / committee follow-up
+
+GRANTS
+supplementary | additional | excess | vote on account | vote of credit | exceptional
+
+FUNDS
+Consolidated Fund -> appropriation by law
+Contingency Fund -> advances for urgent unforeseen expenditure
+Public Account -> other public money; no appropriation vote for withdrawal.
+
+ASCII MASTER FLOW — PANEL 6/9: Committee architecture: Parliament's working rooms
+FINANCIAL COMMITTEES
+PAC 22 = 15 LS + 7 RS -> CAG / post-spending scrutiny
+Estimates 30 LS -> economy and administrative improvement
+CoPU 22 = 15 LS + 7 RS -> public undertakings
+
+DRSCs
+24 committees; each 31 = 21 LS + 10 RS; ministers excluded
+demands for grants + referred Bills + annual reports + long-term policy
+
+OTHER CONTROLS
+Subordinate Legislation | Privileges | Ethics | Assurances | Petitions | Welfare
+
+LIMIT
+reports are advisory, but evidence, publicity and follow-up make them institutionally powerful.
+
+ASCII MASTER FLOW — PANEL 7/9: Rajya Sabha special powers, joint sitting and ordinance interface
+RAJYA SABHA EQUAL
+ordinary Bills | constitutional amendments | specified elections / removals
+
+RAJYA SABHA UNEQUAL
+Money Bills | demands for grants | Lok Sabha confidence
+
+RAJYA SABHA EXCLUSIVE
+Article 249 -> Parliament on State List in national interest
+Article 312 -> create All-India Services
+
+JOINT SITTING: ARTICLE 108
+ordinary / Financial Bill deadlock; Speaker presides; no Money or Amendment Bill route
+
+ORDINANCE
+Article 123 temporary law must return to parliamentary control; re-promulgation is bounded.
+
+ASCII MASTER FLOW — PANEL 8/9: Anti-defection, sovereignty limits and reform
+TENTH SCHEDULE
+stability and party mandate <-> reduced individual deliberation
+Speaker / Chairman decision remains judicially reviewable
+
+PARLIAMENTARY SOVEREIGNTY IS LIMITED
+written Constitution + federal distribution + Fundamental Rights + Basic Structure
+judicial review + bicameral and procedural limits
+
+DECLINE DIAGNOSIS
+executive agenda control | whip | disruption | guillotine | weak referral | ordinances
+
+REFORM
+predictable calendar + default committee referral + reasoned bypass
+limited whip + stronger research + timely presiding-officer decisions
+
+CURRENT LIMITS
+pending / defeated Bills and unknown delimitation dates are never converted into law.
+
+ASCII MASTER FLOW — PANEL 9/9: PYQ routes, close-option traps and answer synthesis
+PRELIMS FIREWALL
+President is part of Parliament, not a House member
+Question Hour is regulated; Zero Hour is conventional
+Money Bill 'only' test differs from Financial Bills
+Speaker continuity differs from Deputy Speaker
+Rajya Sabha is not uniformly inferior
+
+PYQ ROUTES
+8 solved Mains demands on committees, Speaker, Rajya Sabha and accountability
+20 routed Prelims demands with doctrinal resolutions and provenance limits
+
+MAINS SPINE
+constitutional instrument -> operating mechanism -> evidence -> executive / party constraint
+-> counter-evidence -> institutional reform -> Parliament strong in law, variable in practice.

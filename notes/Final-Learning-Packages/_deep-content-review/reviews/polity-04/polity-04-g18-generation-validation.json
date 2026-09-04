@@ -1,0 +1,15 @@
+{
+  "selection": "polity-04-g18-deep-review",
+  "passed": true,
+  "topic_count": 1,
+  "topics": [
+    {
+      "topic_key": "polity-04",
+      "record_id": "polity-04:learner-v2:g18",
+      "generation": 18,
+      "passed": true,
+      "errors": [],
+      "validated_on": "2026-08-28"
+    }
+  ]
+}

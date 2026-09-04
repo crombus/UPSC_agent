@@ -1,0 +1,39 @@
+{
+  "topic_key": "polity-10",
+  "reviewed_identity": "polity-10:learner-v2:g2",
+  "review_date": "2026-08-28",
+  "score": {
+    "complete_learning_session": 37,
+    "solved_practice_workbook": 20,
+    "graphical_flowchart": 11,
+    "ascii_master_flowchart": 10,
+    "total": 78
+  },
+  "status": "changes_suggested",
+  "approved": false,
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": false,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": false,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": false,
+    "current_data_source_dated": true
+  },
+  "issues": [
+    "The generated workbook has the learning-session H1 and its 36 answer keys do not follow the declared strict A-B-C-D rotation.",
+    "Both solved Mains PYQs and all seven original Mains models lack answer-specific How to improve guidance.",
+    "The Advanced owner omits Article 241 from the exact Article 368 proviso map and lacks the current 2024-2026 technical controls.",
+    "Case years are presented inconsistently: Sajjan Singh judgment/reporting year and Waman Rao decision/reporting year are not qualified across the flows.",
+    "The nine-stage graphical and nine-panel ASCII masters compress current evidence, evaluation, PYQ traps and marks-scaled answer execution.",
+    "Flow provenance falsely says g2 was repaired in place rather than preserving immutable generation history."
+  ],
+  "baseline_pages": {
+    "complete_learning_session": 57,
+    "solved_practice_workbook": 17,
+    "graphical_poster": 1,
+    "graphical_tiled": 3,
+    "ascii_master_pdf": 9
+  },
+  "immutable_lock": "g2-identity-lock.json"
+}

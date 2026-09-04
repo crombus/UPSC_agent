@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "rechecked_at": "2026-08-29T07:40:47.216465+05:30",
+  "topic_key": "polity-53",
+  "expected_record_id": "polity-53:learner-v2:g2",
+  "live_record_id": "polity-53:learner-v2:g2",
+  "live_generation": 2,
+  "approval": false,
+  "artifact_checks": {
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\53-Special-Provisions-Relating-to-Certain-Classes\\README.txt": {
+      "locked_sha256": "5fc0a42fefb6e1b434713bcf4a280d769ce70f2c86fa87005263499550b648f6",
+      "live_sha256": "5fc0a42fefb6e1b434713bcf4a280d769ce70f2c86fa87005263499550b648f6",
+      "match": true
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\53-Special-Provisions-Relating-to-Certain-Classes\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf": {
+      "locked_sha256": "294d72a584edfc55f64047af172caa09430779dea74c898d17cd608728f907c1",
+      "live_sha256": "294d72a584edfc55f64047af172caa09430779dea74c898d17cd608728f907c1",
+      "match": true
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\53-Special-Provisions-Relating-to-Certain-Classes\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": {
+      "locked_sha256": "c8e6447c2dee6b8611e570473454bdad7cc83661a33c5b6b8967877127953f2a",
+      "live_sha256": "c8e6447c2dee6b8611e570473454bdad7cc83661a33c5b6b8967877127953f2a",
+      "match": true
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\53-Special-Provisions-Relating-to-Certain-Classes\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": {
+      "locked_sha256": "8f444c7d03f717fbebad7f8acfb5d2c93f3dc3c5a0316e733fc16f58969e5239",
+      "live_sha256": "8f444c7d03f717fbebad7f8acfb5d2c93f3dc3c5a0316e733fc16f58969e5239",
+      "match": true
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\53-Special-Provisions-Relating-to-Certain-Classes\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png": {
+      "locked_sha256": "79df1b4547834ac7c5a90fc9f0278243ceedd98bc2b244b008f92a15d71c303a",
+      "live_sha256": "79df1b4547834ac7c5a90fc9f0278243ceedd98bc2b244b008f92a15d71c303a",
+      "match": true
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\53-Special-Provisions-Relating-to-Certain-Classes\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf": {
+      "locked_sha256": "44acf383cb0b8a251ea4da9aa8a0955527a212f279bef5dcf60506aaa167dfe3",
+      "live_sha256": "44acf383cb0b8a251ea4da9aa8a0955527a212f279bef5dcf60506aaa167dfe3",
+      "match": true
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\53-Special-Provisions-Relating-to-Certain-Classes\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": {
+      "locked_sha256": "f388451259dba6896d1faaf24170eb795313311ef6e40de50ad84b1a7de086e5",
+      "live_sha256": "f388451259dba6896d1faaf24170eb795313311ef6e40de50ad84b1a7de086e5",
+      "match": true
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\53-Special-Provisions-Relating-to-Certain-Classes\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt": {
+      "locked_sha256": "9dbfc8eff3cb5e2bcbdd59646535ddb2cb2a100021942e6fc44a73500fe8c232",
+      "live_sha256": "9dbfc8eff3cb5e2bcbdd59646535ddb2cb2a100021942e6fc44a73500fe8c232",
+      "match": true
+    }
+  },
+  "all_artifacts_match": true,
+  "tracker_identity_match": true
+}

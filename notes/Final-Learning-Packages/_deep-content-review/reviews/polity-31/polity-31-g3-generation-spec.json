@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-31",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-31",
+  "title": "National Commissions SC ST BC",
+  "generation_date": "2026-08-28",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — National Commissions SC ST BC — deep-content repaired immutable generation",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-31\\g3-source\\polity-31_g3-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\National-Commissions-SC-ST-BC.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\31_National-Commissions-SC-ST-BC_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\31_National-Commissions-SC-ST-BC.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\README.md",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Scheduled-and-Tribal-Areas.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+  ],
+  "official_question_sources": [],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf"
+  ],
+  "live_sources": [
+    "https://legislative.gov.in/sites/default/files/COI105E.pdf",
+    "https://api.sci.gov.in/supremecourt/2019/23618/23618_2019_35_1501_27992_Judgement_05-May-2021.pdf",
+    "https://api.sci.gov.in/supremecourt/2010/25536/25536_2010_1_1501_54462_Judgement_01-Aug-2024.pdf",
+    "https://ncsc.nic.in/",
+    "https://ncst.nic.in/",
+    "https://ncbc.nic.in/"
+  ],
+  "practice_profile": "Six verified PYQ routes; 36 hard original MCQs; 12 remedials; 8 original solved Mains; 12 answer-specific guidance pairs.",
+  "current_linkage_note": "Constitution, governing rules, official commission portals and Supreme Court controls checked through 28 August 2026; no volatile officeholder frozen.",
+  "pyq_status_note": "All routed questions retain direct or adjacent ownership and exact available metadata.",
+  "allow_existing_history": true,
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\National-Commissions-SC-ST-BC.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\31_National-Commissions-SC-ST-BC.md",
+    "upsc-ai-kit\\knowledge\\Polity\\31_National-Commissions-SC-ST-BC_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Scheduled-and-Tribal-Areas.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+    "books\\Indian Polity by M Laxmikant.pdf",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-31\\g3-source\\polity-31_g3-reviewed-source.md",
+    "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-31-2026-08-24-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-31.json",
+    "upsc-ai-kit\\manifests\\exports\\polity-31-source-pyq-current-audit-2026-08-28.json",
+    "tools\\deep_content_quality_overrides.json"
+  ]
+}

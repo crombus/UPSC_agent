@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "records": [
+    {
+      "record_id": "polity-50:learner-v2:g3",
+      "topic_key": "polity-50",
+      "variant": "learner-v2",
+      "generation": 3,
+      "supersedes": "polity-50:learner-v2:g2",
+      "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Concept of the Constitution — deep-reviewed immutable g3",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g3\\polity-50_Complete-Learning-Session_2026-08-28.pdf",
+      "workbook": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g3\\polity-50_Solved-Practice-Workbook_2026-08-28.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g3\\polity-50_Complete-Learning-Session_2026-08-28.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g3\\polity-50_Solved-Practice-Workbook_2026-08-28.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g3\\assets",
+      "generated_on": "2026-08-28",
+      "approved": false,
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+        "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+        "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
+        "cross_topic_sources": [
+          "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\Salient-Features.md",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md"
+        ],
+        "pyq_indexes": [
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+        ],
+        "official_question_sources": [
+          "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf"
+        ],
+        "local_ocr_sources": [
+          "books\\Indian Polity by M Laxmikant.pdf"
+        ],
+        "live_sources": [
+          "https://legislative.gov.in/constitution-of-india/",
+          "https://www.sci.gov.in/",
+          "https://upsc.gov.in/examinations/previous-question-papers"
+        ],
+        "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g3\\polity-50_Complete-Learning-Session_2026-08-28.md",
+        "renderer": {
+          "name": "tools/markdown_learning_pdf.py",
+          "version": "2.1"
+        },
+        "generation_date": "2026-08-28",
+        "superseded_v1": "polity-50:learner-v2:g2",
+        "source_hashes": {
+          "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-50\\g3-source\\polity-50_g3-reviewed-source.md": "6d1fffe367c2fc4bfddb5010db5fc8464908a9fc71be42edafb8238fcdbfaea8",
+          "tools\\deep_content_quality_overrides.json": "d8d9c30533cfda9b6907a9feea406b193e444e5ad66979186c71a017905e3bbc",
+          "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md": "f84e840172ac9bb800fdbdba14cfe3b42234394944b10cd184217729fa848f4d",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md": "9fefc2e482d4d8a8cbdcf6d3279d5296c8b708f5a52ac99542f9f83ea013248d",
+          "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-50-2026-08-25-sequential.json": "1aefe0c4421f1928a4c3e16971abc63df5e10c2257485f9fcfbf55e7e200b30c",
+          "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-50.json": "d656dcfa6ab6484ae0bbc9754db0e9969e2294558a9afbcd2beac0972c6f31c1"
+        },
+        "session_contract": "named-session definition/opening/keywords/use/closure",
+        "mcq_keys": "strict A-B-C-D rotation",
+        "practice_profile": "Three exact routed PYQs; 48 hard MCQs in strict A-B-C-D rotation; eight original Mains questions; eleven answer-specific guidance sets.",
+        "current_linkage_note": "Jurisprudential concepts are attributed to identified judgments and qualified by text, structure, institutional competence and remedy.",
+        "pyq_status_note": "Exact 2021 constitutional morality, 2023 living Constitution and 2025 judicial independence/accountability questions are solved.",
+        "new_visual_count": 1,
+        "new_flowchart_page_count": 5,
+        "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+        "tracker_updated": false,
+        "tracker_sha256": "1650dfe088bf67b48fef087bc776af9ab5cc493ca0b7afa4636a9db112d9b02e"
+      },
+      "approval": {
+        "approved": false,
+        "approved_on": null,
+        "scope": "polity-50:learner-v2:g3"
+      },
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-08-28",
+        "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+      },
+      "continuous_core_first": {
+        "folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-50\\carvaka-g3",
+        "master_image": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-50\\carvaka-g3\\master.png",
+        "poster_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-50\\carvaka-g3\\poster.pdf",
+        "tiled_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-50\\carvaka-g3\\tiled.pdf",
+        "editable": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-50\\carvaka-g3\\editable",
+        "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g3\\polity-50_Graphical-Spec-g3.json",
+        "graphical_spec_sha256": "f967f624b09183d4d54ad65b041a8ae4bbb66703e48f65991aefd74f19db66d2",
+        "renderer": {
+          "name": "carvaka-continuous-at-a-glance-graphical-v2",
+          "version": "2.0"
+        },
+        "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+        "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "previews": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-50\\carvaka-g3\\previews",
+        "contact_sheets": [
+          "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-50\\carvaka-g3\\previews\\contact-sheet-01.png"
+        ],
+        "master_overview": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-50\\carvaka-g3\\previews\\master-overview.png",
+        "validation_report": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-50\\carvaka-g3\\validation-report.txt",
+        "build_audit": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-50\\carvaka-g3\\build-audit.json",
+        "preservation_hashes": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-50\\carvaka-g3\\preservation-hashes.json",
+        "ascii_master": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-50\\carvaka-g3\\ascii-master.txt",
+        "ascii_master_preserved": true,
+        "core_stage_count": 12,
+        "card_count": 13,
+        "tiled_page_count": 5,
+        "approval": false,
+        "ascii_master_source": "manual-authored-spec",
+        "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-50-2026-08-25-sequential.json",
+        "ascii_master_spec_sha256": "1aefe0c4421f1928a4c3e16971abc63df5e10c2257485f9fcfbf55e7e200b30c"
+      },
+      "refresh_profile": "learner-v2-refreshed-new-topic"
+    }
+  ]
+}

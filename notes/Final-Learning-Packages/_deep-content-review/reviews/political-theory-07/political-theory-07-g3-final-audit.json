@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "topic_key": "political-theory-07",
+  "record_id": "political-theory-07:learner-v2:g3",
+  "approval": false,
+  "result": "passed",
+  "hard_gates": {
+    "syllabus_and_core_complete": true,
+    "facts_and_theory_preserved": true,
+    "verified_pyq_metadata_and_ownership": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "mcq_count_48": true,
+    "mcq_rotation": true,
+    "graphical_and_ascii_consistent": true,
+    "current_examples_source_dated": true,
+    "pdf_layout_clean": true,
+    "approval_false": true
+  },
+  "metrics": {
+    "question_count": 6,
+    "questions": [
+      {
+        "title": "Original Mains Practice 1 — 10 marks",
+        "marks": 10,
+        "model_words": 186,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 2 — 10 marks",
+        "marks": 10,
+        "model_words": 183,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 3 — 15 marks",
+        "marks": 15,
+        "model_words": 197,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 4 — 15 marks",
+        "marks": 15,
+        "model_words": 200,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 5 — 20 marks",
+        "marks": 20,
+        "model_words": 306,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      },
+      {
+        "title": "Original Mains Practice 6 — 20 marks",
+        "marks": 20,
+        "model_words": 310,
+        "controls": {
+          "model": true,
+          "demand": true,
+          "compression": true,
+          "why": true,
+          "improve": true
+        }
+      }
+    ],
+    "mcq_count": 48,
+    "main_pages": 40,
+    "workbook_pages": 25,
+    "main_layout": {
+      "page_count": 40,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook_layout": {
+      "page_count": 25,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "ascii_panel_count": 12,
+    "graphical_stage_count": 12
+  },
+  "errors": [],
+  "baseline_record_id": "political-theory-07:learner-v2:g2",
+  "baseline_scores": {
+    "complete_learning_session": 38,
+    "solved_practice_workbook": 24,
+    "graphical_flowchart": 13,
+    "ascii_master_flowchart": 12,
+    "total": 87
+  },
+  "baseline_defects": [
+    "All 6 solved PYQ/original Mains items lack explicit answer-specific `How to improve this answer` guidance.",
+    "All 6 solved items lack explicit directive-and-demand decoding.",
+    "All 6 solved items lack an executable mark-scaled compression plan.",
+    "The package lacks an explicit learning-goal, syllabus-boundary and answer-transition contract.",
+    "The stored ASCII/graphical source contains 4 conclusive dangling sentence fragment(s), so the flows are not independently safe."
+  ],
+  "re_review_scores": {
+    "complete_learning_session": 39,
+    "solved_practice_workbook": 29,
+    "graphical_flowchart": 15,
+    "ascii_master_flowchart": 14,
+    "total": 97
+  },
+  "review_state": "passed",
+  "hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-07\\g3\\topic-07_Complete-Learning-Session_2026-08-30.md": "12c17b2ee0a8eb88c4d914c533f8481fb9a8c32a6ac0f397ecfa93cf67365a85",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-07\\g3\\topic-07_Solved-Practice-Workbook_2026-08-30.md": "6809571f42aebec5f56019dc2920aa26086b7d2856cfa382f019c82a05a6f82e",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-07\\g3\\topic-07_Complete-Learning-Session_2026-08-30.pdf": "834072979983a58e10827f0be386303c81acfbbb91a440549d4a424efdf3b694",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-07\\g3\\topic-07_Solved-Practice-Workbook_2026-08-30.pdf": "db009acf33d85adae5fc6e5bf08437832c31fd602602283cfa5e7e52ce27fdc2",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-07\\g3\\assets\\political-theory-07_concept-map_g3.png": "384b43e00acab81a238a38caec3fdde5a2535cda4dbd23738ce56db7bdd36860",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-07\\g3\\validation\\main-visual-audit-map.json": "d67812fd9c648790909a2743ba67e17731cb5c5fe02f8abefc375115bf6f700f",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\learning-sessions\\topic-07\\g3\\validation\\workbook-visual-audit-map.json": "5fdf76259b5a8f2efe6d9ebaeb9ea3ba2a066d08c108d8bd908d11547e98c9ac",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\political-theory--subject-wide-syllabus-07-ascii-2026-08-30-g3.json": "4165c26d4e7b75f535195f9f19b1edd2cb11e95c8ac3c9e9dd18b76a670a8535",
+    "upsc-ai-kit\\manifests\\v2\\political-theory--subject-wide-syllabus-graphical-specs\\political-theory-07-g3.json": "e7d9fcb4858f8de8361cf2a692b516f47cbf094376f57ca9e384a04084a47653",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-07\\carvaka-g3\\ascii-master.pdf": "e3f7c2a86f66ad091922d1f8c9dcbdc32c188acf73f9e3538b0741b678aacb8c",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-07\\carvaka-g3\\ascii-master.txt": "80995fc69a6fa73656c5cef97719b95ff4bcb202395fb4001f0a24a5b95e1754",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-07\\carvaka-g3\\build-audit.json": "56eab599b84ce8ad3e42030798348e7e55b33eabff22c694abe468ce2f2ca96d",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-07\\carvaka-g3\\master.png": "20002e2a125fea3b47f52a9759a37f9ca96f7c544b67eccfbd7f41b0bf614ef9",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-07\\carvaka-g3\\poster.pdf": "2c9cb5a6bd2b14060ded39d56a1b4ad236e56c20c597d8adb87d84618ea39154",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-07\\carvaka-g3\\preservation-hashes.json": "51e5edd64ac9f80ea84ee52e28844bed576ec6279c098f0bc4c01a588ee36c2f",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-07\\carvaka-g3\\README.txt": "131b268619b5bb36f1df69712379c09c57336be5b73928d9f178dc72cc16b026",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-07\\carvaka-g3\\tiled.pdf": "e3464e81fe6ebdcabcf6abe05142f54f457d9c7db9407bdec741af90471dd72f",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-07\\carvaka-g3\\validation-report.txt": "a9b662e2efd0f82e8f6ca844137896680dacbaf15c33c53dcfca1863a0526b8f",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-07\\carvaka-g3\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-07\\carvaka-g3\\editable\\topic-spec.json": "e7d9fcb4858f8de8361cf2a692b516f47cbf094376f57ca9e384a04084a47653",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-07\\carvaka-g3\\previews\\contact-sheet-01.png": "b830d2855bbbb2d8d53b532df954dd41c8041ae0129b324261c57a31d3d7bd4d",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-07\\carvaka-g3\\previews\\master-overview.png": "80c63c7cf2d7db1922ed42afb15e1dfd84c85674c67c18b28ac96fb862c6181c",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-07\\carvaka-g3\\previews\\page-001.png": "e833693312acf29c6d840916740fd448cbe7467dddddc6757644fe4dcd0dcc7c",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-07\\carvaka-g3\\previews\\page-002.png": "dba7096d41cf26f669485a192f1978540e14d4faa58ff8015abae04910bf1855",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-07\\carvaka-g3\\previews\\page-003.png": "851f7cbcfb0461cb753730b56e79f87993084fdbfacf8ffe9c63e3fb20d9a5b3",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-07\\carvaka-g3\\previews\\page-004.png": "545f7322c586ad126cdf00759f5a1c005d59413ef6d57af0eb1f5ef88a7c7e87",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-07\\carvaka-g3\\previews\\page-005.png": "1e28fd0a8d9a1014ed257a83917e8621d5d227d470d2a2317c33d58b77eb0542",
+    "notes\\Learner-v2-Refreshed\\Political-Theory\\Subject-Wide-Syllabus\\flowcharts\\topic-07\\carvaka-g3\\previews\\page-006.png": "3596c0961fe2125636635d4e0fb58feedff20901d764a16a8c4d835f929d7d2a",
+    "upsc-ai-kit\\manifests\\v2\\political-theory--subject-wide-syllabus-content-specs\\political-theory-07-g3.json": "eb1c76ed2b2a5bc6f07f7a0e4ee6d9361b97faa18b059ed2ce620d41a5a673ad"
+  }
+}

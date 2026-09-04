@@ -1,0 +1,40 @@
+{
+  "topic_key": "polity-11",
+  "reviewed_identity": "polity-11:learner-v2:g2",
+  "review_date": "2026-08-28",
+  "score": {
+    "complete_learning_session": 34,
+    "solved_practice_workbook": 20,
+    "graphical_flowchart": 11,
+    "ascii_master_flowchart": 10,
+    "total": 75
+  },
+  "status": "changes_suggested",
+  "approved": false,
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": false,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": false,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": false,
+    "current_data_source_dated": false
+  },
+  "issues": [
+    "The canonical/current artifact freezes the simultaneous-elections control at 16 August 2026 and omits the 30 July committee extension; its PRS comparison incorrectly gives the 16th Lok Sabha committee-referral rate as 28% instead of 26%.",
+    "The Advanced owner misclassifies Russia and Sri Lanka as pure presidential systems, calls formal US secretaries a Kitchen Cabinet, reduces presidential removal to impeachment without Senate conviction, and overstates the PM as leader of Parliament.",
+    "The floor-test route stops at Bommai and does not carry the controlling Subhash Desai limit that intra-party disagreement alone, without objective material of lost House confidence, cannot justify a Governor-directed floor test.",
+    "All nine Mains models lack answer-specific How to improve guidance.",
+    "Several models exceed executable limits: the 10-mark models reach 193-208 words, the 15-mark set reaches 287 words and 20-mark models reach 319-330 words.",
+    "The graphical artifact has only nine Core stages and the ASCII artifact nine panels, combining cabinet dominance with accountability and current/PYQ control with answer execution.",
+    "Graphical provenance states that g2 was repaired in place, contrary to immutable-generation policy."
+  ],
+  "baseline_pages": {
+    "complete_learning_session": 51,
+    "solved_practice_workbook": 16,
+    "graphical_poster": 1,
+    "graphical_tiled": 3,
+    "ascii_master_pdf": 9
+  },
+  "immutable_lock": "g2-identity-lock.json"
+}

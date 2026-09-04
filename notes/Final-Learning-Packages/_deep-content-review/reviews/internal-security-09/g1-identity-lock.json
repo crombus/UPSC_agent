@@ -1,0 +1,14 @@
+{
+  "topic_key": "internal-security-09",
+  "locked_at": "2026-09-04T13:07:31.307350+00:00",
+  "master_tracker_identity": "internal-security-09:learner-v2:g1",
+  "generation": 1,
+  "approval": false,
+  "hashes": {
+    "markdown": "7b9cc4addcd2973f815e5b86fcc20618c5f38c5322c780a7dc8861710e916879",
+    "main_pdf": "8c5613d852a586ecd7976f648ab9a89f3eda99bf8b37f945cc32b36c1651166e",
+    "workbook": "f9e0d38d0c959e31841b9e5050be769055e71392b8041b18ab9a0ec422254b21",
+    "graphical_master": "a34b00d368a5417036fbd49564128e4a8ae950718def8f7daeea0bdee9cad5a3",
+    "ascii_master": "b29d9a0370cc10b333655761072d5eb31eb019d7cc4bc5736b64437038872f68"
+  }
+}

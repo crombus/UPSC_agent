@@ -1,0 +1,190 @@
+ASCII MASTER FLOW — PANEL 1/9: Democratic audit purpose and the Constitution-to-report accountability chain
+ROOT QUESTION
+How does the legislature verify executive use of public money?
+
+AUTHORITY CHAIN
+legislature authorises tax and appropriation
+-> executive collects, spends and keeps records
+-> independent CAG audits evidence
+-> President/Governor causes report to be laid
+-> PAC/CoPU or legislature scrutinises
+-> executive replies and corrects.
+
+SOURCE LADDER
+Articles 148-151 -> CAG DPC Act, 1971
+-> entity-specific law -> Audit Regulations/Standards -> judicial interpretation.
+
+LIMIT
+audit informs democratic control; it does not govern, prosecute or recover by itself.
+
+ASCII MASTER FLOW — PANEL 2/9: Article 148 office: appointment, oath, tenure, removal and independence
+APPOINTMENT
+President by warrant under hand and seal.
+
+OATH
+before President or nominee in Third Schedule form.
+
+TENURE: DPC ACT, SECTION 4
+six years or age 65, whichever earlier; resignation addressed to President.
+
+REMOVAL
+same manner and grounds as a Supreme Court Judge
+-> proved misbehaviour or incapacity + special-majority address.
+
+INDEPENDENCE SAFEGUARDS
+service conditions not varied to disadvantage
+| no further Union/State government office
+| IAAD administration after consultation
+| office expenses charged on Consolidated Fund of India.
+
+LIMIT
+appointment has no constitutional collegium and post-audit impact depends on follow-up.
+
+ASCII MASTER FLOW — PANEL 3/9: Articles 149-151, the DPC Act and the audit-versus-accounts boundary
+ARTICLE 149
+constitutional gateway -> Parliament prescribes duties and powers.
+
+ARTICLE 150
+President prescribes form of Union/State accounts on CAG advice.
+
+ARTICLE 151
+Union report -> President -> both Houses.
+State report -> Governor -> State legislature.
+
+DPC ACT, 1971
+Sections 10-12 accounts role where retained
+| 13-18 audit and access
+| 19-20 companies/corporations/entrusted audits
+| 23-24 regulations and scope.
+
+AUDITOR, NOT UNIVERSAL COMPTROLLER
+predominantly ex-post review; no routine pre-authorisation of each withdrawal.
+
+ACCOUNTS LIMIT
+departmentalisation and State arrangements mean CAG does not compile every account.
+
+ASCII MASTER FLOW — PANEL 4/9: Audit domain: public funds, expenditure, receipts, grants and access
+PUBLIC ACCOUNT DOMAINS
+Consolidated Fund -> authorised revenue/expenditure.
+Contingency Fund -> urgent advances under law.
+Public Account -> provident funds, small savings and other trust-like receipts.
+
+DPC ACT ROUTES
+Section 13 expenditure | Section 14 substantially financed bodies
+| Section 15 grants/loans | Section 16 receipts
+| Section 17 stores/stock | Section 18 records, inspection and information.
+
+JURISDICTION TEST
+identify entity -> identify public-money/revenue nexus
+-> identify statutory route -> define scope -> obtain records -> audit evidence.
+
+LIMIT
+public importance alone does not create jurisdiction; legal nexus and proportionate scope matter.
+
+ASCII MASTER FLOW — PANEL 5/9: Financial, compliance, propriety, performance, environment and IT audit
+FINANCIAL AUDIT
+fair presentation and sufficient appropriate evidence.
+
+COMPLIANCE AUDIT
+law, rule, sanction, contract and authority.
+
+PROPRIETY AUDIT
+wisdom, faithfulness, economy and avoidance of waste or improper discretion.
+
+PERFORMANCE AUDIT
+economy -> efficiency -> effectiveness.
+
+RECEIPTS AUDIT
+assessment, collection and proper allocation of public revenue.
+
+IT / ENVIRONMENT / THEMATIC AUDIT
+specialised subject or method within the wider mandate.
+
+POLICY BOUNDARY
+CAG may test authority, design implementation, prudence and results;
+it should not substitute its preferred lawful policy merely because another choice was possible.
+
+ASCII MASTER FLOW — PANEL 6/9: Companies, corporations, PPPs, regulators and local-body audit routes
+GOVERNMENT COMPANY
+CAG appoints statutory auditor under Companies Act Section 139
+-> directions under Section 143(5)
+-> supplementary audit/comments/test audit under Sections 143(6)-(7).
+
+STATUTORY CORPORATION
+governing law + DPC Act Section 19 route.
+
+OTHER BODY / PPP / REGULATED ENTITY
+Sections 14, 15, 16 or 20 only where legal public-finance nexus exists.
+
+LOCAL BODIES
+State law and entrustment vary; CAG may provide Technical Guidance and Support.
+This is not one uniform constitutional municipal/Panchayat audit model.
+
+Association of Unified Telecom Service Providers of India v. Union of India (2014)
+audit may follow Union revenue share from a public-resource licence;
+it is not universal private-company audit power.
+
+ASCII MASTER FLOW — PANEL 7/9: Report laying, PAC and CoPU: converting audit information into accountability
+UNION CHAIN
+CAG report -> President -> laid before Parliament
+-> PAC / CoPU / relevant committee -> ministry evidence
+-> committee finding -> action-taken response -> correction.
+
+STATE CHAIN
+CAG report -> Governor -> State legislature -> State PAC/committee scrutiny.
+
+PAC
+appropriation accounts + finance accounts + relevant CAG reports.
+
+COPU
+public-undertaking reports/accounts + related CAG reports.
+
+CAG ROLE
+technical evidence and assistance; not committee member or final political decision-maker.
+
+LIMIT
+CAG paragraph != PAC conclusion != court judgment != automatic recovery order.
+
+ASCII MASTER FLOW — PANEL 8/9: Judicial controls: performance, timing, report status and revenue-share access
+Arvind Gupta (2012)
+performance audit and the three Es are in-built in the DPC Act.
+
+S. Subramaniam Balaji (2013)
+CAG examines legality, validity and propriety after expenditure.
+
+Arun Kumar Agrawal (2013)
+CAG report deserves respect but remains subject to legislative/PAC scrutiny;
+it does not automatically prove the final basis for judicial relief.
+
+Association of Unified Telecom Service Providers of India v. Union of India (2014)
+revenue-share audit access follows the public-resource and Consolidated-Fund nexus.
+
+SYNTHESIS
+broad audit methods + ex-post timing + evidentiary public report
+-> no automatic adjudicatory finality.
+
+ASCII MASTER FLOW — PANEL 9/9: CAG-CGA-Finance Commission-PAC comparison, reform and answer synthesis
+CAG
+constitutional independent audit and legislative reporting.
+
+CGA
+executive accounting and financial-information system for Union civil ministries.
+
+FINANCE COMMISSION
+Article 280 transfer recommendations; CAG certifies net proceeds under Article 279.
+
+PAC / COPU
+legislative scrutiny; committees make parliamentary findings and seek action.
+
+REFORM
+secure data access + audit-ready digital systems + risk analytics
+-> PPP/regulator clarity + stronger local audit + timely reports
+-> action-taken tracking + legislative research capacity.
+
+PRELIMS FIREWALL
+Article 148 office | 149 statutory duties | 150 President on CAG advice
+| 151 report route | six years/65 from DPC Act | audit != investigation.
+
+MAINS SPINE
+independence -> legal mandate -> audit type/entity route -> report chain
+-> limitation -> digital/access reform -> evidence-led accountability verdict.

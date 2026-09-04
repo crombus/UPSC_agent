@@ -1,0 +1,34 @@
+{
+  "topic_key": "polity-13",
+  "reviewed_identity": "polity-13:learner-v2:g3",
+  "review_date": "2026-08-28",
+  "score": {
+    "complete_learning_session": 39,
+    "solved_practice_workbook": 29,
+    "graphical_flowchart": 15,
+    "ascii_master_flowchart": 15,
+    "total": 98
+  },
+  "status": "passed",
+  "approved": false,
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": true,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": true,
+    "current_data_source_dated": true
+  },
+  "re_review_findings": [
+    "Eighteen Core sessions complete legislative, administrative, emergency-linked, fiscal and inter-State mechanisms before Optional Advanced.",
+    "Eleven verified PYQs and fifteen Mains models include demand decoding, marks rationale and answer-specific improvement guidance.",
+    "Thirty-six original/remedial MCQs preserve strict ABCD x 9 rotation and option text.",
+    "Twelve graphical stages and twelve ASCII panels agree on doctrine, institutions, current controls, PYQs and answer architecture.",
+    "Session, workbook, poster/tiled flow and ASCII artifacts render cleanly with exact g3 source hashes."
+  ],
+  "immutable_history": [
+    "polity-13:learner-v2:g2 baseline",
+    "polity-13:learner-v2:g3 final review pass"
+  ]
+}

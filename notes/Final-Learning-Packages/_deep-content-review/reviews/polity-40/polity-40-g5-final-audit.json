@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-40",
+  "record_id": "polity-40:learner-v2:g5",
+  "score": 98,
+  "status": "passed",
+  "approval": false,
+  "metrics": {
+    "sessions": 23,
+    "mcqs": 48,
+    "mcq_rotation": "ABCD x12",
+    "why_how_pairs": 8,
+    "ascii_panels": 12,
+    "ascii_max_width": 99,
+    "ellipses": 0,
+    "replacement_glyphs": 0,
+    "tests": "38 passed"
+  },
+  "pdfs": {
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\40-Official-Language\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf": {
+      "pages": 90,
+      "sha256": "356593863a2ad7890bed6e13429ea864f1c04588df58d95f3a2c060644c70c20"
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\40-Official-Language\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": {
+      "pages": 16,
+      "sha256": "58d5ee89affa68d6bc9cc504c2b0804e022544928fad66cd722f90ed15070420"
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\40-Official-Language\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": {
+      "pages": 1,
+      "sha256": "be8b8b9363c1a2123da0480c917b5a642ffcb5262f026e21a18d2ef2c0ef6063"
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\40-Official-Language\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf": {
+      "pages": 5,
+      "sha256": "2c694fa7ca391b407d251c905c52d893936fffbce007b6aa9e4fdacae5a6035e"
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\40-Official-Language\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": {
+      "pages": 12,
+      "sha256": "cebd8c44290d5385768146f4799a8b9a5c2ed1592edc4b379b802d3fe6162891"
+    }
+  },
+  "baseline_immutable_hashes": {
+    "checked": 41,
+    "mismatches": []
+  }
+}

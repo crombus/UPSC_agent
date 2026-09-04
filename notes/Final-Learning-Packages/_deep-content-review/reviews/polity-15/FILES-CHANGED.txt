@@ -1,0 +1,41 @@
+SOURCE OWNERS
+upsc-ai-kit\knowledge\Polity\basic\President-and-Vice-President.md
+upsc-ai-kit\knowledge\Polity\advanced\15_President-and-Vice-President.md
+upsc-ai-kit\knowledge\Polity\15_President-and-Vice-President_Complete-Topic-Package.md
+
+FLOW / GENERATION PIPELINE
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\polity-15.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\polity-15-2026-08-24-sequential.json
+tools\deep_content_quality_overrides.json
+tools\test_refresh_all_v2_learning_sessions.py
+
+IMMUTABLE REVIEW RECORDS
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-15\
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\polity-15-president-vice-president-repair.md
+
+GENERATED IMMUTABLE ARTIFACTS
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-15\g3\
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-15\g4\
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-15\g5\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-15\g3\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-15\g4\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-15\g5\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-15\carvaka-g3\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-15\carvaka-g4\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-15\carvaka-g5\
+
+CENTRAL TRACKERS / LEDGERS / FINAL EXPORT
+EXPORT-PDF-STATUS.json
+EXPORT-PDF-COMMAND-INDEX.md
+V2-SUBJECT-SECTION-COMMAND-INDEX.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\ISSUE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\EVIDENCE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\MD-CHANGE-SUGGESTIONS.md
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\15-President-and-Vice-President\
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-28.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-28-validation.json
+notes\Polity\learning-session-v2\subject-wide-syllabus\indexes\

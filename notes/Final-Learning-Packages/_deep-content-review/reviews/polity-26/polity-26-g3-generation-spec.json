@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-26",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-26",
+  "title": "Scheduled and Tribal Areas",
+  "generation_date": "2026-08-28",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Scheduled and Tribal Areas — deep-content repair",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-26\\g3-source\\polity-26_g3-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Scheduled-and-Tribal-Areas.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\26_Scheduled-and-Tribal-Areas_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\26_Scheduled-and-Tribal-Areas.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\README.md",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\Polity\\23_Panchayati-Raj_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\Polity\\22_Special-Provisions_Complete-Topic-Package.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md"
+  ],
+  "official_question_sources": [],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf"
+  ],
+  "live_sources": [
+    "https://legislative.gov.in/constitution-of-india",
+    "https://tribal.nic.in/DivisionsFiles/clm/ScheduledAreas.pdf",
+    "https://panchayat.gov.in/en/pesa-rules-framed-by-pesa-states/",
+    "https://www.api.sci.gov.in/jonew/judis/40303.pdf",
+    "https://www.mha.gov.in/sites/default/files/2026-06/MonthlyMajorMay_19062026.pdf"
+  ],
+  "practice_profile": "6 routed Prelims demands; 36 hard original MCQs; 12 remedial MCQs; 8 original solved Mains questions; 8 answer-specific guidance pairs.",
+  "current_linkage_note": "Official constitutional, tribal-affairs, PESA-rules, Supreme Court and Ladakh controls checked through 28 August 2026.",
+  "pyq_status_note": "All routed 2019, 2022, 2023, 2024, 2025 and provisional 2026 objective demands retained without invented answer keys.",
+  "allow_existing_history": true,
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Scheduled-and-Tribal-Areas.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\26_Scheduled-and-Tribal-Areas.md",
+    "upsc-ai-kit\\knowledge\\Polity\\26_Scheduled-and-Tribal-Areas_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md",
+    "upsc-ai-kit\\knowledge\\Polity\\23_Panchayati-Raj_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\Polity\\22_Special-Provisions_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md",
+    "books\\Indian Polity by M Laxmikant.pdf",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-26\\g3-source\\polity-26_g3-reviewed-source.md",
+    "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-26-2026-08-24-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-26.json",
+    "tools\\deep_content_quality_overrides.json"
+  ]
+}

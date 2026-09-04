@@ -1,0 +1,35 @@
+SOURCE OWNERS
+upsc-ai-kit\knowledge\Polity\basic\Centre-State-Relations.md
+upsc-ai-kit\knowledge\Polity\advanced\13_Centre-State-and-Inter-State-Relations.md
+upsc-ai-kit\knowledge\Polity\13_Centre-State-and-Inter-State-Relations_Complete-Topic-Package.md
+
+FLOW / GENERATION PIPELINE
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\polity-13.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\polity-13-2026-08-24-sequential.json
+tools\deep_content_quality_overrides.json
+tools\test_refresh_all_v2_learning_sessions.py
+
+IMMUTABLE REVIEW RECORDS
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-13\
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\polity-13-centre-state-inter-state-relations-repair.md
+
+GENERATED IMMUTABLE ARTIFACTS
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-13\g3\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-13\g3\
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-13\carvaka-g3\
+
+CENTRAL TRACKERS / LEDGERS / FINAL EXPORT
+EXPORT-PDF-STATUS.json
+EXPORT-PDF-COMMAND-INDEX.md
+V2-SUBJECT-SECTION-COMMAND-INDEX.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\ISSUE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\EVIDENCE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\MD-CHANGE-SUGGESTIONS.md
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\13-Centre-State-and-Inter-State-Relations\
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-28.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-28-validation.json
+notes\Polity\learning-session-v2\subject-wide-syllabus\indexes\

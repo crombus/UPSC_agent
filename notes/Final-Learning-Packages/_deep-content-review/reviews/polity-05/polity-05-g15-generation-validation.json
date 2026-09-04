@@ -1,0 +1,14 @@
+{
+  "selection": "polity-05-g15-intermediate",
+  "passed": true,
+  "topic_count": 1,
+  "topics": [
+    {
+      "topic_key": "polity-05",
+      "record_id": "polity-05:learner-v2:g15",
+      "generation": 15,
+      "passed": true,
+      "errors": []
+    }
+  ]
+}

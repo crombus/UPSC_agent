@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-34",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-34",
+  "title": "NITI Aayog",
+  "generation_date": "2026-08-28",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — NITI Aayog — deep-content repaired immutable generation",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g3-source\\polity-34_g3-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\NITI-Aayog.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\34_NITI-Aayog_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\34_NITI-Aayog.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\GST-Council.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md"
+  ],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf"
+  ],
+  "live_sources": [
+    "https://www.niti.gov.in/about-us/niti-aayog-constitution/cabinet-secretariat-resolution-dated-01-01-2015",
+    "https://www.niti.gov.in/about-us/objectives-and-features",
+    "https://www.niti.gov.in/about-us/niti-governing-council-meetings"
+  ],
+  "practice_profile": "Two verified PYQ routes; 36 original MCQs; 12 remedials; 8 solved Mains; 9 answer guidance pairs.",
+  "current_linkage_note": "Official Cabinet/NITI/PIB claims controlled to 28 August 2026; volatile ranks and counts omitted.",
+  "pyq_status_note": "2018 Mains comparison and 2019 AIM route retained with official-key limitation.",
+  "allow_existing_history": true,
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\NITI-Aayog.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\34_NITI-Aayog.md",
+    "upsc-ai-kit\\knowledge\\Polity\\34_NITI-Aayog_Complete-Topic-Package.md",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g3-source\\polity-34_g3-reviewed-source.md",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-34-2026-08-24-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-34.json",
+    "tools\\deep_content_quality_overrides.json"
+  ]
+}

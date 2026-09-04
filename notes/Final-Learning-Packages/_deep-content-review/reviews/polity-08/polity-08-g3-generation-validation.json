@@ -1,0 +1,15 @@
+{
+  "selection": "polity-08-g3-intermediate-revalidation",
+  "passed": true,
+  "topic_count": 1,
+  "topics": [
+    {
+      "topic_key": "polity-08",
+      "record_id": "polity-08:learner-v2:g3",
+      "generation": 3,
+      "passed": true,
+      "errors": [],
+      "score": 96
+    }
+  ]
+}

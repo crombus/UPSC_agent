@@ -1,0 +1,93 @@
+ASCII MASTER FLOW — PANEL 1/9: The source universe: trace to reconstruction
+SOURCES OF ANCIENT INDIA
+          |
+ +--------+---------+---------+---------+---------+
+ |        |         |         |         |         |
+archaeology epigraphy coins  literature foreign  bio/environment
+ context   public text object+ text+oral observer  bones, seeds, pollen
+ +--------+---------+---------+---------+---------+
+                    |
+                    v
+AUTHENTICATE -> DATE -> LOCATE -> READ GENRE/FUNCTION -> CORROBORATE -> QUALIFY
+
+ASCII MASTER FLOW — PANEL 2/9: Archaeology: context before object
+SURVEY -> SITE -> GRID/TRENCH -> STRATIGRAPHY -> ASSEMBLAGE -> INTERPRETATION
+                         |
+                         v
+Law of superposition: an undisturbed lower layer is relatively earlier.
+Artefact alone: weak provenance | artefact in sealed context: stronger association
+Industry = recurrent technique/tool set; culture = patterned material assemblage.
+Intrusion, redeposition and mixed layers can break a simple sequence.
+
+ASCII MASTER FLOW — PANEL 3/9: Dating ladder: precision with error bars
+RELATIVE DATE                         ABSOLUTE/CHRONOMETRIC DATE
+stratigraphy -> seriation -> typology | radiocarbon -> calibrated range
+cross-dating -> association           | TL/OSL -> last heating or light exposure
+                                      | dendrochronology where wood survives
+             +------------------------+------------------------+
+                                      v
+A date belongs to a sample and context, not automatically to an entire culture.
+Report range, calibration and contamination risk; probability is not certainty.
+
+ASCII MASTER FLOW — PANEL 4/9: Inscriptions: public text under source criticism
+MATERIAL + SCRIPT + LANGUAGE + FORMULA + FIND-SPOT
+                         |
+                         v
+DECIPHER -> DATE -> TRANSLATE -> IDENTIFY ISSUER/AUDIENCE -> HISTORICAL USE
+                         |
+          +--------------+--------------+
+          |                             |
+titles, grants, donors          failure, dissent and routine life omitted
+                         |
+                         v
+Prashasti praises; land grant records a transaction; neither is transparent narrative.
+
+ASCII MASTER FLOW — PANEL 5/9: Coins: object, text and economic instrument
+COIN
+ |-- metal, weight, fabric -> standard, mint practice, debasement
+ |-- legend, script, title -> issuer and political idiom
+ |-- iconography -> religious/royal representation
+ |-- hoard/find context -> circulation, saving, frontier or crisis
+ |-- overstrike/imitation -> succession, appropriation and contact
+ |
+ +-> LIMIT: coin abundance is not a direct graph of total prosperity.
+
+ASCII MASTER FLOW — PANEL 6/9: Texts: genre, layer and transmission
+BRAHMANICAL          BUDDHIST/JAINA        SANGAM              MANUSCRIPT STATE
+Veda, epic, Purana   canon, commentaries   poems, anthologies  copied much later
+ritual/norm/memory   doctrine/institution  genre-coded society variant readings
+       |                    |                 |                    |
+       +--------------------+-----------------+--------------------+
+                                v
+Ask composition layer, redaction, audience and norm/practice gap before extracting fact.
+Critical editions compare witnesses; they do not restore an uncontested original.
+
+ASCII MASTER FLOW — PANEL 7/9: Foreign, linguistic, visual and biological witnesses
+FOREIGN ACCOUNT       LINGUISTIC EVIDENCE      MATERIAL/BIO ARCHIVE
+selective itinerary   family/contact/loanword  monument, bone, seed, pollen
+outsider categories   language is not race     context and preservation govern use
+Megasthenes/Faxian/   retroflexion/contact     diet, disease, crop and environment
+Xuanzang/Periplus             |                         |
+          +-------------------+-------------------------+
+                              v
+Use each as an angled witness; triangulate before converting observation into structure.
+
+ASCII MASTER FLOW — PANEL 8/9: Triangulation and productive contradiction
+QUESTION: urbanism / polity / trade / religion / social hierarchy
+     |
+     +-> text says X
+     +-> inscription records Y
+     +-> archaeology patterns Z
+     +-> scientific evidence dates the context
+     |
+     v
+AGREEMENT strengthens; contradiction prompts genre, region and chronology checks.
+VERDICT: independent convergence is stronger than repetition in one tradition.
+
+ASCII MASTER FLOW — PANEL 9/9: Source-based answer architecture: 10/15/20 marks
+10 MARKS: identify source -> what it reveals -> named example -> one limitation
+15 MARKS: classify sources -> compare powers -> triangulate a case -> qualify
+20 MARKS: problem -> source matrix -> method/dating -> case clinics -> conflicts
+          -> silences/preservation -> reasoned verdict on confidence
+EVIDENCE SENTENCE: X indicates Y because Z; however, genre/context limits W.
+Never end with all sources are important; state which source answers which question.

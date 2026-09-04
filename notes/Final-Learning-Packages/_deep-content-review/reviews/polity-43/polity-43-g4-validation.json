@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "passed": true,
+  "topic_count": 1,
+  "topics": [
+    {
+      "topic_key": "polity-43",
+      "generation": 4,
+      "passed": true,
+      "errors": [],
+      "manual_content_review": "failed separately: stale unsupported global ranking/date-specific recognition list and one truncated semantic clause"
+    }
+  ]
+}

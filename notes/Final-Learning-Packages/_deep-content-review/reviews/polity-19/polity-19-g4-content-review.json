@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-19",
+  "identity": "polity-19:learner-v2:g4",
+  "reviewed_on": "2026-08-28",
+  "approval": false,
+  "status": "changes_suggested",
+  "score": 96,
+  "passed": false,
+  "preserved": true,
+  "blocking_issue": "Two semantic trap lines were generator-truncated with ellipses.",
+  "successor": "polity-19:learner-v2:g5"
+}

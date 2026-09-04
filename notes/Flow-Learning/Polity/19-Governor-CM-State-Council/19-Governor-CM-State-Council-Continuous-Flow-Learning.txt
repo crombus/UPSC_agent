@@ -1,0 +1,146 @@
+ASCII MASTER FLOW — PANEL 1/9: Responsible State government under Articles 153-167
+PEOPLE -> LEGISLATIVE ASSEMBLY -> CONFIDENCE -> CM + COUNCIL
+                                      |
+                                      v
+                           GOVERNOR GIVES LEGAL FORM
+
+ARTICLE MAP
+153 Governor | 154 executive power | 155 appointment | 156 term/pleasure
+157 qualification | 158 conditions | 159 oath | 161 clemency | 163 advice/discretion
+164 ministers/responsibility | 165 Advocate General | 166 business | 167 CM duties.
+
+CORE RULE
+Governor is constitutional head; the confidence-holding ministry is the real political executive.
+
+ASCII MASTER FLOW — PANEL 2/9: Appointment, tenure, oath, conditions and immunity
+ENTRY
+President appoints by warrant -> Indian citizen + 35 years -> Article 159 oath before HC CJI
+or the senior-most available judge.
+
+CONDITIONS
+no Parliament/State-legislature seat | no other office of profit | protected emoluments.
+
+TENURE
+nominal five years + President's pleasure + resignation to President + hold office until successor.
+Pleasure does not convert the office into an ordinary Union employee.
+
+ARTICLE 361
+personal immunity for official acts while remedies against government action remain available;
+criminal proceedings cannot continue during the term; civil notice rules are distinct.
+
+ASCII MASTER FLOW — PANEL 3/9: Executive, legislative, financial, judicial and statutory powers
+EXECUTIVE
+appoint CM; appoint ministers on CM advice; appoint Advocate General and specified authorities.
+
+LEGISLATIVE
+summon, prorogue, dissolve Assembly; address; nominate where text permits; assent/reserve/return.
+
+FINANCIAL
+recommend Money Bill and demands; cause budget to be laid; use Contingency Fund under law.
+
+JUDICIAL
+Article 161 clemency for offences within State executive field; judicial review survives.
+
+STATUTORY ROLE
+Governor as university Chancellor exists only where the relevant State statute so provides.
+It is not an inherent power flowing from Articles 153-167.
+
+ASCII MASTER FLOW — PANEL 4/9: Aid and advice with a narrow, reviewable discretion field
+DEFAULT
+Shamsher Singh (1974) -> Governor ordinarily acts on ministerial aid and advice.
+
+BOUNDED EXCEPTIONS
+hung House formation | floor-test trigger on objective material | Bill reservation
+| Article 356 report | express constitutional or necessary situational discretion.
+
+SESSION CONTROL
+Nabam Rebia (2016) -> Articles 174-175 ordinarily advice-bound.
+Subhash Desai (2023) -> no floor test merely to arbitrate an internal party dispute.
+The Speaker-removal issue from Nabam Rebia (2016)
+was referred in Subhash Desai (2023) and remains pending.
+
+REVIEW
+discretion is not personal political preference; relevance, purpose and objective material matter.
+
+ASCII MASTER FLOW — PANEL 5/9: Government formation, floor test, dismissal and dissolution
+HUNG ASSEMBLY
+invite person most likely to command confidence -> early floor test -> no secret Raj Bhavan count.
+
+LOSS OF MAJORITY
+objective material -> floor test as ordinary constitutional forum.
+S.R. Bommai (1994) -> majority normally proved in House; Article 356 is reviewable.
+Subhash Desai (2023) -> factional dissent alone cannot justify a floor test.
+
+DISMISSAL / DISSOLUTION
+ministry losing a floor test may resign or face dismissal;
+dissolution advice is not mechanically binding
+when an alternative government is feasible.
+Rameshwar Prasad (2006) -> speculative horse-trading material
+cannot justify pre-emptive dissolution.
+
+ASCII MASTER FLOW — PANEL 6/9: Articles 200-201: assent, return, reservation and current control
+ARTICLE 200 OPTIONS
+assent | withhold | return a non-Money Bill once | reserve for President.
+Mandatory reservation applies where the Bill endangers the High Court's constitutional position.
+
+AFTER RECONSIDERATION
+the Governor cannot return the same Bill again; reservation questions remain text-specific.
+
+ARTICLE 201
+President may assent, withhold, or direct return of a non-Money Bill through the Governor.
+
+CURRENT CASE CONTROL
+State of Tamil Nadu v. Governor of Tamil Nadu (2025)
+-> timelines and deemed assent used on the facts.
+In re Assent, Withholding or Reservation of Bills (2025): advisory and non-binding;
+no rigid timelines or automatic deemed assent, but prolonged unexplained inaction is reviewable.
+
+ASCII MASTER FLOW — PANEL 7/9: Ordinance necessity and clemency limits
+ARTICLE 213 ORDINANCE
+legislature not in session as constitutionally required + immediate action necessary
+-> Act-like force -> laying -> ceases six weeks after reassembly unless approved earlier.
+
+RE-PROMULGATION CONTROL
+D.C. Wadhwa (1986) -> routine serial re-promulgation is a fraud on the Constitution.
+Krishna Kumar Singh (2017) -> laying is mandatory; satisfaction is reviewable;
+legislative supremacy bars automatic enduring effects of every lapsed ordinance.
+
+ARTICLE 161
+State-field offences; advice-bound clemency; relevant-material and non-arbitrariness review.
+Unlike Article 72, it has no court-martial limb and no independent Union-law offence limb.
+
+ASCII MASTER FLOW — PANEL 8/9: Chief Minister, State Council, Advocate General and Chancellor
+CHIEF MINISTER
+Governor appoints -> prove Assembly confidence -> choose portfolios/ministers
+-> coordinate policy -> advise sessions/dissolution -> communicate under Article 167.
+
+STATE COUNCIL
+collectively responsible to Assembly
+| minister individually holds office during Governor's pleasure,
+constitutionally mediated by CM advice and collective responsibility.
+
+91ST AMENDMENT
+ministry cap = 15% of Assembly strength; minimum 12; defector-minister bar.
+Tribal Welfare Minister requirement applies to the constitutionally specified States.
+
+ADVOCATE GENERAL
+Article 165 law officer; qualifications of a High Court judge; advises State government.
+
+CHANCELLOR
+State-statute office only; powers and advice rules vary with the governing State law.
+
+ASCII MASTER FLOW — PANEL 9/9: Federal neutrality, commission reforms, traps and answer spine
+FAULT LINES
+Union appointment + pleasure tenure + State-facing powers -> risk of partisan perception.
+
+SARKARIA / PUNCHHI ROUTE
+eminent detached appointee | CM consultation | secure convention | floor-test priority
+| reasoned Article 356 material | restrained assent/reservation | post-tenure neutrality.
+
+PRELIMS FIREWALL
+Governor elected? NO | five-year term guaranteed? NO | discretion general? NO
+Chancellor constitutional? NO | Money Bill returnable? NO | Article 361 = State immunity? NO.
+
+MAINS SPINE
+state textual power -> advice default -> exceptional trigger -> case with year
+-> federal-risk counterpoint -> commission reform -> neutral constitutional-umpire conclusion.

@@ -1,0 +1,2 @@
+# Repair handoff — polity-36
+Preserve g2. Regenerate all four artifacts from corrected RTI owners and reviewed source. Require exact request/complaint/appeal distinctions, composition/service/removal, section 8/24 and DPDP current controls, one verified PYQ, nine guidance pairs, ABCD x12, twelve matching flows, zero prose mutation, ASCII <=100 and targeted tests. New generation is revalidation_pending and unapproved; do not carry g2 score.

@@ -1,0 +1,63 @@
+{
+  "topic_key": "polity-09",
+  "reviewed_identity": "polity-09:learner-v2:g2",
+  "review_date": "2026-08-28",
+  "score": {
+    "complete_learning_session": 32,
+    "solved_practice_workbook": 18,
+    "graphical_flowchart": 10,
+    "ascii_master_flowchart": 10,
+    "total": 70
+  },
+  "status": "changes_suggested",
+  "approved": false,
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": false,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": false,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": false,
+    "current_data_source_dated": false
+  },
+  "issues": [
+    {
+      "id": "P09-001",
+      "severity": "critical",
+      "summary": "Basic/Advanced owners convert pending Durga Dutt proceedings and oral observations into a final Supreme Court holding."
+    },
+    {
+      "id": "P09-002",
+      "severity": "high",
+      "summary": "Generated workbook has the learning-session H1; 32 answer keys are non-rotating and its rotation note is corrupted."
+    },
+    {
+      "id": "P09-003",
+      "severity": "high",
+      "summary": "Seven solved Mains answers lack answer-specific How to improve guidance."
+    },
+    {
+      "id": "P09-004",
+      "severity": "high",
+      "summary": "Nine-panel/stage flows compress current-case control, PYQ discipline and executable 10/15/20-mark routes; metadata claims g2 was repaired in place."
+    },
+    {
+      "id": "P09-005",
+      "severity": "medium",
+      "summary": "Origin wording attributes the Swaran Singh Committee to the Congress Party rather than the Congress government."
+    },
+    {
+      "id": "P09-006",
+      "severity": "medium",
+      "summary": "Generic MoEF homepage is used as a current anchor instead of precise dated legal/statutory status."
+    }
+  ],
+  "baseline_pages": {
+    "session": 48,
+    "workbook": 12,
+    "poster": 1,
+    "tiled": 3,
+    "ascii": 9
+  },
+  "repair_required": true
+}

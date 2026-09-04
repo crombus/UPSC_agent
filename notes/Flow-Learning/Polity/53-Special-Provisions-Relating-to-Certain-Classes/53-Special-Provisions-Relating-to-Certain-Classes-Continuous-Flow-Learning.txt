@@ -1,0 +1,141 @@
+ASCII MASTER FLOW — PANEL 1/9: Part XVI as a four-part constitutional architecture
+ROOT QUESTION
+How does Part XVI combine inclusion without using one legal mechanism?
+
+REPRESENTATION -> Arts 330-334A.
+SERVICES -> Art 335.
+COMMISSIONS / CONTROL -> Arts 338-340.
+IDENTIFICATION -> Arts 341-342A.
+
+CROSS-LINKS
+Art 275 grants | Arts 243D/243T local seats | Fifth/Sixth Schedule administration.
+
+VERDICT
+list != quota != commission report != welfare scheme.
+
+ASCII MASTER FLOW — PANEL 2/9: SC/ST legislative seats and ordinary territorial voting
+LOK SABHA
+Art 330 -> SC/ST reserved seats linked broadly to population.
+
+STATE ASSEMBLIES
+Art 332 -> SC/ST reserved seats + specified North-East provisions.
+
+ELECTION
+reserved candidacy/seat -> ordinary territorial electorate votes.
+
+TRAP
+political reservation != separate electorate
+| representation != Article 341/342 list alteration.
+
+ASCII MASTER FLOW — PANEL 3/9: Women reservation and Article 334A activation chain
+106TH AMENDMENT TEXT
+Arts 330A + 332A + 334A.
+        |
+        v
+first census after commencement -> relevant figures published
+        |
+        v
+delimitation exercise -> electoral operation
+        |
+        v
+rotation after subsequent delimitation as Parliament provides.
+
+WITHIN SC/ST SEATS
+women share included in constitutional design.
+
+TRAP
+inserted/commenced != presently operational.
+
+ASCII MASTER FLOW — PANEL 4/9: Anglo-Indian history and political-reservation clock
+ARTS 331 / 333
+historical Anglo-Indian nomination provisions remain printed.
+
+ARTICLE 334
+SC/ST seat reservation -> extended to eighty years from commencement.
+Anglo-Indian nomination -> not extended beyond seventy years -> ceased in 2020.
+
+ARTS 336 / 337
+services and educational-grant transitions -> exhausted after ten years.
+
+TRAP
+time-clause cessation != necessary textual omission.
+
+ASCII MASTER FLOW — PANEL 5/9: Article 335: representation with administrative efficiency
+ARTICLE 335
+SC/ST claims in Union/State services
+        +
+maintenance of administrative efficiency.
+
+82ND AMENDMENT PROVISO
+qualifying-mark/evaluation relaxation for promotion reservation may be provided.
+
+M. Nagaraj (2006) -> promotion-enabling provisions with constitutional conditions.
+Jarnail Singh (2018) -> modifies data rule and applies creamy-layer logic.
+
+TRAP
+Art 335 is not a fixed quota or the source of OBC/EWS reservation.
+
+ASCII MASTER FLOW — PANEL 6/9: Commissions, Union control and welfare grants
+ART 338 -> NCSC | ART 338A -> NCST | ART 338B -> NCBC.
+reports + complaints + safeguards + civil-court inquiry powers -> advice, not binding judgment.
+
+ART 339
+Presidential commission + Union directions on Scheduled Areas/ST welfare.
+
+ART 340
+temporary backward-class investigation commission.
+
+ART 275
+specified ST welfare/Scheduled Area grant route.
+
+TRAP
+commission power != court | fiscal grant != list alteration.
+
+ASCII MASTER FLOW — PANEL 7/9: List specification and the 102nd-105th Amendment sequence
+ARTS 341 / 342
+President specifies State/UT SC/ST list -> Parliament includes/excludes.
+
+102ND AMENDMENT
+Arts 338B + 342A -> constitutional NCBC/Central List architecture.
+
+Jaishri Laxmanrao Patil (2021)
+interprets the pre-105th text.
+
+105TH AMENDMENT
+Central List for Central purposes
+| State/UT list by law for own purposes.
+
+TRAP
+State SEBC list power != State power to alter SC/ST lists.
+
+ASCII MASTER FLOW — PANEL 8/9: Sub-classification, local bodies and owner boundaries
+E.V. Chinnaiah v. State of Andhra Pradesh (2004)
+earlier rule against SC sub-classification.
+        |
+        v overruled
+Davinder Singh (2024)
+evidence-based distribution within notified SC class may be designed.
+
+BOUNDARY
+sub-classification != inclusion/exclusion under Art 341.
+
+LOCAL BODY
+Arts 243D/243T -> separate reservation route.
+
+AREA ADMINISTRATION / SCHEMES
+exact Schedule, statute, budget or policy controls.
+
+ASCII MASTER FLOW — PANEL 9/9: UPSC synthesis: identify the exact constitutional technique
+PRELIMS FIREWALL
+330/332 seats | 334 clock | 335 services | 338-series commissions
+| 339 control | 340 inquiry | 341/342/342A lists | 275 grant cross-link.
+
+MAINS SPINE
+architecture -> representation -> time/activation -> services
+-> safeguards -> list federalism -> Davinder boundary -> owner-scope conclusion.
+
+PYQ ROUTE
+Article 335 | women's reservation | NCSC | constitutional NCBC.
+
+VERDICT
+substantive equality uses distinct constitutional tools with distinct legal effects.

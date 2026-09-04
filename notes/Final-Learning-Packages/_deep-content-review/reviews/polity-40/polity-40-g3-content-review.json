@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "record_id": "polity-40:learner-v2:g3",
+  "score": 92,
+  "status": "changes_suggested",
+  "approval": false,
+  "failures": [
+    "10 generated UPSC-trap lines ended in ellipsis truncation",
+    "ASCII headers contained replacement glyph and three lines exceeded 100 characters"
+  ],
+  "preserved": true
+}

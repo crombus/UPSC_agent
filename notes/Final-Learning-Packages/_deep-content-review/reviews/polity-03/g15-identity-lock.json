@@ -1,0 +1,22 @@
+{
+  "locked_at": "2026-08-28T00:24:18.031673+05:30",
+  "master_created_at": "2026-08-27T18:48:22+00:00",
+  "record_id": "polity-03:learner-v2:g15",
+  "generation": 15,
+  "approval": "Approval pending",
+  "master_tracker_sha256": "6324d62b929b9fc6acef22cb5a7d296175d1a71d781f05c19b58ca37629a13de",
+  "artifact_hashes": {
+    "session": "3c19f378bd335c018dd87488cde80130c9ddd840b4bb127cd184b91836288de0",
+    "workbook": "bec52e38a85c2117949a5fc2deff4b424aa7f7cc39996bd3b90c3d3121cd64ed",
+    "poster": "d6018377f504df300153d72db6b6d88976002e4f62341dbf9d62b4c94938eee7",
+    "ascii": "97a1802cf74b1baa25300e14107b4943be8f98673125fae1af2e50f5c78ec50d"
+  },
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Salient-Features.md": "b3474571b7f9e2041157ed10c42a1d8461e6753d7b112811857d1a14588c00e9",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\03_Salient-Features.md": "ee2ea02fa72d066c21abdfdfcf747756a4a7ec14b45ea55ad494ef1a2129e919",
+    "upsc-ai-kit\\knowledge\\Polity\\03_Salient-Features_Complete-Topic-Package.md": "973b0177a986f4f8e83bfa88e820df7b8b67a5293e613c4bd3080a593b8f4bc3",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g15\\polity-03_Complete-Learning-Session_2026-08-23.md": "c4592c6ba6492b1274decfd97ae017b3b3ca3b511e4c49477f30d36a47192441",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-23.json": "ba2ac3da485064a644d90dfe00dc54d122de369a9d313f943b1e4860998c4e86",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-03.json": "785bf22bddcd847d84a83a1d54f8b5ec602a1a1006fcf2e954a8013da73450ba"
+  }
+}

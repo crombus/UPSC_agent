@@ -1,0 +1,103 @@
+{
+  "topic_key": "polity-11",
+  "identity": "polity-11:learner-v2:g3",
+  "reviewed_on": "2026-08-28",
+  "approved": false,
+  "score": 98,
+  "artifacts": {
+    "session_markdown": {
+      "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\g3\\polity-11_Complete-Learning-Session_2026-08-28.md",
+      "sha256": "bf277b382421d7914df03cf7ac28ecdd75fc66f11c23821786dbaf1e040ad587",
+      "bytes": 134895
+    },
+    "workbook_markdown": {
+      "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\g3\\polity-11_Solved-Practice-Workbook_2026-08-28.md",
+      "sha256": "3a846c0c136b6641bc1ee6ab1b5411b55917a85e9a57f5f24d58d54191dfcbec",
+      "bytes": 42897
+    },
+    "session_pdf": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\g3\\polity-11_Complete-Learning-Session_2026-08-28.pdf",
+      "sha256": "4962773f72f392a877e120a4c8610e1ad28628c80aa161fd803ef28572f12296",
+      "bytes": 1529744,
+      "pages": 53,
+      "blank_pages": 0,
+      "replacement_glyph_pages": 0,
+      "min_extracted_characters": 350
+    },
+    "workbook_pdf": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\g3\\polity-11_Solved-Practice-Workbook_2026-08-28.pdf",
+      "sha256": "b807aa630d91bf7b5d053185f99ee4764d14afd01910da91615b53d7823415b6",
+      "bytes": 354445,
+      "pages": 16,
+      "blank_pages": 0,
+      "replacement_glyph_pages": 0,
+      "min_extracted_characters": 426
+    },
+    "poster_pdf": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-11\\carvaka-g3\\poster.pdf",
+      "sha256": "c02c9f6c7e4af1653e89b14f05f4772fda4631e9f61efbe88b6e171e53e0a6e4",
+      "bytes": 1598293,
+      "pages": 1,
+      "blank_pages": 1,
+      "replacement_glyph_pages": 0,
+      "min_extracted_characters": 0
+    },
+    "tiled_pdf": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-11\\carvaka-g3\\tiled.pdf",
+      "sha256": "4cb406a0ac7c29707a28a35d1135a3c5ca8fecce3dc0fb2ba402be82e07c9016",
+      "bytes": 2291189,
+      "pages": 4,
+      "blank_pages": 0,
+      "replacement_glyph_pages": 0,
+      "min_extracted_characters": 75
+    },
+    "master_png": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-11\\carvaka-g3\\master.png",
+      "sha256": "bbd25813493de15ac1f664dc33dee98b655fa5cea20a751258c45dd9e17e9df5",
+      "bytes": 1421101
+    },
+    "ascii_txt": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-11\\carvaka-g3\\ascii-master.txt",
+      "sha256": "71ffcbef7b56b371da4fec7fe73cee06cceab1db9a5251c0299539c21813e2ee",
+      "bytes": 7655
+    }
+  },
+  "content": {
+    "current_control_28_august": true,
+    "prs_16_26_71": true,
+    "subhash_desai": true,
+    "bill_not_law": true,
+    "why_blocks": 9,
+    "improvement_blocks": 9,
+    "answer_word_counts": {
+      "PYQ 3 - UPSC GS-II 2024, Q3 - direct owner": 112,
+      "PYQ 4 - UPSC GS-II 2018, Q13 - supporting/cross-owned": 222,
+      "PYQ 5 - UPSC GS-II 2023, Q4 - supporting/cross-owned": 130,
+      "M1. 10 marks | 150 words": 128,
+      "M2. 10 marks | 150 words": 151,
+      "M3. 15 marks | 250 words": 228,
+      "M4. 15 marks | 250 words": 212,
+      "M5. 20 marks | 250-300 words": 239,
+      "M6. 20 marks | 250-300 words": 237
+    }
+  },
+  "mcq": {
+    "count": 32,
+    "keys": "ABCDABCDABCDABCDABCDABCDABCDABCD",
+    "strict_abcd": true,
+    "option_texts_preserved": true,
+    "note": "Two exact historical PYQs retain their original options and inferred answer labels; the 24 original and 8 remedial questions rotate ABCD x 8."
+  },
+  "flows": {
+    "graphical_core_stages": 11,
+    "graphical_cards": 12,
+    "ascii_panels": 11,
+    "ascii_max_line": 97,
+    "matching_routes": true
+  },
+  "tests": {
+    "command": "python -m pytest tools\\test_refresh_all_v2_learning_sessions.py -q",
+    "passed": 38
+  },
+  "validator": "tools\\validate_v2_export.py passed with refreshed contract"
+}

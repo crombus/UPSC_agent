@@ -1,0 +1,197 @@
+ASCII MASTER FLOW — PANEL 1/9: Right to know, RTI Act identity and the information-public-authority vocabulary
+CONSTITUTIONAL ROOT
+Article 19(1)(a) right to receive information for democratic participation,
+subject to lawful restrictions and competing rights.
+
+RTI ACT, 2005
+statutory request, proactive-disclosure, appeal, complaint and enforcement machinery.
+
+INFORMATION
+material in any form held by or under control of public authority,
+including accessible private-body information under another law.
+
+PUBLIC AUTHORITY
+Constitution | parliamentary or State law | government notification/order
+| substantially financed bodies and NGOs under section 2(h).
+
+RIGHT TO INFORMATION
+inspection | notes/extracts | certified copies | certified samples | electronic copies.
+
+LIMIT
+RTI gives access to existing covered records; it does not compel a new answer, opinion or record.
+
+ASCII MASTER FLOW — PANEL 2/9: PIO-FAA-Commission chain, transfers and statutory timelines
+PROACTIVE DISCLOSURE: SECTION 4
+records and key information disclosed by default -> fewer individual requests.
+
+REQUEST
+PIO or SPIO receives | APIO forwarding adds five days where applicable.
+No reasons required; only contact details needed for communication.
+
+TRANSFER: SECTION 6(3)
+to the concerned public authority as soon as practicable, within five days.
+
+RESPONSE
+ordinary: 30 days | life or liberty: 48 hours
+| third-party process: decision within 40 days | delay: information free.
+
+REMEDY CHAIN
+PIO decision/deemed refusal -> First Appellate Authority, ordinarily 30 days
+-> CIC or SIC second appeal, ordinarily 90 days.
+
+TRAP
+section 18 complaint and section 19 disclosure appeal are not interchangeable.
+
+ASCII MASTER FLOW — PANEL 3/9: CIC and SIC composition, appointment committees, eligibility and jurisdiction
+CIC
+Chief Information Commissioner + up to ten Information Commissioners.
+President appoints on committee advice:
+Prime Minister + Lok Sabha Opposition Leader/substitute + Union Cabinet Minister.
+
+SIC
+State Chief Information Commissioner + up to ten State Information Commissioners.
+Governor appoints on committee advice:
+Chief Minister + Assembly Opposition Leader/substitute + State Cabinet Minister.
+
+ELIGIBILITY
+eminence in public life with knowledge/experience in listed fields.
+
+DISQUALIFICATIONS
+MP/MLA | office of profit | political party link | business or profession.
+
+JURISDICTION
+CIC for Central public authorities | SIC for State public authorities.
+
+LIMIT
+appointment committees do not make the commissions constitutional bodies.
+
+ASCII MASTER FLOW — PANEL 4/9: 2019 amendment, current Rules, tenure and protected removal
+2019 AMENDMENT
+removed Act-fixed five-year term and Election-Commission-linked conditions
+-> Central Government prescribes term, pay and service conditions by rules.
+
+2019 RULES
+ordinary term: three years | age ceiling: 65.
+fixed current pay varies by office under the Rules.
+
+REAPPOINTMENT
+same office: barred; an Information Commissioner may become Chief,
+subject to aggregate statutory maximum.
+
+REMOVAL FOR PROVED MISBEHAVIOUR OR INCAPACITY
+President for CIC officers | Governor for SIC officers
+after Supreme Court inquiry.
+
+DIRECT GROUNDS
+insolvency | conviction involving moral turpitude | outside paid employment
+| infirmity | prejudicial financial or other interest.
+
+AUTONOMY CONCERN
+executive rule-making now controls core conditions of adjudicators reviewing that executive.
+
+ASCII MASTER FLOW — PANEL 5/9: Sections 18-20: complaint, appeal, inquiry, orders, compensation and penalty
+SECTION 18 COMPLAINT
+inability to file | refusal | no reply | unreasonable fee
+| incomplete, misleading or false information -> inquiry on reasonable grounds.
+
+INQUIRY POWERS
+civil-court powers + direct inspection of covered records;
+no record may be withheld from Commission on a statutory exemption claim.
+
+SECTION 19 SECOND APPEAL
+PIO bears burden to justify denial.
+Commission may order disclosure and systemic compliance under section 19(8).
+Orders bind within the statutory field, subject to constitutional review.
+
+REMEDIES
+compensation to complainant/appellant
+| section 20 personal PIO penalty: Rs 250 per day, maximum Rs 25,000
+| disciplinary recommendation.
+
+DUE PROCESS
+reasonable opportunity and statutory conditions precede penalty.
+
+ASCII MASTER FLOW — PANEL 6/9: Exemptions, public interest, severability, third parties and security bodies
+SECTION 8
+specified protected interests; current section 8(1)(j) covers personal information.
+Section 8(2) general public-interest override remains.
+
+SECTION 9
+copyright-based refusal where access would infringe copyright of a person other than State.
+
+SECTION 10
+sever exempt portion -> disclose reasonably separable remainder with reasons.
+
+SECTION 11
+third-party consultation procedure, not an independent exemption.
+
+SECTION 24
+listed intelligence/security organisations excluded,
+except corruption allegations and human-rights information.
+Human-rights disclosure requires Commission approval and uses a 45-day period.
+
+PRIVACY CONTROL
+current statute -> harm and public-interest analysis -> redaction -> reasoned order -> appeal.
+
+ASCII MASTER FLOW — PANEL 7/9: Seven controlling decisions and the no-record-creation boundary
+State of U.P. v. Raj Narain (1975)
+democratic right to know public acts.
+
+S.P. Gupta v. Union of India (1981)
+open government and disclosure as democratic norm.
+
+CBSE v. Aditya Bandopadhyay (2011)
+evaluated answer books are information; authority need not create new information.
+
+Chief Information Commissioner v. State of Manipur (2011)
+complaint is not an automatic substitute for disclosure appeal.
+
+RBI v. Jayantilal N. Mistry (2015)
+no generic fiduciary shield for the regulator's inspection information.
+
+Subhash Chandra Agarwal (2019)
+CJI office is a public authority; privacy and transparency require balancing.
+
+Anjali Bhardwaj v. Union of India (2019)
+appointments must be timely and transparent; stale vacancy counts must be reverified.
+
+ASCII MASTER FLOW — PANEL 8/9: Institutional comparison, backlog, digital RTI and reform architecture
+CIC / SIC
+statutory RTI complaints and second appeals; disclosure, compliance and personal-penalty powers.
+
+COURT
+constitutional/statutory judicial review; not a routine RTI first-instance forum.
+
+PIO / FAA
+departmental access decision and internal appeal; neither replaces Commission.
+
+IMPLEMENTATION DEFICITS
+vacancies + backlog + weak section 4 disclosure + record disorder
+| uneven digital access + low penalty consistency + privacy uncertainty.
+
+REFORM
+advance vacancy calendar -> independent staff and budget
+-> interoperable e-filing with offline access -> record digitisation
+-> section 4 audit -> reasoned penalty practice -> privacy-redaction guidance.
+
+LIMIT
+technology accelerates routing only when records, accessibility and adjudicatory capacity exist.
+
+ASCII MASTER FLOW — PANEL 9/9: Current-law caveats, PYQ route, traps and transparency synthesis
+DATED CONTROL: 24 AUGUST 2026
+DPDP section 44(3) substituted section 8(1)(j) from 13 November 2025.
+Section 8(2) remains; no unverified stay or final constitutional outcome is asserted.
+
+PYQ ROUTE
+2020 GS-II -> 2019 amendment and autonomy of Information Commissions.
+
+PRELIMS FIREWALL
+statutory != constitutional court | complaint != second appeal
+| binding order != no judicial review | PIO penalty != ministry fine
+| third-party procedure != exemption | section 24 != absolute exclusion
+| RTI record != new explanation.
+
+MAINS SPINE
+right-to-know root -> access chain -> independent commission design
+-> inquiry and appeal powers -> exemptions and privacy
+-> implementation deficit -> transparent appointments, records and reasoned balancing.

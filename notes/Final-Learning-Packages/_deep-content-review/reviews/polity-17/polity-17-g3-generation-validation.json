@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "polity-17-g3-intermediate",
+  "validated_on": "2026-08-28T10:45:00+05:30",
+  "selection": "polity-17-g3-technical-pass-opening-repair-pending",
+  "topic_count": 1,
+  "passed": true,
+  "errors": [],
+  "topics": [
+    {
+      "topic_key": "polity-17",
+      "record_id": "polity-17:learner-v2:g3",
+      "generation": 3,
+      "passed": true,
+      "errors": [],
+      "tests_passed": 38,
+      "content_review_status": "revalidation_pending",
+      "known_issue": "All semantic openings repeat a generic central-issue template; immutable g4 required."
+    }
+  ]
+}

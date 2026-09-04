@@ -1,0 +1,14 @@
+{
+  "identity": "polity-03:learner-v2:g16",
+  "score": 95,
+  "status": "changes_suggested",
+  "approved": false,
+  "immutable": true,
+  "reason": "Pipeline-valid generation failed exact graphical source-anchor re-review: three stage references did not exactly match session headings.",
+  "failed_anchors": [
+    "SESSION 3 — BORROWED SOURCES, ADAPTATION AND REJECTED MODELS",
+    "SESSION 10 — INTEGRATED AND INDEPENDENT JUDICIARY",
+    "SESSION 18 — CO-OPERATIVE SOCIETIES AND THE FEDERAL LIMIT"
+  ],
+  "preserved": true
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "selection": "polity-22 g4 passed revalidation",
+  "passed": true,
+  "topic_count": 1,
+  "topics": [
+    {
+      "topic_key": "polity-22",
+      "generation": 4,
+      "passed": true,
+      "errors": [],
+      "core_sessions": 35,
+      "mcq_count": 48,
+      "mcq_rotation": "ABCD x12",
+      "why_how_pairs": 10,
+      "graphical_stages": 13,
+      "ascii_panels": 12,
+      "session_pages": 65,
+      "workbook_pages": 18,
+      "poster_pages": 1,
+      "tiled_pages": 4
+    }
+  ]
+}

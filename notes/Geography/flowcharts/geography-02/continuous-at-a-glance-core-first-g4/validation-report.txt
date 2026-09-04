@@ -1,0 +1,41 @@
+topic=geography-02
+generated=2026-08-22T14:33:28.578917+05:30
+source=upsc-ai-kit\knowledge\Geography\learning-sessions\v2\part-a-physical-geography-core-first-g3\geography-02_Learning-Session.md
+master_png=master.png
+master_dimensions_px=3600x26650
+master_dpi_metadata=200x200
+poster_pdf=poster.pdf
+poster_dimensions_points=1700.79x12590.55
+poster_pages=1
+tiled_pdf=tiled.pdf
+tiled_pages=14
+same_master_split=yes
+tile_overlap_px=260
+preview_count=14
+contact_sheet_count=3
+closure_stage_count=30
+node_pattern=heading -> decisive context -> exact terms/details -> consequence/contrast
+core_before_extra=PASS
+poster_pdf_validation=PASS
+renderability=PASS
+tile_coordinates=
+  page-001: y=0..2200; overlap=0; from=1; continues=3
+  page-002: y=1940..4140; overlap=260; from=3; continues=5
+  page-003: y=3880..6080; overlap=260; from=5; continues=7
+  page-004: y=5820..8020; overlap=260; from=7; continues=9
+  page-005: y=7760..9960; overlap=260; from=9; continues=12
+  page-006: y=9700..11900; overlap=260; from=11; continues=14
+  page-007: y=11640..13840; overlap=260; from=14; continues=16
+  page-008: y=13580..15780; overlap=260; from=16; continues=18
+  page-009: y=15520..17720; overlap=260; from=18; continues=20
+  page-010: y=17460..19660; overlap=260; from=20; continues=23
+  page-011: y=19400..21600; overlap=260; from=22; continues=25
+  page-012: y=21340..23540; overlap=260; from=25; continues=27
+  page-013: y=23280..25480; overlap=260; from=27; continues=29
+  page-014: y=24450..26650; overlap=260; from=28; continues=30
+errors=none
+
+post_render_box_clipping_check=PASS
+post_render_stage_overlap_check=PASS
+post_render_unsupported_glyph_check=PASS — no replacement glyph was found in the source-derived learning PDF
+post_render_same_master_identity_check=PASS

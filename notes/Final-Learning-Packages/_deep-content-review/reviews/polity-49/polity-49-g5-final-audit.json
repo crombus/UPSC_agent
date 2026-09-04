@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-49",
+  "record_id": "polity-49:learner-v2:g5",
+  "score": 98,
+  "approval": false,
+  "checks": {
+    "ellipsis_free": true,
+    "replacement_glyph_free": true,
+    "mcq_count": 48,
+    "strict_rotation": true,
+    "why_guidance_count": 10,
+    "how_guidance_count": 10,
+    "compression_count": 10,
+    "ascii_panels": 12,
+    "ascii_max_width": 91,
+    "graphical_core_stages": 12,
+    "practice_profile": "Seven exact relevant PYQs; 48 hard MCQs in strict A-B-C-D rotation; eight original Mains questions; ten answer-specific guidance sets.",
+    "pdf_pages": {
+      "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g5\\polity-49_Complete-Learning-Session_2026-08-28.pdf": 117,
+      "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g5\\polity-49_Solved-Practice-Workbook_2026-08-28.pdf": 15,
+      "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-49\\carvaka-g5\\poster.pdf": 1,
+      "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-49\\carvaka-g5\\tiled.pdf": 5
+    },
+    "tests_passed": 38,
+    "blank_text_pages_main_workbook": 0,
+    "graphical_pdf_note": "Poster is intentionally raster/image-only; tiled PDF has no empty pages."
+  },
+  "hard_gates_passed": true
+}

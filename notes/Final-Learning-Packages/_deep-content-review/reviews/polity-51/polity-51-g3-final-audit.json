@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-51",
+  "record_id": "polity-51:learner-v2:g3",
+  "passed": true,
+  "manual_review_pass": true,
+  "review_score": 98,
+  "reviewed_on": "2026-08-28",
+  "tests_passed": 38,
+  "hard_gates": {
+    "core_complete": true,
+    "facts_verified": true,
+    "pyq_integrity": true,
+    "answer_executability": true,
+    "mcq_rotation": true,
+    "prose_integrity": true,
+    "four_artifact_agreement": true,
+    "rendering": true,
+    "metadata_identity": true,
+    "approval_false": true
+  },
+  "counts": {
+    "sessions": 8,
+    "mcqs": 48,
+    "pyqs": 2,
+    "original_mains": 8,
+    "ascii_panels": 12,
+    "graphical_core_stages": 12,
+    "learning_pdf_pages": 36,
+    "workbook_pdf_pages": 15,
+    "poster_pages": 1,
+    "tiled_pages": 4
+  },
+  "checks": {
+    "ellipsis_count": 0,
+    "replacement_glyph_count": 0,
+    "ascii_max_width": 94,
+    "mcq_keys": "ABCD x12",
+    "empty_text_pages": [],
+    "flowchart_errors": []
+  },
+  "notes": "Core-before-Advanced verified. Exact supporting Prelims PYQs only; no direct Mains PYQ fabricated. Approval remains false."
+}

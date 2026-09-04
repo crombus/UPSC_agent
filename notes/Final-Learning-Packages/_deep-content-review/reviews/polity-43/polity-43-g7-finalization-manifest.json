@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "record_id": "polity-43:learner-v2:g7",
+  "score": 98,
+  "status": "passed_revalidation",
+  "approval": false,
+  "export_root": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\43-Political-Parties",
+  "export_hashes": {
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\43-Political-Parties\\README.txt": "664500d514bf34fc9011685edd962beae17b391117c244338c29347fc8baf70f",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\43-Political-Parties\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf": "9022899727ac05be030d9e19070f60ce65eb2543e92117a008b42848cb13d83c",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\43-Political-Parties\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": "ac7fe3361793c6afcbeb71df130a402dba478c2821ab4917f70b876955da6182",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\43-Political-Parties\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": "82d6161ec3882550ce62732ff3bef0e6b8f1a7bc89c560aaa7c0c4c2d0841ae8",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\43-Political-Parties\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png": "9ead1ee5ea4ecab3ec5301441b134e9fe3cb059befd7d889f7b2a57fccbd178a",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\43-Political-Parties\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf": "ab968e6d0cec3390385fe3ba7943946227a59e2bfdfede6dcb281956ee483c55",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\43-Political-Parties\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": "c525b8df063851cb421887ea25bf810d3938872e3ad6b970fd8476d78115d31e",
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\43-Political-Parties\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt": "90edc94fee4e8b672eb432f6814e0956caf8c2f3ad97bc3ab6fc8a648557ea98"
+  },
+  "preserved_intermediates": [
+    "polity-43:learner-v2:g3",
+    "polity-43:learner-v2:g4",
+    "polity-43:learner-v2:g5",
+    "polity-43:learner-v2:g6"
+  ],
+  "tests_passed": 38
+}

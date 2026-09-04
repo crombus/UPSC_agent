@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-25",
+  "record_id": "polity-25:learner-v2:g3",
+  "score": 94,
+  "status": "failed_manual_review",
+  "approval": false,
+  "issues": [
+    "The source Current legal-status control session was omitted from generated Core, leaving 44 rather than 45 sessions.",
+    "Graphical spec retained the pre-fix stage title and was not regenerated from the exact corrected ASCII specification."
+  ],
+  "preserved": true
+}

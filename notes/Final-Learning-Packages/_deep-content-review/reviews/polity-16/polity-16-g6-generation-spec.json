@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-16",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-16",
+  "title": "PM and Council of Ministers",
+  "generation_date": "2026-08-28",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — PM and Council of Ministers — final no-truncation verified generation",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-16\\g6-source\\polity-16_g6-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\PM-and-Council-of-Ministers.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\16_PM-and-Council-of-Ministers_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\16_PM-and-Council-of-Ministers.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\README.md",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliamentary-System.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Anti-Defection-Law.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\President-and-Vice-President.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Governor-and-CM.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+  ],
+  "official_question_sources": [
+    "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf",
+    "books\\mains\\02 UPSC 2024 Paper-II.pdf"
+  ],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf",
+    "books\\Courseware on Indian Polity by M Laxmikanth.pdf"
+  ],
+  "live_sources": [
+    "https://www.legislative.gov.in/static/uploads/2025/07/376b37bf0ae18f1d9276ce226d0e67a1.pdf",
+    "https://www.pmindia.gov.in/en/",
+    "https://cabsec.gov.in/aboutus/functions/",
+    "https://cabsec.gov.in/councilofministers/cabinetcommittees/",
+    "https://cabsec.gov.in/writereaddata/cabinetcommittees/english/1_Upload_4263.pdf",
+    "https://api.sci.gov.in/jonew/judis/17908.pdf"
+  ],
+  "practice_profile": "3 routed PYQs; 28 hard original MCQs; 8 remedial MCQs; 7 original solved Mains questions; ten answer-specific guidance blocks.",
+  "current_linkage_note": "Official Cabinet Secretariat functions and 27 July 2026 Cabinet Committee composition checked 28 August 2026; current PM control retained from official PM India.",
+  "pyq_status_note": "2020 official local paper corrected as State-ministry analogue; 2022 exact wording cross-checked; 2024 GS-II exact official wording and metadata retained.",
+  "allow_existing_history": true,
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\PM-and-Council-of-Ministers.md",
+    "upsc-ai-kit\\knowledge\\Polity\\16_PM-and-Council-of-Ministers_Complete-Topic-Package.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\16_PM-and-Council-of-Ministers.md",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-16\\g6-source\\polity-16_g6-reviewed-source.md",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliamentary-System.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Anti-Defection-Law.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\President-and-Vice-President.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Governor-and-CM.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+    "books\\more_previous_papers\\CSP_2020_GS_Paper-1.pdf",
+    "books\\mains\\02 UPSC 2024 Paper-II.pdf",
+    "books\\Indian Polity by M Laxmikant.pdf",
+    "books\\Courseware on Indian Polity by M Laxmikanth.pdf",
+    "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+    "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-16-2026-08-24-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-16.json",
+    "tools\\deep_content_quality_overrides.json"
+  ]
+}

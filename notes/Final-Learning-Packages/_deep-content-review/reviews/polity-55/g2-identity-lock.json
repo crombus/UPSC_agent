@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "locked_at": "2026-08-29T08:06:32.127872+05:30",
+  "topic_key": "polity-55",
+  "record_id": "polity-55:learner-v2:g2",
+  "generation": 2,
+  "approval": false,
+  "file_count": 13,
+  "files": {
+    "EXPORT-PDF-STATUS.json": {
+      "sha256": "8868cbe98eb1b2a130964159f2d6e8acb21e0d74f2370cd14254090d772cefba",
+      "bytes": 10010269
+    },
+    "notes\\Final-Learning-Packages\\MASTER-TRACKER.json": {
+      "sha256": "8a98f9a92f82873f3e70f9b9a6b96873f9729bcd66aae78206f305d8d8cf80fa",
+      "bytes": 192292
+    },
+    "notes\\Final-Learning-Packages\\_deep-content-review\\REVIEW-TRACKER.json": {
+      "sha256": "8c0fe288f3e198d6dc85664cc3c15557293ca59e93b145ac8202dce40b567dad",
+      "bytes": 246925
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Constitutional-Interpretation-Doctrines.md": {
+      "sha256": "bfe229a90803b397509751a1ccbcb191bb19a3b50ef9946bd984f6a419eead21",
+      "bytes": 33400
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\55_Constitutional-Interpretation-Doctrines.md": {
+      "sha256": "977fd9c87777ed0ec26757f576938e7355e9b0827e4f3201d718abe33db9e9d6",
+      "bytes": 2141
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Complete-Learning-Session_2026-08-25.pdf": {
+      "sha256": "42bae4bee120ea3983f571304b7e9fb5400ac40b1a9acab04cf3372d072c0667",
+      "bytes": 2013322
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Solved-Practice-Workbook_2026-08-25.pdf": {
+      "sha256": "a2422e119128095c51ed9009bad94da74bfdb0636e2ebbf883347fe6cd0f42cb",
+      "bytes": 603250
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Complete-Learning-Session_2026-08-25.md": {
+      "sha256": "f6657959315258311d34743d44d7ff526af0fb92a872b2c1bd283e94bcc7d11c",
+      "bytes": 217707
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\polity-55_Solved-Practice-Workbook_2026-08-25.md": {
+      "sha256": "24c545cb6c9dcf830a5a28bb07b6c8555f567335ef031f91698029a3c71d3fa7",
+      "bytes": 46132
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-55\\carvaka-g2\\master.png": {
+      "sha256": "1f6f0668d0f984ebd1dcd1f89c60e2b20ddc22eedc2eaebe6c956ea85399c4bd",
+      "bytes": 1669373
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-55\\carvaka-g2\\poster.pdf": {
+      "sha256": "e63706d3a83a7db09fca8f3b5055b43210ed9db9bfdd83c5426966da32db13d3",
+      "bytes": 1888699
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-55\\carvaka-g2\\tiled.pdf": {
+      "sha256": "86463eb775e6783169af2abdaaaa2f4e87ee237710b9ad5bc81517a32c7740cc",
+      "bytes": 2101270
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-55\\carvaka-g2\\ascii-master.txt": {
+      "sha256": "8dde35f8524cdf38300f7ba43a2be3caa3cd2d9f1ab841cee70526c135f06d2f",
+      "bytes": 4872
+    }
+  }
+}

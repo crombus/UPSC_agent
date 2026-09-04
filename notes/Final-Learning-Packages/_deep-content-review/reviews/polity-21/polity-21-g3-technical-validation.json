@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "selection": "polity-21 g3 technical validation before manual re-review",
+  "passed": true,
+  "topic_count": 1,
+  "topics": [
+    {
+      "topic_key": "polity-21",
+      "generation": 3,
+      "passed": true,
+      "errors": []
+    }
+  ]
+}

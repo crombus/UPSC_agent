@@ -1,0 +1,178 @@
+ASCII MASTER FLOW — PANEL 1/9: Federalism: constitutional autonomy within an indestructible Union
+FEDERAL SYSTEM
+  +-- Constitution divides power between Union and State governments
+  +-- each level operates directly on people within assigned fields
+  +-- independent judiciary interprets the division
+
+INDIA: ARTICLE 1 -> UNION OF STATES
+  +-- federation is not founded on a secession-permitting compact
+  +-- Union is indestructible; State areas, boundaries and names are alterable by law
+  +-- holding-together design creates a stronger Union and asymmetric arrangements
+
+CLASSIC FEDERAL FEATURES
+  +-- dual polity
+  +-- written and supreme Constitution
+  +-- constitutional division of powers
+  +-- rigidity for federal provisions
+  +-- independent judiciary
+  +-- bicameral federal representation
+
+TRAP: alterable States remain constitutional governments, not Union departments.
+
+ASCII MASTER FLOW — PANEL 2/9: Why India has a Union bias without becoming unitary
+CENTRALISING FEATURES
+  +-- Union List breadth and residuary power with Parliament
+  +-- Parliament's exceptional access to State subjects
+  +-- emergency provisions and Article 356
+  +-- Governors appointed by the Union
+  +-- All-India Services
+  +-- integrated judiciary, election machinery and audit architecture
+  +-- single citizenship and flexible State reorganisation
+
+FEDERAL CHECKS
+  +-- State List autonomy and elected State governments
+  +-- Rajya Sabha and State ratification for entrenched changes
+  +-- independent judicial review
+  +-- Finance Commission / GST Council / intergovernmental bargaining
+  +-- federalism protected as Basic Structure
+
+VERDICT
+Union strength supports integrity and coordination; unchecked use can become central domination.
+
+ASCII MASTER FLOW — PANEL 3/9: Legislative distribution: Lists, hierarchy and residuary power
+ARTICLE 245 -> territorial reach of Union and State laws
+ARTICLE 246 -> Union / Concurrent / State hierarchy
+  +-- List I: Parliament exclusive, standard examination count 100
+  +-- List II: States exclusive subject to exceptions, standard count 61
+  +-- List III: both levels, standard count 52
+ARTICLE 246A -> special GST competence
+ARTICLE 248 + UNION LIST ENTRY 97 -> residuary power with Parliament
+ARTICLE 254 -> Concurrent repugnancy; parliamentary law ordinarily prevails
+  +-- reserved State law with Presidential assent may operate in that State
+  +-- Parliament may later override it
+
+DOCTRINES
+pith and substance -> identify true nature
+territorial nexus -> require real connection
+harmonious construction -> reconcile broad entries
+repugnancy -> final rule for irreconcilable Concurrent conflict
+
+TRAP: Article 254 is not a universal Union-State conflict clause.
+
+ASCII MASTER FLOW — PANEL 4/9: When Parliament enters the State List
+PARLIAMENT ON STATE SUBJECTS
+  +-- Article 249: Rajya Sabha national-interest resolution
+  +-- Article 250: during National Emergency
+  +-- Article 252: two or more States request legislation
+  |     +-- other States may adopt later
+  |     +-- Parliament alone amends or repeals that law
+  +-- Article 253: treaty / international agreement implementation
+  +-- Article 356: during President's Rule for the State
+  +-- Article 246(4): territories not included in a State
+
+CONTROL QUESTIONS
+What is the trigger? Who initiates? How long does authority last? Who can amend or repeal?
+
+CLOSE OPTIONS
+249 begins in Rajya Sabha; 252 begins with State resolutions; 253 can reach State subjects.
+Exceptional Union access does not permanently erase the State List.
+
+ASCII MASTER FLOW — PANEL 5/9: Federalism as Basic Structure: autonomy with constitutional integration
+KESAVANANDA BHARATI (1973)
+  +-- federal character enters the basic-structure constellation
+        |
+S.R. BOMMAI (1994)
+  +-- federalism and secularism constrain Article 356 abuse
+  +-- majority ordinarily tested on the legislative floor
+        |
+STATE OF RAJASTHAN V. UNION OF INDIA (1977) / RELATED DOCTRINE
+  +-- strong Union does not convert States into administrative agents
+        |
+MOHIT MINERALS (2022)
+  +-- GST Council recommendations are not legally binding
+  +-- cooperative decision-making coexists with legislative autonomy
+        |
+CURRENT APPLICATION
+  +-- Governor, CBI, tax and representation conflicts remain constitutional disputes
+
+FORMULA: autonomy + coordination + judicially enforceable constitutional boundaries.
+
+ASCII MASTER FLOW — PANEL 6/9: How federalism works: cooperation, competition, bargaining and asymmetry
+MODE             MECHANISM                         BENEFIT / RISK
+cooperative      GST Council, councils, schemes     coordination / Union leverage
+competitive      investment and policy innovation   learning / unequal capacity
+bargaining       coalition and fiscal negotiation   accommodation / opacity
+confrontational  courts, consent withdrawal, veto   rights assertion / paralysis
+
+SHARED-RULE INSTITUTIONS
+Rajya Sabha | Inter-State Council | Zonal Councils | GST Council | Finance Commission
+courts | All-India Services | inter-State dispute mechanisms
+
+ASYMMETRY
+special constitutional arrangements respond to history, geography and tribal autonomy
+asymmetry != inequality without reason; it needs constitutional source and purpose
+
+LOCAL GOVERNMENT
+73rd / 74th Amendments deepen federal participation
+but local bodies are not a co-equal third sovereign tier under the Constitution.
+
+ASCII MASTER FLOW — PANEL 7/9: Fiscal federalism: revenue capacity, equalisation and pooled sovereignty
+EXPENDITURE RESPONSIBILITIES
+States carry major delivery duties in health, police, agriculture and local services
+        |
+REVENUE ARCHITECTURE
+  +-- assigned taxes and shared Union taxes
+  +-- Finance Commission devolution and grants
+  +-- GST with pooled Union-State tax sovereignty
+  +-- borrowing rules, schemes, cesses and surcharges
+        |
+CURRENT CONTROL
+16th Finance Commission award for 2026-31 retains 41% vertical share of divisible pool
+horizontal distribution balances equity, population, demographic performance,
+area, forest / ecology and contribution-related considerations
+        |
+FEDERAL TENSION
+vertical imbalance + conditional schemes + cesses outside divisible pool + GST rate autonomy
+
+VERDICT: autonomy requires predictable finance, not merely legislative competence.
+
+ASCII MASTER FLOW — PANEL 8/9: Representation, Governors, CBI and current federal friction
+REPRESENTATIONAL FEDERALISM
+  +-- Rajya Sabha gives State voice but unequal population-based representation
+  +-- Lok Sabha delimitation can redistribute federal political weight
+  +-- defeated 131st Amendment Bill's 850 ceiling is not current law
+  +-- census conduct dates are not publication or delimitation dates
+
+GOVERNOR ASSENT: 20 NOVEMBER 2025 ADVISORY CONTROL
+  +-- no judicially fixed timelines
+  +-- no deemed assent
+  +-- prolonged unexplained inaction may attract a direction to act
+  +-- court cannot dictate the constitutional choice
+
+CBI CONSENT
+  +-- DSPE section 6 ordinarily protects State territorial police autonomy
+  +-- constitutional courts may order investigation without State consent
+  +-- 2024 West Bengal maintainability ruling did not decide every merits issue
+
+REFORM: consultation, neutral offices, reasons, transparent finance and timely forums.
+
+ASCII MASTER FLOW — PANEL 9/9: Prelims traps, verified PYQs and the Mains answer spine
+PRELIMS CONTROL
+Union of States != secession compact       residuary power -> Parliament
+standard List counts -> 100 / 61 / 52      Article 254 -> Concurrent conflict
+Article 249 -> Rajya Sabha                 Article 252 -> State-request route
+GST Council -> recommendatory              local bodies -> not co-equal sovereign tier
+S.R. Bommai (1994) -> federal Basic Structure          strong Centre != unitary Constitution
+
+VERIFIED PYQS
+2020 GS-II Q3 cooperation / competition / confrontation
+2021 GS-II Q11 CBI consent; 2022 GS-II Q13 party centralisation / autonomy
+2021 Prelims Q86 federal feature; 2023 Prelims Q32 prisons
+Objective answers remain labelled inferred where official keys are absent.
+
+MAINS SPINE
+1 define federalism and holding-together Union
+2 map federal and centralising features
+3 explain legislative, administrative and fiscal distribution
+4 use institutions, cases, asymmetry and current friction
+5 diagnose imbalance and conclude: capable Union + autonomous, consulted States.

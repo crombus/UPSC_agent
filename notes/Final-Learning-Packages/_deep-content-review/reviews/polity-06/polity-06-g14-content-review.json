@@ -1,0 +1,82 @@
+{
+  "topic_key": "polity-06",
+  "reviewed_identity": "polity-06:learner-v2:g14",
+  "review_date": "2026-08-28",
+  "score": {
+    "complete_learning_session": 29,
+    "solved_practice_workbook": 21,
+    "graphical_flowchart": 11,
+    "ascii_master_flowchart": 11,
+    "total": 72
+  },
+  "status": "changes_suggested",
+  "hard_gates": {
+    "syllabus_core_complete": false,
+    "facts_verified": false,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": false,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": false,
+    "current_data_source_dated": false
+  },
+  "issues": [
+    {
+      "id": "P06-001",
+      "severity": "high",
+      "issue": "Session identifies itself as g2 and workbook H1 is Learning Session; flow metadata claims g14 was repaired in place and source anchors point to g11."
+    },
+    {
+      "id": "P06-002",
+      "severity": "high",
+      "issue": "Generated workbook answer keys are not in strict A-B-C-D order."
+    },
+    {
+      "id": "P06-003",
+      "severity": "critical",
+      "issue": "The package says no later citizenship-rule change exists, but G.S.R. 742(E), Citizenship (Third Amendment) Rules, 2026 and S.O. 4583(E), both 19 August 2026, changed the Section 6B authority/process for specified States/UTs."
+    },
+    {
+      "id": "P06-004",
+      "severity": "high",
+      "issue": "Basic/Advanced owners incorrectly list Article 30 as citizen-only and overstate that enemy aliens receive no Article 22 protection."
+    },
+    {
+      "id": "P06-005",
+      "severity": "high",
+      "issue": "Basic/Advanced owners overstate Article 9 as a general dual-citizenship ban and include stale/unsafe AP-Telangana-only residence-employment claims."
+    },
+    {
+      "id": "P06-006",
+      "severity": "high",
+      "issue": "Six solved Mains answers and two solved Prelims items lack answer-specific How to improve guidance."
+    },
+    {
+      "id": "P06-007",
+      "severity": "high",
+      "issue": "Graphical and ASCII flows have only nine Core stages/panels, omit the 2018 Aadhaar PYQ, do not state the 2021 PYQ exact options/key status, lack the 2026 Collector procedure, OCI 2025 cancellation update, proof hierarchy and a complete 20-mark architecture."
+    },
+    {
+      "id": "P06-008",
+      "severity": "medium",
+      "issue": "ASCII/graphical rights map says Articles 29 and 30 are citizen-only without the Article 30 textual caveat."
+    },
+    {
+      "id": "P06-009",
+      "severity": "medium",
+      "issue": "Current status is frozen at 21 August 2026 and the canonical owner still uses 15 August 2026."
+    }
+  ],
+  "baseline_hashes": {
+    "session_pdf": "cc8ba53f20de35e393defeadfe93a644fdf89bab1b1e53d14b970d062a62482b",
+    "workbook_pdf": "c17ca803528ee6826c537676fc493a962e0c430bb8d941f7aaf95fad519b820d",
+    "session_markdown": "241e88d7cc37f2a0242842b69ce81a382b15f782373f19df359a5d4963b6423d",
+    "graphical_poster": "329f8613a26bdc8da2c17881be63f3b53088f5ca4cd5b4cd676304fdfdf08760",
+    "graphical_tiled": "35b2da1b14cc8aa6884176b91157bd5dd399537a1495a19f8f4d3221b74e6762",
+    "graphical_master": "8da363ff0dcdc7d19e75d93928919d434d539b2cd721dc63518729078e32ff7c",
+    "ascii_master": "8cea0c9182bd24f58c2d83a0681587a4fc5fd8989d33bde034eacfc929f87b83",
+    "canonical": "b1ffeb37cc7a02741f4adf19003256ec0628479a6d6aced950232ca339812a07",
+    "basic": "5a63ab5056f7e111634cd5ddfafcc614100797a1dee93c257b3e762a5ec01656",
+    "advanced": "c54426b83470c669a1fa4642d7db71d1bd191fc878eccd475a673ad4fd687dbc",
+    "generation_source": "139fc92ec7517959187cb7a180686329bd419f0e606cfa98eeaaf3a47ebb8718"
+  }
+}

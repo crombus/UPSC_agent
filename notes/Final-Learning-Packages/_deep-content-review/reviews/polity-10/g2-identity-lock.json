@@ -1,0 +1,83 @@
+{
+  "topic_key": "polity-10",
+  "locked_identity": "polity-10:learner-v2:g2",
+  "locked_at": "2026-08-28T04:21:00+05:30",
+  "approval": false,
+  "files": {
+    "final_session": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\10-Amendment-and-Basic-Structure\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+      "sha256": "33315ddba14d91b0e78af2c259be02d8d9c81411102407b15189fc52d9078d80",
+      "bytes": 1867135,
+      "pages": 57
+    },
+    "final_workbook": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\10-Amendment-and-Basic-Structure\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+      "sha256": "9f3ca755682e3accd9f79180e6b42fcff53ecc35c3410bc43a9e7f8aea77cea5",
+      "bytes": 383556,
+      "pages": 17
+    },
+    "final_poster": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\10-Amendment-and-Basic-Structure\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+      "sha256": "8ae0f95899fd9270ed1cf067f4c0be28f92c55f191868b5b101437e0c72bdfd8",
+      "bytes": 1487919,
+      "pages": 1
+    },
+    "final_tiled": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\10-Amendment-and-Basic-Structure\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+      "sha256": "9301e43af48e1a0a2f42f1aab039305b31611d7db5368f021a44403d70d47906",
+      "bytes": 1866648,
+      "pages": 3
+    },
+    "final_master": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\10-Amendment-and-Basic-Structure\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+      "sha256": "6fdcac5bdfcf4fc3833c7eb3211a393cde7ac58f058105bb0ff853389ff0295c",
+      "bytes": 1325912
+    },
+    "final_ascii_pdf": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\10-Amendment-and-Basic-Structure\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+      "sha256": "e542a599e82ddd40695a2c87ad6e51247b3697846939e343a42c90054fd25916",
+      "bytes": 56283,
+      "pages": 9
+    },
+    "final_ascii_text": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\10-Amendment-and-Basic-Structure\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+      "sha256": "fae9c0d0d847087459099623964027db1be6974270754f0e0aea3f1006cc6704",
+      "bytes": 7524
+    },
+    "session_md": {
+      "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\polity-10_Complete-Learning-Session_2026-08-24.md",
+      "sha256": "febe11c60b5cb162bc4bcb05792f7bd1cb41619f561e92729d5320f5b79549b2",
+      "bytes": 148086
+    },
+    "workbook_md": {
+      "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\polity-10_Solved-Practice-Workbook_2026-08-24.md",
+      "sha256": "6d43aa10cc79d2a35edf092866a714ee4cd8a6cf979d9fa9c2ad4bfbce7c391f",
+      "bytes": 52249
+    },
+    "canonical": {
+      "path": "upsc-ai-kit\\knowledge\\Polity\\10_Amendment-and-Basic-Structure_Complete-Topic-Package.md",
+      "sha256": "4df741a9892a9fcb5c120b8a80c1d647dabffb0e943b180313618cf4a2a455aa",
+      "bytes": 110987
+    },
+    "basic": {
+      "path": "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md",
+      "sha256": "f8bf3c2c0a5f8ac1c3a99f5a405f2d3fdd467df57fb3b88da6f4bc297afedf02",
+      "bytes": 29956
+    },
+    "advanced": {
+      "path": "upsc-ai-kit\\knowledge\\Polity\\advanced\\10_Amendment-and-Basic-Structure.md",
+      "sha256": "7c30c06f05466a93e162e88e1be42b337dd5d62c0f56a7cd0591b039cd82e003",
+      "bytes": 10484
+    },
+    "graphical_spec": {
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-10.json",
+      "sha256": "66d509c0a99e79cc1b8474d6ab022533feee19521fb77ee07b76d955d7f7ed12",
+      "bytes": 28778
+    },
+    "ascii_spec": {
+      "path": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-2026-08-24-sequential-batch.json",
+      "sha256": "28f8bf3e1227f20ac1c9de889c964edeae688faaecdb9dce83fbc7ec83b5bbad",
+      "bytes": 74055
+    }
+  }
+}

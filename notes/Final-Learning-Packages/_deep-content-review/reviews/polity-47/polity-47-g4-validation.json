@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "passed": true,
+  "topic_count": 1,
+  "topics": [
+    {
+      "topic_key": "polity-47",
+      "generation": 4,
+      "passed": true,
+      "errors": []
+    }
+  ]
+}

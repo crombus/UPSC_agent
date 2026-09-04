@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "locked_at": "2026-08-28T23:06:06+05:30",
+  "topic_key": "polity-53",
+  "record_id": "polity-53:learner-v2:g2",
+  "generation": 2,
+  "approval": false,
+  "file_count": 53,
+  "files": {
+    "EXPORT-PDF-STATUS.json": {
+      "sha256": "d5a75a909790e02349dc6d7f6f34fec0b121a31380b1ab0cb88e587e5ced120b",
+      "bytes": 9993321
+    },
+    "notes\\Final-Learning-Packages\\MASTER-TRACKER.json": {
+      "sha256": "be119e8b4ef30bd98a15ae0979fb594473552bf436c0101d79f598ff0a728e85",
+      "bytes": 192292
+    },
+    "notes\\Final-Learning-Packages\\_deep-content-review\\REVIEW-TRACKER.json": {
+      "sha256": "b8fea17c3e16d6ce6dbc33e9436fa9ac68e5c30841ea100562845cdba5f8092c",
+      "bytes": 246206
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions-Relating-to-Certain-Classes.md": {
+      "sha256": "ee65bfaee62b64d3d0ec0df3f0d9af4b05d93b71389d997a5fddeadd49e8f62f",
+      "bytes": 16770
+    },
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\53_Special-Provisions-Relating-to-Certain-Classes.md": {
+      "sha256": "80be40c7741325601eea567dd029aa6bd5a02e276db80a477c78136308bf2d6d",
+      "bytes": 1898
+    },
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-53-2026-08-25-sequential.json": {
+      "sha256": "7fc9550b5f9f760732b06576039bc02536abf5a1f26c3747aa0d7233f7cfba68",
+      "bytes": 11115
+    },
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-53.json": {
+      "sha256": "d60467c5b3fdffbcfb1515385f2321013f5d4dbe0fa47e45a1e17895e820c512",
+      "bytes": 34729
+    },
+    "upsc-ai-kit\\manifests\\exports\\polity-53-source-pyq-current-audit-2026-08-25.json": {
+      "sha256": "4ca548571f6965bf3f185a2113b6cdbbdb04cc350ebdea31fc43d01df1404551",
+      "bytes": 13244
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\53-Special-Provisions-Relating-to-Certain-Classes\\README.txt": {
+      "sha256": "5fc0a42fefb6e1b434713bcf4a280d769ce70f2c86fa87005263499550b648f6",
+      "bytes": 639
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\53-Special-Provisions-Relating-to-Certain-Classes\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf": {
+      "sha256": "294d72a584edfc55f64047af172caa09430779dea74c898d17cd608728f907c1",
+      "bytes": 1701646
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\53-Special-Provisions-Relating-to-Certain-Classes\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf": {
+      "sha256": "c8e6447c2dee6b8611e570473454bdad7cc83661a33c5b6b8967877127953f2a",
+      "bytes": 447320
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\53-Special-Provisions-Relating-to-Certain-Classes\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf": {
+      "sha256": "8f444c7d03f717fbebad7f8acfb5d2c93f3dc3c5a0316e733fc16f58969e5239",
+      "bytes": 1878472
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\53-Special-Provisions-Relating-to-Certain-Classes\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png": {
+      "sha256": "79df1b4547834ac7c5a90fc9f0278243ceedd98bc2b244b008f92a15d71c303a",
+      "bytes": 1662206
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\53-Special-Provisions-Relating-to-Certain-Classes\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf": {
+      "sha256": "44acf383cb0b8a251ea4da9aa8a0955527a212f279bef5dcf60506aaa167dfe3",
+      "bytes": 2056284
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\53-Special-Provisions-Relating-to-Certain-Classes\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf": {
+      "sha256": "f388451259dba6896d1faaf24170eb795313311ef6e40de50ad84b1a7de086e5",
+      "bytes": 54137
+    },
+    "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\53-Special-Provisions-Relating-to-Certain-Classes\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt": {
+      "sha256": "9dbfc8eff3cb5e2bcbdd59646535ddb2cb2a100021942e6fc44a73500fe8c232",
+      "bytes": 4438
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Complete-Learning-Session_2026-08-25.md": {
+      "sha256": "05b85120321ed61618cc1bd9783171604f82fd9aa88b6af9a48399b620bcf5e0",
+      "bytes": 154933
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Solved-Practice-Workbook_2026-08-25.md": {
+      "sha256": "b186a095b141f467955c09f5f5bb2a9f9245e1a1b3434beecac8496f199c0417",
+      "bytes": 45443
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\assets\\01_1_core_proposition.png": {
+      "sha256": "a3144e36065888739edf5d7d9cafc3fbae9158a8fb6a2d2e2c9586f772c33904",
+      "bytes": 70655
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\assets\\02_2_master_article_map.png": {
+      "sha256": "c06ca43099d2d73dad3933bc08f2dbb6aef13e39c5b3094afc01ab824c8e0289",
+      "bytes": 98038
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\assets\\03_3_1_sc_st_seats.png": {
+      "sha256": "77fbe95f0d545953a1014872f9a8d9ef145ef38344ca81f1fcd52ab35c07968d",
+      "bytes": 79551
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\assets\\04_3_2_anglo_indian_nomination.png": {
+      "sha256": "be1f2fbff470610e1a586afdee71e8369e46791ac226a7d99e9fd5be02f7eecb",
+      "bytes": 48288
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\assets\\05_3_3_women_s_reservation_cross_route.png": {
+      "sha256": "dd9f14a9a7bac78b0901cd64884d53b50b07caa363ff70d4c7ce9e7119187b86",
+      "bytes": 72779
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\assets\\06_4_services_and_posts_article_335.png": {
+      "sha256": "fea7b3ac9913d1a0741712bc5a31c02881a7645e4d33c58c09099ede0079c412",
+      "bytes": 92643
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\assets\\07_article_339.png": {
+      "sha256": "a4d8de5956350a4bd1fdddfdd0a4cec349c15db4ae0d4372971d3e1cd354c1cc",
+      "bytes": 72548
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\assets\\08_article_340.png": {
+      "sha256": "112d3e71c33716d0b8de4a488aee925a36e85a8efe7ddaf6edda31fcb6b289df",
+      "bytes": 56521
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\assets\\09_6_3_list_benefit_and_sub_classification_case_matrix.png": {
+      "sha256": "dd7a8d485a6cb533f26c8a81be3da30fd23baf114975cc7a68f6972ac085cf18",
+      "bytes": 77224
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\assets\\10_7_protective_developmental_permanent_and_transitiona.png": {
+      "sha256": "00493c78a2226e18db96714b72e3d1cb35aec85a867c30cefcb533e3ba8130db",
+      "bytes": 64992
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\assets\\11_9_1_demand_map.png": {
+      "sha256": "49e43ba01a6ebac1fe489dce45c20cea044c5dd2785522835cf56842a08b6f03",
+      "bytes": 80010
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\assets\\12_9_3_mark_scaled_structures.png": {
+      "sha256": "a806e5ea8a8fd7528ba672500b96c87f1e505f98d24fe8494ee04fbb9b09b551",
+      "bytes": 56247
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\assets\\13_10_must_know_facts.png": {
+      "sha256": "5232b51666546e942e14ed5e40caf5c23761e724d20e9e428475bc71f15fa994",
+      "bytes": 85760
+    },
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\assets\\polity-53_Teaching-Navigation_2026-08-25.png": {
+      "sha256": "992d4c21024bfcf4e1e74a94c6a7db4bb72863221000678b5a6a1ee356b2e430",
+      "bytes": 252347
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\MCQ-AUDIT.json": {
+      "sha256": "760de6c408df74744094a099ec6b98e6bf95a2302d667d1678c4d29b47050d02",
+      "bytes": 12373
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\PACKAGE-VALIDATION-REPORT.txt": {
+      "sha256": "61e4b0183b3f7c600f549466c2436c0c119c2f6391445741bb90f1d990fa49b6",
+      "bytes": 431
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Complete-Learning-Session_2026-08-25.pdf": {
+      "sha256": "294d72a584edfc55f64047af172caa09430779dea74c898d17cd608728f907c1",
+      "bytes": 1701646
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\polity-53_Solved-Practice-Workbook_2026-08-25.pdf": {
+      "sha256": "c8e6447c2dee6b8611e570473454bdad7cc83661a33c5b6b8967877127953f2a",
+      "bytes": 447320
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\PRESERVATION-HASHES.json": {
+      "sha256": "6bfc70dffca6fd9e702872f5ce2f4456723340658f72534c5dc479eb318fc5b3",
+      "bytes": 11120
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\STAGED-RECORD.json": {
+      "sha256": "0ad31002d780b06a8dfbda39df03e87e3f380939c43212d7596b3ba907796c71",
+      "bytes": 14134
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-53\\carvaka-g2\\ascii-master.txt": {
+      "sha256": "9dbfc8eff3cb5e2bcbdd59646535ddb2cb2a100021942e6fc44a73500fe8c232",
+      "bytes": 4438
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-53\\carvaka-g2\\build-audit.json": {
+      "sha256": "e270dfc8e0f23bfa6e21272a95a5f831e39470bb42f87f4d063832a436289668",
+      "bytes": 6967
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-53\\carvaka-g2\\master.png": {
+      "sha256": "79df1b4547834ac7c5a90fc9f0278243ceedd98bc2b244b008f92a15d71c303a",
+      "bytes": 1662206
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-53\\carvaka-g2\\poster.pdf": {
+      "sha256": "8f444c7d03f717fbebad7f8acfb5d2c93f3dc3c5a0316e733fc16f58969e5239",
+      "bytes": 1878472
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-53\\carvaka-g2\\preservation-hashes.json": {
+      "sha256": "a11b3ba75c03210658a839600810ef0f470083af5e282a4caea9e02ef32df0b6",
+      "bytes": 1903
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-53\\carvaka-g2\\README.txt": {
+      "sha256": "9f4ee7e3ab86b75142b1f7063d7f1ac23622351d2f89e608a3e62c54090d75f9",
+      "bytes": 1450
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-53\\carvaka-g2\\tiled.pdf": {
+      "sha256": "44acf383cb0b8a251ea4da9aa8a0955527a212f279bef5dcf60506aaa167dfe3",
+      "bytes": 2056284
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-53\\carvaka-g2\\validation-report.txt": {
+      "sha256": "0edc3d6b61f3de4aa2cc42326e22175af706e9ed21e4aadba2e2df8c5f4f2175",
+      "bytes": 1225
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-53\\carvaka-g2\\editable\\README.txt": {
+      "sha256": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+      "bytes": 209
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-53\\carvaka-g2\\editable\\topic-spec.json": {
+      "sha256": "d60467c5b3fdffbcfb1515385f2321013f5d4dbe0fa47e45a1e17895e820c512",
+      "bytes": 34729
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-53\\carvaka-g2\\previews\\contact-sheet-01.png": {
+      "sha256": "c8eba0ca9bb7df9eae9e97b27df635e64b815f2cf4e955a2ca9cfbf49014835e",
+      "bytes": 2185123
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-53\\carvaka-g2\\previews\\master-overview.png": {
+      "sha256": "5110c8ecdd1f33d25d5ffb4457a00fc3e098ff776bd7778f6cc18393c5b71e1d",
+      "bytes": 1093195
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-53\\carvaka-g2\\previews\\page-001.png": {
+      "sha256": "3f310921dcd9b81f8425b6380cff765b318280a3e7612b17696647a7d5a29452",
+      "bytes": 650026
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-53\\carvaka-g2\\previews\\page-002.png": {
+      "sha256": "a37c4d909cc7a3bec5837865af035ca844cc1ea03fa463d2f339ddef5b87aad0",
+      "bytes": 646063
+    },
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-53\\carvaka-g2\\previews\\page-003.png": {
+      "sha256": "53b8e63fcbba5b3c86717bceaf5c0345ba39be5d27b5479715bc4248808cfe68",
+      "bytes": 582241
+    }
+  }
+}

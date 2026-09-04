@@ -1,0 +1,56 @@
+{
+  "topic_key": "polity-15",
+  "source_generation": 5,
+  "approval": "Approval pending",
+  "validated_on": "2026-08-28T09:15:00+05:30",
+  "passed": true,
+  "exported_artifacts": {
+    "readme": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\15-President-and-Vice-President\\README.txt",
+      "sha256": "b5ecb7474df370eabea50a78b368af3a029e8d3a07c7f2668e7503694cc59c6d",
+      "bytes": 603
+    },
+    "complete_learning_session": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\15-President-and-Vice-President\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+      "sha256": "440b4049e5e51abf1ae777bab2cc8cb28e10c5042a4340db7858311fa0720b12",
+      "bytes": 1609501,
+      "pages": 53,
+      "blank_pages": 0,
+      "replacement_glyph_pages": 0,
+      "min_extracted_characters": 435
+    },
+    "solved_practice_workbook": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\15-President-and-Vice-President\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+      "sha256": "12aa4c0d436a9032232002e602b1f78bfefeeb6b96b0792c7b57ed7a10d18edd",
+      "bytes": 429340,
+      "pages": 13,
+      "blank_pages": 0,
+      "replacement_glyph_pages": 0,
+      "min_extracted_characters": 434
+    },
+    "graphical_flowchart": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\15-President-and-Vice-President\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+      "sha256": "bcc200cc54e9e7a2061d1cc0d7894a23f34b661655313cf018d604bdb62834d5",
+      "bytes": 2621195,
+      "pages": 1,
+      "blank_pages": 1,
+      "replacement_glyph_pages": 0,
+      "min_extracted_characters": 0
+    },
+    "ascii_master_flowchart": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\15-President-and-Vice-President\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+      "sha256": "0e5c3f77082609da1691f516503811f730491db7161f4986bf2f4b77d79b2096",
+      "bytes": 60541,
+      "pages": 12,
+      "blank_pages": 0,
+      "replacement_glyph_pages": 0,
+      "min_extracted_characters": 697
+    }
+  },
+  "generated_to_export_hash_match": {
+    "complete_learning_session": true,
+    "solved_practice_workbook": true,
+    "graphical_flowchart": true,
+    "ascii_master_flowchart": true
+  }
+}

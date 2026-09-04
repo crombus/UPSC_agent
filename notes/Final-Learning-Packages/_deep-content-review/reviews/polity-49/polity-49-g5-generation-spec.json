@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-49",
+  "subject": "Polity",
+  "section": "Subject-Wide-Syllabus",
+  "topic_folder": "polity-49",
+  "title": "Regulatory State and Quasi Judicial Institutions",
+  "generation_date": "2026-08-28",
+  "command": "Generate learner-v2 topic: Polity — Subject-wide Syllabus — Regulatory State and Quasi Judicial Institutions — deep-reviewed immutable g5",
+  "source_markdown": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-49\\g3-source\\polity-49_g3-reviewed-source.md",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Statutory-Regulatory-and-Quasi-Judicial-Bodies.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Statutory-Regulatory-and-Quasi-Judicial-Bodies.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\49_Regulatory-State-and-Quasi-Judicial-Institutions.md",
+  "manifest": "upsc-ai-kit\\manifests\\v2\\polity--subject-wide-syllabus.json",
+  "cross_topic_sources": [
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Supreme-Court.md",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\High-Court.md"
+  ],
+  "pyq_indexes": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md"
+  ],
+  "official_question_sources": [
+    "books\\more_previous_papers\\CSP_2018_GENERAL_STUDIES_PAPER_I.pdf",
+    "books\\more_previous_papers\\CSP_2021_GENERAL_STUDIES_PAPER_I.pdf",
+    "books\\mains\\02 UPSC 2023 Paper-II.pdf",
+    "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf"
+  ],
+  "local_ocr_sources": [
+    "books\\Indian Polity by M Laxmikant.pdf"
+  ],
+  "live_sources": [
+    "https://legislative.gov.in/constitution-of-india/",
+    "https://www.indiacode.nic.in/",
+    "https://www.rbi.org.in/",
+    "https://www.sebi.gov.in/",
+    "https://trai.gov.in/",
+    "https://cci.gov.in/",
+    "https://cercind.gov.in/",
+    "https://upsc.gov.in/examinations/previous-question-papers"
+  ],
+  "practice_profile": "Seven exact relevant PYQs; 48 hard MCQs in strict A-B-C-D rotation; eight original Mains questions; ten answer-specific guidance sets.",
+  "current_linkage_note": "Bills, consultation papers, proposed digital regimes and current organisational claims are dated and separated from operative law.",
+  "pyq_status_note": "Exact 2018 NGT/CPCB, 2018 FSSAI, 2018 tribunal, 2019 scrutiny, 2021 RBI, 2023 CCI and 2025 PNGRB questions are solved.",
+  "allow_existing_history": true,
+  "source_files": [
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Statutory-Regulatory-and-Quasi-Judicial-Bodies.md",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\49_Regulatory-State-and-Quasi-Judicial-Institutions.md",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-49\\g3-source\\polity-49_g3-reviewed-source.md",
+    "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-49-2026-08-25-sequential.json",
+    "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-49.json",
+    "tools\\deep_content_quality_overrides.json"
+  ]
+}

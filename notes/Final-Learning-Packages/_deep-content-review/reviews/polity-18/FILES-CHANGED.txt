@@ -1,0 +1,66 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+notes\Final-Learning-Packages\_deep-content-review\EVIDENCE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\ISSUE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\MD-CHANGE-SUGGESTIONS.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-18\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-18\g3-source\polity-18_g3-reviewed-source.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-18\polity-18-g2-content-review.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-18\polity-18-g3-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-18\polity-18-g3-content-review.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-18\polity-18-g3-finalize-validation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-18\polity-18-g3-generation-spec.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-18\polity-18-g3-generation-validation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-18\polity-18-g3-staged-records.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-18\repair-prompts\polity-18-supreme-court-repair.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-18\REVIEW-REPORT.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\18-Supreme-Court\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\18-Supreme-Court\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\18-Supreme-Court\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\18-Supreme-Court\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\18-Supreme-Court\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\18-Supreme-Court\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\18-Supreme-Court\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\18-Supreme-Court\README.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-18\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-18\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-18\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-18\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-18\carvaka-g3\embedded-ascii-contact.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-18\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-18\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-18\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-18\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-18\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-18\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-18\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-18\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-18\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-18\carvaka-g3\previews\page-005.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-18\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-18\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-18\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-18\g3\MCQ-AUDIT.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-18\g3\PACKAGE-VALIDATION-REPORT.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-18\g3\polity-18_Complete-Learning-Session_2026-08-28.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-18\g3\polity-18_Solved-Practice-Workbook_2026-08-28.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-18\g3\PRESERVATION-HASHES.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-18\g3\STAGED-RECORD.json
+tools\deep_content_quality_overrides.json
+tools\test_refresh_all_v2_learning_sessions.py
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-18\g3\assets\polity-18_Teaching-Navigation_2026-08-28.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-18\g3\polity-18_Complete-Learning-Session_2026-08-28.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-18\g3\polity-18_Graphical-Spec-g3.json
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-18\g3\polity-18_Solved-Practice-Workbook_2026-08-28.md
+upsc-ai-kit\knowledge\Polity\18_Supreme-Court_Complete-Topic-Package.md
+upsc-ai-kit\knowledge\Polity\advanced\18_Supreme-Court.md
+upsc-ai-kit\knowledge\Polity\basic\Supreme-Court.md
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-28-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-08-28.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\polity-18-2026-08-24-sequential.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\polity-18.json
+upsc-ai-kit\manifests\v2\polity--subject-wide-syllabus.json

@@ -1,0 +1,3 @@
+# Polity-23 repair handoff
+
+Use `polity-23:learner-v2:g2` only as the preserved baseline. Correct the Panchayati Raj Core against the official Constitution, PESA text, Supreme Court judgments, Ministry of Panchayati Raj material and Finance Commission sources. The successor must contain 41 named Core sessions before Optional Advanced, strict `ABCD × 12` MCQs, all routed PYQs, at least eleven answer-specific guidance pairs, twelve complete ASCII panels and twelve matching Core graphical stages plus one clearly optional card. No ellipses, semantic filler, stale dashboard totals, prose mutation or invented answer keys. Re-read all trackers before allocating the immutable generation; approval remains false.

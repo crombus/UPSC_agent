@@ -1,0 +1,57 @@
+{
+  "reviewed_on": "2026-08-28T00:15:47.354194+05:30",
+  "identity": "polity-02:learner-v2:g17",
+  "checks": {
+    "exact_identity": true,
+    "workbook_identity": true,
+    "strict_rotation": true,
+    "answer_option_integrity": true,
+    "answer_guidance": true,
+    "word_limits": true,
+    "fact_repairs": true,
+    "pyq_controls": true,
+    "graphical_refs_current": true,
+    "graphical_anchors_exist": true,
+    "ascii_controls": true,
+    "ascii_panel_count": true
+  },
+  "passed": true,
+  "mcq_counts": {
+    "A": 12,
+    "B": 12,
+    "C": 12,
+    "D": 12
+  },
+  "artifacts": {
+    "session": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Complete-Learning-Session_2026-08-27.pdf",
+      "sha256": "ed3f99f67b563439876f09e0d343e112f9fc8feb41cdf74ef9958340af9dbf59",
+      "bytes": 1964561
+    },
+    "workbook": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g17\\polity-02_Solved-Practice-Workbook_2026-08-27.pdf",
+      "sha256": "507d7688186b2d86b1ba81bc5b87216daac7b5b90db1f9274a60e6939253ef09",
+      "bytes": 438841
+    },
+    "poster": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-02\\carvaka-g17\\poster.pdf",
+      "sha256": "f05c61e9ca87171e03c431ee1e079ffedba68f42d444189532308ff1c92b3b73",
+      "bytes": 2380636
+    },
+    "tiled": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-02\\carvaka-g17\\tiled.pdf",
+      "sha256": "529365b994e52753f22682bb04fbf5a6ebdcae6f56b686792a079572757a6c06",
+      "bytes": 2967892
+    },
+    "master": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-02\\carvaka-g17\\master.png",
+      "sha256": "9a6bb1a62cc6bb5076c7b9ace336fe97094784bd9bd3001672ada741d70049ea",
+      "bytes": 2121286
+    },
+    "ascii": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-02\\carvaka-g17\\ascii-master.txt",
+      "sha256": "e67e77fe6f78511213f72a6cf418842b7118145f7a35c9861f50bfd044b77717",
+      "bytes": 7628
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-21",
+  "identity": "polity-21:learner-v2:g2",
+  "reviewed_on": "2026-08-28T09:37:40.705+05:30",
+  "approval": false,
+  "status": "changes_suggested",
+  "score": {
+    "complete_learning_session": 28,
+    "solved_workbook": 19,
+    "graphical_flowchart": 11,
+    "ascii_master_flowchart": 10,
+    "total": 68
+  },
+  "issue_counts": {
+    "critical": 1,
+    "high": 7,
+    "medium": 2,
+    "low": 0
+  },
+  "hard_gates": {
+    "syllabus_core_complete": false,
+    "facts_verified": false,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": false,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": false,
+    "current_data_source_dated": false
+  },
+  "issues": [
+    {
+      "id": "P21-G2-01",
+      "severity": "critical",
+      "artifact": "session/flows",
+      "issue": "Current Article 233 treatment omitted Rejanish K.V. (2025), leaving the superseded categorical serving-officer exclusion uncorrected.",
+      "repair": "Add prospective combined-experience, age and application-date rule while preserving Article 233 text."
+    },
+    {
+      "id": "P21-G2-02",
+      "severity": "high",
+      "artifact": "Core",
+      "issue": "Articles 229, 230, 236 and 237 appeared only as labels, not executable constitutional mechanisms.",
+      "repair": "Teach staff/expenses, UT jurisdiction, definitions and notified-magistrate application before Advanced."
+    },
+    {
+      "id": "P21-G2-03",
+      "severity": "high",
+      "artifact": "Core/current",
+      "issue": "The 2025 All India Judges Association Civil-Judge entry and promotion reforms were absent.",
+      "repair": "Add prospective three-year Bar practice, LDCE and suitability controls."
+    },
+    {
+      "id": "P21-G2-04",
+      "severity": "high",
+      "artifact": "current",
+      "issue": "No dated sanctioned/working/vacancy evidence was supplied despite a live-data requirement.",
+      "repair": "Add 1 July 2026 DoJ totals 1,122/781/341 with date qualification."
+    },
+    {
+      "id": "P21-G2-05",
+      "severity": "high",
+      "artifact": "jurisdiction",
+      "issue": "Article 226(3), Radhey Shyam and current K. Valarmathi supervisory restraint were missing.",
+      "repair": "Add exact ex parte safeguard and Article 226/227 boundary."
+    },
+    {
+      "id": "P21-G2-06",
+      "severity": "high",
+      "artifact": "workbook/session",
+      "issue": "48 MCQs were balanced but not strict ABCD; questions were mostly elementary; ten models had no Why/How guidance.",
+      "repair": "Enforce ABCD x12, varied statement/matching/application items and answer-specific compression."
+    },
+    {
+      "id": "P21-G2-07",
+      "severity": "high",
+      "artifact": "generated prose",
+      "issue": "Eight semantic ellipses and generic aids corrupted closure integrity.",
+      "repair": "Add 36 exact named-session semantic controls."
+    },
+    {
+      "id": "P21-G2-08",
+      "severity": "high",
+      "artifact": "graphical/ASCII",
+      "issue": "Nine ASCII and ten graphical stages compressed current recruitment, administration, writ and data controls.",
+      "repair": "Rebuild twelve matching Core/synthesis routes plus subordinate enrichment."
+    },
+    {
+      "id": "P21-G2-09",
+      "severity": "medium",
+      "artifact": "Advanced",
+      "issue": "A one-lakh NALSA income ceiling, co-terminus jurisdiction wording and Article 228/235 conflation were unsafe.",
+      "repair": "Use prescribed income thresholds, territorial-law qualification and separate withdrawal/control powers."
+    },
+    {
+      "id": "P21-G2-10",
+      "severity": "medium",
+      "artifact": "manifest/metadata",
+      "issue": "Manifest ownership and PYQ/current evidence arrays were placeholders; package date was stale.",
+      "repair": "Complete ownership and regenerate exact current-generation metadata."
+    }
+  ],
+  "baseline_metrics": {
+    "core_sessions": 36,
+    "session_pages": 70,
+    "workbook_pages": 13,
+    "poster_pages": 1,
+    "tiled_pages": 4,
+    "ascii_pages": 9,
+    "mcqs": 48,
+    "mcq_sequence": "ACCABBDDABBCACDADDBDBBCAACACCDBABDCDADBCADBCCADB",
+    "why_guidance": 0,
+    "how_guidance": 0,
+    "semantic_ellipses": 8,
+    "ascii_panels": 9,
+    "graphical_stages": 10
+  },
+  "identity_lock": "g2-identity-lock.json"
+}

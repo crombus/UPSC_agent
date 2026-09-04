@@ -1,0 +1,8 @@
+{
+  "identity": "polity-04:learner-v2:g17",
+  "score": 96,
+  "status": "changes_suggested",
+  "approved": false,
+  "passed": false,
+  "reason": "All substantive source repairs and 11-stage flow design were present, but the first systemic MCQ parser repair was incomplete: 21 long-form bold answer lines were not parsed, so only 27 of 48 keys were rotated. Graphical source anchors also retained replacement-glyph dashes and failed exact-heading reconciliation. Preserve g17; parser and anchor normalization corrected for next generation."
+}

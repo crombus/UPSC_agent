@@ -1,0 +1,24 @@
+{
+  "topic_key": "polity-16",
+  "identity": "polity-16:learner-v2:g6",
+  "validated_on": "2026-08-28T09:25:00+05:30",
+  "passed": true,
+  "approval": false,
+  "checks": {
+    "generation_local_validation": "passed",
+    "tracker_aware_validate_v2_export": "passed",
+    "source_hashes": "23/23",
+    "mcq_rotation": "36 keys; ABCD x 9",
+    "prose_integrity": "zero ellipsis and replacement glyphs",
+    "four_item_export": "passed",
+    "final_pdf_layout": "no blank, near-empty, clipped-text or replacement-glyph pages",
+    "ascii_reconciliation": "12 text panels = 12 PDF pages",
+    "focused_tests": "38 passed"
+  },
+  "intermediates": [
+    "polity-16:learner-v2:g3",
+    "polity-16:learner-v2:g4",
+    "polity-16:learner-v2:g5"
+  ],
+  "explicit_approval": false
+}

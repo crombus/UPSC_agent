@@ -1,0 +1,311 @@
+#### ASCII MASTER FLOW — PANEL 1/8: The Stone Age: Palaeolithic & Mesolithic: central question and analytical axes
+
+```ascii-master
+THE STONE AGE: PALAEOLITHIC & MESOLITHIC — CONCEPTUAL ATLAS
+
+
+KEY TERMS: Geological Context • Pleistocene • Holocene • Changing Landscapes • GEOLOGICAL
+KEY TERMS: CONTEXT: PLEISTOCENE… • Attirampakkam
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of The Stone Age: Palaeolithic & Mesolithic
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       Stone Age phases are anchored in geological time
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: GEOLOGICAL CONTEXT: PLEISTOCENE, HOLOCENE AND CHANGING LANDSCAPES
+  • Geological Context
+  • Explain climate as mechanism, not master cause: climate…
+AXIS 2: ATTIRAMPAKKAM AND THE CHRONOLOGY DEBATE
+  • Attirampakkam
+  • CURRENT: The 2026 South Asian Palaeolithic symposium foregrounded…
+AXIS 3: MESOLITHIC TRANSITION: HOLOCENE ADAPTATION, NOT A SINGLE…
+  • Mesolithic Transition
+  • The Mesolithic record is larger and more socially detailed than…
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  Geological Context • Pleistocene • Holocene • Changing Landscapes
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Geological time, hominin evidence, lithics and dating
+
+```ascii-master
+GEOLOGICAL TIME, HOMININ EVIDENCE, LITHICS AND DATING
+
+
+KEY TERMS: Geological Context • Pleistocene • Holocene • Changing Landscapes • GEOLOGICAL
+KEY TERMS: CONTEXT: PLEISTOCENE… • Human Evolution
+STAGE 01  GEOLOGICAL CONTEXT: PLEISTOCENE, HOLOCENE AND CHANGING LANDSCAPES
+  ├─ CONDITION / TERM: Stone Age phases are anchored in geological time
+  ├─ CHANGE / MECHANISM: Explain climate as mechanism, not master cause: climate…
+  └─ OUTCOME: The impact of the Toba super-eruption on South Asian populations…
+                  │
+                  ▼
+STAGE 02  HUMAN EVOLUTION AND THE SPARSE INDIAN HOMININ RECORD
+  ├─ CONDITION / TERM: Human evolution is included only to the extent necessary
+  ├─ CONDITION / TERM: for Indian prehistory
+  ├─ CHANGE / MECHANISM: It refers to an archaic human population first identified
+  ├─ CHANGE / MECHANISM: through…
+  └─ OUTCOME: South Asia has a rich lithic record but a meagre authenticated…
+                  │
+                  ▼
+STAGE 03  LITHIC EVIDENCE GRAMMAR: ARTEFACT, CORE, FLAKE, DEBITAGE AND CONTEXT
+  ├─ CONDITION / TERM: Archaeologists reconstruct procurement, preparation,
+  ├─ CONDITION / TERM: production…
+  ├─ CHANGE / MECHANISM: Archaeologists reconstruct procurement, preparation,
+  ├─ CHANGE / MECHANISM: production…
+  └─ OUTCOME: It can establish distribution, but behaviour and chronology require…
+                  │
+                  ▼
+STAGE 04  DATING AND ARCHAEOLOGICAL METHODS: BUILDING A DEFENSIBLE CHRONOLOGY
+  ├─ CONDITION / TERM: Rock art can be approached through superimposition, style…
+  ├─ CHANGE / MECHANISM: Rock art can be approached through superimposition,
+  ├─ CHANGE / MECHANISM: style…
+  └─ OUTCOME: Precision is not the same as accuracy
+                  │
+                  ▼
+SEQUENCE CONTROL: chronology is evidence-led, not a bare dynasty/date list.
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Lower and Middle Palaeolithic technology and site debates
+
+```ascii-master
+LOWER AND MIDDLE PALAEOLITHIC TECHNOLOGY AND SITE DEBATES
+
+
+KEY TERMS: Lower Palaeolithic • Acheulian Landscapes • Large Cutting Tools • Diagnostic
+KEY TERMS: tools • LOWER PALAEOLITHIC: ACHEULIAN… • Raw Materials
+CAUSE / CONDITION 1: Upinder Singh notes that Palaeolithic tools are widespread…
+          │
+          ├── MECHANISM
+          │   Compare textbook chronology with newer site dates, then explain the…
+          │
+          └── EFFECT / CONTRAST
+              Upinder Singh notes that Palaeolithic tools are widespread but…
+          │
+          ▼
+CAUSE / CONDITION 2: A factory site could also be a habitation or meeting place
+          │
+          ├── MECHANISM
+          │   Raw-material distance can indicate direct procurement, seasonal…
+          │
+          └── EFFECT / CONTRAST
+              A factory site could also be a habitation or meeting place
+          │
+          ▼
+CAUSE / CONDITION 3: Attirampakkam is a model case for how new dates revise…
+          │
+          ├── MECHANISM
+          │   CURRENT: The 2026 South Asian Palaeolithic symposium foregrounded…
+          │
+          └── EFFECT / CONTRAST
+              The site does not prove which hominin species made the tools
+          │
+          ▼
+CAUSE / CONDITION 4: The Middle Palaeolithic shows a shift in balance from large…
+          │
+          ├── MECHANISM
+          │   It is a prepared-core reduction strategy that produces planned…
+          │
+          └── EFFECT / CONTRAST
+              Prepared-core methods demonstrate anticipation of the desired blank…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Upper Palaeolithic adaptation, society, subsistence and art
+
+```ascii-master
+UPPER PALAEOLITHIC ADAPTATION, SOCIETY, SUBSISTENCE AND ART
+│
+├── KEY CONCEPTS
+│   ├── Upper Palaeolithic
+│   ├── Blades
+│   ├── Bone Tools
+│   ├── Symbolic Expansion
+│   └── UPPER PALAEOLITHIC: BLADES, BONE TOOLS…
+│
+├── UPPER PALAEOLITHIC: BLADES, BONE TOOLS AND SYMBOLIC EXPANSION
+│   ├─ TERMS: The Upper Palaeolithic is conventionally associated with
+│   ├─ TERMS: parallel-sided blades, burins, bone tools, ornaments and more…
+│   ├─ LOGIC: Wrong: Upper Palaeolithic means only stone blades
+│   └─ RESULT: Symbolic evidence expands, yet does not justify reconstructing a…
+├── TECHNOLOGY AS ADAPTATION: CORE TOOLS TO MICROLITHIC COMPOSITES
+│   ├─ TERMS: Composite tools reduce replacement cost because a broken insert can…
+│   ├─ LOGIC: Composite tools reduce replacement cost because a broken insert can…
+│   └─ RESULT: It must not be read as a universal ladder of intelligence or a…
+├── MOBILITY, SETTLEMENT AND SOCIAL LIFE OF PALAEOLITHIC COMMUNITIES
+│   ├─ TERMS: Mobility, Settlement And Social Life Of Palaeolithic Communities
+│   ├─ TERMS: comprises Mobility, Settlement and Social Life Of…
+│   ├─ LOGIC: Mobility was a knowledge-intensive adaptation involving routes…
+│   └─ RESULT: Reciprocity and sharing are plausible in small mobile groups, but…
+├── SUBSISTENCE AND CLIMATE-ECOLOGY ADAPTATION
+│   ├─ TERMS: Palaeolithic and Mesolithic subsistence was broad and ecologically…
+│   ├─ LOGIC: Kachchh shell middens preserve discarded shells from food…
+│   └─ RESULT: Hunting matters, but gathering, fishing, shellfish collection…
+├── PALAEOLITHIC ART, ORNAMENT AND CULT EVIDENCE
+│   ├─ TERMS: CURRENT: Conservation science and direct/indirect dating remain…
+│   ├─ LOGIC: CURRENT: Conservation science and direct/indirect dating remain…
+│   └─ RESULT: These finds show non-utilitarian behaviour but do not permit a…
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Mesolithic transition, microliths, sedentism and burial
+
+```ascii-master
+MESOLITHIC TRANSITION, MICROLITHS, SEDENTISM AND BURIAL
+
+
+KEY TERMS: Mesolithic Transition • Holocene Adaptation • Not A Single Revolution •
+KEY TERMS: Geological setting • MESOLITHIC TRANSITION: HOLOCENE… • Microliths
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ MESOLITHIC TRANSITION: │ Pottery is absent at many     │ Pottery is absent at many     │
+│ HOLOCENE ADAPTATION,   │ Mesolithic sites but occurs   │ Mesolithic sites but occurs   │
+│ NOT A SINGLE           │ at some                       │ at some                       │
+│ REVOLUTION             │                               │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ MICROLITHS AND         │ Explain why microliths are a  │ Bow-and-arrow use is          │
+│ COMPOSITE TECHNOLOGY   │ technological system:         │ plausible at many sites but   │
+│                        │ production +…                 │ should be…                    │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ MESOLITHIC             │ Adamgarh domestication claims │ Some sites report             │
+│ SUBSISTENCE,           │ are questioned because of     │ domesticated animals, pottery │
+│ SEDENTARINESS AND      │ uncertain dates and           │ or cultivated…                │
+│ DOMESTICATION DEBATES  │ stratigraphy                  │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ BURIALS, RITUAL AND    │ Burial is an action by        │ Burial is an action by        │
+│ SOCIAL ORGANIZATION    │ survivors, not a transparent  │ survivors, not a transparent  │
+│                        │ portrait of the deceased      │ portrait of the…              │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Indian site map, Neolithic transition and evidence debates
+
+```ascii-master
+INDIAN SITE MAP, NEOLITHIC TRANSITION AND EVIDENCE DEBATES
+
+
+KEY TERMS: Rock Art • Bhimbetka • Regional Traditions • Interpretation • ROCK ART:
+KEY TERMS: BHIMBETKA, REGIONAL… • Major Indian Sites
+                 CLAIM / SYSTEM UNDER EXAMINATION
+                                  │
+                                  ▼
+PROBLEM / OBJECTION 1
+  ├─ ISSUE: bhimbetka should be used as a combined history-art-conservation case
+  ├─ RESPONSE / CONTROL: Rock art also occurs in Mirzapur, Odisha, Jharkhand,
+  ├─ RESPONSE / CONTROL: Bihar, Ladakh…
+  └─ QUALIFIED VERDICT: It is an archaeological source, not a picture-book
+  └─ QUALIFIED VERDICT: transcript
+                  │
+                  ▼
+PROBLEM / OBJECTION 2
+  ├─ ISSUE: Wrong: Sarai Nahar Rai is a Lower Palaeolithic handaxe site
+  ├─ RESPONSE / CONTROL: Site clusters should be read as regional systems
+  ├─ RESPONSE / CONTROL: connected by…
+  └─ QUALIFIED VERDICT: Isampur is a major manufacturing and habitation centre in
+  └─ QUALIFIED VERDICT: the…
+                  │
+                  ▼
+PROBLEM / OBJECTION 3
+  ├─ ISSUE: Mesolithic communities could experiment with plant intensification…
+  ├─ RESPONSE / CONTROL: Pottery can occur among foragers and may be acquired
+  ├─ RESPONSE / CONTROL: through contact
+  └─ QUALIFIED VERDICT: The Neolithic threshold is a bundle of processes, not a
+  └─ QUALIFIED VERDICT: single…
+                  │
+                  ▼
+PROBLEM / OBJECTION 4
+  ├─ ISSUE: The 2026 Ladakh study recovered genome-wide data from 10 unique…
+  ├─ RESPONSE / CONTROL: Conclude: Indian prehistory is no longer a single march
+  ├─ RESPONSE / CONTROL: from crude…
+  └─ QUALIFIED VERDICT: Tools remain essential, but they are now integrated with…
+                                  │
+                                  ▼
+FINAL CONTROL: preserve the strongest insight while stating its limit.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: The Stone Age: Palaeolithic & Mesolithic: traps, PYQ routes and applied recall
+
+```ascii-master
+THE STONE AGE: PALAEOLITHIC & MESOLITHIC: TRAPS, PYQ ROUTES AND APPLIED RECALL
+
+
+KEY TERMS: Geological Context • Pleistocene • Holocene • Changing Landscapes • GEOLOGICAL
+KEY TERMS: CONTEXT: PLEISTOCENE… • Human Evolution
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── thar evidence indicates more surface water during much of the…
+├── middle Palaeolithic assemblages include scrapers, points, borers…
+├── Transition means changing proportions and combinations, not…
+├── The 2026 Ladakh study recovered genome-wide data from 10 unique…
+│
+├── PYQ 1
+├── PRE-TEACH CHECKLIST / CURRENT ANCHOR
+├── Question demand Answer status Most defensible answer
+├── Mains 1
+│
+└── The textbook equation Palaeolithic equals Pleistocene and…
+└── It is not direct evidence for every prehistoric community
+└── The central historiographical shift is from a typological culture…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: The Stone Age: Palaeolithic & Mesolithic: integrated revision and answer-writing spine
+
+```ascii-master
+THE STONE AGE: PALAEOLITHIC & MESOLITHIC — ANSWER / REVISION SPINE
+
+
+KEY TERMS: Geological Context • Pleistocene • Holocene • Changing Landscapes • GEOLOGICAL
+KEY TERMS: CONTEXT: PLEISTOCENE… • Human Evolution
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ Stone Age phases are anchored in geological time
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ Geological Context
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ It is a prepared-core reduction strategy that produces planned…
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ Holocene
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ The 2026 Ladakh study recovered genome-wide data from 10 unique…
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ The central historiographical shift is from a typological culture…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

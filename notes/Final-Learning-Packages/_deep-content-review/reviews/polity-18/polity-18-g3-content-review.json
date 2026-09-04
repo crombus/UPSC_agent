@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-18",
+  "identity": "polity-18:learner-v2:g3",
+  "reviewed_on": "2026-08-28T13:25:00+05:30",
+  "approval": false,
+  "status": "passed",
+  "score": {
+    "complete_learning_session": 39,
+    "solved_workbook": 29,
+    "graphical_flowchart": 15,
+    "ascii_flowchart": 15,
+    "total": 98
+  },
+  "issue_counts": {
+    "critical": 0,
+    "high": 0,
+    "medium": 0,
+    "low": 0
+  },
+  "resolved_baseline_issues": [
+    "POL18-G2-01",
+    "POL18-G2-02",
+    "POL18-G2-03",
+    "POL18-G2-04",
+    "POL18-G2-05",
+    "POL18-G2-06",
+    "POL18-G2-07"
+  ],
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": true,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": true,
+    "current_data_source_dated": true
+  },
+  "audit": "polity-18-g3-audit.json",
+  "notes": "Independent re-review confirms complete Core before optional Advanced, precise constitutional/current controls, executable answers, strict rotation and twelve matching flows. Review pass does not approve the package."
+}

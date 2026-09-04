@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-24",
+  "record_id": "polity-24:learner-v2:g3",
+  "approval": false,
+  "validated_on": "2026-08-28",
+  "artifacts": [
+    {
+      "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-24\\g3\\polity-24_Complete-Learning-Session_2026-08-28.md",
+      "sha256": "882c14c6e8bce6ced334fe97059d624f711b1613ee821d68ec0a1e77594bd2a0",
+      "bytes": 216732
+    },
+    {
+      "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-24\\g3\\polity-24_Solved-Practice-Workbook_2026-08-28.md",
+      "sha256": "b68e34b1685476e029a0b22319d8a777d9d607e64fb897bf779cfc80ef58c2bf",
+      "bytes": 41544
+    },
+    {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-24\\g3\\polity-24_Complete-Learning-Session_2026-08-28.pdf",
+      "sha256": "37d37eaecb8c8dd71e46f11cfd7fd23dc798549ad25f8657c8b56445d2804e38",
+      "bytes": 2238876
+    },
+    {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-24\\g3\\polity-24_Solved-Practice-Workbook_2026-08-28.pdf",
+      "sha256": "61adac0f0010568886adceb6008328bea353b603c35d495362c2b27eee4d86e8",
+      "bytes": 729760
+    },
+    {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-24\\carvaka-g3\\master.png",
+      "sha256": "fe0b19d9715f47ace0f4d3a6bc40cc217fe0e51e4e4b5de41c1a24d2ca2b1c98",
+      "bytes": 2464661
+    },
+    {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-24\\carvaka-g3\\poster.pdf",
+      "sha256": "40aae7c71ed22647ccbdf16698343d7e250781742957773a54f55a9e9bc29af3",
+      "bytes": 2795839
+    },
+    {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-24\\carvaka-g3\\tiled.pdf",
+      "sha256": "1d32a6e5e2726c74e857cea4071bb2a7dd0c0eaf537c7257e4c62c0e4bddc08c",
+      "bytes": 3622812
+    },
+    {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-24\\carvaka-g3\\ascii-master.txt",
+      "sha256": "372bdbf2f61ec4558ec1bb2e6691211e0ae011c6f3097f8da93f3d2a0a0c30d6",
+      "bytes": 8794
+    },
+    {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\24-Municipalities\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+      "sha256": "e04223788e0fb803995be00a720d77c7e0e435e607a11e6962629c7c7ff0a14f",
+      "bytes": 60068
+    }
+  ],
+  "metrics": {
+    "core_sessions": 48,
+    "mcqs": 48,
+    "rotation": "ABCD x12",
+    "why_how_pairs": 11,
+    "ascii_panels": 12,
+    "ascii_max_width": 93,
+    "graphical_core_stages": 12,
+    "graphical_optional_cards": 1,
+    "pages": {
+      "session": 92,
+      "workbook": 15,
+      "poster": 1,
+      "tiled": 5,
+      "ascii": 12
+    }
+  },
+  "validation": {
+    "generator": true,
+    "tracker_aware": true,
+    "four_item_export": true,
+    "focused_tests": "38 passed",
+    "manual_review": true,
+    "graphical_validation": "errors=none",
+    "ascii_width": "93 <= 100",
+    "broader_test_note": "66 passed; one unrelated Political Theory inventory expectation failed"
+  }
+}

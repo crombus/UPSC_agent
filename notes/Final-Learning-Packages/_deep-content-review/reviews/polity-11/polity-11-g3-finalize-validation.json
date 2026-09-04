@@ -1,0 +1,57 @@
+{
+  "topic_key": "polity-11",
+  "identity": "polity-11:learner-v2:g3",
+  "source_generation": 3,
+  "approval": "Approval pending",
+  "validated_on": "2026-08-28T05:16:45.981454+05:30",
+  "passed": true,
+  "exported_artifacts": {
+    "readme": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\11-Parliamentary-System\\README.txt",
+      "sha256": "fba17c78cd27e6026efdfb2636ba4d6bb6742e0bcf541aff7af6920c606b7050",
+      "bytes": 587
+    },
+    "complete_learning_session": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\11-Parliamentary-System\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+      "sha256": "4962773f72f392a877e120a4c8610e1ad28628c80aa161fd803ef28572f12296",
+      "bytes": 1529744,
+      "pages": 53,
+      "blank_pages": 0,
+      "replacement_glyph_pages": 0,
+      "min_extracted_characters": 350
+    },
+    "solved_practice_workbook": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\11-Parliamentary-System\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+      "sha256": "b807aa630d91bf7b5d053185f99ee4764d14afd01910da91615b53d7823415b6",
+      "bytes": 354445,
+      "pages": 16,
+      "blank_pages": 0,
+      "replacement_glyph_pages": 0,
+      "min_extracted_characters": 426
+    },
+    "graphical_flowchart": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\11-Parliamentary-System\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+      "sha256": "c02c9f6c7e4af1653e89b14f05f4772fda4631e9f61efbe88b6e171e53e0a6e4",
+      "bytes": 1598293,
+      "pages": 1,
+      "blank_pages": 1,
+      "replacement_glyph_pages": 0,
+      "min_extracted_characters": 0
+    },
+    "ascii_master_flowchart": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\11-Parliamentary-System\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+      "sha256": "0ec016a146a05b9263a80547c8dd3958f5861b6bc91f60760e5bb1c3cd462287",
+      "bytes": 58369,
+      "pages": 11,
+      "blank_pages": 0,
+      "replacement_glyph_pages": 0,
+      "min_extracted_characters": 587
+    }
+  },
+  "generated_to_export_hash_match": {
+    "complete_learning_session": true,
+    "solved_practice_workbook": true,
+    "graphical_flowchart": true,
+    "ascii_master_flowchart": true
+  }
+}

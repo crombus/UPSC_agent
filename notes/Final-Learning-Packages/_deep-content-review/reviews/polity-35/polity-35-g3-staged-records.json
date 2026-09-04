@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "records": [
+    {
+      "record_id": "polity-35:learner-v2:g3",
+      "topic_key": "polity-35",
+      "variant": "learner-v2",
+      "generation": 3,
+      "supersedes": "polity-35:learner-v2:g2",
+      "command": "Generate learner-v2 topic: Polity \u2014 Subject-wide Syllabus \u2014 NHRC and SHRC \u2014 deep-reviewed immutable generation",
+      "main_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\g3\\polity-35_Complete-Learning-Session_2026-08-28.pdf",
+      "workbook": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\g3\\polity-35_Solved-Practice-Workbook_2026-08-28.pdf",
+      "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\g3\\polity-35_Complete-Learning-Session_2026-08-28.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\g3\\polity-35_Solved-Practice-Workbook_2026-08-28.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\g3\\assets",
+      "generated_on": "2026-08-28",
+      "approved": false,
+      "provenance": {
+        "workflow": "learner-first-v2-refreshed-new-topic",
+        "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\NHRC-and-SHRC.md",
+        "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\35_NHRC-and-SHRC_Complete-Topic-Package.md",
+        "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\35_NHRC-and-SHRC.md",
+        "cross_topic_sources": [
+          "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\National-Commissions-SC-ST-BC.md"
+        ],
+        "pyq_indexes": [
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+          "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md"
+        ],
+        "official_question_sources": [],
+        "local_ocr_sources": [
+          "books\\Indian Polity by M Laxmikant.pdf"
+        ],
+        "live_sources": [
+          "https://www.indiacode.nic.in/bitstream/123456789/15709/1/a199410.pdf",
+          "https://nhrc.nic.in/about-us/composition_of_commission",
+          "https://ganhri.org/accreditation/sca-reports/"
+        ],
+        "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\g3\\polity-35_Complete-Learning-Session_2026-08-28.md",
+        "renderer": {
+          "name": "tools/markdown_learning_pdf.py",
+          "version": "2.1"
+        },
+        "generation_date": "2026-08-28",
+        "superseded_v1": "polity-35:learner-v2:g2",
+        "source_hashes": {
+          "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-35\\g3-source\\polity-35_g3-reviewed-source.md": "242be3aaaf1d3e0ca9b1ac0ed2b543af0d6287eb8e32511896852b18d3793809",
+          "tools\\deep_content_quality_overrides.json": "e71d54bcd1525569e3d313b20c42c306d2781a32e4359b84c6f9533afffbc4b3",
+          "upsc-ai-kit\\knowledge\\Polity\\35_NHRC-and-SHRC_Complete-Topic-Package.md": "c7b0665d7e2551ffe23e3257a1fcba17af2530ef5bedd3830881b73a059fce77",
+          "upsc-ai-kit\\knowledge\\Polity\\advanced\\35_NHRC-and-SHRC.md": "7d367e11c3f652f9daaf3ff9d36b962c62ccaa2ee865de64ebb1e42914e36b19",
+          "upsc-ai-kit\\knowledge\\Polity\\basic\\NHRC-and-SHRC.md": "367740a16178dc06c9677b896c839ddbd4a62c22de5dd76b29097e20c688b62a",
+          "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-35-2026-08-24-sequential.json": "93e74a07cf21100c29ab7449d36e05f67cbea6b887c265af8fd36bbf31ed0f0f",
+          "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-35.json": "70e34408d205c1ee9810d4a4240e29965f89d4c8cc07e90733443d30bf683101"
+        },
+        "session_contract": "named-session definition/opening/keywords/use/closure",
+        "mcq_keys": "strict A-B-C-D rotation",
+        "practice_profile": "Two direct verified Mains PYQs, one supporting Prelims route; 36 original MCQs; 12 remedials; 8 original solved Mains; 10 answer-specific guidance pairs.",
+        "current_linkage_note": "Official legal, NHRC and GANHRI claims controlled to 28 August 2026; volatile composition/count data omitted.",
+        "pyq_status_note": "2018 GS-II Q16 and 2021 GS-II Q12 retained as direct routes; 2023 classification question retained only as supporting cross-link.",
+        "new_visual_count": 1,
+        "new_flowchart_page_count": 4,
+        "flowchart_renderer": "C\u0101rv\u0101ka-style continuous same-master PNG/poster/tiled renderer",
+        "tracker_updated": false,
+        "tracker_sha256": "caeb276ebc90d2b224db066ef2728c3ac95f83442b101db212bec485fb8a0629"
+      },
+      "approval": {
+        "approved": false,
+        "approved_on": null,
+        "scope": "polity-35:learner-v2:g3"
+      },
+      "validation": {
+        "state": "passed",
+        "validated_on": "2026-08-28",
+        "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+      },
+      "continuous_core_first": {
+        "folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-35\\carvaka-g3",
+        "master_image": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-35\\carvaka-g3\\master.png",
+        "poster_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-35\\carvaka-g3\\poster.pdf",
+        "tiled_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-35\\carvaka-g3\\tiled.pdf",
+        "editable": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-35\\carvaka-g3\\editable",
+        "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\g3\\polity-35_Graphical-Spec-g3.json",
+        "graphical_spec_sha256": "80f309dd7086dbf8a48a0f80229343d6ea98b17d63b95f7ce32da0d5e3f7035c",
+        "renderer": {
+          "name": "carvaka-continuous-at-a-glance-graphical-v2",
+          "version": "2.0"
+        },
+        "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+        "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "previews": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-35\\carvaka-g3\\previews",
+        "contact_sheets": [
+          "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-35\\carvaka-g3\\previews\\contact-sheet-01.png"
+        ],
+        "master_overview": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-35\\carvaka-g3\\previews\\master-overview.png",
+        "validation_report": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-35\\carvaka-g3\\validation-report.txt",
+        "build_audit": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-35\\carvaka-g3\\build-audit.json",
+        "preservation_hashes": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-35\\carvaka-g3\\preservation-hashes.json",
+        "ascii_master": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-35\\carvaka-g3\\ascii-master.txt",
+        "ascii_master_preserved": true,
+        "core_stage_count": 12,
+        "card_count": 13,
+        "tiled_page_count": 4,
+        "approval": false,
+        "ascii_master_source": "manual-authored-spec",
+        "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-35-2026-08-24-sequential.json",
+        "ascii_master_spec_sha256": "93e74a07cf21100c29ab7449d36e05f67cbea6b887c265af8fd36bbf31ed0f0f"
+      },
+      "refresh_profile": "learner-v2-refreshed-new-topic"
+    }
+  ]
+}

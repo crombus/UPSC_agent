@@ -1,0 +1,14 @@
+{
+  "topic_key": "social-justice-14",
+  "locked_at": "2026-09-03T01:54:26.137045+00:00",
+  "master_tracker_identity": "social-justice-14:learner-v2:g1",
+  "generation": 1,
+  "approval": false,
+  "hashes": {
+    "markdown": "569e2ddea15079f37e4039a28dec235aab4a13b3e1f2fcd4494f5a001256eb88",
+    "main_pdf": "a87bef02055a27eb81eb925651c85189731cdf109341010e0082ce98b14d17b5",
+    "workbook": "54b0228332991aabff997fcf1acb4a5dfb721db0a2cccd7ac7d4ad3af0f46377",
+    "graphical_master": "7a6fe8db21c338bb93e0044d7958a029cd2e86e7a4e2c97e340b186f61429d88",
+    "ascii_master": "34ac208384e1fd5c42a374bf0aa796b750f382563e11cc8e06b5ee7b0fdfaa38"
+  }
+}

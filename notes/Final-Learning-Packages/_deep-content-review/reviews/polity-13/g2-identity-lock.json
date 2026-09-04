@@ -1,0 +1,109 @@
+{
+  "topic_key": "polity-13",
+  "locked_identity": "polity-13:learner-v2:g2",
+  "locked_at": "2026-08-28T05:55:08+05:30",
+  "approval": false,
+  "artifacts": {
+    "basic_owner": {
+      "path": "upsc-ai-kit\\knowledge\\Polity\\basic\\Centre-State-Relations.md",
+      "sha256": "bec6b166eace786bf55a86c0fff15532fd6b67b108f321b7e058a5233ade3332",
+      "bytes": 41856
+    },
+    "advanced_owner": {
+      "path": "upsc-ai-kit\\knowledge\\Polity\\advanced\\13_Centre-State-and-Inter-State-Relations.md",
+      "sha256": "80dd54d1d4e0c784d8df3dafd9f624634461246c888c27447f98baf8eabc070e",
+      "bytes": 14814
+    },
+    "canonical_owner": {
+      "path": "upsc-ai-kit\\knowledge\\Polity\\13_Centre-State-and-Inter-State-Relations_Complete-Topic-Package.md",
+      "sha256": "c8918a0c5385ceee4c4475bd56b23a02bbabd1808ccd4eec3a1fdf4ccd2a0244",
+      "bytes": 71143
+    },
+    "legacy_session_owner": {
+      "path": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-13_Learning-Session.md",
+      "sha256": "dee5a957df5883df1836ec342d7a59767c3d06556866e454111d16bb6fdf3ef5",
+      "bytes": 90756
+    },
+    "generated_session_md": {
+      "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.md",
+      "sha256": "ff4c5cd1f45cf850059f518952dd655847ad990db5fdad47d652dd9342298f0e",
+      "bytes": 132229
+    },
+    "generated_workbook_md": {
+      "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Solved-Practice-Workbook_2026-08-24.md",
+      "sha256": "eab3d4be859c8643a7fe56741b52412afe049159009b595ebdc2730b3bfe5c72",
+      "bytes": 33231
+    },
+    "generated_session_pdf": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Complete-Learning-Session_2026-08-24.pdf",
+      "sha256": "7471457f06c6f98292205b35566d07f2a2d4652c55902ae74fb8f83f2260f3de",
+      "bytes": 1517799,
+      "page_count": 49,
+      "blank_text_pages": 0
+    },
+    "generated_workbook_pdf": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\polity-13_Solved-Practice-Workbook_2026-08-24.pdf",
+      "sha256": "ad99f7da36602ed232f0ad797a024e5714ba6149a41522e1aea985f69c55c78a",
+      "bytes": 369281,
+      "page_count": 14,
+      "blank_text_pages": 0
+    },
+    "graphical_spec": {
+      "path": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Polity\\polity-13.json",
+      "sha256": "e037942026a0eb16dee8c6166565a4741c123a2ddf83441003ec51d44142acad",
+      "bytes": 39752
+    },
+    "ascii_spec": {
+      "path": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-13-2026-08-24-sequential.json",
+      "sha256": "6c6e5d2e320bbd91d37c8b7828871325b8bd3a32ba80966732a5043012cebb05",
+      "bytes": 14769
+    },
+    "poster_pdf": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-13\\carvaka-g2\\poster.pdf",
+      "sha256": "38ddc4a3abab8afae03029b14f7cf6a439987e45846d2beb5acfce38ed0acca0",
+      "bytes": 2007310,
+      "page_count": 1,
+      "blank_text_pages": 1
+    },
+    "tiled_pdf": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-13\\carvaka-g2\\tiled.pdf",
+      "sha256": "04bb8b64f3ad846756ae6970b482de315c5055969469ca874b225a8e6be86190",
+      "bytes": 2829242,
+      "page_count": 4,
+      "blank_text_pages": 0
+    },
+    "ascii_master": {
+      "path": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-13\\carvaka-g2\\ascii-master.txt",
+      "sha256": "e0d8a5ed113b8fb422da8dd32150146d1d5cbebe1791b7ce934d15e105f8cc9c",
+      "bytes": 5485
+    },
+    "final_session": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\13-Centre-State-and-Inter-State-Relations\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+      "sha256": "7471457f06c6f98292205b35566d07f2a2d4652c55902ae74fb8f83f2260f3de",
+      "bytes": 1517799,
+      "page_count": 49,
+      "blank_text_pages": 0
+    },
+    "final_workbook": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\13-Centre-State-and-Inter-State-Relations\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+      "sha256": "ad99f7da36602ed232f0ad797a024e5714ba6149a41522e1aea985f69c55c78a",
+      "bytes": 369281,
+      "page_count": 14,
+      "blank_text_pages": 0
+    },
+    "final_poster": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\13-Centre-State-and-Inter-State-Relations\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+      "sha256": "38ddc4a3abab8afae03029b14f7cf6a439987e45846d2beb5acfce38ed0acca0",
+      "bytes": 2007310,
+      "page_count": 1,
+      "blank_text_pages": 1
+    },
+    "final_ascii": {
+      "path": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\13-Centre-State-and-Inter-State-Relations\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+      "sha256": "3aa7a57b0439633f73b77297551bff973543a13c0543c7d4d7fc8f429d09b49d",
+      "bytes": 54859,
+      "page_count": 9,
+      "blank_text_pages": 0
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-18",
+  "identity": "polity-18:learner-v2:g2",
+  "reviewed_on": "2026-08-28T08:04:10.445+05:30",
+  "approval": false,
+  "status": "changes_suggested",
+  "score": {
+    "complete_learning_session": 29,
+    "solved_workbook": 20,
+    "graphical_flowchart": 11,
+    "ascii_flowchart": 11,
+    "total": 71
+  },
+  "issue_counts": {
+    "critical": 0,
+    "high": 4,
+    "medium": 3,
+    "low": 0
+  },
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": false,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": false,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": false,
+    "current_data_source_dated": false
+  },
+  "issues": [
+    {
+      "id": "POL18-G2-01",
+      "severity": "high",
+      "artifact": "session",
+      "issue": "Generated teaching aids use tautological and grammatically broken template prose instead of accessible topic definitions.",
+      "repair": "Add exact semantic controls for all 26 Core sessions and regenerate."
+    },
+    {
+      "id": "POL18-G2-02",
+      "severity": "high",
+      "artifact": "workbook",
+      "issue": "The 48 baseline MCQ keys are non-rotating despite the strict A-B-C-D requirement.",
+      "repair": "Regenerate from parsed MCQ fields and verify ABCD x 12 without prose mutation."
+    },
+    {
+      "id": "POL18-G2-03",
+      "severity": "high",
+      "artifact": "workbook",
+      "issue": "Fifteen model answers lack separate Why this earns marks and answer-specific How to improve guidance.",
+      "repair": "Add distinct executable guidance for all eight routed PYQs and seven original models."
+    },
+    {
+      "id": "POL18-G2-04",
+      "severity": "high",
+      "artifact": "flows",
+      "issue": "Nine compressed panels do not independently reconstruct all personnel, jurisdiction, accountability, PIL and delivery routes across 26 Core sessions.",
+      "repair": "Replace with twelve matching Core panels/stages and a final synthesis."
+    },
+    {
+      "id": "POL18-G2-05",
+      "severity": "medium",
+      "artifact": "sources",
+      "issue": "Current control omits exact working strength although the official roster can be counted; the manifest has placeholder syllabus and empty source/PYQ ownership.",
+      "repair": "Date the 34-judge working roster to 28 August 2026 and complete the manifest ledger."
+    },
+    {
+      "id": "POL18-G2-06",
+      "severity": "medium",
+      "artifact": "sources",
+      "issue": "Advanced wording calls removal impeachment and imprecisely attributes all charged expenditure.",
+      "repair": "Use constitutional removal terminology and separate Article 112 salary charging, Article 125 condition protection and Article 146 administration."
+    },
+    {
+      "id": "POL18-G2-07",
+      "severity": "medium",
+      "artifact": "flows",
+      "issue": "Graphical status says g2 was repaired in place, weakening immutable-generation provenance.",
+      "repair": "Create a collision-free new generation and derive all metadata from it."
+    }
+  ],
+  "baseline_metrics": {
+    "session_pages": 76,
+    "workbook_pages": 18,
+    "poster_pages": 1,
+    "tiled_pages": 4,
+    "ascii_pages": 9,
+    "core_sessions": 26,
+    "mcq_keys": 48,
+    "why_guidance": 0,
+    "how_guidance": 0,
+    "graphical_core_stages": 9,
+    "ascii_panels": 9
+  },
+  "identity_lock": "g2-identity-lock.json"
+}

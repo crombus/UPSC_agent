@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "polity-16-g6-final",
+  "validated_on": "2026-08-28T09:00:00+05:30",
+  "selection": "polity-16-g6-deep-content-revalidation",
+  "topic_count": 1,
+  "passed": true,
+  "errors": [],
+  "topics": [
+    {
+      "topic_key": "polity-16",
+      "record_id": "polity-16:learner-v2:g6",
+      "generation": 6,
+      "passed": true,
+      "errors": [],
+      "tests_passed": 38,
+      "content_review_status": "passed",
+      "hard_gates_passed": true
+    }
+  ]
+}

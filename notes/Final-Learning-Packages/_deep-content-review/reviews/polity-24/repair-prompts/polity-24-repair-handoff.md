@@ -1,0 +1,3 @@
+# Polity-24 repair handoff
+
+Use `polity-24:learner-v2:g2` only as the immutable baseline. Rebuild the reviewed source with 48 named Core sessions before Optional Advanced. Verify the full Part IXA chain, 74th Amendment, Twelfth Schedule, urban forms, SEC/SFC, DPC/MPC, finance, current reforms, judgments and every routed PYQ. Generate strict `ABCD × 12` MCQs, eleven answer-specific Why/How pairs, twelve ASCII panels and twelve factually matching Core graphical stages plus one clearly optional card. Eliminate inherited semantic filler, ellipses, stale totals and lines over 100 characters. Approval remains false.
