@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-08",
+  "generation": 5,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-08\\topic-08_Complete-Learning-Session_2026-08-22.md",
+  "master_dimensions": [
+    3600,
+    2106
+  ],
+  "stages": [
+    {
+      "title": "CONTEMPORARY INDIA ANCHOR — CONSTITUTIONAL MORALITY AND RELIGIOUS PRACTICE [SUPPORTING]",
+      "terms": "Contemporary India anchor — constitutional morality and religious practice [SUPPORTING]: ✅ Fact: Reporting on the 2026 Sabarimala review hearings describes the Supreme Court’s renewed examination of equality, religious freedom, essential religious practices and constitutional morality.",
+      "mechanism": "⚠️ Inference: The controversy illustrates the owner’s interaction thesis: morality may be shaped by religion, while public moral principles may also criticise religious practices.",
+      "consequence": "It does not by itself settle the philosophical question whether morality is grounded in religion.",
+      "trap": "It does not by itself settle the philosophical question whether morality is grounded in religion.",
+      "answer": "✅ Fact: Reporting on the 2026 Sabarimala review hearings describes the Supreme Court’s renewed examination of equality, religious freedom, essential religious practices and constitutional morality."
+    },
+    {
+      "title": "VISUAL GATEWAY — IDENTIFY THE RELATION BEFORE ARGUING",
+      "terms": "Visual gateway — identify the relation before arguing: Master verdict: Morality is not conceptually reducible to religion, but religion can supply motivation, formation and cosmic significance; morality in turn remains an indispensable internal and external critic of religious life.",
+      "mechanism": "The dependence view holds that morality requires religion for its authority, motivation or ultimate sanction, but these three claims must be assessed separately.",
+      "consequence": "Master verdict: Morality is not conceptually reducible to religion, but religion can supply motivation, formation and cosmic significance; morality in turn remains an indispensable internal and external critic of religious life.",
+      "trap": "Master verdict: Morality is not conceptually reducible to religion, but religion can supply motivation, formation and cosmic significance; morality in turn remains an indispensable internal and external critic of religious life.",
+      "answer": "Moral obligation can be grounded independently in reason, welfare, virtue, human dignity or the reduction of suffering, even when religion strengthens motivation."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2106,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 2
+    }
+  ]
+}

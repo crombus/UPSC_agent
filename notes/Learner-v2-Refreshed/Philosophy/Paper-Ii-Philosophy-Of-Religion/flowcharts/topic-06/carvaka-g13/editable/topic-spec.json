@@ -1,0 +1,775 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-06",
+  "subject": "Philosophy",
+  "title": "RELIGIOUS EXPERIENCE: NATURE AND OBJECT",
+  "short_route": "THREE-QUESTION METHOD → WILLIAM JAMES → RUDOLF OTTO AND THE → ADVAITA AND RADHAKRISHNAN → OBJECT MODELS → VERIDICALITY TESTS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g13 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g13\\topic-06_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy-paper-ii-philosophy-of-religion-06-ascii-g13-2026-09-03.json",
+  "ascii_spec_sha256": "e12714db1b192eab33aa735e5f05eade7f788c0884931271ca76266c7ad71659",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THREE-QUESTION METHOD",
+      "structural_type": "experience analysis gateway",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THREE-QUESTION METHOD",
+          "role": "primary"
+        },
+        {
+          "text": "RELIGIOUS EXPERIENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "1 PHENOMENOLOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "WHAT IS IT LIKE?",
+          "role": "evidence"
+        },
+        {
+          "text": "2 OBJECT",
+          "role": "primary"
+        },
+        {
+          "text": "WHAT IS EXPERIENCED — GOD, THE HOLY, BRAHMAN, EMPTINESS",
+          "role": "outcome"
+        },
+        {
+          "text": "3 EPISTEMIC FORCE",
+          "role": "comparison"
+        },
+        {
+          "text": "DOES SEEMING-TO-ENCOUNTER JUSTIFY BELIEF?",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RELIGIOUS EXPERIENCE",
+        "1 PHENOMENOLOGY: what is it like?",
+        "2 OBJECT: what is experienced — God, the Holy, Brahman, emptiness, unity?",
+        "3 EPISTEMIC FORCE: does seeming-to-encounter justify belief?",
+        "TYPES: mystical unity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "RELIGIOUS EXPERIENCE",
+            "1 PHENOMENOLOGY: what is it like?",
+            "2 OBJECT: what is experienced — God, the Holy, Brahman, emptiness, unity?"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "3 EPISTEMIC FORCE: does seeming-to-encounter justify belief?",
+            "TYPES: mystical unity",
+            "numinous encounter"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "prayer/worship revelatory vision",
+            "non-dual awareness",
+            "CONTROL: intensity and sincerity establish occurrence, not automatically veridical object."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Analyse religious experience through phenomenology, claimed object, interpretation and epistemic force; sincerity never settles veridicality.",
+      "source_references": [
+        "A. Three-question method"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "WILLIAM JAMES",
+      "structural_type": "four-mark phenomenology",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WILLIAM JAMES",
+          "role": "primary"
+        },
+        {
+          "text": "JAMES'S MARKS OF MYSTICAL EXPERIENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "CANNOT BE ADEQUATELY STATED",
+          "role": "comparison"
+        },
+        {
+          "text": "NOETIC QUALITY",
+          "role": "evidence"
+        },
+        {
+          "text": "FELT AS INSIGHT OR KNOWLEDGE",
+          "role": "primary"
+        },
+        {
+          "text": "USUALLY BRIEF",
+          "role": "outcome"
+        },
+        {
+          "text": "RECEIVED RATHER THAN FULLY PRODUCED BY WILL",
+          "role": "comparison"
+        },
+        {
+          "text": "“FRUITS, NOT ROOTS”",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "JAMES'S MARKS OF MYSTICAL EXPERIENCE",
+        "INEFFABILITY: cannot be adequately stated",
+        "NOETIC QUALITY: felt as insight or knowledge",
+        "TRANSIENCY: usually brief",
+        "PASSIVITY: received rather than fully produced by will"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "JAMES'S MARKS OF MYSTICAL EXPERIENCE",
+            "INEFFABILITY: cannot be adequately stated",
+            "NOETIC QUALITY: felt as insight or knowledge"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRANSIENCY: usually brief",
+            "PASSIVITY: received rather than fully produced by will",
+            "“fruits, not roots”: assess transformation in life, not only origin theory authority is strongest for experiencer, not coercively"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "binding on outsiders plural experiences support openness, but diverse objects complicate doctrinal proof."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "James grades ineffability and noetic quality as defining, transiency and passivity as usual, and fruits as pragmatic rather than metaphysical tests.",
+      "source_references": [
+        "B. William James"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "RUDOLF OTTO AND THE NUMINOUS",
+      "structural_type": "mysterium branch",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RUDOLF OTTO AND THE NUMINOUS",
+          "role": "primary"
+        },
+        {
+          "text": "THE NUMINOUS",
+          "role": "outcome"
+        },
+        {
+          "text": "MYSTERIUM TREMENDUM ET FASCINANS MYSTERIUM",
+          "role": "comparison"
+        },
+        {
+          "text": "WHOLLY OTHER, BEYOND ORDINARY GRASP TREMENDUM",
+          "role": "evidence"
+        },
+        {
+          "text": "AWE, MAJESTY, CREATURE-FEELING, DREAD FASCINANS",
+          "role": "primary"
+        },
+        {
+          "text": "ATTRACTION, GRACE, COMPELLING VALUE",
+          "role": "outcome"
+        },
+        {
+          "text": "“HOLY” INCLUDES NON-RATIONAL NUMINOUS DEPTH PLUS MORAL/RATIONAL DEVELOPMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "AUTOMATICALLY GOD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THE NUMINOUS = MYSTERIUM TREMENDUM ET FASCINANS mysterium: wholly other, beyond ordinary grasp tremendum: awe",
+        "fascinans: attraction, grace, compelling value",
+        "“Holy” includes non-rational numinous depth plus moral/rational development",
+        "SACRED != automatically God: an object, place or event may mediate the Holy objection: description",
+        "trained emotion into an external object."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "THE NUMINOUS = MYSTERIUM TREMENDUM ET FASCINANS mysterium: wholly other, beyond ordinary grasp tremendum: awe, majesty, creature-feeling, dread",
+            "fascinans: attraction, grace, compelling value"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "“Holy” includes non-rational numinous depth plus moral/rational development",
+            "SACRED != automatically God: an object, place or event may mediate the Holy objection: description can reify culturally"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "trained emotion into an external object.",
+            "THE NUMINOUS = MYSTERIUM TREMENDUM ET FASCINANS mysterium: wholly other, beyond ordinary grasp tremendum: awe, majesty, creature-feeling, dread"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Otto's numinous combines overwhelming mystery and attraction; its phenomenological distinctiveness does not independently prove a Holy object.",
+      "source_references": [
+        "C. Rudolf Otto",
+        "E. Sacred, Holy and God"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ADVAITA AND RADHAKRISHNAN",
+      "structural_type": "non-dual realisation map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ADVAITA AND RADHAKRISHNAN",
+          "role": "primary"
+        },
+        {
+          "text": "APAROKṢĀNUBHŪTI IS IMMEDIATE KNOWLEDGE OF NON-DUAL BRAHMAN NOT SUBJECT",
+          "role": "caution"
+        },
+        {
+          "text": "LIBERATING KNOWLEDGE",
+          "role": "comparison"
+        },
+        {
+          "text": "INTEGRAL INTUITION DISCLOSES SPIRITUAL UNITY AND GROUNDS TOLERANCE STRENGTH",
+          "role": "evidence"
+        },
+        {
+          "text": "EXPERIENCE IS TRANSFORMATIVE AND NON-INFERENTIAL PRESSURE",
+          "role": "primary"
+        },
+        {
+          "text": "INEFFABILITY VS DOCTRINAL DESCRIPTION; PRIVATE CERTAINTY VS PUBLIC ADJUDICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVAITA INTERPRETATION MAY BE ONE CONCEPTUAL CONSTRUCTION AMONG RELIGIOUS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ADVAITA: aparokṣānubhūti is immediate knowledge of non-dual Brahman not subject seeing divine object",
+        "subject-object division is sublated śravaṇa → manana → nididhyāsana → liberating knowledge",
+        "RADHAKRISHNAN: integral intuition discloses spiritual unity and grounds tolerance strength: experience is transformative and non-inferential",
+        "private certainty vs public adjudication",
+        "Advaita interpretation may be one conceptual construction among religious traditions."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "ADVAITA: aparokṣānubhūti is immediate knowledge of non-dual Brahman not subject seeing divine object",
+            "subject-object division is sublated śravaṇa → manana → nididhyāsana → liberating knowledge"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RADHAKRISHNAN: integral intuition discloses spiritual unity and grounds tolerance strength: experience is transformative and non-inferential pressure: ineffability vs",
+            "private certainty vs public adjudication"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "Advaita interpretation may be one conceptual construction among religious traditions.",
+            "ADVAITA: aparokṣānubhūti is immediate knowledge of non-dual Brahman not subject seeing divine object"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Advaita claims non-dual identity, Radhakrishnan integral intuition, Yoga disciplined absorption and devotional traditions relation to a personal Lord.",
+      "source_references": [
+        "D. Advaita and Radhakrishnan"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "OBJECT MODELS",
+      "structural_type": "object-of-experience comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "OBJECT MODELS",
+          "role": "primary"
+        },
+        {
+          "text": "MODEL WHAT EXPERIENCE PRESENTS PERSONAL THEISM AN ADDRESSIVE “THOU,”",
+          "role": "outcome"
+        },
+        {
+          "text": "OTTO NUMINOUS HOLY",
+          "role": "comparison"
+        },
+        {
+          "text": "WHOLLY OTHER",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVAITA NON-DUAL BRAHMAN; NO FINAL SUBJECT-OBJECT SPLIT",
+          "role": "caution"
+        },
+        {
+          "text": "BUDDHISM EMPTINESS, CESSATION OR SUCHNESS WITHOUT CREATOR NATURALISM ALTERED",
+          "role": "outcome"
+        },
+        {
+          "text": "SAME PHENOMENOLOGICAL REPORT MAY UNDERDETERMINE ONTOLOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "OBJECT-CLAIM NEEDS INTERPRETATION BEYOND RAW IMMEDIACY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MODEL WHAT EXPERIENCE PRESENTS personal theism an addressive “Thou,” grace, command, presence",
+        "Otto numinous Holy / wholly other",
+        "Advaita non-dual Brahman; no final subject-object split",
+        "Buddhism emptiness, cessation or suchness without creator naturalism altered brain/body state interpreted religiously",
+        "SAME phenomenological report may underdetermine ontology"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "MODEL WHAT EXPERIENCE PRESENTS personal theism an addressive “Thou,” grace, command, presence",
+          "Advaita non-dual Brahman; no final subject-object split",
+          "SAME phenomenological report may underdetermine ontology"
+        ],
+        [
+          "Otto numinous Holy / wholly other",
+          "Buddhism emptiness, cessation or suchness without creator naturalism altered brain/body state interpreted religiously",
+          "object-claim needs interpretation beyond raw immediacy."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "MODEL WHAT EXPERIENCE PRESENTS personal theism an addressive “Thou,” grace, command, presence",
+            "Otto numinous Holy / wholly other"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "Advaita non-dual Brahman; no final subject-object split",
+            "Buddhism emptiness, cessation or suchness without creator naturalism altered brain/body state interpreted religiously"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "SAME phenomenological report may underdetermine ontology",
+            "object-claim needs interpretation beyond raw immediacy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "God, the Holy, Brahman and Dharma-oriented cessation are different object models, not interchangeable names for one uncontested referent.",
+      "source_references": [
+        "E. Sacred, Holy and God"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "VERIDICALITY TESTS",
+      "structural_type": "epistemic filter chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "VERIDICALITY TESTS",
+          "role": "primary"
+        },
+        {
+          "text": "SWINBURNE PRINCIPLE OF CREDULITY",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCEPT SEEMING APPEARANCE UNLESS DEFEATED",
+          "role": "comparison"
+        },
+        {
+          "text": "PRINCIPLE OF TESTIMONY",
+          "role": "evidence"
+        },
+        {
+          "text": "GENERALLY TRUST REPORTS UNLESS THERE IS REASON NOT TO",
+          "role": "caution"
+        },
+        {
+          "text": "PRIOR IMPLAUSIBILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "UNRELIABLE SETTING POSITIVE CHECKS",
+          "role": "comparison"
+        },
+        {
+          "text": "MORAL FRUIT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SWINBURNE PRINCIPLE OF CREDULITY: accept seeming appearance unless defeated",
+        "PRINCIPLE OF TESTIMONY: generally trust reports unless there is reason not to",
+        "DEFEATERS: drugs/pathology",
+        "prior implausibility",
+        "unreliable setting positive checks: coherence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "SWINBURNE PRINCIPLE OF CREDULITY: accept seeming appearance unless defeated",
+            "PRINCIPLE OF TESTIMONY: generally trust reports unless there is reason not to",
+            "DEFEATERS: drugs/pathology",
+            "prior implausibility"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "unreliable setting positive checks: coherence",
+            "moral fruit",
+            "intersubjective fit",
+            "predictive/explanatory value"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "ALSTON: socially established doxastic practice may confer prima facie justification objection: incompatible religious practices cannot all validate exclusive",
+            "objects unchanged."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Credulity and testimony give defeasible warrant; diversity, unreliability and contrary evidence can defeat it.",
+      "source_references": [
+        "F. Veridicality tests",
+        "I. Epistemic models"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CRITICISMS, REPLIES AND PUBLIC LIFE",
+      "structural_type": "dialectic-to-practice panel",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CRITICISMS, REPLIES AND PUBLIC LIFE",
+          "role": "primary"
+        },
+        {
+          "text": "SOCIAL CONSOLATION",
+          "role": "outcome"
+        },
+        {
+          "text": "NEURAL CORRELATE PLURALISM",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTRADICTORY INTERPRETATIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "NO COMMUNICABLE EVIDENCE REPLIES",
+          "role": "caution"
+        },
+        {
+          "text": "CAUSAL EXPLANATION DOES NOT EQUAL DEBUNKING; ALL PERCEPTION HAS",
+          "role": "caution"
+        },
+        {
+          "text": "FRUITS AND DISCIPLINED PRACTICES MAY DISTINGUISH MATURE EXPERIENCE FROM",
+          "role": "comparison"
+        },
+        {
+          "text": "PETITION, GRATITUDE, SURRENDER, CONTEMPLATION PUBLIC USE MUST BE MODEST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FREUD: wish-fulfilment",
+        "MARX: social consolation",
+        "neuroscience: neural correlate pluralism: contradictory interpretations",
+        "ineffability: no communicable evidence replies: causal explanation does not equal debunking; all perception has neural",
+        "fruits and disciplined practices may distinguish mature experience from fantasy prayer/worship test object-relations: petition, gratitude"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "FREUD: wish-fulfilment",
+            "MARX: social consolation"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "neuroscience: neural correlate pluralism: contradictory interpretations",
+            "ineffability: no communicable evidence replies: causal explanation does not equal debunking; all perception has neural correlates"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "fruits and disciplined practices may distinguish mature experience from fantasy prayer/worship test object-relations: petition, gratitude, surrender, contemplation public",
+            "use must be modest: experience may justify commitment without authorising coercion."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Naturalistic explanation does not automatically debunk, and public discussion of reports does not convert private warrant into public proof.",
+      "source_references": [
+        "G. Public discourse",
+        "H. Prayer and worship",
+        "J. Main criticisms and replies"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "synthesis",
+      "title": "PYQ ANSWER SPINE",
+      "structural_type": "phenomenology-evidence synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE TYPE",
+          "role": "outcome"
+        },
+        {
+          "text": "DESCRIBE PHENOMENOLOGY WITH JAMES/OTTO",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIFY CLAIMED OBJECT",
+          "role": "evidence"
+        },
+        {
+          "text": "DISTINGUISH EXPERIENCE FROM INTERPRETATION",
+          "role": "primary"
+        },
+        {
+          "text": "APPLY CREDULITY/TESTIMONY AND DEFEATERS",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPARE ADVAITA/THEISM/BUDDHISM",
+          "role": "comparison"
+        },
+        {
+          "text": "STRONGEST NATURALIST OR PLURALIST OBJECTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINE type → describe phenomenology with James/Otto → specify claimed object",
+        "distinguish experience from interpretation → apply credulity/testimony and defeaters",
+        "compare Advaita/theism/Buddhism → strongest naturalist or pluralist objection",
+        "reply → qualified public verdict",
+        "CLOSE: religious experience is significant evidence within a life and practice, but its object is"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "DEFINE type → describe phenomenology with James/Otto → specify claimed object",
+            "distinguish experience from interpretation → apply credulity/testimony and defeaters"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "compare Advaita/theism/Buddhism → strongest naturalist or pluralist objection",
+            "reply → qualified public verdict"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "CLOSE: religious experience is significant evidence within a life and practice, but its object is not read straight off the feeling",
+            "interpretation and defeater control remain."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A complete answer separates occurrence, interpretation and truth, compares Indian/Western structures and closes with a graded evidential verdict.",
+      "source_references": [
+        "K. Eight PYQ routes",
+        "L. Final answer discipline"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED-DOSSIER RECONCILIATION — [OPTIONAL ADVANCED]",
+          "role": "outcome"
+        },
+        {
+          "text": "DOCTRINE STATEMENT.",
+          "role": "comparison"
+        },
+        {
+          "text": "MYSTICAL STATES ARE MARKED BY INEFFABILITY AND NOETIC QUALITY",
+          "role": "evidence"
+        },
+        {
+          "text": "THEIR AUTHORITY IS STRONGEST FOR THE SUBJECT AND TESTED",
+          "role": "primary"
+        },
+        {
+          "text": "JAMES GATHERS FIRST-PERSON REPORTS, IDENTIFIES RECURRENT PHENOMENOLOGICAL FEATURES, AND",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESUPPOSITION. CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "FIRST-PERSON TESTIMONY IS LEGITIMATE DATA AND PRAGMATIC TRANSFORMATION IS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "Advanced-dossier reconciliation — [OPTIONAL ADVANCED]",
+            "Doctrine statement.",
+            "Mystical states are marked by ineffability and noetic quality, with transiency and passivity as usual additional marks",
+            "their authority is strongest for the subject and tested pragmatically by fruits."
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "Argument.",
+            "James gathers first-person reports, identifies recurrent phenomenological features, and refuses to reduce their value to pathological origins because",
+            "Presupposition. CAUTION: First-person testimony is legitimate data and pragmatic transformation is evidentially relevant.",
+            "Distinction. Noetic quality means experienced insight, not independently demonstrated knowledge."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Canonical example. Conversion reorganises a divided self and is assessed through enduring moral integration.",
+            "Objection → reply.",
+            "CAUTION: Private certainty cannot establish a public object.",
+            "James restricts coercive authority: the experience may rationally authorise the experiencer without binding outsiders."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

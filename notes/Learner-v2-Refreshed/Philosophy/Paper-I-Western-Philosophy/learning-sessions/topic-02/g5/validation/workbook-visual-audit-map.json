@@ -1,0 +1,172 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g5\\topic-02_Solved-Practice-Workbook_2026-09-02.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g5\\topic-02_Solved-Practice-Workbook_2026-09-02.pdf",
+  "mode": "workbook",
+  "topic_key": "philosophy-paper-i-western-philosophy-02",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 172,
+      "markdown_body_line_end": 180,
+      "heading": "Rapid recall - comparison and answer grid",
+      "preview": "Trigger | First route",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Trigger",
+          "First route"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 571.191
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 398.19
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 193,
+      "markdown_body_line_end": 193,
+      "heading": "ORIGINAL MCQ MASTERY SET - EXACTLY 40 QUESTIONS",
+      "preview": "Questions 1-24 preserve the core themes; Questions 25-40 provide remediation across recurring confusions. Correct answers rotate strictly A -> B -> C -> D ten times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 302.89
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 258.222
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1109,
+      "markdown_body_line_end": 1111,
+      "heading": "Practice Design",
+      "preview": "DIRECTIVE -> THESIS -> DOCTRINE -> NAMED TEXT/EXAMPLE -> OBJECTION/REPLY -> VERDICT",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 751.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 730.891
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1115,
+      "markdown_body_line_end": 1115,
+      "heading": "SOLVED PYQ BANK - EXACTLY 14 VERIFIED RATIONALISM QUESTIONS",
+      "preview": "Exact wording, year and marks are parsed from the continuous local Western Philosophy Paper I bank for 2018-2025. The set contains two Rationalism-owned questions in each covered year and none in 2021.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 705.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 661.224
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1149,
+      "markdown_body_line_end": 1153,
+      "heading": "Solved PYQ 2 - 2018 Q2(a), 20 marks",
+      "preview": "Revision | Criterion enforced | Result",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Revision",
+          "Criterion enforced",
+          "Result"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 494.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 406.49
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1421,
+      "markdown_body_line_end": 1424,
+      "heading": "Practice 3 - 20 marks",
+      "preview": "Movement | Problem solved | New problem generated",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Movement",
+          "Problem solved",
+          "New problem generated"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 407.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 318.29
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    }
+  ]
+}

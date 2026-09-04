@@ -1,0 +1,810 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-03",
+  "subject": "Philosophy",
+  "title": "PROBLEM OF EVIL",
+  "short_route": "FORMS OF EVIL → LOGICAL PROBLEM AND DEFENCE → SOUL-MAKING AND NATURAL ORDER → LEIBNIZ, AUGUSTINE AND PROCESS → EVIDENTIAL EVIL → INDIAN RESPONSE MATRIX",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g12 repaired in place; prior artifacts unchanged outside the scoped current generation"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g12\\topic-03_Complete-Learning-Session_2026-08-23.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy-2026-08-23.json",
+  "ascii_spec_sha256": "e63024680b7d5d533aa883522db37d9b5a5422a860f7e0e78f96da1e8816180d",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FORMS OF EVIL",
+      "structural_type": "problem taxonomy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FORMS OF EVIL",
+          "role": "primary"
+        },
+        {
+          "text": "FREELY CAUSED CRUELTY, OPPRESSION, BETRAYAL",
+          "role": "outcome"
+        },
+        {
+          "text": "DISEASE, EARTHQUAKE, CONGENITAL SUFFERING",
+          "role": "comparison"
+        },
+        {
+          "text": "SUFFERING THAT THREATENS LIFE'S OVERALL MEANING",
+          "role": "evidence"
+        },
+        {
+          "text": "PAIN PREDATING HUMAN AGENCY",
+          "role": "primary"
+        },
+        {
+          "text": "PROBLEM TYPES LOGICAL",
+          "role": "outcome"
+        },
+        {
+          "text": "GOD AND EVIL ARE STRICTLY INCONSISTENT EVIDENTIAL",
+          "role": "comparison"
+        },
+        {
+          "text": "AMOUNT/KINDS OF EVIL MAKE GOD IMPROBABLE EXISTENTIAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "moral: freely caused cruelty, oppression, betrayal",
+        "natural: disease, earthquake, congenital suffering",
+        "horrendous: suffering that threatens life's overall meaning",
+        "animal/evolutionary: pain predating human agency",
+        "PROBLEM TYPES logical: God and evil are strictly inconsistent evidential: amount/kinds of evil make God"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "moral: freely caused cruelty, oppression, betrayal",
+            "natural: disease, earthquake, congenital suffering"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "horrendous: suffering that threatens life's overall meaning",
+            "animal/evolutionary: pain predating human agency"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "PROBLEM TYPES logical: God and evil are strictly inconsistent evidential: amount/kinds of evil make God improbable existential: suffering",
+            "disrupts trust, worship and meaning."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "High-value transition: Animal suffering is a central evidential challenge because predation, disease, parasitism and extinction precede human agency and often seem unrelated to moral growth.",
+      "source_references": [
+        "A. Argument forms at a glance",
+        "B. Distinctions that earn marks"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "LOGICAL PROBLEM AND DEFENCE",
+      "structural_type": "inconsistency-to-compatibility tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LOGICAL PROBLEM AND DEFENCE",
+          "role": "primary"
+        },
+        {
+          "text": "CLAIMED SET",
+          "role": "outcome"
+        },
+        {
+          "text": "OMNIPOTENT GOD + OMNISCIENT GOD + PERFECTLY GOOD GOD",
+          "role": "comparison"
+        },
+        {
+          "text": "A GOOD, POWERFUL BEING ELIMINATES EVERY EVIL IT CAN",
+          "role": "evidence"
+        },
+        {
+          "text": "PLANTINGA FREE-WILL DEFENCE SIGNIFICANT FREEDOM",
+          "role": "primary"
+        },
+        {
+          "text": "POSSIBILITY OF MORAL WRONG",
+          "role": "outcome"
+        },
+        {
+          "text": "GOD CANNOT CAUSE A CREATURE TO CHOOSE FREELY AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "COMPATIBILITY IS DEFENDED; ACTUAL QUANTITY OF EVIL IS NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CLAIMED SET: omnipotent God + omniscient God + perfectly good God + evil exists missing",
+        "PLANTINGA FREE-WILL DEFENCE significant freedom → possibility of moral wrong",
+        "God cannot cause a creature to choose freely and guarantee only right choices transworld depravity",
+        "RESULT: compatibility is defended; actual quantity of evil is not thereby explained."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CLAIMED SET: omnipotent God + omniscient God + perfectly good God + evil exists missing premise: a good, powerful being eliminates every evil it can",
+            "PLANTINGA FREE-WILL DEFENCE significant freedom → possibility of moral wrong"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "God cannot cause a creature to choose freely and guarantee only right choices transworld depravity shows logical possibility of unavoidable misuse",
+            "RESULT: compatibility is defended; actual quantity of evil is not thereby explained."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "CLAIMED SET: omnipotent God + omniscient God + perfectly good God + evil exists missing premise: a good, powerful being eliminates every evil it can",
+            "PLANTINGA FREE-WILL DEFENCE significant freedom → possibility of moral wrong"
+          ]
+        }
+      ],
+      "mechanism_strip": "RESULT: compatibility is defended; actual quantity of evil is not thereby explained.",
+      "answer_line": "Free-will defence establishes possible compatibility between God and moral evil, not a complete explanation of actual suffering.",
+      "source_references": [
+        "A. Argument forms at a glance",
+        "C. Western response bank"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SOUL-MAKING AND NATURAL ORDER",
+      "structural_type": "developmental theodicy chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SOUL-MAKING AND NATURAL ORDER",
+          "role": "primary"
+        },
+        {
+          "text": "JOHN HICK EPISTEMIC DISTANCE + STABLE NATURAL LAWS +",
+          "role": "outcome"
+        },
+        {
+          "text": "GENUINE AGENCY STRUGGLE",
+          "role": "comparison"
+        },
+        {
+          "text": "COURAGE, COMPASSION, RESPONSIBILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "PERSON-MAKING STRENGTH",
+          "role": "primary"
+        },
+        {
+          "text": "ADDRESSES WHY A READY-MADE PARADISE MAY DEFEAT MATURE FREEDOM",
+          "role": "outcome"
+        },
+        {
+          "text": "VICTIMS USED AS MEANS; SUFFERING IS EXCESSIVE AND UNEVEN",
+          "role": "comparison"
+        },
+        {
+          "text": "INFANTS, ANIMALS AND HORRORS DO NOT RELIABLY IMPROVE SUFFERERS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "IRENAEUS / JOHN HICK epistemic distance + stable natural laws + risk → genuine agency",
+        "suffering is excessive and uneven",
+        "infants, animals and horrors do not reliably improve sufferers reply requires afterlife fulfilment/universal restoration, which"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "IRENAEUS / JOHN HICK epistemic distance + stable natural laws + risk → genuine agency struggle → courage,",
+            "suffering is excessive and uneven"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "infants, animals and horrors do not reliably improve sufferers reply requires afterlife fulfilment/universal restoration, which adds further commitments.",
+            "IRENAEUS / JOHN HICK epistemic distance + stable natural laws + risk → genuine agency struggle → courage,"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "suffering is excessive and uneven",
+            "infants, animals and horrors do not reliably improve sufferers reply requires afterlife fulfilment/universal restoration, which adds further commitments."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Soul-making gains moral depth from stable natural order, but it risks treating victims' suffering as an instrument for others' development.",
+      "source_references": [
+        "C. Western response bank"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "LEIBNIZ, AUGUSTINE AND PROCESS REVISIONS",
+      "structural_type": "response family comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LEIBNIZ, AUGUSTINE AND PROCESS REVISIONS",
+          "role": "mechanism"
+        },
+        {
+          "text": "EVIL IS PRIVATIO BONI, NOT A CREATED SUBSTANCE; MISUSE",
+          "role": "caution"
+        },
+        {
+          "text": "BEST POSSIBLE WORLD BALANCES LAWS, FREEDOM AND TOTAL COMPOSSIBILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "GOD MAY PERMIT EVIL FOR A GREATER GOOD, NEVER",
+          "role": "evidence"
+        },
+        {
+          "text": "PROCESS THEISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "GOD PERSUADES BUT CANNOT UNILATERALLY PREVENT EVERY EVENT",
+          "role": "outcome"
+        },
+        {
+          "text": "PRIVATION DOES NOT LESSEN FELT HORROR; “BEST” CAN SEEM",
+          "role": "caution"
+        },
+        {
+          "text": "GREATER-GOOD REASONING RISKS INSTRUMENTALISING VICTIMS; PROCESS VIEW REVISES OMNIPOTENCE.",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "AUGUSTINE: evil is privatio boni, not a created substance; misuse of freedom disorders good",
+        "LEIBNIZ: best possible world balances laws, freedom and total compossibility",
+        "AQUINAS: God may permit evil for a greater good, never will evil as evil",
+        "PROCESS THEISM: God persuades but cannot unilaterally prevent every event",
+        "COSTS: privation does not lessen felt horror; “best” can seem complacent"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "AUGUSTINE: evil is privatio boni, not a created substance; misuse of freedom disorders good",
+          "AQUINAS: God may permit evil for a greater good, never will evil as evil",
+          "COSTS: privation does not lessen felt horror; “best” can seem complacent"
+        ],
+        [
+          "LEIBNIZ: best possible world balances laws, freedom and total compossibility",
+          "PROCESS THEISM: God persuades but cannot unilaterally prevent every event",
+          "greater-good reasoning risks instrumentalising victims; process view revises omnipotence."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "AUGUSTINE: evil is privatio boni, not a created substance; misuse of freedom disorders good",
+            "LEIBNIZ: best possible world balances laws, freedom and total compossibility"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "AQUINAS: God may permit evil for a greater good, never will evil as evil",
+            "PROCESS THEISM: God persuades but cannot unilaterally prevent every event"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "COSTS: privation does not lessen felt horror; “best” can seem complacent",
+            "greater-good reasoning risks instrumentalising victims; process view revises omnipotence."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Augustine denies evil positive substance, while process revisions reduce divine control; each response resolves one pressure by accepting another cost.",
+      "source_references": [
+        "C. Western response bank"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "EVIDENTIAL EVIL",
+      "structural_type": "probability balance",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "EVIDENTIAL EVIL",
+          "role": "primary"
+        },
+        {
+          "text": "APPARENTLY POINTLESS SUFFERING EXISTS; AN OMNIPOTENT GOOD GOD WOULD",
+          "role": "outcome"
+        },
+        {
+          "text": "THEREFORE GOD'S EXISTENCE IS IMPROBABLE HIDDEN FAWN CASE TESTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SKEPTICAL THEISM",
+          "role": "evidence"
+        },
+        {
+          "text": "LIMITED HUMAN COGNITION CANNOT INFER “NO REASON” FROM “NO",
+          "role": "caution"
+        },
+        {
+          "text": "ABSENCE OF EVIDENCE IS EVIDENCE ONLY WHERE DETECTION SHOULD",
+          "role": "evidence"
+        },
+        {
+          "text": "TOO MUCH SCEPTICISM ALSO WEAKENS PROVIDENTIAL AND MORAL REASONING",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ROWE: apparently pointless suffering exists; an omnipotent good God would prevent it",
+        "therefore God's existence is improbable hidden fawn case tests gratuitous natural suffering without human freedom",
+        "SKEPTICAL THEISM: limited human cognition cannot infer “no reason” from “no reason seen”",
+        "CORNEA: absence of evidence is evidence only where detection should be expected objection: too much",
+        "providential and moral reasoning verdict must weigh epistemic humility against the specificity of apparently gratuitous"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "ROWE: apparently pointless suffering exists; an omnipotent good God would prevent it",
+            "therefore God's existence is improbable hidden fawn case tests gratuitous natural suffering without human freedom"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SKEPTICAL THEISM: limited human cognition cannot infer “no reason” from “no reason seen”",
+            "CORNEA: absence of evidence is evidence only where detection should be expected objection: too much scepticism also weakens"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "providential and moral reasoning verdict must weigh epistemic humility against the specificity of apparently gratuitous evil.",
+            "ROWE: apparently pointless suffering exists; an omnipotent good God would prevent it"
+          ]
+        }
+      ],
+      "mechanism_strip": "CORNEA: absence of evidence is evidence only where detection should be expected objection: too much scepticism also weakens providential and moral reasoning verdict must weigh epistemic humility against the specificity of apparently gratuitous evil.",
+      "answer_line": "absence of evidence is evidence only where detection should be expected objection: too much scepticism also weakens providential and moral reasoning verdict must weigh epistemic humility against the specificity of apparently gratuitous evil.",
+      "source_references": [
+        "A. Argument forms at a glance",
+        "E. Hard-case checklist"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "INDIAN RESPONSE MATRIX",
+      "structural_type": "comparative karma-liberation map",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDIAN RESPONSE MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "SUFFERING BELONGS TO VYĀVAHĀRIKA AVIDYĀ; ULTIMATE BRAHMAN IS NON-DUAL",
+          "role": "outcome"
+        },
+        {
+          "text": "REAL SOULS/WORLD, KARMA, GRACE AND PURPOSEFUL DIVINE ORDER",
+          "role": "comparison"
+        },
+        {
+          "text": "BEGINNINGLESS KARMA ALLOCATED BY ĪŚVARA; GOD IS NOT ARBITRARY",
+          "role": "caution"
+        },
+        {
+          "text": "KARMIC MATTER BINDS JĪVA; NO CREATOR BEARS RESPONSIBILITY",
+          "role": "caution"
+        },
+        {
+          "text": "DUḤKHA FROM DEPENDENT ORIGINATION, CRAVING AND IGNORANCE; NO CREATOR",
+          "role": "caution"
+        },
+        {
+          "text": "KARMA EXPLAINS MORAL CONTINUITY BUT FACES FIRST-ORIGIN, VICTIM-BLAMING AND",
+          "role": "comparison"
+        },
+        {
+          "text": "LIBERATION ROUTES ANSWER SUFFERING THERAPEUTICALLY, NOT ALWAYS AS A",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ADVAITA: suffering belongs to vyāvahārika avidyā; ultimate Brahman is non-dual",
+        "VIŚIṢṬĀDVAITA: real souls/world, karma, grace and purposeful divine order",
+        "NYĀYA: beginningless karma allocated by Īśvara; God is not arbitrary author of deserts",
+        "JAINA: karmic matter binds jīva; no creator bears responsibility",
+        "BUDDHISM: duḥkha from dependent origination, craving and ignorance; no creator problem"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "ADVAITA: suffering belongs to vyāvahārika avidyā; ultimate Brahman is non-dual",
+          "JAINA: karmic matter binds jīva; no creator bears responsibility",
+          "liberation routes answer suffering therapeutically, not always as a theodicy."
+        ],
+        [
+          "VIŚIṢṬĀDVAITA: real souls/world, karma, grace and purposeful divine order",
+          "BUDDHISM: duḥkha from dependent origination, craving and ignorance; no creator problem",
+          ""
+        ],
+        [
+          "NYĀYA: beginningless karma allocated by Īśvara; God is not arbitrary author of deserts",
+          "KARMA explains moral continuity but faces first-origin, victim-blaming and natural-evil pressures",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "ADVAITA: suffering belongs to vyāvahārika avidyā; ultimate Brahman is non-dual",
+            "VIŚIṢṬĀDVAITA: real souls/world, karma, grace and purposeful divine order",
+            "NYĀYA: beginningless karma allocated by Īśvara; God is not arbitrary author of deserts"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "JAINA: karmic matter binds jīva; no creator bears responsibility",
+            "BUDDHISM: duḥkha from dependent origination, craving and ignorance; no creator problem",
+            "KARMA explains moral continuity but faces first-origin, victim-blaming and natural-evil pressures"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "liberation routes answer suffering therapeutically, not always as a theodicy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Indian traditions reshape the evil problem because they disagree about creator, self, karma and the ultimate meaning of liberation.",
+      "source_references": [
+        "D. Indian comparison bank"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "HARD CASES AND ETHICAL LIMITS",
+      "structural_type": "case-testing matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "HARD CASES AND ETHICAL LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "TEST ANY THEODICY AGAINST CHILD SUFFERING",
+          "role": "outcome"
+        },
+        {
+          "text": "ANIMAL PAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "UNEQUAL OPPORTUNITY",
+          "role": "evidence"
+        },
+        {
+          "text": "DOES RESPONSE EXPLAIN, MERELY DEFEND LOGICAL POSSIBILITY, OR OFFER",
+          "role": "primary"
+        },
+        {
+          "text": "DOES IT PRESERVE VICTIM DIGNITY? DOES IT MAKE PREVENTABLE",
+          "role": "outcome"
+        },
+        {
+          "text": "ANTI-THEODICY WARNING",
+          "role": "comparison"
+        },
+        {
+          "text": "NEAT JUSTIFICATION CAN REPEAT HARM REPLY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TEST ANY THEODICY AGAINST child suffering",
+        "animal pain",
+        "unequal opportunity",
+        "ASK: does response explain, merely defend logical possibility, or offer pastoral meaning?",
+        "does it preserve victim dignity? does it make preventable evil morally acceptable?"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "TEST ANY THEODICY AGAINST child suffering",
+          "ASK: does response explain, merely defend logical possibility, or offer pastoral meaning?",
+          "moral protest may itself express commitment to goodness."
+        ],
+        [
+          "animal pain",
+          "does it preserve victim dignity? does it make preventable evil morally acceptable?",
+          ""
+        ],
+        [
+          "unequal opportunity",
+          "anti-theodicy warning: neat justification can repeat harm reply: philosophical explanation need not command passive acceptance",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "TEST ANY THEODICY AGAINST child suffering",
+            "animal pain",
+            "unequal opportunity"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ASK: does response explain, merely defend logical possibility, or offer pastoral meaning?",
+            "does it preserve victim dignity? does it make preventable evil morally acceptable?",
+            "anti-theodicy warning: neat justification can repeat harm reply: philosophical explanation need not command passive acceptance"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "moral protest may itself express commitment to goodness."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A sound evaluation separates logical from evidential evil, defence from theodicy, and causal explanation from moral justification.",
+      "source_references": [
+        "E. Hard-case checklist",
+        "H. Final judgement ladder"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "synthesis",
+      "title": "PYQ AND ANSWER SYNTHESIS",
+      "structural_type": "three-level answer spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ AND ANSWER SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE GOD-CONCEPT + EVIL TYPE",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPARATE LOGICAL/EVIDENTIAL/EXISTENTIAL DEMAND",
+          "role": "comparison"
+        },
+        {
+          "text": "FORMAL ARGUMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "STRONGEST DEFENCE/THEODICY",
+          "role": "primary"
+        },
+        {
+          "text": "HARD-CASE OBJECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIAN COMPARISON ON KARMA/DUḤKHA",
+          "role": "comparison"
+        },
+        {
+          "text": "10 MARKS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINE God-concept + evil type → separate logical/evidential/existential demand",
+        "formal argument → strongest defence/theodicy → hard-case objection",
+        "Indian comparison on karma/duḥkha → qualified verdict",
+        "10 marks: one problem + one response + evaluation",
+        "15 marks: logical/evidential distinction + two responses"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "DEFINE God-concept + evil type → separate logical/evidential/existential demand",
+            "formal argument → strongest defence/theodicy → hard-case objection",
+            "Indian comparison on karma/duḥkha → qualified verdict"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "10 marks: one problem + one response + evaluation",
+            "15 marks: logical/evidential distinction + two responses",
+            "20 marks: Western and Indian matrix + hard cases + concept revision"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "CLOSE: evil may not disprove every God-concept, but it severely tests classical omni-God belief and forces costs in",
+            "freedom, providence, power, afterlife or human understanding."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A complete answer identifies the challenged divine profile, reconstructs the relevant argument and grants each response only the conclusion it actually establishes.",
+      "source_references": [
+        "F. Seven PYQ routes",
+        "G. 10/15/20-mark answer spines"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED-DOSSIER RECONCILIATION — [OPTIONAL ADVANCED]",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED SEMINAR MODULES - FROM COMPETENT TO EXAMINER-GRADE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE SECTION DOSSIER MARKS SKEPTICAL THEISM AND HORRENDOUS EVILS",
+          "role": "evidence"
+        },
+        {
+          "text": "TEACHES CORNEA, REPRESENTATIVENESS, BALANCING-OFF VERSUS DEFEAT, AND GOODNESS-TO-PERSONS.",
+          "role": "comparison"
+        },
+        {
+          "text": "THEIR OPTIONAL RESIDUE IS SECOND-ORDER",
+          "role": "outcome"
+        },
+        {
+          "text": "WHETHER A POSITIVE THEODICY CAN BE COMBINED CONSISTENTLY WITH",
+          "role": "comparison"
+        },
+        {
+          "text": "DEFEAT WITHIN A SUFFERER'S LIFE IS STILL A GENERAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "Advanced-dossier reconciliation — [OPTIONAL ADVANCED]",
+            "Advanced Seminar Modules - From Competent to Examiner-Grade",
+            "The section dossier marks skeptical theism and horrendous evils as promoted to core because the owner source now",
+            "teaches CORNEA, representativeness, balancing-off versus defeat, and goodness-to-persons."
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "Their optional residue is second-order: whether a positive theodicy can be combined consistently with global skepticism, and whether",
+            "defeat within a sufferer's life is still a general theodicy.",
+            "Free-will treatment of natural evil and victim-blaming critiques of karma remain high-value comparative refinements, not stand-alone catalogues.",
+            "Modal logic without notation overload ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM High-value transition: The logical problem is"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "a question about whether the relevant propositions can be true.",
+            "[THESIS] The logical problem is a question about whether the relevant propositions can be true together in at least one possible world.",
+            "[ARGUMENT] Three modal ideas must be kept separate.",
+            "First, logical possibility means that a description contains no contradiction."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

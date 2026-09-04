@@ -1,0 +1,228 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Religion and Morality: central question and analytical axes
+
+```ascii-master
+RELIGION AND MORALITY — CONCEPTUAL ATLAS
+
+
+KEY TERMS: Religion • Morality • The Grounding Problem • Mnemonic — "Depend / Detach /
+KEY TERMS: Dialogue" • Euthyphro • Fact: Reporting on the 2026 Sabarimala…
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Religion and Morality
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       Fact: Reporting on the 2026 Sabarimala review hearings describes…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: RELIGION AND MORALITY: THE GROUNDING PROBLEM
+  • Religion
+  • Mnemonic — "Depend / Detach / Dialogue": morality depends on…
+AXIS 2: DIVINE COMMAND AND THE DEPENDENCE OF MORALITY
+  • Divine Command
+  • Divine Command Theory (DCT): an act is right because God commands…
+AXIS 3: THE INTERACTION VIEW AND MUTUAL FORMATION
+  • The Interaction View
+  • Religion influences moral behaviour: provides motivation…
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  Religion • Morality • The Grounding Problem • Mnemonic — "Depend / Detach / Dialogue"
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: The grounding problem: dependence or autonomy
+
+```ascii-master
+THE GROUNDING PROBLEM: DEPENDENCE OR AUTONOMY
+│
+
+KEY TERMS: Religion • Morality • The Grounding Problem • Mnemonic — "Depend / Detach /
+KEY TERMS: Dialogue" • Euthyphro • Fact: Reporting on the 2026 Sabarimala…
+├── KEY CONCEPTS
+│   ├── Religion
+│   ├── Morality
+│   ├── The Grounding Problem
+│   ├── Mnemonic — "Depend / Detach / Dialogue"
+│   └── Euthyphro
+│
+├── RELIGION AND MORALITY: THE GROUNDING PROBLEM
+│   ├─ TERMS: Fact: Reporting on the 2026 Sabarimala review hearings describes…
+│   ├─ LOGIC: Mnemonic — "Depend / Detach / Dialogue": morality depends on…
+│   └─ RESULT: Master verdict: Morality is not conceptually reducible to religion…
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Divine command and the Euthyphro dilemma
+
+```ascii-master
+DIVINE COMMAND AND THE EUTHYPHRO DILEMMA
+
+
+KEY TERMS: Divine Command • The Dependence Of Morality • Divine Command Theory (DCT) • right
+KEY TERMS: because God commands it • autonomy • Divine Command Theory (DCT): an act
+CAUSE / CONDITION 1: Morality without religion is possible — secular ethics (Kant…
+          │
+          ├── MECHANISM
+          │   Divine Command Theory (DCT): an act is right because God commands it
+          │
+          └── EFFECT / CONTRAST
+              Morality without religion is possible — secular ethics (Kant…
+          │
+          ▼
+CAUSE / CONDITION 2: Horn 2 (commanded because good) - goodness is independent of…
+          │
+          ├── MECHANISM
+          │   Horn 2 (commanded because good) - goodness is independent of God…
+          │
+          └── EFFECT / CONTRAST
+              while God, freedom and immortality function as practical postulates…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Autonomous ethics and the interaction model
+
+```ascii-master
+AUTONOMOUS ETHICS AND THE INTERACTION MODEL
+
+
+KEY TERMS: The Interaction View • Mutual Formation • Religion influences moral behaviour •
+KEY TERMS: motivation • community & sanction • worldview
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ THE INTERACTION VIEW   │ Religion influences moral     │ provides motivation           │
+│ AND MUTUAL FORMATION   │ behaviour: provides           │ (reward/punishment, love of   │
+│                        │ motivation…                   │ God), community &…            │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Obligation, motivation, sanction and foundational positions
+
+```ascii-master
+OBLIGATION, MOTIVATION, SANCTION AND FOUNDATIONAL POSITIONS
+
+
+KEY TERMS: Euthyphro • Obligation • Motivation • Sanction • Balanced conclusion • cannot be
+KEY TERMS: wholly reducible to
+                 CLAIM / SYSTEM UNDER EXAMINATION
+                                  │
+                                  ▼
+PROBLEM / OBJECTION 1
+  ├─ ISSUE: the Euthyphro shows morality cannot be wholly reducible to divine…
+  ├─ RESPONSE / CONTROL: the Euthyphro shows morality cannot be wholly reducible
+  ├─ RESPONSE / CONTROL: to divine…
+  └─ QUALIFIED VERDICT: the Euthyphro shows morality cannot be wholly reducible to
+  └─ QUALIFIED VERDICT: divine…
+                  │
+                  ▼
+PROBLEM / OBJECTION 2
+  ├─ ISSUE: The Euthyphro dilemma asks whether divine approval constitutes…
+  ├─ RESPONSE / CONTROL: Interactive relation." (2023) - §3
+  └─ QUALIFIED VERDICT: [Asymmetry] "'Morality without religion, but not religion
+  └─ QUALIFIED VERDICT: without…
+                                  │
+                                  ▼
+FINAL CONTROL: preserve the strongest insight while stating its limit.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Indian/Western grounds of moral life and qualified verdict
+
+```ascii-master
+INDIAN/WESTERN GROUNDS OF MORAL LIFE AND QUALIFIED VERDICT
+
+
+KEY TERMS: Indian • Western Grounds Of Moral Life • Exhaustive — no undetected act • Strong
+KEY TERMS: DCT • God's command • ❌ Impaled on a horn
+CAUSE / CONDITION 1: The key analytical distinction is between what makes an act…
+          │
+          ├── MECHANISM
+          │   the key analytical distinction is between what makes an act right…
+          │
+          └── EFFECT / CONTRAST
+              the key analytical distinction is between what makes an act right…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Religion and Morality: traps, PYQ routes and applied recall
+
+```ascii-master
+RELIGION AND MORALITY: TRAPS, PYQ ROUTES AND APPLIED RECALL
+
+
+KEY TERMS: Religion • Morality • The Grounding Problem • Mnemonic — "Depend / Detach /
+KEY TERMS: Dialogue" • Euthyphro • Fact: Reporting on the 2026 Sabarimala…
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── Fact: Reporting on the 2026 Sabarimala review hearings describes…
+├── is the pious loved by the gods because it is pious, or pious because
+├── the Euthyphro shows morality cannot be wholly reducible to divine…
+├── the key analytical distinction is between what makes an act right…
+│
+├── 2018 · Q5(d) · 10 marks
+├── Question: Can one claim that there is an inter-relatedness between…
+├── 2019 · Q5(c) · 10 marks
+├── Question: Can there be a philosophical argument to support violence in the…
+│
+└── It does not by itself settle the philosophical question whether…
+└── Religion and morality are conceptually distinguishable yet…
+└── The key analytical distinction is between what makes an act right…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Religion and Morality: integrated revision and answer-writing spine
+
+```ascii-master
+RELIGION AND MORALITY — ANSWER / REVISION SPINE
+
+
+KEY TERMS: Religion • Morality • The Grounding Problem • Mnemonic — "Depend / Detach /
+KEY TERMS: Dialogue" • Euthyphro • Fact: Reporting on the 2026 Sabarimala…
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ Fact: Reporting on the 2026 Sabarimala review hearings describes…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ Religion
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ Horn 2 (commanded because good) - goodness is independent of God…
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ The Grounding Problem
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ the key analytical distinction is between what makes an act right…
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ The key analytical distinction is between what makes an act right…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

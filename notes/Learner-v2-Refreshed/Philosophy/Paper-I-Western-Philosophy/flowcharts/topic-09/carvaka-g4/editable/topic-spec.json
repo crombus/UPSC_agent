@@ -1,0 +1,933 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-i-western-philosophy-09",
+  "subject": "Philosophy",
+  "title": "PHENOMENOLOGY (HUSSERL)",
+  "short_route": "DEVELOPMENT/SOURCES → NATURAL ATTITUDE → SUSPENSION/REDUCTIONS → INTENTIONALITY/NOEMA → HORIZONS/TIME → ESSENCES/VARIATION → ANTI-PSYCHOLOGISM → EGO/INTERSUBJECTIVITY → BOUNDED LATE THEMES",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-09\\g4\\topic-09_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-western-philosophy-09-ascii-2026-08-26.json",
+  "ascii_spec_sha256": "5476ca8eaf3fff9d71c7bc83ce6567902dc876fafb286b36e10f155c54df2715",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CRISIS AND THE PROJECT OF RIGOROUS PHENOMENOLOGY",
+      "structural_type": "crisis-diagnostic-and-project-bridge",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CRISIS: NATURALISM, HISTORICISM, SCEPTICISM",
+          "role": "primary"
+        },
+        {
+          "text": "PHILOSOPHY AS RIGOROUS SCIENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "RETURN TO MODES OF GIVENNESS",
+          "role": "evidence"
+        },
+        {
+          "text": "GROUND MEANING AND OBJECTIVITY",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT VAGUE INTROSPECTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "START → philosophy must ground meaning, truth and objectivity without borrowed assumptions.",
+        "NATURALISM → reduces reason and meaning to empirical natural or psychological processes.",
+        "HISTORICISM → makes truth relative to a worldview, culture or historical epoch.",
+        "SCEPTICISM → follows when objective validity cannot exceed contingent human facts.",
+        "PROJECT → philosophy as rigorous science answerable to evidence and structures of givenness."
+      ],
+      "matrix": [
+        [
+          "SOURCE / DOCTRINE",
+          "ARGUMENT / MECHANISM",
+          "IMPLICATION / VERDICT"
+        ],
+        [
+          "START → philosophy must ground meaning, truth and objectivity without borrowed assumptions.",
+          "PROJECT → philosophy as rigorous science answerable to evidence and structures of givenness.",
+          "UNITY → method + essences + anti-psychologism form one programme of objectivity."
+        ],
+        [
+          "NATURALISM → reduces reason and meaning to empirical natural or psychological processes.",
+          "PHENOMENOLOGY → disciplined description of how objects are given to consciousness.",
+          "LIMIT → complete presuppositionlessness remains a regulative aspiration."
+        ],
+        [
+          "HISTORICISM → makes truth relative to a worldview, culture or historical epoch.",
+          "MOTTO → to the things themselves: subject-matters as given, not merely physical things.",
+          ""
+        ],
+        [
+          "SCEPTICISM → follows when objective validity cannot exceed contingent human facts.",
+          "NOT → vague introspection, private images, appearance-talk or empirical psychology.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THE CRISIS",
+          "role": "evidence",
+          "items": [
+            "Naturalism reduces reason and meaning to empirical processes.",
+            "Historicism makes validity relative to an age or worldview.",
+            "Scepticism follows when objectivity cannot exceed contingent facts."
+          ]
+        },
+        {
+          "heading": "THE METHODICAL ANSWER",
+          "role": "mechanism",
+          "items": [
+            "Return to subject-matters through their modes of givenness.",
+            "Describe intentional structures instead of inventing a causal psychology.",
+            "Demand evidence for every philosophical posit and distinction."
+          ]
+        },
+        {
+          "heading": "THE UNIFIED PROGRAMME",
+          "role": "outcome",
+          "items": [
+            "Reduction opens the object-givenness correlation.",
+            "Eidetic variation discloses invariant possibility-conditions.",
+            "Anti-psychologism protects ideal validity and objective truth."
+          ]
+        }
+      ],
+      "mechanism_strip": "Naturalism or historicism -> threatened validity -> return to givenness -> disciplined description -> structures of experience -> renewed claim to objective philosophy.",
+      "answer_line": "Husserl develops from descriptive anti-psychologism through transcendental constitution to late life-world themes; terminology must remain phase-specific.",
+      "source_references": [
+        "SESSION 1"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "NATURAL ATTITUDE, PROFILES, HORIZONS AND OBJECT IDENTITY",
+      "structural_type": "world-horizon-and-profile-synthesis",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "NATURAL ATTITUDE: WORLD SIMPLY THERE",
+          "role": "primary"
+        },
+        {
+          "text": "PROFILES / ADUMBRATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "HORIZON OF FURTHER APPEARANCES",
+          "role": "evidence"
+        },
+        {
+          "text": "IDENTITY ACROSS CHANGING VIEWS",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT STUPIDITY OR FALSE THEORY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NATURAL ATTITUDE → ordinary, useful and unexamined positing of world and objects as existing.",
+        "GENERAL THESIS → the world is simply there; it is operative before explicit belief.",
+        "NOT → stupidity, a false doctrine or a worked-out theory of naive realism.",
+        "PROFILE / ADUMBRATION → one perspectival presentation of a transcendent object.",
+        "TABLE → front, side, rear and new-light profiles are intended as one identical thing."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "NATURAL ATTITUDE → ordinary, useful and unexamined positing of world and objects as existing.",
+            "GENERAL THESIS → the world is simply there; it is operative before explicit belief.",
+            "NOT → stupidity, a false doctrine or a worked-out theory of naive realism.",
+            "PROFILE / ADUMBRATION → one perspectival presentation of a transcendent object."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TABLE → front, side, rear and new-light profiles are intended as one identical thing.",
+            "HORIZON → absent sides, possible uses, contexts and further confirmable appearances.",
+            "SYNTHESIS → identification across changing profiles sustains object identity.",
+            "TRANSCENDENT OBJECT → exceeds every finite presentation but is directly intended."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "PROBLEM → naive object-focus hides the correlation between object and givenness.",
+            "BRIDGE → epoché changes attitude toward the posit without abandoning the world."
+          ]
+        }
+      ],
+      "mechanism_strip": "World silently posited -> object given through one profile -> absent sides co-intended within a horizon -> syntheses sustain identity across changing appearances.",
+      "answer_line": "Suspension withholds the existence-posit; phenomenological reduction redirects to givenness without denying the world or doing introspective psychology.",
+      "source_references": [
+        "SESSION 2"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "EPOCHÉ AND THE THREE REDUCTIONS",
+      "structural_type": "method-sequence-and-three-way-contrast",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "EPOCHÉ SUSPENDS EXISTENTIAL POSIT",
+          "role": "primary"
+        },
+        {
+          "text": "DOUBT != SUSPENSION != DENIAL",
+          "role": "comparison"
+        },
+        {
+          "text": "PHENOMENOLOGICAL / TRANSCENDENTAL / EIDETIC",
+          "role": "evidence"
+        },
+        {
+          "text": "WORLD RETURNS AS MEANINGFUL",
+          "role": "outcome"
+        },
+        {
+          "text": "REDUCTION != INTROSPECTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "EPOCHÉ → suspend the natural attitude's existential posit for phenomenological inquiry.",
+        "NOT DENIAL → no claim that the world is unreal, destroyed or only mental.",
+        "NOT DOUBT → Cartesian doubt questions existence; Husserl neutralises the commitment.",
+        "PHENOMENOLOGICAL REDUCTION → shift from object alone to object-givenness correlation.",
+        "TRANSCENDENTAL REDUCTION → disclose the non-empirical field of sense-constitution."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "EPOCHÉ → suspend the natural attitude's existential posit for phenomenological inquiry.",
+            "NOT DENIAL → no claim that the world is unreal, destroyed or only mental.",
+            "NOT DOUBT → Cartesian doubt questions existence; Husserl neutralises the commitment.",
+            "PHENOMENOLOGICAL REDUCTION → shift from object alone to object-givenness correlation."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRANSCENDENTAL REDUCTION → disclose the non-empirical field of sense-constitution.",
+            "EIDETIC REDUCTION → move from factual instance to invariant possibility-condition.",
+            "NOT INTROSPECTION → empirical self-observation remains a worldly psychology.",
+            "RETURN → the same world is recovered as intended, meaningful and confirmable."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "OBJECTION → circularity, infeasibility, world-denial and transcendental idealism.",
+            "VERDICT → powerful change of attitude; complete execution remains contestable."
+          ]
+        }
+      ],
+      "mechanism_strip": "Intentionality is directedness; noesis/noema is *Ideas I* vocabulary and the noema is not a private image or guaranteed existent.",
+      "answer_line": "Epoché suspends the world's existential posit rather than the world itself, and reduction redirects inquiry to the object-givenness correlation instead of retreating into a private mind.",
+      "source_references": [
+        "SESSION 3"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "INTENTIONALITY, FULFILMENT, TRANSCENDENCE AND HORIZON",
+      "structural_type": "act-object-correlation-and-fulfilment-flow",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CONSCIOUSNESS IS OF SOMETHING",
+          "role": "primary"
+        },
+        {
+          "text": "DIRECTEDNESS != PURPOSE",
+          "role": "comparison"
+        },
+        {
+          "text": "EMPTY INTENTION -> FULFILMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE THROUGH CONFIRMABLE GIVENNESS",
+          "role": "outcome"
+        },
+        {
+          "text": "HALLUCINATION CAN BE INTENTIONAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "INTENTIONALITY → consciousness is consciousness of something; directedness, not purpose.",
+        "ACT / OBJECT → perceiving, remembering, imagining and judging each intend an object.",
+        "EMPTY OR SIGNITIVE INTENTION → meaning without intuitive presence of the object.",
+        "INTUITIVE FULFILMENT → givenness confirms, enriches or disappoints what was meant.",
+        "IMMANENT → experience as lived in the stream; not a private object inside the mind."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "INTENTIONALITY → consciousness is consciousness of something; directedness, not purpose.",
+            "ACT / OBJECT → perceiving, remembering, imagining and judging each intend an object.",
+            "EMPTY OR SIGNITIVE INTENTION → meaning without intuitive presence of the object.",
+            "INTUITIVE FULFILMENT → givenness confirms, enriches or disappoints what was meant."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "IMMANENT → experience as lived in the stream; not a private object inside the mind.",
+            "TRANSCENDENT → physical object exceeds every profile and remains horizonally open.",
+            "HALLUCINATION → genuinely intentional though no corresponding physical object exists.",
+            "EVIDENCE → concordant fulfilment differs from mere directedness or felt certainty."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "HORIZON → possible further views, corrections, uses and intersubjective confirmations.",
+            "LIMIT → phenomenology describes evidence but is not a full causal reliability theory."
+          ]
+        }
+      ],
+      "mechanism_strip": "Act intends object -> object may be emptily meant -> intuition presents a confirming or disconfirming profile -> synthesis modifies evidence within an open horizon.",
+      "answer_line": "Profiles, horizons and temporal synthesis identify one object through partial givenness; intuitive fulfilment/evidence is dynamic and graded.",
+      "source_references": [
+        "SESSION 4"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "NOESIS, NOEMA, CONSTITUTION, EVIDENCE AND TRUTH",
+      "structural_type": "correlation-and-anti-picture-diagnostic",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NOESIS: ACT / NOEMA: OBJECT-AS-INTENDED",
+          "role": "primary"
+        },
+        {
+          "text": "NOEMA != PRIVATE PICTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "SYNTHESIS OF PROFILES AND HORIZONS",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSTITUTED OBJECTIVITY",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSTITUTION != CAUSAL CREATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NOESIS → intentional act or process: perceiving, judging, remembering, valuing.",
+        "NOEMA → object-as-intended or noematic sense within the intentional correlation.",
+        "NOT PRIVATE PICTURE → noema does not block access to a worldly object.",
+        "NOEMA QUALIFICATION → not simply the physical object without its mode of givenness.",
+        "CONSTITUTION → synthesis and disclosure of stable sense and objectivity."
+      ],
+      "matrix": [
+        [
+          "SOURCE / DOCTRINE",
+          "ARGUMENT / MECHANISM",
+          "IMPLICATION / VERDICT"
+        ],
+        [
+          "NOESIS → intentional act or process: perceiving, judging, remembering, valuing.",
+          "CONSTITUTION → synthesis and disclosure of stable sense and objectivity.",
+          "TRUTH → validity not reducible to a subject's current feeling of evidence."
+        ],
+        [
+          "NOEMA → object-as-intended or noematic sense within the intentional correlation.",
+          "NOT CREATION → the mind does not causally manufacture physical objects.",
+          "LIMIT → noema interpretation and transcendental idealism remain disputed."
+        ],
+        [
+          "NOT PRIVATE PICTURE → noema does not block access to a worldly object.",
+          "SYNTHESIS → profiles, retention, fulfilment and horizon yield one identifiable object.",
+          ""
+        ],
+        [
+          "NOEMA QUALIFICATION → not simply the physical object without its mode of givenness.",
+          "EVIDENCE → fulfilled givenness that justifies a judgment.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "NOESIS → intentional act or process: perceiving, judging, remembering, valuing.",
+            "NOEMA → object-as-intended or noematic sense within the intentional correlation.",
+            "NOT PRIVATE PICTURE → noema does not block access to a worldly object.",
+            "NOEMA QUALIFICATION → not simply the physical object without its mode of givenness."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONSTITUTION → synthesis and disclosure of stable sense and objectivity.",
+            "NOT CREATION → the mind does not causally manufacture physical objects.",
+            "SYNTHESIS → profiles, retention, fulfilment and horizon yield one identifiable object.",
+            "EVIDENCE → fulfilled givenness that justifies a judgment."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "TRUTH → validity not reducible to a subject's current feeling of evidence.",
+            "LIMIT → noema interpretation and transcendental idealism remain disputed."
+          ]
+        }
+      ],
+      "mechanism_strip": "Noetic act -> noematic object-sense -> changing profiles and fulfilments -> syntheses of identification -> constituted objectivity open to truth and correction.",
+      "answer_line": "Eidetic variation discloses invariants without induction or separated Forms; framework and counter-variation constrain the claim.",
+      "source_references": [
+        "SESSION 5"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TEMPORAL SYNTHESIS AND THE LIVING PRESENT",
+      "structural_type": "temporal-triad-and-memory-contrast",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RETENTION / PRIMAL IMPRESSION / PROTENTION",
+          "role": "primary"
+        },
+        {
+          "text": "RETENTION != RECOLLECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "PASSIVE TEMPORAL SYNTHESIS",
+          "role": "evidence"
+        },
+        {
+          "text": "MELODY AND IDENTITY ACROSS PHASES",
+          "role": "outcome"
+        },
+        {
+          "text": "SELF-CONSTITUTING FLOW REMAINS A LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PROBLEM → isolated now-points could never be heard as one melody or meaningful sentence.",
+        "PRIMAL IMPRESSION → the now-phase or source-point of the temporal object.",
+        "RETENTION → just-past still held within present perception; primary memory.",
+        "PROTENTION → open anticipation of the just-coming, fulfilled or disappointed.",
+        "LIVING PRESENT → retention + primal impression + protention as one structured field."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "PROBLEM → isolated now-points could never be heard as one melody or meaningful sentence.",
+            "PRIMAL IMPRESSION → the now-phase or source-point of the temporal object.",
+            "RETENTION → just-past still held within present perception; primary memory.",
+            "PROTENTION → open anticipation of the just-coming, fulfilled or disappointed."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LIVING PRESENT → retention + primal impression + protention as one structured field.",
+            "RETENTION != RECOLLECTION → present perception versus a fresh re-presentation.",
+            "PASSIVE SYNTHESIS → temporal unity and identification before explicit judgment.",
+            "ACTIVE SYNTHESIS → deliberate identification, predication and confirmation."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "PAYOFF → identity, habituality, sedimentation and non-atomistic experience.",
+            "LIMIT → self-constituting absolute flow may stop regress only by stipulation."
+          ]
+        }
+      ],
+      "mechanism_strip": "Anti-psychologism separates ideal validity/content from empirical acts and causal genesis; transcendental constitution is not fabrication.",
+      "answer_line": "Temporal synthesis shows that object identity is constituted in a living present whose retentions and protentions make succession experienced rather than merely inferred.",
+      "source_references": [
+        "SESSION 6"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "EIDETIC SCIENCE AND FREE IMAGINATIVE VARIATION",
+      "structural_type": "variation-test-and-science-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FACTUAL SCIENCE != EIDETIC SCIENCE",
+          "role": "primary"
+        },
+        {
+          "text": "FREE IMAGINATIVE VARIATION",
+          "role": "comparison"
+        },
+        {
+          "text": "COUNTER-VARIATION TEST",
+          "role": "evidence"
+        },
+        {
+          "text": "INVARIANT ESSENCE / A PRIORI CONDITION",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT AVERAGE, DEFINITION OR SEPARATE FORM",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "EIDOS / ESSENCE → invariant structure or possibility-condition of a phenomenon's kind.",
+        "FACTUAL SCIENCE → actual individuals, causal regularities and contingent truths.",
+        "EIDETIC SCIENCE → possible instances, invariants and a priori necessary structures.",
+        "METHOD → choose case → vary features → test kind-change → isolate invariant.",
+        "TRIANGLE → colour, size and orientation vary; three-sidedness cannot be removed."
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "EIDOS / ESSENCE → invariant structure or possibility-condition of a phenomenon's kind.",
+          "TRIANGLE → colour, size and orientation vary; three-sidedness cannot be removed.",
+          "OBJECTIONS → cultural bias, selection bias, hidden concepts and limited imagination."
+        ],
+        [
+          "FACTUAL SCIENCE → actual individuals, causal regularities and contingent truths.",
+          "PROMISE → wording may vary; an undertaking answerable to another remains essential.",
+          "REPLY / LIMIT → counter-variation and criticism help; exhaustiveness is never guaranteed."
+        ],
+        [
+          "EIDETIC SCIENCE → possible instances, invariants and a priori necessary structures.",
+          "PERCEPTION → contents vary; perspectival and horizon-structured givenness remains.",
+          ""
+        ],
+        [
+          "METHOD → choose case → vary features → test kind-change → isolate invariant.",
+          "NOT → inductive average, dictionary definition, mysticism or separate Platonic realm.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "EIDOS / ESSENCE → invariant structure or possibility-condition of a phenomenon's kind.",
+            "FACTUAL SCIENCE → actual individuals, causal regularities and contingent truths.",
+            "EIDETIC SCIENCE → possible instances, invariants and a priori necessary structures.",
+            "METHOD → choose case → vary features → test kind-change → isolate invariant."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "TRIANGLE → colour, size and orientation vary; three-sidedness cannot be removed.",
+            "PROMISE → wording may vary; an undertaking answerable to another remains essential.",
+            "PERCEPTION → contents vary; perspectival and horizon-structured givenness remains.",
+            "NOT → inductive average, dictionary definition, mysticism or separate Platonic realm."
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "OBJECTIONS → cultural bias, selection bias, hidden concepts and limited imagination.",
+            "REPLY / LIMIT → counter-variation and criticism help; exhaustiveness is never guaranteed."
+          ]
+        }
+      ],
+      "mechanism_strip": "Choose example -> freely vary contingent features -> test when kind changes -> isolate invariant -> formulate universal possibility-condition -> seek intersubjective confirmation.",
+      "answer_line": "Transcendental subjectivity differs from Cartesian substance and Kantian formal apperception without becoming a transparent private mental thing.",
+      "source_references": [
+        "SESSION 7"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "TRANSCENDENTAL SUBJECTIVITY, WORLD-RETURN AND LIFEWORLD",
+      "structural_type": "three-level-subject-and-world-return",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "TRANSCENDENTAL FIELD != EMPIRICAL PSYCHE",
+          "role": "primary"
+        },
+        {
+          "text": "WORLD RETURN AND LIFEWORLD",
+          "role": "comparison"
+        },
+        {
+          "text": "SCIENCE PRESUPPOSES EXPERIENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "CRITIQUE OF OBJECTIVISM",
+          "role": "outcome"
+        },
+        {
+          "text": "IDEALISM OBJECTION REMAINS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "EMPIRICAL PSYCHE → psychophysical person within the world and studied causally.",
+        "DESCARTES → thinking substance that must recover a doubted external world.",
+        "TRANSCENDENTAL SUBJECTIVITY → field for which world, self and validity have sense.",
+        "WORLD RETURN → bracketed world reappears as intended horizon, not a mental fabrication.",
+        "TRANSCENDENTAL IDEALISM → being-for-us is tied to conditions of givenness."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "EMPIRICAL PSYCHE → psychophysical person within the world and studied causally.",
+            "DESCARTES → thinking substance that must recover a doubted external world.",
+            "TRANSCENDENTAL SUBJECTIVITY → field for which world, self and validity have sense.",
+            "WORLD RETURN → bracketed world reappears as intended horizon, not a mental fabrication."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRANSCENDENTAL IDEALISM → being-for-us is tied to conditions of givenness.",
+            "LIFEWORLD → pre-theoretical, practical and shared ground of experience.",
+            "SCIENCE → idealises the lifeworld through measurement and mathematical abstraction.",
+            "CRISIS → objectivism forgets the experiential source of scientific meaning."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "REPLY → late history, body, sedimentation and intersubjectivity internalise worldliness.",
+            "LIMIT → expansion may reveal instability in the purified transcendental starting point."
+          ]
+        }
+      ],
+      "mechanism_strip": "Reduction -> empirical person bracketed -> transcendental field disclosed -> acts and horizons constitute sense -> sciences traced back to lifeworld evidence.",
+      "answer_line": "Lived body, pairing, empathy and appresentation constitute the sense of an other perspective; ownness-first circularity remains.",
+      "source_references": [
+        "SESSION 8"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "PSYCHOLOGISM, IDEAL MEANING AND TRANSCENDENTAL BRIDGE",
+      "structural_type": "law-comparison-and-validity-bridge",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PSYCHOLOGISM REDUCES VALIDITY TO FACT",
+          "role": "primary"
+        },
+        {
+          "text": "LOGICAL LAW != PSYCHOLOGICAL LAW",
+          "role": "comparison"
+        },
+        {
+          "text": "ACT / CONTENT / TRUTH / EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "IDEAL MEANING AND OBJECTIVITY",
+          "role": "outcome"
+        },
+        {
+          "text": "THINKING IS PSYCHOLOGICAL; VALIDITY IS NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PSYCHOLOGISM → reduces logical laws, meanings, number or validity to mental facts.",
+        "DESCRIPTIVE PSYCHOLOGY → legitimately studies real acts without grounding validity.",
+        "LOGICAL LAW → ideal, normative, necessary, universal and a ground of correctness.",
+        "PSYCHOLOGICAL LAW → empirical, causal, contingent and species-dependent.",
+        "ACT OF JUDGING → real event; CONTENT / PROPOSITION → ideal meaning."
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "PSYCHOLOGISM → reduces logical laws, meanings, number or validity to mental facts.",
+          "ACT OF JUDGING → real event; CONTENT / PROPOSITION → ideal meaning.",
+          "BRIDGE → phenomenology explains how finite acts grasp ideal meanings."
+        ],
+        [
+          "DESCRIPTIVE PSYCHOLOGY → legitimately studies real acts without grounding validity.",
+          "TRUTH → validity of content; EVIDENCE → fulfilled givenness justifying assent.",
+          "LIMIT → transcendental constitution avoids psychology but invites idealism."
+        ],
+        [
+          "LOGICAL LAW → ideal, normative, necessary, universal and a ground of correctness.",
+          "CONSEQUENCE → psychologism cannot explain error and tends to relativism or scepticism.",
+          ""
+        ],
+        [
+          "PSYCHOLOGICAL LAW → empirical, causal, contingent and species-dependent.",
+          "SELF-PRESSURE → its reasoning claims more validity than its theory permits.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "PSYCHOLOGISM → reduces logical laws, meanings, number or validity to mental facts.",
+            "DESCRIPTIVE PSYCHOLOGY → legitimately studies real acts without grounding validity.",
+            "LOGICAL LAW → ideal, normative, necessary, universal and a ground of correctness.",
+            "PSYCHOLOGICAL LAW → empirical, causal, contingent and species-dependent."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ACT OF JUDGING → real event; CONTENT / PROPOSITION → ideal meaning.",
+            "TRUTH → validity of content; EVIDENCE → fulfilled givenness justifying assent.",
+            "CONSEQUENCE → psychologism cannot explain error and tends to relativism or scepticism.",
+            "SELF-PRESSURE → its reasoning claims more validity than its theory permits."
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "BRIDGE → phenomenology explains how finite acts grasp ideal meanings.",
+            "LIMIT → transcendental constitution avoids psychology but invites idealism."
+          ]
+        }
+      ],
+      "mechanism_strip": "Psychologism confuses acts with ideal contents and causal conditions with grounds of validity; the transcendental turn faces a reflexive objection.",
+      "answer_line": "Husserl defeats psychologism by separating real acts from ideal meanings and validity, then turns to transcendental phenomenology to explain how objective sense can be given.",
+      "source_references": [
+        "SESSION 9"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "synthesis",
+      "title": "INTERSUBJECTIVITY, EVALUATION, LEGACY AND ANSWER SPINE",
+      "structural_type": "public-objectivity-and-evaluation-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PAIRING + APPRESENTATION + ALTER EGO",
+          "role": "primary"
+        },
+        {
+          "text": "PUBLIC OBJECTIVITY: VALID FOR ANYONE",
+          "role": "comparison"
+        },
+        {
+          "text": "CRITICISM / REPLY / RESIDUAL LIMIT",
+          "role": "evidence"
+        },
+        {
+          "text": "INTENTIONALITY'S PHENOMENOLOGICAL LEGACY",
+          "role": "outcome"
+        },
+        {
+          "text": "SOLIPSISM DEFEATED MORE AS DOCTRINE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "INTERSUBJECTIVITY → condition for a world valid for subjects other than myself.",
+        "PAIRING → passive association between my lived body and another expressive body.",
+        "APPRESENTATION → other's stream co-intended but never originally presented to me.",
+        "NOT INFERENCE → analogising transfer of sense, not deduction from behaviour.",
+        "ALTER EGO → another centre with a here that is there from my viewpoint."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "INTERSUBJECTIVITY → condition for a world valid for subjects other than myself.",
+            "PAIRING → passive association between my lived body and another expressive body.",
+            "APPRESENTATION → other's stream co-intended but never originally presented to me.",
+            "NOT INFERENCE → analogising transfer of sense, not deduction from behaviour."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ALTER EGO → another centre with a here that is there from my viewpoint.",
+            "PUBLIC OBJECTIVITY → potentially shareable and correctable validity-for-anyone.",
+            "CRITICISMS → circularity, solipsism, idealism, body, language, history and noema.",
+            "LEGACY → Heidegger and Merleau-Ponty inherit intentionality while revising reduction."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "ANSWER SPINE → project → method → correlation → essence → validity → critique.",
+            "VERDICT → descriptive precision and anti-reductionism with unresolved subject-priority."
+          ]
+        }
+      ],
+      "mechanism_strip": "Own lived body -> pairing with another expressive body -> appresentation of alter ego -> mutual horizons -> one world valid for anyone -> public objectivity.",
+      "answer_line": "Time-consciousness, life-world, sedimentation and existential heirs are bounded depth; the printed method/essence/psychologism core remains primary.",
+      "source_references": [
+        "SESSION 10"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 1 — THE PROGRAMME - PRESUPPOSITIONLESS RIGOROUS",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED SESSION 2 — THE NATURAL ATTITUDE AND ITS",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED SESSION 3 — EPOCHE, BRACKETING AND THE REDUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED SESSION 4 — INTENTIONALITY - CONSCIOUSNESS OF SOMETHING",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 5 — HYLE AND MORPHE - NON-INTENTIONAL",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED SESSION 6 — INNER TIME-CONSCIOUSNESS - RETENTION, PRIMAL",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED SESSION 7 — ESSENCES - EIDETIC REDUCTION, FREE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "ADVANCED SESSION 1 — The Programme - Presuppositionless Rigorous Science, 'To the Things Themselves' and the One-Screen Map",
+            "ADVANCED SESSION 2 — The Natural Attitude and Its General Thesis - Why the World Must Be Bracketed, Not Denied",
+            "ADVANCED SESSION 3 — Epoche, Bracketing and the Reduction - Suspension (Not Doubt), the Residue and Why It Matters",
+            "ADVANCED SESSION 4 — Intentionality - Consciousness OF Something, Noesis-Noema, and Why Hallucination Is a Genuine Act"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "ADVANCED SESSION 5 — Hyle and Morphe - Non-Intentional Sense-Matter, Animation, and the Anti-Sense-Datum Argument",
+            "ADVANCED SESSION 6 — Inner Time-Consciousness - Retention, Primal Impression, Protention and the Absolute Flow",
+            "ADVANCED SESSION 7 — Essences - Eidetic Reduction, Free Imaginative Variation, and the Continuity of Consciousness and Being",
+            "ADVANCED SESSION 8 — The Transcendental Ego and the Lebenswelt - Constituting Field vs Res Cogitans, and the Crisis of the Sciences"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "ADVANCED SESSION 9 — Avoidance of Psychologism - Four Prolegomena Arguments, Frege, Ideal Objectivity and the Transcendental-Turn Charge",
+            "ADVANCED SESSION 10 — Intersubjectivity - The Fifth Cartesian Meditation, Pairing, Appresentation and the Answer to Solipsism",
+            "ADVANCED DOSSIER REFINEMENTS — USE SELECTIVELY",
+            "Presuppositionless does not mean \"with no beliefs\""
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-05",
+  "generation": 6,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-05\\g6\\topic-05_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    2575
+  ],
+  "stages": [
+    {
+      "title": "REASON, REVELATION AND FAITH",
+      "terms": "It does not establish any theological claim.",
+      "mechanism": "It does not establish any theological claim.",
+      "consequence": "✅ Fact: Religion News Service reported on 26 May 2026 that a consortium involving Brigham Young, Baylor, Notre Dame and Yeshiva researchers tested fourteen AI models for multi-faith bias and presented findings at an AI ethics summit in Athens. ⚠️ Inference: The episode gives a contemporary use for the 2020 science–technology PYQ: technical systems can classify and reproduce religious perspectives, but questions of moral authority, fairness and human dignity remain philosophical and normative.",
+      "trap": "✅ Fact: Religion News Service reported on 26 May 2026 that a consortium involving Brigham Young, Baylor, Notre Dame and Yeshiva researchers tested fourteen AI models for multi-faith bias and presented findings at an AI ethics summit in Athens. ⚠️ Inference: The episode gives a contemporary use for the 2020 science–technology PYQ: technical systems can classify and reproduce religious perspectives, but questions of moral authority, fairness and human dignity remain philosophical and normative.",
+      "answer": "✅ Fact: Religion News Service reported on 26 May 2026 that a consortium involving Brigham Young, Baylor, Notre Dame and Yeshiva researchers tested fourteen AI models for multi-faith bias and presented findings at an AI ethics summit in Athens. ⚠️ Inference: The episode gives a contemporary use for the 2020 science–technology PYQ: technical systems can classify and reproduce religious perspectives, but questions of moral authority, fairness and human dignity remain philosophical and normative."
+    },
+    {
+      "title": "REASON, REVELATION AND FAITH: CORE DISTINCTIONS",
+      "terms": "Role (2024 PYQ): reason (a) constructs natural theology (proofs for God), (b) tests coherence of doctrines, (c) interprets scripture, (d) defends faith (apologetics). ✅ Rationalism: religious beliefs must meet the bar of reason/evidence (Clifford: \"it is wrong always... to believe anything upon insufficient evidence\"). ✅ Limits: proofs are inconclusive (see Proofs note); the transcendent may exceed reason → space for revelation & faith. ⚠️ Rational vs irrational aspects of faith (2023): faith has a rational side (grounds, coherence, cumulative evidence) and a supra-/non-rational side (trust, commitment, the leap beyond proof). ⚠️.",
+      "mechanism": "Core argument/criticism: Each faculty corrects the excess of the others: reason restrains arbitrariness, revelation resists reductionism, and faith converts alleged disclosure into lived commitment.",
+      "consequence": "[Aquinas] \"How does Aquinas' faith-as-'intellectual assent' reconcile reason & faith?\" (2025) → §3. [Reason] \"Role of reason in religion.\" (2024) → §1. [Revelation] \"Distinguish natural & revealed theology (propositional view).\" (2025) → §2. [Justification] \"Epistemic justifications of revelation-claims.\" (2024) → §2. [Faith-revelation] \"Is faith indispensable for revelation?\" (2022) → §3. [Science] \"Significance of religion vis-à-vis present scientific and technological development.\" (2020, 10m) → §9.6 — Barbour's four models, not a Galileo narrative. [Faith/belief] \"Basic tenets of faith; distinguish faith and belief.\" (2020, 15m) → §9.7 — enumerate the seven tenets, then the five axes. [Justification] \"Can religious beliefs be justified?\" (2023, 10m) → §9.9 — evidentialism vs Reformed epistemology; add the svataḥ/parataḥ-prāmāṇya mapping. [Reason regulative] \"Can reason be a regulative force in forming religious beliefs?\" (2021, 20m) → §1 + §9.1 + §9.9 — regulative ≠ constitutive; reason can veto and discipline without generating. [Rational/irrational] \"Rational and irrational aspects of faith.\" (2023, 15m) → §9.5 — insist on supra-rational as a third category. [Miracles] \"Can testimony establish a miracle?\" → §9.8.",
+      "trap": "Final verdict: Aquinas offers the most balanced model when reason establishes preambles and faith assents to mysteries that exceed but do not contradict reason.",
+      "answer": "Revelation is an alleged divine self-disclosure that supplies truth or presence unavailable to unaided reason."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 2
+    },
+    {
+      "page": 2,
+      "y_start": 375,
+      "y_end": 2575,
+      "overlap_px": 260,
+      "from_stage": 1,
+      "continues_stage": 2
+    }
+  ]
+}

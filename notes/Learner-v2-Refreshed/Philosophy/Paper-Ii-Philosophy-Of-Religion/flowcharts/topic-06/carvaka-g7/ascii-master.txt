@@ -1,0 +1,72 @@
+Religious Experience: Nature and Object — COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+START / CENTRAL QUESTION
+  Its philosophy examines phenomenological features, the alleged object, evidential force, interpretive mediation and the possibility of naturalistic explanation.
+        |
+        v
++-- SESSION 01: RELIGIOUS EXPERIENCE: NATURE, OBJECT AND EPISTEMIC PROBLEM
+|   DEFINITION / TERMS : Its philosophy examines phenomenological features, the alleged object, evidential force, interpretive mediation and the possibility of naturalistic explanation.
+|   MECHANISM / ARGUMENT: A subject undergoes an affective or cognitive episode, interprets it through a religious framework and then treats it as disclosure, encounter or transformation.
+|   CONSEQUENCE / CONTRAST: The experience can justify commitment for the subject while remaining contestable as intersubjective evidence.
+|   TRAP / ANSWER-USE: Do not infer a metaphysical object solely from phenomenological intensity, neurological correlation or the sincerity of testimony.
+|   EXAM OPENING: Religious experience may transform the subject, but its private force does not automatically become public proof of the reality it appears to disclose.
++--
+        |
+        v
++-- SESSION 02: WESTERN ACCOUNTS OF RELIGIOUS EXPERIENCE
+|   DEFINITION / TERMS : Religion for James is personal before institutional; the experience of the "MORE" connects the self, through the subconscious, to a wider reality.
+|   MECHANISM / ARGUMENT: Religion for James is personal before institutional; the experience of the "MORE" connects the self, through the subconscious, to a wider reality.
+|   CONSEQUENCE / CONTRAST: PRIMARY / DEFINING (the two that settle the classification) Ineffability — the state defies adequate expression; its quality must be directly experienced, and, like a feeling rather than a proposition, it cannot be imparted to those who have not had it.
+|   TRAP / ANSWER-USE: Reproduce this grading; do not present a flat list of four.
+|   EXAM OPENING: Mystical experience is a mode of religious experience marked, for William James, primarily by ineffability and noetic quality.
++--
+        |
+        v
++-- SESSION 03: INDIAN ACCOUNTS OF RELIGIOUS EXPERIENCE
+|   DEFINITION / TERMS : Religious experience is integral intuition — a knowing that unites, higher than sense & reason. ✅.
+|   MECHANISM / ARGUMENT: Anubhava (direct realisation): in Indian thought the highest religious experience is immediate, intuitive realisation (anubhava/aparokṣānubhūti), not mere belief — the goal of the whole spiritual path. ✅ Advaita (2024 PYQ) — features: ✅ Non-dual (nirvikalpa) experience — the collapse of subject–object duality; the realiser is Brahman ("aham brahmāsmi").
+|   CONSEQUENCE / CONTRAST: Self-certifying (svataḥ-siddha), beyond objectifying speech (avācya; yato vāco nivartante), bliss (ānanda), beyond the categories of ordinary cognition. ⚠️ Terminological discipline: do not call this experience anirvacanīya.
+|   TRAP / ANSWER-USE: In Advaita's technical vocabulary anirvacanīya is the status of māyā and the world-appearance (sad-asad-vilakṣaṇa), not of Brahman or of the realisation of Brahman — see Religious Language §9.5 and Notions of God §2.
+|   EXAM OPENING: Advaitic aparokṣānubhūti (immediate non-mediated realisation) is direct recognition of the identity of ātman (the true self) and Brahman (ultimate reality).
++--
+        |
+        v
++-- SESSION 04: THE OBJECT AND VERIDICALITY OF RELIGIOUS EXPERIENCE
+|   DEFINITION / TERMS : Hick's pluralist reply: the various experiences are culturally-shaped responses to one ultimate "Real" ("the Real an sich" experienced through different lenses). ✅ Mystical experience & revelation (2023 PYQ): mystical experience can be a vehicle of revelation (God/the Real disclosed experientially) — non-propositional revelation; the two are intimately linked. ⚠️.
+|   MECHANISM / ARGUMENT: Is religious experience veridical (of a real object) or merely subjective/psychological? ⚠️ For veridicality: Principle of Credulity (Swinburne) — if it seems to one that X is present, probably X is, absent defeaters; the noetic quality; convergence of mystics.
+|   CONSEQUENCE / CONTRAST: Final verdict: Religious experience can justify the subject defeasibly, but it does not function as universally coercive proof.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: diversity of experiences across religions (which object is real?).
+|   EXAM OPENING: Veridicality asks whether a religious experience presents a real object rather than only a psychologically genuine state.
++--
+        |
+        v
++-- SESSION 05: MYSTICISM, NUMINOUS EXPERIENCE, PRAYER AND WORSHIP
+|   DEFINITION / TERMS : Mysticism seeks unitive or non-discursive awareness, the numinous combines fascination and dread, prayer addresses or attends to the sacred, and worship enacts reverence communally or ritually.
+|   MECHANISM / ARGUMENT: Different practices shape attention, emotion and interpretation, producing experiences understood as union, encounter, dependence, reverence or response.
+|   CONSEQUENCE / CONTRAST: The diversity of forms weakens any single evidential argument but strengthens a phenomenological account of religion as lived orientation.
+|   TRAP / ANSWER-USE: Do not equate prayer with mystical union or assume that every powerful religious emotion has the same alleged object.
+|   EXAM OPENING: Religious experience ranges from extraordinary claims of union to ordinary practices of prayer and worship, so its nature must be classified before its truth is assessed.
++--
+        |
+        v
++-- SESSION 06: JAMES, OTTO, ADVAITA AND FOUNDATIONAL POSITIONS
+|   DEFINITION / TERMS : ✅ James treats the noetic mark as an experienced disclosure of insight not reached by discursive reasoning alone. ✅ James's pragmatic method tests religious life by enduring fruits rather than dismissing it through causal origins. ✅ Otto names the Holy's distinctive phenomenology mysterium tremendum et fascinans. ✅ Aham brahmāsmi is an Upaniṣadic identity formula central to Advaitic interpretation. ⚠️ Radhakrishnan gives direct spiritual intuition priority over its later doctrinal and institutional expressions.
+|   MECHANISM / ARGUMENT: ✅ James treats the noetic mark as an experienced disclosure of insight not reached by discursive reasoning alone. ✅ James's pragmatic method tests religious life by enduring fruits rather than dismissing it through causal origins. ✅ Otto names the Holy's distinctive phenomenology mysterium tremendum et fascinans. ✅ Aham brahmāsmi is an Upaniṣadic identity formula central to Advaitic interpretation. ⚠️ Radhakrishnan gives direct spiritual intuition priority over its later doctrinal and institutional expressions.
+|   CONSEQUENCE / CONTRAST: The resulting consequence is that ✅ James treats the noetic mark as an experienced disclosure of insight not reached...
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: ✅ James treats the noetic mark as an experienced disclosure of insight not reached...
+|   EXAM OPENING: [James] "Nature & variety of religious experience per William James." (2022) → §1. [Advaita] "Main features of religious experience in Advaita Vedānta." (2024) → §2. [Radhakrishnan] "Nature & object of religious experience per Radhakrishnan." (2025) → §2. [Mystical-revelation] "Relation between mystical experience & revelation." (2023) → §3. [Veridicality] "Is religious experience a reliable ground for belief in God?" → §3 + §9.9. [Sacred/Holy] "'Sacred' and 'Holy' as generic names for the object of religion — can God be the object?" (2018, 20m) → §9.10. [Public discourse] "How far can religious experience be made a topic of public discourse?" (2019, 15m) → §9.8. [Prayer/worship] "Distinguish prayer and worship and determine their place in religion." (2020, 15m) → §9.7 — two deliverables, both required. [Vedāntic] "Religious experience in the light of the Vedāntic tradition." (2021, 15m) → §2 + §9.3. [Typology] "Is mystical experience one thing or many?" → §9.6 — Stace vs Zaehner vs Katz.
++--
+        |
+        v
++-- SESSION 07: COMPARATIVE EVALUATION OF RELIGIOUS EXPERIENCE
+|   DEFINITION / TERMS : The comparison tests phenomenology, interpretive mediation, veridicality, testimony and naturalistic explanation across traditions without assuming one common metaphysics.
+|   MECHANISM / ARGUMENT: Each account moves from a reported experience through a conceptual interpretation to a claim about the sacred, ultimate reality or transformation.
+|   CONSEQUENCE / CONTRAST: Cross-tradition comparison reveals recurring experiential structures while preserving major disagreements about object, ontology and evidential force.
+|   TRAP / ANSWER-USE: Do not infer that phenomenological similarity proves metaphysical identity or that neural correlation by itself disproves religious interpretation.
+|   EXAM OPENING: Religious experience is strongest as evidence of transformed consciousness and lived orientation, but weaker as coercive public proof of one disputed metaphysical object.
++--
+        |
+        v
+ANSWER-WRITING SPINE
+definition -> exact terms -> mechanism/evidence -> consequence/contrast
+-> objection/trap -> qualified answer-use

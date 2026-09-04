@@ -1,0 +1,27 @@
+Reason, Revelation and Faith — COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+START / CENTRAL QUESTION
+  Current scholarly anchor — [SUPPORTING]: ⚠️ Inference: The episode gives a contemporary use for the 2020 science–technology PYQ: technical systems can classify and reproduce religious perspectives, but questions of moral authority, fairness and human dignity remain philosophical and normative.
+        |
+        v
++-- SESSION 01: CURRENT SCHOLARLY ANCHOR — [SUPPORTING]
+|   DEFINITION / TERMS : Current scholarly anchor — [SUPPORTING]: ⚠️ Inference: The episode gives a contemporary use for the 2020 science–technology PYQ: technical systems can classify and reproduce religious perspectives, but questions of moral authority, fairness and human dignity remain philosophical and normative.
+|   MECHANISM / ARGUMENT: ⚠️ Inference: The episode gives a contemporary use for the 2020 science–technology PYQ: technical systems can classify and reproduce religious perspectives, but questions of moral authority, fairness and human dignity remain philosophical and normative.
+|   CONSEQUENCE / CONTRAST: It does not establish any theological claim.
+|   TRAP / ANSWER-USE: It does not establish any theological claim.
+|   EXAM OPENING: ✅ Fact: Religion News Service reported on 26 May 2026 that a consortium involving Brigham Young, Baylor, Notre Dame and Yeshiva researchers tested fourteen AI models for multi-faith bias and presented findings at an AI ethics summit in Athens.
++--
+        |
+        v
++-- SESSION 02: VISUAL GATEWAY — THE THREE FUNCTIONS
+|   DEFINITION / TERMS : Visual gateway — the three functions: Final verdict: Reason is best treated as regulative without being assumed to be the sole source of religious truth.
+|   MECHANISM / ARGUMENT: Recommended opening definition: Reason tests coherence and warrant, revelation claims divine self-disclosure, and faith receives that disclosure through trust and commitment.
+|   CONSEQUENCE / CONTRAST: Core argument/criticism: Propositional models emphasise revealed truths, whereas non-propositional models emphasise divine acts or presence interpreted through human experience.
+|   TRAP / ANSWER-USE: Master verdict: Reason should be regulative but need not be constitutive.
+|   EXAM OPENING: Master verdict: Reason should be regulative but need not be constitutive.
++--
+        |
+        v
+ANSWER-WRITING SPINE
+definition -> exact terms -> mechanism/evidence -> consequence/contrast
+-> objection/trap -> qualified answer-use

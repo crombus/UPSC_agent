@@ -1,0 +1,926 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-i-western-philosophy-11",
+  "subject": "Philosophy",
+  "title": "QUINE AND STRAWSON",
+  "short_route": "ONE HEADING, TWO PROJECTS → DOGMA ONE: THE CIRCLE → DOGMA TWO AND THE → THE DUHEM-QUINE MACHINERY AND → RADICAL TRANSLATION, GAVAGAI AND → QUINE'S POSITIVE SYSTEM AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g3\\topic-11_Complete-Learning-Session_2026-08-29.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-western-philosophy-11-ascii-2026-08-27.json",
+  "ascii_spec_sha256": "5784469e09466242d5960bedca6cb4f6f7ca0e4c78fdc10fd3e0a4f9b531b825",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ONE HEADING, TWO PROJECTS: WHAT THE CLAUSE ACTUALLY ASKS",
+      "structural_type": "two-project-orientation-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ONE CLAUSE, TWO PROJECTS",
+          "role": "primary"
+        },
+        {
+          "text": "QUINE REFORMS THE EPISTEMOLOGY",
+          "role": "mechanism"
+        },
+        {
+          "text": "STRAWSON REJECTS THE GIVEN",
+          "role": "comparison"
+        },
+        {
+          "text": "NINE OWNED PYQ PARTS 2018-2025",
+          "role": "evidence"
+        },
+        {
+          "text": "NOT A UNITED FRONT: 1956 CLASH",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "START → the clause reads: Critique of Empiricism; Theory of Basic Particulars and Persons.",
+        "TARGET → classical and logical empiricism, attacked at two different levels.",
+        "QUINE 1908-2000 STRAWSON 1919-2006",
+        "'Two Dogmas of Empiricism' 1951 'Individuals' 1959",
+        "LEVEL → epistemology of LEVEL → starting point; the private confirmation momentary sense-datum"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THE SHARED TARGET",
+          "role": "evidence",
+          "items": [
+            "Classical and logical empiricism is the one enemy both philosophers attack.",
+            "Quine's opponent is the epistemology of individual confirmation.",
+            "Strawson's opponent is the private, momentary sense-datum as the given."
+          ]
+        },
+        {
+          "heading": "THE TWO CRITIQUES",
+          "role": "mechanism",
+          "items": [
+            "Quine dismantles analyticity and reductionism, then installs confirmation holism.",
+            "Strawson shows identification presupposes a public spatio-temporal framework.",
+            "Grice and Strawson defend in 1956 the very dogma Quine attacked in 1951."
+          ]
+        },
+        {
+          "heading": "THE EXAM CONSEQUENCE",
+          "role": "outcome",
+          "items": [
+            "Name the owner-thinker before writing: dogmas and holism are Quine's.",
+            "Person, basic particulars and spatio-temporal thinking are Strawson's.",
+            "Only a bare 'critique of empiricism' stem obliges both names together."
+          ]
+        }
+      ],
+      "mechanism_strip": "Classical and logical empiricism -> attacked at two different levels -> Quine reforms the theory of confirmation -> Strawson rejects the private given -> two verdicts that converge in temper but not in doctrine.",
+      "answer_line": "The syllabus pairs two critics of empiricism who criticise it differently: Quine reforms its epistemology from within through holism, while Strawson rejects its private sense-datum starting point from without through basic particulars and persons.",
+      "source_references": [
+        "SESSION 1"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DOGMA ONE: THE CIRCLE OF SYNONYMY",
+      "structural_type": "circular-refutation-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ANALYTIC / SYNTHETIC DISTINCTION",
+          "role": "primary"
+        },
+        {
+          "text": "CIRCLE OF SYNONYMY",
+          "role": "mechanism"
+        },
+        {
+          "text": "SALVA VERITATE NEEDS NECESSITY",
+          "role": "evidence"
+        },
+        {
+          "text": "SEMANTIC RULES ONLY GIVE ANALYTIC-IN-L",
+          "role": "comparison"
+        },
+        {
+          "text": "DEGREE, NOT KIND",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT: ANALYTIC TRUTHS DO NOT EXIST",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CLAIM UNDER TEST → there is a principled line between analytic and synthetic truth.",
+        "ANALYTIC = true by virtue of MEANING",
+        "MEANING → requires SYNONYMY",
+        "DEFINITION → only RECORDS an antecedent synonymy → CIRCULAR",
+        "INTERCHANGEABILITY salva veritate needs NECESSITY, a cognate of analyticity → CIRCULAR extensional counter-case: creature with"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CLAIM UNDER TEST → there is a principled line between analytic and synthetic truth.",
+            "ANALYTIC = true by virtue of MEANING",
+            "MEANING → requires SYNONYMY",
+            "DEFINITION → only RECORDS an antecedent synonymy → CIRCULAR"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INTERCHANGEABILITY salva veritate needs NECESSITY, a cognate of analyticity → CIRCULAR extensional counter-case: creature with a heart / with a kidney",
+            "SEMANTIC RULES (Carnap) → defined via 'analytic-in-L' → CIRCULAR",
+            "OUTCOME → no principled, non-circular criterion of analyticity.",
+            "EXACT CONCLUSION → a difference of DEGREE (centrality), not of KIND."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "OBJECTION → Grice and Strawson 1956: a usable distinction needs no definition.",
+            "REPLY → usability is not theoretical legitimacy; compare witch / non-witch.",
+            "PROVENANCE → Philosophical Review, January 1951; revised 1953."
+          ]
+        }
+      ],
+      "mechanism_strip": "Analytic -> meaning -> synonymy -> definition or interchangeability salva veritate or semantic rules -> each route presupposes analyticity -> the criterion is circular.",
+      "answer_line": "Quine does not deny that 'all bachelors are unmarried' looks analytic; he denies that the analytic/synthetic distinction can be given a non-circular criterion, so it is a difference of degree of centrality in the web, not a difference of kind.",
+      "source_references": [
+        "SESSION 2"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "DOGMA TWO AND THE WEB OF BELIEF",
+      "structural_type": "field-of-force-holism-panel",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "REDUCTIONISM REJECTED",
+          "role": "primary"
+        },
+        {
+          "text": "CORPORATE BODY, NOT SENTENCE BY SENTENCE",
+          "role": "mechanism"
+        },
+        {
+          "text": "WEB OF BELIEF / FIELD OF FORCE",
+          "role": "evidence"
+        },
+        {
+          "text": "NO STATEMENT IS IMMUNE",
+          "role": "outcome"
+        },
+        {
+          "text": "MINIMUM MUTILATION, NOT ANYTHING GOES",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DOGMA 2 → reductionism: each sentence has its own confirming experiences.",
+        "REFUTATION → statements face the tribunal of sense experience only as a corporate body.",
+        "(o) (o) (o) (o) (o) <- observation sentences at the PERIPHERY",
+        "[ physics, chemistry, biology ] <- revised fairly easily",
+        "[ mathematics ] <- revised rarely"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "DOGMA 2 → reductionism: each sentence has its own confirming experiences.",
+            "REFUTATION → statements face the tribunal of sense experience only as a corporate body.",
+            "(o) (o) (o) (o) (o) <- observation sentences at the PERIPHERY",
+            "[ physics, chemistry, biology ] <- revised fairly easily",
+            "[ mathematics ] <- revised rarely"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[ LOGIC ] <- revised last, never immune",
+            "CLASH AT THE EDGE → revise somewhere → the place of revision is CHOSEN.",
+            "option A → adjust a peripheral belief option B → plead hallucination option C → revise a deep interior law",
+            "DOCTRINE 1 → any statement can be held true come what may.",
+            "DOCTRINE 2 → no statement is immune to revision, not even a law of logic."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "CONSEQUENCES → no analytic/synthetic line; no a priori/a posteriori line",
+            "theory-choice by simplicity, conservatism, generality, fecundity",
+            "the verification principle loses its application.",
+            "LIMIT → minimum mutilation, Philosophy of Logic 1970, blocks 'anything goes'."
+          ]
+        }
+      ],
+      "mechanism_strip": "Individual confirmation is impossible -> statements face experience as a corporate body -> the web of belief -> revision is chosen, not dictated -> pragmatic virtues govern theory-choice.",
+      "answer_line": "Confirmation holism replaces individual verification with a web of belief whose interior is protected by choice rather than by immunity, so any sentence may be saved and none is beyond revision, but only at a stated cost elsewhere in the system.",
+      "source_references": [
+        "SESSION 3"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "THE DUHEM-QUINE MACHINERY AND ITS TWO AUTHORS",
+      "structural_type": "inference-chain-plus-comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "(H & A) IMPLIES O",
+          "role": "primary"
+        },
+        {
+          "text": "MODUS TOLLENS HITS THE CONJUNCTION",
+          "role": "mechanism"
+        },
+        {
+          "text": "NEPTUNE 1846 / VULCAN THEN RELATIVITY 1915",
+          "role": "evidence"
+        },
+        {
+          "text": "DUHEM 1906 IS NOT QUINE 1951",
+          "role": "comparison"
+        },
+        {
+          "text": "POPPER AND LAKATOS ACCEPT THE LOGIC",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "TESTABLE CLAIM → ( H & A ) implies O, where A is background theory",
+        "OBSERVATION → NOT-O",
+        "MODUS TOLLENS → NOT ( H & A ) only: H is false OR some",
+        "LOGIC IS SILENT → the conjunct to surrender is not dictated by the evidence.",
+        "RESULT → refutation is never conclusive against a single statement"
+      ],
+      "matrix": [
+        [
+          "Axis",
+          "DUHEM 1906",
+          "QUINE 1951"
+        ],
+        [
+          "Scope",
+          "theoretical physics only",
+          "the whole of science"
+        ],
+        [
+          "Logic & maths",
+          "exempt",
+          "included; none immune"
+        ],
+        [
+          "Corollary",
+          "no experimentum crucis",
+          "underdetermination"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "TESTABLE CLAIM → ( H & A ) implies O, where A is background theory and conditions.",
+            "OBSERVATION → NOT-O",
+            "MODUS TOLLENS → NOT ( H & A ) only: H is false OR some element of A is false.",
+            "LOGIC IS SILENT → the conjunct to surrender is not dictated by the evidence.",
+            "RESULT → refutation is never conclusive against a single statement"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "DUHEM 1906",
+            "QUINE 1951",
+            "theoretical physics only",
+            "the whole of science",
+            "Logic & maths"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "no experimentum crucis",
+            "CASE 1 → Uranus: revise the auxiliary → NEPTUNE, Le Verrier and Adams, 1846.",
+            "CASE 2 → Mercury: 'VULCAN' fails → revise the deep law → relativity, 1915.",
+            "REPLIES → Popper: falsification is a methodological decision, not pure logic.",
+            "Lakatos: hard core plus revisable protective belt."
+          ]
+        }
+      ],
+      "mechanism_strip": "(H and A) implies O -> observation gives not-O -> modus tollens yields not-(H and A) -> logic is silent on the conjunct -> revision is a pragmatic choice -> individual verifiability has no application.",
+      "answer_line": "The Duhem-Quine thesis is the machinery behind holism: because the testable unit is a conjunction of hypothesis and auxiliaries, modus tollens condemns the conjunction and leaves the choice of revision to pragmatic judgement rather than to evidence.",
+      "source_references": [
+        "SESSION 4"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "RADICAL TRANSLATION, GAVAGAI AND THE THREE RESULTS",
+      "structural_type": "branch-tree-with-terminal-results",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RADICAL TRANSLATION",
+          "role": "primary"
+        },
+        {
+          "text": "ONE STIMULUS MEANING, FIVE READINGS",
+          "role": "mechanism"
+        },
+        {
+          "text": "APPARATUS OF INDIVIDUATION IN DISPUTE",
+          "role": "evidence"
+        },
+        {
+          "text": "INSCRUTABILITY THEN INDETERMINACY",
+          "role": "outcome"
+        },
+        {
+          "text": "CHOMSKY: ONLY UNDERDETERMINATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SET-UP → radical translation: no dictionary, no interpreter; evidence is stimulation plus assent or dissent",
+        "A rabbit runs past; the native says 'Gavagai'.",
+        "'rabbit' 'undetached 'temporal 'rabbithood' 'it is rabbiting' rabbit- stage of a (universal (feature-placing",
+        "parts' rabbit' instantiated) no object at all) all share ONE stimulus meaning",
+        "ASK 'same gavagai?' → presupposes the identity predicate, articles, plurals, quantifiers: the APPARATUS OF INDIVIDUATION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "SET-UP → radical translation: no dictionary, no interpreter; evidence is stimulation plus assent or dissent only. Word and Object 1960, ch. 2.",
+            "A rabbit runs past; the native says 'Gavagai'.",
+            "'rabbit' 'undetached 'temporal 'rabbithood' 'it is rabbiting' rabbit- stage of a (universal (feature-placing",
+            "parts' rabbit' instantiated) no object at all) all share ONE stimulus meaning"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ASK 'same gavagai?' → presupposes the identity predicate, articles, plurals, quantifiers: the APPARATUS OF INDIVIDUATION in dispute.",
+            "RESULT 1 → INSCRUTABILITY OF REFERENCE: no fact about what the terms refer to.",
+            "RESULT 2 → INDETERMINACY OF TRANSLATION: rival analytical hypotheses agree on all observation sentences yet differ elsewhere; nothing decides.",
+            "RESULT 3 → ONTOLOGICAL RELATIVITY: reference only relative to a background manual."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "PREMISES → behaviourism about evidence; verificationism about facts; naturalism.",
+            "OBJECTIONS → Chomsky: only underdetermination. Davidson: harmless, scale-like."
+          ]
+        }
+      ],
+      "mechanism_strip": "One stimulus meaning -> several rival term-translations -> the identity question presupposes individuation -> reference is inscrutable -> rival manuals agree on all observation sentences -> translation is indeterminate -> reference is theory-relative.",
+      "answer_line": "Gavagai is not a curiosity but the constructive completion of Two Dogmas: the circle showed that analyticity cannot be defined, and radical translation shows why, because there are no determinate meanings for a definition to capture.",
+      "source_references": [
+        "SESSION 5"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "QUINE'S POSITIVE SYSTEM AND THE REFORM OF EMPIRICISM",
+      "structural_type": "criterion-to-programme-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TO BE IS TO BE A BOUND VARIABLE",
+          "role": "primary"
+        },
+        {
+          "text": "REGIMENT AND AUDIT THE QUANTIFIERS",
+          "role": "mechanism"
+        },
+        {
+          "text": "NATURALIZED EPISTEMOLOGY 1968/69",
+          "role": "evidence"
+        },
+        {
+          "text": "EMPIRICISM WITHOUT THE DOGMAS",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT DATED TO TWO DOGMAS 1951",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "QUESTION 1 → what is there?",
+        "CRITERION → 'to be is to be the value of a bound variable', On What",
+        "METHOD → regiment best science into first-order logic; audit its quantifiers.",
+        "CONSEQUENCE → commitment is relative to the regimentation → ontological relativity.",
+        "QUESTION 2 → how do we know?"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "QUESTION 1 → what is there?",
+            "CRITERION → 'to be is to be the value of a bound variable', On What There Is 1948.",
+            "METHOD → regiment best science into first-order logic; audit its quantifiers.",
+            "CONSEQUENCE → commitment is relative to the regimentation → ontological relativity.",
+            "QUESTION 2 → how do we know?"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ANSWER → naturalized epistemology; philosophy continuous with science,",
+            "'a chapter of psychology', 1968/69; sensory input to theoretical output.",
+            "IMAGE → Neurath's boat: rebuilt plank by plank at sea, never in dry dock.",
+            "QUESTION 3 → what happens to the a priori?",
+            "CHARGE → no non-circular analyticity + universal revisability + no first philosophy = holding a belief a priori is a metaphysical article of faith."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "QUESTION 4 → is empiricism abandoned?",
+            "ANSWER → no: empiricism WITHOUT the dogmas; experience still governs belief, holistically rather than sentence by sentence.",
+            "BRIDGE → later Wittgenstein converges (museum myth rejected, holism, anti-private) but parts on method: Quine REFORMS by regimentation,",
+            "Wittgenstein DESCRIBES."
+          ]
+        }
+      ],
+      "mechanism_strip": "Dogmas fall -> a positive system is owed -> quantifiers fix commitment -> regimentation makes commitment theory-relative -> epistemology is naturalised -> empiricism survives in holistic form.",
+      "answer_line": "Quine does not reject empiricism but purifies it: experience still governs belief, yet only holistically, ontology is read off regimented science, and epistemology becomes a chapter of natural science rather than its a priori foundation.",
+      "source_references": [
+        "SESSION 6"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "STRAWSON'S BASIC PARTICULARS AND THE IDENTIFICATION FRAMEWORK",
+      "structural_type": "dependence-argument-with-thought-experiment",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DESCRIPTIVE, NOT REVISIONARY",
+          "role": "primary"
+        },
+        {
+          "text": "RE-IDENTIFICATION IS THE HINGE",
+          "role": "mechanism"
+        },
+        {
+          "text": "ONE PUBLIC SPATIO-TEMPORAL FRAMEWORK",
+          "role": "evidence"
+        },
+        {
+          "text": "MATERIAL BODIES ARE BASIC",
+          "role": "outcome"
+        },
+        {
+          "text": "AUDITORY WORLD NEEDS A MASTER-SOUND",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "METHOD → DESCRIPTIVE metaphysics: describe the scheme we actually use.",
+        "contrast → REVISIONARY: Descartes, Leibniz, Berkeley propose a better scheme.",
+        "provenance → Individuals 1959, 'An Essay in Descriptive Metaphysics'.",
+        "DEFINITION → a BASIC PARTICULAR is identifiable without identifying anything else.",
+        "ARGUMENT FROM RE-IDENTIFICATION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "METHOD → DESCRIPTIVE metaphysics: describe the scheme we actually use.",
+            "contrast → REVISIONARY: Descartes, Leibniz, Berkeley propose a better scheme.",
+            "provenance → Individuals 1959, 'An Essay in Descriptive Metaphysics'.",
+            "DEFINITION → a BASIC PARTICULAR is identifiable without identifying anything else.",
+            "ARGUMENT FROM RE-IDENTIFICATION"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "2 re-identification requires ONE unified spatio-temporal system",
+            "3 material bodies constitute it: three-dimensional, enduring, publicly located",
+            "4 sounds, events, private experiences are identified only BY reference to bodies",
+            "5 therefore MATERIAL BODIES are basic; PERSONS are the second basic particular",
+            "STATUS → conceptual dependence, not causal or metaphysical priority."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "MASTER-SOUND whose pitch fixes position → a space-analogue is reintroduced.",
+            "VERDICT → the experiment supports the thesis rather than defeating it.",
+            "OBJECTION → Evans: the construction may smuggle in spatial notions.",
+            "2020 LINK → spatio-temporal thinking is a precondition of OBJECTIVE thinking."
+          ]
+        }
+      ],
+      "mechanism_strip": "Objective thought -> requires re-identification -> requires one unified spatio-temporal system -> constituted by material bodies -> everything else is identified through them -> bodies are basic.",
+      "answer_line": "Material bodies are basic particulars because objective thought requires re-identifying a particular as the same one again, re-identification requires a single public spatio-temporal framework, and only enduring bodies constitute such a framework.",
+      "source_references": [
+        "SESSION 7"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PERSONS: THE PREDICATE MATRIX AND THE DOUBLE DEMOLITION",
+      "structural_type": "matrix-plus-transcendental-argument",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PERSON IS LOGICALLY PRIMITIVE",
+          "role": "primary"
+        },
+        {
+          "text": "M-PREDICATES AND P-PREDICATES",
+          "role": "mechanism"
+        },
+        {
+          "text": "SELF-ASCRIPTION NEEDS OTHER-ASCRIPTION",
+          "role": "evidence"
+        },
+        {
+          "text": "BLOCKS DUALISM AND NO-OWNERSHIP",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT LOGICAL BEHAVIOURISM",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "THESIS → the concept of a PERSON is logically PRIMITIVE; not mind plus body assembled.",
+        "P-PREDICATES also true of mere",
+        "states of consciousness and action; only persons material bodies",
+        "others by behavioural criteria; self without",
+        "'weighs 70 kg'"
+      ],
+      "matrix": [
+        [
+          "M-PREDICATES",
+          "P-PREDICATES also true of mere",
+          "states of consciousness and action; only persons material bodies",
+          "others by behavioural criteria; self without"
+        ],
+        [
+          "'weighs 70 kg'",
+          "observation or criteria → ASYMMETRY",
+          "",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "THESIS → the concept of a PERSON is logically PRIMITIVE; not mind plus body assembled.",
+            "P-PREDICATES also true of mere",
+            "states of consciousness and action; only persons material bodies",
+            "others by behavioural criteria; self without",
+            "'weighs 70 kg'"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "observation or criteria → ASYMMETRY",
+            "1 I self-ascribe P-predicates ('I am in pain')",
+            "2 a self-ascribable predicate must be understood as ascribable to others",
+            "3 other-ascription requires identifying others as single M-and-P subjects",
+            "4 therefore the person concept is presupposed by self-ascription itself"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "BLOCKS CARTESIAN DUALISM BLOCKS THE NO-OWNERSHIP THEORY two independent substances cannot 'the experiences had by this body' be the ONE subject",
+            "P-predicates covertly restores the ownership it become unlearnable and other minds denies",
+            "Schlick and Lichtenberg's unknowable 'it thinks' is self-refuting",
+            "GUARD → not logical behaviourism: behaviour is criterial evidence, not meaning.",
+            "OBJECTIONS → co-instantiation rather than primitiveness; Ayer on no-ownership."
+          ]
+        }
+      ],
+      "mechanism_strip": "Self-ascription of P-predicates -> presupposes understanding their other-ascription -> presupposes identifying others as single M-and-P subjects -> the person concept is presupposed -> person is primitive.",
+      "answer_line": "Self-ascription of experience presupposes other-ascription, other-ascription requires identifying others as single subjects of both bodily and conscious predicates, and therefore the concept of a person is logically primitive rather than assembled from mind and body.",
+      "source_references": [
+        "SESSION 8"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "REFERENCE, PRESUPPOSITION AND STRAWSON'S OWN ANTI-EMPIRICISM",
+      "structural_type": "comparison-matrix-plus-five-line-ledger",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PEOPLE REFER, SENTENCES MEAN",
+          "role": "primary"
+        },
+        {
+          "text": "PRESUPPOSED, NOT ASSERTED",
+          "role": "mechanism"
+        },
+        {
+          "text": "TRUTH-VALUE GAP, NOT FALSITY",
+          "role": "outcome"
+        },
+        {
+          "text": "FIVE ANTI-EMPIRICIST LINES",
+          "role": "evidence"
+        },
+        {
+          "text": "DESCRIPTIVE SCOPE IS A REAL LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TEST SENTENCE → 'The present King of France is bald' (there is no such king).",
+        "RUSSELL, On Denoting 1905",
+        "STRAWSON, On Referring",
+        "Who refers",
+        "the sentence, by quantifier"
+      ],
+      "matrix": [
+        [
+          "Issue",
+          "RUSSELL, On Denoting 1905",
+          "STRAWSON, On Referring"
+        ],
+        [
+          "Who refers",
+          "the sentence, by quantifier",
+          "people, in a USE"
+        ],
+        [
+          "Existence",
+          "ASSERTED in the analysis",
+          "PRESUPPOSED, not asserted"
+        ],
+        [
+          "Empty term",
+          "the statement is FALSE",
+          "a TRUTH-VALUE GAP"
+        ],
+        [
+          "Meaning",
+          "truth-conditions of a type",
+          "rules for correct use"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "TEST SENTENCE → 'The present King of France is bald' (there is no such king).",
+            "RUSSELL, On Denoting 1905",
+            "STRAWSON, On Referring",
+            "Who refers",
+            "the sentence, by quantifier"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "Empty term",
+            "the statement is FALSE",
+            "a TRUTH-VALUE GAP",
+            "truth-conditions of a type",
+            "rules for correct use"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "2 bundle and no-ownership selves collapse → person is primitive [Individuals 3]",
+            "3 reference abstracted from use is a mistake [On Referring]",
+            "4 the global demand to justify induction is senseless [Logical Theory 1952]",
+            "5 objectivity needs a framework not drawn from experience [Bounds of Sense 1966]",
+            "FORM → take an undisputed fact, ask its conditions, show the empiricist materials fail."
+          ]
+        }
+      ],
+      "mechanism_strip": "Meaning belongs to the sentence-type as rules -> truth-value arises only in a use -> the definite article presupposes existence -> failure yields a gap -> the same logic makes identification depend on a public framework.",
+      "answer_line": "Sentences do not refer, people refer in a use on an occasion, so existence is presupposed rather than asserted and reference-failure produces a truth-value gap; the same anti-atomism makes the given public rather than private.",
+      "source_references": [
+        "SESSION 9"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "synthesis",
+      "title": "CONFRONTATION, CONVERGENCE AND THE REUSABLE ANSWER SPINE",
+      "structural_type": "synthesis-pivot-and-answer-rail",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "REVISABLE THEORY OR PRESUPPOSED FRAME",
+          "role": "primary"
+        },
+        {
+          "text": "METHOD MIRRORS DOCTRINE",
+          "role": "mechanism"
+        },
+        {
+          "text": "ANTI-CARTESIAN PUBLIC ANCHOR",
+          "role": "comparison"
+        },
+        {
+          "text": "LAYERED VERDICT, NOT A WINNER",
+          "role": "outcome"
+        },
+        {
+          "text": "THEY BASICALLY AGREE IS A TRAP",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "descriptive metaphysics",
+        "revisable come what may",
+        "core is indispensable",
+        "behavioural, indeterminate",
+        "fixed by public criteria"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "descriptive metaphysics",
+            "revisable come what may",
+            "core is indispensable",
+            "behavioural, indeterminate",
+            "fixed by public criteria"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "the public spatio-temporal",
+            "CONVERGENCES → anti-Cartesian about a private inner object",
+            "the public and structured replaces the atomic and private",
+            "the museum myth of determinate private meanings is rejected by both.",
+            "DO NOT OVERSTATE → they differ on status, meaning and method; 'they basically agree' is the standing trap on comparative stems."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "ANSWER SPINE → 1 decode the directive and name the owner-thinker",
+            "2 thesis in one line",
+            "3 mechanism with the exact term",
+            "4 objection and reply, objector named",
+            "5 graded verdict with a provenance-clean date"
+          ]
+        }
+      ],
+      "mechanism_strip": "Two critiques of one target -> opposite views of the scheme's status -> mirrored methods -> genuine convergences in temper -> a layered verdict on revisability.",
+      "answer_line": "Quine and Strawson attack empiricism from opposite ends and leave one standing question: the periphery of the scheme is Quineanly revisable, yet some framework role of a public world and re-identifiable subjects looks Strawsonianly indispensable.",
+      "source_references": [
+        "SESSION 10"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 1 — TWO-PROJECT MAP - ONE SYLLABUS",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED SESSION 2 — QUINE, DOGMA 1 - THE",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED SESSION 3 — QUINE, DOGMA 2 AND THE",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED SESSION 4 — THE DUHEM-QUINE THESIS - WHY",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 5 — RADICAL TRANSLATION AND 'GAVAGAI'",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED SESSION 6 — ONTOLOGICAL COMMITMENT, NATURALIZED EPISTEMOLOGY AND",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED SESSION 7 — STRAWSON'S BASIC PARTICULARS - MATERIAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "ADVANCED SESSION 1 — Two-Project Map - One Syllabus Heading, Two Philosophers, Two Different Critiques of Empiricism",
+            "ADVANCED SESSION 2 — Quine, Dogma 1 - The Analytic/Synthetic Distinction and the Circle of Synonymy",
+            "ADVANCED SESSION 3 — Quine, Dogma 2 and the Positive Doctrine - Reductionism Rejected, Confirmation Holism and the Web of Belief",
+            "ADVANCED SESSION 4 — The Duhem-Quine Thesis - Why No Single Hypothesis Faces Experience Alone"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "ADVANCED SESSION 5 — Radical Translation and 'Gavagai' - Inscrutability of Reference and Indeterminacy of Translation",
+            "ADVANCED SESSION 6 — Ontological Commitment, Naturalized Epistemology and Ontological Relativity - and Quine's Convergence with the Later Wittgenstein",
+            "ADVANCED SESSION 7 — Strawson's Basic Particulars - Material Bodies and the Single Spatio-Temporal Framework",
+            "ADVANCED SESSION 8 — Strawson's Persons - The Primitive Concept, M/P-Predicates, and the Block on Dualism"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "ADVANCED SESSION 9 — 'On Referring' versus Russell, and Strawson as a Critic of Empiricism",
+            "ADVANCED SESSION 10 — Synthesis - Quine versus Strawson, Their Convergences, and the Universal Answer Spine",
+            "ADVANCED DOSSIER REFINEMENTS — USE SELECTIVELY",
+            "The shared item is a target , not a shared thesis."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

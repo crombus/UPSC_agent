@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-27",
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-10",
+  "official_syllabus_verbatim": "Nature of Religious Language : Analogical and Symbolic; Cognitivist and Non-cognitive.",
+  "authoritative_sources": {
+    "canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Religious-Language.md",
+    "pyq_ledger": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+    "official_syllabus": "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md",
+    "aquinas": "https://www.newadvent.org/summa/1013.htm",
+    "icml": "https://icml.cc/virtual/2026/74717"
+  },
+  "changes": [
+    "Aquinas corrected to essential/eminent predication and inadequate creaturely mode.",
+    "Later Thomist/Cajetanian taxonomy qualified.",
+    "Wittgenstein separated from later Wittgensteinian developments.",
+    "Mimamsa, sphota, Nyaya and Advaita distinctions repaired.",
+    "ICML title, eight authors, workshop-poster status, event date and URL corrected."
+  ],
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md": "8fad49a0748460d3b939de6b9ab3d92b77e15d6bb0e7a257ae9f5a750e7be8f5",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md": "c03a56f299b9894dbc05c0ed66fd079d6ea59781a4894502095e788346928117",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Religious-Language.md": "eb8ec41f6c09ccc2c2e989f96efa4afd41fd0d03275fa5f1a121302a576beeff"
+  }
+}

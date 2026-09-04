@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-08",
+  "generation": 6,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-08\\g6\\topic-08_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    2152
+  ],
+  "stages": [
+    {
+      "title": "RELIGION AND MORALITY",
+      "terms": "It does not by itself settle the philosophical question whether morality is grounded in religion.",
+      "mechanism": "It does not by itself settle the philosophical question whether morality is grounded in religion.",
+      "consequence": "✅ Fact: Reporting on the 2026 Sabarimala review hearings describes the Supreme Court’s renewed examination of equality, religious freedom, essential religious practices and constitutional morality. ⚠️ Inference: The controversy illustrates the owner’s interaction thesis: morality may be shaped by religion, while public moral principles may also criticise religious practices.",
+      "trap": "✅ Fact: Reporting on the 2026 Sabarimala review hearings describes the Supreme Court’s renewed examination of equality, religious freedom, essential religious practices and constitutional morality. ⚠️ Inference: The controversy illustrates the owner’s interaction thesis: morality may be shaped by religion, while public moral principles may also criticise religious practices.",
+      "answer": "✅ Fact: Reporting on the 2026 Sabarimala review hearings describes the Supreme Court’s renewed examination of equality, religious freedom, essential religious practices and constitutional morality. ⚠️ Inference: The controversy illustrates the owner’s interaction thesis: morality may be shaped by religion, while public moral principles may also criticise religious practices."
+    },
+    {
+      "title": "RELIGION AND MORALITY: CORE DISTINCTIONS",
+      "terms": "Euthyphro dilemma (Plato): Is the pious loved by the gods because it is pious, or pious because it is loved? ✅ Horn 1 (good because commanded) → morality is arbitrary (God could command cruelty and it'd be \"good\").",
+      "mechanism": "🔑 Mnemonic — \"Depend / Detach / Dialogue\": morality depends on religion (Divine Command), detaches from it (Kant/secular), or dialogues with it (interaction).",
+      "consequence": "Master verdict: Morality is not conceptually reducible to religion, but religion can supply motivation, formation and cosmic significance; morality in turn remains an indispensable internal and external critic of religious life.",
+      "trap": "Morality without religion is possible — secular ethics (Kant, utilitarianism, humanism) grounds morality in reason/consequences, not God. → the asymmetry.",
+      "answer": "The dependence view holds that morality requires religion for its authority, motivation or ultimate sanction, but these three claims must be assessed separately."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2152,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 2
+    }
+  ]
+}

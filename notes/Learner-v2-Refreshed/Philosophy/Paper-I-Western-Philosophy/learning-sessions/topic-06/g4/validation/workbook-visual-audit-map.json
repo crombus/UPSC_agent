@@ -1,0 +1,618 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g4\\topic-06_Solved-Practice-Workbook_2026-09-02.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g4\\topic-06_Solved-Practice-Workbook_2026-09-02.pdf",
+  "mode": "workbook",
+  "topic_key": "philosophy-paper-i-western-philosophy-06",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 191,
+      "markdown_body_line_end": 191,
+      "heading": "CANONICAL EXAM APPARATUS (PRESERVED VERBATIM)",
+      "preview": "The examiner apparatus below is reproduced verbatim from the canonical Moore-Russell-EarlyWittgenstein.md (headings demoted, navigation links stripped). It is preserved intact so that no canonical depth - inter-thinker debates, criticisms a",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 700.024
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 195,
+      "markdown_body_line_end": 202,
+      "heading": "Inter-Thinker and Inter-School Debates",
+      "preview": "Axis | Moore | Russell | Early Wittgenstein",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Axis",
+          "Moore",
+          "Russell",
+          "Early Wittgenstein"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 678.024
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 457.622
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 206,
+      "markdown_body_line_end": 211,
+      "heading": "Russell's Logical Atomism vs Wittgenstein's Tractatus Atomism",
+      "preview": " | Russell | Wittgenstein",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "",
+          "Russell",
+          "Wittgenstein"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 435.622
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 247.82
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 219,
+      "markdown_body_line_end": 223,
+      "heading": "8.1 Criticisms of Moore",
+      "preview": "Objection | Assessment",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Objection",
+          "Assessment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 205.32
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 61.119
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 227,
+      "markdown_body_line_end": 231,
+      "heading": "8.2 Criticisms of Russell",
+      "preview": "Objection | Assessment",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Objection",
+          "Assessment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 631.89
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 235,
+      "markdown_body_line_end": 240,
+      "heading": "8.3 Criticisms of the Tractatus",
+      "preview": "Objection | Assessment",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Objection",
+          "Assessment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 609.89
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 433.288
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 246,
+      "markdown_body_line_end": 255,
+      "heading": "Common UPSC Traps",
+      "preview": "Trap | Discrimination",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Trap",
+          "Discrimination"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 409.788
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 69.987
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 261,
+      "markdown_body_line_end": 272,
+      "heading": "Keyword and Statement Bank",
+      "preview": "# | Item | Use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "#",
+          "Item",
+          "Use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 472.29
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 299,
+      "markdown_body_line_end": 299,
+      "heading": "PYQ Routing (2018-2025)",
+      "preview": "⚠️ **Corpus signal:** 14 primary-owned question-parts out of 112. The local Paper I corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 719.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 301,
+      "markdown_body_line_end": 316,
+      "heading": "PYQ Routing (2018-2025)",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 14,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 719.424
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 198.522
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 323,
+      "markdown_body_line_end": 332,
+      "heading": "10-mark: \"The golden mountain is very high - discuss via Russell's theory of descriptions.\" (2025)",
+      "preview": "Problem : The sentence seems to be ABOUT a non-existent entity. Does it commit us to",
+      "metadata": {
+        "language": "plain",
+        "line_count": 8,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 138.322
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 47.322
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 335,
+      "markdown_body_line_end": 348,
+      "heading": "15-mark: Moore's refutation of idealism with reference to blue/green/consciousness. (2025)",
+      "preview": "Frame   : Idealist claim — esse est percipi. To be = to be perceived.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 12,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 656.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 351,
+      "markdown_body_line_end": 371,
+      "heading": "20-mark: Russell's incomplete symbols -> logical atomism. (2024)",
+      "preview": "Frame   : Russell's analytic method — reveal logical form behind grammatical form.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 19,
+        "max_source_line_length": 122
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 634.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 413.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 377,
+      "markdown_body_line_end": 386,
+      "heading": "Directive Decoder",
+      "preview": "Directive | What it demands | Structural obligation for **this** file | Fatal error",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Directive",
+          "What it demands",
+          "Structural obligation for **this** file",
+          "Fatal error"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 315.89
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 392,
+      "markdown_body_line_end": 401,
+      "heading": "Graded Verdict Bank",
+      "preview": "Sub-topic | **10-mark verdict** | **15-mark verdict** | **20-mark verdict**",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Sub-topic",
+          "**10-mark verdict**",
+          "**15-mark verdict**",
+          "**20-mark verdict**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 292.39
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 643.39
+        }
+      },
+      "pdf_pages": [
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 410,
+      "markdown_body_line_end": 421,
+      "heading": "Moore and Russell - attribution and dating",
+      "preview": "Item | Correct provenance | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Item",
+          "Correct provenance",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 583.69
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 179.088
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 424,
+      "markdown_body_line_end": 437,
+      "heading": "Wittgenstein - the Tractatus: numbering and translation",
+      "preview": "Item | Discipline",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Item",
+          "Discipline"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 116.29
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 439,
+      "markdown_body_line_end": 439,
+      "heading": "Wittgenstein - the Tractatus: numbering and translation",
+      "preview": "❌ **Never write:** that the *Tractatus* was \"published in English in 1921\"; that Wittgenstein \"said language is a picture of the world\" without the *logical form* qualification; or that Russell invented logical atomism unaided — his own 191",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 116.29
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 57.422
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 460,
+      "markdown_body_line_end": 460,
+      "heading": "ORIGINAL MCQ MASTERY SET - EXACTLY 40 QUESTIONS",
+      "preview": "Questions 1-32 are core coverage across all ten subtopics; Questions 33-40 are remedial items targeting the most common misreadings. Correct answers rotate strictly A -> B -> C -> D ten times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 594.791
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 550.124
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1341,
+      "markdown_body_line_end": 1343,
+      "heading": "Practice Design",
+      "preview": "DIRECTIVE -> THESIS -> DOCTRINE -> NAMED TEXT/EXAMPLE -> OBJECTION/REPLY -> VERDICT",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 751.891
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 730.891
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1347,
+      "markdown_body_line_end": 1347,
+      "heading": "SOLVED PYQ BANK - EXACTLY 14 VERIFIED CLAUSE-OWNED QUESTIONS",
+      "preview": "Exact wording, year and marks are parsed from the continuous local Western Philosophy Paper I bank for 2018-2025. Moore-Russell-Early Wittgenstein owns exactly 14 primary parts (joint-highest), at least one in every year. The 2018 Q3(a) Ber",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 705.891
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 618.624
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1680,
+      "markdown_body_line_end": 1680,
+      "heading": "ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS",
+      "preview": "Three original questions authored for this package (not PYQs), one each at 10, 15 and 20 marks, with full model solutions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 717.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 672.624
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+Proofs for the Existence of God and their Critique — COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+START / CENTRAL QUESTION
+  Core argument: Every proof must be tested for validity, soundness and adequacy: whether the conclusion follows, the premises are true and the being reached is genuinely God.
+        |
+        v
++-- SESSION 01: THE THREE QUESTIONS EVERY PROOF MUST SURVIVE
+|   DEFINITION / TERMS : Core argument: Every proof must be tested for validity, soundness and adequacy: whether the conclusion follows, the premises are true and the being reached is genuinely God.
+|   MECHANISM / ARGUMENT: Almost every UPSC critique question ("critically examine", "along with its criticism") is answered by locating the objection on one of these three tiers instead of shouting a general "the proof fails".
+|   CONSEQUENCE / CONTRAST: Preference therefore depends on the criterion — evidential contact favours a posteriori, modal strength favours a priori, and religious adequacy is achieved by neither alone.
+|   TRAP / ANSWER-USE: ⚠️ Never write "Kant proves God through morality." Kant explicitly denies theoretical proof; he postulates.
+|   EXAM OPENING: MUST-WRITE KEYWORDS
++--
+        |
+        v
++-- SESSION 02: THE ONTOLOGICAL ARGUMENT AS A REDUCTIO
+|   DEFINITION / TERMS : Recommended opening definition: The ontological argument is an a priori attempt to derive God's necessary existence from the concept of the greatest conceivable being.
+|   MECHANISM / ARGUMENT: That description would be trivially satisfied by whatever happens to be the best existing thing, with no guarantee that it is God.
+|   CONSEQUENCE / CONTRAST: Anselm's principle therefore does not apply to it.
+|   TRAP / ANSWER-USE: ✅ Anselm compresses the monotheistic concept of God into the formula "a being than which nothing greater can be conceived." "Greater" here means more perfect, not spatially larger.
+|   EXAM OPENING: MUST-WRITE KEYWORDS
++--
+        |
+        v
++-- SESSION 03: TWO KINDS OF CAUSAL SERIES (THE WHOLE ARGUMENT TURNS ON THIS)
+|   DEFINITION / TERMS : Two kinds of causal series (the whole argument turns on this): ⚠️ This diagram is the single highest-value item in the cosmological answer.
+|   MECHANISM / ARGUMENT: Therefore a first efficient cause must be admitted.
+|   CONSEQUENCE / CONTRAST: Unlike the ontological argument, which focuses on the idea of God and unfolds its inner implications, Aquinas' proofs start from some general feature of the world around us and argue that there could not be a world with this particular characteristic unless there also existed the ultimate reality we call God.
+|   TRAP / ANSWER-USE: Recommended opening definition: Aquinas targets an essentially ordered present dependence, not merely a temporal sequence extending indefinitely into the past.
+|   EXAM OPENING: MUST-WRITE KEYWORDS
++--
+        |
+        v
++-- SESSION 04: THREE TELEOLOGIES THAT MUST NOT BE CONFUSED
+|   DEFINITION / TERMS : ⚠️ Reproducing this three-way distinction is what separates a 60% answer from a 75% answer in 2025 Q6(a).
+|   MECHANISM / ARGUMENT: Most candidates write Paley, get demolished by Darwin, and stop.
+|   CONSEQUENCE / CONTRAST: 1. ✅ The inference is not weakened if I have never seen a watch made (as we have never seen a world other than this one) and therefore do not know from direct observation that watches are products of intelligence.
+|   TRAP / ANSWER-USE: ✅ The Fifth Way is not an analogy with human manufacture.
+|   EXAM OPENING: MUST-WRITE KEYWORDS
++--
+        |
+        v
++-- SESSION 05: KANT'S TWO-STOREY STRUCTURE
+|   DEFINITION / TERMS : Kant's two-storey structure: ⚠️ The whole examinable point is in the architecture, not the content.
+|   MECHANISM / ARGUMENT: Kant is the destroyer of the theistic proofs and the author of a moral argument, and he sees no contradiction because the two operate on different storeys.
+|   CONSEQUENCE / CONTRAST: The Indian argument is therefore epistemically bolder and correspondingly more exposed — it must show that an unconscious principle could not do the job."
+|   TRAP / ANSWER-USE: ⚠️ The whole examinable point is in the architecture, not the content.
+|   EXAM OPENING: MUST-WRITE KEYWORDS
++--
+        |
+        v
++-- SESSION 06: NYĀYA'S COSMIC DIVISION OF LABOUR
+|   DEFINITION / TERMS : Nyāya's cosmic division of labour: It is the trap the examiner is checking for, and it is the difference between Nyāya and both Advaita and Rāmānuja.
+|   MECHANISM / ARGUMENT: ✅ God is the creator of the world in the sense of being the first efficient cause of the world and not its material cause — "a sort of demiurgus or a builder of the ordered universe". ✅ He is also the preserver, in so far as the world is kept in existence by the will of God, and the destroyer, who lets loose the forces of destruction when the exigencies of the moral world require it.
+|   CONSEQUENCE / CONTRAST: God is thus the moral governor of the world, the impartial dispenser of the fruits of our actions (karmaphaladātā), and the supreme arbiter of our joys and sorrows.
+|   TRAP / ANSWER-USE: Recommended opening definition: Nyāya (school of logic and realism) infers an omniscient efficient cause that orders eternal atoms and dispenses karmic fruits, not a material creator from nothing.
+|   EXAM OPENING: MUST-WRITE KEYWORDS
++--
+        |
+        v
++-- SESSION 07: TWO COMPLETELY DIFFERENT SENSES OF "GOD" IN THE INDIAN DEBATE
+|   DEFINITION / TERMS : Two completely different senses of "God" in the Indian debate: ⚠️ This is the single most important interpretive move in the entire subtopic.
+|   MECHANISM / ARGUMENT: High-value transition: Creator-denial must not be equated with denial of every religious ideal, because Jainism rejects a creator while affirming achieved godhead.
+|   CONSEQUENCE / CONTRAST: ⚠️ This is the single most important interpretive move in the entire subtopic.
+|   TRAP / ANSWER-USE: High-value transition: Creator-denial must not be equated with denial of every religious ideal, because Jainism rejects a creator while affirming achieved godhead.
+|   EXAM OPENING: MUST-WRITE KEYWORDS
++--
+        |
+        v
++-- SESSION 08: PART I — JAINISM
+|   DEFINITION / TERMS : Recommended opening definition: Jainism rejects a creator God but affirms liberated, omniscient souls as achieved godhead attained through self-effort.
+|   MECHANISM / ARGUMENT: Recommended opening definition: Jainism rejects a creator God but affirms liberated, omniscient souls as achieved godhead attained through self-effort.
+|   CONSEQUENCE / CONTRAST: ⚠️ The Jaina "proofs" are therefore proofs of the possibility and actuality of divine perfection in the soul, arranged as follows
+|   TRAP / ANSWER-USE: ✅ Jainism is "a religion without God" in the sense of a creator. ✅ There is no necessity of bringing in God to explain creation, for the world was never created: production, destruction and permanence characterise all substances; things have creation and dissolution because of their modes (paryāya), while the substances themselves are eternal.
+|   EXAM OPENING: MUST-WRITE KEYWORDS
++--
+        |
+        v
++-- SESSION 09: PART II — BUDDHISM
+|   DEFINITION / TERMS : Part II — Buddhism: 1. ✅ If God is eternal and unchanging, genuine creation becomes difficult to explain, because willing or producing seems to involve change.
+|   MECHANISM / ARGUMENT: Recommended opening definition: Buddhism rejects a permanent creator and explains suffering through conditioned arising rather than divine production.
+|   CONSEQUENCE / CONTRAST: A permanent, partless, immutable cause cannot produce successive effects, since a cause that is unchanging and fully present must produce its effect all at once and always; therefore an eternal God cannot be the cause of a temporally ordered world.
+|   TRAP / ANSWER-USE: Recommended opening definition: Buddhism rejects a permanent creator and explains suffering through conditioned arising rather than divine production.
+|   EXAM OPENING: MUST-WRITE KEYWORDS
++--
+        |
+        v
++-- SESSION 10: PART III — MĪMĀṂSĀ
+|   DEFINITION / TERMS : Part III — Mīmāṃsā: ✅ The Veda is authoritative because it is apauruṣeya — eternal, authorless and self-valid.
+|   MECHANISM / ARGUMENT: Recommended opening definition: Mīmāṃsā (school of inquiry into ritual duty) treats the Veda (sacred revealed knowledge) as authorless and karma (morally consequential action) as self-fructifying, thereby displacing the need for God.
+|   CONSEQUENCE / CONTRAST: Dharmakīrti-type argument: a permanent cause cannot produce successive effects.
+|   TRAP / ANSWER-USE: It is not authored by any human, nor is a divine author needed. ✅ Authorlessness protects it from personal defects: a personal author may deceive, or may lack complete knowledge; if the Veda had an author, its authority would depend on first proving that author's competence and sincerity.
+|   EXAM OPENING: MUST-WRITE KEYWORDS
++--
+        |
+        v
++-- SESSION 11: 🖼️ MASTER CONCEPT MAP — THE WHOLE SYLLABUS ITEM ON ONE PAGE
+|   DEFINITION / TERMS : 🖼️ MASTER CONCEPT MAP — the whole syllabus item on one page: Final verdict: No proof is demonstrative unless it survives validity, soundness and adequacy, and most arguments underdetermine the rich God of religion.
+|   MECHANISM / ARGUMENT: Final verdict: No proof is demonstrative unless it survives validity, soundness and adequacy, and most arguments underdetermine the rich God of religion.
+|   CONSEQUENCE / CONTRAST: ⚠️ Choose one as the thesis of any answer, and defend it; do not hedge across all four.
+|   TRAP / ANSWER-USE: ⚠️ Choose one as the thesis of any answer, and defend it; do not hedge across all four.
+|   EXAM OPENING: MUST-WRITE KEYWORDS
++--
+        |
+        v
+ANSWER-WRITING SPINE
+definition -> exact terms -> mechanism/evidence -> consequence/contrast
+-> objection/trap -> qualified answer-use

@@ -1,0 +1,600 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g5\\topic-08_Solved-Practice-Workbook_2026-09-02.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g5\\topic-08_Solved-Practice-Workbook_2026-09-02.pdf",
+  "mode": "workbook",
+  "topic_key": "philosophy-paper-i-western-philosophy-08",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 138,
+      "markdown_body_line_end": 138,
+      "heading": "CANONICAL EXAM APPARATUS (PRESERVED VERBATIM)",
+      "preview": "The examiner apparatus below is reproduced verbatim from the canonical Later-Wittgenstein.md (headings demoted, navigation links stripped). It is preserved intact so that no canonical depth - inter-thinker and inter-school debates, the dire",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 436.891
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 327.624
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 142,
+      "markdown_body_line_end": 149,
+      "heading": "Inter-Thinker / Inter-School Debates",
+      "preview": "Axis | Later Wittgenstein | Early Wittgenstein | Logical Positivism | Descartes / Empiricism",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 6,
+        "headers": [
+          "Axis",
+          "Later Wittgenstein",
+          "Early Wittgenstein",
+          "Logical Positivism",
+          "Descartes / Empiricism"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 305.624
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 74.722
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 155,
+      "markdown_body_line_end": 164,
+      "heading": "Directive Decoder - What Each Command Word Obliges You To Do",
+      "preview": "Directive | What it demands | Structural obligation for **this** file | Fatal error",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Directive",
+          "What it demands",
+          "Structural obligation for **this** file",
+          "Fatal error"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 315.89
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 170,
+      "markdown_body_line_end": 179,
+      "heading": "Graded Verdict Bank - Executable Closing Positions",
+      "preview": "Sub-topic | **10-mark verdict** | **15-mark verdict** | **20-mark verdict**",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Sub-topic",
+          "**10-mark verdict**",
+          "**15-mark verdict**",
+          "**20-mark verdict**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 292.39
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 475.89
+        }
+      },
+      "pdf_pages": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 187,
+      "markdown_body_line_end": 201,
+      "heading": "Translation, Numbering and Provenance Discipline",
+      "preview": "Item | Status | Practice",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 13,
+        "headers": [
+          "Item",
+          "Status",
+          "Practice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 418.99
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 208.29
+        }
+      },
+      "pdf_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 203,
+      "markdown_body_line_end": 203,
+      "heading": "Translation, Numbering and Provenance Discipline",
+      "preview": "❌ **Never write:** that Wittgenstein \"denied the existence of inner mental states\" (§304 explicitly refuses this); that the private-language argument is directed at codes or at talking to oneself; or that \"meaning is use\" is offered as a ge",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 208.29
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 149.422
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 209,
+      "markdown_body_line_end": 215,
+      "heading": "Criticisms and Replies",
+      "preview": "Critic | Objection | Assessment",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Critic",
+          "Objection",
+          "Assessment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 387.89
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 221,
+      "markdown_body_line_end": 229,
+      "heading": "Common UPSC Traps",
+      "preview": "Trap | Discrimination",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Trap",
+          "Discrimination"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 390.29
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 235,
+      "markdown_body_line_end": 246,
+      "heading": "Keyword and Statement Bank, Restored 2018/2020 Dossier and Corpus Delta",
+      "preview": "# | Item | Use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "#",
+          "Item",
+          "Use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 366.79
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 62.988
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 266,
+      "markdown_body_line_end": 266,
+      "heading": "PYQ Routing (2018-2025)",
+      "preview": "⚠️ **Corpus signal:** 7 primary-owned question-parts out of 112. The local Paper I corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 488.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 421.424
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 268,
+      "markdown_body_line_end": 276,
+      "heading": "PYQ Routing (2018-2025)",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 421.424
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 149.022
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 283,
+      "markdown_body_line_end": 291,
+      "heading": "10-mark: \"Why does later Wittgenstein think there cannot be an essentially private language?\" (2024)",
+      "preview": "Define  : Private language = words getting meaning from logically private sensations,",
+      "metadata": {
+        "language": "plain",
+        "line_count": 7,
+        "max_source_line_length": 106
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 768.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 677.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 294,
+      "markdown_body_line_end": 306,
+      "heading": "15-mark: \"Show how critique of solipsism culminates in critique of private language.\" (2019)",
+      "preview": "Frame   : Solipsism = \"only my experiences are real.\" To state this, solipsist needs",
+      "metadata": {
+        "language": "plain",
+        "line_count": 11,
+        "max_source_line_length": 115
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 655.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 524.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 309,
+      "markdown_body_line_end": 329,
+      "heading": "20-mark: \"Explain the transition from early to later views on language and meaning.\" (2025)",
+      "preview": "Frame   : The same philosopher — from the Tractatus (1921) to the Investigations (1953).",
+      "metadata": {
+        "language": "plain",
+        "line_count": 19,
+        "max_source_line_length": 224
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 502.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 281.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 354,
+      "markdown_body_line_end": 354,
+      "heading": "ORIGINAL MCQ MASTERY SET - EXACTLY 40 QUESTIONS",
+      "preview": "Questions 1-32 are core coverage across all ten subtopics; Questions 33-40 are remedial items targeting the most common misreadings. Correct answers rotate strictly A -> B -> C -> D 10 times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 658.391
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 613.724
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1224,
+      "markdown_body_line_end": 1226,
+      "heading": "Practice Design",
+      "preview": "DIRECTIVE -> THESIS -> DOCTRINE -> NAMED PI SECTION / EXAMPLE -> OBJECTION/REPLY -> VERDICT",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 751.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 730.891
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1230,
+      "markdown_body_line_end": 1230,
+      "heading": "SOLVED PYQ BANK - EXACTLY 7 VERIFIED OWNER QUESTIONS",
+      "preview": "Exact wording, year and marks are parsed from the continuous local Western Philosophy Paper I bank for 2018-2025. Later Wittgenstein owns exactly 7 primary parts, one each in 2018, 2019, 2020, 2022, 2023, 2024 and 2025; 2021 is the only yea",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 705.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 604.424
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1300,
+      "markdown_body_line_end": 1300,
+      "heading": "Solved PYQ 4 - 2022 Q1(c), 10 marks",
+      "preview": "**Printed-wording anomaly (preserved verbatim):** **Printed wording:** the official English line itself prints **“motion”**; it is retained rather than silently changed to “notion”.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 602.091
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 557.424
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1306,
+      "markdown_body_line_end": 1306,
+      "heading": "Solved PYQ 4 - 2022 Q1(c), 10 marks",
+      "preview": "**Printed-wording anomaly (preserved verbatim):** the official English paper prints \"later Wittgenstein's **motion** of language as form of life.\" \"Motion\" is a printed slip for **\"notion\"**; the intended thesis is \"the *notion* of language",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 497.824
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 424.756
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1361,
+      "markdown_body_line_end": 1361,
+      "heading": "Solved PYQ 7 - 2025 Q3(a), 20 marks",
+      "preview": "**Printed-wording anomaly (preserved verbatim):** **Printed wording:** the unmatched opening quotation before **logical structure** is visible in the official English line and is retained.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 706.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 661.624
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1367,
+      "markdown_body_line_end": 1367,
+      "heading": "Solved PYQ 7 - 2025 Q3(a), 20 marks",
+      "preview": "**Printed-wording anomaly (preserved verbatim):** the quoted statement contains an **unmatched opening single-quote** before \"logical structure\" - it prints ...a precise 'logical structure but empirically...' with no closing quote where the",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 602.024
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 528.956
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1383,
+      "markdown_body_line_end": 1383,
+      "heading": "ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS",
+      "preview": "Three original questions authored for this package (not PYQs), one each at 10, 15 and 20 marks, with full model solutions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 227.156
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 182.488
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    }
+  ]
+}

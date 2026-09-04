@@ -1,0 +1,27 @@
+Religion and Morality — COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+START / CENTRAL QUESTION
+  Contemporary India anchor — constitutional morality and religious practice [SUPPORTING]: ✅ Fact: Reporting on the 2026 Sabarimala review hearings describes the Supreme Court’s renewed examination of equality, religious freedom, essential religious practices and constitutional morality.
+        |
+        v
++-- SESSION 01: CONTEMPORARY INDIA ANCHOR — CONSTITUTIONAL MORALITY AND RELIGIOUS PRACTICE [SUPPORTING]
+|   DEFINITION / TERMS : Contemporary India anchor — constitutional morality and religious practice [SUPPORTING]: ✅ Fact: Reporting on the 2026 Sabarimala review hearings describes the Supreme Court’s renewed examination of equality, religious freedom, essential religious practices and constitutional morality.
+|   MECHANISM / ARGUMENT: ⚠️ Inference: The controversy illustrates the owner’s interaction thesis: morality may be shaped by religion, while public moral principles may also criticise religious practices.
+|   CONSEQUENCE / CONTRAST: It does not by itself settle the philosophical question whether morality is grounded in religion.
+|   TRAP / ANSWER-USE: It does not by itself settle the philosophical question whether morality is grounded in religion.
+|   EXAM OPENING: ✅ Fact: Reporting on the 2026 Sabarimala review hearings describes the Supreme Court’s renewed examination of equality, religious freedom, essential religious practices and constitutional morality.
++--
+        |
+        v
++-- SESSION 02: VISUAL GATEWAY — IDENTIFY THE RELATION BEFORE ARGUING
+|   DEFINITION / TERMS : Visual gateway — identify the relation before arguing: Master verdict: Morality is not conceptually reducible to religion, but religion can supply motivation, formation and cosmic significance; morality in turn remains an indispensable internal and external critic of religious life.
+|   MECHANISM / ARGUMENT: The dependence view holds that morality requires religion for its authority, motivation or ultimate sanction, but these three claims must be assessed separately.
+|   CONSEQUENCE / CONTRAST: Master verdict: Morality is not conceptually reducible to religion, but religion can supply motivation, formation and cosmic significance; morality in turn remains an indispensable internal and external critic of religious life.
+|   TRAP / ANSWER-USE: Master verdict: Morality is not conceptually reducible to religion, but religion can supply motivation, formation and cosmic significance; morality in turn remains an indispensable internal and external critic of religious life.
+|   EXAM OPENING: Moral obligation can be grounded independently in reason, welfare, virtue, human dignity or the reduction of suffering, even when religion strengthens motivation.
++--
+        |
+        v
+ANSWER-WRITING SPINE
+definition -> exact terms -> mechanism/evidence -> consequence/contrast
+-> objection/trap -> qualified answer-use

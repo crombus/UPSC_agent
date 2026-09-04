@@ -1,0 +1,27 @@
+Religious Pluralism and the Problem of Absolute Truth — COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+START / CENTRAL QUESTION
+  The philosophical question of truth remains separate from the political value of coexistence.
+        |
+        v
++-- SESSION 01: RELIGIOUS PLURALISM AND THE PROBLEM OF ABSOLUTE TRUTH
+|   DEFINITION / TERMS : The philosophical question of truth remains separate from the political value of coexistence.
+|   MECHANISM / ARGUMENT: The philosophical question of truth remains separate from the political value of coexistence.
+|   CONSEQUENCE / CONTRAST: ✅ Fact: In April 2026, the United Nations in India reported that UNAOC High Representative Miguel Ángel Moratinos highlighted India’s historical religious pluralism and interfaith traditions during a Delhi visit. ⚠️ Inference: Public praise of interfaith harmony supports pluralism as an ethic of engagement, but it does not establish Hick’s metaphysical claim that rival religions are equally valid responses to one Real.
+|   TRAP / ANSWER-USE: ✅ Fact: In April 2026, the United Nations in India reported that UNAOC High Representative Miguel Ángel Moratinos highlighted India’s historical religious pluralism and interfaith traditions during a Delhi visit. ⚠️ Inference: Public praise of interfaith harmony supports pluralism as an ethic of engagement, but it does not establish Hick’s metaphysical claim that rival religions are equally valid responses to one Real.
+|   EXAM OPENING: ✅ Fact: In April 2026, the United Nations in India reported that UNAOC High Representative Miguel Ángel Moratinos highlighted India’s historical religious pluralism and interfaith traditions during a Delhi visit. ⚠️ Inference: Public praise of interfaith harmony supports pluralism as an ethic of engagement, but it does not establish Hick’s metaphysical claim that rival religions are equally valid responses to one Real.
++--
+        |
+        v
++-- SESSION 02: RELIGIOUS PLURALISM AND THE PROBLEM OF ABSOLUTE TRUTH: CORE DISTINCTIONS
+|   DEFINITION / TERMS : The worry (2022): "unquestionable acceptance of only one Absolute Truth will inevitably result in religious exclusivism" → and exclusivism breeds conflict/intolerance. ✅ If "absolute truth" = my religion's propositions are the sole truth → yes, tends to exclusivism.
+|   MECHANISM / ARGUMENT: [Vedantic] "Vedantic religious pluralism & Vivekananda's Universal Religion vs conflicting truth-claims." (2025, 20m) → §2. [Absolute truth] "'One Absolute Truth → religious exclusivism.' Discuss." (2022) → §3. [Pluralism-conflict] "Does pluralism invite inter-religious conflict & destroy religion's truth?" (2023) → §3. [Notion] "Notion of absolute truth in religion." (2024) → §3. [Tolerance] "Importance of religious tolerance in a multicultural pluralistic society." (2020, 10m) → §9.6 — Forst's ladder; Aśoka RE XII; Vivekananda's acceptance-not-tolerance. [Freedom] "Is religious freedom possible in a multireligious society?" (2021, 10m) → §9.7 — principled distance + internal minorities. [Conflict] "Is the History of Religions the History of Conflicts?" (2020, 10m) → §9.8 — cause/marker/mobiliser/legitimiser. [Unifier] "Is religion a uniting force for humanity in the globalizing world?" (2019, 10m) → §9.9 — three conditions. [E vs P] "Central problem between religious pluralists and exclusivists." (2019, 20m) → §9.1 + §9.11 + §9.10 (deep disagreement). [Truth is one] "'Truth is one, yet people perceive differently' — evaluate in the Indian context." (2018, 15m) → §2 + RV 1.164.46 discipline + anekāntavāda.
+|   CONSEQUENCE / CONTRAST: Master verdict: Pluralism is strongest when it combines realism about an Absolute with fallibilism about finite access, while openly admitting that some first-order truth-claims remain contradictory.
+|   TRAP / ANSWER-USE: Commitment to absolute truth does not entail epistemic absolutism: reality may be determinate even when finite religious formulations remain partial and corrigible.
+|   EXAM OPENING: Exclusivism reserves decisive truth or salvation for one tradition, inclusivism admits truth elsewhere under one fulfilment, and pluralism treats multiple traditions as independently valid responses to ultimate reality.
++--
+        |
+        v
+ANSWER-WRITING SPINE
+definition -> exact terms -> mechanism/evidence -> consequence/contrast
+-> objection/trap -> qualified answer-use

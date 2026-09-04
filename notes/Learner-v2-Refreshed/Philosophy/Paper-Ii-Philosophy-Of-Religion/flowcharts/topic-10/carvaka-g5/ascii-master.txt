@@ -1,0 +1,27 @@
+Nature of Religious Language — COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+START / CENTRAL QUESTION
+  ⚠️ Inference: This contemporary translation problem illustrates a core philosophical point: religious meaning is not exhausted by word substitution.
+        |
+        v
++-- SESSION 01: CONTEMPORARY TECHNOLOGY ANCHOR — SEMANTIC FIDELITY IN SACRED-TEXT TRANSLATION [SUPPORTING]
+|   DEFINITION / TERMS : ⚠️ Inference: This contemporary translation problem illustrates a core philosophical point: religious meaning is not exhausted by word substitution.
+|   MECHANISM / ARGUMENT: ⚠️ Inference: This contemporary translation problem illustrates a core philosophical point: religious meaning is not exhausted by word substitution.
+|   CONSEQUENCE / CONTRAST: Context, use, symbolic reference and a tradition’s conceptual grammar affect what an utterance means, though an AI translation benchmark does not settle whether the original claims are truth-apt.
+|   TRAP / ANSWER-USE: ⚠️ Inference: This contemporary translation problem illustrates a core philosophical point: religious meaning is not exhausted by word substitution.
+|   EXAM OPENING: ✅ Fact: An ICML 2026 paper on Sanskrit–English translation reports that purely statistical generation can cause semantic drift in culturally embedded and ritual concepts, and proposes dictionary, morpho-syntactic and glossary-grounded decoding to preserve sacred entities and terminology.
++--
+        |
+        v
++-- SESSION 02: VISUAL GATEWAY — NEVER MERGE THE TWO AXES
+|   DEFINITION / TERMS : Visual gateway — never merge the two axes: 🔑 Mnemonic — two axes: "HOW (Analogy/Symbol/Negation) × WHETHER (Cognitive/Non-cognitive)." Analogy & symbol rescue meaning; the cog/non-cog debate is about factual truth.
+|   MECHANISM / ARGUMENT: Master verdict: Religious utterances are often assertoric, symbolic and performative together; a mixed account preserves realist intent while acknowledging that transcendence requires non-literal modes of predication.
+|   CONSEQUENCE / CONTRAST: A symbol (unlike a mere sign) participates in the reality it points to and "opens up levels of reality otherwise closed".
+|   TRAP / ANSWER-USE: So "good" applies proportionally, truly but not identically. → preserves meaning without anthropomorphism.
+|   EXAM OPENING: Analogy preserves ordered similarity, symbol mediates participation and negation removes creaturely limitation; each seeks meaningful reference without literal anthropomorphism.
++--
+        |
+        v
+ANSWER-WRITING SPINE
+definition -> exact terms -> mechanism/evidence -> consequence/contrast
+-> objection/trap -> qualified answer-use

@@ -1,0 +1,226 @@
+{
+  "generated_on": "2026-08-26",
+  "inspection_standard": "2026-08-26 Philosophy rendered-visual standard",
+  "status": "passed",
+  "sets": {
+    "main": {
+      "pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\topic-08_Complete-Learning-Session_2026-08-26.pdf",
+      "page_count": 56,
+      "pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        60,
+        62,
+        64,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        75,
+        76,
+        77
+      ]
+    },
+    "workbook": {
+      "pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\topic-08_Solved-Practice-Workbook_2026-08-26.pdf",
+      "page_count": 12,
+      "pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        24,
+        26,
+        28
+      ]
+    },
+    "graphical": {
+      "pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\tiled.pdf",
+      "page_count": 4,
+      "pages": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "ascii": {
+      "pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-08\\carvaka-g2\\ascii-master.pdf",
+      "page_count": 10,
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  },
+  "contact_sheets": {
+    "main": [
+      {
+        "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-01.png",
+        "sha256": "752452ee9aa30172b79d9ee777fa0286e4d1a96e9e827e0145f00efbe586f6dd"
+      },
+      {
+        "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-02.png",
+        "sha256": "b9dc84fdd1d08822bad994195886abdfd48e0225af4eaed84d8cc689b91b26fe"
+      },
+      {
+        "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-03.png",
+        "sha256": "0c661a006fbab3bd1ab1942dad44022441964d0338d1b1b9f6023fbf48034900"
+      },
+      {
+        "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-04.png",
+        "sha256": "54abd644f1cccd5b13d39076dc3f2ed1d98ecb3bdb863de2f24b5bf829065b8f"
+      },
+      {
+        "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-05.png",
+        "sha256": "845b2150beb4d860ac109bef2da401c62678b831a53fdebc9bba2729418ddcd1"
+      },
+      {
+        "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-06.png",
+        "sha256": "a1f7c885eb97b74790662a059b1bcb90ccc7228eee712ebb65e96985ab48f1d7"
+      },
+      {
+        "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-07.png",
+        "sha256": "f0bab1a4192489a89bdd3e700ac700880de077d7434aa8e1a5a2027f63c7e456"
+      },
+      {
+        "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-08.png",
+        "sha256": "e6a14fea2a367f6a7fe847932a876171df789a86143f3553137b7c0f00a71e6d"
+      },
+      {
+        "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-09.png",
+        "sha256": "5f8d5e3c0de24b0b4c53100cf3742ab5ad82a1d3b384e5665794989e91ff3863"
+      },
+      {
+        "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-10.png",
+        "sha256": "845c4c4d226d26bb48580329b4e7cb7d32c857ff3804e910596bde4892874fca"
+      },
+      {
+        "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-11.png",
+        "sha256": "e99d31a729649e3244562b6646e560e80324eb26c941a37c6d7134a6380fdb6e"
+      },
+      {
+        "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-12.png",
+        "sha256": "3d40a0957cb4606732464225f1f0e47a2713ec7de3bf4e11203ba4b34eaee05a"
+      },
+      {
+        "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-13.png",
+        "sha256": "d277751e8aca948fb0d812f8cf1540ffa10ba554291a779e9fc17377a1bc361a"
+      },
+      {
+        "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\main-contact-14.png",
+        "sha256": "f2379615f10fc42ab2753b8698c67e1cb6ea63b7269023f6205c649de2963985"
+      }
+    ],
+    "workbook": [
+      {
+        "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\workbook-contact-01.png",
+        "sha256": "60d593a0dbb1864e8e2f13e54d7dbe5073e6346af334ceb3be3997b1b33702fe"
+      },
+      {
+        "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\workbook-contact-02.png",
+        "sha256": "723045663aa5fb5a4be3a9d0282bd13333803d52de98f3c161cf6008e74dda8a"
+      },
+      {
+        "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\workbook-contact-03.png",
+        "sha256": "9e0c8e7ab28caa9a83021ded87cd4baa6b4194268861c501576be01088201215"
+      }
+    ],
+    "graphical": [
+      {
+        "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\graphical-contact-01.png",
+        "sha256": "fc318b62f6f69181c4ac56cfd9fcb86449c02960e8424e307439df27fbc324c6"
+      }
+    ],
+    "ascii": [
+      {
+        "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\ascii-contact-01.png",
+        "sha256": "40c603ad1a1b1909e584f85105cfed7cdaad03e61e01e23967396161ae60625d"
+      },
+      {
+        "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\ascii-contact-02.png",
+        "sha256": "cfb314e9f61128aac85c56e89ecaaca6ed8b1f59f2af5e3b496a0a28b0c8a790"
+      },
+      {
+        "path": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g2\\validation\\rendered-inspection\\ascii-contact-03.png",
+        "sha256": "fdc7b19289755e4e56c648f560178a001af1f1ec16f2b63596f8ce4d6d2698fe"
+      }
+    ]
+  },
+  "human_readable_review": "completed",
+  "reviewed_on": "2026-08-26",
+  "findings": {
+    "detached_headers": [],
+    "collapsed_rows": [],
+    "dangling_labels": [],
+    "clipping_or_truncation": [],
+    "tiny_fonts": [],
+    "unsupported_glyphs": [],
+    "ambiguous_arrows_or_wrapping": []
+  },
+  "repairs": [
+    {
+      "artifact": "complete learning session",
+      "page": 32,
+      "issue": "Authored visual contained split label PERS PICUOUS REPRESENTATION.",
+      "repair": "Corrected to PERSPICUOUS REPRESENTATION, rerendered the PDF and visual map, and re-inspected page 32."
+    }
+  ]
+}

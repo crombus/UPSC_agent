@@ -1,0 +1,6021 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-02\\g14\\topic-02_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-02\\g14\\topic-02_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-02",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 5,
+      "heading": "Proofs for the Existence of God and their Critique - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Catalogue identity:** Philosophy Optional · Philosophy Paper II — Philosophy of Religion · `philosophy-paper-ii-philosophy-of-religion-02` **Generation:** g14, 3 September 2026 · **Approval:** pending explicit topic approval **Evidence di",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 678.224
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 9,
+      "markdown_body_line_end": 16,
+      "heading": "Package practice counts",
+      "preview": "Component | Count",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Component",
+          "Count"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 653.224
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 501.422
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 27,
+      "markdown_body_line_end": 34,
+      "heading": "Exact printed ownership and cross-topic firewall",
+      "preview": "Owned here | Boundary",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Owned here",
+          "Boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 395.822
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 176.82
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 43,
+      "markdown_body_line_end": 50,
+      "heading": "0A. PROOF-FORCE, BURDEN AND EXPLANATORY TERMINATION ANALYSIS:",
+      "preview": "Test | Question | Typical result",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Test",
+          "Question",
+          "Typical result"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 532.69
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 64,
+      "heading": "0A. PROOF-FORCE, BURDEN AND EXPLANATORY TERMINATION ANALYSIS:",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-02\\g14\\assets\\topic-02_Teaching-Navigation_2026-08-23.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 423.29
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 115.754
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 88,
+      "heading": "Source-complete coverage ledger and learning labels",
+      "preview": "Source corpus and unit | Final location | Retention decision",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Source corpus and unit",
+          "Final location",
+          "Retention decision"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 601.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 217.89
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 94,
+      "markdown_body_line_end": 94,
+      "heading": "Source-complete coverage ledger and learning labels",
+      "preview": "Proof evaluation ladder",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-02\\g14\\assets\\proof-evaluation-ladder.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 550.748
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 102,
+      "markdown_body_line_end": 102,
+      "heading": "Learning route - [CORE PAPER II]",
+      "preview": "**Evidence key used throughout:** ✅ canonical doctrine directly grounded in the authored knowledge file or a local source text · ⚠️ analytical synthesis / inference for exam use · ❓ contested or textually variable · 📰 dated contemporary anc",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 458.948
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 400.08
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 108,
+      "markdown_body_line_end": 109,
+      "heading": "Roadmap",
+      "preview": "**EXAM ROUTE** **High-value transition:** The topic moves from classifying proof-families to reconstructing their premises, testing objections and grading what concept of God, if any, the inference establishes.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 397.58
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 330.913
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 122,
+      "markdown_body_line_end": 150,
+      "heading": "Roadmap",
+      "preview": "WHAT IS A \"PROOF\" OF GOD?",
+      "metadata": {
+        "language": "text",
+        "line_count": 27,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 526.291
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 152,
+      "markdown_body_line_end": 161,
+      "heading": "Roadmap",
+      "preview": "Session | Subtopic | Core focus",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Session",
+          "Subtopic",
+          "Core focus"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 526.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 253.69
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 165,
+      "markdown_body_line_end": 165,
+      "heading": "Roadmap",
+      "preview": "🔑 **Master mnemonic — \"O-C-T-M + N, then J-B-M\":** **O**ntological, **C**osmological, **T**eleological, **M**oral, plus **N**yāya; critiqued by **J**aina, **B**auddha, **M**īmāṃsā.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 206.09
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 161.422
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 192,
+      "markdown_body_line_end": 192,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Every proof must be tested for validity, soundness and adequacy: whether the conclusion follows, the premises are true and the being reached is genuinely God.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 610.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 544.224
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 205,
+      "markdown_body_line_end": 205,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM-READY LINE:** Core argument:** Every proof must be tested for validity, soundness and adequacy: whether the conclusion follows, the premises are true and the being reached is genuinely God.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 385.624
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 340.956
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 218,
+      "markdown_body_line_end": 234,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "PROOF FOR GOD",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 340.956
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 179.956
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 242,
+      "markdown_body_line_end": 246,
+      "heading": "1. What counts as a \"proof\" here?",
+      "preview": "Type | Claim made | Standard example | If it fails, it fails as…",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Type",
+          "Claim made",
+          "Standard example",
+          "If it fails, it fails as…"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 665.39
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 252,
+      "markdown_body_line_end": 260,
+      "heading": "2. A priori and a posteriori - the 2022 distinction",
+      "preview": "Axis | **A priori** | **A posteriori**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Axis",
+          "**A priori**",
+          "**A posteriori**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 614.99
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 352.388
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 262,
+      "markdown_body_line_end": 262,
+      "heading": "2. A priori and a posteriori - the 2022 distinction",
+      "preview": "🔑 **Mnemonic — \"CONCEPT versus COSMOS\":** a priori argues from the *concept*, a posteriori from the *cosmos*.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 352.388
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 307.72
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 268,
+      "markdown_body_line_end": 274,
+      "heading": "3. The five families in one frame",
+      "preview": "Family | Premise drawn from | Terminus reached | Chief critic",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Family",
+          "Premise drawn from",
+          "Terminus reached",
+          "Chief critic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 618.89
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 280,
+      "markdown_body_line_end": 285,
+      "heading": "4. Why UPSC cares",
+      "preview": "RECONSTRUCT  →  the argument as numbered premises, not as a slogan",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 563.49
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 512.49
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 310,
+      "markdown_body_line_end": 318,
+      "heading": "CLOSING RECALL FLOW - THE THREE QUESTIONS EVERY PROOF MUST SURVIVE",
+      "preview": "THE THREE QUESTIONS EVERY PROOF MUST SURVIVE",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 106.29
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 710.223
+        }
+      },
+      "pdf_pages": [
+        11,
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 329,
+      "markdown_body_line_end": 329,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The ontological argument is an a priori attempt to derive God's necessary existence from the concept of the greatest conceivable being.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 589.423
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 522.755
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 342,
+      "markdown_body_line_end": 342,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CORE DEFINITION:** The ontological argument is an a priori attempt to derive God's necessary existence from the concept of the greatest conceivable being.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 364.155
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 319.487
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 355,
+      "markdown_body_line_end": 375,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "ASSUME (for reductio):  God exists in the understanding ALONE",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 319.487
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 118.487
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 389,
+      "markdown_body_line_end": 395,
+      "heading": "2. The two forms, side by side",
+      "preview": " | **First form — Proslogion 2** | **Second form — Proslogion 3**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "",
+          "**First form — Proslogion 2**",
+          "**Second form — Proslogion 3**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 705.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 507.49
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 433,
+      "markdown_body_line_end": 442,
+      "heading": "7. The reply - modal ontological arguments",
+      "preview": "1. It is POSSIBLE that a maximally great being exists.",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 515.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 424.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 456,
+      "markdown_body_line_end": 461,
+      "heading": "9. Is there an Indian ontological argument?",
+      "preview": "Feature of Indian epistemology | Consequence for an a priori proof",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Feature of Indian epistemology",
+          "Consequence for an a priori proof"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 649.09
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 467,
+      "markdown_body_line_end": 473,
+      "heading": "India-West comparison",
+      "preview": " | **Ontological (West)** | **Nyāya inference (India)**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "",
+          "**Ontological (West)**",
+          "**Nyāya inference (India)**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 584.49
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 431.488
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 485,
+      "markdown_body_line_end": 485,
+      "heading": "UPSC traps",
+      "preview": "🔑 **Mnemonic — \"A-D-G-K-M\":** **A**nselm defines, **D**escartes essentialises, **G**aunilo parodies, **K**ant diagnoses, **M**odal logic repairs (and re-buries the burden).",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 218.088
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 173.42
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 503,
+      "markdown_body_line_end": 511,
+      "heading": "CLOSING RECALL FLOW - THE ONTOLOGICAL ARGUMENT AS A REDUCTIO",
+      "preview": "THE ONTOLOGICAL ARGUMENT AS A REDUCTIO",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 681.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 575.073
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 522,
+      "markdown_body_line_end": 522,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ways 1–3 constitute the cosmological family; Way 4 is the henological / degrees argument; Way 5 is the teleological one, treated in Subtopic 4.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 421.073
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 354.405
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 535,
+      "markdown_body_line_end": 535,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CORE DISTINCTION:** Aquinas targets an essentially ordered present dependence, not merely a temporal sequence extending indefinitely into the past.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 195.805
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 151.137
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 548,
+      "markdown_body_line_end": 561,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "ACCIDENTALLY ORDERED  (per accidens)   —  Aquinas does NOT need to stop this",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 569,
+      "markdown_body_line_end": 575,
+      "heading": "1. Aquinas' Five Ways - the map before the detail",
+      "preview": "Way | Starts from | Terminates in",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Way",
+          "Starts from",
+          "Terminates in"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 549.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 419.29
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 583,
+      "markdown_body_line_end": 592,
+      "heading": "2. Way 1 - from motion",
+      "preview": "1. Some things in the world are in motion (in the broad sense: undergoing change,",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 321.29
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 230.29
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 610,
+      "markdown_body_line_end": 621,
+      "heading": "4. Way 3 - from contingency",
+      "preview": "1. We find things that are possible-to-be and possible-not-to-be",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 671.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 560.891
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 639,
+      "markdown_body_line_end": 646,
+      "heading": "6. The Kalām cosmological argument",
+      "preview": "1. Whatever BEGINS to exist has a cause of its beginning.",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 241.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 170.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 656,
+      "markdown_body_line_end": 663,
+      "heading": "8. Objections and replies",
+      "preview": "Objection | Aimed at | Reply | Residual pressure",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Objection",
+          "Aimed at",
+          "Reply",
+          "Residual pressure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 472.39
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 669,
+      "markdown_body_line_end": 676,
+      "heading": "9. India-West comparison",
+      "preview": " | **Aquinas (Ways 1–3)** | **Nyāya kāryāt**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "",
+          "**Aquinas (Ways 1–3)**",
+          "**Nyāya kāryāt**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 379.39
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 171.588
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 691,
+      "markdown_body_line_end": 691,
+      "heading": "UPSC traps",
+      "preview": "🔑 **Mnemonic — \"MCC-DP\":** **M**otion, **C**ausation, **C**ontingency (the cosmological three); then **D**egrees and **P**urpose (Ways 4 and 5).",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 688.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 644.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 709,
+      "markdown_body_line_end": 717,
+      "heading": "CLOSING RECALL FLOW - TWO KINDS OF CAUSAL SERIES (THE WHOLE ARGUMENT TURNS ON THIS)",
+      "preview": "TWO KINDS OF CAUSAL SERIES (THE WHOLE ARGUMENT TURNS ON THIS)",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 396.824
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 290.805
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 728,
+      "markdown_body_line_end": 728,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Design analogy, biological teleology and fine-tuning are distinct arguments; each requires its own evidence, probability claim and response to alternative explanations.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 151.005
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 84.337
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 741,
+      "markdown_body_line_end": 741,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM-READY LINE:** Teleological arguments infer intelligence from purposive order, but Aquinas, Paley and fine-tuning employ distinct forms of order and inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 683.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 754,
+      "markdown_body_line_end": 775,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "┌──────────────────────────────────────────────────────────────────────┐",
+      "metadata": {
+        "language": "text",
+        "line_count": 20,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 639.224
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 428.224
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 807,
+      "markdown_body_line_end": 813,
+      "heading": "3. Hume's critique - the 2025 question's centre of gravity",
+      "preview": "# | Front | Hume's argument | Tier attacked",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "#",
+          "Front",
+          "Hume's argument",
+          "Tier attacked"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 610.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 210.69
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 829,
+      "markdown_body_line_end": 833,
+      "heading": "5. Fine-tuning and the probabilistic turn",
+      "preview": "Line of defence | Rival explanation | Assessment",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Line of defence",
+          "Rival explanation",
+          "Assessment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 615.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 482.09
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 851,
+      "markdown_body_line_end": 871,
+      "heading": "7. Solved PYQ - 2025, Q6(a), 20 marks",
+      "preview": "1. CLASSIFY  : teleological = a posteriori; distinguish Aquinas' Way 5 (regularity",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 606.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 875,
+      "markdown_body_line_end": 881,
+      "heading": "India-West comparison",
+      "preview": " | **Paley / Way 5** | **Nyāya āyojanāt**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "",
+          "**Paley / Way 5**",
+          "**Nyāya āyojanāt**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 584.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 420.09
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 894,
+      "markdown_body_line_end": 894,
+      "heading": "UPSC traps",
+      "preview": "🔑 **Mnemonic — Hume's five fronts, \"A-A-P-P-E\":** **A**ny universe looks adapted · **A**nalogy is weak · **P**roportion cause to effect · **P**lurality/imperfection of designers · **E**vil.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 232.09
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 187.422
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 914,
+      "markdown_body_line_end": 922,
+      "heading": "CLOSING RECALL FLOW - THREE TELEOLOGIES THAT MUST NOT BE CONFUSED",
+      "preview": "THREE TELEOLOGIES THAT MUST NOT BE CONFUSED",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 663.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 549.523
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 933,
+      "markdown_body_line_end": 933,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Kant's moral argument does not theoretically prove God; it postulates God, freedom and immortality as conditions of practical commitment to the highest good.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 428.723
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 362.055
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 946,
+      "markdown_body_line_end": 946,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM-READY LINE:** Core argument:** Kant rejects speculative demonstrations of God while postulating God within practical reason as a condition of the highest good.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 203.455
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 158.787
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 959,
+      "markdown_body_line_end": 993,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "═════════ THEORETICAL REASON  (Critique of Pure Reason) ═════════",
+      "metadata": {
+        "language": "text",
+        "line_count": 33,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 466.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1011,
+      "markdown_body_line_end": 1026,
+      "heading": "2. Kant's second form - the postulates",
+      "preview": "1. The moral law categorically obligates the will; obligation presupposes FREEDOM.",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 656.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1032,
+      "markdown_body_line_end": 1037,
+      "heading": "3. What a postulate is - and is not",
+      "preview": "A postulate of practical reason **is** | A postulate **is not**",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "A postulate of practical reason **is**",
+          "A postulate **is not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 605.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 485.29
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1043,
+      "markdown_body_line_end": 1049,
+      "heading": "4. Objections and replies",
+      "preview": "Objection | Force | Reply | Residual",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Objection",
+          "Force",
+          "Reply",
+          "Residual"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 378.09
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 62.688
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1055,
+      "markdown_body_line_end": 1061,
+      "heading": "5. The Indian counterpart - Nyāya's karmaphaladātā",
+      "preview": " | **Kant** | **Nyāya**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "",
+          "**Kant**",
+          "**Nyāya**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 739.691
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 553.09
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1069,
+      "markdown_body_line_end": 1086,
+      "heading": "6. Solved PYQ - 2021, Q7(b), 15 marks",
+      "preview": "FRAME  : Kant's two storeys — speculative proofs destroyed in CPR;",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 469.29
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 298.29
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1099,
+      "markdown_body_line_end": 1099,
+      "heading": "UPSC traps",
+      "preview": "🔑 **Mnemonic — \"F-I-G\":** **F**reedom, **I**mmortality, **G**od — Kant's three postulates.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 110.29
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 79.822
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1119,
+      "markdown_body_line_end": 1127,
+      "heading": "CLOSING RECALL FLOW - KANT'S TWO-STOREY STRUCTURE",
+      "preview": "KANT'S TWO-STOREY STRUCTURE",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 560.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 454.673
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1138,
+      "markdown_body_line_end": 1138,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Nyāya's Īśvara is an eternal omniscient special self who orders atoms and administers karmic fruits without ever entering bondage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 333.873
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 267.205
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1152,
+      "markdown_body_line_end": 1152,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM-READY LINE:** Nyāya (school of logic and realism) infers an omniscient efficient cause that orders eternal atoms and dispenses karmic fruits, not a material creator from nothing.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 91.405
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 46.737
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1165,
+      "markdown_body_line_end": 1189,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "ETERNAL, UNCREATED, CO-PRESENT WITH GOD",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1211,
+      "markdown_body_line_end": 1218,
+      "heading": "2. The proofs - the classical enumeration",
+      "preview": "Term | Literal sense | Argument",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Term",
+          "Literal sense",
+          "Argument"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 573.09
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1224,
+      "markdown_body_line_end": 1246,
+      "heading": "3. Proof 1 - the causal argument (kāryāt), reconstructed",
+      "preview": "1. All composite objects of the world formed by the combination of atoms",
+      "metadata": {
+        "language": "text",
+        "line_count": 21,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 531.89
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 310.89
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1276,
+      "markdown_body_line_end": 1285,
+      "heading": "5. Proofs 3 and 4 - the Veda's authority (padāt / āptaprāmāṇya) and śruti's testimony",
+      "preview": "ORDER OF EXISTENCE :  GOD  ──creates──►  VEDA",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 325.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 234.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1291,
+      "markdown_body_line_end": 1298,
+      "heading": "6. Anti-theistic criticism - including from within the Indian textbook tradition",
+      "preview": "Critic | Objection | Nyāya reply | Assessment",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Critic",
+          "Objection",
+          "Nyāya reply",
+          "Assessment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 346.39
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1308,
+      "markdown_body_line_end": 1318,
+      "heading": "7. Solved PYQ - 2018, Q8(a), 20 marks (the comparison question)",
+      "preview": "Comparison axis | **Aquinas** | **Nyāya**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Comparison axis",
+          "**Aquinas**",
+          "**Nyāya**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 520.69
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1333,
+      "markdown_body_line_end": 1334,
+      "heading": "UPSC traps",
+      "preview": "🔑 **Mnemonic — \"K-A-D-P-Ś + adṛṣṭa\":** **Kāryāt · Āyojanāt · Dhṛtyādeḥ · Padāt · Śruteḥ**, plus the argument from **adṛṣṭa**. 🔑 **Second mnemonic — \"E-A-K-V\":** **E**fficient cause · **A**toms · **K**arma · **V**eda — the four pillars of Ny",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 261.69
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 202.822
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1361,
+      "markdown_body_line_end": 1369,
+      "heading": "CLOSING RECALL FLOW - NYĀYA'S COSMIC DIVISION OF LABOUR",
+      "preview": "NYĀYA'S COSMIC DIVISION OF LABOUR",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 532.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 417.923
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1380,
+      "markdown_body_line_end": 1380,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Creator-denial must not be equated with denial of every religious ideal, because Jainism rejects a creator while affirming achieved godhead.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 278.123
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 211.455
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1393,
+      "markdown_body_line_end": 1393,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM-READY LINE:** High-value transition:** Creator-denial must not be equated with denial of every religious ideal, because Jainism rejects a creator while affirming achieved godhead.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1406,
+      "markdown_body_line_end": 1427,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "SENSE 1 : GOD AS WORLD-MAKER (jagat-kartā)",
+      "metadata": {
+        "language": "text",
+        "line_count": 20,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 758.624
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 547.624
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1436,
+      "markdown_body_line_end": 1444,
+      "heading": "CLOSING RECALL FLOW - TWO COMPLETELY DIFFERENT SENSES OF \"GOD\" IN THE INDIAN DEBATE",
+      "preview": "TWO COMPLETELY DIFFERENT SENSES OF \"GOD\" IN THE INDIAN DEBATE",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 404.224
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 298.205
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1455,
+      "markdown_body_line_end": 1455,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Jainism rejects a creator while affirming liberated omniscient souls as achieved godhead, thereby separating spiritual perfection from cosmic production.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 149.005
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 82.337
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1468,
+      "markdown_body_line_end": 1468,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CORE DISTINCTION:** Jainism rejects a creator God but affirms liberated, omniscient souls as achieved godhead attained through self-effort.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 683.891
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 639.224
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1493,
+      "markdown_body_line_end": 1519,
+      "heading": "2. What Jainism affirms - godhood, and the proofs for it",
+      "preview": "PROOF 1 — FROM THE INTRINSIC NATURE OF THE JIVA (svabhava-siddhi)",
+      "metadata": {
+        "language": "text",
+        "line_count": 25,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 381.424
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 120.424
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1529,
+      "markdown_body_line_end": 1536,
+      "heading": "3. Jaina refutation of a creator God",
+      "preview": "# | Argument | Force",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "#",
+          "Argument",
+          "Force"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 705.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 452.69
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1544,
+      "markdown_body_line_end": 1557,
+      "heading": "4. Solved PYQ - 2019, Q5(e), 10 marks",
+      "preview": "1 min : Disambiguate \"God\" — Jainism denies jagat-karta but affirms GODHEAD.",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 383.09
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 252.09
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1562,
+      "markdown_body_line_end": 1570,
+      "heading": "CLOSING RECALL FLOW - PART I - JAINISM",
+      "preview": "PART I — JAINISM",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 159.09
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 53.071
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1581,
+      "markdown_body_line_end": 1581,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Buddhism rejects a permanent creator because dependent origination explains arising through conditions without introducing an unchanging divine producer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1594,
+      "markdown_body_line_end": 1594,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CORE DISTINCTION:** Buddhism rejects a permanent creator and explains suffering through conditioned arising rather than divine production.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 454.024
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 409.356
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1630,
+      "markdown_body_line_end": 1654,
+      "heading": "6. Solved PYQ - 2018, Q8(b), 15 marks",
+      "preview": "FRAME   : Buddhism denies a creator without denying the sacred; the target is",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 492.691
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1657,
+      "markdown_body_line_end": 1665,
+      "heading": "CLOSING RECALL FLOW - PART II - BUDDHISM",
+      "preview": "PART II — BUDDHISM",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 470.691
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 364.673
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1676,
+      "markdown_body_line_end": 1676,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mīmāṃsā (school of inquiry into ritual duty) treats the Veda (sacred revealed knowledge) as authorless and karma (morally consequential action) as self-fructifying, thereby displacing the need for God.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 243.873
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 177.205
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1689,
+      "markdown_body_line_end": 1689,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CORE DEFINITION:** Mīmāṃsā (school of inquiry into ritual duty) treats the Veda (sacred revealed knowledge) as authorless and karma (morally consequential action) as self-fructifying, thereby displacing the need for God.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 725.224
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1716,
+      "markdown_body_line_end": 1722,
+      "heading": "8. Cārvāka - and the Nyāya replies to all three",
+      "preview": "Objector | Core claim | ⚠️ Nyāya's reply | Assessment",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Objector",
+          "Core claim",
+          "⚠️ Nyāya's reply",
+          "Assessment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 320.424
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 99.522
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1726,
+      "markdown_body_line_end": 1732,
+      "heading": "India-West comparison",
+      "preview": "Objection type | Indian instance | Western counterpart",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Objection type",
+          "Indian instance",
+          "Western counterpart"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 611.89
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1747,
+      "markdown_body_line_end": 1747,
+      "heading": "UPSC traps",
+      "preview": "🔑 **Mnemonic — \"E-C-E\":** every Indian anti-creator argument is an **E**conomy, **C**oherence or **E**pistemic move.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 375.29
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 344.822
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1774,
+      "markdown_body_line_end": 1774,
+      "heading": "VISUAL: MASTER CONCEPT MAP - THE WHOLE SYLLABUS ITEM ON ONE PAGE",
+      "preview": "**EXAM-READY LINE:** Final verdict:** No proof is demonstrative unless it survives validity, soundness and adequacy, and most arguments underdetermine the rich God of religion.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 717.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 650.624
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1787,
+      "markdown_body_line_end": 1823,
+      "heading": "VISUAL: MASTER CONCEPT MAP - THE WHOLE SYLLABUS ITEM ON ONE PAGE",
+      "preview": "DOES ANYTHING PROVE GOD?",
+      "metadata": {
+        "language": "text",
+        "line_count": 35,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 650.624
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 289.624
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1827,
+      "markdown_body_line_end": 1835,
+      "heading": "1. The master comparison table",
+      "preview": "Proof | Starting point | Conclusion claimed | Indian parallel | Main critic | What actually survives",
+      "metadata": {
+        "column_count": 6,
+        "row_count": 7,
+        "headers": [
+          "Proof",
+          "Starting point",
+          "Conclusion claimed",
+          "Indian parallel",
+          "Main critic",
+          "What actually survives"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 451.89
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1839,
+      "markdown_body_line_end": 1851,
+      "heading": "2. Criticisms and replies - the consolidated grid",
+      "preview": "Objection | Proof affected | Reply | Assessment",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 11,
+        "headers": [
+          "Objection",
+          "Proof affected",
+          "Reply",
+          "Assessment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 429.89
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 43.988
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1857,
+      "markdown_body_line_end": 1868,
+      "heading": "3. Four verdicts you may safely defend",
+      "preview": "V1  MINIMAL   : No proof is demonstrative; each fails on validity, soundness",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 768.091
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 657.091
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1872,
+      "markdown_body_line_end": 1879,
+      "heading": "4. India and the West - convergence and divergence",
+      "preview": "Axis | ✅ Convergence | ✅ Divergence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Axis",
+          "✅ Convergence",
+          "✅ Divergence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 635.091
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 416.09
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1887,
+      "markdown_body_line_end": 1891,
+      "heading": "10 marks (≈150 words, 7-8 minutes)",
+      "preview": "Name and classify the proof  →  state its premises in sequence  →",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 327.49
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 286.49
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1895,
+      "markdown_body_line_end": 1900,
+      "heading": "15 marks (≈220-260 words, 12-13 minutes)",
+      "preview": "Frame the explanatory question the proof answers  →  reconstruct the argument",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 264.49
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 213.49
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1904,
+      "markdown_body_line_end": 1909,
+      "heading": "20 marks (≈320-360 words, 17-18 minutes)",
+      "preview": "Classify the family of proofs  →  full internal steps  →  contrast the",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 191.49
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 140.49
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1913,
+      "markdown_body_line_end": 1926,
+      "heading": "6. PYQ routing - the complete 2018-2025 map",
+      "preview": "Year | Q | Marks | Demand | Session route",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 12,
+        "headers": [
+          "Year",
+          "Q",
+          "Marks",
+          "Demand",
+          "Session route"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 517.39
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1932,
+      "markdown_body_line_end": 1935,
+      "heading": "7. \"Which Way is philosophically most interesting?\" - handling the 2022 evaluative demand",
+      "preview": "Choice | Why defensible | What you must then show",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Choice",
+          "Why defensible",
+          "What you must then show"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 476.19
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 353.188
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1944,
+      "markdown_body_line_end": 1952,
+      "heading": "CLOSING RECALL FLOW - PART III - MĪMĀṂSĀ",
+      "preview": "PART III — MĪMĀṂSĀ",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 167.188
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 52.82
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1961,
+      "markdown_body_line_end": 1961,
+      "heading": "Premium diagnostics - [CORE PAPER II]",
+      "preview": "**Key discipline:** Questions 1–32 follow the correct-answer sequence **A, B, C, D** repeated exactly **eight times**, with no deviation. Each question has four plausible options, a detailed explanation, and a one-line trap note.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 713.691
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 669.024
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1979,
+      "markdown_body_line_end": 1979,
+      "heading": "MCQ 1 - The three tiers of assessment [CORE PAPER II]",
+      "preview": "🔑 **Trap:** a proof may be valid *and* sound and still fail to establish God.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 441.624
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 411.156
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2005,
+      "markdown_body_line_end": 2005,
+      "heading": "MCQ 2 - Classifying the proof-families [CORE PAPER II]",
+      "preview": "🔑 **Trap:** the *modality of the conclusion* does not determine whether an argument is a priori; the *source of the premises* does.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 93.256
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 48.588
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2024,
+      "markdown_body_line_end": 2024,
+      "heading": "MCQ 3 - Anselm's two forms [CORE PAPER II]",
+      "preview": "🔑 **Trap:** omitting *Proslogion* 3 makes Anselm's reply to Gaunilo unintelligible.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 581.891
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 551.424
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2044,
+      "markdown_body_line_end": 2044,
+      "heading": "MCQ 4 - Gaunilo and Anselm's reply [CORE PAPER II]",
+      "preview": "🔑 **Trap:** the reply saves the second form only by transferring the burden to the coherence of maximal greatness.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 321.524
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 276.856
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2063,
+      "markdown_body_line_end": 2063,
+      "heading": "MCQ 5 - Kant on existence [CORE PAPER II]",
+      "preview": "🔑 **Trap:** Kant's objection is a diagnosis of the concept of existence, not a parody like Gaunilo's.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 596.091
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 565.624
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2082,
+      "markdown_body_line_end": 2082,
+      "heading": "MCQ 6 - The modal ontological argument [CORE PAPER II]",
+      "preview": "🔑 **Trap:** \"valid\" is not \"compelling\" — validity in S5 is cheap when the possibility premise is contested.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 335.724
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 305.256
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2101,
+      "markdown_body_line_end": 2101,
+      "heading": "MCQ 7 - Descartes and Anselm [CORE PAPER II]",
+      "preview": "🔑 **Trap:** Descartes' *Meditations* III causal proof is not his ontological argument.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 596.091
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 565.624
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2120,
+      "markdown_body_line_end": 2120,
+      "heading": "MCQ 8 - Essentially ordered series [CORE PAPER II]",
+      "preview": "🔑 **Trap:** Aquinas does not need to exclude infinite *per accidens* regresses, and elsewhere allows that the world may be eternal.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 335.724
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 291.056
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2139,
+      "markdown_body_line_end": 2139,
+      "heading": "MCQ 9 - Mapping the Five Ways [CORE PAPER II]",
+      "preview": "🔑 **Trap:** Way 4 (degrees) is easily forgotten; omitting it in a Five-Ways question is an immediate content loss.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 567.691
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 523.024
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2165,
+      "markdown_body_line_end": 2165,
+      "heading": "MCQ 10 - The Third Way's weak step [CORE PAPER II]",
+      "preview": "🔑 **Trap:** never say Aquinas argues for a temporal beginning; that is the Kalām.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 219.324
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 188.856
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2184,
+      "markdown_body_line_end": 2184,
+      "heading": "MCQ 11 - Aquinas on the eternity of the world [CORE PAPER II]",
+      "preview": "🔑 **Trap:** this single fact separates a first-class Aquinas answer from a textbook one.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 596.091
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 565.624
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2203,
+      "markdown_body_line_end": 2203,
+      "heading": "MCQ 12 - Kalām versus Aquinas [CORE PAPER II]",
+      "preview": "🔑 **Trap:** merging Kalām and Aquinas is the commonest structural error in cosmological answers.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 349.924
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 319.456
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2222,
+      "markdown_body_line_end": 2222,
+      "heading": "MCQ 13 - Kant against the cosmological argument [CORE PAPER II]",
+      "preview": "🔑 **Trap:** Hume attacks the regress; Kant attacks the identification. Keep the two critics distinct.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 581.891
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 551.424
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2241,
+      "markdown_body_line_end": 2241,
+      "heading": "MCQ 14 - Aquinas' Fifth Way and Paley [CORE PAPER II]",
+      "preview": "🔑 **Trap:** attributing the watch analogy to Aquinas is explicitly listed among this topic's standard traps.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 335.724
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 305.256
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2260,
+      "markdown_body_line_end": 2260,
+      "heading": "MCQ 15 - Paley's supplementary points [CORE PAPER II]",
+      "preview": "🔑 **Trap:** Paley concedes imperfection; he does not deny it.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 624.491
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 594.024
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2279,
+      "markdown_body_line_end": 2279,
+      "heading": "MCQ 16 - Hume's Epicurean hypothesis [CORE PAPER II]",
+      "preview": "🔑 **Trap:** front 1 attacks the evidence; the evil argument attacks the designer's attributes. Different tiers.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 364.124
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 333.656
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2298,
+      "markdown_body_line_end": 2298,
+      "heading": "MCQ 17 - Hume on the analogy [CORE PAPER II]",
+      "preview": "🔑 **Trap:** Hume's alternative analogies are dialectical devices, not his own metaphysics.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 596.091
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 565.624
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2317,
+      "markdown_body_line_end": 2317,
+      "heading": "MCQ 18 - Proportioning cause to effect [CORE PAPER II]",
+      "preview": "🔑 **Trap:** this objection *grants* the inference and then denies its reach — the classic adequacy move.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 349.924
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 319.456
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2336,
+      "markdown_body_line_end": 2336,
+      "heading": "MCQ 19 - The exact scope of Darwin's defeat [CORE PAPER II]",
+      "preview": "🔑 **Trap:** Darwin defeats Paley, not teleology as such.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 596.091
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 565.624
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2355,
+      "markdown_body_line_end": 2355,
+      "heading": "MCQ 20 - Fine-tuning and its rivals [CORE PAPER II]",
+      "preview": "🔑 **Trap:** mention fine-tuning as a modern extension; never let it displace Paley and Hume in a UPSC answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 364.124
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 319.456
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2374,
+      "markdown_body_line_end": 2374,
+      "heading": "MCQ 21 - Kant's postulates [CORE PAPER II]",
+      "preview": "🔑 **Trap:** listing only God loses the systematic architecture of the argument.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 610.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 579.824
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2393,
+      "markdown_body_line_end": 2393,
+      "heading": "MCQ 22 - The role of \"ought implies can\" [CORE PAPER II]",
+      "preview": "🔑 **Trap:** the highest good must be *promotable*, not single-handedly *achievable*.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 349.924
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 319.456
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2412,
+      "markdown_body_line_end": 2412,
+      "heading": "MCQ 23 - Newman's conscience argument [CORE PAPER II]",
+      "preview": "🔑 **Trap:** Kant's second form escapes this objection because it postulates rather than infers.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 596.091
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 565.624
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2431,
+      "markdown_body_line_end": 2431,
+      "heading": "MCQ 24 - The target of the Euthyphro dilemma [CORE PAPER II]",
+      "preview": "🔑 **Trap:** aiming Euthyphro at Kant is a misapplied objection and is penalised.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 349.924
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 319.456
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2450,
+      "markdown_body_line_end": 2450,
+      "heading": "MCQ 25 - Nyāya's divine causation [CORE PAPER II]",
+      "preview": "🔑 **Trap:** calling Nyāya's God the material cause is the topic's most heavily penalised factual error.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 610.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 579.824
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2476,
+      "markdown_body_line_end": 2476,
+      "heading": "MCQ 26 - The kāryāt argument's internal steps [CORE PAPER II]",
+      "preview": "🔑 **Trap:** the omniscience step is what lifts the argument from \"an intelligent artisan\" to \"God\"; omitting it guts the proof.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 261.924
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 217.256
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2495,
+      "markdown_body_line_end": 2495,
+      "heading": "MCQ 27 - The argument from adṛṣṭa [CORE PAPER II]",
+      "preview": "🔑 **Trap:** the Mīmāṃsā counter — that *apūrva* matures by itself — is aimed exactly at this premise.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 596.091
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 565.624
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2514,
+      "markdown_body_line_end": 2514,
+      "heading": "MCQ 28 - The Veda-God circularity [CORE PAPER II]",
+      "preview": "🔑 **Trap:** conceding the circle throws away one of the most elegant replies in Indian philosophy of religion.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 335.724
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 305.256
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2533,
+      "markdown_body_line_end": 2533,
+      "heading": "MCQ 29 - Jaina godhead [CORE PAPER II]",
+      "preview": "🔑 **Trap:** answering the 2019 PYQ with \"Jainism is atheistic\" misreads the question and forfeits most of the marks.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 596.091
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 551.424
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2552,
+      "markdown_body_line_end": 2552,
+      "heading": "MCQ 30 - The Buddhist immutability argument [CORE PAPER II]",
+      "preview": "🔑 **Trap:** classical theism replies with a single eternal act producing a temporal effect; a \"critically evaluate\" answer must include that reply.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 335.724
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 291.056
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2571,
+      "markdown_body_line_end": 2571,
+      "heading": "MCQ 31 - Mīmāṃsā's twin displacement of God [CORE PAPER II]",
+      "preview": "🔑 **Trap:** *apūrva* is Mīmāṃsā's technical substitute for a fruit-dispensing God; do not call it \"karma\" loosely.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 596.091
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 565.624
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2590,
+      "markdown_body_line_end": 2590,
+      "heading": "MCQ 32 - Comparative synthesis [CORE PAPER II]",
+      "preview": "🔑 **Trap:** the phrase \"India's critics stood inside religion, the West's outside it\" is the highest-value comparative line in this topic.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 307.324
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 262.656
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2598,
+      "markdown_body_line_end": 2598,
+      "heading": "Premium remediation - [CORE ANSWER]",
+      "preview": "These target the six category errors that cost the most marks in this syllabus item. Attempt them only after Part II.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 235.156
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 204.688
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2819,
+      "markdown_body_line_end": 2819,
+      "heading": "Verified-question status - [CORE ANSWER]",
+      "preview": "**Corpus note:** ✅ The audited Paper II corpus for 2018–2025 contains **12 primary-owned question-parts** for this syllabus item, out of 112 parts overall. The corpus is continuous across all eight years. Cross-linked questions owned by *No",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 335.691
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 262.624
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2821,
+      "markdown_body_line_end": 2834,
+      "heading": "Verified-question status - [CORE ANSWER]",
+      "preview": "# | Year | Q | Marks | Theme",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 12,
+        "headers": [
+          "#",
+          "Year",
+          "Q",
+          "Marks",
+          "Theme"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 533.39
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2846,
+      "markdown_body_line_end": 2852,
+      "heading": "Demand decoding",
+      "preview": "Element | Requirement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Element",
+          "Requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 439.49
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 297.688
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2877,
+      "markdown_body_line_end": 2885,
+      "heading": "Compact skeleton and timing",
+      "preview": "1 min  : State the entailment claim precisely",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 564.891
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 483.891
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2906,
+      "markdown_body_line_end": 2912,
+      "heading": "Demand decoding",
+      "preview": "Element | Requirement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Element",
+          "Requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 717.891
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 576.09
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2943,
+      "markdown_body_line_end": 2952,
+      "heading": "Compact skeleton and timing",
+      "preview": "2 min  : Comparative frame — two a posteriori natural theologies",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 701.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 610.291
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2973,
+      "markdown_body_line_end": 2979,
+      "heading": "Demand decoding",
+      "preview": "Element | Requirement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Element",
+          "Requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 406.391
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 264.59
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3004,
+      "markdown_body_line_end": 3013,
+      "heading": "Compact skeleton and timing",
+      "preview": "1 min  : Clarify the target — jagat-karta, not the sacred",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 545.691
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 454.691
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3034,
+      "markdown_body_line_end": 3040,
+      "heading": "Demand decoding",
+      "preview": "Element | Requirement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Element",
+          "Requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 732.091
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 590.29
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3063,
+      "markdown_body_line_end": 3069,
+      "heading": "Compact skeleton and timing",
+      "preview": "1 min  : Denies creator, affirms godhead — the controlling distinction",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 206.29
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 145.29
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3089,
+      "markdown_body_line_end": 3095,
+      "heading": "Demand decoding",
+      "preview": "Element | Requirement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Element",
+          "Requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 724.591
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 582.79
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3124,
+      "markdown_body_line_end": 3132,
+      "heading": "Compact skeleton and timing",
+      "preview": "2 min  : Split the question — valid? legitimate premise?",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3152,
+      "markdown_body_line_end": 3158,
+      "heading": "Demand decoding",
+      "preview": "Element | Requirement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Element",
+          "Requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 519.591
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 388.99
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3185,
+      "markdown_body_line_end": 3193,
+      "heading": "Compact skeleton and timing",
+      "preview": "1 min  : Two forms flagged at once",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 579.091
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 498.091
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3214,
+      "markdown_body_line_end": 3220,
+      "heading": "Demand decoding",
+      "preview": "Element | Requirement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Element",
+          "Requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 703.691
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 573.09
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3245,
+      "markdown_body_line_end": 3253,
+      "heading": "Compact skeleton and timing",
+      "preview": "2 min  : Frame — five distinct a posteriori arguments",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 749.891
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 668.891
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3274,
+      "markdown_body_line_end": 3280,
+      "heading": "Demand decoding",
+      "preview": "Element | Requirement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Element",
+          "Requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 436.591
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 294.79
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3309,
+      "markdown_body_line_end": 3317,
+      "heading": "Compact skeleton and timing",
+      "preview": "3 min  : Four axes of distinction — source, method, modality, vulnerability",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 427.091
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 346.091
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3338,
+      "markdown_body_line_end": 3344,
+      "heading": "Demand decoding",
+      "preview": "Element | Requirement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Element",
+          "Requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 732.091
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 601.49
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3371,
+      "markdown_body_line_end": 3380,
+      "heading": "Compact skeleton and timing",
+      "preview": "2 min  : Isvara — efficient cause, preserver, destroyer; theism not deism",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 746.891
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 655.891
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0156",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3401,
+      "markdown_body_line_end": 3407,
+      "heading": "Demand decoding",
+      "preview": "Element | Requirement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Element",
+          "Requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 451.991
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 321.39
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0157",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3428,
+      "markdown_body_line_end": 3435,
+      "heading": "Compact skeleton and timing",
+      "preview": "1 min  : A priori status and Anselm's definition, precisely worded",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 660.891
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 589.891
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0158",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3455,
+      "markdown_body_line_end": 3461,
+      "heading": "Demand decoding",
+      "preview": "Element | Requirement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Element",
+          "Requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 388.991
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 235.99
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0159",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3486,
+      "markdown_body_line_end": 3494,
+      "heading": "Compact skeleton and timing",
+      "preview": "2 min  : Two forms distinguished — Way 5 vs Paley",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 384.491
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 303.491
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0160",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3515,
+      "markdown_body_line_end": 3521,
+      "heading": "Demand decoding",
+      "preview": "Element | Requirement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Element",
+          "Requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 732.091
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 590.29
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0161",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3548,
+      "markdown_body_line_end": 3555,
+      "heading": "Compact skeleton and timing",
+      "preview": "1 min  : Plurality of proofs; enumerations vary",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0162",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3579,
+      "markdown_body_line_end": 3583,
+      "heading": "Demand decoding",
+      "preview": "Element | Requirement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Element",
+          "Requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 495.191
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 406.99
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0163",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3609,
+      "markdown_body_line_end": 3613,
+      "heading": "Demand decoding",
+      "preview": "Element | Requirement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Element",
+          "Requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 699.09
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0164",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3639,
+      "markdown_body_line_end": 3643,
+      "heading": "Demand decoding",
+      "preview": "Element | Requirement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Element",
+          "Requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 344.19
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 255.988
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0165",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3673,
+      "markdown_body_line_end": 3677,
+      "heading": "Demand decoding",
+      "preview": "Element | Requirement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Element",
+          "Requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 546.391
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 446.99
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0166",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3707,
+      "markdown_body_line_end": 3711,
+      "heading": "Demand decoding",
+      "preview": "Element | Requirement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Element",
+          "Requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 736.891
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 648.69
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0167",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3744,
+      "markdown_body_line_end": 3748,
+      "heading": "Demand decoding",
+      "preview": "Element | Requirement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Element",
+          "Requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 687.89
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0168",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3784,
+      "markdown_body_line_end": 3789,
+      "heading": "1. Define with discrimination, not description",
+      "preview": "Weak  : God is the cause of the world.",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 748.091
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 697.091
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0169",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3791,
+      "markdown_body_line_end": 3799,
+      "heading": "1. Define with discrimination, not description",
+      "preview": "Term | The definition must distinguish it from",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Term",
+          "The definition must distinguish it from"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 697.091
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 524.09
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0170",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3803,
+      "markdown_body_line_end": 3809,
+      "heading": "2. Reconstruct arguments as premises",
+      "preview": "1. Composite objects are effects (savayava + avantara-mahattva).",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 502.09
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 441.09
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0171",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3815,
+      "markdown_body_line_end": 3819,
+      "heading": "3. Sort every objection by tier",
+      "preview": "VALIDITY  : does the conclusion follow?      (quantifier shift in Way 3)",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 385.69
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 344.69
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0172",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3832,
+      "markdown_body_line_end": 3838,
+      "heading": "5. Never conflate these five relations",
+      "preview": "CONCEPTUAL ENTAILMENT : Anselm — the concept contains necessary existence",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 203.49
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 142.49
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0173",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3842,
+      "markdown_body_line_end": 3850,
+      "heading": "6. Present objection and reply dialectically",
+      "preview": "OBJECTION → BEST AVAILABLE REPLY → RESIDUAL PRESSURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0174",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3868,
+      "markdown_body_line_end": 3872,
+      "heading": "8. Marks-wise architecture",
+      "preview": "Marks | Working time | Architecture",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Working time",
+          "Architecture"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 514.491
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 403.89
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0175",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3882,
+      "markdown_body_line_end": 3882,
+      "heading": "9. Avoid generic prose",
+      "preview": "\"Belief in God gives peace and moral values to society.\"",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 299.89
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 269.422
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0176",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3886,
+      "markdown_body_line_end": 3886,
+      "heading": "9. Avoid generic prose",
+      "preview": "\"A moral governor can ground desert-appropriate allocation, but Mīmāṃsā's *apūrva* shows that an unconscious potency may be intrinsically fruit-directed — so the Nyāya inference must defend its premise that unconsciousness entails indetermi",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 250.222
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 191.354
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0177",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3901,
+      "markdown_body_line_end": 3935,
+      "heading": "Part VI - Final Rapid Revision Matrix",
+      "preview": "Argument / doctrine | Thinker / school | Starting point | Terminus reached | Central criticism | Likely question form",
+      "metadata": {
+        "column_count": 6,
+        "row_count": 33,
+        "headers": [
+          "Argument / doctrine",
+          "Thinker / school",
+          "Starting point",
+          "Terminus reached",
+          "Central criticism",
+          "Likely question form"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 250.89
+        }
+      },
+      "pdf_pages": [
+        92,
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0178",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3939,
+      "markdown_body_line_end": 3955,
+      "heading": "Last-minute memory spine",
+      "preview": "TIERS    : validity → soundness → adequacy of the God established",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 228.89
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 67.89
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0179",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4000,
+      "markdown_body_line_end": 4000,
+      "heading": "Advanced cards moved from the complete learner source - [OPTIONAL ADVANCED]",
+      "preview": "**EXAM-READY LINE:** High-value transition:** ⚠️ Anselm's argument is better read as fides quaerens intellectum — faith seeking understanding — than as a neutral proof aimed at converting the atheist.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 169.091
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 124.424
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0180",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4041,
+      "markdown_body_line_end": 4041,
+      "heading": "Canonical advanced doctrine dossiers - [OPTIONAL ADVANCED]",
+      "preview": "**EXAM-READY LINE:** High-value transition:** Doctrine statement. ✅ Anselm argues a priori from the concept of God as that than which no greater can be conceived to existence not merely in understanding but in reality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 740.624
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0181",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4056,
+      "markdown_body_line_end": 4056,
+      "heading": "8. ADVANCED DOCTRINE DOSSIERS",
+      "preview": "**EXAM-READY LINE:** High-value transition:** Doctrine statement. ✅ Anselm argues a priori from the concept of God as that than which no greater can be conceived to existence not merely in understanding but in reality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 740.624
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 673.956
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0182",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4097,
+      "markdown_body_line_end": 4106,
+      "heading": "8.4 Nyāya-Udayana inference to Īśvara",
+      "preview": "# | *Hetu* (Sanskrit) | Inference offered | Status",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "#",
+          "*Hetu* (Sanskrit)",
+          "Inference offered",
+          "Status"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 681.891
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 346.99
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0183",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4123,
+      "markdown_body_line_end": 4123,
+      "heading": "8.6 Jainism: rejection of a creator, and what \"God\" then means (2019 Q5(e) owner-module)",
+      "preview": "⚠️ **Read the question exactly.** \"Proofs for the existence of God as propounded in Jainism\" is a trap-shaped stem: Jainism offers **no proof of a creator God** — it offers (a) a battery of arguments *against* a creator, and (b) a positive ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 630.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 535.224
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0184",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4171,
+      "markdown_body_line_end": 4171,
+      "heading": "9. INTER-THINKER / INTER-SCHOOL DEBATES",
+      "preview": "**EXAM-READY LINE:** High-value transition:** Comparison earns marks only when thinkers are tested through a constant axis such as starting point, causal model, divine attributes, objection and final explanatory reach.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 172.091
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 105.424
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0185",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4184,
+      "markdown_body_line_end": 4193,
+      "heading": "9. INTER-THINKER / INTER-SCHOOL DEBATES",
+      "preview": "Proof | Starting point | Conclusion claimed | Indian parallel | Main critic",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 8,
+        "headers": [
+          "Proof",
+          "Starting point",
+          "Conclusion claimed",
+          "Indian parallel",
+          "Main critic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 531.39
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0186",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4197,
+      "markdown_body_line_end": 4197,
+      "heading": "10. CRITICISMS AND REPLIES",
+      "preview": "**EXAM-READY LINE:** Major criticism:** A criticism should identify whether it attacks validity, a premise's truth or the adequacy of the conclusion, and the reply must answer that exact level.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 531.39
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 464.722
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0187",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4210,
+      "markdown_body_line_end": 4216,
+      "heading": "10. CRITICISMS AND REPLIES",
+      "preview": "Objection | Proof affected | Reply | Assessment",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Objection",
+          "Proof affected",
+          "Reply",
+          "Assessment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 464.722
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 285.82
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0188",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4220,
+      "markdown_body_line_end": 4220,
+      "heading": "11. COMMON UPSC TRAPS",
+      "preview": "**EXAM-READY LINE:** Major criticism:** The central examination trap is to collapse distinct doctrines or to claim that a criticism proves more than its argument actually establishes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 285.82
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 219.153
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0189",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4248,
+      "markdown_body_line_end": 4248,
+      "heading": "12. KEYWORD & STATEMENT BANK",
+      "preview": "**EXAM-READY LINE:** High-value transition:** Ontological arguments reason a priori from the God-concept, whereas cosmological, teleological and Nyāya (school of logic and realism) arguments reason a posteriori from experienced reality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 646.291
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 565.424
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0190",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4276,
+      "markdown_body_line_end": 4276,
+      "heading": "13. PYQ ROUTING (2018-2025)",
+      "preview": "**CORE DISTINCTION:** High-value transition:** ⚠️ Corpus signal: 12 primary-owned question-parts out of 112.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 288.024
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 221.356
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0191",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4289,
+      "markdown_body_line_end": 4289,
+      "heading": "13. PYQ ROUTING (2018-2025)",
+      "preview": "⚠️ **Corpus signal:** 12 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 221.356
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 176.688
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0192",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4291,
+      "markdown_body_line_end": 4304,
+      "heading": "13. PYQ ROUTING (2018-2025)",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 12,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 438.89
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0193",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4310,
+      "markdown_body_line_end": 4310,
+      "heading": "14. ANSWER ARCHITECTURE (10 / 15 / 20 MARKS)",
+      "preview": "**EXAM-READY LINE:** High-value transition:** A high-scoring answer moves from exact definition to argument reconstruction, objection and reply, comparison and a criterion-based graded verdict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 419.69
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 353.022
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0194",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4324,
+      "markdown_body_line_end": 4327,
+      "heading": "10 marks",
+      "preview": "Name and classify the proof → state premises in sequence → identify one presupposition →",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 331.022
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 300.022
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0195",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4330,
+      "markdown_body_line_end": 4333,
+      "heading": "15 marks",
+      "preview": "Frame the explanatory question → reconstruct argument → canonical example →",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 278.022
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 247.022
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0196",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4336,
+      "markdown_body_line_end": 4339,
+      "heading": "20 marks",
+      "preview": "Classify the family of proofs → full internal steps → contrast Indian/Western analogue →",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 225.022
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 194.022
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0197",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4343,
+      "markdown_body_line_end": 4343,
+      "heading": "15. DIRECTIVE DECODER (what the verb obliges you to produce)",
+      "preview": "**EXAM-READY LINE:** High-value transition:** The directive fixes the answer's burden: exposition requires accurate reconstruction, comparison requires a constant axis, and critical examination requires objection, reply and verdict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 194.022
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 127.354
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0198",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4356,
+      "markdown_body_line_end": 4365,
+      "heading": "15. DIRECTIVE DECODER (what the verb obliges you to produce)",
+      "preview": "Directive | Examiner is buying | Structural consequence | Live example",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Directive",
+          "Examiner is buying",
+          "Structural consequence",
+          "Live example"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 489.39
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0199",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4367,
+      "markdown_body_line_end": 4367,
+      "heading": "15. DIRECTIVE DECODER (what the verb obliges you to produce)",
+      "preview": "🔑 **Rule:** for every proof, answer three separate questions — is it **valid**? are its premises **true**? and does its conclusion reach the **God of religion**? Most scripts answer only the first.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 489.39
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 444.722
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0200",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4371,
+      "markdown_body_line_end": 4371,
+      "heading": "16. GRADED VERDICT LADDER",
+      "preview": "**EXAM-READY LINE:** Final verdict:** A graded verdict should state what the argument establishes, what it fails to establish and which disputed premise determines the remaining uncertainty.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 444.722
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 378.054
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0201",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4384,
+      "markdown_body_line_end": 4390,
+      "heading": "16. GRADED VERDICT LADDER",
+      "preview": "Band | What the script contains | Typical fault",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Band",
+          "What the script contains",
+          "Typical fault"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 378.054
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 146.653
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0202",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4399,
+      "markdown_body_line_end": 4399,
+      "heading": "17. FACTUAL AND QUOTATION DISCIPLINE",
+      "preview": "**EXAM-READY LINE:** High-value transition:** Use quotations only with secure attribution, and prefer an accurate paraphrase to a decorative or uncertain formula.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 757.691
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 691.024
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0203",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4412,
+      "markdown_body_line_end": 4425,
+      "heading": "17. FACTUAL AND QUOTATION DISCIPLINE",
+      "preview": "Item | Status | Safe use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 12,
+        "headers": [
+          "Item",
+          "Status",
+          "Safe use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 691.024
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 288.822
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0204",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4431,
+      "markdown_body_line_end": 4431,
+      "heading": "18. LINK-OUTS",
+      "preview": "**CORE DISTINCTION:** High-value transition:** Notions of God — what kind of God the proofs are supposed to reach.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 288.822
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 236.354
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0205",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4460,
+      "markdown_body_line_end": 4460,
+      "heading": "Philosophy of Religion dossier: Topic 2 - [OPTIONAL ADVANCED]",
+      "preview": "**CORE DISTINCTION:** High-value transition:** #### 2. Proofs for the Existence of God and their Critique.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 754.824
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0206",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4475,
+      "markdown_body_line_end": 4475,
+      "heading": "2. Proofs for the Existence of God and their Critique",
+      "preview": "**EXAM-READY LINE:** A proof of God is an argument from concept, world or moral experience to divine existence, and its critique must separately test validity, soundness and adequacy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 754.824
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 688.156
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0207",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4490,
+      "markdown_body_line_end": 4495,
+      "heading": "2. Proofs for the Existence of God and their Critique",
+      "preview": "Optional advanced debate | Precise competing positions | Strongest extra objection → counter-reply | Safe use in a 15/20-marker",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Optional advanced debate",
+          "Precise competing positions",
+          "Strongest extra objection → counter-reply",
+          "Safe use in a 15/20-marker"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 642.556
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 305.654
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0208",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4507,
+      "markdown_body_line_end": 4507,
+      "heading": "CONSOLIDATED REGISTER NOTES",
+      "preview": "**Placement note:** These register notes come **after** all teaching and practice, and cover **every one of the eight subtopics** taught in this session. They are the last-mile revision layer, not a substitute for the session above.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 148.554
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 103.887
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0209",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4511,
+      "markdown_body_line_end": 4511,
+      "heading": "Register 1 - The architecture of theistic proof",
+      "preview": "**EXAM-READY LINE:** Theistic proofs are best classified by starting point, inferential form and the concept of God reached, then tested separately for validity, soundness and adequacy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 103.887
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 37.219
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0210",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4524,
+      "markdown_body_line_end": 4534,
+      "heading": "Register 1 - The architecture of theistic proof",
+      "preview": "Item | Register entry",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Item",
+          "Register entry"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 509.49
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0211",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4538,
+      "markdown_body_line_end": 4538,
+      "heading": "Register 2 - Ontological argument",
+      "preview": "**EXAM-READY LINE:** The ontological argument seeks to infer necessary existence from the concept of the greatest conceivable or maximally perfect being.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 509.49
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 442.822
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0212",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4568,
+      "markdown_body_line_end": 4568,
+      "heading": "Register 3 - Cosmological arguments",
+      "preview": "**CORE DISTINCTION:** Core argument:** ✅ Ways 1–3 are cosmological; Way 4 is henological; Way 5 is teleological.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 771.891
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 705.224
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0213",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4599,
+      "markdown_body_line_end": 4599,
+      "heading": "Register 4 - Teleological argument",
+      "preview": "**EXAM-READY LINE:** Core argument:** ✅ Paley's evidence is cumulative: the eye as a self-adjusting optical instrument, the bird's wing, the fish's fin, planetary rotation, the seasons.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 333.624
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 266.956
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0214",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4632,
+      "markdown_body_line_end": 4632,
+      "heading": "Register 5 - Moral argument",
+      "preview": "**EXAM-READY LINE:** Core argument:** ✅ Kant's structure: moral law obligates → its complete object is the highest good (virtue + proportionate happiness) → ought implies can → holiness unattainable in finite time (immortality) and nature d",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 109,
+          "frame_y": 503.491
+        },
+        "end": {
+          "page": 109,
+          "frame_y": 422.624
+        }
+      },
+      "pdf_pages": [
+        109
+      ]
+    },
+    {
+      "visual_id": "visual-0215",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4658,
+      "markdown_body_line_end": 4658,
+      "heading": "Register 6 - Nyāya-Udayana theism",
+      "preview": "**EXAM-READY LINE:** ✅ Nature of Īśvara (Lord or personal God): first efficient cause, a demiurgus or builder — not the material cause; also preserver (the world is kept in existence by God's will) and destroyer (when the moral order requir",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 110,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 110,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        110
+      ]
+    },
+    {
+      "visual_id": "visual-0216",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4695,
+      "markdown_body_line_end": 4695,
+      "heading": "Register 7 - Jaina, Buddhist, Mīmāṃsā and Cārvāka critiques",
+      "preview": "**EXAM-READY LINE:** High-value transition:** ✅ Denies God as creator; the world was never created; substances are eternal and change through modes; utpāda–vyaya–dhrauvya.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0217",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4747,
+      "markdown_body_line_end": 4747,
+      "heading": "Register 8 - Comparative synthesis and answer architecture",
+      "preview": "**EXAM-READY LINE:** Final verdict:** Comparison is strongest when each position is judged through the same axes of ultimate reality, world relation, human relation, causation and religious function.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 704.091
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 637.424
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0218",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4760,
+      "markdown_body_line_end": 4771,
+      "heading": "Register 8 - Comparative synthesis and answer architecture",
+      "preview": "Item | Register entry",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Item",
+          "Register entry"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 637.424
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 277.622
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0219",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4775,
+      "markdown_body_line_end": 4775,
+      "heading": "Register 9 - The eleven master traps",
+      "preview": "**EXAM-READY LINE:** Major criticism:** ⚠️ Do not present Hume as proving that no designer exists; his target is the inference's strength and its conclusion's attributes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 277.622
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 210.954
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0220",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4802,
+      "markdown_body_line_end": 4802,
+      "heading": "Register 10 - Keyword and statement bank",
+      "preview": "**EXAM-READY LINE:** High-value transition:** Ontological arguments reason a priori from the God-concept, whereas cosmological, teleological and Nyāya (school of logic and realism) arguments reason a posteriori from experienced reality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 737.491
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 656.624
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0221",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4827,
+      "markdown_body_line_end": 4827,
+      "heading": "Register 11 - Last-minute memory spine",
+      "preview": "**CORE DISTINCTION:** High-value transition:** End of the complete learning session and consolidated register notes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 387.224
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 334.756
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0222",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4840,
+      "markdown_body_line_end": 4854,
+      "heading": "Register 11 - Last-minute memory spine",
+      "preview": "TAXONOMY : a priori (ontological)  |  a posteriori (cosmo, teleo, moral, Nyaya)",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 334.756
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 193.756
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0223",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4870,
+      "markdown_body_line_end": 4881,
+      "heading": "ASCII MASTER FLOW - PANEL 1/8: 1. Proof architecture",
+      "preview": "THEISTIC ARGUMENTS START FROM DIFFERENT DATA",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 114,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 114,
+          "frame_y": 650.291
+        }
+      },
+      "pdf_pages": [
+        114
+      ]
+    },
+    {
+      "visual_id": "visual-0224",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4885,
+      "markdown_body_line_end": 4895,
+      "heading": "ASCII MASTER FLOW - PANEL 2/8: 2. Ontological line",
+      "preview": "ANSELM: God = that than which nothing greater can be conceived",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 114,
+          "frame_y": 628.291
+        },
+        "end": {
+          "page": 114,
+          "frame_y": 525.491
+        }
+      },
+      "pdf_pages": [
+        114
+      ]
+    },
+    {
+      "visual_id": "visual-0225",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4899,
+      "markdown_body_line_end": 4908,
+      "heading": "ASCII MASTER FLOW - PANEL 3/8: 3. Cosmological family",
+      "preview": "AQUINAS: motion -> unmoved mover | efficient causes -> first cause",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 114,
+          "frame_y": 503.491
+        },
+        "end": {
+          "page": 114,
+          "frame_y": 410.891
+        }
+      },
+      "pdf_pages": [
+        114
+      ]
+    },
+    {
+      "visual_id": "visual-0226",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4912,
+      "markdown_body_line_end": 4923,
+      "heading": "ASCII MASTER FLOW - PANEL 4/8: 4. Design and fine-tuning",
+      "preview": "PALEY: complex purposive adaptation -> watchmaker analogy -> designer",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 114,
+          "frame_y": 388.891
+        },
+        "end": {
+          "page": 114,
+          "frame_y": 275.891
+        }
+      },
+      "pdf_pages": [
+        114
+      ]
+    },
+    {
+      "visual_id": "visual-0227",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4927,
+      "markdown_body_line_end": 4938,
+      "heading": "ASCII MASTER FLOW - PANEL 5/8: 5. Moral argument",
+      "preview": "CONSCIENCE/LAW: obligation -> personal lawgiver (contested)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 674.291
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    },
+    {
+      "visual_id": "visual-0228",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4942,
+      "markdown_body_line_end": 4951,
+      "heading": "ASCII MASTER FLOW - PANEL 6/8: 6. Nyāya-Udayana proof cluster",
+      "preview": "UDAYANA'S ROUTES TO ĪŚVARA",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 652.291
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 559.691
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    },
+    {
+      "visual_id": "visual-0229",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4955,
+      "markdown_body_line_end": 4965,
+      "heading": "ASCII MASTER FLOW - PANEL 7/8: 7. Indian and Western critiques",
+      "preview": "CĀRVĀKA: no perception of God; inference overreaches",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 537.691
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 434.891
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    },
+    {
+      "visual_id": "visual-0230",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4969,
+      "markdown_body_line_end": 4979,
+      "heading": "ASCII MASTER FLOW - PANEL 8/8: 8. Cumulative verdict and answer plan",
+      "preview": "DEFINE target God -> classify argument -> formalise premises -> expose hidden bridge",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 412.891
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 310.091
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    }
+  ]
+}

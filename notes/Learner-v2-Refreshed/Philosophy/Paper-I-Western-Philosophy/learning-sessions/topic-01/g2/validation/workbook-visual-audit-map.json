@@ -1,0 +1,401 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g2\\topic-01_Complete-Learning-Session_2026-08-26.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g2\\topic-01_Solved-Practice-Workbook_2026-08-26.pdf",
+  "mode": "workbook",
+  "topic_key": "philosophy-paper-i-western-philosophy-01",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 166,
+      "markdown_body_line_end": 174,
+      "heading": "Rapid recall - command and terminology grid",
+      "preview": "Trigger | First route",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Trigger",
+          "First route"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 767.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 594.29
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 186,
+      "markdown_body_line_end": 186,
+      "heading": "ORIGINAL AND RETAINED MCQ MASTERY SET - EXACTLY 40 QUESTIONS",
+      "preview": "Questions 1-38 preserve the full topic-balanced and remedial breadth of the approved complete source. Questions 39-40 add the newer canonical substance-tension and Divided-Line refinements. Correct answers rotate strictly A -> B -> C -> D t",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 516.19
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 457.322
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 875,
+      "markdown_body_line_end": 877,
+      "heading": "Practice Design",
+      "preview": "EXACT DEMAND -> DOCTRINE -> NAMED TEXT/EXAMPLE -> OBJECTION/REPLY -> VERDICT",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 751.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 730.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 881,
+      "markdown_body_line_end": 881,
+      "heading": "SOLVED PYQ BANK - EXACTLY 12 VERIFIED PLATO-ARISTOTLE QUESTIONS",
+      "preview": "Exact wording, year and marks are parsed from the continuous local Western Philosophy Paper I bank for 2018-2025. Ownership is restricted to the 12 Plato-Aristotle question-parts specified in that bank.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 705.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 661.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 908,
+      "markdown_body_line_end": 908,
+      "heading": "Detailed Teaching",
+      "preview": "**Memory hook:** ANSWER THE DIRECTIVE, NOT THE TOPIC.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 283.424
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 252.956
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 952,
+      "markdown_body_line_end": 952,
+      "heading": "Detailed Teaching",
+      "preview": "**Memory hook:** ANSWER THE DIRECTIVE, NOT THE TOPIC.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 461.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 431.224
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 996,
+      "markdown_body_line_end": 996,
+      "heading": "Detailed Teaching",
+      "preview": "**Memory hook:** ANSWER THE DIRECTIVE, NOT THE TOPIC.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 623.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 592.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1040,
+      "markdown_body_line_end": 1040,
+      "heading": "Detailed Teaching",
+      "preview": "**Memory hook:** ANSWER THE DIRECTIVE, NOT THE TOPIC.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 39.724
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1084,
+      "markdown_body_line_end": 1084,
+      "heading": "Detailed Teaching",
+      "preview": "**Memory hook:** ANSWER THE DIRECTIVE, NOT THE TOPIC.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 219.924
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 189.456
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1128,
+      "markdown_body_line_end": 1128,
+      "heading": "Detailed Teaching",
+      "preview": "**Memory hook:** ANSWER THE DIRECTIVE, NOT THE TOPIC.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 376.391
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 345.924
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1172,
+      "markdown_body_line_end": 1172,
+      "heading": "Detailed Teaching",
+      "preview": "**Memory hook:** ANSWER THE DIRECTIVE, NOT THE TOPIC.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 504.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1216,
+      "markdown_body_line_end": 1216,
+      "heading": "Detailed Teaching",
+      "preview": "**Memory hook:** ANSWER THE DIRECTIVE, NOT THE TOPIC.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 706.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 675.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1260,
+      "markdown_body_line_end": 1260,
+      "heading": "Detailed Teaching",
+      "preview": "**Memory hook:** ANSWER THE DIRECTIVE, NOT THE TOPIC.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 108.524
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 78.056
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1304,
+      "markdown_body_line_end": 1304,
+      "heading": "Detailed Teaching",
+      "preview": "**Memory hook:** ANSWER THE DIRECTIVE, NOT THE TOPIC.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 317.991
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 287.524
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1348,
+      "markdown_body_line_end": 1348,
+      "heading": "Detailed Teaching",
+      "preview": "**Memory hook:** ANSWER THE DIRECTIVE, NOT THE TOPIC.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 516.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 485.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1392,
+      "markdown_body_line_end": 1392,
+      "heading": "Detailed Teaching",
+      "preview": "**Memory hook:** ANSWER THE DIRECTIVE, NOT THE TOPIC.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 671.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 641.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    }
+  ]
+}

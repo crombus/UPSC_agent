@@ -1,0 +1,254 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Soul: Immortality, Rebirth and Liberation: central question and analytical axes
+
+```ascii-master
+SOUL: IMMORTALITY, REBIRTH AND LIBERATION — CONCEPTUAL ATLAS
+
+
+KEY TERMS: Survival Concepts • The Necessity Question • Canonical doctrine source •
+KEY TERMS: Supplementary book depth (attributed) • Oxford Handbook of Philosophy of… •
+KEY TERMS: Verified PYQs
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Soul: Immortality, Rebirth and Liberation
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       [!IMPORTANT] Immortality means the soul's survival after bodily…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: SURVIVAL CONCEPTS AND THE NECESSITY QUESTION
+  • Survival Concepts
+  • Griffiths on Sankara's Advaita (avidya as the cause of…
+AXIS 2: REBIRTH, KARMA AND SAṂSĀRA
+  • Rebirth
+  • Shared by Vedānta, Nyāya, Jainism, and (transformed) Buddhism
+AXIS 3: VEDĀNTIC ĀTMAN, REBIRTH AND MOKṢA
+  • Vedāntic Ātman
+  • Advaita (non-dualism) treats liberation as recognition of…
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  Survival Concepts • The Necessity Question • Canonical doctrine source • Supplementary
+  book depth (attributed)
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Survival concepts, necessity and Platonic immortality
+
+```ascii-master
+SURVIVAL CONCEPTS, NECESSITY AND PLATONIC IMMORTALITY
+│
+
+KEY TERMS: Survival Concepts • The Necessity Question • Canonical doctrine source •
+KEY TERMS: Supplementary book depth (attributed) • Oxford Handbook of Philosophy of… •
+KEY TERMS: Verified PYQs
+├── KEY CONCEPTS
+│   ├── Survival Concepts
+│   ├── The Necessity Question
+│   ├── Canonical doctrine source
+│   ├── Supplementary book depth (attributed)
+│   └── Oxford Handbook of Philosophy of…
+│
+├── SURVIVAL CONCEPTS AND THE NECESSITY QUESTION
+│   ├─ TERMS: [!IMPORTANT] Immortality means the soul's survival after bodily
+│   ├─ TERMS: death, rebirth means karmically conditioned…
+│   ├─ LOGIC: Griffiths on Sankara's Advaita (avidya as the cause of…
+│   └─ RESULT: Every doctrine, canonical verse/karika/sutra citation, numbered…
+├── IMMORTALITY OF THE SOUL AND PLATO'S ARGUMENTS
+│   ├─ TERMS: Plain version: Plato argues that because the soul is the kind of…
+│   ├─ LOGIC: Plato's strongest route makes soul essentially life-bearing, but…
+│   └─ RESULT: Plain version: Plato argues that because the soul is the kind of…
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Karma, samsara and Buddhist rebirth without a permanent self
+
+```ascii-master
+KARMA, SAMSARA AND BUDDHIST REBIRTH WITHOUT A PERMANENT SELF
+
+
+KEY TERMS: Rebirth • Karma • Saṃsāra • Doctrine • REBIRTH, KARMA AND SAṂSĀRA • Buddhist
+KEY TERMS: Rebirth Without A Permanent…
+CAUSE / CONDITION 1: Doctrine: the soul, driven by karma, is repeatedly reborn…
+          │
+          ├── MECHANISM
+          │   Shared by Vedānta, Nyāya, Jainism, and (transformed) Buddhism
+          │
+          └── EFFECT / CONTRAST
+              Karma (action and moral causation) explains why consequences may…
+          │
+          ▼
+CAUSE / CONDITION 2: [!IMPORTANT] Buddhist rebirth is the causal continuation of…
+          │
+          ├── MECHANISM
+          │   (1) All conditioned factors are impermanent
+          │
+          └── EFFECT / CONTRAST
+              Anātman is not nihilism: Buddhism denies an independent permanent…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Liberation across Vedanta, Jainism and other schools
+
+```ascii-master
+LIBERATION ACROSS VEDANTA, JAINISM AND OTHER SCHOOLS
+
+
+KEY TERMS: Liberation Across Religious • Philosophical Schools • Advaita • Viśiṣṭādvaita •
+KEY TERMS: LIBERATION ACROSS RELIGIOUS AND… • Vedāntic Ātman
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ LIBERATION ACROSS      │ Jīvanmukti (2025 PYQ —        │ Never merge them              │
+│ RELIGIOUS AND          │ Advaita): liberation WHILE    │                               │
+│ PHILOSOPHICAL SCHOOLS  │ living — the…                 │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ VEDĀNTIC ĀTMAN,        │ Advaita (non-dualism) treats  │ The contrast is identity      │
+│ REBIRTH AND MOKṢA      │ liberation as recognition of  │ versus communion, not         │
+│                        │ identity…                     │ liberation versus…            │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Apavarga, jivanmukti, kaivalya and paths to liberation
+
+```ascii-master
+APAVARGA, JIVANMUKTI, KAIVALYA AND PATHS TO LIBERATION
+
+
+KEY TERMS: Jain Jīva • Karmic Matter • Liberation • [!IMPORTANT] Jain bondage • JAIN JĪVA,
+KEY TERMS: KARMIC MATTER AND LIBERATION • Apavarga
+                 CLAIM / SYSTEM UNDER EXAMINATION
+                                  │
+                                  ▼
+PROBLEM / OBJECTION 1
+  ├─ ISSUE: every living thing is an eternal conscious soul, currently dusty…
+  ├─ RESPONSE / CONTROL: Plain version: every living thing is an eternal conscious
+  ├─ RESPONSE / CONTROL: soul, currently dusty with karmic matter kicked up by its
+  ├─ RESPONSE / CONTROL: own…
+  └─ QUALIFIED VERDICT: Jainism is unusually concrete: karma is a fine MATTER that
+  └─ QUALIFIED VERDICT: sticks…
+                  │
+                  ▼
+PROBLEM / OBJECTION 2
+  ├─ ISSUE: The eightfold path (aṣṭāṅga: yama, niyama, āsana, prāṇāyāma…
+  ├─ RESPONSE / CONTROL: Their shared language of release must not conceal their
+  ├─ RESPONSE / CONTROL: incompatible metaphysical destinations
+  └─ QUALIFIED VERDICT: Liberation is therefore the correction of a
+  └─ QUALIFIED VERDICT: misattribution, not an…
+                                  │
+                                  ▼
+FINAL CONTROL: preserve the strongest insight while stating its limit.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Resurrection, rebirth, reincarnation and final debates
+
+```ascii-master
+RESURRECTION, REBIRTH, REINCARNATION AND FINAL DEBATES
+
+
+KEY TERMS: Jñāna • Karma • Bhakti • Paths To Liberation • JÑĀNA, KARMA, BHAKTI AND PATHS TO…
+KEY TERMS: • Resurrection
+CAUSE / CONDITION 1: [!IMPORTANT] Bhakti (devotion), jñāna (liberating knowledge)…
+          │
+          ├── MECHANISM
+          │   This is the single most efficient way to show you understand the…
+          │
+          └── EFFECT / CONTRAST
+              MEMORY: Karma QUALIFIES, bhakti RECEIVES, jnana REMOVES -- three…
+          │
+          ▼
+CAUSE / CONDITION 2: Plain version: resurrection is God raising the whole embodied…
+          │
+          ├── MECHANISM
+          │   Plain version: resurrection is God raising the whole embodied…
+          │
+          └── EFFECT / CONTRAST
+              The last cuts: resurrection is not rebirth, rebirth is wider than…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Soul: Immortality, Rebirth and Liberation: traps, PYQ routes and applied recall
+
+```ascii-master
+SOUL: IMMORTALITY, REBIRTH AND LIBERATION: TRAPS, PYQ ROUTES AND APPLIED RECALL
+
+
+KEY TERMS: Survival Concepts • The Necessity Question • Canonical doctrine source •
+KEY TERMS: Supplementary book depth (attributed) • Oxford Handbook of Philosophy of… •
+KEY TERMS: Verified PYQs
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── Immortality is sufficient for rebirth in substantial-self theories…
+├── Buddhism is the great counter-example: it keeps rebirth but drops…
+├── every living thing is an eternal conscious soul, currently dusty…
+├── Reincarnation presupposes a substantial soul re-entering flesh
+│
+├── Ten-unit exam-application bridge
+├── The Six Survival-Terms and the Necessity Question
+├── LAYER 4 - EXAM APPLICATION
+├── Immortality of the Soul: Plato's Four Proofs and the Western Critique
+│
+└── Immortality means the soul's survival after bodily death, rebirth…
+└── Liberation is a family of school-specific termini rather than one…
+└── Resurrection is God's reconstitution of the embodied person after…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Soul: Immortality, Rebirth and Liberation: integrated revision and answer-writing spine
+
+```ascii-master
+SOUL: IMMORTALITY, REBIRTH AND LIBERATION — ANSWER / REVISION SPINE
+
+
+KEY TERMS: Survival Concepts • The Necessity Question • Canonical doctrine source •
+KEY TERMS: Supplementary book depth (attributed) • Oxford Handbook of Philosophy of… •
+KEY TERMS: Verified PYQs
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ [!IMPORTANT] Immortality means the soul's survival after bodily death,
+   └─ rebirth means karmically conditioned…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ Survival Concepts
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ (1) All conditioned factors are impermanent
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ Canonical doctrine source
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ Reincarnation presupposes a substantial soul re-entering flesh
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ Resurrection is God's reconstitution of the embodied person after…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

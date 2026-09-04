@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-04",
+  "generation": 7,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-04\\g7\\topic-04_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    1343
+  ],
+  "stages": [
+    {
+      "title": "SOUL: IMMORTALITY, REBIRTH AND LIBERATION",
+      "terms": "Jīvanmukti (2025 PYQ — Advaita): liberation WHILE living — the knower of Brahman is free now; the body continues by prārabdha karma (momentum of a spun wheel) until it drops (videhamukti). ✅ \"Is immortality/rebirth necessary for a robust conception of liberation?\" (2024): liberation presupposes bondage-across-lives (rebirth) and something that is liberated (the soul) — so substantial systems say yes; Buddhism shows liberation (nirvāṇa) is coherent even without an eternal soul. ⚠️.",
+      "mechanism": "Jīvanmukti (2025 PYQ — Advaita): liberation WHILE living — the knower of Brahman is free now; the body continues by prārabdha karma (momentum of a spun wheel) until it drops (videhamukti). ✅ \"Is immortality/rebirth necessary for a robust conception of liberation?\" (2024): liberation presupposes bondage-across-lives (rebirth) and something that is liberated (the soul) — so substantial systems say yes; Buddhism shows liberation (nirvāṇa) is coherent even without an eternal soul. ⚠️.",
+      "consequence": "The magic sentence: \"immortality of a substantial soul is sufficient for rebirth but not necessary; what rebirth needs is a continuity-bearer.\" Liberation = family-resemblance term.",
+      "trap": "The Buddhist challenge (2022, 2024 PYQ): Buddhism denies a permanent soul (anātman/anattā) yet affirms rebirth — what is reborn is not a self but a causal continuum of momentary states (a flame passing from candle to candle; pratītyasamutpāda). → rebirth WITHOUT an immortal soul. ✅ \"Is immortality a necessary condition for rebirth?\" (2022, 2024, 2025): ⚠️ Substantialist systems (Vedānta/Nyāya/Jain): YES — a persisting soul is what transmigrates.",
+      "answer": "Immortality means the soul's survival after bodily death, rebirth means karmically conditioned re-becoming, and liberation means release from the cycle of birth and death."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 1343,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 1
+    }
+  ]
+}

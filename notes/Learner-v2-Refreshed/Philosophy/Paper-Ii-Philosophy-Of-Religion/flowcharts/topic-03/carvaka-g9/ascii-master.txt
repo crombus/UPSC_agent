@@ -1,0 +1,245 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Problem of Evil: central question and analytical axes
+
+```ascii-master
+PROBLEM OF EVIL — CONCEPTUAL ATLAS
+
+
+KEY TERMS: Conceptual Method • Major criticism • Logical challenge • Evidential challenge •
+KEY TERMS: Existential-religious challenge • Pastoral or moral-protest challenge
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Problem of Evil
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       A high-scoring answer states which burden is being met
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: CONCEPTUAL METHOD: WHAT PROBLEM IS BEING ASKED?
+  • Conceptual Method
+  • The availability of a second-order good does not by itself show…
+AXIS 2: PLANTINGA'S FREE WILL DEFENCE
+  • Plantinga'S Free Will Defence
+  • Alvin Plantinga's Free Will Defence aims at the logical problem
+AXIS 3: NON-CLASSICAL THEISMS AND REVISED DIVINE ATTRIBUTES
+  • Non-Classical Theisms
+  • open theism holds that future free acts are genuinely open and…
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  Conceptual Method • Major criticism • Logical challenge • Evidential challenge
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Logical evil, Mackie and Plantinga’s free-will defence
+
+```ascii-master
+LOGICAL EVIL, MACKIE AND PLANTINGA’S FREE-WILL DEFENCE
+│
+
+KEY TERMS: Conceptual Method • Major criticism • Logical challenge • Evidential challenge •
+KEY TERMS: Existential-religious challenge • Pastoral or moral-protest challenge
+├── KEY CONCEPTS
+│   ├── Conceptual Method
+│   ├── Major criticism
+│   ├── Logical challenge
+│   ├── Evidential challenge
+│   └── Existential-religious challenge
+│
+├── CONCEPTUAL METHOD: WHAT PROBLEM IS BEING ASKED?
+│   ├─ TERMS: A high-scoring answer states which burden is being met
+│   ├─ LOGIC: The availability of a second-order good does not by itself show…
+│   └─ RESULT: Evil can rebut or undercut a proof, but this session does not…
+├── CLASSICAL FORMULATION AND MACKIE'S LOGICAL PROBLEM
+│   ├─ TERMS: Logical possibility is not an ad hoc restriction invented for evil
+│   ├─ LOGIC: The dilemma is transmitted in later discussion, prominently through…
+│   └─ RESULT: The logical debate therefore turns on whether those bridging…
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Evidential evil, Rowe and skeptical-theist response
+
+```ascii-master
+EVIDENTIAL EVIL, ROWE AND SKEPTICAL-THEIST RESPONSE
+
+
+KEY TERMS: Plantinga'S Free Will Defence • Transworld depravity • Defence / compatibility •
+KEY TERMS: Theodicy / actual reason • Evidential challenge • Evidential Evil
+CAUSE / CONDITION 1: A person is significantly free with respect to an action when…
+          │
+          ├── MECHANISM
+          │   Alvin Plantinga's Free Will Defence aims at the logical problem
+          │
+          └── EFFECT / CONTRAST
+              If God causally determines every significantly free choice to be…
+          │
+          ▼
+CAUSE / CONDITION 2: Skeptical theists challenge our entitlement to infer from "no…
+          │
+          ├── MECHANISM
+          │   We should prevent suffering because we lack authority to assume an…
+          │
+          └── EFFECT / CONTRAST
+              The point is comparative likelihood, not a numerical probability…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Classical theodicies and revised/non-classical theisms
+
+```ascii-master
+CLASSICAL THEODICIES AND REVISED/NON-CLASSICAL THEISMS
+
+
+KEY TERMS: Classical Theodicies • Defences • What it preserves or explains • Created being •
+KEY TERMS: Created • CLASSICAL THEODICIES AND DEFENCES
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ CLASSICAL THEODICIES   │ Irenaeus supplies the         │ Likewise, a will is good as a │
+│ AND DEFENCES           │ image-to-likeness             │ created capacity but becomes  │
+│                        │ developmental theology        │ evil by…                      │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ NON-CLASSICAL THEISMS  │ Divine action is persuasive   │ Divine action is persuasive   │
+│ AND REVISED DIVINE     │ rather than coercive, not     │ rather than coercive, not     │
+│ ATTRIBUTES             │ merely…                       │ merely…                       │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Existential, horrendous and Indian approaches to evil
+
+```ascii-master
+EXISTENTIAL, HORRENDOUS AND INDIAN APPROACHES TO EVIL
+
+
+KEY TERMS: Existential Evil • Protest • Horrendous Evils • Job • Kierkegaard • Dostoevsky's
+KEY TERMS: Ivan Karamazov
+                 CLAIM / SYSTEM UNDER EXAMINATION
+                                  │
+                                  ▼
+PROBLEM / OBJECTION 1
+  ├─ ISSUE: A restrained defence may claim only that God and evil are not…
+  ├─ RESPONSE / CONTROL: Horrendous evils are participation in which gives a
+  ├─ RESPONSE / CONTROL: person prima…
+  └─ QUALIFIED VERDICT: They are not substitutes for formal argument
+                  │
+                  ▼
+PROBLEM / OBJECTION 2
+  ├─ ISSUE: Nyaya (school of logic and realism): Ishvara (Lord or personal God)…
+  ├─ RESPONSE / CONTROL: Indian traditions do not share one answer because they
+  ├─ RESPONSE / CONTROL: disagree…
+  └─ QUALIFIED VERDICT: Indian traditions do not share one answer because they
+  └─ QUALIFIED VERDICT: disagree…
+                                  │
+                                  ▼
+FINAL CONTROL: preserve the strongest insight while stating its limit.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Hard cases, meta-critiques and comparative practical verdict
+
+```ascii-master
+HARD CASES, META-CRITIQUES AND COMPARATIVE PRACTICAL VERDICT
+
+
+KEY TERMS: Hard Cases • Meta-Level Critiques • Major criticism • Animal suffering • Animal •
+KEY TERMS: HARD CASES AND META-LEVEL CRITIQUES
+CAUSE / CONDITION 1: Animal suffering is a central evidential challenge because…
+          │
+          ├── MECHANISM
+          │   [OBJECTION] Theodicy can legitimate the status quo by redescribing…
+          │
+          └── EFFECT / CONTRAST
+              Each proposal carries speculative commitments and must not treat…
+          │
+          ▼
+CAUSE / CONDITION 2: Comparison is strongest when each position is judged through…
+          │
+          ├── MECHANISM
+          │   Theodicies should be compared through the divine attribute revised…
+          │
+          └── EFFECT / CONTRAST
+              Protest: need not be unbelief
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Problem of Evil: traps, PYQ routes and applied recall
+
+```ascii-master
+PROBLEM OF EVIL: TRAPS, PYQ ROUTES AND APPLIED RECALL
+
+
+KEY TERMS: Conceptual Method • Major criticism • Logical challenge • Evidential challenge •
+KEY TERMS: Existential-religious challenge • Pastoral or moral-protest challenge
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── A modal defence can answer the first while leaving the other three…
+├── The case is illustrative, not a claim that one event alone…
+├── A restrained defence may claim only that God and evil are not…
+├── Agents must prevent avoidable suffering because they are not…
+│
+├── Solved Conceptual Drills and Distinction Loops
+├── Drill 1 - Defence or theodicy?
+├── Drill 2 - Explanation or justification?
+├── Drill 3 - Privation or illusion?
+│
+└── The problem of evil is not one argument but a family of challenges…
+└── Created being is good insofar as it has being
+└── Comparison is strongest when each position is judged through the…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Problem of Evil: integrated revision and answer-writing spine
+
+```ascii-master
+PROBLEM OF EVIL — ANSWER / REVISION SPINE
+
+
+KEY TERMS: Conceptual Method • Major criticism • Logical challenge • Evidential challenge •
+KEY TERMS: Existential-religious challenge • Pastoral or moral-protest challenge
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ A high-scoring answer states which burden is being met
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ Conceptual Method
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ We should prevent suffering because we lack authority to assume an…
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ Logical challenge
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ Agents must prevent avoidable suffering because they are not…
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ Comparison is strongest when each position is judged through the…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

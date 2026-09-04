@@ -1,0 +1,103 @@
+{
+  "record_id": "philosophy-paper-ii-philosophy-of-religion-06:learner-v2:g9",
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-06",
+  "variant": "learner-v2",
+  "generation": 9,
+  "supersedes": "philosophy-paper-ii-philosophy-of-religion-06:learner-v2:g8",
+  "command": "Generate learner-v2 topic: Philosophy Optional — Philosophy Paper II — Philosophy of Religion — Religious Experience — Learner-v2 refreshed — Learner-v2 semantic-aid repair — Learner-v2 refreshed — Notions-style ASCII-master repair — Authored Notions-style ASCII-master repair",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g9\\topic-06_Complete-Learning-Session_2026-08-23.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g9\\topic-06_Solved-Practice-Workbook_2026-08-23.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g9\\topic-06_Complete-Learning-Session_2026-08-23.md",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-philosophy-section-source-complete",
+    "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Religious-Experience.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Religious-Experience.md",
+    "legacy_v1_source_package": null,
+    "legacy_v1_workbook": null,
+    "pyq_corpus": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g9\\topic-06_Complete-Learning-Session_2026-08-23.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.1"
+    },
+    "generation_date": "2026-08-23",
+    "superseded_v1": null,
+    "new_asset_folder": "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion\\assets\\philosophy-paper-ii-philosophy-of-religion-06",
+    "new_visual_count": 1,
+    "migration_note": "First tracked learner-v2 generation. Canonical teaching was retained in full and supplemented with complete premium practice.",
+    "retrofit": {
+      "id": "continuous-core-first-2026-08-22",
+      "source_record": "philosophy-paper-ii-philosophy-of-religion-06:learner-v2:g3",
+      "closure_flow": "source-derived and placed after every BASIC H3",
+      "workbook": "byte-preserved; no practice content changed",
+      "flowchart": "new continuous core-first same-master companion"
+    },
+    "refresh": {
+      "id": "authored-notions-style-ascii-master-2026-08-23",
+      "source_record": "philosophy-paper-ii-philosophy-of-religion-06:learner-v2:g8",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g8\\topic-06_Complete-Learning-Session_2026-08-23.md",
+      "source_hashes": {
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-06\\carvaka-g8\\ascii-master.txt": "84a7a900b3e00b390c073a13afb224647d1e370611020002c77a8028f66cc1b9",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-06\\carvaka-g8\\editable\\flowchart-data.json": "30fa96387d39d7d603812c80a1cb3b469791fd3710c049f28f3a113cb1b2f2e5",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-06\\carvaka-g8\\editable\\README.txt": "691b325ba328333680e06e20926382872adbc91fcc69190ecfc6934fde2c8d25",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-06\\carvaka-g8\\master.png": "a65301635cf946b88f3cc60971789d7e51e9bc7c60cf3614d93a2efb26e3d90f",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-06\\carvaka-g8\\poster.pdf": "5e99c9a6a78250dfec2e9cf459f166474f3531c73c11eed14f5779a9184a7443",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-06\\carvaka-g8\\previews\\contact-sheet-01.png": "b81f566d8f6535bc4749c83ac53a26509308fd2def4fa459b1dbd20366d4ba40",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-06\\carvaka-g8\\previews\\page-001.png": "5bf5bd42ac644fc6a56335dfc2956d298b5eed63a04494d6e25ce06d2fb96976",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-06\\carvaka-g8\\previews\\page-002.png": "f0e01fde17c3f8edaadb1eabe5750e468252aa43489dcd8b3dae82b61ec3b116",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-06\\carvaka-g8\\previews\\page-003.png": "e2d1a15208460d0cda4314a9fd85b7aebe07c5e95c2860492ebcb9b2ef00567e",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-06\\carvaka-g8\\previews\\page-004.png": "0bf58133485b408ced5810254a8b01e7cfb5ff6c5276af9a662b28d516cb1904",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-06\\carvaka-g8\\tiled.pdf": "7d9d4b9980aa9342cd5e3ebc9ef16b6fda9a39fe95976ee89b2e41d5bd5f577b",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-06\\carvaka-g8\\validation-report.txt": "906a7dcacf0768406f0184a2978f9854a1f63ded134d62cbf4d442a8b6f8e692",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g8\\topic-06_Complete-Learning-Session_2026-08-23.pdf": "0804f8abd3b9a1a330689e65545478265b0e57d6a986c84c85d1ef8e36756cce",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g8\\topic-06_Solved-Practice-Workbook_2026-08-23.pdf": "53c1962097649bc7905dd7ec4e67170c2158dc09b10cac5755068227978d4d50",
+        "notes\\Philosophy\\learning-session-v2\\paper-ii-philosophy-of-religion\\assets\\philosophy-paper-ii-philosophy-of-religion-06\\experience-evaluation-ladder.png": "2133e02c28f576842dec61ff26872af2c9192a5efa572625f5a672054d210c9d",
+        "tools\\markdown_learning_pdf.py": "c6717f3d7b651210698a10a758aa04b9b17cb32be3e144479eec6804408b7051",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g7\\topic-06_Complete-Learning-Session_2026-08-23.md": "4ead9e17da1587142be7df837ce0c6ee3ac6cc7d214551eabeffde144a843c5e",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g8\\assets\\experience-evaluation-ladder.png": "2133e02c28f576842dec61ff26872af2c9192a5efa572625f5a672054d210c9d",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g8\\assets\\topic-06_Teaching-Navigation_2026-08-23.png": "db1bf50f165be0aec30530b33e508f147bb5dd9033a1ddddb8ecfd035f425db6",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g8\\topic-06_Complete-Learning-Session_2026-08-23.md": "2fe13850f4ee816ede4260d0abf7b40bb6f1ceae39485d60cb33d0b192de2682",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g8\\topic-06_Solved-Practice-Workbook_2026-08-23.md": "d8f916900bcd4e8e815e3758ae066c5963fb916aaa9f0d31bbfad3f50df045d8",
+        "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md": "d5bccb80c8939befa081505ac8702c2c352eff5d92039ec95f6666a2b97b668d",
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md": "c03a56f299b9894dbc05c0ed66fd079d6ea59781a4894502095e788346928117",
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Religious-Experience.md": "87dcc2de71921a418e83562c5336372da49bd1fbcd1688378029d60409145da4"
+      },
+      "session_contract": "named-session definition/opening/keywords/use/closure",
+      "mcq_keys": "stable-topic-seed balanced deterministic non-patterned",
+      "tracker_updated": false,
+      "tracker_sha256": "a1c4428fca42d32478e007df54fbc9ba68f4711750c16e0881a3e63839abb117"
+    }
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "philosophy-paper-ii-philosophy-of-religion-06:learner-v2:g9"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-23",
+    "validator": "tools/refresh_all_v2_learning_sessions.py + tools/validate_v2_export.py"
+  },
+  "generated_on": "2026-08-23",
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-06\\carvaka-g9",
+    "master_image": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-06\\carvaka-g9\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-06\\carvaka-g9\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-06\\carvaka-g9\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-06\\carvaka-g9\\editable",
+    "previews": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-06\\carvaka-g9\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-06\\carvaka-g9\\previews\\contact-sheet-01.png"
+    ],
+    "validation_report": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-06\\carvaka-g9\\validation-report.txt",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\flowcharts\\topic-06\\carvaka-g9\\ascii-master.txt",
+    "ascii_master_source": "manual-authored-spec",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy-2026-08-23.json",
+    "ascii_master_spec_sha256": "156ee4a96a5be6cf6c202bb46cb86894662f6531566d13872007e86217a96c32"
+  },
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g9\\topic-06_Solved-Practice-Workbook_2026-08-23.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g9\\assets",
+  "refresh_profile": "authored-notions-style-ascii-master-2026-08-23"
+}

@@ -1,0 +1,25 @@
+topic=philosophy-paper-ii-philosophy-of-religion-08
+generation=6
+generated=2026-08-23T10:41:15.511877+05:30
+source=upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-Ii-Philosophy-Of-Religion\learning-sessions\topic-08\g6\topic-08_Complete-Learning-Session_2026-08-23.md
+master_png=master.png
+master_dimensions_px=3600x2152
+poster_pdf=poster.pdf
+poster_dimensions_points=1700.79x1016.69
+poster_pages=1
+tiled_pdf=tiled.pdf
+tiled_pages=1
+same_master_split=yes
+tile_overlap_px=260
+preview_count=1
+contact_sheet_count=1
+session_stage_count=2
+editable_sources=editable/flowchart-data.json, editable/README.txt
+ascii_master=ascii-master.txt
+core_before_extra=PASS
+same_master_identity=PASS
+poster_validation=PASS
+tiled_validation=PASS
+tile_coordinates=
+  page-001: y=0..2152; overlap=0; from=1; continues=2
+errors=none

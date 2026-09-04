@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-10",
+  "generation": 7,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-10\\g7\\topic-10_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    7203
+  ],
+  "stages": [
+    {
+      "title": "THE PROBLEM OF RELIGIOUS LANGUAGE",
+      "terms": "✅ Fact: An ICML 2026 paper on Sanskrit–English translation reports that purely statistical generation can cause semantic drift in culturally embedded and ritual concepts, and proposes dictionary, morpho-syntactic and glossary-grounded decoding to preserve sacred entities and terminology. ⚠️ Inference: This contemporary translation problem illustrates a core philosophical point: religious meaning is not exhausted by word substitution.",
+      "mechanism": "Master verdict: Religious utterances are often assertoric, symbolic and performative together; a mixed account preserves realist intent while acknowledging that transcendence requires non-literal modes of predication.",
+      "consequence": "Context, use, symbolic reference and a tradition’s conceptual grammar affect what an utterance means, though an AI translation benchmark does not settle whether the original claims are truth-apt.",
+      "trap": "Do not miss this limiting distinction: \"HOW (Analogy/Symbol/Negation) × WHETHER (Cognitive/Non-cognitive).\" Analogy & symbol rescue meaning.",
+      "answer": "✅ Fact: An ICML 2026 paper on Sanskrit–English translation reports that purely statistical generation can cause semantic drift in culturally embedded and ritual concepts, and proposes dictionary, morpho-syntactic and glossary-grounded decoding to preserve sacred entities and terminology. ⚠️ Inference: This contemporary translation problem illustrates a core philosophical point: religious meaning is not exhausted by word substitution."
+    },
+    {
+      "title": "MEANING, REFERENCE AND TRANSCENDENCE",
+      "terms": "Technically, Meaning, Reference And Transcendence is analysed by relating Meaning to Reference, then testing the relationship through Transcendence and Univocal.",
+      "mechanism": "Need a middle way. ✅ The Logical Positivist attack (Ayer): \"God exists\" is unverifiable → literally meaningless (see Paper-I Logical Positivism).",
+      "consequence": "The resulting consequence is that religious language is discourse about transcendent reality whose central problem is how finite human...",
+      "trap": "Do not miss this limiting distinction: religious language is discourse about transcendent reality whose central problem is how finite human...",
+      "answer": "Religious language is discourse about transcendent reality whose central problem is how finite human concepts can be meaningful without reducing their object to finite categories."
+    },
+    {
+      "title": "ANALOGY, SYMBOL AND NEGATIVE THEOLOGY",
+      "terms": "Two types: ✅ Analogy of attribution — \"God is good\" because God is the cause/source of goodness in creatures.",
+      "mechanism": "Two types: ✅ Analogy of attribution — \"God is good\" because God is the cause/source of goodness in creatures.",
+      "consequence": "So \"good\" applies proportionally, truly but not identically. → preserves meaning without anthropomorphism. (b) Symbol (Tillich — 2023, 2025 PYQ): ✅ Religious language is symbolic, not literal.",
+      "trap": "\"God\" is not a being among beings but the \"Ground of Being\" / Being-Itself; to take symbols literally is idolatry. ⚠️ Tillich caution (preserve this; do not simplify it).",
+      "answer": "Analogy preserves ordered similarity, symbol mediates participation and negation removes creaturely limitation; each seeks meaningful reference without literal anthropomorphism. (a) Analogy (Aquinas — 2024 PYQ): religious language is analogical — between univocal and equivocal."
+    },
+    {
+      "title": "COGNITIVISM, NON-COGNITIVISM AND FALSIFICATION",
+      "terms": "Cognitivist (realist): religious statements are genuine truth-claims — \"God exists\" is true or false, asserting a fact about reality (Aquinas, Hick, Swinburne). ✅ Non-cognitivist: religious statements do not state facts; they express something else: ✅ R.B.",
+      "mechanism": "\"Does the cognitivist account lead to contradiction?\" (2024 — Braithwaite): ⚠️ Braithwaite argues the cognitivist (factual) reading runs into the verification problem (unverifiable → meaningless), so he reduces religious language to moral-conative use to save it.",
+      "consequence": "Cognitivist (realist): religious statements are genuine truth-claims — \"God exists\" is true or false, asserting a fact about reality (Aquinas, Hick, Swinburne). ✅ Non-cognitivist: religious statements do not state facts; they express something else: ✅ R.B.",
+      "trap": "Braithwaite (2024 PYQ): religious assertions are declarations of a moral intention / commitment to a way of life (+ associated stories), not factual claims.",
+      "answer": "Cognitivism treats religious claims as truth-apt, whereas non-cognitivism emphasises attitude, commitment or use; these are semantic functions, not automatically exclusive categories."
+    },
+    {
+      "title": "TILLICH, AQUINAS, VIA NEGATIVA AND LANGUAGE-GAMES",
+      "terms": "🔑 The strong answer: religious language is neither literal nor meaningless — analogy/symbol give it cognitive meaning (realist), while non-cognitivists (Braithwaite/Wittgenstein) capture its practical/moral force but at the cost of its truth-claim; the believer's own intent is cognitivist.",
+      "mechanism": "The operative mechanism is that religious language is neither literal nor meaningless — analogy/symbol give it cognitive meaning (realist).",
+      "consequence": "The resulting consequence is that religious language is neither literal nor meaningless — analogy/symbol give it cognitive meaning (realist).",
+      "trap": "Do not miss this limiting distinction: religious language is neither literal nor meaningless — analogy/symbol give it cognitive meaning (realist).",
+      "answer": "🔑 The strong answer: religious language is neither literal nor meaningless — analogy/symbol give it cognitive meaning (realist), while non-cognitivists (Braithwaite/Wittgenstein) capture its practical/moral force but at the cost of its truth-claim; the believer's own intent is cognitivist."
+    },
+    {
+      "title": "ANALOGY, SYMBOL AND FOUNDATIONAL POSITIONS",
+      "terms": "✅ Aquinas locates God-talk between univocal sameness and equivocal disconnection through analogy. ✅ Tillich treats religious symbols as participatory and God as being-itself rather than one being among others. ✅ Braithwaite analyses religious assertion through commitment to a moral way of life and its sustaining stories. ✅ Wittgensteinian approaches interpret religious meaning through use within a form of life. ✅ The Upaniṣadic formula yato vāco nivartante marks the limit of objectifying speech; Advaita also deploys neti neti and indirect indication.",
+      "mechanism": "✅ Aquinas locates God-talk between univocal sameness and equivocal disconnection through analogy. ✅ Tillich treats religious symbols as participatory and God as being-itself rather than one being among others. ✅ Braithwaite analyses religious assertion through commitment to a moral way of life and its sustaining stories. ✅ Wittgensteinian approaches interpret religious meaning through use within a form of life. ✅ The Upaniṣadic formula yato vāco nivartante marks the limit of objectifying speech; Advaita also deploys neti neti and indirect indication.",
+      "consequence": "The resulting consequence is that [Symbolic] \"Is religious language symbolic? / Tillich on symbol.\" (2025, 2023) → §2(b). [Analogical]...",
+      "trap": "Do not miss this limiting distinction: [Symbolic] \"Is religious language symbolic? / Tillich on symbol.\" (2025, 2023) → §2(b). [Analogical]...",
+      "answer": "[Symbolic] \"Is religious language symbolic? / Tillich on symbol.\" (2025, 2023) → §2(b). [Analogical] \"Analogical nature of religious language (Aquinas).\" (2024) → §2(a). [Cog/non-cog] \"Distinguish cognitivist & non-cognitivist accounts (Braithwaite / 'God exists').\" (2024, 2022) → §3. [Wittgenstein] \"Wittgenstein on the non-cognitive nature of religious language.\" (2023) → §3. [Advaita] \"Anirvacanīyatā & the nature of religious language.\" (2025) → §2(d) + §9.5. [Secular vs religious] \"In what sense is the secular use of language different from the religious use?\" (2018, 10m) → §9.6 — function, not vocabulary. [Symbol→mysticism] \"Does religious symbolism lead to mysticism?\" (2019, 20m) → §9.7 — answer whether and how, and include the negative case. [Transcendent referent] \"Religious symbols as transcendent referent mediating into the cultural, spatial and temporal world.\" (2018, 15m) → §9.2 + §9.7 (Eliade's hierophany; Tillich's participation). [Cognitive content] \"Does religious language carry cognitive content?\" (2020, 20m) → §9.9 — the spectrum, plus the falsification debate. [Braithwaite] \"Non-cognitive theory of religious language, in the light of Braithwaite.\" (2021, 20m) → §9.4 + §9.9 position 7. [Analogy] \"The analogical nature of religious language.\" (2024, 10m) → §9.1 + §9.8 — add Scotus for the contrast. [Pluralism bridge] \"How does a theory of religious language bear on religious pluralism?\" → §9.10."
+    },
+    {
+      "title": "INDIAN AND WESTERN STRATEGIES OF RELIGIOUS SPEECH",
+      "terms": "Technically, Indian And Western Strategies Of Religious Speech is analysed by relating Indian to Western Strategies Of Religious Speech, then testing the relationship through Univocity and Nyāya.",
+      "mechanism": "The operative mechanism is that a complete answer must keep two axes separate.",
+      "consequence": "The resulting consequence is that a complete answer must keep two axes separate.",
+      "trap": "Do not miss this limiting distinction: a complete answer must keep two axes separate.",
+      "answer": "A complete answer must keep two axes separate: how religious predicates refer and whether religious utterances assert facts."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 2,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 4,
+      "continues_stage": 6
+    },
+    {
+      "page": 4,
+      "y_start": 5003,
+      "y_end": 7203,
+      "overlap_px": 260,
+      "from_stage": 6,
+      "continues_stage": 7
+    }
+  ]
+}

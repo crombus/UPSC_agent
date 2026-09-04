@@ -1,0 +1,471 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g6\\topic-04_Solved-Practice-Workbook_2026-09-02.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g6\\topic-04_Solved-Practice-Workbook_2026-09-02.pdf",
+  "mode": "workbook",
+  "topic_key": "philosophy-paper-i-western-philosophy-04",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 180,
+      "markdown_body_line_end": 180,
+      "heading": "CANONICAL EXAM APPARATUS (PRESERVED VERBATIM)",
+      "preview": "The examiner apparatus below is reproduced verbatim from the canonical Kant.md (headings demoted, navigation links stripped). It is preserved intact so that no canonical depth - PYQ routing, answer architecture, directive rules, verdict ban",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 483.491
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 402.624
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 184,
+      "markdown_body_line_end": 184,
+      "heading": "PYQ Routing (2018-2025)",
+      "preview": "⚠️ **Corpus signal:** 10 primary-owned question-parts out of 112. The local Paper I corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 402.624
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 335.956
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 186,
+      "markdown_body_line_end": 197,
+      "heading": "PYQ Routing (2018-2025)",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 10,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 479.89
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 204,
+      "markdown_body_line_end": 215,
+      "heading": "10-mark: \"What is apperception? Discuss with reference to transcendental exposition of space and time.\" (2022)",
+      "preview": "Line 1: Kant's \"transcendental unity of apperception\" is the formal condition that the",
+      "metadata": {
+        "language": "plain",
+        "line_count": 10,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 406.69
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 295.69
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 218,
+      "markdown_body_line_end": 232,
+      "heading": "15-mark: \"Kant's objections against the ontological argument\" (2024)",
+      "preview": "Frame : The ontological argument (Descartes/Anselm): God = most perfect being; existence =",
+      "metadata": {
+        "language": "plain",
+        "line_count": 13,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 273.69
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 132.69
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 235,
+      "markdown_body_line_end": 250,
+      "heading": "20-mark: \"How does Kant construct antinomies to illustrate the illusory tendencies of pure reason?\" (2022)",
+      "preview": "Frame : The Transcendental Dialectic diagnoses reason's natural illusion — seeking the",
+      "metadata": {
+        "language": "plain",
+        "line_count": 14,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 636.291
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 256,
+      "markdown_body_line_end": 265,
+      "heading": "Directive Decoder",
+      "preview": "Directive | What it demands | Structural obligation for **this** file | Fatal error",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Directive",
+          "What it demands",
+          "Structural obligation for **this** file",
+          "Fatal error"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 612.791
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 162.39
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 271,
+      "markdown_body_line_end": 280,
+      "heading": "Graded Verdict Bank",
+      "preview": "Sub-topic | **10-mark verdict** | **15-mark verdict** | **20-mark verdict**",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Sub-topic",
+          "**10-mark verdict**",
+          "**15-mark verdict**",
+          "**20-mark verdict**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 138.89
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 371.39
+        }
+      },
+      "pdf_pages": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 286,
+      "markdown_body_line_end": 294,
+      "heading": "Common UPSC Traps",
+      "preview": "Trap | Discrimination",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Trap",
+          "Discrimination"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 435.09
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 300,
+      "markdown_body_line_end": 316,
+      "heading": "Keyword and Statement Bank",
+      "preview": "# | Term / Statement | Use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 15,
+        "headers": [
+          "#",
+          "Term / Statement",
+          "Use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 411.59
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 46.588
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 324,
+      "markdown_body_line_end": 335,
+      "heading": "Translation, Quotation and Provenance Discipline",
+      "preview": "Item | Editions / practice | Cautions",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Item",
+          "Editions / practice",
+          "Cautions"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 768.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 72.29
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 337,
+      "markdown_body_line_end": 337,
+      "heading": "Translation, Quotation and Provenance Discipline",
+      "preview": "❌ **Never write:** that Kant \"proved space and time do not exist,\" or that the noumenon is \"a thing behind appearances that causes them.\" The second is Jacobi's famous objection about causal application beyond experience, and stating it as ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 356,
+      "markdown_body_line_end": 356,
+      "heading": "ORIGINAL MCQ MASTERY SET - EXACTLY 36 QUESTIONS",
+      "preview": "Questions 1-28 are core coverage across all ten subtopics; Questions 29-36 are remedial items targeting the most common misreadings. Correct answers rotate strictly A -> B -> C -> D nine times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 577.024
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 532.356
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1236,
+      "markdown_body_line_end": 1238,
+      "heading": "Practice Design",
+      "preview": "DIRECTIVE -> THESIS -> DOCTRINE -> NAMED TEXT/EXAMPLE -> OBJECTION/REPLY -> VERDICT",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 364.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 343.891
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1242,
+      "markdown_body_line_end": 1242,
+      "heading": "SOLVED PYQ BANK - EXACTLY 10 VERIFIED KANT QUESTIONS",
+      "preview": "Exact wording, year and marks are parsed from the continuous local Western Philosophy Paper I bank for 2018-2025. Kant owns exactly 10 primary parts and has no owned question in 2025. Questions that merely mention Kant but are owned by Quin",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 318.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 245.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1344,
+      "markdown_body_line_end": 1349,
+      "heading": "Solved PYQ 6 - 2022 Q3(a), 20 marks",
+      "preview": "# | Thesis | Antithesis",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "#",
+          "Thesis",
+          "Antithesis"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 303.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 194.29
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1429,
+      "markdown_body_line_end": 1429,
+      "heading": "ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS",
+      "preview": "Three original questions authored for this package (not PYQs), one each at 10, 15 and 20 marks, with full model solutions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 404.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    }
+  ]
+}

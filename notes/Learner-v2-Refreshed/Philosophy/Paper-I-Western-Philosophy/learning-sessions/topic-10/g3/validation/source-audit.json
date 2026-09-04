@@ -1,0 +1,270 @@
+{
+  "schema_version": 1,
+  "audited_on": "2026-08-27",
+  "source_order": [
+    "Markdown knowledge owners",
+    "OCR-searchable local PDFs",
+    "Live web only if unresolved",
+    "Qdrant optional fallback"
+  ],
+  "markdown_sources": [
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Existentialism.md",
+    "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md",
+    "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Existentialism\\Existentialism_Layered-Complete-Learning-Session_2026-08-19.md",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Existentialism\\Existentialism_Layered-Solved-Practice-Workbook_2026-08-19.md"
+  ],
+  "ocr_audit": {
+    "2016_Masih_A_critical_history_of_western_philosophy.pdf": {
+      "path": "books\\philosphy_books\\2016_Masih_A_critical_history_of_western_philosophy.pdf",
+      "pages": 6,
+      "text_pages": 6,
+      "hits": {},
+      "sha256": "01d81cdb2f82d7c6e12e7948252f4e11f3e1ad4a427e713edaaf32a8e3eab882"
+    },
+    "Robert.Audi_The.Cambridge.Dictionary.of.Philosophy.pdf": {
+      "path": "books\\philosphy_books\\Robert.Audi_The.Cambridge.Dictionary.of.Philosophy.pdf",
+      "pages": 1032,
+      "text_pages": 1032,
+      "hits": {
+        "Kierkegaard": [
+          11,
+          62,
+          63,
+          274,
+          327,
+          329,
+          330,
+          331
+        ],
+        "Sartre": [
+          21,
+          62,
+          63,
+          103,
+          149,
+          213,
+          214,
+          237
+        ],
+        "Heidegger": [
+          13,
+          28,
+          59,
+          62,
+          63,
+          76,
+          95,
+          111
+        ],
+        "Dasein": [
+          126,
+          239,
+          404,
+          405,
+          591
+        ],
+        "bad faith": [
+          17,
+          103,
+          330,
+          336,
+          337,
+          846,
+          858
+        ],
+        "being-in-the-world": [
+          404,
+          698,
+          699
+        ],
+        "authenticity": [
+          62,
+          95,
+          316,
+          330,
+          405,
+          640,
+          673,
+          742
+        ],
+        "anxiety": [
+          62,
+          330,
+          405,
+          502,
+          934,
+          952
+        ],
+        "despair": [
+          149,
+          432,
+          502,
+          568,
+          570,
+          721,
+          820,
+          846
+        ],
+        "care": [
+          25,
+          28,
+          29,
+          32,
+          34,
+          38,
+          52,
+          56
+        ]
+      },
+      "sha256": "514dd3f2efac7ff5b8e2a17a8a76ac952c5385323a1197e5d7581b1ab7081417"
+    },
+    "a_new_history_of_western_philosophy_volume_4.pdf": {
+      "path": "books\\philosphy_books\\a_new_history_of_western_philosophy_volume_4.pdf",
+      "pages": 364,
+      "text_pages": 364,
+      "hits": {
+        "Kierkegaard": [
+          10,
+          12,
+          33,
+          34,
+          35,
+          36,
+          46,
+          250
+        ],
+        "Sartre": [
+          10,
+          89,
+          104,
+          105,
+          106,
+          107,
+          314,
+          336
+        ],
+        "Heidegger": [
+          10,
+          80,
+          89,
+          99,
+          100,
+          101,
+          102,
+          103
+        ],
+        "Dasein": [
+          101,
+          102,
+          103,
+          357
+        ],
+        "bad faith": [
+          106,
+          356
+        ],
+        "being-in-the-world": [
+          102,
+          351
+        ],
+        "authenticity": [
+          61,
+          356
+        ],
+        "anxiety": [
+          34,
+          102
+        ],
+        "despair": [
+          35,
+          250,
+          251,
+          252,
+          357
+        ],
+        "care": [
+          18,
+          24,
+          30,
+          33,
+          37,
+          39,
+          48,
+          55
+        ]
+      },
+      "sha256": "8ac4f951ec127d49d3e2cc40ec46ae810c44f3afd5dfbbe7051245599df04ed4"
+    },
+    "philosophy__the_classics_--_warburton_nigel_--_4_2014_--_routledge_--_0415534674_--_265dfe84ff25101d59a827ea4091b506_--_anna’s_archive.pdf": {
+      "path": "books\\philosphy_books\\philosophy__the_classics_--_warburton_nigel_--_4_2014_--_routledge_--_0415534674_--_265dfe84ff25101d59a827ea4091b506_--_anna’s_archive.pdf",
+      "pages": 474,
+      "text_pages": 474,
+      "hits": {
+        "Kierkegaard": [
+          19,
+          284,
+          285,
+          286,
+          287,
+          288,
+          290,
+          291
+        ],
+        "Sartre": [
+          23,
+          24,
+          29,
+          67,
+          141,
+          290,
+          308,
+          372
+        ],
+        "Heidegger": [
+          31
+        ],
+        "bad faith": [
+          23,
+          375,
+          376,
+          377,
+          378,
+          380,
+          384,
+          385
+        ],
+        "authenticity": [
+          378
+        ],
+        "despair": [
+          24,
+          74,
+          284,
+          388,
+          391,
+          394,
+          399,
+          451
+        ],
+        "care": [
+          44,
+          83,
+          88,
+          91,
+          147,
+          214,
+          236,
+          248
+        ]
+      },
+      "sha256": "be39d9a1558c5f9f6958dc98c71dc80f5dad9c8b11da0d7c973c9d459acae2bb"
+    }
+  },
+  "web_required": false,
+  "qdrant_required": false,
+  "verified_pyq_count": 14,
+  "official_syllabus_verbatim": "Existentialism (Kierkegaard, Sarte, Heidegger): Existence and Essence; Choice, Responsibility and Authentic Existence; Being-in-the-world and Temporality.",
+  "notes": "Local Markdown resolved doctrine, qualifications and exact PYQ wording. OCR sources corroborated the Kierkegaard, Heidegger and Sartre vocabulary without replacing the repository owners."
+}

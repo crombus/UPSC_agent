@@ -1,0 +1,1902 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-09\\g13\\topic-09_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-09\\g13\\topic-09_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-09",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 5,
+      "heading": "Religious Pluralism and the Problem of Absolute Truth - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Catalogue identity:** Philosophy Optional · Philosophy Paper II — Philosophy of Religion · `philosophy-paper-ii-philosophy-of-religion-09` **Generation:** g13, 3 September 2026 · **Approval:** pending explicit topic approval **Evidence di",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 678.224
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 9,
+      "markdown_body_line_end": 17,
+      "heading": "Package practice counts",
+      "preview": "Component | Count",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Component",
+          "Count"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 653.224
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 480.222
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 28,
+      "markdown_body_line_end": 35,
+      "heading": "Exact printed ownership and cross-topic firewall",
+      "preview": "Owned here | Boundary",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Owned here",
+          "Boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 388.822
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 181.02
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 43,
+      "markdown_body_line_end": 48,
+      "heading": "0A. FOUR AXES THAT MUST NOT BE MERGED ANALYSIS:",
+      "preview": "Axis | Question | Possible pluralist answer",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Axis",
+          "Question",
+          "Possible pluralist answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 631.09
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 54,
+      "markdown_body_line_end": 54,
+      "heading": "0A. FOUR AXES THAT MUST NOT BE MERGED ANALYSIS:",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-09\\g13\\assets\\topic-09_Teaching-Navigation_2026-08-23.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 597.69
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 290.154
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 68,
+      "markdown_body_line_end": 75,
+      "heading": "Source-complete coverage ledger and answer-worthiness labels",
+      "preview": "Source corpus | Final location | Retention decision",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Source corpus",
+          "Final location",
+          "Retention decision"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 751.891
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 555.29
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 82,
+      "markdown_body_line_end": 94,
+      "heading": "Learning roadmap",
+      "preview": "Unit | Learner objective",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Unit",
+          "Learner objective"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 406.69
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 148.888
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 106,
+      "markdown_body_line_end": 106,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Master verdict: Pluralism is strongest when it combines realism about an Absolute with fallibilism about finite access, while openly admitting that some first-order truth-claims remain contradictory.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 122,
+      "markdown_body_line_end": 122,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Pluralism and truth map",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-09\\g13\\assets\\pluralism-truth-map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 415.824
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 108.288
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 126,
+      "markdown_body_line_end": 134,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "TRUTH:       Which propositions are true?",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 136,
+      "markdown_body_line_end": 136,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Master verdict:** Pluralism is strongest when it combines realism about an Absolute with fallibilism about finite access, while openly admitting that some first-order truth-claims remain contradictory.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 726.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 681.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 141,
+      "markdown_body_line_end": 154,
+      "heading": "ONE-SCREEN MAP ANALYSIS:",
+      "preview": "MANY RELIGIONS, CONFLICTING TRUTH-CLAIMS — three responses:",
+      "metadata": {
+        "language": "plain",
+        "line_count": 12,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 659.624
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 528.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 155,
+      "markdown_body_line_end": 155,
+      "heading": "ONE-SCREEN MAP ANALYSIS:",
+      "preview": "🔑 **Mnemonic — \"E-I-P: Exclusive (only mine), Inclusive (mine fulfils yours), Pluralist (several authentic paths/ends).\"** Vivekananda offers a major convergence model whose pluralist or inclusivist status must be argued.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 528.624
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 469.756
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 160,
+      "markdown_body_line_end": 168,
+      "heading": "CLOSING RECALL FLOW - RELIGIOUS PLURALISM AND CONFLICTING TRUTH-CLAIMS",
+      "preview": "RELIGIOUS PLURALISM AND CONFLICTING TRUTH-CLAIMS",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 446.256
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 348.587
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 179,
+      "markdown_body_line_end": 179,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Exclusivism reserves decisive truth or salvation for one tradition, inclusivism admits truth elsewhere under one fulfilment, and pluralism treats multiple traditions as independently valid responses to ultimate reality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 199.387
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 132.72
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 192,
+      "markdown_body_line_end": 192,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CORE DISTINCTION:** ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (Recommended opening definition):** Exclusivism reserves decisive truth or salvation for one tradition, inclusivism admits truth elsewhere under one fulfilment, and plural",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 735.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 676.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 201,
+      "markdown_body_line_end": 209,
+      "heading": "CLOSING RECALL FLOW - EXCLUSIVISM, INCLUSIVISM AND PLURALISM",
+      "preview": "EXCLUSIVISM, INCLUSIVISM AND PLURALISM",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 400.724
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 294.705
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 220,
+      "markdown_body_line_end": 220,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Vedāntic pluralism distinguishes one ultimate reality from diverse conceptual and devotional approaches, but unity must not erase genuine doctrinal contradiction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 173.905
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 107.237
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 233,
+      "markdown_body_line_end": 233,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CORE DEFINITION:** Vedāntic pluralism distinguishes one ultimate reality from diverse conceptual and devotional approaches, but unity must not erase genuine doctrinal contradiction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 701.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 656.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 243,
+      "markdown_body_line_end": 251,
+      "heading": "CLOSING RECALL FLOW - VEDĀNTIC AND VIVEKANANDAN PLURALISM",
+      "preview": "VEDĀNTIC AND VIVEKANANDAN PLURALISM",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 377.524
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 271.505
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 262,
+      "markdown_body_line_end": 262,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Commitment to absolute truth does not entail epistemic absolutism: reality may be determinate even when finite religious formulations remain partial and corrigible.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 117.505
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 50.837
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 275,
+      "markdown_body_line_end": 275,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CORE DEFINITION:** Commitment to absolute truth does not entail epistemic absolutism: reality may be determinate even when finite religious formulations remain partial and corrigible.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 650.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 606.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 286,
+      "markdown_body_line_end": 294,
+      "heading": "CLOSING RECALL FLOW - ABSOLUTE TRUTH, RELATIVISM AND CONTRADICTION",
+      "preview": "ABSOLUTE TRUTH, RELATIVISM AND CONTRADICTION",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 380.924
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 274.905
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 305,
+      "markdown_body_line_end": 305,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Social tolerance and religious freedom regulate coexistence under disagreement; they neither prove pluralism nor require treating rival doctrines as equally true.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 135.105
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 68.437
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 318,
+      "markdown_body_line_end": 324,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Position | Truth of other religions | Key thinker | Risk",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Position",
+          "Truth of other religions",
+          "Key thinker",
+          "Risk"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 650.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 524.29
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 326,
+      "markdown_body_line_end": 326,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "🔑 The high-scoring line: **belief in an Absolute (Real/Brahman) is compatible with pluralism** if truth-claims are held as *partial & perspectival* (Anekāntavāda/Hick) — this defuses the \"absolute truth → exclusivism → conflict\" chain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 524.29
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 465.422
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 331,
+      "markdown_body_line_end": 339,
+      "heading": "CLOSING RECALL FLOW - TOLERANCE, DIALOGUE AND MULTICULTURAL COEXISTENCE",
+      "preview": "TOLERANCE, DIALOGUE AND MULTICULTURAL COEXISTENCE",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 441.922
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 335.904
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 350,
+      "markdown_body_line_end": 350,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Hick, Vivekananda and Jain many-sidedness address religious diversity through a transcategorial Real, convergent paths and standpoint-conditioned claims, but none dissolves every contradiction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 196.104
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 129.436
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 405,
+      "markdown_body_line_end": 413,
+      "heading": "CLOSING RECALL FLOW - HICK, VIVEKANANDA AND FOUNDATIONAL POSITIONS",
+      "preview": "HICK, VIVEKANANDA AND FOUNDATIONAL POSITIONS",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 688.923
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 424,
+      "markdown_body_line_end": 424,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Pluralism must answer four distinct questions—truth, salvation, coexistence and epistemic humility—rather than treating social tolerance as proof that all doctrines are true.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 568.123
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 501.455
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 438,
+      "markdown_body_line_end": 438,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CORE DEFINITION:** Pluralism must answer four distinct questions—truth, salvation, coexistence and epistemic humility—rather than treating social tolerance as proof that all doctrines are true.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 325.655
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 280.987
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 440,
+      "markdown_body_line_end": 447,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Problem | Western resource | Indian resource | Discriminating point",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Problem",
+          "Western resource",
+          "Indian resource",
+          "Discriminating point"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 551.39
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 453,
+      "markdown_body_line_end": 460,
+      "heading": "7.1 - \"How does Vedantic pluralism address conflicting truth-claims? (Vivekananda)\" (2025, 20m)",
+      "preview": "Intro : the problem — many religions, rival truth-claims.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 6,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 507.89
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 436.89
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 463,
+      "markdown_body_line_end": 469,
+      "heading": "7.2 - \"'Acceptance of one Absolute Truth -> religious exclusivism.' Discuss.\" (2022, 20m)",
+      "preview": "Intro : does believing in absolute truth force exclusivism (and conflict)?",
+      "metadata": {
+        "language": "plain",
+        "line_count": 5,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 414.89
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 353.89
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 472,
+      "markdown_body_line_end": 488,
+      "heading": "7.3 - \"What is the importance of religious tolerance in a multicultural pluralistic society?\" (2020, 10m)",
+      "preview": "Intro : define tolerance by its THREE components — objection, acceptance, power. It is not",
+      "metadata": {
+        "language": "plain",
+        "line_count": 15,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 331.89
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 170.89
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 491,
+      "markdown_body_line_end": 504,
+      "heading": "7.4 - \"Is it acceptable that the History of Religions is the History of Conflicts?\" (2020, 10m)",
+      "preview": "Intro : distinguish three strengths of the claim — involvement (trivially true), significant cause",
+      "metadata": {
+        "language": "plain",
+        "line_count": 12,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 656.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 507,
+      "markdown_body_line_end": 521,
+      "heading": "7.5 - \"Is religion a uniting force for humanity in the globalizing world?\" (2019, 10m)",
+      "preview": "Intro : answer conditionally, and state the conditions up front.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 13,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 634.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 493.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 526,
+      "markdown_body_line_end": 534,
+      "heading": "CLOSING RECALL FLOW - INDIAN AND WESTERN RESOURCES FOR PLURALISM",
+      "preview": "INDIAN AND WESTERN RESOURCES FOR PLURALISM",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 469.791
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 363.773
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1031,
+      "markdown_body_line_end": 1031,
+      "heading": "VERIFIED PYQS - 12 COMPLETE SOLUTIONS",
+      "preview": "**Status note:** The following are independent practice models prepared from the verified question-paper wording. They are **not official UPSC answer keys**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 348.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 282.024
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1384,
+      "markdown_body_line_end": 1384,
+      "heading": "ORIGINAL SOLVED MAINS PRACTICE",
+      "preview": "These six questions are original practice questions, **not UPSC PYQs**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 528.891
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 476.424
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1601,
+      "markdown_body_line_end": 1601,
+      "heading": "9.1 Exclusivism and inclusivism",
+      "preview": "**CORE DISTINCTION:** ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (Recommended opening definition):** Exclusivism claims privileged truth or salvation, whereas inclusivism recognises value in other traditions while interpreting it throug",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 173.891
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 93.024
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1611,
+      "markdown_body_line_end": 1611,
+      "heading": "9.2 Hick's pluralistic hypothesis",
+      "preview": "**EXAM-READY LINE:** Hick explains religions as culturally mediated responses to the Real, but the unknowability of the Real threatens to make the hypothesis unverifiable and covertly privileged.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 674.691
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 608.024
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1621,
+      "markdown_body_line_end": 1621,
+      "heading": "9.3 Vivekananda's universal religion",
+      "preview": "**EXAM-READY LINE:** Vivekananda's universalism treats religions as distinct paths suited to different dispositions, yet harmony requires preserving difference rather than ranking every path within one hidden hierarchy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 391.224
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 324.556
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1631,
+      "markdown_body_line_end": 1631,
+      "heading": "9.4 Radhakrishnan, Gandhi and Jain many-sidedness",
+      "preview": "**EXAM-READY LINE:** Anekāntavāda (doctrine of many-sided reality) and nayavāda (doctrine of partial standpoints) justify humility about perspectives without implying that contradictory propositions are simultaneously true in the same respe",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 178.756
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 97.888
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1641,
+      "markdown_body_line_end": 1641,
+      "heading": "9.5 Absolute truth without epistemic absolutism",
+      "preview": "**CORE DISTINCTION:** The distinction between ontological absoluteness and epistemic partiality permits commitment without infallibilism and dialogue without relativism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 646.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 579.624
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1651,
+      "markdown_body_line_end": 1651,
+      "heading": "9.6 Toleration: the concept and its paradoxes (2020 Q5(e) owner-module)",
+      "preview": "**EXAM-READY LINE:** Toleration is principled restraint toward a disapproved belief or practice; its paradox is that unlimited tolerance may destroy the conditions that make tolerance possible.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 391.224
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 324.556
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1662,
+      "markdown_body_line_end": 1662,
+      "heading": "9.7 Religious freedom in a multireligious society (2021 Q5(c) owner-module)",
+      "preview": "**EXAM-READY LINE:** Religious freedom protects belief, practice, change and non-belief, but public restriction is justified only by neutral, proportionate protection of rights and order.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 436.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 369.624
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1676,
+      "markdown_body_line_end": 1676,
+      "heading": "9.8 \"Is the history of religions the history of conflicts?\" (2020 Q5(c) owner-module)",
+      "preview": "**EXAM-READY LINE:** Religion has supplied both conflict identities and resources for reconciliation; causal explanation must therefore distinguish doctrine, institutions, political power and social grievance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 549.891
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 483.224
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1686,
+      "markdown_body_line_end": 1686,
+      "heading": "9.9 Is religion a uniting force in a globalising world? (2019 Q5(b) owner-module)",
+      "preview": "**EXAM-READY LINE:** Religion can unite through shared moral vocabularies and transnational solidarity, but it unifies sustainably only when universal aspiration respects particular identities.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1694,
+      "markdown_body_line_end": 1694,
+      "heading": "9.10 Deep disagreement, peer disagreement and the limits of rational convergence",
+      "preview": "**EXAM-READY LINE:** Deep religious disagreement persists because evidence is interpreted through rival frameworks, yet rational dialogue remains possible through internal critique, shared reasons and epistemic humility.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 375.624
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 308.956
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1705,
+      "markdown_body_line_end": 1705,
+      "heading": "9.11 Exclusivism defended, and the varieties of pluralism",
+      "preview": "**EXAM-READY LINE:** Pluralism does not win merely by appearing tolerant: it must explain contradiction, preserve difference and justify why its meta-theory does not become another exclusivism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 549.891
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 483.224
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1720,
+      "markdown_body_line_end": 1720,
+      "heading": "10. INTER-THINKER / INTER-SCHOOL DEBATES",
+      "preview": "**CORE DISTINCTION:** The decisive comparison asks whether unity lies in one doctrine, one ineffable reality, many partial standpoints or merely a shared ethic of coexistence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1722,
+      "markdown_body_line_end": 1732,
+      "heading": "10. INTER-THINKER / INTER-SCHOOL DEBATES",
+      "preview": "Model | One ultimate? | Status of traditions | Criterion | Main objection",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 9,
+        "headers": [
+          "Model",
+          "One ultimate?",
+          "Status of traditions",
+          "Criterion",
+          "Main objection"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 742.624
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 471.222
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1736,
+      "markdown_body_line_end": 1736,
+      "heading": "11. CRITICISMS AND REPLIES",
+      "preview": "**EXAM-READY LINE:** The strongest criticism of pluralism is that hard contradictions cannot all be literally true; the strongest reply limits pluralism to mediated apprehension without denying every doctrinal conflict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 471.222
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 404.554
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1779,
+      "markdown_body_line_end": 1779,
+      "heading": "14. PYQ ROUTING (2018-2025)",
+      "preview": "⚠️ **Corpus signal:** 12 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 230.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 163.624
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1781,
+      "markdown_body_line_end": 1794,
+      "heading": "14. PYQ ROUTING (2018-2025)",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 12,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 470.39
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1801,
+      "markdown_body_line_end": 1804,
+      "heading": "10 marks",
+      "preview": "Define absolute truth/pluralism → one model → distinguish referent from access →",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 410.19
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 379.19
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1807,
+      "markdown_body_line_end": 1810,
+      "heading": "15 marks",
+      "preview": "E-I-P classification → chosen thinker's argument and presupposition →",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 357.19
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 326.19
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1813,
+      "markdown_body_line_end": 1817,
+      "heading": "20 marks",
+      "preview": "Frame conflicting truth-claims → strongest pluralist model →",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 304.19
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 263.19
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1821,
+      "markdown_body_line_end": 1833,
+      "heading": "16. DIRECTIVE DECODER",
+      "preview": "Directive | Examiner is buying | Structural consequence | Live example",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 11,
+        "headers": [
+          "Directive",
+          "Examiner is buying",
+          "Structural consequence",
+          "Live example"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 369.89
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1835,
+      "markdown_body_line_end": 1835,
+      "heading": "16. DIRECTIVE DECODER",
+      "preview": "🔑 **Rule:** in every question here, separate four things that scripts routinely merge — **truth** (which claims are true), **salvation** (who is liberated), **epistemic access** (who can know), and **political coexistence** (how we live tog",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 369.89
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 311.022
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1839,
+      "markdown_body_line_end": 1839,
+      "heading": "17. GRADED VERDICT LADDER",
+      "preview": "**EXAM-READY LINE:** Pluralism need not deny absolute truth; it denies exhaustive possession of truth by any finite perspective and therefore supports a bounded, non-relativist openness.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 311.022
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 244.354
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1841,
+      "markdown_body_line_end": 1847,
+      "heading": "17. GRADED VERDICT LADDER",
+      "preview": "Band | What the script contains | Typical fault",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Band",
+          "What the script contains",
+          "Typical fault"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 560.69
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1856,
+      "markdown_body_line_end": 1878,
+      "heading": "18. FACTUAL AND QUOTATION DISCIPLINE",
+      "preview": "Item | Status | Safe use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 21,
+        "headers": [
+          "Item",
+          "Status",
+          "Safe use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 385.69
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 401.09
+        }
+      },
+      "pdf_pages": [
+        53,
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1910,
+      "markdown_body_line_end": 1915,
+      "heading": "A. Four axes",
+      "preview": "Axis | Question",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Axis",
+          "Question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 679.491
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 570.09
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1997,
+      "markdown_body_line_end": 1997,
+      "heading": "L. Final answer discipline",
+      "preview": "**Final judgement:** Pluralism need not deny Absolute Truth; it denies exhaustive possession of it by any finite perspective. Its credibility depends on respecting real differences rather than declaring automatic sameness.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 181.691
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 137.024
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2003,
+      "markdown_body_line_end": 2013,
+      "heading": "ASCII MASTER FLOW - PANEL 1/8: 1. Four axes of diversity",
+      "preview": "RELIGIOUS DIVERSITY OCCURS ALONG FOUR AXES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 660.491
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2017,
+      "markdown_body_line_end": 2026,
+      "heading": "ASCII MASTER FLOW - PANEL 2/8: 2. Exclusivism-inclusivism-pluralism",
+      "preview": "EXCLUSIVISM: one tradition has uniquely decisive truth and/or salvation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 638.491
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 545.891
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2030,
+      "markdown_body_line_end": 2041,
+      "heading": "ASCII MASTER FLOW - PANEL 3/8: 3. John Hick",
+      "preview": "THE REAL AN SICH (noumenal, beyond full conceptual capture)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 523.891
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 410.891
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2045,
+      "markdown_body_line_end": 2054,
+      "heading": "ASCII MASTER FLOW - PANEL 4/8: 4. Vedāntic models",
+      "preview": "ADVAITA: one Brahman; differences belong to empirical standpoint;",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 388.891
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 296.291
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2058,
+      "markdown_body_line_end": 2067,
+      "heading": "ASCII MASTER FLOW - PANEL 5/8: 5. Jain many-sidedness",
+      "preview": "ANEKĀNTAVĀDA: reality has many aspects",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2071,
+      "markdown_body_line_end": 2081,
+      "heading": "ASCII MASTER FLOW - PANEL 6/8: 6. Tolerance and religious freedom",
+      "preview": "TOLERANCE: refrain from coercion despite disagreement",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 569.891
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2085,
+      "markdown_body_line_end": 2093,
+      "heading": "ASCII MASTER FLOW - PANEL 7/8: 7. Conflict, unification and deep disagreement",
+      "preview": "CONFLICT SOURCES: exclusive revelation | sacred history | identity | power | grievance",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 547.891
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 465.491
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2097,
+      "markdown_body_line_end": 2105,
+      "heading": "ASCII MASTER FLOW - PANEL 8/8: 8. PYQ answer spine",
+      "preview": "DEFINE axis -> map exclusivism/inclusivism/pluralism -> explain Hick exactly",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 443.491
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 361.091
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    }
+  ]
+}

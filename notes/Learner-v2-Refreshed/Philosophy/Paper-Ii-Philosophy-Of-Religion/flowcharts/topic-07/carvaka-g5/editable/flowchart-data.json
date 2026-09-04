@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-07",
+  "generation": 5,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-07\\topic-07_Complete-Learning-Session_2026-08-22.md",
+  "master_dimensions": [
+    3600,
+    2200
+  ],
+  "stages": [
+    {
+      "title": "CONTEMPORARY SCHOLARLY ANCHOR — [SUPPORTING]",
+      "terms": "Contemporary scholarly anchor — [SUPPORTING]: ⚠️ Inference: This strengthens the conceptual question whether supernatural belief is necessary for religion, but it does not displace the syllabus's primary evidence: Buddhism, Jainism, Mīmāṃsā and Sāṃkhya.",
+      "mechanism": "⚠️ Inference: This strengthens the conceptual question whether supernatural belief is necessary for religion, but it does not displace the syllabus's primary evidence: Buddhism, Jainism, Mīmāṃsā and Sāṃkhya.",
+      "consequence": "⚠️ Inference: This strengthens the conceptual question whether supernatural belief is necessary for religion, but it does not displace the syllabus's primary evidence: Buddhism, Jainism, Mīmāṃsā and Sāṃkhya.",
+      "trap": "⚠️ Inference: This strengthens the conceptual question whether supernatural belief is necessary for religion, but it does not displace the syllabus's primary evidence: Buddhism, Jainism, Mīmāṃsā and Sāṃkhya.",
+      "answer": "✅ Fact: Recent 2025–2026 scholarship and reviews continue to discuss religious naturalism as an attempt to retain awe, value, ritual and community within a naturalistic worldview."
+    },
+    {
+      "title": "VISUAL GATEWAY — DEFINE BEFORE JUDGING",
+      "terms": "Visual gateway — define before judging: Master verdict: A personal creator is not necessary for religion, but some disciplined orientation to ultimacy, transformation, community and soteriology is needed to prevent the category from becoming empty.",
+      "mechanism": "Religion is a disciplined orientation to an ultimate or sacred order through doctrine, practice, community and transformation; belief in a personal creator is not a necessary condition.",
+      "consequence": "Agnosticism suspends judgement about God's existence or knowability; unlike atheism, it withholds assent rather than asserting denial.",
+      "trap": "Master verdict: A personal creator is not necessary for religion, but some disciplined orientation to ultimacy, transformation, community and soteriology is needed to prevent the category from becoming empty.",
+      "answer": "Buddhism is a complete non-creator religion because dependent origination explains suffering, the path disciplines life, the Saṅgha (Buddhist monastic and practitioner community) sustains practice and nirvāṇa (liberation from suffering) supplies the final goal."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 2
+    }
+  ]
+}

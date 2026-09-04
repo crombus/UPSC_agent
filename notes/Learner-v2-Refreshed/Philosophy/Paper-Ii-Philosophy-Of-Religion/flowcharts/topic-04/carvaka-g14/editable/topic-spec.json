@@ -1,0 +1,804 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-04",
+  "subject": "Philosophy",
+  "title": "SOUL: IMMORTALITY, REBIRTH AND LIBERATION",
+  "short_route": "SIX SURVIVAL TERMS → WESTERN IMMORTALITY ARGUMENTS → PERSONAL IDENTITY AFTER DEATH → KARMA, REBIRTH AND BUDDHIST → LIBERATION PARITY BENCH → VEDĀNTA AND JAIN ROUTES",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g14 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-04\\g14\\topic-04_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy-paper-ii-philosophy-of-religion-04-ascii-g14-2026-09-03.json",
+  "ascii_spec_sha256": "79ca9e2f5983e4c18415ce010df1e7de32c4e876db8ec99d5ae76bec341737ed",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "SIX SURVIVAL TERMS",
+      "structural_type": "concept-separation map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SIX SURVIVAL TERMS",
+          "role": "primary"
+        },
+        {
+          "text": "ALLEGED ENDURING SUBJECT",
+          "role": "outcome"
+        },
+        {
+          "text": "PERSONAL IDENTITY",
+          "role": "comparison"
+        },
+        {
+          "text": "WHAT MAKES LATER PERSON SAME",
+          "role": "evidence"
+        },
+        {
+          "text": "SURVIVAL OF DEATH",
+          "role": "primary"
+        },
+        {
+          "text": "NEW EMBODIED EXISTENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "DIVINE RESTORATION OF EMBODIED PERSON",
+          "role": "comparison"
+        },
+        {
+          "text": "RELEASE FROM BONDAGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SOUL = alleged enduring subject",
+        "PERSONAL IDENTITY = what makes later person same",
+        "IMMORTALITY = survival of death",
+        "REBIRTH = new embodied existence",
+        "RESURRECTION = divine restoration of embodied person"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "SOUL = alleged enduring subject",
+            "PERSONAL IDENTITY = what makes later person same",
+            "IMMORTALITY = survival of death"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REBIRTH = new embodied existence",
+            "RESURRECTION = divine restoration of embodied person",
+            "LIBERATION = release from bondage"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "QUESTIONS MUST BE KEPT DISTINCT what survives? → by what continuity criterion? → where/when? → through whose agency?",
+            "is survival endless life, renewed embodiment, or freedom from rebirth?",
+            "TERM CONTROL prevents treating Plato, Buddhism, Vedānta and Christianity as one doctrine."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Define soul, self, person, immortality, rebirth, reincarnation, resurrection and liberation separately before testing necessity.",
+      "source_references": [
+        "A. The Six Survival-Terms (never merge)"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "WESTERN IMMORTALITY ARGUMENTS",
+      "structural_type": "argument-objection tree",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "WESTERN IMMORTALITY ARGUMENTS",
+          "role": "primary"
+        },
+        {
+          "text": "PLATO CYCLICAL ARGUMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "OPPOSITES ARISE FROM OPPOSITES RECOLLECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "A PRIORI KNOWLEDGE SUGGESTS PRENATAL EXISTENCE AFFINITY",
+          "role": "evidence"
+        },
+        {
+          "text": "INVISIBLE RATIONAL SOUL RESEMBLES UNCHANGING FORMS",
+          "role": "primary"
+        },
+        {
+          "text": "PHAEDO FINAL ARGUMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "SOUL ESSENTIALLY BEARS LIFE AND CANNOT ADMIT DEATH OBJECTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "ENDLESS SURVIVAL; HARMONY ANALOGY; DEPENDENCE ON BRAIN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PLATO cyclical argument: opposites arise from opposites recollection: a priori knowledge suggests prenatal existence affinity",
+        "resembles unchanging Forms",
+        "Phaedo final argument: soul essentially bears life and cannot admit death objections: pre-existence != endless",
+        "harmony analogy",
+        "dependence on brain"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "PLATO cyclical argument: opposites arise from opposites recollection: a priori knowledge suggests prenatal existence affinity: invisible rational soul",
+            "resembles unchanging Forms",
+            "Phaedo final argument: soul essentially bears life and cannot admit death objections: pre-existence != endless survival"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "harmony analogy",
+            "dependence on brain",
+            "DESIRE/JUSTICE ARGUMENTS: fulfilment or moral completion suggests afterlife limit: wish and moral need do not by themselves establish"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "metaphysical survival."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Plato's four arguments support different claims; simplicity, moral hope, desire and experience remain non-demonstrative survival arguments.",
+      "source_references": [
+        "B. Immortality - Plato and the West"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "PERSONAL IDENTITY AFTER DEATH",
+      "structural_type": "continuity criterion fork",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PERSONAL IDENTITY AFTER DEATH",
+          "role": "primary"
+        },
+        {
+          "text": "IDENTITY CANDIDATES",
+          "role": "outcome"
+        },
+        {
+          "text": "SAME IMMATERIAL SUBSTANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "BODILY CONTINUITY",
+          "role": "evidence"
+        },
+        {
+          "text": "MEMORY AND PSYCHOLOGICAL CONTINUITY (LOCKE)",
+          "role": "primary"
+        },
+        {
+          "text": "CAUSAL NARRATIVE CONTINUITY",
+          "role": "outcome"
+        },
+        {
+          "text": "BRAVE OFFICER EXPOSES MEMORY TRANSITIVITY PROBLEM DUPLICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE PSYCHOLOGY COPIED TWICE CANNOT YIELD TWO NUMERICALLY IDENTICAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "IDENTITY CANDIDATES",
+        "same immaterial substance",
+        "bodily continuity / resurrection",
+        "memory and psychological continuity (Locke)",
+        "causal narrative continuity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "IDENTITY CANDIDATES",
+            "same immaterial substance",
+            "bodily continuity / resurrection"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "memory and psychological continuity (Locke)",
+            "causal narrative continuity",
+            "REID: brave officer exposes memory transitivity problem duplication: one psychology copied twice cannot yield two numerically identical persons"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "resurrection requires divine re-identification of this person, not mere replica production verdict depends on whether identity needs strict",
+            "sameness or survival-grade continuity."
+          ]
+        }
+      ],
+      "mechanism_strip": "REID: brave officer exposes memory transitivity problem duplication: one psychology copied twice cannot yield two numerically identical persons resurrection requires divine re-identification of this person, not mere replica production verdict depends on whether identity needs strict sameness or survival-grade continuity.",
+      "answer_line": "Bodily, psychological, soul and causal criteria face memory, dependence, replica and duplication pressures after death.",
+      "source_references": [
+        "B. Immortality - Plato and the West",
+        "J. Resurrection vs Rebirth vs Reincarnation"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "KARMA, REBIRTH AND BUDDHIST CONTINUITY",
+      "structural_type": "causal continuity map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "KARMA, REBIRTH AND BUDDHIST CONTINUITY",
+          "role": "primary"
+        },
+        {
+          "text": "INDIAN REBIRTH",
+          "role": "outcome"
+        },
+        {
+          "text": "KARMA + SAṂSKĀRA/VĀSANĀ",
+          "role": "comparison"
+        },
+        {
+          "text": "RENEWED EMBODIMENT IN SAṂSĀRA",
+          "role": "evidence"
+        },
+        {
+          "text": "BUDDHISM DENIES ĀTMAN FIVE SKANDHAS + DEPENDENT ORIGINATION",
+          "role": "primary"
+        },
+        {
+          "text": "CAUSAL STREAM",
+          "role": "outcome"
+        },
+        {
+          "text": "REBIRTH WITHOUT TRANSMIGRANT FLAME-TO-FLAME",
+          "role": "comparison"
+        },
+        {
+          "text": "NEITHER NUMERICALLY IDENTICAL NOR WHOLLY UNRELATED INTENTION CONDITIONS LATER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDIAN REBIRTH: karma + saṃskāra/vāsanā → renewed embodiment in saṃsāra",
+        "BUDDHISM DENIES ĀTMAN five skandhas + dependent origination → causal stream → rebirth without transmigrant",
+        "memory is causally produced cognition objection: who receives karma?",
+        "reply: demand for substance mistakes continuity for identity nirvāṇa ends craving and the causal appropriation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "INDIAN REBIRTH: karma + saṃskāra/vāsanā → renewed embodiment in saṃsāra",
+            "BUDDHISM DENIES ĀTMAN five skandhas + dependent origination → causal stream → rebirth without transmigrant flame-to-flame: neither numerically"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "memory is causally produced cognition objection: who receives karma?",
+            "reply: demand for substance mistakes continuity for identity nirvāṇa ends craving and the causal appropriation that renews birth."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "INDIAN REBIRTH: karma + saṃskāra/vāsanā → renewed embodiment in saṃsāra",
+            "BUDDHISM DENIES ĀTMAN five skandhas + dependent origination → causal stream → rebirth without transmigrant flame-to-flame: neither numerically"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Buddhist rebirth preserves causal continuity without an immortal soul, showing that substance survival is sufficient but not necessary.",
+      "source_references": [
+        "C. Rebirth, Karma, Samsara",
+        "D. Buddhist Continuity Without a Soul"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "LIBERATION PARITY BENCH",
+      "structural_type": "seven-destination comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LIBERATION PARITY BENCH",
+          "role": "primary"
+        },
+        {
+          "text": "SCHOOL BONDAGE LIBERATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVAITA AVIDYĀ, FALSE IDENTITY JÑĀNA",
+          "role": "comparison"
+        },
+        {
+          "text": "VIŚIṢṬĀDVAITA KARMA, DEPENDENCE OBSCURED BHAKTI/PRAPATTI; COMMUNION",
+          "role": "evidence"
+        },
+        {
+          "text": "SĀṂKHYA-YOGA PURUṢA-PRAKṚTI CONFUSION KAIVALYA THROUGH VIVEKA",
+          "role": "primary"
+        },
+        {
+          "text": "NYĀYA FALSE KNOWLEDGE, DOṢA, KARMA APAVARGA",
+          "role": "outcome"
+        },
+        {
+          "text": "CESSATION OF PAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "JAINISM KARMIC PUDGALA ON JĪVA KEVALA-JÑĀNA, SIDDHAHOOD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SCHOOL BONDAGE LIBERATION",
+        "Advaita avidyā, false identity jñāna: ātman = Brahman",
+        "Viśiṣṭādvaita karma, dependence obscured bhakti/prapatti; communion",
+        "Sāṃkhya-Yoga puruṣa-prakṛti confusion kaivalya through viveka",
+        "Nyāya false knowledge, doṣa, karma apavarga: cessation of pain"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "SCHOOL BONDAGE LIBERATION",
+          "Sāṃkhya-Yoga puruṣa-prakṛti confusion kaivalya through viveka",
+          "Buddhism craving/ignorance nirvāṇa"
+        ],
+        [
+          "Advaita avidyā, false identity jñāna: ātman = Brahman",
+          "Nyāya false knowledge, doṣa, karma apavarga: cessation of pain",
+          "Christianity sin/death resurrection and salvation"
+        ],
+        [
+          "Viśiṣṭādvaita karma, dependence obscured bhakti/prapatti; communion",
+          "Jainism karmic pudgala on jīva kevala-jñāna, siddhahood",
+          "SAME WORD “release” conceals different selves, causes, methods and end-states."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "SCHOOL BONDAGE LIBERATION",
+            "Advaita avidyā, false identity jñāna: ātman = Brahman",
+            "Viśiṣṭādvaita karma, dependence obscured bhakti/prapatti; communion"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "Sāṃkhya-Yoga puruṣa-prakṛti confusion kaivalya through viveka",
+            "Nyāya false knowledge, doṣa, karma apavarga: cessation of pain",
+            "Jainism karmic pudgala on jīva kevala-jñāna, siddhahood"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "Buddhism craving/ignorance nirvāṇa",
+            "Christianity sin/death resurrection and salvation",
+            "SAME WORD “release” conceals different selves, causes, methods and end-states."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Liberation terms conceal incompatible selves, bondages, methods and final states; nirvana is not annihilation and Jain perfect knowledge is not Samkhya isolation.",
+      "source_references": [
+        "E. Liberation Parity Bench (seven destinations)"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "VEDĀNTA AND JAIN ROUTES",
+      "structural_type": "metaphysical-soteriological comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "VEDĀNTA AND JAIN ROUTES",
+          "role": "primary"
+        },
+        {
+          "text": "SUBTLE BODY CARRIES KARMA UNTIL KNOWLEDGE; JĪVANMUKTI POSSIBLE",
+          "role": "outcome"
+        },
+        {
+          "text": "VIDEHAMUKTI ENDS EMBODIMENT, NOT THE ĀTMAN'S EXISTENCE",
+          "role": "caution"
+        },
+        {
+          "text": "JĪVA REMAINS REAL AND DISTINCT; GRACE, BHAKTI AND PRAPATTI",
+          "role": "evidence"
+        },
+        {
+          "text": "JĪVA + PASSIONS/ACTIVITY",
+          "role": "primary"
+        },
+        {
+          "text": "BANDHA SAṂVARA BLOCKS INFLUX",
+          "role": "outcome"
+        },
+        {
+          "text": "NIRJARĀ SHEDS KARMA",
+          "role": "comparison"
+        },
+        {
+          "text": "MOKṢA CONTRAST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ADVAITA: subtle body carries karma until knowledge; jīvanmukti possible",
+        "videhamukti ends embodiment, not the ātman's existence",
+        "VIŚIṢṬĀDVAITA: jīva remains real and distinct; grace, bhakti and prapatti lead to God",
+        "JAINISM: jīva + passions/activity → āsrava → bandha saṃvara blocks influx → nirjarā sheds karma",
+        "Rāmānuja perfects dependence"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "ADVAITA: subtle body carries karma until knowledge; jīvanmukti possible",
+          "VIŚIṢṬĀDVAITA: jīva remains real and distinct; grace, bhakti and prapatti lead to God",
+          "Rāmānuja perfects dependence"
+        ],
+        [
+          "videhamukti ends embodiment, not the ātman's existence",
+          "JAINISM: jīva + passions/activity → āsrava → bandha saṃvara blocks influx → nirjarā sheds karma → kevala-jñāna →",
+          "Jainism purges material karma from an eternally individual soul."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "ADVAITA: subtle body carries karma until knowledge; jīvanmukti possible",
+            "videhamukti ends embodiment, not the ātman's existence"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "VIŚIṢṬĀDVAITA: jīva remains real and distinct; grace, bhakti and prapatti lead to God",
+            "JAINISM: jīva + passions/activity → āsrava → bandha saṃvara blocks influx → nirjarā sheds karma → kevala-jñāna →"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "Rāmānuja perfects dependence",
+            "Jainism purges material karma from an eternally individual soul."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Advaita removes ignorance of identity, theistic Vedanta perfects communion and Jainism purges karmic matter from an enduring individual soul.",
+      "source_references": [
+        "F. Vedanta - Advaita vs Visistadvaita",
+        "G. Jain Jiva and Bondage Ladder"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "PATHS, OBJECTIONS AND ETHICAL MEANING",
+      "structural_type": "route-and-critique panel",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "PATHS, OBJECTIONS AND ETHICAL MEANING",
+          "role": "primary"
+        },
+        {
+          "text": "THREE BROAD MEANS",
+          "role": "outcome"
+        },
+        {
+          "text": "JÑĀNA (KNOWLEDGE)",
+          "role": "comparison"
+        },
+        {
+          "text": "BHAKTI (DEVOTION)",
+          "role": "evidence"
+        },
+        {
+          "text": "KARMA (DISCIPLINED ACTION)",
+          "role": "primary"
+        },
+        {
+          "text": "YOGA ADDS MEDITATIVE DISCIPLINE; JAINISM ADDS VOWS/AUSTERITY; BUDDHISM EIGHTFOLD",
+          "role": "outcome"
+        },
+        {
+          "text": "DISEMBODIED SOUL LACKS INDIVIDUATION",
+          "role": "comparison"
+        },
+        {
+          "text": "REBIRTH LACKS MEMORY LIBERATION AS PAINLESSNESS SEEMS EMPTY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "THREE BROAD MEANS: jñāna (knowledge)",
+        "bhakti (devotion)",
+        "karma (disciplined action)",
+        "Yoga adds meditative discipline; Jainism adds vows/austerity; Buddhism eightfold path objections: disembodied soul lacks individuation",
+        "rebirth lacks memory liberation as painlessness seems empty"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "THREE BROAD MEANS: jñāna (knowledge)",
+            "bhakti (devotion)",
+            "karma (disciplined action)"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "Yoga adds meditative discipline; Jainism adds vows/austerity; Buddhism eightfold path objections: disembodied soul lacks individuation",
+            "rebirth lacks memory liberation as painlessness seems empty",
+            "endless survival may be burden, not good replies: character/causal continuity can outlast episodic memory"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "liberation is evaluated by freedom from ignorance, craving or sin, not mere duration ethical test: doctrine should transform",
+            "present conduct, not postpone justice to another life."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Knowledge, action and devotion differ as direct means, qualifications or sequential aids according to whether liberation is produced or uncovered.",
+      "source_references": [
+        "H. Cessation and Isolation - Apavarga, Jivanmukti, Kaivalya",
+        "I. Paths - Bhakti and the Three Means"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "synthesis",
+      "title": "PYQ ANSWER RAIL",
+      "structural_type": "objection-reply synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ ANSWER RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE EXACT SURVIVAL TERM",
+          "role": "outcome"
+        },
+        {
+          "text": "IDENTIFY BEARER AND CONTINUITY CRITERION",
+          "role": "comparison"
+        },
+        {
+          "text": "EXPLAIN CAUSAL MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "STATE SOTERIOLOGICAL END AND PATH",
+          "role": "institution"
+        },
+        {
+          "text": "STRONGEST OBJECTION (IDENTITY, EVIDENCE, JUSTICE)",
+          "role": "evidence"
+        },
+        {
+          "text": "STRONGEST REPLY",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPARE ONE UNLIKE DOCTRINE ON SAME AXES",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DEFINE exact survival term → identify bearer and continuity criterion",
+        "explain causal mechanism → state soteriological end and path",
+        "strongest objection (identity, evidence, justice) → strongest reply",
+        "compare one unlike doctrine on same axes → qualified conclusion",
+        "ANSWER AXES: self/no-self"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE exact survival term → identify bearer and continuity criterion",
+            "explain causal mechanism → state soteriological end and path",
+            "strongest objection (identity, evidence, justice) → strongest reply"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "compare one unlike doctrine on same axes → qualified conclusion",
+            "ANSWER AXES: self/no-self",
+            "continuity/identity endless existence/release from existence"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "CLOSE: survival doctrines are credible only when their ontology of the person, continuity mechanism and ethical-liberative purpose support",
+            "one another."
+          ]
+        }
+      ],
+      "mechanism_strip": "CLOSE: survival doctrines are credible only when their ontology of the person, continuity mechanism and ethical-liberative purpose support one another.",
+      "answer_line": "A strong answer identifies the continuity-bearer, mechanism, identity criterion, liberation-terminus and strongest evidence objection.",
+      "source_references": [
+        "L. 17-Part PYQ Routing (2018-2025)",
+        "O. Answer Spine (objection -> reply)"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED-DOSSIER RECONCILIATION — [OPTIONAL ADVANCED]",
+          "role": "outcome"
+        },
+        {
+          "text": "THESE REFINEMENTS STRENGTHEN A 15/20-MARKER BUT MUST REMAIN SUBORDINATE",
+          "role": "comparison"
+        },
+        {
+          "text": "TELEPORTATION, BRAIN-SPLIT CASES AND FRINGE REINCARNATION LITERATURE ARE DELIBERATELY",
+          "role": "evidence"
+        },
+        {
+          "text": "THE SIX SURVIVAL-TERMS AND THE NECESSITY QUESTION LAYER 3",
+          "role": "primary"
+        },
+        {
+          "text": "IS IMMORTALITY OF A SUBSTANTIAL SOUL NECESSARY FOR REBIRTH?",
+          "role": "outcome"
+        },
+        {
+          "text": "IN THE SUBSTANTIALIST SYSTEMS (VEDANTA, NYAYA, JAINISM) AN ETERNAL",
+          "role": "comparison"
+        },
+        {
+          "text": "BUT BUDDHISM SECURES RE-BECOMING THROUGH A CAUSAL STREAM ALONE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "Advanced-dossier reconciliation — [OPTIONAL ADVANCED]",
+            "These refinements strengthen a 15/20-marker but must remain subordinate to the owner doctrines.",
+            "Teleportation, brain-split cases and fringe reincarnation literature are deliberately excluded as low-return.",
+            "The Six Survival-Terms and the Necessity Question LAYER 3 - ADVANCED The necessity question is a modal question, so answer it with modal vocabulary."
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "ANALYSIS: Is immortality of a substantial soul NECESSARY for rebirth?",
+            "In the substantialist systems (Vedanta, Nyaya, Jainism) an eternal atman or jiva is exactly what transmigrates, so there immortality is presupposed.",
+            "But Buddhism secures re-becoming through a causal stream alone.",
+            "So a persisting soul is SUFFICIENT for rebirth, not NECESSARY -- Buddhism is the decisive counter-case."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "ANALYSIS: Is rebirth necessary for liberation?",
+            "Liberation is defined as exit from the cycle, so it presupposes bondage-across-lives and something that is freed.",
+            "WRONG: Treating the one-screen map as one school's doctrine.",
+            "It is a comparative scaffold; each cell must be cashed out in that school's own terms."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

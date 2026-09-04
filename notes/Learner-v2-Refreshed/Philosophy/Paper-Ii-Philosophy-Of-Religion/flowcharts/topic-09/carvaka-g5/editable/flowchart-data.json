@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-09",
+  "generation": 5,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-09\\topic-09_Complete-Learning-Session_2026-08-22.md",
+  "master_dimensions": [
+    3600,
+    2059
+  ],
+  "stages": [
+    {
+      "title": "CONTEMPORARY INDIA ANCHOR — PLURALISM AS INTERFAITH PRACTICE [SUPPORTING]",
+      "terms": "Contemporary India anchor — pluralism as interfaith practice [SUPPORTING]: ⚠️ Inference: Public praise of interfaith harmony supports pluralism as an ethic of engagement, but it does not establish Hick’s metaphysical claim that rival religions are equally valid responses to one Real.",
+      "mechanism": "⚠️ Inference: Public praise of interfaith harmony supports pluralism as an ethic of engagement, but it does not establish Hick’s metaphysical claim that rival religions are equally valid responses to one Real.",
+      "consequence": "The philosophical question of truth remains separate from the political value of coexistence.",
+      "trap": "⚠️ Inference: Public praise of interfaith harmony supports pluralism as an ethic of engagement, but it does not establish Hick’s metaphysical claim that rival religions are equally valid responses to one Real.",
+      "answer": "✅ Fact: In April 2026, the United Nations in India reported that UNAOC High Representative Miguel Ángel Moratinos highlighted India’s historical religious pluralism and interfaith traditions during a Delhi visit."
+    },
+    {
+      "title": "VISUAL GATEWAY — FOUR QUESTIONS, NOT ONE",
+      "terms": "Visual gateway — four questions, not one: Master verdict: Pluralism is strongest when it combines realism about an Absolute with fallibilism about finite access, while openly admitting that some first-order truth-claims remain contradictory.",
+      "mechanism": "Inclusivism: one's own religion is the fullest truth, but other religions contain partial truth and their adherents may be saved through it (Karl Rahner's \"anonymous Christians\").",
+      "consequence": "The worry (2022): \"unquestionable acceptance of only one Absolute Truth will inevitably result in religious exclusivism\" → and exclusivism breeds conflict/intolerance. ✅",
+      "trap": "258), whose own wording in Epistle 73 is salus extra ecclesiam non est — \"there is no salvation outside the Church\"; he also writes that one cannot have God as Father who does not have the Church as mother (De Ecclesiae Catholicae Unitate 6).",
+      "answer": "Vedāntic pluralism distinguishes one ultimate reality from diverse conceptual and devotional approaches, but unity must not erase genuine doctrinal contradiction."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2059,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 2
+    }
+  ]
+}

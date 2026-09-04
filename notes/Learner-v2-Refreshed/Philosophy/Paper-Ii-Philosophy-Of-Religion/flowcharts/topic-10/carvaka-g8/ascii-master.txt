@@ -1,0 +1,220 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Nature of Religious Language: central question and analytical axes
+
+```ascii-master
+NATURE OF RELIGIOUS LANGUAGE — CONCEPTUAL ATLAS
+
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Nature of Religious Language
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       Fact: An ICML 2026 paper on Sanskrit–English translation reports…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: THE PROBLEM OF RELIGIOUS LANGUAGE
+  • The Problem Of Religious Language
+  • Master verdict: Religious utterances are often assertoric…
+AXIS 2: MEANING, REFERENCE AND TRANSCENDENCE
+  • Meaning
+  • Need a middle way
+AXIS 3: COGNITIVISM, NON-COGNITIVISM AND FALSIFICATION
+  • Cognitivism
+  • "Does the cognitivist account lead to contradiction?" (2024 —…
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  The Problem Of Religious Language • Sanskrit • English • Master verdict: Religious
+  utterances
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Meaning, reference and the transcendence problem
+
+```ascii-master
+MEANING, REFERENCE AND THE TRANSCENDENCE PROBLEM
+│
+├── KEY CONCEPTS
+│   ├── The Problem Of Religious Language
+│   ├── Sanskrit
+│   ├── English
+│   └── Master verdict: Religious utterances
+│
+├── THE PROBLEM OF RELIGIOUS LANGUAGE
+│   ├─ TERMS: Fact: An ICML 2026 paper on Sanskrit–English translation reports…
+│   ├─ LOGIC: Master verdict: Religious utterances are often assertoric, symbolic…
+│   └─ RESULT: Context, use, symbolic reference and a tradition’s conceptual…
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Analogy, symbol and negative theology
+
+```ascii-master
+ANALOGY, SYMBOL AND NEGATIVE THEOLOGY
+
+
+KEY TERMS: Meaning • Reference • Transcendence • Univocal • finite/anthropomorphic •
+KEY TERMS: equivocal
+CAUSE / CONDITION 1: Religious language is discourse about transcendent reality…
+          │
+          ├── MECHANISM
+          │   Need a middle way
+          │
+          └── EFFECT / CONTRAST
+              religious language is discourse about transcendent reality whose…
+          │
+          ▼
+CAUSE / CONDITION 2: Two types: Analogy of attribution — "God is good" because God…
+          │
+          ├── MECHANISM
+          │   Two types: Analogy of attribution — "God is good" because God is…
+          │
+          └── EFFECT / CONTRAST
+              So "good" applies proportionally, truly but not identically
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Cognitivism, non-cognitivism and falsification
+
+```ascii-master
+COGNITIVISM, NON-COGNITIVISM AND FALSIFICATION
+
+
+KEY TERMS: Cognitivism • Non-Cognitivism • Falsification • Cognitivist (realist) • genuine
+KEY TERMS: truth-claims • true or false
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ COGNITIVISM,           │ Cognitivist (realist):        │ Cognitivist (realist):        │
+│ NON-COGNITIVISM AND    │ religious statements are      │ religious statements are      │
+│ FALSIFICATION          │ genuine…                      │ genuine…                      │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Tillich, Aquinas, via negativa and language-games
+
+```ascii-master
+TILLICH, AQUINAS, VIA NEGATIVA AND LANGUAGE-GAMES
+
+
+KEY TERMS: Tillich • Aquinas • Via Negativa • Language-Games • neither literal nor
+KEY TERMS: meaningless • cognitive meaning
+                 CLAIM / SYSTEM UNDER EXAMINATION
+                                  │
+                                  ▼
+PROBLEM / OBJECTION 1
+  ├─ ISSUE: religious language is neither literal nor meaningless —…
+  ├─ RESPONSE / CONTROL: religious language is neither literal nor meaningless —…
+  └─ QUALIFIED VERDICT: religious language is neither literal nor meaningless —…
+                  │
+                  ▼
+PROBLEM / OBJECTION 2
+  ├─ ISSUE: [Symbolic] "Is religious language symbolic?
+  ├─ RESPONSE / CONTROL: Aquinas locates God-talk between univocal sameness and
+  ├─ RESPONSE / CONTROL: equivocal…
+  └─ QUALIFIED VERDICT: [Symbolic] "Is religious language symbolic?
+                                  │
+                                  ▼
+FINAL CONTROL: preserve the strongest insight while stating its limit.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Indian/Western strategies and a qualified language verdict
+
+```ascii-master
+INDIAN/WESTERN STRATEGIES AND A QUALIFIED LANGUAGE VERDICT
+
+
+KEY TERMS: Indian • Western Strategies Of Religious Speech • Univocity • Nyāya • Analogy /
+KEY TERMS: indirect indication • Negation
+CAUSE / CONDITION 1: Indian And Western Strategies Of Religious Speech comprises…
+          │
+          ├── MECHANISM
+          │   a complete answer must keep two axes separate
+          │
+          └── EFFECT / CONTRAST
+              a complete answer must keep two axes separate
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Nature of Religious Language: traps, PYQ routes and applied recall
+
+```ascii-master
+NATURE OF RELIGIOUS LANGUAGE: TRAPS, PYQ ROUTES AND APPLIED RECALL
+
+
+KEY TERMS: The Problem Of Religious Language • Sanskrit • English • Master verdict:
+KEY TERMS: Religious utterances • Meaning • Reference
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── "HOW (Analogy/Symbol/Negation) × WHETHER…
+├── "God" is not a being among beings but the "Ground of Being" /…
+├── religious language is neither literal nor meaningless —…
+├── a complete answer must keep two axes separate
+│
+├── 2018 · Q5(a) · 10 marks
+├── Question: In what sense is the secular use of language different from the…
+├── 2018 · Q7(b) · 15 marks
+├── Question: Critically examine Braithwaite’s non-cognitive theory of…
+│
+└── Fact: An ICML 2026 paper on Sanskrit–English translation reports…
+└── Cognitivism treats religious claims as truth-apt, whereas…
+└── A complete answer must keep two axes separate: how religious…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Nature of Religious Language: integrated revision and answer-writing spine
+
+```ascii-master
+NATURE OF RELIGIOUS LANGUAGE — ANSWER / REVISION SPINE
+
+
+KEY TERMS: The Problem Of Religious Language • Sanskrit • English • Master verdict:
+KEY TERMS: Religious utterances • Meaning • Reference
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ Fact: An ICML 2026 paper on Sanskrit–English translation reports…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ The Problem Of Religious Language
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ Two types: Analogy of attribution — "God is good" because God is…
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ English
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ a complete answer must keep two axes separate
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ A complete answer must keep two axes separate: how religious…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

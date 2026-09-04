@@ -1,0 +1,1203 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-04\\g13\\topic-04_Solved-Practice-Workbook_2026-08-29.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-04\\g13\\topic-04_Solved-Practice-Workbook_2026-08-29.pdf",
+  "mode": "workbook",
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-04",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 12,
+      "markdown_body_line_end": 12,
+      "heading": "ORIGINAL MCQ MASTERY SET - EXACTLY 48 QUESTIONS",
+      "preview": "Questions 1-40 are core coverage - four per subtopic across the ten subtopics; Questions 41-48 are remedial items targeting the most common misreadings. Correct answers rotate strictly A -> B -> C -> D 12 times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 3,
+          "frame_y": 665.891
+        },
+        "end": {
+          "page": 3,
+          "frame_y": 599.224
+        }
+      },
+      "pdf_pages": [
+        3
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 609,
+      "markdown_body_line_end": 611,
+      "heading": "LAYER 4 - EXAM APPLICATION",
+      "preview": "MEMORY: 10-mark necessity spine -> define the disputed necessity -> give the substantialist YES -> deploy the Buddhist counter-example -> close with the exact modal claim (sufficient, not necessary).",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 111.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 66.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 624,
+      "markdown_body_line_end": 626,
+      "heading": "LAYER 4 - EXAM APPLICATION",
+      "preview": "MEMORY: 20-mark Plato spine -> state each of the 4 arguments -> assess each for validity AND for whether it reaches survival, not just pre-existence -> Simmias objection and reply -> Kant's paralogism -> verdict: suggestive, not probative.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 659.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 600.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 638,
+      "markdown_body_line_end": 640,
+      "heading": "LAYER 4 - EXAM APPLICATION",
+      "preview": "MEMORY: 15-mark karma spine -> define karma (act + adrsta) and its three kinds -> rebirth as the field where fruits mature -> Buddhist continuity twist -> memory + desert objections and replies -> verdict on continuity vs substance.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 471.224
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 426.556
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 653,
+      "markdown_body_line_end": 655,
+      "heading": "LAYER 4 - EXAM APPLICATION",
+      "preview": "MEMORY: 10-mark Buddhism spine -> substantialist assumption stated -> anatman + pratityasamutpada -> flame/milk models -> \"who reaps the fruit?\" reply -> verdict: immortality sufficient, not necessary; Buddhism is decisive.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 276.356
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 217.488
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 668,
+      "markdown_body_line_end": 669,
+      "heading": "LAYER 4 - EXAM APPLICATION",
+      "preview": "MEMORY: Whenever a stem names a liberation-term, FIRST fix it on the §5A bench. Half the marks in this clause are lost to term-merging.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 681,
+      "markdown_body_line_end": 683,
+      "heading": "LAYER 4 - EXAM APPLICATION",
+      "preview": "MEMORY: 15-mark agent spine -> state the paradox -> Advaita's conventional- agency reply (sublation, not annihilation) -> Visistadvaita's real-jiva answer -> role of knowledge vs grace -> verdict fixing each conception of moksa.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 627.624
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 568.756
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 694,
+      "markdown_body_line_end": 696,
+      "heading": "LAYER 4 - EXAM APPLICATION",
+      "preview": "MEMORY: 15-mark Jain spine -> jiva (eternal, conscious, body-sized) -> asrava -> bandha -> samvara -> nirjara -> kevala with ananta-catustaya -> distinguish from Advaita identity and Buddhist cessation -> note the interaction problem.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 454.956
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 396.088
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 707,
+      "markdown_body_line_end": 709,
+      "heading": "LAYER 4 - EXAM APPLICATION",
+      "preview": "MEMORY: 10-mark apavarga spine -> Nyaya suffering-chain -> true knowledge reverses it -> cessation of pain AND consciousness -> contrast with Advaita bliss and Samkhya isolation -> verdict: liberation as cessation, not reward.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 284.288
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 239.62
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 720,
+      "markdown_body_line_end": 722,
+      "heading": "LAYER 4 - EXAM APPLICATION",
+      "preview": "MEMORY: 15-mark means spine -> production vs removal + saksat vs arad-upakaraka -> Mimamsa (karma) / Sankara (jnana, rejects samuccaya) / Ramanuja (graded samuccaya -> bhakti) / Gita 5.4-5 convergence -> verdict on function vs terminus.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 125.82
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 66.953
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 734,
+      "markdown_body_line_end": 736,
+      "heading": "LAYER 4 - EXAM APPLICATION",
+      "preview": "MEMORY: 20-mark trio spine -> define karma, rebirth, reincarnation separately -> interlock them -> contrast resurrection (one life, divine act, Cullmann) -> identity objections BOTH ways -> verdict: neither term is a version of another.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 678.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 619.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 740,
+      "markdown_body_line_end": 740,
+      "heading": "SOLVED PYQ BANK - EXACTLY 17 VERIFIED OWNER QUESTIONS",
+      "preview": "Exact wording, year and marks are parsed from the continuous local Philosophy of Religion Paper II bank for 2018-2025. This clause owns exactly 17 primary parts (2018:2, 2019:1, 2020:2, 2021:3, 2022:3, 2023:2, 2024:2, 2025:2). Ownership dis",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 619.424
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 524.356
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 767,
+      "markdown_body_line_end": 769,
+      "heading": "Solved PYQ 1 - 2018 Q5(b), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it reads \"significant\" as a modal/structural claim (what rebirth does NOT require) rather than as praise, and names the exact anti-substantialist and anti-theistic points.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 248.356
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 170.288
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 795,
+      "markdown_body_line_end": 797,
+      "heading": "Solved PYQ 2 - 2018 Q7(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- criterion-first evaluation, precise verse citation in order, the grace/effort dispute named, and the achievement-> reception thesis stated explicitly.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 479.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 401.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 825,
+      "markdown_body_line_end": 827,
+      "heading": "Solved PYQ 3 - 2019 Q8(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it obeys \"state AND explain\" by defining all three separately, then interlocking them, and it nails the reincarnation/rebirth distinction the question is built to test.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 725.224
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 855,
+      "markdown_body_line_end": 857,
+      "heading": "Solved PYQ 4 - 2020 Q5(b), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it elaborates the claim (as asked) but refuses to overclaim, distinguishing the forms of the presupposition and citing the Buddhist limiting case.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 477.624
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 399.556
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 884,
+      "markdown_body_line_end": 885,
+      "heading": "Solved PYQ 5 - 2020 Q8(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it names the disagreement instead of harmonising, and uses the production/removal cut to explain WHY schools differ.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 725.224
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 916,
+      "markdown_body_line_end": 917,
+      "heading": "Solved PYQ 6 - 2021 Q6(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it keeps \"Hindu tradition\" plural (Vedanta, Nyaya, Samkhya) instead of collapsing it, and cites the verified Gita 2.23 image.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 424.024
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 345.956
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 941,
+      "markdown_body_line_end": 942,
+      "heading": "Solved PYQ 7 - 2021 Q6(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it answers BOTH obligations (the concept AND the role of knowledge), and grounds the \"knowledge alone\" claim in the removal model.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 511.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 433.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 969,
+      "markdown_body_line_end": 970,
+      "heading": "Solved PYQ 8 - 2021 Q8(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it both expounds AND evaluates (as asked), defending karma against fatalism while conceding unverifiability.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 149.024
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 70.956
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 995,
+      "markdown_body_line_end": 996,
+      "heading": "Solved PYQ 9 - 2022 Q5(c), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it delivers a precise MODAL verdict (sufficient not necessary) and uses Buddhism as a counter-example, not merely an exception.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 561.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 469.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1024,
+      "markdown_body_line_end": 1025,
+      "heading": "Solved PYQ 10 - 2022 Q7(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it reframes the \"real agent\" question as the very axis dividing the two schools, giving each its own answer rather than blending.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 171.224
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 93.156
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1050,
+      "markdown_body_line_end": 1051,
+      "heading": "Solved PYQ 11 - 2022 Q8(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it delivers BOTH nouns the question names (soul AND bondage), with the *asrava-bandha-samvara-nirjara* machinery in order.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 530.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 452.224
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1082,
+      "markdown_body_line_end": 1083,
+      "heading": "Solved PYQ 12 - 2023 Q6(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- \"critically examine\" is obeyed by FOUR separate assessments plus Simmias and Kant, not one summary verdict.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 128.824
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 50.756
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1109,
+      "markdown_body_line_end": 1110,
+      "heading": "Solved PYQ 13 - 2023 Q7(b), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it explains the FUNCTION of rebirth within karma (discharge of desert), not just the fact of it, and adds the continuity point.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 525.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 447.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1139,
+      "markdown_body_line_end": 1140,
+      "heading": "Solved PYQ 14 - 2024 Q5(c), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it refuses to sentimentalise *apavarga* as bliss, grounding \"no consciousness\" in the adventitious-consciousness doctrine.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 182.424
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 104.356
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1168,
+      "markdown_body_line_end": 1169,
+      "heading": "Solved PYQ 15 - 2024 Q6(a), 20 marks",
+      "preview": "MEMORY: Why this earns marks -- it gives reasons BOTH ways (as the stem demands), then fixes the exact modal minimum, using Buddhism as the load-bearing case.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 511.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 433.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1196,
+      "markdown_body_line_end": 1196,
+      "heading": "Solved PYQ 16 - 2025 Q5(d), 10 marks",
+      "preview": "MEMORY: Why this earns marks -- it fixes *jivanmukti* against *videhamukti* and > explains the residual body by *prarabdha*, the exact discriminator examiners want.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 177.424
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 99.356
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1227,
+      "markdown_body_line_end": 1228,
+      "heading": "Solved PYQ 17 - 2025 Q7(c), 15 marks",
+      "preview": "MEMORY: Why this earns marks -- it stays faithful to the NAMED text (Gita verses) while still delivering the modal verdict and the Buddhist reservation.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 511.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 433.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1232,
+      "markdown_body_line_end": 1232,
+      "heading": "ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS",
+      "preview": "Three original questions authored for this package (not PYQs), one each at 10, 15 and 20 marks, with full model solutions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 433.024
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 388.356
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1236,
+      "markdown_body_line_end": 1236,
+      "heading": "Original Mains 1",
+      "preview": "Original question | Philosophy Paper II, Philosophy of Religion | 10 marks | answer in ~150 words",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 347.356
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 316.888
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1259,
+      "markdown_body_line_end": 1259,
+      "heading": "Original Mains 2",
+      "preview": "Original question | Philosophy Paper II, Philosophy of Religion | 15 marks | answer in ~250 words",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1285,
+      "markdown_body_line_end": 1285,
+      "heading": "Original Mains 3",
+      "preview": "Original question | Philosophy Paper II, Philosophy of Religion | 20 marks | answer in ~400 words",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 433.024
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 380.556
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1330,
+      "markdown_body_line_end": 1330,
+      "heading": "CANONICAL EXAM APPARATUS (PRESERVED VERBATIM)",
+      "preview": "The examiner apparatus below is reproduced verbatim from the canonical Soul-Immortality-Rebirth.md (headings demoted, navigation links stripped). It is preserved intact so that no canonical depth - foundational statement bank, applied-quest",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 646.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 559.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1354,
+      "markdown_body_line_end": 1361,
+      "heading": "6.1 - \"Is immortality of the soul a necessary condition for rebirth? (w.r.t. Buddhism)\" (2022, 10m)",
+      "preview": "Intro : substantialist assumption — a soul must persist to transmigrate.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 6,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 213.024
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 142.024
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1364,
+      "markdown_body_line_end": 1370,
+      "heading": "6.2 - \"Nature of jīvanmukti in Advaita Vedānta.\" (2025, 10m)",
+      "preview": "Intro : Advaita — mokṣa is realising ātman = Brahman; ends avidyā.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 5,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1373,
+      "markdown_body_line_end": 1387,
+      "heading": "6.3 - \"Evaluate the concept of Bhakti (Devotion) as a pathway to attain liberation.\" (2018, 15m)",
+      "preview": "Intro : bhakti = loving devotion to a personal God, held to be a DIRECT means of mokṣa.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 13,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 704.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 563.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1390,
+      "markdown_body_line_end": 1405,
+      "heading": "6.4 - \"Are Knowledge, Action and Devotion the means to liberation in Indian tradition?\" (2020, 15m)",
+      "preview": "Intro : the real question is whether they are alternative, sequential or combined.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 14,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 541.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 390.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1408,
+      "markdown_body_line_end": 1422,
+      "heading": "6.5 - \"Karma, Rebirth and Reincarnation in Hinduism.\" (2019, 20m)",
+      "preview": "Intro : three linked but non-identical concepts — define each before expounding.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 13,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 368.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 227.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1443,
+      "markdown_body_line_end": 1443,
+      "heading": "PYQ Routing Table (2018-2025)",
+      "preview": "⚠️ **Corpus signal:** 17 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 644.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 577.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1445,
+      "markdown_body_line_end": 1463,
+      "heading": "PYQ Routing Table (2018-2025)",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 17,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 577.824
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 131.922
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1471,
+      "markdown_body_line_end": 1474,
+      "heading": "10 marks",
+      "preview": "Define the disputed necessity → give substantialist position → Buddhist/Jain/Nyāya",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 768.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 737.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1477,
+      "markdown_body_line_end": 1480,
+      "heading": "15 marks",
+      "preview": "State doctrine and continuity-bearer → causal sequence → canonical example →",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 715.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 684.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1483,
+      "markdown_body_line_end": 1487,
+      "heading": "20 marks",
+      "preview": "Separate immortality, rebirth and liberation → reconstruct two rival models →",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 662.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 621.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1492,
+      "markdown_body_line_end": 1501,
+      "heading": "Directive Decoder",
+      "preview": "Directive | Examiner is buying | Structural consequence | Live example",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Directive",
+          "Examiner is buying",
+          "Structural consequence",
+          "Live example"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 599.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 274.89
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1503,
+      "markdown_body_line_end": 1503,
+      "heading": "Directive Decoder",
+      "preview": "🔑 **Rule:** the moment a question names a **term of liberation** (mokṣa/apavarga/kaivalya/nirvāṇa/jīvanmukti), your first job is to fix that term against the §5A bench. Half the marks in this clause are lost to term-merging.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 274.89
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 230.222
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1508,
+      "markdown_body_line_end": 1514,
+      "heading": "Graded Verdict Ladder",
+      "preview": "Band | What the script contains | Typical fault",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Band",
+          "What the script contains",
+          "Typical fault"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 567.09
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1524,
+      "markdown_body_line_end": 1538,
+      "heading": "Factual and Quotation Discipline",
+      "preview": "Item | Status | Safe use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 13,
+        "headers": [
+          "Item",
+          "Status",
+          "Safe use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 330.29
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    }
+  ]
+}

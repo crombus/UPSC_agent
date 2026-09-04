@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "audited_on": "2026-08-26",
+  "topic_key": "philosophy-paper-i-western-philosophy-07",
+  "canonical_sequence_number": 7,
+  "resolved_generation": 2,
+  "approval": false,
+  "official_syllabus_verbatim": "Logical Positivism : Verification Theory of Meaning; Rejection of Metaphysics; Linguistic Theory of Necessary Propositions.",
+  "source_hierarchy": [
+    {
+      "rank": 1,
+      "type": "Markdown",
+      "status": "used as source of truth",
+      "paths": [
+        "upsc-ai-kit/knowledge/Philosophy/paper-1/western/Logical-Positivism.md",
+        "upsc-ai-kit/knowledge/Philosophy/_advanced/Western-Philosophy-Dossier.md",
+        "upsc-ai-kit/knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2018-2025.md",
+        "upsc-ai-kit/knowledge/Philosophy/OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+      ]
+    },
+    {
+      "rank": 2,
+      "type": "OCR-searchable local PDFs",
+      "status": "audited for deeper corroboration",
+      "evidence": [
+        {
+          "path": "books\\philosphy_books\\a_new_history_of_western_philosophy_volume_4.pdf",
+          "sha256": "8ac4f951ec127d49d3e2cc40ec46ae810c44f3afd5dfbbe7051245599df04ed4",
+          "page_count": 364,
+          "search_hits": {
+            "logical positivism": [
+              10,
+              75,
+              78,
+              159,
+              260,
+              360
+            ],
+            "verification principle": [
+              75,
+              76,
+              198,
+              204,
+              363
+            ],
+            "protocol sentence": [
+              159
+            ],
+            "analytic-synthetic": [
+              84,
+              86
+            ],
+            "A. J. Ayer": [
+              77,
+              106,
+              260,
+              333
+            ],
+            "Carnap": [
+              75,
+              357
+            ]
+          }
+        },
+        {
+          "path": "books\\philosphy_books\\Robert.Audi_The.Cambridge.Dictionary.of.Philosophy.pdf",
+          "sha256": "514dd3f2efac7ff5b8e2a17a8a76ac952c5385323a1197e5d7581b1ab7081417",
+          "page_count": 1032,
+          "search_hits": {
+            "logical positivism": [
+              11,
+              59,
+              69,
+              99,
+              105,
+              112,
+              114,
+              186,
+              202,
+              289
+            ],
+            "protocol sentence": [
+              991
+            ],
+            "analytic-synthetic": [
+              10,
+              58,
+              59,
+              60,
+              69,
+              203,
+              212,
+              335,
+              388,
+              533
+            ],
+            "logical syntax": [
+              24,
+              361,
+              545,
+              549,
+              550,
+              931,
+              990
+            ],
+            "Carnap": [
+              15,
+              59,
+              60,
+              110,
+              127,
+              151,
+              152,
+              156,
+              206,
+              226
+            ]
+          }
+        },
+        {
+          "path": "books\\philosphy_books\\antony_flew_eds-_a_dictionary_of_philosophyb-ok-org.pdf",
+          "sha256": "fb1c3317604fd1483d76c950a4d8e300ceaedfedea41bc2801f22b24fad930db",
+          "page_count": 363,
+          "search_hits": {
+            "logical positivism": [
+              19,
+              40,
+              109,
+              146,
+              181,
+              210,
+              211,
+              212,
+              225,
+              305
+            ],
+            "verification principle": [
+              45
+            ],
+            "A. J. Ayer": [
+              114
+            ],
+            "Carnap": [
+              63,
+              64,
+              80,
+              127,
+              137,
+              181,
+              221,
+              281,
+              288,
+              291
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "type": "live web",
+      "status": "not required; exact syllabus, doctrine and PYQs resolved locally"
+    },
+    {
+      "rank": 4,
+      "type": "Qdrant",
+      "status": "not used and did not block generation"
+    }
+  ],
+  "pyq_archive_metadata": {
+    "source": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md",
+    "text_rule": "English wording and marks transcribed from held papers; printed anomalies retained outside wording.",
+    "locally_verified_count": 7,
+    "questions": [
+      {
+        "question_number": "Q3(b)",
+        "marks": 15,
+        "wording": "How do the logical positivists show that metaphysical sentences are meaningless? Can their verification theory of meaning account for the meaningfulness of all scientific sentences? Discuss."
+      },
+      {
+        "question_number": "Q2(a)",
+        "marks": 20,
+        "wording": "How do the logical positivists account for the meaning of general statements? Can the same account be applied to metaphysical statements? Discuss."
+      },
+      {
+        "question_number": "Q1(e)",
+        "marks": 10,
+        "wording": "“The Soul of Superman is Good.” Critically examine the above statement in the light of logical positivism."
+      },
+      {
+        "question_number": "Q2(b)",
+        "marks": 15,
+        "wording": "What according to Logical Positivists are “pseudostatements”? How does one identify “pseudostatements”? Critically discuss with examples."
+      },
+      {
+        "question_number": "Q3(a)",
+        "marks": 20,
+        "wording": "Does the rejection of metaphysics as proposed by Logical Positivists relate to problem of meaning or problem of knowledge or nature of things or all of them together? Discuss with suitable examples."
+      },
+      {
+        "question_number": "Q3(b)",
+        "marks": 15,
+        "wording": "Is the sentence “All objects are either red or not red” meaningful in the same way as “This page is white” is, according to the logical positivists? Discuss with arguments."
+      },
+      {
+        "question_number": "Q3(b)",
+        "marks": 15,
+        "wording": "Present an exposition of the verification theory of meaning as propounded by the logical positivists. In this context also differentiate between the “strong” and the “weak” sense of the word “verifiable”."
+      }
+    ]
+  },
+  "source_hashes": {
+    "upsc-ai-kit/knowledge/Philosophy/paper-1/western/Logical-Positivism.md": "6f73bc4cb60b3891dc28410477a5e72ae588a9b8033ee88554004271792a12e8",
+    "upsc-ai-kit/knowledge/Philosophy/_advanced/Western-Philosophy-Dossier.md": "ead128ee292f1cdb8352bb970bbaf4600aa7e1b66cb485d3f395bddc8fa2d38a",
+    "upsc-ai-kit/knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2018-2025.md": "9ecebebbc0ad7c308d59771c6a60b87ad32d8a550efbc346a3a9ebae21952795",
+    "upsc-ai-kit/knowledge/Philosophy/OFFICIAL-UPSC-SYLLABUS-VERBATIM.md": "8fad49a0748460d3b939de6b9ab3d92b77e15d6bb0e7a257ae9f5a750e7be8f5"
+  },
+  "accuracy_boundaries": [
+    "Popper falsifiability is a rival demarcation proposal, not logical positivist doctrine.",
+    "Cognitive meaninglessness is not falsity, worthlessness or literal ungrammaticality.",
+    "Analytic propositions are meaningful in a non-factual logical sense.",
+    "Ayer is distinguished from the internally diverse Vienna Circle.",
+    "Strong verification, weak verification and confirmation are not interchangeable."
+  ]
+}

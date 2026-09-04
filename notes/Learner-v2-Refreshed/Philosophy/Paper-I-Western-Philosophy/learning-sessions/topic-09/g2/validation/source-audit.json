@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "audited_on": "2026-08-26",
+  "source_order": [
+    "Markdown knowledge owners",
+    "OCR-searchable local PDFs",
+    "Live web only if unresolved",
+    "Qdrant optional fallback"
+  ],
+  "markdown_sources": [
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Phenomenology-Husserl.md",
+    "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md",
+    "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+  ],
+  "ocr_audit": {
+    "2016_Masih_A_critical_history_of_western_philosophy.pdf": {
+      "path": "books\\philosphy_books\\2016_Masih_A_critical_history_of_western_philosophy.pdf",
+      "pages": 6,
+      "text_pages": 6,
+      "hits": {},
+      "sha256": "01d81cdb2f82d7c6e12e7948252f4e11f3e1ad4a427e713edaaf32a8e3eab882"
+    },
+    "Robert.Audi_The.Cambridge.Dictionary.of.Philosophy.pdf": {
+      "path": "books\\philosphy_books\\Robert.Audi_The.Cambridge.Dictionary.of.Philosophy.pdf",
+      "pages": 1032,
+      "text_pages": 1032,
+      "hits": {
+        "Husserl": [
+          21,
+          42,
+          43,
+          58,
+          67,
+          92,
+          126,
+          131
+        ],
+        "phenomenology": [
+          15,
+          98,
+          101,
+          123,
+          131,
+          133,
+          134,
+          154
+        ],
+        "epoch": [
+          75,
+          223,
+          236,
+          311,
+          402,
+          406,
+          411,
+          438
+        ],
+        "psychologism": [
+          42,
+          112,
+          134,
+          361,
+          437,
+          628,
+          630,
+          699
+        ],
+        "noesis": [
+          273,
+          438,
+          439,
+          650,
+          651
+        ],
+        "noema": [
+          58,
+          148,
+          438,
+          439,
+          650,
+          750,
+          913
+        ],
+        "essence": [
+          35,
+          38,
+          39,
+          42,
+          48,
+          70,
+          71,
+          75
+        ]
+      },
+      "sha256": "514dd3f2efac7ff5b8e2a17a8a76ac952c5385323a1197e5d7581b1ab7081417"
+    },
+    "a_new_history_of_western_philosophy_volume_4.pdf": {
+      "path": "books\\philosphy_books\\a_new_history_of_western_philosophy_volume_4.pdf",
+      "pages": 364,
+      "text_pages": 364,
+      "hits": {
+        "Husserl": [
+          10,
+          11,
+          55,
+          95,
+          96,
+          97,
+          98,
+          99
+        ],
+        "phenomenology": [
+          10,
+          95,
+          98,
+          99,
+          100,
+          103,
+          340,
+          350
+        ],
+        "epoch": [
+          11,
+          98,
+          100,
+          132,
+          179,
+          180,
+          297,
+          299
+        ],
+        "psychologism": [
+          96,
+          98,
+          362
+        ],
+        "noesis": [
+          228
+        ],
+        "noema": [
+          227,
+          228,
+          361
+        ],
+        "essence": [
+          24,
+          37,
+          65,
+          74,
+          80,
+          97,
+          103,
+          106
+        ]
+      },
+      "sha256": "8ac4f951ec127d49d3e2cc40ec46ae810c44f3afd5dfbbe7051245599df04ed4"
+    },
+    "Think. A Compelling Introduction To Philosophy.pdf": {
+      "path": "books\\philosphy_books\\Think. A Compelling Introduction To Philosophy.pdf",
+      "pages": 680,
+      "text_pages": 680,
+      "hits": {
+        "essence": [
+          239,
+          275,
+          276,
+          303,
+          313,
+          371
+        ]
+      },
+      "sha256": "dfa71260407f89902fc7b64d24b44e397f47e584225bc0757586ad3fe903142e"
+    }
+  },
+  "web_required": false,
+  "qdrant_required": false,
+  "verified_pyq_count": 7,
+  "official_syllabus_verbatim": "Phenomenology (Husserl): Method; Theory of Essences; Avoidance of Psychologism.",
+  "notes": "Local Markdown resolved doctrine and exact PYQ wording. OCR sources corroborated noesis-noema, profiles/horizons, free variation, empty intention and fulfilment."
+}

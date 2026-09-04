@@ -1,0 +1,760 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-07",
+  "subject": "Philosophy",
+  "title": "RELIGION WITHOUT GOD",
+  "short_route": "DEFINITION AND POSSIBILITY TEST → FOUR NEGATIVE POSITIONS → BUDDHISM → JAINISM, MĪMĀṂSĀ AND SĀṂKHYA → CĀRVĀKA AS LIMIT CASE → NIETZSCHE AND POST-THEISM",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g13 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-07\\g13\\topic-07_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy-paper-ii-philosophy-of-religion-07-ascii-g13-2026-09-03.json",
+  "ascii_spec_sha256": "47352089558c83cbd729c8ee4ec72f2e49c36f5efd5b6eb02831a2bbfcf9eba5",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "DEFINITION AND POSSIBILITY TEST",
+      "structural_type": "religion-function map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DEFINITION AND POSSIBILITY TEST",
+          "role": "primary"
+        },
+        {
+          "text": "CAN RELIGION EXIST WITHOUT A CREATOR GOD?",
+          "role": "outcome"
+        },
+        {
+          "text": "RELIGION MAY ORGANISE",
+          "role": "comparison"
+        },
+        {
+          "text": "ULTIMATE CONCERN",
+          "role": "evidence"
+        },
+        {
+          "text": "SACRED VALUE",
+          "role": "primary"
+        },
+        {
+          "text": "MORAL DISCIPLINE WORLDVIEW",
+          "role": "outcome"
+        },
+        {
+          "text": "THEISM IS SUFFICIENT FOR MANY RELIGIONS, NOT CONCEPTUALLY NECESSARY",
+          "role": "caution"
+        },
+        {
+          "text": "ATHEISTIC; SILENCE, IRRELEVANCE AND DENIAL ARE DIFFERENT POSITIONS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CAN RELIGION EXIST WITHOUT A CREATOR GOD?",
+        "religion may organise",
+        "ultimate concern",
+        "sacred value",
+        "moral discipline worldview"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CAN RELIGION EXIST WITHOUT A CREATOR GOD?",
+            "religion may organise",
+            "ultimate concern"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "sacred value",
+            "moral discipline worldview",
+            "THEISM is sufficient for many religions, not conceptually necessary for all test a tradition by doctrine + practice"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "+ soteriology, not by a Western creator template",
+            "TRAP: non-theistic != atheistic; silence, irrelevance and denial are different positions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Creator-belief is sufficient for many religions but not necessary where a sacred order, disciplined practice, community and transformation remain.",
+      "source_references": [
+        "A. Definition control"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "FOUR NEGATIVE POSITIONS",
+      "structural_type": "position taxonomy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FOUR NEGATIVE POSITIONS",
+          "role": "primary"
+        },
+        {
+          "text": "DENIES THAT GOD EXISTS",
+          "role": "outcome"
+        },
+        {
+          "text": "SUSPENDS JUDGEMENT BECAUSE KNOWLEDGE/EVIDENCE IS INSUFFICIENT",
+          "role": "evidence"
+        },
+        {
+          "text": "GOD IS ABSENT OR NON-CENTRAL TO THE PATH",
+          "role": "evidence"
+        },
+        {
+          "text": "HOLDS GOD-BELIEF HARMFUL OR FALSE IN A STRONGER EVALUATIVE",
+          "role": "primary"
+        },
+        {
+          "text": "“GOD” MUST BE MADE MEANINGFUL BEFORE EXISTENCE IS DEBATED",
+          "role": "outcome"
+        },
+        {
+          "text": "LIFE ORGANISED WITHOUT REFERENCE TO GOD KEEP EPISTEMIC SUSPENSION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ATHEISM: denies that God exists",
+        "AGNOSTICISM: suspends judgement because knowledge/evidence is insufficient",
+        "NON-THEISM: God is absent or non-central to the path",
+        "ANTI-THEISM: holds God-belief harmful or false in a stronger evaluative sense",
+        "IGNOSTICISM: “God” must be made meaningful before existence is debated practical atheism: life organised without"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "ATHEISM: denies that God exists",
+            "AGNOSTICISM: suspends judgement because knowledge/evidence is insufficient"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NON-THEISM: God is absent or non-central to the path",
+            "ANTI-THEISM: holds God-belief harmful or false in a stronger evaluative sense"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "IGNOSTICISM: “God” must be made meaningful before existence is debated practical atheism: life organised without reference to God",
+            "keep epistemic suspension separate from metaphysical denial."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Atheism denies, agnosticism suspends, non-theism makes God non-central and anti-theism adds a negative evaluation; these positions must not be merged.",
+      "source_references": [
+        "B. Four negative positions",
+        "G. Agnosticism"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "BUDDHISM",
+      "structural_type": "non-theistic soteriology chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FOUR NOBLE TRUTHS",
+          "role": "primary"
+        },
+        {
+          "text": "DEPENDENT ORIGINATION",
+          "role": "outcome"
+        },
+        {
+          "text": "EIGHTFOLD PATH",
+          "role": "comparison"
+        },
+        {
+          "text": "NIRVĀṆA NO ETERNAL CREATOR IS NEEDED; SUFFERING HAS CONDITIONED",
+          "role": "caution"
+        },
+        {
+          "text": "BUDDHA REJECTS SPECULATIVE QUESTIONS WHEN THEY DO NOT CONDUCE",
+          "role": "caution"
+        },
+        {
+          "text": "KARMA/ORDER FUNCTIONS LIKE HIDDEN PROVIDENCE REPLY",
+          "role": "outcome"
+        },
+        {
+          "text": "CAUSAL-MORAL REGULARITY IS IMPERSONAL; NO OMNIPOTENT ALLOCATOR OR CREATOR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOUR NOBLE TRUTHS → dependent origination → eightfold path → nirvāṇa no eternal creator is",
+        "suffering has conditioned causes, not divine decree devas may occur in cosmology but are impermanent",
+        "Buddha rejects speculative questions when they do not conduce to cessation of duḥkha objection: karma/order",
+        "no omnipotent allocator or creator follows."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "FOUR NOBLE TRUTHS → dependent origination → eightfold path → nirvāṇa no eternal creator is needed",
+            "suffering has conditioned causes, not divine decree devas may occur in cosmology but are impermanent and unsaving"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Buddha rejects speculative questions when they do not conduce to cessation of duḥkha objection: karma/order functions like hidden",
+            "no omnipotent allocator or creator follows."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "FOUR NOBLE TRUTHS → dependent origination → eightfold path → nirvāṇa no eternal creator is needed",
+            "suffering has conditioned causes, not divine decree devas may occur in cosmology but are impermanent and unsaving"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Buddhism is creator-independent rather than devotion-free: dependent origination, path, community and nirvana organise the religious life.",
+      "source_references": [
+        "C. Buddhism"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "JAINISM, MĪMĀṂSĀ AND SĀṂKHYA",
+      "structural_type": "Indian non-theism comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "JAINISM, MĪMĀṂSĀ AND SĀṂKHYA",
+          "role": "primary"
+        },
+        {
+          "text": "ETERNAL JĪVA/AJĪVA; KARMIC MATTER; TĪRTHAṄKARA TEACHES, NOT CREATES",
+          "role": "caution"
+        },
+        {
+          "text": "AUTHORLESS ETERNAL VEDA; RITUAL ACTION GENERATES APŪRVA; NO DIVINE",
+          "role": "caution"
+        },
+        {
+          "text": "PRAKṚTI EVOLVES FOR PLURAL PURUṢAS; UNCONSCIOUS TELEOLOGY WITHOUT CREATOR",
+          "role": "evidence"
+        },
+        {
+          "text": "IF GOD IS PERFECT, WHY CREATE? IF EMBODIED, WHO",
+          "role": "primary"
+        },
+        {
+          "text": "JAINISM RETAINS WORSHIPFUL EXEMPLARS; MĪMĀṂSĀ CENTRES DHARMA/RITUAL",
+          "role": "outcome"
+        },
+        {
+          "text": "SĀṂKHYA CENTRES DISCRIMINATIVE METAPHYSICS AND KAIVALYA.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "JAINISM: eternal jīva/ajīva; karmic matter; tīrthaṅkara teaches, not creates",
+        "MĪMĀṂSĀ: authorless eternal Veda; ritual action generates apūrva; no divine author needed",
+        "SĀṂKHYA: prakṛti evolves for plural puruṣas",
+        "unconscious teleology without creator shared anti-creator pressure: if God is perfect, why create?",
+        "if embodied, who made body?"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "JAINISM: eternal jīva/ajīva; karmic matter; tīrthaṅkara teaches, not creates",
+          "unconscious teleology without creator shared anti-creator pressure: if God is perfect, why create?",
+          "Sāṃkhya centres discriminative metaphysics and kaivalya."
+        ],
+        [
+          "MĪMĀṂSĀ: authorless eternal Veda; ritual action generates apūrva; no divine author needed",
+          "if embodied, who made body?",
+          ""
+        ],
+        [
+          "SĀṂKHYA: prakṛti evolves for plural puruṣas",
+          "distinctions: Jainism retains worshipful exemplars; Mīmāṃsā centres dharma/ritual",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "JAINISM: eternal jīva/ajīva; karmic matter; tīrthaṅkara teaches, not creates",
+            "MĪMĀṂSĀ: authorless eternal Veda; ritual action generates apūrva; no divine author needed",
+            "SĀṂKHYA: prakṛti evolves for plural puruṣas"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "unconscious teleology without creator shared anti-creator pressure: if God is perfect, why create?",
+            "if embodied, who made body?",
+            "distinctions: Jainism retains worshipful exemplars; Mīmāṃsā centres dharma/ritual"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "Sāṃkhya centres discriminative metaphysics and kaivalya."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Jainism, Mimamsa and Samkhya relocate creation, authority, efficacy and liberation differently and are not one Indian atheism.",
+      "source_references": [
+        "D. Jainism",
+        "E. Mīmāṃsā and Sāṃkhya"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CĀRVĀKA AS LIMIT CASE",
+      "structural_type": "religion-boundary test",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "CĀRVĀKA AS LIMIT CASE",
+          "role": "caution"
+        },
+        {
+          "text": "CĀRVĀKA DENIES GOD, AFTERLIFE, KARMA, VEDIC AUTHORITY AND MOKṢA",
+          "role": "outcome"
+        },
+        {
+          "text": "DOES IT COUNT AS RELIGION?",
+          "role": "comparison"
+        },
+        {
+          "text": "DOCTRINAL-HISTORICAL MEMBER OF INDIAN PHILOSOPHICAL DEBATE",
+          "role": "evidence"
+        },
+        {
+          "text": "YES SACRED/TRANSCENDENT/SOTERIOLOGICAL PRACTICE IN ROBUST SENSE",
+          "role": "primary"
+        },
+        {
+          "text": "LARGELY NO LIMIT CASE SHOWS THAT “PHILOSOPHY WITHOUT GOD”",
+          "role": "caution"
+        },
+        {
+          "text": "BUDDHISM/JAINISM BETTER PRESERVE RITUAL, COMMUNITY AND LIBERATION FUNCTIONS.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CĀRVĀKA denies God, afterlife, karma, Vedic authority and mokṣa embodied this-worldly flourishing replaces salvation",
+        "DOES IT COUNT AS RELIGION?",
+        "doctrinal-historical member of Indian philosophical debate: YES sacred/transcendent/soteriological practice in robust sense: largely NO limit",
+        "“philosophy without God” is easier than “religion without God”",
+        "Buddhism/Jainism better preserve ritual, community and liberation functions."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CĀRVĀKA denies God, afterlife, karma, Vedic authority and mokṣa embodied this-worldly flourishing replaces salvation",
+            "DOES IT COUNT AS RELIGION?"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "doctrinal-historical member of Indian philosophical debate: YES sacred/transcendent/soteriological practice in robust sense: largely NO limit case shows that",
+            "“philosophy without God” is easier than “religion without God”"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "Buddhism/Jainism better preserve ritual, community and liberation functions.",
+            "CĀRVĀKA denies God, afterlife, karma, Vedic authority and mokṣa embodied this-worldly flourishing replaces salvation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Carvaka is the limiting case: rejecting God plus sacred order, afterlife and liberation shows why philosophy without God is easier than religion without God.",
+      "source_references": [
+        "F. Cārvāka limit case"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "NIETZSCHE AND POST-THEISM",
+      "structural_type": "death-of-God consequence tree",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "NIETZSCHE AND POST-THEISM",
+          "role": "primary"
+        },
+        {
+          "text": "“GOD IS DEAD”",
+          "role": "outcome"
+        },
+        {
+          "text": "COLLAPSE OF THE CHRISTIAN-METAPHYSICAL VALUE HORIZON DANGER",
+          "role": "comparison"
+        },
+        {
+          "text": "NIHILISM, HERD MORALITY EXPOSED, NO TRANSCENDENT GUARANTOR TASK",
+          "role": "caution"
+        },
+        {
+          "text": "REVALUATION OF VALUES",
+          "role": "primary"
+        },
+        {
+          "text": "LIFE-AFFIRMATION NOT A SIMPLE EMPIRICAL PROOF THAT NO DEITY",
+          "role": "caution"
+        },
+        {
+          "text": "SELF-CREATED VALUES RISK ARBITRARINESS OR DOMINATION REPLY",
+          "role": "caution"
+        },
+        {
+          "text": "GENEALOGY TESTS INHERITED VALUES; AFFIRMATIVE CREATION ACCEPTS RESPONSIBILITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "“GOD IS DEAD” = collapse of the Christian-metaphysical value horizon danger: nihilism, herd morality exposed",
+        "affirmative creation accepts responsibility",
+        "POST-THEISM asks what religious depth survives after classical supernatural belief."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "“GOD IS DEAD” = collapse of the Christian-metaphysical value horizon danger: nihilism, herd morality exposed, no transcendent guarantor",
+            "affirmative creation accepts responsibility"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POST-THEISM asks what religious depth survives after classical supernatural belief.",
+            "“GOD IS DEAD” = collapse of the Christian-metaphysical value horizon danger: nihilism, herd morality exposed, no transcendent guarantor"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "affirmative creation accepts responsibility",
+            "POST-THEISM asks what religious depth survives after classical supernatural belief."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Nietzsche diagnoses a collapsed value horizon; post-theistic value creation does not by itself supply ritual, community or soteriology.",
+      "source_references": [
+        "H. Nietzsche and post-theism"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "NATURALISM AND FICTIONALISM",
+      "structural_type": "functional reconstruction map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "NATURALISM AND FICTIONALISM",
+          "role": "primary"
+        },
+        {
+          "text": "RELIGIOUS NATURALISM",
+          "role": "outcome"
+        },
+        {
+          "text": "NATURE IS ULTIMATE; AWE, GRATITUDE, RITUAL AND ETHICS WITHOUT",
+          "role": "comparison"
+        },
+        {
+          "text": "PARTICIPATE IN GOD-LANGUAGE/PRACTICE WITHOUT LITERAL ONTOLOGICAL ASSENT",
+          "role": "evidence"
+        },
+        {
+          "text": "SEA OF FAITH",
+          "role": "primary"
+        },
+        {
+          "text": "RELIGIOUS SYMBOLS SHAPE LIFE RATHER THAN REPORT A TRANSCENDENT",
+          "role": "outcome"
+        },
+        {
+          "text": "WORSHIP WITHOUT REAL OBJECT IS MAKE-BELIEVE; PRAYER LOSES ADDRESS",
+          "role": "comparison"
+        },
+        {
+          "text": "SYMBOLS AND COMMUNAL NARRATIVES CAN DISCLOSE VALUE AND TRANSFORM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RELIGIOUS NATURALISM: nature is ultimate; awe, gratitude, ritual and ethics without supernaturalism",
+        "FICTIONALISM: participate in God-language/practice without literal ontological assent",
+        "SEA OF FAITH / non-realism: religious symbols shape life rather than report a transcendent entity",
+        "prayer loses address",
+        "truth is sacrificed replies: symbols and communal narratives can disclose value and transform conduct pressure"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "RELIGIOUS NATURALISM: nature is ultimate; awe, gratitude, ritual and ethics without supernaturalism",
+            "FICTIONALISM: participate in God-language/practice without literal ontological assent"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SEA OF FAITH / non-realism: religious symbols shape life rather than report a transcendent entity objections: worship without",
+            "prayer loses address"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "truth is sacrificed replies: symbols and communal narratives can disclose value and transform conduct pressure remains: can function",
+            "RELIGIOUS NATURALISM: nature is ultimate; awe, gratitude, ritual and ethics without supernaturalism"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Naturalism and fictionalism retain some religious functions, but sincerity, truth, transcendence and category over-breadth remain live objections.",
+      "source_references": [
+        "I. Religious naturalism and fictionalism",
+        "J. Main objections and replies"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "synthesis",
+      "title": "PYQ AND QUALIFIED VERDICT",
+      "structural_type": "criterion-based answer rail",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ AND QUALIFIED VERDICT",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE RELIGION BY CLUSTERED FEATURES",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTINGUISH FOUR NEGATIVE POSITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "DEMONSTRATE BUDDHISM/JAINISM/MĪMĀṂSĀ/SĀṂKHYA",
+          "role": "evidence"
+        },
+        {
+          "text": "USE CĀRVĀKA BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "OBJECTION ON TRUTH/OBJECT",
+          "role": "outcome"
+        },
+        {
+          "text": "VERDICT BY CRITERION CREATOR-BELIEF NECESSARY? NO",
+          "role": "caution"
+        },
+        {
+          "text": "ULTIMATE CONCERN/RITUAL/TRANSFORMATION POSSIBLE? YES PERSONAL WORSHIP AND PROVIDENCE PRESERVED?",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINE religion by clustered features → distinguish four negative positions",
+        "demonstrate Buddhism/Jainism/Mīmāṃsā/Sāṃkhya → use Cārvāka boundary",
+        "Nietzsche/post-theism → naturalism/fictionalism → objection on truth/object",
+        "VERDICT BY CRITERION creator-belief necessary? NO",
+        "ultimate concern/ritual/transformation possible? YES personal worship and providence preserved? often NO"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "DEFINE religion by clustered features → distinguish four negative positions",
+            "demonstrate Buddhism/Jainism/Mīmāṃsā/Sāṃkhya → use Cārvāka boundary",
+            "Nietzsche/post-theism → naturalism/fictionalism → objection on truth/object"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VERDICT BY CRITERION creator-belief necessary? NO",
+            "ultimate concern/ritual/transformation possible? YES personal worship and providence preserved? often NO",
+            "CLOSE: religion without God is coherent, but not religion without any ultimate value, disciplined practice, communal form or"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "account of transformation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Religion without God is coherent, but petition, grace and providence remain specifically deity-dependent goods whose loss must be conceded.",
+      "source_references": [
+        "K. Seven PYQ routes",
+        "L. Final answer discipline"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED-DOSSIER RECONCILIATION — [OPTIONAL ADVANCED]",
+          "role": "outcome"
+        },
+        {
+          "text": "DOCTRINE STATEMENT.",
+          "role": "comparison"
+        },
+        {
+          "text": "SUBSTANTIVE DEFINITIONS IDENTIFY RELIGION BY REFERENCE TO GODS OR",
+          "role": "evidence"
+        },
+        {
+          "text": "FUNCTIONAL DEFINITIONS IDENTIFY ORIENTATION, PRACTICE, COMMUNITY, MEANING OR LIBERATION.",
+          "role": "primary"
+        },
+        {
+          "text": "IF CREATOR-BELIEF IS MADE NECESSARY BY DEFINITION, BUDDHISM IS",
+          "role": "outcome"
+        },
+        {
+          "text": "A MULTIDIMENSIONAL ACCOUNT BETTER CAPTURES DOCTRINE, RITUAL, ETHICS, EXPERIENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESUPPOSITION. CAUTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "Advanced-dossier reconciliation — [OPTIONAL ADVANCED]",
+            "Doctrine statement.",
+            "Substantive definitions identify religion by reference to gods or the sacred",
+            "functional definitions identify orientation, practice, community, meaning or liberation."
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "Argument.",
+            "CAUTION: If creator-belief is made necessary by definition, Buddhism is excluded by stipulation",
+            "a multidimensional account better captures doctrine, ritual, ethics, experience, narrative and institution.",
+            "Presupposition. CAUTION: \"Religion\" names a family of historically varied practices rather than one essence."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Distinction. Non-theistic differs from atheistic: absence of a creator doctrine does not require denial of every deity or sacred being.",
+            "Canonical example. Theravāda Buddhism permits cosmological devas yet denies their creatorhood and salvific ultimacy.",
+            "Objection → reply.",
+            "CAUTION: Functional definitions may classify nationalism as religion."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

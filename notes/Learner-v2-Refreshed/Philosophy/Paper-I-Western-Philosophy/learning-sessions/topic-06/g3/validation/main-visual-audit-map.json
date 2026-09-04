@@ -1,0 +1,4257 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g3\\topic-06_Complete-Learning-Session_2026-08-29.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g3\\topic-06_Complete-Learning-Session_2026-08-29.pdf",
+  "mode": "main",
+  "topic_key": "philosophy-paper-i-western-philosophy-06",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5,
+      "markdown_body_line_end": 7,
+      "heading": "Moore, Russell and Early Wittgenstein - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Generation:** g3, 29 August 2026 · **Approval:** false pending explicit topic approval  **Evidence discipline:** Complete legacy teaching and workbook material is preserved, reordered Basic-first/Advanced-last, and checked against the can",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 692.424
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 14,
+      "markdown_body_line_end": 14,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Analytic turn trio overview",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-06\\g3\\assets\\Analytic-Turn-Trio-Overview.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 659.424
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 351.888
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 18,
+      "markdown_body_line_end": 18,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "**Syllabus (verbatim):** Moore, Russell and Early Wittgenstein : Defence of Commonsense; Refutation of Idealism; Logical Atomism; Logical Constructions; Incomplete Symbols; Picture Theory of Meaning; Sying and Showing.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 318.488
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 273.82
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 24,
+      "markdown_body_line_end": 30,
+      "heading": "How to Use This Five-Layer Session",
+      "preview": "Layer | Purpose",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Layer",
+          "Purpose"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 229.62
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 99.019
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 44,
+      "markdown_body_line_end": 55,
+      "heading": "Learning Roadmap",
+      "preview": "Unit | Logical subtopic",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Unit",
+          "Logical subtopic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 413.691
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 177.09
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 69,
+      "markdown_body_line_end": 91,
+      "heading": "VISUAL - Three-stage analytic shift",
+      "preview": "SPECULATIVE IDEALIST SYSTEM",
+      "metadata": {
+        "language": "text",
+        "line_count": 21,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 643.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 442.091
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 97,
+      "markdown_body_line_end": 111,
+      "heading": "VISUAL - Question-method-success matrix",
+      "preview": "MOORE | Question: what is more certain? | Method: common sense + distinctions",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 400.891
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 279.891
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 117,
+      "markdown_body_line_end": 117,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The unity of the analytic revolt lies in its demand for clarity, while its internal diversity lies in Moore's epistemic particularism, Russell's reductive logical analysis and Wittgenstein's transcendental delimitation of representation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 260.691
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 194.024
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 148,
+      "markdown_body_line_end": 163,
+      "heading": "Visual gateway - three thinkers, one method",
+      "preview": "THE ANALYTIC REVOLT AGAINST ABSOLUTE (HEGEL / BRADLEY) IDEALISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 563.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 412.091
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 168,
+      "markdown_body_line_end": 172,
+      "heading": "Visual gateway - three thinkers, one method",
+      "preview": "Thinker | Signature move | One-line slogan",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Thinker",
+          "Signature move",
+          "One-line slogan"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 302.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 203.29
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 174,
+      "markdown_body_line_end": 174,
+      "heading": "Visual gateway - three thinkers, one method",
+      "preview": "🔑 **Mnemonic:** *Moore DEFENDS, Russell DISSECTS, Wittgenstein PICTURES.*",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 203.29
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 172.822
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 180,
+      "markdown_body_line_end": 192,
+      "heading": "0. ONE-SCREEN MAP ANALYSIS:",
+      "preview": "THE ANALYTIC REVOLT AGAINST ABSOLUTE IDEALISM",
+      "metadata": {
+        "language": "plain",
+        "line_count": 11,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 150.822
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 786.291
+        }
+      },
+      "pdf_pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 196,
+      "markdown_body_line_end": 204,
+      "heading": "WHO OWNS WHAT - Attribution Table (Exam-Critical) ANALYSIS:",
+      "preview": "Syllabus Term | Owner | Key Text",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Syllabus Term",
+          "Owner",
+          "Key Text"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 764.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 568.89
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 206,
+      "markdown_body_line_end": 206,
+      "heading": "WHO OWNS WHAT - Attribution Table (Exam-Critical) ANALYSIS:",
+      "preview": "🔑 **Mnemonic — \"Moore DEFENDS, Russell DISSECTS, Wittgenstein PICTURES.\"**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 568.89
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 538.422
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 208,
+      "markdown_body_line_end": 208,
+      "heading": "WHO OWNS WHAT - Attribution Table (Exam-Critical) ANALYSIS:",
+      "preview": "⚠️ **UPSC Trap:** Do NOT blur the three. Moore's commonsense realism is not Russell's logical analysis; Russell's logical atomism (built on the theory of descriptions) is not identical to Wittgenstein's *Tractatus* atomism (built on the pic",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 538.422
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 479.554
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 218,
+      "markdown_body_line_end": 226,
+      "heading": "CLOSING RECALL FLOW - The Analytic Turn: Three Programmes, One Revolt",
+      "preview": "The Analytic Turn: Three Programmes, One Revolt",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 334.654
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 210.786
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 238,
+      "markdown_body_line_end": 258,
+      "heading": "VISUAL - Common-sense knowledge and philosophical analysis",
+      "preview": "LEVEL 1: KNOWING THAT P",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 606.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 264,
+      "markdown_body_line_end": 286,
+      "heading": "VISUAL - Hands proof, objection and reply",
+      "preview": "P1 HERE IS ONE HAND + P2 HERE IS ANOTHER",
+      "metadata": {
+        "language": "text",
+        "line_count": 21,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 565.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 364.091
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 292,
+      "markdown_body_line_end": 292,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Moore's hands prove an external world only if their premises are already known, so the argument forcefully compares certainties without supplying the sceptic an independent criterion of knowledge.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 344.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 278.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 323,
+      "markdown_body_line_end": 344,
+      "heading": "Visual gateway - Moore reverses the burden of proof",
+      "preview": "SCEPTIC'S ARGUMENT                         MOORE'S REPLY",
+      "metadata": {
+        "language": "text",
+        "line_count": 20,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 645.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 434.891
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 349,
+      "markdown_body_line_end": 354,
+      "heading": "Visual gateway - Moore reverses the burden of proof",
+      "preview": "Idea | Plain meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Idea",
+          "Plain meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 325.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 216.09
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 356,
+      "markdown_body_line_end": 356,
+      "heading": "Visual gateway - Moore reverses the burden of proof",
+      "preview": "🔑 **Memory line:** the sceptic's premiss is never more certain than the hand it denies.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 216.09
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 185.622
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 368,
+      "markdown_body_line_end": 371,
+      "heading": "1.1 \"A Defence of Common Sense\" (1925)",
+      "preview": "Knowing that P is true | Knowing the correct *analysis* of P",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Knowing that P is true",
+          "Knowing the correct *analysis* of P"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 725.09
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 377,
+      "markdown_body_line_end": 377,
+      "heading": "1.2 \"Proof of an External World\" (1939) FACT:",
+      "preview": "✅ *\"Here is one hand\"* (as he makes a gesture with the **right** hand), *\"and here is another\"* (as he makes a gesture with the **left**) — therefore at least two external objects exist; therefore an external world exists.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 677.49
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 610.822
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 379,
+      "markdown_body_line_end": 379,
+      "heading": "1.2 \"Proof of an External World\" (1939) FACT:",
+      "preview": "⚠️ **Order matters if you narrate it.** Moore's printed text specifies the **right hand first, then the left**. If you describe the gesture at all, get the order right or drop the detail; an inverted order in a quotation-style sentence is e",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 610.822
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 551.954
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 388,
+      "markdown_body_line_end": 392,
+      "heading": "1.2 \"Proof of an External World\" (1939) FACT:",
+      "preview": "Condition | Moore's claim",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Condition",
+          "Moore's claim"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 444.754
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 322.953
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 412,
+      "markdown_body_line_end": 420,
+      "heading": "CLOSING RECALL FLOW - Moore's Common Sense and the External-World Proof",
+      "preview": "Moore's Common Sense and the External-World Proof",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 733.191
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 627.173
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 432,
+      "markdown_body_line_end": 448,
+      "heading": "VISUAL - Awareness-object distinction",
+      "preview": "SENSATION OF BLUE              SENSATION OF GREEN",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 470.173
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 329.173
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 454,
+      "markdown_body_line_end": 472,
+      "heading": "VISUAL - Transparency and the limited conclusion",
+      "preview": "INTROSPECTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 478,
+      "markdown_body_line_end": 478,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Moore's decisive point is not that every idealism has been disproved, but that the object of awareness cannot simply be identified with awareness merely because consciousness is transparent to introspection.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 607.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 540.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 509,
+      "markdown_body_line_end": 524,
+      "heading": "Visual gateway - one sensation, two elements",
+      "preview": "A SENSATION OF BLUE  =  ACT  +  OBJECT",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 636.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 529,
+      "markdown_body_line_end": 529,
+      "heading": "Visual gateway - one sensation, two elements",
+      "preview": "✅ \"Blue is one object of sensation and green is another, and consciousness, which both sensations have in common, is different from either.\" (quoted in 2025 Q3(c))",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 512.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 468.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 531,
+      "markdown_body_line_end": 531,
+      "heading": "Visual gateway - one sensation, two elements",
+      "preview": "🔑 **Memory line:** the awareness is transparent; that is why idealists forget it and fuse it with its object.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 468.024
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 437.556
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 552,
+      "markdown_body_line_end": 552,
+      "heading": "2.2 The Argument - Act/Object Distinction & the Transparency (Diaphanous) Thesis",
+      "preview": "✅ **\"Blue is one object of sensation and green is another, and consciousness, which both sensations have in common, is different from either.\"** (This is the passage quoted in the 2025 paper Q3(c).)",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 225.756
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 181.088
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 562,
+      "markdown_body_line_end": 566,
+      "heading": "2.4 Significance for UPSC",
+      "preview": "What Moore does | What Moore does NOT do",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "What Moore does",
+          "What Moore does NOT do"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 692.69
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 568,
+      "markdown_body_line_end": 568,
+      "heading": "2.4 Significance for UPSC",
+      "preview": "⚠️ **2025 Q3(c) strategy:** Quote the blue-green-consciousness passage verbatim, explain the act-object distinction, show how collapsing them generates idealism, and conclude that Moore shows *esse est percipi* is unproven.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 692.69
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 633.822
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 574,
+      "markdown_body_line_end": 582,
+      "heading": "CLOSING RECALL FLOW - Moore's Refutation of Idealism: Awareness and Object",
+      "preview": "Moore's Refutation of Idealism: Awareness and Object",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 610.322
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 495.954
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 594,
+      "markdown_body_line_end": 610,
+      "heading": "VISUAL - Grammatical form versus logical form",
+      "preview": "GRAMMAR: 'The F is G' looks like SUBJECT + PREDICATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 324.754
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 183.754
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 616,
+      "markdown_body_line_end": 632,
+      "heading": "VISUAL - Fact and atomic proposition",
+      "preview": "WORLD SIDE                       LANGUAGE SIDE",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 638,
+      "markdown_body_line_end": 638,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Russell's atomism is a conditional metaphysics of analysis: if a logically perfect language reaches independent atomic propositions, reality must contain corresponding atomic facts rather than microscopic physical particles.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 627.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 560.424
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 669,
+      "markdown_body_line_end": 686,
+      "heading": "Visual gateway - the world and language share one skeleton",
+      "preview": "WORLD                         LANGUAGE (ideal)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 691,
+      "markdown_body_line_end": 695,
+      "heading": "Visual gateway - the world and language share one skeleton",
+      "preview": "Type | Character | Example",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Type",
+          "Character",
+          "Example"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 506.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 418.69
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 697,
+      "markdown_body_line_end": 697,
+      "heading": "Visual gateway - the world and language share one skeleton",
+      "preview": "🔑 **Memory line:** the atoms are found at the *end of analysis*, not under a microscope.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 418.69
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 388.222
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 714,
+      "markdown_body_line_end": 717,
+      "heading": "3.2 Atomic vs Molecular Propositions",
+      "preview": "Type | Character | Example",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Type",
+          "Character",
+          "Example"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 181.422
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 103.22
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 725,
+      "markdown_body_line_end": 725,
+      "heading": "3.3 The Isomorphism Thesis FACT:",
+      "preview": "⚠️ **Distinction from Wittgenstein's atomism:** Russell's logical atoms include sense-data and universals as simples; Wittgenstein's *Tractatus* atoms (\"objects\") are unspecified as to their nature and are known only by their logical role. ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 739.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 666.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 731,
+      "markdown_body_line_end": 739,
+      "heading": "CLOSING RECALL FLOW - Russell's Analytic Programme and Logical Atomism",
+      "preview": "Russell's Analytic Programme and Logical Atomism",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 643.124
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 519.255
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 751,
+      "markdown_body_line_end": 765,
+      "heading": "VISUAL - Two epistemic routes",
+      "preview": "ACQUAINTANCE                       DESCRIPTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 329.055
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 208.055
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 771,
+      "markdown_body_line_end": 789,
+      "heading": "VISUAL - Why descriptions protect acquaintance",
+      "preview": "I UNDERSTAND: 'The first Chancellor of the German Empire was diplomatic'",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 795,
+      "markdown_body_line_end": 795,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The acquaintance-description distinction explains why Russell analyses ordinary names and descriptions: logical form must let us speak of Bismarck or an electron without making an unacquainted object a constituent of our thought.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 607.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 526.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 826,
+      "markdown_body_line_end": 844,
+      "heading": "Visual gateway - how \"the F\" disappears on analysis",
+      "preview": "SURFACE (grammatical) : \"The present King of France is bald\"",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 606.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 849,
+      "markdown_body_line_end": 849,
+      "heading": "Visual gateway - how \"the F\" disappears on analysis",
+      "preview": "🔑 **Memory line:** a definite description is not a name; it is a disguised existence-and-uniqueness claim.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 482.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 452.224
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 888,
+      "markdown_body_line_end": 892,
+      "heading": "4.4 The Three Puzzles Solved",
+      "preview": "Puzzle | Problem | Solution via Theory of Descriptions",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Puzzle",
+          "Problem",
+          "Solution via Theory of Descriptions"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 708.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 541.89
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 898,
+      "markdown_body_line_end": 901,
+      "heading": "4.5 Primary vs Secondary Occurrence FACT:",
+      "preview": " | Primary occurrence (wide scope) | Secondary occurrence (narrow scope)",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "",
+          "Primary occurrence (wide scope)",
+          "Secondary occurrence (narrow scope)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 500.69
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 422.488
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 903,
+      "markdown_body_line_end": 903,
+      "heading": "4.5 Primary vs Secondary Occurrence FACT:",
+      "preview": "⚠️ UPSC may not ask for the formal notation, but understanding scope resolves the excluded-middle puzzle.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 422.488
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 377.82
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 911,
+      "markdown_body_line_end": 919,
+      "heading": "CLOSING RECALL FLOW - Acquaintance and Description: Russell's Epistemic Constraint",
+      "preview": "Acquaintance and Description: Russell's Epistemic Constraint",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 291.22
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 159.002
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 931,
+      "markdown_body_line_end": 947,
+      "heading": "VISUAL - Construction versus inferred entity",
+      "preview": "OLD ROUTE: appearances/data ---- inference ----> UNKNOWN ENTITY X",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 643.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 502.091
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 953,
+      "markdown_body_line_end": 965,
+      "heading": "VISUAL - Four notions kept distinct",
+      "preview": "LOGICAL ATOM       = basic residue of analysis",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 460.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 359.891
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 971,
+      "markdown_body_line_end": 971,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Russell's maxim is best read as disciplined ontological economy: construction replaces commitment to an inferred entity without making ordinary object-talk simply false or imaginary.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 340.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 274.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1002,
+      "markdown_body_line_end": 1021,
+      "heading": "Visual gateway - two roads to a single object",
+      "preview": "HOW WE KNOW A THING",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 612.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 421.491
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1026,
+      "markdown_body_line_end": 1026,
+      "heading": "Visual gateway - two roads to a single object",
+      "preview": "🔑 **Memory line:** acquaintance is the anchor; description is the rope that reaches far-off objects.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 297.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 267.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1036,
+      "markdown_body_line_end": 1041,
+      "heading": "4.7 KNOWLEDGE BY ACQUAINTANCE vs KNOWLEDGE BY DESCRIPTION FACT: - the epistemology that makes the Theory of Descriptions work",
+      "preview": "Knowledge by **ACQUAINTANCE** | Knowledge by **DESCRIPTION**",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Knowledge by **ACQUAINTANCE**",
+          "Knowledge by **DESCRIPTION**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 637.89
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1044,
+      "markdown_body_line_end": 1044,
+      "heading": "4.7 KNOWLEDGE BY ACQUAINTANCE vs KNOWLEDGE BY DESCRIPTION FACT: - the epistemology that makes the Theory of Descriptions work",
+      "preview": "\"**Every proposition which we can understand must be composed wholly of constituents with which we are acquainted.**\" (*Problems*, Ch. 5)",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 618.69
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 574.022
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1055,
+      "markdown_body_line_end": 1060,
+      "heading": "4.7 KNOWLEDGE BY ACQUAINTANCE vs KNOWLEDGE BY DESCRIPTION FACT: - the epistemology that makes the Theory of Descriptions work",
+      "preview": "Knower | Route",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Knower",
+          "Route"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 361.422
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 207.22
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1070,
+      "markdown_body_line_end": 1074,
+      "heading": "4.7 KNOWLEDGE BY ACQUAINTANCE vs KNOWLEDGE BY DESCRIPTION FACT: - the epistemology that makes the Theory of Descriptions work",
+      "preview": "Objection | Source | Reply | Residual",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Objection",
+          "Source",
+          "Reply",
+          "Residual"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 570.89
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1082,
+      "markdown_body_line_end": 1090,
+      "heading": "CLOSING RECALL FLOW - Logical Constructions and Inferred Entities",
+      "preview": "Logical Constructions and Inferred Entities",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 472.39
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 358.021
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1102,
+      "markdown_body_line_end": 1120,
+      "heading": "VISUAL - Contextual-definition mechanism",
+      "preview": "ISOLATED PHRASE: 'the present King of France' -> no standalone denotation",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1126,
+      "markdown_body_line_end": 1140,
+      "heading": "VISUAL - Definite description in three readable stages",
+      "preview": "STAGE 1 EXISTENCE: at least one x is presently King of France",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 585.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 464.091
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1146,
+      "markdown_body_line_end": 1146,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The theory of descriptions shows that a grammatically complete subject can be logically incomplete, because its contribution is exhausted by a contextual definition of the proposition in which it occurs.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 444.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 378.224
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1177,
+      "markdown_body_line_end": 1194,
+      "heading": "Visual gateway - build it, don't bet on it",
+      "preview": "THE SUPREME MAXIM OF SCIENTIFIC PHILOSOPHISING",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 746.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 575.891
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1199,
+      "markdown_body_line_end": 1199,
+      "heading": "Visual gateway - build it, don't bet on it",
+      "preview": "🔑 **Memory line:** don't infer a hidden thing you might be wrong about - build it from what you already have.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 452.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 421.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1207,
+      "markdown_body_line_end": 1207,
+      "heading": "5.1 Statement FACT:",
+      "preview": "✅ *\"Wherever possible, substitute constructions out of known entities for inferences to unknown entities.\"*",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 399.824
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 347.356
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1212,
+      "markdown_body_line_end": 1217,
+      "heading": "5.1 Statement FACT:",
+      "preview": "Apparent entity | Constructed out of…",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Apparent entity",
+          "Constructed out of…"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 280.556
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 171.154
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1221,
+      "markdown_body_line_end": 1225,
+      "heading": "5.2 Logical Constructions vs Logical Atoms",
+      "preview": "Logical Atoms (basic) | Logical Constructions (derived)",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Logical Atoms (basic)",
+          "Logical Constructions (derived)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 149.154
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 49.753
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1235,
+      "markdown_body_line_end": 1243,
+      "heading": "CLOSING RECALL FLOW - Incomplete Symbols and the Theory of Descriptions",
+      "preview": "Incomplete Symbols and the Theory of Descriptions",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 702.991
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 588.623
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1255,
+      "markdown_body_line_end": 1273,
+      "heading": "VISUAL - World and language architecture",
+      "preview": "WORLD SIDE                         LANGUAGE SIDE",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 412.623
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 251.623
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1279,
+      "markdown_body_line_end": 1295,
+      "heading": "VISUAL - Picture Theory mapping",
+      "preview": "PROPOSITION: name-a ---- relation-R ---- name-b",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1301,
+      "markdown_body_line_end": 1301,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A Tractarian proposition pictures reality not by looking like it, but because names and objects possess a common possibility of arrangement that permits the proposition to be compared with how things stand.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 627.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 560.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1332,
+      "markdown_body_line_end": 1348,
+      "heading": "Visual gateway - the world is facts, and a sentence is a picture",
+      "preview": "ONTOLOGY (what there is)              PICTURE THEORY (how sense works)",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1353,
+      "markdown_body_line_end": 1353,
+      "heading": "Visual gateway - the world is facts, and a sentence is a picture",
+      "preview": "🔑 **Memory line:** the world is objects-in-arrangement (facts); a sentence pictures that arrangement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 502.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 472.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1361,
+      "markdown_body_line_end": 1361,
+      "heading": "6.1 The World of Facts, Not Things FACT:",
+      "preview": "✅ *\"The world is the totality of facts, not of things.\"* (*Tractatus* 1.1)",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 450.224
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 397.756
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1379,
+      "markdown_body_line_end": 1383,
+      "heading": "6.2 The Picture Theory of Meaning FACT: (PYQ 2022 Q3(c))",
+      "preview": "Pictorial form (*Form der Abbildung*) | Logical form (*logische Form*)",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Pictorial form (*Form der Abbildung*)",
+          "Logical form (*logische Form*)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 670.29
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1385,
+      "markdown_body_line_end": 1385,
+      "heading": "6.2 The Picture Theory of Meaning FACT: (PYQ 2022 Q3(c))",
+      "preview": "✅ Logical form is not itself a *fact* that can be depicted — it is presupposed by all depiction. It **shows** itself in every meaningful proposition but cannot be *said*. (See §6.5.)",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 670.29
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 625.622
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1389,
+      "markdown_body_line_end": 1397,
+      "heading": "CLOSING RECALL FLOW - Early Wittgenstein: Facts, States of Affairs and Picture Theory",
+      "preview": "Early Wittgenstein: Facts, States of Affairs and Picture Theory",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 603.622
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 489.254
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1409,
+      "markdown_body_line_end": 1425,
+      "heading": "VISUAL - Truth-functional construction",
+      "preview": "ELEMENTARY p: a is red       ELEMENTARY q: b is round",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 299.054
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 158.054
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1431,
+      "markdown_body_line_end": 1443,
+      "heading": "VISUAL - Sense and limiting cases",
+      "preview": "CONTINGENT PROPOSITION -> can be true or false -> HAS SENSE",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1449,
+      "markdown_body_line_end": 1449,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Tractarian economy makes logical form the scaffolding of representation: truth-functions combine possible pictures without adding logical objects to the world.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 667.091
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 600.424
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1480,
+      "markdown_body_line_end": 1500,
+      "heading": "Visual gateway - sense, and the two limiting cases that carry none",
+      "preview": "BIPOLARITY (the condition of sense)",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1505,
+      "markdown_body_line_end": 1505,
+      "heading": "Visual gateway - sense, and the two limiting cases that carry none",
+      "preview": "🔑 **Memory line:** to mean something is to divide logical space; tautology and contradiction divide nothing.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 462.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 432.224
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1538,
+      "markdown_body_line_end": 1543,
+      "heading": "6.3.2 LOGICAL SPACE (logischer Raum) - where possibilities live",
+      "preview": "Consequence | Statement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Consequence",
+          "Statement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 539.091
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 362.49
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1552,
+      "markdown_body_line_end": 1552,
+      "heading": "6.3.3 THE GENERAL FORM OF THE PROPOSITION FACT: - the Tractatus's single most quotable technical result",
+      "preview": "**[ p̄ , ξ̄ , N(ξ̄) ]**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 255.69
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 225.222
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1555,
+      "markdown_body_line_end": 1559,
+      "heading": "6.3.3 THE GENERAL FORM OF THE PROPOSITION FACT: - the Tractatus's single most quotable technical result",
+      "preview": "Slot | Meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Slot",
+          "Meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 206.022
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 117.82
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1581,
+      "markdown_body_line_end": 1585,
+      "heading": "6.4 Tautology, Contradiction and the Limits of Sense FACT:",
+      "preview": "Term | Status | Example | Cognitive value",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Term",
+          "Status",
+          "Example",
+          "Cognitive value"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 350.691
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 212.79
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1587,
+      "markdown_body_line_end": 1587,
+      "heading": "6.4 Tautology, Contradiction and the Limits of Sense FACT:",
+      "preview": "⚠️ **UPSC Trap:** *Sinnlos* ≠ *unsinnig*. Tautologies of logic are *senseless* (empty of factual content but perfectly well-formed); metaphysical sentences are *nonsensical* (they fail to picture any possible fact). The Logical Positivists ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 212.79
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 153.922
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1591,
+      "markdown_body_line_end": 1599,
+      "heading": "CLOSING RECALL FLOW - Sense, Truth-Functions and the Limits of Elementary Propositions",
+      "preview": "Sense, Truth-Functions and the Limits of Elementary Propositions",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 131.922
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 770.323
+        }
+      },
+      "pdf_pages": [
+        36,
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1611,
+      "markdown_body_line_end": 1627,
+      "heading": "VISUAL - Saying-showing boundary",
+      "preview": "CAN BE SAID: contingent facts -> propositions of natural science",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 580.123
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 439.123
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1633,
+      "markdown_body_line_end": 1647,
+      "heading": "VISUAL - Criticism-reply map and answer spine",
+      "preview": "MOORE: begs question -> reply: compares certainties -> limit: neutral criterion",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 397.923
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 276.923
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1653,
+      "markdown_body_line_end": 1653,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Saying and showing is the culmination and tension of the Tractatus: logical form cannot be represented without presupposing itself, yet the book must use elucidatory nonsense to lead the reader to that boundary.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 257.723
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 191.055
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1684,
+      "markdown_body_line_end": 1700,
+      "heading": "Visual gateway - the boundary of language, drawn from inside",
+      "preview": "WHAT CAN BE SAID            |         WHAT CAN ONLY BE SHOWN",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 563.091
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 402.091
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1705,
+      "markdown_body_line_end": 1705,
+      "heading": "Visual gateway - the boundary of language, drawn from inside",
+      "preview": "🔑 **Memory line:** logic, ethics and the mystical are **shown, not said**; the *Tractatus* is a ladder you kick away.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 278.491
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 233.824
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1713,
+      "markdown_body_line_end": 1719,
+      "heading": "6.5 Saying vs Showing FACT: (PYQ 2021 Q4(c))",
+      "preview": "What can be SAID (*gesagt*) | What can only be SHOWN (*gezeigt*)",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "What can be SAID (*gesagt*)",
+          "What can only be SHOWN (*gezeigt*)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 616.69
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1721,
+      "markdown_body_line_end": 1721,
+      "heading": "6.5 Saying vs Showing FACT: (PYQ 2021 Q4(c))",
+      "preview": "✅ *\"What can be shown, cannot be said.\"* (*Tractatus* 4.1212)",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 616.69
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 586.222
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1727,
+      "markdown_body_line_end": 1727,
+      "heading": "6.6 The Ladder Metaphor and Proposition 7 FACT: (PYQ 2021 Q4(c))",
+      "preview": "✅ *\"My propositions serve as elucidations in the following way: anyone who understands me eventually recognises them as nonsensical, when he has used them — as steps — to climb beyond them. (He must, so to speak, throw away the ladder after",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 538.622
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 457.754
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1733,
+      "markdown_body_line_end": 1733,
+      "heading": "6.6 The Ladder Metaphor and Proposition 7 FACT: (PYQ 2021 Q4(c))",
+      "preview": "✅ *\"Whereof one cannot speak, thereof one must be silent.\"* (*Tractatus* 7)",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 390.954
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 360.487
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1737,
+      "markdown_body_line_end": 1737,
+      "heading": "6.6 The Ladder Metaphor and Proposition 7 FACT: (PYQ 2021 Q4(c))",
+      "preview": "⚠️ **2021 Q4(c) strategy:** Explain the say/show distinction, then show that the *Tractatus* itself falls on the \"showing\" side — hence the ladder metaphor; silence is the *logical* consequence, not a personal preference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 312.887
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 268.219
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1743,
+      "markdown_body_line_end": 1751,
+      "heading": "CLOSING RECALL FLOW - Saying and Showing, Criticism and the Comparative Answer Spine",
+      "preview": "Saying and Showing, Criticism and the Comparative Answer Spine",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 244.719
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 122.0
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1941,
+      "markdown_body_line_end": 1941,
+      "heading": "CANONICAL EXAM APPARATUS (PRESERVED VERBATIM)",
+      "preview": "The examiner apparatus below is reproduced verbatim from the canonical Moore-Russell-EarlyWittgenstein.md (headings demoted, navigation links stripped). It is preserved intact so that no canonical depth - inter-thinker debates, criticisms a",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 700.024
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1945,
+      "markdown_body_line_end": 1952,
+      "heading": "Inter-Thinker and Inter-School Debates",
+      "preview": "Axis | Moore | Russell | Early Wittgenstein",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Axis",
+          "Moore",
+          "Russell",
+          "Early Wittgenstein"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 678.024
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 457.622
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1956,
+      "markdown_body_line_end": 1961,
+      "heading": "Russell's Logical Atomism vs Wittgenstein's Tractatus Atomism",
+      "preview": " | Russell | Wittgenstein",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "",
+          "Russell",
+          "Wittgenstein"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 435.622
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 247.82
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1969,
+      "markdown_body_line_end": 1973,
+      "heading": "8.1 Criticisms of Moore",
+      "preview": "Objection | Assessment",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Objection",
+          "Assessment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 205.32
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 61.119
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1977,
+      "markdown_body_line_end": 1981,
+      "heading": "8.2 Criticisms of Russell",
+      "preview": "Objection | Assessment",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Objection",
+          "Assessment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 647.89
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1985,
+      "markdown_body_line_end": 1990,
+      "heading": "8.3 Criticisms of the Tractatus",
+      "preview": "Objection | Assessment",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Objection",
+          "Assessment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 625.89
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 449.288
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1996,
+      "markdown_body_line_end": 2005,
+      "heading": "Common UPSC Traps",
+      "preview": "Trap | Discrimination",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Trap",
+          "Discrimination"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 425.788
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 85.987
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2011,
+      "markdown_body_line_end": 2022,
+      "heading": "Keyword and Statement Bank",
+      "preview": "# | Item | Use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "#",
+          "Item",
+          "Use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 488.29
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2049,
+      "markdown_body_line_end": 2049,
+      "heading": "PYQ Routing (2018-2025)",
+      "preview": "⚠️ **Corpus signal:** 14 primary-owned question-parts out of 112. The local Paper I corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2051,
+      "markdown_body_line_end": 2066,
+      "heading": "PYQ Routing (2018-2025)",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 14,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 742.624
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 221.722
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2073,
+      "markdown_body_line_end": 2082,
+      "heading": "10-mark: \"The golden mountain is very high - discuss via Russell's theory of descriptions.\" (2025)",
+      "preview": "Problem : The sentence seems to be ABOUT a non-existent entity. Does it commit us to",
+      "metadata": {
+        "language": "plain",
+        "line_count": 8,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 166.522
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 75.522
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2085,
+      "markdown_body_line_end": 2097,
+      "heading": "15-mark: Moore's refutation of idealism with reference to blue/green/consciousness. (2025)",
+      "preview": "Frame   : Idealist claim — esse est percipi. To be = to be perceived.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 11,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2100,
+      "markdown_body_line_end": 2120,
+      "heading": "20-mark: Russell's incomplete symbols -> logical atomism. (2024)",
+      "preview": "Frame   : Russell's analytic method — reveal logical form behind grammatical form.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 19,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 664.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 463.291
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2126,
+      "markdown_body_line_end": 2135,
+      "heading": "Directive Decoder",
+      "preview": "Directive | What it demands | Structural obligation for **this** file | Fatal error",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Directive",
+          "What it demands",
+          "Structural obligation for **this** file",
+          "Fatal error"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 331.89
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2141,
+      "markdown_body_line_end": 2150,
+      "heading": "Graded Verdict Bank",
+      "preview": "Sub-topic | **10-mark verdict** | **15-mark verdict** | **20-mark verdict**",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Sub-topic",
+          "**10-mark verdict**",
+          "**15-mark verdict**",
+          "**20-mark verdict**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 308.39
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 643.39
+        }
+      },
+      "pdf_pages": [
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2159,
+      "markdown_body_line_end": 2170,
+      "heading": "Moore and Russell - attribution and dating",
+      "preview": "Item | Correct provenance | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Item",
+          "Correct provenance",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 583.69
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 179.088
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2173,
+      "markdown_body_line_end": 2186,
+      "heading": "Wittgenstein - the Tractatus: numbering and translation",
+      "preview": "Item | Discipline",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Item",
+          "Discipline"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 132.29
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2188,
+      "markdown_body_line_end": 2188,
+      "heading": "Wittgenstein - the Tractatus: numbering and translation",
+      "preview": "❌ **Never write:** that the *Tractatus* was \"published in English in 1921\"; that Wittgenstein \"said language is a picture of the world\" without the *logical form* qualification; or that Russell invented logical atomism unaided — his own 191",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 132.29
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 73.422
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2209,
+      "markdown_body_line_end": 2209,
+      "heading": "ORIGINAL MCQ MASTERY SET - EXACTLY 40 QUESTIONS",
+      "preview": "Questions 1-32 are core coverage across all ten subtopics; Questions 33-40 are remedial items targeting the most common misreadings. Correct answers rotate strictly A -> B -> C -> D ten times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 594.791
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 550.124
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3000,
+      "markdown_body_line_end": 3002,
+      "heading": "Practice Design",
+      "preview": "DIRECTIVE -> THESIS -> DOCTRINE -> NAMED TEXT/EXAMPLE -> OBJECTION/REPLY -> VERDICT",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 532.491
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 511.491
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3006,
+      "markdown_body_line_end": 3006,
+      "heading": "SOLVED PYQ BANK - EXACTLY 14 VERIFIED CLAUSE-OWNED QUESTIONS",
+      "preview": "Exact wording, year and marks are parsed from the continuous local Western Philosophy Paper I bank for 2018-2025. Moore-Russell-Early Wittgenstein owns exactly 14 primary parts (joint-highest), at least one in every year. The 2018 Q3(a) Ber",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 486.491
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 399.224
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3339,
+      "markdown_body_line_end": 3339,
+      "heading": "ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS",
+      "preview": "Three original questions authored for this package (not PYQs), one each at 10, 15 and 20 marks, with full model solutions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 717.291
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 672.624
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3507,
+      "markdown_body_line_end": 3507,
+      "heading": "The one distinction the examiner is testing: precise attribution",
+      "preview": "ANALYSIS: the \"revolt\" is best read not as anti-metaphysics wholesale but as a change of *method* - from system-building to piecemeal analysis. Moore analyses metaphysics without abolishing it; Russell trims it by construction; only the *Tr",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 216.491
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 143.424
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3535,
+      "markdown_body_line_end": 3535,
+      "heading": "The diaphanous thesis is both the engine and the weak point",
+      "preview": "ANALYSIS: if awareness really is *that* elusive - so transparent that we never catch it directly - then the alleged act/object distinction is **asserted rather than exhibited**. The very transparency that explains the idealist's error also ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 401.491
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 342.624
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3559,
+      "markdown_body_line_end": 3563,
+      "heading": "Logical vs physical atoms, and how Russell's atomism differs from the Tractatus",
+      "preview": " | Russell | Wittgenstein (*Tractatus*)",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "",
+          "Russell",
+          "Wittgenstein (*Tractatus*)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 764.891
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 654.29
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3565,
+      "markdown_body_line_end": 3565,
+      "heading": "Logical vs physical atoms, and how Russell's atomism differs from the Tractatus",
+      "preview": "ANALYSIS: because Russell's atoms are *sense-data*, his atomism is **empirically vulnerable** (if sense-data are a myth, the base fails - Sellars); because Wittgenstein's atoms are *never exemplified*, his is **unfalsifiable**. That asymmet",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 654.29
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 595.422
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3577,
+      "markdown_body_line_end": 3581,
+      "heading": "The three puzzles, scope, and the rival analysis",
+      "preview": "Puzzle | The threat | Russell's dissolution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Puzzle",
+          "The threat",
+          "Russell's dissolution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 533.222
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 389.02
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3587,
+      "markdown_body_line_end": 3587,
+      "heading": "The three puzzles, scope, and the rival analysis",
+      "preview": "CAUTION - the rival analysis (Strawson, \"On Referring,\" 1950): the sentence is **neither true nor false**; using \"the present King of France\" carries a **presupposition** of existence that here fails, so the question of truth-value does not",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 308.02
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 234.953
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3599,
+      "markdown_body_line_end": 3603,
+      "heading": "The Bismarck series and logically proper names",
+      "preview": "Knower | Relation to Bismarck | Kind of knowledge",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Knower",
+          "Relation to Bismarck",
+          "Kind of knowledge"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 144.553
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 45.151
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3609,
+      "markdown_body_line_end": 3609,
+      "heading": "The Bismarck series and logically proper names",
+      "preview": "ANALYSIS - the built-in tension: if the only secure logically proper names are \"this/that\" for fleeting present sense-data, then the theory buys certainty at the price of a **shrinking, solipsistic base** - almost nothing survives as a genu",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 693.891
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 620.824
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3621,
+      "markdown_body_line_end": 3625,
+      "heading": "Constructions ARE incomplete symbols - the unifying thread",
+      "preview": "descriptions  --->  incomplete symbols  --->  logical constructions  --->  atoms",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 516.224
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 475.224
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3631,
+      "markdown_body_line_end": 3631,
+      "heading": "Constructions ARE incomplete symbols - the unifying thread",
+      "preview": "ANALYSIS - the price of economy: constructing the world from **private sense-data** invites the **solipsism/other-minds** problem (how are *your* data built into *my* world-system?) and leans on the very sense-datum given that **Sellars** l",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 381.024
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 293.756
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3643,
+      "markdown_body_line_end": 3647,
+      "heading": "Pictorial form, logical form, and why a proposition is not a mental image",
+      "preview": "Term | What it is | Role",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Term",
+          "What it is",
+          "Role"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 217.556
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 95.754
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3653,
+      "markdown_body_line_end": 3653,
+      "heading": "Pictorial form, logical form, and why a proposition is not a mental image",
+      "preview": "ANALYSIS - the self-undermining edge (set up for unit 10): the theory says a proposition can depict a fact only by *sharing* logical form with it, but it **cannot itself depict that shared form** - form can only be **shown**, not **said** (",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 741.491
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 668.424
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3670,
+      "markdown_body_line_end": 3673,
+      "heading": "The general form of the proposition, and sinnlos vs unsinnig",
+      "preview": "Term | Meaning | Well-formed? | Examples",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 2,
+        "headers": [
+          "Term",
+          "Meaning",
+          "Well-formed?",
+          "Examples"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 467.624
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 392.222
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3675,
+      "markdown_body_line_end": 3675,
+      "heading": "The general form of the proposition, and sinnlos vs unsinnig",
+      "preview": "ANALYSIS: this pair does the *Tractatus*'s destructive work. Logic is preserved but demoted to *sinnlos* scaffolding (it shows the form of the world, says nothing in it); traditional metaphysics is dismissed as *unsinnig* - attempts to *say",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 392.222
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 319.154
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3687,
+      "markdown_body_line_end": 3691,
+      "heading": "The distinction, its reach, and the self-referential paradox",
+      "preview": " | SAYING | SHOWING",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "",
+          "SAYING",
+          "SHOWING"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 242.954
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 154.753
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3701,
+      "markdown_body_line_end": 3701,
+      "heading": "The distinction, its reach, and the self-referential paradox",
+      "preview": "OBJECTION (Russell's introduction; later the Vienna Circle; and the \"resolute\"/standard-reading debate): if the propositions are *literally nonsense*, how can they *communicate* the insight that lets us \"see the world aright\"? Either (a) th",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 724.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 608.624
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3707,
+      "markdown_body_line_end": 3707,
+      "heading": "ADVANCED DOSSIER REFINEMENTS - USE SELECTIVELY",
+      "preview": "**Classification: OPTIONAL ADVANCED.** These interpretation debates are unnecessary for a competent Core answer and may be used only after the complete syllabus spine is secure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 583.624
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 538.956
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3744,
+      "markdown_body_line_end": 3744,
+      "heading": "CONSOLIDATED REGISTER NOTES",
+      "preview": "Placed last, after all teaching and practice. These notes consolidate every subtopic into fast-revision form - attribution, dating, definitions, quotations, comparisons, traps, and PYQ routes. They are a compression for recall, not a re-tea",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 486.191
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 427.324
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3748,
+      "markdown_body_line_end": 3752,
+      "heading": "A. ATTRIBUTION MAP - WHO OWNS WHAT (never blur the three)",
+      "preview": "Thinker | Owns (doctrines) | Does NOT own",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Thinker",
+          "Owns (doctrines)",
+          "Does NOT own"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 402.324
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 213.322
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3759,
+      "markdown_body_line_end": 3769,
+      "heading": "B. CHRONOLOGY & PROVENANCE (dates are examiner-checked)",
+      "preview": "Year | Work / event | Thinker",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Year",
+          "Work / event",
+          "Thinker"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 558.69
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3771,
+      "markdown_body_line_end": 3771,
+      "heading": "B. CHRONOLOGY & PROVENANCE (dates are examiner-checked)",
+      "preview": "**Translation/numbering discipline:** cite the *Tractatus* by its **decimal numbering** (1, 1.1, 2.1...); when quoting prop 7 **name the translation** (Ogden vs Pears-McGuinness). Both are correct.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 558.69
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 514.022
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3809,
+      "markdown_body_line_end": 3814,
+      "heading": "E. COMPARISON MATRICES",
+      "preview": " | Russell (1918) | Wittgenstein (*Tractatus*)",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "",
+          "Russell (1918)",
+          "Wittgenstein (*Tractatus*)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 495.091
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 385.69
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3818,
+      "markdown_body_line_end": 3822,
+      "heading": "E. COMPARISON MATRICES",
+      "preview": "Moore | Russell",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Moore",
+          "Russell"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 366.49
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 278.288
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3826,
+      "markdown_body_line_end": 3829,
+      "heading": "E. COMPARISON MATRICES",
+      "preview": "Saying | Showing",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Saying",
+          "Showing"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 259.088
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 192.087
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3844,
+      "markdown_body_line_end": 3859,
+      "heading": "G. PYQ ROUTING (exactly 14 owned parts, 2018-2025)",
+      "preview": "# | Year | Q | Marks | Home subtopic",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 14,
+        "headers": [
+          "#",
+          "Year",
+          "Q",
+          "Marks",
+          "Home subtopic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 743.891
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 432.99
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3878,
+      "markdown_body_line_end": 3889,
+      "heading": "ASCII MASTER FLOW - PANEL 1/10: Analytic revolt and the distinct programmes of the trio",
+      "preview": "START -> revolt against British idealist systems through disciplined analysis.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 650.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3893,
+      "markdown_body_line_end": 3904,
+      "heading": "ASCII MASTER FLOW - PANEL 2/10: Moore's common-sense propositions and external-world proof",
+      "preview": "1925 DEFENCE -> qualified truisms about body, earth, other persons and temporal life.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 628.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 515.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3908,
+      "markdown_body_line_end": 3919,
+      "heading": "ASCII MASTER FLOW - PANEL 3/10: Moore's awareness-object distinction and transparency",
+      "preview": "TARGET -> esse est percipi: the object's being is identified with being perceived.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 493.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 380.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0156",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3923,
+      "markdown_body_line_end": 3934,
+      "heading": "ASCII MASTER FLOW - PANEL 4/10: Russell's logical analysis, facts and atomic propositions",
+      "preview": "ANALYTIC PROGRAMME -> surface grammar may conceal the proposition's logical form.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 358.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 245.291
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0157",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3938,
+      "markdown_body_line_end": 3949,
+      "heading": "ASCII MASTER FLOW - PANEL 5/10: Acquaintance, description and the epistemic work of analysis",
+      "preview": "ACQUAINTANCE -> direct, presentational and non-inferential awareness of a constituent.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 674.291
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0158",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3953,
+      "markdown_body_line_end": 3964,
+      "heading": "ASCII MASTER FLOW - PANEL 6/10: Logical constructions, inferred entities and logical fictions",
+      "preview": "MAXIM -> wherever possible, substitute logical constructions for inferred entities.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 652.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 539.291
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0159",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3968,
+      "markdown_body_line_end": 3979,
+      "heading": "ASCII MASTER FLOW - PANEL 7/10: Incomplete symbols and definite-description analysis",
+      "preview": "INCOMPLETE SYMBOL -> no standalone denotation; defined only in proposition-context.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 517.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 404.291
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0160",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3983,
+      "markdown_body_line_end": 3994,
+      "heading": "ASCII MASTER FLOW - PANEL 8/10: Tractarian objects, states of affairs, facts and pictures",
+      "preview": "EARLY ONLY -> do not import later meaning-as-use, forms of life or language-games.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 382.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 269.291
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0161",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3998,
+      "markdown_body_line_end": 4009,
+      "heading": "ASCII MASTER FLOW - PANEL 9/10: Truth-functions, logical scaffolding and limiting cases",
+      "preview": "ELEMENTARY BASE -> propositions representing possible independent states of affairs.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 674.291
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0162",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4013,
+      "markdown_body_line_end": 4025,
+      "heading": "ASCII MASTER FLOW - PANEL 10/10: Saying-showing, comparative synthesis and answer spine",
+      "preview": "SAYING -> factual propositions state how things contingently stand.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 652.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 529.091
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    }
+  ]
+}

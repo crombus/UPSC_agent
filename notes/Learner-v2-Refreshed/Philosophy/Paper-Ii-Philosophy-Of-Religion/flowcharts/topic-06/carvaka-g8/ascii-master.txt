@@ -1,0 +1,225 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Religious Experience: Nature and Object: central question and analytical axes
+
+```ascii-master
+RELIGIOUS EXPERIENCE: NATURE AND OBJECT — CONCEPTUAL ATLAS
+
+
+KEY TERMS: religious experience • sacred • numinous • mysticism • veridicality • testimony
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Religious Experience: Nature and Object
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       Its philosophy examines phenomenological features, the alleged…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: RELIGIOUS EXPERIENCE: NATURE, OBJECT AND EPISTEMIC PROBLEM
+  • religious experience
+  • A subject undergoes an affective or cognitive episode, interprets…
+AXIS 2: WESTERN ACCOUNTS OF RELIGIOUS EXPERIENCE
+  • Western Accounts Of Religious Experience
+  • Religion for James is personal before institutional
+AXIS 3: THE OBJECT AND VERIDICALITY OF RELIGIOUS EXPERIENCE
+  • The Object
+  • Is religious experience veridical (of a real object) or merely…
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  religious experience • sacred • numinous • mysticism
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Nature, object and epistemic status of religious experience
+
+```ascii-master
+NATURE, OBJECT AND EPISTEMIC STATUS OF RELIGIOUS EXPERIENCE
+│
+
+KEY TERMS: religious experience • sacred • numinous • mysticism • veridicality • testimony
+├── KEY CONCEPTS
+│   ├── religious experience
+│   ├── sacred
+│   ├── numinous
+│   ├── mysticism
+│   └── veridicality
+│
+├── RELIGIOUS EXPERIENCE: NATURE, OBJECT AND EPISTEMIC PROBLEM
+│   ├─ TERMS: Its philosophy examines phenomenological features, the alleged…
+│   ├─ LOGIC: A subject undergoes an affective or cognitive episode, interprets…
+│   └─ RESULT: The experience can justify commitment for the subject while…
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Western and Indian phenomenologies compared
+
+```ascii-master
+WESTERN AND INDIAN PHENOMENOLOGIES COMPARED
+
+
+KEY TERMS: Western Accounts Of Religious Experience • PRIMARY / DEFINING (the two that
+KEY TERMS: settle… • Ineffability • directly experienced • USUAL / ACCOMPANYING (present in
+KEY TERMS: most… • Schleiermacher: religion's essence =…
+CAUSE / CONDITION 1: Religion for James is personal before institutional
+          │
+          ├── MECHANISM
+          │   Religion for James is personal before institutional
+          │
+          └── EFFECT / CONTRAST
+              PRIMARY / DEFINING (the two that settle the classification)…
+          │
+          ▼
+CAUSE / CONDITION 2: Religious experience is integral intuition — a knowing that…
+          │
+          ├── MECHANISM
+          │   Anubhava (direct realisation): in Indian thought the highest…
+          │
+          └── EFFECT / CONTRAST
+              Self-certifying (svataḥ-siddha), beyond objectifying speech (avācya
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Object, veridicality, testimony and interpretation
+
+```ascii-master
+OBJECT, VERIDICALITY, TESTIMONY AND INTERPRETATION
+
+
+KEY TERMS: The Object • Veridicality Of Religious Experience • personal God • Brahman/ātman
+KEY TERMS: (non-dual) • THE OBJECT AND VERIDICALITY OF… • THE OBJECT AND VERIDICALITY OF
+KEY TERMS: RELIGIOUS…
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ THE OBJECT AND         │ Hick's pluralist reply: the   │ Religious experience can      │
+│ VERIDICALITY OF        │ various experiences are…      │ justify the subject           │
+│ RELIGIOUS EXPERIENCE   │                               │ defeasibly, but it…           │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Mysticism, numinous experience, prayer and worship
+
+```ascii-master
+MYSTICISM, NUMINOUS EXPERIENCE, PRAYER AND WORSHIP
+
+
+KEY TERMS: mysticism • numinous • William James • Rudolf Otto • prayer • worship
+                 CLAIM / SYSTEM UNDER EXAMINATION
+                                  │
+                                  ▼
+PROBLEM / OBJECTION 1
+  ├─ ISSUE: Do not equate prayer with mystical union or assume that every…
+  ├─ RESPONSE / CONTROL: Different practices shape attention, emotion and
+  ├─ RESPONSE / CONTROL: interpretation…
+  └─ QUALIFIED VERDICT: The diversity of forms weakens any single evidential
+  └─ QUALIFIED VERDICT: argument but…
+                  │
+                  ▼
+PROBLEM / OBJECTION 2
+  ├─ ISSUE: James treats the noetic mark as an experienced disclosure of…
+  ├─ RESPONSE / CONTROL: James treats the noetic mark as an experienced disclosure
+  ├─ RESPONSE / CONTROL: of…
+  └─ QUALIFIED VERDICT: James treats the noetic mark as an experienced disclosure
+  └─ QUALIFIED VERDICT: of…
+                                  │
+                                  ▼
+FINAL CONTROL: preserve the strongest insight while stating its limit.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: James, Otto, Advaita and comparative evaluation
+
+```ascii-master
+JAMES, OTTO, ADVAITA AND COMPARATIVE EVALUATION
+
+
+KEY TERMS: phenomenology • veridicality • testimony • William James • Rudolf Otto • Advaita
+CAUSE / CONDITION 1: The comparison tests phenomenology, interpretive mediation…
+          │
+          ├── MECHANISM
+          │   Each account moves from a reported experience through a conceptual…
+          │
+          └── EFFECT / CONTRAST
+              Cross-tradition comparison reveals recurring experiential…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Religious Experience: Nature and Object: traps, PYQ routes and applied recall
+
+```ascii-master
+RELIGIOUS EXPERIENCE: NATURE AND OBJECT: TRAPS, PYQ ROUTES AND APPLIED RECALL
+
+
+KEY TERMS: religious experience • sacred • numinous • mysticism • veridicality • testimony
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── Do not infer a metaphysical object solely from phenomenological…
+├── In Advaita's technical vocabulary anirvacanīya is the status of…
+├── Do not equate prayer with mystical union or assume that every…
+├── Do not infer that phenomenological similarity proves metaphysical…
+│
+├── PYQ 1 — 2018, Q7(a), 20 marks
+├── PYQ 2 — 2019, Q7(c), 15 marks
+├── Exact verified question: How far can religious experience be made a topic…
+├── PYQ 3 — 2020, Q7(b), 15 marks
+│
+└── Religious experience may transform the subject, but its private…
+└── Veridicality asks whether a religious experience presents a real…
+└── Religious experience is strongest as evidence of transformed…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Religious Experience: Nature and Object: integrated revision and answer-writing spine
+
+```ascii-master
+RELIGIOUS EXPERIENCE: NATURE AND OBJECT — ANSWER / REVISION SPINE
+
+
+KEY TERMS: religious experience • sacred • numinous • mysticism • veridicality • testimony
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ Its philosophy examines phenomenological features, the alleged…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ religious experience
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ Anubhava (direct realisation): in Indian thought the highest…
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ numinous
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ Do not infer that phenomenological similarity proves metaphysical…
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ Religious experience is strongest as evidence of transformed…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

@@ -1,0 +1,3854 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\topic-03_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\topic-03_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-03",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 5,
+      "heading": "Problem of Evil - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Catalogue identity:** Philosophy Optional · Philosophy Paper II — Philosophy of Religion · `philosophy-paper-ii-philosophy-of-religion-03` **Generation:** g14, 3 September 2026 · **Approval:** pending explicit topic approval **Evidence di",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 678.224
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 9,
+      "markdown_body_line_end": 16,
+      "heading": "Package practice counts",
+      "preview": "Component | Count",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Component",
+          "Count"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 653.224
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 501.422
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 27,
+      "markdown_body_line_end": 34,
+      "heading": "Exact printed ownership and cross-topic firewall",
+      "preview": "Owned here | Boundary",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Owned here",
+          "Boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 410.022
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 202.22
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 41,
+      "markdown_body_line_end": 41,
+      "heading": "Exact printed ownership and cross-topic firewall",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\assets\\topic-03_Teaching-Navigation_2026-08-23.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 154.62
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        4,
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 54,
+      "markdown_body_line_end": 64,
+      "heading": "Source-complete coverage ledger and answer-worthiness labels",
+      "preview": "Source corpus | Final location | Retention decision",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Source corpus",
+          "Final location",
+          "Retention decision"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 419.89
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 75,
+      "markdown_body_line_end": 76,
+      "heading": "Roadmap",
+      "preview": "**EXAM ROUTE** **High-value transition:** PYQ priority: Very high. The audited Paper II corpus contains 7 primary-owned questions, one in every year from 2019 through 2025 and none in 2018.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 252.09
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 185.422
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 89,
+      "markdown_body_line_end": 100,
+      "heading": "Roadmap",
+      "preview": "Session | Subtopic | Examiner task",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Session",
+          "Subtopic",
+          "Examiner task"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 533.09
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 115,
+      "markdown_body_line_end": 115,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The problem of evil is not one argument but a family of challenges generated by the relation among a divine profile, the facts of suffering and wrongdoing, and norms governing what a good agent would permit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 344.19
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 277.522
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 128,
+      "markdown_body_line_end": 128,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM-READY LINE:** Major criticism:** The problem of evil is not one argument but a family of challenges generated by the relation among a divine profile, the facts of suffering and wrongdoing, and norms governing what a good agent would ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 118.922
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 60.054
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 141,
+      "markdown_body_line_end": 141,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Logical, evidential, existential and protest taxonomy",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\assets\\02_taxonomy.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 526.677
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 145,
+      "markdown_body_line_end": 145,
+      "heading": "1.1 The object of analysis",
+      "preview": "**CORE DEFINITION:** The problem of evil is not one argument but a family of challenges generated by the relation among a divine profile, the facts of suffering and wrongdoing, and norms governing what a good agent would permit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 526.677
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 460.01
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 164,
+      "markdown_body_line_end": 164,
+      "heading": "1.2 Four distinct challenges",
+      "preview": "**CORE DISTINCTION:** Major criticism:** A modal defence can answer the first while leaving the other three largely untouched.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 350.61
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 283.942
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 186,
+      "markdown_body_line_end": 186,
+      "heading": "1.3 Defence, theodicy, explanation and justification",
+      "preview": "**EXAM-READY LINE:** Major reply:** Compatibility is weaker than probability; probability is weaker than full explanation; explanation is different from moral justification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 139.142
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 72.474
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 199,
+      "markdown_body_line_end": 199,
+      "heading": "1.3 Defence, theodicy, explanation and justification",
+      "preview": "Defence, theodicy and anti-theodicy",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\assets\\18_defence-theodicy.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 525.546
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 201,
+      "markdown_body_line_end": 207,
+      "heading": "1.3 Defence, theodicy, explanation and justification",
+      "preview": "Term | Exact burden | Typical example | Common mistake",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Term",
+          "Exact burden",
+          "Typical example",
+          "Common mistake"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 525.546
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 346.645
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 213,
+      "markdown_body_line_end": 213,
+      "heading": "1.4 Kinds of evil",
+      "preview": "**CORE DISTINCTION:** Suffering is an experiential harm; wrongdoing is a culpable act or disposition.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 313.245
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 260.777
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 226,
+      "markdown_body_line_end": 226,
+      "heading": "1.4 Kinds of evil",
+      "preview": "Moral, natural and metaphysical evil",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\assets\\03_evil-matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 260.777
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 525.546
+        }
+      },
+      "pdf_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 234,
+      "markdown_body_line_end": 234,
+      "heading": "1.4 Kinds of evil",
+      "preview": "[MEMORY] Four controls: **C-P-J-T** - Compatibility, Probability, Justification, Target.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 396.946
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 366.479
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 239,
+      "markdown_body_line_end": 247,
+      "heading": "CLOSING RECALL FLOW - CONCEPTUAL METHOD: WHAT PROBLEM IS BEING ASKED?",
+      "preview": "CONCEPTUAL METHOD: WHAT PROBLEM IS BEING ASKED?",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 342.979
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 236.96
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 258,
+      "markdown_body_line_end": 258,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mackie's triad is not formally contradictory by itself; the logical problem depends on additional premises linking perfect goodness and omnipotence to the prevention of evil.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 271,
+      "markdown_body_line_end": 271,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM-READY LINE:** Major criticism:** The familiar questions - whether God is willing but unable, able but unwilling, or both able and willing while evil exists - are commonly labelled the Epicurean paradox.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 584.024
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 539.356
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 286,
+      "markdown_body_line_end": 286,
+      "heading": "2.1 Epicurean attribution caution, Hume and Mackie",
+      "preview": "**EXAM-READY LINE:** High-value transition:** The familiar questions - whether God is willing but unable, able but unwilling, or both able and willing while evil exists - are commonly labelled the Epicurean paradox.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 539.356
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 472.688
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 303,
+      "markdown_body_line_end": 303,
+      "heading": "2.1 Epicurean attribution caution, Hume and Mackie",
+      "preview": "Mackie's logical argument",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\assets\\04_mackie-map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 377.488
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 99.743
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 307,
+      "markdown_body_line_end": 307,
+      "heading": "2.2 Formal reconstruction",
+      "preview": "**CORE DISTINCTION:** Core argument:** Premises 4 and 5 are not mere definitions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 99.743
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 47.275
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 334,
+      "markdown_body_line_end": 334,
+      "heading": "2.3 What counts as a reply?",
+      "preview": "**EXAM-READY LINE:** Major reply:** The theist need not show why every actual evil occurs in order to defeat a bare contradiction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 616.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 549.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 355,
+      "markdown_body_line_end": 355,
+      "heading": "2.4 Omnipotence paradox and attribute control",
+      "preview": "**CORE DISTINCTION:** Major criticism:** Omnipotence means power to do what is logically possible, not power to instantiate contradictions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 449.224
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 382.556
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 384,
+      "markdown_body_line_end": 389,
+      "heading": "1.1 Divine profile, additional premises and three burdens",
+      "preview": "G is omnipotent + G is omniscient + G is perfectly good + evil exists",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 178.856
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 127.856
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 391,
+      "markdown_body_line_end": 395,
+      "heading": "1.1 Divine profile, additional premises and three burdens",
+      "preview": "Burden | What must be shown",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Burden",
+          "What must be shown"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 127.856
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 39.654
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 401,
+      "markdown_body_line_end": 409,
+      "heading": "CLOSING RECALL FLOW - CLASSICAL FORMULATION AND MACKIE'S LOGICAL PROBLEM",
+      "preview": "CLASSICAL FORMULATION AND MACKIE'S LOGICAL PROBLEM",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 752.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 646.873
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 420,
+      "markdown_body_line_end": 420,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plantinga's free-will defence rebuts a strict contradiction by offering a possible morally sufficient reason, but it does not explain the actual distribution of suffering.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 540.273
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 473.605
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 433,
+      "markdown_body_line_end": 433,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CORE DISTINCTION:** Major reply:** The defence is strongest for moral evil.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 315.005
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 284.537
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 446,
+      "markdown_body_line_end": 446,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Plantinga's Free Will Defence",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\assets\\05_plantinga.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 284.537
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 48.473
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 450,
+      "markdown_body_line_end": 450,
+      "heading": "3.1 Significant freedom and possible worlds",
+      "preview": "**CORE DISTINCTION:** High-value transition:** Alvin Plantinga's Free Will Defence aims at the logical problem.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 475,
+      "markdown_body_line_end": 475,
+      "heading": "3.2 Transworld depravity accurately stated",
+      "preview": "**EXAM-READY LINE:** High-value transition:** Transworld depravity is not the claim that every person is maximally wicked or always chooses evil.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 561.424
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 494.756
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 496,
+      "markdown_body_line_end": 496,
+      "heading": "3.3 Natural evil extension and residual limits",
+      "preview": "**CORE DISTINCTION:** The defence is strongest for moral evil.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 337.756
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 285.288
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 529,
+      "markdown_body_line_end": 537,
+      "heading": "CLOSING RECALL FLOW - PLANTINGA'S FREE WILL DEFENCE",
+      "preview": "PLANTINGA'S FREE WILL DEFENCE",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 681.273
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 548,
+      "markdown_body_line_end": 548,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidential force depends on a noseeum move: \"We see no justifying reason; therefore there probably is none.\" Such reasoning is strong when observers would likely detect the relevant reason if it existed, as when looking for an elephant in a",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 541.473
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 460.605
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 561,
+      "markdown_body_line_end": 561,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CORE DEFINITION:** Evidential force depends on a noseeum move: \"We see no justifying reason; therefore there probably is none.\" Such reasoning is strong when observers would likely detect the relevant reason if it existed, as when looking",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 302.005
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 243.137
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 574,
+      "markdown_body_line_end": 574,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Rowe's evidential argument",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\assets\\06_rowe-fawn.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 243.137
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 530.949
+        }
+      },
+      "pdf_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 578,
+      "markdown_body_line_end": 578,
+      "heading": "4.1 Rowe and apparently gratuitous suffering",
+      "preview": "**CORE DISTINCTION:** High-value transition:** William Rowe's evidential argument grants that God and evil may be logically compatible.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 530.949
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 464.282
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 603,
+      "markdown_body_line_end": 603,
+      "heading": "4.2 The noseeum inference",
+      "preview": "**EXAM-READY LINE:** Core argument:** Evidential force depends on a noseeum move: \"We see no justifying reason; therefore there probably is none.\" Such reasoning is strong when observers would likely detect the relevant reason if it existed",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 284.082
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 203.214
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 624,
+      "markdown_body_line_end": 624,
+      "heading": "4.3 Draper and conceptual Bayesian framing",
+      "preview": "**EXAM-READY LINE:** Paul Draper's evidential strategy, where used, compares hypotheses: the biological distribution of pain and pleasure may be less surprising on an indifferent naturalistic hypothesis than on perfect theism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 641,
+      "markdown_body_line_end": 649,
+      "heading": "4.3 Draper and conceptual Bayesian framing",
+      "preview": "Posterior plausibility of theism",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 661.624
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 580.624
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 655,
+      "markdown_body_line_end": 655,
+      "heading": "4.4 Scale, distribution, intensity and hiddenness",
+      "preview": "**CORE DISTINCTION:** High-value transition:** Divine hiddenness is a bounded cross-link, not a substitute topic.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 547.224
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 494.756
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 668,
+      "markdown_body_line_end": 674,
+      "heading": "4.4 Scale, distribution, intensity and hiddenness",
+      "preview": "Evidential dimension | Question",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Evidential dimension",
+          "Question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 494.756
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 364.154
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 680,
+      "markdown_body_line_end": 680,
+      "heading": "4.5 Skeptical theism",
+      "preview": "**EXAM-READY LINE:** Skeptical theists challenge our entitlement to infer from \"no reason we can see\" to \"probably no reason.\" Wykstra's CORNEA-style principle asks whether, if the proposed good existed, it is reasonable to expect that we w",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 330.754
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 249.887
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 693,
+      "markdown_body_line_end": 693,
+      "heading": "4.5 Skeptical theism",
+      "preview": "Skeptical-theism response tree",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\assets\\07_skeptical-theism.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 249.887
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 525.546
+        }
+      },
+      "pdf_pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 706,
+      "markdown_body_line_end": 714,
+      "heading": "CLOSING RECALL FLOW - EVIDENTIAL EVIL: ROWE, PROBABILITY AND SKEPTICAL THEISM",
+      "preview": "EVIDENTIAL EVIL: ROWE, PROBABILITY AND SKEPTICAL THEISM",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 326.846
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 202.978
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 725,
+      "markdown_body_line_end": 725,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Classical responses preserve divine power and goodness by distinguishing privation and free misuse from developmental risk, stable law and soul-making.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 738,
+      "markdown_body_line_end": 738,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM-READY LINE:** Major reply:** Created being is good insofar as it has being; evil is not a positive substance made by God but a privation, corruption or disorder of a due good.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 584.024
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 539.356
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 753,
+      "markdown_body_line_end": 753,
+      "heading": "5.1 Augustine: privation, fall and free will",
+      "preview": "**EXAM-READY LINE:** Augustine treats evil as a privation of good arising through created freedom, not as a positive substance created by God.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 539.356
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 472.688
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 766,
+      "markdown_body_line_end": 766,
+      "heading": "5.1 Augustine: privation, fall and free will",
+      "preview": "Augustinian privation and fall",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\assets\\09_augustine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 472.688
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 194.943
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 785,
+      "markdown_body_line_end": 785,
+      "heading": "5.2 Irenaeus and Hick: developmental soul-making",
+      "preview": "**EXAM-READY LINE:** Soul-making theodicy presents an epistemically distant and law-governed world as the arena in which immature persons develop virtue.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 688.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 622.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 798,
+      "markdown_body_line_end": 798,
+      "heading": "5.2 Irenaeus and Hick: developmental soul-making",
+      "preview": "Irenaean-Hick developmental model",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\assets\\08_soul-making.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 622.224
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 344.479
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 817,
+      "markdown_body_line_end": 817,
+      "heading": "5.3 Leibniz: best possible world",
+      "preview": "**EXAM-READY LINE:** Leibniz argues that a perfect God actualizes the best feasible world as a total order, not a world containing no local evil.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 830,
+      "markdown_body_line_end": 830,
+      "heading": "5.3 Leibniz: best possible world",
+      "preview": "Leibniz best-world defence",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\assets\\10_leibniz.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 742.624
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 477.096
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 849,
+      "markdown_body_line_end": 849,
+      "heading": "5.4 Greater-good, law-governed order and Swinburne-style responsibility",
+      "preview": "**CORE DISTINCTION:** High-value transition:** A regular world is necessary for knowledge, prediction, action and moral responsibility.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 240.496
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 173.828
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 874,
+      "markdown_body_line_end": 874,
+      "heading": "5.5 Punishment, discipline and providence - use with caution",
+      "preview": "**EXAM-READY LINE:** High-value transition:** Retributive punishment may explain a wrongdoer's suffering only where guilt, proportionality and legitimate authority are established.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 717.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 650.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 894,
+      "markdown_body_line_end": 902,
+      "heading": "CLOSING RECALL FLOW - CLASSICAL THEODICIES AND DEFENCES",
+      "preview": "CLASSICAL THEODICIES AND DEFENCES",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 532.924
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 426.905
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 913,
+      "markdown_body_line_end": 913,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Process, open and finite-God responses reduce the evil problem by revising classical control, but every revision purchases relief at a theological cost.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 287.105
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 220.437
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 926,
+      "markdown_body_line_end": 926,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM-READY LINE:** Whitehead is the metaphysical source; Hartshorne argues against classical omnipotence; David Ray Griffin develops process theodicy; John Cobb systematizes process theology.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 939,
+      "markdown_body_line_end": 939,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Process, finite, open and Molinist revisions",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\assets\\11_nonclassical.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 758.624
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 480.879
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 943,
+      "markdown_body_line_end": 943,
+      "heading": "6.1 Process theodicy: Whitehead, Hartshorne, Griffin and Cobb",
+      "preview": "**EXAM-READY LINE:** High-value transition:** Whitehead is the metaphysical source; Hartshorne argues against classical omnipotence; David Ray Griffin develops process theodicy; John Cobb systematizes process theology.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 480.879
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 414.211
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 976,
+      "markdown_body_line_end": 976,
+      "heading": "6.2 Finite God, open theism and Molinism",
+      "preview": "**CORE DISTINCTION:** Revising an attribute can dissolve the original inconsistent set, but it does not make suffering disappear.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 113.611
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 46.943
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 999,
+      "markdown_body_line_end": 1007,
+      "heading": "CLOSING RECALL FLOW - NON-CLASSICAL THEISMS AND REVISED DIVINE ATTRIBUTES",
+      "preview": "NON-CLASSICAL THEISMS AND REVISED DIVINE ATTRIBUTES",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 607.591
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 501.573
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1018,
+      "markdown_body_line_end": 1018,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Existential approaches ask not only whether a proposition is coherent but what stance is humanly and morally possible before suffering.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 375.973
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 309.305
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1031,
+      "markdown_body_line_end": 1031,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CORE DEFINITION:** Existential approaches ask not only whether a proposition is coherent but what stance is humanly and morally possible before suffering.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 150.705
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 106.037
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1044,
+      "markdown_body_line_end": 1044,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Existential protest and anti-theodicy",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\assets\\12_anti-theodicy.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 525.546
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1048,
+      "markdown_body_line_end": 1048,
+      "heading": "7.1 Job, Kierkegaard, Dostoevsky and Camus",
+      "preview": "**EXAM-READY LINE:** High-value transition:** Existential approaches ask not only whether a proposition is coherent but what stance is humanly and morally possible before suffering.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 525.546
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 458.879
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1072,
+      "markdown_body_line_end": 1072,
+      "heading": "7.2 Holocaust and post-Holocaust caution",
+      "preview": "**CORE DISTINCTION:** High-value transition:** The moral danger is instrumentalization: treating victims' suffering as a means to another person's virtue, historical progress or cosmic beauty.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 266.479
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 199.811
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1093,
+      "markdown_body_line_end": 1093,
+      "heading": "7.3 Marilyn McCord Adams and horrendous evils",
+      "preview": "**CORE DISTINCTION:** The framework deepens soul-making, but it also shows why no general-purpose developmental story is sufficient for horrors.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1106,
+      "markdown_body_line_end": 1106,
+      "heading": "7.3 Marilyn McCord Adams and horrendous evils",
+      "preview": "Horrendous evils and defeat",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\assets\\17_horrendous-evils.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 742.624
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 464.879
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1122,
+      "markdown_body_line_end": 1128,
+      "heading": "9.5A Greater-good, best-world, mystery, eschatology and anti-theodicy",
+      "preview": "Response | Precise claim | Main cost",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Response",
+          "Precise claim",
+          "Main cost"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 544.69
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1137,
+      "markdown_body_line_end": 1145,
+      "heading": "CLOSING RECALL FLOW - EXISTENTIAL EVIL, PROTEST AND HORRENDOUS EVILS",
+      "preview": "EXISTENTIAL EVIL, PROTEST AND HORRENDOUS EVILS",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 465.89
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 359.871
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1156,
+      "markdown_body_line_end": 1156,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The problem of evil changes across traditions: where no omnipotent creator is affirmed, suffering challenges karma, cosmic justice or liberation rather than divine benevolence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 239.071
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 172.404
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1169,
+      "markdown_body_line_end": 1169,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM-READY LINE:** High-value transition:** Karma (morally consequential action) is structurally strong on distribution but morally dangerous when converted into retrospective certainty about a victim.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 725.224
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1184,
+      "markdown_body_line_end": 1184,
+      "heading": "8.1 Method: no single \"Indian solution\"",
+      "preview": "**EXAM-READY LINE:** Indian traditions do not share one answer because they disagree about creator, self, world, karma (morally consequential action) and liberation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 725.224
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 658.556
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1197,
+      "markdown_body_line_end": 1197,
+      "heading": "8.1 Method: no single \"Indian solution\"",
+      "preview": "Indian school comparison",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\assets\\15_indian-schools.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 658.556
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 380.811
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1203,
+      "markdown_body_line_end": 1203,
+      "heading": "8.2 Karma and rebirth",
+      "preview": "**EXAM-READY LINE:** Nyaya (school of logic and realism): Ishvara (Lord or personal God) can administer unseen karmic potency and cosmic order; God is not an arbitrary author but a just allocator.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 333.211
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 266.543
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1216,
+      "markdown_body_line_end": 1216,
+      "heading": "8.2 Karma and rebirth",
+      "preview": "Karma-rebirth model and critique",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\assets\\13_karma-model.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 266.543
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 525.546
+        }
+      },
+      "pdf_pages": [
+        28,
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1233,
+      "markdown_body_line_end": 1233,
+      "heading": "8.3 Critiques of karma",
+      "preview": "**EXAM-READY LINE:** Karma (morally consequential action) is structurally strong on distribution but morally dangerous when converted into retrospective certainty about a victim.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 222.746
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 156.079
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1260,
+      "markdown_body_line_end": 1260,
+      "heading": "8.4 Buddhism: dukkha and dependent origination",
+      "preview": "**EXAM-READY LINE:** [OBJECTION] A diagnostic path may not answer why the world contains horrific suffering or why causal continuity is morally just without a stable self.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 722.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 655.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1273,
+      "markdown_body_line_end": 1273,
+      "heading": "8.4 Buddhism: dukkha and dependent origination",
+      "preview": "Buddhist non-theistic reframing",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\assets\\14_buddhist-reframe.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 655.624
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 386.659
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1287,
+      "markdown_body_line_end": 1287,
+      "heading": "8.5 Jainism",
+      "preview": "**EXAM-READY LINE:** High-value transition:** Jainism treats karma (morally consequential action) as subtle material bondage adhering to jiva (individual living self) through passion and action.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 205.459
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 138.792
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1310,
+      "markdown_body_line_end": 1310,
+      "heading": "8.6 Bhakti and providence",
+      "preview": "**CORE DISTINCTION:** High-value transition:** Bhakti traditions vary. Relevant responses include trust, surrender, lament, grace, divine companionship and service.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 736.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 669.824
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1349,
+      "markdown_body_line_end": 1357,
+      "heading": "CLOSING RECALL FLOW - INDIAN AND NON-WESTERN FRAMEWORKS",
+      "preview": "INDIAN AND NON-WESTERN FRAMEWORKS",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 310.524
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 196.155
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1368,
+      "markdown_body_line_end": 1368,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Animal suffering is a central evidential challenge because predation, disease, parasitism and extinction precede human agency and often seem unrelated to moral growth.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1381,
+      "markdown_body_line_end": 1381,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM-READY LINE:** High-value transition:** Animal suffering is a central evidential challenge because predation, disease, parasitism and extinction precede human agency and often seem unrelated to moral growth.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 584.024
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 539.356
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1396,
+      "markdown_body_line_end": 1396,
+      "heading": "9.1 Animal suffering and evolutionary evil",
+      "preview": "**CORE DEFINITION:** Animal suffering is a central evidential challenge because predation, disease, parasitism and extinction precede human agency and often seem unrelated to moral growth.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 539.356
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 472.688
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1409,
+      "markdown_body_line_end": 1409,
+      "heading": "9.1 Animal suffering and evolutionary evil",
+      "preview": "Animal suffering and evolutionary evil",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\assets\\16_animal-evil.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 472.688
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 198.465
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1421,
+      "markdown_body_line_end": 1421,
+      "heading": "9.2 Free will and heaven",
+      "preview": "**EXAM-READY LINE:** High-value transition:** Heaven pressures but does not automatically refute freedom-based accounts; it forces a temporal and developmental explanation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1442,
+      "markdown_body_line_end": 1442,
+      "heading": "9.3 Natural laws and preventable excess",
+      "preview": "**CORE DISTINCTION:** High-value transition:** A law-governed order explains regular vulnerability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 642.424
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 589.956
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1463,
+      "markdown_body_line_end": 1463,
+      "heading": "9.4 Afterlife compensation versus justification",
+      "preview": "**EXAM-READY LINE:** High-value transition:** Compensation gives a later good; justification shows permission was morally acceptable; defeat integrates the evil within the sufferer's good.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 503.956
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 437.288
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1484,
+      "markdown_body_line_end": 1484,
+      "heading": "9.5 Epistemic humility versus skepticism",
+      "preview": "**EXAM-READY LINE:** High-value transition:** The strongest bounded position is asymmetric: do not infer confidently that every evil is gratuitous, but do not infer confidently that every evil serves a hidden good.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 351.288
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 284.62
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1503,
+      "markdown_body_line_end": 1503,
+      "heading": "9.6 Theodicy as explanation or moral legitimation",
+      "preview": "**EXAM-READY LINE:** High-value transition:** [OBJECTION] Theodicy can legitimate the status quo by redescribing oppression as discipline, karma (morally consequential action) or providence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 217.82
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 151.153
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1522,
+      "markdown_body_line_end": 1522,
+      "heading": "9.7 Does rejecting classical theism dissolve the problem?",
+      "preview": "**EXAM-READY LINE:** Major criticism:** The 2024 PYQ is correct that the problem is concept-dependent, but suffering remains philosophically and religiously significant in every framework.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1544,
+      "markdown_body_line_end": 1552,
+      "heading": "CLOSING RECALL FLOW - HARD CASES AND META-LEVEL CRITIQUES",
+      "preview": "HARD CASES AND META-LEVEL CRITIQUES",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 619.924
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 513.905
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1563,
+      "markdown_body_line_end": 1563,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The strongest conclusion is version-specific: a response may restore logical compatibility, reduce evidential pressure or offer existential meaning without resolving every problem of evil.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 374.105
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 307.437
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1578,
+      "markdown_body_line_end": 1578,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM-READY LINE:** Final verdict:** Comparison is strongest when each position is judged through the same axes of ultimate reality, world relation, human relation, causation and religious function.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 114.437
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 69.77
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1591,
+      "markdown_body_line_end": 1591,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Comparative essay matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\assets\\20_comparative-matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 525.546
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1595,
+      "markdown_body_line_end": 1595,
+      "heading": "10.1 Multi-axis comparison",
+      "preview": "**EXAM-READY LINE:** High-value transition:** Theodicies should be compared through the divine attribute revised, the evil explained, the residual case and the moral cost of the explanation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 525.546
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 458.879
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1608,
+      "markdown_body_line_end": 1619,
+      "heading": "10.1 Multi-axis comparison",
+      "preview": "View | Divine attributes | Cause/account | Natural/animal evil | Distribution | Ethical cost",
+      "metadata": {
+        "column_count": 6,
+        "row_count": 10,
+        "headers": [
+          "View",
+          "Divine attributes",
+          "Cause/account",
+          "Natural/animal evil",
+          "Distribution",
+          "Ethical cost"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 458.879
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 103.977
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1623,
+      "markdown_body_line_end": 1623,
+      "heading": "10.2 Objection-response decision tree",
+      "preview": "**CORE DISTINCTION:** Major criticism:** Identify whether the examiner asks contradiction, probability, responsibility, conceptual dependence or religious function.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 103.977
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 37.309
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1636,
+      "markdown_body_line_end": 1636,
+      "heading": "10.2 Objection-response decision tree",
+      "preview": "Objection-response decision tree",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\assets\\19_decision-tree.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 527.799
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1647,
+      "markdown_body_line_end": 1647,
+      "heading": "10.3 Practical religious implications",
+      "preview": "**EXAM-READY LINE:** High-value transition:** The practical test of a religious response is whether it deepens truthfulness, compassion and responsibility rather than silencing lament.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 410.399
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 343.731
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1660,
+      "markdown_body_line_end": 1660,
+      "heading": "10.3 Practical religious implications",
+      "preview": "Pastoral and practical response",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\assets\\22_practical-response.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 343.731
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 65.986
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1676,
+      "markdown_body_line_end": 1684,
+      "heading": "CLOSING RECALL FLOW - COMPARATIVE SYNTHESIS AND PRACTICAL IMPLICATIONS",
+      "preview": "COMPARATIVE SYNTHESIS AND PRACTICAL IMPLICATIONS",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 615.791
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 501.423
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2533,
+      "markdown_body_line_end": 2533,
+      "heading": "Advanced-dossier reconciliation - [OPTIONAL ADVANCED]",
+      "preview": "**EXAM-READY LINE:** High-value transition:** The section dossier marks skeptical theism and horrendous evils as promoted to core because the owner source now teaches CORNEA, representativeness, balancing-off versus defeat, and goodness-to-",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 571.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 512.424
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2551,
+      "markdown_body_line_end": 2551,
+      "heading": "Advanced Seminar Modules - From Competent to Examiner-Grade",
+      "preview": "**CORE DISTINCTION:** High-value transition:** The logical problem is a question about whether the relevant propositions can be true.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 411.424
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 366.756
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2566,
+      "markdown_body_line_end": 2566,
+      "heading": "11. Modal logic without notation overload",
+      "preview": "**CORE DISTINCTION:** High-value transition:** The logical problem is a question about whether the relevant propositions can be true.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 366.756
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 300.088
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2610,
+      "markdown_body_line_end": 2610,
+      "heading": "12. The moral premises behind the logical problem",
+      "preview": "**CORE DISTINCTION:** Major criticism:** The logical problem is best understood as a stress-test of perfect goodness under the.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 703.224
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2652,
+      "markdown_body_line_end": 2652,
+      "heading": "13. Freedom: value, range and responsibility",
+      "preview": "**CORE DISTINCTION:** High-value transition:** Free-will approaches require more than the assertion that freedom is valuable.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 417.624
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 350.956
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2694,
+      "markdown_body_line_end": 2694,
+      "heading": "14. Natural evil: autonomy of creation and excess",
+      "preview": "**CORE DISTINCTION:** A stable natural order is not merely a stage for morality; it is the condition of embodied.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2734,
+      "markdown_body_line_end": 2734,
+      "heading": "15. Evolutionary evil and deep time",
+      "preview": "**CORE DISTINCTION:** Deep time is a fairness test for every theodicy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 485.424
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 432.956
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2774,
+      "markdown_body_line_end": 2774,
+      "heading": "16. Rowe, Draper and cumulative evidence",
+      "preview": "**CORE DISTINCTION:** High-value transition:** The evidential case is strongest when cumulative rather than dependent on one dramatic.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 161.556
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 94.888
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2815,
+      "markdown_body_line_end": 2815,
+      "heading": "17. Skeptical theism: three boundaries",
+      "preview": "**CORE DISTINCTION:** Skeptical theism is defensible only when bounded epistemically, morally and religiously.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 579.491
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 527.024
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2855,
+      "markdown_body_line_end": 2855,
+      "heading": "18. Soul-making under the proportionality test",
+      "preview": "**CORE DISTINCTION:** High-value transition:** Soul-making succeeds for obstacles proportionate to agency and fails when it treats all.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 236.624
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 169.956
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2894,
+      "markdown_body_line_end": 2894,
+      "heading": "19. Augustine after evolutionary criticism",
+      "preview": "**CORE DISTINCTION:** Major criticism:** Corruption remains dependent on an underlying good: disease is malfunction of living.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 674.691
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 608.024
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2934,
+      "markdown_body_line_end": 2934,
+      "heading": "20. Process theology compared with voluntary self-limitation",
+      "preview": "**CORE DISTINCTION:** Major criticism:** Process thought gives the most systematic non-classical response to natural evil, but.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 379.224
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 312.556
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2974,
+      "markdown_body_line_end": 2974,
+      "heading": "21. Karma: desert, causation and social ethics",
+      "preview": "**CORE DISTINCTION:** A strict desert reading says present suffering is proportionate consequence of prior.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3013,
+      "markdown_body_line_end": 3013,
+      "heading": "22. Advaita and the reality-status objection",
+      "preview": "**CORE DISTINCTION:** Major criticism:** Advaita (non-dual school) changes the problem by distinguishing empirical experience from ultimate.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 518.824
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 452.156
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3051,
+      "markdown_body_line_end": 3051,
+      "heading": "23. Buddhist and Samkhya diagnoses compared",
+      "preview": "**CORE DISTINCTION:** High-value transition:** This is a reframing, not a victory by default.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 194.956
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 142.488
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3089,
+      "markdown_body_line_end": 3089,
+      "heading": "24. Protest, lament and moral knowledge",
+      "preview": "**CORE DISTINCTION:** High-value transition:** Protest is philosophically important because it treats the negative moral appearance of.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 641.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 574.624
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3126,
+      "markdown_body_line_end": 3126,
+      "heading": "25. Pastoral reason and philosophical restraint",
+      "preview": "**CORE DISTINCTION:** High-value transition:** The order appropriate to an examination answer is not always the order appropriate at a.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 345.824
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 279.156
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3165,
+      "markdown_body_line_end": 3165,
+      "heading": "26. Full comparative audit grid",
+      "preview": "**CORE DISTINCTION:** High-value transition:** No theory dominates every axis. The examiner rewards explicit trade-offs: what class of.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3180,
+      "markdown_body_line_end": 3189,
+      "heading": "26. Full comparative audit grid",
+      "preview": "Test | Freedom | Soul-making | Augustine | Leibniz",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 8,
+        "headers": [
+          "Test",
+          "Freedom",
+          "Soul-making",
+          "Augustine",
+          "Leibniz"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 723.424
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 535.522
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3193,
+      "markdown_body_line_end": 3202,
+      "heading": "26. Full comparative audit grid",
+      "preview": "Test | Process | Karma | Buddhism",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Test",
+          "Process",
+          "Karma",
+          "Buddhism"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 516.322
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 328.42
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3209,
+      "markdown_body_line_end": 3209,
+      "heading": "27. Essay laboratory - Is evil evidence against God or against a concept of God?",
+      "preview": "**CORE DISTINCTION:** God is finite, processual, impersonal or not a creator, the inference changes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 295.02
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 242.553
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3248,
+      "markdown_body_line_end": 3248,
+      "heading": "28. Essay laboratory - Could God create virtue without suffering?",
+      "preview": "**CORE DISTINCTION:** High-value transition:** Some virtue logically requires vulnerability, but it does not follow that the actual.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 750.691
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 684.024
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3288,
+      "markdown_body_line_end": 3288,
+      "heading": "29. Essay laboratory - Is divine permission equivalent to causation?",
+      "preview": "**CORE DISTINCTION:** High-value transition:** The 2022 PYQ is best answered through layered rather than exclusive responsibility:.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 412.624
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 345.956
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3326,
+      "markdown_body_line_end": 3326,
+      "heading": "30. Essay laboratory - Can eschatology repair theodicy?",
+      "preview": "**CORE DISTINCTION:** High-value transition:** Eschatology can prevent a life from being finally defeated by evil, but future bliss is.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3363,
+      "markdown_body_line_end": 3363,
+      "heading": "31. Essay laboratory - Does prayer intensify the problem?",
+      "preview": "**CORE DISTINCTION:** Major criticism:** Petitionary prayer can intensify evil's evidential problem because traditions portray God.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 499.624
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 432.956
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3400,
+      "markdown_body_line_end": 3400,
+      "heading": "32. Essay laboratory - The relation between evil and divine hiddenness",
+      "preview": "**CORE DISTINCTION:** Do not turn this section into a full hiddenness essay or assert that hiddenness is.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 189.956
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 137.488
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3437,
+      "markdown_body_line_end": 3437,
+      "heading": "33. Essay laboratory - Can theism learn from non-theistic traditions?",
+      "preview": "**CORE DISTINCTION:** The most fruitful comparison is functional and critical: creator-theism supplies a.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 669.691
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 617.224
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3475,
+      "markdown_body_line_end": 3475,
+      "heading": "34. Essay laboratory - Final position options",
+      "preview": "**CORE DISTINCTION:** Final verdict:** The most defensible synthetic judgement is that strict logical incompatibility is not.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 374.224
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 307.556
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3516,
+      "markdown_body_line_end": 3516,
+      "heading": "Final Consolidated Register Notes - Problem of Evil",
+      "preview": "**CORE DISTINCTION:** Major criticism:** Augustine: being is good; evil is privation; defective will; fall/punishment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 724.824
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3529,
+      "markdown_body_line_end": 3529,
+      "heading": "Final Consolidated Register Notes - Problem of Evil",
+      "preview": "Philosophy answer spine",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-03\\g14\\assets\\21_answer-spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 724.824
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 448.531
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3533,
+      "markdown_body_line_end": 3533,
+      "heading": "A. Argument forms at a glance",
+      "preview": "**CORE DISTINCTION:** Core argument:** Logical: omni-power + perfect goodness + evil + unrestricted bridge premises -> inconsistency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 448.531
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 381.863
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3556,
+      "markdown_body_line_end": 3556,
+      "heading": "B. Distinctions that earn marks",
+      "preview": "**EXAM-READY LINE:** High-value transition:** Separate logical from evidential evil, defence from theodicy, explanation from justification and causal responsibility from moral permission.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 261.463
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 194.796
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3569,
+      "markdown_body_line_end": 3578,
+      "heading": "B. Distinctions that earn marks",
+      "preview": "Do not collapse | Precise distinction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Do not collapse",
+          "Precise distinction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 609.09
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3582,
+      "markdown_body_line_end": 3582,
+      "heading": "C. Western response bank",
+      "preview": "**CORE DISTINCTION:** Major reply:** Plantinga: logical defence; significant freedom; possible transworld depravity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 609.09
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 556.622
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3607,
+      "markdown_body_line_end": 3607,
+      "heading": "D. Indian comparison bank",
+      "preview": "**CORE DISTINCTION:** High-value transition:** Nyaya (school of logic and realism): theistic karmic administration; still faces painful-mechanism question.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 345.022
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 278.354
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3631,
+      "markdown_body_line_end": 3631,
+      "heading": "E. Hard-case checklist",
+      "preview": "**CORE DISTINCTION:** High-value transition:** Horrendous evils that destroy agency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 140.754
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 88.287
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3655,
+      "markdown_body_line_end": 3655,
+      "heading": "F. Seven PYQ routes",
+      "preview": "**CORE DISTINCTION:** High-value transition:** 2019: sacred/profane boundary plus evil as soteriological predicament; profane is not evil.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 717.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 650.624
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3678,
+      "markdown_body_line_end": 3678,
+      "heading": "G. 10/15/20-mark answer spines",
+      "preview": "**EXAM-READY LINE:** High-value transition:** For 10-, 15- and 20-mark answers, expand the same spine—definition, reconstruction, objection-reply and verdict—in proportion to the marks and directive.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 530.224
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 463.556
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3691,
+      "markdown_body_line_end": 3703,
+      "heading": "G. 10/15/20-mark answer spines",
+      "preview": "10 marks:",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 463.556
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 342.556
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3707,
+      "markdown_body_line_end": 3707,
+      "heading": "H. Final judgement ladder",
+      "preview": "**EXAM-READY LINE:** Final verdict:** Best: The problem is concept-dependent yet irreducibly evidential and moral; no response is adequate unless it states its burden, treats animals and horrors seriously, avoids victim blame, and strengthe",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 342.556
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 261.688
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3726,
+      "markdown_body_line_end": 3726,
+      "heading": "H. Final judgement ladder",
+      "preview": "[MEMORY] **D-R-O-R-V** - Define, Reconstruct, Objection, Reply, Verdict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 147.288
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 116.82
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3734,
+      "markdown_body_line_end": 3745,
+      "heading": "ASCII MASTER FLOW - PANEL 1/8: 1. Forms of evil",
+      "preview": "EVIL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 650.291
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3749,
+      "markdown_body_line_end": 3758,
+      "heading": "ASCII MASTER FLOW - PANEL 2/8: 2. Logical problem and defence",
+      "preview": "CLAIMED SET: omnipotent God + omniscient God + perfectly good God + evil exists",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 628.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 535.691
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3762,
+      "markdown_body_line_end": 3771,
+      "heading": "ASCII MASTER FLOW - PANEL 3/8: 3. Soul-making and natural order",
+      "preview": "IRENAEUS / JOHN HICK",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 513.691
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 421.091
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3775,
+      "markdown_body_line_end": 3783,
+      "heading": "ASCII MASTER FLOW - PANEL 4/8: 4. Leibniz, Augustine and process revisions",
+      "preview": "AUGUSTINE: evil is privatio boni, not a created substance; misuse of freedom disorders good",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 399.091
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 316.691
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3787,
+      "markdown_body_line_end": 3796,
+      "heading": "ASCII MASTER FLOW - PANEL 5/8: 5. Evidential evil",
+      "preview": "ROWE: apparently pointless suffering exists; an omnipotent good God would prevent it;",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3800,
+      "markdown_body_line_end": 3810,
+      "heading": "ASCII MASTER FLOW - PANEL 6/8: 6. Indian response matrix",
+      "preview": "ADVAITA: suffering belongs to vyāvahārika avidyā; ultimate Brahman is non-dual",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 569.891
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3814,
+      "markdown_body_line_end": 3825,
+      "heading": "ASCII MASTER FLOW - PANEL 7/8: 7. Hard cases and ethical limits",
+      "preview": "TEST ANY THEODICY AGAINST",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 547.891
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 434.891
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0156",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3829,
+      "markdown_body_line_end": 3839,
+      "heading": "ASCII MASTER FLOW - PANEL 8/8: 8. PYQ and answer synthesis",
+      "preview": "DEFINE God-concept + evil type -> separate logical/evidential/existential demand",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 412.891
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 310.091
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    }
+  ]
+}

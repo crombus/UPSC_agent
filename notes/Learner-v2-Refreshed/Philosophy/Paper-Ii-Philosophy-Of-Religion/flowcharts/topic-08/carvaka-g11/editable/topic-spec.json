@@ -1,0 +1,766 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-08",
+  "subject": "Philosophy",
+  "title": "RELIGION AND MORALITY",
+  "short_route": "FOUR RELATION MODELS → DIVINE COMMAND THEORY → EUTHYPHRO AND MODIFIED DCT → KANT AND NATURAL LAW → INDIAN MORAL GROUNDING → MOTIVATION AND CONDUCT",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g11 repaired in place; prior artifacts unchanged outside the scoped current generation"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-08\\g11\\topic-08_Complete-Learning-Session_2026-08-23.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy-2026-08-23.json",
+  "ascii_spec_sha256": "e63024680b7d5d533aa883522db37d9b5a5422a860f7e0e78f96da1e8816180d",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FOUR RELATION MODELS",
+      "structural_type": "relation quadrant",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "FOUR RELATION MODELS",
+          "role": "primary"
+        },
+        {
+          "text": "RELIGION AND MORALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "MORALITY REQUIRES GOD/REVELATION",
+          "role": "comparison"
+        },
+        {
+          "text": "MORAL TRUTH IS AUTONOMOUS",
+          "role": "evidence"
+        },
+        {
+          "text": "MORALITY IS INDEPENDENT BUT RELIGION MOTIVATES/SUSTAINS IT",
+          "role": "primary"
+        },
+        {
+          "text": "RELIGIOUS COMMAND OR IDENTITY CAN CONFLICT WITH MORAL JUDGEMENT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "RELIGION AND MORALITY",
+        "DEPENDENCE: morality requires God/revelation",
+        "INDEPENDENCE: moral truth is autonomous",
+        "SUPPORT: morality is independent but religion motivates/sustains it",
+        "TENSION: religious command or identity can conflict with moral judgement separate ontology (what makes right)"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "RELIGION AND MORALITY",
+            "DEPENDENCE: morality requires God/revelation"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INDEPENDENCE: moral truth is autonomous",
+            "SUPPORT: morality is independent but religion motivates/sustains it"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "TENSION: religious command or identity can conflict with moral judgement separate ontology (what makes right), epistemology (how known),",
+            "one answer need not settle all four."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Religion may ground, reveal, motivate or sanction morality, and these four dependence claims must be assessed separately.",
+      "source_references": [
+        "A. Four relations"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DIVINE COMMAND THEORY",
+      "structural_type": "command-obligation chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DIVINE COMMAND THEORY",
+          "role": "primary"
+        },
+        {
+          "text": "GOD COMMANDS X",
+          "role": "outcome"
+        },
+        {
+          "text": "X IS OBLIGATORY ATTRACTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "OBJECTIVE AUTHORITY",
+          "role": "evidence"
+        },
+        {
+          "text": "CATEGORICAL DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "MOTIVATION VERSIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "RIGHTNESS CONSTITUTED BY COMMAND EPISTEMIC",
+          "role": "comparison"
+        },
+        {
+          "text": "REVELATION TELLS US INDEPENDENTLY GROUNDED MORAL TRUTH MOTIVATIONAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GOD COMMANDS X → X IS OBLIGATORY attractions: objective authority",
+        "categorical demand",
+        "motivation versions",
+        "voluntarist: rightness constituted by command epistemic: revelation tells us independently grounded moral truth motivational: love/judgement",
+        "command identification, conflicting revelations, autonomy and arbitrariness."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "GOD COMMANDS X → X IS OBLIGATORY attractions: objective authority",
+            "categorical demand"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "motivation versions",
+            "voluntarist: rightness constituted by command epistemic: revelation tells us independently grounded moral truth motivational: love/judgement strengthens compliance pressure"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "command identification, conflicting revelations, autonomy and arbitrariness.",
+            "GOD COMMANDS X → X IS OBLIGATORY attractions: objective authority"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Divine command gives obligation authoritative force but faces the dilemma between arbitrary will and independently intelligible goodness.",
+      "source_references": [
+        "B. Divine command theory"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "EUTHYPHRO AND MODIFIED DCT",
+      "structural_type": "dilemma-reply tree",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "EUTHYPHRO AND MODIFIED DCT",
+          "role": "primary"
+        },
+        {
+          "text": "IS X GOOD BECAUSE GOD COMMANDS IT?",
+          "role": "outcome"
+        },
+        {
+          "text": "MORALITY APPEARS ARBITRARY; CRUELTY COULD BECOME RIGHT",
+          "role": "comparison"
+        },
+        {
+          "text": "GOODNESS IS INDEPENDENT; GOD IS NOT ITS FOUNDATION",
+          "role": "caution"
+        },
+        {
+          "text": "MODIFIED DIVINE COMMAND THEORY",
+          "role": "primary"
+        },
+        {
+          "text": "GOD'S NECESSARILY LOVING/GOOD NATURE GROUNDS VALUE DIVINE COMMANDS FLOWING",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "IS X GOOD BECAUSE GOD COMMANDS IT?",
+        "YES: morality appears arbitrary; cruelty could become right",
+        "NO: goodness is independent; God is not its foundation",
+        "MODIFIED DIVINE COMMAND THEORY",
+        "God's necessarily loving/good nature grounds value divine commands flowing from that nature ground obligation reply"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "IS X GOOD BECAUSE GOD COMMANDS IT?",
+            "YES: morality appears arbitrary; cruelty could become right"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "NO: goodness is independent; God is not its foundation",
+            "MODIFIED DIVINE COMMAND THEORY"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "God's necessarily loving/good nature grounds value divine commands flowing from that nature ground obligation reply blocks arbitrary commands",
+            "objection asks whether “good nature” is intelligible without a standard logically prior to command."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The Euthyphro dilemma defeats arbitrary command, not every religious ethic; the strongest reply grounds commands in a necessarily good divine nature.",
+      "source_references": [
+        "C. Euthyphro and modified DCT"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "KANT AND NATURAL LAW",
+      "structural_type": "autonomy comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "KANT AND NATURAL LAW",
+          "role": "primary"
+        },
+        {
+          "text": "MORAL LAW ARISES FROM RATIONAL AUTONOMY, NOT HETERONOMOUS REWARD",
+          "role": "caution"
+        },
+        {
+          "text": "UNIVERSAL LAW + HUMANITY AS END",
+          "role": "comparison"
+        },
+        {
+          "text": "GOD AND IMMORTALITY ARE PRACTICAL POSTULATES OF HIGHEST GOOD",
+          "role": "evidence"
+        },
+        {
+          "text": "NATURAL LAW",
+          "role": "primary"
+        },
+        {
+          "text": "PRACTICAL REASON READS GOODS AND PURPOSES IN HUMAN NATURE",
+          "role": "outcome"
+        },
+        {
+          "text": "AQUINAS JOINS RATIONAL PARTICIPATION IN ETERNAL LAW WITH DIVINE",
+          "role": "comparison"
+        },
+        {
+          "text": "OBEY BECAUSE RATIONALLY RIGHT, NOT MERELY BECAUSE COMMANDED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "KANT: moral law arises from rational autonomy, not heteronomous reward or threat categorical imperative →",
+        "God and immortality are practical postulates of highest good, not sources of duty",
+        "NATURAL LAW: practical reason reads goods and purposes in human nature",
+        "Aquinas joins rational participation in eternal law with divine order contrast: obey because rationally right",
+        "religion may complete moral hope without replacing moral deliberation."
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "KANT: moral law arises from rational autonomy, not heteronomous reward or threat categorical imperative → universal law + humanity as end",
+          "NATURAL LAW: practical reason reads goods and purposes in human nature",
+          "religion may complete moral hope without replacing moral deliberation."
+        ],
+        [
+          "God and immortality are practical postulates of highest good, not sources of duty",
+          "Aquinas joins rational participation in eternal law with divine order contrast: obey because rationally right, not merely because commanded",
+          "KANT: moral law arises from rational autonomy, not heteronomous reward or threat categorical imperative → universal law + humanity as end"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "KANT: moral law arises from rational autonomy, not heteronomous reward or threat categorical imperative → universal law + humanity as end",
+            "God and immortality are practical postulates of highest good, not sources of duty"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "NATURAL LAW: practical reason reads goods and purposes in human nature",
+            "Aquinas joins rational participation in eternal law with divine order contrast: obey because rationally right, not merely because commanded"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "religion may complete moral hope without replacing moral deliberation.",
+            "KANT: moral law arises from rational autonomy, not heteronomous reward or threat categorical imperative → universal law + humanity as end"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "For Kant, an act has moral worth when performed from a rationally self-legislated duty, not from fear of divine punishment or hope of reward.",
+      "source_references": [
+        "D. Kant and natural law"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "INDIAN MORAL GROUNDING",
+      "structural_type": "dharma-karma-liberation map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INDIAN MORAL GROUNDING",
+          "role": "primary"
+        },
+        {
+          "text": "DHARMA KNOWN THROUGH AUTHORLESS VEDA; APŪRVA LINKS RITUAL ACT",
+          "role": "institution"
+        },
+        {
+          "text": "GOD ADMINISTERS KARMA, BUT DESERTS ARISE FROM AGENTS' ACTS",
+          "role": "comparison"
+        },
+        {
+          "text": "INTENTION, COMPASSION AND NON-HARM WITHIN DEPENDENT ORIGINATION; NO CREATOR",
+          "role": "caution"
+        },
+        {
+          "text": "AHIṂSĀ AND VOWS PURIFY JĪVA BY BLOCKING KARMIC INFLUX",
+          "role": "primary"
+        },
+        {
+          "text": "DHARMA, NIṢKĀMA KARMA, DEVOTION AND KNOWLEDGE RESHAPE AGENCY",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIAN ETHICS SHOWS OBJECTIVE DISCIPLINE WITHOUT ONE UNIFORM DIVINE-COMMAND",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "MĪMĀṂSĀ: dharma known through authorless Veda; apūrva links ritual act and result",
+        "NYĀYA: God administers karma, but deserts arise from agents' acts",
+        "BUDDHISM: intention, compassion and non-harm within dependent origination; no creator",
+        "JAINISM: ahiṃsā and vows purify jīva by blocking karmic influx",
+        "GĪTĀ/VEDĀNTA: dharma, niṣkāma karma, devotion and knowledge reshape agency"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "MĪMĀṂSĀ: dharma known through authorless Veda; apūrva links ritual act and result",
+            "NYĀYA: God administers karma, but deserts arise from agents' acts"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BUDDHISM: intention, compassion and non-harm within dependent origination; no creator",
+            "JAINISM: ahiṃsā and vows purify jīva by blocking karmic influx"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "GĪTĀ/VEDĀNTA: dharma, niṣkāma karma, devotion and knowledge reshape agency",
+            "Indian ethics shows objective discipline without one uniform divine-command model."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Indian moral grounding ranges from Vedic duty and karma to non-theistic compassion, so dharma cannot be reduced to divine command.",
+      "source_references": [
+        "E. Indian grounding"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "MOTIVATION AND CONDUCT",
+      "structural_type": "moral-motivation ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MOTIVATION AND CONDUCT",
+          "role": "primary"
+        },
+        {
+          "text": "WHY BE MORAL?",
+          "role": "outcome"
+        },
+        {
+          "text": "FEAR OF PUNISHMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "HOPE OF REWARD",
+          "role": "evidence"
+        },
+        {
+          "text": "SOCIAL BELONGING",
+          "role": "primary"
+        },
+        {
+          "text": "RESPECT FOR PERSONS",
+          "role": "outcome"
+        },
+        {
+          "text": "LOVE OF GOOD/GOD LOWER MOTIVES MAY SECURE COMPLIANCE BUT",
+          "role": "comparison"
+        },
+        {
+          "text": "IT CAN ALSO RATIONALISE BIAS WHEN IDENTITY OUTRUNS UNIVERSAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WHY BE MORAL?",
+        "fear of punishment → hope of reward → social belonging → character/virtue",
+        "respect for persons → compassion → love of good/God lower motives may secure compliance but",
+        "religiosity can support self-control, service and forgiveness",
+        "it can also rationalise bias when identity outruns universal concern"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "WHY BE MORAL?",
+            "fear of punishment → hope of reward → social belonging → character/virtue"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "respect for persons → compassion → love of good/God lower motives may secure compliance but not moral maturity",
+            "religiosity can support self-control, service and forgiveness"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "it can also rationalise bias when identity outruns universal concern",
+            "TEST: conduct and reasons, not ritual profession alone, reveal moral integration."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Religion can intensify moral motivation through identity, exemplars, community and accountability, but religiosity is neither necessary nor sufficient for moral conduct.",
+      "source_references": [
+        "F. Why be moral all the time?",
+        "H. Religiosity and conduct"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "VIOLENCE, NIETZSCHE AND MORAL CRITIQUE",
+      "structural_type": "pathology-and-critique matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "VIOLENCE, NIETZSCHE AND MORAL CRITIQUE",
+          "role": "primary"
+        },
+        {
+          "text": "RELIGION WITHOUT MORALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "RITUAL PURITY OR ORTHODOXY DETACHED FROM JUSTICE/COMPASSION",
+          "role": "comparison"
+        },
+        {
+          "text": "VIOLENCE PATH",
+          "role": "evidence"
+        },
+        {
+          "text": "EXCLUSIVE TRUTH + SACRED AUTHORISATION + DEHUMANISED OUT-GROUP POLITICAL",
+          "role": "primary"
+        },
+        {
+          "text": "MORAL DISENGAGEMENT SAFEGUARDS",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERPRETATION, CONSCIENCE, RIGHTS, PLURAL INSTITUTIONS, NON-VIOLENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "GENEALOGY EXPOSES RESSENTIMENT AND LIFE-DENYING SLAVE MORALITY OBJECTION TO",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RELIGION WITHOUT MORALITY: ritual purity or orthodoxy detached from justice/compassion",
+        "VIOLENCE PATH: exclusive truth + sacred authorisation + dehumanised out-group political grievance → moral disengagement",
+        "rights, plural institutions, non-violence",
+        "NIETZSCHE: genealogy exposes ressentiment and life-denying slave morality objection to Nietzsche: power may erase equality",
+        "weak verdict: both religion and anti-religious critique need independent scrutiny of consequences."
+      ],
+      "matrix": [
+        [
+          "DOCTRINE / CLAIM",
+          "OBJECTION / PRESSURE",
+          "REPLY / RESIDUAL"
+        ],
+        [
+          "RELIGION WITHOUT MORALITY: ritual purity or orthodoxy detached from justice/compassion",
+          "rights, plural institutions, non-violence",
+          "weak verdict: both religion and anti-religious critique need independent scrutiny of consequences."
+        ],
+        [
+          "VIOLENCE PATH: exclusive truth + sacred authorisation + dehumanised out-group political grievance → moral disengagement safeguards: interpretation, conscience,",
+          "NIETZSCHE: genealogy exposes ressentiment and life-denying slave morality objection to Nietzsche: power may erase equality and protection of",
+          "RELIGION WITHOUT MORALITY: ritual purity or orthodoxy detached from justice/compassion"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "RELIGION WITHOUT MORALITY: ritual purity or orthodoxy detached from justice/compassion",
+            "VIOLENCE PATH: exclusive truth + sacred authorisation + dehumanised out-group political grievance → moral disengagement safeguards: interpretation, conscience,"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "rights, plural institutions, non-violence",
+            "NIETZSCHE: genealogy exposes ressentiment and life-denying slave morality objection to Nietzsche: power may erase equality and protection of"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "weak verdict: both religion and anti-religious critique need independent scrutiny of consequences.",
+            "RELIGION WITHOUT MORALITY: ritual purity or orthodoxy detached from justice/compassion"
+          ]
+        }
+      ],
+      "mechanism_strip": "NIETZSCHE: genealogy exposes ressentiment and life-denying slave morality objection to Nietzsche: power may erase equality and protection of weak verdict: both religion and anti-religious critique need independent scrutiny of consequences.",
+      "answer_line": "Nietzsche exposes life-denying moral genealogies, but his critique must itself answer how power protects equality and the vulnerable.",
+      "source_references": [
+        "G. Religion without morality",
+        "I. Religious violence",
+        "J. Nietzsche"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "synthesis",
+      "title": "PYQ ANSWER ARCHITECTURE",
+      "structural_type": "four-axis synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ ANSWER ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "STATE PRECISE DEPENDENCE CLAIM",
+          "role": "institution"
+        },
+        {
+          "text": "SEPARATE GROUND/KNOWLEDGE/MOTIVE/SANCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "MODIFIED DCT",
+          "role": "evidence"
+        },
+        {
+          "text": "KANT/NATURAL LAW",
+          "role": "primary"
+        },
+        {
+          "text": "INDIAN NON-THEISTIC AND THEISTIC MODELS",
+          "role": "outcome"
+        },
+        {
+          "text": "CONDUCT/VIOLENCE TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "MORALITY NEED NOT DEPEND ON DIVINE COMMAND FOR INTELLIGIBILITY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "STATE precise dependence claim → separate ground/knowledge/motive/sanction",
+        "DCT → Euthyphro → modified DCT → Kant/natural law",
+        "Indian non-theistic and theistic models → conduct/violence test → verdict",
+        "CLOSE: morality need not depend on divine command for intelligibility, yet religion can deepen moral",
+        "its legitimacy depends on whether faith remains answerable to reason, dignity and justice."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "STATE precise dependence claim → separate ground/knowledge/motive/sanction",
+            "DCT → Euthyphro → modified DCT → Kant/natural law"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Indian non-theistic and theistic models → conduct/violence test → verdict",
+            "CLOSE: morality need not depend on divine command for intelligibility, yet religion can deepen moral motivation, community and hope"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "its legitimacy depends on whether faith remains answerable to reason, dignity and justice.",
+            "STATE precise dependence claim → separate ground/knowledge/motive/sanction"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A strong answer separates validity, knowledge, motivation and sanction before comparing theistic and non-theistic moral frameworks.",
+      "source_references": [
+        "K. Eleven PYQ routes",
+        "L. Final answer discipline"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED-DOSSIER RECONCILIATION — [OPTIONAL ADVANCED]",
+          "role": "outcome"
+        },
+        {
+          "text": "DOCTRINE STATEMENT. MORAL OBLIGATION CONSISTS IN BEING COMMANDED BY",
+          "role": "comparison"
+        },
+        {
+          "text": "(1) OBLIGATION HAS AUTHORITY OVER PREFERENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "(2) A SUPREME PERSONAL LEGISLATOR CAN ISSUE UNIVERSALLY BINDING",
+          "role": "primary"
+        },
+        {
+          "text": "(3) DIVINE KNOWLEDGE AND GOODNESS SECURE RIGHT CONTENT",
+          "role": "outcome"
+        },
+        {
+          "text": "(4) ACCOUNTABILITY SUPPLIES MOTIVATIONAL SERIOUSNESS.",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESUPPOSITION. CAUTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "Advanced-dossier reconciliation — [OPTIONAL ADVANCED]",
+            "Doctrine statement. Moral obligation consists in being commanded by God; modified versions ground commands in an essentially loving divine nature.",
+            "Argument.",
+            "(1) Obligation has authority over preference"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "(2) a supreme personal legislator can issue universally binding commands",
+            "(3) divine knowledge and goodness secure right content",
+            "(4) accountability supplies motivational seriousness.",
+            "Presupposition. CAUTION: God exists, divine commands are knowable, and authority can generate moral reasons."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Distinction.",
+            "Semantic dependence (\"wrong\" means forbidden) differs from metaphysical dependence (wrongness is constituted by prohibition) and motivational dependence (belief",
+            "Canonical example. Abrahamic command cases test whether obedience can override ordinary moral judgement.",
+            "Objection → reply."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

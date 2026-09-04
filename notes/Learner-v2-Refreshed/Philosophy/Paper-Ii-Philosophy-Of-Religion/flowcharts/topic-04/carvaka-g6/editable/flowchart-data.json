@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-04",
+  "generation": 6,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-04\\topic-04_Complete-Learning-Session_2026-08-22.md",
+  "master_dimensions": [
+    3600,
+    1130
+  ],
+  "stages": [
+    {
+      "title": "CONTEMPORARY-LINK BOUNDARY",
+      "terms": "Contemporary-link boundary: ⚠️ Inference: Current relevance is therefore conceptual rather than event-driven.",
+      "mechanism": "⚠️ Inference: Current relevance is therefore conceptual rather than event-driven.",
+      "consequence": "⚠️ Inference: Current relevance is therefore conceptual rather than event-driven.",
+      "trap": "⚠️ Inference: Current relevance is therefore conceptual rather than event-driven.",
+      "answer": "✅ Fact: A fresh August 2026 search found ongoing scholarly work on personal identity and resurrection, but no sufficiently direct official Indian current-affairs development tied to this static syllabus clause."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 1130,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 1
+    }
+  ]
+}

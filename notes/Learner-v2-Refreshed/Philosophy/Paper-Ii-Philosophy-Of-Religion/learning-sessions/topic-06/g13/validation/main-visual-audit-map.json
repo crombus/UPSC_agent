@@ -1,0 +1,1778 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g13\\topic-06_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g13\\topic-06_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-06",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 5,
+      "heading": "Religious Experience: Nature and Object - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Catalogue identity:** Philosophy Optional · Philosophy Paper II — Philosophy of Religion · `philosophy-paper-ii-philosophy-of-religion-06` **Generation:** g13, 3 September 2026 · **Approval:** pending explicit topic approval **Evidence di",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 678.224
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 9,
+      "markdown_body_line_end": 17,
+      "heading": "Package practice counts",
+      "preview": "Component | Count",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Component",
+          "Count"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 653.224
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 480.222
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 27,
+      "markdown_body_line_end": 34,
+      "heading": "Exact printed ownership and cross-topic firewall",
+      "preview": "Owned here | Boundary",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Owned here",
+          "Boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 388.822
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 192.22
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 43,
+      "markdown_body_line_end": 46,
+      "heading": "0A. FOUR ANALYTICAL LAYERS AND EXPERIENCE VARIETIES ANALYSIS:",
+      "preview": "PHENOMENOLOGY -> CLAIMED OBJECT -> INTERPRETATION -> EPISTEMIC FORCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 754.291
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 48,
+      "markdown_body_line_end": 55,
+      "heading": "0A. FOUR ANALYTICAL LAYERS AND EXPERIENCE VARIETIES ANALYSIS:",
+      "preview": "Variety | Characteristic structure | Typical attribution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Variety",
+          "Characteristic structure",
+          "Typical attribution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 754.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 580.09
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 61,
+      "markdown_body_line_end": 61,
+      "heading": "0A. FOUR ANALYTICAL LAYERS AND EXPERIENCE VARIETIES ANALYSIS:",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g13\\assets\\topic-06_Teaching-Navigation_2026-08-23.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 532.49
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 224.954
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 82,
+      "heading": "Source-complete coverage ledger and answer-worthiness labels",
+      "preview": "Source corpus | Final location | Retention decision",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Source corpus",
+          "Final location",
+          "Retention decision"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 751.891
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 489.29
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 89,
+      "markdown_body_line_end": 100,
+      "heading": "Learning roadmap",
+      "preview": "Unit | Learner objective",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Unit",
+          "Learner objective"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 354.89
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 118.288
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 112,
+      "markdown_body_line_end": 112,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Religious experience may transform the subject, but its private force does not automatically become public proof of the reality it appears to disclose.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 128,
+      "markdown_body_line_end": 128,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Religious experience evaluation ladder",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g13\\assets\\experience-evaluation-ladder.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 415.824
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 108.288
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 132,
+      "markdown_body_line_end": 143,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "1. PHENOMENOLOGY: What is the experience like?",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 145,
+      "markdown_body_line_end": 145,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Master rule:** A vivid or transformative experience can be psychologically real without its interpretation being automatically true. Equally, conceptual or neural mediation does not automatically make it fabricated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 696.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 651.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 150,
+      "markdown_body_line_end": 151,
+      "heading": "ONE-SCREEN MAP ANALYSIS:",
+      "preview": "[!IMPORTANT] **CORE DISTINCTION:** Religious experience is an experience interpreted as disclosing or relating the subject to an ultimate, sacred or divine reality. **Core argument/criticism:** Phenomenology describes what the experience is",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 651.624
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 542.356
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 154,
+      "markdown_body_line_end": 171,
+      "heading": "ONE-SCREEN MAP ANALYSIS:",
+      "preview": "RELIGIOUS EXPERIENCE",
+      "metadata": {
+        "language": "plain",
+        "line_count": 16,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 542.356
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 371.356
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 172,
+      "markdown_body_line_end": 172,
+      "heading": "ONE-SCREEN MAP ANALYSIS:",
+      "preview": "🔑 **Mnemonic — James's marks are two-plus-two, not four.** ***I-N*** = **I**neffable + **N**oetic are the **defining** marks (\"entitle any state to be called mystical\"); ***T-P*** = **T**ransient + **P**assive are the **usual** accompanimen",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 371.356
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 298.288
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 177,
+      "markdown_body_line_end": 185,
+      "heading": "CLOSING RECALL FLOW - RELIGIOUS EXPERIENCE: NATURE, OBJECT AND EPISTEMIC PROBLEM",
+      "preview": "RELIGIOUS EXPERIENCE: NATURE, OBJECT AND EPISTEMIC PROBLEM",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 274.788
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 177.12
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 196,
+      "markdown_body_line_end": 196,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mystical experience is a mode of religious experience marked, for William James, primarily by ineffability and noetic quality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 209,
+      "markdown_body_line_end": 210,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "[!IMPORTANT] **CORE DISTINCTION:** Mystical experience is a mode of religious experience marked, for William James, primarily by ineffability and noetic quality. **Core argument/criticism:** James's appeal to transformative fruits avoids re",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 468.224
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 380.956
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 229,
+      "markdown_body_line_end": 237,
+      "heading": "CLOSING RECALL FLOW - WESTERN ACCOUNTS OF RELIGIOUS EXPERIENCE",
+      "preview": "WESTERN ACCOUNTS OF RELIGIOUS EXPERIENCE",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 652.191
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 537.823
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 248,
+      "markdown_body_line_end": 248,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Advaitic aparokṣānubhūti (immediate non-mediated realisation) is direct recognition of the identity of ātman (the true self) and Brahman (ultimate reality).",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 388.623
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 321.955
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 261,
+      "markdown_body_line_end": 262,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "[!IMPORTANT] **CORE DISTINCTION:** Advaitic aparokṣānubhūti (immediate non-mediated realisation) is direct recognition of the identity of ātman (the true self) and Brahman (ultimate reality). **Core argument/criticism:** Unlike episodic sub",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 163.355
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 76.087
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 275,
+      "markdown_body_line_end": 280,
+      "heading": "2.1 Indian experience-types - bounded comparative bridge",
+      "preview": "Tradition | Experience-structure | Claimed object/terminus | Control",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Tradition",
+          "Experience-structure",
+          "Claimed object/terminus",
+          "Control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 581.191
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 412.29
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 286,
+      "markdown_body_line_end": 294,
+      "heading": "CLOSING RECALL FLOW - INDIAN ACCOUNTS OF RELIGIOUS EXPERIENCE",
+      "preview": "INDIAN ACCOUNTS OF RELIGIOUS EXPERIENCE",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 376.09
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 270.071
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 305,
+      "markdown_body_line_end": 305,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Psychological genuineness does not settle veridicality; the philosophical question is whether religious experience presents an independent object or only an interpreted inner state.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 318,
+      "markdown_body_line_end": 319,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "[!IMPORTANT] **CORE DISTINCTION:** Veridicality asks whether a religious experience presents a real object rather than only a psychologically genuine state. **Core argument/criticism:** Credulity, coherence and transformative fruits support",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 584.024
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 496.756
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 331,
+      "markdown_body_line_end": 339,
+      "heading": "CLOSING RECALL FLOW - THE OBJECT AND VERIDICALITY OF RELIGIOUS EXPERIENCE",
+      "preview": "THE OBJECT AND VERIDICALITY OF RELIGIOUS EXPERIENCE",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 300.056
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 194.037
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 350,
+      "markdown_body_line_end": 350,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Religious experience ranges from extraordinary claims of union to ordinary practices of prayer and worship, so its nature must be classified before its truth is assessed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 363,
+      "markdown_body_line_end": 373,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Thinker | Nature | Object | Key term",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 9,
+        "headers": [
+          "Thinker",
+          "Nature",
+          "Object",
+          "Key term"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 584.024
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 323.122
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 378,
+      "markdown_body_line_end": 386,
+      "heading": "CLOSING RECALL FLOW - MYSTICISM, NUMINOUS EXPERIENCE, PRAYER AND WORSHIP",
+      "preview": "MYSTICISM, NUMINOUS EXPERIENCE, PRAYER AND WORSHIP",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 299.622
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 193.604
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 397,
+      "markdown_body_line_end": 397,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Religious experience is not a single phenomenological type: James, Otto and Advaita identify different structures, objects and standards of spiritual disclosure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 432,
+      "markdown_body_line_end": 440,
+      "heading": "CLOSING RECALL FLOW - JAMES, OTTO, ADVAITA AND FOUNDATIONAL POSITIONS",
+      "preview": "JAMES, OTTO, ADVAITA AND FOUNDATIONAL POSITIONS",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 210.024
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 104.005
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 451,
+      "markdown_body_line_end": 451,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Religious experience is strongest as evidence of transformed consciousness and lived orientation, but weaker as coercive public proof of one disputed metaphysical object.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 464,
+      "markdown_body_line_end": 471,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Axis | Western | Indian | Discriminating point",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Axis",
+          "Western",
+          "Indian",
+          "Discriminating point"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 449.224
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 228.822
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 478,
+      "markdown_body_line_end": 486,
+      "heading": "7.1 - \"Nature and variety of religious experience as presented by William James.\" (2022, 15m)",
+      "preview": "Intro : James — empirical, pragmatic study of personal religion (Varieties).",
+      "metadata": {
+        "language": "plain",
+        "line_count": 7,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 185.322
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 104.322
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 489,
+      "markdown_body_line_end": 496,
+      "heading": "7.2 - \"Main features of religious experience according to Advaita Vedānta.\" (2024, 15m)",
+      "preview": "Intro : Advaita — highest experience is aparokṣānubhūti (direct realisation of Brahman).",
+      "metadata": {
+        "language": "plain",
+        "line_count": 6,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 499,
+      "markdown_body_line_end": 519,
+      "heading": "7.3 - \"Distinguish between prayer and worship and determine their place in religion.\" (2020, 15m)",
+      "preview": "Intro : two deliverables — the distinction, then the placement. Do both.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 19,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 694.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 493.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 522,
+      "markdown_body_line_end": 536,
+      "heading": "7.4 - \"How far can religious experience be made a topic of public discourse?\" (2019, 15m)",
+      "preview": "Intro : the stem asks HOW FAR — so the answer must be graded, not yes/no.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 13,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 471.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 330.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 539,
+      "markdown_body_line_end": 556,
+      "heading": "7.5 - \"'Sacred' and 'Holy' as generic names for the object of religion. Can one have God as the object?\" (2018, 20m)",
+      "preview": "Intro : the stem grants the generic category and asks after the specific one — answer in degrees.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 16,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 295.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 124.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 562,
+      "markdown_body_line_end": 567,
+      "heading": "Interpretation and mediation dispute",
+      "preview": "Position | Claim | Pressure",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Position",
+          "Claim",
+          "Pressure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 633.09
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 575,
+      "markdown_body_line_end": 583,
+      "heading": "CLOSING RECALL FLOW - COMPARATIVE EVALUATION OF RELIGIOUS EXPERIENCE",
+      "preview": "COMPARATIVE EVALUATION OF RELIGIOUS EXPERIENCE",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 577.19
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 471.171
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1443,
+      "markdown_body_line_end": 1444,
+      "heading": "9.2 Otto's numinous",
+      "preview": "[!IMPORTANT] **CORE DISTINCTION:** The numinous is Rudolf Otto's name for the non-rational experience of the Holy as mysterium tremendum et fascinans (a mystery evoking dread and attraction). **Core argument/criticism:** Otto captures relig",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 483.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 374.024
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1495,
+      "markdown_body_line_end": 1496,
+      "heading": "9.7 Prayer and worship: the distinction and their place in religion (2020 Q7(b) owner-module)",
+      "preview": "[!IMPORTANT] **CORE DISTINCTION:** Prayer is communicative address to the ultimate, whereas worship is the acknowledgement and enactment of supreme worth. **Core argument/criticism:** Petition faces problems of divine omniscience and immuta",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 475.891
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 380.824
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1500,
+      "markdown_body_line_end": 1507,
+      "heading": "9.7 Prayer and worship: the distinction and their place in religion (2020 Q7(b) owner-module)",
+      "preview": "Axis | Prayer | Worship",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Axis",
+          "Prayer",
+          "Worship"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 306.824
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 143.822
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1526,
+      "markdown_body_line_end": 1527,
+      "heading": "9.8 Religious experience in public discourse: the intersubjectivity problem (2019 Q7(c) owner-module)",
+      "preview": "[!IMPORTANT] **CORE DISTINCTION:** Public discourse requires private religious experience to be translated into claims assessable through shared reasons and observable consequences. **Core argument/criticism:** Ineffability limits literal r",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 312.891
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 203.624
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1544,
+      "markdown_body_line_end": 1545,
+      "heading": "9.9 Alston's perceptual model of religious experience",
+      "preview": "[!IMPORTANT] **EXAM-READY LINE:** Alston's perceptual model treats mystical perception as an experience in which God appears to be directly presented. **Core argument/criticism:** Doxastic-practice parity challenges selective scepticism, ye",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 336.091
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 241.024
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1557,
+      "markdown_body_line_end": 1558,
+      "heading": "9.10 The sacred and the holy as the object of religion (2018 Q7(a) owner-module)",
+      "preview": "[!IMPORTANT] **CORE DISTINCTION:** The sacred is the generic category of reality set apart as ultimately significant, while the Holy names the numinous value and presence emphasised by Otto. **Core argument/criticism:** God is one possible ",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 472.891
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 377.824
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1560,
+      "markdown_body_line_end": 1560,
+      "heading": "9.10 The sacred and the holy as the object of religion (2018 Q7(a) owner-module)",
+      "preview": "⚠️ **Ownership rule.** The **sacred/holy-as-object** pole is owned here. The **evil/profane-as-religion-founding** pole is owned by [Problem of Evil §9.6](./Problem-of-Evil.md) (2019 Q6(b)). Each file carries the full conceptual pair so eit",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 377.824
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 304.756
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1573,
+      "markdown_body_line_end": 1584,
+      "heading": "10. INTER-THINKER / INTER-SCHOOL DEBATES",
+      "preview": "Account | Nature | Object | Epistemic claim | Main risk",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 10,
+        "headers": [
+          "Account",
+          "Nature",
+          "Object",
+          "Epistemic claim",
+          "Main risk"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 530.891
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 207.49
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1625,
+      "markdown_body_line_end": 1625,
+      "heading": "14. PYQ ROUTING (2018-2025)",
+      "preview": "⚠️ **Corpus signal:** 8 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1627,
+      "markdown_body_line_end": 1636,
+      "heading": "14. PYQ ROUTING (2018-2025)",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 742.624
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 523.222
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1642,
+      "markdown_body_line_end": 1643,
+      "heading": "15. ANSWER ARCHITECTURE (10 / 15 / 20 MARKS)",
+      "preview": "[!IMPORTANT] **CORE DISTINCTION:** A religious-experience answer should begin by identifying whether the stem asks about nature, object, warrant or religious function. **Core argument/criticism:** The strongest structure reconstructs one ac",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 504.022
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 394.754
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1647,
+      "markdown_body_line_end": 1650,
+      "heading": "10 marks",
+      "preview": "Define the experience → list structured marks → identify object →",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 372.754
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 341.754
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1653,
+      "markdown_body_line_end": 1656,
+      "heading": "15 marks",
+      "preview": "Nature/object distinction → thinker's account and presupposition →",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 319.754
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 288.754
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1659,
+      "markdown_body_line_end": 1663,
+      "heading": "20 marks",
+      "preview": "Phenomenology → claimed object → warrant from credulity/testimony/fruits →",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 266.754
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 225.754
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1667,
+      "markdown_body_line_end": 1676,
+      "heading": "16. DIRECTIVE DECODER",
+      "preview": "Directive | Examiner is buying | Structural consequence | Live example",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Directive",
+          "Examiner is buying",
+          "Structural consequence",
+          "Live example"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 483.89
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1678,
+      "markdown_body_line_end": 1678,
+      "heading": "16. DIRECTIVE DECODER",
+      "preview": "🔑 **Rule:** every question in this clause has a **nature** half and an **object** half. Answer both explicitly, and say whether the object is *encountered* (relation) or *realised* (identity) — that single sentence separates a good script f",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 483.89
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 425.022
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1682,
+      "markdown_body_line_end": 1688,
+      "heading": "17. GRADED VERDICT LADDER",
+      "preview": "Band | What the script contains | Typical fault",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Band",
+          "What the script contains",
+          "Typical fault"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 403.022
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 194.02
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1697,
+      "markdown_body_line_end": 1715,
+      "heading": "18. FACTUAL AND QUOTATION DISCIPLINE",
+      "preview": "Item | Status | Safe use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 17,
+        "headers": [
+          "Item",
+          "Status",
+          "Safe use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 234.29
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1776,
+      "markdown_body_line_end": 1780,
+      "heading": "E. Sacred, Holy and God",
+      "preview": "Term | Core meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Term",
+          "Core meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 185.091
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 96.89
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1845,
+      "markdown_body_line_end": 1845,
+      "heading": "L. Final answer discipline",
+      "preview": "**Final judgement:** Religious experience can rationally ground belief for the subject and enter public assessment through testimony, coherence and fruits, but plural interpretations prevent it from operating as a universally coercive proof",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 664.891
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 606.024
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1851,
+      "markdown_body_line_end": 1861,
+      "heading": "ASCII MASTER FLOW - PANEL 1/8: 1. Three-question method",
+      "preview": "RELIGIOUS EXPERIENCE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 559.024
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 456.224
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1865,
+      "markdown_body_line_end": 1875,
+      "heading": "ASCII MASTER FLOW - PANEL 2/8: 2. William James",
+      "preview": "JAMES'S MARKS OF MYSTICAL EXPERIENCE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 434.224
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 331.424
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1879,
+      "markdown_body_line_end": 1888,
+      "heading": "ASCII MASTER FLOW - PANEL 3/8: 3. Rudolf Otto and the numinous",
+      "preview": "THE NUMINOUS = MYSTERIUM TREMENDUM ET FASCINANS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 309.424
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 216.824
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1892,
+      "markdown_body_line_end": 1901,
+      "heading": "ASCII MASTER FLOW - PANEL 4/8: 4. Advaita and Radhakrishnan",
+      "preview": "ADVAITA: aparokṣānubhūti is immediate knowledge of non-dual Brahman",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1905,
+      "markdown_body_line_end": 1915,
+      "heading": "ASCII MASTER FLOW - PANEL 5/8: 5. Object models",
+      "preview": "MODEL                WHAT EXPERIENCE PRESENTS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 569.891
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1919,
+      "markdown_body_line_end": 1927,
+      "heading": "ASCII MASTER FLOW - PANEL 6/8: 6. Veridicality tests",
+      "preview": "SWINBURNE PRINCIPLE OF CREDULITY: accept seeming appearance unless defeated",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 547.891
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 465.491
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1931,
+      "markdown_body_line_end": 1940,
+      "heading": "ASCII MASTER FLOW - PANEL 7/8: 7. Criticisms, replies and public life",
+      "preview": "FREUD: wish-fulfilment | MARX: social consolation | neuroscience: neural correlate",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 443.491
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 350.891
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1944,
+      "markdown_body_line_end": 1952,
+      "heading": "ASCII MASTER FLOW - PANEL 8/8: 8. PYQ answer spine",
+      "preview": "DEFINE type -> describe phenomenology with James/Otto -> specify claimed object",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 328.891
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 246.491
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    }
+  ]
+}

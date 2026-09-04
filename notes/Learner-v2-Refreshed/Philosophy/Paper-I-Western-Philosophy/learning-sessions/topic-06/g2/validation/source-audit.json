@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "audited_on": "2026-08-26",
+  "topic_key": "philosophy-paper-i-western-philosophy-06",
+  "canonical_sequence_number": 6,
+  "resolved_generation": 2,
+  "approval": false,
+  "official_syllabus_verbatim": "Moore, Russell and Early Wittgenstein : Defence of Commonsense; Refutation of Idealism; Logical Atomism; Logical Constructions; Incomplete Symbols; Picture Theory of Meaning; Sying and Showing.",
+  "source_hierarchy": [
+    {
+      "rank": 1,
+      "type": "Markdown",
+      "status": "used as source of truth",
+      "paths": [
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Moore-Russell-EarlyWittgenstein.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md",
+        "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md"
+      ]
+    },
+    {
+      "rank": 2,
+      "type": "OCR-searchable local PDFs",
+      "status": "audited for deeper corroboration",
+      "evidence": [
+        {
+          "path": "books\\philosphy_books\\a_new_history_of_western_philosophy_volume_4.pdf",
+          "sha256": "8ac4f951ec127d49d3e2cc40ec46ae810c44f3afd5dfbbe7051245599df04ed4",
+          "page_count": 364,
+          "search_hits": {
+            "logical atomism": [
+              11,
+              70,
+              71,
+              77,
+              202
+            ],
+            "incomplete symbol": [
+              69,
+              359
+            ],
+            "refutation of idealism": [
+              65
+            ],
+            "picture theory": [
+              11,
+              72,
+              74,
+              149,
+              152
+            ]
+          }
+        },
+        {
+          "path": "books\\philosphy_books\\Robert.Audi_The.Cambridge.Dictionary.of.Philosophy.pdf",
+          "sha256": "514dd3f2efac7ff5b8e2a17a8a76ac952c5385323a1197e5d7581b1ab7081417",
+          "page_count": 1032,
+          "search_hits": {
+            "logical atomism": [
+              287,
+              543,
+              547,
+              836,
+              1012
+            ],
+            "incomplete symbol": [
+              455,
+              543,
+              544,
+              836,
+              947
+            ],
+            "proof of an external world": [
+              615
+            ],
+            "refutation of idealism": [
+              446,
+              615,
+              643,
+              958
+            ],
+            "picture theory": [
+              580,
+              583,
+              741,
+              1010
+            ]
+          }
+        },
+        {
+          "path": "books\\philosphy_books\\antony_flew_eds-_a_dictionary_of_philosophyb-ok-org.pdf",
+          "sha256": "fb1c3317604fd1483d76c950a4d8e300ceaedfedea41bc2801f22b24fad930db",
+          "page_count": 363,
+          "search_hits": {
+            "logical atomism": [
+              134,
+              208,
+              231,
+              271,
+              285
+            ],
+            "incomplete symbol": [
+              166,
+              209
+            ],
+            "refutation of idealism": [
+              290
+            ],
+            "picture theory": [
+              359
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "type": "live web",
+      "status": "not required; doctrine and PYQs resolved locally"
+    },
+    {
+      "rank": 4,
+      "type": "Qdrant",
+      "status": "not used and did not block generation"
+    }
+  ],
+  "pyq_archive_metadata": {
+    "source": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md",
+    "text_rule": "English wording and marks transcribed from held papers; OCR-repaired 2018 and 2020 checked against page images; cleaner official QP-CSM copies control 2022 and 2023; printed anomalies retained.",
+    "locally_verified_count": 14,
+    "questions": [
+      {
+        "question_number": "Q3(c)",
+        "marks": 15,
+        "wording": "How does Wittgenstein apply the distinction between 'saying' and 'showing' to point to a single way of apprehending the most decisive problems of philosophy? Is he justified? Give reasons for your answer."
+      },
+      {
+        "question_number": "Q4(c)",
+        "marks": 15,
+        "wording": "How is Russell's theory of definite description related to his Logical Atomism? Discuss and give reasons for your answer."
+      },
+      {
+        "question_number": "Q3(c)",
+        "marks": 15,
+        "wording": "Why is Moore’s philosophy called common-sense realism?"
+      },
+      {
+        "question_number": "Q2(b)",
+        "marks": 15,
+        "wording": "Critically discuss the following statement by Moore: “If anyone tells us that to say 'Blue exists' is the same thing as to say that 'Both blue and consciousness exist', he makes a mistake and a self-contradictory mistake.”"
+      },
+      {
+        "question_number": "Q2(c)",
+        "marks": 15,
+        "wording": "“The reason that I call my doctrine logical atomism is because the atoms that I wish to arrive at as the sort of last residue in analysis are logical atoms and not physical atoms.” Write a note on the nature of atomic facts according to Russell in the light of the above statement."
+      },
+      {
+        "question_number": "Q3(a)",
+        "marks": 20,
+        "wording": "What are the main arguments put forward by Moore in his paper “A Defence of Common Sense” to prove that there are possible propositions about the world that are known to be true with certainty? Do you think Moore’s arguments provide a sufficient response to objections presented by the sceptic against the possibility of knowledge? Give reasons in support of your answer."
+      },
+      {
+        "question_number": "Q4(c)",
+        "marks": 15,
+        "wording": "What does Wittgenstein mean by the statement — “Whereof one cannot speak, thereof one must be silent?” Critically discuss."
+      },
+      {
+        "question_number": "Q1(b)",
+        "marks": 10,
+        "wording": "What is Bertrand Russell’s method of logical analysis? How does it ultimately end in establishing atomic theory of meaning? Discuss."
+      },
+      {
+        "question_number": "Q3(c)",
+        "marks": 15,
+        "wording": "Is there any difference between pictorial form and logical form in Ludwig Wittgenstein’s picture theory of language? How does the logical form define the relation between language and reality? Explain."
+      },
+      {
+        "question_number": "Q4(b)",
+        "marks": 15,
+        "wording": "Why according to Russell is the proposition — “The present king of France is bald” problematic? Critically discuss."
+      },
+      {
+        "question_number": "Q1(c)",
+        "marks": 10,
+        "wording": "What arguments are offered by Moore to prove that there are certain truisms, knowledge of which is a matter of common sense? Critically discuss."
+      },
+      {
+        "question_number": "Q3(a)",
+        "marks": 20,
+        "wording": "Explain Russell’s notion of incomplete symbols. Also explain how this notion leads to the doctrine of logical atomism."
+      },
+      {
+        "question_number": "Q1(d)",
+        "marks": 10,
+        "wording": "“The golden mountain is very high.” Discuss this statement in the context of Russell’s theory of descriptions."
+      },
+      {
+        "question_number": "Q3(c)",
+        "marks": 15,
+        "wording": "“Blue is one object of sensation and green is another, and consciousness, which both sensations have in common, is different from either.” Present an account of Moore’s refutation of idealism with reference to this statement."
+      }
+    ]
+  },
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Moore-Russell-EarlyWittgenstein.md": "03bc8ae8503af7892a566d1d78fa22c8d15de30efe0af94353473db1de8dd2e1",
+    "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md": "ead128ee292f1cdb8352bb970bbaf4600aa7e1b66cb485d3f395bddc8fa2d38a",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md": "9ecebebbc0ad7c308d59771c6a60b87ad32d8a550efbc346a3a9ebae21952795",
+    "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md": "8fad49a0748460d3b939de6b9ab3d92b77e15d6bb0e7a257ae9f5a750e7be8f5"
+  },
+  "accuracy_boundaries": [
+    "Early Wittgenstein is separated from later meaning-as-use and language-games.",
+    "Logical atomism is logical, not physical atomism.",
+    "Picture theory is shared logical form, not visual resemblance.",
+    "Saying/showing is not the true/false distinction.",
+    "Logical positivist verificationism is not imported into the Tractatus."
+  ]
+}

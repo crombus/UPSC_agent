@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "standard": "2026-08-27 Philosophy rendered-visual semantic standard",
+  "state": "passed",
+  "topic_key": "philosophy-paper-i-western-philosophy-11",
+  "generation": 2,
+  "artifacts": {
+    "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\topic-11_Complete-Learning-Session_2026-08-27.pdf",
+    "workbook_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\topic-11_Solved-Practice-Workbook_2026-08-27.pdf",
+    "graphical_tiled_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-11\\carvaka-g2\\tiled.pdf",
+    "ascii_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\flowcharts\\topic-11\\carvaka-g2\\ascii-master.pdf"
+  },
+  "pages": {
+    "main_visual_pages": [
+      1,
+      5,
+      6,
+      7,
+      8,
+      11,
+      14,
+      17,
+      18,
+      21,
+      25,
+      26,
+      28,
+      29,
+      30,
+      33,
+      37,
+      38,
+      42,
+      49,
+      50,
+      56,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      84,
+      85
+    ],
+    "workbook_visual_pages": [
+      1,
+      8,
+      9,
+      15,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "graphical_pages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "ascii_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  "contact_sheets": {
+    "main": [
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\main-contact-01.png",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\main-contact-02.png",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\main-contact-03.png",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\main-contact-04.png",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\main-contact-05.png",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\main-contact-06.png",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\main-contact-07.png",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\main-contact-08.png"
+    ],
+    "workbook": [
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\workbook-contact-01.png",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\workbook-contact-02.png",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\workbook-contact-03.png"
+    ],
+    "graphical": [
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\graphical-contact-01.png",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\graphical-contact-02.png"
+    ],
+    "ascii": [
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\ascii-contact-01.png",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\ascii-contact-02.png",
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\ascii-contact-03.png"
+    ]
+  },
+  "semantic_visual_validation": {
+    "main": {
+      "authored_visual_count": 21,
+      "checked_semantic_lines": 157,
+      "missing_visual_titles": [],
+      "missing_visual_lines": []
+    },
+    "ascii_master": {
+      "panel_count": 10,
+      "checked_semantic_lines": 157,
+      "missing_panel_lines": []
+    },
+    "method": "Every authored visual and ASCII panel line is normalised and matched against text extracted from the rendered PDF, so a dropped, wrapped or clipped row fails rather than passing a bounding-box check."
+  },
+  "findings": {
+    "detached_headers": [],
+    "collapsed_rows": [],
+    "dangling_labels": [],
+    "clipping_or_truncation": [],
+    "tiny_fonts": [],
+    "unsupported_glyphs": [],
+    "ambiguous_arrows_or_wrapping": [],
+    "excessive_unusable_whitespace": []
+  },
+  "repairs": [],
+  "failures": [],
+  "hashes": {
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\main-contact-01.png": "378c5820f35e4af66eac81e3c639df8c8506f9cb307e001478a3bc87445304d3",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\main-contact-02.png": "113711036ef834d138e5e650db5025feca9f7fecdae3ee679a2a6e874ce0960a",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\main-contact-03.png": "b7564b38734f955ba14cdde28a7249f16a15d97ed6e50f44eb5cdb3a4ce87b2e",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\main-contact-04.png": "413feb47b9a8bfadae42fd2720ee7e9f6e3c64d490695e9cd3e34a40e624b493",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\main-contact-05.png": "a85bfa49f8e99e153e912b60cde3049799293e56aa329e020383a8ad9c60ab00",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\main-contact-06.png": "646e70758d6ccf052f75329443b1c0138dcb9676294e4675a70fe40a40803780",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\main-contact-07.png": "a6ae7fcb8eba551b974bea6fc5d55c8077cc91122d78eeac5f2ac34a57bbc67f",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\main-contact-08.png": "f48a59515632baea3572b38ebf0ff63171f4a281b213d2406346e1388e11e440",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\workbook-contact-01.png": "3cfab86d0cf636074fb64a7cd2bf4a626057040136408b5de492c9e1dbb67ab2",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\workbook-contact-02.png": "13888eb907b6bd9a76edea1f06f7ac76513425a290dc5fbc85f1ed58782b4f64",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\workbook-contact-03.png": "206b505b69c7fdfc2668bffc6275551f872f5802e72bb59d0802ab79d123ba5a",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\graphical-contact-01.png": "e20965839a7e980b0918310b82998578fbe74f0f34a3f11ccdaf728611823f94",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\graphical-contact-02.png": "500492b8c864cb8b1d4dec02d57f18b93ea42b216e58a0f5c23d283fa4feb28e",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\ascii-contact-01.png": "c8b7587367aa108e2a5c36f017ca2d0b3bf7298690dff62136ada61726715dd3",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\ascii-contact-02.png": "7e94d4d00552267d3f32940c48b38f0191102380d13b19426855f490c483096b",
+    "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g2\\validation\\rendered-inspection\\ascii-contact-03.png": "e8a281b27bafdca0e4c1a7914a46bba41a777f3a0884739f0097e80eda260c94"
+  },
+  "human_readable_inspection": "30 visual-bearing learning pages, 10 workbook visual pages, 5 graphical tiles and 10 ASCII panels were rendered into 16 readable contact sheets and checked line by line against the authored visual specification."
+}

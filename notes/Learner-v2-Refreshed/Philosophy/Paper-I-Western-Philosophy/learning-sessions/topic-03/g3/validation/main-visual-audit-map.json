@@ -1,0 +1,2699 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g3\\topic-03_Complete-Learning-Session_2026-08-29.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g3\\topic-03_Complete-Learning-Session_2026-08-29.pdf",
+  "mode": "main",
+  "topic_key": "philosophy-paper-i-western-philosophy-03",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5,
+      "markdown_body_line_end": 7,
+      "heading": "Empiricism - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Generation:** g3, 29 August 2026 · **Approval:** false pending explicit topic approval  **Evidence discipline:** Complete legacy teaching and workbook material is preserved, reordered Basic-first/Advanced-last, and checked against the can",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 713.424
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 14,
+      "markdown_body_line_end": 14,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Empiricist pressure-sequence map",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-03\\g3\\assets\\Empiricism-Pressure-Sequence.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 680.424
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 372.888
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 18,
+      "markdown_body_line_end": 18,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "**Syllabus (verbatim):** Empiricism (Locke, Berkeley, Hume) : Theory of Knowledge; Substance and Qualities; Self and God; Scepticism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 339.488
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 294.82
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 24,
+      "markdown_body_line_end": 30,
+      "heading": "How to Use This Five-Layer Session",
+      "preview": "Layer | Purpose",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Layer",
+          "Purpose"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 250.62
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 120.019
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 44,
+      "markdown_body_line_end": 55,
+      "heading": "Learning Roadmap",
+      "preview": "Unit | Logical subtopic | High-yield output",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Unit",
+          "Logical subtopic",
+          "High-yield output"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 498.891
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 262.29
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 69,
+      "markdown_body_line_end": 89,
+      "heading": "VISUAL - Empiricist source-of-ideas and pressure pipeline",
+      "preview": "EXPERIENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 606.291
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 95,
+      "markdown_body_line_end": 95,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Empiricism is not three disconnected biographies but a progressive test of what an experience-only foundation can justify: Locke retains represented matter, Berkeley replaces matter with ideas and spirits, and Hume limits reason to percepti",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 587.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 506.224
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 126,
+      "markdown_body_line_end": 139,
+      "heading": "Visual gateway - one premise, three destinations",
+      "preview": "EXPERIENCE ONLY  (mind at birth = blank white paper)",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 656.291
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 143,
+      "markdown_body_line_end": 147,
+      "heading": "Visual gateway - one premise, three destinations",
+      "preview": "Thinker | Keeps | Drops | Label",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Thinker",
+          "Keeps",
+          "Drops",
+          "Label"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 580.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 494.89
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 149,
+      "markdown_body_line_end": 149,
+      "heading": "Visual gateway - one premise, three destinations",
+      "preview": "🔑 **Memory line:** Locke keeps matter, Berkeley kills matter, Hume kills matter AND mind AND causation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 494.89
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 464.422
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 155,
+      "markdown_body_line_end": 169,
+      "heading": "0. ONE-SCREEN MAP ANALYSIS:",
+      "preview": "EMPIRICISM = all ideas come from EXPERIENCE (mind at birth = tabula rasa)",
+      "metadata": {
+        "language": "plain",
+        "line_count": 13,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 442.422
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 301.422
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 170,
+      "markdown_body_line_end": 170,
+      "heading": "0. ONE-SCREEN MAP ANALYSIS:",
+      "preview": "🔑 **Mnemonic — the slide \"Realism → Idealism → Scepticism\":** Locke keeps matter, Berkeley kills matter, Hume kills matter AND mind AND causation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 301.422
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 256.754
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 176,
+      "markdown_body_line_end": 182,
+      "heading": "5. THE INTERNAL LOGIC - WHY EMPIRICISM \"SLIDES\" ANALYSIS:",
+      "preview": "LOCKE  : All ideas from experience → matter is real but unknowable substrate (\"know-not-what\")",
+      "metadata": {
+        "language": "plain",
+        "line_count": 5,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 233.254
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 172.254
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 196,
+      "markdown_body_line_end": 204,
+      "heading": "CLOSING RECALL FLOW - Empiricist Project: Experience and the Locke-Berkeley-Hume Pressure Sequence",
+      "preview": "Empiricist Project: Experience and the Locke-Berkeley-Hume Pressure Sequence",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 619.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 495.623
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 216,
+      "markdown_body_line_end": 234,
+      "heading": "VISUAL - Locke's simple-to-complex construction",
+      "preview": "SENSATION ------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 319.623
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 158.623
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 240,
+      "markdown_body_line_end": 256,
+      "heading": "VISUAL - Locke's degrees and limits of knowledge",
+      "preview": "INTUITIVE: agreement seen immediately -> highest certainty",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 262,
+      "markdown_body_line_end": 262,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Locke's empiricism is constructive rather than merely receptive: sensation and reflection provide simple ideas, while the understanding actively combines, compares and abstracts them into the complex materials of knowledge.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 627.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 560.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 294,
+      "markdown_body_line_end": 310,
+      "heading": "Visual gateway - where every idea comes from",
+      "preview": "EXPERIENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 314,
+      "markdown_body_line_end": 318,
+      "heading": "Visual gateway - where every idea comes from",
+      "preview": "Degree of knowledge | What it is | Certainty",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Degree of knowledge",
+          "What it is",
+          "Certainty"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 578.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 490.49
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 320,
+      "markdown_body_line_end": 320,
+      "heading": "Visual gateway - where every idea comes from",
+      "preview": "🔑 **Memory line:** Two sources (sensation + reflection) -> simple ideas -> complex ideas -> three degrees of knowing.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 490.49
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 445.822
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 330,
+      "markdown_body_line_end": 334,
+      "heading": "Attack on innate ideas (Essay I)",
+      "preview": "Locke's argument | Target",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Locke's argument",
+          "Target"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 357.222
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 201.82
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 336,
+      "markdown_body_line_end": 336,
+      "heading": "Attack on innate ideas (Essay I)",
+      "preview": "PYQ 2023 Q2(c) and 2022 Q4(c) both demand Locke's refutation of innate ideas — **this IS the stock content.**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 201.82
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 171.353
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 361,
+      "markdown_body_line_end": 369,
+      "heading": "CLOSING RECALL FLOW - Locke I: Innate Ideas, Sensation, Reflection and the Construction of Knowledge",
+      "preview": "Locke I: Innate Ideas, Sensation, Reflection and the Construction of Knowledge",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 540.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 416.823
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 381,
+      "markdown_body_line_end": 401,
+      "heading": "VISUAL - Abstraction and classification",
+      "preview": "PARTICULAR TRIANGLES",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 606.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 407,
+      "markdown_body_line_end": 417,
+      "heading": "VISUAL - Locke-Berkeley abstraction dispute",
+      "preview": "LOCKE: leave determinate features unspecified -> one idea can represent many",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 565.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 484.091
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 423,
+      "markdown_body_line_end": 423,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Lockean abstraction makes generality a work of the understanding rather than a feature of independently existing universals, but Berkeley exposes the tension between a general determinable and an impossible indeterminate image.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 464.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 384.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 454,
+      "markdown_body_line_end": 464,
+      "heading": "Visual gateway - how a particular mind uses a general word",
+      "preview": "PARTICULAR IDEAS seen:  this red apple, that green apple, ...",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 746.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 645.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 468,
+      "markdown_body_line_end": 471,
+      "heading": "Visual gateway - how a particular mind uses a general word",
+      "preview": "Term | Meaning | Who knows it",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Term",
+          "Meaning",
+          "Who knows it"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 598.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 531.29
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 473,
+      "markdown_body_line_end": 473,
+      "heading": "Visual gateway - how a particular mind uses a general word",
+      "preview": "🔑 **Memory line:** We classify by nominal essence (what we can list), not by real essence (what we cannot see).",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 531.29
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 486.622
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 511,
+      "markdown_body_line_end": 515,
+      "heading": "Locke - ABSTRACT GENERAL IDEAS FACT: (the doctrine Berkeley destroys - you cannot answer 2025 Q4(c) without it)",
+      "preview": "Berkeley's charge | Locke's available reply | Verdict",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Berkeley's charge",
+          "Locke's available reply",
+          "Verdict"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 352.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 130.09
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 531,
+      "markdown_body_line_end": 539,
+      "heading": "CLOSING RECALL FLOW - Locke II: Abstraction, General Ideas and Real-Nominal Essence",
+      "preview": "Locke II: Abstraction, General Ideas and Real-Nominal Essence",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 566.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 443.023
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 551,
+      "markdown_body_line_end": 569,
+      "heading": "VISUAL - Primary and secondary qualities",
+      "preview": "+----------------------+---------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 575,
+      "markdown_body_line_end": 595,
+      "heading": "VISUAL - Representative realism and the veil objection",
+      "preview": "EXTERNAL BODY / QUALITIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 585.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 404.091
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 601,
+      "markdown_body_line_end": 601,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Locke's representative realism secures an external world by the resemblance of primary-quality ideas, yet its unknown substratum and mediated perception generate the very gap that Berkeley turns against matter.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 384.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 318.224
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 633,
+      "markdown_body_line_end": 645,
+      "heading": "Visual gateway - two kinds of quality, one unknown support",
+      "preview": "A PIECE OF GOLD  =  bundle of qualities that always go together",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 645.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 524.891
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 649,
+      "markdown_body_line_end": 653,
+      "heading": "Visual gateway - two kinds of quality, one unknown support",
+      "preview": "Feature | Primary | Secondary",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Feature",
+          "Primary",
+          "Secondary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 477.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 389.09
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 655,
+      "markdown_body_line_end": 655,
+      "heading": "Visual gateway - two kinds of quality, one unknown support",
+      "preview": "🔑 **Memory line:** Primary = measurable and resembling; Secondary = response-dependent; Substratum = the honest \"I know not what\".",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 389.09
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 344.422
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 661,
+      "markdown_body_line_end": 666,
+      "heading": "Primary vs Secondary Qualities FACT:",
+      "preview": "Primary Qualities | Secondary Qualities",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Primary Qualities",
+          "Secondary Qualities"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 322.422
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 213.02
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 682,
+      "markdown_body_line_end": 690,
+      "heading": "CLOSING RECALL FLOW - Locke III: Primary-Secondary Qualities, Representative Realism and Substratum",
+      "preview": "Locke III: Primary-Secondary Qualities, Representative Realism and Substratum",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 665.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 551.523
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 702,
+      "markdown_body_line_end": 716,
+      "heading": "VISUAL - Locke's substance-self architecture",
+      "preview": "SAME PERSON? -> continuity of consciousness / appropriation / memory",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 361.323
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 240.323
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 722,
+      "markdown_body_line_end": 734,
+      "heading": "VISUAL - Memory objections and repair",
+      "preview": "LOCKE: present consciousness remembers past act -> same person",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 740,
+      "markdown_body_line_end": 740,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Locke's account unifies epistemic humility and forensic identity: knowledge has bounded degrees, while the person extends only as far as consciousness can appropriate past thought and action.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 667.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 600.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 772,
+      "markdown_body_line_end": 781,
+      "heading": "Visual gateway - what makes you the same person over time?",
+      "preview": "SAME PERSON at T1 and T2 ?",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 785,
+      "markdown_body_line_end": 789,
+      "heading": "Visual gateway - what makes you the same person over time?",
+      "preview": "Criterion | Locke's verdict | Why",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Criterion",
+          "Locke's verdict",
+          "Why"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 648.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 560.49
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 791,
+      "markdown_body_line_end": 791,
+      "heading": "Visual gateway - what makes you the same person over time?",
+      "preview": "🔑 **Memory line:** Person = memory-linked consciousness; identity is \"forensic\" - it fixes responsibility.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 560.49
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 530.022
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 804,
+      "markdown_body_line_end": 808,
+      "heading": "Objections (Butler/Reid-style circularity) ANALYSIS:",
+      "preview": "Objection | Source | Force",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Objection",
+          "Source",
+          "Force"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 349.222
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 115.42
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 810,
+      "markdown_body_line_end": 810,
+      "heading": "Objections (Butler/Reid-style circularity) ANALYSIS:",
+      "preview": "PYQ 2021 Q1(d) directly asks: \"Examine the concept of personal identity by Locke.\" — include the doctrine AND the circularity objection.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 115.42
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 70.753
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 825,
+      "markdown_body_line_end": 833,
+      "heading": "CLOSING RECALL FLOW - Locke IV: Knowledge, Probability, Personal Identity and Demonstrative God",
+      "preview": "Locke IV: Knowledge, Probability, Personal Identity and Demonstrative God",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 550.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 419.623
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 845,
+      "markdown_body_line_end": 869,
+      "heading": "VISUAL - Berkeley's critique sequence",
+      "preview": "NO ABSTRACT GENERAL IMAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 875,
+      "markdown_body_line_end": 885,
+      "heading": "VISUAL - Locke and Berkeley on perceptual realism",
+      "preview": "LOCKE: material object -> representative idea -> perceiver",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 525.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 444.091
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 891,
+      "markdown_body_line_end": 891,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Berkeley's immaterialism does not abolish experienced reality; it abolishes the unexperienced material duplicate behind it, turning anti-abstraction and the likeness principle into a direct-realist attack on Locke's representational veil.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 424.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 344.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 923,
+      "markdown_body_line_end": 933,
+      "heading": "Visual gateway - the five roads to \"no matter\"",
+      "preview": "BERKELEY: to be (for sensible things) = to be perceived",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 694.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 593.491
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 937,
+      "markdown_body_line_end": 940,
+      "heading": "Visual gateway - the five roads to \"no matter\"",
+      "preview": "Slogan | Correct reading | Common misreading",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Slogan",
+          "Correct reading",
+          "Common misreading"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 531.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 464.69
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 942,
+      "markdown_body_line_end": 942,
+      "heading": "Visual gateway - the five roads to \"no matter\"",
+      "preview": "🔑 **Memory line:** Five arguments (semantic, likeness, parity, master, continuity) - not one slogan.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 464.69
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 434.222
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1014,
+      "markdown_body_line_end": 1014,
+      "heading": "Berkeley - THE FOUR ARGUMENTS, RECONSTRUCTED ANALYSIS:->FACT: (never present esse est percipi as a bare slogan)",
+      "preview": "⚠️ **Answer-craft:** in a 15/20-marker on Berkeley, name the arguments (semantic · likeness · parity · master · continuity). Naming five arguments where the average script asserts one slogan is the single largest available differentiator on",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 481.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 422.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1022,
+      "markdown_body_line_end": 1030,
+      "heading": "CLOSING RECALL FLOW - Berkeley I: Anti-Abstraction, Anti-Matter and Immaterialist Direct Realism",
+      "preview": "Berkeley I: Anti-Abstraction, Anti-Matter and Immaterialist Direct Realism",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 250.624
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 126.755
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1042,
+      "markdown_body_line_end": 1062,
+      "heading": "VISUAL - Finite perceiver, ideas and divine continuity",
+      "preview": "GOD / INFINITE ACTIVE SPIRIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 638.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 457.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1068,
+      "markdown_body_line_end": 1080,
+      "heading": "VISUAL - Berkeley objection-reply map",
+      "preview": "SOLIPSISM -> many finite spirits + shared involuntary order",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 416.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 315.091
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1086,
+      "markdown_body_line_end": 1086,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Berkeley avoids solipsism by making finite perceivers recipients within a divinely ordered language of nature: God is neither an idea nor another human observer but the active cause of stable sensory order.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 295.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 229.224
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1118,
+      "markdown_body_line_end": 1127,
+      "heading": "Visual gateway - what is left once matter is gone",
+      "preview": "REALITY (Berkeley) = SPIRITS  +  their IDEAS",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 563.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 472.091
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1131,
+      "markdown_body_line_end": 1135,
+      "heading": "Visual gateway - what is left once matter is gone",
+      "preview": "Question | Berkeley's answer",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Question",
+          "Berkeley's answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 410.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 322.09
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1137,
+      "markdown_body_line_end": 1137,
+      "heading": "Visual gateway - what is left once matter is gone",
+      "preview": "🔑 **Memory line:** Spirits by notion, ideas by sense, God guarantees continuity - idealism that *saves* common sense.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 322.09
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 277.422
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1171,
+      "markdown_body_line_end": 1179,
+      "heading": "CLOSING RECALL FLOW - Berkeley II: Qualities, Spirits, God, World-Continuity and Objections",
+      "preview": "Berkeley II: Qualities, Spirits, God, World-Continuity and Objections",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 442.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 336.473
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1191,
+      "markdown_body_line_end": 1209,
+      "heading": "VISUAL - Hume's perceptions and Fork",
+      "preview": "PERCEPTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1215,
+      "markdown_body_line_end": 1233,
+      "heading": "VISUAL - Bundle self and identity fiction",
+      "preview": "PERCEPTION t1 -> PERCEPTION t2 -> PERCEPTION t3 -> ...",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 585.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 424.091
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1239,
+      "markdown_body_line_end": 1239,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Hume transforms empiricism into a forensic method: when substance, self or divine predicates cannot supply an originating impression or a valid inferential route, their speculative certainty is reduced without denying the natural beliefs of",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 404.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 324.024
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1272,
+      "markdown_body_line_end": 1287,
+      "heading": "Visual gateway - Hume's microscope",
+      "preview": "PERCEPTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 645.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 494.891
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1291,
+      "markdown_body_line_end": 1295,
+      "heading": "Visual gateway - Hume's microscope",
+      "preview": "Target | Impression found? | Verdict",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Target",
+          "Impression found?",
+          "Verdict"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 447.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 359.09
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1297,
+      "markdown_body_line_end": 1297,
+      "heading": "Visual gateway - Hume's microscope",
+      "preview": "🔑 **Memory line:** Copy Principle + Fork -> no substance, no simple self; \"commit the rest to the flames\".",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 359.09
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 328.622
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1312,
+      "markdown_body_line_end": 1317,
+      "heading": "Hume's Fork (Relations of Ideas vs Matters of Fact) FACT:",
+      "preview": "Relations of Ideas | Matters of Fact",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Relations of Ideas",
+          "Matters of Fact"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 171.422
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 62.02
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1352,
+      "markdown_body_line_end": 1360,
+      "heading": "CLOSING RECALL FLOW - Hume I: Impressions, Ideas, Copy Principle, Fork, Substance, Self and God",
+      "preview": "Hume I: Impressions, Ideas, Copy Principle, Fork, Substance, Self and God",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 173.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 41.273
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1372,
+      "markdown_body_line_end": 1394,
+      "heading": "VISUAL - Causation and induction habit loop",
+      "preview": "A followed by B repeatedly",
+      "metadata": {
+        "language": "text",
+        "line_count": 21,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 638.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 437.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1400,
+      "markdown_body_line_end": 1410,
+      "heading": "VISUAL - What Hume observes and what the mind adds",
+      "preview": "OBSERVED: priority + contiguity + repeated conjunction",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 396.091
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 315.091
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1416,
+      "markdown_body_line_end": 1416,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Hume does not abolish causal reasoning; he relocates necessity from an observed tie in objects to the mind's customary transition, thereby exposing induction as naturally indispensable but rationally underdetermined.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 295.891
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 229.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1449,
+      "markdown_body_line_end": 1464,
+      "heading": "Visual gateway - where does \"necessary connexion\" come from?",
+      "preview": "WHAT THE SENSES DELIVER in \"A causes B\"",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 563.091
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 412.091
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1468,
+      "markdown_body_line_end": 1471,
+      "heading": "Visual gateway - where does \"necessary connexion\" come from?",
+      "preview": "We observe | We do NOT observe",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "We observe",
+          "We do NOT observe"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 350.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 283.29
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1473,
+      "markdown_body_line_end": 1473,
+      "heading": "Visual gateway - where does \"necessary connexion\" come from?",
+      "preview": "🔑 **Memory line:** See conjunction, feel expectation, project necessity - custom is \"the great guide of human life\".",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 283.29
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 238.622
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1481,
+      "markdown_body_line_end": 1487,
+      "heading": "Causation - the centrepiece of Humean scepticism FACT:",
+      "preview": "Element | Hume's analysis",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Element",
+          "Hume's analysis"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 583.09
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1524,
+      "markdown_body_line_end": 1532,
+      "heading": "CLOSING RECALL FLOW - Hume II: Causation, Constant Conjunction, Habit and the Problem of Induction",
+      "preview": "Hume II: Causation, Constant Conjunction, Habit and the Problem of Induction",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 569.691
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 445.823
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1544,
+      "markdown_body_line_end": 1564,
+      "heading": "VISUAL - Three-philosopher comparison on official syllabus axes",
+      "preview": "+-----------+----------------+----------------+--------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 606.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1570,
+      "markdown_body_line_end": 1578,
+      "heading": "VISUAL - Criticism-reply-residual map",
+      "preview": "LOCKE veil / opaque substratum -> structural representation -> comparison gap remains",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 565.091
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 504.091
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1584,
+      "markdown_body_line_end": 1598,
+      "heading": "VISUAL - UPSC Philosophy answer spine",
+      "preview": "DIRECTIVE -> DIRECT THESIS -> PRECISE DEFINITIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 462.891
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 341.891
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1604,
+      "markdown_body_line_end": 1604,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Hume's mature position is sceptical naturalism: reason cannot vindicate induction, substance, a simple self or natural theology with necessity, yet custom and common life inevitably restore proportioned belief.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 322.691
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 256.024
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1637,
+      "markdown_body_line_end": 1653,
+      "heading": "Visual gateway - the induction dilemma and the empiricist slide",
+      "preview": "CAN WE JUSTIFY \"the future will resemble the past\" (Uniformity, UP)?",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 548.891
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 387.891
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1657,
+      "markdown_body_line_end": 1661,
+      "heading": "Visual gateway - the induction dilemma and the empiricist slide",
+      "preview": "Reply to induction | Move",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Reply to induction",
+          "Move"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 326.091
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 237.89
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1663,
+      "markdown_body_line_end": 1663,
+      "heading": "Visual gateway - the induction dilemma and the empiricist slide",
+      "preview": "🔑 **Memory line:** Not demonstrable, not provable-by-experience -> custom rules; the slide ends in Kant.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 237.89
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 207.422
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1706,
+      "markdown_body_line_end": 1715,
+      "heading": "6. INTER-THINKER / INTER-SCHOOL DEBATES ANALYSIS:",
+      "preview": "Axis | Locke | Berkeley | Hume",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Axis",
+          "Locke",
+          "Berkeley",
+          "Hume"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 562.89
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1727,
+      "markdown_body_line_end": 1735,
+      "heading": "CLOSING RECALL FLOW - Hume III and Comparative Synthesis: God, Miracles, Mitigated Scepticism and Answer Spine",
+      "preview": "Hume III and Comparative Synthesis: God, Miracles, Mitigated Scepticism and Answer Spine",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 357.39
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 223.371
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1922,
+      "markdown_body_line_end": 1922,
+      "heading": "ORIGINAL MCQ MASTERY SET - EXACTLY 40 QUESTIONS",
+      "preview": "Questions 1-24 are core coverage across all ten subtopics; Questions 25-40 are remedial items targeting the most common misreadings. Correct answers rotate strictly A -> B -> C -> D ten times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 577.991
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 533.324
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2716,
+      "markdown_body_line_end": 2718,
+      "heading": "Practice Design",
+      "preview": "DIRECTIVE -> THESIS -> DOCTRINE -> NAMED TEXT/EXAMPLE -> OBJECTION/REPLY -> VERDICT",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 578.091
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 557.091
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2722,
+      "markdown_body_line_end": 2722,
+      "heading": "SOLVED PYQ BANK - EXACTLY 12 VERIFIED EMPIRICISM QUESTIONS",
+      "preview": "Exact wording, year and marks are parsed from the continuous local Western Philosophy Paper I bank for 2018-2025. Empiricism owns exactly 12 primary parts. The three 'Two Dogmas of Empiricism' questions (2021 Q3c, 2024 Q4c, 2025 Q4b) are Qu",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 532.091
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 459.024
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2905,
+      "markdown_body_line_end": 2905,
+      "heading": "ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS",
+      "preview": "These are original questions (not from the verified PYQ bank), written in UPSC directive style to drill the same doctrine at 10, 15 and 20 marks. Model solutions follow the claim -> doctrine -> named evidence -> objection/reply -> verdict s",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 508.891
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 450.024
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3154,
+      "markdown_body_line_end": 3154,
+      "heading": "ADVANCED DOSSIER REFINEMENTS - USE SELECTIVELY",
+      "preview": "**Classification: OPTIONAL ADVANCED.** These interpretation debates are unnecessary for a competent Core answer and may be used only after the complete syllabus spine is secure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 730.691
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 686.024
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3191,
+      "markdown_body_line_end": 3191,
+      "heading": "CONSOLIDATED REGISTER NOTES",
+      "preview": "Last section by design: revise only after teaching and practice. One compressed block per subtopic, topic-specific, retrieval-ready.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 643.191
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 598.524
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3262,
+      "markdown_body_line_end": 3273,
+      "heading": "ASCII MASTER FLOW - PANEL 1/10: Empiricist starting rule and Locke-Berkeley-Hume pressure sequence",
+      "preview": "CENTRAL QUESTION: WHAT CAN EXPERIENCE ALONE JUSTIFY ABOUT WORLD, SELF, GOD AND CAUSE?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 650.291
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3277,
+      "markdown_body_line_end": 3288,
+      "heading": "ASCII MASTER FLOW - PANEL 2/10: Locke's source-of-ideas pipeline and limits of knowledge",
+      "preview": "REJECT INNATE CONTENT: no universal assent; no consciously unperceived propositions",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 628.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 515.291
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3292,
+      "markdown_body_line_end": 3301,
+      "heading": "ASCII MASTER FLOW - PANEL 3/10: Locke's abstraction, general ideas and real-nominal essence",
+      "preview": "PARTICULAR IDEAS -> omit time/place/concomitants -> GENERAL REPRESENTATIVE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 493.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 400.691
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3305,
+      "markdown_body_line_end": 3314,
+      "heading": "ASCII MASTER FLOW - PANEL 4/10: Locke's qualities, representative realism and unknown substratum",
+      "preview": "PRIMARY: solidity, extension, figure, motion/rest, number; inseparable from body",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 378.691
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 286.091
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3318,
+      "markdown_body_line_end": 3328,
+      "heading": "ASCII MASTER FLOW - PANEL 5/10: Locke's knowledge, probability, self, memory and demonstrative God",
+      "preview": "KNOWLEDGE = perceived agreement/disagreement of ideas; probability guides belief",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 684.491
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3332,
+      "markdown_body_line_end": 3341,
+      "heading": "ASCII MASTER FLOW - PANEL 6/10: Berkeley's anti-abstraction route to immaterialism and direct realism",
+      "preview": "NO ABSTRACT GENERAL IMAGE -> material substance-in-general loses content",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 662.491
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 569.891
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3345,
+      "markdown_body_line_end": 3354,
+      "heading": "ASCII MASTER FLOW - PANEL 7/10: Berkeley's spirits, God, world-continuity and objection ledger",
+      "preview": "FINITE SPIRITS receive involuntary sensory ideas; imagination is weaker/voluntary",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 547.891
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 455.291
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3358,
+      "markdown_body_line_end": 3368,
+      "heading": "ASCII MASTER FLOW - PANEL 8/10: Hume's impressions, ideas, Fork, substance, bundle self and religion limits",
+      "preview": "PERCEPTIONS -> IMPRESSIONS (forceful) / IDEAS (fainter copies)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 420.291
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 317.491
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3372,
+      "markdown_body_line_end": 3382,
+      "heading": "ASCII MASTER FLOW - PANEL 9/10: Hume's causation, induction and custom loop",
+      "preview": "ONE CASE: priority + contiguity + succession; no impression of necessary power",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 684.491
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3386,
+      "markdown_body_line_end": 3398,
+      "heading": "ASCII MASTER FLOW - PANEL 10/10: Comparative synthesis, scepticism, PYQ routes and answer spine",
+      "preview": "LOCKE: matter retained / quality split / consciousness-self / demonstrative God",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 662.491
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 539.291
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    }
+  ]
+}

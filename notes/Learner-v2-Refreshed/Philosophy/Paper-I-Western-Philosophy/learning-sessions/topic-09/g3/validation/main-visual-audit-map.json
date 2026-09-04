@@ -1,0 +1,3559 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-09\\g3\\topic-09_Complete-Learning-Session_2026-08-29.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-09\\g3\\topic-09_Complete-Learning-Session_2026-08-29.pdf",
+  "mode": "main",
+  "topic_key": "philosophy-paper-i-western-philosophy-09",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5,
+      "markdown_body_line_end": 7,
+      "heading": "Phenomenology (Husserl) - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Generation:** g3, 29 August 2026 · **Approval:** false pending explicit topic approval  **Evidence discipline:** Complete legacy teaching and workbook material is preserved, reordered Basic-first/Advanced-last, and checked against the can",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 692.424
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 14,
+      "markdown_body_line_end": 14,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Husserl method and objectivity map",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-09\\g3\\assets\\Husserl-Method-Objectivity-Map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 659.424
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 351.888
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 18,
+      "markdown_body_line_end": 18,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "**Syllabus (verbatim):** Phenomenology (Husserl): Method; Theory of Essences; Avoidance of Psychologism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 318.488
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 288.02
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 24,
+      "markdown_body_line_end": 30,
+      "heading": "How to Use This Five-Layer Session",
+      "preview": "Layer | Purpose",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Layer",
+          "Purpose"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 243.82
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 113.219
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 43,
+      "markdown_body_line_end": 54,
+      "heading": "Learning Roadmap",
+      "preview": "Unit | Logical subtopic",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Unit",
+          "Logical subtopic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 288.891
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 52.29
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 68,
+      "markdown_body_line_end": 88,
+      "heading": "VISUAL - Project map: crisis to rigorous phenomenology",
+      "preview": "NATURALISM -> meaning and logic reduced to natural processes",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 609.891
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 428.891
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 94,
+      "markdown_body_line_end": 106,
+      "heading": "VISUAL - What phenomenology studies",
+      "preview": "NOT: private image inside a mental container",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 387.691
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 286.691
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 112,
+      "markdown_body_line_end": 112,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Husserlian phenomenology is neither vague introspection nor a catalogue of appearances, but a method for describing givenness so that meaning, evidence and objectivity can be grounded.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 267.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 200.824
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 145,
+      "markdown_body_line_end": 155,
+      "heading": "Visual gateway - one screen, three jobs",
+      "preview": "HUSSERL'S PROGRAMME: a PRESUPPOSITIONLESS, RIGOROUS SCIENCE of consciousness",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 511.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 410.491
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 160,
+      "markdown_body_line_end": 164,
+      "heading": "Visual gateway - one screen, three jobs",
+      "preview": "Syllabus word | Plain meaning | Where it lives",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Syllabus word",
+          "Plain meaning",
+          "Where it lives"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 301.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 201.69
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 166,
+      "markdown_body_line_end": 166,
+      "heading": "Visual gateway - one screen, three jobs",
+      "preview": "MEMORY: Mnemonic \"NEIT-L\" - Natural attitude suspended -> Epoche brackets existence -> Intentionality revealed (noesis-noema) -> Transcendental ego as residue -> Lebenswelt as the pre-given horizon.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 201.69
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 157.022
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 170,
+      "markdown_body_line_end": 170,
+      "heading": "Visual gateway - one screen, three jobs",
+      "preview": "**Syllabus (verbatim):** Phenomenology (Husserl): Method; Theory of Essences; Avoidance of Psychologism. > **Evidence key:** ✅ canonical doctrine · ⚠️ analytical synthesis (mine, for exam use) · ❓ contested/uncertain > **Placement:** Husser",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 157.022
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 41.354
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 176,
+      "markdown_body_line_end": 202,
+      "heading": "0. ONE-SCREEN MAP ANALYSIS:",
+      "preview": "HUSSERL'S PROGRAMME: a PRESUPPOSITIONLESS, RIGOROUS SCIENCE of consciousness",
+      "metadata": {
+        "language": "plain",
+        "line_count": 25,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 526.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 204,
+      "markdown_body_line_end": 204,
+      "heading": "0. ONE-SCREEN MAP ANALYSIS:",
+      "preview": "🔑 **Mnemonic — \"NEIT-L\":** **N**atural attitude suspended → **E**poché brackets existence → **I**ntentionality revealed (noesis–noema) → **T**ranscendental ego as residue → **L**ebenswelt as pre-given horizon.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 526.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 481.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 210,
+      "markdown_body_line_end": 218,
+      "heading": "CLOSING RECALL FLOW - Crisis, Rigorous Philosophy and the Phenomenological Project",
+      "preview": "Crisis, Rigorous Philosophy and the Phenomenological Project",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 458.124
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 343.755
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 230,
+      "markdown_body_line_end": 248,
+      "heading": "VISUAL - Object identity across adumbrations",
+      "preview": "FRONT PROFILE ---- SIDE PROFILE ---- REAR PROFILE ---- NEW LIGHT",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 254,
+      "markdown_body_line_end": 268,
+      "heading": "VISUAL - Natural attitude and horizon",
+      "preview": "WORLD-HORIZON: space | time | other persons | uses | possible viewpoints",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 585.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 464.091
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 274,
+      "markdown_body_line_end": 274,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The natural attitude is not an error to be mocked but an unexamined world-positing whose profile-and-horizon structure phenomenology must make explicit without abandoning the world.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 444.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 378.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 307,
+      "markdown_body_line_end": 320,
+      "heading": "Visual gateway - two attitudes to the same tree",
+      "preview": "THE SAME TREE, TWO ATTITUDES",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 712.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 581.491
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 325,
+      "markdown_body_line_end": 329,
+      "heading": "Visual gateway - two attitudes to the same tree",
+      "preview": "Term | Plain meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Term",
+          "Plain meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 457.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 358.49
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 331,
+      "markdown_body_line_end": 331,
+      "heading": "Visual gateway - two attitudes to the same tree",
+      "preview": "MEMORY: the natural attitude is the *fish-in-water* stance; phenomenology is the fish noticing the water.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 358.49
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 328.022
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 343,
+      "markdown_body_line_end": 351,
+      "heading": "CLOSING RECALL FLOW - Natural Attitude, World-Positing, Profiles and Horizons",
+      "preview": "Natural Attitude, World-Positing, Profiles and Horizons",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 164.422
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 50.054
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 363,
+      "markdown_body_line_end": 385,
+      "heading": "VISUAL - Natural attitude to reductions",
+      "preview": "NATURAL ATTITUDE: world and object simply posited",
+      "metadata": {
+        "language": "text",
+        "line_count": 21,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 581.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 380.491
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 391,
+      "markdown_body_line_end": 403,
+      "heading": "VISUAL - Epoché, doubt and denial",
+      "preview": "CARTESIAN DOUBT -> perhaps the world is false -> seek an indubitable foundation",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 339.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 238.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 409,
+      "markdown_body_line_end": 409,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Epoché suspends the world's existential posit rather than the world itself, and reduction redirects inquiry to the object-givenness correlation instead of retreating into a private mind.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 219.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 152.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 442,
+      "markdown_body_line_end": 463,
+      "heading": "Visual gateway - the staircase of reductions",
+      "preview": "THE STAIRCASE OF REDUCTIONS      (re-ducere = to lead back)",
+      "metadata": {
+        "language": "text",
+        "line_count": 20,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 477.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 266.091
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 468,
+      "markdown_body_line_end": 473,
+      "heading": "Visual gateway - the staircase of reductions",
+      "preview": "Term | Plain meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Term",
+          "Plain meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 156.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 47.29
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 475,
+      "markdown_body_line_end": 475,
+      "heading": "Visual gateway - the staircase of reductions",
+      "preview": "MEMORY: epoche = pressing *pause* on the existence-button, not *delete*.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 496,
+      "markdown_body_line_end": 504,
+      "heading": "CLOSING RECALL FLOW - Epoché and the Phenomenological, Transcendental and Eidetic Reductions",
+      "preview": "Epoché and the Phenomenological, Transcendental and Eidetic Reductions",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 331.324
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 216.955
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 516,
+      "markdown_body_line_end": 530,
+      "heading": "VISUAL - Intentional act and object-as-intended",
+      "preview": "PERCEIVING / REMEMBERING / IMAGINING / JUDGING",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 641.091
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 536,
+      "markdown_body_line_end": 552,
+      "heading": "VISUAL - Empty intention and intuitive fulfilment",
+      "preview": "NAME / SIGN / EXPECTATION -> EMPTY OR SIGNITIVE INTENTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 599.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 458.891
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 558,
+      "markdown_body_line_end": 558,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Intentionality is the act-object correlation in which consciousness reaches objects as meant, while fulfilment and horizon explain how that directedness can gain or lose evidence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 439.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 373.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 592,
+      "markdown_body_line_end": 605,
+      "heading": "Visual gateway - the noesis-noema map",
+      "preview": "EVERY ACT OF CONSCIOUSNESS IS CONSCIOUSNESS *OF* SOMETHING",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 663.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 532.091
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 610,
+      "markdown_body_line_end": 615,
+      "heading": "Visual gateway - the noesis-noema map",
+      "preview": "Term | Plain meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Term",
+          "Plain meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 422.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 313.29
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 617,
+      "markdown_body_line_end": 617,
+      "heading": "Visual gateway - the noesis-noema map",
+      "preview": "MEMORY: NO-esis = the *act*; NO-ema = the *object-as-meant*. The mind is an *arrow*, not a *box*.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 313.29
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 282.822
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 631,
+      "markdown_body_line_end": 639,
+      "heading": "CLOSING RECALL FLOW - Intentionality, Fulfilment, Immanence, Transcendence and Horizon",
+      "preview": "Intentionality, Fulfilment, Immanence, Transcendence and Horizon",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 752.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 638.523
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 651,
+      "markdown_body_line_end": 669,
+      "heading": "VISUAL - Noesis and noema without a representational veil",
+      "preview": "NOESIS: perceiving this tree from here",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 419.923
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 258.923
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 675,
+      "markdown_body_line_end": 689,
+      "heading": "VISUAL - Constitution versus causal creation",
+      "preview": "CONSTITUTION: profiles + retention + horizon + fulfilment",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 666.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 695,
+      "markdown_body_line_end": 695,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The noetic-noematic correlation explains access to objects, while constitution names the synthesis of objective sense rather than the mind's causal manufacture of reality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 647.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 580.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 729,
+      "markdown_body_line_end": 743,
+      "heading": "Visual gateway - how raw sensation becomes an experience-of-something",
+      "preview": "HOW A RAW SENSATION BECOMES AN EXPERIENCE-OF-SOMETHING",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 748,
+      "markdown_body_line_end": 752,
+      "heading": "Visual gateway - how raw sensation becomes an experience-of-something",
+      "preview": "Term | Plain meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Term",
+          "Plain meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 536.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 437.49
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 754,
+      "markdown_body_line_end": 754,
+      "heading": "Visual gateway - how raw sensation becomes an experience-of-something",
+      "preview": "MEMORY: HYLE = the *clay*; MORPHE = the *hands* that shape it into a *this*.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 437.49
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 407.022
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 764,
+      "markdown_body_line_end": 769,
+      "heading": "HYLE and MORPHE - the internal structure of the intentional act FACT: (Ideas I §85)",
+      "preview": " | **HYLE** (matter, *stuff*) | **MORPHE** (form)",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "",
+          "**HYLE** (matter, *stuff*)",
+          "**MORPHE** (form)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 304.022
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 105.02
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 777,
+      "markdown_body_line_end": 785,
+      "heading": "CLOSING RECALL FLOW - Noesis, Noema and Constitution without the Intermediary-Picture Error",
+      "preview": "Noesis, Noema and Constitution without the Intermediary-Picture Error",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 678.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 564.523
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 797,
+      "markdown_body_line_end": 811,
+      "heading": "VISUAL - The living present",
+      "preview": "RETENTION <----- PRIMAL IMPRESSION -----> PROTENTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 345.923
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 224.923
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 817,
+      "markdown_body_line_end": 829,
+      "heading": "VISUAL - Retention is not recollection",
+      "preview": "RETENTION -> passive, continuous, belongs to current perception",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 835,
+      "markdown_body_line_end": 835,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Temporal synthesis shows that object identity is constituted in a living present whose retentions and protentions make succession experienced rather than merely inferred.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 667.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 600.424
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 869,
+      "markdown_body_line_end": 884,
+      "heading": "Visual gateway - the living present",
+      "preview": "THE LIVING PRESENT  (three moments, ONE act)",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 636.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 889,
+      "markdown_body_line_end": 893,
+      "heading": "Visual gateway - the living present",
+      "preview": "Moment | German | What it is",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Moment",
+          "German",
+          "What it is"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 512.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 424.49
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 895,
+      "markdown_body_line_end": 895,
+      "heading": "Visual gateway - the living present",
+      "preview": "MEMORY: R-I-P (Retention - Impression - Protention) = the shape of every lived now; the \"P\" faces the future.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 424.49
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 394.022
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 906,
+      "markdown_body_line_end": 916,
+      "heading": "INNER TIME-CONSCIOUSNESS - RETENTION · PRIMAL IMPRESSION · PROTENTION FACT:",
+      "preview": "┌──────────────── THE LIVING PRESENT ────────────────┐",
+      "metadata": {
+        "language": "plain",
+        "line_count": 9,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 271.822
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 170.822
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 917,
+      "markdown_body_line_end": 921,
+      "heading": "INNER TIME-CONSCIOUSNESS - RETENTION · PRIMAL IMPRESSION · PROTENTION FACT:",
+      "preview": "Moment | German | What it is | Crucial contrast",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Moment",
+          "German",
+          "What it is",
+          "Crucial contrast"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 591.89
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 932,
+      "markdown_body_line_end": 940,
+      "heading": "CLOSING RECALL FLOW - Temporal Synthesis, Retention, Primal Impression and Protention",
+      "preview": "Temporal Synthesis, Retention, Primal Impression and Protention",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 326.69
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 203.971
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 952,
+      "markdown_body_line_end": 968,
+      "heading": "VISUAL - Free imaginative variation to invariant essence",
+      "preview": "START: this red scalene triangle",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 592.691
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 974,
+      "markdown_body_line_end": 988,
+      "heading": "VISUAL - Factual and eidetic sciences",
+      "preview": "FACTUAL SCIENCE                  EIDETIC SCIENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 551.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 430.491
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 994,
+      "markdown_body_line_end": 994,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Eidetic variation does not average observed cases; it tests possibilities until the invariant structure of a phenomenon emerges as an a priori condition of its kind.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 411.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 344.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1028,
+      "markdown_body_line_end": 1041,
+      "heading": "Visual gateway - free imaginative variation",
+      "preview": "FREE IMAGINATIVE VARIATION   (fact -> essence)",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 663.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 532.091
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1046,
+      "markdown_body_line_end": 1051,
+      "heading": "Visual gateway - free imaginative variation",
+      "preview": "Term | Plain meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Term",
+          "Plain meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 422.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 313.29
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1053,
+      "markdown_body_line_end": 1053,
+      "heading": "Visual gateway - free imaginative variation",
+      "preview": "MEMORY: VARY -> what WON'T BUDGE is the eidos. Seeing, not averaging.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 313.29
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 282.822
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1100,
+      "markdown_body_line_end": 1108,
+      "heading": "CLOSING RECALL FLOW - Eidetic Science, Free Imaginative Variation and Invariant Essence",
+      "preview": "Eidetic Science, Free Imaginative Variation and Invariant Essence",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 103.991
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 701.873
+        }
+      },
+      "pdf_pages": [
+        26,
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1120,
+      "markdown_body_line_end": 1134,
+      "heading": "VISUAL - Transcendental field versus empirical psyche",
+      "preview": "EMPIRICAL PSYCHE -> person in the world -> causal psychology",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 483.273
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 362.273
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1140,
+      "markdown_body_line_end": 1158,
+      "heading": "VISUAL - Return to the lifeworld",
+      "preview": "LIFEWORLD: embodied, practical, shared, pre-theoretical experience",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 321.073
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 160.073
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1164,
+      "markdown_body_line_end": 1164,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Transcendental subjectivity is the world-directed field of constitution, so the reduction returns us to a meaningful lifeworld rather than trapping philosophy inside a Cartesian ego.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 140.873
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 74.205
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1197,
+      "markdown_body_line_end": 1216,
+      "heading": "Visual gateway - Husserl's \"I think\" vs Descartes' cogito",
+      "preview": "HUSSERL'S \"I THINK\"   vs   DESCARTES' COGITO",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 408.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 217.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1221,
+      "markdown_body_line_end": 1226,
+      "heading": "Visual gateway - Husserl's \"I think\" vs Descartes' cogito",
+      "preview": "Term | Plain meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Term",
+          "Plain meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 671.49
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1228,
+      "markdown_body_line_end": 1228,
+      "heading": "Visual gateway - Husserl's \"I think\" vs Descartes' cogito",
+      "preview": "MEMORY: Descartes' ego = a *thing* that could float alone; Husserl's ego = a *doing* (constituting) that always has a world.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 671.49
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 626.822
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1247,
+      "markdown_body_line_end": 1255,
+      "heading": "CLOSING RECALL FLOW - Transcendental Subjectivity, Return to the World and the Lifeworld",
+      "preview": "Transcendental Subjectivity, Return to the World and the Lifeworld",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 672.923
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1267,
+      "markdown_body_line_end": 1281,
+      "heading": "VISUAL - Psychologism diagnostic",
+      "preview": "ACT OF JUDGING -> real, temporal, psychological event",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 440.123
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 319.123
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1287,
+      "markdown_body_line_end": 1301,
+      "heading": "VISUAL - Logical law and psychological law",
+      "preview": "LOGICAL LAW                     PSYCHOLOGICAL LAW",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 666.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1307,
+      "markdown_body_line_end": 1325,
+      "heading": "VISUAL - Anti-psychologism to transcendental phenomenology",
+      "preview": "ANTI-PSYCHOLOGISM -> ideal meanings and logical validity secured",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 625.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 464.091
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1331,
+      "markdown_body_line_end": 1331,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Husserl defeats psychologism by separating real acts from ideal meanings and validity, then turns to transcendental phenomenology to explain how objective sense can be given.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 444.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 378.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1365,
+      "markdown_body_line_end": 1385,
+      "heading": "Visual gateway - the argument tree",
+      "preview": "IS LOGIC A BRANCH OF PSYCHOLOGY?    Husserl: NO (Prolegomena, 1900)",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 663.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 462.091
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1390,
+      "markdown_body_line_end": 1394,
+      "heading": "Visual gateway - the argument tree",
+      "preview": "Term | Plain meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Term",
+          "Plain meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 352.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 264.49
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1396,
+      "markdown_body_line_end": 1396,
+      "heading": "Visual gateway - the argument tree",
+      "preview": "MEMORY: four blows = \"NIRC\" - Necessary/probable, Ideal/real, Relativism-refutes, Cause vs ground.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 264.49
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 234.022
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1417,
+      "markdown_body_line_end": 1417,
+      "heading": "3.2 Husserl's Own Early Position - and Frege's Review FACT:CAUTION:",
+      "preview": "❌ **Do not write** the widely circulated sentence \"one might as well try to explain astronomy by the psychology of astronomers\" as a Frege **quotation**. It is a textbook paraphrase of the objection, not a line from the 1894 review. ✅ **Saf",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 681.891
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 594.624
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1423,
+      "markdown_body_line_end": 1428,
+      "heading": "3.3 Husserl's Four Arguments Against Psychologism (Prolegomena) FACT:",
+      "preview": "# | Argument | Logic",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "#",
+          "Argument",
+          "Logic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 456.024
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 167.422
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1444,
+      "markdown_body_line_end": 1452,
+      "heading": "CLOSING RECALL FLOW - Psychologism, Ideal Meaning and the Bridge to Transcendental Phenomenology",
+      "preview": "Psychologism, Ideal Meaning and the Bridge to Transcendental Phenomenology",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 556.991
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 442.623
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1464,
+      "markdown_body_line_end": 1482,
+      "heading": "VISUAL - Intersubjectivity and public objectivity",
+      "preview": "MY LIVED BODY: agency, sensation, absolute here",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1488,
+      "markdown_body_line_end": 1502,
+      "heading": "VISUAL - Criticism and reply map",
+      "preview": "WORLD-DENIAL -> epoché suspends, does not deny -> execution remains disputed",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 585.091
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 464.091
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1508,
+      "markdown_body_line_end": 1524,
+      "heading": "VISUAL - Philosophy Optional answer spine",
+      "preview": "CRISIS -> DEFINE PHENOMENOLOGY AND INTENTIONALITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 422.891
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 281.891
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1530,
+      "markdown_body_line_end": 1542,
+      "heading": "VISUAL - Exact distinction checklist",
+      "preview": "appearance != illusion        epoché != doubt or denial",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1548,
+      "markdown_body_line_end": 1548,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Husserl makes public objectivity depend on transcendental intersubjectivity, but his alter-ego analysis escapes solipsism more convincingly as a doctrine than as a method.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 667.091
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 600.424
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1582,
+      "markdown_body_line_end": 1601,
+      "heading": "Visual gateway - how the Other is constituted",
+      "preview": "HOW THE \"OTHER\" IS CONSTITUTED    (Fifth Cartesian Meditation)",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 596.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1606,
+      "markdown_body_line_end": 1611,
+      "heading": "Visual gateway - how the Other is constituted",
+      "preview": "Term | Plain meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Term",
+          "Plain meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 458.491
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 349.09
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1613,
+      "markdown_body_line_end": 1613,
+      "heading": "Visual gateway - how the Other is constituted",
+      "preview": "MEMORY: OWN -> BODY -> PAIR -> APPRESENT -> ALTER EGO. The other is me, as if I were over there.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 349.09
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 318.622
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1636,
+      "markdown_body_line_end": 1641,
+      "heading": "3A. THE FIFTH CARTESIAN MEDITATION - INTERSUBJECTIVITY FACT: (the answer to the solipsism charge)",
+      "preview": "Objection | Source | Reply available to Husserl | Residual",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Objection",
+          "Source",
+          "Reply available to Husserl",
+          "Residual"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 466.39
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1649,
+      "markdown_body_line_end": 1657,
+      "heading": "CLOSING RECALL FLOW - Intersubjectivity, Criticism, Legacy and Philosophy Optional Answer Spine",
+      "preview": "Intersubjectivity, Criticism, Legacy and Philosophy Optional Answer Spine",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 353.69
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 230.971
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1808,
+      "markdown_body_line_end": 1808,
+      "heading": "CANONICAL EXAM APPARATUS (PRESERVED VERBATIM)",
+      "preview": "The examiner apparatus below is reproduced verbatim from the canonical Phenomenology-Husserl.md (headings demoted, navigation links stripped). It is preserved intact so that no canonical depth - the directive decoder, the graded verdict ban",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 526.491
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 417.224
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1812,
+      "markdown_body_line_end": 1821,
+      "heading": "Directive Decoder - What Each Command Word Obliges Here",
+      "preview": "Directive | What it demands | Structural obligation for **this** file | Fatal error",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Directive",
+          "What it demands",
+          "Structural obligation for **this** file",
+          "Fatal error"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 289.89
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1827,
+      "markdown_body_line_end": 1835,
+      "heading": "Graded Verdict Bank",
+      "preview": "Sub-topic | **10-mark verdict** | **15-mark verdict** | **20-mark verdict**",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Sub-topic",
+          "**10-mark verdict**",
+          "**15-mark verdict**",
+          "**20-mark verdict**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 266.39
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 601.39
+        }
+      },
+      "pdf_pages": [
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1843,
+      "markdown_body_line_end": 1856,
+      "heading": "Translation, Quotation and Provenance Discipline",
+      "preview": "Work | Correct status | Practice",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 12,
+        "headers": [
+          "Work",
+          "Correct status",
+          "Practice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 544.49
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 525.89
+        }
+      },
+      "pdf_pages": [
+        45,
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1858,
+      "markdown_body_line_end": 1858,
+      "heading": "Translation, Quotation and Provenance Discipline",
+      "preview": "❌ **Never write:** that the epoché \"denies the existence of the world\"; that *Wesensschau* is a mystical intuition; that retention is a kind of memory; that Husserl \"proved other minds exist\"; or that Heidegger, Sartre and Merleau-Ponty wer",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 525.89
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 467.022
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1864,
+      "markdown_body_line_end": 1870,
+      "heading": "Criticisms and Replies",
+      "preview": "Criticism | Source | Husserl's Reply / Counter",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Criticism",
+          "Source",
+          "Husserl's Reply / Counter"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 443.522
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 77.72
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1876,
+      "markdown_body_line_end": 1883,
+      "heading": "Common UPSC Traps",
+      "preview": "Trap | Correction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Trap",
+          "Correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 472.29
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1889,
+      "markdown_body_line_end": 1904,
+      "heading": "Keyword and Statement Bank",
+      "preview": "# | Term / Statement | Significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 14,
+        "headers": [
+          "#",
+          "Term / Statement",
+          "Significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 448.79
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 60.188
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1914,
+      "markdown_body_line_end": 1914,
+      "heading": "PYQ Routing Table",
+      "preview": "⚠️ **Corpus signal:** 7 primary-owned question-parts out of 112. The local Paper I corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 699.091
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 632.424
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1916,
+      "markdown_body_line_end": 1924,
+      "heading": "PYQ Routing Table",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 632.424
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 423.022
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1931,
+      "markdown_body_line_end": 1950,
+      "heading": "8.1 - PYQ 2025 Q4(a) 20m: \"How is Husserl's 'I think' different from Descartes'? Critically discuss.\"",
+      "preview": "Frame  : Both seek an indubitable starting-point in the thinking subject; both perform",
+      "metadata": {
+        "language": "plain",
+        "line_count": 18,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 367.822
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 176.822
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1953,
+      "markdown_body_line_end": 1969,
+      "heading": "8.2 - PYQ 2024 Q4(b) 15m: \"Why do essences exhibit continuity between consciousness and being?\"",
+      "preview": "Frame  : The question targets the \"correlational a priori\" — Husserl's claim that the structure",
+      "metadata": {
+        "language": "plain",
+        "line_count": 15,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1972,
+      "markdown_body_line_end": 1987,
+      "heading": "8.3 - PYQ 2023 Q3(b) 15m: \"Elucidate the significance of bracketing and reduction.\"",
+      "preview": "Frame  : \"Significance\" = why does Husserl need epoché and reductions at all? (Not merely what",
+      "metadata": {
+        "language": "plain",
+        "line_count": 14,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 624.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1990,
+      "markdown_body_line_end": 2002,
+      "heading": "8.4 - PYQ 2022 Q1(d) 10m: \"What is psychologism? How does Husserl avoid it?\"",
+      "preview": "Defn  : Psychologism = logic is a branch of empirical psychology; logical laws are",
+      "metadata": {
+        "language": "plain",
+        "line_count": 11,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 330.291
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2005,
+      "markdown_body_line_end": 2019,
+      "heading": "8.5 - PYQ 2021 Q4(a) 20m: \"Critical exposition of Husserl's criticism of natural attitude.\"",
+      "preview": "Frame  : The natural attitude is not an error but a pre-philosophical *naïveté* — it takes the",
+      "metadata": {
+        "language": "plain",
+        "line_count": 13,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 308.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 167.291
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2022,
+      "markdown_body_line_end": 2034,
+      "heading": "8.6 - PYQ 2019 Q1(b) 10m: \"Can hallucination be an intentional act?\"",
+      "preview": "Defn  : Intentionality = directedness of consciousness toward an object (noema). The intentional",
+      "metadata": {
+        "language": "plain",
+        "line_count": 11,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2040,
+      "markdown_body_line_end": 2046,
+      "heading": "Inter-Thinker Debates",
+      "preview": "Axis | Husserl | Descartes | Kant | Heidegger | Merleau-Ponty",
+      "metadata": {
+        "column_count": 6,
+        "row_count": 5,
+        "headers": [
+          "Axis",
+          "Husserl",
+          "Descartes",
+          "Kant",
+          "Heidegger",
+          "Merleau-Ponty"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 662.791
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 473.39
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2077,
+      "markdown_body_line_end": 2077,
+      "heading": "ORIGINAL MCQ MASTERY SET - EXACTLY 40 QUESTIONS",
+      "preview": "Questions 1-32 are core coverage across all ten subtopics; Questions 33-40 are remedial items targeting the most common misreadings. Correct answers rotate strictly A -> B -> C -> D 10 times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 657.191
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 612.524
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2859,
+      "markdown_body_line_end": 2861,
+      "heading": "Practice Design",
+      "preview": "DIRECTIVE -> THESIS -> DOCTRINE -> NAMED SOURCE / EXAMPLE -> OBJECTION / REPLY -> VERDICT",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 751.891
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 730.891
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2865,
+      "markdown_body_line_end": 2865,
+      "heading": "SOLVED PYQ BANK - EXACTLY 7 VERIFIED OWNER QUESTIONS",
+      "preview": "Exact wording, year and marks are parsed from the continuous local Western Philosophy Paper I bank for 2018-2025. Phenomenology (Husserl) owns exactly 7 primary parts, one each in 2019, 2020, 2021, 2022, 2023, 2024 and 2025; 2018 is the onl",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 705.891
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 618.624
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2999,
+      "markdown_body_line_end": 2999,
+      "heading": "ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS",
+      "preview": "Three original questions authored for this package (not PYQs), one each at 10, 15 and 20 marks, with complete model solutions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 314.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 269.624
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3156,
+      "markdown_body_line_end": 3156,
+      "heading": "What \"presuppositionless\" and \"rigorous science\" actually commit Husserl to",
+      "preview": "ANALYSIS: the strongest opening you can write on any Husserl question states the *architecture* first - method (reductions) yields the field, the theory of essences describes its structures, and the war on psychologism guarantees the result",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 305.491
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 232.424
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3171,
+      "markdown_body_line_end": 3171,
+      "heading": "The subtle point examiners reward: not false, but uncritical",
+      "preview": "ANALYSIS: the 2021 question asks for a *critical exposition* of Husserl's criticism of the natural attitude. The examiner-strong move is to insist on the two-sided verdict: the natural attitude is (i) indispensable and true enough for life ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 771.891
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 698.824
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3186,
+      "markdown_body_line_end": 3186,
+      "heading": "Epoche is NOT Cartesian doubt - state the contrast exactly",
+      "preview": "ANALYSIS: notice that only the third purpose is *peculiar* to Husserl; the first two he shares in ambition with Descartes but reaches without Descartes' costs. That single observation lifts a 15-marker from description to assessment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 387.356
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3190,
+      "markdown_body_line_end": 3190,
+      "heading": "Epoche is NOT Cartesian doubt - state the contrast exactly",
+      "preview": "WRONG: never write that the epoche \"denies the existence of the world\" or \"proves the world is only in the mind.\" It suspends a *positing*; it decides nothing about existence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 339.756
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 295.088
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3204,
+      "markdown_body_line_end": 3204,
+      "heading": "From Brentano, but transformed - and the hallucination pay-off",
+      "preview": "ANALYSIS: contemporary scholarship anchor (labelled, not doctrinal proof) - Chang Liu, \"How the Phenomenal Determines the Intentional - A Husserlian Approach,\" *Husserl Studies*, vol. 42 (2026), reopens exactly this act-object relation, arg",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 716.024
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3206,
+      "markdown_body_line_end": 3206,
+      "heading": "From Brentano, but transformed - and the hallucination pay-off",
+      "preview": "WRONG: \"intentionality means the object must exist.\" False - intentional objects may be non-existent (hallucinations, fantasies); directedness is the point.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 716.024
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 671.356
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3221,
+      "markdown_body_line_end": 3221,
+      "heading": "The anti-sense-datum argument, and the Merleau-Ponty / Sartre objections",
+      "preview": "ANALYSIS: the examiner-strong verdict is even-handed: hyle/morphe *destroys* the sense-datum picture (a genuine achievement) yet *itself* looks like a residue of the empiricism it attacks - which is precisely why Husserl's successors abolis",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 403.556
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 344.688
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3237,
+      "markdown_body_line_end": 3237,
+      "heading": "The examinable heart: retention is NOT recollection; and the absolute flow",
+      "preview": "CAUTION: provenance is itself examinable here. *On the Phenomenology of the Consciousness of Internal Time* gathers lectures of **1893-1917**, was edited by **Edith Stein**, and was published by **Heidegger in 1928**. Always flag this edito",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 757.691
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 698.824
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3251,
+      "markdown_body_line_end": 3251,
+      "heading": "Categorial intuition, regional ontologies, and the continuity of consciousness and being",
+      "preview": "CAUTION: this continuity must **not** be read as **subjective idealism** (\"only my mind exists\" / \"things are bundles of my ideas\"). Husserl's claim is transcendental - the *sense* \"being\" is constituted in and for consciousness - not the B",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 434.024
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 360.956
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3253,
+      "markdown_body_line_end": 3253,
+      "heading": "Categorial intuition, regional ontologies, and the continuity of consciousness and being",
+      "preview": "ANALYSIS: the sharpest 15-mark line links the two halves - the eidetic method (how essences are grasped) *is* the evidence for the continuity thesis (that being shows itself only in correlation with consciousness). Method and metaphysics ar",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 360.956
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 302.088
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3267,
+      "markdown_body_line_end": 3267,
+      "heading": "The three-point contrast, the Kant guard, and Lebenswelt provenance",
+      "preview": "CAUTION: state the *Crisis* provenance exactly. **Parts I-II appeared in the journal *Philosophia* (Belgrade) in 1936**; Husserl **died in 1938** leaving it unfinished; **Part III and the full text were published posthumously only in 1954**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 716.024
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3269,
+      "markdown_body_line_end": 3269,
+      "heading": "The three-point contrast, the Kant guard, and Lebenswelt provenance",
+      "preview": "ANALYSIS: the transcendental *solipsism* worry - if the world is constituted by my ego, how are there *others*? - is raised here and *answered* in the Fifth Meditation (subtopic 10). Flag it here, resolve it there.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 716.024
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 671.356
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3284,
+      "markdown_body_line_end": 3284,
+      "heading": "Frege, the early Husserl, and the boomerang charge (2022)",
+      "preview": "ANALYSIS: the examiner-strong verdict on 2022 is graded, not flat: the reply *succeeds* against the *literal* charge (empirical psychologism) because the transcendental ego is not empirical; whether it *fully* escapes a subtler transcendent",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 318.356
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 245.288
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3301,
+      "markdown_body_line_end": 3301,
+      "heading": "Analogising transfer (not an inference), and the four great objections",
+      "preview": "CAUTION: provenance. The Meditations were **lectures in Paris, February 1929**; **first published in French** (tr. Levinas and Peiffer, **1931**); the German *Cartesianische Meditationen* appeared **posthumously in 1950** (*Husserliana* I).",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 632.091
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 573.224
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3303,
+      "markdown_body_line_end": 3303,
+      "heading": "Analogising transfer (not an inference), and the four great objections",
+      "preview": "ANALYSIS: executable verdict - \"the Fifth Meditation is the most honest passage in Husserl and the least successful\": it *disposes of the traditional other-minds problem* (inaccessibility is constitutive of \"other\"), yet an analysis that mu",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 573.224
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 500.156
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3309,
+      "markdown_body_line_end": 3309,
+      "heading": "ADVANCED DOSSIER REFINEMENTS - USE SELECTIVELY",
+      "preview": "**Classification: OPTIONAL ADVANCED.** These interpretation debates are unnecessary for a competent Core answer and may be used only after the complete syllabus spine is secure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 475.156
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 430.488
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3346,
+      "markdown_body_line_end": 3346,
+      "heading": "CONSOLIDATED REGISTER NOTES",
+      "preview": "Placed last, after all teaching and all solved practice. One compact block per subtopic, then the provenance ledger, the exact PYQ routing, the keyword bank and the exam verdict bank. Use for final-lap revision.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 391.991
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 347.324
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3391,
+      "markdown_body_line_end": 3400,
+      "heading": "Provenance Ledger (state exactly - dating is examinable on this topic)",
+      "preview": "Work | Correct citation form",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Work",
+          "Correct citation form"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 493.091
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 254.09
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3403,
+      "markdown_body_line_end": 3411,
+      "heading": "Exact PYQ Routing (7 owned parts, 2019-2025)",
+      "preview": "Year | Part | Marks | Demand | Home subtopic",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 7,
+        "headers": [
+          "Year",
+          "Part",
+          "Marks",
+          "Demand",
+          "Home subtopic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 229.09
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 61.688
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3426,
+      "markdown_body_line_end": 3437,
+      "heading": "ASCII MASTER FLOW - PANEL 1/10: Crisis and the project of rigorous phenomenology",
+      "preview": "START -> philosophy must ground meaning, truth and objectivity without borrowed assumptions.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 433.691
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 320.691
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3441,
+      "markdown_body_line_end": 3452,
+      "heading": "ASCII MASTER FLOW - PANEL 2/10: Natural attitude, profiles, horizons and object identity",
+      "preview": "NATURAL ATTITUDE -> ordinary, useful and unexamined positing of world and objects as existing.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 298.691
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 185.691
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3456,
+      "markdown_body_line_end": 3467,
+      "heading": "ASCII MASTER FLOW - PANEL 3/10: Epoché and the three reductions",
+      "preview": "EPOCHÉ -> suspend the natural attitude's existential posit for phenomenological inquiry.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 674.291
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3471,
+      "markdown_body_line_end": 3482,
+      "heading": "ASCII MASTER FLOW - PANEL 4/10: Intentionality, fulfilment, transcendence and horizon",
+      "preview": "INTENTIONALITY -> consciousness is consciousness of something; directedness, not purpose.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 652.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 539.291
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3486,
+      "markdown_body_line_end": 3497,
+      "heading": "ASCII MASTER FLOW - PANEL 5/10: Noesis, noema, constitution, evidence and truth",
+      "preview": "NOESIS -> intentional act or process: perceiving, judging, remembering, valuing.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 517.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 404.291
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3501,
+      "markdown_body_line_end": 3512,
+      "heading": "ASCII MASTER FLOW - PANEL 6/10: Temporal synthesis and the living present",
+      "preview": "PROBLEM -> isolated now-points could never be heard as one melody or meaningful sentence.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 382.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 269.291
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3516,
+      "markdown_body_line_end": 3527,
+      "heading": "ASCII MASTER FLOW - PANEL 7/10: Eidetic science and free imaginative variation",
+      "preview": "EIDOS / ESSENCE -> invariant structure or possibility-condition of a phenomenon's kind.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 674.291
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3531,
+      "markdown_body_line_end": 3542,
+      "heading": "ASCII MASTER FLOW - PANEL 8/10: Transcendental subjectivity, world-return and lifeworld",
+      "preview": "EMPIRICAL PSYCHE -> psychophysical person within the world and studied causally.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 652.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 539.291
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3546,
+      "markdown_body_line_end": 3557,
+      "heading": "ASCII MASTER FLOW - PANEL 9/10: Psychologism, ideal meaning and transcendental bridge",
+      "preview": "PSYCHOLOGISM -> reduces logical laws, meanings, number or validity to mental facts.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 517.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 404.291
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3561,
+      "markdown_body_line_end": 3572,
+      "heading": "ASCII MASTER FLOW - PANEL 10/10: Intersubjectivity, evaluation, legacy and answer spine",
+      "preview": "INTERSUBJECTIVITY -> condition for a world valid for subjects other than myself.",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 382.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 269.291
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    }
+  ]
+}

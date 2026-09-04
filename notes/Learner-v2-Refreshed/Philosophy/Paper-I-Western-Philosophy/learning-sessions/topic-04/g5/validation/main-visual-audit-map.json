@@ -1,0 +1,3837 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g5\\topic-04_Complete-Learning-Session_2026-09-02.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g5\\topic-04_Complete-Learning-Session_2026-09-02.pdf",
+  "mode": "main",
+  "topic_key": "philosophy-paper-i-western-philosophy-04",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5,
+      "markdown_body_line_end": 7,
+      "heading": "Kant - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Generation:** g5, 2026-09-02 · **Approval:** false pending explicit topic approval  **Evidence discipline:** Complete legacy teaching and workbook material is preserved, reordered Basic-first/Advanced-last, and checked against the canonic",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 713.424
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 14,
+      "markdown_body_line_end": 14,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Kantian critical architecture",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-04\\g5\\assets\\Kant-Critical-Architecture.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 680.424
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 372.888
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 18,
+      "markdown_body_line_end": 18,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "**Syllabus (verbatim):** Kant: Possibility of Synthetic a priori Judgments; Space and Time; Categories; Ideas of Reason; Antinomies; Critique of Proofs for the Existence of God.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 325.288
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 280.62
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 24,
+      "markdown_body_line_end": 30,
+      "heading": "How to Use This Five-Layer Session",
+      "preview": "Layer | Purpose",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Layer",
+          "Purpose"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 236.42
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 105.819
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 45,
+      "markdown_body_line_end": 56,
+      "heading": "Learning Roadmap",
+      "preview": "Unit | Logical subtopic",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Unit",
+          "Logical subtopic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 453.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 216.69
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 70,
+      "markdown_body_line_end": 90,
+      "heading": "VISUAL - Rationalism-Empiricism problem and Kantian critical synthesis",
+      "preview": "RATIONALISM                         EMPIRICISM / HUME",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 606.291
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 96,
+      "markdown_body_line_end": 116,
+      "heading": "VISUAL - Single architecture of cognition",
+      "preview": "SENSIBILITY -> gives intuitions in SPACE and TIME",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 565.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 384.091
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 122,
+      "markdown_body_line_end": 140,
+      "heading": "VISUAL - Full Philosophy Optional answer spine",
+      "preview": "DIRECTIVE -> precise thesis -> definition -> numbered argument",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 342.891
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 181.891
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 146,
+      "markdown_body_line_end": 146,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Kant reconciles rationalism and empiricism by making a priori form the condition of experiential objectivity while denying that pure reason can convert those forms into knowledge of noumena.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 162.691
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 96.024
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 177,
+      "markdown_body_line_end": 195,
+      "heading": "Visual gateway - one question, one method",
+      "preview": "RATIONALISM                                   EMPIRICISM (Hume)",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 459.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 278.891
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 199,
+      "markdown_body_line_end": 204,
+      "heading": "Visual gateway - one question, one method",
+      "preview": "Slogan | Plain meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Slogan",
+          "Plain meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 202.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 93.49
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 206,
+      "markdown_body_line_end": 206,
+      "heading": "Visual gateway - one question, one method",
+      "preview": "🔑 **Memory line:** Not \"does the mind mirror the world?\" but \"what must the mind supply for a world to appear?\"",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 93.49
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 48.822
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 210,
+      "markdown_body_line_end": 212,
+      "heading": "Visual gateway - one question, one method",
+      "preview": "**Syllabus (verbatim):** Kant: Possibility of Synthetic a priori Judgments; Space and Time; Categories; Ideas of Reason; Antinomies; Critique of Proofs for the Existence of God. **Evidence key:** ✅ canonical doctrine · ⚠️ analytical synthes",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 673.424
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 218,
+      "markdown_body_line_end": 241,
+      "heading": "0. ONE-SCREEN MAP ANALYSIS:",
+      "preview": "KANT'S CENTRAL QUESTION: How are SYNTHETIC A PRIORI judgments possible?",
+      "metadata": {
+        "language": "plain",
+        "line_count": 22,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 648.924
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 417.924
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 243,
+      "markdown_body_line_end": 243,
+      "heading": "0. ONE-SCREEN MAP ANALYSIS:",
+      "preview": "🔑 **Mnemonic — \"SSU-CRN\":** Sensibility Supplies Space-Time; Understanding Uses Categories; Reason generates (illusory) Noumenal ideas.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 417.924
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 373.256
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 249,
+      "markdown_body_line_end": 257,
+      "heading": "7. INTER-THINKER / INTER-SCHOOL DEBATES ANALYSIS:",
+      "preview": "Axis | Rationalism | Empiricism (Hume) | **Kant**",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Axis",
+          "Rationalism",
+          "Empiricism (Hume)",
+          "**Kant**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 349.756
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 108.854
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 269,
+      "markdown_body_line_end": 277,
+      "heading": "CLOSING RECALL FLOW - The Critical Project: From Rationalist Dogma and Humean Scepticism to Critique",
+      "preview": "The Critical Project: From Rationalist Dogma and Humean Scepticism to Critique",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 591.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 485.073
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 289,
+      "markdown_body_line_end": 309,
+      "heading": "VISUAL - Judgment matrix: analytic/synthetic x a priori/a posteriori",
+      "preview": "+----------------+--------------------------+---------------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 323.273
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 142.273
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 315,
+      "markdown_body_line_end": 335,
+      "heading": "VISUAL - Copernican revolution",
+      "preview": "OLD ASSUMPTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 606.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 341,
+      "markdown_body_line_end": 341,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Synthetic a priori judgments are possible because objects of possible experience must conform to the mind's a priori forms, so mathematics and fundamental natural principles articulate conditions under which anything can appear as an object",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 587.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 506.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 372,
+      "markdown_body_line_end": 383,
+      "heading": "Visual gateway - the 2x2 that founds the Critique",
+      "preview": "A PRIORI (necessary)        A POSTERIORI (from experience)",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 387,
+      "markdown_body_line_end": 392,
+      "heading": "Visual gateway - the 2x2 that founds the Critique",
+      "preview": "Class | Example | Status",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Class",
+          "Example",
+          "Status"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 505.09
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 394,
+      "markdown_body_line_end": 394,
+      "heading": "Visual gateway - the 2x2 that founds the Critique",
+      "preview": "🔑 **Memory line:** Kant's whole system is the reply to one question: how is the fourth box possible?",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 505.09
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 474.622
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 402,
+      "markdown_body_line_end": 405,
+      "heading": "1.1 The Two Distinctions (Cross-Classification)",
+      "preview": " | **A priori** (independent of experience; necessary, universal) | **A posteriori** (dependent on experience; contingent, particular)",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "",
+          "**A priori** (independent of experience; necessary, universal)",
+          "**A posteriori** (dependent on experience; contingent, particular)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 433.622
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 321.82
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 421,
+      "markdown_body_line_end": 421,
+      "heading": "1.4 \"Precepts without concepts are blind, and concepts without precepts are empty\" - the UPSC misquotation ANALYSIS:",
+      "preview": "PYQ 2023 Q1(a) prints: *\"Precepts without concepts are blind and concepts without precepts are empty.\"*",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 743.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 430,
+      "markdown_body_line_end": 430,
+      "heading": "1.4 \"Precepts without concepts are blind, and concepts without precepts are empty\" - the UPSC misquotation ANALYSIS:",
+      "preview": "**Note for exam:** Quote the paper's printed text exactly, then give the correct Kantian original, flagging the substitution of \"precepts\" for \"intuitions.\" Do not silently correct UPSC.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 627.424
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 582.756
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 440,
+      "markdown_body_line_end": 448,
+      "heading": "CLOSING RECALL FLOW - Synthetic A Priori Judgments and the Copernican Revolution",
+      "preview": "Synthetic A Priori Judgments and the Copernican Revolution",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 452.056
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 336.537
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 460,
+      "markdown_body_line_end": 480,
+      "heading": "VISUAL - Space and time as forms of intuition",
+      "preview": "SENSORY MATTER",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 606.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 486,
+      "markdown_body_line_end": 502,
+      "heading": "VISUAL - Why space and time are a priori intuitions",
+      "preview": "A PRIORI",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 565.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 424.091
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 508,
+      "markdown_body_line_end": 508,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Space and time are empirically real because every appearance must be spatially or temporally ordered, yet transcendentally ideal because neither can be attributed to things as they are independently of our sensibility.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 404.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 338.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 539,
+      "markdown_body_line_end": 552,
+      "heading": "Visual gateway - two lenses the mind cannot take off",
+      "preview": "THE MIND'S SENSIBILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 680.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 549.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 556,
+      "markdown_body_line_end": 561,
+      "heading": "Visual gateway - two lenses the mind cannot take off",
+      "preview": " | Space | Time",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "",
+          "Space",
+          "Time"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 487.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 378.09
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 563,
+      "markdown_body_line_end": 563,
+      "heading": "Visual gateway - two lenses the mind cannot take off",
+      "preview": "🔑 **Memory line:** Space = the frame for things *outside*; time = the frame for *everything*, inner included.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 378.09
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 347.622
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 581,
+      "markdown_body_line_end": 586,
+      "heading": "2.2 Metaphysical Exposition of Space (the arguments that space is a priori and intuitive)",
+      "preview": "Argument | Content",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Argument",
+          "Content"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 588.29
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 596,
+      "markdown_body_line_end": 596,
+      "heading": "2.3 Transcendental Exposition of Space and Time (PYQ 2022 Q1e - direct demand) FACT:",
+      "preview": "PYQ 2019 Q4(a) 20m: \"How does Kant argue for the transcendence [= the a priori character] of Space and Time?\" — the metaphysical and transcendental expositions above ARE the answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 443.69
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 399.022
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 612,
+      "markdown_body_line_end": 620,
+      "heading": "CLOSING RECALL FLOW - Space and Time: Pure Forms of Sensible Intuition",
+      "preview": "Space and Time: Pure Forms of Sensible Intuition",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 181.522
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 66.004
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 632,
+      "markdown_body_line_end": 662,
+      "heading": "VISUAL - All twelve categories in four grouped cards",
+      "preview": "+-- QUANTITY ----------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 638.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 357.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 668,
+      "markdown_body_line_end": 690,
+      "heading": "VISUAL - Unity of apperception and objective synthesis",
+      "preview": "MANIFOLD OF INTUITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 21,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 316.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 115.091
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 696,
+      "markdown_body_line_end": 696,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Transcendental Deduction justifies categories by showing that unified self-conscious experience is possible only through rule-governed synthesis, so the categories constitute objects of experience without depicting noumenal things.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 727,
+      "markdown_body_line_end": 743,
+      "heading": "Visual gateway - how raw sensation becomes objective experience",
+      "preview": "manifold of intuition (given by space & time)",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 328.624
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 167.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 747,
+      "markdown_body_line_end": 752,
+      "heading": "Visual gateway - how raw sensation becomes objective experience",
+      "preview": "Group | Categories (3 each) | Star item",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Group",
+          "Categories (3 each)",
+          "Star item"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 693.89
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 754,
+      "markdown_body_line_end": 754,
+      "heading": "Visual gateway - how raw sensation becomes objective experience",
+      "preview": "🔑 **Memory line:** 12 categories + one \"I think\" = objective experience; the understanding legislates nature's form, it does not manufacture things.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 693.89
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 649.222
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 764,
+      "markdown_body_line_end": 769,
+      "heading": "3.1 The Table of Categories",
+      "preview": "Group | Categories",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Group",
+          "Categories"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 589.022
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 479.62
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 771,
+      "markdown_body_line_end": 771,
+      "heading": "3.1 The Table of Categories",
+      "preview": "The star category for the syllabus is **Causality** (under Relation) — it answers Hume. ✅",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 479.62
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 449.153
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 792,
+      "markdown_body_line_end": 797,
+      "heading": "3.4 Causality as an A Priori Category - Kant's Response to Hume FACT:",
+      "preview": "Hume's position | Kant's response",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Hume's position",
+          "Kant's response"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 633.09
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 825,
+      "markdown_body_line_end": 833,
+      "heading": "CLOSING RECALL FLOW - Categories, Synthesis and the Transcendental Unity of Apperception",
+      "preview": "Categories, Synthesis and the Transcendental Unity of Apperception",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 116.89
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 700.723
+        }
+      },
+      "pdf_pages": [
+        20,
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 845,
+      "markdown_body_line_end": 865,
+      "heading": "VISUAL - The schematism bridge",
+      "preview": "PURE CATEGORY                 APPEARANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 524.723
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 343.723
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 871,
+      "markdown_body_line_end": 881,
+      "heading": "VISUAL - Four time architectures",
+      "preview": "QUANTITY -> time-series -> NUMBER",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 302.523
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 221.523
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 887,
+      "markdown_body_line_end": 887,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Schematism converts logical functions into rules of temporal application, explaining how the Deduction's entitlement becomes usable for appearances while leaving unschematised categories without objective sense.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 202.323
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 135.655
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 918,
+      "markdown_body_line_end": 933,
+      "heading": "Visual gateway - the third thing that spans the gap",
+      "preview": "PURE CATEGORY  ----?----  SENSIBLE APPEARANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 522.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 371.691
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 937,
+      "markdown_body_line_end": 942,
+      "heading": "Visual gateway - the third thing that spans the gap",
+      "preview": "Category-group | Aspect of time | Schema",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Category-group",
+          "Aspect of time",
+          "Schema"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 295.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 186.29
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 944,
+      "markdown_body_line_end": 944,
+      "heading": "Visual gateway - the third thing that spans the gap",
+      "preview": "🔑 **Memory \"SCOR-S\": S**eries, **C**ontent, **O**rder, sum-total (**S**cope) for Quantity, Quality, Relation, Modality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 186.29
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 155.822
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 963,
+      "markdown_body_line_end": 967,
+      "heading": "3.5 THE SCHEMATISM - Categories bridged to intuition by TIME-DETERMINATION FACT: (A137-47 / B176-87)",
+      "preview": "Case | Image | Schema",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Case",
+          "Image",
+          "Schema"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 528.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 395.89
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 969,
+      "markdown_body_line_end": 969,
+      "heading": "3.5 THE SCHEMATISM - Categories bridged to intuition by TIME-DETERMINATION FACT: (A137-47 / B176-87)",
+      "preview": "⚠️ **The single most examinable Schematism trap:** the schema is a **rule/procedure**, an image is a **product**. Anyone who writes \"the schema is a mental picture that resembles both\" has lost the section. Kant himself calls schematism \"**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 395.89
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 322.822
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 973,
+      "markdown_body_line_end": 978,
+      "heading": "3.5 THE SCHEMATISM - Categories bridged to intuition by TIME-DETERMINATION FACT: (A137-47 / B176-87)",
+      "preview": "Category-group | Aspect of time | Schema",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Category-group",
+          "Aspect of time",
+          "Schema"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 289.422
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 101.62
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 980,
+      "markdown_body_line_end": 980,
+      "heading": "3.5 THE SCHEMATISM - Categories bridged to intuition by TIME-DETERMINATION FACT: (A137-47 / B176-87)",
+      "preview": "🔑 **Mnemonic — \"SCOR-S\": Series · Content · Order · Sum-total** for Quantity · Quality · Relation · Modality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 101.62
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 56.953
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 989,
+      "markdown_body_line_end": 993,
+      "heading": "3.5 THE SCHEMATISM - Categories bridged to intuition by TIME-DETERMINATION FACT: (A137-47 / B176-87)",
+      "preview": "Objection | Reply | Residual",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Objection",
+          "Reply",
+          "Residual"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 438.89
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1003,
+      "markdown_body_line_end": 1011,
+      "heading": "CLOSING RECALL FLOW - Schematism: How Pure Categories Apply to Temporal Appearances",
+      "preview": "Schematism: How Pure Categories Apply to Temporal Appearances",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 267.09
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 159.921
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1023,
+      "markdown_body_line_end": 1035,
+      "heading": "VISUAL - Three Analogies and the modes of time",
+      "preview": "TIME ITSELF CANNOT BE PERCEIVED",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 638.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 537.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1041,
+      "markdown_body_line_end": 1057,
+      "heading": "VISUAL - House and ship: subjective and objective succession",
+      "preview": "HOUSE",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 496.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 355.091
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1063,
+      "markdown_body_line_end": 1063,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Kant answers Hume by arguing that causality is not inferred from repetition but presupposed in judging a succession as an objective event, though particular causal laws remain empirical.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 335.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 269.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1094,
+      "markdown_body_line_end": 1104,
+      "heading": "Visual gateway - why the ship is an 'event' but the house is not",
+      "preview": "HOUSE (coexisting parts)        SHIP (drifting downstream)",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 626.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 525.691
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1108,
+      "markdown_body_line_end": 1112,
+      "heading": "Visual gateway - why the ship is an 'event' but the house is not",
+      "preview": "Analogy | Mode of time | Principle | Proxy",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Analogy",
+          "Mode of time",
+          "Principle",
+          "Proxy"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 449.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 364.29
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1114,
+      "markdown_body_line_end": 1114,
+      "heading": "Visual gateway - why the ship is an 'event' but the house is not",
+      "preview": "🔑 **Memory line:** time is invisible, so the mind fixes time-order by three rules - persist, follow-by-rule, coexist-by-rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 364.29
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 319.622
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1124,
+      "markdown_body_line_end": 1128,
+      "heading": "3.6 THE ANALOGIES OF EXPERIENCE - schematised Relation at work FACT: (A176-218 / B218-265)",
+      "preview": "Analogy | Mode of time | Principle | Proxy supplied",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Analogy",
+          "Mode of time",
+          "Principle",
+          "Proxy supplied"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 665.39
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1148,
+      "markdown_body_line_end": 1151,
+      "heading": "3.6.2 SECOND ANALOGY - Causality (the real answer to Hume) FACT: highest-yield",
+      "preview": "Case | Order of apprehension | Reversible? | What it is",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 2,
+        "headers": [
+          "Case",
+          "Order of apprehension",
+          "Reversible?",
+          "What it is"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 263.79
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 177.888
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1175,
+      "markdown_body_line_end": 1183,
+      "heading": "CLOSING RECALL FLOW - Analogies of Experience: Substance, Causality and Community",
+      "preview": "Analogies of Experience: Substance, Causality and Community",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 330.691
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 224.673
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1195,
+      "markdown_body_line_end": 1211,
+      "heading": "VISUAL - Phenomenon-noumenon boundary",
+      "preview": "KNOWABLE DOMAIN: POSSIBLE EXPERIENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1217,
+      "markdown_body_line_end": 1233,
+      "heading": "VISUAL - Refutation of problematic idealism",
+      "preview": "DETERMINATE AWARENESS OF MY STATES IN TIME",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 605.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 464.091
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1239,
+      "markdown_body_line_end": 1239,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Kant combines transcendental idealism with empirical realism: appearances are objective and public within experience, although categories cannot be extended to things in themselves.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 444.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 378.224
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1270,
+      "markdown_body_line_end": 1284,
+      "heading": "Visual gateway - Descartes inverted, and the wall of knowledge",
+      "preview": "DESCARTES:  inner certainty (I think)  ->  infer outer world (doubtful)",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 764.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 623.091
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1288,
+      "markdown_body_line_end": 1292,
+      "heading": "Visual gateway - Descartes inverted, and the wall of knowledge",
+      "preview": " | Problematic idealism | Dogmatic idealism",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "",
+          "Problematic idealism",
+          "Dogmatic idealism"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 547.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 458.89
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1294,
+      "markdown_body_line_end": 1294,
+      "heading": "Visual gateway - Descartes inverted, and the wall of knowledge",
+      "preview": "🔑 **Memory line:** self-knowledge rides on world-knowledge; phenomena are knowable, noumena only thinkable.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 458.89
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 414.222
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1303,
+      "markdown_body_line_end": 1306,
+      "heading": "3.7 THE REFUTATION OF IDEALISM FACT: (B274-9, added in the second edition, 1787)",
+      "preview": "Type | Holder | Claim",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Type",
+          "Holder",
+          "Claim"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 311.222
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 233.02
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1323,
+      "markdown_body_line_end": 1327,
+      "heading": "3.7 THE REFUTATION OF IDEALISM FACT: (B274-9, added in the second edition, 1787)",
+      "preview": "Objection | Force | Reply",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Objection",
+          "Force",
+          "Reply"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 639.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 439.09
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1335,
+      "markdown_body_line_end": 1339,
+      "heading": "3.8 Phenomena, things in themselves and noumena",
+      "preview": "Phenomena | Thing-in-itself / noumenal boundary",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Phenomena",
+          "Thing-in-itself / noumenal boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 298.49
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 210.288
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1353,
+      "markdown_body_line_end": 1359,
+      "heading": "8. CRITICISMS AND REPLIES",
+      "preview": "Criticism | Source | Kant's possible reply",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Criticism",
+          "Source",
+          "Kant's possible reply"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 477.49
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1369,
+      "markdown_body_line_end": 1377,
+      "heading": "CLOSING RECALL FLOW - Phenomena, Noumena and Empirical Realism",
+      "preview": "Phenomena, Noumena and Empirical Realism",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 346.79
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 240.771
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1389,
+      "markdown_body_line_end": 1407,
+      "heading": "VISUAL - Soul, world and God as Ideas of Reason",
+      "preview": "REASON SEEKS THE UNCONDITIONED",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1413,
+      "markdown_body_line_end": 1429,
+      "heading": "VISUAL - Regulative and constitutive uses",
+      "preview": "REGULATIVE USE",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 585.091
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 444.091
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1435,
+      "markdown_body_line_end": 1435,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Transcendental illusion is natural and persistent because reason cannot stop seeking completion, yet critique can prevent the slide from useful systematic unity to metaphysical claims about soul-substance, world-totality and God.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 424.891
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 358.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1466,
+      "markdown_body_line_end": 1478,
+      "heading": "Visual gateway - reason reaching past the wall",
+      "preview": "REASON seeks the UNCONDITIONED (total conditions)",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 729.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 608.691
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1482,
+      "markdown_body_line_end": 1486,
+      "heading": "Visual gateway - reason reaching past the wall",
+      "preview": "Idea | Totality sought | Illusion produced",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Idea",
+          "Totality sought",
+          "Illusion produced"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 546.891
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 458.69
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1488,
+      "markdown_body_line_end": 1488,
+      "heading": "Visual gateway - reason reaching past the wall",
+      "preview": "🔑 **Memory line:** Soul, World, God = regulative compasses, not constitutive knowledge.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 458.69
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 428.222
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1498,
+      "markdown_body_line_end": 1502,
+      "heading": "4.1 The Three Transcendental Ideas",
+      "preview": "Idea | Object | Totality sought | Faculty misapplied",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Idea",
+          "Object",
+          "Totality sought",
+          "Faculty misapplied"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 353.822
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 236.92
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1524,
+      "markdown_body_line_end": 1532,
+      "heading": "CLOSING RECALL FLOW - Ideas of Reason, Transcendental Illusion and the Paralogisms",
+      "preview": "Ideas of Reason, Transcendental Illusion and the Paralogisms",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 640.191
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 524.673
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1544,
+      "markdown_body_line_end": 1552,
+      "heading": "VISUAL - Antinomy 1: magnitude of the world",
+      "preview": "THESIS: The world has a beginning in time and limits in space.",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 348.673
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 287.673
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1558,
+      "markdown_body_line_end": 1566,
+      "heading": "VISUAL - Antinomy 2: composition of the world",
+      "preview": "THESIS: Every composite consists ultimately of simple parts.",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1572,
+      "markdown_body_line_end": 1580,
+      "heading": "VISUAL - Antinomy 3: freedom and natural causality",
+      "preview": "THESIS: Causality through freedom is required besides natural causality.",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 685.091
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 624.091
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1586,
+      "markdown_body_line_end": 1594,
+      "heading": "VISUAL - Antinomy 4: necessary being",
+      "preview": "THESIS: An absolutely necessary being belongs to the world as part or cause.",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 582.891
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 521.891
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1600,
+      "markdown_body_line_end": 1614,
+      "heading": "VISUAL - Why the two resolutions differ",
+      "preview": "ANTINOMIES 1-2: MATHEMATICAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 480.691
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 359.691
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1620,
+      "markdown_body_line_end": 1620,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Transcendental idealism resolves the mathematical antinomies by rejecting the shared assumption of a given world-whole, while it reconciles the dynamical antinomies by distinguishing phenomenal natural conditions from a merely intelligible ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 340.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 259.624
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1652,
+      "markdown_body_line_end": 1663,
+      "heading": "Visual gateway - the antinomy matrix",
+      "preview": "#  THESIS                          ANTITHESIS                 TYPE / RESOLUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 609.491
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 498.491
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1667,
+      "markdown_body_line_end": 1671,
+      "heading": "Visual gateway - the antinomy matrix",
+      "preview": " | Mathematical (1 & 2) | Dynamical (3 & 4)",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "",
+          "Mathematical (1 & 2)",
+          "Dynamical (3 & 4)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 408.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 320.09
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1673,
+      "markdown_body_line_end": 1673,
+      "heading": "Visual gateway - the antinomy matrix",
+      "preview": "🔑 **Memory line:** mathematical = both false; dynamical = both true (in different realms).",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 320.09
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 289.622
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1685,
+      "markdown_body_line_end": 1690,
+      "heading": "5.2 The Four Antinomies - Stated",
+      "preview": "# | THESIS | ANTITHESIS",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "#",
+          "THESIS",
+          "ANTITHESIS"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 621.89
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1694,
+      "markdown_body_line_end": 1698,
+      "heading": "5.3 The Mathematical/Dynamical Distinction ANALYSIS:",
+      "preview": " | Mathematical Antinomies (1st & 2nd) | Dynamical Antinomies (3rd & 4th)",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "",
+          "Mathematical Antinomies (1st & 2nd)",
+          "Dynamical Antinomies (3rd & 4th)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 599.89
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 466.888
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1722,
+      "markdown_body_line_end": 1730,
+      "heading": "CLOSING RECALL FLOW - The Four Antinomies and the Different Forms of Their Resolution",
+      "preview": "The Four Antinomies and the Different Forms of Their Resolution",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 663.423
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1742,
+      "markdown_body_line_end": 1752,
+      "heading": "VISUAL - Ontological proof: concept cannot yield actuality",
+      "preview": "PROOF: God = most perfect being -> existence is perfection -> God exists",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 473.223
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 392.223
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1758,
+      "markdown_body_line_end": 1768,
+      "heading": "VISUAL - Cosmological proof: causal overreach plus hidden ontology",
+      "preview": "PROOF: contingent existence -> necessary ground -> God",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 351.023
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 270.023
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1774,
+      "markdown_body_line_end": 1784,
+      "heading": "VISUAL - Physico-theological proof: architect, not necessary creator",
+      "preview": "PROOF: purposive order -> intelligent designer -> creator God",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1790,
+      "markdown_body_line_end": 1804,
+      "heading": "VISUAL - Critical balance and comparison",
+      "preview": "RATIONALISM: a priori necessity, but transcendent dogma",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 665.091
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 544.091
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1810,
+      "markdown_body_line_end": 1810,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Kant's critique removes God from theoretical knowledge rather than from thought or practical faith, completing a system that secures phenomenal objectivity precisely by refusing constitutive claims beyond possible experience.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 524.891
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 458.224
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1841,
+      "markdown_body_line_end": 1858,
+      "heading": "Visual gateway - the proof-dependency collapse",
+      "preview": "ONTOLOGICAL (from concept of God)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1862,
+      "markdown_body_line_end": 1866,
+      "heading": "Visual gateway - the proof-dependency collapse",
+      "preview": "Proof | Starts from | Fatal flaw",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Proof",
+          "Starts from",
+          "Fatal flaw"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 540.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 452.09
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1868,
+      "markdown_body_line_end": 1868,
+      "heading": "Visual gateway - the proof-dependency collapse",
+      "preview": "🔑 **Memory line:** existence is not a predicate -> ontological falls -> the other two, leaning on it, fall too.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 452.09
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 421.622
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1935,
+      "markdown_body_line_end": 1943,
+      "heading": "CLOSING RECALL FLOW - Critique of the Three Proofs for God and the Final Critical Balance",
+      "preview": "Critique of the Three Proofs for God and the Final Critical Balance",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 105.391
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 709.073
+        }
+      },
+      "pdf_pages": [
+        42,
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1986,
+      "markdown_body_line_end": 1991,
+      "heading": "Closing recall",
+      "preview": "SENSIBILITY: SPACE/TIME -> UNDERSTANDING: CATEGORIES/APPERCEPTION/SCHEMATA",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2169,
+      "markdown_body_line_end": 2169,
+      "heading": "CANONICAL EXAM APPARATUS (PRESERVED VERBATIM)",
+      "preview": "The examiner apparatus below is reproduced verbatim from the canonical Kant.md (headings demoted, navigation links stripped). It is preserved intact so that no canonical depth - PYQ routing, answer architecture, directive rules, verdict ban",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 483.491
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 402.624
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2173,
+      "markdown_body_line_end": 2173,
+      "heading": "PYQ Routing (2018-2025)",
+      "preview": "⚠️ **Corpus signal:** 10 primary-owned question-parts out of 112. The local Paper I corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 402.624
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 335.956
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2175,
+      "markdown_body_line_end": 2186,
+      "heading": "PYQ Routing (2018-2025)",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 10,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 479.89
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2193,
+      "markdown_body_line_end": 2205,
+      "heading": "10-mark: \"What is apperception? Discuss with reference to transcendental exposition of space and time.\" (2022)",
+      "preview": "Line 1: Kant's \"transcendental unity of apperception\" is the formal condition that the",
+      "metadata": {
+        "language": "plain",
+        "line_count": 11,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 406.69
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 285.69
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2208,
+      "markdown_body_line_end": 2222,
+      "heading": "15-mark: \"Kant's objections against the ontological argument\" (2024)",
+      "preview": "Frame : The ontological argument (Descartes/Anselm): God = most perfect being; existence =",
+      "metadata": {
+        "language": "plain",
+        "line_count": 13,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 263.69
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 122.69
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2225,
+      "markdown_body_line_end": 2240,
+      "heading": "20-mark: \"How does Kant construct antinomies to illustrate the illusory tendencies of pure reason?\" (2022)",
+      "preview": "Frame : The Transcendental Dialectic diagnoses reason's natural illusion — seeking the",
+      "metadata": {
+        "language": "plain",
+        "line_count": 14,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 636.291
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2246,
+      "markdown_body_line_end": 2255,
+      "heading": "Directive Decoder",
+      "preview": "Directive | What it demands | Structural obligation for **this** file | Fatal error",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Directive",
+          "What it demands",
+          "Structural obligation for **this** file",
+          "Fatal error"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 612.791
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 162.39
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2261,
+      "markdown_body_line_end": 2270,
+      "heading": "Graded Verdict Bank",
+      "preview": "Sub-topic | **10-mark verdict** | **15-mark verdict** | **20-mark verdict**",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Sub-topic",
+          "**10-mark verdict**",
+          "**15-mark verdict**",
+          "**20-mark verdict**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 138.89
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 371.39
+        }
+      },
+      "pdf_pages": [
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2276,
+      "markdown_body_line_end": 2284,
+      "heading": "Common UPSC Traps",
+      "preview": "Trap | Discrimination",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Trap",
+          "Discrimination"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 435.09
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2290,
+      "markdown_body_line_end": 2306,
+      "heading": "Keyword and Statement Bank",
+      "preview": "# | Term / Statement | Use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 15,
+        "headers": [
+          "#",
+          "Term / Statement",
+          "Use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 411.59
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 46.588
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2314,
+      "markdown_body_line_end": 2325,
+      "heading": "Translation, Quotation and Provenance Discipline",
+      "preview": "Item | Editions / practice | Cautions",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Item",
+          "Editions / practice",
+          "Cautions"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 768.091
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 72.29
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2327,
+      "markdown_body_line_end": 2327,
+      "heading": "Translation, Quotation and Provenance Discipline",
+      "preview": "❌ **Never write:** that Kant \"proved space and time do not exist,\" or that the noumenon is \"a thing behind appearances that causes them.\" The second is Jacobi's famous objection about causal application beyond experience, and stating it as ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2346,
+      "markdown_body_line_end": 2346,
+      "heading": "ORIGINAL MCQ MASTERY SET - EXACTLY 36 QUESTIONS",
+      "preview": "Questions 1-28 are core coverage across all ten subtopics; Questions 29-36 are remedial items targeting the most common misreadings. Correct answers rotate strictly A -> B -> C -> D nine times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 577.024
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 532.356
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3226,
+      "markdown_body_line_end": 3228,
+      "heading": "Practice Design",
+      "preview": "DIRECTIVE -> THESIS -> DOCTRINE -> NAMED TEXT/EXAMPLE -> OBJECTION/REPLY -> VERDICT",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 364.891
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 343.891
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3232,
+      "markdown_body_line_end": 3232,
+      "heading": "SOLVED PYQ BANK - EXACTLY 10 VERIFIED KANT QUESTIONS",
+      "preview": "Exact wording, year and marks are parsed from the continuous local Western Philosophy Paper I bank for 2018-2025. Kant owns exactly 10 primary parts and has no owned question in 2025. Questions that merely mention Kant but are owned by Quin",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 318.891
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 245.824
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3334,
+      "markdown_body_line_end": 3339,
+      "heading": "Solved PYQ 6 - 2022 Q3(a), 20 marks",
+      "preview": "# | Thesis | Antithesis",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "#",
+          "Thesis",
+          "Antithesis"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 303.691
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 194.29
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3419,
+      "markdown_body_line_end": 3419,
+      "heading": "ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS",
+      "preview": "Three original questions authored for this package (not PYQs), one each at 10, 15 and 20 marks, with full model solutions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 404.491
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3565,
+      "markdown_body_line_end": 3565,
+      "heading": "Is transcendental idealism a retreat or an advance?",
+      "preview": "ANALYSIS (contemporary scholarship anchor, not doctrinal proof): Karin de Boer, \"Philosophy's Crutches: Kant's Use of Analogical Reasoning in the Critique of Pure Reason,\" *Kant-Studien* vol. 117 no. 1 (2026), argues that Kant systematicall",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 497.691
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 396.224
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3577,
+      "markdown_body_line_end": 3577,
+      "heading": "Do the showcase examples survive modern science?",
+      "preview": "❓ Quine's \"Two Dogmas of Empiricism\" is Quine-Strawson-owned in the PYQ bank; it is used here only as a comparison, never as a Kant-owned question.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 248.824
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 204.156
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3589,
+      "markdown_body_line_end": 3589,
+      "heading": "The metaphysical and transcendental expositions, and their cost",
+      "preview": "ANALYSIS: Kant's decisive achievement here is negative and lasting - he shows the Newton-Leibniz debate is unanswerable because both treat space as something *encountered*; once space is the *form of encounter*, the dispute dissolves.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3603,
+      "markdown_body_line_end": 3603,
+      "heading": "The strongest objection - and the Hegelian culmination claim (2018)",
+      "preview": "❌ Do not read \"Understanding makes Nature\" as the *empirical creation of objects*; it concerns the lawful, objective *form* of phenomenal nature, constituted through a priori forms and categories - transcendental constitution, not private i",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 549.624
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 490.756
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3615,
+      "markdown_body_line_end": 3615,
+      "heading": "Schema is a rule, not an image - the make-or-break trap",
+      "preview": "ANALYSIS: **Hegel's** deep objection - the whole apparatus of separated faculties artificially divides thought and intuition only to rejoin them - is the one to flag in a 20-marker. The best defence is **functional**: without schemata the A",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 343.556
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 284.688
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3627,
+      "markdown_body_line_end": 3627,
+      "heading": "How far does the Second Analogy really beat Hume?",
+      "preview": "ANALYSIS: The First Analogy's conservation claim (\"substance's quantum neither increased nor diminished\") looks like Newtonian physics smuggled into transcendental philosophy - a fair residual worry. The Analogies are, revealingly, the part",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 123.288
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 50.22
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3651,
+      "markdown_body_line_end": 3651,
+      "heading": "The Paralogisms - why the 'I think' is not a soul",
+      "preview": "ANALYSIS: the pattern is uniform across the Dialectic - reason mistakes a *condition of thinking* for an *object of knowledge*. Naming \"regulative vs constitutive\" is the single highest-value discrimination in this whole section.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 482.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 437.624
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3663,
+      "markdown_body_line_end": 3663,
+      "heading": "When does reason 'enter' the antinomies - and is Hegel's third path open?",
+      "preview": "ANALYSIS: the indirect proof is powerful but not decisive - it works only if there is **no third diagnosis**. **Hegel** supplies one: reason's contradictions are **productive**, not pathological - contradiction is the motor of dialectical a",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 318.624
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 259.756
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3675,
+      "markdown_body_line_end": 3675,
+      "heading": "'Existence is not a real predicate' - precision and afterlife",
+      "preview": "ANALYSIS: the positive doctrine matters for the verdict - \"**I had to deny knowledge in order to make room for faith**\" (Bxxx). Kant clears theoretical theology precisely to relocate God to the moral life: the highest good (virtue proportio",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 140.756
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 67.688
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3681,
+      "markdown_body_line_end": 3681,
+      "heading": "ADVANCED DOSSIER REFINEMENTS - USE SELECTIVELY",
+      "preview": "**Classification: OPTIONAL ADVANCED.** These interpretation debates are unnecessary for a competent Core answer and may be used only after the complete syllabus spine is secure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 740.624
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3718,
+      "markdown_body_line_end": 3719,
+      "heading": "CONSOLIDATED REGISTER NOTES",
+      "preview": "One-screen revision spine. Each block compresses a subtopic to definitions, evidence, comparisons, traps and the PYQ route. Read top-to-bottom the night before the exam.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 688.791
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 644.124
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3823,
+      "markdown_body_line_end": 3834,
+      "heading": "ASCII MASTER FLOW - PANEL 1/10: Critical starting problem and the rationalism-empiricism synthesis",
+      "preview": "CENTRAL QUESTION: How can cognition be informative, necessary and objectively valid?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 462.091
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 349.091
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3838,
+      "markdown_body_line_end": 3849,
+      "heading": "ASCII MASTER FLOW - PANEL 2/10: Synthetic a priori judgments and the Copernican explanation",
+      "preview": "ANALYTIC -> predicate contained in subject; denial contradicts the concept",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 327.091
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 214.091
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3853,
+      "markdown_body_line_end": 3864,
+      "heading": "ASCII MASTER FLOW - PANEL 3/10: Transcendental Aesthetic: space and time as forms of intuition",
+      "preview": "FORM OF INTUITION -> a priori way in which sensory matter can be given",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 674.291
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3868,
+      "markdown_body_line_end": 3879,
+      "heading": "ASCII MASTER FLOW - PANEL 4/10: Categories, synthesis and transcendental unity of apperception",
+      "preview": "QUANTITY -> Unity | Plurality | Totality",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 652.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 539.291
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3883,
+      "markdown_body_line_end": 3894,
+      "heading": "ASCII MASTER FLOW - PANEL 5/10: Schematism: temporal bridge from pure category to appearance",
+      "preview": "PROBLEM -> pure intellectual category and sensible particular appearance are heterogeneous",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 517.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 404.291
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3898,
+      "markdown_body_line_end": 3909,
+      "heading": "ASCII MASTER FLOW - PANEL 6/10: Analogies of Experience and Kant's precise answer to Hume",
+      "preview": "MASTER PREMISE -> time itself cannot be perceived; objective time needs proxies",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 382.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 269.291
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3913,
+      "markdown_body_line_end": 3924,
+      "heading": "ASCII MASTER FLOW - PANEL 7/10: Phenomena, noumena, empirical realism and the idealism boundary",
+      "preview": "PHENOMENON -> object as given in space/time and thought through categories",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 674.291
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3928,
+      "markdown_body_line_end": 3939,
+      "heading": "ASCII MASTER FLOW - PANEL 8/10: Ideas of Reason, regulative unity and natural transcendental illusion",
+      "preview": "UNDERSTANDING -> supplies rules for appearances; REASON -> seeks the unconditioned",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 652.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 539.291
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3943,
+      "markdown_body_line_end": 3954,
+      "heading": "ASCII MASTER FLOW - PANEL 9/10: Four cosmological antinomies and their differentiated resolutions",
+      "preview": "1 THESIS -> beginning in time + spatial limit | ANTITHESIS -> infinite time/space",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 517.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 404.291
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3958,
+      "markdown_body_line_end": 3970,
+      "heading": "ASCII MASTER FLOW - PANEL 10/10: God-proof critique, evaluation ledger, traps, PYQs and answer spine",
+      "preview": "ONTOLOGICAL -> perfect concept includes existence | KANT -> existence adds no content",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 382.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 259.091
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    }
+  ]
+}

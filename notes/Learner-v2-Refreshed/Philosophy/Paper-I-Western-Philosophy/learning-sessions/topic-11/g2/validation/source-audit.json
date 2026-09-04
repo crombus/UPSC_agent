@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "audited_on": "2026-08-27",
+  "source_order": [
+    "Markdown knowledge owners",
+    "OCR-searchable local PDFs",
+    "Live web only if unresolved",
+    "Qdrant optional fallback"
+  ],
+  "markdown_sources": [
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Quine-Strawson.md",
+    "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
+    "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2018-2025.md",
+    "upsc-ai-kit\\knowledge\\Philosophy\\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Quine-Strawson\\Quine-Strawson_Layered-Complete-Learning-Session_2026-08-19.md",
+    "upsc-ai-kit\\knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Quine-Strawson\\Quine-Strawson_Layered-Solved-Practice-Workbook_2026-08-19.md"
+  ],
+  "ocr_audit": {
+    "2016_Masih_A_critical_history_of_western_philosophy.pdf": {
+      "path": "books\\philosphy_books\\2016_Masih_A_critical_history_of_western_philosophy.pdf",
+      "pages": 6,
+      "text_pages": 6,
+      "hits": {
+        "analytic": [
+          6
+        ]
+      },
+      "sha256": "01d81cdb2f82d7c6e12e7948252f4e11f3e1ad4a427e713edaaf32a8e3eab882"
+    },
+    "Robert.Audi_The.Cambridge.Dictionary.of.Philosophy.pdf": {
+      "path": "books\\philosphy_books\\Robert.Audi_The.Cambridge.Dictionary.of.Philosophy.pdf",
+      "pages": 1032,
+      "text_pages": 1032,
+      "hits": {
+        "holism": [
+          7,
+          15,
+          92,
+          206,
+          260,
+          264,
+          276,
+          290
+        ],
+        "Strawson": [
+          8,
+          92,
+          106,
+          337,
+          388,
+          596,
+          675,
+          680
+        ],
+        "person": [
+          8,
+          10,
+          14,
+          21,
+          27,
+          29,
+          38,
+          43
+        ],
+        "presupposition": [
+          8,
+          98,
+          116,
+          190,
+          224,
+          314,
+          346,
+          358
+        ],
+        "analytic": [
+          10,
+          13,
+          35,
+          43,
+          50,
+          52,
+          58,
+          59
+        ],
+        "Quine": [
+          12,
+          36,
+          60,
+          69,
+          111,
+          153,
+          154,
+          170
+        ],
+        "basic particular": [
+          106,
+          915
+        ],
+        "synonymy": [
+          174,
+          363,
+          578,
+          594,
+          706,
+          931
+        ],
+        "gavagai": [
+          456
+        ]
+      },
+      "sha256": "514dd3f2efac7ff5b8e2a17a8a76ac952c5385323a1197e5d7581b1ab7081417"
+    },
+    "a_new_history_of_western_philosophy_volume_4.pdf": {
+      "path": "books\\philosphy_books\\a_new_history_of_western_philosophy_volume_4.pdf",
+      "pages": 364,
+      "text_pages": 364,
+      "hits": {
+        "Strawson": [
+          8,
+          10,
+          15,
+          51,
+          52,
+          53,
+          54,
+          55
+        ],
+        "analytic": [
+          10,
+          12,
+          15,
+          50,
+          55,
+          58,
+          68,
+          80
+        ],
+        "Quine": [
+          15,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          135
+        ],
+        "person": [
+          15,
+          19,
+          22,
+          23,
+          29,
+          30,
+          33,
+          34
+        ],
+        "presupposition": [
+          64
+        ],
+        "synonymy": [
+          82,
+          83,
+          363
+        ],
+        "gavagai": [
+          83,
+          358
+        ],
+        "basic particular": [
+          87
+        ],
+        "holism": [
+          359
+        ]
+      },
+      "sha256": "8ac4f951ec127d49d3e2cc40ec46ae810c44f3afd5dfbbe7051245599df04ed4"
+    },
+    "philosophy__the_classics_--_warburton_nigel_--_4_2014_--_routledge_--_0415534674_--_265dfe84ff25101d59a827ea4091b506_--_anna’s_archive.pdf": {
+      "path": "books\\philosphy_books\\philosophy__the_classics_--_warburton_nigel_--_4_2014_--_routledge_--_0415534674_--_265dfe84ff25101d59a827ea4091b506_--_anna’s_archive.pdf",
+      "pages": 474,
+      "text_pages": 474,
+      "hits": {
+        "person": [
+          14,
+          31,
+          41,
+          44,
+          45,
+          46,
+          48,
+          52
+        ],
+        "analytic": [
+          214,
+          215,
+          216,
+          221,
+          337,
+          345,
+          386,
+          446
+        ],
+        "Quine": [
+          356,
+          467
+        ]
+      },
+      "sha256": "be39d9a1558c5f9f6958dc98c71dc80f5dad9c8b11da0d7c973c9d459acae2bb"
+    }
+  },
+  "web_required": false,
+  "qdrant_required": false,
+  "verified_pyq_count": 9,
+  "official_syllabus_verbatim": "Quine and Strawson : Critique of Empiricism; Theory of Basic Particulars and Persons.",
+  "notes": "Local Markdown resolved doctrine, dating and exact PYQ wording. OCR sources corroborated the Quine and Strawson vocabulary - analyticity, synonymy, holism, gavagai, basic particulars, persons and presupposition - without replacing the repository owners."
+}

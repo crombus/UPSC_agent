@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-07",
+  "generation": 6,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-07\\g6\\topic-07_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    2433
+  ],
+  "stages": [
+    {
+      "title": "RELIGION WITHOUT GOD",
+      "terms": "✅ Fact: Recent 2025–2026 scholarship and reviews continue to discuss religious naturalism as an attempt to retain awe, value, ritual and community within a naturalistic worldview. ⚠️ Inference: This strengthens the conceptual question whether supernatural belief is necessary for religion, but it does not displace the syllabus's primary evidence: Buddhism, Jainism, Mīmāṃsā and Sāṃkhya.",
+      "mechanism": "✅ Fact: Recent 2025–2026 scholarship and reviews continue to discuss religious naturalism as an attempt to retain awe, value, ritual and community within a naturalistic worldview. ⚠️ Inference: This strengthens the conceptual question whether supernatural belief is necessary for religion, but it does not displace the syllabus's primary evidence: Buddhism, Jainism, Mīmāṃsā and Sāṃkhya.",
+      "consequence": "✅ Fact: Recent 2025–2026 scholarship and reviews continue to discuss religious naturalism as an attempt to retain awe, value, ritual and community within a naturalistic worldview. ⚠️ Inference: This strengthens the conceptual question whether supernatural belief is necessary for religion, but it does not displace the syllabus's primary evidence: Buddhism, Jainism, Mīmāṃsā and Sāṃkhya.",
+      "trap": "✅ Fact: Recent 2025–2026 scholarship and reviews continue to discuss religious naturalism as an attempt to retain awe, value, ritual and community within a naturalistic worldview. ⚠️ Inference: This strengthens the conceptual question whether supernatural belief is necessary for religion, but it does not displace the syllabus's primary evidence: Buddhism, Jainism, Mīmāṃsā and Sāṃkhya.",
+      "answer": "✅ Fact: Recent 2025–2026 scholarship and reviews continue to discuss religious naturalism as an attempt to retain awe, value, ritual and community within a naturalistic worldview. ⚠️ Inference: This strengthens the conceptual question whether supernatural belief is necessary for religion, but it does not displace the syllabus's primary evidence: Buddhism, Jainism, Mīmāṃsā and Sāṃkhya."
+    },
+    {
+      "title": "RELIGION WITHOUT GOD: CORE DISTINCTIONS",
+      "terms": "Feuerbach, Marx, Freud and Nietzsche challenge theistic religion respectively as projection, ideology, wish-fulfilment and a life-denying value-framework, but criticism of theism does not by itself construct a religion without God.",
+      "mechanism": "Feuerbach, Marx, Freud and Nietzsche challenge theistic religion respectively as projection, ideology, wish-fulfilment and a life-denying value-framework, but criticism of theism does not by itself construct a religion without God.",
+      "consequence": "Ninian Smart's dimensions: religion has doctrinal, mythic, ethical, ritual, experiential, social & material dimensions — belief in a creator God is not on the essential list. ✅ A functional definition: religion = a way of life orienting one toward ultimate meaning, liberation, and the transcendent/absolute — which need not be a personal God. ⚠️ Hence \"religion without God\" is coherent: the sacred/ultimate ≠ necessarily a deity.",
+      "trap": "Master verdict: A personal creator is not necessary for religion, but some disciplined orientation to ultimacy, transformation, community and soteriology is needed to prevent the category from becoming empty.",
+      "answer": "Religion is a disciplined orientation to an ultimate or sacred order through doctrine, practice, community and transformation; belief in a personal creator is not a necessary condition."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 2
+    },
+    {
+      "page": 2,
+      "y_start": 233,
+      "y_end": 2433,
+      "overlap_px": 260,
+      "from_stage": 1,
+      "continues_stage": 2
+    }
+  ]
+}

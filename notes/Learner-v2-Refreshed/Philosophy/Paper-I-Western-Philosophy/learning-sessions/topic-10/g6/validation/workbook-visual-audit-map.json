@@ -1,0 +1,825 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-10\\g6\\topic-10_Solved-Practice-Workbook_2026-09-02.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-10\\g6\\topic-10_Solved-Practice-Workbook_2026-09-02.pdf",
+  "mode": "workbook",
+  "topic_key": "philosophy-paper-i-western-philosophy-10",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 155,
+      "markdown_body_line_end": 155,
+      "heading": "CANONICAL EXAM APPARATUS (PRESERVED VERBATIM)",
+      "preview": "The examiner apparatus below is reproduced verbatim from the canonical Existentialism.md (headings demoted, navigation links stripped). It is preserved intact so that no canonical depth - criticisms and replies, common traps, the keyword an",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 617.991
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 508.724
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 161,
+      "markdown_body_line_end": 166,
+      "heading": "4.1 Criticisms of Sartre",
+      "preview": "Criticism | Source | Reply / Counter",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Criticism",
+          "Source",
+          "Reply / Counter"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 467.724
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 134.322
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 170,
+      "markdown_body_line_end": 175,
+      "heading": "VISUAL - 4.2 Criticisms of Heidegger",
+      "preview": "Criticism | Source | Reply / Counter",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Criticism",
+          "Source",
+          "Reply / Counter"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 465.09
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 179,
+      "markdown_body_line_end": 183,
+      "heading": "4.3 Criticisms of Kierkegaard",
+      "preview": "Criticism | Source | Reply / Counter",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Criticism",
+          "Source",
+          "Reply / Counter"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 443.09
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 164.488
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 189,
+      "markdown_body_line_end": 197,
+      "heading": "VISUAL - Common UPSC Traps",
+      "preview": "Trap | Correction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Trap",
+          "Correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 479.89
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 203,
+      "markdown_body_line_end": 218,
+      "heading": "Keyword and Statement Bank",
+      "preview": "# | Term / Statement | Thinker | Significance",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 14,
+        "headers": [
+          "#",
+          "Term / Statement",
+          "Thinker",
+          "Significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 456.39
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 124.488
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 239,
+      "markdown_body_line_end": 239,
+      "heading": "PYQ Routing Table",
+      "preview": "⚠️ **Corpus signal:** 14 primary-owned question-parts out of 112. The local Paper I corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 537.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 470.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 241,
+      "markdown_body_line_end": 256,
+      "heading": "PYQ Routing Table",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 14,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 470.624
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 54.722
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 263,
+      "markdown_body_line_end": 275,
+      "heading": "8.1 - PYQ 2025 Q1(c) 10m: \"Explain the difference between pour-soi and en-soi.\"",
+      "preview": "Defn  : En-soi (being-in-itself) = being that is what it is — full, self-identical, opaque,",
+      "metadata": {
+        "language": "plain",
+        "line_count": 11,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 768.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 647.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 278,
+      "markdown_body_line_end": 293,
+      "heading": "8.2 - PYQ 2024 Q4(a) 10+10m: \"Existence precedes essence + freedom.\"",
+      "preview": "Frame  : The central existentialist reversal of the Western tradition.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 14,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 625.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 474.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 296,
+      "markdown_body_line_end": 310,
+      "heading": "8.3 - PYQ 2023 Q3(c) 15m: \"Consciousness is what it is not and is not what it is.\"",
+      "preview": "Frame  : This formula captures Sartre's ontology of the pour-soi — human consciousness as",
+      "metadata": {
+        "language": "plain",
+        "line_count": 13,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 452.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 311.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 313,
+      "markdown_body_line_end": 331,
+      "heading": "8.4 - PYQ 2022 Q2(a) 20m: \"Being-in-the-world and authenticity.\"",
+      "preview": "Frame  : Being-in-the-world is the fundamental constitution of Dasein; authenticity is a",
+      "metadata": {
+        "language": "plain",
+        "line_count": 17,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 289.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 108.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 334,
+      "markdown_body_line_end": 350,
+      "heading": "8.5 - PYQ 2022 Q4(a) 20m: \"Kierkegaard's subjectivity + three stages.\"",
+      "preview": "Frame  : Kierkegaard's \"truth is subjectivity\" is his counter to Hegel's objective System.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 15,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 353,
+      "markdown_body_line_end": 367,
+      "heading": "8.6 - PYQ 2021 Q4(b) 15m: \"If I do not choose, I am still choosing.\"",
+      "preview": "Frame  : Sartre's claim that freedom is inescapable — even non-choice is choice.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 13,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 604.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 463.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 370,
+      "markdown_body_line_end": 387,
+      "heading": "8.7 - PYQ 2019 Q3(a) 20m: \"Is Dasein authentic existence? Temporality and Dasein.\"",
+      "preview": "Frame  : Dasein is NOT defined as \"authentic existence\" — authenticity is one *modification*",
+      "metadata": {
+        "language": "plain",
+        "line_count": 16,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 441.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 270.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 390,
+      "markdown_body_line_end": 405,
+      "heading": "8.8 - PYQ 2019 Q4(c) 15m: \"Sartre on freedom and determinism.\"",
+      "preview": "Frame  : Early Sartre rejects accounts that make the for-itself mechanically fixed by causal, psychological or social determinants.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 14,
+        "max_source_line_length": 171
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 248.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 77.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 411,
+      "markdown_body_line_end": 420,
+      "heading": "Inter-Thinker Debates",
+      "preview": "Axis | Kierkegaard | Sartre | Heidegger",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Axis",
+          "Kierkegaard",
+          "Sartre",
+          "Heidegger"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 504.89
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 426,
+      "markdown_body_line_end": 435,
+      "heading": "Directive Decoder",
+      "preview": "Directive | What it demands | Structural obligation for **this** file | Fatal error",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Directive",
+          "What it demands",
+          "Structural obligation for **this** file",
+          "Fatal error"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 284.39
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 441,
+      "markdown_body_line_end": 450,
+      "heading": "Graded Verdict Bank",
+      "preview": "Sub-topic | **10-mark verdict** | **15-mark verdict** | **20-mark verdict**",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Sub-topic",
+          "**10-mark verdict**",
+          "**15-mark verdict**",
+          "**20-mark verdict**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 260.89
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 339.89
+        }
+      },
+      "pdf_pages": [
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 459,
+      "markdown_body_line_end": 467,
+      "heading": "Kierkegaard (Danish)",
+      "preview": "Item | Status | Practice",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Item",
+          "Status",
+          "Practice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 390.29
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 470,
+      "markdown_body_line_end": 476,
+      "heading": "Heidegger (German)",
+      "preview": "Item | Status | Practice",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Item",
+          "Status",
+          "Practice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 376.69
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 479,
+      "markdown_body_line_end": 485,
+      "heading": "Sartre (French)",
+      "preview": "Item | Status | Practice",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Item",
+          "Status",
+          "Practice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 354.69
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 44.888
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 487,
+      "markdown_body_line_end": 487,
+      "heading": "Sartre (French)",
+      "preview": "❌ **Never write:** \"the existentialists held that…\" as though Kierkegaard, Heidegger and Sartre share a doctrine — Kierkegaard is a Christian, Heidegger denied he was an existentialist, and only Sartre accepted the label; that authenticity ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 730.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 519,
+      "markdown_body_line_end": 519,
+      "heading": "ORIGINAL MCQ MASTERY SET - EXACTLY 48 QUESTIONS",
+      "preview": "Questions 1-40 are core coverage - four per subtopic across the ten subtopics; Questions 41-48 are remedial items targeting the most common misreadings. Correct answers rotate strictly A -> B -> C -> D 12 times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 232.324
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 187.656
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1374,
+      "markdown_body_line_end": 1376,
+      "heading": "Practice Design",
+      "preview": "DIRECTIVE -> THESIS -> DOCTRINE -> NAMED SOURCE / EXAMPLE -> OBJECTION / REPLY -> VERDICT",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 486.891
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 465.891
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1380,
+      "markdown_body_line_end": 1380,
+      "heading": "SOLVED PYQ BANK - EXACTLY 14 VERIFIED OWNER QUESTIONS",
+      "preview": "Exact wording, year and marks are parsed from the continuous local Western Philosophy Paper I bank for 2018-2025. Existentialism owns exactly 14 primary parts, at least one in every year 2018-2025 (joint-highest owner in the paper). Ownersh",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 440.891
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 353.624
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1664,
+      "markdown_body_line_end": 1664,
+      "heading": "ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS",
+      "preview": "Three original questions authored for this package (not PYQs), one each at 10, 15 and 20 marks, with full model solutions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 385.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 340.624
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1668,
+      "markdown_body_line_end": 1668,
+      "heading": "Original Mains 1",
+      "preview": "Original 10-mark | Philosophy Paper I, Western Philosophy - Existentialism | Answer in about 150 words",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 767.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 736.824
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1684,
+      "markdown_body_line_end": 1684,
+      "heading": "Original Mains 2",
+      "preview": "Original 15-mark | Philosophy Paper I, Western Philosophy - Existentialism | Answer in about 250 words",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 506.024
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 453.556
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1702,
+      "markdown_body_line_end": 1702,
+      "heading": "Original Mains 3",
+      "preview": "Original 20-mark | Philosophy Paper I, Western Philosophy - Existentialism | Answer in about 250 words",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-02",
+  "generation": 6,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-02\\topic-02_Complete-Learning-Session_2026-08-22.md",
+  "master_dimensions": [
+    3600,
+    9955
+  ],
+  "stages": [
+    {
+      "title": "THE THREE QUESTIONS EVERY PROOF MUST SURVIVE",
+      "terms": "Core argument: Every proof must be tested for validity, soundness and adequacy: whether the conclusion follows, the premises are true and the being reached is genuinely God.",
+      "mechanism": "Almost every UPSC critique question (\"critically examine\", \"along with its criticism\") is answered by locating the objection on one of these three tiers instead of shouting a general \"the proof fails\".",
+      "consequence": "Preference therefore depends on the criterion — evidential contact favours a posteriori, modal strength favours a priori, and religious adequacy is achieved by neither alone.",
+      "trap": "⚠️ Never write \"Kant proves God through morality.\" Kant explicitly denies theoretical proof; he postulates.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "THE ONTOLOGICAL ARGUMENT AS A REDUCTIO",
+      "terms": "Recommended opening definition: The ontological argument is an a priori attempt to derive God's necessary existence from the concept of the greatest conceivable being.",
+      "mechanism": "That description would be trivially satisfied by whatever happens to be the best existing thing, with no guarantee that it is God.",
+      "consequence": "Anselm's principle therefore does not apply to it.",
+      "trap": "✅ Anselm compresses the monotheistic concept of God into the formula \"a being than which nothing greater can be conceived.\" \"Greater\" here means more perfect, not spatially larger.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "TWO KINDS OF CAUSAL SERIES (THE WHOLE ARGUMENT TURNS ON THIS)",
+      "terms": "Two kinds of causal series (the whole argument turns on this): ⚠️ This diagram is the single highest-value item in the cosmological answer.",
+      "mechanism": "Therefore a first efficient cause must be admitted.",
+      "consequence": "Unlike the ontological argument, which focuses on the idea of God and unfolds its inner implications, Aquinas' proofs start from some general feature of the world around us and argue that there could not be a world with this particular characteristic unless there also existed the ultimate reality we call God.",
+      "trap": "Recommended opening definition: Aquinas targets an essentially ordered present dependence, not merely a temporal sequence extending indefinitely into the past.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "THREE TELEOLOGIES THAT MUST NOT BE CONFUSED",
+      "terms": "⚠️ Reproducing this three-way distinction is what separates a 60% answer from a 75% answer in 2025 Q6(a).",
+      "mechanism": "Most candidates write Paley, get demolished by Darwin, and stop.",
+      "consequence": "1. ✅ The inference is not weakened if I have never seen a watch made (as we have never seen a world other than this one) and therefore do not know from direct observation that watches are products of intelligence.",
+      "trap": "✅ The Fifth Way is not an analogy with human manufacture.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "KANT'S TWO-STOREY STRUCTURE",
+      "terms": "Kant's two-storey structure: ⚠️ The whole examinable point is in the architecture, not the content.",
+      "mechanism": "Kant is the destroyer of the theistic proofs and the author of a moral argument, and he sees no contradiction because the two operate on different storeys.",
+      "consequence": "The Indian argument is therefore epistemically bolder and correspondingly more exposed — it must show that an unconscious principle could not do the job.\"",
+      "trap": "⚠️ The whole examinable point is in the architecture, not the content.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "NYĀYA'S COSMIC DIVISION OF LABOUR",
+      "terms": "Nyāya's cosmic division of labour: It is the trap the examiner is checking for, and it is the difference between Nyāya and both Advaita and Rāmānuja.",
+      "mechanism": "✅ God is the creator of the world in the sense of being the first efficient cause of the world and not its material cause — \"a sort of demiurgus or a builder of the ordered universe\". ✅ He is also the preserver, in so far as the world is kept in existence by the will of God, and the destroyer, who lets loose the forces of destruction when the exigencies of the moral world require it.",
+      "consequence": "God is thus the moral governor of the world, the impartial dispenser of the fruits of our actions (karmaphaladātā), and the supreme arbiter of our joys and sorrows.",
+      "trap": "Recommended opening definition: Nyāya (school of logic and realism) infers an omniscient efficient cause that orders eternal atoms and dispenses karmic fruits, not a material creator from nothing.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "TWO COMPLETELY DIFFERENT SENSES OF \"GOD\" IN THE INDIAN DEBATE",
+      "terms": "Two completely different senses of \"God\" in the Indian debate: ⚠️ This is the single most important interpretive move in the entire subtopic.",
+      "mechanism": "High-value transition: Creator-denial must not be equated with denial of every religious ideal, because Jainism rejects a creator while affirming achieved godhead.",
+      "consequence": "⚠️ This is the single most important interpretive move in the entire subtopic.",
+      "trap": "High-value transition: Creator-denial must not be equated with denial of every religious ideal, because Jainism rejects a creator while affirming achieved godhead.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "PART I — JAINISM",
+      "terms": "Recommended opening definition: Jainism rejects a creator God but affirms liberated, omniscient souls as achieved godhead attained through self-effort.",
+      "mechanism": "Recommended opening definition: Jainism rejects a creator God but affirms liberated, omniscient souls as achieved godhead attained through self-effort.",
+      "consequence": "⚠️ The Jaina \"proofs\" are therefore proofs of the possibility and actuality of divine perfection in the soul, arranged as follows",
+      "trap": "✅ Jainism is \"a religion without God\" in the sense of a creator. ✅ There is no necessity of bringing in God to explain creation, for the world was never created: production, destruction and permanence characterise all substances; things have creation and dissolution because of their modes (paryāya), while the substances themselves are eternal.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "PART II — BUDDHISM",
+      "terms": "Part II — Buddhism: 1. ✅ If God is eternal and unchanging, genuine creation becomes difficult to explain, because willing or producing seems to involve change.",
+      "mechanism": "Recommended opening definition: Buddhism rejects a permanent creator and explains suffering through conditioned arising rather than divine production.",
+      "consequence": "A permanent, partless, immutable cause cannot produce successive effects, since a cause that is unchanging and fully present must produce its effect all at once and always; therefore an eternal God cannot be the cause of a temporally ordered world.",
+      "trap": "Recommended opening definition: Buddhism rejects a permanent creator and explains suffering through conditioned arising rather than divine production.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "PART III — MĪMĀṂSĀ",
+      "terms": "Part III — Mīmāṃsā: ✅ The Veda is authoritative because it is apauruṣeya — eternal, authorless and self-valid.",
+      "mechanism": "Recommended opening definition: Mīmāṃsā (school of inquiry into ritual duty) treats the Veda (sacred revealed knowledge) as authorless and karma (morally consequential action) as self-fructifying, thereby displacing the need for God.",
+      "consequence": "Dharmakīrti-type argument: a permanent cause cannot produce successive effects.",
+      "trap": "It is not authored by any human, nor is a divine author needed. ✅ Authorlessness protects it from personal defects: a personal author may deceive, or may lack complete knowledge; if the Veda had an author, its authority would depend on first proving that author's competence and sincerity.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "🖼️ MASTER CONCEPT MAP — THE WHOLE SYLLABUS ITEM ON ONE PAGE",
+      "terms": "🖼️ MASTER CONCEPT MAP — the whole syllabus item on one page: Final verdict: No proof is demonstrative unless it survives validity, soundness and adequacy, and most arguments underdetermine the rich God of religion.",
+      "mechanism": "Final verdict: No proof is demonstrative unless it survives validity, soundness and adequacy, and most arguments underdetermine the rich God of religion.",
+      "consequence": "⚠️ Choose one as the thesis of any answer, and defend it; do not hedge across all four.",
+      "trap": "⚠️ Choose one as the thesis of any answer, and defend it; do not hedge across all four.",
+      "answer": "MUST-WRITE KEYWORDS"
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 3,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7755,
+      "y_end": 9955,
+      "overlap_px": 260,
+      "from_stage": 9,
+      "continues_stage": 11
+    }
+  ]
+}

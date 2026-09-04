@@ -1,0 +1,72 @@
+Nature of Religious Language — COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+START / CENTRAL QUESTION
+  ✅ Fact: An ICML 2026 paper on Sanskrit–English translation reports that purely statistical generation can cause semantic drift in culturally embedded and ritual concepts, and proposes dictionary, morpho-syntactic and glossary-grounded decoding to preserve sacred entities and terminology. ⚠️ Inference: This contemporary translation problem illustrates a core philosophical point: religious meaning is not exhausted by word substitution.
+        |
+        v
++-- SESSION 01: THE PROBLEM OF RELIGIOUS LANGUAGE
+|   DEFINITION / TERMS : ✅ Fact: An ICML 2026 paper on Sanskrit–English translation reports that purely statistical generation can cause semantic drift in culturally embedded and ritual concepts, and proposes dictionary, morpho-syntactic and glossary-grounded decoding to preserve sacred entities and terminology. ⚠️ Inference: This contemporary translation problem illustrates a core philosophical point: religious meaning is not exhausted by word substitution.
+|   MECHANISM / ARGUMENT: Master verdict: Religious utterances are often assertoric, symbolic and performative together; a mixed account preserves realist intent while acknowledging that transcendence requires non-literal modes of predication.
+|   CONSEQUENCE / CONTRAST: Context, use, symbolic reference and a tradition’s conceptual grammar affect what an utterance means, though an AI translation benchmark does not settle whether the original claims are truth-apt.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: "HOW (Analogy/Symbol/Negation) × WHETHER (Cognitive/Non-cognitive)." Analogy & symbol rescue meaning.
+|   EXAM OPENING: ✅ Fact: An ICML 2026 paper on Sanskrit–English translation reports that purely statistical generation can cause semantic drift in culturally embedded and ritual concepts, and proposes dictionary, morpho-syntactic and glossary-grounded decoding to preserve sacred entities and terminology. ⚠️ Inference: This contemporary translation problem illustrates a core philosophical point: religious meaning is not exhausted by word substitution.
++--
+        |
+        v
++-- SESSION 02: MEANING, REFERENCE AND TRANSCENDENCE
+|   DEFINITION / TERMS : Technically, Meaning, Reference And Transcendence is analysed by relating Meaning to Reference, then testing the relationship through Transcendence and Univocal.
+|   MECHANISM / ARGUMENT: Need a middle way. ✅ The Logical Positivist attack (Ayer): "God exists" is unverifiable → literally meaningless (see Paper-I Logical Positivism).
+|   CONSEQUENCE / CONTRAST: The resulting consequence is that religious language is discourse about transcendent reality whose central problem is how finite human...
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: religious language is discourse about transcendent reality whose central problem is how finite human...
+|   EXAM OPENING: Religious language is discourse about transcendent reality whose central problem is how finite human concepts can be meaningful without reducing their object to finite categories.
++--
+        |
+        v
++-- SESSION 03: ANALOGY, SYMBOL AND NEGATIVE THEOLOGY
+|   DEFINITION / TERMS : Two types: ✅ Analogy of attribution — "God is good" because God is the cause/source of goodness in creatures.
+|   MECHANISM / ARGUMENT: Two types: ✅ Analogy of attribution — "God is good" because God is the cause/source of goodness in creatures.
+|   CONSEQUENCE / CONTRAST: So "good" applies proportionally, truly but not identically. → preserves meaning without anthropomorphism. (b) Symbol (Tillich — 2023, 2025 PYQ): ✅ Religious language is symbolic, not literal.
+|   TRAP / ANSWER-USE: "God" is not a being among beings but the "Ground of Being" / Being-Itself; to take symbols literally is idolatry. ⚠️ Tillich caution (preserve this; do not simplify it).
+|   EXAM OPENING: Analogy preserves ordered similarity, symbol mediates participation and negation removes creaturely limitation; each seeks meaningful reference without literal anthropomorphism. (a) Analogy (Aquinas — 2024 PYQ): religious language is analogical — between univocal and equivocal.
++--
+        |
+        v
++-- SESSION 04: COGNITIVISM, NON-COGNITIVISM AND FALSIFICATION
+|   DEFINITION / TERMS : Cognitivist (realist): religious statements are genuine truth-claims — "God exists" is true or false, asserting a fact about reality (Aquinas, Hick, Swinburne). ✅ Non-cognitivist: religious statements do not state facts; they express something else: ✅ R.B.
+|   MECHANISM / ARGUMENT: "Does the cognitivist account lead to contradiction?" (2024 — Braithwaite): ⚠️ Braithwaite argues the cognitivist (factual) reading runs into the verification problem (unverifiable → meaningless), so he reduces religious language to moral-conative use to save it.
+|   CONSEQUENCE / CONTRAST: Cognitivist (realist): religious statements are genuine truth-claims — "God exists" is true or false, asserting a fact about reality (Aquinas, Hick, Swinburne). ✅ Non-cognitivist: religious statements do not state facts; they express something else: ✅ R.B.
+|   TRAP / ANSWER-USE: Braithwaite (2024 PYQ): religious assertions are declarations of a moral intention / commitment to a way of life (+ associated stories), not factual claims.
+|   EXAM OPENING: Cognitivism treats religious claims as truth-apt, whereas non-cognitivism emphasises attitude, commitment or use; these are semantic functions, not automatically exclusive categories.
++--
+        |
+        v
++-- SESSION 05: TILLICH, AQUINAS, VIA NEGATIVA AND LANGUAGE-GAMES
+|   DEFINITION / TERMS : 🔑 The strong answer: religious language is neither literal nor meaningless — analogy/symbol give it cognitive meaning (realist), while non-cognitivists (Braithwaite/Wittgenstein) capture its practical/moral force but at the cost of its truth-claim; the believer's own intent is cognitivist.
+|   MECHANISM / ARGUMENT: The operative mechanism is that religious language is neither literal nor meaningless — analogy/symbol give it cognitive meaning (realist).
+|   CONSEQUENCE / CONTRAST: The resulting consequence is that religious language is neither literal nor meaningless — analogy/symbol give it cognitive meaning (realist).
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: religious language is neither literal nor meaningless — analogy/symbol give it cognitive meaning (realist).
+|   EXAM OPENING: 🔑 The strong answer: religious language is neither literal nor meaningless — analogy/symbol give it cognitive meaning (realist), while non-cognitivists (Braithwaite/Wittgenstein) capture its practical/moral force but at the cost of its truth-claim; the believer's own intent is cognitivist.
++--
+        |
+        v
++-- SESSION 06: ANALOGY, SYMBOL AND FOUNDATIONAL POSITIONS
+|   DEFINITION / TERMS : ✅ Aquinas locates God-talk between univocal sameness and equivocal disconnection through analogy. ✅ Tillich treats religious symbols as participatory and God as being-itself rather than one being among others. ✅ Braithwaite analyses religious assertion through commitment to a moral way of life and its sustaining stories. ✅ Wittgensteinian approaches interpret religious meaning through use within a form of life. ✅ The Upaniṣadic formula yato vāco nivartante marks the limit of objectifying speech; Advaita also deploys neti neti and indirect indication.
+|   MECHANISM / ARGUMENT: ✅ Aquinas locates God-talk between univocal sameness and equivocal disconnection through analogy. ✅ Tillich treats religious symbols as participatory and God as being-itself rather than one being among others. ✅ Braithwaite analyses religious assertion through commitment to a moral way of life and its sustaining stories. ✅ Wittgensteinian approaches interpret religious meaning through use within a form of life. ✅ The Upaniṣadic formula yato vāco nivartante marks the limit of objectifying speech; Advaita also deploys neti neti and indirect indication.
+|   CONSEQUENCE / CONTRAST: The resulting consequence is that [Symbolic] "Is religious language symbolic? / Tillich on symbol." (2025, 2023) → §2(b). [Analogical]...
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: [Symbolic] "Is religious language symbolic? / Tillich on symbol." (2025, 2023) → §2(b). [Analogical]...
+|   EXAM OPENING: [Symbolic] "Is religious language symbolic? / Tillich on symbol." (2025, 2023) → §2(b). [Analogical] "Analogical nature of religious language (Aquinas)." (2024) → §2(a). [Cog/non-cog] "Distinguish cognitivist & non-cognitivist accounts (Braithwaite / 'God exists')." (2024, 2022) → §3. [Wittgenstein] "Wittgenstein on the non-cognitive nature of religious language." (2023) → §3. [Advaita] "Anirvacanīyatā & the nature of religious language." (2025) → §2(d) + §9.5. [Secular vs religious] "In what sense is the secular use of language different from the religious use?" (2018, 10m) → §9.6 — function, not vocabulary. [Symbol→mysticism] "Does religious symbolism lead to mysticism?" (2019, 20m) → §9.7 — answer whether and how, and include the negative case. [Transcendent referent] "Religious symbols as transcendent referent mediating into the cultural, spatial and temporal world." (2018, 15m) → §9.2 + §9.7 (Eliade's hierophany; Tillich's participation). [Cognitive content] "Does religious language carry cognitive content?" (2020, 20m) → §9.9 — the spectrum, plus the falsification debate. [Braithwaite] "Non-cognitive theory of religious language, in the light of Braithwaite." (2021, 20m) → §9.4 + §9.9 position 7. [Analogy] "The analogical nature of religious language." (2024, 10m) → §9.1 + §9.8 — add Scotus for the contrast. [Pluralism bridge] "How does a theory of religious language bear on religious pluralism?" → §9.10.
++--
+        |
+        v
++-- SESSION 07: INDIAN AND WESTERN STRATEGIES OF RELIGIOUS SPEECH
+|   DEFINITION / TERMS : Technically, Indian And Western Strategies Of Religious Speech is analysed by relating Indian to Western Strategies Of Religious Speech, then testing the relationship through Univocity and Nyāya.
+|   MECHANISM / ARGUMENT: The operative mechanism is that a complete answer must keep two axes separate.
+|   CONSEQUENCE / CONTRAST: The resulting consequence is that a complete answer must keep two axes separate.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: a complete answer must keep two axes separate.
+|   EXAM OPENING: A complete answer must keep two axes separate: how religious predicates refer and whether religious utterances assert facts.
++--
+        |
+        v
+ANSWER-WRITING SPINE
+definition -> exact terms -> mechanism/evidence -> consequence/contrast
+-> objection/trap -> qualified answer-use

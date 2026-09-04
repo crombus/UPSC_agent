@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-02",
+  "generation": 10,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-02\\g10\\topic-02_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    9929
+  ],
+  "stages": [
+    {
+      "title": "THE THREE QUESTIONS EVERY PROOF MUST SURVIVE",
+      "terms": "⚠️ Do not treat \"proof\" univocally: demonstration, probable inference and practical postulate have different success conditions. ⚠️ Do not say the ontological argument is a posteriori because Anselm \"observes\" that people have the idea of God — the premise is conceptual. ⚠️ Do not equate \"a priori\" with \"certain\" and \"a posteriori\" with \"uncertain\"; a priori reasoning can be invalid, and a posteriori reasoning can be strong. ⚠️ Distinguish validity from soundness from adequacy of the God established.",
+      "mechanism": "Almost every UPSC critique question (\"critically examine\", \"along with its criticism\") is answered by locating the objection on one of these three tiers instead of shouting a general \"the proof fails\".",
+      "consequence": "⚠️ Do not treat \"proof\" univocally: demonstration, probable inference and practical postulate have different success conditions. ⚠️ Do not say the ontological argument is a posteriori because Anselm \"observes\" that people have the idea of God — the premise is conceptual. ⚠️ Do not equate \"a priori\" with \"certain\" and \"a posteriori\" with \"uncertain\"; a priori reasoning can be invalid, and a posteriori reasoning can be strong. ⚠️ Distinguish validity from soundness from adequacy of the God established.",
+      "trap": "The a priori proof promises necessity but is charged with the existence-predicate fallacy.",
+      "answer": "Every proof must be tested for validity, soundness and adequacy: whether the conclusion follows, the premises are true and the being reached is genuinely God."
+    },
+    {
+      "title": "THE ONTOLOGICAL ARGUMENT AS A REDUCTIO",
+      "terms": "⚠️ Distinction to state in the answer: Anselm argues by reductio from a comparative (\"greater than\"); Descartes argues from essence containment (\"existence is a perfection\").",
+      "mechanism": "⚠️ Distinction to state in the answer: Anselm argues by reductio from a comparative (\"greater than\"); Descartes argues from essence containment (\"existence is a perfection\").",
+      "consequence": "It is the argument that has attracted the most sustained modern logical attention of all the proofs. ⚠️ Do not manufacture an \"Indian ontological argument\" out of Advaita.",
+      "trap": "Gaunilo offers a parody (the form proves too much); Kant offers a diagnosis (the form uses \"existence\" illegitimately). ⚠️ Do not attribute the island example to Kant, or the thaler example to Gaunilo. ⚠️ Descartes' ontological proof (Meditations V) must not be confused with his causal proof from the idea of the infinite (Meditations III). ⚠️ The modal version does not defeat Kant \"cleanly\"; it relocates the problem to the possibility premise. ⚠️ Do not say the ontological argument is \"obviously absurd\".",
+      "answer": "The ontological argument is an a priori attempt to derive God's necessary existence from the concept of the greatest conceivable being."
+    },
+    {
+      "title": "TWO KINDS OF CAUSAL SERIES (THE WHOLE ARGUMENT TURNS ON THIS)",
+      "terms": "⚠️ Kant's objection, spelled out because it is frequently mis-stated: the cosmological argument concludes to a necessary being; but to move from \"a necessary being\" to \"the most real being (ens realissimum), i.e.",
+      "mechanism": "They start from different features and terminate in differently described conclusions. ⚠️ \"First\" means explanatory priority, not chronological firstness. ⚠️ Aquinas does not argue that the universe began in time; he holds that its beginning is known by faith. ⚠️ The Kalām does argue for a temporal beginning; it is not Aquinas' argument. ⚠️ Do not attribute Paley's watch to Aquinas (see Subtopic 4). ⚠️ Kant's objection is that the cosmological argument borrows the ontological argument, not that it is invalid on its own terms. ⚠️ Way 3 is modal (contingency/necessity); Way 2 is causal.",
+      "consequence": "⚠️ Kant's objection, spelled out because it is frequently mis-stated: the cosmological argument concludes to a necessary being; but to move from \"a necessary being\" to \"the most real being (ens realissimum), i.e.",
+      "trap": "Keep them apart. ⚠️ Do not say Hume \"refuted\" the cosmological argument; he attacked the necessity of the regress-stop and the identification of the cause with God.",
+      "answer": "⚠️ Ways 1–3 constitute the cosmological family; Way 4 is the henological / degrees argument; Way 5 is the teleological one, treated in Subtopic 4."
+    },
+    {
+      "title": "THREE TELEOLOGIES THAT MUST NOT BE CONFUSED",
+      "terms": "Technically, Three Teleologies That Must Not Be Confused is analysed by relating Why the difference matters to watch, then testing the relationship through never seen a watch made and does not always work perfectly.",
+      "mechanism": "That chronological point is a genuine fact worth stating, because it forestalls the naive assumption that Hume was replying to Paley.",
+      "consequence": "⚠️ ✅ The trap: Hume does not claim to prove that no designer exists.",
+      "trap": "✅ But the decisive difference: Western theists generally believe God is not only the cause of the unity/order of things but also the creative energy that gives existence to the things of Nature.",
+      "answer": "✅ The inference is not weakened if I have never seen a watch made (as we have never seen a world other than this one) and therefore do not know from direct observation that watches are products of intelligence. ✅ The inference is not invalidated if the mechanism does not always work perfectly — as may appear to be the case with the mechanism of the world. ✅ The inference is not undermined if there are parts whose function we cannot discover — as there are in nature."
+    },
+    {
+      "title": "KANT'S TWO-STOREY STRUCTURE",
+      "terms": "Technically, Kant'S Two-Storey Structure is analysed by relating logical inference to Newman's version, then testing the relationship through Hick's objection and sovereign claim.",
+      "mechanism": "Kant is the destroyer of the theistic proofs and the author of a moral argument, and he sees no contradiction because the two operate on different storeys.",
+      "consequence": "The resulting consequence is that the basic assumption of all such arguments is that moral values are not capable...",
+      "trap": "This is the topic's most penalised error. ⚠️ Three postulates — freedom, immortality, God — not one. ⚠️ Newman's conscience argument is not Kant's; keep the two forms separate. ⚠️ God is not the source of moral obligation for Kant; the moral law is autonomous. ⚠️ Euthyphro refutes divine-command theories, not Kant's postulate. ⚠️ \"Ought implies can\" applies to promoting the highest good, not to achieving it single-handedly. ⚠️ Do not present the postulate as a reward-motive; that would be heteronomy and would destroy moral worth on Kant's own terms. ⚠️ Do not omit the Indian comparison; karmaphaladātā is the natural Indian counterpart.",
+      "answer": "✅ Hick's objection: the basic assumption of all such arguments is that moral values are not capable of naturalistic explanation — in terms of human needs, desires, ideals, self-interest, or the structure of human nature or society."
+    },
+    {
+      "title": "NYĀYA'S COSMIC DIVISION OF LABOUR",
+      "terms": "⚠️ Nyāya's God is the efficient, never the material, cause.",
+      "mechanism": "⚠️ Nyāya's God is the efficient, never the material, cause.",
+      "consequence": "God is creator, preserver and destroyer — hence theism, not deism.",
+      "trap": "Atoms are the eternal material causes. ⚠️ Nyāya theism is theism, not deism — God preserves and destroys as well as creates. ⚠️ Eternal intelligence is an inseparable attribute of God in Nyāya, not His essence as in Advaita. ⚠️ Do not answer \"the nature of Nyāya's God\" merely by listing Udayana's proofs, or vice versa. ⚠️ Adṛṣṭa does not consciously distribute its own fruits — that unconsciousness is the whole premise of the argument. ⚠️ Enumerations of the proofs vary; say so and use the ones the question needs. ⚠️ The Veda–God circularity is answered by the order-of-existence / order-of-knowledge distinction; do not concede the circle. ⚠️ Do not treat Nyāya as \"the Indian Aquinas\" without flagging the material-causation divergence.",
+      "answer": "Nyāya's Īśvara is an eternal, omniscient, omnipotent special self, never bound by karma."
+    },
+    {
+      "title": "TWO COMPLETELY DIFFERENT SENSES OF \"GOD\" IN THE INDIAN DEBATE",
+      "terms": "Creator-denial must not be equated with denial of every religious ideal, because Jainism rejects a creator while affirming achieved godhead.",
+      "mechanism": "⚠️ This is the single most important interpretive move in the entire subtopic.",
+      "consequence": "UPSC's 2019 wording presupposes that Jainism has something to prove; the mature answer explains which sense of \"God\" Jainism proves and which it refutes.",
+      "trap": "Do not miss this limiting distinction: creator-denial must not be equated with denial of every religious ideal, because Jainism rejects...",
+      "answer": "Creator-denial must not be equated with denial of every religious ideal, because Jainism rejects a creator while affirming achieved godhead."
+    },
+    {
+      "title": "PART I — JAINISM",
+      "terms": "In that Vedic sense Jainism and Buddhism are nāstika; but they are intensely spiritual and ethical, and denial of God does not amount to atheism in the Western sense — otherwise Sāṃkhya and Mīmāṃsā, which likewise do not believe in a creator God, could not have been counted orthodox.",
+      "mechanism": "✅ Jainism is \"a religion without God\" in the sense of a creator. ✅ There is no necessity of bringing in God to explain creation, for the world was never created: production, destruction and permanence characterise all substances; things have creation and dissolution because of their modes (paryāya), while the substances themselves are eternal.",
+      "consequence": "✅ \"Though Jainism denies God, it does not deny godhead.",
+      "trap": "In that Vedic sense Jainism and Buddhism are nāstika; but they are intensely spiritual and ethical, and denial of God does not amount to atheism in the Western sense — otherwise Sāṃkhya and Mīmāṃsā, which likewise do not believe in a creator God, could not have been counted orthodox.",
+      "answer": "Jainism rejects a creator God but affirms liberated, omniscient souls as achieved godhead attained through self-effort."
+    },
+    {
+      "title": "PART II — BUDDHISM",
+      "terms": "✅ If God is eternal and unchanging, genuine creation becomes difficult to explain, because willing or producing seems to involve change. ✅ If God creates from desire or purpose, that suggests lack, preference or incompleteness. ✅ The presence of suffering and evil sits uneasily with an omnipotent benevolent creator. ✅ Dependent origination (pratītyasamutpāda) already explains the arising of phenomena through conditions, making a creator unnecessary.",
+      "mechanism": "✅ If God is eternal and unchanging, genuine creation becomes difficult to explain, because willing or producing seems to involve change. ✅ If God creates from desire or purpose, that suggests lack, preference or incompleteness. ✅ The presence of suffering and evil sits uneasily with an omnipotent benevolent creator. ✅ Dependent origination (pratītyasamutpāda) already explains the arising of phenomena through conditions, making a creator unnecessary.",
+      "consequence": "If God determines all, karma and moral effort are meaningless; if God does not determine all, God is not the sufficient cause and the theistic explanation is redundant. ⚠️ The Dharmakīrti / Śāntarakṣita line.",
+      "trap": "✅ Philosophical force, stated correctly: the Buddhist critique is not mere atheistic denial; it is a systematic refusal of explanatory surplus.",
+      "answer": "Buddhism rejects a permanent creator and explains suffering through conditioned arising rather than divine production."
+    },
+    {
+      "title": "PART III — MĪMĀṂSĀ",
+      "terms": "✅ And the direct counter to Nyāya's adṛṣṭa proof: apūrva is the unseen potency produced by correctly performed ritual; it persists after the act and matures into future fruit.",
+      "mechanism": "✅ And the direct counter to Nyāya's adṛṣṭa proof: apūrva is the unseen potency produced by correctly performed ritual; it persists after the act and matures into future fruit.",
+      "consequence": "Prābhākara adds niyoga: the injunction itself creates obligation, so one ought to act because the Veda commands, not because a deity rewards.",
+      "trap": "Answering the 2019 question with \"Jainism is atheistic\" misreads it. ⚠️ Jaina godhood is plural, achieved and non-creative; a siddha has no cosmic function. ⚠️ Jaina karma is material (pudgala); do not equate it with Nyāya's adṛṣṭa or a generic moral force. ⚠️ Nāstika means denier of Vedic authority, not denier of spirit. ⚠️ Buddhism's critique is a refusal of explanatory surplus, not a proof of atheism. ⚠️ The avyākṛta silence is a methodological judgement, not agnostic evasion. ⚠️ Mīmāṃsā's Veda is authorless — not God-authored; this is the exact contradictory of Nyāya's third proof. ⚠️ Apūrva is Mīmāṃsā's substitute for a fruit-dispensing God; do not call it \"karma\" loosely. ⚠️ Do not say Sāṃkhya \"has no view\"; classical Sāṃkhya is nirīśvara and also denies a creator. ⚠️ Do not present these schools as a single \"Indian atheism\".",
+      "answer": "Mīmāṃsā (school of inquiry into ritual duty) treats the Veda (sacred revealed knowledge) as authorless and karma (morally consequential action) as self-fructifying, thereby displacing the need for God."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 2,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 4,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 6,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7729,
+      "y_end": 9929,
+      "overlap_px": 260,
+      "from_stage": 8,
+      "continues_stage": 10
+    }
+  ]
+}

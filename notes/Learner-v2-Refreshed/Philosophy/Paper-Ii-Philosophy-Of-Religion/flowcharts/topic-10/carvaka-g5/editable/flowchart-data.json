@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-10",
+  "generation": 5,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-10\\topic-10_Complete-Learning-Session_2026-08-22.md",
+  "master_dimensions": [
+    3600,
+    2035
+  ],
+  "stages": [
+    {
+      "title": "CONTEMPORARY TECHNOLOGY ANCHOR — SEMANTIC FIDELITY IN SACRED-TEXT TRANSLATION [SUPPORTING]",
+      "terms": "⚠️ Inference: This contemporary translation problem illustrates a core philosophical point: religious meaning is not exhausted by word substitution.",
+      "mechanism": "⚠️ Inference: This contemporary translation problem illustrates a core philosophical point: religious meaning is not exhausted by word substitution.",
+      "consequence": "Context, use, symbolic reference and a tradition’s conceptual grammar affect what an utterance means, though an AI translation benchmark does not settle whether the original claims are truth-apt.",
+      "trap": "⚠️ Inference: This contemporary translation problem illustrates a core philosophical point: religious meaning is not exhausted by word substitution.",
+      "answer": "✅ Fact: An ICML 2026 paper on Sanskrit–English translation reports that purely statistical generation can cause semantic drift in culturally embedded and ritual concepts, and proposes dictionary, morpho-syntactic and glossary-grounded decoding to preserve sacred entities and terminology."
+    },
+    {
+      "title": "VISUAL GATEWAY — NEVER MERGE THE TWO AXES",
+      "terms": "Visual gateway — never merge the two axes: 🔑 Mnemonic — two axes: \"HOW (Analogy/Symbol/Negation) × WHETHER (Cognitive/Non-cognitive).\" Analogy & symbol rescue meaning; the cog/non-cog debate is about factual truth.",
+      "mechanism": "Master verdict: Religious utterances are often assertoric, symbolic and performative together; a mixed account preserves realist intent while acknowledging that transcendence requires non-literal modes of predication.",
+      "consequence": "A symbol (unlike a mere sign) participates in the reality it points to and \"opens up levels of reality otherwise closed\".",
+      "trap": "So \"good\" applies proportionally, truly but not identically. → preserves meaning without anthropomorphism.",
+      "answer": "Analogy preserves ordered similarity, symbol mediates participation and negation removes creaturely limitation; each seeks meaningful reference without literal anthropomorphism."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2035,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 2
+    }
+  ]
+}

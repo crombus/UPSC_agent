@@ -1,0 +1,246 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Proofs for the Existence of God and their Critique: central question and analytical axes
+
+```ascii-master
+PROOFS FOR THE EXISTENCE OF GOD AND THEIR CRITIQUE — CONCEPTUAL ATLAS
+
+
+KEY TERMS: Demonstration • Probable / explanatory inference • Practical postulate • A priori
+KEY TERMS: • A posteriori • Mnemonic — "CONCEPT versus COSMOS"
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Proofs for the Existence of God and their Critique
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       Do not treat "proof" univocally: demonstration, probable inference…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: THE THREE QUESTIONS EVERY PROOF MUST SURVIVE
+  • Demonstration
+  • Almost every UPSC critique question ("critically examine", "along…
+AXIS 2: TWO KINDS OF CAUSAL SERIES (THE WHOLE ARGUMENT TURNS ON THIS)
+  • cosmological
+  • They start from different features and terminate in differently…
+AXIS 3: NYĀYA'S COSMIC DIVISION OF LABOUR
+  • Nyāya'S Cosmic Division Of Labour
+  • Nyāya's God is the efficient, never the material, cause
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  Demonstration • Probable / explanatory inference • Practical postulate • A priori
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Proof standards and the ontological argument
+
+```ascii-master
+PROOF STANDARDS AND THE ONTOLOGICAL ARGUMENT
+│
+
+KEY TERMS: Demonstration • Probable / explanatory inference • Practical postulate • A priori
+KEY TERMS: • A posteriori • Mnemonic — "CONCEPT versus COSMOS"
+├── KEY CONCEPTS
+│   ├── Demonstration
+│   ├── Probable / explanatory inference
+│   ├── Practical postulate
+│   ├── A priori
+│   └── A posteriori
+│
+├── THE THREE QUESTIONS EVERY PROOF MUST SURVIVE
+│   ├─ TERMS: Do not treat "proof" univocally: demonstration, probable inference…
+│   ├─ LOGIC: Almost every UPSC critique question ("critically examine", "along…
+│   └─ RESULT: Do not treat "proof" univocally: demonstration, probable inference…
+├── THE ONTOLOGICAL ARGUMENT AS A REDUCTIO
+│   ├─ TERMS: Distinction to state in the answer: Anselm argues by reductio from…
+│   ├─ LOGIC: Distinction to state in the answer: Anselm argues by reductio from…
+│   └─ RESULT: It is the argument that has attracted the most sustained modern…
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Cosmological series and competing teleological arguments
+
+```ascii-master
+COSMOLOGICAL SERIES AND COMPETING TELEOLOGICAL ARGUMENTS
+
+
+KEY TERMS: cosmological • henological / degrees • teleological • Reconstruction •
+KEY TERMS: Presupposition • The regress excluded is essentially…
+CAUSE / CONDITION 1: Kant's objection, spelled out because it is frequently…
+          │
+          ├── MECHANISM
+          │   They start from different features and terminate in differently…
+          │
+          └── EFFECT / CONTRAST
+              Kant's objection, spelled out because it is frequently mis-stated…
+          │
+          ▼
+CAUSE / CONDITION 2: Its premise is that things which lack cognition nevertheless…
+          │
+          ├── MECHANISM
+          │   That chronological point is a genuine fact worth stating, because…
+          │
+          └── EFFECT / CONTRAST
+              The trap: Hume does not claim to prove that no designer exists
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Kant’s critique and Nyaya’s cosmic argument
+
+```ascii-master
+KANT’S CRITIQUE AND NYAYA’S COSMIC ARGUMENT
+
+
+KEY TERMS: Kant'S Two-Storey Structure • logical inference • Newman's version • Hick's
+KEY TERMS: objection • sovereign claim • Kant's own structure
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ KANT'S TWO-STOREY      │ Hick's objection: the basic   │ the basic assumption of all   │
+│ STRUCTURE              │ assumption of all such        │ such arguments is that moral  │
+│                        │ arguments is that moral       │ values are…                   │
+│                        │ values are not…               │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ NYĀYA'S COSMIC         │ Nyāya's God is the efficient, │ God is creator, preserver and │
+│ DIVISION OF LABOUR     │ never the material, cause     │ destroyer — hence theism, not │
+│                        │                               │ deism                         │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Indian meanings of God; Jain and Buddhist critiques
+
+```ascii-master
+INDIAN MEANINGS OF GOD; JAIN AND BUDDHIST CRITIQUES
+
+
+KEY TERMS: Creator-denial • Jainism • UPSC's • God • TWO COMPLETELY DIFFERENT SENSES OF… •
+KEY TERMS: Part I
+                 CLAIM / SYSTEM UNDER EXAMINATION
+                                  │
+                                  ▼
+PROBLEM / OBJECTION 1
+  ├─ ISSUE: creator-denial must not be equated with denial of every religious…
+  ├─ RESPONSE / CONTROL: This is the single most important interpretive move in
+  ├─ RESPONSE / CONTROL: the entire…
+  └─ QUALIFIED VERDICT: UPSC's 2019 wording presupposes that Jainism has something
+  └─ QUALIFIED VERDICT: to prove
+                  │
+                  ▼
+PROBLEM / OBJECTION 2
+  ├─ ISSUE: In that Vedic sense Jainism and Buddhism are nāstika
+  ├─ RESPONSE / CONTROL: Jainism is "a religion without God" in the sense of a
+  ├─ RESPONSE / CONTROL: creator
+  └─ QUALIFIED VERDICT: "Though Jainism denies God, it does not deny godhead
+                                  │
+                                  ▼
+FINAL CONTROL: preserve the strongest insight while stating its limit.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Mimamsa objection and comparative proof verdict
+
+```ascii-master
+MIMAMSA OBJECTION AND COMPARATIVE PROOF VERDICT
+
+
+KEY TERMS: Part Ii • Buddhism • Four core lines • eternal and unchanging • from desire or
+KEY TERMS: purpose • suffering and evil
+CAUSE / CONDITION 1: If God is eternal and unchanging, genuine creation becomes…
+          │
+          ├── MECHANISM
+          │   If God is eternal and unchanging, genuine creation becomes…
+          │
+          └── EFFECT / CONTRAST
+              If God determines all, karma and moral effort are meaningless
+          │
+          ▼
+CAUSE / CONDITION 2: And the direct counter to Nyāya's adṛṣṭa proof: apūrva is the…
+          │
+          ├── MECHANISM
+          │   And the direct counter to Nyāya's adṛṣṭa proof: apūrva is the…
+          │
+          └── EFFECT / CONTRAST
+              Prābhākara adds niyoga: the injunction itself creates obligation…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Proofs for the Existence of God and their Critique: traps, PYQ routes and applied recall
+
+```ascii-master
+PROOFS FOR THE EXISTENCE OF GOD AND THEIR CRITIQUE: TRAPS, PYQ ROUTES AND APPLIED RECALL
+
+
+KEY TERMS: Demonstration • Probable / explanatory inference • Practical postulate • A priori
+KEY TERMS: • A posteriori • Mnemonic — "CONCEPT versus COSMOS"
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── The a priori proof promises necessity but is charged with the…
+├── But the decisive difference: Western theists generally believe God…
+├── creator-denial must not be equated with denial of every religious…
+├── Answering the 2019 question with "Jainism is atheistic" misreads it
+│
+├── Verified-question status
+├── PYQ 1 — 2018, Q6(c), 15 marks
+├── "Does the concept of God entail the existence of God?
+├── Directive Examine — analyse the entailment claim and deliver a reasoned…
+│
+└── Every proof must be tested for validity, soundness and adequacy…
+└── Hick's objection: the basic assumption of all such arguments is…
+└── Mīmāṃsā (school of inquiry into ritual duty) treats the Veda…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Proofs for the Existence of God and their Critique: integrated revision and…
+
+```ascii-master
+PROOFS FOR THE EXISTENCE OF GOD AND THEIR CRITIQUE — ANSWER / REVISION SPINE
+
+
+KEY TERMS: Demonstration • Probable / explanatory inference • Practical postulate • A priori
+KEY TERMS: • A posteriori • Mnemonic — "CONCEPT versus COSMOS"
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ Do not treat "proof" univocally: demonstration, probable inference…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ Demonstration
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ That chronological point is a genuine fact worth stating, because…
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ Practical postulate
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ Answering the 2019 question with "Jainism is atheistic" misreads it
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ Mīmāṃsā (school of inquiry into ritual duty) treats the Veda…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

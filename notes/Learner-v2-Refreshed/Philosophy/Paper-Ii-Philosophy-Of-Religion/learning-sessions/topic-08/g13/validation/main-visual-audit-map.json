@@ -1,0 +1,1935 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-08\\g13\\topic-08_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-08\\g13\\topic-08_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-08",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 5,
+      "heading": "Religion and Morality - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Catalogue identity:** Philosophy Optional · Philosophy Paper II — Philosophy of Religion · `philosophy-paper-ii-philosophy-of-religion-08` **Generation:** g13, 3 September 2026 · **Approval:** pending explicit topic approval **Evidence di",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 678.224
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 9,
+      "markdown_body_line_end": 17,
+      "heading": "Package practice counts",
+      "preview": "Component | Count",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Component",
+          "Count"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 653.224
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 480.222
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 28,
+      "markdown_body_line_end": 35,
+      "heading": "Exact printed ownership and cross-topic firewall",
+      "preview": "Owned here | Boundary",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Owned here",
+          "Boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 388.822
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 169.82
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 43,
+      "markdown_body_line_end": 48,
+      "heading": "0A. FOUR DIFFERENT DEPENDENCE CLAIMS ANALYSIS:",
+      "preview": "Claim | Question | Religious role | Independent alternative",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim",
+          "Question",
+          "Religious role",
+          "Independent alternative"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 616.39
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 54,
+      "markdown_body_line_end": 54,
+      "heading": "0A. FOUR DIFFERENT DEPENDENCE CLAIMS ANALYSIS:",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-08\\g13\\assets\\topic-08_Teaching-Navigation_2026-08-23.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 568.79
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 261.254
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 68,
+      "markdown_body_line_end": 75,
+      "heading": "Source-complete coverage ledger and answer-worthiness labels",
+      "preview": "Source corpus | Final location | Retention decision",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Source corpus",
+          "Final location",
+          "Retention decision"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 751.891
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 555.29
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 82,
+      "markdown_body_line_end": 94,
+      "heading": "Learning roadmap",
+      "preview": "Unit | Learner objective",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Unit",
+          "Learner objective"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 420.89
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 163.088
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 106,
+      "markdown_body_line_end": 106,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Religion may interpret, motivate or sanction morality without thereby establishing that moral truth and obligation metaphysically depend upon religion.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 122,
+      "markdown_body_line_end": 122,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Religion and morality relations",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-08\\g13\\assets\\religion-morality-relations.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 415.824
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 108.288
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 126,
+      "markdown_body_line_end": 133,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "RIGHTNESS:   Is an act right because God commands it?",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 135,
+      "markdown_body_line_end": 135,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Master verdict:** Morality is not conceptually reducible to religion, but religion can supply motivation, formation and cosmic significance; morality in turn remains an indispensable internal and external critic of religious life.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 736.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 691.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 140,
+      "markdown_body_line_end": 152,
+      "heading": "ONE-SCREEN MAP ANALYSIS:",
+      "preview": "HOW ARE RELIGION & MORALITY RELATED?",
+      "metadata": {
+        "language": "plain",
+        "line_count": 11,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 669.624
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 548.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 153,
+      "markdown_body_line_end": 153,
+      "heading": "ONE-SCREEN MAP ANALYSIS:",
+      "preview": "🔑 **Mnemonic — \"Depend / Detach / Dialogue\":** morality depends on religion (Divine Command), detaches from it (Kant/secular), or dialogues with it (interaction). The **Euthyphro** splits the dependence view.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 548.624
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 503.956
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 158,
+      "markdown_body_line_end": 166,
+      "heading": "CLOSING RECALL FLOW - RELIGION AND MORALITY: THE GROUNDING PROBLEM",
+      "preview": "RELIGION AND MORALITY: THE GROUNDING PROBLEM",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 480.456
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 374.437
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 177,
+      "markdown_body_line_end": 177,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The dependence view holds that morality requires religion for its authority, motivation or ultimate sanction, but these three claims must be assessed separately.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 234.637
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 167.97
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 190,
+      "markdown_body_line_end": 190,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CORE DISTINCTION:** ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (Recommended opening definition):** The dependence view holds that morality requires religion for its authority, motivation or ultimate sanction, but these three claims mu",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 711.024
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 200,
+      "markdown_body_line_end": 208,
+      "heading": "CLOSING RECALL FLOW - DIVINE COMMAND AND THE DEPENDENCE OF MORALITY",
+      "preview": "DIVINE COMMAND AND THE DEPENDENCE OF MORALITY",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 517.324
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 411.305
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 219,
+      "markdown_body_line_end": 219,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Religion is related to morality, while God, freedom and immortality function as practical postulates rather than the source of the moral law. ✅ Secular ethics: utilitarianism, contractarianism, virtue ethics, humanism — all ground morality ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 276.305
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 195.437
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 232,
+      "markdown_body_line_end": 232,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**EXAM-READY LINE:** Moral obligation can be grounded independently in reason, welfare, virtue, human dignity or the reduction of suffering, even when religion strengthens motivation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 242,
+      "markdown_body_line_end": 250,
+      "heading": "CLOSING RECALL FLOW - AUTONOMOUS MORALITY AND SECULAR ETHICS",
+      "preview": "AUTONOMOUS MORALITY AND SECULAR ETHICS",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 579.124
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 463.605
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 261,
+      "markdown_body_line_end": 261,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Religion and morality are conceptually distinguishable yet historically interactive: religion shapes moral formation, while moral criticism reforms religious practice.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 342.805
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 276.137
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 274,
+      "markdown_body_line_end": 274,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CORE DEFINITION:** Religion and morality are conceptually distinguishable yet historically interactive: religion shapes moral formation, while moral criticism reforms religious practice.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 117.537
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 72.87
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 283,
+      "markdown_body_line_end": 291,
+      "heading": "CLOSING RECALL FLOW - THE INTERACTION VIEW AND MUTUAL FORMATION",
+      "preview": "THE INTERACTION VIEW AND MUTUAL FORMATION",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 686.591
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 580.573
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 302,
+      "markdown_body_line_end": 302,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "🔑 Balanced conclusion: the Euthyphro shows morality cannot be wholly reducible to divine command (else arbitrary), so morality has autonomy; yet religion powerfully motivates and sustains morality, and morality purifies religion — hence the",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 412.373
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 331.505
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 315,
+      "markdown_body_line_end": 321,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "View | Claim | Thinker | Weakness",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "View",
+          "Claim",
+          "Thinker",
+          "Weakness"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 172.905
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 46.504
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 323,
+      "markdown_body_line_end": 323,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "🔑 **Balanced conclusion:** the Euthyphro shows morality **cannot be wholly reducible to** divine command (else arbitrary), so morality has **autonomy**; yet religion powerfully **motivates and sustains** morality, and morality **purifies** ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 328,
+      "markdown_body_line_end": 336,
+      "heading": "CLOSING RECALL FLOW - EUTHYPHRO, OBLIGATION, MOTIVATION AND SANCTION",
+      "preview": "EUTHYPHRO, OBLIGATION, MOTIVATION AND SANCTION",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 720.924
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 597.055
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 347,
+      "markdown_body_line_end": 347,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The religion-morality debate is not exhausted by command versus autonomy; natural law, practical reason, moral fruits and duty offer intermediate structures.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 457.255
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 390.587
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 383,
+      "markdown_body_line_end": 391,
+      "heading": "CLOSING RECALL FLOW - DIVINE COMMAND, AUTONOMY AND FOUNDATIONAL POSITIONS",
+      "preview": "DIVINE COMMAND, AUTONOMY AND FOUNDATIONAL POSITIONS",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 540.791
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 434.773
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 402,
+      "markdown_body_line_end": 402,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Indian traditions do not offer one religion-morality model: duty, karma, non-injury, compassion and devotion ground conduct through different authorities and goals.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 313.973
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 247.305
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 415,
+      "markdown_body_line_end": 415,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**CORE DEFINITION:** The key analytical distinction is between what makes an act right, what justifies belief in its rightness and what motivates an agent to perform it.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 88.705
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 44.037
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 417,
+      "markdown_body_line_end": 427,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Grounding | Ultimate ground | Handles Euthyphro? | Handles \"all the time\"? | Standing objection",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 9,
+        "headers": [
+          "Grounding",
+          "Ultimate ground",
+          "Handles Euthyphro?",
+          "Handles \"all the time\"?",
+          "Standing objection"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 510.89
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 433,
+      "markdown_body_line_end": 439,
+      "heading": "7.1 - \"'One can have morality without religion but not religion without morality.' Discuss.\" (2022, 10m)",
+      "preview": "Intro : examine the asymmetry between the two directions.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 5,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 467.39
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 406.39
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 442,
+      "markdown_body_line_end": 449,
+      "heading": "7.2 - \"Must normative principles reference God to produce obligation?\" (2025, 15m)",
+      "preview": "Intro : the Divine Command claim vs the autonomy claim.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 6,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 384.39
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 313.39
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 452,
+      "markdown_body_line_end": 470,
+      "heading": "7.3 - \"Can there be a philosophical argument to support violence in the name of religion?\" (2019, 10m)",
+      "preview": "Intro : the question is about the STRUCTURE OF JUSTIFICATION, not the history of conflict.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 17,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 291.39
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 110.39
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 473,
+      "markdown_body_line_end": 491,
+      "heading": "7.4 - \"Secular ethics cannot fully resolve why one should be moral all the time.\" (2019, 15m)",
+      "preview": "Intro : the weight is on \"all the time\" — the undetected, costly, unreciprocated act.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 17,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 606.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 494,
+      "markdown_body_line_end": 512,
+      "heading": "7.5 - \"Present an account of Nietzsche's criticism of religion and morality.\" (2025, 10m)",
+      "preview": "Intro : the two halves are inseparable — the death of God and the genealogy of the morality it bore.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 17,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 584.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 403.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 534,
+      "markdown_body_line_end": 542,
+      "heading": "CLOSING RECALL FLOW - INDIAN AND WESTERN GROUNDS OF MORAL LIFE",
+      "preview": "INDIAN AND WESTERN GROUNDS OF MORAL LIFE",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 174.591
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 68.573
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1039,
+      "markdown_body_line_end": 1039,
+      "heading": "VERIFIED PYQS - 11 COMPLETE SOLUTIONS",
+      "preview": "The following are independent practice models, not official UPSC answer keys. Question wording, year, number and marks follow the verified Paper II corpus. The answers model directive fidelity, balanced argument and India-aware comparison.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 572.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 491.224
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1341,
+      "markdown_body_line_end": 1341,
+      "heading": "ORIGINAL SOLVED MAINS PRACTICE",
+      "preview": "These are original practice questions and independent model answers. They are **not PYQs** and are not official UPSC keys.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 717.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 650.624
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1546,
+      "markdown_body_line_end": 1546,
+      "heading": "9.1 Divine command theory",
+      "preview": "**CORE DISTINCTION:** ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM (Recommended opening definition):** Divine command theory identifies moral obligation with God's command, thereby securing authority but facing the Euthyphro dilemma betwe",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 676.491
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 595.624
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1556,
+      "markdown_body_line_end": 1556,
+      "heading": "9.2 Kantian autonomy",
+      "preview": "**EXAM-READY LINE:** For Kant, an act has moral worth when performed from a rationally self-legislated duty, not from fear of divine punishment or hope of reward.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 393.024
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 326.356
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1566,
+      "markdown_body_line_end": 1566,
+      "heading": "9.3 Natural law and theistic moral realism",
+      "preview": "**EXAM-READY LINE:** Natural-law ethics avoids crude voluntarism by grounding moral norms in the rational order of created nature, though it must still explain disputed accounts of human flourishing.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 152.156
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 85.488
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1576,
+      "markdown_body_line_end": 1576,
+      "heading": "9.4 Indian dharma, karma and critique",
+      "preview": "**EXAM-READY LINE:** Dharma (moral-religious duty and order) and karma (action and moral causation) connect conduct with cosmic order, but the Bhagavad Gītā's niṣkāma-karma (action without attachment to results) shifts moral worth from rewa",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 660.491
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 579.624
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1586,
+      "markdown_body_line_end": 1586,
+      "heading": "9.5 Religion's moral influence",
+      "preview": "**EXAM-READY LINE:** Religion can intensify moral motivation through identity, exemplars, community and accountability, but religiosity is neither necessary nor sufficient for moral conduct.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 405.424
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 338.756
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1596,
+      "markdown_body_line_end": 1596,
+      "heading": "9.6 Nietzsche's criticism of religion and morality (2025 Q5(c) - primary owner)",
+      "preview": "**CORE DISTINCTION:** Nietzsche's genealogy criticises Christian morality as a reversal born of ressentiment, yet his revaluation risks elitism unless value-creation can be normatively constrained. ✅ **Ownership note.** The 2025 stem couple",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 178.756
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 69.488
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1620,
+      "markdown_body_line_end": 1620,
+      "heading": "9.7 Religious violence: is there a philosophical argument for it? (2019 Q5(c) owner-module)",
+      "preview": "**CORE DISTINCTION:** No act becomes justified merely by being religiously authorised; a defensible argument must independently satisfy legitimate authority, just cause, proportionality, necessity and discrimination. ⚠️ **Handling rule.** T",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 680.691
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 585.624
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1635,
+      "markdown_body_line_end": 1635,
+      "heading": "9.8 Just war, jihād and dharma-yuddha: comparing normative frameworks",
+      "preview": "**CORE DISTINCTION:** Just-war reasoning, jihād (striving in the path of God) and dharma-yuddha (righteous war governed by moral limits) are comparable as attempts to subject force to moral limits, not as permissions for unlimited sacred vi",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 697.891
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 574.424
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1644,
+      "markdown_body_line_end": 1653,
+      "heading": "9.8 Just war, jihād and dharma-yuddha: comparing normative frameworks",
+      "preview": "Criterion | Just war | Classical Islamic juristic tradition | *Dharma-yuddha*",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Criterion",
+          "Just war",
+          "Classical Islamic juristic tradition",
+          "*Dharma-yuddha*"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 562.89
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1660,
+      "markdown_body_line_end": 1660,
+      "heading": "9.9 Religiosity and \"immorality\" (2018 Q5(d) owner-module)",
+      "preview": "**EXAM-READY LINE:** Religious profession and moral conduct are empirically separable because belief may motivate action, rationalise misconduct or remain behaviourally inert. ❓ The held 2018 paper visibly prints \"**immorality**\". The modul",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 429.09
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 348.222
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1675,
+      "markdown_body_line_end": 1675,
+      "heading": "9.10 \"Why be moral - all the time?\" (2019 Q7(b) owner-module)",
+      "preview": "**EXAM-READY LINE:** The demand to be moral 'all the time' tests integrity under secrecy: religion may reinforce compliance, but moral justification cannot be reduced to surveillance or reward.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 578.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 511.624
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1689,
+      "markdown_body_line_end": 1689,
+      "heading": "9.11 Divine command refined, and the non-theistic grounding of ethics",
+      "preview": "**EXAM-READY LINE:** A refined theistic ethic may present God as the perfectly good recogniser and motivator of moral value rather than the arbitrary creator of goodness.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 567.091
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 500.424
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1704,
+      "markdown_body_line_end": 1704,
+      "heading": "10. INTER-THINKER / INTER-SCHOOL DEBATES",
+      "preview": "**CORE DISTINCTION:** Compare theories by separating moral ontology, epistemic justification, motivation and institutional influence; otherwise distinct claims collapse into the vague assertion that religion and morality are 'related'.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 729.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 648.424
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1706,
+      "markdown_body_line_end": 1716,
+      "heading": "10. INTER-THINKER / INTER-SCHOOL DEBATES",
+      "preview": "View | Ground of rightness | Source of obligation | Motivation | Main problem",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 9,
+        "headers": [
+          "View",
+          "Ground of rightness",
+          "Source of obligation",
+          "Motivation",
+          "Main problem"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 648.424
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 356.022
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1720,
+      "markdown_body_line_end": 1720,
+      "heading": "11. CRITICISMS AND REPLIES",
+      "preview": "**EXAM-READY LINE:** The Euthyphro dilemma defeats arbitrary command, not every religious ethic; the strongest reply grounds commands in a necessarily good divine nature.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 356.022
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 289.354
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1762,
+      "markdown_body_line_end": 1762,
+      "heading": "14. PYQ ROUTING (2018-2025)",
+      "preview": "⚠️ **Corpus signal:** 11 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 118.891
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 52.224
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1764,
+      "markdown_body_line_end": 1776,
+      "heading": "14. PYQ ROUTING (2018-2025)",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 11,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 501.39
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1783,
+      "markdown_body_line_end": 1786,
+      "heading": "10 marks",
+      "preview": "State dependence claim → Euthyphro/Kant discriminator → one Indian illustration →",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 441.19
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 410.19
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1789,
+      "markdown_body_line_end": 1792,
+      "heading": "15 marks",
+      "preview": "Frame obligation problem → strongest theistic account → autonomy/natural-law rival →",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 388.19
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 357.19
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1795,
+      "markdown_body_line_end": 1798,
+      "heading": "20 marks",
+      "preview": "Separate rightness, obligation and motivation → compare command, autonomy and dharma →",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 335.19
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 304.19
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1802,
+      "markdown_body_line_end": 1813,
+      "heading": "16. DIRECTIVE DECODER",
+      "preview": "Directive | Examiner is buying | Structural consequence | Live example",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 10,
+        "headers": [
+          "Directive",
+          "Examiner is buying",
+          "Structural consequence",
+          "Live example"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 421.89
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1815,
+      "markdown_body_line_end": 1815,
+      "heading": "16. DIRECTIVE DECODER",
+      "preview": "🔑 **Rule:** in this clause almost every stem is a claim of **necessity, dependence or incompatibility**. Your first move is always to ask *which* relation is asserted — conceptual dependence, epistemic dependence, motivational dependence, o",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 421.89
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 363.022
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1819,
+      "markdown_body_line_end": 1819,
+      "heading": "17. GRADED VERDICT LADDER",
+      "preview": "**EXAM-READY LINE:** Religion and morality are conceptually distinguishable, historically interactive and normatively mutually critical; religion may strengthen moral life without monopolising moral truth.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 363.022
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 296.354
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1821,
+      "markdown_body_line_end": 1827,
+      "heading": "17. GRADED VERDICT LADDER",
+      "preview": "Band | What the script contains | Typical fault",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Band",
+          "What the script contains",
+          "Typical fault"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 296.354
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 53.753
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1836,
+      "markdown_body_line_end": 1857,
+      "heading": "18. FACTUAL AND QUOTATION DISCIPLINE",
+      "preview": "Item | Status | Safe use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 20,
+        "headers": [
+          "Item",
+          "Status",
+          "Safe use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 148.29
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1892,
+      "markdown_body_line_end": 1897,
+      "heading": "A. Four relations",
+      "preview": "Relation | Question | Key warning",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Relation",
+          "Question",
+          "Key warning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 397.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 287.89
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1984,
+      "markdown_body_line_end": 1984,
+      "heading": "L. Final answer discipline",
+      "preview": "**Final judgement:** Religion and morality are conceptually distinguishable, historically interactive and normatively mutually critical. God-reference may strengthen motivation and cosmic significance without being necessary for moral oblig",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 546.691
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 487.824
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1990,
+      "markdown_body_line_end": 1999,
+      "heading": "ASCII MASTER FLOW - PANEL 1/8: 1. Four relation models",
+      "preview": "RELIGION AND MORALITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 440.824
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 348.224
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2003,
+      "markdown_body_line_end": 2013,
+      "heading": "ASCII MASTER FLOW - PANEL 2/8: 2. Divine command theory",
+      "preview": "GOD COMMANDS X -> X IS OBLIGATORY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 326.224
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 223.424
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2017,
+      "markdown_body_line_end": 2028,
+      "heading": "ASCII MASTER FLOW - PANEL 3/8: 3. Euthyphro and modified DCT",
+      "preview": "IS X GOOD BECAUSE GOD COMMANDS IT?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 674.291
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2032,
+      "markdown_body_line_end": 2042,
+      "heading": "ASCII MASTER FLOW - PANEL 4/8: 4. Kant and natural law",
+      "preview": "KANT: moral law arises from rational autonomy, not heteronomous reward or threat",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 652.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 549.491
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2046,
+      "markdown_body_line_end": 2054,
+      "heading": "ASCII MASTER FLOW - PANEL 5/8: 5. Indian moral grounding",
+      "preview": "MĪMĀṂSĀ: dharma known through authorless Veda; apūrva links ritual act and result",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 527.491
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 445.091
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2058,
+      "markdown_body_line_end": 2067,
+      "heading": "ASCII MASTER FLOW - PANEL 6/8: 6. Motivation and conduct",
+      "preview": "WHY BE MORAL?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 423.091
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 330.491
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2071,
+      "markdown_body_line_end": 2080,
+      "heading": "ASCII MASTER FLOW - PANEL 7/8: 7. Violence, Nietzsche and moral critique",
+      "preview": "RELIGION WITHOUT MORALITY: ritual purity or orthodoxy detached from justice/compassion",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 308.491
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 215.891
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2084,
+      "markdown_body_line_end": 2092,
+      "heading": "ASCII MASTER FLOW - PANEL 8/8: 8. PYQ answer architecture",
+      "preview": "STATE precise dependence claim -> separate ground/knowledge/motive/sanction",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    }
+  ]
+}

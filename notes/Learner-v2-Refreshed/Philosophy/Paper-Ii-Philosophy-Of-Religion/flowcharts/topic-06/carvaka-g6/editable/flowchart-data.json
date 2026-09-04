@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-06",
+  "generation": 6,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-06\\g6\\topic-06_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    2153
+  ],
+  "stages": [
+    {
+      "title": "RELIGIOUS EXPERIENCE: NATURE AND OBJECT",
+      "terms": "It explains a mechanism or correlate; the philosophical question of the experience's object and warrant remains open.",
+      "mechanism": "It explains a mechanism or correlate; the philosophical question of the experience's object and warrant remains open.",
+      "consequence": "✅ Fact: A 2025 Frontiers in Neuroscience review described neuroscience of religion as the study of correlations between brain functions and religious practices, beliefs and experiences, while emphasizing methodological and definitional limitations. ⚠️ Inference: Neural mediation does not by itself prove either veridicality or illusion.",
+      "trap": "✅ Fact: A 2025 Frontiers in Neuroscience review described neuroscience of religion as the study of correlations between brain functions and religious practices, beliefs and experiences, while emphasizing methodological and definitional limitations. ⚠️ Inference: Neural mediation does not by itself prove either veridicality or illusion.",
+      "answer": "✅ Fact: A 2025 Frontiers in Neuroscience review described neuroscience of religion as the study of correlations between brain functions and religious practices, beliefs and experiences, while emphasizing methodological and definitional limitations. ⚠️ Inference: Neural mediation does not by itself prove either veridicality or illusion."
+    },
+    {
+      "title": "RELIGIOUS EXPERIENCE: NATURE AND OBJECT: CORE DISTINCTIONS",
+      "terms": "Is religious experience veridical (of a real object) or merely subjective/psychological? ⚠️ For veridicality: Principle of Credulity (Swinburne) — if it seems to one that X is present, probably X is, absent defeaters; the noetic quality; convergence of mystics.",
+      "mechanism": "[!IMPORTANT] Mystical experience is a mode of religious experience marked, for William James, primarily by ineffability and noetic quality.",
+      "consequence": "Anubhava (direct realisation): in Indian thought the highest religious experience is immediate, intuitive realisation (anubhava/aparokṣānubhūti), not mere belief — the goal of the whole spiritual path. ✅ Advaita (2024 PYQ) — features: ✅ Non-dual (nirvikalpa) experience — the collapse of subject–object duality; the realiser is Brahman (\"aham brahmāsmi\").",
+      "trap": "Self-certifying (svataḥ-siddha), beyond objectifying speech (avācya; yato vāco nivartante), bliss (ānanda), beyond the categories of ordinary cognition. ⚠️ Terminological discipline: do not call this experience anirvacanīya.",
+      "answer": "Religious experience is an experience interpreted as disclosing or relating the subject to an ultimate, sacred or divine reality."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2153,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 2
+    }
+  ]
+}

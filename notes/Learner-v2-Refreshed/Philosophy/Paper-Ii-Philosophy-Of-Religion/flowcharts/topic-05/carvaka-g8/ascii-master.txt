@@ -1,0 +1,223 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Reason, Revelation and Faith: central question and analytical axes
+
+```ascii-master
+REASON, REVELATION AND FAITH — CONCEPTUAL ATLAS
+
+
+KEY TERMS: reason • revelation • faith • justification • authority • assent
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Reason, Revelation and Faith
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       Reason appeals to publicly assessable inference, revelation to…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: REASON, REVELATION AND FAITH: THE BASIC PROBLEM
+  • reason
+  • Religious systems combine rational preambles, claims of…
+AXIS 2: REASON, NATURAL THEOLOGY AND RATIONAL JUSTIFICATION
+  • Reason
+  • reason (a) constructs natural theology (proofs for God), (b)…
+AXIS 3: FAITH, BELIEF, TRUST AND COMMITMENT
+  • Faith
+  • Aquinas explains faith as intellectual assent commanded by the…
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  reason • revelation • faith • justification
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: The reason–revelation–faith problem
+
+```ascii-master
+THE REASON–REVELATION–FAITH PROBLEM
+│
+
+KEY TERMS: reason • revelation • faith • justification • authority • assent
+├── KEY CONCEPTS
+│   ├── reason
+│   ├── revelation
+│   ├── faith
+│   ├── justification
+│   └── authority
+│
+├── REASON, REVELATION AND FAITH: THE BASIC PROBLEM
+│   ├─ TERMS: Reason appeals to publicly assessable inference, revelation to…
+│   ├─ LOGIC: Religious systems combine rational preambles, claims of disclosure…
+│   └─ RESULT: Different weightings produce rationalism, compatibilism, critical…
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Natural theology, justification and rational limits
+
+```ascii-master
+NATURAL THEOLOGY, JUSTIFICATION AND RATIONAL LIMITS
+
+
+KEY TERMS: Reason • Natural Theology • Rational Justification • Role (2024 PYQ) •
+KEY TERMS: Rationalism • Limits
+CAUSE / CONDITION 1: Role (2024 PYQ): reason (a) constructs natural theology…
+          │
+          ├── MECHANISM
+          │   reason (a) constructs natural theology (proofs for God), (b) tests…
+          │
+          └── EFFECT / CONTRAST
+              reason (a) constructs natural theology (proofs for God), (b) tests…
+          │
+          ▼
+CAUSE / CONDITION 2: [!IMPORTANT] Revelation is an alleged divine self-disclosure…
+          │
+          ├── MECHANISM
+          │   A revelation claim becomes philosophically credible only when…
+          │
+          └── EFFECT / CONTRAST
+              Non-propositional view (Hick): revelation is God's…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Revelation, authority, disclosure and commitment
+
+```ascii-master
+REVELATION, AUTHORITY, DISCLOSURE AND COMMITMENT
+
+
+KEY TERMS: Faith • Belief • Trust • Commitment • FAITH, BELIEF, TRUST AND COMMITMENT
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ FAITH, BELIEF, TRUST   │ Faith is rationally           │ This reconciles reason &      │
+│ AND COMMITMENT         │ responsible when it           │ faith — reason establishes    │
+│                        │ transcends evidence without…  │ the "preambles"…              │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Compatibilism, fideism, Aquinas and Kierkegaard
+
+```ascii-master
+COMPATIBILISM, FIDEISM, AQUINAS AND KIERKEGAARD
+
+
+KEY TERMS: Compatibilism • Fideism • Rival Stances • Aquinas is the balanced default •
+KEY TERMS: COMPATIBILISM, FIDEISM AND RIVAL STANCES • Aquinas
+                 CLAIM / SYSTEM UNDER EXAMINATION
+                                  │
+                                  ▼
+PROBLEM / OBJECTION 1
+  ├─ ISSUE: aquinas offers the most balanced model when reason establishes…
+  ├─ RESPONSE / CONTROL: Aquinas offers the most balanced model when reason
+  ├─ RESPONSE / CONTROL: establishes…
+  └─ QUALIFIED VERDICT: reason & revelation cannot conflict (both from God)
+                  │
+                  ▼
+PROBLEM / OBJECTION 2
+  ├─ ISSUE: The Augustinian–Anselmian formula credo ut intelligam presents…
+  ├─ RESPONSE / CONTROL: [Aquinas] "How does Aquinas' faith-as-'intellectual
+  ├─ RESPONSE / CONTROL: assent'…
+  └─ QUALIFIED VERDICT: The Augustinian–Anselmian formula credo ut intelligam
+  └─ QUALIFIED VERDICT: presents…
+                                  │
+                                  ▼
+FINAL CONTROL: preserve the strongest insight while stating its limit.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Indian/Western models and a reasoned-faith verdict
+
+```ascii-master
+INDIAN/WESTERN MODELS AND A REASONED-FAITH VERDICT
+
+
+KEY TERMS: Indian • Western Models Of Reasoned Faith • no • obstacles • INDIAN AND WESTERN
+KEY TERMS: MODELS OF REASONED…
+CAUSE / CONDITION 1: Mīmāṃsā (Vedic exegesis) defends authorless scripture and…
+          │
+          ├── MECHANISM
+          │   Mīmāṃsā (Vedic exegesis) defends authorless scripture and intrinsic…
+          │
+          └── EFFECT / CONTRAST
+              mīmāṃsā (Vedic exegesis) defends authorless scripture and intrinsic…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Reason, Revelation and Faith: traps, PYQ routes and applied recall
+
+```ascii-master
+REASON, REVELATION AND FAITH: TRAPS, PYQ ROUTES AND APPLIED RECALL
+
+
+KEY TERMS: reason • revelation • faith • justification • authority • assent
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── Do not equate faith with unsupported belief or revelation with a…
+├── epistemic justification of revelation (2024 PYQ)
+├── aquinas offers the most balanced model when reason establishes…
+├── mīmāṃsā (Vedic exegesis) defends authorless scripture and intrinsic…
+│
+├── PYQ 1 — 2019, Q5(a), 10 marks
+├── Exact verified question: What is instrumental to self-revelation: Faith or…
+├── PYQ 2 — 2020, Q5(a), 10 marks
+├── Exact verified question: Discuss the significance of ‘Religion’ vis-à-vis…
+│
+└── The philosophical problem is not whether religion uses only one…
+└── Faith is firm trust and commitment that goes beyond conclusive…
+└── Indian epistemology reframes reason and revelation through pramāṇa…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Reason, Revelation and Faith: integrated revision and answer-writing spine
+
+```ascii-master
+REASON, REVELATION AND FAITH — ANSWER / REVISION SPINE
+
+
+KEY TERMS: reason • revelation • faith • justification • authority • assent
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ Reason appeals to publicly assessable inference, revelation to…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ reason
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ A revelation claim becomes philosophically credible only when…
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ faith
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ mīmāṃsā (Vedic exegesis) defends authorless scripture and intrinsic…
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ Indian epistemology reframes reason and revelation through pramāṇa…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

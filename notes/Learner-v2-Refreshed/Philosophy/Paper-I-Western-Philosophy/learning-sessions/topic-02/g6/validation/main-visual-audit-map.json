@@ -1,0 +1,3357 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g6\\topic-02_Complete-Learning-Session_2026-09-02.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g6\\topic-02_Complete-Learning-Session_2026-09-02.pdf",
+  "mode": "main",
+  "topic_key": "philosophy-paper-i-western-philosophy-02",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5,
+      "markdown_body_line_end": 7,
+      "heading": "Rationalism - Learner-v2 Source-Complete Learning Session",
+      "preview": "**Generation:** g6, 2026-09-02 · **Approval:** false pending explicit topic approval  **Evidence discipline:** Complete legacy teaching and workbook material is preserved, reordered Basic-first/Advanced-last, and checked against the canonic",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 713.424
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 14,
+      "markdown_body_line_end": 14,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "Rationalist problem-sequence map",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g6\\assets\\Rationalism-Problem-Sequence.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 680.424
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 372.888
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 18,
+      "markdown_body_line_end": 18,
+      "heading": "BASIC LEARNING SESSION",
+      "preview": "**Syllabus (verbatim):** Rationalism (Descartes, Spinoza, Leibniz); Cartesian Method and Certain Knowledge; Substance; God; Mind-Body Dualism; Determinism and Freedom.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 339.488
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 294.82
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 24,
+      "markdown_body_line_end": 30,
+      "heading": "How to Use This Five-Layer Session",
+      "preview": "Layer | Purpose",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Layer",
+          "Purpose"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 250.62
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 120.019
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 44,
+      "markdown_body_line_end": 55,
+      "heading": "Learning Roadmap",
+      "preview": "Unit | Logical subtopic | High-yield output",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Unit",
+          "Logical subtopic",
+          "High-yield output"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 555.691
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 319.09
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 69,
+      "markdown_body_line_end": 91,
+      "heading": "VISUAL - Connected rationalist problem-sequence",
+      "preview": "CERTAINTY BY REASON",
+      "metadata": {
+        "language": "text",
+        "line_count": 21,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 97,
+      "markdown_body_line_end": 97,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Rationalism is unified by confidence in a priori reason but divided by the criterion of substance, which moves from Cartesian dualism through Spinozist monism to Leibnizian monadic pluralism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 567.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 500.424
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 128,
+      "markdown_body_line_end": 141,
+      "heading": "Visual gateway - one confidence, three systems",
+      "preview": "REASON CAN REACH NECESSARY STRUCTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 656.291
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 145,
+      "markdown_body_line_end": 150,
+      "heading": "Visual gateway - one confidence, three systems",
+      "preview": "Shared commitment | Immediate exam meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Shared commitment",
+          "Immediate exam meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 622.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 513.49
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 152,
+      "markdown_body_line_end": 152,
+      "heading": "Visual gateway - one confidence, three systems",
+      "preview": "**Memory line:** the method is shared; the ontology is not.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 513.49
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 483.022
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 158,
+      "markdown_body_line_end": 170,
+      "heading": "0. ONE-SCREEN MAP ANALYSIS:",
+      "preview": "RATIONALISM = reason/innate structure grounds necessity; experience may occasion knowledge",
+      "metadata": {
+        "language": "plain",
+        "line_count": 11,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 461.022
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 340.022
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 171,
+      "markdown_body_line_end": 172,
+      "heading": "0. ONE-SCREEN MAP ANALYSIS:",
+      "preview": "🔑 **Mnemonic — Substance count \"3-1-∞\":** Descartes **3**, Spinoza **1**, Leibniz **∞**. 🔑 **Mind-body mnemonic — \"I-P-H\":** Interaction → Parallelism → Harmony.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 340.022
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 295.354
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 180,
+      "markdown_body_line_end": 186,
+      "heading": "1.5 The Basic Tenets of Rationalism (PYQ 2025 Q2a - \"basic tenets\") ANALYSIS:",
+      "preview": "Tenet | Content",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Tenet",
+          "Content"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 252.854
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 55.053
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 192,
+      "markdown_body_line_end": 198,
+      "heading": "The shared project and the internal divergence",
+      "preview": "SHARED METHODIC CONFIDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 725.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 664.491
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 204,
+      "markdown_body_line_end": 212,
+      "heading": "CLOSING RECALL FLOW - Rationalist Project: Reason, Certainty and the 3-1-Infinity Sequence",
+      "preview": "Rationalist Project: Reason, Certainty and the 3-1-Infinity Sequence",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 614.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 508.073
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 224,
+      "markdown_body_line_end": 250,
+      "heading": "VISUAL - Methodic doubt to cogito",
+      "preview": "SENSE ERROR -> DREAM -> EVIL-GENIUS HYPOTHESIS",
+      "metadata": {
+        "language": "text",
+        "line_count": 25,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 346.273
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 105.273
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 256,
+      "markdown_body_line_end": 256,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The cogito defeats radical doubt performatively: deception may falsify what is thought, but it cannot erase the occurrence and existence of the thinker while thinking.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 288,
+      "markdown_body_line_end": 299,
+      "heading": "Visual gateway - doubt destroys itself at one point",
+      "preview": "SENSE ERROR -> DREAM -> EVIL DEMON",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 339.824
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 228.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 303,
+      "markdown_body_line_end": 307,
+      "heading": "Visual gateway - doubt destroys itself at one point",
+      "preview": "What the cogito secures | What it does not yet secure",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "What the cogito secures",
+          "What it does not yet secure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 195.424
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 107.222
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 309,
+      "markdown_body_line_end": 309,
+      "heading": "Visual gateway - doubt destroys itself at one point",
+      "preview": "**Memory line:** the demon can deceive a thinker, but cannot make deception occur without thinking.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 107.222
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 76.754
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 349,
+      "markdown_body_line_end": 357,
+      "heading": "CLOSING RECALL FLOW - Descartes I: Methodic Doubt, Cogito and Certain Knowledge",
+      "preview": "Descartes I: Methodic Doubt, Cogito and Certain Knowledge",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 249.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 143.673
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 369,
+      "markdown_body_line_end": 393,
+      "heading": "VISUAL - Cartesian knowledge architecture",
+      "preview": "COGITO: present certainty",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 638.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 417.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 399,
+      "markdown_body_line_end": 417,
+      "heading": "VISUAL - Cartesian Circle objection and qualified reply",
+      "preview": "CLEAR/DISTINCT PREMISES ------> PROVE GOD",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 376.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 215.091
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 423,
+      "markdown_body_line_end": 423,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "God is the epistemic hinge of Cartesian reconstruction because divine non-deception extends clear and distinct certainty beyond the cogito, yet that hinge creates the Cartesian Circle.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 195.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 129.224
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 455,
+      "markdown_body_line_end": 465,
+      "heading": "Visual gateway - the hinge from self to world",
+      "preview": "FRESH WAX                 MELTED WAX",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 477.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 376.091
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 469,
+      "markdown_body_line_end": 469,
+      "heading": "Visual gateway - the hinge from self to world",
+      "preview": "**Memory line:** wax explains the mode of knowing body; divine veracity restores the existence of body.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 328.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 298.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 504,
+      "markdown_body_line_end": 508,
+      "heading": "1.6 Descartes - THE WAX ARGUMENT (Meditation II) FACT: - the missing half of \"certain knowledge\"",
+      "preview": "Objection | Source | Reply | Residual",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Objection",
+          "Source",
+          "Reply",
+          "Residual"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 340.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 139.59
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 516,
+      "markdown_body_line_end": 526,
+      "heading": "Reconstruction beyond the cogito",
+      "preview": "COGITO",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 764.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 663.091
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 532,
+      "markdown_body_line_end": 540,
+      "heading": "CLOSING RECALL FLOW - Descartes II: Ideas, God, Reconstruction and the Cartesian Circle",
+      "preview": "Descartes II: Ideas, God, Reconstruction and the Cartesian Circle",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 598.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 484.123
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 552,
+      "markdown_body_line_end": 570,
+      "heading": "VISUAL - Descartes' substance ontology",
+      "preview": "GOD: INFINITE, ABSOLUTELY INDEPENDENT SUBSTANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 322.323
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 161.323
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 576,
+      "markdown_body_line_end": 592,
+      "heading": "VISUAL - Dualist interaction problem",
+      "preview": "MENTAL REASON / VOLITION -> BODILY MOTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 646.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 598,
+      "markdown_body_line_end": 598,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cartesian dualism gains conceptual clarity by separating thought from extension, but its success in distinction becomes its central causal problem because heterogeneous substances must still explain one life.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 627.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 560.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 631,
+      "markdown_body_line_end": 640,
+      "heading": "Visual gateway - count follows criterion",
+      "preview": "WHAT CAN EXIST / BE CONCEIVED THROUGH ITSELF?",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 644,
+      "markdown_body_line_end": 644,
+      "heading": "Visual gateway - count follows criterion",
+      "preview": "**Memory line:** attribute separates, independence unifies, simplicity multiplies.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 648.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 618.224
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 699,
+      "markdown_body_line_end": 706,
+      "heading": "2.4 Substance - Comparative Table ANALYSIS:",
+      "preview": "Feature | Descartes | Spinoza | Leibniz",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Feature",
+          "Descartes",
+          "Spinoza",
+          "Leibniz"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 430.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 230.69
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 708,
+      "markdown_body_line_end": 708,
+      "heading": "2.4 Substance - Comparative Table ANALYSIS:",
+      "preview": "🔑 **For any 20-mark substance question:** open with the shared definition, show the *logical move* each makes, then present this table.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 230.69
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 186.022
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 724,
+      "markdown_body_line_end": 732,
+      "heading": "The dialectical mechanism",
+      "preview": "DESCARTES: principal attributes establish real distinction",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 702.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 621.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 738,
+      "markdown_body_line_end": 746,
+      "heading": "CLOSING RECALL FLOW - Descartes III: Substance, Dualism, Interaction and Freedom",
+      "preview": "Descartes III: Substance, Dualism, Interaction and Freedom",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 556.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 442.323
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 758,
+      "markdown_body_line_end": 780,
+      "heading": "VISUAL - Spinoza's substance-attributes-modes hierarchy",
+      "preview": "ONE SELF-CAUSED SUBSTANCE: DEUS SIVE NATURA",
+      "metadata": {
+        "language": "text",
+        "line_count": 21,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 786,
+      "markdown_body_line_end": 786,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Spinoza radicalises the Cartesian definition of substance until only God or Nature remains self-conceived, making minds and bodies dependent modes rather than independently interacting things.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 567.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 500.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 819,
+      "markdown_body_line_end": 824,
+      "heading": "Visual gateway - three roles",
+      "preview": "DESCARTES                 SPINOZA                  LEIBNIZ",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 828,
+      "markdown_body_line_end": 828,
+      "heading": "Visual gateway - three roles",
+      "preview": "**Memory line:** guarantee -> immanence -> selection.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 658.224
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 873,
+      "markdown_body_line_end": 879,
+      "heading": "3.4 God - Comparative Table ANALYSIS:",
+      "preview": "Feature | Descartes | Spinoza | Leibniz",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Feature",
+          "Descartes",
+          "Spinoza",
+          "Leibniz"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 659.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 480.99
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 885,
+      "markdown_body_line_end": 889,
+      "heading": "One term, three explanatory jobs",
+      "preview": "Thinker | What “God” principally explains",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Thinker",
+          "What “God” principally explains"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 457.49
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 369.288
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 895,
+      "markdown_body_line_end": 903,
+      "heading": "CLOSING RECALL FLOW - Spinoza I: One Substance, Attributes, Modes and Immanent God",
+      "preview": "Spinoza I: One Substance, Attributes, Modes and Immanent God",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 318.888
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 204.52
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 915,
+      "markdown_body_line_end": 935,
+      "heading": "VISUAL - Spinozist parallelism",
+      "preview": "ONE MODAL EVENT IN GOD / NATURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 606.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 941,
+      "markdown_body_line_end": 963,
+      "heading": "VISUAL - Bondage to freedom",
+      "preview": "EXTERNAL CAUSES + INADEQUATE IDEAS",
+      "metadata": {
+        "language": "text",
+        "line_count": 21,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 565.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 364.091
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 969,
+      "markdown_body_line_end": 969,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Spinoza reconciles freedom with determinism by treating freedom not as uncaused choice but as adequate self-determination within the necessary order of God or Nature.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 344.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 278.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1002,
+      "markdown_body_line_end": 1011,
+      "heading": "Visual gateway - apparent coordination",
+      "preview": "DESCARTES: mind ---> body and body ---> mind",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 612.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 521.491
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1015,
+      "markdown_body_line_end": 1015,
+      "heading": "Visual gateway - apparent coordination",
+      "preview": "**Memory line:** interaction -> parallelism -> harmony.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 473.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 443.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1050,
+      "markdown_body_line_end": 1054,
+      "heading": "4.4 Comparative Summary - Mind-Body ANALYSIS:",
+      "preview": "Solution | Mechanism | Strength | Weakness",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Solution",
+          "Mechanism",
+          "Strength",
+          "Weakness"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 656.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 539.99
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1067,
+      "markdown_body_line_end": 1072,
+      "heading": "Three responses to the Cartesian inheritance",
+      "preview": "TWO SUBSTANCES?              ONE SUBSTANCE?             MANY MONADS?",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 326.29
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 275.29
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1078,
+      "markdown_body_line_end": 1086,
+      "heading": "CLOSING RECALL FLOW - Spinoza II: Parallelism, Necessity, Conatus and Freedom",
+      "preview": "Spinoza II: Parallelism, Necessity, Conatus and Freedom",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 210.69
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 104.671
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1098,
+      "markdown_body_line_end": 1118,
+      "heading": "VISUAL - Leibniz's monad hierarchy",
+      "preview": "GOD: NECESSARY SUPREME MONAD / COMPLETE INTELLIGENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 638.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 457.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1124,
+      "markdown_body_line_end": 1124,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Leibniz makes substance simple and active: each monad is a unique perspectival centre whose internally unfolding perceptions preserve individuality without material parts or causal influx.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 438.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 371.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1157,
+      "markdown_body_line_end": 1175,
+      "heading": "Visual gateway - three meanings of freedom",
+      "preview": "DESCARTES",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 680.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 499.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1179,
+      "markdown_body_line_end": 1179,
+      "heading": "Visual gateway - three meanings of freedom",
+      "preview": "**Memory line:** alternatives -> adequacy -> intelligent spontaneity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 465.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 435.424
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1212,
+      "markdown_body_line_end": 1218,
+      "heading": "5.4 Determinism & Freedom - Comparative Table ANALYSIS:",
+      "preview": "Feature | Descartes | Spinoza | Leibniz",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Feature",
+          "Descartes",
+          "Spinoza",
+          "Leibniz"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 573.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 415.99
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1232,
+      "markdown_body_line_end": 1236,
+      "heading": "Criteria before conclusions",
+      "preview": "Criterion | Best fit | Price",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Criterion",
+          "Best fit",
+          "Price"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 279.29
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 191.088
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1242,
+      "markdown_body_line_end": 1250,
+      "heading": "CLOSING RECALL FLOW - Leibniz I: Monads, Perception, Appetition and Individuality",
+      "preview": "Leibniz I: Monads, Perception, Appetition and Individuality",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 140.688
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 770.323
+        }
+      },
+      "pdf_pages": [
+        28,
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1262,
+      "markdown_body_line_end": 1282,
+      "heading": "VISUAL - Pre-established harmony",
+      "preview": "GOD SELECTS A COMPOSSIBLE WORLD",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 608.523
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 427.523
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1288,
+      "markdown_body_line_end": 1308,
+      "heading": "VISUAL - Leibnizian freedom structure",
+      "preview": "TRUTH OF REASON: opposite implies contradiction -> NECESSARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 372.123
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 191.123
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1314,
+      "markdown_body_line_end": 1314,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Leibniz preserves freedom by distinguishing certainty from absolute necessity: rational actions arise spontaneously from the agent's own reasons, which incline without necessitating in the logical sense.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 171.923
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 105.255
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1347,
+      "markdown_body_line_end": 1361,
+      "heading": "Visual gateway - metaphysics becomes ethics",
+      "preview": "GOD OR NATURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 425.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 284.491
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1365,
+      "markdown_body_line_end": 1365,
+      "heading": "Visual gateway - metaphysics becomes ethics",
+      "preview": "**Memory line:** know the cause, become more of the cause.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 236.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 206.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1375,
+      "markdown_body_line_end": 1379,
+      "heading": "1.7 Spinoza - THE THREE KINDS OF KNOWLEDGE (Ethics II, P40, Scholium 2) FACT:",
+      "preview": "Kind | Name | Source | Adequacy | Status",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 3,
+        "headers": [
+          "Kind",
+          "Name",
+          "Source",
+          "Adequacy",
+          "Status"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 612.89
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1386,
+      "markdown_body_line_end": 1386,
+      "heading": "1.7 Spinoza - THE THREE KINDS OF KNOWLEDGE (Ethics II, P40, Scholium 2) FACT:",
+      "preview": "🔑 **Mnemonic — \"Merchant · Mathematician · Seer\" (M-M-S)** = imagination · reason · intuition.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 485.29
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 454.822
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1421,
+      "markdown_body_line_end": 1432,
+      "heading": "One system, not four disconnected doctrines",
+      "preview": "ONE SUBSTANCE / INFINITE ATTRIBUTES",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 572.391
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 461.391
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1438,
+      "markdown_body_line_end": 1446,
+      "heading": "CLOSING RECALL FLOW - Leibniz II: Harmony, God, Sufficient Reason and Freedom",
+      "preview": "Leibniz II: Harmony, God, Sufficient Reason and Freedom",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 410.991
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 288.273
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1458,
+      "markdown_body_line_end": 1478,
+      "heading": "VISUAL - Three-philosopher comparison matrix",
+      "preview": "+------------+----------------+----------------+----------------------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 606.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1484,
+      "markdown_body_line_end": 1502,
+      "heading": "VISUAL - Pressure generated by Cartesian dualism",
+      "preview": "DESCARTES: TWO CREATED SUBSTANCE TYPES",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 565.091
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 404.091
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1508,
+      "markdown_body_line_end": 1508,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Spinoza removes the interaction gap by collapsing Cartesian substances into attributes of one order, while Leibniz restores plurality by replacing interaction with divinely coordinated internal activity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 384.891
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 318.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1541,
+      "markdown_body_line_end": 1548,
+      "heading": "Visual gateway - plurality without causal contact",
+      "preview": "MONAD A: a1 -> a2 -> a3 -> a4",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 645.891
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 574.891
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1552,
+      "markdown_body_line_end": 1558,
+      "heading": "Visual gateway - plurality without causal contact",
+      "preview": "Problem | Leibnizian device",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Problem",
+          "Leibnizian device"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 541.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 410.89
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1560,
+      "markdown_body_line_end": 1560,
+      "heading": "Visual gateway - plurality without causal contact",
+      "preview": "**Memory line:** internally active, externally closed, universally coordinated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 410.89
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 380.422
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1578,
+      "markdown_body_line_end": 1588,
+      "heading": "Integrated Leibnizian dossier",
+      "preview": "SIMPLE ACTIVE UNITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1592,
+      "markdown_body_line_end": 1600,
+      "heading": "CLOSING RECALL FLOW - Comparative Synthesis: Substance, God, Mind-Body and Freedom",
+      "preview": "Comparative Synthesis: Substance, God, Mind-Body and Freedom",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 684.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 569.923
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1612,
+      "markdown_body_line_end": 1632,
+      "heading": "VISUAL - Criticism-reply-residual map",
+      "preview": "DESCARTES: interaction gap",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 393.923
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 212.923
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1638,
+      "markdown_body_line_end": 1656,
+      "heading": "VISUAL - UPSC Philosophy answer spine",
+      "preview": "DIRECTIVE -> DIRECT THESIS -> PRECISE DEFINITIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 626.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1662,
+      "markdown_body_line_end": 1662,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A criticism-reply answer spine reveals rationalism's central tension: systematic intelligibility repeatedly pressures interaction, contingency and autonomous individuality.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 607.091
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 540.424
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1695,
+      "markdown_body_line_end": 1704,
+      "heading": "Visual gateway - the whole answer machine",
+      "preview": "QUESTION TRIGGER",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1708,
+      "markdown_body_line_end": 1708,
+      "heading": "Visual gateway - the whole answer machine",
+      "preview": "**Memory line:** define, derive, evidence, debate, verdict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 662.891
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 632.424
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1714,
+      "markdown_body_line_end": 1722,
+      "heading": "6. INTER-THINKER / INTER-SCHOOL DEBATES ANALYSIS:",
+      "preview": "Axis | Descartes | Spinoza | Leibniz",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Axis",
+          "Descartes",
+          "Spinoza",
+          "Leibniz"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 610.424
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 401.022
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1729,
+      "markdown_body_line_end": 1733,
+      "heading": "Against Descartes",
+      "preview": "Criticism | Reply",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Criticism",
+          "Reply"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 358.522
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 236.72
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1736,
+      "markdown_body_line_end": 1741,
+      "heading": "Against Spinoza",
+      "preview": "Criticism | Reply",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Criticism",
+          "Reply"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 214.72
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 60.519
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1744,
+      "markdown_body_line_end": 1748,
+      "heading": "Against Leibniz",
+      "preview": "Criticism | Reply",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Criticism",
+          "Reply"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 665.49
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1754,
+      "markdown_body_line_end": 1762,
+      "heading": "8. COMMON UPSC TRAPS ANALYSIS:",
+      "preview": "Trap | Discrimination",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Trap",
+          "Discrimination"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 641.99
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 356.988
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1768,
+      "markdown_body_line_end": 1783,
+      "heading": "9. KEYWORD & STATEMENT BANK ANALYSIS:",
+      "preview": "# | Term / Statement | Use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 14,
+        "headers": [
+          "#",
+          "Term / Statement",
+          "Use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 465.89
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1813,
+      "markdown_body_line_end": 1813,
+      "heading": "10. PYQ ROUTING (2018-2025)",
+      "preview": "⚠️ **Corpus signal:** 14 primary-owned question-parts out of 112. The local Paper I corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 771.891
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 705.224
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1815,
+      "markdown_body_line_end": 1830,
+      "heading": "10. PYQ ROUTING (2018-2025)",
+      "preview": "Year | Question | Marks | Exact demand",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 14,
+        "headers": [
+          "Year",
+          "Question",
+          "Marks",
+          "Exact demand"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 705.224
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 257.822
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1837,
+      "markdown_body_line_end": 1848,
+      "heading": "10-mark: \"Spinoza's views on freedom and determinism\" (2023)",
+      "preview": "Line 1: Spinoza holds strict determinism — everything follows necessarily from God's",
+      "metadata": {
+        "language": "plain",
+        "line_count": 10,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 197.622
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 86.622
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1851,
+      "markdown_body_line_end": 1866,
+      "heading": "15-mark: \"All determination is negation - comment with reference to Spinoza\" (2025)",
+      "preview": "Frame : In Spinoza's monist system, the one substance (God) is infinite and unlimited.",
+      "metadata": {
+        "language": "plain",
+        "line_count": 14,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 636.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1869,
+      "markdown_body_line_end": 1884,
+      "heading": "20-mark: \"Basic tenets of Rationalism; how Descartes builds a system in consonance\" (2025)",
+      "preview": "Frame : Rationalism = reason is the source of certain knowledge (vs empiricism).",
+      "metadata": {
+        "language": "plain",
+        "line_count": 14,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 614.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 463.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1890,
+      "markdown_body_line_end": 1899,
+      "heading": "D. DIRECTIVE DECODER ANALYSIS: - what each command word obliges you to do here",
+      "preview": "Directive (as printed in UPSC Philosophy) | What it demands | Structural obligation for **this** file | Fatal error",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Directive (as printed in UPSC Philosophy)",
+          "What it demands",
+          "Structural obligation for **this** file",
+          "Fatal error"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 336.89
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1907,
+      "markdown_body_line_end": 1915,
+      "heading": "V. GRADED VERDICT BANK ANALYSIS: - executable closing positions (10 / 15 / 20)",
+      "preview": "Sub-topic | **10-mark verdict** (1 sentence) | **15-mark verdict** (2–3 sentences, with the concession) | **20-mark verdict** (thesis + mechanism + cost)",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Sub-topic",
+          "**10-mark verdict** (1 sentence)",
+          "**15-mark verdict** (2–3 sentences, with the concession)",
+          "**20-mark verdict** (thesis + mechanism + cost)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 294.19
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 130.89
+        }
+      },
+      "pdf_pages": [
+        42,
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1923,
+      "markdown_body_line_end": 1932,
+      "heading": "T. TRANSLATION, QUOTATION & PROVENANCE DISCIPLINE FACT:",
+      "preview": "Text | Standard editions | Safe practice",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Text",
+          "Standard editions",
+          "Safe practice"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 273.09
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1934,
+      "markdown_body_line_end": 1934,
+      "heading": "T. TRANSLATION, QUOTATION & PROVENANCE DISCIPLINE FACT:",
+      "preview": "❌ **Never write:** \"Descartes says the mind is a ghost in the machine.\" That is **Ryle's** hostile coinage (*The Concept of Mind*, 1949), not Descartes'. Attribute it correctly and the same sentence becomes a mark-earner.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 273.09
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 228.422
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1967,
+      "markdown_body_line_end": 1977,
+      "heading": "From doctrine to an examiner-grade verdict",
+      "preview": "READ DIRECTIVE AND MARKS",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 583.791
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 482.791
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1983,
+      "markdown_body_line_end": 1991,
+      "heading": "CLOSING RECALL FLOW - Criticism-Reply Map, Precision Toolkit and Answer Spine",
+      "preview": "Criticism-Reply Map, Precision Toolkit and Answer Spine",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 418.191
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 287.123
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1998,
+      "markdown_body_line_end": 2002,
+      "heading": "Source and method map",
+      "preview": "Thinker | Primary works | Precise method",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Thinker",
+          "Primary works",
+          "Precise method"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 244.123
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 133.521
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2039,
+      "markdown_body_line_end": 2045,
+      "heading": "Closing recall",
+      "preview": "REASON + EXPERIENCE-OCCASION -> DESCARTES: COGITO/GOD/WORLD/INTERACTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 289.891
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 228.891
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2215,
+      "markdown_body_line_end": 2223,
+      "heading": "Rapid recall - comparison and answer grid",
+      "preview": "Trigger | First route",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Trigger",
+          "First route"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 753.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 580.29
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2236,
+      "markdown_body_line_end": 2236,
+      "heading": "ORIGINAL MCQ MASTERY SET - EXACTLY 40 QUESTIONS",
+      "preview": "Questions 1-24 preserve the core themes; Questions 25-40 provide remediation across recurring confusions. Correct answers rotate strictly A -> B -> C -> D ten times.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 484.99
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 440.322
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3152,
+      "markdown_body_line_end": 3154,
+      "heading": "Practice Design",
+      "preview": "DIRECTIVE -> THESIS -> DOCTRINE -> NAMED TEXT/EXAMPLE -> OBJECTION/REPLY -> VERDICT",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 751.891
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 730.891
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3158,
+      "markdown_body_line_end": 3158,
+      "heading": "SOLVED PYQ BANK - EXACTLY 14 VERIFIED RATIONALISM QUESTIONS",
+      "preview": "Exact wording, year and marks are parsed from the continuous local Western Philosophy Paper I bank for 2018-2025. The set contains two Rationalism-owned questions in each covered year and none in 2021.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 705.891
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 661.224
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3192,
+      "markdown_body_line_end": 3196,
+      "heading": "Solved PYQ 2 - 2018 Q2(a), 20 marks",
+      "preview": "Revision | Criterion enforced | Result",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Revision",
+          "Criterion enforced",
+          "Result"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 494.691
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 406.49
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3464,
+      "markdown_body_line_end": 3467,
+      "heading": "Practice 3 - 20 marks",
+      "preview": "Movement | Problem solved | New problem generated",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Movement",
+          "Problem solved",
+          "New problem generated"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 407.691
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 318.29
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3729,
+      "markdown_body_line_end": 3729,
+      "heading": "ADVANCED DOSSIER REFINEMENTS - USE SELECTIVELY",
+      "preview": "**Classification: OPTIONAL ADVANCED.** These interpretation debates are unnecessary for a competent Core answer and may be used only after the complete syllabus spine is secure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 276.091
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 231.424
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3766,
+      "markdown_body_line_end": 3766,
+      "heading": "CONSOLIDATED REGISTER NOTES",
+      "preview": "These compressed notes come **after all teaching and practice**. They cover the whole ten-subtopic session and should be used for retrieval, not as a substitute for the layered arguments.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 172.191
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 127.524
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3779,
+      "markdown_body_line_end": 3784,
+      "heading": "2. Cartesian Demolition and Reconstruction",
+      "preview": "sense error -> dream -> evil demon -> cogito -> clear/distinct rule",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 657.091
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 606.091
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3796,
+      "markdown_body_line_end": 3800,
+      "heading": "3. Substance Criterion and the 3-1-Infinity Dialectic",
+      "preview": "Thinker | Basic reality | Decisive criterion | Main cost",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Thinker",
+          "Basic reality",
+          "Decisive criterion",
+          "Main cost"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 460.691
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 375.29
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3808,
+      "markdown_body_line_end": 3812,
+      "heading": "4. God as Guarantee, Reality and Selector",
+      "preview": "Descartes | Spinoza | Leibniz",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Descartes",
+          "Spinoza",
+          "Leibniz"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 284.49
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 196.288
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3820,
+      "markdown_body_line_end": 3824,
+      "heading": "5. Mind-Body Comparison",
+      "preview": "Descartes: interaction -> pineal location -> causal gap",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 744.291
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3834,
+      "markdown_body_line_end": 3838,
+      "heading": "6. Freedom and Necessity Ledger",
+      "preview": "Thinker | Freedom | Determination",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Thinker",
+          "Freedom",
+          "Determination"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 633.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 545.09
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3875,
+      "markdown_body_line_end": 3882,
+      "heading": "9. Criticism-Reply-Residual Matrix",
+      "preview": "Target | Criticism | Reply | Residual",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Target",
+          "Criticism",
+          "Reply",
+          "Residual"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 746.891
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 589.49
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3907,
+      "markdown_body_line_end": 3911,
+      "heading": "10. Exact PYQ Route Map, 2018-2025",
+      "preview": "10 marks: define -> derive -> named anchor/example -> qualification -> verdict",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 247.09
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 206.09
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3941,
+      "markdown_body_line_end": 3941,
+      "heading": "12. Final Trap Sheet and Memory Chain",
+      "preview": "**Final memory chain:** **DOUBT -> COGITO -> WAX -> GOD -> WORLD -> 3/1/INFINITY -> GUARANTEE/IMMANENCE/SELECTION -> INTERACTION/PARALLELISM/HARMONY -> ALTERNATIVES/ADEQUACY/COMPATIBILITY.**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 537.491
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 478.624
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3947,
+      "markdown_body_line_end": 3959,
+      "heading": "ASCII MASTER FLOW - PANEL 1/10: Rationalist starting problem and connected 3-1-infinity sequence",
+      "preview": "CENTRAL QUESTION: CAN REASON SECURE NECESSARY KNOWLEDGE AND AN INTELLIGIBLE WORLD?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 431.624
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 308.424
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3963,
+      "markdown_body_line_end": 3974,
+      "heading": "ASCII MASTER FLOW - PANEL 2/10: Cartesian methodic doubt, cogito and first certainty",
+      "preview": "FOUR METHOD RULES: evidence -> division -> simple-to-complex order -> complete review",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 674.291
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3978,
+      "markdown_body_line_end": 3988,
+      "heading": "ASCII MASTER FLOW - PANEL 3/10: Cartesian knowledge architecture and Circle objection",
+      "preview": "COGITO -> IDEAS -> GOD -> NON-DECEPTION -> MATHEMATICS AND EXTERNAL RES EXTENSA",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 652.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 549.491
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3992,
+      "markdown_body_line_end": 4003,
+      "heading": "ASCII MASTER FLOW - PANEL 4/10: Descartes on substance, interaction and freedom",
+      "preview": "GOD = INFINITE SUBSTANCE, ABSOLUTELY INDEPENDENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 527.491
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 414.491
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4007,
+      "markdown_body_line_end": 4018,
+      "heading": "ASCII MASTER FLOW - PANEL 5/10: Spinoza's substance-attribute-mode hierarchy and immanent God",
+      "preview": "ONE SELF-CAUSED, NECESSARILY EXISTING, ABSOLUTELY INFINITE SUBSTANCE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 392.491
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 279.491
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4022,
+      "markdown_body_line_end": 4032,
+      "heading": "ASCII MASTER FLOW - PANEL 6/10: Spinoza's parallelism and route from bondage to freedom",
+      "preview": "ONE EVENT -> under THOUGHT: idea -> under EXTENSION: body-state",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 684.491
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4036,
+      "markdown_body_line_end": 4046,
+      "heading": "ASCII MASTER FLOW - PANEL 7/10: Leibniz's monad hierarchy, perception and individuality",
+      "preview": "WHY MONADS? extension is divisible; ultimate substance must be simple",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 662.491
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 559.691
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4050,
+      "markdown_body_line_end": 4061,
+      "heading": "ASCII MASTER FLOW - PANEL 8/10: Leibnizian harmony, sufficient reason, contingency and freedom",
+      "preview": "GOD chooses a compossible best world under the PRINCIPLE OF SUFFICIENT REASON",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 537.691
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 424.691
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4065,
+      "markdown_body_line_end": 4076,
+      "heading": "ASCII MASTER FLOW - PANEL 9/10: Three rationalist systems compared on matched axes",
+      "preview": "+------------+--------------------+--------------------+----------------------+",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 402.691
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 289.691
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4080,
+      "markdown_body_line_end": 4092,
+      "heading": "ASCII MASTER FLOW - PANEL 10/10: Criticism-reply ledger, traps, PYQ routes and answer spine",
+      "preview": "DESCARTES: interaction gap -> primitive union -> mechanism remains opaque",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 664.091
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    }
+  ]
+}

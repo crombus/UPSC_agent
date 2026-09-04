@@ -1,0 +1,226 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Religious Pluralism and the Problem of Absolute Truth: central question and analytical…
+
+```ascii-master
+RELIGIOUS PLURALISM AND THE PROBLEM OF ABSOLUTE TRUTH — CONCEPTUAL ATLAS
+
+
+KEY TERMS: Religious Pluralism • Conflicting Truth-Claims • Hick’s • Real • Master verdict:
+KEY TERMS: Pluralism • Master
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Religious Pluralism and the Problem of Absolute Truth
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       Inference: Public praise of interfaith harmony supports pluralism…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: RELIGIOUS PLURALISM AND CONFLICTING TRUTH-CLAIMS
+  • Religious Pluralism
+  • Inference: Public praise of interfaith harmony supports pluralism…
+AXIS 2: EXCLUSIVISM, INCLUSIVISM AND PLURALISM
+  • Exclusivism
+  • The compressed formula extra ecclesiam nulla salus is the later…
+AXIS 3: ABSOLUTE TRUTH, RELATIVISM AND CONTRADICTION
+  • Absolute Truth
+  • The worry (2022): "unquestionable acceptance of only one Absolute…
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  Religious Pluralism • Conflicting Truth-Claims • Hick’s • Real
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Pluralism and conflicting truth-claims
+
+```ascii-master
+PLURALISM AND CONFLICTING TRUTH-CLAIMS
+│
+├── KEY CONCEPTS
+│   ├── Religious Pluralism
+│   ├── Conflicting Truth-Claims
+│   ├── Hick’s
+│   ├── Real
+│   └── Master verdict: Pluralism
+│
+├── RELIGIOUS PLURALISM AND CONFLICTING TRUTH-CLAIMS
+│   ├─ TERMS: Inference: Public praise of interfaith harmony supports pluralism…
+│   ├─ LOGIC: Inference: Public praise of interfaith harmony supports pluralism…
+│   └─ RESULT: The philosophical question of truth remains separate from the…
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Exclusivism, inclusivism and pluralism compared
+
+```ascii-master
+EXCLUSIVISM, INCLUSIVISM AND PLURALISM COMPARED
+
+
+KEY TERMS: Exclusivism • Inclusivism • Pluralism • only one • extra ecclesiam nulla salus •
+KEY TERMS: Attribution discipline
+CAUSE / CONDITION 1: Weakness: patronising — judges others by one's own standard
+          │
+          ├── MECHANISM
+          │   The compressed formula extra ecclesiam nulla salus is the later…
+          │
+          └── EFFECT / CONTRAST
+              Strength: takes truth-claims seriously
+          │
+          ▼
+CAUSE / CONDITION 2: Vedāntic pluralism distinguishes one ultimate reality from…
+          │
+          ├── MECHANISM
+          │   "Ekaṃ sad viprā bahudhā vadanti" — Ṛgveda 1.164.46, from the asya…
+          │
+          └── EFFECT / CONTRAST
+              Gandhi: sarva dharma sama bhāva — equal respect for all religions…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Vedantic, Vivekanandan and Hickian models
+
+```ascii-master
+VEDANTIC, VIVEKANANDAN AND HICKIAN MODELS
+
+
+KEY TERMS: Absolute Truth • Relativism • Contradiction • The worry (2022) •
+KEY TERMS: conflict/intolerance • my
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ ABSOLUTE TRUTH,        │ But one can hold that there   │ But one can hold that there   │
+│ RELATIVISM AND         │ is an Absolute Truth (the     │ is an Absolute Truth (the     │
+│ CONTRADICTION          │ Real/Brahman)…                │ Real/Brahman)…                │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Absolute truth, relativism and contradiction
+
+```ascii-master
+ABSOLUTE TRUTH, RELATIVISM AND CONTRADICTION
+
+
+KEY TERMS: Tolerance • Dialogue • Multicultural Coexistence • Exclusivism • false •
+KEY TERMS: (dogmatic theologies)
+                 CLAIM / SYSTEM UNDER EXAMINATION
+                                  │
+                                  ▼
+PROBLEM / OBJECTION 1
+  ├─ ISSUE: belief in an Absolute (Real/Brahman) is compatible with pluralism…
+  ├─ RESPONSE / CONTROL: belief in an Absolute (Real/Brahman) is compatible with
+  ├─ RESPONSE / CONTROL: pluralism…
+  └─ QUALIFIED VERDICT: belief in an Absolute (Real/Brahman) is compatible with
+  └─ QUALIFIED VERDICT: pluralism…
+                  │
+                  ▼
+PROBLEM / OBJECTION 2
+  ├─ ISSUE: [Vedantic] "Vedantic religious pluralism & Vivekananda's Universal…
+  ├─ RESPONSE / CONTROL: [Vedantic] "Vedantic religious pluralism & Vivekananda's
+  ├─ RESPONSE / CONTROL: Universal…
+  └─ QUALIFIED VERDICT: [Vedantic] "Vedantic religious pluralism & Vivekananda's
+  └─ QUALIFIED VERDICT: Universal…
+                                  │
+                                  ▼
+FINAL CONTROL: preserve the strongest insight while stating its limit.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Tolerance, dialogue and multicultural coexistence
+
+```ascii-master
+TOLERANCE, DIALOGUE AND MULTICULTURAL COEXISTENCE
+
+
+KEY TERMS: Indian • Western Resources For Pluralism • names of deities • inside • acceptance
+KEY TERMS: • built-in
+CAUSE / CONDITION 1: Pluralism must answer four distinct questions—truth…
+          │
+          ├── MECHANISM
+          │   pluralism must answer four distinct questions—truth, salvation…
+          │
+          └── EFFECT / CONTRAST
+              pluralism must answer four distinct questions—truth, salvation…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Religious Pluralism and the Problem of Absolute Truth: traps, PYQ routes and applied…
+
+```ascii-master
+RELIGIOUS PLURALISM AND THE PROBLEM OF ABSOLUTE TRUTH: TRAPS, PYQ ROUTES AND APPLIED…
+
+
+KEY TERMS: Religious Pluralism • Conflicting Truth-Claims • Hick’s • Real • Master verdict:
+KEY TERMS: Pluralism • Master
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── pluralism is strongest when it combines realism about an Absolute…
+├── vedāntic pluralism distinguishes one ultimate reality from diverse…
+├── belief in an Absolute (Real/Brahman) is compatible with pluralism…
+├── pluralism must answer four distinct questions—truth, salvation…
+│
+├── 2018 · Q6(a) · 20 marks
+├── Question: Distinguish between Exclusivism, Inclusivism and Pluralism with…
+├── 2018 · Q6(b) · 15 marks
+├── Question: “Truth is one, yet people perceive differently.” Critically…
+│
+└── Master verdict: Pluralism is strongest when it combines realism…
+└── Commitment to absolute truth does not entail epistemic absolutism…
+└── Pluralism must answer four distinct questions—truth, salvation…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Religious Pluralism and the Problem of Absolute Truth: integrated revision and…
+
+```ascii-master
+RELIGIOUS PLURALISM AND THE PROBLEM OF ABSOLUTE TRUTH — ANSWER / REVISION SPINE
+
+
+KEY TERMS: Religious Pluralism • Conflicting Truth-Claims • Hick’s • Real • Master verdict:
+KEY TERMS: Pluralism • Master
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ Inference: Public praise of interfaith harmony supports pluralism…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ Religious Pluralism
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ "Ekaṃ sad viprā bahudhā vadanti" — Ṛgveda 1.164.46, from the asya…
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ Hick’s
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ pluralism must answer four distinct questions—truth, salvation…
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ Pluralism must answer four distinct questions—truth, salvation…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

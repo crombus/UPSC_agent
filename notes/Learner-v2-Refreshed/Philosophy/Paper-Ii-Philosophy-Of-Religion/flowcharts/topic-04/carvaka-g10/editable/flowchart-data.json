@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-04",
+  "generation": 10,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-04\\g10\\topic-04_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    9571
+  ],
+  "stages": [
+    {
+      "title": "SURVIVAL CONCEPTS AND THE NECESSITY QUESTION",
+      "terms": "Technically, Survival Concepts And The Necessity Question is analysed by relating Survival Concepts to The Necessity Question, then testing the relationship through Canonical doctrine source and Supplementary book depth (attributed).",
+      "mechanism": "Griffiths on Sankara's Advaita (avidya as the cause of beginningless samsara; moksa \"not acquired but acknowledged\"), and Philip L.",
+      "consequence": "Every doctrine, canonical verse/karika/sutra citation, numbered argument, objection/reply, comparison, corpus-depth delta, PYQ route, directive rule, graded verdict and provenance caution is retained; simplification means adding accessible gateways, not deleting complexity.",
+      "trap": "Final verdict: Immortality is sufficient for rebirth in substantial-self theories but is not universally necessary.",
+      "answer": "Immortality means the soul's survival after bodily death, rebirth means karmically conditioned re-becoming, and liberation means release from the cycle of birth and death."
+    },
+    {
+      "title": "IMMORTALITY OF THE SOUL AND PLATO'S ARGUMENTS",
+      "terms": "Plain version: Plato argues that because the soul is the kind of thing that is simple and life-giving, it is not the kind of thing that can fall apart or die.",
+      "mechanism": "Core argument/criticism: Plato's strongest route makes soul essentially life-bearing, but the inference still depends on contested assumptions about simplicity, substance and identity.",
+      "consequence": "Plain version: Plato argues that because the soul is the kind of thing that is simple and life-giving, it is not the kind of thing that can fall apart or die.",
+      "trap": "Critique: the affinity/simplicity claims are assumptions; Kant — the soul is not a knowable substance (paralogism). ⚠️ Indian: ātman (Vedānta), jīva (Jain), and the Nyāya self are eternal in their respective systems.",
+      "answer": "Immortality is the continued existence of the soul after bodily death."
+    },
+    {
+      "title": "REBIRTH, KARMA AND SAṂSĀRA",
+      "terms": "Doctrine: the soul, driven by karma, is repeatedly reborn until liberated; birth-conditions reflect past deeds.",
+      "mechanism": "Shared by Vedānta, Nyāya, Jainism, and (transformed) Buddhism. ✅ Rebirth in Karma theory (2023 PYQ): rebirth is the mechanism by which karmic debts are discharged — without rebirth, karma's justice (fruits maturing beyond one life) is impossible. ✅ Gītā (2025 PYQ): the imperishable soul \"casts off worn-out bodies and enters new ones\" — rebirth presupposes the deathless self.",
+      "consequence": "Core argument/criticism: Karma (action and moral causation) explains why consequences may mature beyond one life, while Buddhism replaces a transmigrating soul with causal continuity.",
+      "trap": "Final verdict: Rebirth requires a continuity-bearer, but that bearer need not be an unchanging soul.",
+      "answer": "Rebirth is karmically conditioned re-becoming within saṃsāra (the cycle of birth and death)."
+    },
+    {
+      "title": "BUDDHIST REBIRTH WITHOUT A PERMANENT SELF",
+      "terms": "Doctrine statement. ✅ Rebirth is causal continuity of dependently arisen aggregates, not transmigration of a numerically identical substance.",
+      "mechanism": "Argument. ✅ (1) All conditioned factors are impermanent; (2) no aggregate is self; (3) craving and karmic formations condition future consciousness; (4) continuity therefore occurs without an unchanging owner.",
+      "consequence": "Distinction. ✅ Anātman is not nihilism: Buddhism denies an independent permanent self, not conventional persons or causal consequences.",
+      "trap": "Buddhism is the great counter-example: it keeps rebirth but drops the immortal soul.",
+      "answer": "Buddhist rebirth is the causal continuation of dependently arisen aggregates without anātman (a permanent self)."
+    },
+    {
+      "title": "LIBERATION ACROSS RELIGIOUS AND PHILOSOPHICAL SCHOOLS",
+      "terms": "Jīvanmukti (2025 PYQ — Advaita): liberation WHILE living — the knower of Brahman is free now; the body continues by prārabdha karma (momentum of a spun wheel) until it drops (videhamukti). ✅ \"Is immortality/rebirth necessary for a robust conception of liberation?\" (2024): liberation presupposes bondage-across-lives (rebirth) and something that is liberated (the soul) — so substantial systems say yes; Buddhism shows liberation (nirvāṇa) is coherent even without an eternal soul. ⚠️.",
+      "mechanism": "Jīvanmukti (2025 PYQ — Advaita): liberation WHILE living — the knower of Brahman is free now; the body continues by prārabdha karma (momentum of a spun wheel) until it drops (videhamukti). ✅ \"Is immortality/rebirth necessary for a robust conception of liberation?\" (2024): liberation presupposes bondage-across-lives (rebirth) and something that is liberated (the soul) — so substantial systems say yes; Buddhism shows liberation (nirvāṇa) is coherent even without an eternal soul. ⚠️.",
+      "consequence": "Never merge them. jivanmukti vs videhamukti; apavarga = cessation (no consciousness). kevala (Jain) = omniscience; kaivalya (Samkhya) = contentless isolation. moksa \"not acquired but acknowledged\" (Advaita, per Griffiths).",
+      "trap": "Do not miss this limiting distinction: a high-scoring answer must identify the school before defining the liberated state.",
+      "answer": "Liberation is a family of school-specific termini rather than one uniform state."
+    },
+    {
+      "title": "VEDĀNTIC ĀTMAN, REBIRTH AND MOKṢA",
+      "terms": "Core argument/criticism: Advaita (non-dualism) treats liberation as recognition of identity, whereas Viśiṣṭādvaita (qualified non-dualism) preserves personal communion and dependence.",
+      "mechanism": "Core argument/criticism: Advaita (non-dualism) treats liberation as recognition of identity, whereas Viśiṣṭādvaita (qualified non-dualism) preserves personal communion and dependence.",
+      "consequence": "Final verdict: The contrast is identity versus communion, not liberation versus non-liberation.",
+      "trap": "Distinction. ✅ Advaita mokṣa is not the annihilation of an individual entity but sublation of mistaken individuality; Viśiṣṭādvaita preserves the jīva eternally.",
+      "answer": "Both Vedantas keep an eternal self and rebirth, but they disagree on what bondage is and what liberation delivers."
+    },
+    {
+      "title": "JAIN JĪVA, KARMIC MATTER AND LIBERATION",
+      "terms": "Plain version: every living thing is an eternal conscious soul, currently dusty with karmic matter kicked up by its own passions.",
+      "mechanism": "Doctrine statement. ✅ Every living being is an eternal conscious jīva obscured and weighed down by karmic matter; liberation is complete stoppage and shedding of that matter.",
+      "consequence": "Jainism is unusually concrete: karma is a fine MATTER that sticks to the soul, and liberation is literally cleaning it off.",
+      "trap": "Do not miss this limiting distinction: every living thing is an eternal conscious soul, currently dusty with karmic matter kicked...",
+      "answer": "Jain bondage is the attachment of karmic matter to jīva (the living individual soul), and liberation is its complete removal."
+    },
+    {
+      "title": "APAVARGA, JĪVANMUKTI AND KAIVALYA",
+      "terms": "(5) The result is kaivalya: aloneness, the standing of consciousness in its own nature. ✅ The doctrine that wins marks: Sāṃkhya-kārikā 62–63 states that, strictly, no puruṣa is bound, released or transmigrating; it is prakṛti, in her manifold forms, who binds herself, transmigrates and releases herself.",
+      "mechanism": "Doctrine statement. ✅ Nyāya liberation is final cessation of pain and pain-generating qualities; Advaita jīvanmukti is freedom through knowledge while bodily life continues.",
+      "consequence": "Liberation is therefore the correction of a misattribution, not an event in consciousness. ✅ Jīvanmukti in Sāṃkhya: SK 67 uses the potter's wheel that continues to spin after the potter's hand is withdrawn — the body persists on residual momentum after discriminative knowledge; SK 68 gives videha-kaivalya at the fall of the body. ⚠️ Note the parallel with Advaita's prārabdha image and the difference in metaphysics: for Advaita the residue is karmic, for Sāṃkhya it is the guṇas' momentum.",
+      "trap": "The eightfold path (aṣṭāṅga: yama, niyama, āsana, prāṇāyāma, pratyāhāra, dhāraṇā, dhyāna, samādhi) moves from saṃprajñāta to asaṃprajñāta samādhi, through dharma-megha-samādhi (4.29) to kaivalya. ✅ YS 4.34 defines kaivalya as the counter-flow (pratiprasava) of the guṇas now empty of purpose for puruṣa — or, equivalently, the power of consciousness (citi-śakti) established in its own nature. ✅ Yoga's Īśvara is not a creator.",
+      "answer": "Distinction (the whole point of this module). ✅ Kaivalya is isolation, and it is not: Advaita's mokṣa (realised identity with Brahman), Viśiṣṭādvaita's mokṣa (communion with God), Nyāya's apavarga (cessation of pain and of consciousness), Jain kaivalya/siddhatva (perfected omniscient individuality), or Buddhist nirvāṇa (cessation of craving, no self). ⚠️ Note the terminological trap: Jainism also uses kevala/kaivalya — but there it means omniscience (kevala-jñāna), the opposite of Sāṃkhya's contentless isolation."
+    },
+    {
+      "title": "JÑĀNA, KARMA, BHAKTI AND PATHS TO LIBERATION",
+      "terms": "Doctrine statement. ✅ Bhakti is loving devotion to a personal God held, in the theistic Vedāntas and the Bhakti traditions, to be a direct means (sādhana) of liberation — and, crucially, one available irrespective of caste, gender, language or scholastic training.",
+      "mechanism": "This is the single most efficient way to show you understand the grace/effort problem. - Madhva: bhakti is jñāna-pūrvaka-sneha — affection preceded by knowledge of the Lord's supremacy; it is both the means and, in graded form, the content of liberation; prasāda (grace) is decisive and taratamya fixes the degree.",
+      "consequence": "MEMORY: Karma QUALIFIES, bhakti RECEIVES, jnana REMOVES -- three means of different kinds, not three equal options.",
+      "trap": "The Gītā thus supports convergence, which is why three great commentators could each claim it — Śaṃkara for jñāna, Rāmānuja for bhakti, and Tilak (Gītā-Rahasya) for karma. - ✅ Vivekananda: the four yogas (jñāna, bhakti, karma, rāja) are temperament-matched routes to the same realisation — a psychological, not a metaphysical, pluralism.",
+      "answer": "Bhakti (devotion), jñāna (liberating knowledge) and karma (disciplined action) are distinct means whose relation varies by school."
+    },
+    {
+      "title": "RESURRECTION, REBIRTH, REINCARNATION AND FINAL DEBATES",
+      "terms": "Plain version: resurrection is God raising the whole embodied person ONCE at the end of history; rebirth is a beginningless karmic re-embodiment you exit by liberation.",
+      "mechanism": "Plain version: resurrection is God raising the whole embodied person ONCE at the end of history; rebirth is a beginningless karmic re-embodiment you exit by liberation.",
+      "consequence": "The last cuts: resurrection is not rebirth, rebirth is wider than reincarnation, and every objection has a ready reply.",
+      "trap": "Reincarnation presupposes a substantial soul re-entering flesh; rebirth is the wider term and the only correct one for Buddhism (punarbhava). ⚠️ Do not present resurrection as rebirth in heaven.",
+      "answer": "Resurrection is God's reconstitution of the embodied person after one life; rebirth is repeated re-becoming; reincarnation specifically presupposes a soul re-entering flesh."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 2,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7371,
+      "y_end": 9571,
+      "overlap_px": 260,
+      "from_stage": 8,
+      "continues_stage": 10
+    }
+  ]
+}

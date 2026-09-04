@@ -1,0 +1,63 @@
+{
+  "generated_on": "2026-08-26",
+  "source_order": [
+    "Markdown knowledge files",
+    "OCR-searchable local PDFs",
+    "Live web only if unresolved",
+    "Qdrant optional fallback"
+  ],
+  "official_syllabus_verbatim": "Later Wittgenstein : Meaning and Use; Language-games; Critique of Private Language.",
+  "sources": {
+    "upsc-ai-kit/knowledge/Philosophy/OFFICIAL-UPSC-SYLLABUS-VERBATIM.md": "8fad49a0748460d3b939de6b9ab3d92b77e15d6bb0e7a257ae9f5a750e7be8f5",
+    "upsc-ai-kit/knowledge/Philosophy/paper-1/western/Later-Wittgenstein.md": "cf996ba7e379c571a1c41b24901b5a1f8c893a3c04f1b07f5c3c31e1e67d75d7",
+    "upsc-ai-kit/knowledge/Philosophy/_advanced/Western-Philosophy-Dossier.md": "ead128ee292f1cdb8352bb970bbaf4600aa7e1b66cb485d3f395bddc8fa2d38a",
+    "upsc-ai-kit/knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2018-2025.md": "9ecebebbc0ad7c308d59771c6a60b87ad32d8a550efbc346a3a9ebae21952795",
+    "upsc-ai-kit/knowledge/Philosophy/Western-Philosophy/learning-sessions/Later-Wittgenstein/Later-Wittgenstein_Layered-Complete-Learning-Session_2026-08-19.md": "becc350d64c9af310e8da186ad6b38b30a6051ae0353d0595e6fabe5a990c214",
+    "upsc-ai-kit/knowledge/Philosophy/Western-Philosophy/learning-sessions/Later-Wittgenstein/Later-Wittgenstein_Layered-Solved-Practice-Workbook_2026-08-19.md": "be83a638d60007f774e2cb6074561ab83b88c0dccdd0a117b067dc5ab9a687d6",
+    "books/philosphy_books/Think. A Compelling Introduction To Philosophy.pdf": "dfa71260407f89902fc7b64d24b44e397f47e584225bc0757586ad3fe903142e",
+    "books/philosphy_books/Robert.Audi_The.Cambridge.Dictionary.of.Philosophy.pdf": "514dd3f2efac7ff5b8e2a17a8a76ac952c5385323a1197e5d7581b1ab7081417",
+    "books/philosphy_books/HistoryPhilosophy1.pdf": "45a8b615f5464e875b354943201475deb6459ab1cb6d79b8bd4412deeeabb708"
+  },
+  "ocr_findings": {
+    "Think. A Compelling Introduction To Philosophy.pdf": {
+      "pages": 680,
+      "text_pages": 680,
+      "sample_pages": [
+        585,
+        590
+      ],
+      "themes": [
+        "rule-following",
+        "normativity objection"
+      ]
+    },
+    "Robert.Audi_The.Cambridge.Dictionary.of.Philosophy.pdf": {
+      "pages": 1032,
+      "text_pages": 1032,
+      "sample_pages": [
+        759,
+        780,
+        1012,
+        1013
+      ],
+      "themes": [
+        "language-games",
+        "private language",
+        "outward criteria",
+        "later period"
+      ]
+    },
+    "HistoryPhilosophy1.pdf": {
+      "pages": 534,
+      "text_pages": 450,
+      "finding": "audited; no direct keyword passage used"
+    }
+  },
+  "web_required": false,
+  "qdrant_required": false,
+  "pyq_count": 7,
+  "printed_anomalies_preserved": [
+    "2022 Q1(c): motion",
+    "2025 Q3(a): unmatched quotation before logical structure"
+  ]
+}

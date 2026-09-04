@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-ii-philosophy-of-religion-05",
+  "generation": 5,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-Ii-Philosophy-Of-Religion\\learning-sessions\\topic-05\\topic-05_Complete-Learning-Session_2026-08-22.md",
+  "master_dimensions": [
+    3600,
+    2081
+  ],
+  "stages": [
+    {
+      "title": "CURRENT SCHOLARLY ANCHOR — [SUPPORTING]",
+      "terms": "Current scholarly anchor — [SUPPORTING]: ⚠️ Inference: The episode gives a contemporary use for the 2020 science–technology PYQ: technical systems can classify and reproduce religious perspectives, but questions of moral authority, fairness and human dignity remain philosophical and normative.",
+      "mechanism": "⚠️ Inference: The episode gives a contemporary use for the 2020 science–technology PYQ: technical systems can classify and reproduce religious perspectives, but questions of moral authority, fairness and human dignity remain philosophical and normative.",
+      "consequence": "It does not establish any theological claim.",
+      "trap": "It does not establish any theological claim.",
+      "answer": "✅ Fact: Religion News Service reported on 26 May 2026 that a consortium involving Brigham Young, Baylor, Notre Dame and Yeshiva researchers tested fourteen AI models for multi-faith bias and presented findings at an AI ethics summit in Athens."
+    },
+    {
+      "title": "VISUAL GATEWAY — THE THREE FUNCTIONS",
+      "terms": "Visual gateway — the three functions: Final verdict: Reason is best treated as regulative without being assumed to be the sole source of religious truth.",
+      "mechanism": "Recommended opening definition: Reason tests coherence and warrant, revelation claims divine self-disclosure, and faith receives that disclosure through trust and commitment.",
+      "consequence": "Core argument/criticism: Propositional models emphasise revealed truths, whereas non-propositional models emphasise divine acts or presence interpreted through human experience.",
+      "trap": "Master verdict: Reason should be regulative but need not be constitutive.",
+      "answer": "Master verdict: Reason should be regulative but need not be constitutive."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2081,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 2
+    }
+  ]
+}
