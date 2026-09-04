@@ -1,0 +1,334 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Jainism and Buddhism: central question and analytical axes
+
+```ascii-master
+JAINISM AND BUDDHISM — CONCEPTUAL ATLAS
+
+
+KEY TERMS: Sixth-Century Bce Setting • Cities • States • Intellectual Ferment • Production •
+KEY TERMS: SIXTH-CENTURY BCE SETTING: CITIES…
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Jainism and Buddhism
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       C-K-R: Cities, Kings, Renunciants - plus the caveat 'context is not…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: SIXTH-CENTURY BCE SETTING: CITIES, STATES AND INTELLECTUAL FERMENT
+  • Sixth-Century Bce Setting
+  • C-K-R: Cities, Kings, Renunciants - plus the caveat 'context is…
+AXIS 2: DIGAMBARA, SHVETAMBARA AND BOUNDED SUBSECT HISTORY
+  • Digambara
+  • Digambara means 'sky-clad' and Shvetambara 'white-clad'
+AXIS 3: MAHAYANA, THE BODHISATTVA PATH, MAITREYA AND PARAMITAS
+  • Mahayana
+  • Paramitas are perfections on the Bodhisattva path
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  Sixth-Century Bce Setting • Cities • States • Intellectual Ferment
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Shramana setting, Jain lineage, ontology, karma and liberation
+
+```ascii-master
+SHRAMANA SETTING, JAIN LINEAGE, ONTOLOGY, KARMA AND LIBERATION
+
+
+KEY TERMS: Sixth-Century Bce Setting • Cities • States • Intellectual Ferment • Production •
+KEY TERMS: SIXTH-CENTURY BCE SETTING: CITIES…
+STAGE 01  SIXTH-CENTURY BCE SETTING: CITIES, STATES AND INTELLECTUAL FERMENT
+  ├─ CONDITION / TERM: C-K-R: Cities, Kings, Renunciants - plus the caveat
+  ├─ CONDITION / TERM: 'context is not…
+  ├─ CHANGE / MECHANISM: C-K-R: Cities, Kings, Renunciants - plus the caveat
+  ├─ CHANGE / MECHANISM: 'context is not…
+  └─ OUTCOME: These conditions widened their audience, but doctrine cannot be…
+                  │
+                  ▼
+STAGE 02  THE SHRAMANA FIELD: HETERODOXY WITHOUT A FALSE BINARY
+  ├─ CONDITION / TERM: Parivrajaka denotes a wandering renunciant
+  ├─ CHANGE / MECHANISM: Parivrajaka denotes a wandering renunciant
+  └─ OUTCOME: each arrow is a historical relationship, not an automatic law
+                  │
+                  ▼
+STAGE 03  PRE-MAHAVIRA JAIN TRADITION AND THE TIRTHANKARAS
+  ├─ CONDITION / TERM: Historical confidence is unequal: Parshvanatha is the
+  ├─ CONDITION / TERM: strongest…
+  ├─ CHANGE / MECHANISM: Jain tradition presents a succession of twenty-four
+  ├─ CHANGE / MECHANISM: Tirthankaras…
+  └─ OUTCOME: Historical confidence is unequal: Parshvanatha is the strongest…
+                  │
+                  ▼
+STAGE 04  MAHAVIRA: TRADITIONAL BIOGRAPHY AND HISTORICAL RECONSTRUCTION
+  ├─ CONDITION / TERM: each arrow is a historical relationship, not an automatic
+  ├─ CONDITION / TERM: law
+  ├─ CHANGE / MECHANISM: Pali Buddhist texts know him as Nigantha Nataputta,
+  ├─ CHANGE / MECHANISM: proving that an…
+  └─ OUTCOME: each arrow is a historical relationship, not an automatic law
+                  │
+                  ▼
+STAGE 05  JAIN ONTOLOGY: JIVA, AJIVA AND A LIVING COSMOS
+  ├─ CONDITION / TERM: Jiva is conscious, potentially omniscient and capable of
+  ├─ CONDITION / TERM: liberation
+  ├─ CHANGE / MECHANISM: Ajiva includes pudgala (matter), dharma as the medium of
+  ├─ CHANGE / MECHANISM: motion…
+  └─ OUTCOME: Jiva Conscious soul Plural and individual
+                  │
+                  ▼
+STAGE 06  JAIN KARMA, BONDAGE AND LIBERATION
+  ├─ CONDITION / TERM: Jain karma is subtle material matter that adheres to the
+  ├─ CONDITION / TERM: soul…
+  ├─ CHANGE / MECHANISM: Jain karma is subtle material matter that adheres to the
+  ├─ CHANGE / MECHANISM: soul…
+  └─ OUTCOME: Jain karma is not merely metaphorical moral memory
+                  │
+                  ▼
+SEQUENCE CONTROL: chronology is evidence-led, not a bare dynasty/date list.
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Jain epistemology, vows, institutions, sects and Buddha’s teaching
+
+```ascii-master
+JAIN EPISTEMOLOGY, VOWS, INSTITUTIONS, SECTS AND BUDDHA’S TEACHING
+
+
+KEY TERMS: Anekantavada • Syadvada • Nayavada • ANEKANTAVADA, SYADVADA AND NAYAVADA • Jain
+KEY TERMS: Sangha • Women
+CAUSE / CONDITION 1: Anekantavada is an ontological/epistemic warning against…
+          │
+          ├── MECHANISM
+          │   Anekantavada is an ontological/epistemic warning against reducing a…
+          │
+          └── EFFECT / CONTRAST
+              each arrow is a historical relationship, not an automatic law
+          │
+          ▼
+CAUSE / CONDITION 2: Fourfold Jain sangha includes both ordained and lay women
+          │
+          ├── MECHANISM
+          │   Fourfold Jain sangha includes both ordained and lay women
+          │
+          └── EFFECT / CONTRAST
+              Jain traditions developed fourfold communities of monks, nuns,
+              laymen and laywomen
+          │
+          ▼
+CAUSE / CONDITION 3: Jain canonical history is reconstructed differently by…
+          │
+          ├── MECHANISM
+          │   Jain canonical history is reconstructed differently by Shvetambara…
+          │
+          └── EFFECT / CONTRAST
+              Digambaras do not accept the extant Shvetambara Agamas as the…
+          │
+          ▼
+CAUSE / CONDITION 4: Sthanakvasi is a later Shvetambara non-image-worship reform…
+          │
+          ├── MECHANISM
+          │   Digambara means 'sky-clad' and Shvetambara 'white-clad'
+          │
+          └── EFFECT / CONTRAST
+              Regional patterns were strong: Digambara institutions became…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Buddhist path, dependent origination, no-self, Sangha and councils
+
+```ascii-master
+BUDDHIST PATH, DEPENDENT ORIGINATION, NO-SELF, SANGHA AND COUNCILS
+│
+├── KEY CONCEPTS
+│   ├── Eightfold Path
+│   ├── Middle Way
+│   ├── Ethical Discipline
+│   ├── EIGHTFOLD PATH, MIDDLE WAY AND ETHICAL…
+│   └── Dependent Origination
+│
+├── EIGHTFOLD PATH, MIDDLE WAY AND ETHICAL DISCIPLINE
+│   ├─ TERMS: Its eight factors are usually grouped into wisdom, ethical conduct
+│   ├─ TERMS: and mental discipline
+│   ├─ LOGIC: It is an ethical path factor with lay implications, while monastic…
+│   └─ RESULT: 'Middle Way' does not mean compromise between truth and falsehood
+├── DEPENDENT ORIGINATION: PROCESS WITHOUT A FIRST CAUSE
+│   ├─ TERMS: each arrow is a historical relationship, not an automatic law
+│   ├─ LOGIC: The teaching rejects both an unconditioned creator explanation for…
+│   └─ RESULT: each arrow is a historical relationship, not an automatic law
+├── IMPERMANENCE, NO-SELF, AGGREGATES, KARMA AND NIRVANA
+│   ├─ TERMS: The five aggregates are form, feeling, perception, formations and…
+│   ├─ LOGIC: Early Buddhism links impermanence (anicca), unsatisfactoriness…
+│   └─ RESULT: Karma is centrally intentional action (cetana) with ethical…
+├── SANGHA, VINAYA, LAY SUPPORT AND INSTITUTIONAL LIFE
+│   ├─ TERMS: Sangha is both a spiritual community and a historical institution
+│   ├─ LOGIC: Monks and nuns followed Vinaya
+│   └─ RESULT: INTERPRETATION: Monasteries linked routes, towns and courts, but…
+├── WOMEN, SOCIAL ACCESS AND THE CASTE-VARNA QUESTION
+│   ├─ TERMS: Sangha admission across varna widened salvific access, but rules…
+│   ├─ LOGIC: It criticized birth superiority and widened access but did not…
+│   └─ RESULT: Buddhism widened access to renunciation and moral status, but it…
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Schools, Mahayana/Vajrayana, patronage and transregional spread
+
+```ascii-master
+SCHOOLS, MAHAYANA/VAJRAYANA, PATRONAGE AND TRANSREGIONAL SPREAD
+
+
+KEY TERMS: Early Schools • The Theravada-Hinayana Terminology… • Sthavira and Mahasanghika •
+KEY TERMS: EARLY SCHOOLS AND THE… • Mahayana • The Bodhisattva Path
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ EARLY SCHOOLS AND THE  │ Sthavira and Mahasanghika are │ School genealogy and Mahayana │
+│ THERAVADA-HINAYANA     │ early broad lineages          │ affiliation are not one       │
+│ TERMINOLOGY FIREWALL   │                               │ simple tree                   │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ MAHAYANA, THE          │ Paramitas are perfections on  │ Maitreya is the future        │
+│ BODHISATTVA PATH,      │ the Bodhisattva path          │ Buddha, not exclusively a     │
+│ MAITREYA AND PARAMITAS │                               │ Mahayana figure               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ MADHYAMAKA AND         │ Yogacara is associated with   │ 'Nothing exists' is an        │
+│ YOGACARA: BOUNDED      │ Asanga and Vasubandhu and     │ inaccurate summary of         │
+│ HISTORICAL DEPTH       │ analyzes…                     │ Madhyamaka                    │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ VAJRAYANA: LATER       │ Vajrayana is later than early │ Vajrayana developed within    │
+│ TANTRIC DEVELOPMENT    │ Buddhism and Mahayana's       │ later Mahayana environments,  │
+│ AND INSTITUTIONAL      │ first…                        │ especially from the           │
+│ SETTING                │                               │ mid-first…                    │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ WHY THE TRADITIONS     │ Language choice aided         │ INTERPRETATION: Buddhism's    │
+│ BECAME POPULAR:        │ communication but does not    │ Middle Way may have eased     │
+│ LANGUAGE, ETHICS AND   │ prove mass literacy           │ recruitment…                  │
+│ NETWORKS               │                               │                               │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Material heritage, comparison, decline, persistence and evidence limits
+
+```ascii-master
+MATERIAL HERITAGE, COMPARISON, DECLINE, PERSISTENCE AND EVIDENCE LIMITS
+
+
+KEY TERMS: Stupas • Caves • Monasteries • Images • Material Evidence • STUPAS, CAVES,
+KEY TERMS: MONASTERIES, IMAGES AND…
+                 CLAIM / SYSTEM UNDER EXAMINATION
+                                  │
+                                  ▼
+PROBLEM / OBJECTION 1
+  ├─ ISSUE: They cannot by themselves identify a text or prove a traditional…
+  ├─ RESPONSE / CONTROL: Barabar caves were donated by Ashoka and Dasharatha to
+  ├─ RESPONSE / CONTROL: Ajivikas, a…
+  └─ QUALIFIED VERDICT: Jain material evidence includes Kankali Tila,
+  └─ QUALIFIED VERDICT: Udayagiri-Khandagiri…
+                  │
+                  ▼
+PROBLEM / OBJECTION 2
+  ├─ ISSUE: 'Jain extreme versus Buddhist moderate' is a starting contrast, not…
+  ├─ RESPONSE / CONTROL: Use this grid for rapid recall before attempting the
+  ├─ RESPONSE / CONTROL: controlled Jain-Buddhist comparison Mains question later
+  ├─ RESPONSE / CONTROL: in this…
+  └─ QUALIFIED VERDICT: Both use monastic-lay reciprocity, but Buddhist
+  └─ QUALIFIED VERDICT: institutions…
+                  │
+                  ▼
+PROBLEM / OBJECTION 3
+  ├─ ISSUE: Its institutional contraction was regionally uneven and…
+  ├─ RESPONSE / CONTROL: Turkish attacks are a late factor, not the single cause
+  └─ QUALIFIED VERDICT: Decline is not a one-event story
+                  │
+                  ▼
+PROBLEM / OBJECTION 4
+  ├─ ISSUE: Persistence should not be explained only by merchant wealth
+  ├─ RESPONSE / CONTROL: Regional literary production is a major survival
+  ├─ RESPONSE / CONTROL: mechanism
+  └─ QUALIFIED VERDICT: Jain history also includes decline in some regions,
+  └─ QUALIFIED VERDICT: sectarian…
+                                  │
+                                  ▼
+FINAL CONTROL: preserve the strongest insight while stating its limit.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Jainism and Buddhism: traps, PYQ routes and applied recall
+
+```ascii-master
+JAINISM AND BUDDHISM: TRAPS, PYQ ROUTES AND APPLIED RECALL
+
+
+KEY TERMS: Sixth-Century Bce Setting • Cities • States • Intellectual Ferment • Production •
+KEY TERMS: SIXTH-CENTURY BCE SETTING: CITIES…
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── The subcontinent did not urbanize uniformly, merchants were not the…
+├── ayagapatas are Jain votive tablets associated especially with…
+├── The two truths framework distinguishes conventional and ultimate…
+├── they are different historical monks/scholars
+│
+├── Prelims PYQ - 2018 GS-I Q71
+├── Evidence / comparison matrix
+├── Core teaching / solved analysis
+├── Question source: local UPSC 2018 Prelims GS-I paper
+│
+└── Upinder Singh's useful frame is 'cities, kings and renunciants' for…
+└── Anathapindika's Jetavana and Visakha's patronage are prominent…
+└── This consolidation prevents the most common close-option errors: founder
+└── versus systematizer, early school versus…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Jainism and Buddhism: integrated revision and answer-writing spine
+
+```ascii-master
+JAINISM AND BUDDHISM — ANSWER / REVISION SPINE
+
+
+KEY TERMS: Sixth-Century Bce Setting • Cities • States • Intellectual Ferment • Production •
+KEY TERMS: SIXTH-CENTURY BCE SETTING: CITIES…
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ C-K-R: Cities, Kings, Renunciants - plus the caveat 'context is not…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ Sixth-Century Bce Setting
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ Wrong: Chandragupta's Jain migration is directly documented by a…
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ States
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ they are different historical monks/scholars
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ This consolidation prevents the most common close-option errors: founder
+   └─ versus systematizer, early school versus…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

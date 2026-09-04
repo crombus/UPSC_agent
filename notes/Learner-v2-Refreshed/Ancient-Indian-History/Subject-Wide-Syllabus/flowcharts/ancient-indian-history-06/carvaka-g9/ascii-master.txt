@@ -1,0 +1,337 @@
+#### ASCII MASTER FLOW — PANEL 1/8: The Harappan Civilization: central question and analytical axes
+
+```ascii-master
+THE HARAPPAN CIVILIZATION — CONCEPTUAL ATLAS
+
+
+KEY TERMS: Terminology • Chronology • The Integration-Localisation Model • Early Harappan •
+KEY TERMS: 3300-2600 BCE • Regionalisation and proto-urban growth
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of The Harappan Civilization
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       "Harappan" is the safest archaeological label because the culture…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: TERMINOLOGY, CHRONOLOGY AND THE INTEGRATION-LOCALISATION MODEL
+  • Terminology
+  • The tripartite scheme describes processes, not three sealed…
+AXIS 2: AGRICULTURE, CROPS, SEASONS AND FOOD SURPLUS
+  • Agriculture
+  • Shortughai has canal evidence
+AXIS 3: LATE HARAPPAN CONTINUITY, TRANSFORMATION AND SUCCESSOR CULTURES
+  • Late Harappan Continuity
+  • Late Harappan levels overlap with Painted Grey Ware at some…
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  Terminology • Chronology • The Integration-Localisation Model • Early Harappan
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Phases, discovery, extent and the Harappan settlement system
+
+```ascii-master
+PHASES, DISCOVERY, EXTENT AND THE HARAPPAN SETTLEMENT SYSTEM
+
+
+KEY TERMS: Terminology • Chronology • The Integration-Localisation Model • Early Harappan •
+KEY TERMS: 3300-2600 BCE • Regionalisation and proto-urban growth
+STAGE 01  TERMINOLOGY, CHRONOLOGY AND THE INTEGRATION-LOCALISATION MODEL
+  ├─ CONDITION / TERM: "Harappan" is the safest archaeological label because the
+  ├─ CONDITION / TERM: culture extended far beyond the Indus valley and the…
+  ├─ CHANGE / MECHANISM: The tripartite scheme describes processes, not three
+  ├─ CHANGE / MECHANISM: sealed ethnic…
+  └─ OUTCOME: Protohistory here means a literate civilization whose script cannot…
+                  │
+                  ▼
+STAGE 02  DISCOVERY, EXCAVATION AND CHANGING HISTORIOGRAPHY
+  ├─ CONDITION / TERM: Historiography is a movement from diffusion, monarchy and
+  ├─ CONDITION / TERM: invasion toward indigenous development, regional variation…
+  ├─ CHANGE / MECHANISM: Research moved from spectacular citadels and artefacts
+  ├─ CHANGE / MECHANISM: toward…
+  └─ OUTCOME: New methods have not removed interpretation
+                  │
+                  ▼
+STAGE 03  GEOGRAPHICAL EXTENT, ECOLOGICAL ZONES AND REGIONAL DOMAINS
+  ├─ CONDITION / TERM: Ecological diversity explains both civilizational
+  ├─ CONDITION / TERM: resilience and regionally varied pathways of decline
+  ├─ CHANGE / MECHANISM: Use "vast, multi-ecological zone" rather than one
+  ├─ CHANGE / MECHANISM: immutable number
+  └─ OUTCOME: Shortughai in Afghanistan was an isolated trading outpost
+                  │
+                  ▼
+STAGE 04  FROM EARLIER FARMING COMMUNITIES TO EARLY HARAPPAN URBAN POTENTIAL
+  ├─ CONDITION / TERM: Urbanisation emerged through convergence among regional
+  ├─ CONDITION / TERM: traditions, craft intensification, exchange, agricultural…
+  ├─ CHANGE / MECHANISM: Explain origins as endogenous transformation with
+  ├─ CHANGE / MECHANISM: inter-regional…
+  └─ OUTCOME: explain origins as endogenous transformation with inter-regional…
+                  │
+                  ▼
+STAGE 05  SETTLEMENT HIERARCHY AND THE URBAN-RURAL SYSTEM
+  ├─ CONDITION / TERM: The civilization was urban, but most settlements were
+  ├─ CONDITION / TERM: villages
+  ├─ CHANGE / MECHANISM: The civilization was urban, but most settlements were
+  ├─ CHANGE / MECHANISM: villages
+  └─ OUTCOME: Allahdino was a small village with precious ornaments, showing that…
+                  │
+                  ▼
+STAGE 06  SITE ATLAS I - HARAPPA AND MOHENJO-DARO
+  ├─ CONDITION / TERM: Pair the two sites to show shared standards plus different
+  ├─ CONDITION / TERM: public…
+  ├─ CHANGE / MECHANISM: Mohenjo-daro may have had over 700 wells, including
+  ├─ CHANGE / MECHANISM: private and…
+  └─ OUTCOME: Its secure significance is collective engineering
+                  │
+                  ▼
+SEQUENCE CONTROL: chronology is evidence-led, not a bare dynasty/date list.
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Urban form, water, agriculture, crafts and material culture
+
+```ascii-master
+URBAN FORM, WATER, AGRICULTURE, CRAFTS AND MATERIAL CULTURE
+
+
+KEY TERMS: Site Atlas Iv - Surkotada • Chanhudaro • Other Strategic Sites • Surkotada •
+KEY TERMS: Small fortified Gujarat site • Horse caution and regional fortification
+CAUSE / CONDITION 1: Horse remains are rare and disputed
+          │
+          ├── MECHANISM
+          │   Horse remains are rare and disputed
+          │
+          └── EFFECT / CONTRAST
+              The humped bull and cattle economy are much more characteristic
+          │
+          ▼
+CAUSE / CONDITION 2: Town Planning, Architecture And Built Standards comprises…
+          │
+          ├── MECHANISM
+          │   Houses usually opened into side lanes and were arranged around…
+          │
+          └── EFFECT / CONTRAST
+              Baked bricks were concentrated in drains, wells, baths and…
+          │
+          ▼
+CAUSE / CONDITION 3: Infrastructure required repeated maintenance by workers whose…
+          │
+          ├── MECHANISM
+          │   Infrastructure required repeated maintenance by workers whose…
+          │
+          └── EFFECT / CONTRAST
+              Sewage channels and rainwater collection were not necessarily the…
+          │
+          ▼
+CAUSE / CONDITION 4: Public buildings reveal labour mobilisation, but the…
+          │
+          ├── MECHANISM
+          │   Public buildings reveal labour mobilisation, but the responsible…
+          │
+          └── EFFECT / CONTRAST
+              Use quotation marks around contested labels in Mains answers
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Measurement, script, trade, society, polity and religion
+
+```ascii-master
+MEASUREMENT, SCRIPT, TRADE, SOCIETY, POLITY AND RELIGION
+│
+
+KEY TERMS: Weights • Measures • Geometry • Evidence Of Scientific Knowledge • Cubical
+KEY TERMS: weights • Chert and other stone weights across…
+├── KEY CONCEPTS
+│   ├── Weights
+│   ├── Measures
+│   ├── Geometry
+│   ├── Evidence Of Scientific Knowledge
+│   └── Cubical weights
+│
+├── WEIGHTS, MEASURES, GEOMETRY AND EVIDENCE OF SCIENTIFIC KNOWLEDGE
+│   ├─ TERMS: The 2026 Prelims PYQ correctly treats weights and graduated scales…
+│   ├─ LOGIC: Standardization could arise through state regulation, merchant…
+│   └─ RESULT: Smaller units follow a binary progression, while higher units…
+├── SEALS, SEALINGS AND THE UNDECIPHERED SCRIPT
+│   ├─ TERMS: Textile impressions on some sealings support authentication of…
+│   ├─ LOGIC: Script non-decipherment is the master limitation governing claims…
+│   └─ RESULT: Do not call the whole script boustrophedon
+├── INTERNAL EXCHANGE, RAW MATERIALS AND TRANSPORT
+│   ├─ TERMS: Internal exchange was more structurally important than the visually
+│   ├─ TERMS: attractive but limited Mesopotamian trade
+│   ├─ LOGIC: Two-wheeled carts with solid wheels, pack animals, river boats and…
+│   └─ RESULT: internal exchange was more structurally important than the
+│   └─ RESULT: visually…
+├── LONG-DISTANCE TRADE, MELUHHA AND THE MESOPOTAMIAN LINK
+│   ├─ TERMS: Possible exports include carnelian beads, textiles, shell and ivory
+│   ├─ LOGIC: Possible exports include carnelian beads, textiles, shell and ivory
+│   └─ RESULT: Dilmun and Magan were intermediating regions, not Harappan cities
+├── SOCIAL ORGANISATION, WEALTH AND OCCUPATIONAL DIVERSITY
+│   ├─ TERMS: Rank and class differences probably existed, but claims of a…
+│   ├─ LOGIC: Rank and class differences probably existed, but claims of a…
+│   └─ RESULT: Material culture can suggest inequality more securely than it can…
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Decline, de-urbanisation, continuity and neighbouring cultures
+
+```ascii-master
+DECLINE, DE-URBANISATION, CONTINUITY AND NEIGHBOURING CULTURES
+
+
+KEY TERMS: Decline • Deurbanisation - A Multi-Causal • Regional Process • Aryan invasion •
+KEY TERMS: Wheeler's reading of Rig Veda and… • Rejected: no invasion horizon or single…
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ DECLINE AND            │ Decline And Deurbanisation -  │ Mohenjo-daro and Dholavira    │
+│ DEURBANISATION - A     │ A Multi-Causal, Regional      │ show gradual deterioration,   │
+│ MULTI-CAUSAL, REGIONAL │ Process comprises Decline…    │ while urban…                  │
+│ PROCESS                │                               │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ LATE HARAPPAN          │ Late Harappan levels overlap  │ Overlap shows contact and     │
+│ CONTINUITY,            │ with Painted Grey Ware at     │ sequence, not ethnic identity │
+│ TRANSFORMATION AND     │ some…                         │                               │
+│ SUCCESSOR CULTURES     │                               │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ RELATIONS WITH         │ Relations With                │ The qualification should      │
+│ NEOLITHIC-CHALCOLITHIC │ Neolithic-Chalcolithic And    │ sharpen the answer, not       │
+│ AND VEDIC WORLDS       │ Vedic Worlds comprises        │ dissolve it into…             │
+│                        │ Relations With…               │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ PHASE - PROCESS -      │ Mature urbanism is the core   │ It is not sudden appearance   │
+│ REGIONAL CHANGE        │ factual phase                 │ then extinction               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ SITE-FEATURE TRIADS,   │ A modern archaeological label │ a modern archaeological label │
+│ NOT A SITE CATALOGUE   │ is not a Harappan             │ is not a Harappan             │
+│                        │ self-description              │ self-description              │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Evidence ladders, linked-system synthesis and site-memory method
+
+```ascii-master
+EVIDENCE LADDERS, LINKED-SYSTEM SYNTHESIS AND SITE-MEMORY METHOD
+
+
+KEY TERMS: Decline As Transformation • de-urbanisation with continuity • River • A modern
+KEY TERMS: archaeological label • Harappan • 1900 BCE
+                 CLAIM / SYSTEM UNDER EXAMINATION
+                                  │
+                                  ▼
+PROBLEM / OBJECTION 1
+  ├─ ISSUE: river/environmental change, trade disruption and internal…
+  ├─ RESPONSE / CONTROL: A modern archaeological label is not a Harappan
+  ├─ RESPONSE / CONTROL: self-description
+  └─ QUALIFIED VERDICT: river/environmental change, trade disruption and internal…
+                  │
+                  ▼
+PROBLEM / OBJECTION 2
+  ├─ ISSUE: Dholavira's distinctive architecture also demonstrates that…
+  ├─ RESPONSE / CONTROL: Shared weights and brick conventions are outcomes of
+  ├─ RESPONSE / CONTROL: repeated…
+  └─ QUALIFIED VERDICT: The Late phase is the weakening of this particular urban…
+                  │
+                  ▼
+PROBLEM / OBJECTION 3
+  ├─ ISSUE: Cities therefore depended on villages, pastoral areas and resource…
+  ├─ RESPONSE / CONTROL: A coastal or semi-arid site should not be judged by the
+  ├─ RESPONSE / CONTROL: same…
+  └─ QUALIFIED VERDICT: Extent is an economic map: river plains, coast and
+  └─ QUALIFIED VERDICT: resource zones…
+                  │
+                  ▼
+PROBLEM / OBJECTION 4
+  ├─ ISSUE: The label describes an excavator's interpretation, not a text from…
+  ├─ RESPONSE / CONTROL: They do not reveal whether a monarch, council, merchant
+  ├─ RESPONSE / CONTROL: group or…
+  └─ QUALIFIED VERDICT: Calling a raised sector a “citadel” does not prove that it
+  └─ QUALIFIED VERDICT: was a…
+                                  │
+                                  ▼
+FINAL CONTROL: preserve the strongest insight while stating its limit.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: The Harappan Civilization: traps, PYQ routes and applied recall
+
+```ascii-master
+THE HARAPPAN CIVILIZATION: TRAPS, PYQ ROUTES AND APPLIED RECALL
+
+
+KEY TERMS: Terminology • Chronology • The Integration-Localisation Model • Early Harappan •
+KEY TERMS: 3300-2600 BCE • Regionalisation and proto-urban growth
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── mature Harappan and Rig Vedic are contemporaneous
+├── an animal on a seal was necessarily domesticated or worshipped
+├── aDNA can label an archaeological culture as a modern ethnic or…
+├── More sites do not necessarily make a better answer
+│
+├── A question can be verified while its key remains unavailable or provisional
+├── Verified Question 1 - 2019 Prelims GS-I Q7: Non-Harappan Site
+├── Verified Question 2 - 2021 Prelims GS-I Q32: Ancient Water Harvesting
+├── Verified Question 3 - 2025 Prelims GS-I Q72: Dancing Girl Material
+│
+└── "Harappan" is the safest archaeological label because the culture…
+└── House size, location, craft access, ornaments, hoards, diet and…
+└── Memory improves when a site is stored as a triad rather than as an…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: The Harappan Civilization: integrated revision and answer-writing spine
+
+```ascii-master
+THE HARAPPAN CIVILIZATION — ANSWER / REVISION SPINE
+
+
+KEY TERMS: Terminology • Chronology • The Integration-Localisation Model • Early Harappan •
+KEY TERMS: 3300-2600 BCE • Regionalisation and proto-urban growth
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ "Harappan" is the safest archaeological label because the culture extended
+   └─ far beyond the Indus valley and the…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ Terminology
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ Cattle and buffalo were central
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ The Integration-Localisation Model
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ More sites do not necessarily make a better answer
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ Memory improves when a site is stored as a triad rather than as an…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

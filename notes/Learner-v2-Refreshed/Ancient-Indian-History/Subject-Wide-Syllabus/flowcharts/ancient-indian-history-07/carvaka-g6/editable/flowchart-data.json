@@ -1,0 +1,590 @@
+{
+  "schema_version": 1,
+  "topic_key": "ancient-indian-history-07",
+  "generation": 6,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-07\\ancient-indian-history-07_Complete-Learning-Session_2026-08-22.md",
+  "master_dimensions": [
+    3600,
+    43714
+  ],
+  "stages": [
+    {
+      "title": "UPSC RELEVANCE AND ANSWER-WORTHINESS AUDIT",
+      "terms": "UPSC Relevance and Answer-Worthiness Audit: There is no direct Aryan-origin/migration question in the audited 2018-2026 routing ledgers.",
+      "mechanism": "There is no direct Aryan-origin/migration question in the audited 2018-2026 routing ledgers.",
+      "consequence": "The topic is nevertheless useful for Prelims distinctions (language family, Vedic geography, chronology and source matching) and as Mains source-method support for early Indian culture, Vedic transition and historiography.",
+      "trap": "It must not be inflated into a settled standalone GS-I theme.",
+      "answer": "Syllabus and verified-question reality."
+    },
+    {
+      "title": "ROADMAP, SOURCES AND EVIDENCE DISCIPLINE",
+      "terms": "Roadmap, Sources and Evidence Discipline: No live claim is required for this static topic.",
+      "mechanism": "No live claim is required for this static topic.",
+      "consequence": "METHOD: Every claim should answer four questions: What is the evidence?",
+      "trap": "RECALL: \"Aryan\" is treated primarily as a linguistic-cultural and historical-reconstruction problem, not a biological race.",
+      "answer": "FACT: The package follows the mandatory order: Topic 07 authored Markdown and repository routing files, OCR-searchable local books, and no Qdrant dependency."
+    },
+    {
+      "title": "TERMINOLOGY - ARYA, ARYAN, INDO-ARYAN AND INDO-IRANIAN — [CORE PRELIMS + CORE MAINS]",
+      "terms": "INFERENCE: The safest UPSC wording is \"Indo-Aryan-speaking groups\" or \"the culture represented in the early Vedic corpus\" rather than \"the Aryan race\".",
+      "mechanism": "MAINS ANGLE: Begin a sensitive answer by defining the term narrowly; this prevents both colonial racialism and presentist counter-myth.",
+      "consequence": "RECALL: Arya and Dasa/Dasyu are contextual textual categories; the Rig Veda also refers to conflict among Aryas.",
+      "trap": "INFERENCE: The safest UPSC wording is \"Indo-Aryan-speaking groups\" or \"the culture represented in the early Vedic corpus\" rather than \"the Aryan race\".",
+      "answer": "FACT: Upinder Singh explicitly states that Indo-European and Indo-Aryan are linguistic terms and have nothing to do with old racial classifications."
+    },
+    {
+      "title": "WHY THERE IS AN \"ARYAN PROBLEM\" — [CORE MAINS]",
+      "terms": "Why There Is an \"Aryan Problem\" — [CORE MAINS]: TRAP: \"Uncertain\" means no historical conclusion is possible. || The correct response is calibrated confidence, not agnosticism about everything.",
+      "mechanism": "FACT: The problem exists because the earliest Indo-Aryan texts are religious-poetic and orally transmitted, the Harappan script remains undeciphered, archaeological cultures do not speak for themselves, and ancient-DNA sampling in South Asia remains sparse.",
+      "consequence": "RECALL: Strongest confidence attaches to linguistic relatedness; lower confidence attaches to one-to-one ethnic mapping.",
+      "trap": "FACT: The problem exists because the earliest Indo-Aryan texts are religious-poetic and orally transmitted, the Harappan script remains undeciphered, archaeological cultures do not speak for themselves, and ancient-DNA sampling in South Asia remains sparse.",
+      "answer": "FACT: The problem exists because the earliest Indo-Aryan texts are religious-poetic and orally transmitted, the Harappan script remains undeciphered, archaeological cultures do not speak for themselves, and ancient-DNA sampling in South Asia remains sparse."
+    },
+    {
+      "title": "EARLY PHILOLOGY - DISCOVERY OF A LANGUAGE FAMILY — [CORE MAINS]",
+      "terms": "Early Philology - Discovery of a Language Family — [CORE MAINS]: Sharma used Vedic, Avestan and Greek textual comparisons to identify a trait bundle; current scholarship retains comparative linguistics but is more cautious about converting that bundle into an ethnic checklist.",
+      "mechanism": "RECALL: Comparative linguistics establishes relationships through patterns, not isolated resemblance.",
+      "consequence": "Sharma used Vedic, Avestan and Greek textual comparisons to identify a trait bundle; current scholarship retains comparative linguistics but is more cautious about converting that bundle into an ethnic checklist.",
+      "trap": "The comparative method reconstructs regular sound correspondences and inherited grammar rather than relying on accidental word resemblance.",
+      "answer": "FACT: Early modern philology identified systematic similarities among Sanskrit, Avestan, Greek, Latin and other languages."
+    },
+    {
+      "title": "COLONIAL AND RACIAL FORMULATIONS — [SUPPORTING]",
+      "terms": "RECALL: Old physical-anthropological \"racial types\" have been abandoned; population history is characterized by repeated mixture.",
+      "mechanism": "INFERENCE: Rejecting racialism does not require rejecting comparative linguistics or all migration; it requires separating distinct propositions.",
+      "consequence": "INTERPRETATION: Thomas Trautmann and Upinder Singh show how a linguistic concept was racialized in colonial knowledge and later political projects.",
+      "trap": "INFERENCE: Rejecting racialism does not require rejecting comparative linguistics or all migration; it requires separating distinct propositions.",
+      "answer": "FACT: Nineteenth- and early twentieth-century scholarship often fused linguistic labels with racial typologies."
+    },
+    {
+      "title": "EVIDENCE MATRIX - WHAT EACH CLASS CAN AND CANNOT ESTABLISH — [CORE MAINS]",
+      "terms": "Evidence Matrix - What Each Class Can and Cannot Establish — [CORE MAINS]: TRAP: Steppe ancestry equals Vedic Sanskrit in a sample. || An ancestry component is biological; language association remains an inference requiring linguistic and chronological support.",
+      "mechanism": "RECALL: Correlation becomes persuasive when independent evidence classes align without being made equivalent.",
+      "consequence": "TRAP: Steppe ancestry equals Vedic Sanskrit in a sample. || An ancestry component is biological; language association remains an inference requiring linguistic and chronological support.",
+      "trap": "TRAP: Steppe ancestry equals Vedic Sanskrit in a sample. || An ancestry component is biological; language association remains an inference requiring linguistic and chronological support.",
+      "answer": "METHOD: Use convergent evidence only after stating whether the datasets concern the same place, time and social scale."
+    },
+    {
+      "title": "CHRONOLOGY - A CAUTIOUS WORKING SEQUENCE — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Chronology - A Cautious Working Sequence — [CORE PRELIMS + CORE MAINS]: TRAP: A broad date band means every site and every hymn is contemporaneous. || Chronologies vary by region, layer and method.",
+      "mechanism": "INFERENCE: Overlap creates contact possibilities; it does not prove direct descent or identity.",
+      "consequence": "TRAP: A broad date band means every site and every hymn is contemporaneous. || Chronologies vary by region, layer and method.",
+      "trap": "INFERENCE: Overlap creates contact possibilities; it does not prove direct descent or identity.",
+      "answer": "INFERENCE: Overlap creates contact possibilities; it does not prove direct descent or identity."
+    },
+    {
+      "title": "INDO-EUROPEAN AND INDO-IRANIAN LINGUISTIC RELATIONSHIPS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Indo-European and Indo-Iranian Linguistic Relationships — [CORE PRELIMS + CORE MAINS]: INTERPRETATION: Similarity is not cultural sameness; Vedic and Avestan traditions also preserve reversals, innovations and distinct historical settings.",
+      "mechanism": "Indo-Iranian includes Indo-Aryan, Iranian and Nuristani developments.",
+      "consequence": "INTERPRETATION: Similarity is not cultural sameness; Vedic and Avestan traditions also preserve reversals, innovations and distinct historical settings.",
+      "trap": "INTERPRETATION: Similarity is not cultural sameness; Vedic and Avestan traditions also preserve reversals, innovations and distinct historical settings.",
+      "answer": "FACT: Vedic Sanskrit belongs to Indo-Aryan, within Indo-Iranian, within Indo-European."
+    },
+    {
+      "title": "MITANNI EVIDENCE - EXTERNAL ATTESTATION WITH LIMITS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "INFERENCE: Mitanni evidence is difficult for a simple model in which Indo-Aryan originated late and only inside India, but it does not yield a complete route map.",
+      "mechanism": "MAINS ANGLE: Use Mitanni as a named evidence unit, immediately followed by the limitation \"external attestation, not direct Rigvedic dating\".",
+      "consequence": "INTERPRETATION: Upinder Singh notes that the majority Mitanni language was Hurrian; Indo-Aryan elements likely formed a restricted superstrate or elite vocabulary.",
+      "trap": "INFERENCE: Mitanni evidence is difficult for a simple model in which Indo-Aryan originated late and only inside India, but it does not yield a complete route map.",
+      "answer": "1380 BCE Hittite-Mitanni treaty from Bogazkoy invokes forms corresponding to Indra, Mitra, Varuna and the Nasatyas."
+    },
+    {
+      "title": "CONTACT LINGUISTICS - LOANWORDS AND RETROFLEXION — [CORE MAINS]",
+      "terms": "Sanskrit retroflex consonants have long been discussed in relation to South Asian contact.",
+      "mechanism": "INFERENCE: Contact features support formation of Indo-Aryan culture within South Asia through interaction rather than preservation of a sealed migrant culture.",
+      "consequence": "INFERENCE: Contact features support formation of Indo-Aryan culture within South Asia through interaction rather than preservation of a sealed migrant culture.",
+      "trap": "INFERENCE: Contact features support formation of Indo-Aryan culture within South Asia through interaction rather than preservation of a sealed migrant culture.",
+      "answer": "FACT: Upinder Singh notes about 300 clearly non-Indo-European words in the Rig Veda and non-Indo-Aryan personal/tribal names."
+    },
+    {
+      "title": "RIG VEDA AS A HISTORICAL SOURCE - LAYERING AND ORAL TRANSMISSION — [CORE PRELIMS + CORE MAINS]",
+      "terms": "FACT: The Rig Veda is a ritual-poetic corpus transmitted orally for centuries.",
+      "mechanism": "TRAP: Oral transmission makes the text historically worthless. || Rigorous oral preservation can conserve material, but historical extraction still requires source criticism.",
+      "consequence": "METHOD: Read a cluster of references, compare textual layers and test against independent archaeology; never date a site merely from a verse.",
+      "trap": "METHOD: Read a cluster of references, compare textual layers and test against independent archaeology; never date a site merely from a verse.",
+      "answer": "FACT: The Rig Veda is a ritual-poetic corpus transmitted orally for centuries."
+    },
+    {
+      "title": "TEXTUAL GEOGRAPHY - SAPTA-SINDHU AND THE NORTH-WEST — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Textual Geography - Sapta-Sindhu and the North-West — [CORE PRELIMS + CORE MAINS]: MAINS ANGLE: A text map is high-value when paired with \"composition zone, not an ethnic frontier\".",
+      "mechanism": "Later Vedic texts shift toward Kuru-Panchala and the upper Ganga valley.",
+      "consequence": "INFERENCE: Geography supports a north-western early Vedic horizon; it does not identify every archaeological site or prove the direction of ultimate homeland movement.",
+      "trap": "INFERENCE: Geography supports a north-western early Vedic horizon; it does not identify every archaeological site or prove the direction of ultimate homeland movement.",
+      "answer": "FACT: The family books locate their core world in Sapta-Sindhu: the Indus, its tributaries and the Sarasvati/Ghaggar-Hakra zone."
+    },
+    {
+      "title": "ECOLOGY AND MATERIAL VOCABULARY IN THE RIGVEDIC WORLD — [SUPPORTING]",
+      "terms": "Ecology and Material Vocabulary in the Rigvedic World — [SUPPORTING]: RECALL: The 2026 irrigation PYQ's provisional Series-A key is C: information 1 and 3 only.",
+      "mechanism": "Agriculture, wells, ploughing, sowing and harvesting were known; pastoral predominance does not mean absence of farming.",
+      "consequence": "RECALL: The 2026 irrigation PYQ's provisional Series-A key is C: information 1 and 3 only.",
+      "trap": "Agriculture, wells, ploughing, sowing and harvesting were known; pastoral predominance does not mean absence of farming.",
+      "answer": "FACT: The Rigvedic world values cattle, horses, chariots, rivers, pasture and kinship."
+    },
+    {
+      "title": "HORSE, CHARIOT AND THE PROBLEM OF DIAGNOSTIC TRAITS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "FACT: Horse and light spoked-wheel chariot imagery is prominent in Vedic and Indo-Iranian material.",
+      "mechanism": "Sintashta burials provide early second-millennium BCE spoked-wheel chariot contexts; Stephan Lindner's 2020 Bayesian study dates key evidence broadly around the early second millennium BCE.",
+      "consequence": "INTERPRETATION: Richard Meadow and other zooarchaeologists have cautioned that early equid identifications require morphology, context and chronology; Surkotada remains remain debated.",
+      "trap": "INTERPRETATION: Richard Meadow and other zooarchaeologists have cautioned that early equid identifications require morphology, context and chronology; Surkotada remains remain debated.",
+      "answer": "FACT: Horse and light spoked-wheel chariot imagery is prominent in Vedic and Indo-Iranian material."
+    },
+    {
+      "title": "SOCIAL AND POLITICAL TERMS - JANA, VIS, RAJAN AND ASSEMBLIES — [SUPPORTING]",
+      "terms": "Social and Political Terms - Jana, Vis, Rajan and Assemblies — [SUPPORTING]: FACT: The Battle of Ten Kings in Book 7 associates Sudas and the Bharatas with a confederacy of rivals; it is best read as tribal competition, not an imperial war.",
+      "mechanism": "FACT: Early Vedic society was organized through household, lineage, clan and tribe.",
+      "consequence": "FACT: The Battle of Ten Kings in Book 7 associates Sudas and the Bharatas with a confederacy of rivals; it is best read as tribal competition, not an imperial war.",
+      "trap": "Jana denoted the people/tribe; vis a constituent people; rajan was a chief rather than a territorial bureaucratic monarch.",
+      "answer": "FACT: Early Vedic society was organized through household, lineage, clan and tribe."
+    },
+    {
+      "title": "RELIGION, RITUAL AND ORAL TRADITION — [SUPPORTING]",
+      "terms": "Religion, Ritual and Oral Tradition — [SUPPORTING]: Sharma's trait list - horse, chariot, fire, soma, sacrifice and cremation - is useful for comparison, but several traits are widespread and none can identify ethnicity independently.",
+      "mechanism": "The oral tradition preserved complex metres, formulae and ritual knowledge.",
+      "consequence": "RECALL: Shared ritual forms can result from common inheritance, contact or convergent pastoral practices.",
+      "trap": "TRAP: A Harappan fire installation is automatically a Vedic altar. || Form, context, chronology and textual prescription do not securely match.",
+      "answer": "FACT: Rigvedic religion centred on hymns and sacrificial exchange involving deities such as Indra, Agni, Soma, Varuna, the Ashvins and others."
+    },
+    {
+      "title": "ARCHAEOLOGICAL CULTURE IS NOT A PEOPLE — [CORE MAINS]",
+      "terms": "RECALL: Archaeological labels are analytical tools created by researchers.",
+      "mechanism": "RECALL: Archaeological labels are analytical tools created by researchers.",
+      "consequence": "METHOD: Use \"associated with\", \"overlaps with\", \"may reflect contact\" and \"has been correlated with\", not identity equations.",
+      "trap": "Such assemblages record practices and networks, not self-declared language or ethnicity.",
+      "answer": "FACT: Archaeologists define cultures from recurring material assemblages in space and time."
+    },
+    {
+      "title": "HARAPPAN AND LATE HARAPPAN CONTINUITIES — [CORE MAINS]",
+      "terms": "Harappan and Late Harappan Continuities — [CORE MAINS]: INFERENCE: Local continuity and incoming mobility are compatible; neither requires total replacement.",
+      "mechanism": "INFERENCE: Local continuity and incoming mobility are compatible; neither requires total replacement.",
+      "consequence": "RECALL: Mature Harappan decline predates the conventional early Vedic horizon and had environmental, economic and political dimensions.",
+      "trap": "TRAP: If migration occurred, Harappan populations disappeared. || Genetic, biological and material evidence shows major local ancestry and continuity.",
+      "answer": "FACT: The late Harappan phase shows disintegration of urban networks alongside expansion of rural settlements, crop diversification and selective continuity in pottery, craft, symbols and exchange."
+    },
+    {
+      "title": "CEMETERY H - CONTINUITY, MORTUARY CHANGE AND INTERPRETIVE LIMITS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "RECALL: Mortuary change is evidence of social/ritual transformation, not an invasion horizon.",
+      "mechanism": "MAINS ANGLE: Cemetery H exemplifies why continuity and change must be assessed trait by trait.",
+      "consequence": "RECALL: Mortuary change is evidence of social/ritual transformation, not an invasion horizon.",
+      "trap": "RECALL: Mortuary change is evidence of social/ritual transformation, not an invasion horizon.",
+      "answer": "FACT: Cemetery H at Harappa includes pottery continuity with new forms/designs, extended burials in lower levels and urn burials with disarticulated/burnt remains in upper levels."
+    },
+    {
+      "title": "GANDHARA GRAVE/SWAT - FRONTIER INTERACTION ZONE — [CORE PRELIMS + CORE MAINS]",
+      "terms": "INFERENCE: Swat is best used as a corridor and interaction case, not the archaeological footprint of one migrating \"race\".",
+      "mechanism": "Upinder Singh gives a broad radiocarbon range from c.",
+      "consequence": "1710 to 200 BCE, warning against treating it as one short event.",
+      "trap": "INFERENCE: Swat is best used as a corridor and interaction case, not the archaeological footprint of one migrating \"race\".",
+      "answer": "FACT: Cemeteries across the Peshawar-Chitral/Swat zone show flexed, post-cremation and fractional burials, varied pottery and some Central Asian parallels."
+    },
+    {
+      "title": "OCP AND COPPER HOARDS - ASSOCIATION WITHOUT ETHNIC LABELS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "OCP and Copper Hoards - Association without Ethnic Labels — [CORE PRELIMS + CORE MAINS]: FACT: Ochre Coloured Pottery is widely distributed in western Uttar Pradesh and adjoining regions.",
+      "mechanism": "Its stratigraphic relation to Late Harappan, BRW and PGW varies by site.",
+      "consequence": "RECALL: Copper Hoards are a heterogeneous artefact category with poor contexts in many discoveries.",
+      "trap": "TRAP: Antennae sword means chariot warrior and Indo-Aryan ethnicity. || Function, context, chronology and user identity are not automatically known.",
+      "answer": "FACT: Ochre Coloured Pottery is widely distributed in western Uttar Pradesh and adjoining regions."
+    },
+    {
+      "title": "PAINTED GREY WARE - RELATIONSHIP CAUTIONS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Painted Grey Ware - Relationship Cautions — [CORE PRELIMS + CORE MAINS]: INFERENCE: PGW is a useful context for Later Vedic developments, not a diagnostic marker of early Rigvedic migrants.",
+      "mechanism": "1200-500/400 BCE, concentrated in the Indo-Gangetic divide, Sutlej basin and upper Ganga plain.",
+      "consequence": "It overlaps Late Harappan at some sites and follows it after a break at others.",
+      "trap": "INFERENCE: PGW is a useful context for Later Vedic developments, not a diagnostic marker of early Rigvedic migrants.",
+      "answer": "FACT: Upinder Singh dates the broad PGW horizon mainly c."
+    },
+    {
+      "title": "SANAULI - VEHICLE EVIDENCE AND OVERCLAIMING — [SUPPORTING]",
+      "terms": "MAINS ANGLE: Sanauli is an ideal example of fact - interpretation - unresolved inference.",
+      "mechanism": "INTERPRETATION: Upinder Singh presents questions raised by Parpola and others - bull carts or chariots, BMAC links, early Indo-Aryan interface - and concludes that the implications remain unclear.",
+      "consequence": "INTERPRETATION: Upinder Singh presents questions raised by Parpola and others - bull carts or chariots, BMAC links, early Indo-Aryan interface - and concludes that the implications remain unclear.",
+      "trap": "TRAP: \"Chariot\" in media language proves horse-drawn Vedic warfare. || The wheel, draught animal and vehicle function require independent demonstration.",
+      "answer": "FACT: Sanauli burials dated tentatively c."
+    },
+    {
+      "title": "BMAC - OASIS SOCIETIES AND INTERACTION CORRIDORS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "BMAC - Oasis Societies and Interaction Corridors — [CORE PRELIMS + CORE MAINS]: Sharma's Togolok-21 soma/ephedra association is debated and should not be presented as conclusive.",
+      "mechanism": "Mobile steppe groups interacted with it.",
+      "consequence": "INFERENCE: Corridors allow movement, intermarriage, trade, ritual borrowing and language shift without one uniform migrating package.",
+      "trap": "Sharma's Togolok-21 soma/ephedra association is debated and should not be presented as conclusive.",
+      "answer": "FACT: The Bactria-Margiana Archaeological Complex was an oasis-centred Bronze Age world in southern Central Asia with fortified settlements, craft and ritual evidence."
+    },
+    {
+      "title": "STEPPE, SINTASHTA AND INDO-IRANIAN HYPOTHESES — [CORE MAINS]",
+      "terms": "RECALL: The 2023 Heggarty et al. language phylogeny proposed a hybrid homeland south of the Caucasus with a secondary steppe homeland for some branches; it is influential but contested.",
+      "mechanism": "INTERPRETATION: The 2024 Antiquity review by Rasmus Bjorn praises triangulation but also stresses that no single data point tells the full story and that finer branch histories remain debated.",
+      "consequence": "INTERPRETATION: The 2024 Antiquity review by Rasmus Bjorn praises triangulation but also stresses that no single data point tells the full story and that finer branch histories remain debated.",
+      "trap": "TRAP: Current scholarship has one unanimously accepted Indo-European homeland and tree chronology. || Linguistic datasets, phylogenetic methods and archaeological alignment remain debated.",
+      "answer": "FACT: Sintashta-Petrovka sites east of the Urals include fortified settlements, metallurgy, horse remains and spoked-wheel chariot burials."
+    },
+    {
+      "title": "CORRIDOR MAP - A MODEL, NOT A MARCHING ROUTE — [SUPPORTING]",
+      "terms": "METHOD: This map visualizes one well-supported interaction model; it is not a proven itinerary followed by every speaker.",
+      "mechanism": "METHOD: This map visualizes one well-supported interaction model; it is not a proven itinerary followed by every speaker.",
+      "consequence": "TRAP: Migration must look like a centralized army. || Archaeogenetic and linguistic change can follow repeated household, pastoral, marriage and elite-network movements.",
+      "trap": "METHOD: This map visualizes one well-supported interaction model; it is not a proven itinerary followed by every speaker.",
+      "answer": "METHOD: This map visualizes one well-supported interaction model; it is not a proven itinerary followed by every speaker."
+    },
+    {
+      "title": "ARCHAEOGENETICS - CONCEPTS BEFORE CONCLUSIONS — [CORE MAINS]",
+      "terms": "Archaeogenetics - Concepts before Conclusions — [CORE MAINS]: TRAP: A percentage in a modern genome is a direct census of a Bronze Age migration. || Modern genomes combine later mixture, drift, selection and endogamy.",
+      "mechanism": "RECALL: Ancient ancestry can show movement and mixture; it cannot hear the language once spoken.",
+      "consequence": "TRAP: A percentage in a modern genome is a direct census of a Bronze Age migration. || Modern genomes combine later mixture, drift, selection and endogamy.",
+      "trap": "RECALL: Ancient ancestry can show movement and mixture; it cannot hear the language once spoken.",
+      "answer": "METHOD: Report publication date, sample date, sample number, geographic coverage, finding and limitation separately."
+    },
+    {
+      "title": "RAKHIGARHI GENOME - SHINDE ET AL. 2019 — [CORE MAINS]",
+      "terms": "TRAP: \"No Steppe ancestry in one Harappan genome\" means \"no migration ever occurred\". || It constrains chronology and the sampled population; it does not close later history.",
+      "mechanism": "RECALL: Sample size and representativeness are the central caveats.",
+      "consequence": "TRAP: \"No Steppe ancestry in one Harappan genome\" means \"no migration ever occurred\". || It constrains chronology and the sampled population; it does not close later history.",
+      "trap": "TRAP: \"No Steppe ancestry in one Harappan genome\" means \"no migration ever occurred\". || It constrains chronology and the sampled population; it does not close later history.",
+      "answer": "FACT: Shinde et al., \"An Ancient Harappan Genome Lacks Ancestry from Steppe Pastoralists or Iranian Farmers\", was published in Cell in 2019 (DOI 10.1016/j.cell.2019.08.048)."
+    },
+    {
+      "title": "SOUTH AND CENTRAL ASIAN ADNA - NARASIMHAN ET AL. 2019 — [CORE MAINS]",
+      "terms": "South and Central Asian aDNA - Narasimhan et al. 2019 — [CORE MAINS]: INTERPRETATION: Upinder Singh describes the study as supporting a series of migrations, not an invasion or one massive wave.",
+      "mechanism": "INTERPRETATION: Upinder Singh describes the study as supporting a series of migrations, not an invasion or one massive wave.",
+      "consequence": "RECALL: The study's power comes from regional comparison; its weakness is the shortage of ancient genomes from many South Asian zones.",
+      "trap": "INTERPRETATION: Upinder Singh describes the study as supporting a series of migrations, not an invasion or one massive wave.",
+      "answer": "FACT: Narasimhan et al., \"The formation of human populations in South and Central Asia\", was published in Science on 6 September 2019 (DOI 10.1126/science.aat7487) and analysed 523 ancient individuals from Central and northern South Asia."
+    },
+    {
+      "title": "COMPETING MODELS - COMPARISON MATRIX — [CORE MAINS]",
+      "terms": "Competing Models - Comparison Matrix — [CORE MAINS]: MAINS ANGLE: State a layered verdict: migration is the strongest macro-model; synthesis best explains the culture that emerged.",
+      "mechanism": "TRAP: Rejecting invasion proves no migration; accepting migration proves replacement. || Both are false binaries.",
+      "consequence": "MAINS ANGLE: State a layered verdict: migration is the strongest macro-model; synthesis best explains the culture that emerged.",
+      "trap": "RECALL: Migration and interaction are complementary, not mutually exclusive.",
+      "answer": "RECALL: Migration and interaction are complementary, not mutually exclusive."
+    },
+    {
+      "title": "WHY THE SIMPLISTIC INVASION MODEL IS REJECTED — [CORE MAINS]",
+      "terms": "RECALL: \"No invasion\" is a conclusion about one model, not proof of isolation.",
+      "mechanism": "FACT: Harappan urban decline began before the conventional Rigvedic horizon and varied by region.",
+      "consequence": "TRAP: Archaeology finds no invasion, therefore all Vedic groups were indigenous Harappans. || The conclusion outruns the evidence.",
+      "trap": "Mohenjo-daro skeletons do not form one battle context, and no subcontinental destruction horizon links Harappan decline to a conquering army.",
+      "answer": "FACT: Harappan urban decline began before the conventional Rigvedic horizon and varied by region."
+    },
+    {
+      "title": "MIGRATION/IN-MIGRATION - WHAT THE MODEL SHOULD MEAN — [CORE MAINS]",
+      "terms": "INFERENCE: \"In-migration\" is often a clearer term because it separates movement from conquest and emphasizes entry into an inhabited, changing landscape.",
+      "mechanism": "Language can spread through demographic movement, elite networks, bilingualism, intermarriage and prestige.",
+      "consequence": "INFERENCE: \"In-migration\" is often a clearer term because it separates movement from conquest and emphasizes entry into an inhabited, changing landscape.",
+      "trap": "FACT: Upinder Singh's formulation emphasizes a series of relatively small migrations rather than a massive wave.",
+      "answer": "FACT: Upinder Singh's formulation emphasizes a series of relatively small migrations rather than a massive wave."
+    },
+    {
+      "title": "INDIGENOUS/OUT-OF-INDIA POSITIONS - FAIR EXAMINATION — [CORE MAINS]",
+      "terms": "INFERENCE: The strongest insight preserved from indigenous arguments is continuity and local agency, not a closed no-migration model.",
+      "mechanism": "INTERPRETATION: Upinder Singh lists indigenous scholarship as part of an ongoing debate but considers strict Harappan = Vedic and out-of-India equations problematic because of chronology, script, material differences, retroflexion/contact and external attestations.",
+      "consequence": "INFERENCE: The strongest insight preserved from indigenous arguments is continuity and local agency, not a closed no-migration model.",
+      "trap": "INFERENCE: The strongest insight preserved from indigenous arguments is continuity and local agency, not a closed no-migration model.",
+      "answer": "FACT: Indigenous models emphasize long South Asian cultural continuity, the north-western geography of the Rig Veda, uncertainty in archaeological mapping and the dangers of colonial narratives."
+    },
+    {
+      "title": "INTERACTION AND SYNTHESIS - BEST CULTURAL-HISTORICAL MODEL — [CORE MAINS]",
+      "terms": "TRAP: Cultural mixture means no distinctive Indo-Aryan linguistic inheritance. || Synthesis combines inherited and acquired features.",
+      "mechanism": "INFERENCE: Identity was produced historically through mobility, conflict, alliance, borrowing, marriage and ritual incorporation.",
+      "consequence": "RECALL: Synthesis does not imply harmony; the Rig Veda preserves warfare, exclusion and hierarchy as well as incorporation.",
+      "trap": "RECALL: Synthesis does not imply harmony; the Rig Veda preserves warfare, exclusion and hierarchy as well as incorporation.",
+      "answer": "FACT: Early Indo-Aryan culture in South Asia shows inherited Indo-Iranian elements and extensive local contact: loanwords, retroflexion, non-Indo-Aryan names, agricultural adaptation and continuing post-Harappan populations."
+    },
+    {
+      "title": "IDENTITY OF EARLY VEDIC/ARYAN CULTURE - ECONOMY AND MATERIAL LIFE — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Identity of Early Vedic/Aryan Culture - Economy and Material Life — [CORE PRELIMS + CORE MAINS]: TRAP: Horse importance means horse pastoralism replaced cattle economy. || Horses had elite/war prestige; cattle remained foundational.",
+      "mechanism": "TRAP: Horse importance means horse pastoralism replaced cattle economy. || Horses had elite/war prestige; cattle remained foundational.",
+      "consequence": "MAINS ANGLE: Link economy to political organization, religion and values rather than listing occupations.",
+      "trap": "TRAP: Horse importance means horse pastoralism replaced cattle economy. || Horses had elite/war prestige; cattle remained foundational.",
+      "answer": "RECALL: Cattle were economic resources, ritual gifts, symbols of abundance and objects of warfare."
+    },
+    {
+      "title": "IDENTITY OF EARLY VEDIC/ARYAN CULTURE - KINSHIP, POLITY AND SOCIETY — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Identity of Early Vedic/Aryan Culture - Kinship, Polity and Society — [CORE PRELIMS + CORE MAINS]: RECALL: Purusha Sukta is in the later tenth Mandala and cannot describe every earlier layer without caution.",
+      "mechanism": "TRAP: The four-varna order was fully fixed from the earliest Rigvedic books. || Hierarchy existed, but later systematization belongs to a longer process.",
+      "consequence": "TRAP: The four-varna order was fully fixed from the earliest Rigvedic books. || Hierarchy existed, but later systematization belongs to a longer process.",
+      "trap": "RECALL: Purusha Sukta is in the later tenth Mandala and cannot describe every earlier layer without caution.",
+      "answer": "INFERENCE: Early Vedic society was neither egalitarian idyll nor a mature caste state; it was a stratifying kin-based order."
+    },
+    {
+      "title": "IDENTITY OF EARLY VEDIC/ARYAN CULTURE - RELIGION, LANGUAGE AND MEMORY — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Identity of Early Vedic/Aryan Culture - Religion, Language and Memory — [CORE PRELIMS + CORE MAINS]: RECALL: Language is the primary meaning of Indo-Aryan; cultural profile is reconstructed around it but is not biologically bounded.",
+      "mechanism": "TRAP: Vedic religion was identical to later classical Hinduism. || Later traditions inherit and transform Vedic elements over centuries.",
+      "consequence": "MAINS ANGLE: Oral language and ritual created a portable identity capable of adaptation across regions.",
+      "trap": "RECALL: Language is the primary meaning of Indo-Aryan; cultural profile is reconstructed around it but is not biologically bounded.",
+      "answer": "RECALL: Language is the primary meaning of Indo-Aryan; cultural profile is reconstructed around it but is not biologically bounded."
+    },
+    {
+      "title": "HARAPPAN-TO-VEDIC RELATIONSHIP - DIFFERENCE, CONTINUITY AND CONTACT — [CORE MAINS]",
+      "terms": "Harappan-to-Vedic Relationship - Difference, Continuity and Contact — [CORE MAINS]: RECALL: A genetic ancestor is not necessarily a cultural ancestor in every institution.",
+      "mechanism": "It supports transformation, local continuity, later mobility and cultural synthesis.",
+      "consequence": "RECALL: A genetic ancestor is not necessarily a cultural ancestor in every institution.",
+      "trap": "RECALL: A genetic ancestor is not necessarily a cultural ancestor in every institution.",
+      "answer": "INFERENCE: The evidence favours neither total replacement nor simple identity."
+    },
+    {
+      "title": "POLITICAL MISUSE, PRESENTISM AND SOURCE CRITICISM — [CORE MAINS]",
+      "terms": "Political Misuse, Presentism and Source Criticism — [CORE MAINS]: INFERENCE: Source criticism is also an ethical discipline: it prevents ancient uncertainty from being weaponized as modern certainty.",
+      "mechanism": "TRAP: A balanced answer must avoid a conclusion. || It should reject false certainty and still rank models by evidence.",
+      "consequence": "RECALL: Reject ideological polemic and use neutral terms, dated publications and explicit caveats.",
+      "trap": "TRAP: A balanced answer must avoid a conclusion. || It should reject false certainty and still rank models by evidence.",
+      "answer": "FACT: The Aryan question has been used to justify colonial hierarchy, racial nationalism, linguistic chauvinism and competing modern claims to civilizational ownership."
+    },
+    {
+      "title": "MASTER UPSC TRAP MATRIX — [SUPPORTING]",
+      "terms": "Master UPSC Trap Matrix — [SUPPORTING]: MAINS ANGLE: Organize critical answers as claim - evidence - what it proves - limitation - graded conclusion.",
+      "mechanism": "MAINS ANGLE: Organize critical answers as claim - evidence - what it proves - limitation - graded conclusion.",
+      "consequence": "MAINS ANGLE: Organize critical answers as claim - evidence - what it proves - limitation - graded conclusion.",
+      "trap": "Answer-use: RECALL: For Prelims, eliminate any option that equates one evidence class with a total identity.",
+      "answer": "RECALL: For Prelims, eliminate any option that equates one evidence class with a total identity."
+    },
+    {
+      "title": "ANSWER-WRITING FRAMEWORK - EVIDENCE WEIGHING — [CORE MAINS]",
+      "terms": "TRAP: More evidence names automatically mean analysis. || Each example must state what it proves and its limitation.",
+      "mechanism": "TRAP: More evidence names automatically mean analysis. || Each example must state what it proves and its limitation.",
+      "consequence": "STUDY LINK: Use the final register \"PYQ answer spine\" for rapid practice.",
+      "trap": "TRAP: More evidence names automatically mean analysis. || Each example must state what it proves and its limitation.",
+      "answer": "RECALL: Every solved Mains answer below ends with \"Why this earns marks\"."
+    },
+    {
+      "title": "DEEP TEACHING UNIT 1: THE CATEGORY FIREWALL — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Deep Teaching Unit 1: The Category Firewall — [CORE PRELIMS + CORE MAINS]: Arya is a term inside a Vedic text; Indo-Aryan and Indo-Iranian are linguistic classifications; a pottery, burial or horse bone is archaeology; a genome is biological ancestry from a specific sample; race and nation are modern categories.",
+      "mechanism": "Arya is a term inside a Vedic text; Indo-Aryan and Indo-Iranian are linguistic classifications; a pottery, burial or horse bone is archaeology; a genome is biological ancestry from a specific sample; race and nation are modern categories.",
+      "consequence": "They may be historically related, but they are not interchangeable.",
+      "trap": "They may be historically related, but they are not interchangeable.",
+      "answer": "This topic becomes confusing when one word carries five different meanings."
+    },
+    {
+      "title": "DEEP TEACHING UNIT 2: LANGUAGE FAMILY LOGIC AND CONTACT — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Deep Teaching Unit 2: Language Family Logic and Contact — [CORE PRELIMS + CORE MAINS]: That is why Indo-Aryan's relationship with the Indo-Iranian and wider Indo-European families is strong evidence of linguistic history.",
+      "mechanism": "In a statement question, distinguish “language family” from “archaeological culture.” In a Mains answer, write: linguistic affinity is strong; the social mechanism of language spread is a further inference.",
+      "consequence": "That is why Indo-Aryan's relationship with the Indo-Iranian and wider Indo-European families is strong evidence of linguistic history.",
+      "trap": "Comparative linguistics does not rest on one similar-sounding word.",
+      "answer": "Comparative linguistics does not rest on one similar-sounding word."
+    },
+    {
+      "title": "DEEP TEACHING UNIT 3: RIG VEDA AS A LAYERED HISTORICAL SOURCE — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Deep Teaching Unit 3: Rig Veda as a Layered Historical Source — [CORE PRELIMS + CORE MAINS]: The Rig Veda is indispensable because it preserves early Indo-Aryan language and a north-western cultural milieu.",
+      "mechanism": "The Rig Veda is indispensable because it preserves early Indo-Aryan language and a north-western cultural milieu.",
+      "consequence": "Oral transmission, composition over time, poetic convention and textual layering mean that a hymn should be read for the limited historical question it can answer--for example, geography or ritual vocabulary--rather than treated as a report of a single arrival event.",
+      "trap": "It is not a modern chronological narrative.",
+      "answer": "The Rig Veda is indispensable because it preserves early Indo-Aryan language and a north-western cultural milieu."
+    },
+    {
+      "title": "DEEP TEACHING UNIT 4: ARCHAEOLOGY, CULTURE AND A CAUTIOUS CORRIDOR — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Deep Teaching Unit 4: Archaeology, Culture and a Cautious Corridor — [CORE PRELIMS + CORE MAINS]: The sensible task is therefore to sequence regional cultures and ask what contact or continuity is plausible, not to assign each pottery or cemetery to a named people.",
+      "mechanism": "The sensible task is therefore to sequence regional cultures and ask what contact or continuity is plausible, not to assign each pottery or cemetery to a named people.",
+      "consequence": "The sensible task is therefore to sequence regional cultures and ask what contact or continuity is plausible, not to assign each pottery or cemetery to a named people.",
+      "trap": "They cannot speak a language or announce an ethnicity.",
+      "answer": "Archaeological cultures classify recurring material patterns in a place and period."
+    },
+    {
+      "title": "DEEP TEACHING UNIT 5: HORSE, CHARIOT AND TECHNOLOGY PACKAGES — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Deep Teaching Unit 5: Horse, Chariot and Technology Packages — [CORE PRELIMS + CORE MAINS]: Horse and chariot evidence is high-yield because it connects zoology, technology and Vedic vocabulary.",
+      "mechanism": "Horse and chariot evidence is high-yield because it connects zoology, technology and Vedic vocabulary.",
+      "consequence": "Before calling evidence decisive, ask: is the species securely identified, is the context dated, are spoked wheels demonstrated, and how does it relate to the textual vocabulary?",
+      "trap": "Mitanni material supplies external Indo-Aryan-related names and technical vocabulary; it is evidence of an Indo-Iranian-linked world outside India, not a direct record of an Indian migration.",
+      "answer": "Horse and chariot evidence is high-yield because it connects zoology, technology and Vedic vocabulary."
+    },
+    {
+      "title": "DEEP TEACHING UNIT 6: GENETICS AND CLAIM BOUNDARIES — [CORE MAINS]",
+      "terms": "Deep Teaching Unit 6: Genetics and Claim Boundaries — [CORE MAINS]: Its reach is limited by preservation, sample number, cemetery/location bias, contamination control, reference populations and model choices.",
+      "mechanism": "Its reach is limited by preservation, sample number, cemetery/location bias, contamination control, reference populations and model choices.",
+      "consequence": "An ancestry component is a statistical description of affinity; it is not a language, race or named people.",
+      "trap": "An ancestry component is a statistical description of affinity; it is not a language, race or named people.",
+      "answer": "Ancient DNA can refine questions about biological relatedness and mixture in particular samples."
+    },
+    {
+      "title": "DEEP TEACHING UNIT 7: MIGRATION, NOT INVASION, AND THE ANSWER SPINE — [CORE MAINS]",
+      "terms": "Deep Teaching Unit 7: Migration, Not Invasion, and the Answer Spine — [CORE MAINS]: The older mass-invasion picture is weak because archaeology does not show a uniform, large-scale military destruction of Harappan cities and the chronology does not support a simple one-event replacement.",
+      "mechanism": "The older mass-invasion picture is weak because archaeology does not show a uniform, large-scale military destruction of Harappan cities and the chronology does not support a simple one-event replacement.",
+      "consequence": "That negative result does not demonstrate total isolation.",
+      "trap": "The older mass-invasion picture is weak because archaeology does not show a uniform, large-scale military destruction of Harappan cities and the chronology does not support a simple one-event replacement.",
+      "answer": "The older mass-invasion picture is weak because archaeology does not show a uniform, large-scale military destruction of Harappan cities and the chronology does not support a simple one-event replacement."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 3,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7760,
+      "y_end": 9960,
+      "overlap_px": 260,
+      "from_stage": 9,
+      "continues_stage": 12
+    },
+    {
+      "page": 6,
+      "y_start": 9700,
+      "y_end": 11900,
+      "overlap_px": 260,
+      "from_stage": 11,
+      "continues_stage": 14
+    },
+    {
+      "page": 7,
+      "y_start": 11640,
+      "y_end": 13840,
+      "overlap_px": 260,
+      "from_stage": 13,
+      "continues_stage": 16
+    },
+    {
+      "page": 8,
+      "y_start": 13580,
+      "y_end": 15780,
+      "overlap_px": 260,
+      "from_stage": 16,
+      "continues_stage": 18
+    },
+    {
+      "page": 9,
+      "y_start": 15520,
+      "y_end": 17720,
+      "overlap_px": 260,
+      "from_stage": 18,
+      "continues_stage": 20
+    },
+    {
+      "page": 10,
+      "y_start": 17460,
+      "y_end": 19660,
+      "overlap_px": 260,
+      "from_stage": 20,
+      "continues_stage": 23
+    },
+    {
+      "page": 11,
+      "y_start": 19400,
+      "y_end": 21600,
+      "overlap_px": 260,
+      "from_stage": 22,
+      "continues_stage": 25
+    },
+    {
+      "page": 12,
+      "y_start": 21340,
+      "y_end": 23540,
+      "overlap_px": 260,
+      "from_stage": 24,
+      "continues_stage": 27
+    },
+    {
+      "page": 13,
+      "y_start": 23280,
+      "y_end": 25480,
+      "overlap_px": 260,
+      "from_stage": 27,
+      "continues_stage": 29
+    },
+    {
+      "page": 14,
+      "y_start": 25220,
+      "y_end": 27420,
+      "overlap_px": 260,
+      "from_stage": 29,
+      "continues_stage": 31
+    },
+    {
+      "page": 15,
+      "y_start": 27160,
+      "y_end": 29360,
+      "overlap_px": 260,
+      "from_stage": 31,
+      "continues_stage": 34
+    },
+    {
+      "page": 16,
+      "y_start": 29100,
+      "y_end": 31300,
+      "overlap_px": 260,
+      "from_stage": 33,
+      "continues_stage": 36
+    },
+    {
+      "page": 17,
+      "y_start": 31040,
+      "y_end": 33240,
+      "overlap_px": 260,
+      "from_stage": 35,
+      "continues_stage": 38
+    },
+    {
+      "page": 18,
+      "y_start": 32980,
+      "y_end": 35180,
+      "overlap_px": 260,
+      "from_stage": 38,
+      "continues_stage": 40
+    },
+    {
+      "page": 19,
+      "y_start": 34920,
+      "y_end": 37120,
+      "overlap_px": 260,
+      "from_stage": 40,
+      "continues_stage": 42
+    },
+    {
+      "page": 20,
+      "y_start": 36860,
+      "y_end": 39060,
+      "overlap_px": 260,
+      "from_stage": 42,
+      "continues_stage": 44
+    },
+    {
+      "page": 21,
+      "y_start": 38800,
+      "y_end": 41000,
+      "overlap_px": 260,
+      "from_stage": 44,
+      "continues_stage": 47
+    },
+    {
+      "page": 22,
+      "y_start": 40740,
+      "y_end": 42940,
+      "overlap_px": 260,
+      "from_stage": 46,
+      "continues_stage": 49
+    },
+    {
+      "page": 23,
+      "y_start": 41514,
+      "y_end": 43714,
+      "overlap_px": 260,
+      "from_stage": 47,
+      "continues_stage": 49
+    }
+  ]
+}

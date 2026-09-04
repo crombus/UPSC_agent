@@ -1,0 +1,119 @@
+ASCII MASTER FLOW — PANEL 1/12: North-western contact zone and evidence ladder
+IRAN / CENTRAL ASIA
+         |
+Hindu Kush -> Kabul-Gandhara -> Indus -> Taxila -> Punjab rivers
+         |
+         +-> armies + merchants + envoys + scripts + coin forms
+EVIDENCE: royal inscription -> archaeology -> near-source report -> later narrative
+RULE: geography enabled contact; imperial capacity and local politics shaped outcomes.
+LIMIT: north-western campaigns must not be written as conquest of all India.
+
+ASCII MASTER FLOW — PANEL 2/12: Achaemenid inclusion: claim, reach and limits
+DARIUS DNa / XERXES XPh
+          |
+Gandara + Hidush named among subject countries
+          |
+Herodotus: tribute district + Indian/Gandarian contingents
+          v
+SECURE: imperial claim, extraction and military connection
+NOT SECURE: uniform borders, equal control or audited tribute totals
+
+ASCII MASTER FLOW — PANEL 3/12: Achaemenid mechanisms in the Indus frontier
+IMPERIAL EXPANSION
+      |
+satrapal mediation + tribute + garrisons + roads + multilingual administration
+      |
+north-west linked more closely to Iranian imperial circuits
+      v
+POSSIBLE LEGACIES: Aramaic-Kharosthi link, coin forms, political vocabulary
+CAUTION: contact precedent is not proof that Mauryan institutions were copied.
+
+ASCII MASTER FLOW — PANEL 4/12: Kharosthi and Aramaic: transmission without copying
+ARAMAIC IMPERIAL ENVIRONMENT -> ADAPTATION -> KHAROSTHI
+             |                              |
+      right-to-left script            local language use
+             |                              |
+Achaemenid contact likely aided transmission
+             v
+Earliest extensive secure Indian corpus is Mauryan/Ashokan and north-western.
+DISTINCTION: origin process != date of surviving inscriptions.
+
+ASCII MASTER FLOW — PANEL 5/12: Alexander's route: from Achaemenid world to Punjab
+327 BCE: Hindu Kush / Swat campaigns
+        -> Aornos tradition -> Indus crossing -> Taxila alliance
+326 BCE: Hydaspes (Jhelum) battle against Porus
+        -> Acesines (Chenab) -> Hydraotes (Ravi) -> Hyphasis (Beas)
+325 BCE: lower Indus operations -> Gedrosian return
+ROUTE RULE: several passes and valleys mattered; Khyber was not the only road.
+SITE RULE: Bhir belongs to early Taxila; Sirkap is later Indo-Greek.
+SOURCE RULE: surviving campaign narratives are later than the events.
+
+ASCII MASTER FLOW — PANEL 6/12: Hydaspes: battle mechanism and political settlement
+RIVER + MONSOON + PORUS'S ELEPHANTS
+              |
+concealed crossing -> flank pressure -> close battle -> Macedonian victory
+              |
+Porus restored and enlarged as subordinate regional ruler
+              v
+MECHANISM: conserve manpower + retain local legitimacy + create a buffer
+LIMIT: famous dialogue and exact tactics come through later literary shaping.
+
+ASCII MASTER FLOW — PANEL 7/12: Why the army stopped at the Beas
+BEAS HALT
+  |-- accumulated casualties and campaign fatigue
+  |-- monsoon, rivers, distance and supply strain
+  |-- reports of strong eastern armies and elephants
+  |-- soldiers' bargaining power after years of service
+  `-- diminishing confidence in unlimited advance
+VERDICT: a cumulative military-logistical-political refusal, not one fear factor.
+LIMIT: Nanda army figures are remembered scale, not audited statistics.
+
+ASCII MASTER FLOW — PANEL 8/12: Local agency: alliance, resistance and negotiated rule
+AMBHI / TAXILA          PORUS / HYDASPES          MALLOI AND OTHERS
+alliance and logistics  armed resistance          fortified resistance
+rivalry used externally defeat then restoration   severe local fighting
+          \                 |                 /
+           \-------- LOCAL POLITICAL AGENCY -----/
+External conquest advanced through existing conflicts, not across an empty frontier.
+Alliance was strategic choice; resistance varied by polity and terrain.
+Do not reduce north-western society to passive victims or willing collaborators.
+
+ASCII MASTER FLOW — PANEL 9/12: Consequences: direct, indirect and overclaimed
+DIRECT: short-lived Macedonian garrisons, satrapies, route knowledge, naval survey
+NEAR-TERM: power reordering in the north-west and successor conflicts
+LONGER CONTACT: coinage, art and diplomacy through later Hellenistic polities
+NOT DIRECT: Mauryan empire, Indo-Greek rule, Gandhara art centuries later
+             |
+             v
+Answer by chronology: event -> mechanism -> later transmission -> explicit limit.
+Avoid 'opened India to the West'; the corridor already had older connections.
+
+ASCII MASTER FLOW — PANEL 10/12: Mauryan and Seleucid bridge
+ALEXANDER'S DEATH (323 BCE)
+        -> unstable satrapies and successor struggles
+        -> Chandragupta's north-western expansion
+        -> Seleucus conflict and treaty, c. 305-301 BCE
+        -> territorial adjustment + diplomatic exchange
+MEGASTHENES: later-quoted observer at the Mauryan court
+BRIDGE: Macedonian withdrawal created opportunity, not automatic Mauryan victory.
+BOUNDARY: detailed Mauryan administration belongs to Topic 14.
+
+ASCII MASTER FLOW — PANEL 11/12: Prelims distinction grid
+Hydaspes = Jhelum        Hyphasis = Beas
+Acesines = Chenab        Hydraotes = Ravi
+Bhir = earliest historic Taxila phase
+Sirkap = later Hellenistic-grid city; Sirsukh = Kushana phase
+DNa/XPh = royal country lists; Herodotus = Greek narrative
+Arrian = later writer using lost earlier accounts
+Kharosthi = right-to-left; Aramaic linkage, not Alexander's invention
+TRAP FILTER: date + source class + geography + degree of certainty.
+
+ASCII MASTER FLOW — PANEL 12/12: Examiner-ready invasion answer spine
+INTRO: define the north-western scale and separate Iranian from Macedonian phases.
+BODY 1: geography and local polities
+BODY 2: Achaemenid inscription/text evidence and administrative contact
+BODY 3: Alexander route, Hydaspes settlement and Beas halt
+BODY 4: direct consequences versus later Hellenistic developments
+COUNTER: source distance, uncertain borders and exaggerated figures
+CONCLUSION: connected frontier + local agency + selective institutional effects
+WRITE: claim -> named evidence -> mechanism -> significance -> limit.

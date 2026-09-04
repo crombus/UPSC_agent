@@ -1,0 +1,1114 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ancient-indian-history-16",
+  "subject": "Ancient-Indian-History",
+  "title": "CENTRAL ASIAN CONTACTS: INDO-GREEKS, SHAKAS, KUSHANAS",
+  "short_route": "CONNECTED FRONTIER POLITIES, NOT → INDO-GREEK POLITICAL AND NUMISMATIC → MENANDER AND HELIODORUS: TWO → SHAKAS, PAHLAVAS AND KSHATRAPA → KUSHANA FORMATION AND CHRONOLOGY → KUSHANA POLITICAL GEOGRAPHY AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g5\\ancient-indian-history-16_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-16-deep-review-2026-09-03-g5.json",
+  "ascii_spec_sha256": "d73b55a26dfbe4ea4d752fec02b6cb80a175ebe09b51f5a608ac86809f802fac",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CONNECTED FRONTIER POLITIES, NOT ONE INVASION WAVE",
+      "structural_type": "spatial-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CONNECTED FRONTIER POLITIES, NOT ONE INVASION WAVE",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL ASIA",
+          "role": "outcome"
+        },
+        {
+          "text": "GANDHARA, PUNJAB AND SELECTED EASTERN ROUTES",
+          "role": "comparison"
+        },
+        {
+          "text": "TAXILA, MATHURA, WESTERN INDIA AND UPPER DECCAN",
+          "role": "evidence"
+        },
+        {
+          "text": "AFGHANISTAN-GANDHARA FRONTIER",
+          "role": "primary"
+        },
+        {
+          "text": "GREAT YUEZHI",
+          "role": "outcome"
+        },
+        {
+          "text": "KUSHANA CONSOLIDATION",
+          "role": "comparison"
+        },
+        {
+          "text": "SHUNGA/KANVA, SATAVAHANA AND TAMIL POLITIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BACTRIA / OXUS / CENTRAL ASIA",
+        "Indo-Greeks → Gandhara, Punjab and selected eastern routes",
+        "Shakas → Taxila, Mathura, western India and upper Deccan",
+        "Pahlavas → Afghanistan-Gandhara frontier",
+        "Great Yuezhi → Bactria → Kushana consolidation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "BACTRIA / OXUS / CENTRAL ASIA",
+            "Indo-Greeks → Gandhara, Punjab and selected eastern routes",
+            "Shakas → Taxila, Mathura, western India and upper Deccan"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "Pahlavas → Afghanistan-Gandhara frontier",
+            "Great Yuezhi → Bactria → Kushana consolidation",
+            "SIMULTANEOUS: Shunga/Kanva, Satavahana and Tamil polities"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "Groups overlapped in time and space; they were not one dynasty.",
+            "Origin, political territory and later cultural affiliation must be separated."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Origin, political territory and later cultural affiliation must be separated.",
+      "source_references": [
+        "Scope and chronology",
+        "Routes and political movement",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\16_Central-Asian-Contacts-Kushanas.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\16_Central-Asian-Contacts-Kushanas.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g4\\ancient-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g5\\ancient-indian-history-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "INDO-GREEK POLITICAL AND NUMISMATIC PROFILE",
+      "structural_type": "evidence-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INDO-GREEK POLITICAL AND NUMISMATIC PROFILE",
+          "role": "primary"
+        },
+        {
+          "text": "GRECO-BACTRIAN EXPANSION SOUTH OF HINDU KUSH REGIONAL INDO-GREEK KINGDOMS",
+          "role": "outcome"
+        },
+        {
+          "text": "COIN DISTRIBUTION MAPS CIRCULATION BETTER THAN EXACT SOVEREIGN BORDERS.",
+          "role": "comparison"
+        },
+        {
+          "text": "+ GREEK/KHAROSTHI LEGENDS + DEITIES + MONOGRAMS RULER SEQUENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GRECO-BACTRIAN EXPANSION SOUTH OF HINDU KUSH regional Indo-Greek kingdoms and competing rulers portrait coins",
+        "+ Greek/Kharosthi legends + deities + monograms ruler sequence, titulature, minting and cross-cultural communication",
+        "LIMIT: coin distribution maps circulation better than exact sovereign borders."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "GRECO-BACTRIAN EXPANSION SOUTH OF HINDU KUSH regional Indo-Greek kingdoms and competing rulers portrait coins",
+            "+ Greek/Kharosthi legends + deities + monograms ruler sequence, titulature, minting and cross-cultural communication"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "LIMIT: coin distribution maps circulation better than exact sovereign borders.",
+            "GRECO-BACTRIAN EXPANSION SOUTH OF HINDU KUSH regional Indo-Greek kingdoms and competing rulers portrait coins"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "+ Greek/Kharosthi legends + deities + monograms ruler sequence, titulature, minting and cross-cultural communication",
+            "LIMIT: coin distribution maps circulation better than exact sovereign borders."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: coin distribution maps circulation better than exact sovereign borders.",
+      "source_references": [
+        "Indo-Greeks",
+        "Coin evidence",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\16_Central-Asian-Contacts-Kushanas.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\16_Central-Asian-Contacts-Kushanas.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g4\\ancient-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g5\\ancient-indian-history-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "MENANDER AND HELIODORUS: TWO CONTACT MECHANISMS",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MENANDER AND HELIODORUS",
+          "role": "primary"
+        },
+        {
+          "text": "TWO CONTACT MECHANISMS",
+          "role": "outcome"
+        },
+        {
+          "text": "MILINDA HELIODORUS PILLAR",
+          "role": "comparison"
+        },
+        {
+          "text": "INDO-GREEK RULER ENVOY OF ANTIALCIDAS",
+          "role": "evidence"
+        },
+        {
+          "text": "MILINDAPANHO DIALOGUE BHAGABHADRA COURT AT BESNAGAR",
+          "role": "institution"
+        },
+        {
+          "text": "BUDDHIST MEMORY AND DEBATE VASUDEVA DEVOTION AND DIPLOMACY LITERARY",
+          "role": "outcome"
+        },
+        {
+          "text": "NEITHER CASE PROVES UNIFORM CONVERSION OF AN ENTIRE PEOPLE.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "MENANDER / MILINDA HELIODORUS PILLAR",
+        "Indo-Greek ruler envoy of Antialcidas",
+        "Milindapanho dialogue Bhagabhadra court at Besnagar",
+        "Buddhist memory and debate Vasudeva devotion and diplomacy literary text",
+        "with layers inscriptional diplomatic evidence cultural participation through different institutions"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "MENANDER / MILINDA HELIODORUS PILLAR",
+          "Milindapanho dialogue Bhagabhadra court at Besnagar",
+          "with layers inscriptional diplomatic evidence cultural participation through different institutions"
+        ],
+        [
+          "Indo-Greek ruler envoy of Antialcidas",
+          "Buddhist memory and debate Vasudeva devotion and diplomacy literary text",
+          "Neither case proves uniform conversion of an entire people."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "MENANDER / MILINDA HELIODORUS PILLAR",
+            "Indo-Greek ruler envoy of Antialcidas"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Milindapanho dialogue Bhagabhadra court at Besnagar",
+            "Buddhist memory and debate Vasudeva devotion and diplomacy literary text"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "with layers inscriptional diplomatic evidence cultural participation through different institutions",
+            "Neither case proves uniform conversion of an entire people."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Neither case proves uniform conversion of an entire people.",
+      "source_references": [
+        "Menander",
+        "Heliodorus pillar",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\16_Central-Asian-Contacts-Kushanas.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\16_Central-Asian-Contacts-Kushanas.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g4\\ancient-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g5\\ancient-indian-history-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SHAKAS, PAHLAVAS AND KSHATRAPA RULE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SHAKAS, PAHLAVAS AND KSHATRAPA RULE",
+          "role": "primary"
+        },
+        {
+          "text": "SHAKA MOVEMENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "REGIONAL BRANCHES AND SATRAPAL/KSHATRAPA TITLES",
+          "role": "comparison"
+        },
+        {
+          "text": "AZES TRADITIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "NORTH-WESTERN SEQUENCES",
+          "role": "primary"
+        },
+        {
+          "text": "RAJUVULA AND SUCCESSORS",
+          "role": "outcome"
+        },
+        {
+          "text": "MATHURA SPHERE",
+          "role": "comparison"
+        },
+        {
+          "text": "WESTERN INDIA AND SATAVAHANA CONFLICT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SHAKA MOVEMENTS → regional branches and satrapal/kshatrapa titles",
+        "Maues / Azes traditions → north-western sequences",
+        "Rajuvula and successors → Mathura sphere",
+        "Nahapana / Kshaharata → western India and Satavahana conflict",
+        "Chashtana / Rudradaman → Western Kshatrapa consolidation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "SHAKA MOVEMENTS → regional branches and satrapal/kshatrapa titles",
+            "Maues / Azes traditions → north-western sequences",
+            "Rajuvula and successors → Mathura sphere"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "Nahapana / Kshaharata → western India and Satavahana conflict",
+            "Chashtana / Rudradaman → Western Kshatrapa consolidation",
+            "PAHLAVA / INDO-PARTHIAN → Gondophares and frontier rule"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP: Nahapana and Rudradaman belong to different Shaka branches.",
+            "Use inscription and coin chronology; avoid one neat replacement queue."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Nahapana and Rudradaman belong to different Shaka branches.",
+      "source_references": [
+        "Shakas",
+        "Pahlavas and Western Kshatrapas",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\16_Central-Asian-Contacts-Kushanas.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\16_Central-Asian-Contacts-Kushanas.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g4\\ancient-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g5\\ancient-indian-history-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "KUSHANA FORMATION AND CHRONOLOGY",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "KUSHANA FORMATION AND CHRONOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "GREAT YUEZHI MOVEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "KUJULA KADPHISES",
+          "role": "comparison"
+        },
+        {
+          "text": "VIMA TAKTO",
+          "role": "evidence"
+        },
+        {
+          "text": "SOTER MEGAS",
+          "role": "primary"
+        },
+        {
+          "text": "DEBATED IDENTIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "VIMA KADPHISES",
+          "role": "comparison"
+        },
+        {
+          "text": "GOLD AND SHAIVA IMAGERY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GREAT YUEZHI MOVEMENT → BACTRIA → GUISHUANG / KUSHANA",
+        "Kujula Kadphises → consolidation",
+        "Vima Takto / Soter Megas → debated identification",
+        "Vima Kadphises → gold and Shaiva imagery",
+        "Kanishka I → commonly c. 127 CE, not automatically 78 CE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "GREAT YUEZHI MOVEMENT → BACTRIA → GUISHUANG / KUSHANA",
+            "Kujula Kadphises → consolidation",
+            "Vima Takto / Soter Megas → debated identification"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "Vima Kadphises → gold and Shaiva imagery",
+            "Kanishka I → commonly c. 127 CE, not automatically 78 CE",
+            "Huvishka → Vasudeva → later Kushana phases"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "Rabatak inscription helps ruler order and imperial self-definition.",
+            "Separate Shaka Era 78 CE from Kanishka's currently favoured chronology."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Separate Shaka Era 78 CE from Kanishka's currently favoured chronology.",
+      "source_references": [
+        "Kushana origins",
+        "Kanishka chronology",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\16_Central-Asian-Contacts-Kushanas.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\16_Central-Asian-Contacts-Kushanas.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g4\\ancient-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g5\\ancient-indian-history-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "KUSHANA POLITICAL GEOGRAPHY AND GOVERNANCE",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "KUSHANA POLITICAL GEOGRAPHY AND GOVERNANCE",
+          "role": "primary"
+        },
+        {
+          "text": "GANDHARA ---- TAXILA ---- PUNJAB",
+          "role": "outcome"
+        },
+        {
+          "text": "MATHURA MULTI-CENTRED NODES + SUBORDINATE RULERS + KSHATRAPA/OFFICIAL TITLES",
+          "role": "comparison"
+        },
+        {
+          "text": "DEVAPUTRA AND ROYAL IMAGERY EXPRESS EXALTED SOVEREIGNTY.",
+          "role": "evidence"
+        },
+        {
+          "text": "A NETWORKED EMPIRE NEED NOT POSSESS UNIFORM DISTRICTS OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BACTRIA / BEGRAM",
+        "PURUSHAPURA / GANDHARA ---- TAXILA ---- PUNJAB",
+        "MATHURA multi-centred nodes + subordinate rulers + kshatrapa/official titles",
+        "Devaputra and royal imagery express exalted sovereignty.",
+        "A networked empire need not possess uniform districts or one capital."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "BACTRIA / BEGRAM",
+            "PURUSHAPURA / GANDHARA ---- TAXILA ---- PUNJAB"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "MATHURA multi-centred nodes + subordinate rulers + kshatrapa/official titles",
+            "Devaputra and royal imagery express exalted sovereignty."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "A networked empire need not possess uniform districts or one capital.",
+            "BACTRIA / BEGRAM"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A networked empire need not possess uniform districts or one capital.",
+      "source_references": [
+        "Kushana state",
+        "Political geography",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\16_Central-Asian-Contacts-Kushanas.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\16_Central-Asian-Contacts-Kushanas.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g4\\ancient-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g5\\ancient-indian-history-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "COINS, TRADE AND ROUTE PARTICIPATION",
+      "structural_type": "economic-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "COINS, TRADE AND ROUTE PARTICIPATION",
+          "role": "primary"
+        },
+        {
+          "text": "SILK-ROUTE BRANCHES + INDIAN OCEAN LINKS + INNER-ASIAN CORRIDORS",
+          "role": "outcome"
+        },
+        {
+          "text": "GOLD COINS DO NOT PROVE UNIVERSAL PROSPERITY OR EXCLUSIVE",
+          "role": "caution"
+        },
+        {
+          "text": "CARAVAN/URBAN DEMAND MERCHANTS, GUILDS, MONASTERIES, PORTS AND POLITICAL NODES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SILK-ROUTE BRANCHES + INDIAN OCEAN LINKS + INNER-ASIAN CORRIDORS gold and copper coinage + customs",
+        "caravan/urban demand merchants, guilds, monasteries, ports and political nodes high-value monetary capacity and transregional exchange",
+        "LIMIT: gold coins do not prove universal prosperity or exclusive route control."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SILK-ROUTE BRANCHES + INDIAN OCEAN LINKS + INNER-ASIAN CORRIDORS gold and copper coinage + customs +",
+            "caravan/urban demand merchants, guilds, monasteries, ports and political nodes high-value monetary capacity and transregional exchange"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "LIMIT: gold coins do not prove universal prosperity or exclusive route control.",
+            "SILK-ROUTE BRANCHES + INDIAN OCEAN LINKS + INNER-ASIAN CORRIDORS gold and copper coinage + customs +"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "caravan/urban demand merchants, guilds, monasteries, ports and political nodes high-value monetary capacity and transregional exchange",
+            "LIMIT: gold coins do not prove universal prosperity or exclusive route control."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: gold coins do not prove universal prosperity or exclusive route control.",
+      "source_references": [
+        "Trade and coinage",
+        "Silk routes",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\16_Central-Asian-Contacts-Kushanas.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\16_Central-Asian-Contacts-Kushanas.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g4\\ancient-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g5\\ancient-indian-history-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "RELIGIOUS PLURALITY AND BUDDHIST PATRONAGE",
+      "structural_type": "evidence-grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RELIGIOUS PLURALITY AND BUDDHIST PATRONAGE",
+          "role": "primary"
+        },
+        {
+          "text": "IRANIAN, GREEK, INDIAN AND BUDDHIST DEITIES ACROSS RULERS",
+          "role": "outcome"
+        },
+        {
+          "text": "BUDDHIST STUPAS AND MONASTERIES IN GANDHARA AND MATHURA WORLDS",
+          "role": "comparison"
+        },
+        {
+          "text": "KANISHKA MEMORY",
+          "role": "evidence"
+        },
+        {
+          "text": "MAJOR BUDDHIST PATRON AND COUNCIL TRADITIONS",
+          "role": "institution"
+        },
+        {
+          "text": "LONGER DOCTRINAL-SOCIAL DEVELOPMENT, NOT ONE RULER'S INVENTION",
+          "role": "caution"
+        },
+        {
+          "text": "BUDDHIST, JAINA, BRAHMANICAL AND ROYAL IMAGES",
+          "role": "comparison"
+        },
+        {
+          "text": "ROYAL POLICY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COINS: Iranian, Greek, Indian and Buddhist deities across rulers",
+        "MONUMENTS: Buddhist stupas and monasteries in Gandhara and Mathura worlds",
+        "KANISHKA MEMORY: major Buddhist patron and council traditions",
+        "MAHAYANA: longer doctrinal-social development, not one ruler's invention",
+        "MATHURA: Buddhist, Jaina, Brahmanical and royal images"
+      ],
+      "matrix": [
+        [
+          "SOURCE / MATERIAL",
+          "METHOD / DEBATE",
+          "HISTORICAL RESULT"
+        ],
+        [
+          "COINS: Iranian, Greek, Indian and Buddhist deities across rulers",
+          "MAHAYANA: longer doctrinal-social development, not one ruler's invention",
+          "Personal belief cannot be reconstructed from one coin or later legend."
+        ],
+        [
+          "MONUMENTS: Buddhist stupas and monasteries in Gandhara and Mathura worlds",
+          "MATHURA: Buddhist, Jaina, Brahmanical and royal images",
+          "Patronage, public iconography and doctrinal origin are different questions."
+        ],
+        [
+          "KANISHKA MEMORY: major Buddhist patron and council traditions",
+          "ROYAL POLICY: plural engagement and legitimation across constituencies",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "COINS: Iranian, Greek, Indian and Buddhist deities across rulers",
+            "MONUMENTS: Buddhist stupas and monasteries in Gandhara and Mathura worlds",
+            "KANISHKA MEMORY: major Buddhist patron and council traditions"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "MAHAYANA: longer doctrinal-social development, not one ruler's invention",
+            "MATHURA: Buddhist, Jaina, Brahmanical and royal images",
+            "ROYAL POLICY: plural engagement and legitimation across constituencies"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "Personal belief cannot be reconstructed from one coin or later legend.",
+            "Patronage, public iconography and doctrinal origin are different questions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Patronage, public iconography and doctrinal origin are different questions.",
+      "source_references": [
+        "Religion",
+        "Kanishka and Mahayana",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\16_Central-Asian-Contacts-Kushanas.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\16_Central-Asian-Contacts-Kushanas.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g4\\ancient-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g5\\ancient-indian-history-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "GANDHARA AND MATHURA COMPARED",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GANDHARA AND MATHURA COMPARED",
+          "role": "primary"
+        },
+        {
+          "text": "GANDHARA MATHURA GREY SCHIST AND STUCCO RED SANDSTONE LAYERED",
+          "role": "outcome"
+        },
+        {
+          "text": "BUDDHIST NARRATIVE PROMINENCE BUDDHIST, JAINA, BRAHMANICAL AND ROYAL RANGE",
+          "role": "comparison"
+        },
+        {
+          "text": "NEITHER SCHOOL WAS PURE, ISOLATED OR MERELY A COPY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GANDHARA MATHURA grey schist and stucco red sandstone layered Hellenised forms older local sculptural idioms",
+        "Buddhist narrative prominence Buddhist, Jaina, Brahmanical and royal range drapery and body",
+        "modelling frontal force and indigenous conventions interaction, workshops and Kushana patronage",
+        "Neither school was pure, isolated or merely a copy of the other."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "GANDHARA MATHURA grey schist and stucco red sandstone layered Hellenised forms older local sculptural idioms",
+          "modelling frontal force and indigenous conventions interaction, workshops and Kushana patronage",
+          "GANDHARA MATHURA grey schist and stucco red sandstone layered Hellenised forms older local sculptural idioms"
+        ],
+        [
+          "Buddhist narrative prominence Buddhist, Jaina, Brahmanical and royal range drapery and body",
+          "Neither school was pure, isolated or merely a copy of the other.",
+          "Buddhist narrative prominence Buddhist, Jaina, Brahmanical and royal range drapery and body"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "GANDHARA MATHURA grey schist and stucco red sandstone layered Hellenised forms older local sculptural idioms",
+            "Buddhist narrative prominence Buddhist, Jaina, Brahmanical and royal range drapery and body"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "modelling frontal force and indigenous conventions interaction, workshops and Kushana patronage",
+            "Neither school was pure, isolated or merely a copy of the other."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "GANDHARA MATHURA grey schist and stucco red sandstone layered Hellenised forms older local sculptural idioms",
+            "Buddhist narrative prominence Buddhist, Jaina, Brahmanical and royal range drapery and body"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Neither school was pure, isolated or merely a copy of the other.",
+      "source_references": [
+        "Gandhara art",
+        "Mathura art",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\16_Central-Asian-Contacts-Kushanas.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\16_Central-Asian-Contacts-Kushanas.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g4\\ancient-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g5\\ancient-indian-history-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "LANGUAGE, SCRIPT AND KNOWLEDGE EXCHANGE",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LANGUAGE, SCRIPT AND KNOWLEDGE EXCHANGE",
+          "role": "primary"
+        },
+        {
+          "text": "GREEK + KHAROSTHI ON INDO-GREEK AND NORTH-WESTERN COINS",
+          "role": "outcome"
+        },
+        {
+          "text": "BACTRIAN IN GREEK SCRIPT IN KUSHANA ROYAL USAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "PRAKRIT-BRAHMI ACROSS MANY INDIAN INSCRIPTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "SANSKRIT COURTLY EXPANSION IN RUDRADAMAN'S JUNAGADH INSCRIPTION",
+          "role": "evidence"
+        },
+        {
+          "text": "ASTRAL KNOWLEDGE",
+          "role": "outcome"
+        },
+        {
+          "text": "SELECTIVE GREEK VOCABULARY/TEXTUAL INFLUENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "HELIODORUS AND MULTILINGUAL ROYAL COMMUNICATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GREEK + KHAROSTHI on Indo-Greek and north-western coins",
+        "BACTRIAN in Greek script in Kushana royal usage",
+        "PRAKRIT-BRAHMI across many Indian inscriptions",
+        "SANSKRIT courtly expansion in Rudradaman's Junagadh inscription",
+        "ASTRAL KNOWLEDGE: selective Greek vocabulary/textual influence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "GREEK + KHAROSTHI on Indo-Greek and north-western coins",
+            "BACTRIAN in Greek script in Kushana royal usage",
+            "PRAKRIT-BRAHMI across many Indian inscriptions"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "SANSKRIT courtly expansion in Rudradaman's Junagadh inscription",
+            "ASTRAL KNOWLEDGE: selective Greek vocabulary/textual influence",
+            "DIPLOMACY/RELIGION: Heliodorus and multilingual royal communication"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Exchange transformed imported forms through local languages and institutions.",
+            "Do not infer ethnicity directly from script or single technical term."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Do not infer ethnicity directly from script or single technical term.",
+      "source_references": [
+        "Language and script",
+        "Knowledge exchange",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\16_Central-Asian-Contacts-Kushanas.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\16_Central-Asian-Contacts-Kushanas.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g4\\ancient-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g5\\ancient-indian-history-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MUTUAL IMPACT, ADAPTATION AND DECLINE",
+      "structural_type": "debate-evidence-verdict",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "MUTUAL IMPACT, ADAPTATION AND DECLINE",
+          "role": "caution"
+        },
+        {
+          "text": "COIN PORTRAITURE, TITLES, ARTISTIC FORMS AND ROUTE CONNECTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "LANGUAGES, RELIGIONS, POLITICAL OFFICES AND PATRONAGE NETWORKS RECIPROCAL ADAPTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "SASANIAN PRESSURE IN WEST + REGIONAL SUCCESSORS + CHANGING",
+          "role": "evidence"
+        },
+        {
+          "text": "'INDIANISATION' IS NEGOTIATED SYNTHESIS, NOT ONE-WAY CULTURAL SURRENDER.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "INCOMING: coin portraiture, titles, artistic forms and route connections",
+        "LOCAL: languages, religions, political offices and patronage networks reciprocal adaptation and legitimation regional identities persist",
+        "power and exchange remain unequal",
+        "DECLINE: Sasanian pressure in west + regional successors + changing routes",
+        "VERDICT: 'Indianisation' is negotiated synthesis, not one-way cultural surrender."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "INCOMING: coin portraiture, titles, artistic forms and route connections",
+            "LOCAL: languages, religions, political offices and patronage networks reciprocal adaptation and legitimation regional identities persist"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "power and exchange remain unequal",
+            "DECLINE: Sasanian pressure in west + regional successors + changing routes"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "VERDICT: 'Indianisation' is negotiated synthesis, not one-way cultural surrender.",
+            "INCOMING: coin portraiture, titles, artistic forms and route connections"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: 'Indianisation' is negotiated synthesis, not one-way cultural surrender.",
+      "answer_line": "'Indianisation' is negotiated synthesis, not one-way cultural surrender.",
+      "source_references": [
+        "Mutual impact",
+        "Decline and legacy",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\16_Central-Asian-Contacts-Kushanas.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\16_Central-Asian-Contacts-Kushanas.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g4\\ancient-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g5\\ancient-indian-history-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "EXAMINER-READY CENTRAL ASIAN CONTACTS SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EXAMINER-READY CENTRAL ASIAN CONTACTS SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATE INDO-GREEKS, SHAKAS, PAHLAVAS AND KUSHANAS BY TIME AND",
+          "role": "outcome"
+        },
+        {
+          "text": "BODY 1",
+          "role": "comparison"
+        },
+        {
+          "text": "ROUTES, POLITICAL CHRONOLOGY AND EVIDENCE CLASSES",
+          "role": "evidence"
+        },
+        {
+          "text": "BODY 2",
+          "role": "primary"
+        },
+        {
+          "text": "COINS, TITLES, GOVERNANCE AND TRADE NETWORKS",
+          "role": "outcome"
+        },
+        {
+          "text": "BODY 3",
+          "role": "comparison"
+        },
+        {
+          "text": "RELIGION, GANDHARA-MATHURA ART AND LANGUAGE EXCHANGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INTRO: separate Indo-Greeks, Shakas, Pahlavas and Kushanas by time and region.",
+        "BODY 1: routes, political chronology and evidence classes",
+        "BODY 2: coins, titles, governance and trade networks",
+        "BODY 3: religion, Gandhara-Mathura art and language exchange",
+        "BODY 4: reciprocal adaptation, regional variation and chronology disputes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "INTRO: separate Indo-Greeks, Shakas, Pahlavas and Kushanas by time and region.",
+            "BODY 1: routes, political chronology and evidence classes",
+            "BODY 2: coins, titles, governance and trade networks"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "BODY 3: religion, Gandhara-Mathura art and language exchange",
+            "BODY 4: reciprocal adaptation, regional variation and chronology disputes",
+            "COUNTER: coin-distribution limits, later traditions and 'foreign' essentialism"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CONCLUSION: contact produced durable synthesis without erasing difference.",
+            "WRITE: group → ruler/source → region → mechanism → impact → limit."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WRITE: group → ruler/source → region → mechanism → impact → limit.",
+      "source_references": [
+        "Mains answer architecture",
+        "Consolidated register notes",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\16_Central-Asian-Contacts-Kushanas.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\16_Central-Asian-Contacts-Kushanas.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g4\\ancient-indian-history-16_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-16\\g5\\ancient-indian-history-16_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "outcome"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "evidence"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "primary"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "comparison"
+        },
+        {
+          "text": "7. MAINS ANGLES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data",
+            "3. Study links"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link",
+            "7. Mains angles"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "+ Gandhara vs Mathura quick lens",
+            "Historical PYQ Integration (2018-2023)",
+            "Indo-Greek political control in Gandhara ended due to conflicts with Indo-Parthians and Shakas.",
+            "Rajuvula, the Shaka Kshatrapa of Mathura, defeated the Indo-Greek Strato III and captured Sagala (Sialkot) in the early 1st century CE."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

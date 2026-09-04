@@ -1,0 +1,332 @@
+#### ASCII MASTER FLOW — PANEL 1/8: The Rig Vedic Age (Early Vedic): central question and analytical axes
+
+```ascii-master
+THE RIG VEDIC AGE (EARLY VEDIC) — CONCEPTUAL ATLAS
+
+
+KEY TERMS: The Rig Veda • Corpus • Composition • Layers • Oral Transmission •
+KEY TERMS: Background/qualification
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of The Rig Vedic Age (Early Vedic)
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       INTERPRETATION: Oral transmission is neither 'primitive memory' nor a…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: THE RIG VEDA: CORPUS, COMPOSITION, LAYERS AND ORAL TRANSMISSION
+  • The Rig Veda
+  • The corpus was preserved and transmitted by specialist ritual…
+AXIS 2: SOCIETY: HOUSEHOLD, KINSHIP, FAMILY AND MARRIAGE
+  • Society
+  • The society was patrilineal and patriarchal in broad tendency…
+AXIS 3: HISTORIOGRAPHICAL INTERPRETATIONS AND SOURCE CRITICISM
+  • Historiographical Interpretations
+  • Rank propositions: language family relationship is secure
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  The Rig Veda • Corpus • Composition • Layers
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Rigveda, chronology, geography and kin-based political order
+
+```ascii-master
+RIGVEDA, CHRONOLOGY, GEOGRAPHY AND KIN-BASED POLITICAL ORDER
+
+
+KEY TERMS: The Rig Veda • Corpus • Composition • Layers • Oral Transmission •
+KEY TERMS: Background/qualification
+STAGE 01  THE RIG VEDA: CORPUS, COMPOSITION, LAYERS AND ORAL TRANSMISSION
+  ├─ CONDITION / TERM: INTERPRETATION: Oral transmission is neither 'primitive
+  ├─ CONDITION / TERM: memory' nor a guarantee that historians can read every
+  ├─ CONDITION / TERM: verse…
+  ├─ CHANGE / MECHANISM: The corpus was preserved and transmitted by specialist
+  ├─ CHANGE / MECHANISM: ritual…
+  └─ OUTCOME: Oral preservation can conserve wording with high precision while…
+                  │
+                  ▼
+STAGE 02  RELATIVE CHRONOLOGY AND THE DANGER OF A SINGLE DATE
+  ├─ CONDITION / TERM: INTERPRETATION: Relative layers are stronger than a single
+  ├─ CONDITION / TERM: absolute date because linguistic, ritual and institutional…
+  ├─ CHANGE / MECHANISM: Frame the answer through Relative Chronology
+  └─ OUTCOME: 1500/1200-1000 BCE range is a working teaching horizon, not a date…
+                  │
+                  ▼
+STAGE 03  GEOGRAPHICAL SETTING: SAPTA-SINDHU, RIVERS, ECOLOGY AND LIMITS
+  ├─ CONDITION / TERM: INTERPRETATION: River praise encodes movement, ritual
+  ├─ CONDITION / TERM: landscape and…
+  ├─ CHANGE / MECHANISM: INTERPRETATION: River praise encodes movement, ritual
+  ├─ CHANGE / MECHANISM: landscape and…
+  └─ OUTCOME: Do not turn an uncertain river history into a fixed date for the…
+                  │
+                  ▼
+STAGE 04  POLITICAL ORGANISATION: KIN UNITS, RAJAN AND THE LIMITS OF STATEHOOD
+  ├─ CONDITION / TERM: Sharma reconstructs sabha, samiti, vidatha and gana as…
+  ├─ CHANGE / MECHANISM: INTERPRETATION: Chiefship was constrained less by a
+  ├─ CHANGE / MECHANISM: constitution…
+  └─ OUTCOME: Sharma reconstructs sabha, samiti, vidatha and gana as…
+                  │
+                  ▼
+STAGE 05  ASSEMBLIES, OFFICIALS, BALI AND REDISTRIBUTION
+  ├─ CONDITION / TERM: Bali in the early context is best understood as an offering
+  ├─ CONDITION / TERM: or…
+  ├─ CHANGE / MECHANISM: Chiefs, priests and patrons could accumulate prestige and
+  ├─ CHANGE / MECHANISM: command…
+  └─ OUTCOME: Bali in the early context is best understood as an offering or…
+                  │
+                  ▼
+SEQUENCE CONTROL: chronology is evidence-led, not a bare dynasty/date list.
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Warfare, economy, society, differentiation and deity system
+
+```ascii-master
+WARFARE, ECONOMY, SOCIETY, DIFFERENTIATION AND DEITY SYSTEM
+
+
+KEY TERMS: Warfare • Dasharajna • The Absence Of Territorial Empire • ROOT • Proves •
+KEY TERMS: Suggests
+CAUSE / CONDITION 1: INTERPRETATION: Warfare enhanced the rajan's prestige but did…
+          │
+          ├── MECHANISM
+          │   Vishvamitra's replacement by Vasishtha as Sudas's purohita…
+          │
+          └── EFFECT / CONTRAST
+              INTERPRETATION: Warfare enhanced the rajan's prestige but did not…
+          │
+          ▼
+CAUSE / CONDITION 2: Economy: Cattle Wealth And Pastoral Predominance comprises…
+          │
+          ├── MECHANISM
+          │   Cattle were the most visible store of wealth, measure of…
+          │
+          └── EFFECT / CONTRAST
+              This supports pastoral dominance in elite values, not a claim that…
+          │
+          ▼
+CAUSE / CONDITION 3: Exchange was organised through gifts, cattle, barter, tribute…
+          │
+          ├── MECHANISM
+          │   Exchange was organised through gifts, cattle, barter, tribute and…
+          │
+          └── EFFECT / CONTRAST
+              Wells and water-lifting vocabulary do not prove large public…
+          │
+          ▼
+CAUSE / CONDITION 4: The society was patrilineal and patriarchal in broad…
+          │
+          ├── MECHANISM
+          │   The society was patrilineal and patriarchal in broad tendency, yet
+          │   early evidence also shows variation in marriage and…
+          │
+          └── EFFECT / CONTRAST
+              INTERPRETATION: The early phase may preserve wider female…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Rita, yajna, material culture, mobility and cultural synthesis
+
+```ascii-master
+RITA, YAJNA, MATERIAL CULTURE, MOBILITY AND CULTURAL SYNTHESIS
+│
+
+KEY TERMS: Rita • Yajna • Soma • Priestly Mediation • Yajamana/patron • Priest and mantra
+├── KEY CONCEPTS
+│   ├── Rita
+│   ├── Yajna
+│   ├── Soma
+│   ├── Priestly Mediation
+│   └── Yajamana/patron
+│
+├── RITA, YAJNA, SOMA AND PRIESTLY MEDIATION
+│   ├─ TERMS: Rita and social order: Successful ritual is imagined within a wider…
+│   ├─ LOGIC: Rita and social order: Successful ritual is imagined within a wider…
+│   └─ RESULT: Book 9's Soma concentration reflects liturgical organisation, not
+│   └─ RESULT: a…
+├── FUNERARY IDEAS, AFTERLIFE AND PHILOSOPHICAL HYMNS
+│   ├─ TERMS: Funerary hymns ask fire not to destroy the deceased completely and
+│   ├─ TERMS: imagine passage to ancestors
+│   ├─ LOGIC: The corpus contains cremation and burial imagery, ancestors, Yama,
+│   ├─ LOGIC: hopes for an afterlife and speculative creation hymns
+│   └─ RESULT: INTERPRETATION: Speculative hymns show intellectual diversity…
+├── MATERIAL CULTURE: HORSE, CHARIOT, WEAPONS AND ARCHAEOLOGY…
+│   ├─ TERMS: Archaeology is strongest for vehicle construction, settlement and…
+│   ├─ LOGIC: Upinder Singh notes that Sintashta produced early spoked-wheel…
+│   └─ RESULT: Horse and chariot imagery had high martial and ritual prestige
+├── CONFLICT, MOBILITY, INTERACTION AND CULTURAL SYNTHESIS
+│   ├─ TERMS: 'Cultural synthesis' should not sanitise violence or hierarchy
+│   ├─ LOGIC: Interaction could include conflict, unequal incorporation and…
+│   └─ RESULT: The corpus presents neither an isolated pure culture nor a simple
+│   └─ RESULT: replacement story
+├── HARAPPAN, POST-HARAPPAN AND RIGVEDIC COMPARISON
+│   ├─ TERMS: The best model is neither 'Harappans vanished' nor 'Harappan equals…
+│   ├─ LOGIC: Wrong: Harappan and Rigvedic are identical because they share a…
+│   └─ RESULT: The best model is neither 'Harappans vanished' nor 'Harappan
+│   └─ RESULT: equals…
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Harappan/Vedic and Early/Later Vedic comparisons; source criticism
+
+```ascii-master
+HARAPPAN/VEDIC AND EARLY/LATER VEDIC COMPARISONS; SOURCE CRITICISM
+
+
+KEY TERMS: Early Versus Later Vedic • Comparison Without Backward Projection • Geography •
+KEY TERMS: EARLY VERSUS LATER VEDIC: COMPARISON… • Historiographical Interpretations •
+KEY TERMS: Source Criticism
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ EARLY VERSUS LATER     │ PGW is not all Later Vedic    │ PGW is not all Later Vedic    │
+│ VEDIC: COMPARISON      │ society and is not an ethnic  │ society and is not an ethnic  │
+│ WITHOUT BACKWARD       │ label                         │ label                         │
+│ PROJECTION             │                               │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ HISTORIOGRAPHICAL      │ INTERPRETATION: Older racial  │ ROOT: CLAIM Evidence: Name    │
+│ INTERPRETATIONS AND    │ readings converted linguistic │ text, term, site or study     │
+│ SOURCE CRITICISM       │ labels…                       │ Proof: State…                 │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ CONTINUITY AND CHANGE  │ The most defensible           │ Patriarchy, kinship or cattle │
+│ IN INDIAN SOCIETY -    │ continuities are              │ value are not uniquely Vedic  │
+│ CAREFULLY QUALIFIED    │ textual-ritual and conceptual │ and…                          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ TERMINOLOGY BANK AND   │ Vis Constituent people/clan   │ Varna: emerging broad social  │
+│ RAPID DISTINCTIONS     │ segment Not modern district   │ category                      │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ DEEP TEACHING UNIT 1:  │ The Rig Veda is the earliest  │ 1500-1000 BCE is a working    │
+│ CORPUS, LAYERS AND A   │ Vedic corpus and a rich       │ frame, not a date stamped on  │
+│ WORKING CHRONOLOGY     │ historical source because it  │ every hymn                    │
+│                        │ preserves…                    │                               │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Deep synthesis: kinship, economy, society, religion and transition
+
+```ascii-master
+DEEP SYNTHESIS: KINSHIP, ECONOMY, SOCIETY, RELIGION AND TRANSITION
+
+
+KEY TERMS: Deep Teaching Unit 3 • Kinship • Rajan • Assemblies • Sabha • Purohita
+                 CLAIM / SYSTEM UNDER EXAMINATION
+                                  │
+                                  ▼
+PROBLEM / OBJECTION 1
+  ├─ ISSUE: Chiefship and assemblies are real
+  ├─ RESPONSE / CONTROL: Bali is a voluntary offering/tribute in this setting, not
+  ├─ RESPONSE / CONTROL: a regular…
+  └─ QUALIFIED VERDICT: The key Mains formula is “kin-based chiefship with limited
+  └─ QUALIFIED VERDICT: offices…
+                  │
+                  ▼
+PROBLEM / OBJECTION 2
+  ├─ ISSUE: They do not establish later-style large-scale canal agriculture or…
+  ├─ RESPONSE / CONTROL: Cattle were central to wealth, gift, warfare and elite
+  ├─ RESPONSE / CONTROL: value
+  └─ QUALIFIED VERDICT: The historical distinction is one of relative emphasis,
+  └─ QUALIFIED VERDICT: not a false…
+                  │
+                  ▼
+PROBLEM / OBJECTION 3
+  ├─ ISSUE: Women appear in some ritual/intellectual traditions, but textual…
+  ├─ RESPONSE / CONTROL: Rigvedic society was neither egalitarian nor the fully
+  ├─ RESPONSE / CONTROL: elaborated…
+  └─ QUALIFIED VERDICT: The Purusha Sukta's four-varna formulation needs careful
+  └─ QUALIFIED VERDICT: textual…
+                  │
+                  ▼
+PROBLEM / OBJECTION 4
+  ├─ ISSUE: These are historically useful because they reveal values and social…
+  ├─ RESPONSE / CONTROL: Rigvedic religion is best learned through functions, not
+  ├─ RESPONSE / CONTROL: an…
+  └─ QUALIFIED VERDICT: Yajna brings ritual, priestly skill, patronage and
+  └─ QUALIFIED VERDICT: exchange together
+                                  │
+                                  ▼
+FINAL CONTROL: preserve the strongest insight while stating its limit.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: The Rig Vedic Age (Early Vedic): traps, PYQ routes and applied recall
+
+```ascii-master
+THE RIG VEDIC AGE (EARLY VEDIC): TRAPS, PYQ ROUTES AND APPLIED RECALL
+
+
+KEY TERMS: The Rig Veda • Corpus • Composition • Layers • Oral Transmission •
+KEY TERMS: Background/qualification
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── HERITAGE: The BORI Rigveda manuscript collection is significant for…
+├── Varna is not identical with the later proliferation of jatis, local…
+├── Limit: Genre, layer, sample, region or correlation boundary
+├── Compare trends, do not project later institutions backwards
+│
+├── Verified Question 1 - 2026 Prelims Set A Q10: Rigvedic Irrigation, Wells…
+├── Verified Question 2 - 2026 Prelims Set A Q15: Vedic River Names
+├── Verified Question 3 - 2026 Prelims Set A Q20: Kshetra-patni
+├── Verified Question 4 - 2023 GS-I Q11: Vedic Society, Religion and Persistence
+│
+└── LAYERED RITUAL-POETIC CORPUS Composition: Seer-poet families…
+└── Weapon imagery in poetry should not be treated as a complete…
+└── The Early-Later comparison is a change-over-time tool, not a claim…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: The Rig Vedic Age (Early Vedic): integrated revision and answer-writing spine
+
+```ascii-master
+THE RIG VEDIC AGE (EARLY VEDIC) — ANSWER / REVISION SPINE
+
+
+KEY TERMS: The Rig Veda • Corpus • Composition • Layers • Oral Transmission •
+KEY TERMS: Background/qualification
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ INTERPRETATION: Oral transmission is neither 'primitive memory' nor a
+   └─ guarantee that historians can read every verse…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ The Rig Veda
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ Skin-colour explanations have often been exaggerated by racial…
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ Composition
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ Compare trends, do not project later institutions backwards
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ The Early-Later comparison is a change-over-time tool, not a claim…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

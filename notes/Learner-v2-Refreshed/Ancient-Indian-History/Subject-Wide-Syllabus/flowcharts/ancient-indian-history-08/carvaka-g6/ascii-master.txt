@@ -1,0 +1,270 @@
+The Rig Vedic Age (Early Vedic) — COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+START / CENTRAL QUESTION
+  UPSC Relevance and Answer-Worthiness Audit: No unavailable key is treated as official.
+        |
+        v
++-- SESSION 01: UPSC RELEVANCE AND ANSWER-WORTHINESS AUDIT
+|   DEFINITION / TERMS : UPSC Relevance and Answer-Worthiness Audit: No unavailable key is treated as official.
+|   MECHANISM / ARGUMENT: Rig Vedic content has direct Prelims value and strong/direct Mains support through Vedic society, religion and change-over-time questions.
+|   CONSEQUENCE / CONTRAST: Memorise: working range, north-west/Sapta-Sindhu, rajan/assemblies, cattle-plus-agriculture, bali, deity functions and Early-Later contrasts.
+|   TRAP / ANSWER-USE: Understand: the Rig Veda is layered ritual-poetry, a source not a census or chronicle.
+|   EXAM OPENING: Syllabus and verified-demand reality.
++--
+        |
+        v
++-- SESSION 02: ROADMAP, SOURCE ORDER AND EVIDENCE DISCIPLINE — [CORE MAINS]
+|   DEFINITION / TERMS : Roadmap, source order and evidence discipline — [CORE MAINS]: The topic is reconstructed through textual criticism, comparative chronology and bounded archaeological correlation.
+|   MECHANISM / ARGUMENT: The topic is reconstructed through textual criticism, comparative chronology and bounded archaeological correlation.
+|   CONSEQUENCE / CONTRAST: Current-affairs guardrail: No current-affairs item is required.
+|   TRAP / ANSWER-USE: Later Vedic institutions are introduced only as comparison, never projected backward into the oldest Rigvedic layers.
+|   EXAM OPENING: The topic is reconstructed through textual criticism, comparative chronology and bounded archaeological correlation.
++--
+        |
+        v
++-- SESSION 03: THE RIG VEDA: CORPUS, COMPOSITION, LAYERS AND ORAL TRANSMISSION — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : The Rig Veda is the earliest Vedic Samhita and a collection of hymns for ritual performance.
+|   MECHANISM / ARGUMENT: FACT: Arrangement by deity, stanza count and metre helps scholars detect disruptions and possible additions, but an interpolation in arrangement need not equal a late original composition.
+|   CONSEQUENCE / CONTRAST: Wrong: Book 10 is wholly late and therefore useless.
+|   TRAP / ANSWER-USE: It preserves historical memory, but its primary purpose is not to narrate political events in chronological order.
+|   EXAM OPENING: The Rig Veda is the earliest Vedic Samhita and a collection of hymns for ritual performance.
++--
+        |
+        v
++-- SESSION 04: RELATIVE CHRONOLOGY AND THE DANGER OF A SINGLE DATE — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Relative chronology and the danger of a single date — [CORE PRELIMS + CORE MAINS]: 1500/1200-1000 BCE range is a working teaching horizon, not a date stamped on every hymn.
+|   MECHANISM / ARGUMENT: INTERPRETATION: Relative layers are stronger than a single absolute date because linguistic, ritual and institutional change occurred within the corpus.
+|   CONSEQUENCE / CONTRAST: after 1900: Late/post-Harappan regional change
+|   TRAP / ANSWER-USE: 1500/1200-1000 BCE range is a working teaching horizon, not a date stamped on every hymn.
+|   EXAM OPENING: 1500/1200-1000 BCE range is a working teaching horizon, not a date stamped on every hymn.
++--
+        |
+        v
++-- SESSION 05: GEOGRAPHICAL SETTING: SAPTA-SINDHU, RIVERS, ECOLOGY AND LIMITS — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Geographical setting: Sapta-Sindhu, rivers, ecology and limits — [CORE PRELIMS + CORE MAINS]: This is a composition and cultural horizon, not a surveyed political border.
+|   MECHANISM / ARGUMENT: This is a composition and cultural horizon, not a surveyed political border.
+|   CONSEQUENCE / CONTRAST: Secure identifications and debated/tentative identifications must be kept separate.
+|   TRAP / ANSWER-USE: This is a composition and cultural horizon, not a surveyed political border.
+|   EXAM OPENING: The corpus's densest geographical memory lies in the north-west: the Indus system, adjoining Afghanistan-Pakistan river corridors and the Sarasvati/Ghaggar-Hakra zone.
++--
+        |
+        v
++-- SESSION 06: POLITICAL ORGANISATION: KIN UNITS, RAJAN AND THE LIMITS OF STATEHOOD — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Political organisation: kin units, rajan and the limits of statehood — [CORE PRELIMS + CORE MAINS]: FACT: No regular tax-collecting officer or territorial civil administration is securely visible.
+|   MECHANISM / ARGUMENT: INTERPRETATION: Chiefship was constrained less by a constitution than by kin solidarity, assemblies, ritual expectations and the practical need to redistribute booty and gifts.
+|   CONSEQUENCE / CONTRAST: Terms are context-dependent and should not be presented as four fixed territorial departments.
+|   TRAP / ANSWER-USE: Terms are context-dependent and should not be presented as four fixed territorial departments.
+|   EXAM OPENING: Authority was embedded in kinship, cattle protection, warfare, ritual and redistribution.
++--
+        |
+        v
++-- SESSION 07: ASSEMBLIES, OFFICIALS, BALI AND REDISTRIBUTION — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : FACT: Bali in the early context is best understood as an offering or tribute, not a fixed, assessed land tax.
+|   MECHANISM / ARGUMENT: Wealth moved to the chief and priest through booty, tribute and offerings, then back through patronage, feasting and distribution.
+|   CONSEQUENCE / CONTRAST: Cattle, produce and booty: Households, allied groups and defeated rivals supply movable wealth.
+|   TRAP / ANSWER-USE: Bali, tribute and gifts: Offerings are irregular or inchoate, not a later land-tax bureaucracy.
+|   EXAM OPENING: Political economy joined warfare, ritual and gift exchange.
++--
+        |
+        v
++-- SESSION 08: WARFARE, DASHARAJNA AND THE ABSENCE OF TERRITORIAL EMPIRE — [SUPPORTING]
+|   DEFINITION / TERMS : Warfare, Dasharajna and the absence of territorial empire — [SUPPORTING]: FACT: The battle is associated with the Parushni/Ravi.
+|   MECHANISM / ARGUMENT: FACT: Vishvamitra's replacement by Vasishtha as Sudas's purohita indicates that priestly alignment could accompany political realignment.
+|   CONSEQUENCE / CONTRAST: ROOT: Book 7 remembers Sudas fighting a ten-tribe confederacy on the Parushni
+|   TRAP / ANSWER-USE: Does not prove: A large bureaucratic territorial empire
+|   EXAM OPENING: Rigvedic conflict involved cattle raids, movement, control of routes and water, inter-tribal rivalry and shifting alliances.
++--
+        |
+        v
++-- SESSION 09: ECONOMY: CATTLE WEALTH AND PASTORAL PREDOMINANCE — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Economy: cattle wealth and pastoral predominance — [CORE PRELIMS + CORE MAINS]: Wrong: Pastoral dominance means no farming.
+|   MECHANISM / ARGUMENT: This supports pastoral dominance in elite values, not a claim that every household was nomadic or that cultivation was absent.
+|   CONSEQUENCE / CONTRAST: Production: Milk, draught power and herd reproduction
+|   TRAP / ANSWER-USE: This supports pastoral dominance in elite values, not a claim that every household was nomadic or that cultivation was absent.
+|   EXAM OPENING: Cattle were the most visible store of wealth, measure of generosity, ritual resource and object of conflict.
++--
+        |
+        v
++-- SESSION 10: AGRICULTURE, WATER, CRAFTS, EXCHANGE AND MIXED LIVELIHOODS — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Agriculture, water, crafts, exchange and mixed livelihoods — [CORE PRELIMS + CORE MAINS]: The issue is scale and dominance, not presence versus absence.
+|   MECHANISM / ARGUMENT: FACT: Implements such as axes and sickles prove agricultural/woodworking activity but do not by themselves prove the particular well-irrigation assertions in that PYQ.
+|   CONSEQUENCE / CONTRAST: Herds and draught animals: Cattle, oxen, sheep, goats and horses support food, traction and mobility.
+|   TRAP / ANSWER-USE: The issue is scale and dominance, not presence versus absence.
+|   EXAM OPENING: The early economy included cultivation, water-lifting, implements, transport, carpentry, weaving, metalwork and gift exchange.
++--
+        |
+        v
++-- SESSION 11: SOCIETY: HOUSEHOLD, KINSHIP, FAMILY AND MARRIAGE — [CORE MAINS]
+|   DEFINITION / TERMS : FACT: Kula is defensible as the household/family level; larger terms such as vis and jana locate the household within wider kin collectivities.
+|   MECHANISM / ARGUMENT: Memory hook: GENDER = Genre, Evidence by dimension, No golden age, Difference from later rules, Elite filter, Regional silence.
+|   CONSEQUENCE / CONTRAST: FACT: Kula is defensible as the household/family level; larger terms such as vis and jana locate the household within wider kin collectivities.
+|   TRAP / ANSWER-USE: CAUTION: A goddess hymn, a female poet and assembly attendance are different evidence types; none alone measures the condition of all women.
+|   EXAM OPENING: The household and wider kin group organised production, ritual obligation and identity.
++--
+        |
+        v
++-- SESSION 12: SOCIAL DIFFERENTIATION, DASA/DASYU AND EARLY VARNA EVIDENCE — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Social differentiation, dasa/dasyu and early varna evidence — [CORE PRELIMS + CORE MAINS]: Purusha hymn: Fourfold schema in Book 10; textual-layer debate is essential
+|   MECHANISM / ARGUMENT: INTERPRETATION: Because Book 10 contains later-arranged material and the hymn's layer is debated, it should be evidence for an emerging ideology, not a census of an already rigid system.
+|   CONSEQUENCE / CONTRAST: ROOT: TEXTUAL LABEL - CONTEXT - LAYER - SOCIAL FUNCTION - LIMIT
+|   TRAP / ANSWER-USE: Priests, chiefs, patrons, common producers, dependants and defeated outsiders did not yet constitute the fully elaborated caste order of later texts.
+|   EXAM OPENING: Hierarchy existed, but the categories were still forming and context-dependent.
++--
+        |
+        v
++-- SESSION 13: RELIGION: DEITY MATRIX AND FUNCTIONAL WORLDVIEW — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Religion: deity matrix and functional worldview — [CORE PRELIMS + CORE MAINS]: 'Nature worship' is useful only if it does not flatten deities into single natural objects.
+|   MECHANISM / ARGUMENT: Mains/PYQ use: A deity matrix is stronger than a name list because it connects divine functions to ecology, polity and social values.
+|   CONSEQUENCE / CONTRAST: FACT: Indra receives the strongest martial prominence in the Rigvedic hymns; Agni is central to sacrifice; Varuna is linked with cosmic and moral order.
+|   TRAP / ANSWER-USE: 'Nature worship' is useful only if it does not flatten deities into single natural objects.
+|   EXAM OPENING: Rigvedic religion linked cosmic forces, war, rain, fire, dawn, healing, mobility and social order to praise and sacrifice.
++--
+        |
+        v
++-- SESSION 14: RITA, YAJNA, SOMA AND PRIESTLY MEDIATION — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Agni and Soma: Fire carries offering; Soma is pressed, praised and consumed ritually.
+|   MECHANISM / ARGUMENT: Yajna sustains reciprocal relations among patron, priest and deity.
+|   CONSEQUENCE / CONTRAST: Soma intensifies liturgical performance and inspiration.
+|   TRAP / ANSWER-USE: FACT: Book 9's Soma concentration reflects liturgical organisation, not a universal daily practice.
+|   EXAM OPENING: Rita expresses ordered regularity across cosmos, ritual and moral conduct.
++--
+        |
+        v
++-- SESSION 15: FUNERARY IDEAS, AFTERLIFE AND PHILOSOPHICAL HYMNS — [SUPPORTING]
+|   DEFINITION / TERMS : Funerary ideas, afterlife and philosophical hymns — [SUPPORTING]: Much of the most explicit material is in Book 10 and therefore requires layer awareness.
+|   MECHANISM / ARGUMENT: Much of the most explicit material is in Book 10 and therefore requires layer awareness.
+|   CONSEQUENCE / CONTRAST: Much of the most explicit material is in Book 10 and therefore requires layer awareness.
+|   TRAP / ANSWER-USE: FACT: Funerary hymns ask fire not to destroy the deceased completely and imagine passage to ancestors; the ritual-poetic language is not a mortuary excavation report.
+|   EXAM OPENING: The corpus contains cremation and burial imagery, ancestors, Yama, hopes for an afterlife and speculative creation hymns.
++--
+        |
+        v
++-- SESSION 16: MATERIAL CULTURE: HORSE, CHARIOT, WEAPONS AND ARCHAEOLOGY CAUTIONS — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Material culture: horse, chariot, weapons and archaeology cautions — [CORE PRELIMS + CORE MAINS]: INTERPRETATION: Chariot language can mark an elite technology and prestige complex even if archaeological survival is rare.
+|   MECHANISM / ARGUMENT: Archaeological evidence helps establish technologies and contacts, but no single vehicle, burial or pottery assemblage can identify language or the authors of hymns.
+|   CONSEQUENCE / CONTRAST: FACT: Upinder Singh notes that Sintashta produced early spoked-wheel chariot burials, horse remains and metal weapons; cultural-language correlation remains a hypothesis.
+|   TRAP / ANSWER-USE: FACT: Early ayas should not be translated automatically as iron; Iron Age/PGW associations are primarily later Vedic comparisons.
+|   EXAM OPENING: Horse and chariot imagery had high martial and ritual prestige.
++--
+        |
+        v
++-- SESSION 17: CONFLICT, MOBILITY, INTERACTION AND CULTURAL SYNTHESIS — [CORE MAINS]
+|   DEFINITION / TERMS : INFERENCE: 'Cultural synthesis' should not sanitise violence or hierarchy; it means formation through unequal interaction as well as borrowing.
+|   MECHANISM / ARGUMENT: Movement and settlement: Indo-Aryan-speaking groups enter or expand through north-western corridors.
+|   CONSEQUENCE / CONTRAST: Movement and settlement: Indo-Aryan-speaking groups enter or expand through north-western corridors.
+|   TRAP / ANSWER-USE: FACT: Arya-labelled groups also fought one another; Dasa/Dasyu categories do not produce a stable racial map.
+|   EXAM OPENING: The corpus presents neither an isolated pure culture nor a simple replacement story.
++--
+        |
+        v
++-- SESSION 18: HARAPPAN, POST-HARAPPAN AND RIGVEDIC COMPARISON — [CORE MAINS]
+|   DEFINITION / TERMS : INFERENCE: The best model is neither 'Harappans vanished' nor 'Harappan equals Vedic', but regional transformation plus later interaction.
+|   MECHANISM / ARGUMENT: CAUTION: Fire installations, swastika motifs or individual animal finds are not diagnostic cultural signatures by themselves.
+|   CONSEQUENCE / CONTRAST: FACT: The Mature Harappan urban system largely declined before the conventional early Rigvedic horizon.
+|   TRAP / ANSWER-USE: CAUTION: Fire installations, swastika motifs or individual animal finds are not diagnostic cultural signatures by themselves.
+|   EXAM OPENING: Comparison should begin with chronology and source type.
++--
+        |
+        v
++-- SESSION 19: EARLY VERSUS LATER VEDIC: COMPARISON WITHOUT BACKWARD PROJECTION — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Early versus Later Vedic: comparison without backward projection — [CORE PRELIMS + CORE MAINS]: The 2024 GS-I demand is a transition question.
+|   MECHANISM / ARGUMENT: Wrong: All change was caused by iron alone.
+|   CONSEQUENCE / CONTRAST: FACT: The 2024 question asks society and economy; geography, polity and religion should support rather than displace those dimensions.
+|   TRAP / ANSWER-USE: FACT: The 2024 question asks society and economy; geography, polity and religion should support rather than displace those dimensions.
+|   EXAM OPENING: The 2024 GS-I demand is a transition question.
++--
+        |
+        v
++-- SESSION 20: HISTORIOGRAPHICAL INTERPRETATIONS AND SOURCE CRITICISM — [CORE MAINS]
+|   DEFINITION / TERMS : INTERPRETATION: Their emphases are complementary when Sharma's structural model is moderated by Singh's source criticism.
+|   MECHANISM / ARGUMENT: INTERPRETATION: Their emphases are complementary when Sharma's structural model is moderated by Singh's source criticism.
+|   CONSEQUENCE / CONTRAST: Evidence: Name text, term, site or study
+|   TRAP / ANSWER-USE: INFERENCE: Archaeogenetics strengthens population-history questions but cannot resolve Vedic identity without linguistic, chronological and archaeological argument.
+|   EXAM OPENING: The topic has moved from racial and invasion narratives toward interdisciplinary reconstruction.
++--
+        |
+        v
++-- SESSION 21: CONTINUITY AND CHANGE IN INDIAN SOCIETY - CAREFULLY QUALIFIED — [CORE MAINS]
+|   DEFINITION / TERMS : Wrong: A present practice is an unchanged fossil from the Rigvedic age.
+|   MECHANISM / ARGUMENT: INTERPRETATION: Continuity can occur through re-performance, commentary, canonisation and institutional renewal.
+|   CONSEQUENCE / CONTRAST: FACT: UNESCO recognition confirms a living tradition of Vedic chanting and the need for safeguarding.
+|   TRAP / ANSWER-USE: Persistence should be demonstrated as transformed continuity, institutional memory or revived practice—not asserted as an unchanged 3,000-year survival.
+|   EXAM OPENING: The 2023 GS-I question asks whether some Vedic features persist.
++--
+        |
+        v
++-- SESSION 22: TERMINOLOGY BANK AND RAPID DISTINCTIONS — [SUPPORTING]
+|   DEFINITION / TERMS : Terminology bank and rapid distinctions — [SUPPORTING]: Kshetra-pati: 'lord of the field' in Rig Veda 4.57; distinguish kshetra-patni, whose audited 2026 PYQ answer route is Atharvaveda.
+|   MECHANISM / ARGUMENT: Wrong: Close Sanskrit terms can be transferred between texts by resemblance.
+|   CONSEQUENCE / CONTRAST: Purusha Sukta: Book 10 fourfold schema; layer debate must accompany its use.
+|   TRAP / ANSWER-USE: Dasa/Dasyu: contextual enemy/outsider categories; never reduce to biological race.
+|   EXAM OPENING: Dasa/Dasyu: contextual enemy/outsider categories; never reduce to biological race.
++--
+        |
+        v
++-- SESSION 23: DEEP TEACHING UNIT 1: CORPUS, LAYERS AND A WORKING CHRONOLOGY — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Deep Teaching Unit 1: Corpus, Layers and a Working Chronology — [CORE PRELIMS + CORE MAINS]: The Rig Veda is the earliest Vedic corpus and a rich historical source because it preserves language, ritual, social terms and remembered geography.
+|   MECHANISM / ARGUMENT: The Rig Veda is the earliest Vedic corpus and a rich historical source because it preserves language, ritual, social terms and remembered geography.
+|   CONSEQUENCE / CONTRAST: Historical interpretation must therefore identify a broad pattern and admit the corpus's genre and layering.
+|   TRAP / ANSWER-USE: It was orally composed and transmitted, and its hymns do not all perform the same historical work.
+|   EXAM OPENING: The Rig Veda is the earliest Vedic corpus and a rich historical source because it preserves language, ritual, social terms and remembered geography.
++--
+        |
+        v
++-- SESSION 24: DEEP TEACHING UNIT 2: GEOGRAPHY AS A NORTH-WESTERN TEXTUAL MILIEU — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Deep Teaching Unit 2: Geography as a North-Western Textual Milieu — [CORE PRELIMS + CORE MAINS]: A map question is solved by matching Vedic name, modern river and broad north-west zone.
+|   MECHANISM / ARGUMENT: A map question is solved by matching Vedic name, modern river and broad north-west zone.
+|   CONSEQUENCE / CONTRAST: It does not mean every name has a fully settled modern identification, or that a river reference fixes the date of the whole corpus.
+|   TRAP / ANSWER-USE: It does not mean every name has a fully settled modern identification, or that a river reference fixes the date of the whole corpus.
+|   EXAM OPENING: Rigvedic river and ecological references place much of the early Vedic textual world in the north-west, around the Indus system and its tributaries.
++--
+        |
+        v
++-- SESSION 25: DEEP TEACHING UNIT 3: KINSHIP, RAJAN AND ASSEMBLIES — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Deep Teaching Unit 3: Kinship, Rajan and Assemblies — [CORE PRELIMS + CORE MAINS]: Purohita and senani show limited functional differentiation; gramani is a useful local-leadership term.
+|   MECHANISM / ARGUMENT: Rigvedic political vocabulary points to a society organised through household, lineage, clan and tribe rather than a fully territorial state.
+|   CONSEQUENCE / CONTRAST: Sabha, samiti and vidatha indicate collective or participatory arenas, but should not be called modern parliaments or democracies.
+|   TRAP / ANSWER-USE: Rigvedic political vocabulary points to a society organised through household, lineage, clan and tribe rather than a fully territorial state.
+|   EXAM OPENING: Rigvedic political vocabulary points to a society organised through household, lineage, clan and tribe rather than a fully territorial state.
++--
+        |
+        v
++-- SESSION 26: DEEP TEACHING UNIT 4: THE CATTLE-AGRICULTURE ECONOMY LOOP — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Deep Teaching Unit 4: The Cattle-Agriculture Economy Loop — [CORE PRELIMS + CORE MAINS]: The historical distinction is one of relative emphasis, not a false choice between herders and farmers.
+|   MECHANISM / ARGUMENT: Cattle were central to wealth, gift, warfare and elite value; terms such as gomat and cattle-search/raid language make this visible.
+|   CONSEQUENCE / CONTRAST: At the same time, ploughing, sowing, harvesting, threshing, wells and draught animals show mixed agro-pastoral livelihoods.
+|   TRAP / ANSWER-USE: “Pastoral predominance” does not mean agriculture was absent.
+|   EXAM OPENING: “Pastoral predominance” does not mean agriculture was absent.
++--
+        |
+        v
++-- SESSION 27: DEEP TEACHING UNIT 5: SOCIAL DIFFERENTIATION WITHOUT LATER CASTE PROJECTION — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Deep Teaching Unit 5: Social Differentiation without Later Caste Projection — [CORE PRELIMS + CORE MAINS]: A balanced answer says “differentiation was visible; later hereditary rigidity must not be backward-projected.” This is safer than both romantic equality and premature caste-state claims.
+|   MECHANISM / ARGUMENT: Chiefly, priestly and warrior status mattered, alongside household and lineage.
+|   CONSEQUENCE / CONTRAST: Dasa and dasyu, arya and varna references occur in contexts of ritual, conflict, language, politics and social boundary-making.
+|   TRAP / ANSWER-USE: They cannot be reduced to fixed biological races or directly equated with later jati hierarchy.
+|   EXAM OPENING: Rigvedic society was neither egalitarian nor the fully elaborated later varna/caste order.
++--
+        |
+        v
++-- SESSION 28: DEEP TEACHING UNIT 6: DEITIES, RITA, YAJNA AND SOMA AS A FUNCTIONAL WORLDVIEW — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Deep Teaching Unit 6: Deities, Rita, Yajna and Soma as a Functional Worldview — [CORE PRELIMS + CORE MAINS]: Rigvedic religion is best learned through functions, not an exhaustive god list.
+|   MECHANISM / ARGUMENT: Rigvedic religion is best learned through functions, not an exhaustive god list.
+|   CONSEQUENCE / CONTRAST: Yajna brings ritual, priestly skill, patronage and exchange together; soma is a major ritual substance.
+|   TRAP / ANSWER-USE: Rigvedic religion is best learned through functions, not an exhaustive god list.
+|   EXAM OPENING: Rigvedic religion is best learned through functions, not an exhaustive god list.
++--
+        |
+        v
++-- SESSION 29: DEEP TEACHING UNIT 7: EARLY-TO-LATER VEDIC CHANGE AND THE ANSWER SPINE — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Deep Teaching Unit 7: Early-to-Later Vedic Change and the Answer Spine — [CORE PRELIMS + CORE MAINS]: The Early-Later comparison is a change-over-time tool, not a claim that one world vanished overnight.
+|   MECHANISM / ARGUMENT: A sound answer therefore identifies a trend and gives a continuity.
+|   CONSEQUENCE / CONTRAST: A sound answer therefore identifies a trend and gives a continuity.
+|   TRAP / ANSWER-USE: The Early-Later comparison is a change-over-time tool, not a claim that one world vanished overnight.
+|   EXAM OPENING: The Early-Later comparison is a change-over-time tool, not a claim that one world vanished overnight.
++--
+        |
+        v
+ANSWER-WRITING SPINE
+definition -> exact terms -> mechanism/evidence -> consequence/contrast
+-> objection/trap -> qualified answer-use

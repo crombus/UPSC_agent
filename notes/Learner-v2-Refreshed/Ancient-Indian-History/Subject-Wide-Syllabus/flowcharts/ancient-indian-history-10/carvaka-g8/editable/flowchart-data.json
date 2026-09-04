@@ -1,0 +1,422 @@
+{
+  "schema_version": 1,
+  "topic_key": "ancient-indian-history-10",
+  "generation": 8,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-10\\g8\\ancient-indian-history-10_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    31050
+  ],
+  "stages": [
+    {
+      "title": "SIXTH-CENTURY BCE SETTING: CITIES, STATES AND INTELLECTUAL FERMENT — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Memory hook: C-K-R: Cities, Kings, Renunciants - plus the caveat 'context is not cause alone'.",
+      "mechanism": "Memory hook: C-K-R: Cities, Kings, Renunciants - plus the caveat 'context is not cause alone'.",
+      "consequence": "These conditions widened their audience, but doctrine cannot be mechanically derived from iron or trade.",
+      "trap": "QUALIFICATION: The subcontinent did not urbanize uniformly, merchants were not the only followers, and economic change cannot explain specific doctrines such as anatta or anekantavada.",
+      "answer": "FACT: Upinder Singh's useful frame is 'cities, kings and renunciants' for north India c."
+    },
+    {
+      "title": "THE SHRAMANA FIELD: HETERODOXY WITHOUT A FALSE BINARY — [CORE PRELIMS + CORE MAINS]",
+      "terms": "FACT: Parivrajaka denotes a wandering renunciant; shramana a striver/ascetic across several non-Vedic movements; upasaka/upasika a Buddhist lay follower.",
+      "mechanism": "Mains/PYQ use: A comparison answer should begin with the common debate field and then separate ontology, path and institution.",
+      "consequence": "Correct: Jainism and Buddhism retained them but interpreted them differently.",
+      "trap": "Read the structure first; each arrow is a historical relationship, not an automatic law.",
+      "answer": "'Shramana versus Brahmana' is a useful contrast of authority and practice, but historical interaction was continuous."
+    },
+    {
+      "title": "PRE-MAHAVIRA JAIN TRADITION AND THE TIRTHANKARAS — [CORE PRELIMS + SUPPORTING]",
+      "terms": "Mains/PYQ use: Use a graded evidence ladder: sacred sequence - plausible Parshva memory - firmer Mahavira horizon.",
+      "mechanism": "Jain tradition presents a succession of twenty-four Tirthankaras, with Mahavira as the twenty-fourth.",
+      "consequence": "LIMIT: Iconographic or literary references to earlier Tirthankaras do not prove the historicity or traditional dates of all twenty-four.",
+      "trap": "FACT: A Tirthankara is a 'ford-maker' who discovers and teaches a route across bondage; the term is not a creator-god title.",
+      "answer": "Historical confidence is unequal: Parshvanatha is the strongest pre-Mahavira candidate, while claims for very early figures belong primarily to sacred tradition."
+    },
+    {
+      "title": "MAHAVIRA: TRADITIONAL BIOGRAPHY AND HISTORICAL RECONSTRUCTION — [CORE PRELIMS + CORE MAINS]",
+      "terms": "FACT: Pali Buddhist texts know him as Nigantha Nataputta, proving that an organized Nigantha/Jain community was recognized by rival near-contemporary traditions.",
+      "mechanism": "FACT: Pali Buddhist texts know him as Nigantha Nataputta, proving that an organized Nigantha/Jain community was recognized by rival near-contemporary traditions.",
+      "consequence": "Nayaputta/Nataputta refers to Mahavira, not Buddha.",
+      "trap": "Mains/PYQ use: Biography answers should separate cross-tradition core, sect-specific detail and chronological caution.",
+      "answer": "Read the structure first; each arrow is a historical relationship, not an automatic law."
+    },
+    {
+      "title": "JAIN ONTOLOGY: JIVA, AJIVA AND A LIVING COSMOS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "FACT: Ajiva includes pudgala (matter), dharma as the medium of motion, adharma as the medium of rest, akasha (space) and, in common six-substance classification, kala (time).",
+      "mechanism": "FACT: Ajiva includes pudgala (matter), dharma as the medium of motion, adharma as the medium of rest, akasha (space) and, in common six-substance classification, kala (time).",
+      "consequence": "Mains/PYQ use: Link the broad ontology of life directly to dietary, occupational and monastic ethics, then state the category limit.",
+      "trap": "QUALIFICATION: Modern biological categories should not be projected onto this religious ontology.",
+      "answer": "FACT: Jiva is conscious, potentially omniscient and capable of liberation; embodied jivas occupy many grades of sense-capacity."
+    },
+    {
+      "title": "JAIN KARMA, BONDAGE AND LIBERATION — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Jain karma is subtle material matter that adheres to the soul because of activity and passions.",
+      "mechanism": "Jain karma is subtle material matter that adheres to the soul because of activity and passions.",
+      "consequence": "FACT: Liberation reveals the jiva's inherent knowledge, perception, bliss and energy; it does not merge into a creator god.",
+      "trap": "Jain karma is not merely metaphorical moral memory.",
+      "answer": "FACT: Asrava is karmic influx; bandha is bondage; samvara stops new influx; nirjara sheds accumulated karma; moksha is the liberated state."
+    },
+    {
+      "title": "JAIN TRIRATNA, FIVE VOWS AND ASCETIC-LAY PATHS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "QUALIFICATION: Ahimsa does not make historical Jain communities economically or politically identical; practice varied by region, sect and occupation.",
+      "mechanism": "QUALIFICATION: Ahimsa does not make historical Jain communities economically or politically identical; practice varied by region, sect and occupation.",
+      "consequence": "Correct: That is the Buddhist three refuges, not the Jain path triad.",
+      "trap": "FACT: The five vows are ahimsa, satya, asteya, brahmacharya and aparigraha.",
+      "answer": "The five vows are absolute mahavratas for ascetics and limited anuvratas for householders, creating a demanding but socially sustainable two-level discipline."
+    },
+    {
+      "title": "ANEKANTAVADA, SYADVADA AND NAYAVADA — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Read the structure first; each arrow is a historical relationship, not an automatic law.",
+      "mechanism": "FACT: Anekantavada is an ontological/epistemic warning against reducing a complex object to one absolute description.",
+      "consequence": "Read the structure first; each arrow is a historical relationship, not an automatic law.",
+      "trap": "FACT: Saptabhangi uses combinations of is, is not and is inexpressible under specified standpoints.",
+      "answer": "Anekantavada is the doctrine that reality has many aspects; nayavada analyzes partial standpoints; syadvada expresses qualified predication, conventionally through seven possible formulations."
+    },
+    {
+      "title": "JAIN SANGHA, WOMEN, SOCIAL ETHICS AND LIMITS — [CORE MAINS + SUPPORTING]",
+      "terms": "FACT: Shvetambara tradition recognizes women's capacity for liberation and identifies Malli as a female Tirthankara; Digambara doctrine generally requires male rebirth for final liberation.",
+      "mechanism": "Mains/PYQ use: A social answer should pair widened religious agency with sectarian and societal limits.",
+      "consequence": "INTERPRETATION: Merchant support suited a mobile mendicant order and an ethic of trust, restraint and donation, but the tradition was not only mercantile.",
+      "trap": "Religious access does not equal modern social equality.",
+      "answer": "This widened participation, but access did not erase hierarchy, gender debates or the demanding ascetic definition of liberation."
+    },
+    {
+      "title": "JAIN COUNCILS, CANON AND REDACTION TRADITIONS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Councils at Pataliputra and Valabhi are best presented as conventional redaction memories shaped by famine, migration, oral loss and sectarian authority.",
+      "mechanism": "Councils at Pataliputra and Valabhi are best presented as conventional redaction memories shaped by famine, migration, oral loss and sectarian authority.",
+      "consequence": "TRADITION: A Pataliputra council under Sthulabhadra is said to have collected surviving teachings; Digambara tradition does not accept that the original canon survived intact.",
+      "trap": "Digambaras do not accept the extant Shvetambara Agamas as the intact original canon.",
+      "answer": "Jain canonical history is reconstructed differently by Shvetambara and Digambara traditions."
+    },
+    {
+      "title": "DIGAMBARA, SHVETAMBARA AND BOUNDED SUBSECT HISTORY — [CORE PRELIMS + CORE MAINS]",
+      "terms": "FACT: Terapanth has distinct Shvetambara and Digambara usages; do not assume every similarly named subsect has one history.",
+      "mechanism": "The Digambara-Shvetambara division developed gradually and cannot be reduced to one famine or clothing dispute.",
+      "consequence": "FACT: Digambara means 'sky-clad' and Shvetambara 'white-clad'; clothing is visible but not the only distinction.",
+      "trap": "CAUTION: Its roots are linked to fifteenth-century Lonka Shah and later organization; the exact emergence should not be compressed into the ancient period.",
+      "answer": "FACT: Terapanth has distinct Shvetambara and Digambara usages; do not assume every similarly named subsect has one history."
+    },
+    {
+      "title": "JAIN SPREAD, PATRONS, SITES, ART AND LITERATURE — [CORE PRELIMS + SUPPORTING]",
+      "terms": "FACT: Kharavela's Hathigumpha inscription and Udayagiri-Khandagiri caves are major early Jain-linked evidence in Kalinga.",
+      "mechanism": "Wrong: Chandragupta's Jain migration is directly documented by a contemporary inscription.",
+      "consequence": "TRADITION/LIMIT: Shravanabelagola links Bhadrabahu and Chandragupta Maurya to southern migration, but the surviving epigraphic tradition is later and cannot independently prove every detail.",
+      "trap": "FACT: Kharavela's Hathigumpha inscription and Udayagiri-Khandagiri caves are major early Jain-linked evidence in Kalinga.",
+      "answer": "Jain literature is multilingual and not confined to Ardhamagadhi."
+    },
+    {
+      "title": "THE BUDDHA: HISTORICAL CORE AND TRADITIONAL LIFE — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Read the structure first; each arrow is a historical relationship, not an automatic law.",
+      "mechanism": "FACT: Ashoka's Rummindei pillar inscription provides early epigraphic association of Lumbini with the Buddha, centuries after his life but firmer than late biography alone.",
+      "consequence": "Read the structure first; each arrow is a historical relationship, not an automatic law.",
+      "trap": "LIMIT: Lalitavistara, Buddhacharita and later hagiographies are invaluable reception texts but not contemporaneous biographies.",
+      "answer": "The Buddha is historically located in the fifth-century BCE Gangetic world, while detailed biographies were shaped over centuries."
+    },
+    {
+      "title": "FOUR NOBLE TRUTHS: DIAGNOSIS, CAUSE, CESSATION AND PATH — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Dukkha: Conditioned unsatisfactoriness Samudaya: Craving sustained by ignorance Nirodha: Cessation/release is possible Magga: Eightfold path.",
+      "mechanism": "Dukkha: Conditioned unsatisfactoriness Samudaya: Craving sustained by ignorance Nirodha: Cessation/release is possible Magga: Eightfold path.",
+      "consequence": "INTERPRETATION: The medical analogy - diagnosis, cause, cure and treatment - captures structure but should not trivialize the existential claim.",
+      "trap": "The truths are a linked analysis, not four unrelated beliefs.",
+      "answer": "Pairs with the Middle Way discussion that follows; the four boxes are the diagnosis-cause-cure-path frame UPSC MCQs test most often."
+    },
+    {
+      "title": "EIGHTFOLD PATH, MIDDLE WAY AND ETHICAL DISCIPLINE — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Mains/PYQ use: A doctrine answer should group the eight factors and show their ethical/social implications.",
+      "mechanism": "Its eight factors are usually grouped into wisdom, ethical conduct and mental discipline; they are cultivated together rather than as a simple staircase.",
+      "consequence": "Correct: It is a disciplined soteriological path, not vague centrism.",
+      "trap": "Correct: It is an ethical path factor with lay implications, while monastic rules are more detailed.",
+      "answer": "QUALIFICATION: 'Middle Way' does not mean compromise between truth and falsehood; it concerns disciplined avoidance of spiritually fruitless extremes."
+    },
+    {
+      "title": "DEPENDENT ORIGINATION: PROCESS WITHOUT A FIRST CAUSE — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Read the structure first; each arrow is a historical relationship, not an automatic law.",
+      "mechanism": "FACT: The teaching rejects both an unconditioned creator explanation for the cycle and a permanent self passing unchanged through it.",
+      "consequence": "Read the structure first; each arrow is a historical relationship, not an automatic law.",
+      "trap": "FACT: Craving is important but not isolated; ignorance, sense contact and clinging show a wider causal psychology.",
+      "answer": "Dependent origination is conditionality, not predestination."
+    },
+    {
+      "title": "IMPERMANENCE, NO-SELF, AGGREGATES, KARMA AND NIRVANA — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Early Buddhism links impermanence (anicca), unsatisfactoriness (dukkha) and no-self (anatta).",
+      "mechanism": "Early Buddhism links impermanence (anicca), unsatisfactoriness (dukkha) and no-self (anatta).",
+      "consequence": "FACT: Karma is centrally intentional action (cetana) with ethical consequences; it is not Jain karmic matter.",
+      "trap": "FACT: Nirvana is extinction of greed, hatred and delusion and release from the conditioned cycle; it is not a heaven.",
+      "answer": "A person is analyzed as five changing aggregates; karmic continuity operates without an eternal atman."
+    },
+    {
+      "title": "SANGHA, VINAYA, LAY SUPPORT AND INSTITUTIONAL LIFE — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Monks and nuns followed Vinaya; lay donors supplied food, robes, medicine, dwellings and endowments in exchange for teaching, merit and social prestige.",
+      "mechanism": "Monks and nuns followed Vinaya; lay donors supplied food, robes, medicine, dwellings and endowments in exchange for teaching, merit and social prestige.",
+      "consequence": "INTERPRETATION: Monasteries linked routes, towns and courts, but they were not simply commercial corporations.",
+      "trap": "LIMIT: Textual ideals and inscriptional practice differ; donor labels do not reveal every motive.",
+      "answer": "FACT: Anathapindika's Jetavana and Visakha's patronage are prominent textual examples of wealthy lay support."
+    },
+    {
+      "title": "WOMEN, SOCIAL ACCESS AND THE CASTE-VARNA QUESTION — [CORE MAINS + SUPPORTING]",
+      "terms": "FACT: Sangha admission across varna widened salvific access, but rules restricting debtors, slaves, soldiers or those under obligations reveal accommodation to social order.",
+      "mechanism": "Correct: It criticized birth superiority and widened access but did not erase social hierarchy.",
+      "consequence": "Buddhism widened access to renunciation and moral status, but it did not create modern equality or abolish caste society.",
+      "trap": "TRADITION: Mahapajapati Gotami's ordination marks the bhikkhuni order; the eight garudhammas are textually transmitted but their formation and dating are debated.",
+      "answer": "FACT: Sangha admission across varna widened salvific access, but rules restricting debtors, slaves, soldiers or those under obligations reveal accommodation to social order."
+    },
+    {
+      "title": "BUDDHIST COUNCILS: CONVENTIONAL ACCOUNTS WITH SOURCE CAUTION — [CORE PRELIMS + CORE MAINS]",
+      "terms": "They should be learned for examinations but labelled by tradition because dates, patrons, participants and outcomes are not uniformly attested.",
+      "mechanism": "They should be learned for examinations but labelled by tradition because dates, patrons, participants and outcomes are not uniformly attested.",
+      "consequence": "Climb this ladder before answering an 'assess the councils' Mains question; each rung is a caveat to state, not a fact to assert.",
+      "trap": "LIMIT: Numbering conceals multiple regional memories; use 'conventional account' rather than certitude.",
+      "answer": "The second council is primarily a Vinaya dispute in conventional accounts."
+    },
+    {
+      "title": "BUDDHIST CANONS: PALI, SANSKRIT, CHINESE AND TIBETAN WITNESSES — [CORE PRELIMS + CORE MAINS]",
+      "terms": "FACT: Sarvastivada and Mulasarvastivada materials survive in Sanskrit fragments and especially Chinese/Tibetan translations; their Vinayas are not the Pali Vinaya.",
+      "mechanism": "FACT: Sarvastivada and Mulasarvastivada materials survive in Sanskrit fragments and especially Chinese/Tibetan translations; their Vinayas are not the Pali Vinaya.",
+      "consequence": "LIMIT: Pali is not simply the exact spoken language of the Buddha, Sanskrit is not exclusively Mahayana, and 'the Buddhist canon' is not singular.",
+      "trap": "Sanskrit use is not a sufficient test for Mahayana identity.",
+      "answer": "The Pali Tipitaka is the complete canon of the Theravada tradition; Sanskrit and Buddhist Hybrid Sanskrit texts preserve other schools and Mahayana currents; Chinese and Tibetan translations preserve many Indic works now lost in India."
+    },
+    {
+      "title": "EARLY SCHOOLS AND THE THERAVADA-HINAYANA TERMINOLOGY FIREWALL — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Read the structure first; each arrow is a historical relationship, not an automatic law.",
+      "mechanism": "FACT: Sthavira means 'elders' and Mahasanghika 'great community/assembly'; the first split is remembered differently by school sources.",
+      "consequence": "Modern Theravada is one surviving Sthavira-derived lineage, not a synonym for every early school.",
+      "trap": "Read the structure first; each arrow is a historical relationship, not an automatic law.",
+      "answer": "Sthavira and Mahasanghika are early broad lineages; Sarvastivada, Dharmaguptaka, Mahishasaka and others developed distinct Vinaya and Abhidharma traditions."
+    },
+    {
+      "title": "MAHAYANA, THE BODHISATTVA PATH, MAITREYA AND PARAMITAS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Mahayana is not defined solely by Sanskrit or image worship.",
+      "mechanism": "Mahayana is not defined solely by Sanskrit or image worship.",
+      "consequence": "Maitreya is the future Buddha, not exclusively a Mahayana figure.",
+      "trap": "INTERPRETATION: Image worship, devotion and merit transfer widened modes of participation, but none alone defines every Mahayana community.",
+      "answer": "FACT: Maitreya is the future Buddha in both Theravada and Mahayana traditions; Mahayana also venerates him as a Bodhisattva in Tushita."
+    },
+    {
+      "title": "MADHYAMAKA AND YOGACARA: BOUNDED HISTORICAL DEPTH — [CORE MAINS + SUPPORTING]",
+      "terms": "FACT: Yogacara is associated with Asanga and Vasubandhu and analyzes experience through consciousness/representation, including store consciousness in developed formulations.",
+      "mechanism": "FACT: Yogacara is associated with Asanga and Vasubandhu and analyzes experience through consciousness/representation, including store consciousness in developed formulations.",
+      "consequence": "LIMIT: 'Nothing exists' is an inaccurate summary of Madhyamaka; 'only my mind exists' is an oversimplification of Yogacara.",
+      "trap": "FACT: The two truths framework distinguishes conventional and ultimate truth; emptiness itself is not a substance.",
+      "answer": "For Ancient History, Madhyamaka and Yogacara should be treated as major Mahayana scholastic developments, not turned into an optional-level metaphysics essay."
+    },
+    {
+      "title": "VAJRAYANA: LATER TANTRIC DEVELOPMENT AND INSTITUTIONAL SETTING — [CORE MAINS + SUPPORTING]",
+      "terms": "Read the structure first; each arrow is a historical relationship, not an automatic law.",
+      "mechanism": "Vajrayana developed within later Mahayana environments, especially from the mid-first millennium CE onward.",
+      "consequence": "Mains/PYQ use: Present Vajrayana as transformation within Buddhist history, not a moralized endpoint.",
+      "trap": "LIMIT: Older textbook narratives that reduce decline to corrupt Vajrayana practice are polemical and monocausal.",
+      "answer": "FACT: Vajrayana is not the Buddha's original sixth-century BCE institutional form; its major textual and ritual systems are later."
+    },
+    {
+      "title": "WHY THE TRADITIONS BECAME POPULAR: LANGUAGE, ETHICS AND NETWORKS",
+      "terms": "FACT: Buddhist monasteries could travel and reproduce through ordination lineages; Jain ascetics and lay communities built durable regional circuits.",
+      "mechanism": "FACT: Buddhist monasteries could travel and reproduce through ordination lineages; Jain ascetics and lay communities built durable regional circuits.",
+      "consequence": "INTERPRETATION: Buddhism's Middle Way may have eased recruitment compared with rigorous Jain ascetic ideals, while Jain anuvratas enabled strong lay continuity.",
+      "trap": "LIMIT: 'Buddhism spread because it was simple' ignores complex doctrine; 'Jainism failed to spread' ignores its extensive regional history.",
+      "answer": "Language choice aided communication but does not prove mass literacy."
+    },
+    {
+      "title": "PATRONAGE NETWORKS: MAURYAN AND POST-MAURYAN WORLDS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "FACT: Sanchi's brick stupa, pillar and later enlargements show Mauryan inception followed by Shunga, Satavahana and other patronage.",
+      "mechanism": "FACT: Sanchi's brick stupa, pillar and later enlargements show Mauryan inception followed by Shunga, Satavahana and other patronage.",
+      "consequence": "Correct: His edicts promote dhamma and sect respect; Buddhist patronage does not equal coercive establishment.",
+      "trap": "Read the structure first; each arrow is a historical relationship, not an automatic law.",
+      "answer": "Ashoka is central but not the sole patron; post-Mauryan regional states, monks, nuns, merchants and artisans made Buddhism materially durable, while Jainism grew through different regional coalitions."
+    },
+    {
+      "title": "REGIONAL AND INTERNATIONAL SPREAD: A TEXT MAP — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Buddhism became a trans-Asian network through multiple routes and translations; Jainism achieved durable but more regionally concentrated expansion within India.",
+      "mechanism": "Mains/PYQ use: Use routes, carriers, texts and sites, then add chronology control.",
+      "consequence": "Spread was not a single outward wave from one centre.",
+      "trap": "Treat the arrows as relationships worth remembering, not as directions or distances; the prose names the actual regions and routes.",
+      "answer": "Buddhism became a trans-Asian network through multiple routes and translations; Jainism achieved durable but more regionally concentrated expansion within India."
+    },
+    {
+      "title": "STUPAS, CAVES, MONASTERIES, IMAGES AND MATERIAL EVIDENCE — [CORE PRELIMS + CORE MAINS]",
+      "terms": "FACT: Jain material evidence includes Kankali Tila, Udayagiri-Khandagiri, Ellora Jain caves and later temple/manuscript traditions.",
+      "mechanism": "FACT: Barabar caves were donated by Ashoka and Dasharatha to Ajivikas, a reminder that rock-cut architecture is not only Buddhist.",
+      "consequence": "They cannot by themselves identify a text or prove a traditional biography, but inscriptions and stratigraphy can date institutions more firmly.",
+      "trap": "Mains/PYQ use: Use form + named site + donor/inscription + inference + limit.",
+      "answer": "FACT: Stupas developed as relic, commemorative and votive monuments; the concept was not exclusively Buddhist in origin, although Buddhism transformed it extensively."
+    },
+    {
+      "title": "JAINISM AND BUDDHISM: A CONTROLLED COMPARISON",
+      "terms": "Mains/PYQ use: A high-scoring comparison moves dimension by dimension and ends with shared context plus divergent solutions.",
+      "mechanism": "Mains/PYQ use: A high-scoring comparison moves dimension by dimension and ends with shared context plus divergent solutions.",
+      "consequence": "FACT: Both use monastic-lay reciprocity, but Buddhist institutions achieved wider trans-Asian monastic expansion while Jain networks remained more India-centred and lay-dense.",
+      "trap": "QUALIFICATION: 'Jain extreme versus Buddhist moderate' is a starting contrast, not a complete history; both traditions contain varied disciplines and later devotional forms.",
+      "answer": "FACT: Jain karma is subtle matter binding jiva; Buddhist karma is intentional action within causal continuity."
+    },
+    {
+      "title": "BUDDHISM'S DECLINE AND TRANSFORMATION IN INDIA",
+      "terms": "Turkish attacks are a late factor, not the single cause.",
+      "mechanism": "Turkish attacks are a late factor, not the single cause.",
+      "consequence": "Its institutional contraction was regionally uneven and multi-causal, while doctrines, images, pilgrimage and communities persisted or were absorbed into new configurations.",
+      "trap": "LIMIT: Older narratives blaming luxury, women, Sanskrit or Turks alone are reductive and sometimes polemical.",
+      "answer": "FACT: Raids and warfare damaged major institutions such as Nalanda and Vikramashila, but attacks cannot explain centuries of earlier regional decline or transformation."
+    },
+    {
+      "title": "WHY JAINISM PERSISTED AND HOW IT TRANSFORMED",
+      "terms": "Trace every arrow before drafting the Mains answer on Buddhism's transformation; no single box should be quoted alone as 'the' cause.",
+      "mechanism": "Trace every arrow before drafting the Mains answer on Buddhism's transformation; no single box should be quoted alone as 'the' cause.",
+      "consequence": "LIMIT: Jain history also includes decline in some regions, sectarian conflict, social accommodation and changes in patronage; continuity is not stasis.",
+      "trap": "Persistence should not be explained only by merchant wealth.",
+      "answer": "Mains/PYQ use: Compare distributed lay institutions with concentrated Buddhist mahaviharas, but avoid a deterministic contrast."
+    },
+    {
+      "title": "HISTORIOGRAPHY AND EVIDENCE LIMITS — [CORE MAINS + SUPPORTING]",
+      "terms": "Mains/PYQ use: Every evidence paragraph should finish with the source's genre and reach.",
+      "mechanism": "Wrong: An inscription is unbiased because it is contemporary.",
+      "consequence": "FACT: Ashokan edicts, donor inscriptions and Hathigumpha provide firmer dated anchors but rarely explain doctrine comprehensively.",
+      "trap": "FACT: Art can reveal patronage, ritual and iconography, but aniconic symbols do not automatically identify one event without context.",
+      "answer": "The history of Jainism and Buddhism is reconstructed from normative texts, rival accounts, inscriptions, monuments, art, manuscripts and later chronicles."
+    },
+    {
+      "title": "CONTEMPORARY HERITAGE AND CONSERVATION LINKAGES",
+      "terms": "RETRIEVED FACT: UNESCO describes Nalanda's surviving viharas, temples and art as evidence of a long monastic-scholastic institution and notes conservation by ASI.",
+      "mechanism": "RETRIEVED FACT: UNESCO describes Nalanda's surviving viharas, temples and art as evidence of a long monastic-scholastic institution and notes conservation by ASI.",
+      "consequence": "INFERENCE: Heritage management today preserves evidence of Buddhist institutional transformation; it does not settle doctrinal authenticity.",
+      "trap": "UNESCO listing is a modern heritage status, not ancient evidence by itself.",
+      "answer": "Mains/PYQ use: Use heritage only as a final contemporary linkage after the ancient evidence is complete."
+    },
+    {
+      "title": "CHRONOLOGY, TERMINOLOGY AND RAPID UPSC DISTINCTIONS",
+      "terms": "Mains/PYQ use: Use this card to audit terminology before finalizing any answer.",
+      "mechanism": "Mains/PYQ use: Use this card to audit terminology before finalizing any answer.",
+      "consequence": "Wrong: Sanghabhuti and Sanghabhadra are variants of one name.",
+      "trap": "Correct: They are different historical monks/scholars.",
+      "answer": "Council accounts are conventional and tradition-specific."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 3,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7760,
+      "y_end": 9960,
+      "overlap_px": 260,
+      "from_stage": 9,
+      "continues_stage": 12
+    },
+    {
+      "page": 6,
+      "y_start": 9700,
+      "y_end": 11900,
+      "overlap_px": 260,
+      "from_stage": 11,
+      "continues_stage": 14
+    },
+    {
+      "page": 7,
+      "y_start": 11640,
+      "y_end": 13840,
+      "overlap_px": 260,
+      "from_stage": 14,
+      "continues_stage": 16
+    },
+    {
+      "page": 8,
+      "y_start": 13580,
+      "y_end": 15780,
+      "overlap_px": 260,
+      "from_stage": 16,
+      "continues_stage": 18
+    },
+    {
+      "page": 9,
+      "y_start": 15520,
+      "y_end": 17720,
+      "overlap_px": 260,
+      "from_stage": 18,
+      "continues_stage": 20
+    },
+    {
+      "page": 10,
+      "y_start": 17460,
+      "y_end": 19660,
+      "overlap_px": 260,
+      "from_stage": 20,
+      "continues_stage": 23
+    },
+    {
+      "page": 11,
+      "y_start": 19400,
+      "y_end": 21600,
+      "overlap_px": 260,
+      "from_stage": 22,
+      "continues_stage": 25
+    },
+    {
+      "page": 12,
+      "y_start": 21340,
+      "y_end": 23540,
+      "overlap_px": 260,
+      "from_stage": 25,
+      "continues_stage": 27
+    },
+    {
+      "page": 13,
+      "y_start": 23280,
+      "y_end": 25480,
+      "overlap_px": 260,
+      "from_stage": 27,
+      "continues_stage": 29
+    },
+    {
+      "page": 14,
+      "y_start": 25220,
+      "y_end": 27420,
+      "overlap_px": 260,
+      "from_stage": 29,
+      "continues_stage": 31
+    },
+    {
+      "page": 15,
+      "y_start": 27160,
+      "y_end": 29360,
+      "overlap_px": 260,
+      "from_stage": 31,
+      "continues_stage": 34
+    },
+    {
+      "page": 16,
+      "y_start": 28850,
+      "y_end": 31050,
+      "overlap_px": 260,
+      "from_stage": 33,
+      "continues_stage": 35
+    }
+  ]
+}

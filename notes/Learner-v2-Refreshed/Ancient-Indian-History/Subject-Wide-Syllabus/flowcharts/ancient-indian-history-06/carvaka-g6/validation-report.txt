@@ -1,0 +1,45 @@
+topic=ancient-indian-history-06
+generation=6
+generated=2026-08-23T07:32:42.656756+05:30
+source=upsc-ai-kit\knowledge\Learner-v2-Refreshed\Ancient-Indian-History\Subject-Wide-Syllabus\learning-sessions\ancient-indian-history-06\ancient-indian-history-06_Complete-Learning-Session_2026-08-22.md
+master_png=master.png
+master_dimensions_px=3600x40076
+poster_pdf=poster.pdf
+poster_dimensions_points=1700.79x18933.54
+poster_pages=1
+tiled_pdf=tiled.pdf
+tiled_pages=21
+same_master_split=yes
+tile_overlap_px=260
+preview_count=21
+contact_sheet_count=4
+session_stage_count=45
+editable_sources=editable/flowchart-data.json, editable/README.txt
+ascii_master=ascii-master.txt
+core_before_extra=PASS
+same_master_identity=PASS
+poster_validation=PASS
+tiled_validation=PASS
+tile_coordinates=
+  page-001: y=0..2200; overlap=0; from=1; continues=3
+  page-002: y=1940..4140; overlap=260; from=3; continues=5
+  page-003: y=3880..6080; overlap=260; from=5; continues=7
+  page-004: y=5820..8020; overlap=260; from=7; continues=9
+  page-005: y=7760..9960; overlap=260; from=9; continues=12
+  page-006: y=9700..11900; overlap=260; from=11; continues=14
+  page-007: y=11640..13840; overlap=260; from=13; continues=16
+  page-008: y=13580..15780; overlap=260; from=16; continues=18
+  page-009: y=15520..17720; overlap=260; from=18; continues=20
+  page-010: y=17460..19660; overlap=260; from=20; continues=22
+  page-011: y=19400..21600; overlap=260; from=22; continues=25
+  page-012: y=21340..23540; overlap=260; from=24; continues=27
+  page-013: y=23280..25480; overlap=260; from=27; continues=29
+  page-014: y=25220..27420; overlap=260; from=29; continues=31
+  page-015: y=27160..29360; overlap=260; from=31; continues=33
+  page-016: y=29100..31300; overlap=260; from=33; continues=36
+  page-017: y=31040..33240; overlap=260; from=35; continues=38
+  page-018: y=32980..35180; overlap=260; from=38; continues=40
+  page-019: y=34920..37120; overlap=260; from=40; continues=42
+  page-020: y=36860..39060; overlap=260; from=42; continues=44
+  page-021: y=37876..40076; overlap=260; from=43; continues=45
+errors=none

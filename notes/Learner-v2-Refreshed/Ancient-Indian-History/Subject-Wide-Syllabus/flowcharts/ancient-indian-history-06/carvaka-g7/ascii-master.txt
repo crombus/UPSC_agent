@@ -1,0 +1,387 @@
+The Harappan Civilization — COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+START / CENTRAL QUESTION
+  INFERENCE: The tripartite scheme describes processes, not three sealed ethnic populations.
+        |
+        v
++-- SESSION 01: TERMINOLOGY, CHRONOLOGY AND THE INTEGRATION-LOCALISATION MODEL — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : INFERENCE: The tripartite scheme describes processes, not three sealed ethnic populations.
+|   MECHANISM / ARGUMENT: INFERENCE: The tripartite scheme describes processes, not three sealed ethnic populations.
+|   CONSEQUENCE / CONTRAST: RECALL: Protohistory here means a literate civilization whose script cannot yet be read.
+|   TRAP / ANSWER-USE: Mature Harappan and Rig Vedic are contemporaneous. || Mature Harappan urbanism largely predates the conventional c. 1500-1000 BCE Rig Vedic horizon.
+|   EXAM OPENING: FACT: "Harappan" is the safest archaeological label because the culture extended far beyond the Indus valley and the identification of the Ghaggar-Hakra with the Vedic Sarasvati remains debated.
++--
+        |
+        v
++-- SESSION 02: DISCOVERY, EXCAVATION AND CHANGING HISTORIOGRAPHY
+|   DEFINITION / TERMS : TRAP: The first excavator's label proves a structure's function. || Labels must be retested against residue, access, architecture, associated finds and comparison.
+|   MECHANISM / ARGUMENT: FACT: Research moved from spectacular citadels and artefacts toward households, villages, plant and animal remains, human biology, provenance and environmental histories.
+|   CONSEQUENCE / CONTRAST: INFERENCE: New methods have not removed interpretation; they have made the evidentiary chain more explicit.
+|   TRAP / ANSWER-USE: The first excavator's label proves a structure's function. || Labels must be retested against residue, access, architecture, associated finds and comparison.
+|   EXAM OPENING: MAINS ANGLE: Historiography is a movement from diffusion, monarchy and invasion toward indigenous development, regional variation and multidisciplinary process.
++--
+        |
+        v
++-- SESSION 03: GEOGRAPHICAL EXTENT, ECOLOGICAL ZONES AND REGIONAL DOMAINS — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : MAINS ANGLE: Ecological diversity explains both civilizational resilience and regionally varied pathways of decline.
+|   MECHANISM / ARGUMENT: TRAP: Indus Valley Civilization means all sites lie in the Indus valley. || The distribution includes Afghanistan, the Ghaggar-Hakra zone, Rajasthan, Gujarat and western Uttar Pradesh.
+|   CONSEQUENCE / CONTRAST: Use "vast, multi-ecological zone" rather than one immutable number.
+|   TRAP / ANSWER-USE: Indus Valley Civilization means all sites lie in the Indus valley. || The distribution includes Afghanistan, the Ghaggar-Hakra zone, Rajasthan, Gujarat and western Uttar Pradesh.
+|   EXAM OPENING: MAINS ANGLE: Ecological diversity explains both civilizational resilience and regionally varied pathways of decline.
++--
+        |
+        v
++-- SESSION 04: FROM EARLIER FARMING COMMUNITIES TO EARLY HARAPPAN URBAN POTENTIAL
+|   DEFINITION / TERMS : INFERENCE: Urbanisation emerged through convergence among regional traditions, craft intensification, exchange, agricultural surplus, leadership and ideology; no single trigger is sufficient.
+|   MECHANISM / ARGUMENT: TRAP: Early Harappan means primitive and unplanned. || Several early settlements were fortified, planned and craft-specialized.
+|   CONSEQUENCE / CONTRAST: MAINS ANGLE: Explain origins as endogenous transformation with inter-regional interaction, not a Mesopotamian colony or one-site diffusion.
+|   TRAP / ANSWER-USE: Early Harappan means primitive and unplanned. || Several early settlements were fortified, planned and craft-specialized.
+|   EXAM OPENING: INFERENCE: Urbanisation emerged through convergence among regional traditions, craft intensification, exchange, agricultural surplus, leadership and ideology; no single trigger is sufficient.
++--
+        |
+        v
++-- SESSION 05: SETTLEMENT HIERARCHY AND THE URBAN-RURAL SYSTEM — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : INFERENCE: Standardisation across this hierarchy required coordination, but it does not by itself prove one centralized empire.
+|   MECHANISM / ARGUMENT: INFERENCE: Standardisation across this hierarchy required coordination, but it does not by itself prove one centralized empire.
+|   CONSEQUENCE / CONTRAST: RECALL: Allahdino was a small village with precious ornaments, showing that wealth was not confined to great cities.
+|   TRAP / ANSWER-USE: Urban civilization means every Harappan settlement was a city. || The settlement network was predominantly rural and functionally differentiated.
+|   EXAM OPENING: FACT: The civilization was urban, but most settlements were villages.
++--
+        |
+        v
++-- SESSION 06: SITE ATLAS I - HARAPPA AND MOHENJO-DARO — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : FACT: Mohenjo-daro may have had over 700 wells, including private and neighbourhood wells.
+|   MECHANISM / ARGUMENT: FACT: Mohenjo-daro may have had over 700 wells, including private and neighbourhood wells.
+|   CONSEQUENCE / CONTRAST: Its secure significance is collective engineering; ritual bathing is plausible, not proven.
+|   TRAP / ANSWER-USE: The Great Bath proves a named religion. || It proves sophisticated waterproof public architecture; its ritual meaning is inferred.
+|   EXAM OPENING: MAINS ANGLE: Pair the two sites to show shared standards plus different public landscapes.
++--
+        |
+        v
++-- SESSION 07: SITE ATLAS II - DHOLAVIRA AND RAKHIGARHI — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : MAINS ANGLE: Dholavira supplies architecture and climate adaptation; Rakhigarhi supplies urban, mortuary and scientific evidence.
+|   MECHANISM / ARGUMENT: MAINS ANGLE: Dholavira supplies architecture and climate adaptation; Rakhigarhi supplies urban, mortuary and scientific evidence.
+|   CONSEQUENCE / CONTRAST: It demonstrates civic display of writing but does not reveal the city's name until the script is deciphered.
+|   TRAP / ANSWER-USE: Rakhigarhi DNA settled every question of Harappan identity. || One low-coverage ancient genome was a major beginning, not a complete population history.
+|   EXAM OPENING: TRAP: Rakhigarhi DNA settled every question of Harappan identity. || One low-coverage ancient genome was a major beginning, not a complete population history.
++--
+        |
+        v
++-- SESSION 08: SITE ATLAS III - KALIBANGAN, LOTHAL AND BANAWALI — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : FACT: Kalibangan's lower town lacked the Mohenjo-daro type street drains; household wastewater could empty into jars or troughs outside.
+|   MECHANISM / ARGUMENT: FACT: Kalibangan's lower town lacked the Mohenjo-daro type street drains; household wastewater could empty into jars or troughs outside.
+|   CONSEQUENCE / CONTRAST: This is regional variation, not urban failure.
+|   TRAP / ANSWER-USE: Every fire installation proves Vedic ritual continuity. || Shape, context, chronology and associated remains must be tested first.
+|   EXAM OPENING: A reservoir interpretation exists but is less persuasive in Upinder Singh's assessment.
++--
+        |
+        v
++-- SESSION 09: SITE ATLAS IV - SURKOTADA, CHANHUDARO AND OTHER STRATEGIC SITES
+|   DEFINITION / TERMS : INFERENCE: Chanhudaro proves that major craft production could occur in a town without the monumental form of Mohenjo-daro.
+|   MECHANISM / ARGUMENT: INFERENCE: Chanhudaro proves that major craft production could occur in a town without the monumental form of Mohenjo-daro.
+|   CONSEQUENCE / CONTRAST: The humped bull and cattle economy are much more characteristic.
+|   TRAP / ANSWER-USE: A reported horse bone makes the horse a defining Harappan animal. || Identification, context and frequency are all disputed.
+|   EXAM OPENING: FACT: Horse remains are rare and disputed; the mature civilization was not horse-centred.
++--
+        |
+        v
++-- SESSION 10: TOWN PLANNING, ARCHITECTURE AND BUILT STANDARDS — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : FACT: Streets often followed planned alignments, but even Mohenjo-daro did not have a perfect universal grid.
+|   MECHANISM / ARGUMENT: Houses usually opened into side lanes and were arranged around courtyards.
+|   CONSEQUENCE / CONTRAST: RECALL: Baked bricks were concentrated in drains, wells, baths and important structures at many sites; mud-brick remained fundamental.
+|   TRAP / ANSWER-USE: Planned layout means every city followed one blueprint. || Dholavira, Kalibangan, Lothal and smaller settlements show distinct plans.
+|   EXAM OPENING: FACT: Streets often followed planned alignments, but even Mohenjo-daro did not have a perfect universal grid.
++--
+        |
+        v
++-- SESSION 11: WATER, SANITATION, DRAINAGE AND COLLECTIVE MAINTENANCE — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : RECALL: Sewage channels and rainwater collection were not necessarily the same system.
+|   MECHANISM / ARGUMENT: INFERENCE: Infrastructure required repeated maintenance by workers whose social position is archaeologically under-visible.
+|   CONSEQUENCE / CONTRAST: MAINS ANGLE: Water management is a bounded contemporary bridge to urban resilience, not proof that ancient institutions were identical to modern municipalities.
+|   TRAP / ANSWER-USE: Drains prove modern public health ideas. || They prove practical sanitation and engineering; motives such as ritual purity remain inferential.
+|   EXAM OPENING: RECALL: Sewage channels and rainwater collection were not necessarily the same system.
++--
+        |
+        v
++-- SESSION 12: PUBLIC STRUCTURES, CRAFT ZONES AND THE PROBLEM OF FUNCTIONAL LABELS — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : TRAP: A large building is automatically a palace, temple or state warehouse. || Function requires converging contextual evidence.
+|   MECHANISM / ARGUMENT: INFERENCE: Public buildings reveal labour mobilisation, but the responsible institution could have been rulers, councils, merchants, ritual specialists or combined authorities.
+|   CONSEQUENCE / CONTRAST: RECALL: Use quotation marks around contested labels in Mains answers.
+|   TRAP / ANSWER-USE: A large building is automatically a palace, temple or state warehouse. || Function requires converging contextual evidence.
+|   EXAM OPENING: FACT: Craft areas are better identified when raw material, waste, tools, unfinished pieces and furnaces occur together.
++--
+        |
+        v
++-- SESSION 13: AGRICULTURE, CROPS, SEASONS AND FOOD SURPLUS — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : FACT: Agriculture was the mainstay, but crop packages varied regionally.
+|   MECHANISM / ARGUMENT: RECALL: Shortughai has canal evidence; Allahdino irrigation from wells is suggested but not conclusive.
+|   CONSEQUENCE / CONTRAST: TRAP: No surviving ploughshare means no ploughing. || Furrows and terracotta plough models support wooden-plough cultivation.
+|   TRAP / ANSWER-USE: No surviving ploughshare means no ploughing. || Furrows and terracotta plough models support wooden-plough cultivation.
+|   EXAM OPENING: FACT: Agriculture was the mainstay, but crop packages varied regionally.
++--
+        |
+        v
++-- SESSION 14: PASTORALISM, MEAT, DAIRY, FISHING AND ENVIRONMENTAL RESOURCE USE
+|   DEFINITION / TERMS : MAINS ANGLE: Use archaeobotany plus zooarchaeology plus residue analysis to reconstruct a diversified food system.
+|   MECHANISM / ARGUMENT: FACT: Cattle and buffalo were central; sheep, goats, pigs, dogs and cats also occur.
+|   CONSEQUENCE / CONTRAST: FACT: The horse is rare, debated and not characteristic.
+|   TRAP / ANSWER-USE: An animal on a seal was necessarily domesticated or worshipped. || Representation can be economic, symbolic, mythical or ritual.
+|   EXAM OPENING: Camels may have been known, but their Harappan context and economic importance remain uncertain.
++--
+        |
+        v
++-- SESSION 15: CRAFT PRODUCTION, METALLURGY AND TECHNICAL SKILL — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : FACT: The bronze "Dancing Girl" was made by lost-wax casting.
+|   MECHANISM / ARGUMENT: FACT: The bronze "Dancing Girl" was made by lost-wax casting.
+|   CONSEQUENCE / CONTRAST: TRAP: Bronze Age means every tool was bronze. || Copper, bronze, stone, shell, bone, wood and terracotta coexisted.
+|   TRAP / ANSWER-USE: Bronze Age means every tool was bronze. || Copper, bronze, stone, shell, bone, wood and terracotta coexisted.
+|   EXAM OPENING: FACT: Pure copper objects were more numerous than bronze objects; alloys were selected especially where harder edges were useful.
++--
+        |
+        v
++-- SESSION 16: ART AND MATERIAL CULTURE - SCULPTURE, POTTERY, TERRACOTTAS AND TOYS — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : INFERENCE: Differences in materials, skill and distribution may reflect audience, function and access, not a simple high-art/low-art hierarchy.
+|   MECHANISM / ARGUMENT: INFERENCE: Differences in materials, skill and distribution may reflect audience, function and access, not a simple high-art/low-art hierarchy.
+|   CONSEQUENCE / CONTRAST: TRAP: A modern museum nickname is an ancient identity. || Use the nickname for recall but state its interpretive status.
+|   TRAP / ANSWER-USE: A modern museum nickname is an ancient identity. || Use the nickname for recall but state its interpretive status.
+|   EXAM OPENING: FACT: Seals are among the finest artistic products, but terracottas range from carefully modelled to quickly made objects for everyday or short-term use.
++--
+        |
+        v
++-- SESSION 17: WEIGHTS, MEASURES, GEOMETRY AND EVIDENCE OF SCIENTIFIC KNOWLEDGE — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : FACT: The 2026 Prelims PYQ correctly treats weights and graduated scales as evidence of scientific knowledge, while rejecting a property-system inference from house form.
+|   MECHANISM / ARGUMENT: INFERENCE: Standardization could arise through state regulation, merchant coordination, hereditary specialists, exchange networks or combinations of these.
+|   CONSEQUENCE / CONTRAST: Smaller units follow a binary progression, while higher units include decimal relationships.
+|   TRAP / ANSWER-USE: "Multiple of 16" alone describes the whole weight system. || Smaller and larger series show binary and decimal patterning.
+|   EXAM OPENING: FACT: The 2026 Prelims PYQ correctly treats weights and graduated scales as evidence of scientific knowledge, while rejecting a property-system inference from house form.
++--
+        |
+        v
++-- SESSION 18: SEALS, SEALINGS AND THE UNDECIPHERED SCRIPT — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Textile impressions on some sealings support authentication of goods, but seals also show wear and suspension holes consistent with other functions.
+|   MECHANISM / ARGUMENT: Most inscriptions are short, averaging about five signs; the longest has 26 signs.
+|   CONSEQUENCE / CONTRAST: RECALL: Do not call the whole script boustrophedon.
+|   TRAP / ANSWER-USE: A proposed Dravidian, Sanskrit or non-linguistic reading is settled. || Competing proposals exist; no decipherment is accepted.
+|   EXAM OPENING: Textile impressions on some sealings support authentication of goods, but seals also show wear and suspension holes consistent with other functions.
++--
+        |
+        v
++-- SESSION 19: INTERNAL EXCHANGE, RAW MATERIALS AND TRANSPORT — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : TRAP: A non-local bead proves conquest or colony. || It proves movement; the mechanism may be trade, gifting, mobility or down-the-line exchange.
+|   MECHANISM / ARGUMENT: TRAP: A non-local bead proves conquest or colony. || It proves movement; the mechanism may be trade, gifting, mobility or down-the-line exchange.
+|   CONSEQUENCE / CONTRAST: FACT: Two-wheeled carts with solid wheels, pack animals, river boats and seagoing craft are supported by models, tracks and depictions.
+|   TRAP / ANSWER-USE: A non-local bead proves conquest or colony. || It proves movement; the mechanism may be trade, gifting, mobility or down-the-line exchange.
+|   EXAM OPENING: INFERENCE: Internal exchange was more structurally important than the visually attractive but limited Mesopotamian trade.
++--
+        |
+        v
++-- SESSION 20: LONG-DISTANCE TRADE, MELUHHA AND THE MESOPOTAMIAN LINK — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : TRAP: Mesopotamian trade caused Harappan urbanism. || It may have enriched exchange, but chronology and low find quantities undermine a monocausal claim.
+|   MECHANISM / ARGUMENT: Dilmun is generally identified with Bahrain; Magan with Oman/Makran; Meluhha probably included the Indus region but its exact scope is debated.
+|   CONSEQUENCE / CONTRAST: RECALL: Dilmun and Magan were intermediating regions, not Harappan cities.
+|   TRAP / ANSWER-USE: Mesopotamian trade caused Harappan urbanism. || It may have enriched exchange, but chronology and low find quantities undermine a monocausal claim.
+|   EXAM OPENING: TRAP: Mesopotamian trade caused Harappan urbanism. || It may have enriched exchange, but chronology and low find quantities undermine a monocausal claim.
++--
+        |
+        v
++-- SESSION 21: SOCIAL ORGANISATION, WEALTH AND OCCUPATIONAL DIVERSITY
+|   DEFINITION / TERMS : INFERENCE: Rank and class differences probably existed, but claims of a Harappan caste system are highly speculative.
+|   MECHANISM / ARGUMENT: INFERENCE: Rank and class differences probably existed, but claims of a Harappan caste system are highly speculative.
+|   CONSEQUENCE / CONTRAST: RECALL: Material culture can suggest inequality more securely than it can name legal status.
+|   TRAP / ANSWER-USE: FACT: House size, location, craft access, ornaments, hoards, diet and burials indicate differentiation, but there are no royal tombs or lavish elite burials comparable to Egypt and Mesopotamia.
+|   EXAM OPENING: FACT: House size, location, craft access, ornaments, hoards, diet and burials indicate differentiation, but there are no royal tombs or lavish elite burials comparable to Egypt and Mesopotamia.
++--
+        |
+        v
++-- SESSION 22: POLITY DEBATE - EMPIRE, CITY-STATES, COUNCILS OR CORPORATE ELITES
+|   DEFINITION / TERMS : INFERENCE: The most defensible position is organized authority with uncertain scale, personnel and coercive structure.
+|   MECHANISM / ARGUMENT: TRAP: No palace means no state. || Early states can express authority through infrastructure, standards and networks rather than royal monuments.
+|   CONSEQUENCE / CONTRAST: MAINS ANGLE: Achievement is clear; constitutional form is not.
+|   TRAP / ANSWER-USE: No palace means no state. || Early states can express authority through infrastructure, standards and networks rather than royal monuments.
+|   EXAM OPENING: FACT: Weapons and narrative scenes of warfare are less prominent than in Mesopotamia and Egypt, but fortifications warn against imagining a coercion-free society.
++--
+        |
+        v
++-- SESSION 23: RELIGION AND RITUAL - INTERPRETATION WITHOUT BACK-PROJECTION
+|   DEFINITION / TERMS : FACT: No structure has been conclusively identified as a monumental temple.
+|   MECHANISM / ARGUMENT: INFERENCE: Harappan ritual was plural, household and civic; a single standardized creed cannot be reconstructed.
+|   CONSEQUENCE / CONTRAST: MAINS ANGLE: Religious interpretation should follow the sequence form - context - comparison - alternative - qualified conclusion.
+|   TRAP / ANSWER-USE: Similarity with later Hindu practice proves direct unchanged continuity. || Resemblance may indicate continuity, reuse, convergence or retrospective projection.
+|   EXAM OPENING: FACT: Female figurines are abundant at some sites and rare at others, demonstrating regional or functional variation.
++--
+        |
+        v
++-- SESSION 24: GENDER, BURIALS, HEALTH AND THE LIMITS OF SOCIAL RECONSTRUCTION
+|   DEFINITION / TERMS : MAINS ANGLE: Use burial and gender evidence as a lesson in cautious social history, not a route to confident family law.
+|   MECHANISM / ARGUMENT: RECALL: Burial wealth was generally modest compared with Egyptian or Mesopotamian royal tombs.
+|   CONSEQUENCE / CONTRAST: TRAP: Goddess worship means matriarchy. || Divine femininity and ordinary women's authority are separate questions.
+|   TRAP / ANSWER-USE: Goddess worship means matriarchy. || Divine femininity and ordinary women's authority are separate questions.
+|   EXAM OPENING: MAINS ANGLE: Use burial and gender evidence as a lesson in cautious social history, not a route to confident family law.
++--
+        |
+        v
++-- SESSION 25: DECLINE AND DEURBANISATION - A MULTI-CAUSAL, REGIONAL PROCESS — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : FACT: The mature phase was followed by Late Harappan cultures; people and practices did not vanish.
+|   MECHANISM / ARGUMENT: FACT: The mature phase was followed by Late Harappan cultures; people and practices did not vanish.
+|   CONSEQUENCE / CONTRAST: MAINS ANGLE: Use "metamorphosis/deurbanisation" with causation, regional variation and continuity.
+|   TRAP / ANSWER-USE: One flood, one invasion or one drought ended every city. || Different mechanisms operated at different sites and scales.
+|   EXAM OPENING: Mohenjo-daro and Dholavira show gradual deterioration, while urban life ended more abruptly at Kalibangan and Banawali.
++--
+        |
+        v
++-- SESSION 26: LATE HARAPPAN CONTINUITY, TRANSFORMATION AND SUCCESSOR CULTURES — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : TRAP: "Continuity" means the entire mature urban system survived unchanged. || Continuity and structural rupture coexisted.
+|   MECHANISM / ARGUMENT: FACT: Late Harappan levels overlap with Painted Grey Ware at some Punjab-Haryana sites and with Ochre Coloured Pottery in western Uttar Pradesh.
+|   CONSEQUENCE / CONTRAST: Overlap shows contact and sequence, not ethnic identity.
+|   TRAP / ANSWER-USE: "Continuity" means the entire mature urban system survived unchanged. || Continuity and structural rupture coexisted.
+|   EXAM OPENING: RECALL: Continuity is selective: pottery, crops, craft and population can continue even when cities, script and standardized institutions weaken.
++--
+        |
+        v
++-- SESSION 27: RELATIONS WITH NEOLITHIC-CHALCOLITHIC AND VEDIC WORLDS
+|   DEFINITION / TERMS : TRAP: aDNA can label an archaeological culture as a modern ethnic or linguistic group. || Genes, language, material culture and political identity are related but non-identical evidence domains.
+|   MECHANISM / ARGUMENT: INFERENCE: Migration, admixture and cultural interaction are better models than either violent replacement or timeless ethnic identity.
+|   CONSEQUENCE / CONTRAST: RECALL: Genetics does not directly identify language, religion or self-designation.
+|   TRAP / ANSWER-USE: aDNA can label an archaeological culture as a modern ethnic or linguistic group. || Genes, language, material culture and political identity are related but non-identical evidence domains.
+|   EXAM OPENING: FACT: Mature cities, script, seals and baked-brick urban systems are not characteristic of the Rig Veda.
++--
+        |
+        v
++-- SESSION 28: CURRENT-RESEARCH GUARDRAIL
+|   DEFINITION / TERMS : It must not be used to declare script decipherment, a known polity or one final decline cause.
+|   MECHANISM / ARGUMENT: It must not be used to declare script decipherment, a known polity or one final decline cause.
+|   CONSEQUENCE / CONTRAST: No current-affairs item is required for this static topic.
+|   TRAP / ANSWER-USE: It must not be used to declare script decipherment, a known polity or one final decline cause.
+|   EXAM OPENING: A new excavation, river study, genome result or conservation report may refine a bounded site-level claim only after a primary publication or official report is checked.
++--
+        |
+        v
++-- SESSION 29: UPSC TRAPS, TERMINOLOGY AND ANSWER-BUILDING RULES
+|   DEFINITION / TERMS : MAINS ANGLE: The qualification should sharpen the answer, not dissolve it into "nothing is known.".
+|   MECHANISM / ARGUMENT: MAINS ANGLE: The qualification should sharpen the answer, not dissolve it into "nothing is known.".
+|   CONSEQUENCE / CONTRAST: MAINS ANGLE: The qualification should sharpen the answer, not dissolve it into "nothing is known.".
+|   TRAP / ANSWER-USE: MAINS ANGLE: The qualification should sharpen the answer, not dissolve it into "nothing is known.".
+|   EXAM OPENING: MAINS ANGLE: The qualification should sharpen the answer, not dissolve it into "nothing is known.".
++--
+        |
+        v
++-- SESSION 30: PHASE -> PROCESS -> REGIONAL CHANGE — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Use Early, Mature and Late Harappan as a process sequence: regional foundations - integrated urban traits - de-urbanisation and localisation.
+|   MECHANISM / ARGUMENT: Use Early, Mature and Late Harappan as a process sequence: regional foundations - integrated urban traits - de-urbanisation and localisation.
+|   CONSEQUENCE / CONTRAST: It is not sudden appearance then extinction.
+|   TRAP / ANSWER-USE: A modern archaeological label is not a Harappan self-description.
+|   EXAM OPENING: Mature urbanism is the core factual phase; Late Harappan continuity prevents a one-line collapse story.
++--
+        |
+        v
++-- SESSION 31: SITE-FEATURE TRIADS, NOT A SITE CATALOGUE
+|   DEFINITION / TERMS : A modern archaeological label is not a Harappan self-description.
+|   MECHANISM / ARGUMENT: A modern archaeological label is not a Harappan self-description.
+|   CONSEQUENCE / CONTRAST: A modern archaeological label is not a Harappan self-description.
+|   TRAP / ANSWER-USE: A modern archaeological label is not a Harappan self-description.
+|   EXAM OPENING: A modern archaeological label is not a Harappan self-description.
++--
+        |
+        v
++-- SESSION 32: URBAN WATER AND BUILT FORM — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Grid streets, standard bricks, wells, bathing floors and covered drains securely show planned civic construction and water management.
+|   MECHANISM / ARGUMENT: They do not securely identify kings, a palace, a granary or one central state.
+|   CONSEQUENCE / CONTRAST: A modern archaeological label is not a Harappan self-description.
+|   TRAP / ANSWER-USE: They do not securely identify kings, a palace, a granary or one central state.
+|   EXAM OPENING: Grid streets, standard bricks, wells, bathing floors and covered drains securely show planned civic construction and water management.
++--
+        |
+        v
++-- SESSION 33: PRODUCTION, MEASUREMENT AND EXCHANGE
+|   DEFINITION / TERMS : The argument should be: evidence of coordination - craft/exchange implication - limit on exact political control.
+|   MECHANISM / ARGUMENT: The argument should be: evidence of coordination - craft/exchange implication - limit on exact political control.
+|   CONSEQUENCE / CONTRAST: A modern archaeological label is not a Harappan self-description.
+|   TRAP / ANSWER-USE: The argument should be: evidence of coordination - craft/exchange implication - limit on exact political control.
+|   EXAM OPENING: No coinage is known; weights and commodities do not tell us the title of a ruler.
++--
+        |
+        v
++-- SESSION 34: SCRIPT, RITUAL AND AUTHORITY
+|   DEFINITION / TERMS : Seals, figurines, fire installations, burials and monumental-looking buildings can reveal material practice and repeated symbols; they cannot securely disclose doctrine, named gods, caste or a monarchy.
+|   MECHANISM / ARGUMENT: Seals, figurines, fire installations, burials and monumental-looking buildings can reveal material practice and repeated symbols; they cannot securely disclose doctrine, named gods, caste or a monarchy.
+|   CONSEQUENCE / CONTRAST: Use 'horned figure', 'female figurines' and 'structure conventionally called...' before advancing a cautious interpretation.
+|   TRAP / ANSWER-USE: A modern archaeological label is not a Harappan self-description.
+|   EXAM OPENING: A modern archaeological label is not a Harappan self-description.
++--
+        |
+        v
++-- SESSION 35: DECLINE AS TRANSFORMATION — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : A modern archaeological label is not a Harappan self-description.
+|   MECHANISM / ARGUMENT: A modern archaeological label is not a Harappan self-description.
+|   CONSEQUENCE / CONTRAST: River/environmental change, trade disruption and internal reorganisation are contributory explanations, not a settled single cause.
+|   TRAP / ANSWER-USE: River/environmental change, trade disruption and internal reorganisation are contributory explanations, not a settled single cause.
+|   EXAM OPENING: River/environmental change, trade disruption and internal reorganisation are contributory explanations, not a settled single cause.
++--
+        |
+        v
++-- SESSION 36: DEEP TEACHING UNIT 1: FROM REGIONAL CULTURES TO URBAN INTEGRATION — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : “Urbanisation began suddenly in 2600 BCE and ended completely in 1900 BCE.” Both halves flatten a long, uneven process.
+|   MECHANISM / ARGUMENT: Shared weights and brick conventions are outcomes of repeated choices and coordination; they are not the initial cause of every town.
+|   CONSEQUENCE / CONTRAST: The Late phase is the weakening of this particular urban integration, not the disappearance of every person or practice.
+|   TRAP / ANSWER-USE: Dholavira's distinctive architecture also demonstrates that integration did not erase regional solutions.
+|   EXAM OPENING: The Early Harappan phase shows several regional communities developing some of these capacities.
++--
+        |
+        v
++-- SESSION 37: DEEP TEACHING UNIT 2: EXTENT, ECOLOGY AND THE URBAN-RURAL SYSTEM — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : A coastal or semi-arid site should not be judged by the same expectations as a riverine city.
+|   MECHANISM / ARGUMENT: A coastal or semi-arid site should not be judged by the same expectations as a riverine city.
+|   CONSEQUENCE / CONTRAST: Extent is an economic map: river plains, coast and resource zones were connected, not identical.
+|   TRAP / ANSWER-USE: Cities therefore depended on villages, pastoral areas and resource routes; they were not self-sufficient islands.
+|   EXAM OPENING: Ecology creates possibilities and pressures; it does not mechanically determine a political outcome.
++--
+        |
+        v
++-- SESSION 38: DEEP TEACHING UNIT 3: PLANNING, WATER AND EVERYDAY MAINTENANCE — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : A drain is most informative when read with its connection: a house outlet, a street channel, brick lining and a probable cleaning route collectively show an infrastructure system.
+|   MECHANISM / ARGUMENT: Town planning means more than a grid seen from above.
+|   CONSEQUENCE / CONTRAST: Calling a raised sector a “citadel” does not prove that it was a royal fort.
+|   TRAP / ANSWER-USE: The label describes an excavator's interpretation, not a text from the inhabitants.
+|   EXAM OPENING: They do not reveal whether a monarch, council, merchant group or several local authorities organised it.
++--
+        |
+        v
++-- SESSION 39: DEEP TEACHING UNIT 4: THE ECONOMY AS A LINKED SYSTEM — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Food - craft - measure - exchange is the economic-system memory spine.
+|   MECHANISM / ARGUMENT: Its raw material had to arrive, specialist labour had to shape it, and finished goods had to move or be exchanged.
+|   CONSEQUENCE / CONTRAST: Do not learn crops, beads, weights and trade as disconnected lists.
+|   TRAP / ANSWER-USE: A bead is not just an ornament for a list.
+|   EXAM OPENING: A Mains paragraph can argue: specialised production and shared metrology indicate an integrated economy, but neither coins nor a named bureaucracy are available to prove a modern market or empire.
++--
+        |
+        v
++-- SESSION 40: DEEP TEACHING UNIT 5: EVIDENCE LADDER FOR SCRIPT, POLITY, SOCIETY AND RELIGION
+|   DEFINITION / TERMS : Use a two-step sentence: “The evidence indicates X because of Y; however, Z remains unresolved because the script is undeciphered and the label is interpretive.” This earns analysis without evasiveness.
+|   MECHANISM / ARGUMENT: Use a two-step sentence: “The evidence indicates X because of Y; however, Z remains unresolved because the script is undeciphered and the label is interpretive.” This earns analysis without evasiveness.
+|   CONSEQUENCE / CONTRAST: “Undeciphered script” does not license every speculation; it makes the material context more important, not less.
+|   TRAP / ANSWER-USE: Archaeology does not mean “we know nothing”; it means that the strength of a claim changes with the evidence.
+|   EXAM OPENING: Because the script is undeciphered, they cannot securely name a king, identify a god, translate a law or establish caste.
++--
+        |
+        v
++-- SESSION 41: DEEP TEACHING UNIT 6: DE-URBANISATION AS CAUSAL SEQUENCE AND CONTINUITY — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : A 20-marker should move from what changed (urban traits, settlement pattern) - possible interacting causes - regional unevenness - continuity.
+|   MECHANISM / ARGUMENT: A 20-marker should move from what changed (urban traits, settlement pattern) - possible interacting causes - regional unevenness - continuity.
+|   CONSEQUENCE / CONTRAST: Late Harappan communities retained some practices while urban traits and settlement patterns changed.
+|   TRAP / ANSWER-USE: It is not a licence to choose one dramatic event.
+|   EXAM OPENING: Ghaggar-Hakra debates illustrate the rule: many settlements and changing river/environmental conditions matter, but identification with the Vedic Sarasvati and a civilization-wide causal claim are debated.
++--
+        |
+        v
++-- SESSION 42: DEEP TEACHING UNIT 7: SITE MEMORY METHOD AND THE FIVE-SENTENCE ANSWER — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : The method works even when one option is partly familiar.
+|   MECHANISM / ARGUMENT: In an unfamiliar site question, do not search memory for one glamorous object.
+|   CONSEQUENCE / CONTRAST: Add a qualifier when a feature is a conventional function, not a settled fact.
+|   TRAP / ANSWER-USE: More sites do not necessarily make a better answer.
+|   EXAM OPENING: Memory improves when a site is stored as a triad rather than as an isolated name.
++--
+        |
+        v
+ANSWER-WRITING SPINE
+definition -> exact terms -> mechanism/evidence -> consequence/contrast
+-> objection/trap -> qualified answer-use

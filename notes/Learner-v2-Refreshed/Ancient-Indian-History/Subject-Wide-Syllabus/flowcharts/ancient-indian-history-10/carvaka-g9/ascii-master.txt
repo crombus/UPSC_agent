@@ -1,0 +1,324 @@
+Jainism and Buddhism — COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+START / CENTRAL QUESTION
+  Memory hook: C-K-R: Cities, Kings, Renunciants - plus the caveat 'context is not cause alone'.
+        |
+        v
++-- SESSION 01: SIXTH-CENTURY BCE SETTING: CITIES, STATES AND INTELLECTUAL FERMENT — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Memory hook: C-K-R: Cities, Kings, Renunciants - plus the caveat 'context is not cause alone'.
+|   MECHANISM / ARGUMENT: Memory hook: C-K-R: Cities, Kings, Renunciants - plus the caveat 'context is not cause alone'.
+|   CONSEQUENCE / CONTRAST: These conditions widened their audience, but doctrine cannot be mechanically derived from iron or trade.
+|   TRAP / ANSWER-USE: QUALIFICATION: The subcontinent did not urbanize uniformly, merchants were not the only followers, and economic change cannot explain specific doctrines such as anatta or anekantavada.
+|   EXAM OPENING: Upinder Singh's useful frame is 'cities, kings and renunciants' for north India c.
++--
+        |
+        v
++-- SESSION 02: THE SHRAMANA FIELD: HETERODOXY WITHOUT A FALSE BINARY — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Parivrajaka denotes a wandering renunciant; shramana a striver/ascetic across several non-Vedic movements; upasaka/upasika a Buddhist lay follower.
+|   MECHANISM / ARGUMENT: Mains/PYQ use: A comparison answer should begin with the common debate field and then separate ontology, path and institution.
+|   CONSEQUENCE / CONTRAST: Read the structure first; each arrow is a historical relationship, not an automatic law.
+|   TRAP / ANSWER-USE: Both Jain and Buddhist traditions retained karma, rebirth and liberation concerns while redefining agency, selfhood and the path.
+|   EXAM OPENING: 'Shramana versus Brahmana' is a useful contrast of authority and practice, but historical interaction was continuous.
++--
+        |
+        v
++-- SESSION 03: PRE-MAHAVIRA JAIN TRADITION AND THE TIRTHANKARAS — [CORE PRELIMS + SUPPORTING]
+|   DEFINITION / TERMS : Historical confidence is unequal: Parshvanatha is the strongest pre-Mahavira candidate, while claims for very early figures belong primarily to sacred tradition.
+|   MECHANISM / ARGUMENT: Jain tradition presents a succession of twenty-four Tirthankaras, with Mahavira as the twenty-fourth.
+|   CONSEQUENCE / CONTRAST: Historical confidence is unequal: Parshvanatha is the strongest pre-Mahavira candidate, while claims for very early figures belong primarily to sacred tradition.
+|   TRAP / ANSWER-USE: A Tirthankara is a 'ford-maker' who discovers and teaches a route across bondage; the term is not a creator-god title.
+|   EXAM OPENING: TRADITION: Rishabhanatha is the first Tirthankara, Parshvanatha the twenty-third and Mahavira the twenty-fourth.
++--
+        |
+        v
++-- SESSION 04: MAHAVIRA: TRADITIONAL BIOGRAPHY AND HISTORICAL RECONSTRUCTION — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Read the structure first; each arrow is a historical relationship, not an automatic law.
+|   MECHANISM / ARGUMENT: Pali Buddhist texts know him as Nigantha Nataputta, proving that an organized Nigantha/Jain community was recognized by rival near-contemporary traditions.
+|   CONSEQUENCE / CONTRAST: Read the structure first; each arrow is a historical relationship, not an automatic law.
+|   TRAP / ANSWER-USE: Nayaputta/Nataputta refers to Mahavira, not Buddha.
+|   EXAM OPENING: Wrong: Traditional dates are uncontested historical facts.
++--
+        |
+        v
++-- SESSION 05: JAIN ONTOLOGY: JIVA, AJIVA AND A LIVING COSMOS — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Technically, Jain Ontology: Jiva, Ajiva And A Living Cosmos — [Core Prelims + Core Mains] is analysed by relating Jain Ontology to Jiva, then testing the relationship through Ajiva and A Living Cosmos.
+|   MECHANISM / ARGUMENT: Ajiva includes pudgala (matter), dharma as the medium of motion, adharma as the medium of rest, akasha (space) and, in common six-substance classification, kala (time).
+|   CONSEQUENCE / CONTRAST: Mains/PYQ use: Link the broad ontology of life directly to dietary, occupational and monastic ethics, then state the category limit.
+|   TRAP / ANSWER-USE: Jain ahimsa follows from ontology, not only sentiment.
+|   EXAM OPENING: Jiva is conscious, potentially omniscient and capable of liberation; embodied jivas occupy many grades of sense-capacity.
++--
+        |
+        v
++-- SESSION 06: JAIN KARMA, BONDAGE AND LIBERATION — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Jain karma is subtle material matter that adheres to the soul because of activity and passions.
+|   MECHANISM / ARGUMENT: Jain karma is subtle material matter that adheres to the soul because of activity and passions.
+|   CONSEQUENCE / CONTRAST: Jain karma is not merely metaphorical moral memory.
+|   TRAP / ANSWER-USE: Liberation reveals the jiva's inherent knowledge, perception, bliss and energy; it does not merge into a creator god.
+|   EXAM OPENING: Asrava is karmic influx; bandha is bondage; samvara stops new influx; nirjara sheds accumulated karma; moksha is the liberated state.
++--
+        |
+        v
++-- SESSION 07: JAIN TRIRATNA, FIVE VOWS AND ASCETIC-LAY PATHS — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : The five vows are ahimsa, satya, asteya, brahmacharya and aparigraha.
+|   MECHANISM / ARGUMENT: QUALIFICATION: Ahimsa does not make historical Jain communities economically or politically identical; practice varied by region, sect and occupation.
+|   CONSEQUENCE / CONTRAST: Correct: That is the Buddhist three refuges, not the Jain path triad.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: the five vows are ahimsa, satya, asteya, brahmacharya and aparigraha.
+|   EXAM OPENING: The five vows are absolute mahavratas for ascetics and limited anuvratas for householders, creating a demanding but socially sustainable two-level discipline.
++--
+        |
+        v
++-- SESSION 08: ANEKANTAVADA, SYADVADA AND NAYAVADA — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Anekantavada is an ontological/epistemic warning against reducing a complex object to one absolute description.
+|   MECHANISM / ARGUMENT: Anekantavada is an ontological/epistemic warning against reducing a complex object to one absolute description.
+|   CONSEQUENCE / CONTRAST: Read the structure first; each arrow is a historical relationship, not an automatic law.
+|   TRAP / ANSWER-USE: Saptabhangi uses combinations of is, is not and is inexpressible under specified standpoints.
+|   EXAM OPENING: Anekantavada is the doctrine that reality has many aspects; nayavada analyzes partial standpoints; syadvada expresses qualified predication, conventionally through seven possible formulations.
++--
+        |
+        v
++-- SESSION 09: JAIN SANGHA, WOMEN, SOCIAL ETHICS AND LIMITS — [CORE MAINS + SUPPORTING]
+|   DEFINITION / TERMS : Mains/PYQ use: A social answer should pair widened religious agency with sectarian and societal limits.
+|   MECHANISM / ARGUMENT: Fourfold Jain sangha includes both ordained and lay women.
+|   CONSEQUENCE / CONTRAST: Mains/PYQ use: A social answer should pair widened religious agency with sectarian and societal limits.
+|   TRAP / ANSWER-USE: Religious access does not equal modern social equality.
+|   EXAM OPENING: INTERPRETATION: Merchant support suited a mobile mendicant order and an ethic of trust, restraint and donation, but the tradition was not only mercantile.
++--
+        |
+        v
++-- SESSION 10: JAIN COUNCILS, CANON AND REDACTION TRADITIONS — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Jain canonical history is reconstructed differently by Shvetambara and Digambara traditions.
+|   MECHANISM / ARGUMENT: Jain canonical history is reconstructed differently by Shvetambara and Digambara traditions.
+|   CONSEQUENCE / CONTRAST: Digambaras do not accept the extant Shvetambara Agamas as the intact original canon.
+|   TRAP / ANSWER-USE: Mains/PYQ use: A source answer must name the sect, redaction claim, representative text and limit.
+|   EXAM OPENING: TRADITION: A Pataliputra council under Sthulabhadra is said to have collected surviving teachings; Digambara tradition does not accept that the original canon survived intact.
++--
+        |
+        v
++-- SESSION 11: DIGAMBARA, SHVETAMBARA AND BOUNDED SUBSECT HISTORY — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Sthanakvasi is a later Shvetambara non-image-worship reform tradition associated with meeting halls rather than temple-image worship.
+|   MECHANISM / ARGUMENT: Digambara means 'sky-clad' and Shvetambara 'white-clad'; clothing is visible but not the only distinction.
+|   CONSEQUENCE / CONTRAST: Regional patterns were strong: Digambara institutions became prominent in Karnataka and parts of central India; Shvetambara institutions in Gujarat and Rajasthan.
+|   TRAP / ANSWER-USE: CAUTION: Its roots are linked to fifteenth-century Lonka Shah and later organization; the exact emergence should not be compressed into the ancient period.
+|   EXAM OPENING: Terapanth has distinct Shvetambara and Digambara usages; do not assume every similarly named subsect has one history.
++--
+        |
+        v
++-- SESSION 12: JAIN SPREAD, PATRONS, SITES, ART AND LITERATURE — [CORE PRELIMS + SUPPORTING]
+|   DEFINITION / TERMS : Ayagapatas are Jain votive tablets associated especially with Mathura evidence.
+|   MECHANISM / ARGUMENT: Wrong: Chandragupta's Jain migration is directly documented by a contemporary inscription.
+|   CONSEQUENCE / CONTRAST: TRADITION/LIMIT: Shravanabelagola links Bhadrabahu and Chandragupta Maurya to southern migration, but the surviving epigraphic tradition is later and cannot independently prove every detail.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: ayagapatas are Jain votive tablets associated especially with Mathura evidence.
+|   EXAM OPENING: Jain literature is multilingual and not confined to Ardhamagadhi.
++--
+        |
+        v
++-- SESSION 13: THE BUDDHA: HISTORICAL CORE AND TRADITIONAL LIFE — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Read the structure first; each arrow is a historical relationship, not an automatic law.
+|   MECHANISM / ARGUMENT: The Buddha is historically located in the fifth-century BCE Gangetic world, while detailed biographies were shaped over centuries.
+|   CONSEQUENCE / CONTRAST: Read the structure first; each arrow is a historical relationship, not an automatic law.
+|   TRAP / ANSWER-USE: Nayaputta is not a Buddha epithet.
+|   EXAM OPENING: Ashoka's Rummindei pillar inscription provides early epigraphic association of Lumbini with the Buddha, centuries after his life but firmer than late biography alone.
++--
+        |
+        v
++-- SESSION 14: FOUR NOBLE TRUTHS: DIAGNOSIS, CAUSE, CESSATION AND PATH — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Dukkha: Conditioned unsatisfactoriness Samudaya: Craving sustained by ignorance Nirodha: Cessation/release is possible Magga: Eightfold path.
+|   MECHANISM / ARGUMENT: Dukkha: Conditioned unsatisfactoriness Samudaya: Craving sustained by ignorance Nirodha: Cessation/release is possible Magga: Eightfold path.
+|   CONSEQUENCE / CONTRAST: INTERPRETATION: The medical analogy - diagnosis, cause, cure and treatment - captures structure but should not trivialize the existential claim.
+|   TRAP / ANSWER-USE: The truths are a linked analysis, not four unrelated beliefs.
+|   EXAM OPENING: The Four Noble Truths organize early Buddhist teaching as a practical analysis of dukkha rather than a claim that every experience is only pain.
++--
+        |
+        v
++-- SESSION 15: EIGHTFOLD PATH, MIDDLE WAY AND ETHICAL DISCIPLINE — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Technically, Eightfold Path, Middle Way And Ethical Discipline — [Core Prelims + Core Mains] is analysed by relating Eightfold Path to Middle Way, then testing the relationship through Ethical Discipline and Memory hook.
+|   MECHANISM / ARGUMENT: Correct: It is an ethical path factor with lay implications, while monastic rules are more detailed.
+|   CONSEQUENCE / CONTRAST: QUALIFICATION: 'Middle Way' does not mean compromise between truth and falsehood; it concerns disciplined avoidance of spiritually fruitless extremes.
+|   TRAP / ANSWER-USE: Correct: It is a disciplined soteriological path, not vague centrism.
+|   EXAM OPENING: Its eight factors are usually grouped into wisdom, ethical conduct and mental discipline; they are cultivated together rather than as a simple staircase.
++--
+        |
+        v
++-- SESSION 16: DEPENDENT ORIGINATION: PROCESS WITHOUT A FIRST CAUSE — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Read the structure first; each arrow is a historical relationship, not an automatic law.
+|   MECHANISM / ARGUMENT: The teaching rejects both an unconditioned creator explanation for the cycle and a permanent self passing unchanged through it.
+|   CONSEQUENCE / CONTRAST: Read the structure first; each arrow is a historical relationship, not an automatic law.
+|   TRAP / ANSWER-USE: Craving is important but not isolated; ignorance, sense contact and clinging show a wider causal psychology.
+|   EXAM OPENING: Dependent origination is conditionality, not predestination.
++--
+        |
+        v
++-- SESSION 17: IMPERMANENCE, NO-SELF, AGGREGATES, KARMA AND NIRVANA — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : The five aggregates are form, feeling, perception, formations and consciousness.
+|   MECHANISM / ARGUMENT: Early Buddhism links impermanence (anicca), unsatisfactoriness (dukkha) and no-self (anatta).
+|   CONSEQUENCE / CONTRAST: Karma is centrally intentional action (cetana) with ethical consequences; it is not Jain karmic matter.
+|   TRAP / ANSWER-USE: Nirvana is extinction of greed, hatred and delusion and release from the conditioned cycle; it is not a heaven.
+|   EXAM OPENING: A person is analyzed as five changing aggregates; karmic continuity operates without an eternal atman.
++--
+        |
+        v
++-- SESSION 18: SANGHA, VINAYA, LAY SUPPORT AND INSTITUTIONAL LIFE — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Sangha is both a spiritual community and a historical institution.
+|   MECHANISM / ARGUMENT: Monks and nuns followed Vinaya; lay donors supplied food, robes, medicine, dwellings and endowments in exchange for teaching, merit and social prestige.
+|   CONSEQUENCE / CONTRAST: INTERPRETATION: Monasteries linked routes, towns and courts, but they were not simply commercial corporations.
+|   TRAP / ANSWER-USE: Textual ideals and inscriptional practice differ; donor labels do not reveal every motive.
+|   EXAM OPENING: Anathapindika's Jetavana and Visakha's patronage are prominent textual examples of wealthy lay support.
++--
+        |
+        v
++-- SESSION 19: WOMEN, SOCIAL ACCESS AND THE CASTE-VARNA QUESTION — [CORE MAINS + SUPPORTING]
+|   DEFINITION / TERMS : Sangha admission across varna widened salvific access, but rules restricting debtors, slaves, soldiers or those under obligations reveal accommodation to social order.
+|   MECHANISM / ARGUMENT: Correct: It criticized birth superiority and widened access but did not erase social hierarchy.
+|   CONSEQUENCE / CONTRAST: Buddhism widened access to renunciation and moral status, but it did not create modern equality or abolish caste society.
+|   TRAP / ANSWER-USE: Religious inclusion and social equality are not synonyms.
+|   EXAM OPENING: Sangha admission across varna widened salvific access, but rules restricting debtors, slaves, soldiers or those under obligations reveal accommodation to social order.
++--
+        |
+        v
++-- SESSION 20: BUDDHIST COUNCILS: CONVENTIONAL ACCOUNTS WITH SOURCE CAUTION — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : There is no single uncontested 'fourth Buddhist council'.
+|   MECHANISM / ARGUMENT: They should be learned for examinations but labelled by tradition because dates, patrons, participants and outcomes are not uniformly attested.
+|   CONSEQUENCE / CONTRAST: Other Buddhist traditions do not narrate it identically.
+|   TRAP / ANSWER-USE: Numbering conceals multiple regional memories; use 'conventional account' rather than certitude.
+|   EXAM OPENING: The second council is primarily a Vinaya dispute in conventional accounts.
++--
+        |
+        v
++-- SESSION 21: BUDDHIST CANONS: PALI, SANSKRIT, CHINESE AND TIBETAN WITNESSES — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Sarvastivada and Mulasarvastivada materials survive in Sanskrit fragments and especially Chinese/Tibetan translations; their Vinayas are not the Pali Vinaya.
+|   MECHANISM / ARGUMENT: Sarvastivada and Mulasarvastivada materials survive in Sanskrit fragments and especially Chinese/Tibetan translations; their Vinayas are not the Pali Vinaya.
+|   CONSEQUENCE / CONTRAST: Pali is not simply the exact spoken language of the Buddha, Sanskrit is not exclusively Mahayana, and 'the Buddhist canon' is not singular.
+|   TRAP / ANSWER-USE: Sanskrit use is not a sufficient test for Mahayana identity.
+|   EXAM OPENING: The Pali Tipitaka is the complete canon of the Theravada tradition; Sanskrit and Buddhist Hybrid Sanskrit texts preserve other schools and Mahayana currents; Chinese and Tibetan translations preserve many Indic works now lost in India.
++--
+        |
+        v
++-- SESSION 22: EARLY SCHOOLS AND THE THERAVADA-HINAYANA TERMINOLOGY FIREWALL — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Sthavira and Mahasanghika are early broad lineages; Sarvastivada, Dharmaguptaka, Mahishasaka and others developed distinct Vinaya and Abhidharma traditions.
+|   MECHANISM / ARGUMENT: Sthavira means 'elders' and Mahasanghika 'great community/assembly'; the first split is remembered differently by school sources.
+|   CONSEQUENCE / CONTRAST: School genealogy and Mahayana affiliation are not one simple tree.
+|   TRAP / ANSWER-USE: Read the structure first; each arrow is a historical relationship, not an automatic law.
+|   EXAM OPENING: Modern Theravada is one surviving Sthavira-derived lineage, not a synonym for every early school.
++--
+        |
+        v
++-- SESSION 23: MAHAYANA, THE BODHISATTVA PATH, MAITREYA AND PARAMITAS — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Paramitas are perfections on the Bodhisattva path; Theravada has related parami traditions.
+|   MECHANISM / ARGUMENT: Paramitas are perfections on the Bodhisattva path; Theravada has related parami traditions.
+|   CONSEQUENCE / CONTRAST: Maitreya is the future Buddha, not exclusively a Mahayana figure.
+|   TRAP / ANSWER-USE: INTERPRETATION: Image worship, devotion and merit transfer widened modes of participation, but none alone defines every Mahayana community.
+|   EXAM OPENING: Maitreya is the future Buddha in both Theravada and Mahayana traditions; Mahayana also venerates him as a Bodhisattva in Tushita.
++--
+        |
+        v
++-- SESSION 24: MADHYAMAKA AND YOGACARA: BOUNDED HISTORICAL DEPTH — [CORE MAINS + SUPPORTING]
+|   DEFINITION / TERMS : Yogacara is associated with Asanga and Vasubandhu and analyzes experience through consciousness/representation, including store consciousness in developed formulations.
+|   MECHANISM / ARGUMENT: Yogacara is associated with Asanga and Vasubandhu and analyzes experience through consciousness/representation, including store consciousness in developed formulations.
+|   CONSEQUENCE / CONTRAST: 'Nothing exists' is an inaccurate summary of Madhyamaka; 'only my mind exists' is an oversimplification of Yogacara.
+|   TRAP / ANSWER-USE: The two truths framework distinguishes conventional and ultimate truth; emptiness itself is not a substance.
+|   EXAM OPENING: For Ancient History, Madhyamaka and Yogacara should be treated as major Mahayana scholastic developments, not turned into an optional-level metaphysics essay.
++--
+        |
+        v
++-- SESSION 25: VAJRAYANA: LATER TANTRIC DEVELOPMENT AND INSTITUTIONAL SETTING — [CORE MAINS + SUPPORTING]
+|   DEFINITION / TERMS : Vajrayana is later than early Buddhism and Mahayana's first emergence.
+|   MECHANISM / ARGUMENT: Vajrayana developed within later Mahayana environments, especially from the mid-first millennium CE onward.
+|   CONSEQUENCE / CONTRAST: Mains/PYQ use: Present Vajrayana as transformation within Buddhist history, not a moralized endpoint.
+|   TRAP / ANSWER-USE: It uses mantra, mandala, initiation, deity yoga and esoteric ritual as accelerated means, while retaining Bodhisattva and emptiness frameworks.
+|   EXAM OPENING: Vajrayana is not the Buddha's original sixth-century BCE institutional form; its major textual and ritual systems are later.
++--
+        |
+        v
++-- SESSION 26: WHY THE TRADITIONS BECAME POPULAR: LANGUAGE, ETHICS AND NETWORKS
+|   DEFINITION / TERMS : Language choice aided communication but does not prove mass literacy.
+|   MECHANISM / ARGUMENT: Buddhist monasteries could travel and reproduce through ordination lineages; Jain ascetics and lay communities built durable regional circuits.
+|   CONSEQUENCE / CONTRAST: INTERPRETATION: Buddhism's Middle Way may have eased recruitment compared with rigorous Jain ascetic ideals, while Jain anuvratas enabled strong lay continuity.
+|   TRAP / ANSWER-USE: Merchant patronage is important but not exclusive.
+|   EXAM OPENING: Language choice aided communication but does not prove mass literacy.
++--
+        |
+        v
++-- SESSION 27: PATRONAGE NETWORKS: MAURYAN AND POST-MAURYAN WORLDS — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Sanchi's brick stupa, pillar and later enlargements show Mauryan inception followed by Shunga, Satavahana and other patronage.
+|   MECHANISM / ARGUMENT: Ashoka is central but not the sole patron; post-Mauryan regional states, monks, nuns, merchants and artisans made Buddhism materially durable, while Jainism grew through different regional coalitions.
+|   CONSEQUENCE / CONTRAST: Correct: His edicts promote dhamma and sect respect; Buddhist patronage does not equal coercive establishment.
+|   TRAP / ANSWER-USE: Read the structure first; each arrow is a historical relationship, not an automatic law.
+|   EXAM OPENING: Sanchi's brick stupa, pillar and later enlargements show Mauryan inception followed by Shunga, Satavahana and other patronage.
++--
+        |
+        v
++-- SESSION 28: REGIONAL AND INTERNATIONAL SPREAD: A TEXT MAP — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Spread was not a single outward wave from one centre.
+|   MECHANISM / ARGUMENT: Buddhism became a trans-Asian network through multiple routes and translations; Jainism achieved durable but more regionally concentrated expansion within India.
+|   CONSEQUENCE / CONTRAST: Read the structure first; each arrow is a historical relationship, not an automatic law.
+|   TRAP / ANSWER-USE: Mission chronicles, pilgrim accounts and art styles each represent different periods; do not project a seventh-century observation onto the Buddha's lifetime.
+|   EXAM OPENING: Spread was not a single outward wave from one centre.
++--
+        |
+        v
++-- SESSION 29: STUPAS, CAVES, MONASTERIES, IMAGES AND MATERIAL EVIDENCE — [CORE PRELIMS + CORE MAINS]
+|   DEFINITION / TERMS : Jain material evidence includes Kankali Tila, Udayagiri-Khandagiri, Ellora Jain caves and later temple/manuscript traditions.
+|   MECHANISM / ARGUMENT: Barabar caves were donated by Ashoka and Dasharatha to Ajivikas, a reminder that rock-cut architecture is not only Buddhist.
+|   CONSEQUENCE / CONTRAST: Jain material evidence includes Kankali Tila, Udayagiri-Khandagiri, Ellora Jain caves and later temple/manuscript traditions.
+|   TRAP / ANSWER-USE: They cannot by themselves identify a text or prove a traditional biography, but inscriptions and stratigraphy can date institutions more firmly.
+|   EXAM OPENING: Stupas developed as relic, commemorative and votive monuments; the concept was not exclusively Buddhist in origin, although Buddhism transformed it extensively.
++--
+        |
+        v
++-- SESSION 30: JAINISM AND BUDDHISM: A CONTROLLED COMPARISON
+|   DEFINITION / TERMS : Mains/PYQ use: A high-scoring comparison moves dimension by dimension and ends with shared context plus divergent solutions.
+|   MECHANISM / ARGUMENT: Mains/PYQ use: A high-scoring comparison moves dimension by dimension and ends with shared context plus divergent solutions.
+|   CONSEQUENCE / CONTRAST: Both use monastic-lay reciprocity, but Buddhist institutions achieved wider trans-Asian monastic expansion while Jain networks remained more India-centred and lay-dense.
+|   TRAP / ANSWER-USE: QUALIFICATION: 'Jain extreme versus Buddhist moderate' is a starting contrast, not a complete history; both traditions contain varied disciplines and later devotional forms.
+|   EXAM OPENING: Jainism affirms plural eternal jivas; Buddhism analyzes persons without a permanent self.
++--
+        |
+        v
++-- SESSION 31: BUDDHISM'S DECLINE AND TRANSFORMATION IN INDIA
+|   DEFINITION / TERMS : Transformation and absorption are as important as disappearance.
+|   MECHANISM / ARGUMENT: Turkish attacks are a late factor, not the single cause.
+|   CONSEQUENCE / CONTRAST: Decline is not a one-event story.
+|   TRAP / ANSWER-USE: Its institutional contraction was regionally uneven and multi-causal, while doctrines, images, pilgrimage and communities persisted or were absorbed into new configurations.
+|   EXAM OPENING: Raids and warfare damaged major institutions such as Nalanda and Vikramashila, but attacks cannot explain centuries of earlier regional decline or transformation.
++--
+        |
+        v
++-- SESSION 32: WHY JAINISM PERSISTED AND HOW IT TRANSFORMED
+|   DEFINITION / TERMS : Technically, Why Jainism Persisted And How It Transformed is analysed by relating Why Jainism Persisted to How It Transformed, then testing the relationship through Memory hook and Mains/PYQ use.
+|   MECHANISM / ARGUMENT: Regional literary production is a major survival mechanism.
+|   CONSEQUENCE / CONTRAST: Jain history also includes decline in some regions, sectarian conflict, social accommodation and changes in patronage; continuity is not stasis.
+|   TRAP / ANSWER-USE: Persistence should not be explained only by merchant wealth.
+|   EXAM OPENING: Mains/PYQ use: Compare distributed lay institutions with concentrated Buddhist mahaviharas, but avoid a deterministic contrast.
++--
+        |
+        v
++-- SESSION 33: HISTORIOGRAPHY AND EVIDENCE LIMITS — [CORE MAINS + SUPPORTING]
+|   DEFINITION / TERMS : Mains/PYQ use: Every evidence paragraph should finish with the source's genre and reach.
+|   MECHANISM / ARGUMENT: Wrong: An inscription is unbiased because it is contemporary.
+|   CONSEQUENCE / CONTRAST: Ashokan edicts, donor inscriptions and Hathigumpha provide firmer dated anchors but rarely explain doctrine comprehensively.
+|   TRAP / ANSWER-USE: Art can reveal patronage, ritual and iconography, but aniconic symbols do not automatically identify one event without context.
+|   EXAM OPENING: Historiography And Evidence Limits — [Core Mains + Supporting] comprises Historiography, Evidence Limits and Memory hook as its core connected dimensions.
++--
+        |
+        v
++-- SESSION 34: CONTEMPORARY HERITAGE AND CONSERVATION LINKAGES
+|   DEFINITION / TERMS : UNESCO listing is a modern heritage status, not ancient evidence by itself.
+|   MECHANISM / ARGUMENT: RETRIEVED FACT: UNESCO describes Nalanda's surviving viharas, temples and art as evidence of a long monastic-scholastic institution and notes conservation by ASI.
+|   CONSEQUENCE / CONTRAST: Heritage management today preserves evidence of Buddhist institutional transformation; it does not settle doctrinal authenticity.
+|   TRAP / ANSWER-USE: UNESCO listing is a modern heritage status, not ancient evidence by itself.
+|   EXAM OPENING: Mains/PYQ use: Use heritage only as a final contemporary linkage after the ancient evidence is complete.
++--
+        |
+        v
++-- SESSION 35: CHRONOLOGY, TERMINOLOGY AND RAPID UPSC DISTINCTIONS
+|   DEFINITION / TERMS : Technically, Chronology, Terminology And Rapid Upsc Distinctions is analysed by relating Chronology to Terminology, then testing the relationship through Rapid Upsc Distinctions and Memory hook.
+|   MECHANISM / ARGUMENT: Council accounts are conventional and tradition-specific.
+|   CONSEQUENCE / CONTRAST: Wrong: Sanghabhuti and Sanghabhadra are variants of one name.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: they are different historical monks/scholars.
+|   EXAM OPENING: Mains/PYQ use: Use this card to audit terminology before finalizing any answer.
++--
+        |
+        v
+ANSWER-WRITING SPINE
+definition -> exact terms -> mechanism/evidence -> consequence/contrast
+-> objection/trap -> qualified answer-use

@@ -1,0 +1,1097 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ancient-indian-history-17",
+  "subject": "Ancient-Indian-History",
+  "title": "THE SATAVAHANAS & THE DECCAN",
+  "short_route": "DECCAN NETWORK POLITY AND → EVIDENCE HIERARCHY AND CHRONOLOGY → EARLY RULERS, SATAKARNI AND → MULTI-CENTRED POLITICAL GEOGRAPHY → ADMINISTRATION AND LOCAL ELITES → KSHATRAPA CONFLICT AND GAUTAMIPUTRA",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g5\\ancient-indian-history-17_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-17-deep-review-2026-09-03-g5.json",
+  "ascii_spec_sha256": "56b22cae1c2c738205721ac79511cfb08e7908c12799ad8c27de8a7b0ea3da00",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "DECCAN NETWORK POLITY AND ROUTE FRAME",
+      "structural_type": "root-branch",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DECCAN NETWORK POLITY AND ROUTE FRAME",
+          "role": "primary"
+        },
+        {
+          "text": "SATAVAHANA POWER PLATEAU AGRARIAN ZONES + GODAVARI-KRISHNA CORRIDORS",
+          "role": "mechanism"
+        },
+        {
+          "text": "NANEGHAT AND WESTERN PASSES",
+          "role": "comparison"
+        },
+        {
+          "text": "KONKAN PORTS AHARAS AND ROYAL OFFICERS",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL ADMINISTRATION MAHARATHIS",
+          "role": "primary"
+        },
+        {
+          "text": "NEGOTIATED REGIONAL AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "MERCHANTS + BRAHMANAS + BUDDHIST INSTITUTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "A STRONG BUT UNEVEN NETWORK POLITY, NOT UNIFORM PENINSULAR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SATAVAHANA POWER plateau agrarian zones + Godavari-Krishna corridors",
+        "Naneghat and western passes → Konkan ports aharas and royal officers → local administration maharathis",
+        "merchants + Brahmanas + Buddhist institutions → legitimacy",
+        "VERDICT: a strong but uneven network polity, not uniform peninsular bureaucracy."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "SATAVAHANA POWER plateau agrarian zones + Godavari-Krishna corridors",
+            "Naneghat and western passes → Konkan ports aharas and royal officers → local administration maharathis / mahabhojas → negotiated regional authority"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "merchants + Brahmanas + Buddhist institutions → legitimacy",
+            "VERDICT: a strong but uneven network polity, not uniform peninsular bureaucracy."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "SATAVAHANA POWER plateau agrarian zones + Godavari-Krishna corridors",
+            "Naneghat and western passes → Konkan ports aharas and royal officers → local administration maharathis / mahabhojas → negotiated regional authority"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: a strong but uneven network polity, not uniform peninsular bureaucracy.",
+      "answer_line": "a strong but uneven network polity, not uniform peninsular bureaucracy.",
+      "source_references": [
+        "Scope",
+        "Deccan geography",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\17_Satavahanas-and-the-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\17_Satavahanas-and-the-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g4\\ancient-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g5\\ancient-indian-history-17_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "EVIDENCE HIERARCHY AND CHRONOLOGY",
+      "structural_type": "evidence-chain",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "EVIDENCE HIERARCHY AND CHRONOLOGY",
+          "role": "evidence"
+        },
+        {
+          "text": "PURANIC LISTS",
+          "role": "outcome"
+        },
+        {
+          "text": "GENEALOGY AND BROAD SEQUENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "REDACTION LIMITS",
+          "role": "evidence"
+        },
+        {
+          "text": "RULERS, DONORS, OFFICES AND CLAIMS",
+          "role": "primary"
+        },
+        {
+          "text": "PRASHASTI LIMITS",
+          "role": "outcome"
+        },
+        {
+          "text": "NAMES, METALS, OVERSTRIKES AND CIRCULATION",
+          "role": "comparison"
+        },
+        {
+          "text": "BORDERS REMAIN UNCERTAIN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURANIC LISTS → genealogy and broad sequence → redaction limits",
+        "INSCRIPTIONS → rulers, donors, offices and claims → prashasti limits",
+        "COINS → names, metals, overstrikes and circulation → borders remain uncertain",
+        "ARCHAEOLOGY → towns, caves, stupas and crafts → attribution varies",
+        "CLASSICAL TEXTS → routes and commodities → external perspective"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "PURANIC LISTS → genealogy and broad sequence → redaction limits",
+            "INSCRIPTIONS → rulers, donors, offices and claims → prashasti limits"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "COINS → names, metals, overstrikes and circulation → borders remain uncertain",
+            "ARCHAEOLOGY → towns, caves, stupas and crafts → attribution varies"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLASSICAL TEXTS → routes and commodities → external perspective",
+            "METHOD: converge sources; use ranges rather than one exact dynastic chronology."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "METHOD: converge sources; use ranges rather than one exact dynastic chronology.",
+      "source_references": [
+        "Sources",
+        "Chronology debates",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\17_Satavahanas-and-the-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\17_Satavahanas-and-the-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g4\\ancient-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g5\\ancient-indian-history-17_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "EARLY RULERS, SATAKARNI AND NANEGHAT",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "EARLY RULERS, SATAKARNI AND NANEGHAT",
+          "role": "primary"
+        },
+        {
+          "text": "CONVENTIONAL FOUNDER; DATE AND FIRST CORE DEBATED",
+          "role": "outcome"
+        },
+        {
+          "text": "EARLY WESTERN DECCAN INSCRIPTIONAL PRESENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "SATAKARNI I + NAGANIKA",
+          "role": "evidence"
+        },
+        {
+          "text": "NANEGHAT GENEALOGY AND PORTRAIT MEMORY",
+          "role": "primary"
+        },
+        {
+          "text": "VEDIC SACRIFICES AND ROYAL STATUS CLAIMS",
+          "role": "outcome"
+        },
+        {
+          "text": "ROUTE-PASS LOCATION CONVERTS MOBILITY INTO POLITICAL DISPLAY",
+          "role": "comparison"
+        },
+        {
+          "text": "RITUAL LANGUAGE AND PORTRAITS PROVE CLAIMS, NOT COMPLETE TERRITORIAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SIMUKA → conventional founder; date and first core debated",
+        "KANHA → early western Deccan inscriptional presence",
+        "SATAKARNI I + NAGANIKA",
+        "Naneghat genealogy and portrait memory",
+        "Vedic sacrifices and royal status claims"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "SIMUKA → conventional founder; date and first core debated",
+            "KANHA → early western Deccan inscriptional presence",
+            "SATAKARNI I + NAGANIKA"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "Naneghat genealogy and portrait memory",
+            "Vedic sacrifices and royal status claims",
+            "route-pass location converts mobility into political display"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: ritual language and portraits prove claims, not complete territorial maps."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: ritual language and portraits prove claims, not complete territorial maps.",
+      "source_references": [
+        "Simuka and Kanha",
+        "Naneghat",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\17_Satavahanas-and-the-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\17_Satavahanas-and-the-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g4\\ancient-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g5\\ancient-indian-history-17_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "MULTI-CENTRED POLITICAL GEOGRAPHY",
+      "structural_type": "spatial-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MULTI-CENTRED POLITICAL GEOGRAPHY",
+          "role": "primary"
+        },
+        {
+          "text": "WESTERN-CENTRAL DYNASTIC ANCHOR",
+          "role": "outcome"
+        },
+        {
+          "text": "PASSES, CAVES, DONORS AND CONFLICT ZONE",
+          "role": "comparison"
+        },
+        {
+          "text": "INLAND MARKET NETWORK",
+          "role": "evidence"
+        },
+        {
+          "text": "DHARANIKOTA-AMARAVATI AND EASTERN CENTRES",
+          "role": "primary"
+        },
+        {
+          "text": "LOCAL CORES SHIFT ACROSS REIGNS AND RIVALRIES",
+          "role": "outcome"
+        },
+        {
+          "text": "CAPITALS AND COIN FINDS IDENTIFY NODES; THEY DO NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PRATISHTHANA / PAITHAN → western-central dynastic anchor",
+        "NASHIK / JUNNAR / NANEghat → passes, caves, donors and conflict zone",
+        "TAGARA / TER → inland market network",
+        "KRISHNA-GODAVARI → Dharanikota-Amaravati and eastern centres",
+        "LOCAL CORES SHIFT ACROSS REIGNS AND RIVALRIES"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "PRATISHTHANA / PAITHAN → western-central dynastic anchor",
+            "NASHIK / JUNNAR / NANEghat → passes, caves, donors and conflict zone"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "TAGARA / TER → inland market network",
+            "KRISHNA-GODAVARI → Dharanikota-Amaravati and eastern centres"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "LOCAL CORES SHIFT ACROSS REIGNS AND RIVALRIES",
+            "RULE: capitals and coin finds identify nodes; they do not prove equal direct control."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: capitals and coin finds identify nodes; they do not prove equal direct control.",
+      "answer_line": "capitals and coin finds identify nodes; they do not prove equal direct control.",
+      "source_references": [
+        "Political geography",
+        "Capitals",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\17_Satavahanas-and-the-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\17_Satavahanas-and-the-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g4\\ancient-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g5\\ancient-indian-history-17_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ADMINISTRATION AND LOCAL ELITES",
+      "structural_type": "layered-governance",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ADMINISTRATION AND LOCAL ELITES",
+          "role": "primary"
+        },
+        {
+          "text": "MOBILE COURT AHARA TERRITORIAL UNITS AMATYA, MAHAMATRA AND MAHASENAPATI",
+          "role": "institution"
+        },
+        {
+          "text": "LOCAL RULING FAMILIES",
+          "role": "comparison"
+        },
+        {
+          "text": "VILLAGE, GUILD, MONASTERY AND DONOR NETWORKS",
+          "role": "evidence"
+        },
+        {
+          "text": "ROYAL CAPACITY WORKED THROUGH LAYERED AUTHORITY AND LOCAL INTERMEDIARIES.",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "KING / MOBILE COURT ahara territorial units amatya, mahamatra and mahasenapati offices revenue",
+        "grants, warfare and route protection maharathi / mahabhoja / local ruling families",
+        "village, guild, monastery and donor networks",
+        "RESULT: royal capacity worked through layered authority and local intermediaries."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "KING / MOBILE COURT ahara territorial units amatya, mahamatra and mahasenapati offices revenue,",
+            "grants, warfare and route protection maharathi / mahabhoja / local ruling families"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "village, guild, monastery and donor networks",
+            "RESULT: royal capacity worked through layered authority and local intermediaries."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "KING / MOBILE COURT ahara territorial units amatya, mahamatra and mahasenapati offices revenue,",
+            "grants, warfare and route protection maharathi / mahabhoja / local ruling families"
+          ]
+        }
+      ],
+      "mechanism_strip": "RESULT: royal capacity worked through layered authority and local intermediaries.",
+      "answer_line": "royal capacity worked through layered authority and local intermediaries.",
+      "source_references": [
+        "Administration",
+        "Local elites",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\17_Satavahanas-and-the-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\17_Satavahanas-and-the-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g4\\ancient-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g5\\ancient-indian-history-17_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "KSHATRAPA CONFLICT AND GAUTAMIPUTRA",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "KSHATRAPA CONFLICT AND GAUTAMIPUTRA",
+          "role": "primary"
+        },
+        {
+          "text": "WESTERN PORTS + PASSES + MALWA-DECCAN ROUTES",
+          "role": "outcome"
+        },
+        {
+          "text": "SATAVAHANA <→ WESTERN KSHATRAPA RIVALRY",
+          "role": "comparison"
+        },
+        {
+          "text": "NAHAPANA EXPANSION",
+          "role": "evidence"
+        },
+        {
+          "text": "GAUTAMIPUTRA COUNTER-EXPANSION",
+          "role": "primary"
+        },
+        {
+          "text": "NASHIK PRASHASTI",
+          "role": "outcome"
+        },
+        {
+          "text": "ROYAL VICTORY AND SOCIAL-IDEOLOGICAL CLAIMS",
+          "role": "comparison"
+        },
+        {
+          "text": "GAUTAMI BALASHRI'S EULOGY MUST BE CHECKED AGAINST COINS AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WESTERN PORTS + PASSES + MALWA-DECCAN ROUTES",
+        "SATAVAHANA <→ WESTERN KSHATRAPA RIVALRY",
+        "Nahapana expansion → Gautamiputra counter-expansion",
+        "Nashik prashasti: royal victory and social-ideological claims",
+        "LIMIT: Gautami Balashri's eulogy must be checked against coins and regional evidence."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "WESTERN PORTS + PASSES + MALWA-DECCAN ROUTES",
+            "SATAVAHANA <→ WESTERN KSHATRAPA RIVALRY"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Nahapana expansion → Gautamiputra counter-expansion",
+            "Nashik prashasti: royal victory and social-ideological claims"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "LIMIT: Gautami Balashri's eulogy must be checked against coins and regional evidence.",
+            "WESTERN PORTS + PASSES + MALWA-DECCAN ROUTES"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: Gautami Balashri's eulogy must be checked against coins and regional evidence.",
+      "source_references": [
+        "Kshatrapa conflict",
+        "Gautamiputra Satakarni",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\17_Satavahanas-and-the-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\17_Satavahanas-and-the-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g4\\ancient-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g5\\ancient-indian-history-17_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "NAHAPANA OVERSTRIKES AS EVIDENCE",
+      "structural_type": "evidence-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NAHAPANA OVERSTRIKES AS EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "NAHAPANA SILVER COINS",
+          "role": "outcome"
+        },
+        {
+          "text": "GAUTAMIPUTRA OVERSTRIKES SECURE SEQUENCE OF DISPLACEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "METAL REUSE IN A CONFLICT CONTEXT SUPPORTS RESTORATION OF",
+          "role": "evidence"
+        },
+        {
+          "text": "DOES NOT PROVE",
+          "role": "caution"
+        },
+        {
+          "text": "ONE-DAY CONQUEST, TOTAL DESTRUCTION OR UNCHANGED BORDERS AFTERWARD.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "NAHAPANA SILVER COINS",
+        "GAUTAMIPUTRA OVERSTRIKES secure sequence of displacement / metal reuse in a",
+        "conflict context supports restoration of authority in selected western zones",
+        "DOES NOT PROVE: one-day conquest, total destruction or unchanged borders afterward."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "NAHAPANA SILVER COINS",
+            "GAUTAMIPUTRA OVERSTRIKES secure sequence of displacement / metal reuse in a"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "conflict context supports restoration of authority in selected western zones",
+            "DOES NOT PROVE: one-day conquest, total destruction or unchanged borders afterward."
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "NAHAPANA SILVER COINS",
+            "GAUTAMIPUTRA OVERSTRIKES secure sequence of displacement / metal reuse in a"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DOES NOT PROVE: one-day conquest, total destruction or unchanged borders afterward.",
+      "source_references": [
+        "Nahapana overstrikes",
+        "Numismatic method",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\17_Satavahanas-and-the-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\17_Satavahanas-and-the-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g4\\ancient-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g5\\ancient-indian-history-17_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "AGRARIAN EXPANSION AND LAND GRANTS",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "AGRARIAN EXPANSION AND LAND GRANTS",
+          "role": "primary"
+        },
+        {
+          "text": "IRON + CLEARANCE + PADDY",
+          "role": "outcome"
+        },
+        {
+          "text": "COTTON + WATER MANAGEMENT EXPANDING AGRARIAN PRODUCTION ROYAL GRANTS",
+          "role": "comparison"
+        },
+        {
+          "text": "RIGHTS, EXEMPTIONS AND RELIGIOUS BENEFICIARIES NEW SETTLEMENTS + FISCAL",
+          "role": "evidence"
+        },
+        {
+          "text": "GRANTS AIDED EXPANSION AND LEGITIMATION; EFFECTS DIFFERED BY PLACE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "IRON + CLEARANCE + PADDY / COTTON + WATER MANAGEMENT expanding agrarian production royal grants",
+        "→ rights, exemptions and religious beneficiaries new settlements + fiscal reallocation + local authority",
+        "DEBATE: grants aided expansion and legitimation; effects differed by place and date."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "IRON + CLEARANCE + PADDY / COTTON + WATER MANAGEMENT expanding agrarian production royal grants",
+            "→ rights, exemptions and religious beneficiaries new settlements + fiscal reallocation + local authority"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "DEBATE: grants aided expansion and legitimation; effects differed by place and date.",
+            "IRON + CLEARANCE + PADDY / COTTON + WATER MANAGEMENT expanding agrarian production royal grants"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "→ rights, exemptions and religious beneficiaries new settlements + fiscal reallocation + local authority",
+            "DEBATE: grants aided expansion and legitimation; effects differed by place and date."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DEBATE: grants aided expansion and legitimation; effects differed by place and date.",
+      "source_references": [
+        "Agrarian base",
+        "Land grants",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\17_Satavahanas-and-the-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\17_Satavahanas-and-the-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g4\\ancient-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g5\\ancient-indian-history-17_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CRAFTS, GUILDS, TOWNS AND TRADE",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CRAFTS, GUILDS, TOWNS AND TRADE",
+          "role": "primary"
+        },
+        {
+          "text": "VILLAGE RAW MATERIALS",
+          "role": "outcome"
+        },
+        {
+          "text": "CRAFT CLUSTERS",
+          "role": "comparison"
+        },
+        {
+          "text": "INLAND TOWNS COTTON",
+          "role": "evidence"
+        },
+        {
+          "text": "METAL GUILD BODIES PAITHAN",
+          "role": "primary"
+        },
+        {
+          "text": "PASSES AND MARKETS ----------→ WESTERN/EASTERN PORTS",
+          "role": "outcome"
+        },
+        {
+          "text": "CAVE DONORS, DEPOSITS, COINS, PERIPLUS AND EXCAVATED SETTLEMENTS.",
+          "role": "comparison"
+        },
+        {
+          "text": "CONNECTIVITY WAS EXTENSIVE BUT NEITHER UNIFORM NOR WHOLLY STATE-CONTROLLED.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "VILLAGE RAW MATERIALS → CRAFT CLUSTERS → INLAND TOWNS cotton / metal guild bodies Paithan",
+        "passes and markets ----------→ western/eastern ports",
+        "EVIDENCE: cave donors, deposits, coins, Periplus and excavated settlements.",
+        "LIMIT: connectivity was extensive but neither uniform nor wholly state-controlled."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "VILLAGE RAW MATERIALS → CRAFT CLUSTERS → INLAND TOWNS cotton / metal guild bodies Paithan / Tagara",
+            "passes and markets ----------→ western/eastern ports"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "EVIDENCE: cave donors, deposits, coins, Periplus and excavated settlements.",
+            "LIMIT: connectivity was extensive but neither uniform nor wholly state-controlled."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VILLAGE RAW MATERIALS → CRAFT CLUSTERS → INLAND TOWNS cotton / metal guild bodies Paithan / Tagara",
+            "passes and markets ----------→ western/eastern ports"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: connectivity was extensive but neither uniform nor wholly state-controlled.",
+      "source_references": [
+        "Crafts and guilds",
+        "Trade",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\17_Satavahanas-and-the-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\17_Satavahanas-and-the-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g4\\ancient-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g5\\ancient-indian-history-17_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SOCIETY, MATRONYMICS AND WOMEN",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SOCIETY, MATRONYMICS AND WOMEN",
+          "role": "primary"
+        },
+        {
+          "text": "VARNA IDEOLOGY",
+          "role": "outcome"
+        },
+        {
+          "text": "ROYAL CLAIMS AND BRAHMANICAL LEGITIMATION",
+          "role": "comparison"
+        },
+        {
+          "text": "SOCIAL PRACTICE",
+          "role": "evidence"
+        },
+        {
+          "text": "MERCHANTS, ARTISANS, CULTIVATORS AND LOCAL ELITES",
+          "role": "primary"
+        },
+        {
+          "text": "GAUTAMIPUTRA, VASISTHIPUTRA AND LINEAGE IDENTIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ROYAL WOMEN",
+          "role": "comparison"
+        },
+        {
+          "text": "NAGANIKA AND GAUTAMI BALASHRI AS INSCRIPTIONAL ACTORS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "VARNA IDEOLOGY → royal claims and Brahmanical legitimation",
+        "SOCIAL PRACTICE → merchants, artisans, cultivators and local elites",
+        "MATRONYMICS → Gautamiputra, Vasisthiputra and lineage identification",
+        "ROYAL WOMEN → Naganika and Gautami Balashri as inscriptional actors",
+        "DONOR WOMEN → visible in cave and religious patronage"
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "VARNA IDEOLOGY → royal claims and Brahmanical legitimation",
+          "MATRONYMICS → Gautamiputra, Vasisthiputra and lineage identification",
+          "DONOR WOMEN → visible in cave and religious patronage"
+        ],
+        [
+          "SOCIAL PRACTICE → merchants, artisans, cultivators and local elites",
+          "ROYAL WOMEN → Naganika and Gautami Balashri as inscriptional actors",
+          "VERDICT: female agency was real but operated within unequal patriarchal structures."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "VARNA IDEOLOGY → royal claims and Brahmanical legitimation",
+            "SOCIAL PRACTICE → merchants, artisans, cultivators and local elites"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "MATRONYMICS → Gautamiputra, Vasisthiputra and lineage identification",
+            "ROYAL WOMEN → Naganika and Gautami Balashri as inscriptional actors"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "DONOR WOMEN → visible in cave and religious patronage",
+            "VERDICT: female agency was real but operated within unequal patriarchal structures."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: female agency was real but operated within unequal patriarchal structures.",
+      "answer_line": "female agency was real but operated within unequal patriarchal structures.",
+      "source_references": [
+        "Society",
+        "Matronymics and women",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\17_Satavahanas-and-the-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\17_Satavahanas-and-the-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g4\\ancient-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g5\\ancient-indian-history-17_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "RELIGION, LANGUAGE, CAVES AND AMARAVATI",
+      "structural_type": "cultural-ecosystem",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RELIGION, LANGUAGE, CAVES AND AMARAVATI",
+          "role": "primary"
+        },
+        {
+          "text": "BRAHMANICAL RITES + PRAKRIT ROYAL INSCRIPTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "BUDDHIST CAVES",
+          "role": "comparison"
+        },
+        {
+          "text": "NASHIK, KARLA AND JUNNAR DONOR-ROUTE LANDSCAPES",
+          "role": "evidence"
+        },
+        {
+          "text": "LONG STUPA, SCULPTURE AND PATRONAGE SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "MERCHANTS + ARTISANS + WOMEN + RULERS",
+          "role": "outcome"
+        },
+        {
+          "text": "PLURAL DONOR FIELD",
+          "role": "comparison"
+        },
+        {
+          "text": "GATHA SATTASAI TRADITION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BRAHMANICAL RITES + Prakrit royal inscriptions",
+        "BUDDHIST CAVES → Nashik, Karla and Junnar donor-route landscapes",
+        "AMARAVATI → long stupa, sculpture and patronage sequence",
+        "MERCHANTS + ARTISANS + WOMEN + RULERS → plural donor field",
+        "GATHA SATTASAI tradition → literary memory with attribution cautions"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "BRAHMANICAL RITES + Prakrit royal inscriptions",
+            "BUDDHIST CAVES → Nashik, Karla and Junnar donor-route landscapes"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "AMARAVATI → long stupa, sculpture and patronage sequence",
+            "MERCHANTS + ARTISANS + WOMEN + RULERS → plural donor field"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "GATHA SATTASAI tradition → literary memory with attribution cautions",
+            "RULE: plural patronage joined belief, legitimacy, routes and social visibility."
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: plural patronage joined belief, legitimacy, routes and social visibility.",
+      "answer_line": "plural patronage joined belief, legitimacy, routes and social visibility.",
+      "source_references": [
+        "Religion",
+        "Language and art",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\17_Satavahanas-and-the-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\17_Satavahanas-and-the-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g4\\ancient-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g5\\ancient-indian-history-17_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "DECLINE, LEGACY AND ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "DECLINE, LEGACY AND ANSWER SPINE",
+          "role": "caution"
+        },
+        {
+          "text": "LATER RULERS + REGIONAL SUCCESSORS + SHIFTING ROUTES CONTRACTION",
+          "role": "outcome"
+        },
+        {
+          "text": "DECCAN STATE FORMS, GRANTS, PRAKRIT EPIGRAPHY, CAVES AND TRADE",
+          "role": "institution"
+        },
+        {
+          "text": "ONE DEBATE",
+          "role": "evidence"
+        },
+        {
+          "text": "GRADED VERDICT",
+          "role": "primary"
+        },
+        {
+          "text": "INTEGRATION WAS DURABLE, BUT SOVEREIGNTY AND PROSPERITY REMAINED UNEVEN.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "LATER RULERS + REGIONAL SUCCESSORS + SHIFTING ROUTES contraction and fragmentation, not instant disappearance",
+        "LEGACIES: Deccan state forms, grants, Prakrit epigraphy, caves and trade nodes",
+        "WRITE: thesis → chronology/source → polity → economy → society/culture",
+        "one debate → graded verdict",
+        "FINAL: integration was durable, but sovereignty and prosperity remained uneven."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "LATER RULERS + REGIONAL SUCCESSORS + SHIFTING ROUTES contraction and fragmentation, not instant disappearance",
+            "LEGACIES: Deccan state forms, grants, Prakrit epigraphy, caves and trade nodes"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "WRITE: thesis → chronology/source → polity → economy → society/culture",
+            "one debate → graded verdict"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "FINAL: integration was durable, but sovereignty and prosperity remained uneven.",
+            "LATER RULERS + REGIONAL SUCCESSORS + SHIFTING ROUTES contraction and fragmentation, not instant disappearance"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FINAL: integration was durable, but sovereignty and prosperity remained uneven.",
+      "source_references": [
+        "Decline",
+        "Historiography and answer architecture",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\17_Satavahanas-and-the-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\17_Satavahanas-and-the-Deccan.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g4\\ancient-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-17\\g5\\ancient-indian-history-17_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE SATAVAHANAS & THE DECCAN — ADVANCED",
+          "role": "outcome"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "comparison"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "primary"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "outcome"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "comparison"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "The Satavahanas & the Deccan — ADVANCED",
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "+ Concept — Prashasti as source",
+            "The Nashik inscription of Gautami Balashri eulogizes Gautamiputra as restorer of Satavahana glory and exterminator of the Kshaharatas.",
+            "Gautamiputra's coins occur in the eastern Deccan too, showing that Satavahana power was not confined to one western zone."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

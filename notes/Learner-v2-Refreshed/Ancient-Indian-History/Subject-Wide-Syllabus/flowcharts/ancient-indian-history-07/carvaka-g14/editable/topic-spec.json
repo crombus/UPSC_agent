@@ -1,0 +1,1151 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ancient-indian-history-07",
+  "subject": "Ancient-Indian-History",
+  "title": "THE ARYAN PROBLEM & IDENTITY OF ARYAN CULTURE",
+  "short_route": "CATEGORY FIREWALL: LANGUAGE IS → WHY THE ARYAN PROBLEM → WORKING CHRONOLOGY AND INTERACTION → LINGUISTIC EVIDENCE: DESCENT PLUS → RIGVEDIC IDENTITY: A CULTURAL → ARCHAEOLOGICAL CULTURES ARE NOT",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g14 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-07\\g14\\ancient-indian-history-07_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-07-deep-review-2026-08-30-g14.json",
+  "ascii_spec_sha256": "5c4e1ef4277dd851757da007562cde9bd153d7f33cb009919f12c1754e567b15",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CATEGORY FIREWALL: LANGUAGE IS NOT RACE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CATEGORY FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "LANGUAGE IS NOT RACE",
+          "role": "caution"
+        },
+        {
+          "text": "TERM VALID USE INVALID COLLAPSE ARYA SELF/CULTURAL DESIGNATION BIOLOGICAL",
+          "role": "comparison"
+        },
+        {
+          "text": "INDO-ARYAN BRANCH OF INDO-IRANIAN LANGUAGES SKULL TYPE OR PURE",
+          "role": "evidence"
+        },
+        {
+          "text": "INDO-IRANIAN LINGUISTIC-CULTURAL RELATIONSHIP ONE ARCHAEOLOGICAL CULTURE",
+          "role": "primary"
+        },
+        {
+          "text": "ARYAN CULTURE RECONSTRUCTED PRACTICES/TEXTS UNIFORM INVADING NATION",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPARATE LANGUAGE, ANCESTRY, MATERIAL CULTURE AND IDENTITY BEFORE COMPARISON.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TERM VALID USE INVALID COLLAPSE arya self/cultural designation biological race",
+        "Indo-Aryan branch of Indo-Iranian languages skull type or pure people",
+        "Indo-Iranian linguistic-cultural relationship one archaeological culture",
+        "Aryan culture reconstructed practices/texts uniform invading nation",
+        "Separate language, ancestry, material culture and identity before comparison."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "TERM VALID USE INVALID COLLAPSE arya self/cultural designation biological race",
+          "Indo-Iranian linguistic-cultural relationship one archaeological culture",
+          "Separate language, ancestry, material culture and identity before comparison."
+        ],
+        [
+          "Indo-Aryan branch of Indo-Iranian languages skull type or pure people",
+          "Aryan culture reconstructed practices/texts uniform invading nation",
+          "TERM VALID USE INVALID COLLAPSE arya self/cultural designation biological race"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "TERM VALID USE INVALID COLLAPSE arya self/cultural designation biological race",
+            "Indo-Aryan branch of Indo-Iranian languages skull type or pure people"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Indo-Iranian linguistic-cultural relationship one archaeological culture",
+            "Aryan culture reconstructed practices/texts uniform invading nation"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Separate language, ancestry, material culture and identity before comparison.",
+            "TERM VALID USE INVALID COLLAPSE arya self/cultural designation biological race"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Separate language, ancestry, material culture and identity before comparison.",
+      "source_references": [
+        "SESSION 1 - TERMINOLOGY - ARYA, ARYAN, INDO-ARYAN AND INDO-IRANIAN",
+        "SESSION 40 - THE CATEGORY FIREWALL",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\07_Aryan-Problem-and-Identity.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\07_Aryan-Problem-and-Identity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-07\\g14\\ancient-indian-history-07_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "WHY THE ARYAN PROBLEM PERSISTS",
+      "structural_type": "root-branch",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WHY THE ARYAN PROBLEM PERSISTS",
+          "role": "primary"
+        },
+        {
+          "text": "HOW DID INDO-ARYAN SPEECH AND EARLY VEDIC CULTURE FORM",
+          "role": "outcome"
+        },
+        {
+          "text": "LINGUISTICS RIG VEDA ARCHAEOLOGY GENETICS HISTORIOGRAPHY/POLITICS RELATIONSHIP LAYERED TEXT",
+          "role": "evidence"
+        },
+        {
+          "text": "NO CLASS ALONE IDENTIFIES A GROUP, ROUTE, DATE AND",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "QUESTION: how did Indo-Aryan speech and early Vedic culture form in South Asia?",
+        "linguistics Rig Veda archaeology genetics historiography/politics relationship layered text contexts ancestry colonial/present claims",
+        "No class alone identifies a group, route, date and cultural outcome."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "QUESTION: how did Indo-Aryan speech and early Vedic culture form in South Asia?",
+            "linguistics Rig Veda archaeology genetics historiography/politics relationship layered text contexts ancestry colonial/present claims"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "No class alone identifies a group, route, date and cultural outcome.",
+            "QUESTION: how did Indo-Aryan speech and early Vedic culture form in South Asia?"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "linguistics Rig Veda archaeology genetics historiography/politics relationship layered text contexts ancestry colonial/present claims",
+            "No class alone identifies a group, route, date and cultural outcome."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "No class alone identifies a group, route, date and cultural outcome.",
+      "source_references": [
+        "SESSION 2 - WHY THERE IS AN ARYAN PROBLEM",
+        "SESSION 5 - EVIDENCE MATRIX",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\07_Aryan-Problem-and-Identity.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\07_Aryan-Problem-and-Identity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-07\\g14\\ancient-indian-history-07_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "WORKING CHRONOLOGY AND INTERACTION CORRIDOR",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "WORKING CHRONOLOGY AND INTERACTION CORRIDOR",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL ASIAN/BMAC CONTACT",
+          "role": "outcome"
+        },
+        {
+          "text": "NORTH-WEST SOUTH ASIA",
+          "role": "comparison"
+        },
+        {
+          "text": "VEDIC MILIEU",
+          "role": "evidence"
+        },
+        {
+          "text": "2ND MILLENNIUM BCE TECHNOLOGY/SPEECH HYPOTHESES",
+          "role": "primary"
+        },
+        {
+          "text": "CULTURAL SYNTHESIS",
+          "role": "outcome"
+        },
+        {
+          "text": "MITANNI INDO-ARYAN NAMES AND TERMS PROVIDE EXTERNAL ATTESTATION IN",
+          "role": "comparison"
+        },
+        {
+          "text": "A CORRIDOR MODEL IS NOT A MAPPED ARMY ROUTE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SINTASHTA/STEPPE → CENTRAL ASIAN/BMAC CONTACT → NORTH-WEST SOUTH ASIA → VEDIC MILIEU",
+        "2nd millennium BCE technology/speech hypotheses → interaction → cultural synthesis",
+        "Mitanni Indo-Aryan names and terms provide external attestation in western Asia.",
+        "A corridor model is not a mapped army route; scale and social process stay open."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "SINTASHTA/STEPPE → CENTRAL ASIAN/BMAC CONTACT → NORTH-WEST SOUTH ASIA → VEDIC MILIEU",
+            "2nd millennium BCE technology/speech hypotheses → interaction → cultural synthesis"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "Mitanni Indo-Aryan names and terms provide external attestation in western Asia.",
+            "A corridor model is not a mapped army route; scale and social process stay open."
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "SINTASHTA/STEPPE → CENTRAL ASIAN/BMAC CONTACT → NORTH-WEST SOUTH ASIA → VEDIC MILIEU",
+            "2nd millennium BCE technology/speech hypotheses → interaction → cultural synthesis"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "2nd millennium BCE technology/speech hypotheses → interaction → cultural synthesis.",
+      "source_references": [
+        "SESSION 6 - CHRONOLOGY",
+        "SESSION 8 - MITANNI EVIDENCE",
+        "SESSION 23 - BMAC",
+        "SESSION 24 - STEPPE, SINTASHTA",
+        "SESSION 25 - CORRIDOR MAP",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\07_Aryan-Problem-and-Identity.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\07_Aryan-Problem-and-Identity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-07\\g14\\ancient-indian-history-07_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "LINGUISTIC EVIDENCE: DESCENT PLUS CONTACT",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LINGUISTIC EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "DESCENT PLUS CONTACT",
+          "role": "outcome"
+        },
+        {
+          "text": "REGULAR SOUND CORRESPONDENCES + SHARED VOCABULARY + GRAMMAR",
+          "role": "comparison"
+        },
+        {
+          "text": "INDO-EUROPEAN FAMILY",
+          "role": "evidence"
+        },
+        {
+          "text": "INDO-IRANIAN BRANCH",
+          "role": "primary"
+        },
+        {
+          "text": "INDO-ARYAN DIFFERENTIATION INHERITED VOCABULARY LOANWORDS AND RETROFLEXION FROM CONTACT",
+          "role": "outcome"
+        },
+        {
+          "text": "LANGUAGE TRANSMISSION CANNOT ALONE SPECIFY GENES, ROUTE OR INVASION.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "regular sound correspondences + shared vocabulary + grammar",
+        "Indo-European family → Indo-Iranian branch → Indo-Aryan differentiation inherited vocabulary loanwords and retroflexion from contact",
+        "Language transmission cannot alone specify genes, route or invasion."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "regular sound correspondences + shared vocabulary + grammar",
+            "Indo-European family → Indo-Iranian branch → Indo-Aryan differentiation inherited vocabulary loanwords and retroflexion from contact"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "Language transmission cannot alone specify genes, route or invasion.",
+            "regular sound correspondences + shared vocabulary + grammar"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "Indo-European family → Indo-Iranian branch → Indo-Aryan differentiation inherited vocabulary loanwords and retroflexion from contact",
+            "Language transmission cannot alone specify genes, route or invasion."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Language transmission cannot alone specify genes, route or invasion.",
+      "source_references": [
+        "SESSION 3 - EARLY PHILOLOGY",
+        "SESSION 7 - INDO-EUROPEAN AND INDO-IRANIAN",
+        "SESSION 9 - CONTACT LINGUISTICS",
+        "SESSION 41 - LANGUAGE FAMILY LOGIC AND CONTACT",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\07_Aryan-Problem-and-Identity.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\07_Aryan-Problem-and-Identity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-07\\g14\\ancient-indian-history-07_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "RIGVEDIC IDENTITY: A CULTURAL SYSTEM",
+      "structural_type": "institution-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RIGVEDIC IDENTITY",
+          "role": "primary"
+        },
+        {
+          "text": "A CULTURAL SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "RIG VEDA",
+          "role": "comparison"
+        },
+        {
+          "text": "LAYERED ORAL CORPUS IN A NORTH-WESTERN SAPTA-SINDHU MILIEU ECONOMY",
+          "role": "evidence"
+        },
+        {
+          "text": "CATTLE-CENTRED PASTORALISM WITH AGRICULTURE AND CRAFTS POLITY",
+          "role": "primary"
+        },
+        {
+          "text": "JANA, VIS, RAJAN, SABHA, SAMITI; NO TERRITORIAL EMPIRE SOCIETY",
+          "role": "caution"
+        },
+        {
+          "text": "KINSHIP/DIFFERENCE; LATER CASTE MUST NOT BE PROJECTED BACKWARD RELIGION",
+          "role": "caution"
+        },
+        {
+          "text": "DEITIES, RITA, YAJNA, SOMA AND PRAISE-POETRY WARFARE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RIG VEDA: layered oral corpus in a north-western Sapta-Sindhu milieu economy: cattle-centred pastoralism with agriculture",
+        "no territorial empire society: kinship/difference",
+        "later caste must not be projected backward religion: deities, rita, yajna, soma and praise-poetry warfare",
+        "identity is cultural-historical, not a racial phenotype."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "RIG VEDA: layered oral corpus in a north-western Sapta-Sindhu milieu economy: cattle-centred pastoralism with agriculture and crafts polity",
+            "no territorial empire society: kinship/difference"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "later caste must not be projected backward religion: deities, rita, yajna, soma and praise-poetry warfare: horse/chariot terms and",
+            "identity is cultural-historical, not a racial phenotype."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RIG VEDA: layered oral corpus in a north-western Sapta-Sindhu milieu economy: cattle-centred pastoralism with agriculture and crafts polity",
+            "no territorial empire society: kinship/difference"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RIG VEDA: layered oral corpus in a north-western Sapta-Sindhu milieu economy: cattle-centred pastoralism with agriculture and crafts polity: jana, vis, rajan, sabha, samiti; no territorial empire society: kinship/difference; later caste must not be projected backward religion: deities, rita, yajna, soma and praise-poetry warfare: horse/chariot terms and cattle/route conflicts.",
+      "source_references": [
+        "SESSION 10 - RIG VEDA AS A HISTORICAL SOURCE",
+        "SESSION 11 - TEXTUAL GEOGRAPHY",
+        "SESSION 34 - ECONOMY AND MATERIAL LIFE",
+        "SESSION 35 - KINSHIP, POLITY AND SOCIETY",
+        "SESSION 36 - RELIGION, LANGUAGE AND MEMORY",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\07_Aryan-Problem-and-Identity.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\07_Aryan-Problem-and-Identity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-07\\g14\\ancient-indian-history-07_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ARCHAEOLOGICAL CULTURES ARE NOT PEOPLES",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ARCHAEOLOGICAL CULTURES ARE NOT PEOPLES",
+          "role": "caution"
+        },
+        {
+          "text": "CEMETERY H GANDHARA GRAVE/SWAT OCP/COPPER HOARDS PGW",
+          "role": "outcome"
+        },
+        {
+          "text": "PUNJAB MORTUARY FRONTIER BURIALS AND UPPER GANGA MATERIAL LATER",
+          "role": "evidence"
+        },
+        {
+          "text": "NONE EQUALS ARYAN PEOPLE BY ITSELF; RELATE DATES, REGIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "SANAULI VEHICLES CANNOT SETTLE HORSE-CHARIOT IDENTITY WITHOUT TECHNICAL CONTEXT.",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "Cemetery H Gandhara Grave/Swat OCP/Copper Hoards PGW",
+        "Punjab mortuary frontier burials and upper Ganga material later plain horizon change/continuity interaction associations vary",
+        "None equals Aryan people by itself; relate dates, regions and practices cautiously.",
+        "Sanauli vehicles cannot settle horse-chariot identity without technical context."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "Cemetery H Gandhara Grave/Swat OCP/Copper Hoards PGW",
+          "None equals Aryan people by itself; relate dates, regions and practices cautiously.",
+          "Cemetery H Gandhara Grave/Swat OCP/Copper Hoards PGW"
+        ],
+        [
+          "Punjab mortuary frontier burials and upper Ganga material later plain horizon change/continuity interaction associations vary settlement pattern",
+          "Sanauli vehicles cannot settle horse-chariot identity without technical context.",
+          "Punjab mortuary frontier burials and upper Ganga material later plain horizon change/continuity interaction associations vary settlement pattern"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "Cemetery H Gandhara Grave/Swat OCP/Copper Hoards PGW",
+            "Punjab mortuary frontier burials and upper Ganga material later plain horizon change/continuity interaction associations vary settlement pattern"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "None equals Aryan people by itself; relate dates, regions and practices cautiously.",
+            "Sanauli vehicles cannot settle horse-chariot identity without technical context."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Cemetery H Gandhara Grave/Swat OCP/Copper Hoards PGW",
+            "Punjab mortuary frontier burials and upper Ganga material later plain horizon change/continuity interaction associations vary settlement pattern"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Sanauli vehicles cannot settle horse-chariot identity without technical context.",
+      "source_references": [
+        "SESSION 16 - ARCHAEOLOGICAL CULTURE IS NOT A PEOPLE",
+        "SESSION 18 - CEMETERY H",
+        "SESSION 19 - GANDHARA GRAVE/SWAT",
+        "SESSION 20 - OCP AND COPPER HOARDS",
+        "SESSION 21 - PAINTED GREY WARE",
+        "SESSION 22 - SANAULI",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\07_Aryan-Problem-and-Identity.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\07_Aryan-Problem-and-Identity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-07\\g14\\ancient-indian-history-07_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ARCHAEOGENETICS: RESULT AND CLAIM BOUNDARY",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RESULT AND CLAIM BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "ANCIENT SAMPLE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTAMINATION CONTROL",
+          "role": "comparison"
+        },
+        {
+          "text": "GENETIC COMPONENTS",
+          "role": "evidence"
+        },
+        {
+          "text": "STATISTICAL MODEL",
+          "role": "primary"
+        },
+        {
+          "text": "ONE HARAPPAN-CONTEXT GENOME; NOT THE WHOLE CIVILISATION.",
+          "role": "caution"
+        },
+        {
+          "text": "SOUTH/CENTRAL ASIAN ADNA MODELS",
+          "role": "comparison"
+        },
+        {
+          "text": "LATER STEPPE-RELATED ANCESTRY ENTERED SOUTH ASIA.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ANCIENT SAMPLE → contamination control → genetic components → statistical model",
+        "Rakhigarhi: one Harappan-context genome; not the whole civilisation.",
+        "South/Central Asian aDNA models: later Steppe-related ancestry entered South Asia.",
+        "Ancestry can show mixture/timing ranges, not language or self-identity alone.",
+        "Sampling is sparse, uneven and vulnerable to political overclaim."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ANCIENT SAMPLE → contamination control → genetic components → statistical model",
+            "Rakhigarhi: one Harappan-context genome; not the whole civilisation."
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "South/Central Asian aDNA models: later Steppe-related ancestry entered South Asia.",
+            "Ancestry can show mixture/timing ranges, not language or self-identity alone."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Sampling is sparse, uneven and vulnerable to political overclaim.",
+            "ANCIENT SAMPLE → contamination control → genetic components → statistical model"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Sampling is sparse, uneven and vulnerable to political overclaim.",
+      "source_references": [
+        "SESSION 26 - ARCHAEOGENETICS",
+        "SESSION 27 - RAKHIGARHI GENOME",
+        "SESSION 28 - SOUTH AND CENTRAL ASIAN ADNA",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\07_Aryan-Problem-and-Identity.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\07_Aryan-Problem-and-Identity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-07\\g14\\ancient-indian-history-07_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "COMPETING MODELS AND BEST-FIT VERDICT",
+      "structural_type": "debate-evidence-verdict",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "COMPETING MODELS AND BEST-FIT VERDICT",
+          "role": "primary"
+        },
+        {
+          "text": "RAPID VIOLENT REPLACEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "SIMPLISTIC AND ARCHAEOLOGICALLY WEAK",
+          "role": "comparison"
+        },
+        {
+          "text": "MOVEMENT OVER TIME + INTERACTION",
+          "role": "evidence"
+        },
+        {
+          "text": "BETTER MULTI-SOURCE FIT",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL FORMATION/OUTWARD MOVEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "MUST EXPLAIN LINGUISTIC GEOGRAPHY",
+          "role": "comparison"
+        },
+        {
+          "text": "MITANNI EVIDENCE AND ANCIENT-DNA PATTERNS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INVASION: rapid violent replacement → simplistic and archaeologically weak",
+        "IN-MIGRATION: movement over time + interaction → better multi-source fit",
+        "INDIGENOUS/OIT: local formation/outward movement → must explain linguistic geography",
+        "Mitanni evidence and ancient-DNA patterns",
+        "SYNTHESIS: mobility + continuity + borrowing + intermarriage + cultural recomposition"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "INVASION: rapid violent replacement → simplistic and archaeologically weak",
+            "IN-MIGRATION: movement over time + interaction → better multi-source fit"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "INDIGENOUS/OIT: local formation/outward movement → must explain linguistic geography,",
+            "Mitanni evidence and ancient-DNA patterns"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "SYNTHESIS: mobility + continuity + borrowing + intermarriage + cultural recomposition",
+            "VERDICT: migration is not conquest; continuity is not isolation; evidence is graded."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: migration is not conquest; continuity is not isolation; evidence is graded.",
+      "answer_line": "migration is not conquest; continuity is not isolation; evidence is graded.",
+      "source_references": [
+        "SESSION 29 - COMPETING MODELS",
+        "SESSION 30 - WHY THE SIMPLISTIC INVASION MODEL IS REJECTED",
+        "SESSION 31 - MIGRATION/IN-MIGRATION",
+        "SESSION 32 - INDIGENOUS/OUT-OF-INDIA",
+        "SESSION 33 - INTERACTION AND SYNTHESIS",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\07_Aryan-Problem-and-Identity.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\07_Aryan-Problem-and-Identity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-07\\g14\\ancient-indian-history-07_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ARYAN-PROBLEM ANSWER ARCHITECTURE",
+      "structural_type": "answer-spine",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ARYAN-PROBLEM ANSWER ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "10 MARKS",
+          "role": "outcome"
+        },
+        {
+          "text": "DEFINE CATEGORIES",
+          "role": "comparison"
+        },
+        {
+          "text": "TWO EVIDENCE CLASSES",
+          "role": "evidence"
+        },
+        {
+          "text": "ONE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "CAUTIOUS VERDICT",
+          "role": "outcome"
+        },
+        {
+          "text": "15 MARKS",
+          "role": "comparison"
+        },
+        {
+          "text": "LINGUISTIC CASE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "10 MARKS: define categories → two evidence classes → one limit → cautious verdict",
+        "15 MARKS: historiography → linguistic case → text/archaeology → genetics → synthesis",
+        "20 MARKS: firewall → evidence matrix → corridor → competing models",
+        "Harappan continuity/contact → political misuse → graded conclusion",
+        "EVIDENCE VERB: supports / is consistent with / complicates; avoid proves when indirect."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "10 MARKS: define categories → two evidence classes → one limit → cautious verdict",
+            "15 MARKS: historiography → linguistic case → text/archaeology → genetics → synthesis"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "20 MARKS: firewall → evidence matrix → corridor → competing models",
+            "Harappan continuity/contact → political misuse → graded conclusion"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "EVIDENCE VERB: supports / is consistent with / complicates; avoid proves when indirect.",
+            "CLOSE: early Vedic culture formed through mobility and South Asian interaction, not race."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Harappan continuity/contact → political misuse → graded conclusion.",
+      "source_references": [
+        "SESSION 37 - HARAPPAN-TO-VEDIC RELATIONSHIP",
+        "SESSION 38 - POLITICAL MISUSE",
+        "SESSION 39 - ANSWER-WRITING FRAMEWORK",
+        "SESSION 46 - MIGRATION, NOT INVASION, AND THE ANSWER SPINE",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\07_Aryan-Problem-and-Identity.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\07_Aryan-Problem-and-Identity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-07\\g14\\ancient-indian-history-07_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "EVIDENCE LADDER AND CONFIDENCE CONTROL",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EVIDENCE LADDER AND CONFIDENCE CONTROL",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "FROM SOURCE BOOK",
+          "role": "evidence"
+        },
+        {
+          "text": "STANDARD KNOWLEDGE",
+          "role": "evidence"
+        },
+        {
+          "text": "CURRENT AFFAIRS.",
+          "role": "primary"
+        },
+        {
+          "text": "2. RS SHARMA STRESSES THERE IS NO EVIDENCE OF",
+          "role": "caution"
+        },
+        {
+          "text": "3. EVIDENCE TYPE WHAT IT SUGGESTS UPSC CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "SOURCE TYPE CONTROLS THE STRENGTH AND LIMITS OF THE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EVIDENCE LADDER",
+        "1. = from source book = inference / standard knowledge = current affairs.",
+        "2. RS Sharma stresses there is no evidence of mass-scale confrontation",
+        "3. Evidence type What it suggests UPSC caution",
+        "VERDICT: Source type controls the strength and limits of the historical claim."
+      ],
+      "matrix": [
+        [
+          "SOURCE / MATERIAL",
+          "METHOD / DEBATE",
+          "HISTORICAL RESULT"
+        ],
+        [
+          "EVIDENCE LADDER",
+          "2. RS Sharma stresses there is no evidence of mass-scale confrontation...",
+          "VERDICT: Source type controls the strength and limits of the historical claim."
+        ],
+        [
+          "1. = from source book = inference / standard knowledge = current affairs.",
+          "3. Evidence type What it suggests UPSC caution",
+          "EVIDENCE LADDER"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "EVIDENCE LADDER",
+            "1. = from source book = inference / standard knowledge = current affairs."
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "2. RS Sharma stresses there is no evidence of mass-scale confrontation...",
+            "3. Evidence type What it suggests UPSC caution"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "VERDICT: Source type controls the strength and limits of the historical claim.",
+            "EVIDENCE LADDER"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: Source type controls the strength and limits of the historical claim.",
+      "answer_line": "Source type controls the strength and limits of the historical claim.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\07_Aryan-Problem-and-Identity.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\07_Aryan-Problem-and-Identity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-07\\g14\\ancient-indian-history-07_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "EXAMINER TRAPS AND CONTESTED BOUNDARIES",
+      "structural_type": "trap-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EXAMINER TRAPS AND CONTESTED BOUNDARIES",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. EVIDENCE DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "NO CURRENT-AFFAIRS CLAIM IS FORCED INTO THIS",
+          "role": "caution"
+        },
+        {
+          "text": "2. CONTESTED ISSUES COMPETING INTERPRETATIONS ARE ATTRIBUTED, EVIDENCED",
+          "role": "primary"
+        },
+        {
+          "text": "3. INSCRIPTION AND COIN EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTEMPORARY NAMES, TITLES, CLAIMS AND",
+          "role": "comparison"
+        },
+        {
+          "text": "QUALIFICATION EARNS MARKS; FALSE CERTAINTY IS A HARD FAILURE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CLOSE DISTINCTIONS",
+        "1. Evidence discipline: no current-affairs claim is forced into this",
+        "2. Contested issues Competing interpretations are attributed, evidenced",
+        "3. Inscription and coin evidence: contemporary names, titles, claims and",
+        "VERDICT: Qualification earns marks; false certainty is a hard failure."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "CLOSE DISTINCTIONS",
+          "2. Contested issues Competing interpretations are attributed, evidenced...",
+          "VERDICT: Qualification earns marks; false certainty is a hard failure."
+        ],
+        [
+          "1. Evidence discipline: no current-affairs claim is forced into this...",
+          "3. Inscription and coin evidence: contemporary names, titles, claims and...",
+          "CLOSE DISTINCTIONS"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CLOSE DISTINCTIONS",
+            "1. Evidence discipline: no current-affairs claim is forced into this..."
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "2. Contested issues Competing interpretations are attributed, evidenced...",
+            "3. Inscription and coin evidence: contemporary names, titles, claims and..."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: Qualification earns marks; false certainty is a hard failure.",
+            "CLOSE DISTINCTIONS"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: Qualification earns marks; false certainty is a hard failure.",
+      "answer_line": "Qualification earns marks; false certainty is a hard failure.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\07_Aryan-Problem-and-Identity.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\07_Aryan-Problem-and-Identity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-07\\g14\\ancient-indian-history-07_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "INTEGRATED ANSWER SPINE AND QUALIFIED CONCLUSION",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "INTEGRATED ANSWER SPINE AND QUALIFIED CONCLUSION",
+          "role": "primary"
+        },
+        {
+          "text": "ANSWER SPINE",
+          "role": "outcome"
+        },
+        {
+          "text": "1. REQUIRED SCOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "KEEP TEXT, LANGUAGE, ARCHAEOLOGY AND GENETICS",
+          "role": "evidence"
+        },
+        {
+          "text": "2. BASIC COMPLETENESS",
+          "role": "primary"
+        },
+        {
+          "text": "SUBSTANTIVE OWNER MATERIAL IS RETAINED IN A",
+          "role": "evidence"
+        },
+        {
+          "text": "3. ORIGINAL SOLVED 10-MARK MAINS 2",
+          "role": "comparison"
+        },
+        {
+          "text": "CLAIM, NAMED EVIDENCE, ANALYSIS AND QUALIFICATION LEAD TO A",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ANSWER SPINE",
+        "1. Required scope: Keep text, language, archaeology and genetics",
+        "2. Basic completeness: substantive owner material is retained in a",
+        "3. Original solved 10-mark Mains 2",
+        "VERDICT: Claim, named evidence, analysis and qualification lead to a graded"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ANSWER SPINE",
+            "1. Required scope: Keep text, language, archaeology and genetics..."
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "2. Basic completeness: substantive owner material is retained in a...",
+            "3. Original solved 10-mark Mains 2"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: Claim, named evidence, analysis and qualification lead to a graded...",
+            "ANSWER SPINE"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: Claim, named evidence, analysis and qualification lead to a graded...",
+      "answer_line": "Claim, named evidence, analysis and qualification lead to a graded.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\07_Aryan-Problem-and-Identity.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\07_Aryan-Problem-and-Identity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-07\\g14\\ancient-indian-history-07_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "OPTIONAL ADVANCED ORIENTATION — [OPTIONAL ADVANCED]",
+          "role": "outcome"
+        },
+        {
+          "text": "A1. COMPARATIVE LINGUISTICS",
+          "role": "comparison"
+        },
+        {
+          "text": "STRENGTHS AND LIMITS — [OPTIONAL ADVANCED]",
+          "role": "evidence"
+        },
+        {
+          "text": "A2. CONTACT, SUBSTRATE AND RETROFLEXION — [OPTIONAL ADVANCED]",
+          "role": "primary"
+        },
+        {
+          "text": "A3. TEXTUAL MEMORY AND CHRONOLOGY — [OPTIONAL ADVANCED]",
+          "role": "outcome"
+        },
+        {
+          "text": "A4. ARCHAEOGENETIC SAMPLES AND MODELS — [OPTIONAL ADVANCED]",
+          "role": "comparison"
+        },
+        {
+          "text": "A5. STEPPE, BMAC AND MATERIAL-CULTURE IDENTITY — [OPTIONAL ADVANCED]",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Optional Advanced Orientation — [OPTIONAL ADVANCED]",
+            "A1. Comparative Linguistics: Strengths and Limits — [OPTIONAL ADVANCED]",
+            "A2. Contact, Substrate and Retroflexion — [OPTIONAL ADVANCED]",
+            "A3. Textual Memory and Chronology — [OPTIONAL ADVANCED]"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "A4. Archaeogenetic Samples and Models — [OPTIONAL ADVANCED]",
+            "A5. Steppe, BMAC and Material-Culture Identity — [OPTIONAL ADVANCED]",
+            "A6. Horse, Chariot and Technological Packages — [OPTIONAL ADVANCED]",
+            "A7. Historiography, Public Debate and Ethical Communication — [OPTIONAL ADVANCED]"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Advanced Evidence Clinics: Applying the Limits — [OPTIONAL ADVANCED]",
+            "Optional Advanced Orientation — [OPTIONAL ADVANCED] This section adds methodological depth.",
+            "A competent core answer needs the firewall, chronology, text-archaeology-genetics triangulation and interaction-aware conclusion already taught above",
+            "it does not need the technical refinements below."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

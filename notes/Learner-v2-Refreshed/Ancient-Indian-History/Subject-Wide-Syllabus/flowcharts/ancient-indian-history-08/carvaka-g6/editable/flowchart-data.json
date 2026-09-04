@@ -1,0 +1,358 @@
+{
+  "schema_version": 1,
+  "topic_key": "ancient-indian-history-08",
+  "generation": 6,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-08\\ancient-indian-history-08_Complete-Learning-Session_2026-08-22.md",
+  "master_dimensions": [
+    3600,
+    25947
+  ],
+  "stages": [
+    {
+      "title": "UPSC RELEVANCE AND ANSWER-WORTHINESS AUDIT",
+      "terms": "UPSC Relevance and Answer-Worthiness Audit: No unavailable key is treated as official.",
+      "mechanism": "Rig Vedic content has direct Prelims value and strong/direct Mains support through Vedic society, religion and change-over-time questions.",
+      "consequence": "Memorise: working range, north-west/Sapta-Sindhu, rajan/assemblies, cattle-plus-agriculture, bali, deity functions and Early-Later contrasts.",
+      "trap": "Understand: the Rig Veda is layered ritual-poetry, a source not a census or chronicle.",
+      "answer": "Syllabus and verified-demand reality."
+    },
+    {
+      "title": "ROADMAP, SOURCE ORDER AND EVIDENCE DISCIPLINE — [CORE MAINS]",
+      "terms": "Roadmap, source order and evidence discipline — [CORE MAINS]: The topic is reconstructed through textual criticism, comparative chronology and bounded archaeological correlation.",
+      "mechanism": "The topic is reconstructed through textual criticism, comparative chronology and bounded archaeological correlation.",
+      "consequence": "Current-affairs guardrail: No current-affairs item is required.",
+      "trap": "Later Vedic institutions are introduced only as comparison, never projected backward into the oldest Rigvedic layers.",
+      "answer": "The topic is reconstructed through textual criticism, comparative chronology and bounded archaeological correlation."
+    },
+    {
+      "title": "THE RIG VEDA: CORPUS, COMPOSITION, LAYERS AND ORAL TRANSMISSION — [CORE PRELIMS + CORE MAINS]",
+      "terms": "The Rig Veda is the earliest Vedic Samhita and a collection of hymns for ritual performance.",
+      "mechanism": "FACT: Arrangement by deity, stanza count and metre helps scholars detect disruptions and possible additions, but an interpolation in arrangement need not equal a late original composition.",
+      "consequence": "Wrong: Book 10 is wholly late and therefore useless.",
+      "trap": "It preserves historical memory, but its primary purpose is not to narrate political events in chronological order.",
+      "answer": "The Rig Veda is the earliest Vedic Samhita and a collection of hymns for ritual performance."
+    },
+    {
+      "title": "RELATIVE CHRONOLOGY AND THE DANGER OF A SINGLE DATE — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Relative chronology and the danger of a single date — [CORE PRELIMS + CORE MAINS]: 1500/1200-1000 BCE range is a working teaching horizon, not a date stamped on every hymn.",
+      "mechanism": "INTERPRETATION: Relative layers are stronger than a single absolute date because linguistic, ritual and institutional change occurred within the corpus.",
+      "consequence": "after 1900: Late/post-Harappan regional change",
+      "trap": "1500/1200-1000 BCE range is a working teaching horizon, not a date stamped on every hymn.",
+      "answer": "1500/1200-1000 BCE range is a working teaching horizon, not a date stamped on every hymn."
+    },
+    {
+      "title": "GEOGRAPHICAL SETTING: SAPTA-SINDHU, RIVERS, ECOLOGY AND LIMITS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Geographical setting: Sapta-Sindhu, rivers, ecology and limits — [CORE PRELIMS + CORE MAINS]: This is a composition and cultural horizon, not a surveyed political border.",
+      "mechanism": "This is a composition and cultural horizon, not a surveyed political border.",
+      "consequence": "Secure identifications and debated/tentative identifications must be kept separate.",
+      "trap": "This is a composition and cultural horizon, not a surveyed political border.",
+      "answer": "The corpus's densest geographical memory lies in the north-west: the Indus system, adjoining Afghanistan-Pakistan river corridors and the Sarasvati/Ghaggar-Hakra zone."
+    },
+    {
+      "title": "POLITICAL ORGANISATION: KIN UNITS, RAJAN AND THE LIMITS OF STATEHOOD — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Political organisation: kin units, rajan and the limits of statehood — [CORE PRELIMS + CORE MAINS]: FACT: No regular tax-collecting officer or territorial civil administration is securely visible.",
+      "mechanism": "INTERPRETATION: Chiefship was constrained less by a constitution than by kin solidarity, assemblies, ritual expectations and the practical need to redistribute booty and gifts.",
+      "consequence": "Terms are context-dependent and should not be presented as four fixed territorial departments.",
+      "trap": "Terms are context-dependent and should not be presented as four fixed territorial departments.",
+      "answer": "Authority was embedded in kinship, cattle protection, warfare, ritual and redistribution."
+    },
+    {
+      "title": "ASSEMBLIES, OFFICIALS, BALI AND REDISTRIBUTION — [CORE PRELIMS + CORE MAINS]",
+      "terms": "FACT: Bali in the early context is best understood as an offering or tribute, not a fixed, assessed land tax.",
+      "mechanism": "Wealth moved to the chief and priest through booty, tribute and offerings, then back through patronage, feasting and distribution.",
+      "consequence": "Cattle, produce and booty: Households, allied groups and defeated rivals supply movable wealth.",
+      "trap": "Bali, tribute and gifts: Offerings are irregular or inchoate, not a later land-tax bureaucracy.",
+      "answer": "Political economy joined warfare, ritual and gift exchange."
+    },
+    {
+      "title": "WARFARE, DASHARAJNA AND THE ABSENCE OF TERRITORIAL EMPIRE — [SUPPORTING]",
+      "terms": "Warfare, Dasharajna and the absence of territorial empire — [SUPPORTING]: FACT: The battle is associated with the Parushni/Ravi.",
+      "mechanism": "FACT: Vishvamitra's replacement by Vasishtha as Sudas's purohita indicates that priestly alignment could accompany political realignment.",
+      "consequence": "ROOT: Book 7 remembers Sudas fighting a ten-tribe confederacy on the Parushni",
+      "trap": "Does not prove: A large bureaucratic territorial empire",
+      "answer": "Rigvedic conflict involved cattle raids, movement, control of routes and water, inter-tribal rivalry and shifting alliances."
+    },
+    {
+      "title": "ECONOMY: CATTLE WEALTH AND PASTORAL PREDOMINANCE — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Economy: cattle wealth and pastoral predominance — [CORE PRELIMS + CORE MAINS]: Wrong: Pastoral dominance means no farming.",
+      "mechanism": "This supports pastoral dominance in elite values, not a claim that every household was nomadic or that cultivation was absent.",
+      "consequence": "Production: Milk, draught power and herd reproduction",
+      "trap": "This supports pastoral dominance in elite values, not a claim that every household was nomadic or that cultivation was absent.",
+      "answer": "Cattle were the most visible store of wealth, measure of generosity, ritual resource and object of conflict."
+    },
+    {
+      "title": "AGRICULTURE, WATER, CRAFTS, EXCHANGE AND MIXED LIVELIHOODS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Agriculture, water, crafts, exchange and mixed livelihoods — [CORE PRELIMS + CORE MAINS]: The issue is scale and dominance, not presence versus absence.",
+      "mechanism": "FACT: Implements such as axes and sickles prove agricultural/woodworking activity but do not by themselves prove the particular well-irrigation assertions in that PYQ.",
+      "consequence": "Herds and draught animals: Cattle, oxen, sheep, goats and horses support food, traction and mobility.",
+      "trap": "The issue is scale and dominance, not presence versus absence.",
+      "answer": "The early economy included cultivation, water-lifting, implements, transport, carpentry, weaving, metalwork and gift exchange."
+    },
+    {
+      "title": "SOCIETY: HOUSEHOLD, KINSHIP, FAMILY AND MARRIAGE — [CORE MAINS]",
+      "terms": "FACT: Kula is defensible as the household/family level; larger terms such as vis and jana locate the household within wider kin collectivities.",
+      "mechanism": "Memory hook: GENDER = Genre, Evidence by dimension, No golden age, Difference from later rules, Elite filter, Regional silence.",
+      "consequence": "FACT: Kula is defensible as the household/family level; larger terms such as vis and jana locate the household within wider kin collectivities.",
+      "trap": "CAUTION: A goddess hymn, a female poet and assembly attendance are different evidence types; none alone measures the condition of all women.",
+      "answer": "The household and wider kin group organised production, ritual obligation and identity."
+    },
+    {
+      "title": "SOCIAL DIFFERENTIATION, DASA/DASYU AND EARLY VARNA EVIDENCE — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Social differentiation, dasa/dasyu and early varna evidence — [CORE PRELIMS + CORE MAINS]: Purusha hymn: Fourfold schema in Book 10; textual-layer debate is essential",
+      "mechanism": "INTERPRETATION: Because Book 10 contains later-arranged material and the hymn's layer is debated, it should be evidence for an emerging ideology, not a census of an already rigid system.",
+      "consequence": "ROOT: TEXTUAL LABEL - CONTEXT - LAYER - SOCIAL FUNCTION - LIMIT",
+      "trap": "Priests, chiefs, patrons, common producers, dependants and defeated outsiders did not yet constitute the fully elaborated caste order of later texts.",
+      "answer": "Hierarchy existed, but the categories were still forming and context-dependent."
+    },
+    {
+      "title": "RELIGION: DEITY MATRIX AND FUNCTIONAL WORLDVIEW — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Religion: deity matrix and functional worldview — [CORE PRELIMS + CORE MAINS]: 'Nature worship' is useful only if it does not flatten deities into single natural objects.",
+      "mechanism": "Mains/PYQ use: A deity matrix is stronger than a name list because it connects divine functions to ecology, polity and social values.",
+      "consequence": "FACT: Indra receives the strongest martial prominence in the Rigvedic hymns; Agni is central to sacrifice; Varuna is linked with cosmic and moral order.",
+      "trap": "'Nature worship' is useful only if it does not flatten deities into single natural objects.",
+      "answer": "Rigvedic religion linked cosmic forces, war, rain, fire, dawn, healing, mobility and social order to praise and sacrifice."
+    },
+    {
+      "title": "RITA, YAJNA, SOMA AND PRIESTLY MEDIATION — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Agni and Soma: Fire carries offering; Soma is pressed, praised and consumed ritually.",
+      "mechanism": "Yajna sustains reciprocal relations among patron, priest and deity.",
+      "consequence": "Soma intensifies liturgical performance and inspiration.",
+      "trap": "FACT: Book 9's Soma concentration reflects liturgical organisation, not a universal daily practice.",
+      "answer": "Rita expresses ordered regularity across cosmos, ritual and moral conduct."
+    },
+    {
+      "title": "FUNERARY IDEAS, AFTERLIFE AND PHILOSOPHICAL HYMNS — [SUPPORTING]",
+      "terms": "Funerary ideas, afterlife and philosophical hymns — [SUPPORTING]: Much of the most explicit material is in Book 10 and therefore requires layer awareness.",
+      "mechanism": "Much of the most explicit material is in Book 10 and therefore requires layer awareness.",
+      "consequence": "Much of the most explicit material is in Book 10 and therefore requires layer awareness.",
+      "trap": "FACT: Funerary hymns ask fire not to destroy the deceased completely and imagine passage to ancestors; the ritual-poetic language is not a mortuary excavation report.",
+      "answer": "The corpus contains cremation and burial imagery, ancestors, Yama, hopes for an afterlife and speculative creation hymns."
+    },
+    {
+      "title": "MATERIAL CULTURE: HORSE, CHARIOT, WEAPONS AND ARCHAEOLOGY CAUTIONS — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Material culture: horse, chariot, weapons and archaeology cautions — [CORE PRELIMS + CORE MAINS]: INTERPRETATION: Chariot language can mark an elite technology and prestige complex even if archaeological survival is rare.",
+      "mechanism": "Archaeological evidence helps establish technologies and contacts, but no single vehicle, burial or pottery assemblage can identify language or the authors of hymns.",
+      "consequence": "FACT: Upinder Singh notes that Sintashta produced early spoked-wheel chariot burials, horse remains and metal weapons; cultural-language correlation remains a hypothesis.",
+      "trap": "FACT: Early ayas should not be translated automatically as iron; Iron Age/PGW associations are primarily later Vedic comparisons.",
+      "answer": "Horse and chariot imagery had high martial and ritual prestige."
+    },
+    {
+      "title": "CONFLICT, MOBILITY, INTERACTION AND CULTURAL SYNTHESIS — [CORE MAINS]",
+      "terms": "INFERENCE: 'Cultural synthesis' should not sanitise violence or hierarchy; it means formation through unequal interaction as well as borrowing.",
+      "mechanism": "Movement and settlement: Indo-Aryan-speaking groups enter or expand through north-western corridors.",
+      "consequence": "Movement and settlement: Indo-Aryan-speaking groups enter or expand through north-western corridors.",
+      "trap": "FACT: Arya-labelled groups also fought one another; Dasa/Dasyu categories do not produce a stable racial map.",
+      "answer": "The corpus presents neither an isolated pure culture nor a simple replacement story."
+    },
+    {
+      "title": "HARAPPAN, POST-HARAPPAN AND RIGVEDIC COMPARISON — [CORE MAINS]",
+      "terms": "INFERENCE: The best model is neither 'Harappans vanished' nor 'Harappan equals Vedic', but regional transformation plus later interaction.",
+      "mechanism": "CAUTION: Fire installations, swastika motifs or individual animal finds are not diagnostic cultural signatures by themselves.",
+      "consequence": "FACT: The Mature Harappan urban system largely declined before the conventional early Rigvedic horizon.",
+      "trap": "CAUTION: Fire installations, swastika motifs or individual animal finds are not diagnostic cultural signatures by themselves.",
+      "answer": "Comparison should begin with chronology and source type."
+    },
+    {
+      "title": "EARLY VERSUS LATER VEDIC: COMPARISON WITHOUT BACKWARD PROJECTION — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Early versus Later Vedic: comparison without backward projection — [CORE PRELIMS + CORE MAINS]: The 2024 GS-I demand is a transition question.",
+      "mechanism": "Wrong: All change was caused by iron alone.",
+      "consequence": "FACT: The 2024 question asks society and economy; geography, polity and religion should support rather than displace those dimensions.",
+      "trap": "FACT: The 2024 question asks society and economy; geography, polity and religion should support rather than displace those dimensions.",
+      "answer": "The 2024 GS-I demand is a transition question."
+    },
+    {
+      "title": "HISTORIOGRAPHICAL INTERPRETATIONS AND SOURCE CRITICISM — [CORE MAINS]",
+      "terms": "INTERPRETATION: Their emphases are complementary when Sharma's structural model is moderated by Singh's source criticism.",
+      "mechanism": "INTERPRETATION: Their emphases are complementary when Sharma's structural model is moderated by Singh's source criticism.",
+      "consequence": "Evidence: Name text, term, site or study",
+      "trap": "INFERENCE: Archaeogenetics strengthens population-history questions but cannot resolve Vedic identity without linguistic, chronological and archaeological argument.",
+      "answer": "The topic has moved from racial and invasion narratives toward interdisciplinary reconstruction."
+    },
+    {
+      "title": "CONTINUITY AND CHANGE IN INDIAN SOCIETY - CAREFULLY QUALIFIED — [CORE MAINS]",
+      "terms": "Wrong: A present practice is an unchanged fossil from the Rigvedic age.",
+      "mechanism": "INTERPRETATION: Continuity can occur through re-performance, commentary, canonisation and institutional renewal.",
+      "consequence": "FACT: UNESCO recognition confirms a living tradition of Vedic chanting and the need for safeguarding.",
+      "trap": "Persistence should be demonstrated as transformed continuity, institutional memory or revived practice—not asserted as an unchanged 3,000-year survival.",
+      "answer": "The 2023 GS-I question asks whether some Vedic features persist."
+    },
+    {
+      "title": "TERMINOLOGY BANK AND RAPID DISTINCTIONS — [SUPPORTING]",
+      "terms": "Terminology bank and rapid distinctions — [SUPPORTING]: Kshetra-pati: 'lord of the field' in Rig Veda 4.57; distinguish kshetra-patni, whose audited 2026 PYQ answer route is Atharvaveda.",
+      "mechanism": "Wrong: Close Sanskrit terms can be transferred between texts by resemblance.",
+      "consequence": "Purusha Sukta: Book 10 fourfold schema; layer debate must accompany its use.",
+      "trap": "Dasa/Dasyu: contextual enemy/outsider categories; never reduce to biological race.",
+      "answer": "Dasa/Dasyu: contextual enemy/outsider categories; never reduce to biological race."
+    },
+    {
+      "title": "DEEP TEACHING UNIT 1: CORPUS, LAYERS AND A WORKING CHRONOLOGY — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Deep Teaching Unit 1: Corpus, Layers and a Working Chronology — [CORE PRELIMS + CORE MAINS]: The Rig Veda is the earliest Vedic corpus and a rich historical source because it preserves language, ritual, social terms and remembered geography.",
+      "mechanism": "The Rig Veda is the earliest Vedic corpus and a rich historical source because it preserves language, ritual, social terms and remembered geography.",
+      "consequence": "Historical interpretation must therefore identify a broad pattern and admit the corpus's genre and layering.",
+      "trap": "It was orally composed and transmitted, and its hymns do not all perform the same historical work.",
+      "answer": "The Rig Veda is the earliest Vedic corpus and a rich historical source because it preserves language, ritual, social terms and remembered geography."
+    },
+    {
+      "title": "DEEP TEACHING UNIT 2: GEOGRAPHY AS A NORTH-WESTERN TEXTUAL MILIEU — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Deep Teaching Unit 2: Geography as a North-Western Textual Milieu — [CORE PRELIMS + CORE MAINS]: A map question is solved by matching Vedic name, modern river and broad north-west zone.",
+      "mechanism": "A map question is solved by matching Vedic name, modern river and broad north-west zone.",
+      "consequence": "It does not mean every name has a fully settled modern identification, or that a river reference fixes the date of the whole corpus.",
+      "trap": "It does not mean every name has a fully settled modern identification, or that a river reference fixes the date of the whole corpus.",
+      "answer": "Rigvedic river and ecological references place much of the early Vedic textual world in the north-west, around the Indus system and its tributaries."
+    },
+    {
+      "title": "DEEP TEACHING UNIT 3: KINSHIP, RAJAN AND ASSEMBLIES — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Deep Teaching Unit 3: Kinship, Rajan and Assemblies — [CORE PRELIMS + CORE MAINS]: Purohita and senani show limited functional differentiation; gramani is a useful local-leadership term.",
+      "mechanism": "Rigvedic political vocabulary points to a society organised through household, lineage, clan and tribe rather than a fully territorial state.",
+      "consequence": "Sabha, samiti and vidatha indicate collective or participatory arenas, but should not be called modern parliaments or democracies.",
+      "trap": "Rigvedic political vocabulary points to a society organised through household, lineage, clan and tribe rather than a fully territorial state.",
+      "answer": "Rigvedic political vocabulary points to a society organised through household, lineage, clan and tribe rather than a fully territorial state."
+    },
+    {
+      "title": "DEEP TEACHING UNIT 4: THE CATTLE-AGRICULTURE ECONOMY LOOP — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Deep Teaching Unit 4: The Cattle-Agriculture Economy Loop — [CORE PRELIMS + CORE MAINS]: The historical distinction is one of relative emphasis, not a false choice between herders and farmers.",
+      "mechanism": "Cattle were central to wealth, gift, warfare and elite value; terms such as gomat and cattle-search/raid language make this visible.",
+      "consequence": "At the same time, ploughing, sowing, harvesting, threshing, wells and draught animals show mixed agro-pastoral livelihoods.",
+      "trap": "“Pastoral predominance” does not mean agriculture was absent.",
+      "answer": "“Pastoral predominance” does not mean agriculture was absent."
+    },
+    {
+      "title": "DEEP TEACHING UNIT 5: SOCIAL DIFFERENTIATION WITHOUT LATER CASTE PROJECTION — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Deep Teaching Unit 5: Social Differentiation without Later Caste Projection — [CORE PRELIMS + CORE MAINS]: A balanced answer says “differentiation was visible; later hereditary rigidity must not be backward-projected.” This is safer than both romantic equality and premature caste-state claims.",
+      "mechanism": "Chiefly, priestly and warrior status mattered, alongside household and lineage.",
+      "consequence": "Dasa and dasyu, arya and varna references occur in contexts of ritual, conflict, language, politics and social boundary-making.",
+      "trap": "They cannot be reduced to fixed biological races or directly equated with later jati hierarchy.",
+      "answer": "Rigvedic society was neither egalitarian nor the fully elaborated later varna/caste order."
+    },
+    {
+      "title": "DEEP TEACHING UNIT 6: DEITIES, RITA, YAJNA AND SOMA AS A FUNCTIONAL WORLDVIEW — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Deep Teaching Unit 6: Deities, Rita, Yajna and Soma as a Functional Worldview — [CORE PRELIMS + CORE MAINS]: Rigvedic religion is best learned through functions, not an exhaustive god list.",
+      "mechanism": "Rigvedic religion is best learned through functions, not an exhaustive god list.",
+      "consequence": "Yajna brings ritual, priestly skill, patronage and exchange together; soma is a major ritual substance.",
+      "trap": "Rigvedic religion is best learned through functions, not an exhaustive god list.",
+      "answer": "Rigvedic religion is best learned through functions, not an exhaustive god list."
+    },
+    {
+      "title": "DEEP TEACHING UNIT 7: EARLY-TO-LATER VEDIC CHANGE AND THE ANSWER SPINE — [CORE PRELIMS + CORE MAINS]",
+      "terms": "Deep Teaching Unit 7: Early-to-Later Vedic Change and the Answer Spine — [CORE PRELIMS + CORE MAINS]: The Early-Later comparison is a change-over-time tool, not a claim that one world vanished overnight.",
+      "mechanism": "A sound answer therefore identifies a trend and gives a continuity.",
+      "consequence": "A sound answer therefore identifies a trend and gives a continuity.",
+      "trap": "The Early-Later comparison is a change-over-time tool, not a claim that one world vanished overnight.",
+      "answer": "The Early-Later comparison is a change-over-time tool, not a claim that one world vanished overnight."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 3,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7760,
+      "y_end": 9960,
+      "overlap_px": 260,
+      "from_stage": 9,
+      "continues_stage": 12
+    },
+    {
+      "page": 6,
+      "y_start": 9700,
+      "y_end": 11900,
+      "overlap_px": 260,
+      "from_stage": 11,
+      "continues_stage": 14
+    },
+    {
+      "page": 7,
+      "y_start": 11640,
+      "y_end": 13840,
+      "overlap_px": 260,
+      "from_stage": 14,
+      "continues_stage": 16
+    },
+    {
+      "page": 8,
+      "y_start": 13580,
+      "y_end": 15780,
+      "overlap_px": 260,
+      "from_stage": 16,
+      "continues_stage": 18
+    },
+    {
+      "page": 9,
+      "y_start": 15520,
+      "y_end": 17720,
+      "overlap_px": 260,
+      "from_stage": 18,
+      "continues_stage": 20
+    },
+    {
+      "page": 10,
+      "y_start": 17460,
+      "y_end": 19660,
+      "overlap_px": 260,
+      "from_stage": 20,
+      "continues_stage": 23
+    },
+    {
+      "page": 11,
+      "y_start": 19400,
+      "y_end": 21600,
+      "overlap_px": 260,
+      "from_stage": 22,
+      "continues_stage": 25
+    },
+    {
+      "page": 12,
+      "y_start": 21340,
+      "y_end": 23540,
+      "overlap_px": 260,
+      "from_stage": 24,
+      "continues_stage": 27
+    },
+    {
+      "page": 13,
+      "y_start": 23280,
+      "y_end": 25480,
+      "overlap_px": 260,
+      "from_stage": 27,
+      "continues_stage": 29
+    },
+    {
+      "page": 14,
+      "y_start": 23747,
+      "y_end": 25947,
+      "overlap_px": 260,
+      "from_stage": 27,
+      "continues_stage": 29
+    }
+  ]
+}

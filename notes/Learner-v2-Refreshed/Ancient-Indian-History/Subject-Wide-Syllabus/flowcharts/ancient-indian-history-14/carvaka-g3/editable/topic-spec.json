@@ -1,0 +1,1070 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ancient-indian-history-14",
+  "subject": "Ancient-Indian-History",
+  "title": "THE MAURYAN EMPIRE",
+  "short_route": "MAURYAN SOURCE HIERARCHY → DYNASTIC CHRONOLOGY AND RULER → IMPERIAL GEOGRAPHY: SCALE WITH → ADMINISTRATIVE CHAIN AND LOCAL → REVENUE, ARMY AND POLITICAL → ASHOKAN INSCRIPTIONAL COMMUNICATION",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g3\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ancient-indian-history-14-deep-review-2026-08-30-g3.json",
+  "ascii_spec_sha256": "d7318f6e0bb8fdeb50f785990aa99064292014fd5757d15ef68cb091d11f214c",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "MAURYAN SOURCE HIERARCHY",
+      "structural_type": "evidence-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MAURYAN SOURCE HIERARCHY",
+          "role": "evidence"
+        },
+        {
+          "text": "ASHOKAN EDICTS",
+          "role": "outcome"
+        },
+        {
+          "text": "ROYAL VOICE, COMMAND AND SELF-PRESENTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "SITES, PILLARS, CAVES, COINS",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTEXT, CRAFT AND CIRCULATION",
+          "role": "primary"
+        },
+        {
+          "text": "MEGASTHENES VIA LATER AUTHORS",
+          "role": "outcome"
+        },
+        {
+          "text": "COURT AND ETHNOGRAPHIC REPORTS",
+          "role": "institution"
+        },
+        {
+          "text": "STATECRAFT POSSIBILITIES, NOT A MAURYAN MANUAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CONTEMPORARY: Ashokan edicts → royal voice, command and self-presentation",
+        "MATERIAL: sites, pillars, caves, coins → context, craft and circulation",
+        "FRAGMENTARY: Megasthenes via later authors → court and ethnographic reports",
+        "NORMATIVE: Arthashastra → statecraft possibilities, not a Mauryan manual",
+        "TRADITION: Buddhist, Jaina, Puranic accounts → dynastic and religious memory"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "CONTEMPORARY: Ashokan edicts → royal voice, command and self-presentation",
+            "MATERIAL: sites, pillars, caves, coins → context, craft and circulation"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "FRAGMENTARY: Megasthenes via later authors → court and ethnographic reports",
+            "NORMATIVE: Arthashastra → statecraft possibilities, not a Mauryan manual"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "TRADITION: Buddhist, Jaina, Puranic accounts → dynastic and religious memory",
+            "Strong claim = convergence across source classes + stated audience and limit."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Strong claim = convergence across source classes + stated audience and limit.",
+      "source_references": [
+        "Source hierarchy",
+        "Evidence labels",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\14_Mauryan-Empire.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\14_Mauryan-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g3\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DYNASTIC CHRONOLOGY AND RULER DIFFERENTIATION",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "DYNASTIC CHRONOLOGY AND RULER DIFFERENTIATION",
+          "role": "primary"
+        },
+        {
+          "text": "C. 324/321 BCE CHANDRAGUPTA",
+          "role": "outcome"
+        },
+        {
+          "text": "FOUNDATION AFTER NANDAS C. 305-301 BCE SELEUCUS CONFLICT AND",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTINUITY, LIMITED DIRECT EVIDENCE C. 268/273-232 ASHOKA",
+          "role": "evidence"
+        },
+        {
+          "text": "INSCRIPTIONS, KALINGA AND DHAMMA",
+          "role": "primary"
+        },
+        {
+          "text": "232-C. 187/185 LATER MAURYAS; EVIDENCE BECOMES THIN",
+          "role": "evidence"
+        },
+        {
+          "text": "ACCESSION AND CONSECRATION DATES CAN DIFFER.",
+          "role": "comparison"
+        },
+        {
+          "text": "KALINGA FOLLOWED EIGHT COMPLETED YEARS AFTER CONSECRATION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "324/321 BCE Chandragupta: foundation after Nandas c.",
+        "305-301 BCE Seleucus conflict and treaty tradition c.",
+        "300/297-273 Bindusara: continuity, limited direct evidence c.",
+        "268/273-232 Ashoka: inscriptions, Kalinga and dhamma",
+        "232-c. 187/185 Later Mauryas; evidence becomes thin"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "324/321 BCE Chandragupta: foundation after Nandas c.",
+            "305-301 BCE Seleucus conflict and treaty tradition c.",
+            "300/297-273 Bindusara: continuity, limited direct evidence c."
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "268/273-232 Ashoka: inscriptions, Kalinga and dhamma",
+            "232-c. 187/185 Later Mauryas; evidence becomes thin",
+            "Accession and consecration dates can differ."
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "Kalinga followed eight completed years after consecration.",
+            "Do not convert alternative chronologies into one false exact sequence."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Do not convert alternative chronologies into one false exact sequence.",
+      "source_references": [
+        "Chronology method",
+        "Ruler differentiation",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\14_Mauryan-Empire.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\14_Mauryan-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g3\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "IMPERIAL GEOGRAPHY: SCALE WITH DIFFERENTIATED CONTROL",
+      "structural_type": "spatial-system",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "IMPERIAL GEOGRAPHY",
+          "role": "primary"
+        },
+        {
+          "text": "SCALE WITH DIFFERENTIATED CONTROL",
+          "role": "outcome"
+        },
+        {
+          "text": "GANGA CORE",
+          "role": "comparison"
+        },
+        {
+          "text": "WESTERN ROUTES",
+          "role": "evidence"
+        },
+        {
+          "text": "SOUTHERN ZONE",
+          "role": "primary"
+        },
+        {
+          "text": "EDICT DISTRIBUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMUNICATION REACH, NOT A CADASTRAL FRONTIER",
+          "role": "caution"
+        },
+        {
+          "text": "CORE + PROVINCES + FRONTIERS + ALLIED/PERIPHERAL ZONES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PATALIPUTRA / GANGA CORE",
+        "Taxila / north-west",
+        "Ujjain / western routes",
+        "Tosali / Kalinga",
+        "Suvarnagiri / southern zone"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "PATALIPUTRA / GANGA CORE",
+            "Taxila / north-west",
+            "Ujjain / western routes"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Tosali / Kalinga",
+            "Suvarnagiri / southern zone",
+            "EDICT DISTRIBUTION → communication reach, not a cadastral frontier"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CORE + PROVINCES + FRONTIERS + ALLIED/PERIPHERAL ZONES",
+            "Virtually subcontinental ambition coexisted with uneven administrative depth."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Virtually subcontinental ambition coexisted with uneven administrative depth.",
+      "source_references": [
+        "Territorial extent",
+        "Differentiated empire",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\14_Mauryan-Empire.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\14_Mauryan-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g3\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ADMINISTRATIVE CHAIN AND LOCAL MEDIATION",
+      "structural_type": "institution-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ADMINISTRATIVE CHAIN AND LOCAL MEDIATION",
+          "role": "primary"
+        },
+        {
+          "text": "KING AND CENTRAL COURT PRINCES",
+          "role": "institution"
+        },
+        {
+          "text": "PROVINCIAL CENTRES MAHAMATTAS",
+          "role": "comparison"
+        },
+        {
+          "text": "YUKTAS LOCAL OFFICIALS, HOUSEHOLDERS, GUILDS AND COMMUNITIES",
+          "role": "evidence"
+        },
+        {
+          "text": "HIERARCHY ENABLED SCALE; INTERMEDIARIES CREATED ADAPTATION AND INFORMATION GAPS.",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "KING AND CENTRAL COURT princes / provincial centres mahamattas → pradeshikas → rajukas → yuktas",
+        "Hierarchy enabled scale; intermediaries created adaptation and information gaps."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "KING AND CENTRAL COURT princes / provincial centres mahamattas → pradeshikas → rajukas → yuktas local officials, householders, guilds and communities",
+            "Hierarchy enabled scale; intermediaries created adaptation and information gaps."
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "KING AND CENTRAL COURT princes / provincial centres mahamattas → pradeshikas → rajukas → yuktas local officials, householders, guilds and communities",
+            "Hierarchy enabled scale; intermediaries created adaptation and information gaps."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "KING AND CENTRAL COURT princes / provincial centres mahamattas → pradeshikas → rajukas → yuktas local officials, householders, guilds and communities",
+            "Hierarchy enabled scale; intermediaries created adaptation and information gaps."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Hierarchy enabled scale; intermediaries created adaptation and information gaps.",
+      "source_references": [
+        "Central and provincial administration",
+        "Officials",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\14_Mauryan-Empire.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\14_Mauryan-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g3\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "REVENUE, ARMY AND POLITICAL ECONOMY",
+      "structural_type": "causal-cycle",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "REVENUE, ARMY AND POLITICAL ECONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "AGRICULTURE + TRADE + MINES/FORESTS + DUES",
+          "role": "outcome"
+        },
+        {
+          "text": "REVENUE ARMY + OFFICIALS + ROADS + RESERVOIRS +",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTHASHASTRA DETAIL IS PRESCRIPTIVE; ACTUAL RATES AND CONTROL VARIED.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AGRICULTURE + TRADE + MINES/FORESTS + DUES",
+        "REVENUE army + officials + roads + reservoirs + royal establishments security and integration can",
+        "CAUTION: Arthashastra detail is prescriptive; actual rates and control varied."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "AGRICULTURE + TRADE + MINES/FORESTS + DUES",
+            "REVENUE army + officials + roads + reservoirs + royal establishments security and integration can enlarge production and exchange"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Arthashastra detail is prescriptive; actual rates and control varied.",
+            "AGRICULTURE + TRADE + MINES/FORESTS + DUES"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "REVENUE army + officials + roads + reservoirs + royal establishments security and integration can enlarge production and exchange",
+            "CAUTION: Arthashastra detail is prescriptive; actual rates and control varied."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION: Arthashastra detail is prescriptive; actual rates and control varied.",
+      "source_references": [
+        "Political economy",
+        "Revenue and army",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\14_Mauryan-Empire.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\14_Mauryan-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g3\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ASHOKAN INSCRIPTIONAL COMMUNICATION",
+      "structural_type": "communication-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ASHOKAN INSCRIPTIONAL COMMUNICATION",
+          "role": "primary"
+        },
+        {
+          "text": "ROYAL MESSAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "MAJOR ROCK EDICTS",
+          "role": "comparison"
+        },
+        {
+          "text": "BROAD POLICY AND DHAMMA",
+          "role": "evidence"
+        },
+        {
+          "text": "MINOR ROCK EDICTS",
+          "role": "primary"
+        },
+        {
+          "text": "PERSONAL RELIGIOUS COMMITMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "PILLAR EDICTS",
+          "role": "comparison"
+        },
+        {
+          "text": "MATURE GOVERNANCE AND DHAMMA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROYAL MESSAGE",
+        "Major Rock Edicts: broad policy and dhamma",
+        "Minor Rock Edicts: personal religious commitment",
+        "Pillar Edicts: mature governance and dhamma",
+        "Separate Kalinga Edicts: provincial justice and confidence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ROYAL MESSAGE",
+            "Major Rock Edicts: broad policy and dhamma",
+            "Minor Rock Edicts: personal religious commitment"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Pillar Edicts: mature governance and dhamma",
+            "Separate Kalinga Edicts: provincial justice and confidence",
+            "Cave/dedication records: patronage"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Prakrit-Brahmi predominates; Kharosthi, Greek and Aramaic mark adaptation.",
+            "An edict proves communication effort, not uniform reception or enforcement."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "An edict proves communication effort, not uniform reception or enforcement.",
+      "source_references": [
+        "Ashokan inscriptions",
+        "Regional communication",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\14_Mauryan-Empire.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\14_Mauryan-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g3\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DHAMMA: ETHICAL GOVERNANCE AND IMPERIAL MECHANISM",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ETHICAL GOVERNANCE AND IMPERIAL MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "DIVERSE EMPIRE + SOCIAL CONFLICT + ROYAL PATERNALISM RESPECT",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT A CONSTITUTION, COMPULSORY CONVERSION OR ABANDONMENT OF BUDDHISM.",
+          "role": "caution"
+        },
+        {
+          "text": "+ SELF-CONTROL DHAMMA-MAHAMATTAS + TOURS + EDICTS + ORAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DIVERSE EMPIRE + SOCIAL CONFLICT + ROYAL PATERNALISM respect for elders + non-injury + sectarian",
+        "+ self-control dhamma-mahamattas + tours + edicts + oral proclamation ethical legitimation and social concord",
+        "LIMIT: not a constitution, compulsory conversion or abandonment of Buddhism."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "DIVERSE EMPIRE + SOCIAL CONFLICT + ROYAL PATERNALISM respect for elders + non-injury + sectarian restraint + welfare",
+            "+ self-control dhamma-mahamattas + tours + edicts + oral proclamation ethical legitimation and social concord within continuing monarchy"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "LIMIT: not a constitution, compulsory conversion or abandonment of Buddhism.",
+            "DIVERSE EMPIRE + SOCIAL CONFLICT + ROYAL PATERNALISM respect for elders + non-injury + sectarian restraint + welfare"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "+ self-control dhamma-mahamattas + tours + edicts + oral proclamation ethical legitimation and social concord within continuing monarchy",
+            "LIMIT: not a constitution, compulsory conversion or abandonment of Buddhism."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: not a constitution, compulsory conversion or abandonment of Buddhism.",
+      "source_references": [
+        "Dhamma",
+        "Political ethics",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\14_Mauryan-Empire.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\14_Mauryan-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g3\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "KALINGA: REMORSE WITHOUT DISAPPEARANCE OF COERCION",
+      "structural_type": "debate-evidence-verdict",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "REMORSE WITHOUT DISAPPEARANCE OF COERCION",
+          "role": "primary"
+        },
+        {
+          "text": "KALINGA WAR",
+          "role": "outcome"
+        },
+        {
+          "text": "DEATHS, DEPORTATION AND SUFFERING IN ROCK EDICT XIII REMORSE",
+          "role": "comparison"
+        },
+        {
+          "text": "ETHICAL REORIENTATION CONSTRAINED CONQUEST; IT DID NOT DISSOLVE THE",
+          "role": "caution"
+        },
+        {
+          "text": "KALINGA DID NOT CAUSE AN INSTANT FIRST CONVERSION TO",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "KALINGA WAR → deaths, deportation and suffering in Rock Edict XIII remorse +",
+        "preference for dhamma-vijaya yet army, punishment, capital penalty and forest warning remain",
+        "VERDICT: ethical reorientation constrained conquest; it did not dissolve the state.",
+        "TRAP: Kalinga did not cause an instant first conversion to Buddhism."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "KALINGA WAR → deaths, deportation and suffering in Rock Edict XIII remorse +",
+            "preference for dhamma-vijaya yet army, punishment, capital penalty and forest warning remain"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "VERDICT: ethical reorientation constrained conquest; it did not dissolve the state.",
+            "TRAP: Kalinga did not cause an instant first conversion to Buddhism."
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "KALINGA WAR → deaths, deportation and suffering in Rock Edict XIII remorse +",
+            "preference for dhamma-vijaya yet army, punishment, capital penalty and forest warning remain"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: ethical reorientation constrained conquest; it did not dissolve the state.",
+      "answer_line": "Kalinga did not cause an instant first conversion to Buddhism.",
+      "source_references": [
+        "Kalinga war",
+        "Coercion and dhamma",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\14_Mauryan-Empire.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\14_Mauryan-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g3\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "MAURYAN ART AND MONUMENTAL STATECRAFT",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MAURYAN ART AND MONUMENTAL STATECRAFT",
+          "role": "primary"
+        },
+        {
+          "text": "MONOLITHIC SHAFTS + POLISHED STONE + ANIMAL CAPITALS +",
+          "role": "outcome"
+        },
+        {
+          "text": "ASHOKAN CORES LATER ENLARGED AND EMBELLISHED",
+          "role": "comparison"
+        },
+        {
+          "text": "BARABAR PATRONAGE AND POLISHED INTERIORS",
+          "role": "evidence"
+        },
+        {
+          "text": "PATALIPUTRA AND KUMHRAR EVIDENCE WITH DATING/FUNCTION CAUTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "POPULAR ART",
+          "role": "outcome"
+        },
+        {
+          "text": "TERRACOTTAS AND LARGE STONE FIGURES WITH DISPUTED LABELS",
+          "role": "comparison"
+        },
+        {
+          "text": "ACHAEMENID/HELLENISTIC COMPARISONS + DISTINCTIVE MAURYAN TRANSFORMATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PILLARS: monolithic shafts + polished stone + animal capitals + inscriptions",
+        "STUPAS: Ashokan cores later enlarged and embellished",
+        "CAVES: Barabar patronage and polished interiors",
+        "PALACE/CITY: Pataliputra and Kumhrar evidence with dating/function cautions",
+        "POPULAR ART: terracottas and large stone figures with disputed labels"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "PILLARS: monolithic shafts + polished stone + animal capitals + inscriptions",
+            "STUPAS: Ashokan cores later enlarged and embellished",
+            "CAVES: Barabar patronage and polished interiors"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "PALACE/CITY: Pataliputra and Kumhrar evidence with dating/function cautions",
+            "POPULAR ART: terracottas and large stone figures with disputed labels",
+            "INFLUENCE: Achaemenid/Hellenistic comparisons + distinctive Mauryan transformation"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Monuments communicated power, patronage and dhamma across selected landscapes.",
+            "Date every layer separately; visible monuments are often multi-period."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Date every layer separately; visible monuments are often multi-period.",
+      "source_references": [
+        "Art and architecture",
+        "Monumental communication",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\14_Mauryan-Empire.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\14_Mauryan-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g3\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "EXTERNAL RELATIONS AND FRONTIER DIPLOMACY",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "EXTERNAL RELATIONS AND FRONTIER DIPLOMACY",
+          "role": "primary"
+        },
+        {
+          "text": "CHANDRAGUPTA <→ SELEUCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "CONFLICT, TREATY AND DIPLOMATIC TRADITION",
+          "role": "comparison"
+        },
+        {
+          "text": "MAURYAN COURT OBSERVATION THROUGH LATER QUOTATIONS",
+          "role": "institution"
+        },
+        {
+          "text": "HELLENISTIC DIPLOMATIC TRADITIONS WITH THIN EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "NAMED HELLENISTIC KINGS IN EDICTAL MORAL GEOGRAPHY",
+          "role": "outcome"
+        },
+        {
+          "text": "GREEK AND ARAMAIC INSCRIPTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "CHOLAS, PANDYAS AND OTHERS NAMED BEYOND DIRECT CORE RULE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CHANDRAGUPTA <→ SELEUCUS: conflict, treaty and diplomatic tradition",
+        "MEGASTHENES → Mauryan court observation through later quotations",
+        "BINDUSARA → Hellenistic diplomatic traditions with thin evidence",
+        "ASHOKA → named Hellenistic kings in edictal moral geography",
+        "NORTH-WEST → Greek and Aramaic inscriptions"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CHANDRAGUPTA <→ SELEUCUS: conflict, treaty and diplomatic tradition",
+            "MEGASTHENES → Mauryan court observation through later quotations",
+            "BINDUSARA → Hellenistic diplomatic traditions with thin evidence"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "ASHOKA → named Hellenistic kings in edictal moral geography",
+            "NORTH-WEST → Greek and Aramaic inscriptions",
+            "SOUTH/FRONTIERS → Cholas, Pandyas and others named beyond direct core rule"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Diplomacy joined military security, trade routes and royal prestige.",
+            "Do not turn named neighbours into proven annexed provinces."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SOUTH/FRONTIERS → Cholas, Pandyas and others named beyond direct core rule.",
+      "source_references": [
+        "Foreign relations",
+        "Seleucid treaty",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\14_Mauryan-Empire.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\14_Mauryan-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g3\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CENTRALISATION DEBATE AND ARTHASHASTRA TRAP",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CENTRALISATION DEBATE AND ARTHASHASTRA TRAP",
+          "role": "caution"
+        },
+        {
+          "text": "STRONG CENTRAL MODEL DIFFERENTIATED MODEL LARGE ARMY AND OFFICER",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTHASHASTRA POSSIBILITIES ARCHAEOLOGY AND REGIONAL VARIATION",
+          "role": "evidence"
+        },
+        {
+          "text": "SELECTIVE HIGH CAPACITY AT STRATEGIC NODES, UNEVEN DEPTH ELSEWHERE.",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTHASHASTRA SHARPENS QUESTIONS; IT CANNOT BE COPIED AS AN",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "STRONG CENTRAL MODEL DIFFERENTIATED MODEL large army and officer lists distance",
+        "and slow communication revenue and royal commands provinces and local intermediaries",
+        "Arthashastra possibilities archaeology and regional variation",
+        "Selective high capacity at strategic nodes, uneven depth elsewhere.",
+        "Arthashastra sharpens questions; it cannot be copied as an organisation chart."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "STRONG CENTRAL MODEL DIFFERENTIATED MODEL large army and officer lists distance",
+          "Arthashastra possibilities archaeology and regional variation",
+          "Arthashastra sharpens questions; it cannot be copied as an organisation chart."
+        ],
+        [
+          "and slow communication revenue and royal commands provinces and local intermediaries",
+          "Selective high capacity at strategic nodes, uneven depth elsewhere.",
+          "STRONG CENTRAL MODEL DIFFERENTIATED MODEL large army and officer lists distance"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "STRONG CENTRAL MODEL DIFFERENTIATED MODEL large army and officer lists distance",
+            "and slow communication revenue and royal commands provinces and local intermediaries"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Arthashastra possibilities archaeology and regional variation",
+            "Selective high capacity at strategic nodes, uneven depth elsewhere."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Arthashastra sharpens questions; it cannot be copied as an organisation chart.",
+            "STRONG CENTRAL MODEL DIFFERENTIATED MODEL large army and officer lists distance"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Arthashastra sharpens questions; it cannot be copied as an organisation chart.",
+      "source_references": [
+        "Historiography",
+        "Centralisation debate",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\14_Mauryan-Empire.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\14_Mauryan-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g3\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "EXAMINER-READY MAURYAN ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EXAMINER-READY MAURYAN ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE THE EMPIRE THROUGH SOURCE PLURALITY AND DIFFERENTIATED SCALE.",
+          "role": "evidence"
+        },
+        {
+          "text": "BODY 1",
+          "role": "comparison"
+        },
+        {
+          "text": "RULERS, CHRONOLOGY AND GEOGRAPHY",
+          "role": "evidence"
+        },
+        {
+          "text": "BODY 2",
+          "role": "primary"
+        },
+        {
+          "text": "ADMINISTRATION, REVENUE, ARMY AND LOCAL MEDIATION",
+          "role": "outcome"
+        },
+        {
+          "text": "BODY 3",
+          "role": "comparison"
+        },
+        {
+          "text": "ASHOKAN INSCRIPTIONS, KALINGA AND DHAMMA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INTRO: define the empire through source plurality and differentiated scale.",
+        "BODY 1: rulers, chronology and geography",
+        "BODY 2: administration, revenue, army and local mediation",
+        "BODY 3: Ashokan inscriptions, Kalinga and dhamma",
+        "BODY 4: art, economy, external relations and regional variation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "INTRO: define the empire through source plurality and differentiated scale.",
+            "BODY 1: rulers, chronology and geography",
+            "BODY 2: administration, revenue, army and local mediation"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "BODY 3: Ashokan inscriptions, Kalinga and dhamma",
+            "BODY 4: art, economy, external relations and regional variation",
+            "COUNTER: source bias, Arthashastra limits and intention-versus-practice gap"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CONCLUSION: unprecedented scale and communication, but not uniform control.",
+            "WRITE: claim → edict/site/text → mechanism → qualification."
+          ]
+        }
+      ],
+      "mechanism_strip": "WRITE: claim → edict/site/text → mechanism → qualification.",
+      "answer_line": "unprecedented scale and communication, but not uniform control.",
+      "source_references": [
+        "Mains answer architecture",
+        "Consolidated register notes",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\14_Mauryan-Empire.md",
+        "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\14_Mauryan-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-14\\g3\\ancient-indian-history-14_Complete-Learning-Session_2026-08-30.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "outcome"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "evidence"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "primary"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "comparison"
+        },
+        {
+          "text": "7. MAINS ANGLES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data",
+            "3. Study links"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link",
+            "7. Mains angles"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "The Mauryas established an empire over almost the entire subcontinent and beyond it in the north-west.",
+            "Ashoka's inscriptions are a major source, but they primarily discuss Dhamma and only incidentally administration.",
+            "Ashoka's Dhamma was rooted in his personal Buddhist faith but functioned as an imperial ideology with his strong personal stamp.",
+            "He made dhamma/dharma a central political and social issue, not merely a religious term."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

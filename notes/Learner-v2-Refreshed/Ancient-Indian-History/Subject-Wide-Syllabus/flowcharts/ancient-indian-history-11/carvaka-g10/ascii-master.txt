@@ -1,0 +1,342 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Mahajanapadas (large territorial polities) & Rise of Magadha: central question and…
+
+```ascii-master
+MAHAJANAPADAS (LARGE TERRITORIAL POLITIES) & RISE OF MAGADHA — CONCEPTUAL ATLAS
+
+
+KEY TERMS: Chronology • A Long Transition • Not A Single Event In 600 Bce • CHRONOLOGY: A
+KEY TERMS: LONG TRANSITION, NOT A… • Ganas • Sanghas
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Mahajanapadas (large territorial polities) & Rise of…
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       The mahajanapada age is a heuristic phase within the early historic…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: CHRONOLOGY: A LONG TRANSITION, NOT A SINGLE EVENT IN 600 BCE
+  • Chronology
+  • Wrong: Every janapada became a mahajanapada through the same…
+AXIS 2: GANAS AND SANGHAS: ASSEMBLIES, OLIGARCHIC POWER AND SOCIAL LIMITS
+  • Ganas
+  • TEXTUAL FACT: Ashtadhyayi and Majjhima Nikaya use gana and sangha…
+AXIS 3: IRON, ELEPHANTS, FORESTS AND THE RESOURCE-MONOPOLY DEBATE
+  • Iron
+  • FOREST FACTOR: adjoining forests supplied timber and elephants
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  Chronology • A Long Transition • Not A Single Event In 600 Bce • CHRONOLOGY: A LONG
+  TRANSITION, NOT A…
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Chronology, territorial map and the sixteen Mahajanapadas
+
+```ascii-master
+CHRONOLOGY, TERRITORIAL MAP AND THE SIXTEEN MAHAJANAPADAS
+
+
+KEY TERMS: Chronology • A Long Transition • Not A Single Event In 600 Bce • CHRONOLOGY: A
+KEY TERMS: LONG TRANSITION, NOT A… • From Jana To Janapada To Mahajanapada • Territoriality
+KEY TERMS: Without Teleology
+STAGE 01  CHRONOLOGY: A LONG TRANSITION, NOT A SINGLE EVENT IN 600 BCE
+  ├─ CONDITION / TERM: The mahajanapada age is a heuristic phase within the early
+  ├─ CONDITION / TERM: historic…
+  ├─ CHANGE / MECHANISM: Wrong: Every janapada became a mahajanapada through the
+  ├─ CHANGE / MECHANISM: same stages
+  └─ OUTCOME: The arrows show interacting processes
+                  │
+                  ▼
+STAGE 02  FROM JANA TO JANAPADA TO MAHAJANAPADA: TERRITORIALITY WITHOUT…
+  ├─ CONDITION / TERM: TEXTUAL FACT: Panini refers to several janapadas
+  ├─ CHANGE / MECHANISM: INTERPRETATION: the decisive change was not simply size,
+  ├─ CHANGE / MECHANISM: but a…
+  └─ OUTCOME: VARIATION: Kuru and Panchala had Later Vedic antecedents
+                  │
+                  ▼
+STAGE 03  THE SIXTEEN MAHAJANAPADAS: CONVENTIONAL LIST AND TEXTUAL VARIATION
+  ├─ CONDITION / TERM: The famous sixteen are best treated as a conventional
+  ├─ CONDITION / TERM: Buddhist list…
+  ├─ CHANGE / MECHANISM: The famous sixteen are best treated as a conventional
+  ├─ CHANGE / MECHANISM: Buddhist list…
+  └─ OUTCOME: TEXTUAL FACT: the Jain Bhagavati Sutra offers a significantly…
+                  │
+                  ▼
+STAGE 04  TEXT MAP: THE POLITICAL GEOGRAPHY OF THE MAHAJANAPADA SYSTEM
+  ├─ CONDITION / TERM: The political map is best remembered as connected
+  ├─ CONDITION / TERM: corridors—from Gandhara-Kamboja through the upper and
+  ├─ CONDITION / TERM: middle Ganga…
+  ├─ CHANGE / MECHANISM: The Political Geography Of The Mahajanapada System
+  └─ OUTCOME: A map answer should show corridors and river basins, not isolated…
+                  │
+                  ▼
+STAGE 05  MAJOR MONARCHIES: MAGADHA, KOSALA, VATSA AND AVANTI
+  ├─ CONDITION / TERM: Magadha, Kosala, Vatsa and Avanti formed a competitive
+  ├─ CONDITION / TERM: four-power…
+  ├─ CHANGE / MECHANISM: Kosala, Vatsa, Avanti and Magadha are consistently
+  ├─ CHANGE / MECHANISM: identified as…
+  └─ OUTCOME: Their relative power changed through conquest, marriage, route…
+                  │
+                  ▼
+STAGE 06  EASTERN POLITIES: KASHI, ANGA, VAJJI AND MALLA
+  ├─ CONDITION / TERM: VAJJI: confederacy north of the Ganga, including
+  ├─ CONDITION / TERM: Licchhavis…
+  ├─ CHANGE / MECHANISM: VAJJI: confederacy north of the Ganga, including
+  ├─ CHANGE / MECHANISM: Licchhavis…
+  └─ OUTCOME: Vaishali's oligarchic institutions should not be translated as…
+                  │
+                  ▼
+SEQUENCE CONTROL: chronology is evidence-led, not a bare dynasty/date list.
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: State capacity, monarchy, gana-sangha and second urbanisation
+
+```ascii-master
+STATE CAPACITY, MONARCHY, GANA-SANGHA AND SECOND URBANISATION
+
+
+KEY TERMS: Upper-Plain • Central • North-Western • Trans-Vindhyan Profiles • UPPER-PLAIN,
+KEY TERMS: CENTRAL, NORTH-WESTERN AND… • Interacting Capacities Rather Than One…
+CAUSE / CONDITION 1: KAMBOJA: adjoining north-western/highland frontier
+          │
+          ├── MECHANISM
+          │   The remaining mahajanapadas prevent an east-Ganga-only story
+          │
+          └── EFFECT / CONTRAST
+              The Buddhist Assaka/Ashmaka is safely associated with the Godavari…
+          │
+          ▼
+CAUSE / CONDITION 2: State capacity emerged from feedback among production…
+          │
+          ├── MECHANISM
+          │   State capacity emerged from feedback among production, extraction…
+          │
+          └── EFFECT / CONTRAST
+              Coercion and consent/legitimation were complementary, not mutually…
+          │
+          ▼
+CAUSE / CONDITION 3: Texts suggest courts, high officials, village headmen…
+          │
+          ├── MECHANISM
+          │   Texts suggest courts, high officials, village headmen, treasuries…
+          │
+          └── EFFECT / CONTRAST
+              Early monarchies were more than a king but less than a fully…
+          │
+          ▼
+CAUSE / CONDITION 4: Buddhist monastic procedure may be analogous to, but is not…
+          │
+          ├── MECHANISM
+          │   TEXTUAL FACT: Ashtadhyayi and Majjhima Nikaya use gana and sangha…
+          │
+          └── EFFECT / CONTRAST
+              Buddhist monastic procedure may be analogous to, but is not…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Cities, crafts, coins, agrarian surplus and the Shramana setting
+
+```ascii-master
+CITIES, CRAFTS, COINS, AGRARIAN SURPLUS AND THE SHRAMANA SETTING
+│
+
+KEY TERMS: Cities • Fortifications • Rajagriha • Kaushambi • Vaishali • Champa
+├── KEY CONCEPTS
+│   ├── Cities
+│   ├── Fortifications
+│   ├── Rajagriha
+│   ├── Kaushambi
+│   └── Vaishali
+│
+├── CITIES AND FORTIFICATIONS: RAJAGRIHA, KAUSHAMBI, VAISHALI AND…
+│   ├─ TERMS: RAJAGRIHA: old city nestled among hills with massive stone…
+│   ├─ LOGIC: TEXTUAL FACT: Pali categories distinguish pura, nagara, nigama…
+│   └─ RESULT: Fortifications demonstrate organised labour and security concerns…
+├── CRAFTS, CORPORATE ORGANISATION, TRADE ROUTES AND URBAN SOCIAL…
+│   ├─ TERMS: SOCIAL FACT: gahapati often denotes a wealthy property-owning
+│   ├─ TERMS: producer, while setthi denotes a high-level urban…
+│   ├─ LOGIC: Guilds are evidence-supported only to the level allowed by the…
+│   └─ RESULT: SOCIAL FACT: gahapati often denotes a wealthy property-owning…
+├── PUNCH-MARKED COINS, CREDIT AND UNEVEN MONETISATION
+│   ├─ TERMS: Punch-marked coins are a material class, not a single Magadhan royal
+│   ├─ TERMS: currency from the start
+│   ├─ LOGIC: Wrong: Every punch-marked coin was issued by Magadha
+│   └─ RESULT: INTERPRETATION: coin use facilitated valuation, tax/payment…
+├── AGRICULTURE, IRON, SURPLUS, TAXATION AND SOCIAL CHANGE
+│   ├─ TERMS: ARCHAEOLOGICAL FACT: the number and range of iron artefacts…
+│   ├─ LOGIC: Iron was one agent among several in first-millennium BCE change
+│   └─ RESULT: The agrarian base widened, but technology did not act alone
+├── STATE, SOCIETY AND THE SHRAMANA SETTING
+│   ├─ TERMS: INTERPRETATION: non-violence gained salience in an age of organised…
+│   ├─ LOGIC: C-K-R, not C-R: Cities, Kings, Renunciants
+│   └─ RESULT: The safe formulation is 'cities, kings and renunciants', not…
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Magadha’s geography, resources, capitals, rulers and diplomacy
+
+```ascii-master
+MAGADHA’S GEOGRAPHY, RESOURCES, CAPITALS, RULERS AND DIPLOMACY
+
+
+KEY TERMS: Iron • Elephants • Forests • The Resource-Monopoly Debate • IRON, ELEPHANTS,
+KEY TERMS: FORESTS AND THE… • Capitals
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ IRON, ELEPHANTS,       │ FOREST FACTOR: adjoining      │ Elephants are one             │
+│ FORESTS AND THE        │ forests supplied timber and   │ military-ecological factor,   │
+│ RESOURCE-MONOPOLY      │ elephants                     │ not a complete causal…        │
+│ DEBATE                 │                               │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ CAPITALS AND           │ STRATEGIC INTERPRETATION: the │ DATING LIMIT: Upinder Singh   │
+│ FORTIFICATIONS:        │ riverine site improved access │ notes that the massive old    │
+│ RAJAGRIHA TO           │ to…                           │ outer…                        │
+│ PATALIPUTRA            │                               │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ POLITICAL AGENCY:      │ Structural opportunity became │ Frame the answer through      │
+│ DIPLOMACY, MARRIAGE,   │ supremacy through conquest,   │ Political Agency              │
+│ CONQUEST AND           │ marriage…                     │                               │
+│ ADMINISTRATION         │                               │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ HARYANKA EXPANSION:    │ The Haryanka phase is         │ The Haryanka line is          │
+│ BIMBISARA, AJATASHATRU │ reconstructed from            │ historically clearer than     │
+│ AND UDAYIN             │ conflicting traditions        │ earlier dynasties…            │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ MAGADHA'S CONTESTS:    │ AVANTI: Pradyota was a major  │ VAJJI: a north-Ganga          │
+│ ANGA, KOSALA, VAJJI    │ rival                         │ confederacy with Vaishali     │
+│ AND AVANTI             │                               │                               │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Archaeological cautions, empire threshold and causal synthesis
+
+```ascii-master
+ARCHAEOLOGICAL CAUTIONS, EMPIRE THRESHOLD AND CAUSAL SYNTHESIS
+
+
+KEY TERMS: Rajagriha/Rajgir • Landscape Archaeology • The Problem Of Dating Walls •
+KEY TERMS: RAJAGRIHA/RAJGIR: LANDSCAPE ARCHAEOLOGY… • Pataliputra • Kumrahar
+                 CLAIM / SYSTEM UNDER EXAMINATION
+                                  │
+                                  ▼
+PROBLEM / OBJECTION 1
+  ├─ ISSUE: HERITAGE FACT: ASI Patna Circle currently administers/protects…
+  ├─ RESPONSE / CONTROL: ARCHAEOLOGICAL FACT: Old Rajagriha lies among five hills
+  ├─ RESPONSE / CONTROL: and is…
+  └─ QUALIFIED VERDICT: Rajagriha is a rare case where topography, walls and dense
+  └─ QUALIFIED VERDICT: textual memory converge
+                  │
+                  ▼
+PROBLEM / OBJECTION 2
+  ├─ ISSUE: LIVE HERITAGE FACT: Bihar Tourism currently presents Kumhrar as the…
+  ├─ RESPONSE / CONTROL: Pataliputra's early history is easy to overstate because
+  ├─ RESPONSE / CONTROL: the site's…
+  └─ QUALIFIED VERDICT: NBPW at Kumrahar and Bulandibagh supports an early
+  └─ QUALIFIED VERDICT: historical…
+                  │
+                  ▼
+PROBLEM / OBJECTION 3
+  ├─ ISSUE: Dhana Nanda belongs to the Greek-contact horizon, while the…
+  ├─ RESPONSE / CONTROL: The Magadhan sequence created an enlarged territorial and
+  ├─ RESPONSE / CONTROL: fiscal-military platform, but
+  └─ QUALIFIED VERDICT: The Magadhan sequence created an enlarged territorial and…
+                  │
+                  ▼
+PROBLEM / OBJECTION 4
+  ├─ ISSUE: MATERIALIST LIMIT: iron chronology and monopoly claims are contested
+  ├─ RESPONSE / CONTROL: Evaluation converts every factor into evidence, mechanism
+  ├─ RESPONSE / CONTROL: and…
+  └─ QUALIFIED VERDICT: Older textbook accounts correctly identify important
+  └─ QUALIFIED VERDICT: factors but often turn correlation into inevitability
+                                  │
+                                  ▼
+FINAL CONTROL: preserve the strongest insight while stating its limit.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Mahajanapadas (large territorial polities) & Rise of Magadha: traps, PYQ routes and…
+
+```ascii-master
+MAHAJANAPADAS (LARGE TERRITORIAL POLITIES) & RISE OF MAGADHA: TRAPS, PYQ ROUTES AND…
+
+
+KEY TERMS: Chronology • A Long Transition • Not A Single Event In 600 Bce • CHRONOLOGY: A
+KEY TERMS: LONG TRANSITION, NOT A… • From Jana To Janapada To Mahajanapada • Territoriality
+KEY TERMS: Without Teleology
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── INTERPRETATION: political consolidation, urbanism, coin use and…
+├── The contrast should be institutional and sociological rather than…
+├── the riverine site improved access to north-Ganga rivals, east-west…
+├── a map, matrix and causal flow are value-addition only when accurate…
+│
+├── Verified Prelims PYQ - 2025 GS-I Set A Q17
+├── Evidence / comparison matrix
+├── Core teaching / solved analysis
+├── The question tests region-river mapping plus source-specific Ashmaka…
+│
+└── The c
+└── INTERPRETATION: iron could aid clearance, cultivation, crafts and…
+└── In Prelims, solve Topic 11 through list variants, state-capital-river pairs,
+└── polity type, material markers, dynastic…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Mahajanapadas (large territorial polities) & Rise of Magadha: integrated revision and…
+
+```ascii-master
+MAHAJANAPADAS (LARGE TERRITORIAL POLITIES) & RISE OF MAGADHA — ANSWER / REVISION SPINE
+
+
+KEY TERMS: Chronology • A Long Transition • Not A Single Event In 600 Bce • CHRONOLOGY: A
+KEY TERMS: LONG TRANSITION, NOT A… • From Jana To Janapada To Mahajanapada • Territoriality
+KEY TERMS: Without Teleology
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ The mahajanapada age is a heuristic phase within the early historic…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ Chronology
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ OUTCOME: Magadha defeated Vajji through a mixture of fortification…
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ Not A Single Event In 600 Bce
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ a map, matrix and causal flow are value-addition only when accurate…
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ In Prelims, solve Topic 11 through list variants, state-capital-river pairs,
+   └─ polity type, material markers, dynastic…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

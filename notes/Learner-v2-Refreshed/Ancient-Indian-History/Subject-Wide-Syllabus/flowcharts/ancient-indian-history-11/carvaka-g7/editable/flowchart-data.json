@@ -1,0 +1,390 @@
+{
+  "schema_version": 1,
+  "topic_key": "ancient-indian-history-11",
+  "generation": 7,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ancient-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\ancient-indian-history-11\\ancient-indian-history-11_Complete-Learning-Session_2026-08-22.md",
+  "master_dimensions": [
+    3600,
+    28435
+  ],
+  "stages": [
+    {
+      "title": "SOURCE HIERARCHY, EVIDENCE LABELS AND SCOPE",
+      "terms": "Source hierarchy, evidence labels and scope: The safest method is to keep textual lists and ruler traditions, archaeological layers, coins and modern heritage claims as separate proof classes before seeking convergence.",
+      "mechanism": "This package reconstructs the mahajanapada age through separately controlled textual, archaeological, numismatic and modern heritage evidence.",
+      "consequence": "The safest method is to keep textual lists and ruler traditions, archaeological layers, coins and modern heritage claims as separate proof classes before seeking convergence.",
+      "trap": "A conventional list or dynastic story is not treated as excavation proof, and a present-day tourism label is not treated as an ancient constitutional description.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "CHRONOLOGY: A LONG TRANSITION, NOT A SINGLE EVENT IN 600 BCE",
+      "terms": "600–321/324 BCE frame is a heuristic transition, not a synchronous starting or ending date for states, cities, coinage or renunciation across India.",
+      "mechanism": "The arrows show interacting processes; they do not claim a uniform evolutionary ladder.",
+      "consequence": "The mahajanapada age is a heuristic phase within the early historic transition.",
+      "trap": "600–321/324 BCE frame is a heuristic transition, not a synchronous starting or ending date for states, cities, coinage or renunciation across India.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "FROM JANA TO JANAPADA TO MAHAJANAPADA: TERRITORIALITY WITHOUT TELEOLOGY",
+      "terms": "TEXTUAL FACT: Panini refers to several janapadas; Buddhist and Jain sources later classify powerful polities as solasa-mahajanapadas.",
+      "mechanism": "Territorialisation linked a jana (people/kin collective) to a janapada (territorial domain of a people) through settlement, extraction, routes, coercion and labour mobilisation without erasing kinship.",
+      "consequence": "Jana denoted a people or lineage collective, while janapada increasingly joined a people to a territorial domain of rural and urban settlements.",
+      "trap": "Mahajanapada signalled a large or powerful territorial polity in textual classification, not a legally standardized rank.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "THE SIXTEEN MAHAJANAPADAS: CONVENTIONAL LIST AND TEXTUAL VARIATION",
+      "terms": "Sixteen is conventional, not an archaeologically counted total.",
+      "mechanism": "The Anguttara Nikaya's sixteen mahajanapadas are a conventional textual map whose names, borders and simultaneity must be qualified through Mahavastu and Bhagavati Sutra variations.",
+      "consequence": "The famous sixteen are best treated as a conventional Buddhist list reflecting a particular political geography.",
+      "trap": "LIMIT: the first four Nikayas and Vinaya contain early layers but are composite transmitted texts, not contemporary gazetteers.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "TEXT MAP: THE POLITICAL GEOGRAPHY OF THE MAHAJANAPADA SYSTEM",
+      "terms": "The political map is best remembered as connected corridors—from Gandhara-Kamboja through the upper and middle Ganga systems to Avanti-Chedi and Ashmaka on the Godavari—not as isolated dots.",
+      "mechanism": "The political map is best remembered as connected corridors—from Gandhara-Kamboja through the upper and middle Ganga systems to Avanti-Chedi and Ashmaka on the Godavari—not as isolated dots.",
+      "consequence": "A map answer should show corridors and river basins, not isolated dots.",
+      "trap": "The political map is best remembered as connected corridors—from Gandhara-Kamboja through the upper and middle Ganga systems to Avanti-Chedi and Ashmaka on the Godavari—not as isolated dots.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "MAJOR MONARCHIES: MAGADHA, KOSALA, VATSA AND AVANTI",
+      "terms": "Major monarchies: Magadha, Kosala, Vatsa and Avanti: RULER NAME: Pasenadi (Prasenajit) is the Pali/Sanskrit name pair for Kosala's securely source-owned contemporary ruler.",
+      "mechanism": "Their relative power changed through conquest, marriage, route control and internal consolidation; Magadha's victory was not predetermined.",
+      "consequence": "The four strongest monarchies formed a competitive quadrilateral.",
+      "trap": "Their relative power changed through conquest, marriage, route control and internal consolidation; Magadha's victory was not predetermined.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "EASTERN POLITIES: KASHI, ANGA, VAJJI AND MALLA",
+      "terms": "Eastern polities: Kashi, Anga, Vajji and Malla: Its political diversity is essential to understanding both Magadhan expansion and the social world of Buddhism and Jainism.",
+      "mechanism": "KASHI: Varanasi on the Ganga, traditionally bounded by Varuna and Asi; powerful earlier, then absorbed by Kosala.",
+      "consequence": "KASHI: Varanasi on the Ganga, traditionally bounded by Varuna and Asi; powerful earlier, then absorbed by Kosala.",
+      "trap": "LIMIT: 'confederacy of eight/nine clans' and large numerical claims in narrative texts are institutional memories, not census data.",
+      "answer": "Eastern India combined monarchies, confederacies, commercial centres and clan-based polities."
+    },
+    {
+      "title": "UPPER-PLAIN, CENTRAL, NORTH-WESTERN AND TRANS-VINDHYAN PROFILES",
+      "terms": "KAMBOJA: adjoining north-western/highland frontier; textual geography is less precise than modern map questions imply.",
+      "mechanism": "They connected older Kuru-Panchala territoriality, Mathura and Malwa routes, the Achaemenid-facing north-west and the Godavari valley.",
+      "consequence": "KURU: Indraprastha tradition; a reduced sixth-century power; traditions suggest later movement from monarchy to sangha.",
+      "trap": "CHEDI: Bundelkhand zone; central link rather than a leading sixth-century imperial contender.",
+      "answer": "The remaining mahajanapadas prevent an east-Ganga-only story."
+    },
+    {
+      "title": "STATE FORMATION: INTERACTING CAPACITIES RATHER THAN ONE MASTER CAUSE",
+      "terms": "State formation: interacting capacities rather than one master cause: Wrong: Iron tools automatically created kingdoms.",
+      "mechanism": "Correct: Technology mattered through access, labour, ecology, property and political mobilization.",
+      "consequence": "State capacity emerged from feedback among production, extraction, force, communication and legitimacy.",
+      "trap": "Coercion and consent/legitimation were complementary, not mutually exclusive.",
+      "answer": "Large states became possible when agrarian, coercive, communicative and legitimating capacities reinforced one another."
+    },
+    {
+      "title": "MONARCHICAL INSTITUTIONS: COURT, OFFICIALS, VILLAGES AND ORGANIZED FORCE",
+      "terms": "Monarchical institutions: court, officials, villages and organized force: INTERPRETATION: a regular army supported by revenue would reduce dependence on episodic clan levies, but the evidence is indirect.",
+      "mechanism": "TEXTUAL FACT: villages could be governed through assemblies under gramakas or village headmen.",
+      "consequence": "Early monarchies were more than a king but less than a fully documented bureaucracy.",
+      "trap": "Early Magadhan state capacity meant stronger revenue, officials, fortified centres, standing force and logistics, but it should not be projected as a fully developed Mauryan bureaucracy.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "GANAS AND SANGHAS: ASSEMBLIES, OLIGARCHIC POWER AND SOCIAL LIMITS",
+      "terms": "Ganas and sanghas: assemblies, oligarchic power and social limits: 'Republic' is convenient shorthand only if immediately qualified: political power rested with a group of elite male clansmen, not an equal citizen body.",
+      "mechanism": "COMPARISON: Brahmanical texts say less about ganas, partly because their political ideology privileged kingship.",
+      "consequence": "POWER: effective executive management probably lay with a smaller group inside the wider assembly.",
+      "trap": "'Republic' is convenient shorthand only if immediately qualified: political power rested with a group of elite male clansmen, not an equal citizen body.",
+      "answer": "Gana and sangha could denote non-monarchical corporate polities."
+    },
+    {
+      "title": "MONARCHY VERSUS GANA-SANGHA: TWO STATE FORMS, NOT PROGRESS VERSUS FREEDOM",
+      "terms": "Monarchy versus gana-sangha: two state forms, not progress versus freedom: The relevant contrast is who shared sovereign decision-making, not whether hierarchy existed.",
+      "mechanism": "OUTCOME: Magadha defeated Vajji through a mixture of fortification, intelligence/dissension tradition and prolonged war; this does not prove universal monarchical superiority.",
+      "consequence": "Monarchies concentrated authority in a dynasty and court, whereas gana-sanghas (clan-based oligarchic polities/confederacies) shared it among restricted elite clans; neither form was socially egalitarian.",
+      "trap": "The contrast should be institutional and sociological rather than moral: centralized succession did not mean despotism in every case, and assembly did not mean equality.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "SECOND URBANISATION: DEFINITION, NBPW AND DATING DISCIPLINE",
+      "terms": "Second urbanisation refers to the renewed growth of towns and cities after the Harappan urban decline, especially in the Ganga plains and connected regions.",
+      "mechanism": "LIMIT: NBPW is not always black, only northern, or demonstrably 'polished' by one known technique.",
+      "consequence": "Second urbanisation refers to the renewed growth of towns and cities after the Harappan urban decline, especially in the Ganga plains and connected regions.",
+      "trap": "Second urbanisation was a regionally uneven interaction of agrarian surplus, fortified towns, NBPW, crafts, exchange and state extraction, not the automatic product of iron or coinage.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "CITIES AND FORTIFICATIONS: RAJAGRIHA, KAUSHAMBI, VAISHALI AND CHAMPA",
+      "terms": "Cities and fortifications: Rajagriha, Kaushambi, Vaishali and Champa: TEXTUAL FACT: Pali categories distinguish pura, nagara, nigama, rajadhani and mahanagara, but usage is not a modern statistical hierarchy.",
+      "mechanism": "Textual descriptions and excavated sequences rarely align perfectly, so site-specific evidence must replace a single model of 'the ancient city'.",
+      "consequence": "RAJAGRIHA: old city nestled among hills with massive stone fortifications; dating of the earliest walls remains difficult.",
+      "trap": "TEXTUAL FACT: Pali categories distinguish pura, nagara, nigama, rajadhani and mahanagara, but usage is not a modern statistical hierarchy.",
+      "answer": "Early historic cities combined political, commercial, religious and defensive functions."
+    },
+    {
+      "title": "CRAFTS, CORPORATE ORGANISATION, TRADE ROUTES AND URBAN SOCIAL ELITES",
+      "terms": "Crafts, corporate organisation, trade routes and urban social elites: Wrong: The Jataka list of eighteen guilds is a sixth-century BCE census.",
+      "mechanism": "ROUTES: Uttarapatha connected the north-west through the Indo-Gangetic plain toward Tamralipti; Dakshinapatha linked central and peninsular zones.",
+      "consequence": "Cities supported artisans, merchants, lenders, performers and wealthy property-holders.",
+      "trap": "Texts indicate corporate organisation, but later Jataka detail should not be projected wholesale into the sixth century BCE.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "PUNCH-MARKED COINS, CREDIT AND UNEVEN MONETISATION",
+      "terms": "The earliest punch-marked series must be handled through hoards, metal, symbols, contexts and uncertain issuers.",
+      "mechanism": "The earliest punch-marked series must be handled through hoards, metal, symbols, contexts and uncertain issuers.",
+      "consequence": "TEXTUAL FACT: Pali sources contain early definite coin terms such as kahapana, nikkha, kamsa, pada, masaka and kakanika.",
+      "trap": "Coinage altered transactions and state symbolism but did not abolish barter.",
+      "answer": "Coinage altered transactions and state symbolism but did not abolish barter."
+    },
+    {
+      "title": "AGRICULTURE, IRON, SURPLUS, TAXATION AND SOCIAL CHANGE",
+      "terms": "Iron tools, rice cultivation, labour, land rights, forests, rainfall, settlement and coercive extraction interacted.",
+      "mechanism": "Technology creates possibilities; labour, ecology and institutions determine outcomes.",
+      "consequence": "INTERPRETATION: iron could aid clearance, cultivation, crafts and weapons, but access, labour and ecology determined its effect.",
+      "trap": "The agrarian base widened, but technology did not act alone.",
+      "answer": "The agrarian base widened, but technology did not act alone."
+    },
+    {
+      "title": "STATE, SOCIETY AND THE SHRAMANA SETTING",
+      "terms": "State, society and the shramana setting: Memory hook: C-K-R, not C-R: Cities, Kings, Renunciants; context is not a complete cause.",
+      "mechanism": "Cities, kings, merchants and renunciants interacted through patronage and debate, but urbanisation did not mechanically cause Buddhism or Jainism and the doctrinal boundary belongs to Topic 10.",
+      "consequence": "Buddhism, Jainism and other renunciant traditions developed within a landscape of states, towns, warfare, household wealth, debt and social hierarchy.",
+      "trap": "Cities, kings, merchants and renunciants interacted through patronage and debate, but urbanisation did not mechanically cause Buddhism or Jainism and the doctrinal boundary belongs to Topic 10.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "WHY MAGADHA? THE COMPLETE CAUSAL MATRIX",
+      "terms": "Why Magadha? The complete causal matrix: GEOGRAPHY: middle Ganga location, fertile plains and river communications created opportunity, but rival states also occupied rich corridors.",
+      "mechanism": "Magadha's rise rested on a portfolio of agrarian, riverine, defensive, resource, fiscal-military and demographic advantages converted into power by institutions and rulers.",
+      "consequence": "Mains/PYQ use: Structure a 20-marker by factor - evidence - significance - counterpoint, then give a conjunctural verdict.",
+      "trap": "RESOURCES: forests, timber and elephants mattered; nearby mineral zones were useful, but an early iron monopoly is not demonstrated.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "GEOGRAPHY AND RIVERS: OPPORTUNITY, COMMUNICATION AND FLOODPLAIN LIMITS",
+      "terms": "Geography and rivers: opportunity, communication and floodplain limits: Magadha occupied a strategically connected but environmentally demanding zone.",
+      "mechanism": "Alluvium, wet-rice potential, river transport, forests and elephants enlarged Magadha's possibilities only when labour, taxation, boats, training and command converted ecology into capacity.",
+      "consequence": "Magadha occupied a strategically connected but environmentally demanding zone.",
+      "trap": "LIMIT: exact ancient channels changed; the conventional Ganga-Son 'confluence' description should not be converted into unsupported precise coordinates.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "IRON, ELEPHANTS, FORESTS AND THE RESOURCE-MONOPOLY DEBATE",
+      "terms": "Iron, elephants, forests and the resource-monopoly debate: The institutional chain is the answer to resource determinism.",
+      "mechanism": "Iron access strengthened tools and weapons, but Magadha had no proven monopoly—Avanti also accessed iron zones, and exploitation chronology and logistics remain decisive caveats.",
+      "consequence": "LIMIT: elephant abundance does not reveal training systems, numbers, costs or battlefield effectiveness in each reign.",
+      "trap": "SHARMA THESIS: rich iron deposits not far from Rajagriha helped arm Magadhan rulers.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "CAPITALS AND FORTIFICATIONS: RAJAGRIHA TO PATALIPUTRA",
+      "terms": "The capital shift represents changing strategic scale: Rajagriha suited a defended inland core, while Pataligrama/Pataliputra opened a riverine command position for a larger Gangetic polity.",
+      "mechanism": "LIMIT: capital relocation was likely a process; Rajagriha retained religious and political significance after Pataliputra's rise.",
+      "consequence": "LIMIT: capital relocation was likely a process; Rajagriha retained religious and political significance after Pataliputra's rise.",
+      "trap": "The chronology and founder traditions are not fully consistent.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "POLITICAL AGENCY: DIPLOMACY, MARRIAGE, CONQUEST AND ADMINISTRATION",
+      "terms": "Ajatashatru's Vajji victory is traditionally explained through prolonged war and political fragmentation.",
+      "mechanism": "Structural opportunity became supremacy through conquest, marriage alliances, diplomacy, fortification, intelligence, delegation and institutional learning across several dynasties.",
+      "consequence": "Mains/PYQ use: Agency paragraphs should show the instrument, named episode, strategic effect and source limit.",
+      "trap": "ADMINISTRATION: mahamatra, gramaka and prosperous-village references suggest layered rule, though not a complete bureaucratic map.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "HARYANKA EXPANSION: BIMBISARA, AJATASHATRU AND UDAYIN",
+      "terms": "The Haryanka phase is reconstructed from conflicting traditions.",
+      "mechanism": "Memory hook: B-A-U: Build by Anga/alliance, Assault rivals, Urban-capital transition.",
+      "consequence": "The Haryanka phase is reconstructed from conflicting traditions.",
+      "trap": "Mains/PYQ use: Use broad sequence plus source conflict; do not sacrifice accuracy for a neat king list.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "MAGADHA'S CONTESTS: ANGA, KOSALA, VAJJI AND AVANTI",
+      "terms": "Magadha's contests: Anga, Kosala, Vajji and Avanti: AVANTI: Pradyota was a major rival; relations ranged from hostility to the Jivaka medical story; Shishunaga is credited with ending Avanti's independent power.",
+      "mechanism": "Magadhan supremacy emerged through sequential contests against different rival types: an eastern monarchy, a powerful neighbouring kingdom, a confederacy and a western imperial competitor.",
+      "consequence": "Magadhan supremacy emerged through sequential contests against different rival types: an eastern monarchy, a powerful neighbouring kingdom, a confederacy and a western imperial competitor.",
+      "trap": "Ajatashatru's Vajji war joined prolonged campaigning, Pataligrama fortification and a dissension tradition; the rathamusala and mahasilakantaka remain textual war-device traditions, not archaeologically verified machines.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "SHISHUNAGA AND NANDA CONSOLIDATION",
+      "terms": "EXPANSION: Shishunaga is credited with destroying the Pradyota power of Avanti; Vatsa and Kosala may also have been incorporated.",
+      "mechanism": "OUTCOME: Nanda consolidation provided the immediate political base contested and inherited by the Mauryas.",
+      "consequence": "After the Haryankas, source disagreement intensifies.",
+      "trap": "FOUNDER PRAISE: Mahapadma Nanda/Ugrasena is named differently in Puranic and Buddhist traditions; the Puranic ekarat (sole ruler) and sarva-kshatrantaka (destroyer/uprooter of Kshatriya rulers) claims express imperial and ideological memory rather than audited territorial fact.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "RAJAGRIHA/RAJGIR: LANDSCAPE ARCHAEOLOGY AND THE PROBLEM OF DATING WALLS",
+      "terms": "Rajagriha is a rare case where topography, walls and dense textual memory converge.",
+      "mechanism": "At Rajagriha, Vaishali, Kaushambi, Ujjayini and Pataliputra, walls, NBPW and settlement layers demonstrate material processes but do not automatically identify a named king or exact constitution.",
+      "consequence": "Rajagriha is a rare case where topography, walls and dense textual memory converge.",
+      "trap": "At Rajagriha, Vaishali, Kaushambi, Ujjayini and Pataliputra, walls, NBPW and settlement layers demonstrate material processes but do not automatically identify a named king or exact constitution.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "PATALIPUTRA AND KUMRAHAR: EARLY SETTLEMENT VERSUS LATER IMPERIAL REMAINS",
+      "terms": "Pataliputra's early history is easy to overstate because the site's famous Mauryan remains dominate public memory.",
+      "mechanism": "Pataliputra's early history is easy to overstate because the site's famous Mauryan remains dominate public memory.",
+      "consequence": "TEXTUAL TRADITION: Ajatashatru fortified Pataligrama during the Vajji conflict; Udayin is linked in some traditions to Pataliputra's foundation.",
+      "trap": "PHASE CONTROL: the celebrated pillared hall and many public-heritage features belong to later Mauryan or post-Magadha phases and cannot be back-projected into Bimbisara's age.",
+      "answer": "Pataliputra's early history is easy to overstate because the site's famous Mauryan remains dominate public memory."
+    },
+    {
+      "title": "TRANSITION TO EMPIRE: NANDA ACCUMULATION AND THE MAURYAN THRESHOLD",
+      "terms": "Transition to empire: Nanda accumulation and the Mauryan threshold: The Magadhan sequence created an enlarged territorial and fiscal-military platform, but",
+      "mechanism": "Magadhan accumulation prepared Nanda and Mauryan imperial scale, but empire was contingent rather than inevitable and the Alexander horizon remains a bounded transition.",
+      "consequence": "The Magadhan sequence created an enlarged territorial and fiscal-military platform, but",
+      "trap": "Magadhan accumulation prepared Nanda and Mauryan imperial scale, but empire was contingent rather than inevitable and the Alexander horizon remains a bounded transition.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "TRADITIONAL EXPLANATIONS OF MAGADHA: EVALUATION RATHER THAN CHECKLIST",
+      "terms": "Traditional explanations of Magadha: evaluation rather than checklist: CULTURAL THESIS: eastern distance from Brahmanical orthodoxy has been proposed as an advantage, but its political effect is difficult to demonstrate.",
+      "mechanism": "Memory hook: E-M-C: Evidence, Mechanism, Counterpoint.",
+      "consequence": "CULTURAL THESIS: eastern distance from Brahmanical orthodoxy has been proposed as an advantage, but its political effect is difficult to demonstrate.",
+      "trap": "MATERIALIST LIMIT: iron chronology and monopoly claims are contested; urban and state growth do not correlate uniformly across regions.",
+      "answer": "Older textbook accounts correctly identify important factors but often turn correlation into inevitability."
+    },
+    {
+      "title": "HISTORIOGRAPHY AND SOURCE CRITICISM",
+      "terms": "Source disagreement is evidence about memory and perspective, not merely an inconvenience.",
+      "mechanism": "A sound synthesis combines geographical-resource, iron-surplus, urban-network and political-agency/state-capacity models while rejecting environmental determinism, iron monopoly and great-man-only explanation.",
+      "consequence": "The topic sits at the meeting point of textual political history, materialist state formation, archaeology, numismatics and institutional history.",
+      "trap": "Triangulation produces a qualified explanation rather than false certainty.",
+      "answer": "MUST-WRITE KEYWORDS"
+    },
+    {
+      "title": "TERMINOLOGY BANK, MEMORY HOOKS AND INTEGRATED ANSWER SPINE",
+      "terms": "Precision in terminology prevents anachronism and turns factual recall into an analytical answer.",
+      "mechanism": "In Prelims, solve Topic 11 through list variants, state-capital-river pairs, polity type, material markers, dynastic sequence and archaeology-versus-text distinctions rather than keyword familiarity.",
+      "consequence": "Precision in terminology prevents anachronism and turns factual recall into an analytical answer.",
+      "trap": "In Prelims, solve Topic 11 through list variants, state-capital-river pairs, polity type, material markers, dynastic sequence and archaeology-versus-text distinctions rather than keyword familiarity.",
+      "answer": "MUST-WRITE KEYWORDS"
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 3,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7760,
+      "y_end": 9960,
+      "overlap_px": 260,
+      "from_stage": 9,
+      "continues_stage": 12
+    },
+    {
+      "page": 6,
+      "y_start": 9700,
+      "y_end": 11900,
+      "overlap_px": 260,
+      "from_stage": 11,
+      "continues_stage": 14
+    },
+    {
+      "page": 7,
+      "y_start": 11640,
+      "y_end": 13840,
+      "overlap_px": 260,
+      "from_stage": 14,
+      "continues_stage": 16
+    },
+    {
+      "page": 8,
+      "y_start": 13580,
+      "y_end": 15780,
+      "overlap_px": 260,
+      "from_stage": 16,
+      "continues_stage": 18
+    },
+    {
+      "page": 9,
+      "y_start": 15520,
+      "y_end": 17720,
+      "overlap_px": 260,
+      "from_stage": 18,
+      "continues_stage": 20
+    },
+    {
+      "page": 10,
+      "y_start": 17460,
+      "y_end": 19660,
+      "overlap_px": 260,
+      "from_stage": 20,
+      "continues_stage": 23
+    },
+    {
+      "page": 11,
+      "y_start": 19400,
+      "y_end": 21600,
+      "overlap_px": 260,
+      "from_stage": 22,
+      "continues_stage": 25
+    },
+    {
+      "page": 12,
+      "y_start": 21340,
+      "y_end": 23540,
+      "overlap_px": 260,
+      "from_stage": 25,
+      "continues_stage": 27
+    },
+    {
+      "page": 13,
+      "y_start": 23280,
+      "y_end": 25480,
+      "overlap_px": 260,
+      "from_stage": 27,
+      "continues_stage": 29
+    },
+    {
+      "page": 14,
+      "y_start": 25220,
+      "y_end": 27420,
+      "overlap_px": 260,
+      "from_stage": 29,
+      "continues_stage": 31
+    },
+    {
+      "page": 15,
+      "y_start": 26235,
+      "y_end": 28435,
+      "overlap_px": 260,
+      "from_stage": 30,
+      "continues_stage": 32
+    }
+  ]
+}
