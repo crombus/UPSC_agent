@@ -1,0 +1,71 @@
+ASCII MASTER FLOW — PANEL 1/12: Ocean-current force chain
+WIND STRESS -> surface momentum
+CORIOLIS -> turning by hemisphere
+PRESSURE GRADIENT -> geostrophic tendency
+BASIN + FRICTION -> realised current path
+
+ASCII MASTER FLOW — PANEL 2/12: Density-overturning chain
+COOLING / EVAPORATION -> density increase
+FRESHWATER / WARMING -> density decrease
+DENSE WATER -> sinking and spreading
+MIXING + TOPOGRAPHY -> overturning pathways
+
+ASCII MASTER FLOW — PANEL 3/12: Gyre comparison
+NORTH SUBTROPICS -> clockwise tendency
+SOUTH SUBTROPICS -> anticlockwise tendency
+WESTERN LIMB -> narrow, swift, warm
+EASTERN LIMB -> broad, cool, upwelling-prone
+
+ASCII MASTER FLOW — PANEL 4/12: Upwelling-food web
+ALONGSHORE WIND -> Ekman transport offshore
+DEEPER WATER RISES -> nutrient supply
+PHYTOPLANKTON -> zooplankton -> fish
+LIMITS -> oxygen, light, habitat, fishing pressure
+
+ASCII MASTER FLOW — PANEL 5/12: Tide geometry
+NEW / FULL MOON -> aligned forces
+SPRING TIDE -> larger range
+QUARTER MOON -> partial offset
+NEAP TIDE -> smaller range
+
+ASCII MASTER FLOW — PANEL 6/12: Local tidal range
+ASTRONOMICAL FORCING -> incoming tide
+SHELF DEPTH + BAY SHAPE -> amplification
+RESONANCE + FRICTION -> timing and height
+RULE -> same forcing, different local range
+
+ASCII MASTER FLOW — PANEL 7/12: Salinity budget
+EVAPORATION + BRINE -> salinity rises
+RAIN + RIVER + MELT -> salinity falls
+ADVECTION + MIXING -> redistribute salt
+TEMP + SALINITY -> density and stratification
+
+ASCII MASTER FLOW — PANEL 8/12: Arabian-Bay contrast
+ARABIAN SEA -> stronger evaporation
+BAY OF BENGAL -> rain + large river input
+GENERAL RESULT -> Arabian Sea more saline
+QUALIFIER -> season and local mixing matter
+
+ASCII MASTER FLOW — PANEL 9/12: Monsoon-current switch
+SW MONSOON -> winds drive summer reorganisation
+SOMALI SECTOR -> strong current + upwelling
+NE MONSOON -> northern flows reverse/reorganise
+MAP RULE -> label every arrow by season
+
+ASCII MASTER FLOW — PANEL 10/12: IOD coupled seesaw
+WEST-EAST SST CONTRAST -> pressure gradient
+WINDS -> thermocline and upwelling response
+CONVECTION -> rainfall shifts zonally
+INDIA EFFECT -> conditional on timing + ENSO + MJO
+
+ASCII MASTER FLOW — PANEL 11/12: Observation-to-service chain
+OMNI / RAMA -> ocean + weather observations
+INCOIS -> data management and products
+MODELS -> analysis and forecast ensembles
+USER -> marine service with uncertainty
+
+ASCII MASTER FLOW — PANEL 12/12: Ocean answer spine
+DEFINE -> depth, scale and season
+DERIVE -> force, density or gravity
+MAP -> basin, current, tide or salinity
+QUALIFY -> variability, ecology and evidence date

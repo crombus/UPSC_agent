@@ -1,0 +1,1800 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g4\\geography-23_Complete-Learning-Session_2026-09-01.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g4\\geography-23_Complete-Learning-Session_2026-09-01.pdf",
+  "mode": "main",
+  "topic_key": "geography-23",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Cool Temperate Continental Siberian - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 418.024
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 189.022
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g4\\assets\\geography-23_Teaching-Navigation_2026-08-22.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 560.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 252.956
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 63,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Northern Hemisphere exclusivity - Poleward and equatorward boundaries Qualified use: Locate the belt and explain the land-distribution reason for its hemispheric restriction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 85,
+      "heading": "VISUAL FIRST",
+      "preview": "NORTHERN HEMISPHERE EXCLUSIVITY AND BOUNDARIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 476.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 114,
+      "markdown_body_line_end": 131,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - NORTHERN HEMISPHERE EXCLUSIVITY AND BOUNDARIES",
+      "preview": "START / CONCEPT: FOUNDATION — Northern Hemisphere exclusivity and boundaries",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 316
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 142,
+      "markdown_body_line_end": 142,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Low rainfall with summer maximum: Rainfall is low to moderate and generally has a summer maximum from frontal and convectional sources; winter precipitation is mostly light snow, making the climate semi-arid in character.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 411.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 344.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 157,
+      "markdown_body_line_end": 164,
+      "heading": "VISUAL FIRST",
+      "preview": "CLIMATE CHARACTER",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 193,
+      "markdown_body_line_end": 210,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CLIMATE CHARACTER",
+      "preview": "START / CONCEPT: FOUNDATION — Climate character",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 250
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 359.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 128.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 221,
+      "markdown_body_line_end": 221,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Taiga meaning: Taiga is the Russian word for coniferous forest; it is applied specifically to the vast boreal coniferous belt of Siberia and by extension to the entire Northern Hemisphere boreal forest.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 236,
+      "markdown_body_line_end": 243,
+      "heading": "VISUAL FIRST",
+      "preview": "TAIGA IDENTITY AND EXTENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 361.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 272,
+      "markdown_body_line_end": 289,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - TAIGA IDENTITY AND EXTENT",
+      "preview": "START / CONCEPT: FOUNDATION — Taiga identity and extent",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 231
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 764.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 543.091
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 300,
+      "markdown_body_line_end": 300,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Softwood conifer adaptations Qualified use: Explain conical shape, needle leaves and shallow roots as cold-climate adaptations.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 408.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 341.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 315,
+      "markdown_body_line_end": 319,
+      "heading": "VISUAL FIRST",
+      "preview": "CONIFER ADAPTATIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 347,
+      "markdown_body_line_end": 364,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CONIFER ADAPTATIONS",
+      "preview": "START / CONCEPT: FOUNDATION — Conifer adaptations",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 267
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 449.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 218.091
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 375,
+      "markdown_body_line_end": 375,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Softwood economic role: The taiga is the world's greatest softwood source, supplying timber, pulp and paper, matches and furniture; the uniform low-diversity stands of a few conifer species are commercially tractable for mechanised extracti",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 390,
+      "markdown_body_line_end": 397,
+      "heading": "VISUAL FIRST",
+      "preview": "SOFTWOOD ECONOMIC VALUE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 462.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 426,
+      "markdown_body_line_end": 443,
+      "heading": "CLOSING RECALL FLOW - CORE - SOFTWOOD ECONOMIC VALUE",
+      "preview": "START / CONCEPT: CORE — Softwood economic value",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 272
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 454,
+      "markdown_body_line_end": 454,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Biological poverty as advantage - Winter haulage and river floating Qualified use: Invert the expected answer: uniform stands are commercially tractable.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 345.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 469,
+      "markdown_body_line_end": 476,
+      "heading": "VISUAL FIRST",
+      "preview": "BIOLOGICAL POVERTY AS COMMERCIAL ADVANTAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 505,
+      "markdown_body_line_end": 522,
+      "heading": "CLOSING RECALL FLOW - CORE - BIOLOGICAL POVERTY AS COMMERCIAL ADVANTAGE",
+      "preview": "START / CONCEPT: CORE — Biological poverty as commercial advantage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 304
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 330.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 99.891
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 533,
+      "markdown_body_line_end": 533,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Carbon storage mechanism Qualified use: Explain the cold-decomposition-accumulation chain that stores carbon below ground.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 548,
+      "markdown_body_line_end": 552,
+      "heading": "VISUAL FIRST",
+      "preview": "CARBON STORAGE MECHANISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 580,
+      "markdown_body_line_end": 597,
+      "heading": "CLOSING RECALL FLOW - CORE - CARBON STORAGE MECHANISM",
+      "preview": "START / CONCEPT: CORE — Carbon storage mechanism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 315
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 608,
+      "markdown_body_line_end": 608,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This is a self-reinforcing feedback, not a prediction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 374.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 623,
+      "markdown_body_line_end": 627,
+      "heading": "VISUAL FIRST",
+      "preview": "FIRE-THAW FEEDBACK AND SINK-TO-SOURCE RISK",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 655,
+      "markdown_body_line_end": 672,
+      "heading": "CLOSING RECALL FLOW - CORE - FIRE-THAW FEEDBACK AND SINK-TO-SOURCE RISK",
+      "preview": "START / CONCEPT: CORE — Fire-thaw feedback and sink-to-source risk",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 319
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 189.691
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 683,
+      "markdown_body_line_end": 683,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Permafrost engineering consequence Qualified use: Connect thaw to loss of bearing capacity beneath roads, pipelines and buildings.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 698,
+      "markdown_body_line_end": 702,
+      "heading": "VISUAL FIRST",
+      "preview": "PERMAFROST ENGINEERING CONSEQUENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 730,
+      "markdown_body_line_end": 747,
+      "heading": "CLOSING RECALL FLOW - CORE - PERMAFROST ENGINEERING CONSEQUENCE",
+      "preview": "START / CONCEPT: CORE — Permafrost engineering consequence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 175
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 758,
+      "markdown_body_line_end": 758,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India has no continental taiga, but the upper Himalayan coniferous and alpine belt is its altitudinal analogue of the cold-continental softwood forest, capped by alpine pastures above the treeline.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 773,
+      "markdown_body_line_end": 777,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA HAS NO CONTINENTAL TAIGA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 805,
+      "markdown_body_line_end": 822,
+      "heading": "CLOSING RECALL FLOW - CORE - INDIA HAS NO CONTINENTAL TAIGA",
+      "preview": "START / CONCEPT: CORE — India has no continental taiga",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 226
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 242.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 833,
+      "markdown_body_line_end": 833,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Himalayan altitudinal zonation: The Himalaya show vertical or altitudinal zonation of vegetation from humid tropical through coniferous forest to alpine pastures; at the highest altitudes are the alpine pastures called mergs or bugyals used",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 848,
+      "markdown_body_line_end": 855,
+      "heading": "VISUAL FIRST",
+      "preview": "HIMALAYAN ALTITUDINAL ZONATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 462.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 884,
+      "markdown_body_line_end": 901,
+      "heading": "CLOSING RECALL FLOW - CORE - HIMALAYAN ALTITUDINAL ZONATION",
+      "preview": "START / CONCEPT: CORE — Himalayan altitudinal zonation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 307
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 912,
+      "markdown_body_line_end": 912,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Chir pine and fire: Chir pine is a resinous conifer of the subtropical montane belt receiving 100 to 200 centimetres of rain at 15 to 22 degrees Celsius; it is fire-prone and its prevalence indicates a disturbance-maintained ecosystem.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 421.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 354.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 927,
+      "markdown_body_line_end": 931,
+      "heading": "VISUAL FIRST",
+      "preview": "CHIR PINE AND FIRE ECOLOGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 959,
+      "markdown_body_line_end": 976,
+      "heading": "CLOSING RECALL FLOW - CORE - CHIR PINE AND FIRE ECOLOGY",
+      "preview": "START / CONCEPT: CORE — Chir pine and fire ecology",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 264
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 449.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 248.091
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 987,
+      "markdown_body_line_end": 987,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Treeline and alpine ecology Qualified use: Explain bugyals/mergs as alpine pastures above the ecological tree limit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 113.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 46.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1002,
+      "markdown_body_line_end": 1006,
+      "heading": "VISUAL FIRST",
+      "preview": "TREELINE AND ALPINE ECOLOGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 587.691
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1034,
+      "markdown_body_line_end": 1051,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - TREELINE AND ALPINE ECOLOGY",
+      "preview": "START / CONCEPT: SYNTHESIS — Treeline and alpine ecology",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 251
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 290.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 69.491
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1062,
+      "markdown_body_line_end": 1062,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The predominant vegetation is evergreen coniferous forest forming a great continuous belt across North America, Europe and Asia; the greatest single band is the taiga in Siberia, and Sweden and Finland share this forest in Europe.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1077,
+      "markdown_body_line_end": 1084,
+      "heading": "VISUAL FIRST",
+      "preview": "SAVANNA-STEPPE-TAIGA COMPARISON",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 313.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1113,
+      "markdown_body_line_end": 1130,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - SAVANNA-STEPPE-TAIGA COMPARISON",
+      "preview": "START / CONCEPT: SYNTHESIS — Savanna-steppe-taiga comparison",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 273
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 677.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 436.491
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1141,
+      "markdown_body_line_end": 1141,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Transparent PYQ boundary: The audited routing ledgers contain no direct question owned by Geography Topic 23; taiga and boreal concepts may be tested through adjacent climate-vegetation cross-owner questions but no solved PYQ is fabricated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 301.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 220.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1156,
+      "markdown_body_line_end": 1160,
+      "heading": "VISUAL FIRST",
+      "preview": "PYQ BOUNDARY AND ANSWER SPINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1187,
+      "markdown_body_line_end": 1190,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography*. ✅ = from source book · ⚠️ = inference ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 471.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 376.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1199,
+      "markdown_body_line_end": 1201,
+      "heading": "1. What & Where (G.C. Leong)",
+      "preview": "🔑 Trap: There is **no Siberian-type climate in the Southern Hemisphere** — the continents there are too narrow at those latitudes; only **mountain uplands** (S. Chile, NZ, Tasmania, SE Australia) carry similar coniferous forest.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 292.224
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 233.356
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1205,
+      "markdown_body_line_end": 1209,
+      "heading": "2. Climate",
+      "preview": "Element | Character",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Element",
+          "Character"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 211.356
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 123.154
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1254,
+      "markdown_body_line_end": 1258,
+      "heading": "9.1 Directive decoding",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 384.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 229.49
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1262,
+      "markdown_body_line_end": 1268,
+      "heading": "9.2 Why a hostile environment became an economic asset",
+      "preview": "Property of the taiga | Economic consequence",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Property of the taiga",
+          "Economic consequence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 578.29
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1270,
+      "markdown_body_line_end": 1272,
+      "heading": "9.2 Why a hostile environment became an economic asset",
+      "preview": "🔑 **Trap:** biological poverty can be an economic **advantage**. The taiga's low diversity is precisely what makes it commercially tractable. Stating this inverts the expected answer and is a genuine analytical point.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 578.29
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 533.622
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1289,
+      "markdown_body_line_end": 1290,
+      "heading": "9.3 The carbon and permafrost dimension",
+      "preview": "⚠️ **Factual caution:** do not quote a boreal carbon-stock figure, a permafrost area, a burned-area statistic or a thaw rate from memory; tie any number to a named monitoring source and period.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 323.422
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 278.754
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1294,
+      "markdown_body_line_end": 1299,
+      "heading": "9.4 Evidence unit",
+      "preview": "**Claim:** the same climatic severity that limits settlement creates a globally significant carbon store. **Evidence:** cold slows decomposition more than it slows growth, so organic matter accumulates in boreal soils, peat and permafrost. ",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 278.754
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 169.487
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1324,
+      "markdown_body_line_end": 1341,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - PYQ BOUNDARY AND ANSWER SPINE",
+      "preview": "START / CONCEPT: SYNTHESIS — PYQ boundary and answer spine",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 269
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 588.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 347.091
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2477,
+      "markdown_body_line_end": 2480,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I / GS-III **Grounded in:** Majid Husain, *India geography* + D.R. Khullar, *India: A Comprehensive Geography* + verified CA. ✅ = from source book · ⚠️ = inferen",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 627.491
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 554.424
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2494,
+      "markdown_body_line_end": 2499,
+      "heading": "1. Himalayan altitudinal zonation (Majid Husain)",
+      "preview": "Conifer (softwood) | Altitude / area | Note",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Conifer (softwood)",
+          "Altitude / area",
+          "Note"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 420.224
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 288.422
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2542,
+      "markdown_body_line_end": 2550,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Siberian climate world distribution",
+      "preview": "SIBERIA -> largest single taiga band, continental interior",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 535.491
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 453.091
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2554,
+      "markdown_body_line_end": 2559,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Climate character profile",
+      "preview": "WINTER -> bitterly cold, long, sub-Arctic; very large annual range",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 431.091
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 379.291
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2563,
+      "markdown_body_line_end": 2568,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Conifer adaptation chain",
+      "preview": "CONICAL SHAPE -> sheds snow load, prevents branch breakage",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 357.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 305.491
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2572,
+      "markdown_body_line_end": 2577,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Softwood economic chain",
+      "preview": "UNIFORM LOW-DIVERSITY STANDS -> mechanised extraction feasible",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2581,
+      "markdown_body_line_end": 2586,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Carbon storage mechanism",
+      "preview": "COLD SLOWS DECOMPOSITION -> organic matter accumulates in soil and peat",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2590,
+      "markdown_body_line_end": 2595,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Fire-thaw feedback loop",
+      "preview": "WARMING -> lengthens fire season and thaws permafrost",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2599,
+      "markdown_body_line_end": 2604,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Permafrost engineering impact",
+      "preview": "THAWING PERMAFROST -> ground loses bearing capacity",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2608,
+      "markdown_body_line_end": 2613,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Himalayan altitudinal zonation",
+      "preview": "SUBTROPICAL -> chir pine belt, 100-200 cm rain, fire-prone",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2617,
+      "markdown_body_line_end": 2622,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Himalayan conifer identification",
+      "preview": "SILVER-FIR (Abies) -> 2200-3000 m; planking, pulp, paper, matches",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2626,
+      "markdown_body_line_end": 2634,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Treeline and alpine pastures",
+      "preview": "CONIFEROUS FOREST -> gives way at the treeline altitude",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 262.091
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2638,
+      "markdown_body_line_end": 2646,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Biome comparison strip",
+      "preview": "TAIGA -> high-latitude coniferous, below-ground carbon, softwood economy",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2650,
+      "markdown_body_line_end": 2655,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Siberian climate answer spine",
+      "preview": "DEFINE -> Northern Hemisphere boreal coniferous belt with extreme continental range",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 631.091
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    }
+  ]
+}

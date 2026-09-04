@@ -1,0 +1,319 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Geography 01 — The Earth and the Universe / India Location and Extent: central question…
+
+```ascii-master
+GEOGRAPHY 01 — THE EARTH AND THE UNIVERSE / INDIA LOCATION AND EXTENT — CONCEPTUAL ATLAS
+
+
+KEY TERMS: Big Bang • Hot Dense Beginning • Expansion/redshift • Cosmic microwave background
+KEY TERMS: (CMB) • Light-element abundance • 13.8 billion years
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Geography 01 — The Earth and the Universe / India…
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       The exam-safe formulation is an extremely hot, dense early state…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: BIG BANG: HOT DENSE BEGINNING, EXPANSION AND EVIDENCE
+  • Big Bang
+  • The exam-safe formulation is an extremely hot, dense early state…
+AXIS 2: LOCAL TIME, STANDARD TIME, UTC/GMT AND INTERNATIONAL DATE LINE
+  • Local Time
+  • The International Date Line (IDL) broadly follows 180° but…
+AXIS 3: AREA, LAND BORDER AND THE 2025 COASTLINE REVISION
+  • Area
+  • It does not increase national area, create land or automatically…
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  Big Bang • Hot Dense Beginning • Expansion/redshift • Cosmic microwave background (CMB)
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Universe, Solar System, Earth shape and planetary motions
+
+```ascii-master
+UNIVERSE, SOLAR SYSTEM, EARTH SHAPE AND PLANETARY MOTIONS
+│
+
+KEY TERMS: Big Bang • Hot Dense Beginning • Expansion/redshift • Cosmic microwave background
+KEY TERMS: (CMB) • Light-element abundance • 13.8 billion years
+├── KEY CONCEPTS
+│   ├── Big Bang
+│   ├── Hot Dense Beginning
+│   ├── Expansion/redshift
+│   ├── Cosmic microwave background (CMB)
+│   └── Light-element abundance
+│
+├── BIG BANG: HOT DENSE BEGINNING, EXPANSION AND EVIDENCE
+│   ├─ TERMS: The exam-safe formulation is an extremely hot, dense early state…
+│   ├─ LOGIC: The exam-safe formulation is an extremely hot, dense early state…
+│   └─ RESULT: “Explosion” is misleading if it suggests matter flying from a…
+├── GALAXIES AND THE MASS-CONTROLLED LIFE CYCLE OF STARS
+│   ├─ TERMS: Initial stellar mass controls core pressure and fusion rate, so it…
+│   ├─ LOGIC: Greater initial mass raises core temperature and fusion rate…
+│   └─ RESULT: Low-mass stars usually survive longer, whereas sufficiently
+│   └─ RESULT: massive…
+├── FORMATION AND CLASSIFICATION OF THE SOLAR SYSTEM
+│   ├─ TERMS: The Solar System formed through gravitational collapse and
+│   ├─ TERMS: flattening of a rotating gas-dust nebula, followed by…
+│   ├─ LOGIC: The leading exam-safe model is gravitational collapse of a rotating…
+│   └─ RESULT: the Solar System formed through gravitational collapse and…
+├── EARTH'S SHAPE: OBLATE SPHEROID AND GEOID
+│   ├─ TERMS: Rotation produces a small equatorial bulge and polar flattening, so…
+│   ├─ LOGIC: Rotation produces a small equatorial bulge and polar flattening, so…
+│   └─ RESULT: The geoid is the equipotential surface of Earth's gravity field…
+├── ROTATION, REVOLUTION, AXIAL TILT AND LEAP-YEAR LOGIC
+│   ├─ TERMS: The Coriolis effect follows rotation but its full…
+│   ├─ LOGIC: The Coriolis effect follows rotation but its full…
+│   └─ RESULT: whereas revolution acting with axial tilt changes solar angle and…
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Seasons, coordinates, time, magnetosphere and Earth interior
+
+```ascii-master
+SEASONS, COORDINATES, TIME, MAGNETOSPHERE AND EARTH INTERIOR
+
+
+KEY TERMS: Seasons • Solstices • Equinoxes • Day Length • solar angle • Earth
+CAUSE / CONDITION 1: Earth is near perihelion in early January, during Northern…
+          │
+          ├── MECHANISM
+          │   earth is near perihelion in early January, during Northern…
+          │
+          └── EFFECT / CONTRAST
+              earth is near perihelion in early January, during Northern…
+          │
+          ▼
+CAUSE / CONDITION 2: Latitude measures angular distance north or south of the…
+          │
+          ├── MECHANISM
+          │   Longitude lines converge poleward
+          │
+          └── EFFECT / CONTRAST
+              therefore one degree of longitude becomes shorter away from the…
+          │
+          ▼
+CAUSE / CONDITION 3: Anadyr lies west of the line and Nome east of it: Anadyr is a…
+          │
+          ├── MECHANISM
+          │   The International Date Line (IDL) broadly follows 180° but zigzags…
+          │
+          └── EFFECT / CONTRAST
+              Anadyr lies west of the line and Nome east of it: Anadyr is a…
+          │
+          ▼
+CAUSE / CONDITION 4: Aurora is the visible result of solar particles guided by the…
+          │
+          ├── MECHANISM
+          │   India's low magnetic latitude reduces routine auroral visibility…
+          │
+          └── EFFECT / CONTRAST
+              aurora is the visible result of solar particles guided by the…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: India’s location, extent, Tropic of Cancer and standard meridian
+
+```ascii-master
+INDIA’S LOCATION, EXTENT, TROPIC OF CANCER AND STANDARD MERIDIAN
+
+UPSTREAM / OUTER SETTING
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ ZONE / LAYER A                                                       │
+│ ABSOLUTE COORDINATES, DIMENSIONS, AREA, RANK AND SHARE               │
+│ Process: The standard mainland envelope is 8°4'N–37°6'N and…         │
+│ Result : a coordinate envelope is a bounding box, not the country's… │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ ZONE / LAYER B                                                       │
+│ MAINLAND VERSUS FULL TERRITORY AND EXTREME-LOCATION CAUTIONS         │
+│ Process: A named settlement, inhabited point, sunrise claim and…     │
+│ Result : Use official Survey of India maps for legal cartography…    │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ ZONE / LAYER C                                                       │
+│ TROPIC OF CANCER: EIGHT-STATE ORDER AND SIGNIFICANCE                 │
+│ Process: The Tropic of Cancer at 23°30'N is the northern…            │
+│ Result : It is a powerful map-elimination line, but it neither…      │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ INDIA / LOCAL EXPRESSION                                             │
+│ STANDARD MERIDIAN, MIRZAPUR AND IST DERIVATION                       │
+│ Process: The standard map-aid list is Uttar Pradesh - Madhya…        │
+│ Result : the meridian is near-central, not exactly central           │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+SPATIAL CONTROL: locate the process, then compare scale and regional expression.
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Neighbours, oceanic position, coasts, islands and chokepoints
+
+```ascii-master
+NEIGHBOURS, OCEANIC POSITION, COASTS, ISLANDS AND CHOKEPOINTS
+
+
+KEY TERMS: East • West Solar-Time Spread • Unequal Dimensions • Eastern India • India • IST
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ EAST–WEST SOLAR-TIME   │ India's 29°18' longitudinal   │ Eastern India experiences     │
+│ SPREAD AND UNEQUAL     │ span produces about 117       │ local sunrise and noon        │
+│ DIMENSIONS             │ minutes of local solar-time   │ earlier than…                 │
+│                        │ difference…                   │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ AREA, LAND BORDER AND  │ The 2025 coastline figure of  │ The rise from the legacy      │
+│ THE 2025 COASTLINE     │ 11,098.81 km reflects finer   │ 7,516.6 km demonstrates the   │
+│ REVISION               │ GIS and…                      │ coastline…                    │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ LAND AND MARITIME      │ India's official              │ Sri Lanka and Maldives are    │
+│ NEIGHBOURS WITH        │ land-neighbour list contains  │ principal maritime neighbours │
+│ DISPUTE-SAFE MAPWORK   │ seven countries…              │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ INDIA AS A             │ “South Asia” is a modern      │ The term means a large and    │
+│ SUBCONTINENT: SCALE,   │ regional term whose           │ distinctive subdivision of    │
+│ COHERENCE, DIVERSITY   │ membership need not…          │ Asia, not an…                 │
+│ AND PERMEABILITY       │                               │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ INDIAN OCEAN           │ India's peninsular projection │ india's peninsular projection │
+│ CENTRALITY, SEAS,      │ gives it central relational…  │ gives it central relational…  │
+│ ROUTES AND CHOKEPOINTS │                               │                               │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Himalaya–ocean linkages, climate effects and map-safety rules
+
+```ascii-master
+HIMALAYA–OCEAN LINKAGES, CLIMATE EFFECTS AND MAP-SAFETY RULES
+
+
+KEY TERMS: Coast • Island System • Lakshadweep • Andaman • Nicobar • Basin
+UPSTREAM / OUTER SETTING
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ ZONE / LAYER A                                                       │
+│ COAST AND ISLAND SYSTEM: LAKSHADWEEP AND ANDAMAN–NICOBAR             │
+│ Process: Islands support search and rescue, maritime awareness and…  │
+│ Result : lakshadweep and Andaman-Nicobar extend India's western and… │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ ZONE / LAYER B                                                       │
+│ HIMALAYA AND OCEAN AS FILTERS AND CONNECTORS                         │
+│ Process: Filter explains both obstruction and selective passage      │
+│ Result : The Himalaya obstructs extremely cold continental air…      │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ ZONE / LAYER C                                                       │
+│ LATITUDE-LOCATION LINKS TO CLIMATE, BIODIVERSITY, AGRICULTURE AND…   │
+│ Process: arabian Sea/Bay of Bengal moisture, Himalayan relief and…   │
+│ Result : Altitude, climatic gradients and two marine flanks support… │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ INDIA / LOCAL EXPRESSION                                             │
+│ TRADE, SECURITY AND RELATIONAL STRATEGY                              │
+│ Process: Usable capability depends on ports, hinterland…             │
+│ Result : usable capability depends on ports, hinterland…             │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+SPATIAL CONTROL: locate the process, then compare scale and regional expression.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Geography 01 — The Earth and the Universe / India Location and Extent: traps, PYQ routes…
+
+```ascii-master
+GEOGRAPHY 01 — THE EARTH AND THE UNIVERSE / INDIA LOCATION AND EXTENT: TRAPS, PYQ…
+
+
+KEY TERMS: Big Bang • Hot Dense Beginning • Expansion/redshift • Cosmic microwave background
+KEY TERMS: (CMB) • Light-element abundance • 13.8 billion years
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── Do not equate Big Bang with a bomb exploding at one point in…
+├── aurora is the visible result of solar particles guided by the…
+├── it does not increase national area, create land or automatically…
+├── A high-scoring location answer moves from claim to named spatial…
+│
+├── 31
+├── The repository routes exactly these eight genuinely relevant demands
+├── as a verified PYQ merely because it resembles the topic
+├── 32
+│
+└── The Big Bang denotes the expansion and cooling of an extremely hot…
+└── The Tropic of Cancer crosses eight states from Gujarat to Mizoram…
+└── A safe UPSC map is schematic and not to scale, labels only…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Geography 01 — The Earth and the Universe / India Location and Extent: integrated…
+
+```ascii-master
+GEOGRAPHY 01 — THE EARTH AND THE UNIVERSE / INDIA LOCATION AND EXTENT — ANSWER / REVISION SPINE
+
+
+KEY TERMS: Big Bang • Hot Dense Beginning • Expansion/redshift • Cosmic microwave background
+KEY TERMS: (CMB) • Light-element abundance • 13.8 billion years
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ The exam-safe formulation is an extremely hot, dense early state…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ Big Bang
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ India's low magnetic latitude reduces routine auroral visibility…
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ Expansion/redshift
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ A high-scoring location answer moves from claim to named spatial…
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ A safe UPSC map is schematic and not to scale, labels only…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

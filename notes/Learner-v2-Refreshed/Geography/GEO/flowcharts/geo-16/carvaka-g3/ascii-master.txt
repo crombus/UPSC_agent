@@ -1,0 +1,80 @@
+ASCII MASTER FLOW — PANEL 1/12: Climate-type discriminator
+MONSOON Am -> seasonal wind reversal
+TROPICAL MARINE -> onshore Trades most months
+MONSOON RAIN -> strongly concentrated
+MARINE RAIN -> generally steadier distribution
+MUST REMEMBER: Tropical monsoon and trade-wind littoral climates arise from seasonal pressure
+  migration, cross-equatorial flow, ocean moisture, relief and convergence, producing a marked
+  wet season, short dry season and monsoon-forest adaptations.
+
+ASCII MASTER FLOW — PANEL 2/12: Three-level monsoon engine
+THERMAL -> land-sea pressure reversal
+DYNAMIC -> seasonal ITCZ migration
+UPPER AIR -> jet reorganisation
+OUTCOME -> cross-equatorial moist flow
+
+ASCII MASTER FLOW — PANEL 3/12: Seasonal circulation rail
+MAR-MAY -> thermal low and local storms
+JUN-SEP -> southwest advance and rain
+OCT-NOV -> withdrawal and Bay systems
+DEC-FEB -> dry NE flow; WDs in north-west
+
+ASCII MASTER FLOW — PANEL 4/12: Onset evidence ladder
+NORMAL DATE -> long-period reference
+ONSET DECLARATION -> observed criteria met
+BURST -> abrupt rain establishment
+SEASON RESULT -> verified only after completion
+
+ASCII MASTER FLOW — PANEL 5/12: Arabian Sea branch map
+ARABIAN SEA -> moisture-bearing branch
+WESTERN GHATS -> windward uplift and rain
+LEEWARD DECCAN -> rain shadow
+INTERIOR -> systems and relief modify totals
+
+ASCII MASTER FLOW — PANEL 6/12: Bay branch map
+BAY OF BENGAL -> branch and depressions
+NORTH-EAST HILLS -> forced uplift
+HIMALAYA -> blocks northward escape
+GANGA PLAIN -> west-north-west rain route
+
+ASCII MASTER FLOW — PANEL 7/12: Active-break switch
+TROUGH OVER PLAINS -> widespread active rain
+BAY LOWS -> inland rain corridors
+TROUGH TO FOOTHILLS -> plains break
+CROP STAGE -> impact can exceed total deficit
+
+ASCII MASTER FLOW — PANEL 8/12: Jet and WD firewall
+STWJ -> winter upper-air westerly regime
+TROPICAL EASTERLY FLOW -> summer monsoon aloft
+WESTERN DISTURBANCE -> extra-tropical system
+MONSOON DEPRESSION -> tropical rain-bearing low
+
+ASCII MASTER FLOW — PANEL 9/12: Variability timescales
+MJO -> weeks / active-break modulation
+ENSO -> inter-annual Pacific signal
+IOD -> Indian Ocean seasonal signal
+RULE -> none is a deterministic switch
+
+ASCII MASTER FLOW — PANEL 10/12: Coromandel rain chain
+SW MONSOON WITHDRAWS -> flow reverses
+NE FLOW CROSSES BAY -> moisture gained
+TAMIL NADU COAST -> onshore exposure
+RAIN + CYCLONE RISK -> retreating season
+CLOSE DISTINCTION: Monsoon means seasonal wind reversal/system, not merely heavy rain;
+  tropical marine eastern margins receive trade-wind/orographic rain and tropical cyclones,
+  while onset, burst, break and withdrawal are distinct Indian phases.
+
+ASCII MASTER FLOW — PANEL 11/12: Verified PYQ routes
+2023 GS-I -> Purvaiya and cultural ethos
+2026 PRELIMS -> island climate and rain
+2026 KEY -> provisional; no letter inferred
+METHOD -> map wind, season and regional meaning
+EVIDENCE LIMIT: Land-sea thermal contrast is necessary but insufficient: ITCZ, Tibetan
+  heating, jets, Mascarene High, ENSO, IOD, MJO and snow/soil states interact, so no single
+  driver explains each year's monsoon.
+
+ASCII MASTER FLOW — PANEL 12/12: Monsoon answer spine
+DEFINE -> reversal and marine contrast
+DERIVE -> thermal, ITCZ and jets
+MAP -> branches, breaks and retreat
+QUALIFY -> teleconnections and source status

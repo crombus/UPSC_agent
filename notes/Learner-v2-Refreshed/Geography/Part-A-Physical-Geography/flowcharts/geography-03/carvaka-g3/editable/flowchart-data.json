@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "topic_key": "geography-03",
+  "generation": 3,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-03\\g3\\geography-03_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    17208
+  ],
+  "stages": [
+    {
+      "title": "ENDOGENIC PROCESSES AND THE PLATE-TECTONIC FRAME",
+      "terms": "Plate tectonics explains why most strong earthquakes and active volcanoes form narrow belts rather than a random global scatter.",
+      "mechanism": "The Himalaya is intensely seismic because of continent–continent shortening, yet it lacks the continuous oceanic-slab arc volcanism typical of the Andes or Japan.",
+      "consequence": "The best explanatory chain is internal energy → plate movement → stress or melting → event → landform/hazard.",
+      "trap": "Plate tectonics explains why most strong earthquakes and active volcanoes form narrow belts rather than a random global scatter.",
+      "answer": "Plate tectonics explains why most strong earthquakes and active volcanoes form narrow belts rather than a random global scatter."
+    },
+    {
+      "title": "STRESS, STRAIN, ELASTIC REBOUND AND FAULTS",
+      "terms": "Fault maps identify where rupture has occurred or may be geologically possible; they do not by themselves provide a date-specific prediction.",
+      "mechanism": "Fault maps identify where rupture has occurred or may be geologically possible; they do not by themselves provide a date-specific prediction.",
+      "consequence": "Elastic strain is recoverable until failure, whereas permanent deformation remains.",
+      "trap": "Stress is force per unit area; strain is the deformation produced.",
+      "answer": "Elastic rebound converts long-term tectonic loading into short-duration ground shaking, explaining how gradual plate motion produces a sudden disaster trigger."
+    },
+    {
+      "title": "EARTHQUAKE TERMINOLOGY, CAUSES AND CLASSIFICATIONS",
+      "terms": "It does not mean every reservoir causes a damaging earthquake.",
+      "mechanism": "It does not mean every reservoir causes a damaging earthquake.",
+      "consequence": "Most damaging earthquakes are shallow because the source is closer to the surface, but damage is not fixed by depth alone.",
+      "trap": "“Human-induced” does not mean humans create tectonic stress from nothing.",
+      "answer": "Focal depth is a source descriptor, whereas disaster severity is a relational outcome produced by source, path, site, exposure and vulnerability."
+    },
+    {
+      "title": "FOCUS, EPICENTRE, SEISMOGRAPHS AND LOCATING AN EVENT",
+      "terms": "Modern location uses many stations, a velocity model and iterative computation.",
+      "mechanism": "The earliest small motion is normally the P arrival, followed by S and then longer-period surface waves.",
+      "consequence": "Three-circle triangulation is the learner model, not the full operational method.",
+      "trap": "Modern location uses many stations, a velocity model and iterative computation.",
+      "answer": "Epicentral location is a travel-time inference: arrival differences yield distance, multiple stations yield position, and additional modelling estimates depth and rupture geometry."
+    },
+    {
+      "title": "P, S, LOVE AND RAYLEIGH WAVES",
+      "terms": "S waves require shear rigidity and therefore do not pass through a liquid.",
+      "mechanism": "S waves require shear rigidity and therefore do not pass through a liquid.",
+      "consequence": "P waves can pass through both solid and liquid but change velocity and direction at material boundaries.",
+      "trap": "“Surface waves are most destructive” is a useful rule, not an absolute law.",
+      "answer": "Arrival order is P first, S second and surface waves later; medium control is P through solids and liquids but S through solids only."
+    },
+    {
+      "title": "REFRACTION, DISCONTINUITIES AND SHADOW ZONES",
+      "terms": "The reappearance of P phases beyond the shadow zone results from strong refraction through the core.",
+      "mechanism": "The reappearance of P phases beyond the shadow zone results from strong refraction through the core.",
+      "consequence": "Do not turn a classroom shadow-zone sketch into an exact operational travel-time model.",
+      "trap": "This is not evidence that the whole core is liquid; other wave evidence supports a solid inner core within the liquid outer core.",
+      "answer": "The larger S-wave shadow is a state-of-matter test, while the P-wave shadow is principally a refraction geometry."
+    },
+    {
+      "title": "MAGNITUDE, INTENSITY AND LOGARITHMIC ENERGY",
+      "terms": "Intensity is not a synonym for economic loss because two buildings at the same intensity can perform differently.",
+      "mechanism": "Mw converts this physical source measure to a logarithmic magnitude.",
+      "consequence": "Intensity is not a synonym for economic loss because two buildings at the same intensity can perform differently.",
+      "trap": "“Richter scale” properly refers to local magnitude developed for a particular instrumental and regional context.",
+      "answer": "Magnitude measures the earthquake; intensity measures the earthquake-at-a-place."
+    },
+    {
+      "title": "GLOBAL EARTHQUAKE DISTRIBUTION AND PLATE MARGINS",
+      "terms": "Ridge earthquakes are shallow because the lithosphere is thin and hot.",
+      "mechanism": "Its location reinforces the active western-Pacific plate-boundary belt; it does not prove that every Pacific earthquake produces a tsunami.",
+      "consequence": "Bhuj, Latur and New Madrid show that plate interiors are relatively—not absolutely—stable.",
+      "trap": "The Circum-Pacific belt is the dominant global concentration of subduction-related earthquakes and volcanoes.",
+      "answer": "Depth distribution is the diagnostic map layer: only a descending slab generates a systematic inclined belt from shallow trench earthquakes to intermediate and deep events."
+    },
+    {
+      "title": "SECONDARY HAZARDS, SITE RESPONSE AND THE RISK EQUATION",
+      "terms": "Hazard is physical possibility; vulnerability is susceptibility; risk is their interaction with exposure; disaster is realised severe disruption beyond coping capacity.",
+      "mechanism": "Urban disaster risk is often a network problem: a structurally surviving hospital may still fail functionally if power, water, access or communications collapse.",
+      "consequence": "Liquefaction is not “soil melting.” It is a temporary loss of effective stress and strength in susceptible saturated granular material.",
+      "trap": "Soft sediment can amplify selected frequencies as waves slow and grow in amplitude.",
+      "answer": "Hazard is physical possibility; vulnerability is susceptibility; risk is their interaction with exposure; disaster is realised severe disruption beyond coping capacity."
+    },
+    {
+      "title": "TSUNAMI GENERATION, PROPAGATION AND COASTAL IMPACT",
+      "terms": "In deep water, a tsunami can pass beneath ships with little notice.",
+      "mechanism": "“Move to 10 metres” is not a universal rule; follow official local maps and routes.",
+      "consequence": "In deep water, a tsunami can pass beneath ships with little notice.",
+      "trap": "Strong or long coastal shaking, unusual sea-level change or an official alert requires immediate movement along identified evacuation routes.",
+      "answer": "Strike-slip movement with little vertical displacement is less efficient at generating a large basin-wide tsunami than thrust displacement, although landslides triggered by any event may create a local tsunami."
+    },
+    {
+      "title": "VOLCANO ANATOMY, MAGMA, LAVA, SILICA, GAS AND VISCOSITY",
+      "terms": "A caldera is a much larger collapse structure commonly related to withdrawal of a substantial magma volume.",
+      "mechanism": "Dissolved volatiles exsolve into bubbles; if viscous magma prevents escape, gas pressure can fragment magma into tephra and drive explosive eruptions.",
+      "consequence": "Basaltic magma is generally hotter, less silica-rich and less viscous than andesitic or rhyolitic magma.",
+      "trap": "Water–magma interaction, conduit sealing, eruption rate and external water can change behaviour.",
+      "answer": "Silica raises viscosity, viscosity impedes degassing, retained gas raises pressure, and pressure-driven fragmentation makes an eruption explosive."
+    },
+    {
+      "title": "INTRUSIVE AND EXTRUSIVE FORMS; VOLCANIC PRODUCTS",
+      "terms": "Batholiths are very large discordant plutonic bodies later exposed by uplift and erosion.",
+      "mechanism": "Batholiths are very large discordant plutonic bodies later exposed by uplift and erosion.",
+      "consequence": "UPSC Prelims 2024 asked whether pyroclastic debris, ash and dust, nitrogen compounds and sulphur compounds are products of volcanic eruptions.",
+      "trap": "It is a flowing mixture of water and volcanic sediment, often channelled down valleys.",
+      "answer": "The same eruption has a spatially differentiated hazard field—ballistics near the vent, density currents on flanks, ash downwind and lahars down valleys."
+    },
+    {
+      "title": "ERUPTION STYLES, VOLCANO TYPES AND ACTIVITY STATUS",
+      "terms": "A volcano with no historical eruption may still be capable of renewed activity if geological and geophysical evidence shows a live system.",
+      "mechanism": "A volcano with no historical eruption may still be capable of renewed activity if geological and geophysical evidence shows a live system.",
+      "consequence": "“Active, dormant and extinct” are descriptive status classes, not a compulsory life cycle.",
+      "trap": "Narcondam is volcanic but should not be substituted for Barren Island in the 2018 PYQ.",
+      "answer": "Active status concerns eruptive capability; shield/composite concerns form; Hawaiian/Plinian concerns behaviour—UPSC can mix these axes in close options."
+    },
+    {
+      "title": "PLATE-SETTING VOLCANISM, RING OF FIRE AND MID-OCEAN RIDGES",
+      "terms": "The Ring of Fire includes trenches, island arcs, continental arcs, transform segments, earthquakes from shallow to deep, explosive volcanoes and tsunami-generating megathrusts around much of the Pacific margin.",
+      "mechanism": "The Ring of Fire includes trenches, island arcs, continental arcs, transform segments, earthquakes from shallow to deep, explosive volcanoes and tsunami-generating megathrusts around much of the Pacific margin.",
+      "consequence": "The Mediterranean–Himalayan belt is not one uniform volcanic arc.",
+      "trap": "Continental rifts may begin with normal faulting and basaltic volcanism; continued extension can develop a narrow sea and eventually an ocean basin.",
+      "answer": "The Ring of Fire is a linked trench–earthquake–arc system, not merely a ring-shaped list of volcanoes."
+    },
+    {
+      "title": "MANTLE PLUMES, HOT SPOTS AND FLOOD BASALTS",
+      "terms": "Deccan volcanism is associated in standard plume interpretation with the Réunion hot-spot system and the Indian Plate's passage, while the Hawaiian chain illustrates a long-lived oceanic hot spot.",
+      "mechanism": "Hot spots can supply a reference frame for plate direction and relative rate independent of ridge magnetic stripes, though plume motion and mantle flow complicate a perfectly fixed frame.",
+      "consequence": "Deccan volcanism is associated in standard plume interpretation with the Réunion hot-spot system and the Indian Plate's passage, while the Hawaiian chain illustrates a long-lived oceanic hot spot.",
+      "trap": "The Deccan Traps are not a giant single cone.",
+      "answer": "The deep-plume hypothesis is influential but not the only explanation of intraplate volcanism; lithospheric extension, edge-driven convection and shallow mantle heterogeneity may also contribute."
+    },
+    {
+      "title": "CONSTRUCTIVE, DESTRUCTIVE, CLIMATIC AND ENVIRONMENTAL EFFECTS",
+      "terms": "The climatic effect depends on what reaches the stratosphere, while the regional effect depends on where ash, lava, pyroclastic currents and lahars travel.",
+      "mechanism": "Short-lived cooling after a major explosive eruption is principally associated with stratospheric sulphate aerosols, not with ash remaining aloft indefinitely.",
+      "consequence": "Ash can eventually contribute nutrients, but fresh ash may initially smother crops, contaminate water and damage machinery.",
+      "trap": "Volcanic landscapes support tourism, geothermal power and mineral resources, but these benefits may also increase settlement and exposure.",
+      "answer": "The climatic effect depends on what reaches the stratosphere, while the regional effect depends on where ash, lava, pyroclastic currents and lahars travel."
+    },
+    {
+      "title": "INDIA'S TECTONIC FRAMEWORK AND REGIONAL SEISMIC RISK",
+      "terms": "India's earthquake geography must connect tectonic source, geomorphic site and settlement vulnerability; a zone label alone cannot explain loss.",
+      "mechanism": "The 2001 Bhuj earthquake demonstrates severe intraplate risk in Kachchh and the role of non-engineered construction and liquefaction.",
+      "consequence": "Event counts show monitoring and active deformation, not a deterministic forecast of a larger event.",
+      "trap": "The Peninsular shield is relatively stable, not aseismic.",
+      "answer": "India's earthquake geography must connect tectonic source, geomorphic site and settlement vulnerability; a zone label alone cannot explain loss."
+    },
+    {
+      "title": "INDIA SEISMIC ZONATION, MICROZONATION AND CLASSIFICATION CAUTION",
+      "terms": "Because the corresponding adopted BIS standard/map could not be independently verified on the public BIS portal at the package cutoff, this package does not silently replace the code baseline with Zone VI.",
+      "mechanism": "Because the corresponding adopted BIS standard/map could not be independently verified on the public BIS portal at the package cutoff, this package does not silently replace the code baseline with Zone VI.",
+      "consequence": "NCS defines seismic hazard microzonation as classification into zones of relatively similar exposure to earthquake effects and describes it as a GIS-based, site-specific planning tool.",
+      "trap": "Microzonation must feed building regulation, land use, lifeline siting and retrofit priorities.",
+      "answer": "The familiar BIS macrozonation uses Zones II, III, IV and V; there is no Zone I in that framework."
+    },
+    {
+      "title": "INSTITUTIONS, RESILIENT CONSTRUCTION, EARLY WARNING LIMITS AND PREPAREDNESS",
+      "terms": "[CA FACT] NCS June 2026 monthly report: 445 earthquakes were located globally by NCS during the month, with 230 in India and its neighbourhood; a preliminary report covered the 5 June Chamba M5.0 event. [CA FACT] PIB 22 July 2026: 16 June events in Kangra–Chamba; NCS network stated as 172 stations. [CA FACT] PIB 23 July 2026: structural-safety audits, BIS codes, retrofitting and state/ULB enforcement responsibilities. [CA FACT] USGS reviewed events: Mw 7.8 Philippines on 7 June 2026 and Mw 7.7 north-northwest of Ende, Indonesia, on 14 August 2026 illustrate continuing Ring-of-Fire seismicity. [CA FACT] USGS/HVO 10 March 2026: Kīlauea episode 43 provides a current volcanic-products and monitoring illustration.",
+      "mechanism": "[CA FACT] NCS June 2026 monthly report: 445 earthquakes were located globally by NCS during the month, with 230 in India and its neighbourhood; a preliminary report covered the 5 June Chamba M5.0 event. [CA FACT] PIB 22 July 2026: 16 June events in Kangra–Chamba; NCS network stated as 172 stations. [CA FACT] PIB 23 July 2026: structural-safety audits, BIS codes, retrofitting and state/ULB enforcement responsibilities. [CA FACT] USGS reviewed events: Mw 7.8 Philippines on 7 June 2026 and Mw 7.7 north-northwest of Ende, Indonesia, on 14 August 2026 illustrate continuing Ring-of-Fire seismicity. [CA FACT] USGS/HVO 10 March 2026: Kīlauea episode 43 provides a current volcanic-products and monitoring illustration.",
+      "consequence": "It is not prediction; warning time is short and near-source blind zones are unavoidable.",
+      "trap": "The implementation gap is often the decisive risk multiplier: a technically sound code that is not adopted, supervised or enforced does not create a safe building.",
+      "answer": "Earthquake resilience is less a problem of knowing that a city is at risk than of converting that knowledge into enforced design, retrofitted lifelines and rehearsed behaviour."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 3,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7760,
+      "y_end": 9960,
+      "overlap_px": 260,
+      "from_stage": 9,
+      "continues_stage": 12
+    },
+    {
+      "page": 6,
+      "y_start": 9700,
+      "y_end": 11900,
+      "overlap_px": 260,
+      "from_stage": 11,
+      "continues_stage": 14
+    },
+    {
+      "page": 7,
+      "y_start": 11640,
+      "y_end": 13840,
+      "overlap_px": 260,
+      "from_stage": 14,
+      "continues_stage": 16
+    },
+    {
+      "page": 8,
+      "y_start": 13580,
+      "y_end": 15780,
+      "overlap_px": 260,
+      "from_stage": 16,
+      "continues_stage": 18
+    },
+    {
+      "page": 9,
+      "y_start": 15008,
+      "y_end": 17208,
+      "overlap_px": 260,
+      "from_stage": 17,
+      "continues_stage": 19
+    }
+  ]
+}

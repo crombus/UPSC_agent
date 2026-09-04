@@ -1,0 +1,318 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Geography 04 — Weathering, Mass Movement…: central question and analytical axes
+
+```ascii-master
+GEOGRAPHY 04 — WEATHERING, MASS MOVEMENT, GROUNDWATER / INDIA… — CONCEPTUAL ATLAS
+
+
+KEY TERMS: The Exogenic Process System • Weathering • Erosion • Transport • Deposition •
+KEY TERMS: Mass Wasting
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Geography 04 — Weathering, Mass Movement, Groundwater…
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       A slope is a linked system: weathering supplies material, water…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: THE EXOGENIC PROCESS SYSTEM: WEATHERING, EROSION, TRANSPORT…
+  • The Exogenic Process System
+  • A slope is a linked system: weathering supplies material, water…
+AXIS 2: MASS-MOVEMENT TAXONOMY: CREEP, SOLIFLUCTION, FALLS, SLIDES…
+  • Mass-Movement Taxonomy
+  • Mass movements include falls, slides/slumps, flows and creep
+AXIS 3: AQUIFER TYPES, SPRINGS AND WELLS
+  • Aquifer Types
+  • The water-table concept is most directly applied to unconfined…
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  The Exogenic Process System • Weathering • Erosion • Transport
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Exogenic system, weathering controls, regolith and soils
+
+```ascii-master
+EXOGENIC SYSTEM, WEATHERING CONTROLS, REGOLITH AND SOILS
+│
+
+KEY TERMS: The Exogenic Process System • Weathering • Erosion • Transport • Deposition •
+KEY TERMS: Mass Wasting
+├── KEY CONCEPTS
+│   ├── The Exogenic Process System
+│   ├── Weathering
+│   ├── Erosion
+│   ├── Transport
+│   └── Deposition
+│
+├── THE EXOGENIC PROCESS SYSTEM: WEATHERING, EROSION, TRANSPORT…
+│   ├─ TERMS: A slope is a linked system: weathering supplies material, water…
+│   ├─ LOGIC: A slope is a linked system: weathering supplies material, water…
+│   └─ RESULT: Weathering is not “erosion without a river”
+├── CONTROLS OF WEATHERING: ROCK, STRUCTURE, CLIMATE, RELIEF…
+│   ├─ TERMS: Weathering is controlled not by climate alone but by the interaction
+│   ├─ TERMS: of energy and moisture with mineralogy…
+│   ├─ LOGIC: Therefore “humid climate means one uniform weathering product” is…
+│   └─ RESULT: weathering is controlled not by climate alone but by the…
+├── MECHANICAL, CHEMICAL AND BIOLOGICAL WEATHERING
+│   ├─ TERMS: Mechanical, Chemical And Biological Weathering comprises Mechanical,
+│   ├─ TERMS: Chemical and Biological Weathering as its core…
+│   ├─ LOGIC: Chemical weathering can generate clay minerals, which can influence…
+│   └─ RESULT: Mechanical = disintegration
+├── REGOLITH, PEDOGENESIS, SOIL HORIZONS AND BLACK SOIL
+│   ├─ TERMS: weathering produces regolith, and regolith becomes soil — yet no…
+│   ├─ LOGIC: weathering produces regolith, and regolith becomes soil — yet no…
+│   └─ RESULT: Trap: black soil is derived from basaltic lava, not from "black…
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Erosion and mass movement: taxonomy, slope stability and triggers
+
+```ascii-master
+EROSION AND MASS MOVEMENT: TAXONOMY, SLOPE STABILITY AND TRIGGERS
+
+
+KEY TERMS: Soil Erosion • Sheet • Rill • Gully • Ravine • Bounded Wind/Coastal Links
+CAUSE / CONDITION 1: Rills may be small
+          │
+          ├── MECHANISM
+          │   Sheet erosion can be diffuse but agriculturally serious because it…
+          │
+          └── EFFECT / CONTRAST
+              Chambal is an exam-safe ravine/badland anchor
+          │
+          ▼
+CAUSE / CONDITION 2: Mass movements include falls, slides/slumps, flows and creep
+          │
+          ├── MECHANISM
+          │   Mass movements include falls, slides/slumps, flows and creep
+          │
+          └── EFFECT / CONTRAST
+              Stability changes when driving stresses exceed resisting strength
+          │
+          ▼
+CAUSE / CONDITION 3: Rainfall may be the immediate trigger while geology, slope…
+          │
+          ├── MECHANISM
+          │   Shear strength depends on cohesion, friction, effective normal…
+          │
+          └── EFFECT / CONTRAST
+              Rainfall may be the immediate trigger while geology, slope…
+          │
+          ▼
+CAUSE / CONDITION 4: India's landslide-prone terrain includes the Himalaya and…
+          │
+          ├── MECHANISM
+          │   Western Ghats/Nilgiris answers should connect intense rain and…
+          │
+          └── EFFECT / CONTRAST
+              The GSI landslide-hazard programme and ISRO Landslide Atlas are…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: India’s landslide geography, forecasting, mitigation and subsidence
+
+```ascii-master
+INDIA’S LANDSLIDE GEOGRAPHY, FORECASTING, MITIGATION AND SUBSIDENCE
+
+
+KEY TERMS: Landslide Inventory • Susceptibility • Forecasting Limits • Mitigation •
+KEY TERMS: Inventory • mapped/reported past events
+UPSTREAM / OUTER SETTING
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ ZONE / LAYER A                                                       │
+│ LANDSLIDE INVENTORY, SUSCEPTIBILITY, FORECASTING LIMITS AND…         │
+│ Process: Inventory tells where events have been recorded             │
+│ Result : It also noted sparse rain gauges and possible local…        │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ ZONE / LAYER B                                                       │
+│ SUBSIDENCE VERSUS LANDSLIDE: THE BOUNDED JOSHIMATH FRAME             │
+│ Process: Joshimath is an example of multi-causal ground…             │
+│ Result : Old landslide/debris material may be heterogeneous and…     │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ ZONE / LAYER C                                                       │
+│ GROUNDWATER IN THE HYDROLOGIC CYCLE AND THE WATER BUDGET             │
+│ Process: Pumping may capture water that otherwise fed…               │
+│ Result : Water-table rise or fall reflects a balance through time…   │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ INDIA / LOCAL EXPRESSION                                             │
+│ POROSITY, PERMEABILITY, INFILTRATION, PERCOLATION AND SUBSURFACE…    │
+│ Process: Porosity is the amount of pore space                        │
+│ Result : High porosity alone does not guarantee high permeability    │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+SPATIAL CONTROL: locate the process, then compare scale and regional expression.
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Groundwater cycle, aquifers, hydrogeology, depletion and quality
+
+```ascii-master
+GROUNDWATER CYCLE, AQUIFERS, HYDROGEOLOGY, DEPLETION AND QUALITY
+
+
+KEY TERMS: Aquifer Types • Springs • Wells • Unconfined • open upper boundary at water table
+KEY TERMS: • vulnerable to surface…
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ AQUIFER TYPES, SPRINGS │ In an artesian condition,     │ Artesian pressure does not    │
+│ AND WELLS              │ water in a confined aquifer   │ eliminate recharge            │
+│                        │ rises in a well to its        │ dependence, depletion…        │
+│                        │ potentiometric…               │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ INDIA'S                │ India'S Hydrogeological       │ Ministry of Jal Shakti’s 3    │
+│ HYDROGEOLOGICAL        │ Regions And Assessment        │ August 2026 release reports   │
+│ REGIONS AND ASSESSMENT │ Vocabulary comprises India'S  │ CGWB/NAQUIM…                  │
+│ VOCABULARY             │ Hydrogeological…              │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ GROUNDWATER DEPLETION, │ Food security is more than    │ Not every falling well level  │
+│ AGRICULTURE-ENERGY     │ aggregate grain output: small │ produces measurable           │
+│ INCENTIVES, FOOD       │ farmers’ ability to deepen    │ subsidence, and…              │
+│ SECURITY AND…          │ wells…                        │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ GROUNDWATER QUALITY:   │ Arsenic, fluoride, nitrate    │ Wrong: A falling water table  │
+│ ARSENIC, FLUORIDE,     │ and salinity have different   │ proves arsenic or fluoride…   │
+│ NITRATE, SALINITY AND… │ geochemical…                  │                               │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Coastal intrusion, recharge, watershed management and institutions
+
+```ascii-master
+COASTAL INTRUSION, RECHARGE, WATERSHED MANAGEMENT AND INSTITUTIONS
+
+
+KEY TERMS: Coastal Aquifers • Seawater Intrusion • Upconing • groundwater interface •
+KEY TERMS: Excessive pumping • freshwater head falls
+CAUSE / CONDITION 1: Causes can include pumping, reduced recharge, coastal…
+          │
+          ├── MECHANISM
+          │   The central mechanism is freshwater hydraulic head: when excessive…
+          │
+          └── EFFECT / CONTRAST
+              Seawater intrusion is a groundwater interface problem, not a…
+          │
+          ▼
+CAUSE / CONDITION 2: Managed aquifer recharge is planned replenishment under…
+          │
+          ├── MECHANISM
+          │   Rooftop harvesting can capture rainfall and route it to storage or…
+          │
+          └── EFFECT / CONTRAST
+              Managed aquifer recharge is planned replenishment under…
+          │
+          ▼
+CAUSE / CONDITION 3: A spring-shed is the hydrogeological recharge area feeding…
+          │
+          ├── MECHANISM
+          │   Soil erosion, slope instability and groundwater stress are linked…
+          │
+          └── EFFECT / CONTRAST
+              Community/aquifer-level water budgeting makes withdrawal and…
+          │
+          ▼
+CAUSE / CONDITION 4: Prelims elimination: test mechanism, scale and conditionality…
+          │
+          ├── MECHANISM
+          │   A Geography answer becomes analytical when it locates the setting…
+          │
+          └── EFFECT / CONTRAST
+              claim - named evidence - analysis - qualification - verdict
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Geography 04 — Weathering, Mass Movement…: traps, PYQ routes and applied recall
+
+```ascii-master
+GEOGRAPHY 04 — WEATHERING, MASS MOVEMENT…: TRAPS, PYQ ROUTES AND APPLIED RECALL
+
+
+KEY TERMS: The Exogenic Process System • Weathering • Erosion • Transport • Deposition •
+KEY TERMS: Mass Wasting
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── A landslide can deliver sediment to a river, but the initial…
+├── this separation is essential for both diagnosis and prevention
+├── National averages can improve while particular aquifers, blocks…
+├── Use one visual that answers the directive
+│
+├── VERIFIED PYQ 1 — UPSC Prelims 2021 GS-I Q64: black cotton soil
+├── Exact question: The black cotton soil of India has been formed due to the…
+├── VERIFIED PYQ 2 — UPSC Prelims 2023 GS-I Q76: groundwater withdrawal
+├── VERIFIED PYQ 3 — UPSC Prelims 2024 GS-I Q7: rainfall and weathering
+│
+└── Denudation is a connected source–transfer–storage system, but…
+└── Groundwater is a dynamic stock governed by recharge, discharge…
+└── A map should label broad regions (Himalaya, Western Ghats/Nilgiris…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Geography 04 — Weathering, Mass Movement…: integrated revision and answer-writing spine
+
+```ascii-master
+GEOGRAPHY 04 — WEATHERING, MASS MOVEMENT, GROUNDWATER / INDIA… — ANSWER / REVISION SPINE
+
+
+KEY TERMS: The Exogenic Process System • Weathering • Erosion • Transport • Deposition •
+KEY TERMS: Mass Wasting
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ A slope is a linked system: weathering supplies material, water…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ The Exogenic Process System
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ Shear strength depends on cohesion, friction, effective normal…
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ Erosion
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ Use one visual that answers the directive
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ A map should label broad regions (Himalaya, Western Ghats/Nilgiris…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

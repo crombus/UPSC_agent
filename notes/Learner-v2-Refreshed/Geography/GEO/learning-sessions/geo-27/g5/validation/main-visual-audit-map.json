@@ -1,0 +1,2446 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g5\\geography-27_Complete-Learning-Session_2026-09-02.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g5\\geography-27_Complete-Learning-Session_2026-09-02.pdf",
+  "mode": "main",
+  "topic_key": "geography-27",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Migration Theories and Patterns (India) - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 418.024
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 155.422
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 50,
+      "markdown_body_line_end": 50,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g5\\assets\\geography-27_Teaching-Navigation_2026-08-22.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 529.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 221.556
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 64,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Migration definition: Migration is a change in usual residence across a meaningful geographic or administrative boundary, and datasets may track it by place of birth or last usual residence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 79,
+      "markdown_body_line_end": 83,
+      "heading": "VISUAL FIRST",
+      "preview": "MIGRATION DEFINITION AND DATA RULE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 111,
+      "markdown_body_line_end": 128,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - MIGRATION DEFINITION AND DATA RULE",
+      "preview": "START / CONCEPT: FOUNDATION — Migration definition and data rule",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 219
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 139,
+      "markdown_body_line_end": 139,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Push-pull logic: Migration is commonly explained through push factors at the origin and pull factors at the destination.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 383.024
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 154,
+      "markdown_body_line_end": 158,
+      "heading": "VISUAL FIRST",
+      "preview": "PUSH AND PULL FACTORS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 186,
+      "markdown_body_line_end": 203,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - PUSH AND PULL FACTORS",
+      "preview": "START / CONCEPT: FOUNDATION — Push and pull factors",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 152
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 477.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 276.491
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 214,
+      "markdown_body_line_end": 214,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Ravenstein laws - Distance-decay principle Qualified use: Explain distance-decay, short moves and counter-streams together.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 150.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 84.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 229,
+      "markdown_body_line_end": 236,
+      "heading": "VISUAL FIRST",
+      "preview": "RAVENSTEIN AND SHORT-DISTANCE LOGIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 647.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 576.691
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 265,
+      "markdown_body_line_end": 282,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - RAVENSTEIN AND SHORT-DISTANCE LOGIC",
+      "preview": "START / CONCEPT: FOUNDATION — Ravenstein and short-distance logic",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 168
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 262.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 61.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 293,
+      "markdown_body_line_end": 293,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Lee framework: Lee's framework explains migration through origin factors, destination factors, intervening obstacles and personal selectivity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 308,
+      "markdown_body_line_end": 312,
+      "heading": "VISUAL FIRST",
+      "preview": "LEE FRAMEWORK AND SELECTIVITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 340,
+      "markdown_body_line_end": 357,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - LEE FRAMEWORK AND SELECTIVITY",
+      "preview": "START / CONCEPT: FOUNDATION — Lee framework and selectivity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 171
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 368,
+      "markdown_body_line_end": 368,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Step migration chain Qualified use: Use village-town-city-metropolis as the classic sequence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 479.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 427.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 383,
+      "markdown_body_line_end": 387,
+      "heading": "VISUAL FIRST",
+      "preview": "STEP MIGRATION CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 415,
+      "markdown_body_line_end": 432,
+      "heading": "CLOSING RECALL FLOW - CORE - STEP MIGRATION CHAIN",
+      "preview": "START / CONCEPT: CORE — Step migration chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 138
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 477.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 286.491
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 443,
+      "markdown_body_line_end": 443,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Circular and seasonal migration Qualified use: Use it to explain precarity, construction labour and welfare-portability issues.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 165.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 99.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 458,
+      "markdown_body_line_end": 462,
+      "heading": "VISUAL FIRST",
+      "preview": "CIRCULAR AND SEASONAL MIGRATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 664.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 623.891
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 490,
+      "markdown_body_line_end": 507,
+      "heading": "CLOSING RECALL FLOW - CORE - CIRCULAR AND SEASONAL MIGRATION",
+      "preview": "START / CONCEPT: CORE — Circular and seasonal migration",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 173
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 340.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 129.891
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 518,
+      "markdown_body_line_end": 518,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Stream classification: Migration can be classified as internal or international and, within internal migration, as rural-rural, rural-urban, urban-urban and urban-rural streams.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 533,
+      "markdown_body_line_end": 537,
+      "heading": "VISUAL FIRST",
+      "preview": "MIGRATION STREAM CLASSIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 565,
+      "markdown_body_line_end": 582,
+      "heading": "CLOSING RECALL FLOW - CORE - MIGRATION STREAM CLASSIFICATION",
+      "preview": "START / CONCEPT: CORE — Migration stream classification",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 206
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 593,
+      "markdown_body_line_end": 593,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Rural-rural dominance - Marriage migration dominance Qualified use: Explain why marriage keeps rural-rural migration large in India.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 368.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 608,
+      "markdown_body_line_end": 615,
+      "heading": "VISUAL FIRST",
+      "preview": "RURAL-RURAL AND MARRIAGE MIGRATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 644,
+      "markdown_body_line_end": 661,
+      "heading": "CLOSING RECALL FLOW - CORE - RURAL-RURAL AND MARRIAGE MIGRATION",
+      "preview": "START / CONCEPT: CORE — Rural-rural and marriage migration",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 177
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 387.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 176.691
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 672,
+      "markdown_body_line_end": 672,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Rural-urban urbanisation link Qualified use: Show why rural-urban flow remains the urban-growth stream.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 687,
+      "markdown_body_line_end": 691,
+      "heading": "VISUAL FIRST",
+      "preview": "RURAL-URBAN AND URBANISATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 719,
+      "markdown_body_line_end": 736,
+      "heading": "CLOSING RECALL FLOW - CORE - RURAL-URBAN AND URBANISATION",
+      "preview": "START / CONCEPT: CORE — Rural-urban and urbanisation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 165
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 747,
+      "markdown_body_line_end": 747,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Migration redistributes people, income, skills and service burdens between linked source and destination regions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 762,
+      "markdown_body_line_end": 766,
+      "heading": "VISUAL FIRST",
+      "preview": "SOURCE AND DESTINATION EFFECTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 794,
+      "markdown_body_line_end": 811,
+      "heading": "CLOSING RECALL FLOW - CORE - SOURCE AND DESTINATION EFFECTS",
+      "preview": "START / CONCEPT: CORE — Source and destination effects",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 153
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 242.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 822,
+      "markdown_body_line_end": 822,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India's differentiated mobility: Khullar describes India as historically less mobile than many Western societies but internally very differentiated by marriage, labour and interstate variation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 121.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 54.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 837,
+      "markdown_body_line_end": 841,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA'S DIFFERENTIATED MOBILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 587.691
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 869,
+      "markdown_body_line_end": 886,
+      "heading": "CLOSING RECALL FLOW - CORE - INDIA'S DIFFERENTIATED MOBILITY",
+      "preview": "START / CONCEPT: CORE — India's differentiated mobility",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 222
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 304.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 73.691
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 897,
+      "markdown_body_line_end": 897,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A migration statistic is usable evidence only when agency, survey period, denominator and category travel with the number.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 912,
+      "markdown_body_line_end": 919,
+      "heading": "VISUAL FIRST",
+      "preview": "MOSPI 2020-21 HEADLINE FIGURES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 375.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 948,
+      "markdown_body_line_end": 965,
+      "heading": "CLOSING RECALL FLOW - CORE - MOSPI 2020-21 HEADLINE FIGURES",
+      "preview": "START / CONCEPT: CORE — MoSPI 2020-21 headline figures",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 176
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 976,
+      "markdown_body_line_end": 976,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Intrastate versus interstate: In MoSPI 2020-21, 87.5 percent of migrants were intrastate and 12.5 percent were interstate.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 459.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 393.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 991,
+      "markdown_body_line_end": 995,
+      "heading": "VISUAL FIRST",
+      "preview": "INTRASTATE VERSUS INTERSTATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1023,
+      "markdown_body_line_end": 1040,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - INTRASTATE VERSUS INTERSTATE",
+      "preview": "START / CONCEPT: SYNTHESIS — Intrastate versus interstate",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 151
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 477.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 266.491
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1051,
+      "markdown_body_line_end": 1051,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Net gainers and senders: Khullar's spatial pattern shows Maharashtra, Gujarat, Delhi, Haryana and Punjab as classic gainers, while Bihar, Uttar Pradesh, Odisha and east-central belts are major sending regions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 131.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 64.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1066,
+      "markdown_body_line_end": 1073,
+      "heading": "VISUAL FIRST",
+      "preview": "NET GAINERS AND SENDING REGIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 557.691
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1102,
+      "markdown_body_line_end": 1119,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - NET GAINERS AND SENDING REGIONS",
+      "preview": "START / CONCEPT: SYNTHESIS — Net gainers and sending regions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 238
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1130,
+      "markdown_body_line_end": 1130,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Circular undercount and urban stress: Circular migration is undercount-prone in usual-residence measures, while destination cities face rental insecurity, service pressure and informal settlement growth.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 345.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1145,
+      "markdown_body_line_end": 1152,
+      "heading": "VISUAL FIRST",
+      "preview": "REMITTANCES, UNDERCOUNT AND URBAN STRESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1180,
+      "markdown_body_line_end": 1183,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I **Grounded in:** Majid Husain, *Indian & World Geography* + G.C. Leong for physical-resource context + verified MoSPI current anchor. ✅ = from source bo",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 395.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 300.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1191,
+      "markdown_body_line_end": 1198,
+      "heading": "1. What migration means in geography",
+      "preview": "Basic term | Meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Basic term",
+          "Meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 230.824
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 67.822
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1202,
+      "markdown_body_line_end": 1202,
+      "heading": "2. Classical theories you should know",
+      "preview": "⚠️ Migration models are analytical tools, not iron laws; motives, obstacles and selectivity interact. The models below are therefore best used as analytical tools, not iron laws.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1204,
+      "markdown_body_line_end": 1210,
+      "heading": "2. Classical theories you should know",
+      "preview": "Theory / idea | Core proposition | UPSC utility",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Theory / idea",
+          "Core proposition",
+          "UPSC utility"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 742.624
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 522.422
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1216,
+      "markdown_body_line_end": 1223,
+      "heading": "3. Types and streams of migration",
+      "preview": "Type | Example | Static note",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Type",
+          "Example",
+          "Static note"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 467.022
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 304.02
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1229,
+      "markdown_body_line_end": 1235,
+      "heading": "4. Effects on source and destination regions",
+      "preview": "Effect | Source area | Destination area",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Effect",
+          "Source area",
+          "Destination area"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 248.62
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 118.019
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1268,
+      "markdown_body_line_end": 1272,
+      "heading": "CA Anchor - MoSPI's Migration in India 2020-21",
+      "preview": "Current fact | Static concept",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Current fact",
+          "Static concept"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 427.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 339.49
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1295,
+      "markdown_body_line_end": 1297,
+      "heading": "12. Migration models, India's streams and the policy question",
+      "preview": "**Why this section exists:** the file named Ravenstein and Lee but omitted the **predictive and economic models**, carried **no Indian migration corridors or streams**, and treated remittances and distress migration as passing mentions. Tho",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1301,
+      "markdown_body_line_end": 1309,
+      "heading": "12.1 The model set, arranged by what each explains",
+      "preview": "Model | Core proposition | What it explains well | Where it fails",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Model",
+          "Core proposition",
+          "What it explains well",
+          "Where it fails"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 706.424
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 266.022
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1317,
+      "markdown_body_line_end": 1325,
+      "heading": "12.2 India's migration geography",
+      "preview": "Stream | Character | Analytical point",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Stream",
+          "Character",
+          "Analytical point"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 479.89
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1341,
+      "markdown_body_line_end": 1345,
+      "heading": "12.3 Effects, stated as a balance sheet",
+      "preview": " | **Source region** | **Destination region**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "",
+          "**Source region**",
+          "**Destination region**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 319.09
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 141.288
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1357,
+      "markdown_body_line_end": 1359,
+      "heading": "12.3 Effects, stated as a balance sheet",
+      "preview": "⚠️ **Factual caution:** do **not** quote a migrant count, a share of internal migrants, remittance values or corridor volumes from memory. The folder's Census-currency rule applies, and any survey figure must carry its source name and relea",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 755.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 696.824
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1365,
+      "markdown_body_line_end": 1370,
+      "heading": "13.1 Directive decoding",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 655.824
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 456.822
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1397,
+      "markdown_body_line_end": 1403,
+      "heading": "13.3 Evidence units available in this file",
+      "preview": "**Claim:** migration continues toward cities that already have visible unemployment, so the observed-wage explanation is inadequate. **Evidence:** the expected-income framework holds that migrants weigh the urban wage by the probability of ",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 685.824
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1405,
+      "markdown_body_line_end": 1411,
+      "heading": "13.3 Evidence units available in this file",
+      "preview": "**Claim:** migration corridors are social structures, not merely economic gradients. **Evidence:** specific source districts feed specific destination cities over decades because earlier migrants supply information, housing, credit and job ",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 685.824
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 598.556
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1417,
+      "markdown_body_line_end": 1418,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 598.556
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 531.888
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1424,
+      "markdown_body_line_end": 1426,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 480.288
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 404.387
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1432,
+      "markdown_body_line_end": 1432,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 365.187
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 320.519
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1437,
+      "markdown_body_line_end": 1454,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - REMITTANCES, UNDERCOUNT AND URBAN STRESS",
+      "preview": "START / CONCEPT: SYNTHESIS — Remittances, undercount and urban stress",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 232
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 298.519
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 57.519
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2273,
+      "markdown_body_line_end": 2274,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 682.691
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 616.024
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2280,
+      "markdown_body_line_end": 2282,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 564.424
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 488.522
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2288,
+      "markdown_body_line_end": 2288,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 449.322
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 404.654
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2293,
+      "markdown_body_line_end": 2294,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 404.654
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 337.987
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2300,
+      "markdown_body_line_end": 2302,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 286.387
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 189.485
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2308,
+      "markdown_body_line_end": 2308,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 150.285
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 105.617
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2566,
+      "markdown_body_line_end": 2569,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain, *Geography of India* + distinct verified MoSPI/Census current anchor. ✅ = fro",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 529.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 456.224
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2579,
+      "markdown_body_line_end": 2587,
+      "heading": "2. Latest official all-India migration snapshot",
+      "preview": "Indicator | Verified figure | Source note",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Indicator",
+          "Verified figure",
+          "Source note"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 336.224
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 163.222
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2589,
+      "markdown_body_line_end": 2589,
+      "heading": "2. Latest official all-India migration snapshot",
+      "preview": "🔑 Trap: India's most recent migration numbers come from survey-based official sources, not from a post-2011 census table.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 163.222
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 118.554
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2603,
+      "markdown_body_line_end": 2609,
+      "heading": "4. Dominant streams in India",
+      "preview": "Stream | India-specific reading | Answer cue",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Stream",
+          "India-specific reading",
+          "Answer cue"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 656.691
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 481.29
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2615,
+      "markdown_body_line_end": 2621,
+      "heading": "5. Consequences that matter in Indian answers",
+      "preview": "Consequence | India angle",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Consequence",
+          "India angle"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 425.89
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 284.088
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2661,
+      "markdown_body_line_end": 2665,
+      "heading": "CA Anchor - Census 2027 will refresh migration geography, but has no results yet",
+      "preview": "Current fact | Static linkage | Use in answer",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Current fact",
+          "Static linkage",
+          "Use in answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 498.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 376.49
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2695,
+      "markdown_body_line_end": 2696,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 753.891
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 687.224
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2702,
+      "markdown_body_line_end": 2704,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 635.624
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 538.722
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2710,
+      "markdown_body_line_end": 2710,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 499.522
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 454.854
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2719,
+      "markdown_body_line_end": 2728,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Migration concept firewall",
+      "preview": "MIGRATION -> change in usual residence across a meaningful boundary",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 374.854
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 282.254
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2732,
+      "markdown_body_line_end": 2737,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Push-pull-obstacle model",
+      "preview": "ORIGIN PUSH -> job loss, conflict, debt, disaster, social pressure",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2741,
+      "markdown_body_line_end": 2746,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Ravenstein law strip",
+      "preview": "MOST MOVES -> short distance rather than very long distance",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2750,
+      "markdown_body_line_end": 2755,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Distance-decay and step migration",
+      "preview": "DISTANCE RISES -> cost, uncertainty and social risk rise",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2759,
+      "markdown_body_line_end": 2764,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Migration stream matrix",
+      "preview": "RURAL-RURAL -> marriage, local farm labour, nearby relocation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2768,
+      "markdown_body_line_end": 2773,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Source-destination balance sheet",
+      "preview": "SOURCE -> reduced pressure, remittances, but loss of young workers",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2777,
+      "markdown_body_line_end": 2782,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: India official snapshot",
+      "preview": "ALL-INDIA RATE -> 28.9% in MoSPI Migration in India 2020-21",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2786,
+      "markdown_body_line_end": 2791,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Marriage migration dominance",
+      "preview": "FEMALE MIGRANTS DUE TO MARRIAGE -> 86.8% in MoSPI 2020-21",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 292.691
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2795,
+      "markdown_body_line_end": 2800,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: India corridor map",
+      "preview": "SENDING BELTS -> Bihar, Uttar Pradesh, Odisha and east-central regions",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2804,
+      "markdown_body_line_end": 2813,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Circular migration and undercount",
+      "preview": "SEASONAL MOVEMENT -> brick kilns, harvesting, construction, informal work",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2817,
+      "markdown_body_line_end": 2827,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Large-city attraction logic",
+      "preview": "DIVERSE JOB SET -> big cities offer multiple labour-market entry points",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 598.891
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 496.091
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2831,
+      "markdown_body_line_end": 2836,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Migration answer spine",
+      "preview": "DEFINE -> residence rule, stream type and whether migration is internal or international",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 474.091
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 422.291
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1968 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.pdf",
+  "mode": "main",
+  "topic_key": "geography-20",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Temperate Continental Steppe Climate - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 418.024
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 189.022
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\assets\\geography-20_Teaching-Navigation_2026-08-22.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 560.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 252.956
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 63,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Steppe continental-interior location: The temperate continental or steppe climate occurs in mid-latitude continental interiors, bordering deserts and far from maritime influence, with major expressions in Eurasia, North America, South Ameri",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 82,
+      "heading": "VISUAL FIRST",
+      "preview": "STEPPE LOCATION AND CONTINENTAL SETTING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 492.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 110,
+      "markdown_body_line_end": 127,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - STEPPE LOCATION AND CONTINENTAL SETTING",
+      "preview": "START / CONCEPT: FOUNDATION — Steppe location and continental setting",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 300
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 138,
+      "markdown_body_line_end": 138,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Local grassland names: The biome is named differently by region: steppes in Eurasia, prairies in USA and Canada, pampas in Argentina and Uruguay, veld in South Africa and downs in Australia; all share nutritious grasses that flower in sprin",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 421.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 340.424
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 153,
+      "markdown_body_line_end": 157,
+      "heading": "VISUAL FIRST",
+      "preview": "LOCAL GRASSLAND NAMES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 185,
+      "markdown_body_line_end": 202,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - LOCAL GRASSLAND NAMES",
+      "preview": "START / CONCEPT: FOUNDATION — Local grassland names",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 288
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 213,
+      "markdown_body_line_end": 213,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Continentality control: The controlling factor is continentality: distance from the sea produces hot summers, cold winters and a large annual temperature range, especially in northern hemisphere interiors where continental mass is greatest.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 228,
+      "markdown_body_line_end": 232,
+      "heading": "VISUAL FIRST",
+      "preview": "CONTINENTALITY AND TEMPERATURE RANGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 260,
+      "markdown_body_line_end": 277,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CONTINENTALITY AND TEMPERATURE RANGE",
+      "preview": "START / CONCEPT: FOUNDATION — Continentality and temperature range",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 269
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 288,
+      "markdown_body_line_end": 288,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Rainfall regime: Rainfall is low to moderate, about 25 to 75 centimetres annually, with most falling in late spring and early summer; the defining character is moisture deficit rather than extreme aridity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 303,
+      "markdown_body_line_end": 307,
+      "heading": "VISUAL FIRST",
+      "preview": "RAINFALL REGIME AND MOISTURE DEFICIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 335,
+      "markdown_body_line_end": 352,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - RAINFALL REGIME AND MOISTURE DEFICIT",
+      "preview": "START / CONCEPT: FOUNDATION — Rainfall regime and moisture deficit",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 234
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 242.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 363,
+      "markdown_body_line_end": 363,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Hemisphere contrast: Northern hemisphere steppes and prairies experience more extreme temperatures than southern hemisphere pampas, veld and downs because southern continents are narrower and more maritime.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 107.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 40.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 378,
+      "markdown_body_line_end": 382,
+      "heading": "VISUAL FIRST",
+      "preview": "HEMISPHERE CONTRAST",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 587.691
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 410,
+      "markdown_body_line_end": 427,
+      "heading": "CLOSING RECALL FLOW - CORE - HEMISPHERE CONTRAST",
+      "preview": "START / CONCEPT: CORE — Hemisphere contrast",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 235
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 304.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 83.691
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 438,
+      "markdown_body_line_end": 438,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Natural grassland cover - Grass height gradient Qualified use: Explain the moisture-fire-grazing complex.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 453,
+      "markdown_body_line_end": 460,
+      "heading": "VISUAL FIRST",
+      "preview": "NATURAL GRASSLAND AND TREELESSNESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 361.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 489,
+      "markdown_body_line_end": 506,
+      "heading": "CLOSING RECALL FLOW - CORE - NATURAL GRASSLAND AND TREELESSNESS",
+      "preview": "START / CONCEPT: CORE — Natural grassland and treelessness",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 221
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 517,
+      "markdown_body_line_end": 517,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Chernozem and prairie soils: Steppe and prairie soils such as chernozem or black earth are humus-rich because of centuries of grass-root decay under low leaching, and are among the most fertile agricultural soils in the world.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 532,
+      "markdown_body_line_end": 536,
+      "heading": "VISUAL FIRST",
+      "preview": "CHERNOZEM FORMATION AND FERTILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 564,
+      "markdown_body_line_end": 581,
+      "heading": "CLOSING RECALL FLOW - CORE - CHERNOZEM FORMATION AND FERTILITY",
+      "preview": "START / CONCEPT: CORE — Chernozem formation and fertility",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 255
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 242.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 592,
+      "markdown_body_line_end": 592,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Granary identity: The temperate grasslands are the granaries of the world, with major wheat belts in the Ukrainian steppe, North American prairies and Argentine pampas, supported by level relief permitting mechanisation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 107.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 40.624
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 607,
+      "markdown_body_line_end": 614,
+      "heading": "VISUAL FIRST",
+      "preview": "GRANARY IDENTITY AND WHEAT BELTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 557.691
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 643,
+      "markdown_body_line_end": 660,
+      "heading": "CLOSING RECALL FLOW - CORE - GRANARY IDENTITY AND WHEAT BELTS",
+      "preview": "START / CONCEPT: CORE — Granary identity and wheat belts",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 249
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 671,
+      "markdown_body_line_end": 671,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Transport-conversion argument: The physical endowment did not create the granaries by itself: rail penetration, ocean freight, mechanisation and external market demand converted pastoral or unexploited interiors into surplus wheat suppliers",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 417.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 336.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 686,
+      "markdown_body_line_end": 690,
+      "heading": "VISUAL FIRST",
+      "preview": "TRANSPORT-CONVERSION ARGUMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 718,
+      "markdown_body_line_end": 735,
+      "heading": "CLOSING RECALL FLOW - CORE - TRANSPORT-CONVERSION ARGUMENT",
+      "preview": "START / CONCEPT: CORE — Transport-conversion argument",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 366
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 203.891
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 746,
+      "markdown_body_line_end": 746,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Ecological cost of ploughing Qualified use: Follow sod removal to wind erosion, organic decline and aquifer drawdown.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 761,
+      "markdown_body_line_end": 765,
+      "heading": "VISUAL FIRST",
+      "preview": "ECOLOGICAL COST OF PLOUGHING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 793,
+      "markdown_body_line_end": 810,
+      "heading": "CLOSING RECALL FLOW - CORE - ECOLOGICAL COST OF PLOUGHING",
+      "preview": "START / CONCEPT: CORE — Ecological cost of ploughing",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 264
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 821,
+      "markdown_body_line_end": 821,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India climate boundary: India has no true temperate-steppe wheat climate like Eurasia's chernozem grasslands, but the Indo-Gangetic alluvial plain, especially Punjab-Haryana-western Uttar Pradesh, plays the equivalent economic role as India",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 431.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 350.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 836,
+      "markdown_body_line_end": 840,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA CLIMATE BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 868,
+      "markdown_body_line_end": 885,
+      "heading": "CLOSING RECALL FLOW - CORE - INDIA CLIMATE BOUNDARY",
+      "preview": "START / CONCEPT: CORE — India climate boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 286
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 449.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 228.091
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 896,
+      "markdown_body_line_end": 896,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India alluvial distinction: India's wheat belt sits on Indo-Gangetic alluvial soil, not black chernozem like the steppe; the economic analogy holds but the pedological basis is fundamentally different.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 107.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 40.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 911,
+      "markdown_body_line_end": 918,
+      "heading": "VISUAL FIRST",
+      "preview": "ALLUVIAL-CHERNOZEM DISTINCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 543.491
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 947,
+      "markdown_body_line_end": 964,
+      "heading": "CLOSING RECALL FLOW - CORE - ALLUVIAL-CHERNOZEM DISTINCTION",
+      "preview": "START / CONCEPT: CORE — Alluvial-chernozem distinction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 230
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 975,
+      "markdown_body_line_end": 975,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Green Revolution package - Haryana wheat belt Qualified use: Map the HYV-irrigation-MSP transformation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 345.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 990,
+      "markdown_body_line_end": 997,
+      "heading": "VISUAL FIRST",
+      "preview": "GREEN REVOLUTION AND GRANARY CONVERSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1026,
+      "markdown_body_line_end": 1043,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - GREEN REVOLUTION AND GRANARY CONVERSION",
+      "preview": "START / CONCEPT: SYNTHESIS — Green Revolution and granary conversion",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 231
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 316.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 95.691
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1054,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Sustainability crisis - Savanna-steppe comparison Qualified use: Use the comparison to distinguish tropical from temperate grassland systems.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1069,
+      "markdown_body_line_end": 1076,
+      "heading": "VISUAL FIRST",
+      "preview": "SUSTAINABILITY AND SAVANNA-STEPPE COMPARISON",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 327.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1105,
+      "markdown_body_line_end": 1122,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - SUSTAINABILITY AND SAVANNA-STEPPE COMPARISON",
+      "preview": "START / CONCEPT: SYNTHESIS — Sustainability and savanna-steppe comparison",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 326
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 422.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1133,
+      "markdown_body_line_end": 1133,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Limitation: fire, grazing and continental moisture deficit act together, so no single one of them fully explains the boundary between grassland and forest.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 301.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 234.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1148,
+      "markdown_body_line_end": 1152,
+      "heading": "VISUAL FIRST",
+      "preview": "PYQ BOUNDARY AND ANSWER SPINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1179,
+      "markdown_body_line_end": 1182,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography*. ✅ = from source book · ⚠️ = inference ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 471.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 376.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1188,
+      "markdown_body_line_end": 1194,
+      "heading": "1. What & Where (G.C. Leong / Majid Husain)",
+      "preview": "Local name | ✅ Region / continent",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Local name",
+          "✅ Region / continent"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 292.224
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 161.622
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1196,
+      "markdown_body_line_end": 1196,
+      "heading": "1. What & Where (G.C. Leong / Majid Husain)",
+      "preview": "🔑 Trap: Temperate grasslands are not treeless because soils are poor; many have highly fertile soils.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 161.622
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 131.154
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1202,
+      "markdown_body_line_end": 1208,
+      "heading": "2. Climate: Continentality",
+      "preview": "Feature | ✅ Steppe / temperate grassland character",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Feature",
+          "✅ Steppe / temperate grassland character"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 672.69
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1219,
+      "markdown_body_line_end": 1225,
+      "heading": "3. Natural Vegetation & Soils",
+      "preview": "Vegetation / soil | ✅ Feature",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Vegetation / soil",
+          "✅ Feature"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 541.29
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 410.688
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1231,
+      "markdown_body_line_end": 1236,
+      "heading": "4. Economic Development: Granaries & Ranching",
+      "preview": "Economy | ✅ Region / feature",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Economy",
+          "✅ Region / feature"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 326.888
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 217.487
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1274,
+      "markdown_body_line_end": 1278,
+      "heading": "9.1 Directive decoding",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 468.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 335.29
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1282,
+      "markdown_body_line_end": 1287,
+      "heading": "9.2 The four-factor granary argument",
+      "preview": "Factor | Contribution",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Factor",
+          "Contribution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 313.29
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 114.288
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1289,
+      "markdown_body_line_end": 1292,
+      "heading": "9.2 The four-factor granary argument",
+      "preview": "🔑 **Trap:** the physical endowment did not create the granaries by itself. Rail penetration, ocean freight, mechanisation and external demand did — which is why these regions were pastoral or unexploited before the nineteenth century despit",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 114.288
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 41.22
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1328,
+      "markdown_body_line_end": 1334,
+      "heading": "9.6 Evidence units available in this file",
+      "preview": "**Claim:** treelessness in the temperate interiors is a moisture-and-disturbance outcome, not a soil-fertility outcome. **Evidence:** the steppe and prairie carry chernozem and prairie soils that are among the most fertile in the world, bui",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 373.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 250.424
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1336,
+      "markdown_body_line_end": 1342,
+      "heading": "9.6 Evidence units available in this file",
+      "preview": "**Claim:** a physical endowment becomes an economic resource only when access is created. **Evidence:** the temperate grasslands were pastoral or unexploited for centuries despite identical soils, and became world granaries only when railwa",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 250.424
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 148.956
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1346,
+      "markdown_body_line_end": 1363,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - PYQ BOUNDARY AND ANSWER SPINE",
+      "preview": "START / CONCEPT: SYNTHESIS — PYQ boundary and answer spine",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 258
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2402,
+      "markdown_body_line_end": 2405,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain + verified CA. ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 707.224
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2411,
+      "markdown_body_line_end": 2417,
+      "heading": "1. India’s Steppe Analogue",
+      "preview": "Element | ✅ India-specific fact",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Element",
+          "✅ India-specific fact"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 637.624
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 507.022
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2419,
+      "markdown_body_line_end": 2419,
+      "heading": "1. India’s Steppe Analogue",
+      "preview": "🔑 Trap: India’s wheat belt is **alluvial**, not black chernozem like the steppe.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 507.022
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 476.554
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2430,
+      "markdown_body_line_end": 2434,
+      "heading": "2. Punjab-Haryana Granary",
+      "preview": "State / region | ✅ Book-grounded details",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "State / region",
+          "✅ Book-grounded details"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 387.754
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 288.353
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2442,
+      "markdown_body_line_end": 2448,
+      "heading": "3. Green Revolution & Wheat Diffusion",
+      "preview": "Green Revolution input | ✅ Effect",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Green Revolution input",
+          "✅ Effect"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 218.753
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 88.151
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2498,
+      "markdown_body_line_end": 2507,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Temperate grassland world map",
+      "preview": "EURASIA -> steppes: Ukraine-Kazakhstan belt, continental interior",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2511,
+      "markdown_body_line_end": 2516,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Continentality mechanism",
+      "preview": "DISTANCE FROM SEA -> weak maritime moderation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2520,
+      "markdown_body_line_end": 2525,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Rainfall-moisture profile",
+      "preview": "TOTAL ANNUAL -> about 25-75 cm, low to moderate",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 598.891
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 547.091
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2529,
+      "markdown_body_line_end": 2534,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Hemisphere asymmetry",
+      "preview": "NORTHERN -> steppes and prairies: large continental mass, extreme range",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 525.091
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2538,
+      "markdown_body_line_end": 2543,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Chernozem-soil chain",
+      "preview": "GRASSLAND COVER -> deep root network decays in place",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 399.491
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2547,
+      "markdown_body_line_end": 2552,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Granary conversion timeline",
+      "preview": "NATURAL STATE -> pastoral grassland, low-density use",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 377.491
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 325.691
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2556,
+      "markdown_body_line_end": 2561,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Anti-determinism firewall",
+      "preview": "PHYSICAL BASE -> fertile soil + level relief + suitable climate",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 303.691
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 251.891
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2565,
+      "markdown_body_line_end": 2570,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Ecological-cost chain",
+      "preview": "SOD REMOVAL -> bare fine soil exposed to wind",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2574,
+      "markdown_body_line_end": 2579,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: India wheat granary map",
+      "preview": "PUNJAB-HARYANA-WESTERN UP -> Indo-Gangetic alluvial plain",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2583,
+      "markdown_body_line_end": 2591,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Green Revolution package",
+      "preview": "HYV SEMI-DWARF WHEAT -> raised yield potential",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2595,
+      "markdown_body_line_end": 2603,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Savanna-steppe comparison",
+      "preview": "LATITUDE -> tropical savanna versus temperate steppe/prairie",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 452.891
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2607,
+      "markdown_body_line_end": 2612,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Steppe answer spine",
+      "preview": "DEFINE -> continental interior grassland with large annual range",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 430.891
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 379.091
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    }
+  ]
+}

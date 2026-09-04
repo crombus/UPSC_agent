@@ -1,0 +1,176 @@
+ASCII MASTER FLOW — PANEL 1/8: Crust, lithosphere and the rock-cycle network
++---------------- EARTH MATERIAL SYSTEM ----------------+
+| mineral -> rock -> lithology -> petrology -> geology   |
++---------------------------------------------------------+
+Crust = compositional shell
+Lithosphere = crust + rigid uppermost mantle
+Asthenosphere = weaker mechanical layer below
+                         |
+                    ROCK-CYCLE NETWORK
+       +-----------------+------------------+
+       |                                    |
+ magma --crystallisation--> IGNEOUS          |
+       |                    |                |
+       |            weathering + transport  |
+       |                    v                |
+       +<---- melting -- METAMORPHIC <-- SEDIMENTARY
+                         ^              |
+                 heat + pressure   compaction + cementation
+                         |
+                 uplift and exposure reconnect all paths
+
+The cycle is a network: no rock family has one compulsory next stage.
+
+ASCII MASTER FLOW — PANEL 2/8: Igneous, sedimentary and metamorphic diagnostic matrix
++--------------+----------------------+---------------------------+
+| FAMILY       | PROCESS              | FIELD CLUES               |
++--------------+----------------------+---------------------------+
+| Igneous      | magma/lava cooling   | crystals, glass, vesicles |
+| intrusive    | slow cooling         | coarse texture            |
+| extrusive    | fast cooling         | fine or glassy texture    |
+| Sedimentary  | deposit + lithify    | beds, fossils, ripples    |
+| Metamorphic  | solid-state change   | grade, new minerals       |
+| foliated     | differential stress  | aligned fabric            |
++--------------+----------------------+---------------------------+
+Composition pairs:
+granite-rhyolite = felsic | diorite-andesite = intermediate
+gabbro-basalt = mafic
+
+FIREWALLS
+bedding is not foliation | loess and moraine are deposits until lithified
+porosity is void space | permeability is connected flow capacity
+
+ASCII MASTER FLOW — PANEL 3/8: From continental drift to plate tectonics and Wilson-cycle closure
+WEGENER'S DRIFT CLAIM
+   |
+   +-> shelf-edge fit      +-> matching rocks and fossils
+   +-> palaeoclimate       +-> later palaeomagnetic support
+   |
+limitation: no adequate driving mechanism
+   |
+SEA-FLOOR SPREADING
+ridge creation -> magnetic stripes -> older/deeper floor outward
+   |                                      |
+   +---------------- trench destruction --+
+                         |
+                  PLATE TECTONICS
+      +------------------+-------------------+
+      |                  |                   |
+divergence          subduction           transform
+creates crust       destroys oceanic     conserves crust
+      |                  |                   |
+ridge/rift          trench + arc          shallow quakes
+                         |
+rift -> narrow sea -> ocean -> subduction -> collision -> suture
+                         |
+Wilson cycle is an analogy, not a compulsory destiny for every ocean.
+
+ASCII MASTER FLOW — PANEL 4/8: Indian Plate journey and the three-part geological skeleton
+Gondwana rifting -> northward Indian Plate drift -> Tethys closure
+                                             |
+                                   India-Eurasia collision
+                                             |
+        +--------------------+---------------+-------------------+
+        |                    |                                   |
+ ancient Peninsula     Himalayan fold-thrust belt       foreland basin
+ cratons + belts       shortening + thickening          flexure + sediment
+        |                    |                                   |
+ stable framework      continuing uplift/seismicity      Indo-Ganga-Brahmaputra
+
+NORTH-SOUTH EXAM CROSS-SECTION
+Tethyan / Greater / Lesser / Siwalik Himalaya -> foreland alluvium
+              -> Peninsular cratons, rifts, basins and Deccan cover
+
+EVIDENCE LADDER
+superposition -> cross-cutting -> unconformity -> fossil correlation
+              -> radiometric event age -> palaeomagnetism -> geophysics
+
+Stable Peninsula means relatively stable, not uniform, flat or aseismic.
+
+ASCII MASTER FLOW — PANEL 5/8: Indian rock systems, basins and resource associations
++------------------+-------------------------+----------------------+
+| SYSTEM           | INDIAN EXPRESSION       | SAFE ASSOCIATION     |
++------------------+-------------------------+----------------------+
+| Archaean/Dharwar | gneiss + supracrustals  | process-specific ore |
+| Proterozoic      | Cuddapah, Vindhyan      | stone; bounded ores  |
+| Gondwana         | faulted inland basins   | coal, not universal  |
+| Marine basins    | coasts and offshore     | petroleum potential  |
+| Deccan Trap      | stacked flood basalts   | soil, stone, water   |
++------------------+-------------------------+----------------------+
+
+GONDWANA BASINS: Damodar | Son-Mahanadi | Satpura | Godavari
+PETROLEUM SYSTEM:
+source -> maturation -> migration -> reservoir -> seal -> trap -> timing
+DECCAN ARCHITECTURE:
+flow top / vesicles / fractures / weathered contact / dense flow interior
+
+Association is not determinism: grade, preservation, exploration,
+technology, economics and environmental limits decide usable resources.
+
+ASCII MASTER FLOW — PANEL 6/8: Himalaya, foreland, coasts, islands and structural controls
+                         HIMALAYA
+ collision orogen: HFT/MFT -> MBT -> MCT -> suture framework
+                             |
+                 FORELAND FLEXURE AND FILL
+        Bhabar -> Terai -> bhangar/khadar alluvial expressions
+                             |
++----------------------------+-------------------------------+
+| PENINSULAR STRUCTURES      | COASTS AND ISLANDS            |
+| Narmada-Son and Tapi rifts | west: rifted-margin sectors   |
+| Cambay and Kachchh         | east: deltaic sediment basins |
+| Godavari rift basin        | Andaman: active island arc    |
+| joints, faults, bedding    | Lakshadweep: coral atolls     |
++----------------------------+-------------------------------+
+                             |
+structure guides relief, drainage, waterfalls and groundwater
+                             |
+climate + erosion + base level + human action modify expression
+
+Rift = extensional zone | graben = down-dropped block
+Lineament = mapped linear feature, not automatically an active fault.
+
+ASCII MASTER FLOW — PANEL 7/8: India seismic expression and geology-to-risk translation
+TECTONIC AND INHERITED STRUCTURE
+                |
+       +--------+--------+----------------+
+       |                 |                |
+Himalaya / NE       Andaman arc       Kachchh / Peninsula
+active collision    subduction        inherited faults/rifts
+       |                 |                |
+strong shaking      quake + tsunami   intraplate reactivation
+       +--------+--------+----------------+
+                |
+SITE FILTER: alluvium, basin depth, groundwater, slope, construction
+                |
+EXPOSURE + VULNERABILITY - CAPACITY
+                |
+             DISASTER RISK
+
+BIS Zones II-V are broad design generalisations, not predictions.
+Geological association must be followed by site evidence and engineering.
+
+RESPONSE: map -> investigate -> code -> inspect -> retrofit -> prepare.
+
+ASCII MASTER FLOW — PANEL 8/8: Map-answer and Mains spine for India's geological architecture
+QUESTION: How does geological structure shape India's surface geography?
+                             |
+1. DEFINE: age + composition + rock architecture + tectonic structures
+                             |
+2. DRAW: Himalaya -> foreland plain -> Peninsular shield cross-section
+                             |
+3. SEQUENCE: Gondwana rift -> drift -> collision -> uplift -> sediment fill
+                             |
+4. MAP NAMED UNITS
+   cratons | Purana basins | Gondwana basins | Deccan | coasts | islands
+                             |
+5. LINK PROCESS TO CONSEQUENCE
+   structure -> relief/drainage/water/resource/seismic expression
+                             |
+6. QUALIFY
+   association is not reserve; stable is not aseismic; alluvium has structure
+                             |
+7. VERDICT
+   inherited geology is filtered through tectonics, climate, erosion and use
+
+Answer order: thesis -> map -> evidence -> mechanism -> India example
+              -> limitation -> graded conclusion.

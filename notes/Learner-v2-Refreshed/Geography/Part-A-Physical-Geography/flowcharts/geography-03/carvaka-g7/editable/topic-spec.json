@@ -1,0 +1,926 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-03",
+  "subject": "Geography",
+  "title": "GEOGRAPHY 03 — VULCANISM AND EARTHQUAKES / INDIA SEISMIC ZONES",
+  "short_route": "ENDOGENIC SYSTEM: PLATE MOTION → EARTHQUAKE SOURCE GEOMETRY, DEPTH → SEISMIC WAVES, SHADOW ZONES → GLOBAL SEISMIC BELTS, CASCADING → VOLCANO ANATOMY, MAGMA CONTROLS → VOLCANIC SETTINGS, GLOBAL BELTS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g6 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-03\\g6\\geography-03_Complete-Learning-Session_2026-08-23.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-2026-08-23.json",
+  "ascii_spec_sha256": "5b0626c2b1e32a49c858860e95c1b0b6820a314e6104f5b755fa4cbed3ef2c66",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ENDOGENIC SYSTEM: PLATE MOTION, STRAIN RELEASE AND MAGMA GENERATION",
+      "structural_type": "process-system-overview",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ENDOGENIC SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "PLATE MOTION, STRAIN RELEASE AND MAGMA GENERATION",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERNAL HEAT + GRAVITY + PLATE MOTION RESHAPE CRUST.",
+          "role": "comparison"
+        },
+        {
+          "text": "STRESS ACCUMULATION MAGMA GENERATION LOAD",
+          "role": "evidence"
+        },
+        {
+          "text": "STRAIN DIVERGENCE",
+          "role": "primary"
+        },
+        {
+          "text": "DECOMPRESSION SUBDUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "VOLATILE FLUX RUPTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "SLIP PLUME",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ENDOGENIC SYSTEM",
+        "Internal heat + gravity + plate motion reshape crust.",
+        "STRESS ACCUMULATION MAGMA GENERATION load → lock → strain divergence: decompression subduction: volatile flux rupture",
+        "anomalous upwelling",
+        "EARTHQUAKE VULCANISM landforms + hazards + resources"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "ENDOGENIC SYSTEM",
+            "Internal heat + gravity + plate motion reshape crust.",
+            "STRESS ACCUMULATION MAGMA GENERATION load → lock → strain divergence: decompression subduction: volatile flux rupture → slip plume"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "anomalous upwelling",
+            "EARTHQUAKE VULCANISM landforms + hazards + resources",
+            "FAULT PAIRS tension → normal"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "compression → reverse/thrust",
+            "shear → strike-slip",
+            "Plate motion loads a region; sudden fault rupture is the immediate quake source."
+          ]
+        }
+      ],
+      "mechanism_strip": "Plate tectonics gives the spatial grammar of seismicity and vulcanism, but the examiner still expects the immediate mechanics—fault slip for an earthquake and magma ascent for an eruption.",
+      "answer_line": "Plate tectonics gives the spatial grammar of seismicity and vulcanism, but the examiner still expects the immediate mechanics—fault slip for an earthquake and magma ascent for an eruption.",
+      "source_references": [
+        "sessions: [1, 2, 3]",
+        "sections: [\"BASIC LEARNING SESSION\", \"The complete earthquake mechanism\"]",
+        "markdown_lines: [\"50-282\", \"2585-2594\"]"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "EARTHQUAKE SOURCE GEOMETRY, DEPTH AND SEISMOGRAM LOGIC",
+      "structural_type": "cross-section-and-location-method",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "EARTHQUAKE SOURCE GEOMETRY, DEPTH AND SEISMOGRAM LOGIC",
+          "role": "evidence"
+        },
+        {
+          "text": "SURFACE STATION A -------- EPICENTRE -------- STATION B FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "HYPOCENTRE RUPTURE BEGINS ON FAULT PLANE",
+          "role": "comparison"
+        },
+        {
+          "text": "SEISMOGRAM ARRIVAL ORDER",
+          "role": "evidence"
+        },
+        {
+          "text": "P FIRST",
+          "role": "primary"
+        },
+        {
+          "text": "S SECOND",
+          "role": "outcome"
+        },
+        {
+          "text": "LOVE AND RAYLEIGH LATER",
+          "role": "comparison"
+        },
+        {
+          "text": "P-S INTERVAL AT ONE STATION GIVES SOURCE DISTANCE THREE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SURFACE station A -------- epicentre -------- station B focus / hypocentre rupture begins on fault",
+        "SEISMOGRAM ARRIVAL ORDER",
+        "P first → S second → Love and Rayleigh later",
+        "P-S interval at one station gives source distance three or more distance circles estimate the",
+        "DEPTH CLASS shallow: 0-70 km"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "SURFACE station A -------- epicentre -------- station B focus / hypocentre rupture begins on fault plane",
+            "SEISMOGRAM ARRIVAL ORDER",
+            "P first → S second → Love and Rayleigh later"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "P-S interval at one station gives source distance three or more distance circles estimate the epicentre",
+            "DEPTH CLASS shallow: 0-70 km",
+            "intermediate: 70-300 km"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "deep: 300-700 km",
+            "SEQUENCE FIREWALL foreshock, mainshock and aftershock are relational labels",
+            "a swarm has no single clearly dominant event."
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "Epicentre is a vertical projection, not necessarily the worst-damaged place."
+          ]
+        }
+      ],
+      "mechanism_strip": "SEQUENCE FIREWALL foreshock, mainshock and aftershock are relational labels;.",
+      "answer_line": "SEQUENCE FIREWALL foreshock, mainshock and aftershock are relational labels;.",
+      "source_references": [
+        "sessions: [3, 4]",
+        "sections: [\"BASIC LEARNING SESSION\", \"Source geometry and seismogram\"]",
+        "markdown_lines: [\"210-361\", \"2595-2605\"]"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SEISMIC WAVES, SHADOW ZONES, MAGNITUDE AND INTENSITY",
+      "structural_type": "comparison-table-with-evidence-chain",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SEISMIC WAVES, SHADOW ZONES, MAGNITUDE AND INTENSITY",
+          "role": "primary"
+        },
+        {
+          "text": "MAIN CLUE",
+          "role": "outcome"
+        },
+        {
+          "text": "SOLID, LIQUID",
+          "role": "comparison"
+        },
+        {
+          "text": "CORE REFRACTION",
+          "role": "evidence"
+        },
+        {
+          "text": "TRANSVERSE SHEAR",
+          "role": "primary"
+        },
+        {
+          "text": "SOLID ONLY",
+          "role": "outcome"
+        },
+        {
+          "text": "LIQUID OUTER CORE",
+          "role": "comparison"
+        },
+        {
+          "text": "HORIZONTAL SHEAR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MAIN CLUE",
+        "solid, liquid",
+        "core refraction",
+        "transverse shear",
+        "solid only"
+      ],
+      "matrix": [
+        [
+          "WAVE",
+          "MOTION",
+          "MEDIUM",
+          "MAIN CLUE"
+        ],
+        [
+          "P",
+          "compression",
+          "solid, liquid",
+          "core refraction"
+        ],
+        [
+          "S",
+          "transverse shear",
+          "solid only",
+          "liquid outer core"
+        ],
+        [
+          "Love",
+          "horizontal shear",
+          "surface",
+          "lateral shaking"
+        ],
+        [
+          "Rayleigh",
+          "rolling ellipse",
+          "surface",
+          "mixed motion"
+        ],
+        [
+          "P shadow about 103-142 deg",
+          "direct S shadow beyond about 103 deg",
+          "",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "MAIN CLUE",
+            "solid, liquid",
+            "core refraction",
+            "transverse shear",
+            "solid only"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "liquid outer core",
+            "horizontal shear",
+            "lateral shaking",
+            "rolling ellipse",
+            "mixed motion"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "P shadow about 103-142 deg",
+            "direct S shadow beyond about 103 deg",
+            "MAGNITUDE: one source measure; Mw uses seismic moment moment = rigidity x fault area x average slip",
+            "1 local magnitude gives about 10x amplitude and 31.6x energy",
+            "INTENSITY: place-specific observed effects; many values for one event source x path x site x exposure x vulnerability / capacity → damage"
+          ]
+        }
+      ],
+      "mechanism_strip": "Focal depth is a source descriptor, whereas disaster severity is a relational outcome produced by source, path, site, exposure and vulnerability.",
+      "answer_line": "Focal depth is a source descriptor, whereas disaster severity is a relational outcome produced by source, path, site, exposure and vulnerability.",
+      "source_references": [
+        "sessions: [5, 6, 7]",
+        "sections: [\"BASIC LEARNING SESSION\", \"Waves and Earth interior\", \"Magnitude, intensity and damage\"]",
+        "markdown_lines: [\"362-570\", \"2606-2627\"]"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "GLOBAL SEISMIC BELTS, CASCADING HAZARDS AND TSUNAMI SEQUENCE",
+      "structural_type": "global-distribution-and-hazard-chain",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "GLOBAL SEISMIC BELTS, CASCADING HAZARDS AND TSUNAMI SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "GLOBAL EARTHQUAKE DISTRIBUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "RIDGES/TRANSFORMS TRENCH + SLAB + ARC",
+          "role": "comparison"
+        },
+        {
+          "text": "HIMALAYAN COLLISION",
+          "role": "evidence"
+        },
+        {
+          "text": "SHALLOW EVENTS MEGATHRUST + TSUNAMI",
+          "role": "primary"
+        },
+        {
+          "text": "COMPLEX CONVERGENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "BASALTIC RIDGES",
+          "role": "comparison"
+        },
+        {
+          "text": "INTRAPLATE EVENTS REACTIVATE INHERITED STRUCTURES; STABLE IS NOT ASEISMIC.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "GLOBAL EARTHQUAKE DISTRIBUTION",
+        "Ridges/transforms trench + slab + arc",
+        "Himalayan collision",
+        "shallow events megathrust + tsunami",
+        "complex convergence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "GLOBAL EARTHQUAKE DISTRIBUTION",
+            "Ridges/transforms trench + slab + arc",
+            "Himalayan collision",
+            "shallow events megathrust + tsunami",
+            "complex convergence"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "basaltic ridges",
+            "Intraplate events reactivate inherited structures; stable is not aseismic.",
+            "CASCADE shaking → amplification / liquefaction / lateral spreading",
+            "landslide / fire / lifeline failure / dam distress",
+            "TSUNAMI submarine megathrust → vertical sea-floor displacement"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "long low deep-ocean wave → coastal shoaling",
+            "run-up + inundation + return flow",
+            "First wave need not be largest; withdrawal need not occur before every event.",
+            "Risk varies with bathymetry, bay shape, shelf, exposure and evacuation."
+          ]
+        }
+      ],
+      "mechanism_strip": "Depth distribution is the diagnostic map layer: only a descending slab generates a systematic inclined belt from shallow trench earthquakes to intermediate and deep events.",
+      "answer_line": "Depth distribution is the diagnostic map layer: only a descending slab generates a systematic inclined belt from shallow trench earthquakes to intermediate and deep events.",
+      "source_references": [
+        "sessions: [8, 9, 10]",
+        "sections: [\"BASIC LEARNING SESSION\", \"Global distribution\", \"Tsunami spine\"]",
+        "markdown_lines: [\"571-792\", \"2628-2660\"]"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "VOLCANO ANATOMY, MAGMA CONTROLS, LANDFORMS AND ERUPTION STYLES",
+      "structural_type": "volcanic-cross-section-and-classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "VOLCANO ANATOMY, MAGMA CONTROLS, LANDFORMS AND ERUPTION STYLES",
+          "role": "primary"
+        },
+        {
+          "text": "ASH PLUME",
+          "role": "outcome"
+        },
+        {
+          "text": "\\ CRATER LAVA -- -- LAVA VENT DYKE",
+          "role": "comparison"
+        },
+        {
+          "text": "SILL CONDUIT MAGMA CHAMBER",
+          "role": "evidence"
+        },
+        {
+          "text": "MAGMA BELOW SURFACE",
+          "role": "primary"
+        },
+        {
+          "text": "LAVA AFTER ERUPTION",
+          "role": "outcome"
+        },
+        {
+          "text": "SILICA UP",
+          "role": "comparison"
+        },
+        {
+          "text": "VISCOSITY UP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ash plume",
+        "\\ crater lava -- -- lava vent dyke",
+        "sill conduit magma chamber",
+        "Magma below surface",
+        "lava after eruption"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CLASSIFICATION",
+          "role": "primary",
+          "items": [
+            "ash plume",
+            "\\ crater lava -- -- lava vent dyke",
+            "sill conduit magma chamber",
+            "Magma below surface"
+          ]
+        },
+        {
+          "heading": "DIAGNOSTIC BASIS",
+          "role": "evidence",
+          "items": [
+            "lava after eruption",
+            "Silica up → viscosity up → degassing harder → explosivity may rise",
+            "Temperature up → viscosity generally down",
+            "Retained gas + decompression → bubbles → fragmentation"
+          ]
+        },
+        {
+          "heading": "PROCESS LINK",
+          "role": "mechanism",
+          "items": [
+            "FORMS: batholith, laccolith, lopolith, phacolith, dyke, sill",
+            "Dyke cuts layers; sill follows layers.",
+            "STYLE: fissure/Icelandic → Hawaiian → Strombolian → Vulcanian → Plinian",
+            "FORM: shield"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP",
+          "role": "caution",
+          "items": [
+            "cinder cone",
+            "fissure plateau",
+            "STATUS: active",
+            "extinct; status is not a compulsory life cycle."
+          ]
+        }
+      ],
+      "mechanism_strip": "Active status concerns eruptive capability; shield/composite concerns form; Hawaiian/Plinian concerns behaviour—UPSC can mix these axes in close options.",
+      "answer_line": "Active status concerns eruptive capability; shield/composite concerns form; Hawaiian/Plinian concerns behaviour—UPSC can mix these axes in close options.",
+      "source_references": [
+        "sessions: [11, 12, 13]",
+        "sections: [\"BASIC LEARNING SESSION\", \"Volcano anatomy and magma control\"]",
+        "markdown_lines: [\"793-1022\", \"2661-2683\"]"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "VOLCANIC SETTINGS, GLOBAL BELTS, PRODUCTS AND ENVIRONMENTAL EFFECTS",
+      "structural_type": "spatial-distribution-and-impact-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "VOLCANIC SETTINGS, GLOBAL BELTS, PRODUCTS AND ENVIRONMENTAL EFFECTS",
+          "role": "primary"
+        },
+        {
+          "text": "MELTING MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "RIDGE, RIFT, BASALT",
+          "role": "comparison"
+        },
+        {
+          "text": "SLAB VOLATILE FLUX",
+          "role": "evidence"
+        },
+        {
+          "text": "TRENCH-SLAB-ARC SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "MANTLE UPWELLING",
+          "role": "outcome"
+        },
+        {
+          "text": "FLOOD BASALT, HOT SPOT",
+          "role": "comparison"
+        },
+        {
+          "text": "RING OF FIRE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MELTING MECHANISM",
+        "ridge, rift, basalt",
+        "slab volatile flux",
+        "trench-slab-arc system",
+        "mantle upwelling"
+      ],
+      "matrix": [
+        [
+          "SETTING",
+          "MELTING MECHANISM",
+          "EXPRESSION",
+          ""
+        ],
+        [
+          "Divergent",
+          "decompression",
+          "ridge, rift, basalt",
+          ""
+        ],
+        [
+          "Subduction",
+          "slab volatile flux",
+          "trench-slab-arc system",
+          ""
+        ],
+        [
+          "Plume",
+          "mantle upwelling",
+          "flood basalt, hot spot",
+          ""
+        ],
+        [
+          "BENEFITS: new crust/land",
+          "soil parent",
+          "geothermal energy",
+          "minerals"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CLASSIFICATION",
+          "role": "primary",
+          "items": [
+            "MELTING MECHANISM",
+            "ridge, rift, basalt",
+            "slab volatile flux",
+            "trench-slab-arc system"
+          ]
+        },
+        {
+          "heading": "DIAGNOSTIC BASIS",
+          "role": "evidence",
+          "items": [
+            "mantle upwelling",
+            "flood basalt, hot spot",
+            "Ring of Fire = trench + descending slab + earthquakes + volcanic arc",
+            "Plume model: broad head may form flood basalt; tail may form age chain."
+          ]
+        },
+        {
+          "heading": "PROCESS LINK",
+          "role": "mechanism",
+          "items": [
+            "Deccan Trap is a fissure-fed flood-basalt plateau, not a giant cone.",
+            "HAZARDS: lava",
+            "density currents",
+            "CLIMATE: stratospheric sulphate aerosol can cause temporary cooling"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP",
+          "role": "caution",
+          "items": [
+            "BENEFITS: new crust/land",
+            "soil parent",
+            "geothermal energy",
+            "Impact converges through wind, relief, drainage, exposure and preparedness."
+          ]
+        }
+      ],
+      "mechanism_strip": "Deccan Trap is a fissure-fed flood-basalt plateau, not a giant cone.",
+      "answer_line": "Deccan Trap is a fissure-fed flood-basalt plateau, not a giant cone.",
+      "source_references": [
+        "sessions: [14, 15, 16]",
+        "sections: [\"BASIC LEARNING SESSION\", \"Volcanic distribution and plumes\", \"Volcanic impacts\"]",
+        "markdown_lines: [\"1023-1233\", \"2684-2700\"]"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "INDIA SEISMIC GEOGRAPHY, ZONATION, INSTITUTIONS AND RESILIENCE STACK",
+      "structural_type": "india-regional-map-and-intervention-stack",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INDIA SEISMIC GEOGRAPHY, ZONATION, INSTITUTIONS AND RESILIENCE STACK",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA REGIONAL HIERARCHY",
+          "role": "outcome"
+        },
+        {
+          "text": "COLLISION, THRUSTS, SLOPES, DENSE CORRIDORS",
+          "role": "comparison"
+        },
+        {
+          "text": "CONVERGENCE, STRIKE-SLIP COMPLEXITY",
+          "role": "evidence"
+        },
+        {
+          "text": "SUBDUCTION, TSUNAMI, BARREN ISLAND VOLCANISM",
+          "role": "primary"
+        },
+        {
+          "text": "INHERITED RIFT AND FAULT REACTIVATION",
+          "role": "outcome"
+        },
+        {
+          "text": "RELATIVELY STABLE; KOYNA AND LATUR SHOW RESIDUAL RISK",
+          "role": "caution"
+        },
+        {
+          "text": "ALLUVIUM, AMPLIFICATION AND HIGH EXPOSURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDIA REGIONAL HIERARCHY",
+        "Himalaya : collision, thrusts, slopes, dense corridors",
+        "North-East : convergence, strike-slip complexity",
+        "Andaman : subduction, tsunami, Barren Island volcanism",
+        "Kachchh : inherited rift and fault reactivation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "INDIA REGIONAL HIERARCHY",
+            "Himalaya : collision, thrusts, slopes, dense corridors",
+            "North-East : convergence, strike-slip complexity",
+            "Andaman : subduction, tsunami, Barren Island volcanism",
+            "Kachchh : inherited rift and fault reactivation"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Peninsula : relatively stable; Koyna and Latur show residual risk",
+            "Indo-Gangetic : alluvium, amplification and high exposure",
+            "MACROZONATION: broad design hazard, not prediction",
+            "MICROZONATION: geology + soil + motion + water + liquefaction + GIS",
+            "NCS/MoES → monitoring"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "GSI → geology",
+            "BIS → standards",
+            "NDMA/NIDM → guidance",
+            "INCOIS → tsunami warning",
+            "States/ULBs → approvals + inspection + enforcement site → regular load path → ductility → connections"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "non-structural safety → quality control → retrofit → drills",
+            "Early warning detects rupture after it starts; it is not prediction."
+          ]
+        }
+      ],
+      "mechanism_strip": "Macrozonation tells a city the regional design problem; microzonation tells neighbourhoods how local ground modifies that problem.",
+      "answer_line": "Macrozonation tells a city the regional design problem; microzonation tells neighbourhoods how local ground modifies that problem.",
+      "source_references": [
+        "sessions: [17, 18, 19]",
+        "sections: [\"BASIC LEARNING SESSION\", \"India regional map recall\", \"Institutions and risk reduction\"]",
+        "markdown_lines: [\"1234-1466\", \"2701-2736\"]"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "synthesis",
+      "title": "HAZARD-RISK-RESPONSE AND MAINS ANSWER SPINE FOR SEISMIC INDIA",
+      "structural_type": "hazard-risk-response-and-mains-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "HAZARD-RISK-RESPONSE AND MAINS ANSWER SPINE FOR SEISMIC INDIA",
+          "role": "caution"
+        },
+        {
+          "text": "WHY CAN SIMILAR EARTHQUAKES PRODUCE UNEQUAL DISASTERS?",
+          "role": "outcome"
+        },
+        {
+          "text": "SOURCE SIZE + DEPTH + RUPTURE GEOMETRY + PATH",
+          "role": "evidence"
+        },
+        {
+          "text": "BASIN SEDIMENT + GROUNDWATER + SLOPE + LIQUEFACTION POTENTIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "PEOPLE + BUILDINGS + LIFELINES + TIME OF OCCURRENCE",
+          "role": "primary"
+        },
+        {
+          "text": "WEAK DESIGN + IRREGULAR FORM + POOR MAINTENANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "CODES + ENFORCEMENT + RETROFIT + WARNING + RESPONSE",
+          "role": "comparison"
+        },
+        {
+          "text": "RISK VERDICT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "QUESTION: Why can similar earthquakes produce unequal disasters?",
+        "HAZARD: source size + depth + rupture geometry + path",
+        "SITE: basin sediment + groundwater + slope + liquefaction potential",
+        "EXPOSURE: people + buildings + lifelines + time of occurrence",
+        "VULNERABILITY: weak design + irregular form + poor maintenance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "QUESTION: Why can similar earthquakes produce unequal disasters?",
+            "HAZARD: source size + depth + rupture geometry + path",
+            "SITE: basin sediment + groundwater + slope + liquefaction potential",
+            "EXPOSURE: people + buildings + lifelines + time of occurrence"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VULNERABILITY: weak design + irregular form + poor maintenance",
+            "CAPACITY: codes + enforcement + retrofit + warning + response",
+            "RISK VERDICT: hazard becomes disaster through social and spatial filters",
+            "15-MARK INDIA SPINE tectonic regions → site modifiers → exposure/vulnerability → cases"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "zonation and microzonation → construction and governance → conclusion",
+            "TRAPS: focus is not epicentre",
+            "magnitude is not intensity tsunami is not a tide",
+            "caldera is not an ordinary crater zone map is not prediction"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "code publication is not enforcement."
+          ]
+        }
+      ],
+      "mechanism_strip": "RISK VERDICT: hazard becomes disaster through social and spatial filters",
+      "answer_line": "zonation and microzonation → construction and governance → conclusion.",
+      "source_references": [
+        "sessions: [9, 10, 16, 17, 18, 19]",
+        "sections: [\"PYQS AND ANSWER PRACTICE\", \"CONSOLIDATED REGISTER NOTES\"]",
+        "markdown_lines: [\"2737-2786\"]"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED 1 — FINITE-FAULT RUPTURE, DIRECTIVITY AND FREQUENCY-DEPENDENT SITE",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED 2 — SEISMIC CYCLE, PALAEOSEISMOLOGY AND PROBABILITY",
+          "role": "mechanism"
+        },
+        {
+          "text": "ADVANCED 3 — CODE HIERARCHY, PERFORMANCE AND RETROFIT TRIAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED 4 — EARTHQUAKE EARLY WARNING AND OPERATIONAL LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED 5 — VOLCANIC MONITORING AND ERUPTION-STYLE UNCERTAINTY",
+          "role": "outcome"
+        },
+        {
+          "text": "DIRECTIVITY HELPS EXPLAIN ELONGATED DAMAGE PATTERNS THAT A SIMPLE",
+          "role": "comparison"
+        },
+        {
+          "text": "FREQUENCY CONTENT MATTERS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL PROCESS DEPTH",
+          "role": "mechanism",
+          "items": [
+            "ADVANCED 1 — FINITE-FAULT RUPTURE, DIRECTIVITY AND FREQUENCY-DEPENDENT SITE RESPONSE",
+            "ADVANCED 2 — SEISMIC CYCLE, PALAEOSEISMOLOGY AND PROBABILITY",
+            "ADVANCED 3 — CODE HIERARCHY, PERFORMANCE AND RETROFIT TRIAGE",
+            "ADVANCED 4 — EARTHQUAKE EARLY WARNING AND OPERATIONAL LIMITS"
+          ]
+        },
+        {
+          "heading": "DATA / INSTITUTION LIMIT",
+          "role": "caution",
+          "items": [
+            "ADVANCED 5 — VOLCANIC MONITORING AND ERUPTION-STYLE UNCERTAINTY",
+            "Directivity helps explain elongated damage patterns that a simple epicentral circle cannot.",
+            "Frequency content matters: short stiff structures respond differently from tall flexible structures.",
+            "Resonance occurs when dominant ground periods approach a structure's natural period."
+          ]
+        },
+        {
+          "heading": "CONTEMPORARY PARALLEL",
+          "role": "neutral",
+          "items": [
+            "Basin-edge effects can focus or convert waves; deep basins may prolong long-period shaking.",
+            "Nonlinearity: very strong shaking can change soil stiffness and damping, so weak-motion amplification cannot always be extrapolated directly.",
+            "earthquake swarms and volcanic tremor;",
+            "deformation from GPS, tilt and satellite radar;"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

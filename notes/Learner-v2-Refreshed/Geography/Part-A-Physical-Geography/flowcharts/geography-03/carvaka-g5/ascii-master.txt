@@ -1,0 +1,307 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Geography 03 — Vulcanism and Earthquakes / India Seismic Zones: central question and…
+
+```ascii-master
+GEOGRAPHY 03 — VULCANISM AND EARTHQUAKES / INDIA SEISMIC ZONES — CONCEPTUAL ATLAS
+
+
+KEY TERMS: endogenic processes • lithospheric plates • convergent margin • divergent margin
+KEY TERMS: • transform margin • subduction
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Geography 03 — Vulcanism and Earthquakes / India…
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       Plate tectonics explains endogenic belts through interactions among…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: ENDOGENIC PROCESSES AND THE PLATE-TECTONIC FRAME
+  • endogenic processes
+  • Mantle heat and gravity drive plate motion, while collision…
+AXIS 2: REFRACTION, DISCONTINUITIES AND SHADOW ZONES
+  • Refraction
+  • The reappearance of P phases beyond the shadow zone results from…
+AXIS 3: INTRUSIVE AND EXTRUSIVE FORMS
+  • Intrusive
+  • Batholiths are very large discordant plutonic bodies later…
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  endogenic processes • lithospheric plates • convergent margin • divergent margin
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Plate stress, elastic rebound, faulting and earthquake terminology
+
+```ascii-master
+PLATE STRESS, ELASTIC REBOUND, FAULTING AND EARTHQUAKE TERMINOLOGY
+│
+
+KEY TERMS: endogenic processes • lithospheric plates • convergent margin • divergent margin
+KEY TERMS: • transform margin • subduction
+├── KEY CONCEPTS
+│   ├── endogenic processes
+│   ├── lithospheric plates
+│   ├── convergent margin
+│   ├── divergent margin
+│   └── transform margin
+│
+├── ENDOGENIC PROCESSES AND THE PLATE-TECTONIC FRAME
+│   ├─ TERMS: Plate tectonics explains endogenic belts through interactions among…
+│   ├─ LOGIC: Mantle heat and gravity drive plate motion, while collision…
+│   └─ RESULT: Different boundary mechanics produce distinct belts of earthquakes…
+├── STRESS, STRAIN, ELASTIC REBOUND AND FAULTS
+│   ├─ TERMS: Elastic strain is recoverable until failure, whereas permanent…
+│   ├─ LOGIC: Fault maps identify where rupture has occurred or may be…
+│   └─ RESULT: Elastic strain is recoverable until failure, whereas permanent…
+├── EARTHQUAKE TERMINOLOGY, CAUSES AND CLASSIFICATIONS
+│   ├─ TERMS: Intermediate and deep earthquakes are strongly associated with…
+│   ├─ LOGIC: It does not mean every reservoir causes a damaging earthquake
+│   └─ RESULT: most damaging earthquakes are shallow because the source is closer…
+├── FOCUS, EPICENTRE, SEISMOGRAPHS AND LOCATING AN EVENT
+│   ├─ TERMS: Modern location uses many stations, a velocity model and iterative…
+│   ├─ LOGIC: The earliest small motion is normally the P arrival, followed by S…
+│   └─ RESULT: Three-circle triangulation is the learner model, not the full…
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Seismic waves, shadow zones, magnitude, intensity and distribution
+
+```ascii-master
+SEISMIC WAVES, SHADOW ZONES, MAGNITUDE, INTENSITY AND DISTRIBUTION
+
+
+KEY TERMS: P • S • Love • Rayleigh Waves • To-and-fro parallel to travel direction • Solids
+KEY TERMS: and liquids
+CAUSE / CONDITION 1: “Surface waves are most destructive” is a useful rule, not an…
+          │
+          ├── MECHANISM
+          │   S waves require shear rigidity and therefore do not pass through a…
+          │
+          └── EFFECT / CONTRAST
+              P waves can pass through both solid and liquid but change velocity…
+          │
+          ▼
+CAUSE / CONDITION 2: The reappearance of P phases beyond the shadow zone results…
+          │
+          ├── MECHANISM
+          │   The reappearance of P phases beyond the shadow zone results from…
+          │
+          └── EFFECT / CONTRAST
+              This is not evidence that the whole core is liquid
+          │
+          ▼
+CAUSE / CONDITION 3: Intensity is not a synonym for economic loss because two…
+          │
+          ├── MECHANISM
+          │   Mw converts this physical source measure to a logarithmic magnitude
+          │
+          └── EFFECT / CONTRAST
+              Intensity is not a synonym for economic loss because two buildings…
+          │
+          ▼
+CAUSE / CONDITION 4: Ridge earthquakes are shallow because the lithosphere is thin…
+          │
+          ├── MECHANISM
+          │   Ridge earthquakes are shallow because the lithosphere is thin and…
+          │
+          └── EFFECT / CONTRAST
+              Bhuj, Latur and New Madrid show that plate interiors are…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Secondary hazards, tsunami process and volcanic anatomy/forms
+
+```ascii-master
+SECONDARY HAZARDS, TSUNAMI PROCESS AND VOLCANIC ANATOMY/FORMS
+
+
+KEY TERMS: Secondary Hazards • Site Response • The Risk Equation • Liquefaction •
+KEY TERMS: Floodplains, deltas, reclaimed land… • Lateral spreading
+UPSTREAM / OUTER SETTING
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ ZONE / LAYER A                                                       │
+│ SECONDARY HAZARDS, SITE RESPONSE AND THE RISK EQUATION               │
+│ Process: Urban disaster risk is often a network problem: a…          │
+│ Result : Liquefaction is not “soil melting.” It is a temporary loss… │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ ZONE / LAYER B                                                       │
+│ TSUNAMI GENERATION, PROPAGATION AND COASTAL IMPACT                   │
+│ Process: “Move to 10 metres” is not a universal rule                 │
+│ Result : In deep water, a tsunami can pass beneath ships with…       │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ ZONE / LAYER C                                                       │
+│ VOLCANO ANATOMY, MAGMA, LAVA, SILICA, GAS AND VISCOSITY              │
+│ Process: Dissolved volatiles exsolve into bubbles                    │
+│ Result : Basaltic magma is generally hotter, less silica-rich and…   │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+SPATIAL CONTROL: locate the process, then compare scale and regional expression.
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Eruption styles, volcano classes, plate settings and hot spots
+
+```ascii-master
+ERUPTION STYLES, VOLCANO CLASSES, PLATE SETTINGS AND HOT SPOTS
+
+
+KEY TERMS: Intrusive • Extrusive Forms • Volcanic Products • D: all four • Lava flow •
+KEY TERMS: Molten rock at surface
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ INTRUSIVE AND          │ Product classification is     │ UPSC Prelims 2024 asked       │
+│ EXTRUSIVE FORMS        │ also a risk map: ballistic    │ whether pyroclastic debris,   │
+│                        │ blocks…                       │ ash and dust…                 │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ ERUPTION STYLES,       │ A volcano with no historical  │ “Active, dormant and extinct” │
+│ VOLCANO TYPES AND      │ eruption may still be capable │ are descriptive status        │
+│ ACTIVITY STATUS        │ of…                           │ classes, not a…               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ PLATE-SETTING          │ The Ring of Fire includes     │ The Mediterranean–Himalayan   │
+│ VOLCANISM, RING OF     │ trenches, island arcs,        │ belt is not one uniform       │
+│ FIRE AND MID-OCEAN     │ continental arcs…             │ volcanic arc                  │
+│ RIDGES                 │                               │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ MANTLE PLUMES, HOT     │ Flood basalts erupt mainly    │ Hot spots can supply a        │
+│ SPOTS AND FLOOD        │ from fissures and build       │ reference frame for plate     │
+│ BASALTS                │ plateaux through…             │ direction and…                │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: India seismic zones, microzonation, resilience and warning limits
+
+```ascii-master
+INDIA SEISMIC ZONES, MICROZONATION, RESILIENCE AND WARNING LIMITS
+
+
+KEY TERMS: Constructive • Destructive • Climatic • Environmental Effects • Lava • Burial,
+KEY TERMS: burning, cutting access
+CAUSE / CONDITION 1: The climatic effect depends on what reaches the stratosphere…
+          │
+          ├── MECHANISM
+          │   Short-lived cooling after a major explosive eruption is principally…
+          │
+          └── EFFECT / CONTRAST
+              Ash can eventually contribute nutrients, but fresh ash may…
+          │
+          ▼
+CAUSE / CONDITION 2: The 2001 Bhuj earthquake demonstrates severe intraplate risk…
+          │
+          ├── MECHANISM
+          │   The 2001 Bhuj earthquake demonstrates severe intraplate risk in…
+          │
+          └── EFFECT / CONTRAST
+              The Peninsular shield is relatively stable, not aseismic
+          │
+          ▼
+CAUSE / CONDITION 3: Microzonation must feed building regulation, land use…
+          │
+          ├── MECHANISM
+          │   Because the corresponding adopted BIS standard/map could not be…
+          │
+          └── EFFECT / CONTRAST
+              Microzonation must feed building regulation, land use, lifeline…
+          │
+          ▼
+CAUSE / CONDITION 4: Institutions, Resilient Construction, Early Warning Limits…
+          │
+          ├── MECHANISM
+          │   It is not prediction
+          │
+          └── EFFECT / CONTRAST
+              The implementation gap is often the decisive risk multiplier: a…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Geography 03 — Vulcanism and Earthquakes / India Seismic Zones: traps, PYQ routes and…
+
+```ascii-master
+GEOGRAPHY 03 — VULCANISM AND EARTHQUAKES / INDIA SEISMIC ZONES: TRAPS, PYQ ROUTES AND…
+
+
+KEY TERMS: endogenic processes • lithospheric plates • convergent margin • divergent margin
+KEY TERMS: • transform margin • subduction
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── Do not treat every convergent belt as volcanically identical…
+├── “Richter scale” properly refers to local magnitude developed for a…
+├── Narcondam is volcanic but should not be substituted for Barren…
+├── retrofitting may add confinement, bracing, shear walls, jacketing…
+│
+├── Exact wording is reproduced from the routed local UPSC question papers
+├── VERIFIED PYQ 1 — UPSC Prelims 2018 GS-I Q85: Barren Island
+├── Why this PYQ matters: UPSC combines activity status, map location and…
+├── VERIFIED PYQ 2 — UPSC Prelims 2023 GS-I Q65: P and S waves
+│
+└── Plate tectonics explains why earthquakes, volcanism and mountain…
+└── Strike-slip movement with little vertical displacement is less…
+└── Institutions, Resilient Construction, Early Warning Limits And…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Geography 03 — Vulcanism and Earthquakes / India Seismic Zones: integrated revision and…
+
+```ascii-master
+GEOGRAPHY 03 — VULCANISM AND EARTHQUAKES / INDIA SEISMIC ZONES — ANSWER / REVISION SPINE
+
+
+KEY TERMS: endogenic processes • lithospheric plates • convergent margin • divergent margin
+KEY TERMS: • transform margin • subduction
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ Plate tectonics explains endogenic belts through interactions among…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ endogenic processes
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ Mw converts this physical source measure to a logarithmic magnitude
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ convergent margin
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ retrofitting may add confinement, bracing, shear walls, jacketing…
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ Institutions, Resilient Construction, Early Warning Limits And…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

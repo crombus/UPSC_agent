@@ -1,0 +1,218 @@
+ASCII MASTER FLOW — PANEL 1/12: Agricultural geography as a natural-human-market system
++-------------- AGRICULTURAL GEOGRAPHY ----------------+
+| Where does production occur, why there, how organised,|
+| and how does the pattern change through time?         |
++--------------------------------------------------------+
+                         |
+       +-----------------+------------------+
+       |                 |                  |
+NATURAL BASE         HUMAN SYSTEM       MARKET SYSTEM
+climate              labour/holding     demand
+relief               technology         transport
+soil                 tenure/capital     storage/processing
+water                institutions       price and trade links
+       \                 |                  /
+        +---------- FARMING SYSTEM ----------+
+                         |
+ location -> seasonality -> intensity -> surplus -> value chain
+                         |
+ spatial gains and costs feed back to soil, water, labour and region
+
+Six controls: climate, relief, soil, water, labour, market/transport.
+MUST REMEMBER: Agricultural geography reconstructs land use through physical controls, tenure,
+  labour, technology, markets and policy; it compares subsistence/commercial,
+  intensive/extensive, plantation, mixed, dairy, Mediterranean, shifting, pastoral and von
+  Thünen location logics before mapping India's crop seasons and agro-regions.
+
+ASCII MASTER FLOW — PANEL 2/12: Farming-system classification by ecology, labour and market
++----------------------+-----------------------+----------------------+
+| SYSTEM               | ORGANISATION          | TYPICAL SETTING      |
++----------------------+-----------------------+----------------------+
+| Shifting cultivation | clearing + fallow     | humid forest margins |
+| Wet-rice intensive   | small, labour, water  | monsoon valleys      |
+| Nomadic pastoralism  | mobile herds          | arid sparse pasture  |
+| Mixed farming        | crop-livestock link   | temperate regions    |
+| Mediterranean        | winter rain system    | west-coast margins   |
+| Plantation           | estate + export crop  | tropical highlands   |
+| Commercial grain     | mechanised vast farms | temperate plains     |
+| Dairy/market garden  | perishable + urban    | city hinterlands     |
++----------------------+-----------------------+----------------------+
+
+CLASSIFICATION AXES
+subsistence/commercial | intensive/extensive | crop/livestock mix
+sedentary/mobile | small/large scale | local/export orientation
+
+High output per hectare is not the same as commercial orientation.
+
+ASCII MASTER FLOW — PANEL 3/12: Von Thunen rings and the survival of distance
+                      CENTRAL MARKET
+                 +-----------------------+
+                 | dairy / vegetables    | high decay, frequent trips
+                 +-----------------------+
+                 | forestry / fuelwood   | heavy transport burden
+                 +-----------------------+
+                 | field crops           | lower perishability
+                 +-----------------------+
+                 | livestock / ranching  | extensive outer use
+                 +-----------------------+
+
+distance up -> freight/reliability cost up -> bid rent generally down
+perishability + delivery frequency + land rent decide near-market use
+                         |
+MODERN MODIFIERS
+cold chain + expressway + processing + digital markets + policy
+                         |
+stretch, distort or split rings; they do not abolish cost and access
+
+Answer route: assumptions -> mechanism -> modification -> surviving use
+              -> limits from relief, multiple markets and institutions.
+
+ASCII MASTER FLOW — PANEL 4/12: World crop regions and ecological requirements
++---------+--------------------------+----------------------------+
+| CROP    | ECOLOGICAL BUNDLE        | BROAD GEOGRAPHY            |
++---------+--------------------------+----------------------------+
+| Rice    | warmth + managed water   | monsoon valleys/deltas     |
+| Wheat   | cool growth, dry ripening| temperate and winter belts |
+| Cotton  | frost-free warmth        | subtropical plains/plateaus|
+| Jute    | humid alluvium + retting | eastern deltaic belt       |
+| Tea     | humid acidic slopes      | Asian tropical highlands   |
+| Coffee  | shaded drained uplands   | tropical uplands           |
+| Millets | variable lower rainfall  | semi-arid drylands         |
++---------+--------------------------+----------------------------+
+
+REGIONAL LOGIC
+Monsoon Asia -> intensive rice | temperate plains -> commercial grain
+Mediterranean margins -> winter crops, vines, olives and fruits
+Tropical estates -> plantation crops | city belts -> dairy and vegetables
+
+A crop-soil link is an association, not an exclusive rule.
+
+ASCII MASTER FLOW — PANEL 5/12: India's agro-climatic mosaic, Green Revolution and food chain
+INDIA'S AGRICULTURAL MOSAIC
+North-west       : irrigated wheat-rice and procurement core
+Eastern deltas   : rice, jute and water-rich farming
+Dryland Deccan   : millets, pulses, oilseeds and variable rainfall
+Western plateau  : cotton and mixed irrigated-dryland systems
+Highlands        : tea, coffee, spices and horticulture
+Mountains        : horticulture, pastoral and terrace systems
+                         |
+GREEN REVOLUTION PACKAGE
+HYV + assured irrigation + fertiliser + credit + extension + procurement
+                         |
+early concentration: Punjab + Haryana + western Uttar Pradesh
+                         |
+higher grain output -> procurement -> central pool -> NFSA/PDS movement
+                         |
+SECOND-GENERATION FEEDBACK
+water-table decline + nutrient imbalance + residue pressure
++ rice-wheat lock-in + regional divergence
+
+Productive success and ecological stress can coexist in the same region.
+
+ASCII MASTER FLOW — PANEL 6/12: Fishing, forestry, mining and quarrying through physiography
++------------+---------------------------+-------------------------+
+| ACTIVITY   | PHYSICAL BASE             | HUMAN FILTER            |
++------------+---------------------------+-------------------------+
+| Fishing    | shelf, nutrients, mixing  | harbour, cold chain     |
+| Inland fish| river, tank, reservoir    | rights, seed, markets   |
+| Forestry   | climate, altitude, species| access, tenure, rules   |
+| Mining     | ore body or fuel basin    | grade, power, transport |
+| Quarrying  | accessible bulk material  | demand, regulation      |
++------------+---------------------------+-------------------------+
+
+PHYSIOGRAPHIC SEQUENCE
+resource occurrence -> accessibility -> extraction/harvest -> processing link
+                         |
+technology + transport + institutions + rights determine realised activity
+
+Indian cues:
+central/NE forests -> timber and NTFP | shields -> many metallic ores
+sedimentary basins -> coal/limestone | margins -> offshore hydrocarbons
+
+Primary extraction ends before manufacturing begins.
+
+ASCII MASTER FLOW — PANEL 7/12: Sustainable agriculture and intervention stack
+REGIONAL PRODUCTION PRESSURE
+monsoon variability + fragmented holdings + unequal irrigation
++ soil decline + water stress + market risk
+                         |
+RESPONSE STACK
+soil and water conservation
+-> crop-water alignment and diversification
+-> efficient irrigation and resilient seed systems
+-> storage, aggregation, processing and cold chain
+-> credit, insurance, extension and market access
+-> procurement reform with food-security safeguards
+-> local monitoring of income, nutrition and ecology
+
+EVIDENCE FIREWALL
+estimate is not final | output is not procurement | procurement is not stock
+stock is not consumption | MSP announcement is not actual purchase
+
+SCHEME STATUS
+announcement -> approval -> guidelines -> selection -> funds
+-> physical output -> service outcome -> long-term impact
+
+Technology raises output only where water, knowledge and institutions converge.
+
+ASCII MASTER FLOW — PANEL 8/12: Map-answer and Mains spine for agricultural geography
+QUESTION: Why is agricultural change spatially unequal?
+                             |
+1. DEFINE: location, seasonality, organisation and change
+                             |
+2. MAP: irrigated NW | eastern deltas | dry Deccan | plantation hills
+                             |
+3. BUILD CONTROL MATRIX
+   climate + relief + soil + water + labour + market/transport
+                             |
+4. EXPLAIN SYSTEM
+   subsistence -> surplus -> specialisation -> processing -> value chain
+                             |
+5. ADD NAMED EVIDENCE
+   Green Revolution core, procurement geography or physiographic activity
+                             |
+6. EVALUATE
+   productivity + food security versus water, soil and regional inequality
+                             |
+7. QUALIFY AND CONCLUDE
+   diversify only with purchase assurance, processing and transition support
+
+Claim -> evidence -> spatial mechanism -> distributional/ecological limit
+      -> region-sensitive verdict.
+
+ASCII MASTER FLOW — PANEL 9/12: Evidence ladder and confidence control
+EVIDENCE LADDER
+1. = grounded source = synthesis / exam heuristic = verified dated...
+2. Source/date: PIB, 28 May 2025 -Cabinet approval of MSP for Kharif...
+3. central Indian and north-eastern forest belts and is a principal...
+VERDICT: Source type controls the strength and limits of the historical claim.
+
+ASCII MASTER FLOW — PANEL 10/12: Examiner traps and contested boundaries
+CLOSE DISTINCTIONS
+1. Do not turn a dated official estimate into a timeless fact.
+2. Do not treat a scheme dashboard as an impact evaluation.
+3. Do not begin with India-specific complexity before the core location...
+VERDICT: Qualification earns marks; false certainty is a hard failure.
+CLOSE DISTINCTION: Kharif, rabi and zaid are seasons rather than crop essences; net sown area
+  differs from gross cropped area, cropping intensity from yield, MSP announcement from
+  procurement, food security from cereal self-sufficiency, and irrigation potential from
+  realised equitable water delivery.
+
+ASCII MASTER FLOW — PANEL 11/12: Integrated answer spine and qualified conclusion
+ANSWER SPINE
+1. Practice contract Every solved item has demand decoding, a detailed...
+2. NATURAL BASE -> FARMING SYSTEM -> LOCATION -> MARKET LINK -> CHANGE...
+3. In Prelims, UPSC separates close classifications. In Mains, it...
+VERDICT: Claim, named evidence, analysis and qualification lead to a graded...
+EVIDENCE LIMIT: Punjab–Haryana wheat-rice, western Maharashtra sugarcane, Malwa
+  cotton/soybean, Assam tea, Kerala rubber/spices, Karnataka coffee, eastern rice, dryland
+  Deccan millets/pulses and horticultural belts must be explained through water, soil, labour,
+  market and policy interactions, with Agriculture Census/land-use/production data
+  source-dated.
+
+ASCII MASTER FLOW — PANEL 12/12: Evidence ladder and confidence control — DEEP-REVIEW SYNTHESIS 2
+EVIDENCE LADDER
+1. = grounded source = synthesis / exam heuristic = verified dated...
+2. Source/date: PIB, 28 May 2025 -Cabinet approval of MSP for Kharif...
+3. central Indian and north-eastern forest belts and is a principal...
+VERDICT: Source type controls the strength and limits of the historical claim.

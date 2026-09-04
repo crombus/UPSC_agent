@@ -1,0 +1,3074 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g3\\geography-12_Complete-Learning-Session_2026-09-01.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g3\\geography-12_Complete-Learning-Session_2026-09-01.pdf",
+  "mode": "main",
+  "topic_key": "geography-12",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "The Oceans: Currents, Tides, Salinity / Indian Ocean and IOD - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 418.024
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 189.022
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 51,
+      "markdown_body_line_end": 51,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g3\\assets\\geography-12_Teaching-Navigation_2026-09-01.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 497.691
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 190.156
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 65,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ocean-current definition: An ocean current is a persistent, directed movement of seawater at a stated depth and time scale; a surface current, tidal stream, eddy and deep overturning branch are not interchangeable.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 80,
+      "markdown_body_line_end": 84,
+      "heading": "VISUAL FIRST",
+      "preview": "CURRENT VOCABULARY AND SCALES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 417.824
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 376.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 112,
+      "markdown_body_line_end": 129,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CURRENT VOCABULARY AND SCALES",
+      "preview": "START / CONCEPT: FOUNDATION — Current vocabulary and scales",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 243
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 140,
+      "markdown_body_line_end": 140,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Surface-current drivers Qualified use: Use wind-Coriolis-pressure-friction logic.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 449.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 397.224
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 155,
+      "markdown_body_line_end": 159,
+      "heading": "VISUAL FIRST",
+      "preview": "SURFACE-CURRENT FORCE BALANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 187,
+      "markdown_body_line_end": 204,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - SURFACE-CURRENT FORCE BALANCE",
+      "preview": "START / CONCEPT: FOUNDATION — Surface-current force balance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 126
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 252.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 215,
+      "markdown_body_line_end": 215,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Density circulation Qualified use: Build a cooling-salinity-sinking chain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 126.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 74.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 230,
+      "markdown_body_line_end": 234,
+      "heading": "VISUAL FIRST",
+      "preview": "THERMOHALINE DENSITY CIRCULATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 647.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 606.691
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 262,
+      "markdown_body_line_end": 279,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THERMOHALINE DENSITY CIRCULATION",
+      "preview": "START / CONCEPT: FOUNDATION — Thermohaline density circulation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 219
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 323.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 102.691
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 290,
+      "markdown_body_line_end": 290,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Warm and cold are relative labels.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 721.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 669.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 305,
+      "markdown_body_line_end": 309,
+      "heading": "VISUAL FIRST",
+      "preview": "WARM AND COLD CURRENT EFFECTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 474.624
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 433.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 337,
+      "markdown_body_line_end": 354,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - WARM AND COLD CURRENT EFFECTS",
+      "preview": "START / CONCEPT: FOUNDATION — Warm and cold current effects",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 113
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 596.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 365,
+      "markdown_body_line_end": 365,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Western-boundary intensification: Western boundary currents such as the Gulf Stream and Kuroshio are generally narrow, swift and deep because basin-scale vorticity balance concentrates return flow on the west.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 461.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 394.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 380,
+      "markdown_body_line_end": 387,
+      "heading": "VISUAL FIRST",
+      "preview": "GYRES AND BOUNDARY CURRENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 416,
+      "markdown_body_line_end": 433,
+      "heading": "CLOSING RECALL FLOW - CORE - GYRES AND BOUNDARY CURRENTS",
+      "preview": "START / CONCEPT: CORE — Gyres and boundary currents",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 238
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 373.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 142.491
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 444,
+      "markdown_body_line_end": 444,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Currents and fisheries: Productive fisheries often occur in upwelling zones or mixing fronts because nutrients support food webs; current convergence alone does not guarantee a rich fishery.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 459,
+      "markdown_body_line_end": 466,
+      "heading": "VISUAL FIRST",
+      "preview": "UPWELLING AND FISHERIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 375.224
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 495,
+      "markdown_body_line_end": 512,
+      "heading": "CLOSING RECALL FLOW - CORE - UPWELLING AND FISHERIES",
+      "preview": "START / CONCEPT: CORE — Upwelling and fisheries",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 219
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 523,
+      "markdown_body_line_end": 523,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Tide-generating forces: Tides arise chiefly from the differential gravitational effects of the Moon and Sun together with Earth-Moon system dynamics, then are reshaped by basin geometry and friction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 449.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 383.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 538,
+      "markdown_body_line_end": 542,
+      "heading": "VISUAL FIRST",
+      "preview": "TIDE-GENERATING FORCES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 570,
+      "markdown_body_line_end": 587,
+      "heading": "CLOSING RECALL FLOW - CORE - TIDE-GENERATING FORCES",
+      "preview": "START / CONCEPT: CORE — Tide-generating forces",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 228
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 242.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 598,
+      "markdown_body_line_end": 598,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Spring is an alignment term, not a season.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 135.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 83.224
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 613,
+      "markdown_body_line_end": 620,
+      "heading": "VISUAL FIRST",
+      "preview": "SPRING AND NEAP TIDES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 661.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 590.891
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 649,
+      "markdown_body_line_end": 666,
+      "heading": "CLOSING RECALL FLOW - CORE - SPRING AND NEAP TIDES",
+      "preview": "START / CONCEPT: CORE — Spring and neap tides",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 197
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 262.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 51.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 677,
+      "markdown_body_line_end": 677,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Halocline-density link: A halocline is a strong vertical salinity gradient; together with temperature it contributes to stratification, mixing resistance and the depth of the mixed layer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 692,
+      "markdown_body_line_end": 699,
+      "heading": "VISUAL FIRST",
+      "preview": "SALINITY CONTROLS AND HALOCLINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 375.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 728,
+      "markdown_body_line_end": 745,
+      "heading": "CLOSING RECALL FLOW - CORE - SALINITY CONTROLS AND HALOCLINE",
+      "preview": "START / CONCEPT: CORE — Salinity controls and halocline",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 225
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 756,
+      "markdown_body_line_end": 756,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Arabian Sea-Bay contrast: The Arabian Sea is generally more saline than the Bay of Bengal because evaporation is stronger and freshwater input lower, while the Bay receives heavy rain and large river discharge.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 425.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 358.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 771,
+      "markdown_body_line_end": 775,
+      "heading": "VISUAL FIRST",
+      "preview": "ARABIAN SEA AND BAY OF BENGAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 803,
+      "markdown_body_line_end": 820,
+      "heading": "CLOSING RECALL FLOW - CORE - ARABIAN SEA AND BAY OF BENGAL",
+      "preview": "START / CONCEPT: CORE — Arabian Sea and Bay of Bengal",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 239
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 232.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 831,
+      "markdown_body_line_end": 831,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The North Indian Ocean is exceptional because monsoon reversal reorganises its surface circulation twice a year.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 97.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 44.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 846,
+      "markdown_body_line_end": 853,
+      "heading": "VISUAL FIRST",
+      "preview": "SEASONAL MONSOON-CURRENT REVERSAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 557.691
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 882,
+      "markdown_body_line_end": 899,
+      "heading": "CLOSING RECALL FLOW - CORE - SEASONAL MONSOON-CURRENT REVERSAL",
+      "preview": "START / CONCEPT: CORE — Seasonal monsoon-current reversal",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 141
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 910,
+      "markdown_body_line_end": 910,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "IOD definition: The Indian Ocean Dipole is a coupled zonal contrast in sea-surface temperature and associated atmosphere-ocean conditions between western and eastern equatorial Indian Ocean sectors.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 925,
+      "markdown_body_line_end": 929,
+      "heading": "VISUAL FIRST",
+      "preview": "IOD COUPLED MECHANISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 957,
+      "markdown_body_line_end": 974,
+      "heading": "CLOSING RECALL FLOW - CORE - IOD COUPLED MECHANISM",
+      "preview": "START / CONCEPT: CORE — IOD coupled mechanism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 227
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 242.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 985,
+      "markdown_body_line_end": 985,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The IOD changes the odds and spatial organisation of rainfall; it does not operate as a guaranteed monsoon switch.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 121.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 69.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1000,
+      "markdown_body_line_end": 1004,
+      "heading": "VISUAL FIRST",
+      "preview": "IOD PHASES AND UNCERTAINTY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 587.691
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1032,
+      "markdown_body_line_end": 1049,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - IOD PHASES AND UNCERTAINTY",
+      "preview": "START / CONCEPT: SYNTHESIS — IOD phases and uncertainty",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 143
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 290.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 69.491
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1060,
+      "markdown_body_line_end": 1060,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Official observing network: INCOIS describes OMNI and RAMA moorings that collect upper-ocean temperature, salinity, currents and meteorological variables for Indian Ocean monitoring and model validation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1075,
+      "markdown_body_line_end": 1079,
+      "heading": "VISUAL FIRST",
+      "preview": "INCOIS OBSERVING ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 417.824
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 376.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1107,
+      "markdown_body_line_end": 1124,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - INCOIS OBSERVING ARCHITECTURE",
+      "preview": "START / CONCEPT: SYNTHESIS — INCOIS observing architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 232
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1135,
+      "markdown_body_line_end": 1135,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Verified current PYQ routes: Direct routed Mains demands are 2019 on ocean currents versus water masses and marine life, and 2022 on forces influencing currents and their fishing role.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 440.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 374.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1150,
+      "markdown_body_line_end": 1154,
+      "heading": "VISUAL FIRST",
+      "preview": "VERIFIED PYQS AND OCEAN ANSWER SPINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1181,
+      "markdown_body_line_end": 1184,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography*. ✅ = from source book · ⚠️ = inference ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 471.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 376.024
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1190,
+      "markdown_body_line_end": 1190,
+      "heading": "1. Ocean circulation: what drives it?",
+      "preview": "🔑 Trap: Surface currents are mainly wind-driven, but deep circulation is density-driven by temperature and salinity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 292.224
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 247.556
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1194,
+      "markdown_body_line_end": 1200,
+      "heading": "2. Ocean currents: warm, cold and gyres",
+      "preview": "Feature | Rule | Example / implication",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Feature",
+          "Rule",
+          "Example / implication"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 225.556
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 72.554
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1204,
+      "markdown_body_line_end": 1210,
+      "heading": "3. Tides and salinity",
+      "preview": "Theme | Key fact | UPSC significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Theme",
+          "Key fact",
+          "UPSC significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 634.29
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1214,
+      "markdown_body_line_end": 1214,
+      "heading": "➕ Dead Zones & Marine Hypoxia (PYQ gap - beyond core books)",
+      "preview": "⚠️ **Source note:** *Dead zones / hypoxia / oxygen-minimum zones are **NOT** in Leong, Husain or Khullar.* The books cover only the **precursor, eutrophication** (Husain: \"a process in which lakes receive nutrients and become enriched\"; Khu",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 634.29
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 539.222
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1219,
+      "markdown_body_line_end": 1222,
+      "heading": "➕ Dead Zones & Marine Hypoxia (PYQ gap - beyond core books)",
+      "preview": "Type | Cause | Depth | Example",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 2,
+        "headers": [
+          "Type",
+          "Cause",
+          "Depth",
+          "Example"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 448.022
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 341.12
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1224,
+      "markdown_body_line_end": 1225,
+      "heading": "➕ Dead Zones & Marine Hypoxia (PYQ gap - beyond core books)",
+      "preview": "🔑 Trap: Hypoxia means too little oxygen. Do not force a binary rule that every OMZ is “natural” and every coastal dead zone “human-made”; circulation, productivity, warming and nutrient loading can interact.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 341.12
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 296.453
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1229,
+      "markdown_body_line_end": 1229,
+      "heading": "➕ Ocean-floor Relief: Seamount & Guyot (PYQ gap)",
+      "preview": "✅ Grounded in GC Leong + Majid Husain + ⚠️ standard geography. Added to close a UPSC gap.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 296.453
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 243.985
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1236,
+      "markdown_body_line_end": 1240,
+      "heading": "➕ Ocean-floor Relief: Seamount & Guyot (PYQ gap)",
+      "preview": "Feature | Shape | Formation clue | Exam trap",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Feature",
+          "Shape",
+          "Formation clue",
+          "Exam trap"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 717.89
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1242,
+      "markdown_body_line_end": 1242,
+      "heading": "➕ Ocean-floor Relief: Seamount & Guyot (PYQ gap)",
+      "preview": "🔑 Trap: A guyot's flat top suggests it was once near/above sea level; it is not flat because sediment simply filled a basin.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 717.89
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 673.222
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1263,
+      "markdown_body_line_end": 1263,
+      "heading": "5. Must-Know Facts (Prelims) and UPSC traps",
+      "preview": "🔑 Trap: \"Spring tide\" does **not** mean tide of the spring season; it means the tide \"springs up\" at New/Full Moon.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 380.222
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 335.554
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1307,
+      "markdown_body_line_end": 1311,
+      "heading": "9. Ocean-atmosphere coupling: ENSO, the Walker circulation and the IOD",
+      "preview": "**Why this section exists:** ENSO, La Nina, the Walker circulation and the Indian Ocean Dipole appeared **nowhere in the Core tier**, although they are the most heavily tested mechanisms in modern physical geography and although Core files ",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 565.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 470.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1315,
+      "markdown_body_line_end": 1328,
+      "heading": "9.1 The normal state and the Walker circulation",
+      "preview": "NORMAL (neutral) PACIFIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 448.224
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 317.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1332,
+      "markdown_body_line_end": 1339,
+      "heading": "9.2 El Nino, La Nina and the feedback that drives them",
+      "preview": " | **El Nino (warm phase)** | **La Nina (cold phase)**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "",
+          "**El Nino (warm phase)**",
+          "**La Nina (cold phase)**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 295.224
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 121.022
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1354,
+      "markdown_body_line_end": 1357,
+      "heading": "9.2 El Nino, La Nina and the feedback that drives them",
+      "preview": "🔑 **Trap:** El Nino does **not** \"cause drought in India\". It shifts the probability distribution. Writing a deterministic causal claim is the commonest error on this topic; writing the probabilistic version, and naming the offsetting facto",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 705.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 646.224
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1373,
+      "markdown_body_line_end": 1374,
+      "heading": "9.3 The Indian Ocean Dipole",
+      "preview": "🔑 **Trap:** the IOD is an **Indian Ocean** phenomenon and is not \"El Nino in the Indian Ocean\". The two are separate coupled modes that can reinforce or oppose each other.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 436.024
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 391.356
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1378,
+      "markdown_body_line_end": 1385,
+      "heading": "9.4 Upwelling: where cold water surfaces and why it matters",
+      "preview": "WIND parallel to a coast",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 369.356
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 298.356
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1387,
+      "markdown_body_line_end": 1392,
+      "heading": "9.4 Upwelling: where cold water surfaces and why it matters",
+      "preview": "Setting | Character",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Setting",
+          "Character"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 298.356
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 121.754
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1400,
+      "markdown_body_line_end": 1406,
+      "heading": "9.5 Other changes in the ocean as a critical feature",
+      "preview": "Change | Mechanism | Consequence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Change",
+          "Mechanism",
+          "Consequence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 567.09
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1408,
+      "markdown_body_line_end": 1411,
+      "heading": "9.5 Other changes in the ocean as a critical feature",
+      "preview": "⚠️ **Factual caution:** do **not** quote an ENSO index value, a Nino-region temperature anomaly, a named year's event strength, a pH figure, a fish-catch tonnage or a projected circulation weakening from memory. State the mechanism and the ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 567.09
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 508.222
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1415,
+      "markdown_body_line_end": 1418,
+      "heading": "10. The wider family of ocean-atmosphere modes",
+      "preview": "**Promoted into Core (13 Aug 2026):** these are **general** climate modes, not India applications, and each is a separately named and separately examinable concept. Their specific effects on the Indian monsoon and the forecasting practice b",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 508.222
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 413.154
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1420,
+      "markdown_body_line_end": 1426,
+      "heading": "10. The wider family of ocean-atmosphere modes",
+      "preview": "Mode | What it is | Timescale | Why it is distinct",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Mode",
+          "What it is",
+          "Timescale",
+          "Why it is distinct"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 413.154
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 55.753
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1447,
+      "markdown_body_line_end": 1448,
+      "heading": "10.1 Marine heatwaves, defined",
+      "preview": "⚠️ **Factual caution:** do not quote temperature anomalies, index values, event durations or named event dates for any of these modes from memory.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 586.891
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 542.224
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1454,
+      "markdown_body_line_end": 1460,
+      "heading": "11.1 Directive decoding for this topic",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 501.224
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 247.422
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1486,
+      "markdown_body_line_end": 1491,
+      "heading": "11.3 Evidence units available in this file",
+      "preview": "**Claim:** the ocean and the atmosphere are one coupled system, not two adjacent ones. **Evidence:** in the Pacific, weakened trade winds allow the warm pool to spread east, and the warmer eastern ocean in turn weakens the wind further. **S",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 665.691
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 556.424
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1493,
+      "markdown_body_line_end": 1499,
+      "heading": "11.3 Evidence units available in this file",
+      "preview": "**Claim:** current systems determine the geography of food production at sea. **Evidence:** upwelling coasts and warm-cold current confluences carry the world's most productive fishing grounds, because both supply nutrients to the sunlit la",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 556.424
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 454.956
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1501,
+      "markdown_body_line_end": 1507,
+      "heading": "11.3 Evidence units available in this file",
+      "preview": "**Claim:** ocean currents redistribute heat and thereby set climates far from the tropics. **Evidence:** warm poleward flow on western margins of the higher middle latitudes keeps those coasts ice-free and mild in winter, while cold equator",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 454.956
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 367.688
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1513,
+      "markdown_body_line_end": 1515,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 367.688
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 272.62
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1521,
+      "markdown_body_line_end": 1523,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 221.02
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 134.619
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1529,
+      "markdown_body_line_end": 1529,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 95.419
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 50.751
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1536,
+      "markdown_body_line_end": 1538,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** Th",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1544,
+      "markdown_body_line_end": 1551,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 6,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 662.624
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 326.722
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1562,
+      "markdown_body_line_end": 1562,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 201.522
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 156.854
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1567,
+      "markdown_body_line_end": 1584,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - VERIFIED PYQS AND OCEAN ANSWER SPINE",
+      "preview": "START / CONCEPT: SYNTHESIS — Verified PYQs and ocean answer spine",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 259
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2499,
+      "markdown_body_line_end": 2499,
+      "heading": "➕ Dead Zones & Marine Hypoxia (PYQ gap - beyond core books)",
+      "preview": "⚠️ **Source note:** *Dead zones / hypoxia / oxygen-minimum zones are **NOT** in Leong, Husain or Khullar.* The books cover only the **precursor, eutrophication** (Husain: \"a process in which lakes receive nutrients and become enriched\"; Khu",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 653.091
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 558.024
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2504,
+      "markdown_body_line_end": 2507,
+      "heading": "➕ Dead Zones & Marine Hypoxia (PYQ gap - beyond core books)",
+      "preview": "Type | Cause | Depth | Example",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 2,
+        "headers": [
+          "Type",
+          "Cause",
+          "Depth",
+          "Example"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 466.824
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 359.922
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2509,
+      "markdown_body_line_end": 2510,
+      "heading": "➕ Dead Zones & Marine Hypoxia (PYQ gap - beyond core books)",
+      "preview": "🔑 Trap: Hypoxia means too little oxygen. Do not force a binary rule that every OMZ is “natural” and every coastal dead zone “human-made”; circulation, productivity, warming and nutrient loading can interact.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 359.922
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 315.254
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2514,
+      "markdown_body_line_end": 2514,
+      "heading": "➕ Ocean-floor Relief: Seamount & Guyot (PYQ gap)",
+      "preview": "✅ Grounded in GC Leong + Majid Husain + ⚠️ standard geography. Added to close a UPSC gap.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 315.254
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 262.787
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2521,
+      "markdown_body_line_end": 2525,
+      "heading": "➕ Ocean-floor Relief: Seamount & Guyot (PYQ gap)",
+      "preview": "Feature | Shape | Formation clue | Exam trap",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Feature",
+          "Shape",
+          "Formation clue",
+          "Exam trap"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 137.187
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 51.785
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2527,
+      "markdown_body_line_end": 2527,
+      "heading": "➕ Ocean-floor Relief: Seamount & Guyot (PYQ gap)",
+      "preview": "🔑 Trap: A guyot's flat top suggests it was once near/above sea level; it is not flat because sediment simply filled a basin.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2531,
+      "markdown_body_line_end": 2533,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 758.624
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 663.556
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2539,
+      "markdown_body_line_end": 2541,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 611.956
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 525.554
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2547,
+      "markdown_body_line_end": 2547,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 486.354
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 441.687
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2554,
+      "markdown_body_line_end": 2556,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** Th",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 441.687
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 346.619
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2562,
+      "markdown_body_line_end": 2569,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 6,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 467.39
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2580,
+      "markdown_body_line_end": 2580,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 342.19
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 297.522
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2585,
+      "markdown_body_line_end": 2585,
+      "heading": "➕ The Arabian Sea Dead Zone / OMZ (PYQ gap - beyond core books)",
+      "preview": "⚠️ **Source note:** Not covered in Khullar/Husain (books stop at *eutrophication*). Added to close a UPSC GS-1 gap; ⚠️ = standard oceanography, 📰 = current data.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 297.522
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 230.854
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2593,
+      "markdown_body_line_end": 2597,
+      "heading": "➕ The Arabian Sea Dead Zone / OMZ (PYQ gap - beyond core books)",
+      "preview": "Feature | Coastal dead zone | Arabian Sea OMZ",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Feature",
+          "Coastal dead zone",
+          "Arabian Sea OMZ"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 715.09
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2599,
+      "markdown_body_line_end": 2600,
+      "heading": "➕ The Arabian Sea Dead Zone / OMZ (PYQ gap - beyond core books)",
+      "preview": "🔑 Trap: The Arabian Sea OMZ has a strong natural oceanographic basis, but human nutrient inputs and climate change can modify it; do not present “natural” and “anthropogenic” as mutually exclusive.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 715.09
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 670.422
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2878,
+      "markdown_body_line_end": 2881,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I & GS-III **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain + verified CA. ✅ = from source book · ⚠️ = inference / standard knowl",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 707.224
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2887,
+      "markdown_body_line_end": 2887,
+      "heading": "1. Why the North Indian Ocean is special",
+      "preview": "🔑 Trap: Do not draw a fixed North Indian Ocean gyre like the Atlantic or Pacific; monsoon reversal is the key fact.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 623.424
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 578.756
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2891,
+      "markdown_body_line_end": 2897,
+      "heading": "2. Indian Ocean circulation table",
+      "preview": "Region / season | Current / feature | Direction / note",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Region / season",
+          "Current / feature",
+          "Direction / note"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 556.756
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 403.754
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2901,
+      "markdown_body_line_end": 2905,
+      "heading": "3. Salinity, upwelling and India link",
+      "preview": "Feature | Arabian Sea | Bay of Bengal",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Feature",
+          "Arabian Sea",
+          "Bay of Bengal"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 381.754
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 271.153
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2911,
+      "markdown_body_line_end": 2911,
+      "heading": "➕ The Arabian Sea Dead Zone / OMZ (PYQ gap - beyond core books)",
+      "preview": "⚠️ **Source note:** Not covered in Khullar/Husain (books stop at *eutrophication*). Added to close a UPSC GS-1 gap; ⚠️ = standard oceanography, 📰 = current data.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 237.753
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 171.085
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2919,
+      "markdown_body_line_end": 2923,
+      "heading": "➕ The Arabian Sea Dead Zone / OMZ (PYQ gap - beyond core books)",
+      "preview": "Feature | Coastal dead zone | Arabian Sea OMZ",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Feature",
+          "Coastal dead zone",
+          "Arabian Sea OMZ"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 715.09
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2925,
+      "markdown_body_line_end": 2926,
+      "heading": "➕ The Arabian Sea Dead Zone / OMZ (PYQ gap - beyond core books)",
+      "preview": "🔑 Trap: The Arabian Sea OMZ has a strong natural oceanographic basis, but human nutrient inputs and climate change can modify it; do not present “natural” and “anthropogenic” as mutually exclusive.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 715.09
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 670.422
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2930,
+      "markdown_body_line_end": 2931,
+      "heading": "➕ Marine Heatwave - India Seas (high-yield gap)",
+      "preview": "✅ Grounded in adjacent coral/SST book passages + ⚠️ standard geography. Added to close a UPSC gap. ⚠️ Source note: not in core books as a named concept; book query returned adjacent coral-bleaching and sea-surface-temperature passages.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 670.422
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 589.554
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2938,
+      "markdown_body_line_end": 2942,
+      "heading": "➕ Marine Heatwave - India Seas (high-yield gap)",
+      "preview": "Impact pathway | Geography link | India relevance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Impact pathway",
+          "Geography link",
+          "India relevance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 463.954
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 375.753
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2944,
+      "markdown_body_line_end": 2944,
+      "heading": "➕ Marine Heatwave - India Seas (high-yield gap)",
+      "preview": "🔑 Trap: A marine heatwave is not just a hot day at sea; it is a **persistent SST anomaly** that affects ocean ecology and weather energy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 375.753
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 331.085
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3002,
+      "markdown_body_line_end": 3010,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Ocean-current force chain",
+      "preview": "WIND STRESS -> surface momentum",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3014,
+      "markdown_body_line_end": 3019,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Density-overturning chain",
+      "preview": "COOLING / EVAPORATION -> density increase",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 631.091
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3023,
+      "markdown_body_line_end": 3028,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Gyre comparison",
+      "preview": "NORTH SUBTROPICS -> clockwise tendency",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 609.091
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3032,
+      "markdown_body_line_end": 3037,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Upwelling-food web",
+      "preview": "ALONGSHORE WIND -> Ekman transport offshore",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 483.491
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3041,
+      "markdown_body_line_end": 3046,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Tide geometry",
+      "preview": "NEW / FULL MOON -> aligned forces",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 33
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 461.491
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 409.691
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3050,
+      "markdown_body_line_end": 3055,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Local tidal range",
+      "preview": "ASTRONOMICAL FORCING -> incoming tide",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 387.691
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 335.891
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3059,
+      "markdown_body_line_end": 3064,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Salinity budget",
+      "preview": "EVAPORATION + BRINE -> salinity rises",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 313.891
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 262.091
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3068,
+      "markdown_body_line_end": 3073,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Arabian-Bay contrast",
+      "preview": "ARABIAN SEA -> stronger evaporation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3077,
+      "markdown_body_line_end": 3082,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Monsoon-current switch",
+      "preview": "SW MONSOON -> winds drive summer reorganisation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3086,
+      "markdown_body_line_end": 3094,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: IOD coupled seesaw",
+      "preview": "WEST-EAST SST CONTRAST -> pressure gradient",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3098,
+      "markdown_body_line_end": 3106,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Observation-to-service chain",
+      "preview": "OMNI / RAMA -> ocean + weather observations",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 452.891
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3110,
+      "markdown_body_line_end": 3115,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Ocean answer spine",
+      "preview": "DEFINE -> depth, scale and season",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 430.891
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 379.091
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    }
+  ]
+}

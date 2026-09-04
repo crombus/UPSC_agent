@@ -1,0 +1,71 @@
+ASCII MASTER FLOW — PANEL 1/12: Basin anatomy
+RIDGELINE -> watershed / drainage divide
+SLOPES -> runoff enters tributaries
+TRIBUTARIES -> trunk stream -> outlet
+BASIN RULE -> upstream change travels downstream
+
+ASCII MASTER FLOW — PANEL 2/12: River-work engine
+ENERGY + DISCHARGE -> erosion capacity
+LOAD SIZE + VOLUME -> transport demand
+COMPETENCE FALLS -> deposition begins
+FEEDBACK -> bed form alters velocity and load
+
+ASCII MASTER FLOW — PANEL 3/12: Long-profile controls
+UPLIFT / BASE LEVEL -> potential-energy change
+ROCK + DISCHARGE -> local incision
+SEDIMENT -> abrasion, transport and storage
+GRADED CURVE -> moving dynamic balance
+
+ASCII MASTER FLOW — PANEL 4/12: Meander-floodplain loop
+OUTER BANK -> faster flow -> erosion
+INNER BANK -> slower flow -> point bar
+NECK CUTOFF -> ox-bow lake
+OVERBANK SILT -> floodplain + natural levee
+
+ASCII MASTER FLOW — PANEL 5/12: Drainage-pattern matrix
+DENDRITIC -> uniform resistance
+TRELLIS -> alternating resistant bands
+RECTANGULAR -> joints and faults
+RADIAL / CENTRIPETAL -> outward high / inward basin
+
+ASCII MASTER FLOW — PANEL 6/12: Drainage-evolution firewall
+ANTECEDENT -> river older than uplift
+SUPERIMPOSED -> cover pattern inherited below
+CAPTURE -> headward erosion diverts neighbour
+FIELD CUES -> gorge / discordance / elbow-wind gap
+
+ASCII MASTER FLOW — PANEL 7/12: India river-system contrast
+HIMALAYAN -> high relief, mixed perennial inputs
+PENINSULAR -> old shield, monsoon-dominant regime
+EAST -> long rivers and major deltas
+WEST -> Narmada-Tapi troughs + short Ghats streams
+
+ASCII MASTER FLOW — PANEL 8/12: Source-course-mouth rail
+INDUS -> Tibetan headwaters -> Arabian Sea
+GANGA -> Devprayag name -> Bengal delta
+BRAHMAPUTRA -> Tsangpo-Siang -> joined delta
+PENINSULA -> Godavari-Krishna-Kaveri / Narmada-Tapi
+
+ASCII MASTER FLOW — PANEL 9/12: Delta budget
+INPUT -> basin sediment delivery
+REMOVAL -> waves, tides and cyclone scour
+VERTICAL -> compaction + relative sea level
+CHANNELS -> distributary mobility or confinement
+
+ASCII MASTER FLOW — PANEL 10/12: Transfer viability test
+DONOR -> seasonal water after existing claims
+RECIPIENT -> demand, soil, aquifer and delivery fit
+CORRIDOR -> loss, energy, ecology and people
+ALTERNATIVES -> recharge, efficiency, reuse, operations
+
+ASCII MASTER FLOW — PANEL 11/12: Ken-Betwa boundary
+DIRECTION -> Ken basin to Betwa basin
+STATUS -> official material says under implementation
+LANDSCAPE -> Panna connectivity + downstream flow
+RULE -> status is not measured outcome
+
+ASCII MASTER FLOW — PANEL 12/12: Basin answer spine
+DEFINE + MAP -> basin and direction
+EXPLAIN -> process, timing and sediment
+ASSESS -> benefit mechanism against limits
+VERDICT -> selective, adaptive and basin-wide

@@ -1,0 +1,337 @@
+GEOGRAPHY 03 — VULCANISM AND EARTHQUAKES / INDIA SEISMIC ZONES
+COMPLETE TOP-TO-BOTTOM EXAMINABLE FLOW
+
+[START] EARTH IS INTERNALLY ACTIVE
+  residual heat + radioactive decay + gravity
+        |
+        v
+  mantle flow + mobile lithosphere
+        |
+        +-------------------- PLATE-SETTING AXES ---------------------+
+        |                                                             |
+        v                                                             v
+  CONVERGENT                                                     DIVERGENT
+  compression                                                     tension
+  trench / collision                                              ridge / rift
+  shallow-deep slab quakes                                        shallow quakes
+  flux melting -> arcs                                            decompression -> basalt
+        |
+        +-------------------------- TRANSFORM -------------------------+
+                                   shear
+                                   shallow strike-slip quakes
+                                   usually little magma generation
+        |
+        v
+======================================================================
+PANEL 1 — EARTHQUAKE SOURCE: LOAD -> LOCK -> RUPTURE -> RADIATE
+======================================================================
+  stress = force/area
+  strain = deformation
+        |
+        v
+  elastic loading of fault
+        |
+        +-- tension -> NORMAL fault -> hanging wall down
+        +-- compression -> REVERSE/THRUST -> hanging wall up
+        +-- shear -> STRIKE-SLIP -> horizontal movement
+        |
+        v
+  resistance exceeded -> rupture begins at FOCUS/HYPOCENTRE
+        |
+        v
+  slip propagates over finite fault -> elastic rebound
+        |
+        v
+  seismic waves + aftershock stress redistribution
+
+CAUSE CLASSES:
+  tectonic | volcanic | collapse | explosion | induced/reservoir-associated
+DEPTH CLASSES:
+  shallow 0-70 km | intermediate 70-300 km | deep 300-700 km
+TRAP:
+  plate tectonics is regional driver; fault rupture is immediate mechanism.
+
+        |
+        v
+======================================================================
+PANEL 2 — LOCATION AND WAVES
+======================================================================
+  FOCUS inside Earth
+        |
+        v
+  EPICENTRE = vertical surface projection
+        |
+        v
+  station records SEISMOGRAM
+        |
+        +-- P: compressional, parallel, fastest, solid + liquid
+        +-- S: shear, perpendicular, slower, solid only
+        +-- LOVE: horizontal surface shear
+        +-- RAYLEIGH: elliptical rolling surface motion
+        |
+        v
+  P-S interval -> station distance
+  3+ distance circles -> epicentre estimate
+  operational location -> many stations + velocity model
+
+SHADOW ZONES:
+  P direct shadow approx. 103°-142° due strong core refraction
+  S direct shadow beyond approx. 103° because liquid outer core blocks shear
+TRAP:
+  outer core liquid does not mean entire core liquid.
+
+        |
+        v
+======================================================================
+PANEL 3 — MEASUREMENT AND DAMAGE
+======================================================================
+  MAGNITUDE = event/source size
+  Mw <- seismic moment = rigidity × rupture area × average slip
+  local-magnitude intuition: +1 = 10× amplitude, ~31.6× energy
+        |
+        v
+  INTENSITY = effects at one place (MMI/MSK-type)
+        |
+        v
+  one magnitude -> many intensities
+        |
+        v
+  DAMAGE/RISK =
+  source × path × site × exposure × vulnerability ÷ capacity
+        |
+        +-- soft sediment/basin -> amplification
+        +-- loose saturated sand -> liquefaction -> lateral spreading
+        +-- slopes -> landslide/rockfall
+        +-- utilities -> fire / lifeline cascade
+        +-- surface faulting -> severance
+        +-- dams/embankments -> settlement/failure risk
+TRAP:
+  magnitude ≠ intensity ≠ casualties; hazard ≠ disaster.
+
+        |
+        v
+======================================================================
+PANEL 4 — GLOBAL EARTHQUAKE BELTS
+======================================================================
+  CIRCUM-PACIFIC:
+  trench + Wadati-Benioff zone + arc + megathrust + tsunami potential
+  labels: Andes | Central America | Cascades | Alaska-Aleutians |
+          Kamchatka | Japan | Philippines | Indonesia | NZ
+        |
+  MEDITERRANEAN-HIMALAYAN:
+  collision + complex convergence from Mediterranean to Myanmar
+        |
+  MID-OCEAN RIDGES / TRANSFORMS:
+  shallow quakes; basalt at ridge
+        |
+  INTRAPLATE:
+  inherited rifts/faults may reactivate
+TRAP:
+  Himalaya is highly seismic without being an Andean-type active volcanic arc.
+
+        |
+        v
+======================================================================
+PANEL 5 — TSUNAMI CHAIN
+======================================================================
+  submarine megathrust / volcanic collapse / submarine landslide
+        |
+        v
+  RAPID VERTICAL WATER-COLUMN DISPLACEMENT
+        |
+        v
+  deep ocean: long wavelength + high speed + low amplitude
+        |
+        v
+  shallow coast: speed↓ wavelength↓ height↑ (SHOALING)
+        |
+        v
+  run-up + inundation + debris + salinisation + return flow
+        |
+  controls: bathymetry | bay shape | shelf | slope | exposure | evacuation
+  cases: 2004 Sumatra-Andaman | 2011 Tohoku
+TRAPS:
+  tsunami ≠ tide; first wave need not be largest; withdrawal not universal.
+
+        |
+        v
+======================================================================
+PANEL 6 — VOLCANO ANATOMY AND MAGMA RHEOLOGY
+======================================================================
+  MAGMA below surface -> LAVA after eruption
+  chamber -> conduit -> central/side vent -> crater
+  CALDERA = large collapse depression after major magma withdrawal
+        |
+        v
+  silica↑ -> polymerisation↑ -> viscosity↑
+  temperature↑ -> viscosity↓
+  crystals↑ -> effective viscosity↑
+  pressure↓ during ascent -> volatiles exsolve
+        |
+        +-- easy degassing -> more effusive tendency
+        +-- trapped gas -> overpressure -> fragmentation -> explosive tendency
+TRAP:
+  composition sets tendency, not guaranteed eruption style.
+
+        |
+        v
+======================================================================
+PANEL 7 — FORMS, PRODUCTS, STYLES, TYPES, STATUS
+======================================================================
+INTRUSIVE:
+  batholith | laccolith | lopolith | phacolith | DYKE cuts | SILL parallels
+EXTRUSIVE PRODUCTS:
+  lava | gases | ash/dust | lapilli | bombs/blocks |
+  pyroclastic density currents | lahars
+2024 PRELIMS:
+  pyroclastic debris + ash/dust + nitrogen compounds + sulphur compounds
+  official key = ALL FOUR
+
+STYLE CONTINUUM:
+  Icelandic/fissure -> Hawaiian -> Strombolian -> Vulcanian -> Plinian/Pelean
+MORPHOLOGY:
+  shield | composite/strato | cinder | dome | caldera | fissure plateau
+STATUS:
+  active | dormant | extinct = evidence-based descriptions, not fixed life cycle
+2018 PRELIMS:
+  Barren Island statement 1 only = inferred, official local key unavailable
+
+        |
+        v
+======================================================================
+PANEL 8 — VOLCANIC DISTRIBUTION AND PLUMES
+======================================================================
+  DIVERGENCE -> decompression melting -> ridge/rift basalt
+  SUBDUCTION -> slab volatiles -> mantle-wedge flux melting -> arc
+  HOT SPOT/PLUME -> intraplate volcanism
+        |
+        v
+  plume HEAD -> large igneous province / flood basalt
+  plume TAIL -> hot spot
+  moving plate -> age-progressive volcanic chain
+        |
+  examples: Hawaii | Deccan Traps / Reunion interpretation
+TRAPS:
+  Deccan = fissure plateau, not a giant cone;
+  plume is qualified hypothesis, not replacement for plate tectonics.
+
+        |
+        v
+======================================================================
+PANEL 9 — VOLCANIC IMPACT BALANCE
+======================================================================
+DESTRUCTIVE:
+  lava burial | ash/aviation/water/crop effects |
+  density currents | lahars | toxic gases
+CLIMATE:
+  stratospheric SO2 -> sulphate aerosol -> temporary cooling
+CONSTRUCTIVE:
+  new crust/land | weathered soil material | geothermal | minerals | tourism
+2021 CASE ROUTE:
+  La Soufriere | Nyiragongo | Cumbre Vieja | Semeru
+TRAP:
+  ash is not the principal long-lived global-cooling agent;
+  stratospheric sulphate aerosol is.
+
+        |
+        v
+======================================================================
+PANEL 10 — INDIA SEISMOTECTONIC MOSAIC
+======================================================================
+  HIMALAYA:
+  Indian-Eurasian collision -> thrust loading -> quakes + landslide cascade
+        |
+  NE / INDO-BURMESE:
+  syntaxis + complex compression/strike-slip + high-rainfall slope cascades
+        |
+  ANDAMAN-NICOBAR:
+  Sunda subduction -> earthquake + tsunami + Barren Island volcanic arc
+        |
+  KACHCHH:
+  inherited rift/fault reactivation -> Bhuj 2001
+        |
+  PENINSULAR SHIELD:
+  relatively stable, NOT aseismic -> Koyna + Latur
+        |
+  INDO-GANGETIC FORELAND:
+  Himalayan shaking + alluvium amplification/liquefaction + dense exposure
+CASE BANK:
+  Bhuj 2001 | Indian Ocean tsunami 2004 | Sikkim 2011 |
+  Gorkha/Nepal effects in India 2015
+
+        |
+        v
+======================================================================
+PANEL 11 — INDIA ZONATION AND OFFICIAL CAUTION
+======================================================================
+  MACROZONATION = broad regional design hazard
+  publicly verifiable BIS baseline:
+  IS 1893 (Part 1):2016 -> Zones II, III, IV, V
+        |
+        +-- PIB 17 Dec 2025: updated map described Himalayan Zone VI
+        +-- PIB 22 Jul 2026: Kangra-Chamba described Zone V, highest
+        |
+        v
+  EXAM-SAFE RULE:
+  cite source + date; do not claim settled adopted Zone VI code without
+  verifying latest BIS standard/amendment.
+
+  MICROZONATION =
+  geology + seismotectonics + ground motion + soil + groundwater +
+  amplification + liquefaction -> GIS local products
+  NCS public anchor: Delhi 1:10,000
+TRAP:
+  neither macro- nor microzonation predicts event time.
+
+        |
+        v
+======================================================================
+PANEL 12 — INSTITUTIONS AND RESILIENCE
+======================================================================
+  NCS/MoES -> monitor + report + hazard/microzonation
+  GSI -> geological/seismotectonic evidence
+  BIS -> structural design/construction/evaluation standards
+  NDMA/NIDM -> guidance + training + preparedness
+  States/UTs/ULBs -> adoption + approval + inspection + enforcement
+  INCOIS/ITEWC -> tsunami warning
+        |
+        v
+  SAFE SITE
+  -> regular form + continuous load path
+  -> ductility + connections
+  -> anchor non-structural elements
+  -> quality construction
+  -> retrofit vulnerable stock + lifelines
+  -> drills + Drop-Cover-Hold On + utility/fire checks
+        |
+        v
+  EEW detects AFTER rupture starts and may provide seconds;
+  PREDICTION claims event before rupture.
+TRAP:
+  code on paper ≠ safety without local enforcement.
+
+        |
+        v
+======================================================================
+FINAL ANSWER-WRITING SPINE
+======================================================================
+  DEFINE precisely
+        ->
+  DRAW one labelled mechanism/map
+        ->
+  EXPLAIN causal chain with exact terms
+        ->
+  ADD named India/world evidence
+        ->
+  DISTINGUISH close options and limits
+        ->
+  CONNECT hazard to exposure/vulnerability only when asked
+        ->
+  CONCLUDE:
+  prediction cannot replace resilience; resources cannot erase hazard;
+  plate setting explains distribution but event mechanics explain occurrence.
+
+[END] QUALIFIED VERDICT
+Earthquakes, volcanoes and tsunamis share an internally powered tectonic base,
+but their mechanisms, pathways, spatial footprints and risk-reduction tools
+must be analysed separately and then reconnected through geography.

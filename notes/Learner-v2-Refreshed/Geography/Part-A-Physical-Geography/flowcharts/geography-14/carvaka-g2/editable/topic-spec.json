@@ -1,0 +1,1123 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-14",
+  "subject": "Geography",
+  "title": "CLIMATE CLASSIFICATION (KOPPEN) / INDIA CLIMATIC REGIONS",
+  "short_route": "CLASSIFICATION DESIGN GATE → KOPPEN MAJOR GROUPS → TROPICAL CODE GRAMMAR → DRY-CLIMATE GATE → C-D THRESHOLD FIREWALL → NORMAL-TO-TREND LADDER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-14\\geography-14_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-14-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "b487ba1eff3263e29f9c9747813b0165d0bea02596f28f617f290c7785ca4c58",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CLASSIFICATION DESIGN GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CLASSIFICATION DESIGN GATE",
+          "role": "primary"
+        },
+        {
+          "text": "COMPARISON, EXPLANATION OR PLANNING",
+          "role": "outcome"
+        },
+        {
+          "text": "TEMPERATURE, RAIN OR WATER BALANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "THRESHOLDS, PERIOD, SCALE, INTERPOLATION",
+          "role": "evidence"
+        },
+        {
+          "text": "USEFUL MODEL WITH EXPLICIT LIMITS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PURPOSE → comparison, explanation or planning",
+        "VARIABLES → temperature, rain or water balance",
+        "METHOD → thresholds, period, scale, interpolation",
+        "OUTPUT → useful model with explicit limits"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CLASSIFICATION",
+          "role": "primary",
+          "items": [
+            "PURPOSE → comparison, explanation or planning",
+            "VARIABLES → temperature, rain or water balance"
+          ]
+        },
+        {
+          "heading": "DIAGNOSTIC BASIS",
+          "role": "evidence",
+          "items": [
+            "METHOD → thresholds, period, scale, interpolation",
+            "OUTPUT → useful model with explicit limits"
+          ]
+        },
+        {
+          "heading": "PROCESS LINK",
+          "role": "mechanism",
+          "items": [
+            "PURPOSE → comparison, explanation or planning",
+            "VARIABLES → temperature, rain or water balance"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP",
+          "role": "caution",
+          "items": [
+            "METHOD → thresholds, period, scale, interpolation",
+            "OUTPUT → useful model with explicit limits"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "METHOD → thresholds, period, scale, interpolation; OUTPUT → useful model with explicit limits.",
+      "source_references": [
+        "Why classify climate"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "KOPPEN MAJOR GROUPS",
+      "structural_type": "classification-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "KOPPEN MAJOR GROUPS",
+          "role": "primary"
+        },
+        {
+          "text": "TROPICAL THERMAL REGIME",
+          "role": "outcome"
+        },
+        {
+          "text": "DRYNESS THRESHOLD FIRST",
+          "role": "comparison"
+        },
+        {
+          "text": "COLDEST-MONTH CONVENTION MATTERS",
+          "role": "evidence"
+        },
+        {
+          "text": "WARMEST MONTH BELOW 10 C; H ADDED LATER",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "A → tropical thermal regime",
+        "B → dryness threshold first",
+        "C / D → coldest-month convention matters",
+        "E → warmest month below 10 C; H added later"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CLASSIFICATION",
+          "role": "primary",
+          "items": [
+            "A → tropical thermal regime",
+            "B → dryness threshold first"
+          ]
+        },
+        {
+          "heading": "DIAGNOSTIC BASIS",
+          "role": "evidence",
+          "items": [
+            "C / D → coldest-month convention matters",
+            "E → warmest month below 10 C; H added later"
+          ]
+        },
+        {
+          "heading": "PROCESS LINK",
+          "role": "mechanism",
+          "items": [
+            "A → tropical thermal regime",
+            "B → dryness threshold first"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP",
+          "role": "caution",
+          "items": [
+            "C / D → coldest-month convention matters",
+            "E → warmest month below 10 C; H added later"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "E → warmest month below 10 C; H added later.",
+      "source_references": [
+        "Koppen's empirical design",
+        "Polar E and highland H"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "TROPICAL CODE GRAMMAR",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TROPICAL CODE GRAMMAR",
+          "role": "primary"
+        },
+        {
+          "text": "NO DRY SEASON",
+          "role": "caution"
+        },
+        {
+          "text": "MONSOON SHORT DRY SEASON LOGIC",
+          "role": "comparison"
+        },
+        {
+          "text": "DRY WINTER",
+          "role": "evidence"
+        },
+        {
+          "text": "DRY SUMMER",
+          "role": "primary"
+        },
+        {
+          "text": "FIRST LETTER CLIMATE, SECOND RAINFALL",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "Af → no dry season",
+        "Am → monsoon short dry season logic",
+        "Aw / As → dry winter / dry summer",
+        "RULE → first letter climate, second rainfall"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "Af → no dry season",
+          "Aw / As → dry winter / dry summer",
+          "Af → no dry season"
+        ],
+        [
+          "Am → monsoon short dry season logic",
+          "RULE → first letter climate, second rainfall",
+          "Am → monsoon short dry season logic"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "Af → no dry season",
+            "Am → monsoon short dry season logic"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Aw / As → dry winter / dry summer",
+            "RULE → first letter climate, second rainfall"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "Af → no dry season",
+            "Am → monsoon short dry season logic"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Aw / As → dry winter / dry summer.",
+      "source_references": [
+        "Tropical A climates",
+        "Second-letter grammar"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DRY-CLIMATE GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DRY-CLIMATE GATE",
+          "role": "primary"
+        },
+        {
+          "text": "TEMPERATURE + RAIN SEASON",
+          "role": "outcome"
+        },
+        {
+          "text": "DRYNESS THRESHOLD",
+          "role": "comparison"
+        },
+        {
+          "text": "PRECIPITATION BELOW THRESHOLD",
+          "role": "evidence"
+        },
+        {
+          "text": "B GROUP",
+          "role": "primary"
+        },
+        {
+          "text": "BW DESERT",
+          "role": "outcome"
+        },
+        {
+          "text": "LESS DRY",
+          "role": "comparison"
+        },
+        {
+          "text": "BS STEPPE; H/K THERMAL SUFFIX",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TEMPERATURE + RAIN SEASON → dryness threshold",
+        "PRECIPITATION BELOW THRESHOLD → B group",
+        "DRIER → BW desert",
+        "LESS DRY → BS steppe; h/k thermal suffix"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "TEMPERATURE + RAIN SEASON → dryness threshold",
+            "PRECIPITATION BELOW THRESHOLD → B group"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DRIER → BW desert",
+            "LESS DRY → BS steppe; h/k thermal suffix"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "TEMPERATURE + RAIN SEASON → dryness threshold",
+            "PRECIPITATION BELOW THRESHOLD → B group"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LESS DRY → BS steppe; h/k thermal suffix.",
+      "source_references": [
+        "Dry B climates",
+        "Third-letter grammar"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "C-D THRESHOLD FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "C-D THRESHOLD FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "COLDEST MONTH",
+          "role": "outcome"
+        },
+        {
+          "text": "C/D DISCRIMINATOR",
+          "role": "comparison"
+        },
+        {
+          "text": "CONVENTION 1",
+          "role": "evidence"
+        },
+        {
+          "text": "MINUS 3 C BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "CONVENTION 2",
+          "role": "outcome"
+        },
+        {
+          "text": "0 C BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER RULE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COLDEST MONTH → C/D discriminator",
+        "CONVENTION 1 → minus 3 C boundary",
+        "CONVENTION 2 → 0 C boundary",
+        "ANSWER RULE → state convention before mapping"
+      ],
+      "matrix": [
+        [
+          "DEFINITION / COMPONENTS",
+          "TRIGGER / MECHANISM",
+          "EFFECT / INTERVENTION"
+        ],
+        [
+          "COLDEST MONTH → C/D discriminator",
+          "CONVENTION 2 → 0 C boundary",
+          "COLDEST MONTH → C/D discriminator"
+        ],
+        [
+          "CONVENTION 1 → minus 3 C boundary",
+          "ANSWER RULE → state convention before mapping",
+          "CONVENTION 1 → minus 3 C boundary"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "COLDEST MONTH → C/D discriminator",
+            "CONVENTION 1 → minus 3 C boundary"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONVENTION 2 → 0 C boundary",
+            "ANSWER RULE → state convention before mapping"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "COLDEST MONTH → C/D discriminator",
+            "CONVENTION 1 → minus 3 C boundary"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONVENTION 2 → 0 C boundary; ANSWER RULE → state convention before mapping.",
+      "source_references": [
+        "Temperate C and continental D"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "NORMAL-TO-TREND LADDER",
+      "structural_type": "evidence-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NORMAL-TO-TREND LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "STATED 30-YEAR REFERENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "OBSERVATION MINUS NORMAL",
+          "role": "comparison"
+        },
+        {
+          "text": "SPREAD AND RECURRENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "MULTI-PERIOD DIRECTION WITH UNCERTAINTY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "NORMAL → stated 30-year reference",
+        "ANOMALY → observation minus normal",
+        "VARIABILITY → spread and recurrence",
+        "TREND → multi-period direction with uncertainty"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "NORMAL → stated 30-year reference",
+            "ANOMALY → observation minus normal"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VARIABILITY → spread and recurrence",
+            "TREND → multi-period direction with uncertainty"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "NORMAL → stated 30-year reference",
+            "ANOMALY → observation minus normal"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VARIABILITY → spread and recurrence; TREND → multi-period direction with uncertainty.",
+      "source_references": [
+        "Normals and reference periods",
+        "Anomaly, variability and trend"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CLIMATE-BOUNDARY MODEL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CLIMATE-BOUNDARY MODEL",
+          "role": "primary"
+        },
+        {
+          "text": "MEASURED VARIABLES",
+          "role": "outcome"
+        },
+        {
+          "text": "QUALITY CONTROL",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPARABLE RECORDS",
+          "role": "evidence"
+        },
+        {
+          "text": "INTERPOLATION + THRESHOLDS",
+          "role": "primary"
+        },
+        {
+          "text": "CLASS MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "GROUND REALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "TRANSITION, NOT WALL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "STATIONS / GRIDS → measured variables",
+        "QUALITY CONTROL → comparable records",
+        "INTERPOLATION + THRESHOLDS → class map",
+        "GROUND REALITY → transition, not wall"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "STATIONS / GRIDS → measured variables",
+            "QUALITY CONTROL → comparable records"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INTERPOLATION + THRESHOLDS → class map",
+            "GROUND REALITY → transition, not wall"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "STATIONS / GRIDS → measured variables",
+            "QUALITY CONTROL → comparable records"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INTERPOLATION + THRESHOLDS → class map; GROUND REALITY → transition, not wall.",
+      "source_references": [
+        "Mapped boundaries and scale"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INDIA CONTROL MATRIX",
+      "structural_type": "causal-system",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDIA CONTROL MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "LATITUDE + ALTITUDE",
+          "role": "outcome"
+        },
+        {
+          "text": "THERMAL STRUCTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "UPLIFT, RAIN SHADOW, COLD BARRIER",
+          "role": "evidence"
+        },
+        {
+          "text": "SEA DISTANCE",
+          "role": "primary"
+        },
+        {
+          "text": "CONTINENTAL RANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "MONSOON + WDS + OCEAN",
+          "role": "comparison"
+        },
+        {
+          "text": "SEASONAL VARIABILITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LATITUDE + ALTITUDE → thermal structure",
+        "RELIEF → uplift, rain shadow, cold barrier",
+        "SEA DISTANCE → maritime / continental range",
+        "MONSOON + WDs + OCEAN → seasonal variability"
+      ],
+      "matrix": [
+        [
+          "CLASSIFICATION",
+          "DIAGNOSTIC BASIS",
+          "PROCESS LINK",
+          "EXAM TRAP"
+        ],
+        [
+          "LATITUDE + ALTITUDE → thermal structure",
+          "SEA DISTANCE → maritime / continental range",
+          "LATITUDE + ALTITUDE → thermal structure",
+          "SEA DISTANCE → maritime / continental range"
+        ],
+        [
+          "RELIEF → uplift, rain shadow, cold barrier",
+          "MONSOON + WDs + OCEAN → seasonal variability",
+          "RELIEF → uplift, rain shadow, cold barrier",
+          "MONSOON + WDs + OCEAN → seasonal variability"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CLASSIFICATION",
+          "role": "primary",
+          "items": [
+            "LATITUDE + ALTITUDE → thermal structure",
+            "RELIEF → uplift, rain shadow, cold barrier"
+          ]
+        },
+        {
+          "heading": "DIAGNOSTIC BASIS",
+          "role": "evidence",
+          "items": [
+            "SEA DISTANCE → maritime / continental range",
+            "MONSOON + WDs + OCEAN → seasonal variability"
+          ]
+        },
+        {
+          "heading": "PROCESS LINK",
+          "role": "mechanism",
+          "items": [
+            "LATITUDE + ALTITUDE → thermal structure",
+            "RELIEF → uplift, rain shadow, cold barrier"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP",
+          "role": "caution",
+          "items": [
+            "SEA DISTANCE → maritime / continental range",
+            "MONSOON + WDs + OCEAN → seasonal variability"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MONSOON + WDs + OCEAN → seasonal variability.",
+      "source_references": [
+        "Controls of India's climatic mosaic"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "INDIA CODE-MAP BOUNDARY",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDIA CODE-MAP BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "COMMON TYPES",
+          "role": "outcome"
+        },
+        {
+          "text": "TROPICAL, DRY, SUBTROPICAL, HIGHLAND",
+          "role": "comparison"
+        },
+        {
+          "text": "EXACT CODE",
+          "role": "evidence"
+        },
+        {
+          "text": "DEPENDS ON DATASET AND THRESHOLD",
+          "role": "primary"
+        },
+        {
+          "text": "DEPENDS ON SCALE AND INTERPOLATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CITE SOURCE, PERIOD AND CONVENTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COMMON TYPES → tropical, dry, subtropical, highland",
+        "EXACT CODE → depends on dataset and threshold",
+        "BOUNDARY → depends on scale and interpolation",
+        "RULE → cite source, period and convention"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEFINITION",
+          "PROCESS / MECHANISM",
+          "SPATIAL / INDIA PATTERN",
+          "HAZARD / LIMIT / RESPONSE"
+        ],
+        [
+          "COMMON TYPES → tropical, dry, subtropical, highland",
+          "BOUNDARY → depends on scale and interpolation",
+          "COMMON TYPES → tropical, dry, subtropical, highland",
+          "BOUNDARY → depends on scale and interpolation"
+        ],
+        [
+          "EXACT CODE → depends on dataset and threshold",
+          "RULE → cite source, period and convention",
+          "EXACT CODE → depends on dataset and threshold",
+          "RULE → cite source, period and convention"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "COMMON TYPES → tropical, dry, subtropical, highland",
+            "EXACT CODE → depends on dataset and threshold"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BOUNDARY → depends on scale and interpolation",
+            "RULE → cite source, period and convention"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "COMMON TYPES → tropical, dry, subtropical, highland",
+            "EXACT CODE → depends on dataset and threshold"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → depends on scale and interpolation",
+            "RULE → cite source, period and convention"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXACT CODE → depends on dataset and threshold.",
+      "source_references": [
+        "Koppen regions applied to India"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CLASSIFICATION COMPARISON",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CLASSIFICATION COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "TEMPERATURE + PRECIPITATION THRESHOLDS",
+          "role": "outcome"
+        },
+        {
+          "text": "MODIFIED THERMAL ZONATION",
+          "role": "comparison"
+        },
+        {
+          "text": "WATER BALANCE + PET",
+          "role": "evidence"
+        },
+        {
+          "text": "MATCH METHOD TO QUESTION PURPOSE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "KOPPEN → temperature + precipitation thresholds",
+        "TREWARTHA → modified thermal zonation",
+        "THORNTHWAITE → water balance + PET",
+        "CHOICE → match method to question purpose"
+      ],
+      "matrix": [
+        [
+          "CLASSIFICATION",
+          "DIAGNOSTIC BASIS",
+          "PROCESS LINK",
+          "EXAM TRAP"
+        ],
+        [
+          "KOPPEN → temperature + precipitation thresholds",
+          "THORNTHWAITE → water balance + PET",
+          "KOPPEN → temperature + precipitation thresholds",
+          "THORNTHWAITE → water balance + PET"
+        ],
+        [
+          "TREWARTHA → modified thermal zonation",
+          "CHOICE → match method to question purpose",
+          "TREWARTHA → modified thermal zonation",
+          "CHOICE → match method to question purpose"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CLASSIFICATION",
+          "role": "primary",
+          "items": [
+            "KOPPEN → temperature + precipitation thresholds",
+            "TREWARTHA → modified thermal zonation"
+          ]
+        },
+        {
+          "heading": "DIAGNOSTIC BASIS",
+          "role": "evidence",
+          "items": [
+            "THORNTHWAITE → water balance + PET",
+            "CHOICE → match method to question purpose"
+          ]
+        },
+        {
+          "heading": "PROCESS LINK",
+          "role": "mechanism",
+          "items": [
+            "KOPPEN → temperature + precipitation thresholds",
+            "TREWARTHA → modified thermal zonation"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP",
+          "role": "caution",
+          "items": [
+            "THORNTHWAITE → water balance + PET",
+            "CHOICE → match method to question purpose"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "THORNTHWAITE → water balance + PET; CHOICE → match method to question purpose.",
+      "source_references": [
+        "Trewartha, Thornthwaite and planning regions"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "PLANNING OVERLAY",
+      "structural_type": "layer-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PLANNING OVERLAY",
+          "role": "primary"
+        },
+        {
+          "text": "CLIMATE TYPE",
+          "role": "outcome"
+        },
+        {
+          "text": "LONG-PERIOD THERMAL-RAIN PATTERN",
+          "role": "comparison"
+        },
+        {
+          "text": "CROP AND SEASON CONTEXT",
+          "role": "evidence"
+        },
+        {
+          "text": "SOIL + LANDFORM + GROWING PERIOD",
+          "role": "primary"
+        },
+        {
+          "text": "RISK LAYER",
+          "role": "caution"
+        },
+        {
+          "text": "HAZARDS, EXPOSURE AND VULNERABILITY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CLIMATE TYPE → long-period thermal-rain pattern",
+        "AGRO-CLIMATE → crop and season context",
+        "AGRO-ECOLOGY → soil + landform + growing period",
+        "RISK LAYER → hazards, exposure and vulnerability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "CLIMATE TYPE → long-period thermal-rain pattern",
+            "AGRO-CLIMATE → crop and season context"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AGRO-ECOLOGY → soil + landform + growing period",
+            "RISK LAYER → hazards, exposure and vulnerability"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "CLIMATE TYPE → long-period thermal-rain pattern",
+            "AGRO-CLIMATE → crop and season context"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "AGRO-ECOLOGY → soil + landform + growing period",
+            "RISK LAYER → hazards, exposure and vulnerability"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AGRO-ECOLOGY → soil + landform + growing period.",
+      "source_references": [
+        "Trewartha, Thornthwaite and planning regions"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "CLIMATE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CLIMATE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "PURPOSE, VARIABLES AND PERIOD",
+          "role": "outcome"
+        },
+        {
+          "text": "LETTERS AND THRESHOLDS",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA WITH TRANSITION CAVEAT",
+          "role": "evidence"
+        },
+        {
+          "text": "METHOD, USE, LIMITATION AND VERDICT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEFINE → purpose, variables and period",
+        "DECODE → letters and thresholds",
+        "MAP → India with transition caveat",
+        "COMPARE → method, use, limitation and verdict"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "DEFINE → purpose, variables and period",
+            "DECODE → letters and thresholds"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MAP → India with transition caveat",
+            "COMPARE → method, use, limitation and verdict"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "DEFINE → purpose, variables and period",
+            "DECODE → letters and thresholds"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MAP → India with transition caveat; COMPARE → method, use, limitation and verdict.",
+      "source_references": [
+        "Classification evidence and exam application"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "A CLIMATES IN INDIA INCLUDE TROPICAL HUMID CLIMATES; AM",
+          "role": "outcome"
+        },
+        {
+          "text": "B CLIMATES ARE DRY",
+          "role": "comparison"
+        },
+        {
+          "text": "BSHW SEMI-ARID STEPPE AND BWHW HOT DESERT.",
+          "role": "evidence"
+        },
+        {
+          "text": "CWG IS THE GANGES/NORTH INDIAN PLAINS MONSOON CLIMATE WITH",
+          "role": "primary"
+        },
+        {
+          "text": "H/E APPLIES TO THE HIMALAYA ABOVE HIGH ELEVATIONS/SNOW-LINE CONDITIONS.",
+          "role": "outcome"
+        },
+        {
+          "text": "TREWARTHA MODIFIES KOPPEN AND INCLUDES HIGHLAND CLIMATE FOR INDIA.",
+          "role": "comparison"
+        },
+        {
+          "text": "THORNTHWAITE USES PRECIPITATION–EVAPOTRANSPIRATION MOISTURE BALANCE, NOT TEMPERATURE ALONE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL PROCESS DEPTH",
+          "role": "mechanism",
+          "items": [
+            "A climates in India include tropical humid climates; Am relates to heavy monsoon rain, while Aw marks savanna/dry-winter interior.",
+            "B climates are dry: BShw semi-arid steppe and BWhw hot desert.",
+            "Cwg is the Ganges/north Indian plains monsoon climate with dry winter.",
+            "H/E applies to the Himalaya above high elevations/snow-line conditions."
+          ]
+        },
+        {
+          "heading": "DATA / INSTITUTION LIMIT",
+          "role": "caution",
+          "items": [
+            "Trewartha modifies Koppen and includes highland climate for India.",
+            "Thornthwaite uses precipitation–evapotranspiration moisture balance, not temperature alone.",
+            "India has Koppen A, B, C and H in standard applied schemes.",
+            "Am/Amw = West Coast and very wet monsoon belt; Aw = peninsular savanna interior."
+          ]
+        },
+        {
+          "heading": "CONTEMPORARY PARALLEL",
+          "role": "neutral",
+          "items": [
+            "As = Tamil Nadu/Coromandel dry-summer tropical type linked to NE monsoon rainfall.",
+            "BWhw = hot desert of western Rajasthan/Thar/Kachchh.",
+            "BShw = semi-arid steppe/rain-shadow and NW margins.",
+            "Cwg = Ganges type: north Indian plains, monsoon with dry winter."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

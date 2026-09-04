@@ -1,0 +1,2333 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-06\\g4\\geography-06_Complete-Learning-Session_2026-09-01.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-06\\g4\\geography-06_Complete-Learning-Session_2026-09-01.pdf",
+  "mode": "main",
+  "topic_key": "geography-06",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Landforms of Glaciation / Himalayan Glaciers-GLOF - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 432.224
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 203.222
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 50,
+      "markdown_body_line_end": 50,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-06\\g4\\assets\\geography-06_Teaching-Navigation_2026-09-01.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 529.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 221.556
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 64,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Glacier definition: A glacier is compacted and recrystallised land ice thick enough to deform or slide under gravity; a persistent snowfield need not be a glacier because it may not flow.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 79,
+      "markdown_body_line_end": 83,
+      "heading": "VISUAL FIRST",
+      "preview": "WHAT MAKES FLOWING GLACIER ICE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 111,
+      "markdown_body_line_end": 128,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - WHAT MAKES FLOWING GLACIER ICE",
+      "preview": "START / CONCEPT: FOUNDATION — What makes flowing glacier ice",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 216
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 139,
+      "markdown_body_line_end": 139,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "ELA, snowline and snout: The equilibrium-line altitude balances annual accumulation and ablation; the climatic snowline is a long-term regional limit, while the snout is the glacier terminus.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 154,
+      "markdown_body_line_end": 161,
+      "heading": "VISUAL FIRST",
+      "preview": "ACCUMULATION, ABLATION AND ELA",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 190,
+      "markdown_body_line_end": 207,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - ACCUMULATION, ABLATION AND ELA",
+      "preview": "START / CONCEPT: FOUNDATION — Accumulation, ablation and ELA",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 220
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 387.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 156.691
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 218,
+      "markdown_body_line_end": 218,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Forward-flow retreat paradox - Debris-cover qualification Qualified use: Explain geometry through delivery versus loss.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 233,
+      "markdown_body_line_end": 240,
+      "heading": "VISUAL FIRST",
+      "preview": "FLOW, RETREAT AND DEBRIS COVER",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 375.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 269,
+      "markdown_body_line_end": 286,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - FLOW, RETREAT AND DEBRIS COVER",
+      "preview": "START / CONCEPT: FOUNDATION — Flow, retreat and debris cover",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 215
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 297,
+      "markdown_body_line_end": 297,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Glacial erosion Qualified use: Link mechanism to polish, striation and asymmetry.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 383.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 312,
+      "markdown_body_line_end": 316,
+      "heading": "VISUAL FIRST",
+      "preview": "PLUCKING AND ABRASION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 344,
+      "markdown_body_line_end": 361,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - PLUCKING AND ABRASION",
+      "preview": "START / CONCEPT: FOUNDATION — Plucking and abrasion",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 126
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 262.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 372,
+      "markdown_body_line_end": 372,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Erosional landform suite Qualified use: Reconstruct the erosional landscape.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 155.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 103.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 387,
+      "markdown_body_line_end": 391,
+      "heading": "VISUAL FIRST",
+      "preview": "CIRQUE-TO-TROUGH EROSIONAL SUITE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 664.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 623.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 419,
+      "markdown_body_line_end": 436,
+      "heading": "CLOSING RECALL FLOW - CORE - CIRQUE-TO-TROUGH EROSIONAL SUITE",
+      "preview": "START / CONCEPT: CORE — Cirque-to-trough erosional suite",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 155
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 340.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 129.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 447,
+      "markdown_body_line_end": 447,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Fjord discriminator: A fjord is a marine-flooded glacial trough, whereas a ria is a drowned river valley; marine inundation follows rather than creates the glacial excavation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 462,
+      "markdown_body_line_end": 466,
+      "heading": "VISUAL FIRST",
+      "preview": "FJORDS AND RIAS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 419.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 494,
+      "markdown_body_line_end": 511,
+      "heading": "CLOSING RECALL FLOW - CORE - FJORDS AND RIAS",
+      "preview": "START / CONCEPT: CORE — Fjords and rias",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 204
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 522,
+      "markdown_body_line_end": 522,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Till and moraine: Direct ice deposition is generally unsorted till; lateral, medial, terminal and ground moraines describe debris position or form.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 537,
+      "markdown_body_line_end": 544,
+      "heading": "VISUAL FIRST",
+      "preview": "TILL, MORAINE, ESKER AND OUTWASH",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 573,
+      "markdown_body_line_end": 590,
+      "heading": "CLOSING RECALL FLOW - CORE - TILL, MORAINE, ESKER AND OUTWASH",
+      "preview": "START / CONCEPT: CORE — Till, moraine, esker and outwash",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 198
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 387.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 166.691
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 601,
+      "markdown_body_line_end": 601,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ice-mass sea-level rule: Loss of grounded glaciers, ice caps and ice sheets adds ocean mass; floating sea ice or shelf melt does not directly add mass beyond displacement, though shelves can buttress grounded ice.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 616,
+      "markdown_body_line_end": 620,
+      "heading": "VISUAL FIRST",
+      "preview": "GROUNDED AND FLOATING ICE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 648,
+      "markdown_body_line_end": 665,
+      "heading": "CLOSING RECALL FLOW - CORE - GROUNDED AND FLOATING ICE",
+      "preview": "START / CONCEPT: CORE — Grounded and floating ice",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 242
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 676,
+      "markdown_body_line_end": 676,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Himalayan map discipline: Gangotri links to the Bhagirathi, Zemu to the Teesta, Bara Shigri to the Chenab system and Siachen to the Nubra-Shyok-Indus system; map claims must remain distinct from boundary claims.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 691,
+      "markdown_body_line_end": 695,
+      "heading": "VISUAL FIRST",
+      "preview": "HIMALAYAN GLACIER MAP HOOKS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 723,
+      "markdown_body_line_end": 740,
+      "heading": "CLOSING RECALL FLOW - CORE - HIMALAYAN GLACIER MAP HOOKS",
+      "preview": "START / CONCEPT: CORE — Himalayan glacier map hooks",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 240
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 242.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 751,
+      "markdown_body_line_end": 751,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Water-timing effect: Sustained ice loss can initially raise local melt contribution but later weaken lean-season and drought-year buffering; monsoon rain, snow and groundwater prevent a uniform all-rivers-dry conclusion.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 107.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 40.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 766,
+      "markdown_body_line_end": 770,
+      "heading": "VISUAL FIRST",
+      "preview": "GLACIER LOSS AND WATER TIMING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 587.691
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 798,
+      "markdown_body_line_end": 815,
+      "heading": "CLOSING RECALL FLOW - CORE - GLACIER LOSS AND WATER TIMING",
+      "preview": "START / CONCEPT: CORE — Glacier loss and water timing",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 249
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 304.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 73.691
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 826,
+      "markdown_body_line_end": 826,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Glacial-lake formation: Retreat can expose overdeepened basins or leave moraine dams that store water; lake existence alone does not establish instability or downstream risk.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 841,
+      "markdown_body_line_end": 845,
+      "heading": "VISUAL FIRST",
+      "preview": "HOW GLACIAL LAKES FORM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 419.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 873,
+      "markdown_body_line_end": 890,
+      "heading": "CLOSING RECALL FLOW - CORE - HOW GLACIAL LAKES FORM",
+      "preview": "START / CONCEPT: CORE — How glacial lakes form",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 203
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 901,
+      "markdown_body_line_end": 901,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: GLOF mechanism Qualified use: Explain trigger, overtopping or failure and cascade.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 459.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 407.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 916,
+      "markdown_body_line_end": 920,
+      "heading": "VISUAL FIRST",
+      "preview": "GLOF TRIGGER-TO-BREACH CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 948,
+      "markdown_body_line_end": 965,
+      "heading": "CLOSING RECALL FLOW - CORE - GLOF TRIGGER-TO-BREACH CHAIN",
+      "preview": "START / CONCEPT: CORE — GLOF trigger-to-breach chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 212
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 242.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 976,
+      "markdown_body_line_end": 976,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Hazard-risk distinction - South Lhonak boundary Qualified use: Build a bounded Teesta case.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 88.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 801.024
+        }
+      },
+      "pdf_pages": [
+        24,
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 991,
+      "markdown_body_line_end": 998,
+      "heading": "VISUAL FIRST",
+      "preview": "HAZARD, EXPOSURE AND SOUTH LHONAK",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 620.424
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 549.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1027,
+      "markdown_body_line_end": 1044,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - HAZARD, EXPOSURE AND SOUTH LHONAK",
+      "preview": "START / CONCEPT: SYNTHESIS — Hazard, exposure and South Lhonak",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 255
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1055,
+      "markdown_body_line_end": 1055,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Current evidence boundary: ISRO SAC's Himalayan Glacier Inventory Atlas verifies an official mapping platform; it does not by itself prove a current retreat rate, loss percentage, lake ranking or forecast.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 368.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1070,
+      "markdown_body_line_end": 1077,
+      "heading": "VISUAL FIRST",
+      "preview": "MONITORING AND RISK REDUCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1106,
+      "markdown_body_line_end": 1123,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - MONITORING AND RISK REDUCTION",
+      "preview": "START / CONCEPT: SYNTHESIS — Monitoring and risk reduction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 234
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 373.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 132.491
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1134,
+      "markdown_body_line_end": 1134,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ca Anchor — Gangotri Glacier Retreat (Gomukh Snout). 📰 Gangotri's monitored snout retreat is a current cryosphere anchor.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1149,
+      "markdown_body_line_end": 1156,
+      "heading": "VISUAL FIRST",
+      "preview": "VERIFIED ROUTES AND CRYOSPHERE SPINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 342.024
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1184,
+      "markdown_body_line_end": 1187,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography*. ✅ = from source book · ⚠️ = inference ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 691.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1212,
+      "markdown_body_line_end": 1223,
+      "heading": "2. Key classification / data",
+      "preview": "Type | Landform | What it is / diagnostic feature",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Type",
+          "Landform",
+          "What it is / diagnostic feature"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 472.29
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1227,
+      "markdown_body_line_end": 1228,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Geography → Physical → Glacial Landforms (GC Leong: Ice; Majid: Glacial Geomorphology) **Study link:** ✅ Geography → Glaciation → Glacier Retreat (applied CA)",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 472.29
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 405.622
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1248,
+      "markdown_body_line_end": 1248,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Do not confuse similar-looking landforms, processes, scales or Indian locations; UPSC often tests the exact mechanism and setting.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 190.422
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 123.754
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1281,
+      "markdown_body_line_end": 1284,
+      "heading": "8. Glacier mass balance, ice masses and glacial-lake hazard",
+      "preview": "**Why this section exists:** the official syllabus asks for *changes in critical geographical features, including water bodies and ice caps, and the effects of such changes*. This file taught glacial landforms but not **why ice advances or ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 534.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 439.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1288,
+      "markdown_body_line_end": 1297,
+      "heading": "8.1 Mass balance: the accounting that decides advance and retreat",
+      "preview": "ACCUMULATION (snowfall, avalanche input, refreezing)   <-- gains, upper glacier",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 417.424
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 326.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1311,
+      "markdown_body_line_end": 1319,
+      "heading": "8.2 The family of ice masses",
+      "preview": "Ice mass | Form and setting | Diagnostic point",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Ice mass",
+          "Form and setting",
+          "Diagnostic point"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 513.49
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1321,
+      "markdown_body_line_end": 1323,
+      "heading": "8.2 The family of ice masses",
+      "preview": "🔑 **Trap:** floating ice melting does **not** directly raise sea level; **grounded** ice (glaciers, ice caps and the grounded parts of ice sheets) transferring mass to the ocean does. Sea-level mechanism is developed in `10_Coastal-Landform",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 513.49
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 454.622
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1327,
+      "markdown_body_line_end": 1337,
+      "heading": "8.3 Glacial lakes and the GLOF chain",
+      "preview": "GLACIER RETREAT",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 432.622
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 331.622
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1351,
+      "markdown_body_line_end": 1354,
+      "heading": "8.3 Glacial lakes and the GLOF chain",
+      "preview": "⚠️ **Factual caution:** do **not** quote a Himalayan glacier count, a retreat rate in metres per year, an inventory of \"potentially dangerous\" lakes, a glacier-area-loss percentage, or the death toll or date of a specific disaster from memo",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 165.622
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 92.554
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1358,
+      "markdown_body_line_end": 1364,
+      "heading": "8.4 Why ice matters far beyond the mountains",
+      "preview": "Effect of ice loss | Mechanism | Geographic consequence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Effect of ice loss",
+          "Mechanism",
+          "Geographic consequence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 555.89
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1370,
+      "markdown_body_line_end": 1375,
+      "heading": "9.1 Directive decoding for this topic",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 514.89
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 327.088
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1399,
+      "markdown_body_line_end": 1404,
+      "heading": "9.3 Evidence units available in this file",
+      "preview": "**Claim:** landform evidence allows past climates to be reconstructed where no instrument record exists. **Evidence:** U-shaped valleys, cirques, aretes, horns and erratics occur far outside today's glaciated areas — including across northe",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 674.824
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1406,
+      "markdown_body_line_end": 1411,
+      "heading": "9.3 Evidence units available in this file",
+      "preview": "**Claim:** a retreating glacier creates a hazard as well as losing a resource. **Evidence:** the moraine-dammed lakes left behind are impounded by unconsolidated debris, sometimes containing buried ice, and fail catastrophically when trigge",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 674.824
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 587.556
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1417,
+      "markdown_body_line_end": 1419,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** Th",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 587.556
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 492.488
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1425,
+      "markdown_body_line_end": 1428,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 440.888
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 302.487
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1435,
+      "markdown_body_line_end": 1435,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 246.087
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 201.419
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1440,
+      "markdown_body_line_end": 1457,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - VERIFIED ROUTES AND CRYOSPHERE SPINE",
+      "preview": "START / CONCEPT: SYNTHESIS — Verified routes and cryosphere spine",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 229
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2372,
+      "markdown_body_line_end": 2374,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** Th",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 538.691
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 443.624
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2380,
+      "markdown_body_line_end": 2383,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 392.024
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 253.622
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2390,
+      "markdown_body_line_end": 2390,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 197.222
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 152.554
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2395,
+      "markdown_body_line_end": 2396,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 152.554
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 85.887
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2402,
+      "markdown_body_line_end": 2404,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 716.89
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2410,
+      "markdown_body_line_end": 2410,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 677.69
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 633.022
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2725,
+      "markdown_body_line_end": 2728,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain, *India geography* + verified CA. ✅ = from source book · ⚠️ = inference / stan",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 751.091
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 678.024
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2758,
+      "markdown_body_line_end": 2766,
+      "heading": "2. Key classification / data",
+      "preview": "Region / feature | Book-grounded detail | Significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Region / feature",
+          "Book-grounded detail",
+          "Significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 524.69
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2770,
+      "markdown_body_line_end": 2771,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Geography → India → Glaciers & Snowline (Khullar: Glaciers of the Himalaya; Majid: Physiography) **Study link:** ✅ Geography → Glaciation → Glacial-lake Hazards / GLOF (applied CA)",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 524.69
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 458.022
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2791,
+      "markdown_body_line_end": 2791,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Do not confuse similar-looking landforms, processes, scales or Indian locations; UPSC often tests the exact mechanism and setting.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 212.422
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 145.754
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2826,
+      "markdown_body_line_end": 2827,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 503.091
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 436.424
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2833,
+      "markdown_body_line_end": 2835,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 384.824
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 298.422
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2841,
+      "markdown_body_line_end": 2841,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 259.222
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 214.554
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2850,
+      "markdown_body_line_end": 2859,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Glacier budget",
+      "preview": "ACCUMULATION -> snowfall, avalanche and refreezing",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2863,
+      "markdown_body_line_end": 2868,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Retreat paradox",
+      "preview": "ICE PARTICLES -> continue moving downslope",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2872,
+      "markdown_body_line_end": 2877,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Erosion suite",
+      "preview": "PLUCKING -> jointed blocks removed",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 598.891
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 547.091
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2881,
+      "markdown_body_line_end": 2886,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Fjord-ria firewall",
+      "preview": "FJORD -> glacial trough later flooded by sea",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 525.091
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2890,
+      "markdown_body_line_end": 2895,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Depositional sorting",
+      "preview": "TILL / MORAINE -> direct ice, generally unsorted",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 399.491
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2899,
+      "markdown_body_line_end": 2904,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Ice-mass family",
+      "preview": "GROUNDED -> glacier, ice cap, ice sheet",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 377.491
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 325.691
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2908,
+      "markdown_body_line_end": 2913,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Himalayan map hooks",
+      "preview": "GANGOTRI -> Bhagirathi",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 35
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 303.691
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 251.891
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2917,
+      "markdown_body_line_end": 2922,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Water-timing sequence",
+      "preview": "EARLY LOSS -> local melt contribution may rise",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2926,
+      "markdown_body_line_end": 2931,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Glacial-lake test",
+      "preview": "BASIN / DAM -> how water is impounded",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2935,
+      "markdown_body_line_end": 2943,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: GLOF cascade",
+      "preview": "TRIGGER -> slope failure, inflow or instability",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2947,
+      "markdown_body_line_end": 2955,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Risk-reduction stack",
+      "preview": "SATELLITE INVENTORY -> changing lakes and slopes",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 452.891
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2959,
+      "markdown_body_line_end": 2964,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Cryosphere answer spine",
+      "preview": "DEFINE -> glacier, lake, GLOF and risk",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 430.891
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 379.091
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    }
+  ]
+}

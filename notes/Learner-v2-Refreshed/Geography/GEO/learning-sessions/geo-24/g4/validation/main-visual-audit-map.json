@@ -1,0 +1,1746 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g4\\geography-24_Complete-Learning-Session_2026-09-01.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g4\\geography-24_Complete-Learning-Session_2026-09-01.pdf",
+  "mode": "main",
+  "topic_key": "geography-24",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Cool Temperate Eastern Margin Laurentian - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 418.024
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 189.022
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g4\\assets\\geography-24_Teaching-Navigation_2026-08-22.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 560.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 252.956
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 63,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Intermediate climate type: The Cool Temperate Eastern Margin or Laurentian climate is an intermediate type between the British maritime and Siberian continental types, combining features of both: cold dry winters from continental air and wa",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 82,
+      "heading": "VISUAL FIRST",
+      "preview": "INTERMEDIATE TYPE IDENTITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 492.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 110,
+      "markdown_body_line_end": 127,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - INTERMEDIATE TYPE IDENTITY",
+      "preview": "START / CONCEPT: FOUNDATION — Intermediate type identity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 333
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 138,
+      "markdown_body_line_end": 138,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Two-region restriction: The Laurentian type occurs in only two regions and is absent from the Southern Hemisphere: NE North America including eastern Canada, the Maritime Provinces, New England and Newfoundland; and eastern Asia including e",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 421.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 340.424
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 153,
+      "markdown_body_line_end": 160,
+      "heading": "VISUAL FIRST",
+      "preview": "TWO-REGION RESTRICTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 189,
+      "markdown_body_line_end": 206,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - TWO-REGION RESTRICTION",
+      "preview": "START / CONCEPT: FOUNDATION — Two-region restriction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 334
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 330.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 79.891
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 217,
+      "markdown_body_line_end": 217,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Cold dry winter mechanism Qualified use: Trace the continental air outflow that defines the winter character.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 232,
+      "markdown_body_line_end": 236,
+      "heading": "VISUAL FIRST",
+      "preview": "COLD DRY WINTER MECHANISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 419.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 264,
+      "markdown_body_line_end": 281,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - COLD DRY WINTER MECHANISM",
+      "preview": "START / CONCEPT: FOUNDATION — Cold dry winter mechanism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 596.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 292,
+      "markdown_body_line_end": 292,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Warm summer rainfall maximum Qualified use: Explain the two-thirds summer share of 30-60 inches annual rainfall.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 461.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 394.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 307,
+      "markdown_body_line_end": 311,
+      "heading": "VISUAL FIRST",
+      "preview": "WARM SUMMER RAINFALL MAXIMUM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 339,
+      "markdown_body_line_end": 356,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - WARM SUMMER RAINFALL MAXIMUM",
+      "preview": "START / CONCEPT: FOUNDATION — Warm summer rainfall maximum",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 245
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 449.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 228.091
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 367,
+      "markdown_body_line_end": 367,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Oyashio-Kuroshio convergence: Off northern Japan the cold Oyashio current meets the warm Kuroshio, producing fog and mist and making north Japan a second Newfoundland; the convergence zone is a major fishing ground supported by nutrient mix",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 382,
+      "markdown_body_line_end": 386,
+      "heading": "VISUAL FIRST",
+      "preview": "OYASHIO-KUROSHIO CONVERGENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 414,
+      "markdown_body_line_end": 431,
+      "heading": "CLOSING RECALL FLOW - CORE - OYASHIO-KUROSHIO CONVERGENCE",
+      "preview": "START / CONCEPT: CORE — Oyashio-Kuroshio convergence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 294
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 442,
+      "markdown_body_line_end": 442,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Grand Banks mechanism: Off Newfoundland the cold Labrador Current meets warmer Atlantic water over the shallow Grand Banks, favouring fog; fish productivity depends on shelf mixing, nutrient supply and management, not merely on warm-cold cu",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 331.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 457,
+      "markdown_body_line_end": 464,
+      "heading": "VISUAL FIRST",
+      "preview": "GRAND BANKS AND LABRADOR-ATLANTIC MEETING",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 493,
+      "markdown_body_line_end": 510,
+      "heading": "CLOSING RECALL FLOW - CORE - GRAND BANKS AND LABRADOR-ATLANTIC MEETING",
+      "preview": "START / CONCEPT: CORE — Grand Banks and Labrador-Atlantic meeting",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 289
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 330.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 119.891
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 521,
+      "markdown_body_line_end": 521,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Fishing economy - Current convergence as economic foundation Qualified use: Connect the physical oceanographic base to the Laurentian economic identity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 536,
+      "markdown_body_line_end": 543,
+      "heading": "VISUAL FIRST",
+      "preview": "FISHING ECONOMY AND CURRENT FOUNDATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 327.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 572,
+      "markdown_body_line_end": 589,
+      "heading": "CLOSING RECALL FLOW - CORE - FISHING ECONOMY AND CURRENT FOUNDATION",
+      "preview": "START / CONCEPT: CORE — Fishing economy and current foundation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 293
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 710.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 479.691
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 600,
+      "markdown_body_line_end": 600,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cool temperate mixed forest: The predominant natural vegetation is cool temperate forest of mixed coniferous-deciduous character, a transition between the deciduous British type forest and the coniferous Siberian taiga, favoured by heavy ra",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 344.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 263.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 615,
+      "markdown_body_line_end": 619,
+      "heading": "VISUAL FIRST",
+      "preview": "COOL TEMPERATE MIXED FOREST",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 647,
+      "markdown_body_line_end": 664,
+      "heading": "CLOSING RECALL FLOW - CORE - COOL TEMPERATE MIXED FOREST",
+      "preview": "START / CONCEPT: CORE — Cool temperate mixed forest",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 299
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 203.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 675,
+      "markdown_body_line_end": 675,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Fog as hazard and resource indicator Qualified use: Explain why the same process creates poor visibility and high marine productivity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 690,
+      "markdown_body_line_end": 694,
+      "heading": "VISUAL FIRST",
+      "preview": "FOG AS DUAL-PURPOSE PHENOMENON",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 722,
+      "markdown_body_line_end": 739,
+      "heading": "CLOSING RECALL FLOW - CORE - FOG AS DUAL-PURPOSE PHENOMENON",
+      "preview": "START / CONCEPT: CORE — Fog as dual-purpose phenomenon",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 271
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 750,
+      "markdown_body_line_end": 750,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Fishery governance constraint: The physical basis of the fishery is a potential, not a guarantee: heavily exploited stocks such as the Grand Banks cod have collapsed despite unchanged oceanography, so the constraint is governance, not geogr",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 421.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 340.424
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 765,
+      "markdown_body_line_end": 769,
+      "heading": "VISUAL FIRST",
+      "preview": "FISHERY GOVERNANCE CONSTRAINT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 797,
+      "markdown_body_line_end": 814,
+      "heading": "CLOSING RECALL FLOW - CORE - FISHERY GOVERNANCE CONSTRAINT",
+      "preview": "START / CONCEPT: CORE — Fishery governance constraint",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 274
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 449.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 228.091
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 825,
+      "markdown_body_line_end": 825,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Eastern Himalaya as India analogue: India lacks a true Laurentian climate, but the Eastern Himalaya including Darjeeling, Sikkim and Arunachal Pradesh is the country's cool, humid, eastern-facing temperate zone with a summer monsoon rainfal",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 840,
+      "markdown_body_line_end": 847,
+      "heading": "VISUAL FIRST",
+      "preview": "EASTERN HIMALAYA AS INDIA ANALOGUE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 462.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 876,
+      "markdown_body_line_end": 893,
+      "heading": "CLOSING RECALL FLOW - CORE - EASTERN HIMALAYA AS INDIA ANALOGUE",
+      "preview": "START / CONCEPT: CORE — Eastern Himalaya as India analogue",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 303
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 904,
+      "markdown_body_line_end": 904,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Teesta drainage: Sikkim is drained chiefly by the Teesta and its tributaries; the Teesta joins the Brahmaputra system in Bangladesh, not the Ganga, which is a common UPSC trap.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 425.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 358.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 919,
+      "markdown_body_line_end": 926,
+      "heading": "VISUAL FIRST",
+      "preview": "TEESTA DRAINAGE AND HAZARDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 955,
+      "markdown_body_line_end": 972,
+      "heading": "CLOSING RECALL FLOW - CORE - TEESTA DRAINAGE AND HAZARDS",
+      "preview": "START / CONCEPT: CORE — Teesta drainage and hazards",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 205
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 359.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 128.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 983,
+      "markdown_body_line_end": 983,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Brahmaputra Valley is a bulk-tea belt producing high volumes, while the Darjeeling hills produce low-yield premium GI tea; this hill-versus-valley distinction in quality, yield and market mirrors the Laurentian pattern of altitude-contr",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 665.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 584.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 998,
+      "markdown_body_line_end": 1005,
+      "heading": "VISUAL FIRST",
+      "preview": "DARJEELING PREMIUM TEA",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 389.424
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 318.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1034,
+      "markdown_body_line_end": 1051,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - DARJEELING PREMIUM TEA",
+      "preview": "START / CONCEPT: SYNTHESIS — Darjeeling premium tea",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 299
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 677.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 446.491
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1062,
+      "markdown_body_line_end": 1062,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Polar vortex and cold outbreaks: Stratospheric disruptions can alter mid-latitude cold outbreak risk in Laurentian-type regions, but the links to Arctic sea-ice loss remain actively debated and event attribution must be cautious.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 292.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 225.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1077,
+      "markdown_body_line_end": 1081,
+      "heading": "VISUAL FIRST",
+      "preview": "POLAR VORTEX AND MID-LATITUDE LINKAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1109,
+      "markdown_body_line_end": 1126,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - POLAR VORTEX AND MID-LATITUDE LINKAGE",
+      "preview": "START / CONCEPT: SYNTHESIS — Polar vortex and mid-latitude linkage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 258
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 213.891
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1137,
+      "markdown_body_line_end": 1137,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Transparent PYQ boundary: The audited routing ledgers contain no direct question owned by Geography Topic 24; Laurentian and Eastern Himalaya concepts may be tested through adjacent climate or regional geography questions but no solved PYQ ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1152,
+      "markdown_body_line_end": 1156,
+      "heading": "VISUAL FIRST",
+      "preview": "PYQ BOUNDARY AND ANSWER SPINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1183,
+      "markdown_body_line_end": 1186,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography*. ✅ = from source book · ⚠️ = inference ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 217.424
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 122.356
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1194,
+      "markdown_body_line_end": 1197,
+      "heading": "1. What & Where (G.C. Leong)",
+      "preview": "Region | Areas",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Region",
+          "Areas"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 725.09
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1205,
+      "markdown_body_line_end": 1206,
+      "heading": "2. Climate",
+      "preview": "🔑 Trap: Rain has a **summer maximum** (easterly ocean winds); winters are **dry and cold** — the opposite of the British type (autumn/winter rain).",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 651.49
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 606.822
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1252,
+      "markdown_body_line_end": 1256,
+      "heading": "9.1 Directive decoding",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 768.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 635.29
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1286,
+      "markdown_body_line_end": 1293,
+      "heading": "9.4 Evidence units available in this file",
+      "preview": "**Claim:** the same current configuration produces a hazard and a resource in one place. **Evidence:** the meeting of a warm and a cold current off this coast chills warm moist air from below, generating persistent dense fog, while the mixi",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 262.49
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 124.822
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1295,
+      "markdown_body_line_end": 1302,
+      "heading": "9.4 Evidence units available in this file",
+      "preview": "**Claim:** the absence of a climate type can be a fact about land distribution rather than about climate. **Evidence:** the cool temperate eastern margin type is effectively absent in the Southern Hemisphere because the southern continents ",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 701.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1306,
+      "markdown_body_line_end": 1323,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - PYQ BOUNDARY AND ANSWER SPINE",
+      "preview": "START / CONCEPT: SYNTHESIS — PYQ boundary and answer spine",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 283
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 679.824
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 438.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2451,
+      "markdown_body_line_end": 2454,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I / GS-III **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain, *India geography* + verified CA. ✅ = from source book · ⚠️ = inferen",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 707.224
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2472,
+      "markdown_body_line_end": 2477,
+      "heading": "2. Darjeeling tea (Khullar)",
+      "preview": "Feature | Detail",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Feature",
+          "Detail"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 513.424
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 392.822
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2513,
+      "markdown_body_line_end": 2522,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Laurentian climate world distribution",
+      "preview": "NE NORTH AMERICA -> eastern Canada, Maritime Provinces, New England, Newfoundland",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 733.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 640.691
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2526,
+      "markdown_body_line_end": 2531,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Seasonal rainfall mechanism",
+      "preview": "WINTER -> continental Westerlies blow dry frigid air from interior",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 618.691
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 566.891
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2535,
+      "markdown_body_line_end": 2540,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Current convergence and fishing",
+      "preview": "OYASHIO (cold) + KUROSHIO (warm) -> convergence off northern Japan",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 544.891
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 493.091
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2544,
+      "markdown_body_line_end": 2549,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Fog as dual phenomenon",
+      "preview": "FOG AS HAZARD -> poor visibility, navigational danger, shipping risk",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 471.091
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 419.291
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2553,
+      "markdown_body_line_end": 2558,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Mixed forest transition strip",
+      "preview": "BRITISH MARGIN -> deciduous broadleaf forest (mild, wet winters)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 397.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 345.491
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2562,
+      "markdown_body_line_end": 2567,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Fishery governance lesson",
+      "preview": "PHYSICAL BASE -> current convergence + shallow shelf + nutrient mixing",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 323.491
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 271.691
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2571,
+      "markdown_body_line_end": 2576,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Eastern Himalaya analogue map",
+      "preview": "DARJEELING-SIKKIM -> cool humid eastern-facing temperate belt",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2580,
+      "markdown_body_line_end": 2585,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Teesta basin profile",
+      "preview": "STEEP RELIEF -> rapid runoff, high sediment load",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2589,
+      "markdown_body_line_end": 2594,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Darjeeling tea economy",
+      "preview": "DARJEELING HILLS -> low-yield, premium, GI-protected orthodox tea",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2598,
+      "markdown_body_line_end": 2606,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: British-Laurentian comparison",
+      "preview": "RAINFALL -> British: autumn-winter max | Laurentian: summer max",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 483.491
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2610,
+      "markdown_body_line_end": 2618,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Polar-vortex hypothesis",
+      "preview": "STRATOSPHERIC DISRUPTION -> weakens polar vortex containment",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 461.491
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 379.091
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2622,
+      "markdown_body_line_end": 2627,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Laurentian answer spine",
+      "preview": "DEFINE -> intermediate type between British maritime and Siberian continental",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 357.091
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+ASCII MASTER FLOW — PANEL 1/12: Category boundary
+LAKE -> standing water in an inland basin
+RESERVOIR -> artificial or strongly regulated storage
+WETLAND -> broader hydrological-ecological category
+RAMSAR SITE -> international designation, not basin origin
+
+ASCII MASTER FLOW — PANEL 2/12: Lake-origin tree
+EARTH MOVEMENT -> tectonic or volcanic basin
+ICE / RIVER / COAST -> tarn, ox-bow or lagoon
+BLOCKAGE / IMPACT -> landslide dam or crater
+HUMAN WORK -> reservoir, bund or excavation
+
+ASCII MASTER FLOW — PANEL 3/12: Water-budget equation
+INPUT -> rain + river + groundwater
+OUTPUT -> evaporation + outflow + seepage
+STORAGE CHANGE -> inputs minus outputs
+ATTRIBUTION -> state period, basin and uncertainty
+
+ASCII MASTER FLOW — PANEL 4/12: Lake-change firewall
+SUCCESSION -> sediment and organic infilling
+EUTROPHICATION -> nutrient-productivity-oxygen shift
+SHRINKAGE -> water-budget deficit
+RULE -> similar appearance can hide different mechanisms
+
+ASCII MASTER FLOW — PANEL 5/12: Wetland hydroperiod
+TIMING -> season of inundation
+DURATION -> how long water remains
+DEPTH + FREQUENCY -> habitat filter
+CONNECTIVITY -> river, aquifer or coast link
+
+ASCII MASTER FLOW — PANEL 6/12: India lake map
+WULAR -> Jhelum-linked Kashmir basin
+SAMBHAR -> saline Rajasthan closed basin
+CHILIKA -> Odisha coastal lagoon
+LONAR / KANWAR / BHOJ -> impact / fluvial / artificial
+
+ASCII MASTER FLOW — PANEL 7/12: River-lake traps
+WULAR -> linked to Jhelum
+KOLLERU -> between Krishna and Godavari deltas
+LOKTAK -> phumdi-bearing lake
+RULE -> adjacency does not prove direct feeding
+
+ASCII MASTER FLOW — PANEL 8/12: Urban reclamation chain
+FILL / NARROW -> storage and drainage lost
+RUNOFF -> flood peak and duration rise
+POLLUTION -> dilution and habitat decline
+EQUITY -> low-lying communities bear shifted risk
+
+ASCII MASTER FLOW — PANEL 9/12: Threat-response matrix
+SEWAGE / NUTRIENT -> source control + treatment
+SEDIMENT -> catchment and erosion management
+ENCROACHMENT -> protect hydrological space
+INVASIVE / ALTERED FLOW -> ecological and flow restoration
+
+ASCII MASTER FLOW — PANEL 10/12: Ramsar status firewall
+CRITERION -> at least one can support listing
+WISE USE -> maintain ecological character
+MONTREUX -> priority attention to character change
+LIMIT -> listing is not automatic National Park status
+
+ASCII MASTER FLOW — PANEL 11/12: India governance chain
+INVENTORY -> identify and delineate system
+NOTIFICATION / RULES -> regulate activities
+PLAN / NPCA -> finance and implement management
+MONITOR -> prove ecological response
+
+ASCII MASTER FLOW — PANEL 12/12: Lake-wetland answer spine
+DEFINE -> basin, wetland and status
+CLASSIFY -> origin and hydrology
+DIAGNOSE -> budget, nutrient or connectivity failure
+RESPOND -> basin-scale, monitored and status-aware

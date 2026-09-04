@@ -1,0 +1,1776 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g4\\geography-21_Complete-Learning-Session_2026-09-01.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g4\\geography-21_Complete-Learning-Session_2026-09-01.pdf",
+  "mode": "main",
+  "topic_key": "geography-21",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Warm Temperate Eastern Margin China Type - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 418.024
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 189.022
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g4\\assets\\geography-21_Teaching-Navigation_2026-08-22.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 560.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 252.956
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 63,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Eastern-margin location: The warm temperate eastern margin or China type climate is found on eastern margins of continents in warm temperate latitudes, just outside the tropics, with more rainfall than the Mediterranean climate of the same ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 82,
+      "heading": "VISUAL FIRST",
+      "preview": "EASTERN-MARGIN LOCATION AND RAINFALL CONTRAST",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 492.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 110,
+      "markdown_body_line_end": 127,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - EASTERN-MARGIN LOCATION AND RAINFALL CONTRAST",
+      "preview": "START / CONCEPT: FOUNDATION — Eastern-margin location and rainfall contrast",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 304
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 138,
+      "markdown_body_line_end": 138,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Temperate monsoon identity Qualified use: Explain the pressure-reversal mechanism driving the China type.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 421.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 354.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 153,
+      "markdown_body_line_end": 157,
+      "heading": "VISUAL FIRST",
+      "preview": "TEMPERATE MONSOON IDENTITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 185,
+      "markdown_body_line_end": 202,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - TEMPERATE MONSOON IDENTITY",
+      "preview": "START / CONCEPT: FOUNDATION — Temperate monsoon identity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 233
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 242.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 213,
+      "markdown_body_line_end": 213,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The three sub-types are the China type, which is the most typical temperate monsoonal form in central and north China and southern Japan; the Gulf type, a slight-monsoonal version in the south-eastern United States; and the Natal type, a no",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 228,
+      "markdown_body_line_end": 232,
+      "heading": "VISUAL FIRST",
+      "preview": "THREE SUB-TYPES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 492.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 260,
+      "markdown_body_line_end": 277,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THREE SUB-TYPES",
+      "preview": "START / CONCEPT: FOUNDATION — Three sub-types",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 372
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 288,
+      "markdown_body_line_end": 288,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Asiatic pressure reversal: The huge Asiatic landmass with a mountainous interior induces great pressure changes between seasons: intense summer heating creates low pressure drawing in the tropical Pacific air stream for summer rain, while w",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 421.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 340.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 303,
+      "markdown_body_line_end": 307,
+      "heading": "VISUAL FIRST",
+      "preview": "ASIATIC PRESSURE REVERSAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 335,
+      "markdown_body_line_end": 352,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - ASIATIC PRESSURE REVERSAL",
+      "preview": "START / CONCEPT: FOUNDATION — Asiatic pressure reversal",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 316
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 203.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 363,
+      "markdown_body_line_end": 363,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Temperature-range variation Qualified use: Show how proximity to the coast reduces the annual range.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 378,
+      "markdown_body_line_end": 382,
+      "heading": "VISUAL FIRST",
+      "preview": "TEMPERATURE RANGE AND MARITIME MODERATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 410,
+      "markdown_body_line_end": 427,
+      "heading": "CLOSING RECALL FLOW - CORE - TEMPERATURE RANGE AND MARITIME MODERATION",
+      "preview": "START / CONCEPT: CORE — Temperature range and maritime moderation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 145
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 438,
+      "markdown_body_line_end": 438,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Typhoon mechanism: Typhoons are intense tropical cyclones that originate in the Pacific Ocean and move westwards to the coasts bordering the South China Sea, most frequent in late summer July to September, and can be very disastrous.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 441.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 360.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 453,
+      "markdown_body_line_end": 457,
+      "heading": "VISUAL FIRST",
+      "preview": "TYPHOON MECHANISM AND SEASONALITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 485,
+      "markdown_body_line_end": 502,
+      "heading": "CLOSING RECALL FLOW - CORE - TYPHOON MECHANISM AND SEASONALITY",
+      "preview": "START / CONCEPT: CORE — Typhoon mechanism and seasonality",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 262
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 203.891
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 513,
+      "markdown_body_line_end": 513,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sub-type contrast: winter severity: The three sub-types differ chiefly in the severity of the winter because that depends on the size of the adjoining landmass; the Asian type has the harshest winters, and the southern-hemisphere Natal type",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 528,
+      "markdown_body_line_end": 535,
+      "heading": "VISUAL FIRST",
+      "preview": "SUB-TYPE WINTER-SEVERITY CONTRAST",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 462.624
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 564,
+      "markdown_body_line_end": 581,
+      "heading": "CLOSING RECALL FLOW - CORE - SUB-TYPE WINTER-SEVERITY CONTRAST",
+      "preview": "START / CONCEPT: CORE — Sub-type winter-severity contrast",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 314
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 526.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 592,
+      "markdown_body_line_end": 592,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Natural vegetation and crops - Agricultural intensity Qualified use: Connect summer rain to rice-tea economy and typhoon exposure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 372.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 305.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 607,
+      "markdown_body_line_end": 614,
+      "heading": "VISUAL FIRST",
+      "preview": "VEGETATION, CROPS AND AGRICULTURAL INTENSITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 643,
+      "markdown_body_line_end": 660,
+      "heading": "CLOSING RECALL FLOW - CORE - VEGETATION, CROPS AND AGRICULTURAL INTENSITY",
+      "preview": "START / CONCEPT: CORE — Vegetation, crops and agricultural intensity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 330
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 316.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 85.691
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 671,
+      "markdown_body_line_end": 671,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India China-type analogue: India's humid eastern margin, the Bengal-Brahmaputra plains and the North-East, is the subcontinental counterpart of the warm temperate eastern margin China type climate, with hot wet summers with heavy monsoon ra",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 598.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 686,
+      "markdown_body_line_end": 690,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA CHINA-TYPE ANALOGUE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 417.824
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 376.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 718,
+      "markdown_body_line_end": 735,
+      "heading": "CLOSING RECALL FLOW - CORE - INDIA CHINA-TYPE ANALOGUE",
+      "preview": "START / CONCEPT: CORE — India China-type analogue",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 313
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 746,
+      "markdown_body_line_end": 746,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Singh's Humid North-East division excludes Tripura from its coverage, which is a precise close-option distinction that has appeared in objective formats.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 368.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 761,
+      "markdown_body_line_end": 768,
+      "heading": "VISUAL FIRST",
+      "preview": "HUMID NORTH-EAST DIVISION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 797,
+      "markdown_body_line_end": 814,
+      "heading": "CLOSING RECALL FLOW - CORE - HUMID NORTH-EAST DIVISION",
+      "preview": "START / CONCEPT: CORE — Humid North-East division",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 290
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 359.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 128.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 825,
+      "markdown_body_line_end": 825,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Bengal and Assam Plain - Rice-economy base Qualified use: Follow rainfall to alluvial soils to rice economy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 840,
+      "markdown_body_line_end": 847,
+      "heading": "VISUAL FIRST",
+      "preview": "BENGAL AND ASSAM PLAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 375.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 876,
+      "markdown_body_line_end": 893,
+      "heading": "CLOSING RECALL FLOW - CORE - BENGAL AND ASSAM PLAIN",
+      "preview": "START / CONCEPT: CORE — Bengal and Assam Plain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 153
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 519.891
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 904,
+      "markdown_body_line_end": 904,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Trewartha classification Qualified use: Note the H highland class and classification complexity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 399.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 346.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 919,
+      "markdown_body_line_end": 923,
+      "heading": "VISUAL FIRST",
+      "preview": "TREWARTHA AND CLASSIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 951,
+      "markdown_body_line_end": 968,
+      "heading": "CLOSING RECALL FLOW - CORE - TREWARTHA AND CLASSIFICATION",
+      "preview": "START / CONCEPT: CORE — Trewartha and classification",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 141
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 233.891
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 979,
+      "markdown_body_line_end": 979,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The North-East's rainfall comes primarily from the Bay of Bengal branch of the south-west monsoon, not the Arabian Sea branch; this is a standard close-option discriminator.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 113.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 46.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 994,
+      "markdown_body_line_end": 998,
+      "heading": "VISUAL FIRST",
+      "preview": "BAY OF BENGAL BRANCH",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 587.691
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1026,
+      "markdown_body_line_end": 1043,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - BAY OF BENGAL BRANCH",
+      "preview": "START / CONCEPT: SYNTHESIS — Bay of Bengal branch",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 202
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 304.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 83.691
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1054,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Flood-fertility paradox - Tea industry link Qualified use: Build the Brahmaputra flood-fertility-tea argument.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1069,
+      "markdown_body_line_end": 1076,
+      "heading": "VISUAL FIRST",
+      "preview": "FLOOD-FERTILITY PARADOX AND TEA",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 361.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1105,
+      "markdown_body_line_end": 1122,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - FLOOD-FERTILITY PARADOX AND TEA",
+      "preview": "START / CONCEPT: SYNTHESIS — Flood-fertility paradox and tea",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 270
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 489.891
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1133,
+      "markdown_body_line_end": 1133,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Transparent zero-direct route: The audited routing ledgers contain no direct question owned by Geography Topic 21; eastern-margin climate concepts may be tested through climate-comparison or monsoon-mechanism questions but no solved PYQ is ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 354.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 274.024
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1148,
+      "markdown_body_line_end": 1152,
+      "heading": "VISUAL FIRST",
+      "preview": "PYQ BOUNDARY AND ANSWER SPINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1179,
+      "markdown_body_line_end": 1182,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography*. ✅ = from source book · ⚠️ = inference ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 456.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 361.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1193,
+      "markdown_body_line_end": 1197,
+      "heading": "2. The three sub-types",
+      "preview": "Sub-type | Region | Character",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Sub-type",
+          "Region",
+          "Character"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 261.024
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 150.422
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1253,
+      "markdown_body_line_end": 1257,
+      "heading": "10.1 Directive decoding",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 280.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 125.29
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1261,
+      "markdown_body_line_end": 1269,
+      "heading": "10.2 The eastern-margin logic",
+      "preview": "WARM TEMPERATE EASTERN MARGIN (China / Gulf / Natal types)",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1276,
+      "markdown_body_line_end": 1280,
+      "heading": "10.2 The eastern-margin logic",
+      "preview": "🔑 **Trap:** the eastern-margin warm temperate type has **no summer drought**, which is precisely what distinguishes it from the Mediterranean type at the same latitude on the western margin. The contrast is the highest-value single comparis",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 655.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 582.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1298,
+      "markdown_body_line_end": 1304,
+      "heading": "10.4 Evidence units available in this file",
+      "preview": "**Claim:** the size of the adjoining landmass, not latitude, decides how severe an eastern-margin winter is. **Evidence:** the three sub-types of this climate share a summer-rain regime but differ sharply in winter severity, with the Asian ",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 366.424
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 242.956
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1306,
+      "markdown_body_line_end": 1313,
+      "heading": "10.4 Evidence units available in this file",
+      "preview": "**Claim:** the mechanism that makes a region agriculturally rich is the same one that makes it hazardous. **Evidence:** the summer inflow of warm, moist maritime air that gives this climate its long wet growing season and supports very dens",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 242.956
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 127.288
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1317,
+      "markdown_body_line_end": 1334,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - PYQ BOUNDARY AND ANSWER SPINE",
+      "preview": "START / CONCEPT: SYNTHESIS — PYQ boundary and answer spine",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 280
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2373,
+      "markdown_body_line_end": 2376,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain, *India geography* + verified CA. ✅ = from source book · ⚠️ = inference / stan",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 546.491
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 473.424
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2399,
+      "markdown_body_line_end": 2402,
+      "heading": "Key data at a glance",
+      "preview": "Division (source) | Extent | Annual rainfall | July temp | January temp",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 2,
+        "headers": [
+          "Division (source)",
+          "Extent",
+          "Annual rainfall",
+          "July temp",
+          "January temp"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 243.424
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 147.022
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2445,
+      "markdown_body_line_end": 2453,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Eastern-margin world map",
+      "preview": "CHINA -> central and north China + southern Japan: temperate monsoonal",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 386.091
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 303.691
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2457,
+      "markdown_body_line_end": 2462,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Pressure-reversal mechanism",
+      "preview": "SUMMER -> intense heating over Asian interior -> low pressure",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2466,
+      "markdown_body_line_end": 2471,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Three sub-types comparison",
+      "preview": "CHINA TYPE -> temperate monsoonal, harshest winter (large Asian landmass)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2475,
+      "markdown_body_line_end": 2480,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: East-west rainfall asymmetry",
+      "preview": "EASTERN MARGIN -> summer rain from onshore flow, no summer drought",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2484,
+      "markdown_body_line_end": 2489,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Typhoon track map",
+      "preview": "ORIGIN -> warm western Pacific Ocean, low-latitude genesis",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2493,
+      "markdown_body_line_end": 2498,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Agriculture-hazard duality",
+      "preview": "SUMMER INFLOW -> warm moist air gives long wet growing season",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2502,
+      "markdown_body_line_end": 2507,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: India humid eastern-margin map",
+      "preview": "BENGAL PLAIN -> West Bengal plain, about 150 cm Bay-of-Bengal monsoon",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2511,
+      "markdown_body_line_end": 2516,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Monsoon-branch discriminator",
+      "preview": "QUESTION: which monsoon branch serves NE India?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 292.691
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2520,
+      "markdown_body_line_end": 2525,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Flood-fertility paradox",
+      "preview": "HEAVY MONSOON RAIN -> annual flooding of Brahmaputra floodplain",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2529,
+      "markdown_body_line_end": 2537,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Tea-industry vulnerability",
+      "preview": "ASSAM -> central to India's tea output, world's 2nd-largest producer",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 631.091
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2541,
+      "markdown_body_line_end": 2549,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Trewartha classification note",
+      "preview": "TREWARTHA -> humid mesothermal and tropical-humid types in India",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 609.091
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 526.691
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2553,
+      "markdown_body_line_end": 2558,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: China-type answer spine",
+      "preview": "DEFINE -> warm temperate eastern margin with summer-rain regime",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 504.691
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 452.891
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    }
+  ]
+}

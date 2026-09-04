@@ -1,0 +1,4553 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-01\\g16\\geography-01_Complete-Learning-Session_2026-09-01.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-01\\g16\\geography-01_Complete-Learning-Session_2026-09-01.pdf",
+  "mode": "main",
+  "topic_key": "geography-01",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 17,
+      "markdown_body_line_end": 25,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 593.091
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 364.09
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 54,
+      "markdown_body_line_end": 54,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-01\\g16\\assets\\geography-01_Teaching-Navigation_2026-08-23.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 623.091
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 315.556
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 61,
+      "markdown_body_line_end": 61,
+      "heading": "1. Source audit, syllabus ownership and evidence firewall",
+      "preview": "Master two-part roadmap",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-01\\g16\\assets\\01_master-roadmap.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 237.956
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        6,
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 68,
+      "markdown_body_line_end": 74,
+      "heading": "Repository-first audit",
+      "preview": "Source owner | What this session retains | Ownership boundary",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Source owner",
+          "What this session retains",
+          "Ownership boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 445.356
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 191.554
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 119,
+      "markdown_body_line_end": 129,
+      "heading": "PART A ROADMAP: SCOPE AND HIERARCHY",
+      "preview": "UNIVERSE",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 347.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 246.691
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 131,
+      "markdown_body_line_end": 131,
+      "heading": "PART A ROADMAP: SCOPE AND HIERARCHY",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Planetary geography begins by locating Earth within a nested hierarchy—universe, galaxy, Solar System and planet—before explaining the processes that make Earth geographically distinctive.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 246.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 187.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 136,
+      "markdown_body_line_end": 147,
+      "heading": "VISUAL FIRST",
+      "preview": "BIG BANG: HOT DENSE BEGINNING, EXPANSION AND EVIDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 159,
+      "markdown_body_line_end": 159,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Big Bang denotes the expansion and cooling of an extremely hot, dense early universe about 13.8 billion years ago, not an explosion from one point into pre-existing empty space.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 573.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 506.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 174,
+      "markdown_body_line_end": 174,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Universe, stars and Solar-System formation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-01\\g16\\assets\\02_cosmos-stars-solar-system.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 314.624
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 184,
+      "markdown_body_line_end": 188,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Evidence | What it shows | Safe limitation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Evidence",
+          "What it shows",
+          "Safe limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 428.956
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 295.954
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 190,
+      "markdown_body_line_end": 190,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**UPSC trap:** Big Bang ≠ a bomb exploding at one point in pre-existing empty space.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 295.954
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 265.487
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 192,
+      "markdown_body_line_end": 192,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The Big Bang denotes the expansion and cooling of an extremely hot, dense early universe about 13.8 billion years ago, not an explosion from one point into pre-existing empty space.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 265.487
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 206.619
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 196,
+      "markdown_body_line_end": 213,
+      "heading": "CLOSING RECALL FLOW - BIG BANG: HOT DENSE BEGINNING, EXPANSION AND EVIDENCE",
+      "preview": "START / CONCEPT: BIG BANG: HOT DENSE BEGINNING, EXPANSION AND EVIDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 210
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 218,
+      "markdown_body_line_end": 229,
+      "heading": "VISUAL FIRST",
+      "preview": "GALAXIES AND THE MASS-CONTROLLED LIFE CYCLE OF STARS",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 477.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 366.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 241,
+      "markdown_body_line_end": 241,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Galaxies organise matter on the largest stellar scale, while initial mass is the controlling variable in the life cycle of an individual star.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 277.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 210.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 258,
+      "markdown_body_line_end": 262,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Galaxy type | Necessary recognition | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Galaxy type",
+          "Necessary recognition",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 750.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 640.09
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 264,
+      "markdown_body_line_end": 272,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "gas-dust nebula → gravitational contraction → protostar → main sequence",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 640.09
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 559.09
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 277,
+      "markdown_body_line_end": 277,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** A star's initial mass governs both its fuel-consumption rate and its final remnant, so massive giants burn faster and usually live shorter lives than low-mass dwarfs.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 525.69
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 466.822
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 281,
+      "markdown_body_line_end": 298,
+      "heading": "CLOSING RECALL FLOW - GALAXIES AND THE MASS-CONTROLLED LIFE CYCLE OF STARS",
+      "preview": "START / CONCEPT: GALAXIES AND THE MASS-CONTROLLED LIFE CYCLE OF STARS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 171
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 444.822
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 223.822
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 303,
+      "markdown_body_line_end": 314,
+      "heading": "VISUAL FIRST",
+      "preview": "FORMATION AND CLASSIFICATION OF THE SOLAR SYSTEM",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 326,
+      "markdown_body_line_end": 326,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Solar System formed through gravitational collapse and flattening of a rotating gas-dust nebula, followed by accretion that differentiated rocky inner planets from giant outer planets.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 559.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 492.424
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 346,
+      "markdown_body_line_end": 354,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Category | Members/examples | Distinction",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Category",
+          "Members/examples",
+          "Distinction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 574.29
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 359,
+      "markdown_body_line_end": 359,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The Solar System formed through gravitational collapse and flattening of a rotating gas-dust nebula, followed by accretion that differentiated rocky inner planets from giant outer planets.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 540.89
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 482.022
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 363,
+      "markdown_body_line_end": 380,
+      "heading": "CLOSING RECALL FLOW - FORMATION AND CLASSIFICATION OF THE SOLAR SYSTEM",
+      "preview": "START / CONCEPT: FORMATION AND CLASSIFICATION OF THE SOLAR SYSTEM",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 217
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 460.022
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 229.022
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 385,
+      "markdown_body_line_end": 396,
+      "heading": "VISUAL FIRST",
+      "preview": "EARTH'S SHAPE: OBLATE SPHEROID AND GEOID",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 408,
+      "markdown_body_line_end": 408,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Earth is approximated geometrically as an oblate spheroid, while the geoid is the gravity-defined equipotential surface that best approximates global mean sea level.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 573.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 506.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 423,
+      "markdown_body_line_end": 423,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Earth shape, motions and seasons",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-01\\g16\\assets\\03_earth-shape-motions-seasons.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 328.824
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 784.89
+        }
+      },
+      "pdf_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 436,
+      "markdown_body_line_end": 436,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Earth is approximated geometrically as an oblate spheroid, while the geoid is the gravity-defined equipotential surface that best approximates global mean sea level.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 670.49
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 625.822
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 440,
+      "markdown_body_line_end": 457,
+      "heading": "CLOSING RECALL FLOW - EARTH'S SHAPE: OBLATE SPHEROID AND GEOID",
+      "preview": "START / CONCEPT: EARTH'S SHAPE: OBLATE SPHEROID AND GEOID",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 194
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 603.822
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 392.822
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 462,
+      "markdown_body_line_end": 473,
+      "heading": "VISUAL FIRST",
+      "preview": "ROTATION, REVOLUTION, AXIAL TILT AND LEAP-YEAR LOGIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 313.822
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 202.822
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 485,
+      "markdown_body_line_end": 485,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Rotation produces day and night, whereas revolution acting with axial tilt changes solar angle and day length to produce the seasonal cycle.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 99.822
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 500,
+      "markdown_body_line_end": 505,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Motion/parameter | Exam-safe value | Main consequence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Motion/parameter",
+          "Exam-safe value",
+          "Main consequence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 564.824
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 444.222
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 510,
+      "markdown_body_line_end": 510,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Rotation produces day and night, whereas revolution acting with axial tilt changes solar angle and day length to produce the seasonal cycle.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 410.822
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 366.154
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 514,
+      "markdown_body_line_end": 531,
+      "heading": "CLOSING RECALL FLOW - ROTATION, REVOLUTION, AXIAL TILT AND LEAP-YEAR LOGIC",
+      "preview": "START / CONCEPT: ROTATION, REVOLUTION, AXIAL TILT AND LEAP-YEAR LOGIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 169
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 344.154
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 123.154
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 536,
+      "markdown_body_line_end": 547,
+      "heading": "VISUAL FIRST",
+      "preview": "SEASONS, SOLSTICES, EQUINOXES AND DAY LENGTH",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 735.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 624.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 559,
+      "markdown_body_line_end": 559,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Earth is near perihelion in early January, during Northern Hemisphere winter, so Earth–Sun distance cannot be the main seasonal cause.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 521.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 454.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 574,
+      "markdown_body_line_end": 588,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "JUNE SOLSTICE (~21 June)",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 276.824
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 135.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 594,
+      "markdown_body_line_end": 594,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** A solstice marks maximum hemispheric tilt toward or away from the Sun, while an equinox places the overhead Sun at the Equator and gives near-equal day and night.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 88.224
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 43.556
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 598,
+      "markdown_body_line_end": 615,
+      "heading": "CLOSING RECALL FLOW - SEASONS, SOLSTICES, EQUINOXES AND DAY LENGTH",
+      "preview": "START / CONCEPT: SEASONS, SOLSTICES, EQUINOXES AND DAY LENGTH",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 165
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 620,
+      "markdown_body_line_end": 631,
+      "heading": "VISUAL FIRST",
+      "preview": "LATITUDE, LONGITUDE, GREAT CIRCLES AND COORDINATE READING",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 497.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 386.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 643,
+      "markdown_body_line_end": 643,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Latitude measures angular distance north or south of the Equator, whereas longitude measures angular distance east or west of the Prime Meridian and provides the basis for time.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 283.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 216.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 658,
+      "markdown_body_line_end": 663,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Concept | Definition | Geometry/exam use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Definition",
+          "Geometry/exam use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 652.29
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 668,
+      "markdown_body_line_end": 668,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Latitude measures angular distance north or south of the Equator, whereas longitude measures angular distance east or west of the Prime Meridian and provides the basis for time.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 618.89
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 560.022
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 672,
+      "markdown_body_line_end": 689,
+      "heading": "CLOSING RECALL FLOW - LATITUDE, LONGITUDE, GREAT CIRCLES AND COORDINATE READING",
+      "preview": "START / CONCEPT: LATITUDE, LONGITUDE, GREAT CIRCLES AND COORDINATE READING",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 206
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 538.022
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 307.022
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 694,
+      "markdown_body_line_end": 705,
+      "heading": "VISUAL FIRST",
+      "preview": "LOCAL TIME, STANDARD TIME, UTC/GMT AND INTERNATIONAL DATE LINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 717,
+      "markdown_body_line_end": 717,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Earth's rotation gives 15° of longitude per hour and 1° per four minutes; east is ahead, and crossing the International Date Line westward adds a calendar day while eastward subtracts one.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 587.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 520.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 732,
+      "markdown_body_line_end": 732,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Coordinate, time and date-line logic",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-01\\g16\\assets\\04_coordinates-time-idl.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 343.024
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 799.89
+        }
+      },
+      "pdf_pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 734,
+      "markdown_body_line_end": 739,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "360° rotation / 24 hours = 15° per hour",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 799.89
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 748.89
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 748,
+      "markdown_body_line_end": 748,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Earth's rotation gives 15° of longitude per hour and 1° per four minutes; east is ahead, and crossing the International Date Line westward adds a calendar day while eastward subtracts one.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 667.89
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 609.022
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 752,
+      "markdown_body_line_end": 769,
+      "heading": "CLOSING RECALL FLOW - LOCAL TIME, STANDARD TIME, UTC/GMT AND INTERNATIONAL DATE LINE",
+      "preview": "START / CONCEPT: LOCAL TIME, STANDARD TIME, UTC/GMT AND INTERNATIONAL DATE LINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 217
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 587.022
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 366.022
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 774,
+      "markdown_body_line_end": 785,
+      "heading": "VISUAL FIRST",
+      "preview": "MAGNETOSPHERE, SOLAR WIND, AURORA AND SPACE WEATHER",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 797,
+      "markdown_body_line_end": 797,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Aurora is the visible result of solar particles guided by the magnetosphere into the polar upper atmosphere, where collisions excite oxygen and nitrogen to emit light.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 573.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 506.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 812,
+      "markdown_body_line_end": 812,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Magnetosphere, aurora and Earth's interior",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-01\\g16\\assets\\05_magnetosphere-interior.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 328.824
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 784.89
+        }
+      },
+      "pdf_pages": [
+        23,
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 814,
+      "markdown_body_line_end": 822,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Sun → solar wind / coronal mass ejection",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 784.89
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 703.89
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 824,
+      "markdown_body_line_end": 830,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Control | Outcome",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Control",
+          "Outcome"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 703.89
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 562.088
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 841,
+      "markdown_body_line_end": 841,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Aurora is the visible result of solar particles guided by the magnetosphere into the polar upper atmosphere, where collisions excite oxygen and nitrogen to emit light.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 466.888
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 422.22
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 845,
+      "markdown_body_line_end": 862,
+      "heading": "CLOSING RECALL FLOW - MAGNETOSPHERE, SOLAR WIND, AURORA AND SPACE WEATHER",
+      "preview": "START / CONCEPT: MAGNETOSPHERE, SOLAR WIND, AURORA AND SPACE WEATHER",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 213
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 400.22
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 159.22
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 867,
+      "markdown_body_line_end": 878,
+      "heading": "VISUAL FIRST",
+      "preview": "EARTH'S INTERIOR THROUGH COMPOSITIONAL LAYERS AND SEISMIC EVIDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 735.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 624.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 890,
+      "markdown_body_line_end": 890,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The disappearance of S-waves through the outer core and the refraction of P-waves create shadow zones that reveal a liquid outer core surrounding a solid inner core.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 521.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 454.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 905,
+      "markdown_body_line_end": 910,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Compositional layer | Broad character | Boundary",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Compositional layer",
+          "Broad character",
+          "Boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 262.624
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 142.022
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 919,
+      "markdown_body_line_end": 919,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The disappearance of S-waves through the outer core and the refraction of P-waves create shadow zones that reveal a liquid outer core surrounding a solid inner core.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 924,
+      "markdown_body_line_end": 924,
+      "heading": "PART B ROADMAP: LOCATION, SITE, SITUATION AND EXTENT",
+      "preview": "India coordinate and time system",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-01\\g16\\assets\\06_india-coordinate-time-system.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 703.224
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 395.688
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 926,
+      "markdown_body_line_end": 931,
+      "heading": "PART B ROADMAP: LOCATION, SITE, SITUATION AND EXTENT",
+      "preview": "Tool | Meaning | India application",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Tool",
+          "Meaning",
+          "India application"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 395.688
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 275.087
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 936,
+      "markdown_body_line_end": 936,
+      "heading": "PART B ROADMAP: LOCATION, SITE, SITUATION AND EXTENT",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** India's location must be read through four linked ideas—absolute position, physical site, relational situation and territorial extent—because coordinates alone do not explain significance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 241.687
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 182.819
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 940,
+      "markdown_body_line_end": 957,
+      "heading": "CLOSING RECALL FLOW - EARTH'S INTERIOR THROUGH COMPOSITIONAL LAYERS AND SEISMIC EVIDENCE",
+      "preview": "START / CONCEPT: EARTH'S INTERIOR THROUGH COMPOSITIONAL LAYERS AND SEISMIC EVIDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 210
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 563.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 962,
+      "markdown_body_line_end": 973,
+      "heading": "VISUAL FIRST",
+      "preview": "ABSOLUTE COORDINATES, DIMENSIONS, AREA, RANK AND SHARE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 484.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 373.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 985,
+      "markdown_body_line_end": 985,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A coordinate envelope is a bounding box, not the country's actual polygon; its corners may lie outside the territory.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 270.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 217.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1003,
+      "markdown_body_line_end": 1010,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Parameter | Current exam-safe value",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Parameter",
+          "Current exam-safe value"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 618.09
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1015,
+      "markdown_body_line_end": 1015,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Mainland India extends from 8°4'N to 37°6'N and 68°7'E to 97°25'E, combining a nearly 29-degree angular spread with unequal north-south and east-west linear dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 584.69
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 525.822
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1019,
+      "markdown_body_line_end": 1036,
+      "heading": "CLOSING RECALL FLOW - ABSOLUTE COORDINATES, DIMENSIONS, AREA, RANK AND SHARE",
+      "preview": "START / CONCEPT: ABSOLUTE COORDINATES, DIMENSIONS, AREA, RANK AND SHARE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 146
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 503.822
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 302.822
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1041,
+      "markdown_body_line_end": 1052,
+      "heading": "VISUAL FIRST",
+      "preview": "MAINLAND VERSUS FULL TERRITORY AND EXTREME-LOCATION CAUTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1064,
+      "markdown_body_line_end": 1064,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Kanyakumari is the southern tip of mainland India, whereas Indira Point on Great Nicobar is the southernmost point of the Union's territory.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 573.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 506.624
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1081,
+      "markdown_body_line_end": 1085,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Category asked | Safe response",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Category asked",
+          "Safe response"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 295.424
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 207.222
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1091,
+      "markdown_body_line_end": 1091,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Kanyakumari is the southern tip of mainland India, whereas Indira Point on Great Nicobar is the southernmost point of the Union's territory.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 173.822
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 129.154
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1095,
+      "markdown_body_line_end": 1112,
+      "heading": "CLOSING RECALL FLOW - MAINLAND VERSUS FULL TERRITORY AND EXTREME-LOCATION CAUTIONS",
+      "preview": "START / CONCEPT: MAINLAND VERSUS FULL TERRITORY AND EXTREME-LOCATION CAUTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 169
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1117,
+      "markdown_body_line_end": 1128,
+      "heading": "VISUAL FIRST",
+      "preview": "TROPIC OF CANCER: EIGHT-STATE ORDER AND SIGNIFICANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 487.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 376.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1140,
+      "markdown_body_line_end": 1140,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Tropic of Cancer crosses eight states from Gujarat to Mizoram, but it is a solar reference parallel rather than an equal divider or climatic wall.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 287.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 220.824
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1155,
+      "markdown_body_line_end": 1159,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "WEST → EAST",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 743.091
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1165,
+      "markdown_body_line_end": 1165,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The Tropic of Cancer crosses eight states from Gujarat to Mizoram, but it is a solar reference parallel rather than an equal divider or climatic wall.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 709.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 665.024
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1169,
+      "markdown_body_line_end": 1186,
+      "heading": "CLOSING RECALL FLOW - TROPIC OF CANCER: EIGHT-STATE ORDER AND SIGNIFICANCE",
+      "preview": "START / CONCEPT: TROPIC OF CANCER: EIGHT-STATE ORDER AND SIGNIFICANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 179
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 643.024
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 432.024
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1191,
+      "markdown_body_line_end": 1202,
+      "heading": "VISUAL FIRST",
+      "preview": "STANDARD MERIDIAN, MIRZAPUR AND IST DERIVATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 353.024
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 242.024
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1214,
+      "markdown_body_line_end": 1214,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The meridian is near-central, not exactly central: the mainland's longitudinal midpoint is about 82°46'E.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 139.024
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 86.556
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1233,
+      "markdown_body_line_end": 1238,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "82°30'E = 82.5°",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 32
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 602.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 551.891
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1243,
+      "markdown_body_line_end": 1243,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** India's Standard Meridian at 82°30'E passes through Mirzapur in Uttar Pradesh and yields Indian Standard Time of UTC+5:30 by the four-minutes-per-degree rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 532.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 488.024
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1247,
+      "markdown_body_line_end": 1264,
+      "heading": "CLOSING RECALL FLOW - STANDARD MERIDIAN, MIRZAPUR AND IST DERIVATION",
+      "preview": "START / CONCEPT: STANDARD MERIDIAN, MIRZAPUR AND IST DERIVATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 134
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 466.024
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 245.024
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1269,
+      "markdown_body_line_end": 1280,
+      "heading": "VISUAL FIRST",
+      "preview": "EAST–WEST SOLAR-TIME SPREAD AND UNEQUAL DIMENSIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1292,
+      "markdown_body_line_end": 1292,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India's 29°18' longitudinal span produces about 117 minutes of local solar-time difference, even though one civil time is used across the country.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 573.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 506.624
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1307,
+      "markdown_body_line_end": 1311,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "97°25'E − 68°7'E = 29°18'",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 328.824
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 287.824
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1320,
+      "markdown_body_line_end": 1320,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** India's 29°18' longitudinal span produces about 117 minutes of local solar-time difference, even though one civil time is used across the country.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 221.024
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 176.356
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1324,
+      "markdown_body_line_end": 1341,
+      "heading": "CLOSING RECALL FLOW - EAST-WEST SOLAR-TIME SPREAD AND UNEQUAL DIMENSIONS",
+      "preview": "START / CONCEPT: EAST–WEST SOLAR-TIME SPREAD AND UNEQUAL DIMENSIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 175
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1346,
+      "markdown_body_line_end": 1357,
+      "heading": "VISUAL FIRST",
+      "preview": "AREA, LAND BORDER AND THE 2025 COASTLINE REVISION",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 497.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 386.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1369,
+      "markdown_body_line_end": 1369,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The 2025 coastline figure of 11,098.81 km reflects finer GIS and high-water-line measurement of coastal detail and islands, not territorial expansion or automatic change in Coastal Regulation Zone boundaries.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 283.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 216.624
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1384,
+      "markdown_body_line_end": 1384,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "India relational geography",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-01\\g16\\assets\\07_india-relational-geography.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 476.556
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1386,
+      "markdown_body_line_end": 1391,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Measure | Current bounded value | Definition caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Measure",
+          "Current bounded value",
+          "Definition caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 476.556
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 355.954
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1397,
+      "markdown_body_line_end": 1397,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The 2025 coastline figure of 11,098.81 km reflects finer GIS and high-water-line measurement of coastal detail and islands, not territorial expansion or automatic change in Coastal Regulati",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 308.354
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 249.487
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1401,
+      "markdown_body_line_end": 1418,
+      "heading": "CLOSING RECALL FLOW - AREA, LAND BORDER AND THE 2025 COASTLINE REVISION",
+      "preview": "START / CONCEPT: AREA, LAND BORDER AND THE 2025 COASTLINE REVISION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 237
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1423,
+      "markdown_body_line_end": 1434,
+      "heading": "VISUAL FIRST",
+      "preview": "LAND AND MARITIME NEIGHBOURS WITH DISPUTE-SAFE MAPWORK",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 477.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 366.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1446,
+      "markdown_body_line_end": 1446,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India's official land-neighbour list contains seven countries, including Afghanistan under India's claim, while Sri Lanka and Maldives are principal maritime neighbours.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 277.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 210.824
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1464,
+      "markdown_body_line_end": 1471,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Interface | Geographic character",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Interface",
+          "Geographic character"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 750.691
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 598.89
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1476,
+      "markdown_body_line_end": 1476,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** India's official land-neighbour list contains seven countries, including Afghanistan under India's claim, while Sri Lanka and Maldives are principal maritime neighbours.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 565.49
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 520.822
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1480,
+      "markdown_body_line_end": 1497,
+      "heading": "CLOSING RECALL FLOW - LAND AND MARITIME NEIGHBOURS WITH DISPUTE-SAFE MAPWORK",
+      "preview": "START / CONCEPT: LAND AND MARITIME NEIGHBOURS WITH DISPUTE-SAFE MAPWORK",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 198
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 498.822
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 277.822
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1502,
+      "markdown_body_line_end": 1513,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA AS A SUBCONTINENT: SCALE, COHERENCE, DIVERSITY AND PERMEABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1525,
+      "markdown_body_line_end": 1525,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India is a subcontinent because continental scale, Himalayan-oceanic relative enclosure, physiographic coherence and internal diversity combine within a distinctive subdivision of Asia.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 573.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 506.624
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1540,
+      "markdown_body_line_end": 1547,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "WHY \"SUBCONTINENT\"?",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 328.824
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 257.824
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1553,
+      "markdown_body_line_end": 1553,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** India is a subcontinent because continental scale, Himalayan-oceanic relative enclosure, physiographic coherence and internal diversity combine within a distinctive subdivision of Asia.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 224.424
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 165.556
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1557,
+      "markdown_body_line_end": 1574,
+      "heading": "CLOSING RECALL FLOW - INDIA AS A SUBCONTINENT: SCALE, COHERENCE, DIVERSITY AND PERMEABILITY",
+      "preview": "START / CONCEPT: INDIA AS A SUBCONTINENT: SCALE, COHERENCE, DIVERSITY AND PERMEABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 214
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1579,
+      "markdown_body_line_end": 1590,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIAN OCEAN CENTRALITY, SEAS, ROUTES AND CHOKEPOINTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 363.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1602,
+      "markdown_body_line_end": 1602,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India's peninsular projection gives it central relational importance in the northern Indian Ocean, but proximity to routes and chokepoints does not by itself confer control.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 260.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 193.624
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1617,
+      "markdown_body_line_end": 1623,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Relative position | Strategic/economic relevance | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Relative position",
+          "Strategic/economic relevance",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 608.69
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1625,
+      "markdown_body_line_end": 1625,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** India's peninsular projection gives it central relational importance in the northern Indian Ocean, but proximity to routes and chokepoints does not by itself confer control.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 608.69
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 549.822
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1629,
+      "markdown_body_line_end": 1646,
+      "heading": "CLOSING RECALL FLOW - INDIAN OCEAN CENTRALITY, SEAS, ROUTES AND CHOKEPOINTS",
+      "preview": "START / CONCEPT: INDIAN OCEAN CENTRALITY, SEAS, ROUTES AND CHOKEPOINTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 202
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 527.822
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 296.822
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1651,
+      "markdown_body_line_end": 1662,
+      "heading": "VISUAL FIRST",
+      "preview": "COAST AND ISLAND SYSTEM: LAKSHADWEEP AND ANDAMAN–NICOBAR",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1674,
+      "markdown_body_line_end": 1674,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Lakshadweep and Andaman-Nicobar extend India's western and eastern maritime orientation respectively, but strategic value must be balanced with ecology, hazards, freshwater limits and community rights.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 559.091
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 492.424
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1689,
+      "markdown_body_line_end": 1695,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Dimension | Lakshadweep | Andaman and Nicobar Islands",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Lakshadweep",
+          "Andaman and Nicobar Islands"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 314.624
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 161.622
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1700,
+      "markdown_body_line_end": 1700,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Lakshadweep and Andaman-Nicobar extend India's western and eastern maritime orientation respectively, but strategic value must be balanced with ecology, hazards, freshwater limits and commu",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 128.222
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 69.354
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1704,
+      "markdown_body_line_end": 1721,
+      "heading": "CLOSING RECALL FLOW - COAST AND ISLAND SYSTEM: LAKSHADWEEP AND ANDAMAN-NICOBAR",
+      "preview": "START / CONCEPT: COAST AND ISLAND SYSTEM: LAKSHADWEEP AND ANDAMAN–NICOBAR",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 230
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1726,
+      "markdown_body_line_end": 1737,
+      "heading": "VISUAL FIRST",
+      "preview": "HIMALAYA AND OCEAN AS FILTERS AND CONNECTORS",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 487.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 376.291
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1749,
+      "markdown_body_line_end": 1749,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Himalaya and surrounding seas act as selective filters and connectors: they raise movement costs and shape climate while still channeling exchange through passes, valleys and maritime routes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 273.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 206.624
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1769,
+      "markdown_body_line_end": 1770,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**UPSC trap:** “Barrier” is incomplete. **Filter** explains both obstruction and selective passage; **connector** explains routes without denying risk.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 722.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 677.624
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1772,
+      "markdown_body_line_end": 1772,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The Himalaya and surrounding seas act as selective filters and connectors: they raise movement costs and shape climate while still channeling exchange through passes, valleys and maritime r",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 677.624
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 618.756
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1776,
+      "markdown_body_line_end": 1793,
+      "heading": "CLOSING RECALL FLOW - HIMALAYA AND OCEAN AS FILTERS AND CONNECTORS",
+      "preview": "START / CONCEPT: HIMALAYA AND OCEAN AS FILTERS AND CONNECTORS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 224
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 596.756
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 375.756
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1798,
+      "markdown_body_line_end": 1809,
+      "heading": "VISUAL FIRST",
+      "preview": "LATITUDE-LOCATION LINKS TO CLIMATE, BIODIVERSITY, AGRICULTURE AND CULTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1821,
+      "markdown_body_line_end": 1821,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Arabian Sea/Bay of Bengal moisture, Himalayan relief and land–sea contrast help create monsoon seasonality; full jet-stream, Inter-Tropical Convergence Zone, ENSO and IOD mechanics remain later climate owners.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 544.891
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 478.224
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1847,
+      "markdown_body_line_end": 1847,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Latitude and oceanic situation establish broad climatic and ecological conditions, while relief, circulation, technology and human agency determine their regional expression and cultural co",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 123.424
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 64.556
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1851,
+      "markdown_body_line_end": 1868,
+      "heading": "CLOSING RECALL FLOW - LATITUDE-LOCATION LINKS TO CLIMATE, BIODIVERSITY, AGRICULTURE AND CULTURE",
+      "preview": "START / CONCEPT: LATITUDE-LOCATION LINKS TO CLIMATE, BIODIVERSITY, AGRICULTURE AND CULTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 238
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1873,
+      "markdown_body_line_end": 1884,
+      "heading": "VISUAL FIRST",
+      "preview": "TRADE, SECURITY AND RELATIONAL STRATEGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 483.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 372.291
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1896,
+      "markdown_body_line_end": 1896,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Trade, Security And Relational Strategy comprises Trade, Security and Relational Strategy as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 269.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 202.624
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1918,
+      "markdown_body_line_end": 1918,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Strategic location is geographic potential converted into capability only through ports, connectivity, institutions, partnerships and responsible stewardship.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 703.091
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 658.424
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1922,
+      "markdown_body_line_end": 1939,
+      "heading": "CLOSING RECALL FLOW - TRADE, SECURITY AND RELATIONAL STRATEGY",
+      "preview": "START / CONCEPT: TRADE, SECURITY AND RELATIONAL STRATEGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 211
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 636.424
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 415.424
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1944,
+      "markdown_body_line_end": 1955,
+      "heading": "VISUAL FIRST",
+      "preview": "MAP SKILLS, COORDINATE ELIMINATION AND DISPUTED-SPACE SAFETY",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 336.424
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 225.424
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1967,
+      "markdown_body_line_end": 1967,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A safe UPSC map is schematic and not to scale, labels only claim-relevant lines and features, and never improvises disputed boundaries.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 108.224
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 41.556
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1982,
+      "markdown_body_line_end": 1990,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "SAFE 30-SECOND MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 617.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1995,
+      "markdown_body_line_end": 1995,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** A safe UPSC map is schematic and not to scale, labels only claim-relevant lines and features, and never improvises disputed boundaries.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 502.891
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 458.224
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2000,
+      "markdown_body_line_end": 2000,
+      "heading": "COMPLETE ANSWER ARCHITECTURE AND FINAL VERDICT",
+      "preview": "PYQ routes and answer spines",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-01\\g16\\assets\\08_exam-routes-answer-spines.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 417.024
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 109.488
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2012,
+      "markdown_body_line_end": 2012,
+      "heading": "COMPLETE ANSWER ARCHITECTURE AND FINAL VERDICT",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** A high-scoring location answer moves from claim to named spatial evidence, then explains mechanism and significance before adding a qualification and graded verdict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 734.491
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 689.824
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2014,
+      "markdown_body_line_end": 2014,
+      "heading": "COMPLETE ANSWER ARCHITECTURE AND FINAL VERDICT",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** India's locational significance is therefore relational rather than deterministic: physical position creates opportunities and constraints, but institutions and choices shape outcomes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 689.824
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 630.956
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2018,
+      "markdown_body_line_end": 2035,
+      "heading": "CLOSING RECALL FLOW - MAP SKILLS, COORDINATE ELIMINATION AND DISPUTED-SPACE SAFETY",
+      "preview": "START / CONCEPT: MAP SKILLS, COORDINATE ELIMINATION AND DISPUTED-SPACE SAFETY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 208
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 608.956
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 377.956
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2588,
+      "markdown_body_line_end": 2595,
+      "heading": "31. PYQ audit ledger and answer-key status",
+      "preview": "Route | Local official paper | Key/solution status",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Route",
+          "Local official paper",
+          "Key/solution status"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 378.491
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 181.89
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3124,
+      "markdown_body_line_end": 3124,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Planetary geography begins by locating Earth within a nested hierarchy—universe, galaxy, Solar System and planet—before explaining the processes that make Earth geographically distinctive.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 454.424
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3126,
+      "markdown_body_line_end": 3126,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The Big Bang denotes the expansion and cooling of an extremely hot, dense early universe about 13.8 billion years ago, not an explosion from one point into pre-existing empty space.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 454.424
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 395.556
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3128,
+      "markdown_body_line_end": 3128,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** A star's initial mass governs both its fuel-consumption rate and its final remnant, so massive giants burn faster and usually live shorter lives than low-mass dwarfs.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 395.556
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 336.688
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3130,
+      "markdown_body_line_end": 3130,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The Solar System formed through gravitational collapse and flattening of a rotating gas-dust nebula, followed by accretion that differentiated rocky inner planets from giant outer planets.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 336.688
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 277.82
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3132,
+      "markdown_body_line_end": 3132,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Earth is approximated geometrically as an oblate spheroid, while the geoid is the gravity-defined equipotential surface that best approximates global mean sea level.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 277.82
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 233.153
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3134,
+      "markdown_body_line_end": 3134,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Rotation produces day and night, whereas revolution acting with axial tilt changes solar angle and day length to produce the seasonal cycle.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 233.153
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 188.485
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3136,
+      "markdown_body_line_end": 3136,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** A solstice marks maximum hemispheric tilt toward or away from the Sun, while an equinox places the overhead Sun at the Equator and gives near-equal day and night.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 188.485
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 143.817
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3138,
+      "markdown_body_line_end": 3138,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Latitude measures angular distance north or south of the Equator, whereas longitude measures angular distance east or west of the Prime Meridian and provides the basis for time.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 143.817
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 84.95
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3140,
+      "markdown_body_line_end": 3140,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Earth's rotation gives 15° of longitude per hour and 1° per four minutes; east is ahead, and crossing the International Date Line westward adds a calendar day while eastward subtracts one.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3142,
+      "markdown_body_line_end": 3142,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Aurora is the visible result of solar particles guided by the magnetosphere into the polar upper atmosphere, where collisions excite oxygen and nitrogen to emit light.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 744.424
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 699.756
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3144,
+      "markdown_body_line_end": 3144,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The disappearance of S-waves through the outer core and the refraction of P-waves create shadow zones that reveal a liquid outer core surrounding a solid inner core.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 699.756
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 640.888
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3146,
+      "markdown_body_line_end": 3146,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** India's location must be read through four linked ideas—absolute position, physical site, relational situation and territorial extent—because coordinates alone do not explain significance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 640.888
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 582.02
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3148,
+      "markdown_body_line_end": 3148,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Mainland India extends from 8°4'N to 37°6'N and 68°7'E to 97°25'E, combining a nearly 29-degree angular spread with unequal north-south and east-west linear dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 582.02
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 523.153
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3150,
+      "markdown_body_line_end": 3150,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Kanyakumari is the southern tip of mainland India, whereas Indira Point on Great Nicobar is the southernmost point of the Union's territory.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 523.153
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 478.485
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3152,
+      "markdown_body_line_end": 3152,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The Tropic of Cancer crosses eight states from Gujarat to Mizoram, but it is a solar reference parallel rather than an equal divider or climatic wall.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 478.485
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 433.817
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3154,
+      "markdown_body_line_end": 3154,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** India's Standard Meridian at 82°30'E passes through Mirzapur in Uttar Pradesh and yields Indian Standard Time of UTC+5:30 by the four-minutes-per-degree rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 433.817
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 389.15
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3156,
+      "markdown_body_line_end": 3156,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** India's 29°18' longitudinal span produces about 117 minutes of local solar-time difference, even though one civil time is used across the country.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 389.15
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 344.482
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0156",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3158,
+      "markdown_body_line_end": 3158,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The 2025 coastline figure of 11,098.81 km reflects finer GIS and high-water-line measurement of coastal detail and islands, not territorial expansion or automatic change in Coastal Regulati",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 344.482
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 285.614
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0157",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3160,
+      "markdown_body_line_end": 3160,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** India's official land-neighbour list contains seven countries, including Afghanistan under India's claim, while Sri Lanka and Maldives are principal maritime neighbours.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 285.614
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 240.946
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0158",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3162,
+      "markdown_body_line_end": 3162,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** India is a subcontinent because continental scale, Himalayan-oceanic relative enclosure, physiographic coherence and internal diversity combine within a distinctive subdivision of Asia.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 240.946
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 182.079
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0159",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3164,
+      "markdown_body_line_end": 3164,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** India's peninsular projection gives it central relational importance in the northern Indian Ocean, but proximity to routes and chokepoints does not by itself confer control.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 182.079
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 123.211
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0160",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3166,
+      "markdown_body_line_end": 3166,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Lakshadweep and Andaman-Nicobar extend India's western and eastern maritime orientation respectively, but strategic value must be balanced with ecology, hazards, freshwater limits and commu",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 123.211
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 64.343
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0161",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3168,
+      "markdown_body_line_end": 3168,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The Himalaya and surrounding seas act as selective filters and connectors: they raise movement costs and shape climate while still channeling exchange through passes, valleys and maritime r",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0162",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3170,
+      "markdown_body_line_end": 3170,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Latitude and oceanic situation establish broad climatic and ecological conditions, while relief, circulation, technology and human agency determine their regional expression and cultural co",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 744.424
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 685.556
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0163",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3172,
+      "markdown_body_line_end": 3172,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Strategic location is geographic potential converted into capability only through ports, connectivity, institutions, partnerships and responsible stewardship.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 685.556
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 640.888
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0164",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3174,
+      "markdown_body_line_end": 3174,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** A safe UPSC map is schematic and not to scale, labels only claim-relevant lines and features, and never improvises disputed boundaries.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 640.888
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 596.22
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0165",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3176,
+      "markdown_body_line_end": 3176,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** A high-scoring location answer moves from claim to named spatial evidence, then explains mechanism and significance before adding a qualification and graded verdict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 596.22
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 551.553
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0166",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3178,
+      "markdown_body_line_end": 3178,
+      "heading": "58. Twenty-eight exam-ready lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** India's locational significance is therefore relational rather than deterministic: physical position creates opportunities and constraints, but institutions and choices shape outcomes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 551.553
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 492.685
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0167",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3182,
+      "markdown_body_line_end": 3191,
+      "heading": "59. Last-minute PYQ routes and traps",
+      "preview": "Route | One-line recall",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Route",
+          "One-line recall"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 470.685
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 265.283
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0168",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3201,
+      "markdown_body_line_end": 3223,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Earth in the cosmic hierarchy: origin, evidence and planetary setting",
+      "preview": "+---------------- EARTH IN THE COSMIC SYSTEM ----------------+",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 21,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 562.091
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0169",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3227,
+      "markdown_body_line_end": 3250,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Stars, Solar-System bodies and the mass-controlled life cycle",
+      "preview": "NEBULA",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 22,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 540.091
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 304.691
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0170",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3254,
+      "markdown_body_line_end": 3275,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Earth geometry, motions and the seasonal energy sequence",
+      "preview": "+------------------ EARTH AS A MOVING GEOID ------------------+",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 572.291
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0171",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3279,
+      "markdown_body_line_end": 3301,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Coordinates, world time and the International Date Line",
+      "preview": "COORDINATE READING GRID",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 21,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 550.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 325.091
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0172",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3305,
+      "markdown_body_line_end": 3326,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Magnetosphere and Earth interior: two evidence-based cross-sections",
+      "preview": "SOLAR-TERRESTRIAL SECTION          EARTH-INTERIOR SECTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 303.091
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 88.091
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0173",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3330,
+      "markdown_body_line_end": 3349,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: India's coordinate frame, Tropic of Cancer and IST derivation",
+      "preview": "+---------------- INDIA: ABSOLUTE FRAME ----------------+",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 592.691
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0174",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3353,
+      "markdown_body_line_end": 3373,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: India's oceanic situation, neighbours, coasts and island extensions",
+      "preview": "HIMALAYA",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 570.691
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 365.891
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0175",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3377,
+      "markdown_body_line_end": 3399,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Map-answer and Mains spine for India's locational significance",
+      "preview": "QUESTION: Why is India's location significant without being deterministic?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 21,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 343.891
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 118.691
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0176",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3403,
+      "markdown_body_line_end": 3409,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Evidence ladder and confidence control",
+      "preview": "EVIDENCE LADDER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0177",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3413,
+      "markdown_body_line_end": 3422,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Examiner traps and contested boundaries",
+      "preview": "CLOSE DISTINCTIONS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 610.691
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0178",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3426,
+      "markdown_body_line_end": 3435,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Integrated answer spine and qualified conclusion",
+      "preview": "ANSWER SPINE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 588.691
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 496.091
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0179",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3439,
+      "markdown_body_line_end": 3445,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Evidence ladder and confidence control - DEEP-REVIEW SYNTHESIS 2",
+      "preview": "EVIDENCE LADDER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 461.091
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 399.091
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    }
+  ]
+}

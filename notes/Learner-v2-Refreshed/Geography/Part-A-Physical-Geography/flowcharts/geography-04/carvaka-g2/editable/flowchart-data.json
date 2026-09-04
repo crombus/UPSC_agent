@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "topic_key": "geography-04",
+  "generation": 2,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-04\\geography-04_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    18072
+  ],
+  "stages": [
+    {
+      "title": "THE EXOGENIC PROCESS SYSTEM: WEATHERING, EROSION, TRANSPORT, DEPOSITION, MASS WASTING AND STORAGE",
+      "terms": "A slope is a linked system: weathering supplies material, water changes strength, gravity moves it, runoff may entrain it, and deposition stores it until the next threshold is crossed.",
+      "mechanism": "Exogenic geomorphic processes are surface and near-surface processes driven mainly by solar-climatic energy, gravity and moving water, wind, ice or waves.",
+      "consequence": "A slope is a linked system: weathering supplies material, water changes strength, gravity moves it, runoff may entrain it, and deposition stores it until the next threshold is crossed.",
+      "trap": "Weathering is not “erosion without a river”; it is in-situ change.",
+      "answer": "Denudation is a connected source–transfer–storage system, but weathering, erosion and mass wasting must still be distinguished by whether material remains in place, is carried by an agent, or moves mainly under gravity."
+    },
+    {
+      "title": "CONTROLS OF WEATHERING: ROCK, STRUCTURE, CLIMATE, RELIEF, ORGANISMS, TIME AND LAND USE",
+      "terms": "Therefore “humid climate means one uniform weathering product” is unsafe.",
+      "mechanism": "Therefore “humid climate means one uniform weathering product” is unsafe.",
+      "consequence": "Therefore “humid climate means one uniform weathering product” is unsafe.",
+      "trap": "Weathering is controlled not by climate alone but by the interaction of energy and moisture with mineralogy, discontinuities, relief, biota, time and land use.",
+      "answer": "Weathering is controlled not by climate alone but by the interaction of energy and moisture with mineralogy, discontinuities, relief, biota, time and land use."
+    },
+    {
+      "title": "MECHANICAL, CHEMICAL AND BIOLOGICAL WEATHERING",
+      "terms": "MECHANICAL, CHEMICAL AND BIOLOGICAL WEATHERING: Frost action requires water access and repeated freezing; it is a conditional mechanism, not a generic mountain label.",
+      "mechanism": "The diagram emphasises process–product logic rather than a false single-process zoning of India.",
+      "consequence": "Biological activity includes roots, burrowing and organic-acid pathways.",
+      "trap": "The diagram emphasises process–product logic rather than a false single-process zoning of India.",
+      "answer": "Mechanical weathering includes freeze–thaw, thermal expansion, salt crystallisation and unloading/exfoliation."
+    },
+    {
+      "title": "REGOLITH, PEDOGENESIS, SOIL HORIZONS AND BLACK SOIL",
+      "terms": "Regolith is the loose weathered mantle above bedrock; soil is a biologically active, vertically organised body formed when mineral matter, organic inputs, water movement, organisms, relief and time create horizons.",
+      "mechanism": "⚠️ Soil formation is controlled by five interacting factors, none of which is sufficient alone",
+      "consequence": "file in this folder taught soil formation or any soil type, although this file is the routed",
+      "trap": "🔑 Trap: soil is not \"crushed rock\".",
+      "answer": "Pedogenesis begins with weathered parent material but becomes soil formation only when organic activity, translocation and time create an organised profile; black soil illustrates how basaltic parent material and seasonal moisture regimes shape properties."
+    },
+    {
+      "title": "SOIL EROSION: SHEET, RILL, GULLY, RAVINE AND BOUNDED WIND/COASTAL LINKS",
+      "terms": "SOIL EROSION: SHEET, RILL, GULLY, RAVINE AND BOUNDED WIND/COASTAL LINKS: Running water, wind, ice and waves can erode; gravity-driven movement is classified separately as mass movement.",
+      "mechanism": "Soil conservation works by reducing erosive energy, retaining protective cover, improving infiltration and controlling concentrated flow.",
+      "consequence": "Contour bunding/terracing shorten effective slope length; shelterbelts reduce wind velocity; drainage and gully-head work prevent headward erosion.",
+      "trap": "Schematic sequence: not every rill becomes a ravine, and form depends on material, drainage and management.",
+      "answer": "Erosion removes and transports material."
+    },
+    {
+      "title": "MASS-MOVEMENT TAXONOMY: CREEP, SOLIFLUCTION, FALLS, SLIDES, SLUMPS, FLOWS AND AVALANCHES",
+      "terms": "MASS-MOVEMENT TAXONOMY: CREEP, SOLIFLUCTION, FALLS, SLIDES, SLUMPS, FLOWS AND AVALANCHES: The phrase 'rain caused the landslide' is incomplete when rainfall is the immediate trigger but slope geometry, drainage and construction created susceptibility.",
+      "mechanism": "Hazard is the likelihood/intensity of a physical process; risk adds exposed people, assets and vulnerability.",
+      "consequence": "Stability changes when driving stresses exceed resisting strength; water can increase weight and pore-water pressure while reducing effective resistance.",
+      "trap": "A landslide type cannot be assigned remotely from a news headline; field/imagery and material evidence determine classification.",
+      "answer": "Mass movements include falls, slides/slumps, flows and creep."
+    },
+    {
+      "title": "SLOPE STABILITY: SHEAR STRESS, SHEAR STRENGTH, WATER AND TRIGGERS",
+      "terms": "SLOPE STABILITY: SHEAR STRESS, SHEAR STRENGTH, WATER AND TRIGGERS: This separation is essential for both diagnosis and prevention.",
+      "mechanism": "Landslides occur at a threshold where driving stress exceeds resisting strength; water is especially important because it can simultaneously add weight, raise pore pressure and weaken material.",
+      "consequence": "Shear strength depends on cohesion, friction, effective normal stress, roots/support and material structure.",
+      "trap": "Answer-use: Landslides occur at a threshold where driving stress exceeds resisting strength; water is especially important because it can simultaneously add weight, raise pore pressure and weaken material.",
+      "answer": "Landslides occur at a threshold where driving stress exceeds resisting strength; water is especially important because it can simultaneously add weight, raise pore pressure and weaken material."
+    },
+    {
+      "title": "INDIA LANDSLIDE GEOGRAPHY: HIMALAYA, NORTH-EAST, WESTERN GHATS AND NILGIRIS",
+      "terms": "India's landslide-prone terrain includes the Himalaya and North-East, and parts of the Western Ghats/Nilgiris. Regional tendencies derive from a different mix of relief, lithology/structure, weathered material, rainfall, drainage, road cutting and land use; no region is a deterministic single-cause zone.",
+      "mechanism": "Use the comparison to differentiate mechanisms, not to rank regions or imply a fixed boundary.",
+      "consequence": "The GSI landslide-hazard programme and ISRO Landslide Atlas are mapping/inventory resources; they support spatial reasoning and do not predict a specific future failure.",
+      "trap": "Use the comparison to differentiate mechanisms, not to rank regions or imply a fixed boundary.",
+      "answer": "India's landslide-prone terrain includes the Himalaya and North-East, and parts of the Western Ghats/Nilgiris. Regional tendencies derive from a different mix of relief, lithology/structure, weathered material, rainfall, drainage, road cutting and land use; no region is a deterministic single-cause zone."
+    },
+    {
+      "title": "LANDSLIDE INVENTORY, SUSCEPTIBILITY, FORECASTING LIMITS AND MITIGATION",
+      "terms": "GSI is India’s principal geoscientific agency for national landslide inventory, susceptibility/hazard studies, post-event investigation and the National Landslide Forecasting Centre ecosystem.",
+      "mechanism": "Inventory tells where events have been recorded; susceptibility ranks relative terrain propensity; a forecast estimates heightened likelihood for a time window; none is a deterministic date-and-place prediction.",
+      "consequence": "GSI’s June 2026 Chanmari West preliminary assessment updated the North-East inventory and recommended immediate remedial measures.",
+      "trap": "It also noted sparse rain gauges and possible local rainfall variation—an exam-ready reason why regional warnings do not eliminate site uncertainty.",
+      "answer": "India needs a layered landslide strategy—avoid unsafe exposure, control water, stabilise diagnosed slopes, maintain infrastructure, and connect forecasts to last-mile action."
+    },
+    {
+      "title": "SUBSIDENCE VERSUS LANDSLIDE: THE BOUNDED JOSHIMATH FRAME",
+      "terms": "Joshimath is a settlement in a fragile Himalayan setting where ground/structural distress has been monitored and studied. A defensible geography answer treats it as a multi-causal terrain–water–loading problem involving old landslide/debris material, slope/ground conditions, drainage and human modification, with site-specific evidence needed for attribution.",
+      "mechanism": "Old landslide/debris material may be heterogeneous and water-sensitive; it should not be treated as a uniform foundation by assumption.",
+      "consequence": "Explicitly non-single-cause: use this as an answer architecture, not as a definitive diagnosis.",
+      "trap": "Explicitly non-single-cause: use this as an answer architecture, not as a definitive diagnosis.",
+      "answer": "Joshimath is a settlement in a fragile Himalayan setting where ground/structural distress has been monitored and studied. A defensible geography answer treats it as a multi-causal terrain–water–loading problem involving old landslide/debris material, slope/ground conditions, drainage and human modification, with site-specific evidence needed for attribution."
+    },
+    {
+      "title": "GROUNDWATER IN THE HYDROLOGIC CYCLE AND THE WATER BUDGET",
+      "terms": "Groundwater is the subsurface part of the hydrologic cycle.",
+      "mechanism": "Water-table rise or fall reflects a balance through time, not rainfall alone.",
+      "consequence": "Groundwater is a dynamic stock governed by recharge, discharge, pumping, inter-aquifer flow and quality; annual recharge is therefore not a licence to abstract the same quantity everywhere.",
+      "trap": "Water-table rise or fall reflects a balance through time, not rainfall alone.",
+      "answer": "Groundwater is a dynamic stock governed by recharge, discharge, pumping, inter-aquifer flow and quality; annual recharge is therefore not a licence to abstract the same quantity everywhere."
+    },
+    {
+      "title": "POROSITY, PERMEABILITY, INFILTRATION, PERCOLATION AND SUBSURFACE ZONES",
+      "terms": "Infiltration is water entering soil/surface material; percolation is its downward movement through pores/fractures.",
+      "mechanism": "Infiltration is water entering soil/surface material; percolation is its downward movement through pores/fractures.",
+      "consequence": "Recharge adds water to storage; discharge occurs through springs, baseflow, pumping or other outflows.",
+      "trap": "High porosity alone does not guarantee high permeability.",
+      "answer": "Infiltration is water entering soil/surface material; percolation is its downward movement through pores/fractures."
+    },
+    {
+      "title": "AQUIFER TYPES, SPRINGS AND WELLS",
+      "terms": "In an artesian condition, water in a confined aquifer rises in a well to its potentiometric level; it flows at ground surface only where that level is above ground.",
+      "mechanism": "The water-table concept is most directly applied to unconfined systems; confined systems are described by hydraulic/potentiometric head.",
+      "consequence": "In an artesian condition, water in a confined aquifer rises in a well to its potentiometric level; it flows at ground surface only where that level is above ground.",
+      "trap": "Pressure conditions are schematic; a well does not create a new water source.",
+      "answer": "An unconfined aquifer has a water table as its upper boundary."
+    },
+    {
+      "title": "INDIA'S HYDROGEOLOGICAL REGIONS AND ASSESSMENT VOCABULARY",
+      "terms": "INDIA'S HYDROGEOLOGICAL REGIONS AND ASSESSMENT VOCABULARY: Ministry of Jal Shakti’s 3 August 2026 release reports CGWB/NAQUIM mappable-area coverage and dissemination of district-level aquifer-management plans; this is an implementation/status claim, not an outcome guarantee.",
+      "mechanism": "Use one dated assessment fact as evidence, then return to mechanisms and local variation rather than data dumping.",
+      "consequence": "The 6 August 2026 official release attributes the quoted national values to the 2025 assessment; they are dated assessment figures, not a forecast or universal local condition.",
+      "trap": "The 6 August 2026 official release attributes the quoted national values to the 2025 assessment; they are dated assessment figures, not a forecast or universal local condition.",
+      "answer": "India contains diverse alluvial, hard-rock, basaltic, coastal and fractured aquifer settings."
+    },
+    {
+      "title": "GROUNDWATER DEPLETION, AGRICULTURE-ENERGY INCENTIVES, FOOD SECURITY AND SUBSIDENCE",
+      "terms": "UPSC Mains 2024 GS-I Q14 asks how a serious decline in Gangetic-valley groundwater potential may affect India’s food security. The demand is a hydrology-to-food-security chain: recharge–withdrawal imbalance → well/yield/energy consequences → irrigation reliability and crop risk → availability, access and stability.",
+      "mechanism": "Correct: It can transmit through irrigation costs, output risk, farm income and national food security.",
+      "consequence": "Wrong: A water-table decline has only an environmental effect.",
+      "trap": "A causal chain: it does not say every part of the Gangetic plain has the same aquifer condition or crop response.",
+      "answer": "UPSC Mains 2024 GS-I Q14 asks how a serious decline in Gangetic-valley groundwater potential may affect India’s food security. The demand is a hydrology-to-food-security chain: recharge–withdrawal imbalance → well/yield/energy consequences → irrigation reliability and crop risk → availability, access and stability."
+    },
+    {
+      "title": "GROUNDWATER QUALITY: ARSENIC, FLUORIDE, NITRATE, SALINITY AND CONTAMINATION PATHWAYS",
+      "terms": "Wrong: Recharge is always quality-neutral.",
+      "mechanism": "Arsenic, fluoride, nitrate and salinity have different geochemical or anthropogenic pathways and need local testing. A high-quality answer names the mechanism rather than converting a contaminant into an all-India label.",
+      "consequence": "The two axes can interact, but they must be monitored and explained separately.",
+      "trap": "Arsenic, fluoride, nitrate and salinity have different geochemical or anthropogenic pathways and need local testing. A high-quality answer names the mechanism rather than converting a contaminant into an all-India label.",
+      "answer": "Groundwater concerns include quantity and quality."
+    },
+    {
+      "title": "COASTAL AQUIFERS: SEAWATER INTRUSION AND UPCONING",
+      "terms": "Seawater intrusion is landward/upward movement of saline water into a coastal freshwater aquifer.",
+      "mechanism": "The direct PYQ owner is Environment and Ecology Topic 24; this Geography session supplies the hydrogeological mechanism.",
+      "consequence": "The direct PYQ owner is Environment and Ecology Topic 24; this Geography session supplies the hydrogeological mechanism.",
+      "trap": "Schematic subsurface interface: not a coastal flood map and not a site-specific salinity boundary.",
+      "answer": "Seawater intrusion is landward/upward movement of saline water into a coastal freshwater aquifer."
+    },
+    {
+      "title": "RAINWATER HARVESTING, MANAGED AQUIFER RECHARGE AND SUITABILITY LIMITS",
+      "terms": "The 2018 GS-I Q14 asks: ‘The ideal solution of depleting ground water resources in India is water harvesting system.",
+      "mechanism": "Urban effectiveness requires source separation, first-flush/filtration, recharge-zone protection, drainage integration, maintenance and monitoring of both level and quality.",
+      "consequence": "How can it be made effective in urban areas?’ The directive is not a list of structures; it asks how harvesting can work in an urban hydrogeological, water-quality, land-use and maintenance context.",
+      "trap": "How can it be made effective in urban areas?’ The directive is not a list of structures; it asks how harvesting can work in an urban hydrogeological, water-quality, land-use and maintenance context.",
+      "answer": "Rainwater harvesting becomes effective only when capture, water quality, aquifer suitability, maintenance and demand control are treated as one urban water-budget system."
+    },
+    {
+      "title": "WATERSHED, SPRING-SHED AND DEMAND MANAGEMENT",
+      "terms": "WATERSHED, SPRING-SHED AND DEMAND MANAGEMENT: A response is robust only when it prevents the actual pathway, not when it repeats a generic structure list.",
+      "mechanism": "Soil erosion, slope instability and groundwater stress are linked through a catchment: land cover, drainage and infiltration affect runoff, sediment, recharge and slope saturation.",
+      "consequence": "A spring-shed is the hydrogeological recharge area feeding one or more springs; it may cross the visible surface-water divide. Spring revival therefore needs fracture/recharge-zone mapping, source protection and demand management, not merely treatment at the outlet.",
+      "trap": "A response is robust only when it prevents the actual pathway, not when it repeats a generic structure list.",
+      "answer": "Soil erosion, slope instability and groundwater stress are linked through a catchment: land cover, drainage and infiltration affect runoff, sediment, recharge and slope saturation."
+    },
+    {
+      "title": "INSTITUTIONS, PROGRAMMES, HAZARD-RISK LANGUAGE AND ANSWER-WRITING MAP",
+      "terms": "INSTITUTIONS, PROGRAMMES, HAZARD-RISK LANGUAGE AND ANSWER-WRITING MAP: Prelims elimination: test mechanism, scale and conditionality separately; reject absolute claims such as ‘all porous rocks are permeable’ or ‘all saline water is seawater intrusion’.",
+      "mechanism": "A Geography answer becomes analytical when it locates the setting, names the physical mechanism, distinguishes evidence from inference, then matches the response.",
+      "consequence": "Wrong: Writing a generic causes–effects–measures list for every directive.",
+      "trap": "A reusable structure for 10/15/20 markers; maps are schematic and never legal-boundary claims.",
+      "answer": "Good geography answers move from process to spatial pattern, then from consequence to a mechanism-matched and institutionally realistic response."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 2,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7760,
+      "y_end": 9960,
+      "overlap_px": 260,
+      "from_stage": 9,
+      "continues_stage": 11
+    },
+    {
+      "page": 6,
+      "y_start": 9700,
+      "y_end": 11900,
+      "overlap_px": 260,
+      "from_stage": 11,
+      "continues_stage": 14
+    },
+    {
+      "page": 7,
+      "y_start": 11640,
+      "y_end": 13840,
+      "overlap_px": 260,
+      "from_stage": 13,
+      "continues_stage": 16
+    },
+    {
+      "page": 8,
+      "y_start": 13580,
+      "y_end": 15780,
+      "overlap_px": 260,
+      "from_stage": 16,
+      "continues_stage": 18
+    },
+    {
+      "page": 9,
+      "y_start": 15520,
+      "y_end": 17720,
+      "overlap_px": 260,
+      "from_stage": 18,
+      "continues_stage": 20
+    },
+    {
+      "page": 10,
+      "y_start": 15872,
+      "y_end": 18072,
+      "overlap_px": 260,
+      "from_stage": 18,
+      "continues_stage": 20
+    }
+  ]
+}

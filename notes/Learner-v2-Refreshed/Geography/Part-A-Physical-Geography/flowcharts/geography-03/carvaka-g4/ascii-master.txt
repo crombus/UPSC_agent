@@ -1,0 +1,180 @@
+Geography 03 — Vulcanism and Earthquakes / India Seismic Zones — COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+START / CENTRAL QUESTION
+  Plate tectonics explains endogenic belts through interactions among lithospheric plates at convergent, divergent and transform margins.
+        |
+        v
++-- SESSION 01: ENDOGENIC PROCESSES AND THE PLATE-TECTONIC FRAME
+|   DEFINITION / TERMS : Plate tectonics explains endogenic belts through interactions among lithospheric plates at convergent, divergent and transform margins.
+|   MECHANISM / ARGUMENT: Mantle heat and gravity drive plate motion, while collision, subduction, rifting and shearing concentrate crustal deformation at plate margins.
+|   CONSEQUENCE / CONTRAST: Different boundary mechanics produce distinct belts of earthquakes, volcanoes, trenches, ridges and fold mountains.
+|   TRAP / ANSWER-USE: Do not treat every convergent belt as volcanically identical: continent-continent collision can be highly seismic without a continuous subduction-arc volcano chain.
+|   EXAM OPENING: Plate tectonics explains why earthquakes, volcanism and mountain building cluster in narrow belts rather than occurring randomly.
++--
+        |
+        v
++-- SESSION 02: STRESS, STRAIN, ELASTIC REBOUND AND FAULTS
+|   DEFINITION / TERMS : Elastic strain is recoverable until failure, whereas permanent deformation remains.
+|   MECHANISM / ARGUMENT: Fault maps identify where rupture has occurred or may be geologically possible; they do not by themselves provide a date-specific prediction.
+|   CONSEQUENCE / CONTRAST: Elastic strain is recoverable until failure, whereas permanent deformation remains.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: stress is force per unit area.
+|   EXAM OPENING: Elastic rebound converts long-term tectonic loading into short-duration ground shaking, explaining how gradual plate motion produces a sudden disaster trigger.
++--
+        |
+        v
++-- SESSION 03: EARTHQUAKE TERMINOLOGY, CAUSES AND CLASSIFICATIONS
+|   DEFINITION / TERMS : Intermediate and deep earthquakes are strongly associated with descending slabs in subduction zones.
+|   MECHANISM / ARGUMENT: It does not mean every reservoir causes a damaging earthquake.
+|   CONSEQUENCE / CONTRAST: The resulting consequence is that most damaging earthquakes are shallow because the source is closer to the surface.
+|   TRAP / ANSWER-USE: “Human-induced” does not mean humans create tectonic stress from nothing.
+|   EXAM OPENING: Most damaging earthquakes are shallow because the source is closer to the surface, but damage is not fixed by depth alone.
++--
+        |
+        v
++-- SESSION 04: FOCUS, EPICENTRE, SEISMOGRAPHS AND LOCATING AN EVENT
+|   DEFINITION / TERMS : Modern location uses many stations, a velocity model and iterative computation.
+|   MECHANISM / ARGUMENT: The earliest small motion is normally the P arrival, followed by S and then longer-period surface waves.
+|   CONSEQUENCE / CONTRAST: Three-circle triangulation is the learner model, not the full operational method.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: the “focus” is simplified as a point for location.
+|   EXAM OPENING: The “focus” is simplified as a point for location.
++--
+        |
+        v
++-- SESSION 05: P, S, LOVE AND RAYLEIGH WAVES
+|   DEFINITION / TERMS : “Surface waves are most destructive” is a useful rule, not an absolute law.
+|   MECHANISM / ARGUMENT: S waves require shear rigidity and therefore do not pass through a liquid.
+|   CONSEQUENCE / CONTRAST: P waves can pass through both solid and liquid but change velocity and direction at material boundaries.
+|   TRAP / ANSWER-USE: “Surface waves are most destructive” is a useful rule, not an absolute law.
+|   EXAM OPENING: Arrival order is P first, S second and surface waves later; medium control is P through solids and liquids but S through solids only.
++--
+        |
+        v
++-- SESSION 06: REFRACTION, DISCONTINUITIES AND SHADOW ZONES
+|   DEFINITION / TERMS : The reappearance of P phases beyond the shadow zone results from strong refraction through the core.
+|   MECHANISM / ARGUMENT: The reappearance of P phases beyond the shadow zone results from strong refraction through the core.
+|   CONSEQUENCE / CONTRAST: This is not evidence that the whole core is liquid; other wave evidence supports a solid inner core within the liquid outer core.
+|   TRAP / ANSWER-USE: Do not turn a classroom shadow-zone sketch into an exact operational travel-time model.
+|   EXAM OPENING: The larger S-wave shadow is a state-of-matter test, while the P-wave shadow is principally a refraction geometry.
++--
+        |
+        v
++-- SESSION 07: MAGNITUDE, INTENSITY AND LOGARITHMIC ENERGY
+|   DEFINITION / TERMS : Intensity is not a synonym for economic loss because two buildings at the same intensity can perform differently.
+|   MECHANISM / ARGUMENT: Mw converts this physical source measure to a logarithmic magnitude.
+|   CONSEQUENCE / CONTRAST: Intensity is not a synonym for economic loss because two buildings at the same intensity can perform differently.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: “Richter scale” properly refers to local magnitude developed for a particular instrumental and regional...
+|   EXAM OPENING: Magnitude measures the earthquake; intensity measures the earthquake-at-a-place.
++--
+        |
+        v
++-- SESSION 08: GLOBAL EARTHQUAKE DISTRIBUTION AND PLATE MARGINS
+|   DEFINITION / TERMS : Ridge earthquakes are shallow because the lithosphere is thin and hot.
+|   MECHANISM / ARGUMENT: Ridge earthquakes are shallow because the lithosphere is thin and hot.
+|   CONSEQUENCE / CONTRAST: Bhuj, Latur and New Madrid show that plate interiors are relatively—not absolutely—stable.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: the Circum-Pacific belt is the dominant global concentration of subduction-related earthquakes and volcanoes.
+|   EXAM OPENING: Depth distribution is the diagnostic map layer: only a descending slab generates a systematic inclined belt from shallow trench earthquakes to intermediate and deep events.
++--
+        |
+        v
++-- SESSION 09: SECONDARY HAZARDS, SITE RESPONSE AND THE RISK EQUATION
+|   DEFINITION / TERMS : Urban disaster risk is often a network problem: a structurally surviving hospital may still fail functionally if power, water, access or communications collapse.
+|   MECHANISM / ARGUMENT: Urban disaster risk is often a network problem: a structurally surviving hospital may still fail functionally if power, water, access or communications collapse.
+|   CONSEQUENCE / CONTRAST: Liquefaction is not “soil melting.” It is a temporary loss of effective stress and strength in susceptible saturated granular material.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: soft sediment can amplify selected frequencies as waves slow and grow in amplitude.
+|   EXAM OPENING: Hazard is physical possibility; vulnerability is susceptibility; risk is their interaction with exposure; disaster is realised severe disruption beyond coping capacity.
++--
+        |
+        v
++-- SESSION 10: TSUNAMI GENERATION, PROPAGATION AND COASTAL IMPACT
+|   DEFINITION / TERMS : In deep water, a tsunami can pass beneath ships with little notice.
+|   MECHANISM / ARGUMENT: “Move to 10 metres” is not a universal rule; follow official local maps and routes.
+|   CONSEQUENCE / CONTRAST: In deep water, a tsunami can pass beneath ships with little notice.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: strong or long coastal shaking, unusual sea-level change or an official alert requires immediate...
+|   EXAM OPENING: Strike-slip movement with little vertical displacement is less efficient at generating a large basin-wide tsunami than thrust displacement, although landslides triggered by any event may create a local tsunami.
++--
+        |
+        v
++-- SESSION 11: VOLCANO ANATOMY, MAGMA, LAVA, SILICA, GAS AND VISCOSITY
+|   DEFINITION / TERMS : Rhyolitic magma is commonly cooler and more viscous.
+|   MECHANISM / ARGUMENT: Dissolved volatiles exsolve into bubbles; if viscous magma prevents escape, gas pressure can fragment magma into tephra and drive explosive eruptions.
+|   CONSEQUENCE / CONTRAST: Basaltic magma is generally hotter, less silica-rich and less viscous than andesitic or rhyolitic magma.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: water–magma interaction, conduit sealing, eruption rate and external water can change behaviour.
+|   EXAM OPENING: Silica raises viscosity, viscosity impedes degassing, retained gas raises pressure, and pressure-driven fragmentation makes an eruption explosive.
++--
+        |
+        v
++-- SESSION 12: INTRUSIVE AND EXTRUSIVE FORMS; VOLCANIC PRODUCTS
+|   DEFINITION / TERMS : Product classification is also a risk map: ballistic blocks dominate near the vent, ash affects broad downwind areas, pyroclastic currents follow topography, and lahars extend far along drainage lines.
+|   MECHANISM / ARGUMENT: Batholiths are very large discordant plutonic bodies later exposed by uplift and erosion.
+|   CONSEQUENCE / CONTRAST: UPSC Prelims 2024 asked whether pyroclastic debris, ash and dust, nitrogen compounds and sulphur compounds are products of volcanic eruptions.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: it is a flowing mixture of water and volcanic sediment, often channelled down valleys.
+|   EXAM OPENING: Intrusive And Extrusive Forms; Volcanic Products comprises Intrusive, Extrusive Forms and Volcanic Products as its core connected dimensions.
++--
+        |
+        v
++-- SESSION 13: ERUPTION STYLES, VOLCANO TYPES AND ACTIVITY STATUS
+|   DEFINITION / TERMS : A volcano with no historical eruption may still be capable of renewed activity if geological and geophysical evidence shows a live system.
+|   MECHANISM / ARGUMENT: A volcano with no historical eruption may still be capable of renewed activity if geological and geophysical evidence shows a live system.
+|   CONSEQUENCE / CONTRAST: “Active, dormant and extinct” are descriptive status classes, not a compulsory life cycle.
+|   TRAP / ANSWER-USE: Narcondam is volcanic but should not be substituted for Barren Island in the 2018 PYQ.
+|   EXAM OPENING: Active status concerns eruptive capability; shield/composite concerns form; Hawaiian/Plinian concerns behaviour—UPSC can mix these axes in close options.
++--
+        |
+        v
++-- SESSION 14: PLATE-SETTING VOLCANISM, RING OF FIRE AND MID-OCEAN RIDGES
+|   DEFINITION / TERMS : The Ring of Fire includes trenches, island arcs, continental arcs, transform segments, earthquakes from shallow to deep, explosive volcanoes and tsunami-generating megathrusts around much of the Pacific margin.
+|   MECHANISM / ARGUMENT: The Ring of Fire includes trenches, island arcs, continental arcs, transform segments, earthquakes from shallow to deep, explosive volcanoes and tsunami-generating megathrusts around much of the Pacific margin.
+|   CONSEQUENCE / CONTRAST: The Mediterranean–Himalayan belt is not one uniform volcanic arc.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: continental rifts may begin with normal faulting and basaltic volcanism.
+|   EXAM OPENING: The Ring of Fire is a linked trench–earthquake–arc system, not merely a ring-shaped list of volcanoes.
++--
+        |
+        v
++-- SESSION 15: MANTLE PLUMES, HOT SPOTS AND FLOOD BASALTS
+|   DEFINITION / TERMS : Flood basalts erupt mainly from fissures and build plateaux through repeated fluid flows.
+|   MECHANISM / ARGUMENT: Flood basalts erupt mainly from fissures and build plateaux through repeated fluid flows.
+|   CONSEQUENCE / CONTRAST: Hot spots can supply a reference frame for plate direction and relative rate independent of ridge magnetic stripes, though plume motion and mantle flow complicate a perfectly fixed frame.
+|   TRAP / ANSWER-USE: The deep-plume hypothesis is influential but not the only explanation of intraplate volcanism; lithospheric extension, edge-driven convection and shallow mantle heterogeneity may also contribute.
+|   EXAM OPENING: Deccan volcanism is associated in standard plume interpretation with the Réunion hot-spot system and the Indian Plate's passage, while the Hawaiian chain illustrates a long-lived oceanic hot spot.
++--
+        |
+        v
++-- SESSION 16: CONSTRUCTIVE, DESTRUCTIVE, CLIMATIC AND ENVIRONMENTAL EFFECTS
+|   DEFINITION / TERMS : Technically, Constructive, Destructive, Climatic And Environmental Effects is analysed by relating Constructive to Destructive, then testing the relationship through Climatic and Environmental Effects.
+|   MECHANISM / ARGUMENT: Short-lived cooling after a major explosive eruption is principally associated with stratospheric sulphate aerosols, not with ash remaining aloft indefinitely.
+|   CONSEQUENCE / CONTRAST: Ash can eventually contribute nutrients, but fresh ash may initially smother crops, contaminate water and damage machinery.
+|   TRAP / ANSWER-USE: Volcanic landscapes support tourism, geothermal power and mineral resources, but these benefits may also increase settlement and exposure.
+|   EXAM OPENING: The climatic effect depends on what reaches the stratosphere, while the regional effect depends on where ash, lava, pyroclastic currents and lahars travel.
++--
+        |
+        v
++-- SESSION 17: INDIA'S TECTONIC FRAMEWORK AND REGIONAL SEISMIC RISK
+|   DEFINITION / TERMS : The 2001 Bhuj earthquake demonstrates severe intraplate risk in Kachchh and the role of non-engineered construction and liquefaction.
+|   MECHANISM / ARGUMENT: The 2001 Bhuj earthquake demonstrates severe intraplate risk in Kachchh and the role of non-engineered construction and liquefaction.
+|   CONSEQUENCE / CONTRAST: The Peninsular shield is relatively stable, not aseismic.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: latur and Koyna are essential close-option corrections.
+|   EXAM OPENING: India's earthquake geography must connect tectonic source, geomorphic site and settlement vulnerability; a zone label alone cannot explain loss.
++--
+        |
+        v
++-- SESSION 18: INDIA SEISMIC ZONATION, MICROZONATION AND CLASSIFICATION CAUTION
+|   DEFINITION / TERMS : Microzonation must feed building regulation, land use, lifeline siting and retrofit priorities.
+|   MECHANISM / ARGUMENT: Because the corresponding adopted BIS standard/map could not be independently verified on the public BIS portal at the package cutoff, this package does not silently replace the code baseline with Zone VI.
+|   CONSEQUENCE / CONTRAST: Microzonation must feed building regulation, land use, lifeline siting and retrofit priorities.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: the familiar BIS macrozonation uses Zones II, III, IV and V.
+|   EXAM OPENING: NCS defines seismic hazard microzonation as classification into zones of relatively similar exposure to earthquake effects and describes it as a GIS-based, site-specific planning tool.
++--
+        |
+        v
++-- SESSION 19: INSTITUTIONS, RESILIENT CONSTRUCTION, EARLY WARNING LIMITS AND PREPAREDNESS
+|   DEFINITION / TERMS : Technically, Institutions, Resilient Construction, Early Warning Limits And Preparedness is analysed by relating Institutions to Resilient Construction, then testing the relationship through Early Warning Limits and Preparedness.
+|   MECHANISM / ARGUMENT: It is not prediction; warning time is short and near-source blind zones are unavoidable.
+|   CONSEQUENCE / CONTRAST: The implementation gap is often the decisive risk multiplier: a technically sound code that is not adopted, supervised or enforced does not create a safe building.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: retrofitting may add confinement, bracing, shear walls, jacketing, improved connections or foundation measures depending...
+|   EXAM OPENING: Institutions, Resilient Construction, Early Warning Limits And Preparedness comprises Institutions, Resilient Construction and Early Warning Limits as its core connected dimensions.
++--
+        |
+        v
+ANSWER-WRITING SPINE
+definition -> exact terms -> mechanism/evidence -> consequence/contrast
+-> objection/trap -> qualified answer-use

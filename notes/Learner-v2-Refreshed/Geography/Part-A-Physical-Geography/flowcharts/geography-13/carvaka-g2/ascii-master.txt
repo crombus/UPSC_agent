@@ -1,0 +1,71 @@
+ASCII MASTER FLOW — PANEL 1/12: Weather causation chain
+INSOLATION -> surface and atmospheric heating
+TEMPERATURE GRADIENT -> pressure gradient
+WIND -> moisture transport and convergence
+LIFT + SATURATION -> cloud and precipitation
+
+ASCII MASTER FLOW — PANEL 2/12: Heat-budget ledger
+SUN -> incoming shortwave
+SURFACE -> reflected + absorbed energy
+EARTH -> longwave + sensible + latent heat
+BALANCE -> temperature and circulation response
+
+ASCII MASTER FLOW — PANEL 3/12: Stability profiles
+NORMAL TENDENCY -> temperature falls upward
+INVERSION -> temperature rises through layer
+STABLE LAYER -> vertical mixing suppressed
+SURFACE INVERSION -> fog and pollution trapping
+
+ASCII MASTER FLOW — PANEL 4/12: Wind-force triangle
+PRESSURE GRADIENT -> starts acceleration
+CORIOLIS -> right north / left south
+FRICTION -> slows and crosses isobars
+ALOFT -> near-geostrophic parallel flow
+
+ASCII MASTER FLOW — PANEL 5/12: Planetary circulation rail
+EQUATORIAL LOW -> convergence and ascent
+SUBTROPICAL HIGH -> descent and trades
+SUBPOLAR LOW -> westerly-polar interaction
+POLAR HIGH -> cold outflow; belts migrate
+
+ASCII MASTER FLOW — PANEL 6/12: Humidity-to-cloud chain
+MOISTURE CONTENT + TEMPERATURE -> relative humidity
+COOLING TO SATURATION -> dew point reached
+NUCLEI + LIFT -> droplets or ice crystals
+GROWTH + FALL SPEED -> precipitation
+
+ASCII MASTER FLOW — PANEL 7/12: Rainfall comparison
+CONVECTIONAL -> buoyant thermal ascent
+OROGRAPHIC -> forced relief ascent
+FRONTAL / CYCLONIC -> convergent dynamic ascent
+REAL EVENT -> mechanisms may combine
+
+ASCII MASTER FLOW — PANEL 8/12: Troposphere section
+SURFACE -> moisture, friction and heating
+MID LEVELS -> clouds, troughs and stability
+UPPER TROPOSPHERE -> jets and divergence
+TROPICS DEEPER / POLES SHALLOWER
+
+ASCII MASTER FLOW — PANEL 9/12: Jet-stream engine
+HORIZONTAL TEMPERATURE GRADIENT
+HEIGHT / PRESSURE GRADIENT ALOFT
+CORIOLIS BALANCE -> strong near-zonal wind
+ROSSBY WAVES -> ridges, troughs and steering
+
+ASCII MASTER FLOW — PANEL 10/12: India seasonal jets
+WINTER -> STWJ south of Himalaya sector
+STWJ -> steers western disturbances east
+SUMMER -> tropical easterly jet develops
+RULE -> jets are parts of wider circulation
+
+ASCII MASTER FLOW — PANEL 11/12: Western-disturbance chain
+UPPER TROUGH / LOW -> eastward westerly motion
+MOISTURE + DYNAMICAL LIFT -> cloud and rain/snow
+HIMALAYA + PLAINS -> terrain-specific impacts
+OUTCOME -> beneficial or damaging by timing/intensity
+
+ASCII MASTER FLOW — PANEL 12/12: Forecast evidence ladder
+RADIOSONDE / PILOT BALLOON -> upper-air state
+SATELLITE + RADAR -> cloud and precipitation
+NWP ENSEMBLE -> scenarios and uncertainty
+WARNING -> action; later observations verify outcome

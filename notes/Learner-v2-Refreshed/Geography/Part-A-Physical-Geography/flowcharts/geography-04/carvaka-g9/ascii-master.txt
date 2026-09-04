@@ -1,0 +1,184 @@
+ASCII MASTER FLOW — PANEL 1/8: Exogenic source-transfer-storage system
++-------------- EXOGENIC LANDSCAPE SYSTEM --------------+
+| CENTRAL QUESTION: How is rock converted into landform? |
++---------------------------------------------------------+
+                         |
+                ROCK EXPOSED AT SURFACE
+                         |
+                 weathering in place
+                         |
+            regolith and loose material supplied
+              /                         \
+ gravity-driven transfer          agent-driven transfer
+ mass wasting downslope           water, wind, ice, waves
+              \                         /
+                 erosion + transport
+                         |
+                     deposition
+                         |
+                 temporary storage
+                         |
+                    remobilisation
+
+Denudation is collective lowering; weathering, erosion and mass wasting
+are linked but distinct processes.
+
+ASCII MASTER FLOW — PANEL 2/8: Weathering taxonomy, controls, regolith and soil formation
+                       WEATHERING
+              +------------+------------+
+              |            |            |
+          MECHANICAL     CHEMICAL     BIOLOGICAL
+          thermal        solution     roots/burrows
+          unloading      carbonation  organic acids
+          frost          hydration    human exposure
+          salt           hydrolysis
+          wet-dry        oxidation
+              \            |            /
+               +------ REGOLITH -------+
+                         |
+ organic inputs + organisms + translocation + time
+                         |
+                       SOIL
+                 O -> A/E -> B -> C -> R
+                 removal    gain     parent rock
+
+CONTROLS CONVERGE: mineralogy + joints/bedding + climate + relief
+                   + drainage + organisms + time + land use
+
+Black soil link: Deccan basalt parent, shrink-swell clay, deep dry cracks;
+parent material does not alone determine every soil property.
+
+ASCII MASTER FLOW — PANEL 3/8: Soil erosion sequence and watershed control logic
+RAINDROP IMPACT + BARE SOIL + RUNOFF CONCENTRATION
+                         |
+                 diffuse sheet removal
+                         |
+                  small rill channels
+                         |
+                 entrenched gullies
+                         |
+             ravine landscape: Chambal cue
+
+WATERSHED RESPONSE
+cover soil -> slow runoff -> shorten slope length -> contour/terrace
+-> protect drainage -> treat gully head -> rehabilitate catchment
+
+WIND BRANCH
+surface creep -> saltation -> suspension
+
+COASTAL BRANCH
+wave erosion belongs to the coastal-process system; use only when asked.
+
+A check dam alone cannot replace upstream cover, drainage and maintenance.
+
+ASCII MASTER FLOW — PANEL 4/8: Mass-movement taxonomy and slope-stability mechanism
+                     MASS MOVEMENT
+       +------------------+------------------+
+       |                  |                  |
+     SLOW               SLIDE/FALL          FLOW/AVALANCHE
+ creep, solifluction    rockfall            debris flow
+                       translational slide  earth or mud flow
+                       rotational slump     rock/debris avalanche
+                                            snow avalanche
+
+SLOPE BALANCE
+resisting strength = cohesion + friction + structural support
+                         versus
+driving stress = gravity component + loading + toe loss
+                         |
+rain infiltration -> added weight + pore pressure -> lower effective strength
+road or river cut -> steepening / undercutting -> support loss
+quake / quarry / leakage / drainage change -> trigger or amplification
+                         |
+                 FAILURE WHEN DRIVE > RESISTANCE
+
+Material, movement and water define the event; speed alone does not.
+
+ASCII MASTER FLOW — PANEL 5/8: India landslide geography, risk production and mitigation stack
+INDIA LANDSLIDE GEOGRAPHY
+Himalaya / NE : young relief + fractures + incision + rain + seismicity
+Western Ghats : escarpment + deep weathering + orographic rain + cuts
+Nilgiris      : weathered slopes + roads + settlements + drainage change
+                         |
+PREDISPOSITION -> TRIGGER -> MOVEMENT -> EXPOSURE -> LOSS
+ geology/slope    rain/quake   slide/flow   road/town    disaster
+                         |
+GSI LADDER
+inventory -> susceptibility/hazard study -> post-event diagnosis
+-> monitoring / NLFC support -> decision communication
+                         |
+MITIGATION STACK
+avoid unsafe siting -> manage drainage -> protect toe
+-> stabilise slope -> bioengineer -> control spoil/quarrying
+-> maintain works -> warn/close routes -> evacuate and prepare
+
+Inventory maps past events; susceptibility maps relative likelihood;
+neither is a deterministic event prediction.
+Joshimath is a multi-causal subsidence case, not a synonym for landslide.
+
+ASCII MASTER FLOW — PANEL 6/8: Groundwater architecture from recharge to wells
+rain -> infiltration -> soil moisture -> percolation -> recharge
+
+GROUND SURFACE      recharge area                 spring at slope
+-------------------------v------------------------------->
+ZONE OF AERATION       perched water on local aquitard
+-------------------- capillary fringe -------------------
+WATER TABLE       UNCONFINED AQUIFER        pumping well
+~~~~~~~~~~~~~~~~~~~~~~~\________________ cone of depression
+AQUITARD          slow transmission
+---------------------------------------------------------
+CONFINED AQUIFER   pressure; water rises to potentiometric level
+=========================================================
+AQUICLUDE          practically no transmission
+
+porosity = fraction of voids | permeability = connected flow capacity
+aquifer stores and transmits | aquitard transmits slowly
+artesian water rises under pressure; it flows only if head exceeds ground
+
+Budget: change in storage = recharge + inflow - discharge - pumping - outflow.
+
+ASCII MASTER FLOW — PANEL 7/8: India groundwater depletion, quality and subsidence geography
++----------------+----------------------+-------------------------+
+| REGION         | AQUIFER FORM         | MAJOR PRESSURE          |
++----------------+----------------------+-------------------------+
+| Indo-Gangetic  | layered alluvium     | depletion, As, nitrate  |
+| Peninsular     | weathered fractures  | discontinuous storage   |
+| Deccan basalt  | contacts + fractures | uneven well yield       |
+| Arid hard rock | limited recharge     | fluoride, salinity      |
+| Coastal belt   | fresh-saline wedge   | intrusion and upconing  |
++----------------+----------------------+-------------------------+
+
+crop-water demand + cheap energy + private wells + urban growth
++ weak aquifer regulation + limited recharge
+                         |
+falling head -> lower yield -> higher lift cost -> unequal access
+                         |
+compressible sediment: pore-pressure loss -> compaction -> subsidence
+
+Quality paths differ: arsenic redox | fluoride rock-water interaction
+nitrate sewage/fertiliser | salinity coastal or inland
+Quantity and quality require separate evidence, though each limits usable water.
+
+ASCII MASTER FLOW — PANEL 8/8: Recharge, demand governance and integrated Mains answer spine
+GROUNDWATER SECURITY REQUIRES TWO CONVERGING ARMS
+
+SUPPLY / RECHARGE                    DEMAND / GOVERNANCE
+roof and runoff capture              crop-water alignment
+managed aquifer recharge             efficient irrigation
+watershed treatment                  well registration/metering
+spring-shed restoration              conjunctive use and reuse
+quality-safe source water            community water budgets
+maintenance and monitoring           enforceable state/local rules
+              \                         /
+               +---- AQUIFER PLAN ----+
+                         |
+CGWB assessment + NAQUIM mapping + state regulation
++ Atal Bhujal learning + local institutions + public data
+                         |
+ANSWER SPINE
+1 define stock-flow-quality system | 2 draw aquifer or India map
+3 diagnose regional mechanism       | 4 use dated evidence carefully
+5 match intervention to cause       | 6 qualify limits and equity
+
+Recharge structures are inputs, not proof of water-table recovery.
+Desalination supplies water but does not restore freshwater aquifer head.

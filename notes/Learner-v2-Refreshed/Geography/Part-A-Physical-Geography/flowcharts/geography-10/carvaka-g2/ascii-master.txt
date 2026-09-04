@@ -1,0 +1,71 @@
+ASCII MASTER FLOW — PANEL 1/12: Coastal-system balance
+WAVES + TIDES + CURRENTS -> marine energy
+RIVERS + CLIFFS + OFFSHORE -> sediment supply
+SEA LEVEL + LAND MOTION -> accommodation space
+HUMAN WORKS -> redistribute erosion and accretion
+
+ASCII MASTER FLOW — PANEL 2/12: Refraction map
+DEEP WATER -> wave fronts travel faster
+SHALLOW HEADLAND -> fronts slow and converge
+BAY -> fronts diverge and energy disperses
+RESULT -> erosion focus / depositional shelter
+
+ASCII MASTER FLOW — PANEL 3/12: Erosional sequence
+JOINT / FAULT -> hydraulic action + abrasion
+CAVE -> widening and roof attack
+ARCH -> roof collapse -> STACK
+STACK -> undercutting -> STUMP
+
+ASCII MASTER FLOW — PANEL 4/12: Cliff retreat section
+WAVE NOTCH -> basal undercutting
+OVERHANG -> instability and collapse
+DEBRIS REMOVAL -> renewed attack
+RETREAT -> widening wave-cut platform
+
+ASCII MASTER FLOW — PANEL 5/12: Depositional discriminator
+SPIT -> one end attached
+BAR -> crosses bay or mouth
+LAGOON -> water enclosed behind bar
+TOMBOLO -> joins island to land
+
+ASCII MASTER FLOW — PANEL 6/12: Relative sea-level fork
+LAND RISE / SEA FALL -> emergence
+RAISED BEACH + TERRACE -> exposed marine forms
+LAND FALL / SEA RISE -> submergence
+RIA = drowned river valley / FJORD = glacial trough
+
+ASCII MASTER FLOW — PANEL 7/12: Storm-surge chain
+CYCLONE WIND + LOW PRESSURE -> water setup
+TRACK + SHELF + BATHYMETRY -> local amplification
+HIGH TIDE + WAVES + RIVER FLOW -> compound level
+EXPOSURE + WEAK EVACUATION -> disaster risk
+
+ASCII MASTER FLOW — PANEL 8/12: India coast contrast
+EAST -> broader plains + large deltas
+WEST -> narrower plain + many estuaries
+PORT TEST -> depth, shelter, siltation, engineering
+RULE -> tendency, not universal binary
+
+ASCII MASTER FLOW — PANEL 9/12: NCCR evidence boundary
+PERIOD -> 1990-2018 assessment
+ERODING -> about 33.6 percent
+ACCRETING -> about 26.9 percent
+STABLE -> about 39.6 percent; not an annual rate
+
+ASCII MASTER FLOW — PANEL 10/12: CRZ implementation ladder
+NOTIFICATION -> category-specific national rules
+MAPPING -> HTL/LTL and technical inputs
+CZMP -> consultation + approval + local map
+PROJECT -> appraisal, decision, compliance
+
+ASCII MASTER FLOW — PANEL 11/12: Coastal response hierarchy
+AVOID -> keep new exposure out of high-risk space
+RESTORE / ACCOMMODATE -> buffers + resilient use
+RETREAT -> move assets where persistence fails
+PROTECT -> selective works with downdrift audit
+
+ASCII MASTER FLOW — PANEL 12/12: Coast answer spine
+DEFINE + MAP -> process and coastal sector
+DERIVE -> energy, sediment and sea-level chain
+VERIFY -> period, category, plan and status
+VERDICT -> integrated, adaptive and locally mapped

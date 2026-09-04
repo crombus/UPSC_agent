@@ -1,0 +1,2683 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\geography-10_Complete-Learning-Session_2026-09-01.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\geography-10_Complete-Learning-Session_2026-09-01.pdf",
+  "mode": "main",
+  "topic_key": "geography-10",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Coastal Landforms / India Coast and CRZ - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 418.024
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 189.022
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 51,
+      "markdown_body_line_end": 51,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\assets\\geography-10_Teaching-Navigation_2026-09-01.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 511.891
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 204.356
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 65,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Coastal-system budget: A coast records the balance among wave and tidal energy, currents, sediment supply, geology, relative sea-level change and human intervention; shoreline position is an outcome, not a fixed boundary.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 80,
+      "markdown_body_line_end": 84,
+      "heading": "VISUAL FIRST",
+      "preview": "COASTAL SYSTEM AND SEDIMENT BUDGET",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 112,
+      "markdown_body_line_end": 129,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - COASTAL SYSTEM AND SEDIMENT BUDGET",
+      "preview": "START / CONCEPT: FOUNDATION — Coastal system and sediment budget",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 250
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 140,
+      "markdown_body_line_end": 140,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Wave refraction: Wave fronts slow in shallow water and bend toward the shore, concentrating energy on headlands and dispersing it in bays; refraction redistributes rather than creates wave energy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 440.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 374.024
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 155,
+      "markdown_body_line_end": 159,
+      "heading": "VISUAL FIRST",
+      "preview": "WAVE REFRACTION AND ENERGY CONCENTRATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 187,
+      "markdown_body_line_end": 204,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - WAVE REFRACTION AND ENERGY CONCENTRATION",
+      "preview": "START / CONCEPT: FOUNDATION — Wave refraction and energy concentration",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 225
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 449.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 218.091
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 215,
+      "markdown_body_line_end": 215,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Marine erosion Qualified use: Use process vocabulary before landform names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 111.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 59.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 230,
+      "markdown_body_line_end": 234,
+      "heading": "VISUAL FIRST",
+      "preview": "MARINE EROSION AGENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 587.691
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 262,
+      "markdown_body_line_end": 279,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - MARINE EROSION AGENTS",
+      "preview": "START / CONCEPT: FOUNDATION — Marine erosion agents",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 120
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 304.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 93.691
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 290,
+      "markdown_body_line_end": 290,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A wave-cut platform is the residual floor of repeated cliff retreat, not evidence that the cliff remained stationary.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 305,
+      "markdown_body_line_end": 309,
+      "heading": "VISUAL FIRST",
+      "preview": "CLIFF, NOTCH AND WAVE-CUT PLATFORM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 441.424
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 400.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 337,
+      "markdown_body_line_end": 354,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CLIFF, NOTCH AND WAVE-CUT PLATFORM",
+      "preview": "START / CONCEPT: FOUNDATION — Cliff, notch and wave-cut platform",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 146
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 365,
+      "markdown_body_line_end": 365,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cave-arch-stack sequence: Wave attack exploits a headland weakness to form a cave, may open it into an arch, and can isolate a stack and later a stump; the sequence is conditional on structure and erosion.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 380,
+      "markdown_body_line_end": 384,
+      "heading": "VISUAL FIRST",
+      "preview": "CAVE, ARCH, STACK AND STUMP",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 412,
+      "markdown_body_line_end": 429,
+      "heading": "CLOSING RECALL FLOW - CORE - CAVE, ARCH, STACK AND STUMP",
+      "preview": "START / CONCEPT: CORE — Cave, arch, stack and stump",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 234
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 252.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 440,
+      "markdown_body_line_end": 440,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Beach and berm: A beach is a mobile deposit of sand, shingle or other sediment between land and sea; swash, backwash, storm waves and seasonal energy shift its profile and may build berms.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 131.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 64.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 455,
+      "markdown_body_line_end": 462,
+      "heading": "VISUAL FIRST",
+      "preview": "HEADLANDS, BAYS AND BEACHES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 557.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 491,
+      "markdown_body_line_end": 508,
+      "heading": "CLOSING RECALL FLOW - CORE - HEADLANDS, BAYS AND BEACHES",
+      "preview": "START / CONCEPT: CORE — Headlands, bays and beaches",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 217
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 519,
+      "markdown_body_line_end": 519,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Longshore drift and spit Qualified use: Use swash-backwash arrows.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 534,
+      "markdown_body_line_end": 538,
+      "heading": "VISUAL FIRST",
+      "preview": "LONGSHORE DRIFT AND SPITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 566,
+      "markdown_body_line_end": 583,
+      "heading": "CLOSING RECALL FLOW - CORE - LONGSHORE DRIFT AND SPITS",
+      "preview": "START / CONCEPT: CORE — Longshore drift and spits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 236
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 242.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 594,
+      "markdown_body_line_end": 594,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Bar-lagoon-tombolo: A bar extends across a bay or river mouth and may enclose a lagoon, while a tombolo joins an island to the mainland or another island; neither term is a synonym for spit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 135.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 69.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 609,
+      "markdown_body_line_end": 613,
+      "heading": "VISUAL FIRST",
+      "preview": "BARS, LAGOONS AND TOMBOLOS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 587.691
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 641,
+      "markdown_body_line_end": 658,
+      "heading": "CLOSING RECALL FLOW - CORE - BARS, LAGOONS AND TOMBOLOS",
+      "preview": "START / CONCEPT: CORE — Bars, lagoons and tombolos",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 219
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 304.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 83.691
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 669,
+      "markdown_body_line_end": 669,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Emergent and submergent coasts: Relative land-sea movement can expose raised beaches and marine terraces or drown valleys into rias; a fjord is specifically a drowned glacial trough.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 684,
+      "markdown_body_line_end": 691,
+      "heading": "VISUAL FIRST",
+      "preview": "EMERGENT AND SUBMERGENT COASTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 361.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 720,
+      "markdown_body_line_end": 737,
+      "heading": "CLOSING RECALL FLOW - CORE - EMERGENT AND SUBMERGENT COASTS",
+      "preview": "START / CONCEPT: CORE — Emergent and submergent coasts",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 244
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 764.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 523.091
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 748,
+      "markdown_body_line_end": 748,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Storm-surge mechanism: A storm surge is an abnormal water-level rise driven mainly by cyclone winds and low pressure and modified by track, shelf shape, bathymetry and tide; it is not the astronomical tide itself.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 383.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 316.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 763,
+      "markdown_body_line_end": 767,
+      "heading": "VISUAL FIRST",
+      "preview": "STORM SURGE AND COMPOUND WATER LEVEL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 795,
+      "markdown_body_line_end": 812,
+      "heading": "CLOSING RECALL FLOW - CORE - STORM SURGE AND COMPOUND WATER LEVEL",
+      "preview": "START / CONCEPT: CORE — Storm surge and compound water level",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 242
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 449.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 228.091
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 823,
+      "markdown_body_line_end": 823,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India east-west contrast: India's east coast is generally broader and more deltaic, while much of the west coast is narrower with estuaries and submergent features; local exceptions prevent a rigid binary.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 107.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 40.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 838,
+      "markdown_body_line_end": 845,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA EAST-WEST COASTAL MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 543.491
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 874,
+      "markdown_body_line_end": 891,
+      "heading": "CLOSING RECALL FLOW - CORE - INDIA EAST-WEST COASTAL MAP",
+      "preview": "START / CONCEPT: CORE — India east-west coastal map",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 253
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 902,
+      "markdown_body_line_end": 902,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "NCCR shoreline classes: The official NCCR assessment for 1990-2018 classified about 33.6 percent of the analysed mainland coast as eroding, 26.9 percent accreting and 39.6 percent stable; these are period classes, not annual rates.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 411.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 330.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 917,
+      "markdown_body_line_end": 921,
+      "heading": "VISUAL FIRST",
+      "preview": "NCCR SHORELINE EVIDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 949,
+      "markdown_body_line_end": 966,
+      "heading": "CLOSING RECALL FLOW - CORE - NCCR SHORELINE EVIDENCE",
+      "preview": "START / CONCEPT: CORE — NCCR shoreline evidence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 260
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 449.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 228.091
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 977,
+      "markdown_body_line_end": 977,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "CRZ 2019 architecture: The CRZ Notification 2019 uses category-specific regulation implemented through approved Coastal Zone Management Plans; a national notification does not produce one uniform permission line for every site.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 992,
+      "markdown_body_line_end": 999,
+      "heading": "VISUAL FIRST",
+      "preview": "CRZ CATEGORY AND CZMP LOGIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 476.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1028,
+      "markdown_body_line_end": 1045,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - CRZ CATEGORY AND CZMP LOGIC",
+      "preview": "START / CONCEPT: SYNTHESIS — CRZ category and CZMP logic",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 256
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1056,
+      "markdown_body_line_end": 1056,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Institutional decision chain: MoEFCC, NCZMA, coastal zone authorities, authorised mapping agencies and appraisal bodies perform distinct recommendation, mapping, approval and compliance roles; recommendation is not final approval.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 335.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1071,
+      "markdown_body_line_end": 1075,
+      "heading": "VISUAL FIRST",
+      "preview": "INSTITUTIONS AND CLEARANCE BOUNDARIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1103,
+      "markdown_body_line_end": 1120,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - INSTITUTIONS AND CLEARANCE BOUNDARIES",
+      "preview": "START / CONCEPT: SYNTHESIS — Institutions and clearance boundaries",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 259
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 203.891
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1131,
+      "markdown_body_line_end": 1131,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Verified coastline PYQ route - Integrated coastal response Qualified use: Conclude with adaptive coastal-zone management.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1146,
+      "markdown_body_line_end": 1153,
+      "heading": "VISUAL FIRST",
+      "preview": "PYQ ROUTE AND INTEGRATED RESPONSE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 476.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1181,
+      "markdown_body_line_end": 1184,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography*. ✅ = from source book · ⚠️ = inference ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 127.624
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        28,
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1190,
+      "markdown_body_line_end": 1190,
+      "heading": "1. Marine erosion and deposition: the basic logic",
+      "preview": "🔑 Trap: Coastal landforms are not random labels — first identify **erosional vs depositional**, then link the landform to wave energy, sediment supply and relative sea-level/land movement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 644.624
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 599.956
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1194,
+      "markdown_body_line_end": 1202,
+      "heading": "2. Erosional landforms",
+      "preview": "Landform | Formation | Recognition point",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Landform",
+          "Formation",
+          "Recognition point"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 577.956
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 382.554
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1206,
+      "markdown_body_line_end": 1212,
+      "heading": "3. Depositional landforms",
+      "preview": "Landform | Formation | Result",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Landform",
+          "Formation",
+          "Result"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 360.554
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 229.953
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1216,
+      "markdown_body_line_end": 1222,
+      "heading": "4. Coast types: relative sea-level change",
+      "preview": "Coast type | Process | Landforms / examples in theory",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Coast type",
+          "Process",
+          "Landforms / examples in theory"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 207.953
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 66.151
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1233,
+      "markdown_body_line_end": 1233,
+      "heading": "5. Must-Know Facts (Prelims) + traps",
+      "preview": "🔑 Trap: A **fjord** is not a drowned river valley; it is a drowned **glacial trough**. A drowned river valley is a **ria**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 669.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 639.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1281,
+      "markdown_body_line_end": 1284,
+      "heading": "9. Sea-level change and the retreating coast",
+      "preview": "**Why this section exists:** the syllabus names *changes in critical geographical features* and *the effects of such changes*. This file taught coastal landforms and emergent/submergent coast types, but the **mechanism** of contemporary sea",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1288,
+      "markdown_body_line_end": 1293,
+      "heading": "9.1 Why sea level rises, and why it does not rise equally everywhere",
+      "preview": "Component | Mechanism | Note",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Component",
+          "Mechanism",
+          "Note"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 692.224
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 515.622
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1306,
+      "markdown_body_line_end": 1308,
+      "heading": "9.1 Why sea level rises, and why it does not rise equally everywhere",
+      "preview": "🔑 **Trap:** \"sea-level rise\" is not a uniform global bathtub filling. An answer that recognises **relative** sea-level change, and names subsidence as a co-driver, is immediately stronger — and it is the correct explanation for why deltas a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 352.822
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 293.954
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1312,
+      "markdown_body_line_end": 1318,
+      "heading": "9.2 The differentiated consequences",
+      "preview": "Coastal type | Dominant risk | Why",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Coastal type",
+          "Dominant risk",
+          "Why"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 271.954
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 40.553
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1331,
+      "markdown_body_line_end": 1336,
+      "heading": "9.3 Response options and their honest trade-offs",
+      "preview": "Approach | Instrument | Trade-off",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Approach",
+          "Instrument",
+          "Trade-off"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 685.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 474.89
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1338,
+      "markdown_body_line_end": 1340,
+      "heading": "9.3 Response options and their honest trade-offs",
+      "preview": "🔑 **Trap:** hard defences are not automatically the responsible choice. A sea wall protects one stretch while starving and steepening the next — which is why coastal management is now framed at the scale of the **sediment cell**, not the in",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 474.89
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 416.022
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1342,
+      "markdown_body_line_end": 1344,
+      "heading": "9.3 Response options and their honest trade-offs",
+      "preview": "⚠️ **Factual caution:** do not quote a global or Indian sea-level-rise rate, a projection for a given year, or a length of coastline at risk from memory. Where the file already carries a shoreline-change statistic, keep it tied to its state",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 416.022
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 357.154
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1348,
+      "markdown_body_line_end": 1350,
+      "heading": "10. Storm surge: the coastal hazard mechanism",
+      "preview": "**Promoted into Core (13 Aug 2026):** storm surge is a **general** coastal-hazard process, and it is the principal cause of loss in tropical-cyclone landfalls. The Indian coastal-zone regulation, shoreline data and state-level applications ",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 357.154
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 276.287
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1352,
+      "markdown_body_line_end": 1360,
+      "heading": "10. Storm surge: the coastal hazard mechanism",
+      "preview": "Contributing factor | Mechanism | Relative importance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Contributing factor",
+          "Mechanism",
+          "Relative importance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 551.89
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1374,
+      "markdown_body_line_end": 1375,
+      "heading": "10. Storm surge: the coastal hazard mechanism",
+      "preview": "⚠️ **Factual caution:** do not quote surge heights, return periods, casualty figures or a named cyclone's landfall data from memory.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 371.69
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 327.022
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1381,
+      "markdown_body_line_end": 1386,
+      "heading": "11.1 Directive decoding for this topic",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 286.022
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 98.22
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1409,
+      "markdown_body_line_end": 1413,
+      "heading": "11.3 Evidence units available in this file",
+      "preview": "**Claim:** coastal defence can create the erosion it is meant to prevent. **Evidence:** structures that interrupt longshore drift accumulate sediment updrift and starve the coast downdrift. **Significance:** it establishes that the correct ",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 551.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 456.424
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1415,
+      "markdown_body_line_end": 1419,
+      "heading": "11.3 Evidence units available in this file",
+      "preview": "**Claim:** the most threatened coasts are threatened by land movement as much as by sea movement. **Evidence:** deltas subside through natural compaction, sediment loading and fluid withdrawal, while simultaneously losing the sediment suppl",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 456.424
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 369.156
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1425,
+      "markdown_body_line_end": 1427,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 369.156
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 288.288
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1433,
+      "markdown_body_line_end": 1435,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 236.688
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 160.787
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1441,
+      "markdown_body_line_end": 1441,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 121.587
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 76.919
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1446,
+      "markdown_body_line_end": 1463,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - PYQ ROUTE AND INTEGRATED RESPONSE",
+      "preview": "START / CONCEPT: SYNTHESIS — PYQ route and integrated response",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 684
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2377,
+      "markdown_body_line_end": 2379,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 228.491
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 147.624
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2385,
+      "markdown_body_line_end": 2387,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 727.39
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2393,
+      "markdown_body_line_end": 2393,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 688.19
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 643.522
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2398,
+      "markdown_body_line_end": 2398,
+      "heading": "➕ Storm Surge (coastal-hazard PYQ gap)",
+      "preview": "✅ Grounded in D.R. Khullar + ⚠️ standard geography. Added to close a UPSC gap.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 643.522
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 591.054
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2405,
+      "markdown_body_line_end": 2410,
+      "heading": "➕ Storm Surge (coastal-hazard PYQ gap)",
+      "preview": "Factor | Surge effect | India link",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Factor",
+          "Surge effect",
+          "India link"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 465.454
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 356.053
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2412,
+      "markdown_body_line_end": 2412,
+      "heading": "➕ Storm Surge (coastal-hazard PYQ gap)",
+      "preview": "🔑 Trap: Storm surge is **not the same as heavy rainfall flooding**; it is abnormal sea-water inundation pushed ashore by a cyclone.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 356.053
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 311.385
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2416,
+      "markdown_body_line_end": 2417,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 311.385
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 244.717
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2423,
+      "markdown_body_line_end": 2425,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 193.117
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 96.216
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2431,
+      "markdown_body_line_end": 2431,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2677,
+      "markdown_body_line_end": 2680,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I & GS-III **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain + verified CA. ✅ = from source book · ⚠️ = inference / standard knowl",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 689.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 630.424
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2686,
+      "markdown_body_line_end": 2688,
+      "heading": "1. India's coastal plains: the contrast",
+      "preview": "🔑 Trap: West and east coasts are not mirror images. The west is generally narrower and richer in estuaries/backwaters; the east is generally broader and deltaic. “Submergent” and “emergent” are useful regional tendencies, not uniform labels",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 546.624
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 487.756
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2692,
+      "markdown_body_line_end": 2699,
+      "heading": "2. West Coast vs East Coast",
+      "preview": "Feature | West Coast | East Coast",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Feature",
+          "West Coast",
+          "East Coast"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 465.756
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 280.354
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2717,
+      "markdown_body_line_end": 2717,
+      "heading": "➕ Storm Surge (coastal-hazard PYQ gap)",
+      "preview": "✅ Grounded in D.R. Khullar + ⚠️ standard geography. Added to close a UPSC gap.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2724,
+      "markdown_body_line_end": 2729,
+      "heading": "➕ Storm Surge (coastal-hazard PYQ gap)",
+      "preview": "Factor | Surge effect | India link",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Factor",
+          "Surge effect",
+          "India link"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 631.224
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 521.822
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2731,
+      "markdown_body_line_end": 2731,
+      "heading": "➕ Storm Surge (coastal-hazard PYQ gap)",
+      "preview": "🔑 Trap: Storm surge is **not the same as heavy rainfall flooding**; it is abnormal sea-water inundation pushed ashore by a cyclone.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 521.822
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 477.154
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2735,
+      "markdown_body_line_end": 2736,
+      "heading": "➕ Blue Carbon (coastal ecology / climate gap)",
+      "preview": "✅ Grounded in adjacent mangrove/coastal-wetland book passages + ⚠️ standard geography. Added to close a UPSC gap. ⚠️ Source note: not in core books as a named concept; book query returned mangroves, salt marshes, estuaries and coastal wetla",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 477.154
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 396.287
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2743,
+      "markdown_body_line_end": 2747,
+      "heading": "➕ Blue Carbon (coastal ecology / climate gap)",
+      "preview": "Ecosystem | Carbon store | Co-benefit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Ecosystem",
+          "Carbon store",
+          "Co-benefit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 270.687
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 182.485
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2749,
+      "markdown_body_line_end": 2749,
+      "heading": "➕ Blue Carbon (coastal ecology / climate gap)",
+      "preview": "🔑 Trap: Blue carbon is not the whole ocean's dissolved carbon; UPSC usually means **coastal vegetated ecosystems** and their sediments.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 182.485
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 137.817
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2806,
+      "markdown_body_line_end": 2807,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 162.091
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 95.424
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2813,
+      "markdown_body_line_end": 2815,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 706.39
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2821,
+      "markdown_body_line_end": 2821,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 667.19
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 622.522
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2830,
+      "markdown_body_line_end": 2839,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Coastal-system balance",
+      "preview": "WAVES + TIDES + CURRENTS -> marine energy",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 542.522
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 449.922
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2843,
+      "markdown_body_line_end": 2848,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Refraction map",
+      "preview": "DEEP WATER -> wave fronts travel faster",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 427.922
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 376.122
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2852,
+      "markdown_body_line_end": 2857,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Erosional sequence",
+      "preview": "JOINT / FAULT -> hydraulic action + abrasion",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 354.122
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 302.322
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2861,
+      "markdown_body_line_end": 2866,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Cliff retreat section",
+      "preview": "WAVE NOTCH -> basal undercutting",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2870,
+      "markdown_body_line_end": 2875,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Depositional discriminator",
+      "preview": "SPIT -> one end attached",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 35
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2879,
+      "markdown_body_line_end": 2884,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Relative sea-level fork",
+      "preview": "LAND RISE / SEA FALL -> emergence",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2888,
+      "markdown_body_line_end": 2893,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Storm-surge chain",
+      "preview": "CYCLONE WIND + LOW PRESSURE -> water setup",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2897,
+      "markdown_body_line_end": 2902,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: India coast contrast",
+      "preview": "EAST -> broader plains + large deltas",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2906,
+      "markdown_body_line_end": 2911,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: NCCR evidence boundary",
+      "preview": "PERIOD -> 1990-2018 assessment",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2915,
+      "markdown_body_line_end": 2923,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: CRZ implementation ladder",
+      "preview": "NOTIFICATION -> category-specific national rules",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 262.091
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2927,
+      "markdown_body_line_end": 2935,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Coastal response hierarchy",
+      "preview": "AVOID -> keep new exposure out of high-risk space",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2939,
+      "markdown_body_line_end": 2944,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Coast answer spine",
+      "preview": "DEFINE + MAP -> process and coastal sector",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 631.091
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    }
+  ]
+}

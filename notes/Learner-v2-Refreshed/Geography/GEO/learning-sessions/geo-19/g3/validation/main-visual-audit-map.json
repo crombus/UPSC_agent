@@ -1,0 +1,1939 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-19\\g3\\geography-19_Complete-Learning-Session_2026-09-01.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-19\\g3\\geography-19_Complete-Learning-Session_2026-09-01.pdf",
+  "mode": "main",
+  "topic_key": "geography-19",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Mediterranean Climate - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 389.624
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 160.622
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 50,
+      "markdown_body_line_end": 50,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-19\\g3\\assets\\geography-19_Teaching-Navigation_2026-09-01.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 529.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 221.556
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 64,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Cs western-margin location - Five world regions Qualified use: Locate all five classic regions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 79,
+      "markdown_body_line_end": 86,
+      "heading": "VISUAL FIRST",
+      "preview": "CS WESTERN-MARGIN MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 491.024
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 115,
+      "markdown_body_line_end": 132,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CS WESTERN-MARGIN MAP",
+      "preview": "START / CONCEPT: FOUNDATION — Cs western-margin map",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 189
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 143,
+      "markdown_body_line_end": 143,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Summer subtropical high Qualified use: Trace poleward high-pressure migration.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 469.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 417.224
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 158,
+      "markdown_body_line_end": 162,
+      "heading": "VISUAL FIRST",
+      "preview": "SUMMER SUBTROPICAL HIGH",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 190,
+      "markdown_body_line_end": 207,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - SUMMER SUBTROPICAL HIGH",
+      "preview": "START / CONCEPT: FOUNDATION — Summer subtropical high",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 157
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 252.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 218,
+      "markdown_body_line_end": 218,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Winter westerlies: Equatorward migration of the westerly belt and travelling depressions brings onshore frontal or cyclonic rain in winter; the mechanism is seasonal pressure-belt displacement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 145.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 79.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 233,
+      "markdown_body_line_end": 237,
+      "heading": "VISUAL FIRST",
+      "preview": "WINTER WESTERLY RAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 661.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 265,
+      "markdown_body_line_end": 282,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - WINTER WESTERLY RAIN",
+      "preview": "START / CONCEPT: FOUNDATION — Winter westerly rain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 222
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 337.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 116.891
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 293,
+      "markdown_body_line_end": 293,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Summer-dry winter-wet identity: Dry sunny summers and mild wet winters distinguish Mediterranean climate from summer-rain monsoon and humid eastern-margin climates; winter rain is the primary climatic signature.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 308,
+      "markdown_body_line_end": 312,
+      "heading": "VISUAL FIRST",
+      "preview": "SUMMER-DRY WINTER-WET IDENTITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 340,
+      "markdown_body_line_end": 357,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - SUMMER-DRY WINTER-WET IDENTITY",
+      "preview": "START / CONCEPT: FOUNDATION — Summer-dry winter-wet identity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 240
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 368,
+      "markdown_body_line_end": 368,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Local-wind contrast: The Sirocco is a hot dusty wind from the Sahara, while the Mistral is a cold strong wind down the Rhone valley and the Bora is a cold Adriatic wind; local winds are not all hot.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 459.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 393.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 383,
+      "markdown_body_line_end": 387,
+      "heading": "VISUAL FIRST",
+      "preview": "SIROCCO, MISTRAL AND BORA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 415,
+      "markdown_body_line_end": 432,
+      "heading": "CLOSING RECALL FLOW - CORE - SIROCCO, MISTRAL AND BORA",
+      "preview": "START / CONCEPT: CORE — Sirocco, Mistral and Bora",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 227
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 242.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 443,
+      "markdown_body_line_end": 443,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sclerophyll vegetation: Mediterranean vegetation is evergreen or drought-deciduous scrub and open woodland with small hard leathery or waxy leaves, deep roots and thick bark adapted to summer drought and recurrent fire.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 107.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 40.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 458,
+      "markdown_body_line_end": 462,
+      "heading": "VISUAL FIRST",
+      "preview": "SCLEROPHYLL ADAPTATIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 573.491
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 490,
+      "markdown_body_line_end": 507,
+      "heading": "CLOSING RECALL FLOW - CORE - SCLEROPHYLL ADAPTATIONS",
+      "preview": "START / CONCEPT: CORE — Sclerophyll adaptations",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 248
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 290.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 69.491
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 518,
+      "markdown_body_line_end": 518,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Regional scrub names: Maquis belongs to the Mediterranean basin, chaparral to California and mallee to Australia; similar drought form does not make the floras taxonomically identical.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 533,
+      "markdown_body_line_end": 537,
+      "heading": "VISUAL FIRST",
+      "preview": "MAQUIS, CHAPARRAL AND MALLEE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 419.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 565,
+      "markdown_body_line_end": 582,
+      "heading": "CLOSING RECALL FLOW - CORE - MAQUIS, CHAPARRAL AND MALLEE",
+      "preview": "START / CONCEPT: CORE — Maquis, chaparral and mallee",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 213
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 593,
+      "markdown_body_line_end": 593,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Autumn-spring growth: Plant growth is favoured in autumn and spring when moisture and temperature overlap, while peak summer heat coincides with drought and winter can limit growth at cooler sites.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 469.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 403.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 608,
+      "markdown_body_line_end": 612,
+      "heading": "VISUAL FIRST",
+      "preview": "SEASONAL GROWTH RHYTHM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 640,
+      "markdown_body_line_end": 657,
+      "heading": "CLOSING RECALL FLOW - CORE - SEASONAL GROWTH RHYTHM",
+      "preview": "START / CONCEPT: CORE — Seasonal growth rhythm",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 226
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 232.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 668,
+      "markdown_body_line_end": 668,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Orchard and horticulture system: Olives, citrus, figs and other tree crops exploit deep roots and sunshine, while irrigation supports high-value summer fruits and vegetables; water access converts climatic constraint into comparative advant",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 683,
+      "markdown_body_line_end": 687,
+      "heading": "VISUAL FIRST",
+      "preview": "ORCHARDS AND IRRIGATED HORTICULTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 492.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 715,
+      "markdown_body_line_end": 732,
+      "heading": "CLOSING RECALL FLOW - CORE - ORCHARDS AND IRRIGATED HORTICULTURE",
+      "preview": "START / CONCEPT: CORE — Orchards and irrigated horticulture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 273
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 743,
+      "markdown_body_line_end": 743,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Winter cereals and vines: Wheat and barley use cool-season moisture, and viticulture is prominent across Mediterranean-climate regions; historical textbook shares must not be used as current production statistics.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 431.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 364.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 758,
+      "markdown_body_line_end": 762,
+      "heading": "VISUAL FIRST",
+      "preview": "WINTER CEREALS AND VITICULTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 790,
+      "markdown_body_line_end": 807,
+      "heading": "CLOSING RECALL FLOW - CORE - WINTER CEREALS AND VITICULTURE",
+      "preview": "START / CONCEPT: CORE — Winter cereals and viticulture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 242
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 242.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 818,
+      "markdown_body_line_end": 818,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Wildfire mechanism: Wet-season biomass production followed by summer desiccation creates fuel, while heat, low humidity, wind, ignition and land management govern spread; climate type raises risk but does not alone cause each fire.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 833,
+      "markdown_body_line_end": 837,
+      "heading": "VISUAL FIRST",
+      "preview": "WILDFIRE GEOGRAPHY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 865,
+      "markdown_body_line_end": 882,
+      "heading": "CLOSING RECALL FLOW - CORE - WILDFIRE GEOGRAPHY",
+      "preview": "START / CONCEPT: CORE — Wildfire geography",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 260
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 893,
+      "markdown_body_line_end": 893,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India climate boundary: India has no extensive classic Mediterranean Cs region, so the Advanced owner is a horticultural analogue rather than a claim that Kashmir or the Himalaya possess the same winter-rain circulation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 431.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 364.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 908,
+      "markdown_body_line_end": 912,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA ANALOGUE BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 940,
+      "markdown_body_line_end": 957,
+      "heading": "CLOSING RECALL FLOW - CORE - INDIA ANALOGUE BOUNDARY",
+      "preview": "START / CONCEPT: CORE — India analogue boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 249
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 242.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 968,
+      "markdown_body_line_end": 968,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Himalayan orchard analogue: Kashmir, Himachal Pradesh and Uttarakhand support temperate fruit belts including apple, pear, peach, cherry, walnut, almond and apricot, while their climate remains Himalayan and monsoonal-continental.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 983,
+      "markdown_body_line_end": 990,
+      "heading": "VISUAL FIRST",
+      "preview": "HIMALAYAN FRUIT REGIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 462.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1019,
+      "markdown_body_line_end": 1036,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - HIMALAYAN FRUIT REGIONS",
+      "preview": "START / CONCEPT: SYNTHESIS — Himalayan fruit regions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 259
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1047,
+      "markdown_body_line_end": 1047,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Apple chilling requirement: Apple is a temperate fruit whose dormancy and bud break depend on cultivar-specific winter chilling followed by a suitable growing season; one universal chilling-hour threshold should not be asserted.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 378.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 311.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1062,
+      "markdown_body_line_end": 1072,
+      "heading": "VISUAL FIRST",
+      "preview": "CHILLING, PERISHABILITY AND GRAPES",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1102,
+      "markdown_body_line_end": 1119,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - CHILLING, PERISHABILITY AND GRAPES",
+      "preview": "START / CONCEPT: SYNTHESIS — Chilling, perishability and grapes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 257
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1130,
+      "markdown_body_line_end": 1130,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "ICAR low-chill boundary: Official ICAR material on low-chill apple innovation shows cultivar development can expand adaptation, but an award or variety profile does not establish a national shift in climate zones or universal field performa",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 382.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 301.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1145,
+      "markdown_body_line_end": 1152,
+      "heading": "VISUAL FIRST",
+      "preview": "ICAR ADAPTATION AND PYQ BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1180,
+      "markdown_body_line_end": 1183,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography*. ✅ = from source book · ⚠️ = inference ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 352.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 257.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1189,
+      "markdown_body_line_end": 1195,
+      "heading": "1. What & Where (G.C. Leong)",
+      "preview": "Region | ✅ Mediterranean-climate area",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Region",
+          "✅ Mediterranean-climate area"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 188.224
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 57.622
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1197,
+      "markdown_body_line_end": 1197,
+      "heading": "1. What & Where (G.C. Leong)",
+      "preview": "🔑 Trap: Mediterranean climate is the **winter-rain** climate, not a summer-monsoon climate.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1203,
+      "markdown_body_line_end": 1208,
+      "heading": "2. Climatic Mechanism",
+      "preview": "Season | ✅ Dominant control | ✅ Weather",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Season",
+          "✅ Dominant control",
+          "✅ Weather"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 703.224
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 593.822
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1216,
+      "markdown_body_line_end": 1221,
+      "heading": "3. Local Winds",
+      "preview": "Wind | ✅ Character | Region / direction",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Wind",
+          "✅ Character",
+          "Region / direction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 495.822
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 386.42
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1223,
+      "markdown_body_line_end": 1223,
+      "heading": "3. Local Winds",
+      "preview": "🔑 Trap: Sirocco and Mistral are **not both hot**; Sirocco is hot, Mistral is cold.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 386.42
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 355.953
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1232,
+      "markdown_body_line_end": 1239,
+      "heading": "4. Vegetation & Agriculture",
+      "preview": "Component | ✅ Book-grounded fact",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Component",
+          "✅ Book-grounded fact"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 210.353
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 58.551
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1277,
+      "markdown_body_line_end": 1281,
+      "heading": "9.1 Directive decoding",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 311.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 145.09
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1285,
+      "markdown_body_line_end": 1294,
+      "heading": "9.2 The mechanism, compressed",
+      "preview": "SUMMER: the subtropical high shifts poleward and sits over these coasts",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1296,
+      "markdown_body_line_end": 1299,
+      "heading": "9.2 The mechanism, compressed",
+      "preview": "🔑 **Trap:** Mediterranean climate occurs on **western** continental margins in this latitude band because that is where the seasonal alternation between the subtropical high and the westerlies operates. Eastern margins at the same latitude ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 696.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 637.424
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1321,
+      "markdown_body_line_end": 1328,
+      "heading": "9.4 Evidence unit",
+      "preview": "**Claim:** identical climates on four continents produce a convergent agricultural landscape. **Evidence:** the Mediterranean basin, California, central Chile, the Cape region and south-western Australia all specialise in vines, olives or e",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 365.624
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 242.156
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1332,
+      "markdown_body_line_end": 1349,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - ICAR ADAPTATION AND PYQ BOUNDARY",
+      "preview": "START / CONCEPT: SYNTHESIS — ICAR adaptation and PYQ boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 273
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2388,
+      "markdown_body_line_end": 2391,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain + verified CA. ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 721.424
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2398,
+      "markdown_body_line_end": 2404,
+      "heading": "1. India’s Mediterranean Analogue",
+      "preview": "Crop / system | ✅ Indian region | Mediterranean link",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Crop / system",
+          "✅ Indian region",
+          "Mediterranean link"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 651.824
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 521.222
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2406,
+      "markdown_body_line_end": 2406,
+      "heading": "1. India’s Mediterranean Analogue",
+      "preview": "🔑 Trap: Kashmir is not a true Mediterranean climate; it is a **temperate horticultural analogue**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 521.222
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 490.754
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2416,
+      "markdown_body_line_end": 2423,
+      "heading": "2. Apple: Climatic Requirements & Regions",
+      "preview": "Requirement / region | ✅ Book-grounded fact",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Requirement / region",
+          "✅ Book-grounded fact"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 373.554
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 221.753
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2468,
+      "markdown_body_line_end": 2476,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Five-region world map",
+      "preview": "MEDITERRANEAN BASIN -> largest expression",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 326.091
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 243.691
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2480,
+      "markdown_body_line_end": 2485,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Seasonal pressure switch",
+      "preview": "SUMMER -> subtropical high shifts poleward",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2489,
+      "markdown_body_line_end": 2494,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Climate identity firewall",
+      "preview": "MEDITERRANEAN -> summer dry / winter wet",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2498,
+      "markdown_body_line_end": 2503,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Local-wind matrix",
+      "preview": "SIROCCO -> hot, dusty, Sahara origin",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2507,
+      "markdown_body_line_end": 2512,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Sclerophyll design",
+      "preview": "LEAF -> small, hard, waxy or leathery",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 38
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2516,
+      "markdown_body_line_end": 2521,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Regional scrub names",
+      "preview": "MAQUIS -> Mediterranean basin",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2525,
+      "markdown_body_line_end": 2530,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Growth-season calendar",
+      "preview": "AUTUMN -> rain returns after drought",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2534,
+      "markdown_body_line_end": 2539,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Agricultural system",
+      "preview": "WINTER RAIN -> cereals and soil recharge",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 292.691
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2543,
+      "markdown_body_line_end": 2548,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Wildfire chain",
+      "preview": "WET SEASON -> biomass and fine fuel",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2552,
+      "markdown_body_line_end": 2560,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: India analogue map",
+      "preview": "KASHMIR -> temperate fruit valleys",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 631.091
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2564,
+      "markdown_body_line_end": 2572,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Apple viability ladder",
+      "preview": "WINTER CHILL -> cultivar-specific dormancy",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 609.091
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 526.691
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2576,
+      "markdown_body_line_end": 2581,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Mediterranean answer spine",
+      "preview": "LOCATE -> western margins at 30-45 degrees",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 504.691
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 452.891
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    }
+  ]
+}

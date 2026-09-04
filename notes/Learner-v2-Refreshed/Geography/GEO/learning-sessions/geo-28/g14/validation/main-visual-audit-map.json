@@ -1,0 +1,3133 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.pdf",
+  "mode": "main",
+  "topic_key": "geography-28-human-settlements-and-urbanisation",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 28,
+      "markdown_body_line_end": 36,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 432.091
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 169.49
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 59,
+      "markdown_body_line_end": 59,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets\\geography-28_Teaching-Navigation_2026-08-23.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 529.091
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 221.556
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 64,
+      "heading": "ROADMAP: WHAT YOU ARE ABOUT TO LEARN",
+      "preview": "Settlement-system roadmap",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets\\01_settlement-system-roadmap.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 163.156
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        6,
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 76,
+      "markdown_body_line_end": 77,
+      "heading": "ROADMAP: WHAT YOU ARE ABOUT TO LEARN",
+      "preview": "🔑 **Memory hook:** **Ground → Shape → Work → Network.** First ask where a settlement stands, then how it is arranged, what it does and how it connects to other places.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 374.356
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 329.688
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 87,
+      "markdown_body_line_end": 98,
+      "heading": "VISUAL FIRST",
+      "preview": "SETTLEMENT GEOGRAPHY: SITE, SITUATION, FUNCTION AND HIERARCHY",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 110,
+      "markdown_body_line_end": 110,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A good water site may remain small if it is isolated; a modest site may grow rapidly if its situation becomes a major transport junction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 573.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 506.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 123,
+      "markdown_body_line_end": 123,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Site, situation and settlement reading",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets\\02_site-situation-patterns.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 348.024
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 40.488
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 132,
+      "markdown_body_line_end": 137,
+      "heading": "Plain-language concept",
+      "preview": "Question | Core term | Meaning",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Question",
+          "Core term",
+          "Meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 579.49
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 174,
+      "markdown_body_line_end": 191,
+      "heading": "CLOSING RECALL FLOW - SETTLEMENT GEOGRAPHY: SITE, SITUATION, FUNCTION AND HIERARCHY",
+      "preview": "START / CONCEPT: SETTLEMENT GEOGRAPHY: SITE, SITUATION, FUNCTION AND HIERARCHY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 166
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 196,
+      "markdown_body_line_end": 207,
+      "heading": "VISUAL FIRST",
+      "preview": "RURAL SETTLEMENT FORMS: HOW CLOSELY DO PEOPLE LIVE?",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 487.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 376.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 219,
+      "markdown_body_line_end": 219,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Rural form answers “how closely?”; it does not by itself answer “how urban?”.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 301.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 249.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 232,
+      "markdown_body_line_end": 232,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Rural settlement morphology",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets\\03_rural-settlement-morphology.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 240,
+      "markdown_body_line_end": 245,
+      "heading": "Plain-language concept",
+      "preview": "Form | What you would see | Main controls",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Form",
+          "What you would see",
+          "Main controls"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 440.356
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 297.354
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 275,
+      "markdown_body_line_end": 292,
+      "heading": "CLOSING RECALL FLOW - RURAL SETTLEMENT FORMS: HOW CLOSELY DO PEOPLE LIVE?",
+      "preview": "START / CONCEPT: RURAL SETTLEMENT FORMS: HOW CLOSELY DO PEOPLE LIVE?",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 148
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 746.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 545.091
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 297,
+      "markdown_body_line_end": 308,
+      "heading": "VISUAL FIRST",
+      "preview": "SETTLEMENT PATTERNS: WHAT GEOMETRY APPEARS ON THE GROUND?",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 466.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 355.091
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 320,
+      "markdown_body_line_end": 320,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Form measures clustering; pattern shows geometry; function explains economic role.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 252.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 199.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 333,
+      "markdown_body_line_end": 339,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Pattern visual | Shape logic | Common setting",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Pattern visual",
+          "Shape logic",
+          "Common setting"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 666.39
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 377,
+      "markdown_body_line_end": 394,
+      "heading": "CLOSING RECALL FLOW - SETTLEMENT PATTERNS: WHAT GEOMETRY APPEARS ON THE GROUND?",
+      "preview": "START / CONCEPT: SETTLEMENT PATTERNS: WHAT GEOMETRY APPEARS ON THE GROUND?",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 159
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 282.19
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 71.19
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 399,
+      "markdown_body_line_end": 410,
+      "heading": "VISUAL FIRST",
+      "preview": "URBANISATION AND THE RURAL-URBAN CONTINUUM",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 754.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 643.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 422,
+      "markdown_body_line_end": 422,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The rural-urban boundary is therefore a continuum, not a clean wall.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 568.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 516.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 435,
+      "markdown_body_line_end": 435,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Rural-urban continuum",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets\\12_rural-urban-continuum.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 343.424
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 799.89
+        }
+      },
+      "pdf_pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 454,
+      "markdown_body_line_end": 459,
+      "heading": "Plain-language concept",
+      "preview": "Term | Easy meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Term",
+          "Easy meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 610.89
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 501.488
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 494,
+      "markdown_body_line_end": 511,
+      "heading": "CLOSING RECALL FLOW - URBANISATION AND THE RURAL-URBAN CONTINUUM",
+      "preview": "START / CONCEPT: URBANISATION AND THE RURAL-URBAN CONTINUUM",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 264
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 516,
+      "markdown_body_line_end": 527,
+      "heading": "VISUAL FIRST",
+      "preview": "MODEL FIREWALL: MODELS SIMPLIFY; THEY DO NOT PHOTOGRAPH REALITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 487.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 376.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 539,
+      "markdown_body_line_end": 539,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "❌ Wrong: “The city follows Model X.” ✅ Better: “Model X explains this part of the pattern, while history, informality and polycentric growth require qualification.”.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 273.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 206.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 552,
+      "markdown_body_line_end": 552,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Urban-model firewall",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets\\04_urban-models-firewall.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 561,
+      "markdown_body_line_end": 565,
+      "heading": "Plain-language concept",
+      "preview": "Question | Model family | Core idea",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Question",
+          "Model family",
+          "Core idea"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 440.356
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 352.154
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 581,
+      "markdown_body_line_end": 583,
+      "heading": "UPSC trap",
+      "preview": "❌ **Wrong:** “The city follows Model X.” ✅ **Better:** “Model X explains this part of the pattern, while history, informality and polycentric growth require qualification.”",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 232.154
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 165.487
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 591,
+      "markdown_body_line_end": 608,
+      "heading": "CLOSING RECALL FLOW - MODEL FIREWALL: MODELS SIMPLIFY; THEY DO NOT PHOTOGRAPH REALITY",
+      "preview": "START / CONCEPT: MODEL FIREWALL: MODELS SIMPLIFY; THEY DO NOT PHOTOGRAPH REALITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 194
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 613,
+      "markdown_body_line_end": 624,
+      "heading": "VISUAL FIRST",
+      "preview": "CHRISTALLER'S CENTRAL-PLACE THEORY: THRESHOLD, RANGE AND HIERARCHY",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 363.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 636,
+      "markdown_body_line_end": 636,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Never stop at “settlements form a hierarchy.” Explain threshold → range → service order → nested centres, then qualify the geometry.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 260.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 193.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 649,
+      "markdown_body_line_end": 649,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Central-place logic",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets\\10_central-place-logic.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 659,
+      "markdown_body_line_end": 667,
+      "heading": "Plain-language concept",
+      "preview": "Concept | Meaning | What follows",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Concept",
+          "Meaning",
+          "What follows"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 411.956
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 205.354
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 671,
+      "markdown_body_line_end": 675,
+      "heading": "The three organising principles",
+      "preview": "Principle | K value | Easy interpretation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Principle",
+          "K value",
+          "Easy interpretation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 183.354
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 95.153
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 707,
+      "markdown_body_line_end": 707,
+      "heading": "Mini recap",
+      "preview": "🔑 **Threshold keeps a service alive; range limits its reach; together they produce hierarchy.**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 500.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 448.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 711,
+      "markdown_body_line_end": 728,
+      "heading": "CLOSING RECALL FLOW - CHRISTALLER'S CENTRAL-PLACE THEORY: THRESHOLD, RANGE AND HIERARCHY",
+      "preview": "START / CONCEPT: CHRISTALLER'S CENTRAL-PLACE THEORY: THRESHOLD, RANGE AND HIERARCHY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 161
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 413.224
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 202.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 733,
+      "markdown_body_line_end": 744,
+      "heading": "VISUAL FIRST",
+      "preview": "APPLYING CENTRAL-PLACE LOGIC TO INDIA",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 756,
+      "markdown_body_line_end": 756,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not draw a perfect hexagonal map of India.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 573.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 520.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 769,
+      "markdown_body_line_end": 773,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Where it works | Why",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Where it works",
+          "Why"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 348.024
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 237.422
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 775,
+      "markdown_body_line_end": 782,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Where it breaks | Why",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Where it breaks",
+          "Why"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 237.422
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 74.42
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 809,
+      "markdown_body_line_end": 826,
+      "heading": "CLOSING RECALL FLOW - APPLYING CENTRAL-PLACE LOGIC TO INDIA",
+      "preview": "START / CONCEPT: APPLYING CENTRAL-PLACE LOGIC TO INDIA",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 580.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 379.691
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 831,
+      "markdown_body_line_end": 842,
+      "heading": "VISUAL FIRST",
+      "preview": "RANK-SIZE, PRIMATE CITY AND INDIA'S MULTI-METROPOLITAN SYSTEM",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 300.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 189.691
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 854,
+      "markdown_body_line_end": 854,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A primate city is far larger and more dominant than the rank-size expectation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 100.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 48.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 867,
+      "markdown_body_line_end": 867,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Rank-size and primate-city comparison",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets\\11_rank-size-primate-city.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 650.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 343.156
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 910,
+      "markdown_body_line_end": 927,
+      "heading": "CLOSING RECALL FLOW - RANK-SIZE, PRIMATE CITY AND INDIA'S MULTI-METROPOLITAN SYSTEM",
+      "preview": "START / CONCEPT: RANK-SIZE, PRIMATE CITY AND INDIA'S MULTI-METROPOLITAN SYSTEM",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 168
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 658.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 447.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 932,
+      "markdown_body_line_end": 943,
+      "heading": "VISUAL FIRST",
+      "preview": "BURGESS: THE CONCENTRIC-ZONE MODEL",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 387.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 276.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 955,
+      "markdown_body_line_end": 955,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Burgess explains rings well; it explains polycentric and corridor growth poorly.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 201.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 149.224
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 968,
+      "markdown_body_line_end": 968,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Burgess concentric-zone model",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets\\05_burgess-concentric-model.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 738.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 430.956
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1007,
+      "markdown_body_line_end": 1024,
+      "heading": "CLOSING RECALL FLOW - BURGESS: THE CONCENTRIC-ZONE MODEL",
+      "preview": "START / CONCEPT: BURGESS: THE CONCENTRIC-ZONE MODEL",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 177
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1029,
+      "markdown_body_line_end": 1040,
+      "heading": "VISUAL FIRST",
+      "preview": "HOYT: THE SECTOR MODEL",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 516.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 405.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1052,
+      "markdown_body_line_end": 1052,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not call every transport corridor a complete sector model.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 302.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 249.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1065,
+      "markdown_body_line_end": 1065,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Hoyt sector model",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets\\06_hoyt-sector-model.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1096,
+      "markdown_body_line_end": 1113,
+      "heading": "CLOSING RECALL FLOW - HOYT: THE SECTOR MODEL",
+      "preview": "START / CONCEPT: HOYT: THE SECTOR MODEL",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 178
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 230.956
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 786.291
+        }
+      },
+      "pdf_pages": [
+        27,
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1118,
+      "markdown_body_line_end": 1129,
+      "heading": "VISUAL FIRST",
+      "preview": "HARRIS AND ULLMAN: THE MULTIPLE-NUCLEI MODEL",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 707.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 596.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1141,
+      "markdown_body_line_end": 1141,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The model is descriptive rather than strongly predictive: it identifies multiple nodes but does not fully explain when and why each one will arise.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 493.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 426.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1154,
+      "markdown_body_line_end": 1154,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Multiple-nuclei model",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets\\07_multiple-nuclei-model.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 253.824
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        28,
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1191,
+      "markdown_body_line_end": 1208,
+      "heading": "CLOSING RECALL FLOW - HARRIS AND ULLMAN: THE MULTIPLE-NUCLEI MODEL",
+      "preview": "START / CONCEPT: HARRIS AND ULLMAN: THE MULTIPLE-NUCLEI MODEL",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 176
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1213,
+      "markdown_body_line_end": 1224,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA'S URBAN DEFINITIONS: STATISTICAL URBANISATION AND ADMINISTRATIVE URBANISATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 497.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 386.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1236,
+      "markdown_body_line_end": 1236,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The key Indian issue is a mismatch between statistical urbanisation and administrative urbanisation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 283.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 230.824
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1249,
+      "markdown_body_line_end": 1249,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Statutory town, census town and urban agglomeration",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets\\13_statutory-census-UA-firewall.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1256,
+      "markdown_body_line_end": 1262,
+      "heading": "Plain-language concept",
+      "preview": "Category | Core meaning | Governance significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Category",
+          "Core meaning",
+          "Governance significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 459.556
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 261.754
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1294,
+      "markdown_body_line_end": 1311,
+      "heading": "CLOSING RECALL FLOW - INDIA'S URBAN DEFINITIONS: STATISTICAL URBANISATION AND ADMINISTRATIVE URBANISATION",
+      "preview": "START / CONCEPT: INDIA'S URBAN DEFINITIONS: STATISTICAL URBANISATION AND ADMINISTRATIVE URBANISATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 203
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 661.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 430.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1316,
+      "markdown_body_line_end": 1327,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA'S URBAN PROBLEM SET: SPRAWL, HOUSING AND MOBILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 351.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 240.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1339,
+      "markdown_body_line_end": 1339,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Urban sprawl is low-density or discontinuous outward growth beyond the effective reach of the municipal plan.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 151.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 99.024
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1352,
+      "markdown_body_line_end": 1352,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Sprawl typology",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets\\17_land-use-sprawl-typology.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 701.091
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 393.556
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1368,
+      "markdown_body_line_end": 1368,
+      "heading": "Plain-language concept",
+      "preview": "Housing and informality firewall",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets\\18_housing-slum-informality-firewall.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 252.156
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        33,
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1377,
+      "markdown_body_line_end": 1377,
+      "heading": "Plain-language concept",
+      "preview": "Mobility and transit-oriented development",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets\\25_mobility-TOD-system.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 428.956
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 121.42
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1409,
+      "markdown_body_line_end": 1426,
+      "heading": "CLOSING RECALL FLOW - INDIA'S URBAN PROBLEM SET: SPRAWL, HOUSING AND MOBILITY",
+      "preview": "START / CONCEPT: INDIA'S URBAN PROBLEM SET: SPRAWL, HOUSING AND MOBILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 188
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 557.491
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 346.491
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1431,
+      "markdown_body_line_end": 1442,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA'S URBAN PROBLEM SET: FLOODS, HEAT, WATER AND SANITATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1454,
+      "markdown_body_line_end": 1454,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Urban ecology is infrastructure: wetlands store water, vegetation cools and water bodies support drainage, recharge and habitat.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 587.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 520.824
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1467,
+      "markdown_body_line_end": 1467,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Urban-flood resilience chain",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets\\27_urban-flood-resilience.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 362.224
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 54.688
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1478,
+      "markdown_body_line_end": 1479,
+      "heading": "Urban flooding",
+      "preview": "⚠️ **Qualification:** extreme short-duration rainfall can overwhelm any design. Better land use reduces frequency and severity; it cannot eliminate residual risk.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 705.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 660.624
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1481,
+      "markdown_body_line_end": 1481,
+      "heading": "Urban flooding",
+      "preview": "Urban heat-island mechanism",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets\\26_urban-heat-resilience.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 660.624
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 353.088
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1492,
+      "markdown_body_line_end": 1492,
+      "heading": "Urban heat island",
+      "preview": "Water and sanitation service chain",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets\\23_water-sewerage-service-chain.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 269.288
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        37,
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1529,
+      "markdown_body_line_end": 1546,
+      "heading": "CLOSING RECALL FLOW - INDIA'S URBAN PROBLEM SET: FLOODS, HEAT, WATER AND SANITATION",
+      "preview": "START / CONCEPT: INDIA'S URBAN PROBLEM SET: FLOODS, HEAT, WATER AND SANITATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 173
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 596.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1551,
+      "markdown_body_line_end": 1562,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA'S URBAN PROBLEM SET: GOVERNANCE FRAGMENTATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 517.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 406.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1574,
+      "markdown_body_line_end": 1574,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The problem is not only knowledge; it is the mismatch between the functional city and the governed city.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 317.491
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 265.024
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1587,
+      "markdown_body_line_end": 1600,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "FUNCTIONAL CITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1639,
+      "markdown_body_line_end": 1639,
+      "heading": "BASIC ANSWER ARCHITECTURE: TURN KNOWLEDGE INTO MARKS",
+      "preview": "UPSC answer spine",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets\\31_UPSC-answer-spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 259.691
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        40,
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1646,
+      "markdown_body_line_end": 1652,
+      "heading": "Directive decoding",
+      "preview": "If the question says | What it demands | What not to do",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "If the question says",
+          "What it demands",
+          "What not to do"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 459.556
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 272.954
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1695,
+      "markdown_body_line_end": 1695,
+      "heading": "Mini recap",
+      "preview": "🔑 **Every strong answer says what the evidence proves and where the claim stops.**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 461.691
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 409.224
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1699,
+      "markdown_body_line_end": 1716,
+      "heading": "CLOSING RECALL FLOW - INDIA'S URBAN PROBLEM SET: GOVERNANCE FRAGMENTATION",
+      "preview": "START / CONCEPT: INDIA'S URBAN PROBLEM SET: GOVERNANCE FRAGMENTATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 169
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 387.224
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 166.224
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1721,
+      "markdown_body_line_end": 1732,
+      "heading": "VISUAL FIRST",
+      "preview": "BASIC MASTERY RECAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 754.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 643.291
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1744,
+      "markdown_body_line_end": 1744,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Basic verdict: settlement geography moves from the ground under a habitation to the regional network that sustains it.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 540.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 473.624
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1757,
+      "markdown_body_line_end": 1768,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "You should now be able to... | One-line test",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "You should now be able to...",
+          "One-line test"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 300.824
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 64.222
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1776,
+      "markdown_body_line_end": 1793,
+      "heading": "CLOSING RECALL FLOW - BASIC MASTERY RECAP",
+      "preview": "START / CONCEPT: BASIC MASTERY RECAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 262
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 516.891
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2188,
+      "markdown_body_line_end": 2188,
+      "heading": "Practice protocol and provenance",
+      "preview": "Answer-writing spine",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets\\31_UPSC-answer-spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 253.691
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        48,
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2726,
+      "markdown_body_line_end": 2726,
+      "heading": "1. India's official urban baseline: use the right date",
+      "preview": "India urban baseline and system dashboard",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets\\15_india-urban-system-dashboard.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 208.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        66,
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2730,
+      "markdown_body_line_end": 2737,
+      "heading": "1. India's official urban baseline: use the right date",
+      "preview": "Indicator | Verified Census 2011 figure",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Indicator",
+          "Verified Census 2011 figure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 476.556
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 324.754
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2746,
+      "markdown_body_line_end": 2747,
+      "heading": "Optional exam qualification",
+      "preview": "🔑 **Write the noun with the number:** “Census 2011 observed share,” “2025 estimate,” “2050 projection,” “project completion output” or “housing sanction output.”",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 269.354
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 202.687
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2756,
+      "markdown_body_line_end": 2756,
+      "heading": "2. Khullar's three phases of India's urbanisation",
+      "preview": "India's urban transition",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets\\14_india-urban-transition.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 477.756
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2760,
+      "markdown_body_line_end": 2764,
+      "heading": "2. Khullar's three phases of India's urbanisation",
+      "preview": "Phase | Main driver | India-specific significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Phase",
+          "Main driver",
+          "India-specific significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 458.556
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 370.354
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2780,
+      "markdown_body_line_end": 2780,
+      "heading": "3. Hidden urbanisation and peri-urban belts",
+      "preview": "Metropolitanisation and peri-urbanisation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets\\16_metropolitanisation-periurbanisation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 225.354
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        68,
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2784,
+      "markdown_body_line_end": 2789,
+      "heading": "3. Hidden urbanisation and peri-urban belts",
+      "preview": "Category | Why it matters",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Category",
+          "Why it matters"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 476.556
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 367.154
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2808,
+      "markdown_body_line_end": 2808,
+      "heading": "4. Metropolitanisation, slums and uneven urban quality",
+      "preview": "Housing, slums and informality",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets\\18_housing-slum-informality-firewall.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 193.754
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        69,
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2835,
+      "markdown_body_line_end": 2835,
+      "heading": "5. Town planning and mission evidence: dated outputs, not automatic outcomes",
+      "preview": "Urban mission architecture",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets\\28_urban-mission-architecture.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 205.156
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        70,
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2846,
+      "markdown_body_line_end": 2849,
+      "heading": "Smart Cities Mission: preserve both dated snapshots",
+      "preview": "Date/status | Verified point | Safe interpretation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Date/status",
+          "Verified point",
+          "Safe interpretation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 411.956
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 277.754
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2853,
+      "markdown_body_line_end": 2856,
+      "heading": "AMRUT 2.0: preserve reporting vintage",
+      "preview": "Date/status | Verified point | Safe interpretation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Date/status",
+          "Verified point",
+          "Safe interpretation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 255.754
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 132.753
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2864,
+      "markdown_body_line_end": 2870,
+      "heading": "Later v1 current-evidence dashboard, with status labels",
+      "preview": "Item | Date/vintage | Indicator type",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Item",
+          "Date/vintage",
+          "Indicator type"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2898,
+      "markdown_body_line_end": 2898,
+      "heading": "6. The quality-of-urbanisation debate",
+      "preview": "Agglomeration gains and diseconomies",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\assets\\19_agglomeration-economies-diseconomies.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 347.89
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 40.354
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2905,
+      "markdown_body_line_end": 2908,
+      "heading": "Competing claims",
+      "preview": "Claim | What it sees correctly | What it can miss",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Claim",
+          "What it sees correctly",
+          "What it can miss"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 752.891
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 663.49
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2935,
+      "markdown_body_line_end": 2942,
+      "heading": "7. Advanced traps and answer routes",
+      "preview": "Advanced trap | Correct answer route",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Advanced trap",
+          "Correct answer route"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 333.49
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 181.688
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2977,
+      "markdown_body_line_end": 2984,
+      "heading": "CORE BASIC - settlement-reading grid",
+      "preview": "Dimension | Rapid recall",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "Rapid recall"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 480.691
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 328.89
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2986,
+      "markdown_body_line_end": 2986,
+      "heading": "CORE BASIC - settlement-reading grid",
+      "preview": "🔑 **Ground → Shape → Work → Network.**",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 328.89
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 298.422
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2999,
+      "markdown_body_line_end": 3006,
+      "heading": "CORE BASIC - model comparison",
+      "preview": "Model | Mechanism | Best use | Essential qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Model",
+          "Mechanism",
+          "Best use",
+          "Essential qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 627.89
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3030,
+      "markdown_body_line_end": 3037,
+      "heading": "CORE BASIC - problem mechanisms",
+      "preview": "SPRAWL -> longer networks and trips -> cost, congestion and exclusion",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 310.09
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 239.09
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3051,
+      "markdown_body_line_end": 3058,
+      "heading": "OPTIONAL ADVANCED - dated India baseline",
+      "preview": "Census 2011 observed indicator | Value",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Census 2011 observed indicator",
+          "Value"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 633.49
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3080,
+      "markdown_body_line_end": 3088,
+      "heading": "OPTIONAL ADVANCED - debates",
+      "preview": "Debate | Balanced verdict",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Debate",
+          "Balanced verdict"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 336.69
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 152.488
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3103,
+      "markdown_body_line_end": 3131,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Settlement-reading system: ground, form, work and network",
+      "preview": "+---------------- SETTLEMENT GEOGRAPHY ----------------+",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 27,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 476.891
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3135,
+      "markdown_body_line_end": 3156,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Rural settlement forms and the rural-urban continuum",
+      "preview": "RURAL MORPHOLOGY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 454.891
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 239.891
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3160,
+      "markdown_body_line_end": 3180,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Central-place theory: threshold, range, hierarchy and Indian fit",
+      "preview": "CENTRAL PLACE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 582.491
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3184,
+      "markdown_body_line_end": 3203,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Urban-system and morphology models compared",
+      "preview": "+----------------+-----------------------+------------------------+",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 560.491
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 365.891
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3207,
+      "markdown_body_line_end": 3227,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: India's statistical, legal and physical urbanisation",
+      "preview": "INDIA'S URBAN REALITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 343.891
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 139.091
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3231,
+      "markdown_body_line_end": 3252,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Urban problem system: sprawl, housing, mobility, flood and heat",
+      "preview": "URBAN EXPANSION OUTRUNS PLANNING AND SERVICES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 572.291
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3256,
+      "markdown_body_line_end": 3278,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Functional city versus fragmented governance",
+      "preview": "FUNCTIONAL URBAN REGION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 21,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 550.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 325.091
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3282,
+      "markdown_body_line_end": 3306,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Map-answer and Mains spine for Indian urbanisation",
+      "preview": "QUESTION: Is Indian urbanisation productive, inclusive and resilient?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 23,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 541.691
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3310,
+      "markdown_body_line_end": 3316,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Evidence ladder and confidence control",
+      "preview": "EVIDENCE LADDER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 519.691
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 457.691
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3320,
+      "markdown_body_line_end": 3334,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Examiner traps and contested boundaries",
+      "preview": "CLOSE DISTINCTIONS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 435.691
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 292.091
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3338,
+      "markdown_body_line_end": 3352,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Integrated answer spine and qualified conclusion",
+      "preview": "ANSWER SPINE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 643.691
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3356,
+      "markdown_body_line_end": 3362,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Evidence ladder and confidence control - DEEP-REVIEW SYNTHESIS 2",
+      "preview": "EVIDENCE LADDER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 608.691
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 546.691
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    }
+  ]
+}

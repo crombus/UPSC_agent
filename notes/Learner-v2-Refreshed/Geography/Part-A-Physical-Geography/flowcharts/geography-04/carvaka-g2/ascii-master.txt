@@ -1,0 +1,132 @@
+GEOGRAPHY 04 — COMPLETE TOPIC ASCII MASTER FLOW
+
+[1] EXOGENIC START
+    uplift/exposure
+        -> WEATHERING in situ
+        -> REGOLITH / dissolved ions
+        -> gravity movement OR agent entrainment
+        -> transport -> deposition/storage -> possible remobilisation
+    BOUNDARY: denudation = weathering + mass wasting + erosion; terms are not synonyms
+        |
+        v
+[2] WEATHERING CONTROLS
+    rock/mineralogy + joints/bedding + climate + relief/drainage
+    + organisms + time + land use
+        |
+        +-> mechanical: thermal | unloading/exfoliation | frost | salt | wet-dry
+        +-> chemical: solution | carbonation | hydration | hydrolysis | redox
+        +-> biological/anthropogenic: roots | fauna | acids | cutting | irrigation/pollution
+        |
+        v
+[3] REGOLITH -> SOIL
+    mineral mantle + organic matter + organisms + water movement + time
+        -> O | A/E eluviation | B illuviation | C weathered parent | R bedrock
+    BLACK SOIL: fissure-volcanic/Deccan basalt -> shrink-swell clay -> cotton link
+        |
+        v
+[4] EROSION CONCENTRATION
+    splash/overland flow -> sheet -> rill -> gully -> ravine (Chambal)
+    control: cover -> contour/slope length -> drainage -> gully head -> watershed
+    bounded agents: wind creep/saltation/suspension | coastal erosion separate owner
+        |
+        v
+[5] MASS-MOVEMENT FAMILY
+    creep | solifluction | rockfall | translational slide | slump
+    debris/earth/mud flow | rock/debris avalanche | snow avalanche
+        |
+        v
+[6] SLOPE FAILURE THRESHOLD
+    driving shear stress > resisting shear strength
+    predisposition: steepness + weak/weathered material + adverse structure + old debris
+    triggers/amplifiers: rain/saturation + toe erosion + earthquake + cut + load + leakage
+    WATER: extra weight + pore pressure -> lower effective resistance
+        |
+        v
+[7] INDIA LANDSLIDE MAP
+    Himalaya/NE: young relief + fractures + incision + monsoon/seismicity + corridors
+    Western Ghats/Nilgiris: weathered escarpment + orographic rain + cuts/drainage
+    GSI: inventory -> susceptibility -> site study -> forecast/alert
+    LIMIT: map/forecast reduces uncertainty; it never predicts every failure
+        |
+        v
+[8] MITIGATION AND RISK
+    hazard + exposure + vulnerability - capacity -> disaster risk
+    avoid unsafe land -> drain -> stabilise -> bioengineer -> maintain -> warn -> prepare
+    Joshimath: subsidence != landslide; old debris + water/drainage + slope + loading
+    LIMIT: multi-causal case; no single-cause claim
+        |
+        v
+[9] GROUNDWATER WATER BUDGET
+    precipitation -> infiltration -> soil moisture -> percolation -> recharge
+    change in storage = recharge + inflow - discharge - pumping - outflow
+    pumping well -> drawdown -> cone of depression -> captured baseflow/spring effects
+        |
+        v
+[10] SUBSURFACE DISTINCTIONS
+    porosity = pore space | permeability = connected transmission
+    aeration -> capillary fringe -> water table -> saturation
+    aquifer stores/transmits | aquitard slows | aquiclude practically blocks
+    clay: porous but low permeability | chalk: porous/permeable
+        |
+        v
+[11] AQUIFER TYPES
+    unconfined -> water-table boundary
+    confined -> lower-permeability boundaries + potentiometric head
+    perched -> local saturated lens above main table
+    artesian -> water rises; flows only if head is above ground
+    springs/contact/fracture + wells/gravity/tube well
+        |
+        v
+[12] INDIA HYDROGEOLOGY
+    alluvium -> intergranular layered storage
+    hard rock/basalt -> weathered mantle + fractures/interflow
+    coast -> freshwater-saline interface
+    2025 assessment reported Aug 2026:
+      recharge 448.52 BCM | extractable 407.75 BCM | extraction 247.22 BCM
+      stage 60.63% | irrigation share 87%
+    LIMIT: national average != local aquifer verdict
+        |
+        v
+[13] DEPLETION AND FOOD
+    crop/energy/urban demand + weak regulation + limited recharge
+        -> falling head/yield -> deeper lift/cost -> unequal access
+        -> irrigation timing/output/income risk -> food availability/access/stability
+        -> possible compaction/subsidence in susceptible sediments
+        |
+        v
+[14] QUALITY MATRIX
+    arsenic: geogenic alluvial/redox | fluoride: geogenic hard-rock chemistry
+    nitrate: fertiliser/sewage | salinity: inland or coastal | microbes/urban leakage
+    RULE: level trend != quality result; sample + location + pathway required
+        |
+        v
+[15] COASTAL INTERFACE
+    over-pumping/reduced recharge -> freshwater head falls
+        -> saline wedge moves landward/upward -> upconing at well
+    remedy: monitor + curb/redistribute pumping + protect/safely recharge + adapt use
+    LIMIT: seawater intrusion != surface flooding; desalination != aquifer restoration
+        |
+        v
+[16] RECHARGE AND DEMAND
+    harvest for storage OR managed recharge after first-flush/filtration
+    test source water + aquifer fit + clogging + maintenance + measured outcome
+    plot -> slope -> watershed -> spring-shed -> aquifer -> basin/city
+    demand: crop alignment + micro-irrigation + reuse + leakage control + water budgets
+        |
+        v
+[17] INSTITUTIONAL STACK
+    CGWB assessment/monitoring | NAQUIM 1.0 maps | NAQUIM 2.0 priority detail
+    Atal Bhujal completed pilot | JSA: CTR / JSJB: CTR 2026 | state/local regulation
+    GSI/NLFC landslide evidence | NDMA/state preparedness as bounded DM link
+    RULE: programme/map/structure count = input; measured hydrological/risk outcome = result
+        |
+        v
+[18] PYQ AND ANSWER SPINE
+    official keys: 2024 Q7=A | 2025 Q28=C
+    key unavailable: 2021 Q64 | 2023 Q76 | 2020 Q98
+    direct Mains: 2018 urban harvesting
+    linked Mains: 2019/2021 landslide | 2024 Gangetic food | 2025 coast/depletion
+
+ANSWER:
+definition -> labelled visual/map -> mechanism -> India evidence/current fact
+-> consequence/comparison -> limitation -> matched response -> qualified conclusion

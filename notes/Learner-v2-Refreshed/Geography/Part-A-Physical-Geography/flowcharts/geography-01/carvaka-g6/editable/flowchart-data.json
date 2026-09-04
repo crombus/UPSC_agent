@@ -1,0 +1,334 @@
+{
+  "schema_version": 1,
+  "topic_key": "geography-01",
+  "generation": 6,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-01\\geography-01_Complete-Learning-Session_2026-08-22.md",
+  "master_dimensions": [
+    3600,
+    24010
+  ],
+  "stages": [
+    {
+      "title": "PART A ROADMAP: SCOPE AND HIERARCHY",
+      "terms": "Part A roadmap: scope and hierarchy: Planetary geography asks only enough astronomy to explain Earth's place, energy relationships,",
+      "mechanism": "Planetary geography begins by locating Earth within a nested hierarchy—universe, galaxy, Solar System and planet—before explaining the processes that make Earth geographically distinctive.",
+      "consequence": "motions, time system, magnetic shield and internal differentiation.",
+      "trap": "Answer-use: Classification: CORE PRELIMS + SUPPORTING MAINS",
+      "answer": "Classification: CORE PRELIMS + SUPPORTING MAINS"
+    },
+    {
+      "title": "BIG BANG: HOT DENSE BEGINNING, EXPANSION AND EVIDENCE",
+      "terms": "The exam-safe formulation is an extremely hot, dense early state followed by expansion",
+      "mechanism": "The exam-safe formulation is an extremely hot, dense early state followed by expansion",
+      "consequence": "The visual connects cosmological origin to star and planetary formation without confusing their",
+      "trap": "UPSC trap: Big Bang ≠ a bomb exploding at one point in pre-existing empty space.",
+      "answer": "Classification: CORE PRELIMS + CORE MAINS"
+    },
+    {
+      "title": "GALAXIES AND THE MASS-CONTROLLED LIFE CYCLE OF STARS",
+      "terms": "Galaxies and the mass-controlled life cycle of stars: more fuel but consumes it much faster; therefore “larger means longer-lived” is usually false.",
+      "mechanism": "more fuel but consumes it much faster; therefore “larger means longer-lived” is usually false.",
+      "consequence": "more fuel but consumes it much faster; therefore “larger means longer-lived” is usually false.",
+      "trap": "Answer-use: Classification: CORE PRELIMS + CORE MAINS",
+      "answer": "Classification: CORE PRELIMS + CORE MAINS"
+    },
+    {
+      "title": "FORMATION AND CLASSIFICATION OF THE SOLAR SYSTEM",
+      "terms": "Formation and classification of the Solar System: The leading exam-safe model is gravitational collapse of a rotating gas-dust cloud about",
+      "mechanism": "The Solar System formed through gravitational collapse and flattening of a rotating gas-dust nebula, followed by accretion that differentiated rocky inner planets from giant outer planets.",
+      "consequence": "momentum flattened the remainder into a protoplanetary disc; dust and ice accreted into larger",
+      "trap": "Answer-use: The leading exam-safe model is gravitational collapse of a rotating gas-dust cloud about",
+      "answer": "The leading exam-safe model is gravitational collapse of a rotating gas-dust cloud about"
+    },
+    {
+      "title": "EARTH'S SHAPE: OBLATE SPHEROID AND GEOID",
+      "terms": "Earth's shape: oblate spheroid and geoid: Earth is not a perfect sphere.",
+      "mechanism": "Earth is not a perfect sphere.",
+      "consequence": "Rotation produces a small equatorial bulge and polar",
+      "trap": "Earth is not a perfect sphere.",
+      "answer": "Classification: CORE PRELIMS + SUPPORTING MAINS"
+    },
+    {
+      "title": "ROTATION, REVOLUTION, AXIAL TILT AND LEAP-YEAR LOGIC",
+      "terms": "The Coriolis effect follows rotation but its full atmospheric/oceanic mechanics belong to",
+      "mechanism": "The Coriolis effect follows rotation but its full atmospheric/oceanic mechanics belong to",
+      "consequence": "The Coriolis effect follows rotation but its full atmospheric/oceanic mechanics belong to",
+      "trap": "Answer-use: Classification: CORE PRELIMS + CORE MAINS",
+      "answer": "Classification: CORE PRELIMS + CORE MAINS"
+    },
+    {
+      "title": "SEASONS, SOLSTICES, EQUINOXES AND DAY LENGTH",
+      "terms": "Seasons arise from changing solar angle and day length.",
+      "mechanism": "Seasons arise from changing solar angle and day length.",
+      "consequence": "in early January, during Northern Hemisphere winter, so Earth–Sun distance cannot be the main",
+      "trap": "in early January, during Northern Hemisphere winter, so Earth–Sun distance cannot be the main",
+      "answer": "Classification: CORE PRELIMS + CORE MAINS"
+    },
+    {
+      "title": "LATITUDE, LONGITUDE, GREAT CIRCLES AND COORDINATE READING",
+      "terms": "from the Equator, while one degree of latitude remains nearly constant.",
+      "mechanism": "Longitude lines converge poleward; therefore one degree of longitude becomes shorter away",
+      "consequence": "Longitude lines converge poleward; therefore one degree of longitude becomes shorter away",
+      "trap": "Answer-use: Longitude lines converge poleward; therefore one degree of longitude becomes shorter away",
+      "answer": "Longitude lines converge poleward; therefore one degree of longitude becomes shorter away"
+    },
+    {
+      "title": "LOCAL TIME, STANDARD TIME, UTC/GMT AND INTERNATIONAL DATE LINE",
+      "terms": "UTC means Coordinated Universal Time.",
+      "mechanism": "UTC means Coordinated Universal Time.",
+      "consequence": "GMT means Greenwich Mean Time; at UPSC level they",
+      "trap": "The International Date Line (IDL) broadly follows 180° but zigzags to avoid dividing political",
+      "answer": "!Coordinate, time and date-line logic"
+    },
+    {
+      "title": "MAGNETOSPHERE, SOLAR WIND, AURORA AND SPACE WEATHER",
+      "terms": "Aurora is the visible result of solar particles guided by the magnetosphere into the polar upper atmosphere, where collisions excite oxygen and nitrogen to emit light.",
+      "mechanism": "Aurora is the visible result of solar particles guided by the magnetosphere into the polar upper atmosphere, where collisions excite oxygen and nitrogen to emit light.",
+      "consequence": "Space-weather effects: high-frequency (HF) radio disturbance, Global Navigation Satellite",
+      "trap": "Answer-use: Classification: CORE PRELIMS + CORE MAINS",
+      "answer": "Classification: CORE PRELIMS + CORE MAINS"
+    },
+    {
+      "title": "EARTH'S INTERIOR THROUGH COMPOSITIONAL LAYERS AND SEISMIC EVIDENCE",
+      "terms": "Earth's interior through compositional layers and seismic evidence: Mechanical cross-link: lithosphere is rigid; asthenosphere below is weaker/ductile.",
+      "mechanism": "The disappearance of S-waves through the outer core and the refraction of P-waves create shadow zones that reveal a liquid outer core surrounding a solid inner core.",
+      "consequence": "Wave logic: P-waves are compressional and cross solids and liquids, changing speed and",
+      "trap": "S-waves are shear waves and do not cross liquids.",
+      "answer": "Classification: CORE PRELIMS + CORE MAINS"
+    },
+    {
+      "title": "PART B ROADMAP: LOCATION, SITE, SITUATION AND EXTENT",
+      "terms": "Part B roadmap: location, site, situation and extent: Geography creates opportunities and constraints, not predetermined outcomes.",
+      "mechanism": "Geography creates opportunities and constraints, not predetermined outcomes.",
+      "consequence": "India's location must be read through four linked ideas—absolute position, physical site, relational situation and territorial extent—because coordinates alone do not explain significance.",
+      "trap": "Geography creates opportunities and constraints, not predetermined outcomes.",
+      "answer": "Classification: CORE PRELIMS + CORE MAINS"
+    },
+    {
+      "title": "ABSOLUTE COORDINATES, DIMENSIONS, AREA, RANK AND SHARE",
+      "terms": "Absolute coordinates, dimensions, area, rank and share: The standard mainland envelope is 8°4'N–37°6'N and 68°7'E–97°25'E.",
+      "mechanism": "wholly in the Northern and Eastern hemispheres.",
+      "consequence": "A coordinate envelope is a bounding box, not the country's actual polygon; its corners may",
+      "trap": "A coordinate envelope is a bounding box, not the country's actual polygon; its corners may",
+      "answer": "The standard mainland envelope is 8°4'N–37°6'N and 68°7'E–97°25'E."
+    },
+    {
+      "title": "MAINLAND VERSUS FULL TERRITORY AND EXTREME-LOCATION CAUTIONS",
+      "terms": "Kanyakumari is the southern tip of mainland India, whereas Indira Point on Great Nicobar is the southernmost point of the Union's territory.",
+      "mechanism": "A named settlement, inhabited point, sunrise claim and exact coordinate extremity are not",
+      "consequence": "Kanyakumari is the southern tip of mainland India, whereas Indira Point on Great Nicobar is the southernmost point of the Union's territory.",
+      "trap": "Answer-use: The Nicobar Islands extend Indian territory southward to about 6°45'N.",
+      "answer": "The Nicobar Islands extend Indian territory southward to about 6°45'N."
+    },
+    {
+      "title": "TROPIC OF CANCER: EIGHT-STATE ORDER AND SIGNIFICANCE",
+      "terms": "The Tropic of Cancer at 23°30'N is the northern overhead-Sun limit.",
+      "mechanism": "map-elimination line, but it neither divides India into exactly equal halves nor creates a sharp",
+      "consequence": "The Tropic of Cancer crosses eight states from Gujarat to Mizoram, but it is a solar reference parallel rather than an equal divider or climatic wall.",
+      "trap": "The Tropic of Cancer crosses eight states from Gujarat to Mizoram, but it is a solar reference parallel rather than an equal divider or climatic wall.",
+      "answer": "The Tropic of Cancer at 23°30'N is the northern overhead-Sun limit."
+    },
+    {
+      "title": "STANDARD MERIDIAN, MIRZAPUR AND IST DERIVATION",
+      "terms": "The standard map-aid list is Uttar Pradesh → Madhya Pradesh →",
+      "mechanism": "NCERT wording says it passes through",
+      "consequence": "NCERT wording says it passes through",
+      "trap": "The meridian is near-central, not exactly central: the mainland's longitudinal midpoint",
+      "answer": "Classification: CORE PRELIMS + SUPPORTING MAINS"
+    },
+    {
+      "title": "EAST–WEST SOLAR-TIME SPREAD AND UNEQUAL DIMENSIONS",
+      "terms": "East–west solar-time spread and unequal dimensions: The two-hour figure is an envelope calculation; actual sunrise also varies with season,",
+      "mechanism": "Similar angular spans do not give equal kilometres because longitude degrees contract with",
+      "consequence": "The two-hour figure is an envelope calculation; actual sunrise also varies with season,",
+      "trap": "Similar angular spans do not give equal kilometres because longitude degrees contract with",
+      "answer": "Classification: CORE PRELIMS + CORE MAINS"
+    },
+    {
+      "title": "AREA, LAND BORDER AND THE 2025 COASTLINE REVISION",
+      "terms": "Area, land border and the 2025 coastline revision: The rise from the legacy 7,516.6 km demonstrates the coastline paradox: a finer measuring scale",
+      "mechanism": "The rise from the legacy 7,516.6 km demonstrates the coastline paradox: a finer measuring scale",
+      "consequence": "captures more indentations and island perimeter.",
+      "trap": "It does not increase national area, create land or",
+      "answer": "Classification: CORE PRELIMS + CURRENT-AFFAIRS LINK"
+    },
+    {
+      "title": "LAND AND MARITIME NEIGHBOURS WITH DISPUTE-SAFE MAPWORK",
+      "terms": "Land and maritime neighbours with dispute-safe mapwork: Afghanistan appears in the official list under India's claim, but there is no functioning",
+      "mechanism": "direct crossing because intervening territory is administered by Pakistan.",
+      "consequence": "Sri Lanka and Maldives are principal maritime neighbours.",
+      "trap": "Answer-use: Classification: CORE PRELIMS + SUPPORTING MAINS",
+      "answer": "Classification: CORE PRELIMS + SUPPORTING MAINS"
+    },
+    {
+      "title": "INDIA AS A SUBCONTINENT: SCALE, COHERENCE, DIVERSITY AND PERMEABILITY",
+      "terms": "India as a subcontinent: scale, coherence, diversity and permeability: The term means a large and distinctive subdivision of Asia, not an isolated or culturally uniform",
+      "mechanism": "India is a subcontinent because continental scale, Himalayan-oceanic relative enclosure, physiographic coherence and internal diversity combine within a distinctive subdivision of Asia.",
+      "consequence": "“South Asia” is a modern regional term whose membership need not exactly match every use",
+      "trap": "The term means a large and distinctive subdivision of Asia, not an isolated or culturally uniform",
+      "answer": "Classification: CORE MAINS + PRELIMS CONTEXT"
+    },
+    {
+      "title": "INDIAN OCEAN CENTRALITY, SEAS, ROUTES AND CHOKEPOINTS",
+      "terms": "India's peninsular projection gives it central relational importance in the northern Indian Ocean, but proximity to routes and chokepoints does not by itself confer control.",
+      "mechanism": "India's peninsular projection gives it central relational importance in the northern Indian Ocean, but proximity to routes and chokepoints does not by itself confer control.",
+      "consequence": "India's peninsular projection gives it central relational importance in the northern Indian Ocean, but proximity to routes and chokepoints does not by itself confer control.",
+      "trap": "India's peninsular projection gives it central relational importance in the northern Indian Ocean, but proximity to routes and chokepoints does not by itself confer control.",
+      "answer": "Classification: CORE MAINS + PRELIMS MAPWORK"
+    },
+    {
+      "title": "COAST AND ISLAND SYSTEM: LAKSHADWEEP AND ANDAMAN–NICOBAR",
+      "terms": "Islands support search and rescue, maritime awareness and connectivity, but they must not be reduced",
+      "mechanism": "Islands support search and rescue, maritime awareness and connectivity, but they must not be reduced",
+      "consequence": "Lakshadweep and Andaman-Nicobar extend India's western and eastern maritime orientation respectively, but strategic value must be balanced with ecology, hazards, freshwater limits and community rights.",
+      "trap": "Islands support search and rescue, maritime awareness and connectivity, but they must not be reduced",
+      "answer": "Classification: CORE PRELIMS + CORE MAINS"
+    },
+    {
+      "title": "HIMALAYA AND OCEAN AS FILTERS AND CONNECTORS",
+      "terms": "Himalaya and ocean as filters and connectors: UPSC trap: “Barrier” is incomplete.",
+      "mechanism": "The Himalaya and surrounding seas act as selective filters and connectors: they raise movement costs and shape climate while still channeling exchange through passes, valleys and maritime routes.",
+      "consequence": "The northern plains form an internal corridor.",
+      "trap": "UPSC trap: “Barrier” is incomplete.",
+      "answer": "The Himalaya obstructs extremely cold continental air, forces uplift of moisture-bearing winds and"
+    },
+    {
+      "title": "LATITUDE-LOCATION LINKS TO CLIMATE, BIODIVERSITY, AGRICULTURE AND CULTURE",
+      "terms": "Latitude-location links to climate, biodiversity, agriculture and culture: Tropical–subtropical latitude supplies the broad solar regime.",
+      "mechanism": "Tropical–subtropical latitude supplies the broad solar regime.",
+      "consequence": "Arabian Sea/Bay of Bengal moisture, Himalayan relief and land–sea contrast help create",
+      "trap": "Answer-use: Classification: CORE MAINS + BOUNDED CROSS-LINK",
+      "answer": "Classification: CORE MAINS + BOUNDED CROSS-LINK"
+    },
+    {
+      "title": "TRADE, SECURITY AND RELATIONAL STRATEGY",
+      "terms": "Trade, security and relational strategy: Strategic location is geographic potential converted into capability only through ports, connectivity, institutions, partnerships and responsible stewardship.",
+      "mechanism": "Strategic location is geographic potential converted into capability only through ports, connectivity, institutions, partnerships and responsible stewardship.",
+      "consequence": "Usable capability depends on ports, hinterland connectivity, merchant shipping, Navy and Coast",
+      "trap": "Answer-use: Classification: CORE MAINS + SUPPORTING GS-II/GS-III",
+      "answer": "Classification: CORE MAINS + SUPPORTING GS-II/GS-III"
+    },
+    {
+      "title": "MAP SKILLS, COORDINATE ELIMINATION AND DISPUTED-SPACE SAFETY",
+      "terms": "Map skills, coordinate elimination and disputed-space safety: A safe UPSC map is schematic and not to scale, labels only claim-relevant lines and features, and never improvises disputed boundaries.",
+      "mechanism": "Coordinate elimination: identify latitude/longitude category → check N/E hemisphere → check range →",
+      "consequence": "distinguish mainland from territory → calculate longitude-time direction.",
+      "trap": "A safe UPSC map is schematic and not to scale, labels only claim-relevant lines and features, and never improvises disputed boundaries.",
+      "answer": "Classification: CORE PRELIMS + CORE MAINS"
+    },
+    {
+      "title": "COMPLETE ANSWER ARCHITECTURE AND FINAL VERDICT",
+      "terms": "Complete answer architecture and final verdict: India's locational significance is therefore relational rather than deterministic: physical position creates opportunities and constraints, but institutions and choices shape outcomes.",
+      "mechanism": "Direct thesis: define location or the mechanism asked.",
+      "consequence": "Significance: climate, time, connectivity, hazard, strategy or administration.",
+      "trap": "Qualification: avoid determinism, automatic control, exact-180° IDL or disputed-map claims.",
+      "answer": "Direct thesis: define location or the mechanism asked."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 3,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7760,
+      "y_end": 9960,
+      "overlap_px": 260,
+      "from_stage": 9,
+      "continues_stage": 12
+    },
+    {
+      "page": 6,
+      "y_start": 9700,
+      "y_end": 11900,
+      "overlap_px": 260,
+      "from_stage": 11,
+      "continues_stage": 14
+    },
+    {
+      "page": 7,
+      "y_start": 11640,
+      "y_end": 13840,
+      "overlap_px": 260,
+      "from_stage": 14,
+      "continues_stage": 16
+    },
+    {
+      "page": 8,
+      "y_start": 13580,
+      "y_end": 15780,
+      "overlap_px": 260,
+      "from_stage": 16,
+      "continues_stage": 18
+    },
+    {
+      "page": 9,
+      "y_start": 15520,
+      "y_end": 17720,
+      "overlap_px": 260,
+      "from_stage": 18,
+      "continues_stage": 20
+    },
+    {
+      "page": 10,
+      "y_start": 17460,
+      "y_end": 19660,
+      "overlap_px": 260,
+      "from_stage": 20,
+      "continues_stage": 23
+    },
+    {
+      "page": 11,
+      "y_start": 19400,
+      "y_end": 21600,
+      "overlap_px": 260,
+      "from_stage": 22,
+      "continues_stage": 25
+    },
+    {
+      "page": 12,
+      "y_start": 21340,
+      "y_end": 23540,
+      "overlap_px": 260,
+      "from_stage": 25,
+      "continues_stage": 27
+    },
+    {
+      "page": 13,
+      "y_start": 21810,
+      "y_end": 24010,
+      "overlap_px": 260,
+      "from_stage": 25,
+      "continues_stage": 27
+    }
+  ]
+}

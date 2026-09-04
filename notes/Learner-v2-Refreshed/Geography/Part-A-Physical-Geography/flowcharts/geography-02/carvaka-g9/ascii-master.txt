@@ -1,0 +1,323 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Geography 02 — The Earth’s Crust, Rocks / India Geological Structure: central question…
+
+```ascii-master
+GEOGRAPHY 02 — THE EARTH’S CRUST, ROCKS / INDIA GEOLOGICAL STRUCTURE — CONCEPTUAL ATLAS
+
+
+KEY TERMS: Master Vocabulary • Mineral • Rock • Lithology • Petrology • Geology
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Geography 02 — The Earth’s Crust, Rocks / India…
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       Structure - process - surface: lithology, bedding, joints, faults…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: MASTER VOCABULARY: WHAT EXACTLY ARE WE STUDYING?
+  • Master Vocabulary
+  • A rock aggregate is therefore not “a mineral”, and a landform…
+AXIS 2: SEA-FLOOR SPREADING: OCEANIC EVIDENCE AND MASS BALANCE
+  • Sea-Floor Spreading
+  • Ocean floor is geologically young relative to continental shields…
+AXIS 3: PROTEROZOIC PURANA BASINS: CUDDAPAH AND VINDHYAN
+  • Proterozoic Purana Basins
+  • Cuddapah and Vindhyan are major Proterozoic sedimentary basin…
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  Master Vocabulary • Mineral • Rock • Lithology
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Crust, lithosphere and the igneous–sedimentary–metamorphic rock cycle
+
+```ascii-master
+CRUST, LITHOSPHERE AND THE IGNEOUS–SEDIMENTARY–METAMORPHIC ROCK CYCLE
+│
+
+KEY TERMS: Master Vocabulary • Mineral • Rock • Lithology • Petrology • Geology
+├── KEY CONCEPTS
+│   ├── Master Vocabulary
+│   ├── Mineral
+│   ├── Rock
+│   ├── Lithology
+│   └── Petrology
+│
+├── MASTER VOCABULARY: WHAT EXACTLY ARE WE STUDYING?
+│   ├─ TERMS: Structure - process - surface: lithology, bedding, joints, faults…
+│   ├─ LOGIC: A rock aggregate is therefore not “a mineral”, and a landform…
+│   └─ RESULT: Structure - process - surface: lithology, bedding, joints, faults…
+├── CRUST AND LITHOSPHERE: RELATED, NOT IDENTICAL
+│   ├─ TERMS: Moho means the crust–mantle seismic boundary
+│   ├─ LOGIC: Asthenosphere means the weaker, slowly deforming upper-mantle zone…
+│   └─ RESULT: Crust is compositional
+├── THE COMPLETE ROCK CYCLE: A NETWORK, NOT A CONVEYOR BELT
+│   ├─ TERMS: Lithification means turning loose sediment into rock through…
+│   ├─ LOGIC: Lithification means turning loose sediment into rock through…
+│   └─ RESULT: “Igneous - sedimentary - metamorphic” is one teaching path, not
+│   └─ RESULT: the…
+├── IGNEOUS ROCKS: COOLING HISTORY, COMPOSITION AND TEXTURE
+│   ├─ TERMS: Porphyritic means large crystals embedded in a finer groundmass…
+│   ├─ LOGIC: Porphyritic means large crystals embedded in a finer groundmass…
+│   └─ RESULT: It does not mean every igneous exposure is oldest or economically…
+├── SEDIMENTARY ROCKS: SEDIMENT PATHWAY AND FIELD CLUES
+│   ├─ TERMS: Conglomerate has rounded gravel clasts
+│   ├─ LOGIC: Conglomerate has rounded gravel clasts
+│   └─ RESULT: Limestone has several origins
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Continental drift, sea-floor spreading, plate tectonics and isostasy
+
+```ascii-master
+CONTINENTAL DRIFT, SEA-FLOOR SPREADING, PLATE TECTONICS AND ISOSTASY
+
+
+KEY TERMS: Rock Properties • Applied Geography • Porosity • amount of void space • voids may
+KEY TERMS: be disconnected • Permeability
+CAUSE / CONDITION 1: Crystalline igneous and metamorphic rocks commonly have low…
+          │
+          ├── MECHANISM
+          │   Crystalline igneous and metamorphic rocks commonly have low primary…
+          │
+          └── EFFECT / CONTRAST
+              Basalt aquifers are heterogeneous: vesicular tops and flow contacts…
+          │
+          ▼
+CAUSE / CONDITION 2: Continental Drift: Wegener’S Evidence And Limitation…
+          │
+          ├── MECHANISM
+          │   It must later be distinguished from India’s Gondwana Supergroup of…
+          │
+          └── EFFECT / CONTRAST
+              His evidence was powerful, but proposed driving forces were…
+          │
+          ▼
+CAUSE / CONDITION 3: Ocean floor is geologically young relative to continental…
+          │
+          ├── MECHANISM
+          │   Ocean floor is geologically young relative to continental shields…
+          │
+          └── EFFECT / CONTRAST
+              The Earth does not expand
+          │
+          ▼
+CAUSE / CONDITION 4: Plate-interior activity occurs at inherited faults, rifts…
+          │
+          ├── MECHANISM
+          │   Plate-interior activity occurs at inherited faults, rifts, hot…
+          │
+          └── EFFECT / CONTRAST
+              Andes and Himalaya are both mountains but arise from different…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Indian Plate evolution, cratons and geological-time framework
+
+```ascii-master
+INDIAN PLATE EVOLUTION, CRATONS AND GEOLOGICAL-TIME FRAMEWORK
+
+
+KEY TERMS: World-To-India Transition • Structure Expressed As Relief • six broad
+KEY TERMS: physiographic divisions • Himalaya • continent collision, shortening and… • high
+KEY TERMS: relief, perennial headwaters…
+UPSTREAM / OUTER SETTING
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ ZONE / LAYER A                                                       │
+│ WORLD-TO-INDIA TRANSITION: STRUCTURE EXPRESSED AS RELIEF             │
+│ Process: At the highest school-geography scale, India’s six broad…   │
+│ Result : They are used here only as structural expressions, not as…  │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ ZONE / LAYER B                                                       │
+│ SCOPE: GEOLOGICAL STRUCTURE VERSUS PHYSIOGRAPHY AND GEOMORPHOLOGY    │
+│ Process: This package supplies their geological mechanism and…       │
+│ Result : Exam method: identify the hidden structure, name a region…  │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ ZONE / LAYER C                                                       │
+│ GEOLOGICAL TIME, EVIDENCE AND DATING CAUTIONS                        │
+│ Process: Relative dating uses superposition, cross-cutting…          │
+│ Result : Fossils are especially useful in sedimentary correlations…  │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ INDIA / LOCAL EXPRESSION                                             │
+│ INDIAN PLATE: GONDWANA ORIGIN, BREAK-UP, DRIFT AND COLLISION         │
+│ Process: Rifting separated blocks, oceanic crust formed between…     │
+│ Result : Collision was not a single instant across the whole margin  │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+SPATIAL CONTROL: locate the process, then compare scale and regional expression.
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Archaean to Deccan Trap: systems, basins and resource associations
+
+```ascii-master
+ARCHAEAN TO DECCAN TRAP: SYSTEMS, BASINS AND RESOURCE ASSOCIATIONS
+
+
+KEY TERMS: Archaean • Dharwar Systems • Distribution • Terminology Control • Cross-link •
+KEY TERMS: Fundamental gneiss/granitoid
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ ARCHAEAN AND DHARWAR   │ Mains use: In a               │ Do not repeat old claims that │
+│ SYSTEMS: DISTRIBUTION  │ classification answer, give   │ all Archaean rocks are        │
+│ AND TERMINOLOGY        │ lithology, structure…         │ entirely…                     │
+│ CONTROL                │                               │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ PROTEROZOIC PURANA     │ Cuddapah and Vindhyan are     │ Resource links must be        │
+│ BASINS: CUDDAPAH AND   │ major Proterozoic sedimentary │ bounded: a whole system is    │
+│ VINDHYAN               │ basin…                        │ not uniformly…                │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ GONDWANA SUPERGROUP:   │ Coal linkage is mechanistic:  │ Coal presence is not          │
+│ RIFT BASINS, COAL AND  │ vegetation accumulation in    │ automatic in every Gondwana   │
+│ CONTINENTAL            │ suitable…                     │ unit or every rift            │
+│ SEDIMENTATION          │                               │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ MARINE SEDIMENTARY     │ Offshore occurrence is        │ Offshore occurrence is        │
+│ BASINS, COASTS AND     │ therefore geological, not     │ therefore geological, not     │
+│ OFFSHORE PETROLEUM     │ simply because an…            │ simply because an…            │
+│ LOGIC                  │                               │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ DECCAN TRAP:           │ The Deccan Trap is a vast     │ Deccan Trap is a volcanic     │
+│ FLOOD-BASALT PROVINCE  │ flood-basalt province built   │ province, not a soil type     │
+│ AND BOUNDED SURFACE    │ by repeated…                  │                               │
+│ LINKAGES               │                               │                               │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Himalaya, foreland basin, coasts, lineaments and seismic expression
+
+```ascii-master
+HIMALAYA, FORELAND BASIN, COASTS, LINEAMENTS AND SEISMIC EXPRESSION
+
+
+KEY TERMS: Indo-Ganga-Brahmaputra Foreland Basin • Alluvial Fill • Cross-link • Flexural
+KEY TERMS: subsidence • foredeep/accommodation space • collision-relief connection
+UPSTREAM / OUTER SETTING
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ ZONE / LAYER A                                                       │
+│ INDO-GANGA-BRAHMAPUTRA FORELAND BASIN AND ALLUVIAL FILL              │
+│ Process: It is a sediment-filled foreland basin                      │
+│ Result : Thick unconsolidated sediment explains level relief…        │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ ZONE / LAYER B                                                       │
+│ COASTS, OFFSHORE BASINS AND ISLAND-ARC VERSUS CORAL-ISLAND…          │
+│ Process: The emergent islands are coral, unlike the tectonic…        │
+│ Result : The island chain also includes sedimentary and uplifted…    │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ ZONE / LAYER C                                                       │
+│ MAJOR LINEAMENTS, FAULTS AND RIFTS                                   │
+│ Process: Mains use: Use one map plus one mechanism paragraph         │
+│ Result : A lineament mapped from imagery is not automatically a…     │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ INDIA / LOCAL EXPRESSION                                             │
+│ STRUCTURAL CONTROL OF RELIEF, DRAINAGE, GROUNDWATER AND WATERFALLS   │
+│ Process: Hard-rock groundwater depends on secondary openings         │
+│ Result : Lithologic contrast, rejuvenation and lava contacts are…    │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+SPATIAL CONTROL: locate the process, then compare scale and regional expression.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Geography 02 — The Earth’s Crust, Rocks / India Geological Structure: traps, PYQ routes…
+
+```ascii-master
+GEOGRAPHY 02 — THE EARTH’S CRUST, ROCKS / INDIA GEOLOGICAL STRUCTURE: TRAPS, PYQ ROUTES…
+
+
+KEY TERMS: Master Vocabulary • Mineral • Rock • Lithology • Petrology • Geology
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── a rock aggregate is therefore not “a mineral”
+├── plate boundaries are diagnosed by motion and products
+├── Gondwana coalfields are not simply surface strips along modern…
+├── Mains use: Explain source, path/site effect and vulnerability…
+│
+├── 35
+├── 36
+├── 37
+├── 38
+│
+└── Geological structure is the age, composition and architecture of…
+└── A safe geological chronology combines superposition, cross-cutting…
+└── India’s seismicity reflects active Himalayan and Andaman plate…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Geography 02 — The Earth’s Crust, Rocks / India Geological Structure: integrated revision…
+
+```ascii-master
+GEOGRAPHY 02 — THE EARTH’S CRUST, ROCKS / INDIA GEOLOGICAL STRUCTURE — ANSWER / REVISION SPINE
+
+
+KEY TERMS: Master Vocabulary • Mineral • Rock • Lithology • Petrology • Geology
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ Structure - process - surface: lithology, bedding, joints, faults…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ Master Vocabulary
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ Plate-interior activity occurs at inherited faults, rifts, hot…
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ Rock
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ Mains use: Explain source, path/site effect and vulnerability…
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ India’s seismicity reflects active Himalayan and Andaman plate…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

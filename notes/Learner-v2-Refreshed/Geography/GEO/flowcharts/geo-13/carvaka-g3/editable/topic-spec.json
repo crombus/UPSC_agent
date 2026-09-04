@@ -1,0 +1,1100 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-13",
+  "subject": "Geography",
+  "title": "WEATHER ELEMENTS / INDIA JET STREAM-WESTERN DISTURBANCES",
+  "short_route": "WEATHER CAUSATION CHAIN → HEAT-BUDGET LEDGER → STABILITY PROFILES → WIND-FORCE TRIANGLE → PLANETARY CIRCULATION RAIL → HUMIDITY-TO-CLOUD CHAIN",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-13\\g3\\geography-13_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-13-deep-review-2026-09-01-g3.json",
+  "ascii_spec_sha256": "3f9b179a1c2fad33449b5ab25ce6728280b4a57ac5ef8165e7795bc3e58b36e8",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "WEATHER CAUSATION CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WEATHER CAUSATION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "SURFACE AND ATMOSPHERIC HEATING",
+          "role": "outcome"
+        },
+        {
+          "text": "TEMPERATURE GRADIENT",
+          "role": "comparison"
+        },
+        {
+          "text": "PRESSURE GRADIENT",
+          "role": "evidence"
+        },
+        {
+          "text": "MOISTURE TRANSPORT AND CONVERGENCE",
+          "role": "primary"
+        },
+        {
+          "text": "LIFT + SATURATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CLOUD AND PRECIPITATION",
+          "role": "comparison"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INSOLATION → surface and atmospheric heating",
+        "TEMPERATURE GRADIENT → pressure gradient",
+        "WIND → moisture transport and convergence",
+        "LIFT + SATURATION → cloud and precipitation",
+        "MUST REMEMBER: Weather elements connect radiation balance, temperature, pressure-gradient force, Coriolis/friction, humidity, stability, condensation, clouds"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INSOLATION → surface and atmospheric heating",
+            "TEMPERATURE GRADIENT → pressure gradient"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WIND → moisture transport and convergence",
+            "LIFT + SATURATION → cloud and precipitation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Weather elements connect radiation balance, temperature, pressure-gradient force, Coriolis/friction, humidity, stability, condensation, clouds and precipitation",
+            "upper-air Rossby waves, subtropical jet and western-disturbance tracks anchor Indian seasonality."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "upper-air Rossby waves, subtropical jet and western-disturbance tracks anchor Indian seasonality.",
+      "source_references": [
+        "Weather elements as a linked system",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\13_Weather-Elements.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\13_India-JetStream-Western-Disturbances.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-13\\g3\\geography-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "HEAT-BUDGET LEDGER",
+      "structural_type": "balance-sheet",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "HEAT-BUDGET LEDGER",
+          "role": "primary"
+        },
+        {
+          "text": "INCOMING SHORTWAVE",
+          "role": "outcome"
+        },
+        {
+          "text": "REFLECTED + ABSORBED ENERGY",
+          "role": "comparison"
+        },
+        {
+          "text": "LONGWAVE + SENSIBLE + LATENT HEAT",
+          "role": "evidence"
+        },
+        {
+          "text": "TEMPERATURE AND CIRCULATION RESPONSE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SUN → incoming shortwave",
+        "SURFACE → reflected + absorbed energy",
+        "EARTH → longwave + sensible + latent heat",
+        "BALANCE → temperature and circulation response"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SUN → incoming shortwave",
+            "SURFACE → reflected + absorbed energy"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EARTH → longwave + sensible + latent heat",
+            "BALANCE → temperature and circulation response"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SUN → incoming shortwave",
+            "SURFACE → reflected + absorbed energy"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EARTH → longwave + sensible + latent heat.",
+      "source_references": [
+        "Insolation and heat budget",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\13_Weather-Elements.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\13_India-JetStream-Western-Disturbances.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-13\\g3\\geography-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "STABILITY PROFILES",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "STABILITY PROFILES",
+          "role": "primary"
+        },
+        {
+          "text": "NORMAL TENDENCY",
+          "role": "outcome"
+        },
+        {
+          "text": "TEMPERATURE FALLS UPWARD",
+          "role": "comparison"
+        },
+        {
+          "text": "TEMPERATURE RISES THROUGH LAYER",
+          "role": "evidence"
+        },
+        {
+          "text": "STABLE LAYER",
+          "role": "primary"
+        },
+        {
+          "text": "VERTICAL MIXING SUPPRESSED",
+          "role": "outcome"
+        },
+        {
+          "text": "SURFACE INVERSION",
+          "role": "comparison"
+        },
+        {
+          "text": "FOG AND POLLUTION TRAPPING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NORMAL TENDENCY → temperature falls upward",
+        "INVERSION → temperature rises through layer",
+        "STABLE LAYER → vertical mixing suppressed",
+        "SURFACE INVERSION → fog and pollution trapping"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "NORMAL TENDENCY → temperature falls upward",
+          "STABLE LAYER → vertical mixing suppressed",
+          "NORMAL TENDENCY → temperature falls upward"
+        ],
+        [
+          "INVERSION → temperature rises through layer",
+          "SURFACE INVERSION → fog and pollution trapping",
+          "INVERSION → temperature rises through layer"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NORMAL TENDENCY → temperature falls upward",
+            "INVERSION → temperature rises through layer"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STABLE LAYER → vertical mixing suppressed",
+            "SURFACE INVERSION → fog and pollution trapping"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NORMAL TENDENCY → temperature falls upward",
+            "INVERSION → temperature rises through layer"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STABLE LAYER → vertical mixing suppressed; SURFACE INVERSION → fog and pollution trapping.",
+      "source_references": [
+        "Lapse rate and inversion",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\13_Weather-Elements.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\13_India-JetStream-Western-Disturbances.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-13\\g3\\geography-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "WIND-FORCE TRIANGLE",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WIND-FORCE TRIANGLE",
+          "role": "primary"
+        },
+        {
+          "text": "PRESSURE GRADIENT",
+          "role": "outcome"
+        },
+        {
+          "text": "STARTS ACCELERATION",
+          "role": "comparison"
+        },
+        {
+          "text": "RIGHT NORTH",
+          "role": "evidence"
+        },
+        {
+          "text": "LEFT SOUTH",
+          "role": "primary"
+        },
+        {
+          "text": "SLOWS AND CROSSES ISOBARS",
+          "role": "outcome"
+        },
+        {
+          "text": "NEAR-GEOSTROPHIC PARALLEL FLOW",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "PRESSURE GRADIENT → starts acceleration",
+        "CORIOLIS → right north / left south",
+        "FRICTION → slows and crosses isobars",
+        "ALOFT → near-geostrophic parallel flow"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PRESSURE GRADIENT → starts acceleration",
+            "CORIOLIS → right north / left south"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FRICTION → slows and crosses isobars",
+            "ALOFT → near-geostrophic parallel flow"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PRESSURE GRADIENT → starts acceleration",
+            "CORIOLIS → right north / left south"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FRICTION → slows and crosses isobars; ALOFT → near-geostrophic parallel flow.",
+      "source_references": [
+        "Pressure-gradient force",
+        "Coriolis and friction",
+        "Geostrophic upper-air balance",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\13_Weather-Elements.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\13_India-JetStream-Western-Disturbances.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-13\\g3\\geography-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PLANETARY CIRCULATION RAIL",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PLANETARY CIRCULATION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "EQUATORIAL LOW",
+          "role": "outcome"
+        },
+        {
+          "text": "CONVERGENCE AND ASCENT",
+          "role": "comparison"
+        },
+        {
+          "text": "SUBTROPICAL HIGH",
+          "role": "evidence"
+        },
+        {
+          "text": "DESCENT AND TRADES",
+          "role": "primary"
+        },
+        {
+          "text": "SUBPOLAR LOW",
+          "role": "outcome"
+        },
+        {
+          "text": "WESTERLY-POLAR INTERACTION",
+          "role": "comparison"
+        },
+        {
+          "text": "POLAR HIGH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EQUATORIAL LOW → convergence and ascent",
+        "SUBTROPICAL HIGH → descent and trades",
+        "SUBPOLAR LOW → westerly-polar interaction",
+        "POLAR HIGH → cold outflow; belts migrate"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EQUATORIAL LOW → convergence and ascent",
+            "SUBTROPICAL HIGH → descent and trades"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SUBPOLAR LOW → westerly-polar interaction",
+            "POLAR HIGH → cold outflow; belts migrate"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EQUATORIAL LOW → convergence and ascent",
+            "SUBTROPICAL HIGH → descent and trades"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SUBPOLAR LOW → westerly-polar interaction; POLAR HIGH → cold outflow; belts migrate.",
+      "source_references": [
+        "Pressure belts and planetary winds",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\13_Weather-Elements.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\13_India-JetStream-Western-Disturbances.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-13\\g3\\geography-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "HUMIDITY-TO-CLOUD CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "HUMIDITY-TO-CLOUD CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "MOISTURE CONTENT + TEMPERATURE",
+          "role": "outcome"
+        },
+        {
+          "text": "RELATIVE HUMIDITY",
+          "role": "comparison"
+        },
+        {
+          "text": "COOLING TO SATURATION",
+          "role": "evidence"
+        },
+        {
+          "text": "DEW POINT REACHED",
+          "role": "primary"
+        },
+        {
+          "text": "NUCLEI + LIFT",
+          "role": "outcome"
+        },
+        {
+          "text": "DROPLETS OR ICE CRYSTALS",
+          "role": "comparison"
+        },
+        {
+          "text": "GROWTH + FALL SPEED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MOISTURE CONTENT + TEMPERATURE → relative humidity",
+        "COOLING TO SATURATION → dew point reached",
+        "NUCLEI + LIFT → droplets or ice crystals",
+        "GROWTH + FALL SPEED → precipitation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MOISTURE CONTENT + TEMPERATURE → relative humidity",
+            "COOLING TO SATURATION → dew point reached"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NUCLEI + LIFT → droplets or ice crystals",
+            "GROWTH + FALL SPEED → precipitation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MOISTURE CONTENT + TEMPERATURE → relative humidity",
+            "COOLING TO SATURATION → dew point reached"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NUCLEI + LIFT → droplets or ice crystals.",
+      "source_references": [
+        "Humidity and saturation",
+        "Cloud and fog formation",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\13_Weather-Elements.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\13_India-JetStream-Western-Disturbances.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-13\\g3\\geography-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "RAINFALL COMPARISON",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RAINFALL COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "BUOYANT THERMAL ASCENT",
+          "role": "outcome"
+        },
+        {
+          "text": "FORCED RELIEF ASCENT",
+          "role": "comparison"
+        },
+        {
+          "text": "CONVERGENT DYNAMIC ASCENT",
+          "role": "evidence"
+        },
+        {
+          "text": "REAL EVENT",
+          "role": "primary"
+        },
+        {
+          "text": "MECHANISMS MAY COMBINE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CONVECTIONAL → buoyant thermal ascent",
+        "OROGRAPHIC → forced relief ascent",
+        "FRONTAL / CYCLONIC → convergent dynamic ascent",
+        "REAL EVENT → mechanisms may combine"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CONVECTIONAL → buoyant thermal ascent",
+          "FRONTAL / CYCLONIC → convergent dynamic ascent",
+          "CONVECTIONAL → buoyant thermal ascent"
+        ],
+        [
+          "OROGRAPHIC → forced relief ascent",
+          "REAL EVENT → mechanisms may combine",
+          "OROGRAPHIC → forced relief ascent"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONVECTIONAL → buoyant thermal ascent",
+            "OROGRAPHIC → forced relief ascent"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FRONTAL / CYCLONIC → convergent dynamic ascent",
+            "REAL EVENT → mechanisms may combine"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONVECTIONAL → buoyant thermal ascent",
+            "OROGRAPHIC → forced relief ascent"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FRONTAL / CYCLONIC → convergent dynamic ascent; REAL EVENT → mechanisms may combine.",
+      "source_references": [
+        "Rainfall mechanisms",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\13_Weather-Elements.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\13_India-JetStream-Western-Disturbances.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-13\\g3\\geography-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "TROPOSPHERE SECTION",
+      "structural_type": "vertical-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "TROPOSPHERE SECTION",
+          "role": "primary"
+        },
+        {
+          "text": "MOISTURE, FRICTION AND HEATING",
+          "role": "outcome"
+        },
+        {
+          "text": "MID LEVELS",
+          "role": "comparison"
+        },
+        {
+          "text": "CLOUDS, TROUGHS AND STABILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "UPPER TROPOSPHERE",
+          "role": "primary"
+        },
+        {
+          "text": "JETS AND DIVERGENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "TROPICS DEEPER",
+          "role": "comparison"
+        },
+        {
+          "text": "POLES SHALLOWER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SURFACE → moisture, friction and heating",
+        "MID LEVELS → clouds, troughs and stability",
+        "UPPER TROPOSPHERE → jets and divergence",
+        "TROPICS DEEPER / POLES SHALLOWER"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SURFACE → moisture, friction and heating",
+            "MID LEVELS → clouds, troughs and stability"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "UPPER TROPOSPHERE → jets and divergence",
+            "TROPICS DEEPER / POLES SHALLOWER"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SURFACE → moisture, friction and heating",
+            "MID LEVELS → clouds, troughs and stability"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "UPPER TROPOSPHERE → jets and divergence; TROPICS DEEPER / POLES SHALLOWER.",
+      "source_references": [
+        "Troposphere structure",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\13_Weather-Elements.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\13_India-JetStream-Western-Disturbances.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-13\\g3\\geography-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "JET-STREAM ENGINE",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "JET-STREAM ENGINE",
+          "role": "primary"
+        },
+        {
+          "text": "HORIZONTAL TEMPERATURE GRADIENT",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESSURE GRADIENT ALOFT",
+          "role": "comparison"
+        },
+        {
+          "text": "CORIOLIS BALANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "STRONG NEAR-ZONAL WIND",
+          "role": "primary"
+        },
+        {
+          "text": "ROSSBY WAVES",
+          "role": "outcome"
+        },
+        {
+          "text": "RIDGES, TROUGHS AND STEERING",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "HORIZONTAL TEMPERATURE GRADIENT",
+        "HEIGHT / PRESSURE GRADIENT ALOFT",
+        "CORIOLIS BALANCE → strong near-zonal wind",
+        "ROSSBY WAVES → ridges, troughs and steering"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HORIZONTAL TEMPERATURE GRADIENT",
+            "HEIGHT / PRESSURE GRADIENT ALOFT"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CORIOLIS BALANCE → strong near-zonal wind",
+            "ROSSBY WAVES → ridges, troughs and steering"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "HORIZONTAL TEMPERATURE GRADIENT",
+            "HEIGHT / PRESSURE GRADIENT ALOFT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CORIOLIS BALANCE → strong near-zonal wind; ROSSBY WAVES → ridges, troughs and steering.",
+      "source_references": [
+        "Jet stream mechanics",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\13_Weather-Elements.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\13_India-JetStream-Western-Disturbances.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-13\\g3\\geography-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INDIA SEASONAL JETS",
+      "structural_type": "seasonal-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INDIA SEASONAL JETS",
+          "role": "primary"
+        },
+        {
+          "text": "STWJ SOUTH OF HIMALAYA SECTOR",
+          "role": "outcome"
+        },
+        {
+          "text": "STEERS WESTERN DISTURBANCES EAST",
+          "role": "comparison"
+        },
+        {
+          "text": "TROPICAL EASTERLY JET DEVELOPS",
+          "role": "evidence"
+        },
+        {
+          "text": "JETS ARE PARTS OF WIDER CIRCULATION",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "HUMIDITY, RELATIVE HUMIDITY AND DEW POINT DIFFER; WEATHER DIFFERS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "WINTER → STWJ south of Himalaya sector",
+        "STWJ → steers western disturbances east",
+        "SUMMER → tropical easterly jet develops",
+        "RULE → jets are parts of wider circulation",
+        "CLOSE DISTINCTION: Humidity, relative humidity and dew point differ"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WINTER → STWJ south of Himalaya sector",
+            "STWJ → steers western disturbances east"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SUMMER → tropical easterly jet develops",
+            "RULE → jets are parts of wider circulation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Humidity, relative humidity and dew point differ",
+            "weather differs from climate, jet stream from surface wind, and a western disturbance is an eastward-moving extratropical system"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → jets are parts of wider circulation.",
+      "source_references": [
+        "STWJ and tropical easterly jet",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\13_Weather-Elements.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\13_India-JetStream-Western-Disturbances.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-13\\g3\\geography-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "WESTERN-DISTURBANCE CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WESTERN-DISTURBANCE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "UPPER TROUGH",
+          "role": "outcome"
+        },
+        {
+          "text": "EASTWARD WESTERLY MOTION",
+          "role": "comparison"
+        },
+        {
+          "text": "MOISTURE + DYNAMICAL LIFT",
+          "role": "evidence"
+        },
+        {
+          "text": "CLOUD AND RAIN/SNOW",
+          "role": "primary"
+        },
+        {
+          "text": "HIMALAYA + PLAINS",
+          "role": "outcome"
+        },
+        {
+          "text": "TERRAIN-SPECIFIC IMPACTS",
+          "role": "comparison"
+        },
+        {
+          "text": "BENEFICIAL OR DAMAGING BY TIMING/INTENSITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UPPER TROUGH / LOW → eastward westerly motion",
+        "MOISTURE + DYNAMICAL LIFT → cloud and rain/snow",
+        "HIMALAYA + PLAINS → terrain-specific impacts",
+        "OUTCOME → beneficial or damaging by timing/intensity",
+        "EVIDENCE LIMIT: Jet position is one control among topography, blocking, moisture supply and synoptic evolution"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "UPPER TROUGH / LOW → eastward westerly motion",
+            "MOISTURE + DYNAMICAL LIFT → cloud and rain/snow"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HIMALAYA + PLAINS → terrain-specific impacts",
+            "OUTCOME → beneficial or damaging by timing/intensity"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Jet position is one control among topography, blocking, moisture supply and synoptic evolution",
+            "event attribution and seasonal forecasts require dated agency evidence and probabilistic language."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Jet position is one control among topography, blocking, moisture supply and synoptic evolution; event attribution and seasonal forecasts require dated agency evidence and probabilistic language.",
+      "source_references": [
+        "Western disturbances and IMD observations",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\13_Weather-Elements.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\13_India-JetStream-Western-Disturbances.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-13\\g3\\geography-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "FORECAST EVIDENCE LADDER",
+      "structural_type": "institutional-ladder",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "FORECAST EVIDENCE LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "PILOT BALLOON",
+          "role": "outcome"
+        },
+        {
+          "text": "UPPER-AIR STATE",
+          "role": "institution"
+        },
+        {
+          "text": "SATELLITE + RADAR",
+          "role": "evidence"
+        },
+        {
+          "text": "CLOUD AND PRECIPITATION",
+          "role": "primary"
+        },
+        {
+          "text": "NWP ENSEMBLE",
+          "role": "outcome"
+        },
+        {
+          "text": "SCENARIOS AND UNCERTAINTY",
+          "role": "comparison"
+        },
+        {
+          "text": "ACTION; LATER OBSERVATIONS VERIFY OUTCOME",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RADIOSONDE / PILOT BALLOON → upper-air state",
+        "SATELLITE + RADAR → cloud and precipitation",
+        "NWP ENSEMBLE → scenarios and uncertainty",
+        "WARNING → action; later observations verify outcome"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RADIOSONDE / PILOT BALLOON → upper-air state",
+            "SATELLITE + RADAR → cloud and precipitation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NWP ENSEMBLE → scenarios and uncertainty",
+            "WARNING → action; later observations verify outcome"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RADIOSONDE / PILOT BALLOON → upper-air state",
+            "SATELLITE + RADAR → cloud and precipitation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NWP ENSEMBLE → scenarios and uncertainty; WARNING → action; later observations verify outcome.",
+      "source_references": [
+        "Verified PYQs and forecast discipline",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\13_Weather-Elements.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\13_India-JetStream-Western-Disturbances.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-13\\g3\\geography-13_Complete-Learning-Session_2026-09-01.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "JET STREAMS ARE FAST, NARROW UPPER-TROPOSPHERIC WIND BANDS.",
+          "role": "outcome"
+        },
+        {
+          "text": "STWJ LIES SOUTH OF THE HIMALAYAS IN WINTER AND",
+          "role": "comparison"
+        },
+        {
+          "text": "NORTHWARD WITHDRAWAL OF STWJ IS A PRE-CONDITION FOR SW",
+          "role": "evidence"
+        },
+        {
+          "text": "TEJ DEVELOPS AS PART OF THE SUMMER MONSOON'S UPPER-AIR",
+          "role": "primary"
+        },
+        {
+          "text": "WESTERN DISTURBANCES ARE EXTRA-TROPICAL, NON-MONSOONAL LOW-PRESSURE SYSTEMS FROM THE",
+          "role": "outcome"
+        },
+        {
+          "text": "WDS BRING WINTER/EARLY-SPRING RAIN TO PUNJAB, HARYANA, DELHI AND",
+          "role": "comparison"
+        },
+        {
+          "text": "THEY ARE VITAL FOR RABI CROPS SUCH AS WHEAT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Jet streams are fast, narrow upper-tropospheric wind bands.",
+            "STWJ lies south of the Himalayas in winter and acts as the conveyor for Western Disturbances.",
+            "Northward withdrawal of STWJ is a pre-condition for SW monsoon onset.",
+            "TEJ develops as part of the summer monsoon's upper-air circulation. Tibetan/Asian heating matters,"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "Western Disturbances are extra-tropical, non-monsoonal low-pressure systems from the Mediterranean moving east via Iran-Afghanistan-Pakistan.",
+            "WDs bring winter/early-spring rain to Punjab, Haryana, Delhi and UP and snow to J&K, HP and Uttarakhand",
+            "they are vital for Rabi crops such as wheat, mustard and gram.",
+            "In May–June, intense heating over north-west India supports the hot, dry Loo. Its timing and strength"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Altitude lowers temperature by about 6.5 deg C/km in the notes",
+            "the Himalayan barrier gives India warmer winters than comparable latitudes by blocking Central Asian cold air.",
+            "STWJ steers Western Disturbances in winter.",
+            "STWJ's northward shift is essential for SW monsoon onset."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

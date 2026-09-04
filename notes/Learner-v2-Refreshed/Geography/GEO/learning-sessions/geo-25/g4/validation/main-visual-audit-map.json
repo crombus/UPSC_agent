@@ -1,0 +1,2094 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-25\\g4\\geography-25_Complete-Learning-Session_2026-09-01.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-25\\g4\\geography-25_Complete-Learning-Session_2026-09-01.pdf",
+  "mode": "main",
+  "topic_key": "geography-25",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Arctic or Polar Climate - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 418.024
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 189.022
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-25\\g4\\assets\\geography-25_Teaching-Navigation_2026-08-22.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 560.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 252.956
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 63,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Polar climate location: The polar type of climate and vegetation is found mainly north of the Arctic Circle in the Northern Hemisphere, with two subdivisions: ice-cap covering Greenland and high-latitude highlands under permanent snow, and ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 85,
+      "heading": "VISUAL FIRST",
+      "preview": "POLAR CLIMATE LOCATION AND SUBDIVISIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 476.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 114,
+      "markdown_body_line_end": 131,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - POLAR CLIMATE LOCATION AND SUBDIVISIONS",
+      "preview": "START / CONCEPT: FOUNDATION — Polar climate location and subdivisions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 321
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 142,
+      "markdown_body_line_end": 142,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Temperature character - Cold desert precipitation Qualified use: Explain the sub-10-degree warmest month and low snow precipitation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 388.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 321.424
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 157,
+      "markdown_body_line_end": 164,
+      "heading": "VISUAL FIRST",
+      "preview": "TEMPERATURE AND PRECIPITATION CHARACTER",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 193,
+      "markdown_body_line_end": 210,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - TEMPERATURE AND PRECIPITATION CHARACTER",
+      "preview": "START / CONCEPT: FOUNDATION — Temperature and precipitation character",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 245
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 345.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 134.091
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 221,
+      "markdown_body_line_end": 221,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Tundra vegetation: Tundra is treeless; in sheltered spots stunted birches, dwarf willows and undersized alders survive; coastal lowlands carry hardy grasses and reindeer moss which is actually a lichen providing the only pasturage for reind",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 598.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 236,
+      "markdown_body_line_end": 243,
+      "heading": "VISUAL FIRST",
+      "preview": "TUNDRA VEGETATION AND ECOLOGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 417.824
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 346.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 272,
+      "markdown_body_line_end": 289,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - TUNDRA VEGETATION AND ECOLOGY",
+      "preview": "START / CONCEPT: FOUNDATION — Tundra vegetation and ecology",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 273
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 509.891
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 300,
+      "markdown_body_line_end": 300,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Arctic-Antarctic asymmetry: The Arctic is an ocean surrounded by continents while Antarctica is a continent surrounded by ocean; the Arctic carries mainly floating sea ice plus the Greenland ice sheet, while Antarctica holds a vast grounded",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 374.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 294.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 315,
+      "markdown_body_line_end": 319,
+      "heading": "VISUAL FIRST",
+      "preview": "ARCTIC-ANTARCTIC ASYMMETRY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 347,
+      "markdown_body_line_end": 364,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - ARCTIC-ANTARCTIC ASYMMETRY",
+      "preview": "START / CONCEPT: FOUNDATION — Arctic-Antarctic asymmetry",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 321
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 203.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 375,
+      "markdown_body_line_end": 375,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ice-albedo feedback mechanism: Arctic amplification works through the ice-albedo feedback: as warming causes sea ice and snow to retreat, bright high-albedo surfaces are replaced by dark ocean and bare ground, absorbing far more solar radia",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 390,
+      "markdown_body_line_end": 394,
+      "heading": "VISUAL FIRST",
+      "preview": "ICE-ALBEDO FEEDBACK MECHANISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 422,
+      "markdown_body_line_end": 439,
+      "heading": "CLOSING RECALL FLOW - CORE - ICE-ALBEDO FEEDBACK MECHANISM",
+      "preview": "START / CONCEPT: CORE — Ice-albedo feedback mechanism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 329
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 450,
+      "markdown_body_line_end": 450,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Permafrost thaw and carbon Qualified use: Explain the second feedback loop alongside the albedo mechanism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 421.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 354.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 465,
+      "markdown_body_line_end": 469,
+      "heading": "VISUAL FIRST",
+      "preview": "PERMAFROST CARBON FEEDBACK",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 497,
+      "markdown_body_line_end": 514,
+      "heading": "CLOSING RECALL FLOW - CORE - PERMAFROST CARBON FEEDBACK",
+      "preview": "START / CONCEPT: CORE — Permafrost carbon feedback",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 258
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 449.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 228.091
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 525,
+      "markdown_body_line_end": 525,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sea-level rule: Floating sea-ice melt does not raise sea level; only grounded ice loss from Greenland and Antarctica transfers mass to the ocean; ice-shelf loss removes buttressing and can accelerate grounded-ice discharge.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 540,
+      "markdown_body_line_end": 544,
+      "heading": "VISUAL FIRST",
+      "preview": "SEA-LEVEL GROUNDED-ICE RULE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 572,
+      "markdown_body_line_end": 589,
+      "heading": "CLOSING RECALL FLOW - CORE - SEA-LEVEL GROUNDED-ICE RULE",
+      "preview": "START / CONCEPT: CORE — Sea-level grounded-ice rule",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 252
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 600,
+      "markdown_body_line_end": 600,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Arctic shipping prospects Qualified use: Balance the shorter-route advantage against the severe practical limitations.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 615,
+      "markdown_body_line_end": 619,
+      "heading": "VISUAL FIRST",
+      "preview": "ARCTIC SHIPPING AND PRACTICAL CONSTRAINTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 647,
+      "markdown_body_line_end": 664,
+      "heading": "CLOSING RECALL FLOW - CORE - ARCTIC SHIPPING AND PRACTICAL CONSTRAINTS",
+      "preview": "START / CONCEPT: CORE — Arctic shipping and practical constraints",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 163
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 406.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 195.491
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 675,
+      "markdown_body_line_end": 675,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Arctic governance Qualified use: Map maritime-law claims, the Arctic forum and India's role.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 88.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 801.024
+        }
+      },
+      "pdf_pages": [
+        19,
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 690,
+      "markdown_body_line_end": 694,
+      "heading": "VISUAL FIRST",
+      "preview": "ARCTIC GOVERNANCE AND INDIA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 620.424
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 722,
+      "markdown_body_line_end": 739,
+      "heading": "CLOSING RECALL FLOW - CORE - ARCTIC GOVERNANCE AND INDIA",
+      "preview": "START / CONCEPT: CORE — Arctic governance and India",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 137
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 268.024
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 67.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 750,
+      "markdown_body_line_end": 750,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Arctic Indigenous peoples Qualified use: Identify Arctic Indigenous communities and their diverse livelihoods.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 765,
+      "markdown_body_line_end": 769,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIGENOUS PEOPLES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 417.824
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 376.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 797,
+      "markdown_body_line_end": 814,
+      "heading": "CLOSING RECALL FLOW - CORE - INDIGENOUS PEOPLES",
+      "preview": "START / CONCEPT: CORE — Indigenous peoples",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 291
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 825,
+      "markdown_body_line_end": 825,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: India cold desert Ladakh - Ladakh cold desert mechanism Qualified use: Explain the rain-shadow and radiative-cooling mechanism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 417.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 350.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 840,
+      "markdown_body_line_end": 847,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA COLD DESERT LADAKH",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 876,
+      "markdown_body_line_end": 893,
+      "heading": "CLOSING RECALL FLOW - CORE - INDIA COLD DESERT LADAKH",
+      "preview": "START / CONCEPT: CORE — India cold desert Ladakh",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 307
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 330.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 79.891
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 904,
+      "markdown_body_line_end": 904,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Prelims: Separate the agent, landform, location, status and scale attached to Ladakh land use and Changpa.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 919,
+      "markdown_body_line_end": 923,
+      "heading": "VISUAL FIRST",
+      "preview": "LADAKH LAND USE AND CHANGPA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 419.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 951,
+      "markdown_body_line_end": 968,
+      "heading": "CLOSING RECALL FLOW - CORE - LADAKH LAND USE AND CHANGPA",
+      "preview": "START / CONCEPT: CORE — Ladakh land use and Changpa",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 292
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 979,
+      "markdown_body_line_end": 979,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India polar research stations: India's polar research is coordinated by NCPOR in Goa; Antarctic stations are Maitri at Schirmacher Oasis since 1989 and Bharati at Larsemann Hills since 2012; Dakshin Gangotri was the first station from 1983 ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 431.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 350.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 994,
+      "markdown_body_line_end": 1001,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA POLAR RESEARCH PROGRAMME",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1030,
+      "markdown_body_line_end": 1047,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - INDIA POLAR RESEARCH PROGRAMME",
+      "preview": "START / CONCEPT: SYNTHESIS — India polar research programme",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 298
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 345.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 94.091
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1058,
+      "markdown_body_line_end": 1058,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India polar legal framework: India acceded to the Antarctic Treaty in 1983, has the Indian Antarctic Act 2022 and an Arctic Policy 2022 with six pillars; the research focus is on teleconnections between Arctic sea-ice loss and disruption of",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 598.424
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1073,
+      "markdown_body_line_end": 1077,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA POLAR LEGAL FRAMEWORK",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 403.624
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 362.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1105,
+      "markdown_body_line_end": 1122,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - INDIA POLAR LEGAL FRAMEWORK",
+      "preview": "START / CONCEPT: SYNTHESIS — India polar legal framework",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 289
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1133,
+      "markdown_body_line_end": 1133,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: 2021 GS-I PYQ ownership Qualified use: Close with the verified PYQ demand and the four-channel answer spine.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 345.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1148,
+      "markdown_body_line_end": 1152,
+      "heading": "VISUAL FIRST",
+      "preview": "2021 PYQ DEMAND AND ANSWER SPINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1179,
+      "markdown_body_line_end": 1182,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography*. ✅ = from source book · ⚠️ = inference ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 442.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 347.624
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1189,
+      "markdown_body_line_end": 1192,
+      "heading": "1. What & Where (G.C. Leong)",
+      "preview": "Sub-type | Where | Ground cover",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Sub-type",
+          "Where",
+          "Ground cover"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 292.224
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 214.022
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1201,
+      "markdown_body_line_end": 1201,
+      "heading": "2. Climate",
+      "preview": "🔑 Trap: The polar climate is a **cold desert** — precipitation is **low** (mostly snow), not heavy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 121.222
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 90.754
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1243,
+      "markdown_body_line_end": 1246,
+      "heading": "9. Ice, ocean and geopolitics: the polar regions as a changing critical feature",
+      "preview": "**Why this section exists:** the syllabus names *ice caps* among the critical geographical features whose change and effects must be explained. This file described the tundra climate but carried **no Antarctic content**, no mechanism for Ar",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 342.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 247.024
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1250,
+      "markdown_body_line_end": 1257,
+      "heading": "9.1 Arctic and Antarctic are not symmetrical",
+      "preview": " | **Arctic** | **Antarctic**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "",
+          "**Arctic**",
+          "**Antarctic**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 534.69
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1259,
+      "markdown_body_line_end": 1261,
+      "heading": "9.1 Arctic and Antarctic are not symmetrical",
+      "preview": "🔑 **Trap:** never treat the two poles as equivalent. \"Melting polar ice\" merges a floating sea-ice change, a grounded-ice-sheet change and a mountain-glacier change that have different causes and different consequences. The distinction is t",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 534.69
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 475.822
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1265,
+      "markdown_body_line_end": 1276,
+      "heading": "9.2 Arctic amplification: the mechanism",
+      "preview": "WARMING -> SEA ICE AND SNOW RETREAT",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 453.822
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 342.822
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1280,
+      "markdown_body_line_end": 1286,
+      "heading": "9.3 Consequences, in order of confidence",
+      "preview": "Consequence | Mechanism | Note",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Consequence",
+          "Mechanism",
+          "Note"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 320.822
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 55.82
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1309,
+      "markdown_body_line_end": 1311,
+      "heading": "9.4 The opening Arctic: routes, resources and governance",
+      "preview": "⚠️ **Factual caution:** do **not** quote sea-ice extent minima, ice-sheet mass-loss rates, an Arctic warming multiple, route distances in nautical miles, transit-voyage counts, or estimated resource volumes from memory. Each requires a name",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 528.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 469.224
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1317,
+      "markdown_body_line_end": 1322,
+      "heading": "10.1 Directive decoding",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 428.224
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 218.022
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1349,
+      "markdown_body_line_end": 1355,
+      "heading": "10.3 Evidence units available in this file",
+      "preview": "**Claim:** the same physical change produces both a global risk and a commercial opportunity. **Evidence:** the retreat of Arctic sea ice lengthens the navigable season along northern routes while simultaneously accelerating regional warmin",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 643.491
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 520.024
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1357,
+      "markdown_body_line_end": 1362,
+      "heading": "10.3 Evidence units available in this file",
+      "preview": "**Claim:** permafrost is infrastructure, not merely a soil condition. **Evidence:** thaw removes the frozen ground's bearing capacity beneath roads, pipelines, railways and buildings across the settled Arctic and sub-Arctic. **Significance:",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 520.024
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 432.756
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1368,
+      "markdown_body_line_end": 1369,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 432.756
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 366.088
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1375,
+      "markdown_body_line_end": 1377,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 314.488
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 238.587
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1383,
+      "markdown_body_line_end": 1383,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 199.387
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 154.719
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1388,
+      "markdown_body_line_end": 1405,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - 2021 PYQ DEMAND AND ANSWER SPINE",
+      "preview": "START / CONCEPT: SYNTHESIS — 2021 PYQ demand and answer spine",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 288
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2310,
+      "markdown_body_line_end": 2311,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 712.691
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 646.024
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2317,
+      "markdown_body_line_end": 2319,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 594.424
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 518.522
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2325,
+      "markdown_body_line_end": 2325,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 479.322
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 434.654
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2583,
+      "markdown_body_line_end": 2586,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India + application) · **GS Paper:** GS-I / GS-III **Grounded in:** Majid Husain, *Indian Geography* & *Indian & World Geography*; D.R. Khullar, *India: A Comprehensive Geography*. ✅ = from sourc",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 707.224
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2602,
+      "markdown_body_line_end": 2607,
+      "heading": "2. Why Ladakh is a cold desert - the mechanism",
+      "preview": "Control | Effect (⚠️ mechanism)",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Control",
+          "Effect (⚠️ mechanism)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 544.624
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 435.222
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2609,
+      "markdown_body_line_end": 2610,
+      "heading": "2. Why Ladakh is a cold desert - the mechanism",
+      "preview": "🔑 Trap: Ladakh is a **desert because of the rain-shadow + altitude**, not because it is hot — it is a **COLD** desert (cf. the hot Thar desert of Rajasthan).",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 435.222
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 390.554
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2672,
+      "markdown_body_line_end": 2680,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Polar climate world distribution",
+      "preview": "ICE-CAP -> Greenland and high-latitude highlands, permanent snow cover",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 369.891
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 287.491
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2684,
+      "markdown_body_line_end": 2689,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Temperature-precipitation profile",
+      "preview": "WARMEST MONTH -> seldom exceeds about 10 degrees C (June/July)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2693,
+      "markdown_body_line_end": 2698,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Tundra vegetation belt",
+      "preview": "PERMAFROST -> prevents deep rooting, impedes drainage",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2702,
+      "markdown_body_line_end": 2707,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Arctic-Antarctic asymmetry",
+      "preview": "ARCTIC -> ocean surrounded by continents; mainly floating sea ice",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2711,
+      "markdown_body_line_end": 2716,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Ice-albedo feedback loop",
+      "preview": "SEA ICE AND SNOW RETREAT -> bright surface replaced by dark ocean/ground",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2720,
+      "markdown_body_line_end": 2725,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Permafrost carbon feedback",
+      "preview": "WARMING -> thaws frozen ground containing ancient organic matter",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2729,
+      "markdown_body_line_end": 2734,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Sea-level grounded-ice rule",
+      "preview": "FLOATING SEA ICE MELTS -> sea level does NOT rise (already displacing water)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2738,
+      "markdown_body_line_end": 2743,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Arctic shipping constraints",
+      "preview": "ADVANTAGE -> routes shorter than Suez/Panama between NE Asia and NW Europe",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 292.691
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2747,
+      "markdown_body_line_end": 2752,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: India cold desert Ladakh",
+      "preview": "RAIN-SHADOW -> Greater Himalaya blocks SW monsoon, Trans-Himalaya stays arid",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2756,
+      "markdown_body_line_end": 2764,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: India polar stations",
+      "preview": "DAKSHIN GANGOTRI (1983) -> first station, now decommissioned/buried in ice",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 631.091
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2768,
+      "markdown_body_line_end": 2776,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: India polar legal framework",
+      "preview": "ANTARCTIC TREATY 1959 -> India acceded 1983; consultative party",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 609.091
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 526.691
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2780,
+      "markdown_body_line_end": 2785,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Polar climate answer spine",
+      "preview": "DEFINE -> cold desert north of Arctic Circle; ice-cap vs tundra subdivisions",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 504.691
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 452.891
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+ASCII MASTER FLOW — PANEL 1/8: Endogenic system: plate motion, strain release and magma generation
++------------------- ENDOGENIC SYSTEM -------------------+
+| Internal heat + gravity + plate motion reshape crust.  |
++---------------------------------------------------------+
+                         |
+           +-------------+-------------+
+           |                           |
+     STRESS ACCUMULATION          MAGMA GENERATION
+           |                           |
+ load -> lock -> strain       divergence: decompression
+           |                  subduction: volatile flux
+ rupture -> slip              plume: anomalous upwelling
+           |                           |
+      EARTHQUAKE                     VULCANISM
+           \                           /
+            +---- landforms + hazards + resources ----+
+
+FAULT PAIRS
+tension -> normal | compression -> reverse/thrust | shear -> strike-slip
+
+Plate motion loads a region; sudden fault rupture is the immediate quake source.
+
+ASCII MASTER FLOW — PANEL 2/8: Earthquake source geometry, depth and seismogram logic
+                         SURFACE
+station A -------- epicentre -------- station B
+                        |
+                        |
+                 focus / hypocentre
+              rupture begins on fault plane
+
+SEISMOGRAM ARRIVAL ORDER
+P first -> S second -> Love and Rayleigh later
+     |
+P-S interval at one station gives source distance
+     |
+three or more distance circles estimate the epicentre
+
+DEPTH CLASS
+shallow: 0-70 km | intermediate: 70-300 km | deep: 300-700 km
+
+SEQUENCE FIREWALL
+foreshock, mainshock and aftershock are relational labels;
+a swarm has no single clearly dominant event.
+
+Epicentre is a vertical projection, not necessarily the worst-damaged place.
+
+ASCII MASTER FLOW — PANEL 3/8: Seismic waves, shadow zones, magnitude and intensity
++----------+------------------+---------------+--------------------+
+| WAVE     | MOTION           | MEDIUM        | MAIN CLUE          |
++----------+------------------+---------------+--------------------+
+| P        | compression      | solid, liquid | core refraction    |
+| S        | transverse shear | solid only    | liquid outer core  |
+| Love     | horizontal shear | surface       | lateral shaking    |
+| Rayleigh | rolling ellipse  | surface       | mixed motion       |
++----------+------------------+---------------+--------------------+
+P shadow about 103-142 deg | direct S shadow beyond about 103 deg
+
+MAGNITUDE: one source measure; Mw uses seismic moment
+moment = rigidity x fault area x average slip
++1 local magnitude gives about 10x amplitude and 31.6x energy
+
+INTENSITY: place-specific observed effects; many values for one event
+
+source x path x site x exposure x vulnerability / capacity -> damage
+
+ASCII MASTER FLOW — PANEL 4/8: Global seismic belts, cascading hazards and tsunami sequence
+GLOBAL EARTHQUAKE DISTRIBUTION
++----------------------+----------------------+--------------------+
+| Circum-Pacific       | Mediterranean-       | Ridges/transforms  |
+| trench + slab + arc  | Himalayan collision | shallow events     |
+| megathrust + tsunami | complex convergence | basaltic ridges    |
++----------------------+----------------------+--------------------+
+Intraplate events reactivate inherited structures; stable is not aseismic.
+
+CASCADE
+shaking -> amplification / liquefaction / lateral spreading
+        -> landslide / fire / lifeline failure / dam distress
+
+TSUNAMI
+submarine megathrust -> vertical sea-floor displacement
+-> long low deep-ocean wave -> coastal shoaling
+-> run-up + inundation + return flow
+
+First wave need not be largest; withdrawal need not occur before every event.
+Risk varies with bathymetry, bay shape, shelf, exposure and evacuation.
+
+ASCII MASTER FLOW — PANEL 5/8: Volcano anatomy, magma controls, landforms and eruption styles
+                       ash plume
+                          /\
+                         /  \ crater
+                  lava --    -- lava
+                         |vent|
+                dyke ----|    |---- sill
+                         |conduit
+                    magma chamber
+
+Magma below surface | lava after eruption
+Silica up -> viscosity up -> degassing harder -> explosivity may rise
+Temperature up -> viscosity generally down
+Retained gas + decompression -> bubbles -> fragmentation
+
+FORMS: batholith, laccolith, lopolith, phacolith, dyke, sill
+Dyke cuts layers; sill follows layers.
+
+STYLE: fissure/Icelandic -> Hawaiian -> Strombolian -> Vulcanian -> Plinian
+FORM: shield | composite | cinder cone | dome | fissure plateau
+STATUS: active | dormant | extinct; status is not a compulsory life cycle.
+
+ASCII MASTER FLOW — PANEL 6/8: Volcanic settings, global belts, products and environmental effects
++----------------+----------------------+-------------------------+
+| SETTING        | MELTING MECHANISM    | EXPRESSION              |
++----------------+----------------------+-------------------------+
+| Divergent      | decompression        | ridge, rift, basalt     |
+| Subduction     | slab volatile flux   | trench-slab-arc system  |
+| Plume          | mantle upwelling     | flood basalt, hot spot  |
++----------------+----------------------+-------------------------+
+Ring of Fire = trench + descending slab + earthquakes + volcanic arc
+Plume model: broad head may form flood basalt; tail may form age chain.
+Deccan Trap is a fissure-fed flood-basalt plateau, not a giant cone.
+
+HAZARDS: lava | ash | density currents | lahars | gases
+CLIMATE: stratospheric sulphate aerosol can cause temporary cooling
+BENEFITS: new crust/land | soil parent | geothermal energy | minerals
+
+Impact converges through wind, relief, drainage, exposure and preparedness.
+
+ASCII MASTER FLOW — PANEL 7/8: India seismic geography, zonation, institutions and resilience stack
+INDIA REGIONAL HIERARCHY
+Himalaya        : collision, thrusts, slopes, dense corridors
+North-East      : convergence, strike-slip complexity
+Andaman         : subduction, tsunami, Barren Island volcanism
+Kachchh         : inherited rift and fault reactivation
+Peninsula       : relatively stable; Koyna and Latur show residual risk
+Indo-Gangetic   : alluvium, amplification and high exposure
+                         |
+MACROZONATION: broad design hazard, not prediction
+MICROZONATION: geology + soil + motion + water + liquefaction + GIS
+                         |
+NCS/MoES -> monitoring | GSI -> geology | BIS -> standards
+NDMA/NIDM -> guidance | INCOIS -> tsunami warning
+States/ULBs -> approvals + inspection + enforcement
+                         |
+site -> regular load path -> ductility -> connections
+-> non-structural safety -> quality control -> retrofit -> drills
+
+Early warning detects rupture after it starts; it is not prediction.
+
+ASCII MASTER FLOW — PANEL 8/8: Hazard-risk-response and Mains answer spine for seismic India
+QUESTION: Why can similar earthquakes produce unequal disasters?
+                             |
+HAZARD: source size + depth + rupture geometry + path
+                             |
+SITE: basin sediment + groundwater + slope + liquefaction potential
+                             |
+EXPOSURE: people + buildings + lifelines + time of occurrence
+                             |
+VULNERABILITY: weak design + irregular form + poor maintenance
+                             |
+CAPACITY: codes + enforcement + retrofit + warning + response
+                             |
+RISK VERDICT: hazard becomes disaster through social and spatial filters
+
+15-MARK INDIA SPINE
+tectonic regions -> site modifiers -> exposure/vulnerability -> cases
+-> zonation and microzonation -> construction and governance -> conclusion
+
+TRAPS: focus is not epicentre | magnitude is not intensity
+tsunami is not a tide | caldera is not an ordinary crater
+zone map is not prediction | code publication is not enforcement.

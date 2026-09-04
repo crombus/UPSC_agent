@@ -1,0 +1,288 @@
+Geography 02 — The Earth’s Crust, Rocks / India Geological Structure — COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+START / CENTRAL QUESTION
+  Master vocabulary: what exactly are we studying?: A rock aggregate is therefore not “a mineral”, and a landform cannot be inferred from a rock name alone.
+        |
+        v
++-- SESSION 01: MASTER VOCABULARY: WHAT EXACTLY ARE WE STUDYING?
+|   DEFINITION / TERMS : Master vocabulary: what exactly are we studying?: A rock aggregate is therefore not “a mineral”, and a landform cannot be inferred from a rock name alone.
+|   MECHANISM / ARGUMENT: Structure → process → surface: lithology, bedding, joints, faults and tectonic setting create a template; weathering, rivers, glaciers, waves and human use modify it.
+|   CONSEQUENCE / CONTRAST: A rock aggregate is therefore not “a mineral”, and a landform cannot be inferred from a rock name alone.
+|   TRAP / ANSWER-USE: A rock aggregate is therefore not “a mineral”, and a landform cannot be inferred from a rock name alone.
+|   EXAM OPENING: Classification: CORE PRELIMS + CORE MAINS
++--
+        |
+        v
++-- SESSION 02: CRUST AND LITHOSPHERE: RELATED, NOT IDENTICAL
+|   DEFINITION / TERMS : Crust is compositional; lithosphere is mechanical and includes the crust plus rigid uppermost mantle.
+|   MECHANISM / ARGUMENT: The contrast, mechanism and exceptions earn more marks than a doubtful number.
+|   CONSEQUENCE / CONTRAST: The contrast, mechanism and exceptions earn more marks than a doubtful number.
+|   TRAP / ANSWER-USE: They are useful mnemonics, not complete modern compositional layers.
+|   EXAM OPENING: Classification: CORE PRELIMS + SUPPORTING MAINS
++--
+        |
+        v
++-- SESSION 03: THE COMPLETE ROCK CYCLE: A NETWORK, NOT A CONVEYOR BELT
+|   DEFINITION / TERMS : Lithification means turning loose sediment into rock through compaction and cementation.
+|   MECHANISM / ARGUMENT: Lithification means turning loose sediment into rock through compaction and cementation.
+|   CONSEQUENCE / CONTRAST: Metamorphism normally occurs without complete melting; if melting occurs, the material re-enters the igneous path.
+|   TRAP / ANSWER-USE: “Igneous → sedimentary → metamorphic” is one teaching path, not the only path.
+|   EXAM OPENING: Classification: CORE PRELIMS + CORE MAINS
++--
+        |
+        v
++-- SESSION 04: IGNEOUS ROCKS: COOLING HISTORY, COMPOSITION AND TEXTURE
+|   DEFINITION / TERMS : Porphyritic means large crystals embedded in a finer groundmass, showing two-stage cooling.
+|   MECHANISM / ARGUMENT: “Primary rock” is an older genetic phrase for igneous rock because crystallisation creates the original mineral framework.
+|   CONSEQUENCE / CONTRAST: Porphyritic means large crystals embedded in a finer groundmass, showing two-stage cooling.
+|   TRAP / ANSWER-USE: It does not mean every igneous exposure is oldest or economically primary.
+|   EXAM OPENING: Classification: CORE PRELIMS + CORE MAINS
++--
+        |
+        v
++-- SESSION 05: SEDIMENTARY ROCKS: SEDIMENT PATHWAY AND FIELD CLUES
+|   DEFINITION / TERMS : Sedimentary rocks: sediment pathway and field clues: Bedding/stratification means depositional layering.
+|   MECHANISM / ARGUMENT: Sedimentary rocks convert weathered, transported or chemically and biologically produced material into layered rock through deposition, compaction and cementation, while preserving clues such as fossils, ripples and mud cracks.
+|   CONSEQUENCE / CONTRAST: Fossils, ripple marks, mud cracks and cross-bedding can reveal environment, current direction, drying or younging.
+|   TRAP / ANSWER-USE: Limestone has several origins; do not call every limestone exclusively organic or chemical.
+|   EXAM OPENING: Classification: CORE PRELIMS + CORE MAINS
++--
+        |
+        v
++-- SESSION 06: METAMORPHIC ROCKS: PROTOLITH, GRADE AND FABRIC
+|   DEFINITION / TERMS : Protolith means the parent rock before metamorphism.
+|   MECHANISM / ARGUMENT: Metamorphism changes a protolith in the solid state through heat, pressure, differential stress and reactive fluids, producing new minerals and fabrics without requiring complete melting.
+|   CONSEQUENCE / CONTRAST: Agents are heat, confining pressure, differential stress—unequal directed pressure—and chemically active fluids.
+|   TRAP / ANSWER-USE: Exam-safe paths: shale/mudstone → slate → phyllite → schist → gneiss is a common increasing-grade teaching sequence, not a universal compulsory path.
+|   EXAM OPENING: Classification: CORE PRELIMS + CORE MAINS
++--
+        |
+        v
++-- SESSION 07: ROCK PROPERTIES AND APPLIED GEOGRAPHY
+|   DEFINITION / TERMS : Rock properties and applied geography: A dam, tunnel or foundation requires site investigation; “granite is strong” or “limestone is weak” is not an engineering conclusion.
+|   MECHANISM / ARGUMENT: A dam, tunnel or foundation requires site investigation; “granite is strong” or “limestone is weak” is not an engineering conclusion.
+|   CONSEQUENCE / CONTRAST: Basalt aquifers are heterogeneous: vesicular tops and flow contacts may transmit water; compact interiors may not.
+|   TRAP / ANSWER-USE: A dam, tunnel or foundation requires site investigation; “granite is strong” or “limestone is weak” is not an engineering conclusion.
+|   EXAM OPENING: Classification: CORE PRELIMS + CORE MAINS
++--
+        |
+        v
++-- SESSION 08: CONTINENTAL DRIFT: WEGENER’S EVIDENCE AND LIMITATION
+|   DEFINITION / TERMS : Continental drift: Wegener’s evidence and limitation: Gondwana here means a southern palaeocontinent.
+|   MECHANISM / ARGUMENT: Ocean-floor evidence later supplied the mechanism.
+|   CONSEQUENCE / CONTRAST: Gondwana here means a southern palaeocontinent.
+|   TRAP / ANSWER-USE: Answer-use: Classification: CORE PRELIMS + CORE MAINS
+|   EXAM OPENING: Classification: CORE PRELIMS + CORE MAINS
++--
+        |
+        v
++-- SESSION 09: SEA-FLOOR SPREADING: OCEANIC EVIDENCE AND MASS BALANCE
+|   DEFINITION / TERMS : Sea-floor spreading: oceanic evidence and mass balance: Ocean floor is geologically young relative to continental shields because it is recycled.
+|   MECHANISM / ARGUMENT: Ocean floor is geologically young relative to continental shields because it is recycled.
+|   CONSEQUENCE / CONTRAST: Ocean floor is geologically young relative to continental shields because it is recycled.
+|   TRAP / ANSWER-USE: The Earth does not expand; ridge creation is balanced by trench destruction.
+|   EXAM OPENING: Classification: CORE PRELIMS + CORE MAINS
++--
+        |
+        v
++-- SESSION 10: PLATE TECTONICS: BOUNDARY MATRIX AND LANDFORM DIAGNOSIS
+|   DEFINITION / TERMS : Lithospheric plates move over the asthenosphere; slab pull, ridge-related forces and mantle flow form a coupled system.
+|   MECHANISM / ARGUMENT: Plate boundaries are diagnosed by motion and products: divergence creates crust, subduction destroys oceanic crust, continent collision thickens crust, and transform motion conserves crust while generating shallow earthquakes.
+|   CONSEQUENCE / CONTRAST: Plate-interior activity occurs at inherited faults, rifts, hot spots and intraplate stress concentrations; boundaries explain global clustering, not every event.
+|   TRAP / ANSWER-USE: Plate-interior activity occurs at inherited faults, rifts, hot spots and intraplate stress concentrations; boundaries explain global clustering, not every event.
+|   EXAM OPENING: Classification: CORE PRELIMS + CORE MAINS
++--
+        |
+        v
++-- SESSION 11: OCEAN-BASIN EVOLUTION: WILSON-CYCLE ANALOGY
+|   DEFINITION / TERMS : Ocean-basin evolution: Wilson-cycle analogy: The Wilson cycle is an analogy for rifting, ocean opening, subduction, closure and suturing, not a fixed destiny that every ocean basin must complete.
+|   MECHANISM / ARGUMENT: Passive margins can accumulate thick sediment wedges and host offshore petroleum systems.
+|   CONSEQUENCE / CONTRAST: Active margins carry trenches, arcs, major earthquakes and volcanism.
+|   TRAP / ANSWER-USE: A basin can stall, reorganise or avoid the ideal sequence; the examples are analogies, not timestamps.
+|   EXAM OPENING: Classification: CORE MAINS + SUPPORTING PRELIMS
++--
+        |
+        v
++-- SESSION 12: ISOSTASY AND OROGENY
+|   DEFINITION / TERMS : Isostasy means buoyant vertical equilibrium between crust/lithosphere and denser material beneath.
+|   MECHANISM / ARGUMENT: Orogeny means mountain building through convergence, folding, thrusting, metamorphism, crustal thickening and uplift.
+|   CONSEQUENCE / CONTRAST: Erosion removes mass, exposes deeper rocks and can produce isostatic response; high relief is therefore dynamic, not a one-time construction.
+|   TRAP / ANSWER-USE: Erosion removes mass, exposes deeper rocks and can produce isostatic response; high relief is therefore dynamic, not a one-time construction.
+|   EXAM OPENING: Classification: CORE MAINS + SUPPORTING PRELIMS
++--
+        |
+        v
++-- SESSION 13: WORLD-TO-INDIA TRANSITION: STRUCTURE EXPRESSED AS RELIEF
+|   DEFINITION / TERMS : World-to-India transition: structure expressed as relief: At the highest school-geography scale, India’s six broad physiographic divisions are the Himalaya/Northern Mountains, Northern Plain, Peninsular Plateau, Indian Desert, Coastal Plains and Islands.
+|   MECHANISM / ARGUMENT: At the highest school-geography scale, India’s six broad physiographic divisions are the Himalaya/Northern Mountains, Northern Plain, Peninsular Plateau, Indian Desert, Coastal Plains and Islands.
+|   CONSEQUENCE / CONTRAST: They are used here only as structural expressions, not as substitutes for the later detailed physiography owners.
+|   TRAP / ANSWER-USE: They are used here only as structural expressions, not as substitutes for the later detailed physiography owners.
+|   EXAM OPENING: Structure controls broad relief and resource opportunity, while climate, weathering, rivers and human use modify it.
++--
+        |
+        v
++-- SESSION 14: SCOPE: GEOLOGICAL STRUCTURE VERSUS PHYSIOGRAPHY AND GEOMORPHOLOGY
+|   DEFINITION / TERMS : Geological structure means the age, lithology, stratigraphic order, folds, faults, joints, basins, cratons and plate-tectonic relations of rocks beneath a region.
+|   MECHANISM / ARGUMENT: Physiography describes the broad surface divisions; geomorphology explains the processes and forms of relief.
+|   CONSEQUENCE / CONTRAST: Therefore geology explains pattern and constraint, not every present landform by itself.
+|   TRAP / ANSWER-USE: The three are linked but not interchangeable.
+|   EXAM OPENING: Classification: CORE PRELIMS + CORE MAINS
++--
+        |
+        v
++-- SESSION 15: GEOLOGICAL TIME, EVIDENCE AND DATING CAUTIONS
+|   DEFINITION / TERMS : Geological time, evidence and dating cautions: Relative order is safer in UPSC unless a precise number is source-verified.
+|   MECHANISM / ARGUMENT: Correct: Usage varies by author and stratigraphic convention.
+|   CONSEQUENCE / CONTRAST: Relative dating uses superposition, cross-cutting relations, unconformities, fossils and correlation.
+|   TRAP / ANSWER-USE: Stratigraphy is not merely a rock-name list.
+|   EXAM OPENING: Classification: CORE PRELIMS + CORE MAINS
++--
+        |
+        v
++-- SESSION 16: INDIAN PLATE: GONDWANA ORIGIN, BREAK-UP, DRIFT AND COLLISION
+|   DEFINITION / TERMS : Indian plate: Gondwana origin, break-up, drift and collision: Continuing convergence is expressed through active thrusting, earthquakes, uplift, erosion and sediment transfer into the foreland and offshore basins.
+|   MECHANISM / ARGUMENT: Sea-floor spreading creates oceanic lithosphere at ridges; subduction consumes it at trenches.
+|   CONSEQUENCE / CONTRAST: India is both an ancient continental fragment and part of an active plate system: this explains the contrast between old shield rocks and young Himalayan tectonic architecture.
+|   TRAP / ANSWER-USE: Collision was not a single instant across the whole margin.
+|   EXAM OPENING: Classification: CORE PRELIMS + CORE MAINS
++--
+        |
+        v
++-- SESSION 17: CRATONS, SHIELDS AND THE STABILISED PENINSULAR BLOCK
+|   DEFINITION / TERMS : Cratons, shields and the stabilised Peninsular block: Peninsular India is a mosaic of ancient cratonic nuclei and intervening mobile belts, later cut by faults, rifts and dykes and locally covered by younger sediments and basalt.
+|   MECHANISM / ARGUMENT: Peninsular India is a mosaic of ancient cratonic nuclei and intervening mobile belts, later cut by faults, rifts and dykes and locally covered by younger sediments and basalt.
+|   CONSEQUENCE / CONTRAST: Peninsular India is a mosaic of ancient cratonic nuclei and intervening mobile belts, later cut by faults, rifts and dykes and locally covered by younger sediments and basalt.
+|   TRAP / ANSWER-USE: It does not mean flat, homogeneous, immobile or earthquake-free.
+|   EXAM OPENING: Classification: CORE PRELIMS + CORE MAINS
++--
+        |
+        v
++-- SESSION 18: ARCHAEAN AND DHARWAR SYSTEMS: DISTRIBUTION AND TERMINOLOGY CONTROL
+|   DEFINITION / TERMS : Archaean and Dharwar systems: distribution and terminology control: Modern geological usage is more refined, so the terms must not be collapsed.
+|   MECHANISM / ARGUMENT: These belts contain schists, quartzites, iron formations, metavolcanics and associated intrusions; exact stratigraphic grouping varies by geological province.
+|   CONSEQUENCE / CONTRAST: Mains use: In a classification answer, give lithology, structure, distribution, significance and a terminology caution.
+|   TRAP / ANSWER-USE: Modern geological usage is more refined, so the terms must not be collapsed.
+|   EXAM OPENING: Classification: CORE PRELIMS + CORE MAINS
++--
+        |
+        v
++-- SESSION 19: PROTEROZOIC PURANA BASINS: CUDDAPAH AND VINDHYAN
+|   DEFINITION / TERMS : The Cuddapah basin is classically developed in Andhra Pradesh, with related Proterozoic successions in central and western India.
+|   MECHANISM / ARGUMENT: Vindhyan rocks form an extensive central Indian succession from eastern Rajasthan through Madhya Pradesh toward the Son valley, with other basin occurrences.
+|   CONSEQUENCE / CONTRAST: Older textbooks group them under Purana, but their detailed ages and correlations are convention-sensitive.
+|   TRAP / ANSWER-USE: Basin thickness and repeated unconformities show episodic subsidence and tectonic reorganisation rather than one uninterrupted quiet deposit.
+|   EXAM OPENING: Classification: CORE PRELIMS + CORE MAINS
++--
+        |
+        v
++-- SESSION 20: GONDWANA SUPERGROUP: RIFT BASINS, COAL AND CONTINENTAL SEDIMENTATION
+|   DEFINITION / TERMS : Gondwana Supergroup: rift basins, coal and continental sedimentation: Faulting and subsidence created accommodation space for river, lake, floodplain and swamp deposits.
+|   MECHANISM / ARGUMENT: Lower parts of the succession include glacially influenced deposits in some basins, followed by coal-bearing sandstone-shale cycles and younger continental strata.
+|   CONSEQUENCE / CONTRAST: They are distinct from Gondwana the palaeocontinent.
+|   TRAP / ANSWER-USE: Gondwana coalfields are not simply surface strips along modern rivers.
+|   EXAM OPENING: Classification: CORE PRELIMS + CORE MAINS
++--
+        |
+        v
++-- SESSION 21: MARINE SEDIMENTARY BASINS, COASTS AND OFFSHORE PETROLEUM LOGIC
+|   DEFINITION / TERMS : Marine sedimentary basins, coasts and offshore petroleum logic: Thick sediment alone is necessary in many settings but never sufficient.
+|   MECHANISM / ARGUMENT: Petroleum requires an effective source rock, burial and maturation, migration, porous reservoir, seal and trap.
+|   CONSEQUENCE / CONTRAST: Petroleum requires an effective source rock, burial and maturation, migration, porous reservoir, seal and trap.
+|   TRAP / ANSWER-USE: Petroleum requires an effective source rock, burial and maturation, migration, porous reservoir, seal and trap.
+|   EXAM OPENING: Classification: CORE PRELIMS + CORE MAINS
++--
+        |
+        v
++-- SESSION 22: DECCAN TRAP: FLOOD-BASALT PROVINCE AND BOUNDED SURFACE LINKAGES
+|   DEFINITION / TERMS : The Deccan Trap is a vast flood-basalt province built by repeated, mainly fissure-fed lava flows around the end-Cretaceous to earliest Cenozoic transition.
+|   MECHANISM / ARGUMENT: The Deccan Trap is a vast flood-basalt province built by repeated, mainly fissure-fed lava flows around the end-Cretaceous to earliest Cenozoic transition.
+|   CONSEQUENCE / CONTRAST: The cause, duration and environmental effects of Deccan volcanism remain active research fields.
+|   TRAP / ANSWER-USE: The Deccan Trap is a vast flood-basalt province built by repeated, mainly fissure-fed lava flows around the end-Cretaceous to earliest Cenozoic transition.
+|   EXAM OPENING: Classification: CORE PRELIMS + CORE MAINS
++--
+        |
+        v
++-- SESSION 23: HIMALAYA: FROM GEOSYNCLINAL LANGUAGE TO MODERN PLATE TECTONICS
+|   DEFINITION / TERMS : Himalaya: from geosynclinal language to modern plate tectonics: A simple north-south classroom cross-section is conceptual and cannot represent every local segment.
+|   MECHANISM / ARGUMENT: Older texts describe Tethyan sediment accumulation in a geosyncline followed by folding.
+|   CONSEQUENCE / CONTRAST: Mains use: Contrast the historical geosynclinal description with the modern plate-tectonic mechanism; then draw a labelled cross-section.
+|   TRAP / ANSWER-USE: 'Geosyncline' can be retained as a historical descriptive term for a long subsiding sedimentary belt, but not as a self-sufficient causal theory.
+|   EXAM OPENING: Classification: CORE PRELIMS + CORE MAINS
++--
+        |
+        v
++-- SESSION 24: INDO-GANGA-BRAHMAPUTRA FORELAND BASIN AND ALLUVIAL FILL
+|   DEFINITION / TERMS : Indo-Ganga-Brahmaputra foreland basin and alluvial fill: The plain is not one uniform layer or one age.
+|   MECHANISM / ARGUMENT: The Northern Plain occupies a foreland depression between the Himalayan orogen and Peninsular basement, filled by large volumes of Cenozoic and Quaternary sediment.
+|   CONSEQUENCE / CONTRAST: Cross-link: Topic 05 drainage; Topic 04 groundwater; Topic 03 earthquake effects.
+|   TRAP / ANSWER-USE: The plain is not one uniform layer or one age.
+|   EXAM OPENING: Classification: CORE PRELIMS + CORE MAINS
++--
+        |
+        v
++-- SESSION 25: COASTS, OFFSHORE BASINS AND ISLAND-ARC VERSUS CORAL-ISLAND DISTINCTION
+|   DEFINITION / TERMS : Coasts, offshore basins and island-arc versus coral-island distinction: Barren Island is an active volcano in this arc setting.
+|   MECHANISM / ARGUMENT: Andaman-Nicobar belongs to an active subduction-related arc-forearc system, whereas Lakshadweep consists of coral atolls on a submarine volcanic-ridge foundation; Indian island geology is therefore not uniform.
+|   CONSEQUENCE / CONTRAST: The emergent islands are coral, unlike the tectonic island-arc setting of Andaman-Nicobar.
+|   TRAP / ANSWER-USE: The island chain also includes sedimentary and uplifted components; it is not simply a row of volcanic cones.
+|   EXAM OPENING: Classification: CORE PRELIMS + CORE MAINS
++--
+        |
+        v
++-- SESSION 26: MAJOR LINEAMENTS, FAULTS AND RIFTS
+|   DEFINITION / TERMS : Major lineaments, faults and rifts: The Narmada-Son structural zone crosses central India and is associated with faulting, rift-valley segments, basin development, magmatism and seismicity in different sectors.
+|   MECHANISM / ARGUMENT: Narmada and Tapi flow west through structurally controlled troughs.
+|   CONSEQUENCE / CONTRAST: The Narmada-Son structural zone crosses central India and is associated with faulting, rift-valley segments, basin development, magmatism and seismicity in different sectors.
+|   TRAP / ANSWER-USE: Their valleys cannot be explained by regional eastward slope alone.
+|   EXAM OPENING: Classification: CORE PRELIMS + CORE MAINS
++--
+        |
+        v
++-- SESSION 27: STRUCTURAL CONTROL OF RELIEF, DRAINAGE, GROUNDWATER AND WATERFALLS
+|   DEFINITION / TERMS : Structural control of relief, drainage, groundwater and waterfalls: The result is differential erosion, not a simple hard-rock/soft-rock binary everywhere.
+|   MECHANISM / ARGUMENT: Mains use: Frame every example as structure - process - landform/water outcome - local qualification.
+|   CONSEQUENCE / CONTRAST: The result is differential erosion, not a simple hard-rock/soft-rock binary everywhere.
+|   TRAP / ANSWER-USE: The result is differential erosion, not a simple hard-rock/soft-rock binary everywhere.
+|   EXAM OPENING: Classification: CORE PRELIMS + CORE MAINS
++--
+        |
+        v
++-- SESSION 28: GEOLOGY, MINERALS, COAL AND PETROLEUM: ASSOCIATION WITHOUT DETERMINISM
+|   DEFINITION / TERMS : Coal is concentrated in Gondwana structural basins; younger coal also occurs in parts of the north-east.
+|   MECHANISM / ARGUMENT: Metallic ores such as iron, manganese, gold and base metals cluster in several ancient shield belts because of magmatic, hydrothermal, sedimentary and metamorphic histories.
+|   CONSEQUENCE / CONTRAST: Metallic ores such as iron, manganese, gold and base metals cluster in several ancient shield belts because of magmatic, hydrothermal, sedimentary and metamorphic histories.
+|   TRAP / ANSWER-USE: It does not imply that all critical minerals lie in one geological province.
+|   EXAM OPENING: Classification: CORE PRELIMS + CORE MAINS
++--
+        |
+        v
++-- SESSION 29: SEISMICITY: HIMALAYA, KACHCHH AND PENINSULAR INTRAPLATE EVENTS
+|   DEFINITION / TERMS : Kachchh is an intraplate high-hazard region with inherited rift faults and damaging historical earthquakes, including the 2001 Bhuj event.
+|   MECHANISM / ARGUMENT: Disaster response doctrine, building-code enforcement and preparedness are owned by Disaster Management; geology provides the source and site-condition framework.
+|   CONSEQUENCE / CONTRAST: Mains use: Explain source, path/site effect and vulnerability separately; do not equate tectonic activity with disaster magnitude.
+|   TRAP / ANSWER-USE: India's seismicity reflects active plate-boundary deformation in the Himalaya and north-east, subduction near Andaman-Nicobar, and intraplate reactivation in Kachchh and parts of the Peninsula.
+|   EXAM OPENING: Classification: CORE PRELIMS + CORE MAINS
++--
+        |
+        v
++-- SESSION 30: REGIONAL COMPARISONS, MAP SKILLS AND ANSWER ARCHITECTURE
+|   DEFINITION / TERMS : !Regional comparison and answer architecture
+|   MECHANISM / ARGUMENT: Cross-sections show mechanism better than decorative maps.
+|   CONSEQUENCE / CONTRAST: Mains use: Use the spine: claim - named geological evidence/region - mechanism/significance - limitation/qualification - verdict.
+|   TRAP / ANSWER-USE: Gondwana basin versus Deccan Trap: fault-bounded continental sedimentary basin with coal measures versus extrusive flood-basalt province with stacked flows.
+|   EXAM OPENING: Classification: CORE PRELIMS + CORE MAINS
++--
+        |
+        v
++-- SESSION 31: NATIONAL CRITICAL MINERAL MISSION: BOUNDED CURRENT ANCHOR
+|   DEFINITION / TERMS : National Critical Mineral Mission: bounded current anchor: India’s surface geography is best explained as inherited geological structure filtered through tectonics, weathering, climate, erosion, sediment transfer and human use, so every high-scoring answer must connect evidence, mechanism, consequence and limitation.
+|   MECHANISM / ARGUMENT: The primary release covers domestic and offshore exploration, mining, beneficiation, processing, recovery from end-of-life products, recycling, research, stockpiling and overseas asset acquisition.
+|   CONSEQUENCE / CONTRAST: The Union Cabinet approved NCMM on 29 January 2025.
+|   TRAP / ANSWER-USE: Mission targets cannot prove a deposit, grade, reserve or specific host rock.
+|   EXAM OPENING: Classification: CORE MAINS + CURRENT LINKAGE
++--
+        |
+        v
+ANSWER-WRITING SPINE
+definition -> exact terms -> mechanism/evidence -> consequence/contrast
+-> objection/trap -> qualified answer-use

@@ -1,0 +1,294 @@
+{
+  "schema_version": 1,
+  "topic_key": "geography-01",
+  "generation": 7,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-01\\g7\\geography-01_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    21394
+  ],
+  "stages": [
+    {
+      "title": "BIG BANG: HOT DENSE BEGINNING, EXPANSION AND EVIDENCE",
+      "terms": "The exam-safe formulation is an extremely hot, dense early state followed by expansion and cooling.",
+      "mechanism": "The exam-safe formulation is an extremely hot, dense early state followed by expansion and cooling.",
+      "consequence": "“Explosion” is misleading if it suggests matter flying from a centre into empty space.",
+      "trap": "Do not equate Big Bang with a bomb exploding at one point in pre-existing empty space.",
+      "answer": "The Big Bang denotes the expansion and cooling of an extremely hot, dense early universe about 13.8 billion years ago, not an explosion from one point into pre-existing empty space."
+    },
+    {
+      "title": "GALAXIES AND THE MASS-CONTROLLED LIFE CYCLE OF STARS",
+      "terms": "A giant star possesses more fuel but consumes it much faster; therefore “larger means longer-lived” is usually false.",
+      "mechanism": "A giant star possesses more fuel but consumes it much faster; therefore “larger means longer-lived” is usually false.",
+      "consequence": "A giant star possesses more fuel but consumes it much faster; therefore “larger means longer-lived” is usually false.",
+      "trap": "A giant star possesses more fuel but consumes it much faster; therefore “larger means longer-lived” is usually false.",
+      "answer": "A giant star possesses more fuel but consumes it much faster; therefore “larger means longer-lived” is usually false."
+    },
+    {
+      "title": "FORMATION AND CLASSIFICATION OF THE SOLAR SYSTEM",
+      "terms": "The Solar System formed through gravitational collapse and flattening of a rotating gas-dust nebula, followed by accretion that differentiated rocky inner planets from giant outer planets.",
+      "mechanism": "The leading exam-safe model is gravitational collapse of a rotating gas-dust cloud about 4.6 billion years ago.",
+      "consequence": "The Solar System formed through gravitational collapse and flattening of a rotating gas-dust nebula, followed by accretion that differentiated rocky inner planets from giant outer planets.",
+      "trap": "The Solar System formed through gravitational collapse and flattening of a rotating gas-dust nebula, followed by accretion that differentiated rocky inner planets from giant outer planets.",
+      "answer": "The Solar System formed through gravitational collapse and flattening of a rotating gas-dust nebula, followed by accretion that differentiated rocky inner planets from giant outer planets."
+    },
+    {
+      "title": "EARTH'S SHAPE: OBLATE SPHEROID AND GEOID",
+      "terms": "Rotation produces a small equatorial bulge and polar flattening, so an oblate spheroid is the geometric approximation.",
+      "mechanism": "Rotation produces a small equatorial bulge and polar flattening, so an oblate spheroid is the geometric approximation.",
+      "consequence": "Earth is not a perfect sphere.",
+      "trap": "The geoid is the equipotential surface of Earth's gravity field that best approximates global mean sea level and conceptually continues beneath continents.",
+      "answer": "Earth is approximated geometrically as an oblate spheroid, while the geoid is the gravity-defined equipotential surface that best approximates global mean sea level."
+    },
+    {
+      "title": "ROTATION, REVOLUTION, AXIAL TILT AND LEAP-YEAR LOGIC",
+      "terms": "Rotation produces day and night, whereas revolution acting with axial tilt changes solar angle and day length to produce the seasonal cycle.",
+      "mechanism": "Rotation produces day and night, whereas revolution acting with axial tilt changes solar angle and day length to produce the seasonal cycle.",
+      "consequence": "Rotation produces day and night, whereas revolution acting with axial tilt changes solar angle and day length to produce the seasonal cycle.",
+      "trap": "Rotation produces day and night, whereas revolution acting with axial tilt changes solar angle and day length to produce the seasonal cycle.",
+      "answer": "Rotation produces day and night, whereas revolution acting with axial tilt changes solar angle and day length to produce the seasonal cycle."
+    },
+    {
+      "title": "SEASONS, SOLSTICES, EQUINOXES AND DAY LENGTH",
+      "terms": "Earth is near perihelion in early January, during Northern Hemisphere winter, so Earth–Sun distance cannot be the main seasonal cause.",
+      "mechanism": "Earth is near perihelion in early January, during Northern Hemisphere winter, so Earth–Sun distance cannot be the main seasonal cause.",
+      "consequence": "Earth is near perihelion in early January, during Northern Hemisphere winter, so Earth–Sun distance cannot be the main seasonal cause.",
+      "trap": "Earth is near perihelion in early January, during Northern Hemisphere winter, so Earth–Sun distance cannot be the main seasonal cause.",
+      "answer": "Earth is near perihelion in early January, during Northern Hemisphere winter, so Earth–Sun distance cannot be the main seasonal cause."
+    },
+    {
+      "title": "LATITUDE, LONGITUDE, GREAT CIRCLES AND COORDINATE READING",
+      "terms": "Latitude measures angular distance north or south of the Equator, whereas longitude measures angular distance east or west of the Prime Meridian and provides the basis for time.",
+      "mechanism": "Longitude lines converge poleward; therefore one degree of longitude becomes shorter away from the Equator, while one degree of latitude remains nearly constant.",
+      "consequence": "Longitude lines converge poleward; therefore one degree of longitude becomes shorter away from the Equator, while one degree of latitude remains nearly constant.",
+      "trap": "Longitude lines converge poleward; therefore one degree of longitude becomes shorter away from the Equator, while one degree of latitude remains nearly constant.",
+      "answer": "Latitude measures angular distance north or south of the Equator, whereas longitude measures angular distance east or west of the Prime Meridian and provides the basis for time."
+    },
+    {
+      "title": "LOCAL TIME, STANDARD TIME, UTC/GMT AND INTERNATIONAL DATE LINE",
+      "terms": "GMT means Greenwich Mean Time; at UPSC level they share the zero-meridian reference, though UTC is the modern atomic-time standard.",
+      "mechanism": "GMT means Greenwich Mean Time; at UPSC level they share the zero-meridian reference, though UTC is the modern atomic-time standard.",
+      "consequence": "Anadyr lies west of the line and Nome east of it: Anadyr is a calendar day ahead, not behind.",
+      "trap": "Earth's rotation gives 15° of longitude per hour and 1° per four minutes; east is ahead, and crossing the International Date Line westward adds a calendar day while eastward subtracts one.",
+      "answer": "Earth's rotation gives 15° of longitude per hour and 1° per four minutes; east is ahead, and crossing the International Date Line westward adds a calendar day while eastward subtracts one."
+    },
+    {
+      "title": "MAGNETOSPHERE, SOLAR WIND, AURORA AND SPACE WEATHER",
+      "terms": "India's low magnetic latitude reduces routine auroral visibility and high-latitude grid-current exposure, but equatorial ionospheric disturbance can still affect navigation and communication.",
+      "mechanism": "India's low magnetic latitude reduces routine auroral visibility and high-latitude grid-current exposure, but equatorial ionospheric disturbance can still affect navigation and communication.",
+      "consequence": "India's low magnetic latitude reduces routine auroral visibility and high-latitude grid-current exposure, but equatorial ionospheric disturbance can still affect navigation and communication.",
+      "trap": "India's low magnetic latitude reduces routine auroral visibility and high-latitude grid-current exposure, but equatorial ionospheric disturbance can still affect navigation and communication.",
+      "answer": "Aurora is the visible result of solar particles guided by the magnetosphere into the polar upper atmosphere, where collisions excite oxygen and nitrogen to emit light."
+    },
+    {
+      "title": "EARTH'S INTERIOR THROUGH COMPOSITIONAL LAYERS AND SEISMIC EVIDENCE",
+      "terms": "The disappearance of S-waves through the outer core and the refraction of P-waves create shadow zones that reveal a liquid outer core surrounding a solid inner core.",
+      "mechanism": "Wave logic: P-waves are compressional and cross solids and liquids, changing speed and direction.",
+      "consequence": "S-waves are shear waves and do not cross liquids.",
+      "trap": "Their shadow zones show that Earth is differentiated rather than homogeneous.",
+      "answer": "The disappearance of S-waves through the outer core and the refraction of P-waves create shadow zones that reveal a liquid outer core surrounding a solid inner core."
+    },
+    {
+      "title": "ABSOLUTE COORDINATES, DIMENSIONS, AREA, RANK AND SHARE",
+      "terms": "The standard mainland envelope is 8°4'N–37°6'N and 68°7'E–97°25'E.",
+      "mechanism": "The standard mainland envelope is 8°4'N–37°6'N and 68°7'E–97°25'E.",
+      "consequence": "A coordinate envelope is a bounding box, not the country's actual polygon; its corners may lie outside the territory.",
+      "trap": "A coordinate envelope is a bounding box, not the country's actual polygon; its corners may lie outside the territory.",
+      "answer": "A coordinate envelope is a bounding box, not the country's actual polygon; its corners may lie outside the territory."
+    },
+    {
+      "title": "MAINLAND VERSUS FULL TERRITORY AND EXTREME-LOCATION CAUTIONS",
+      "terms": "A named settlement, inhabited point, sunrise claim and exact coordinate extremity are not automatically identical.",
+      "mechanism": "A named settlement, inhabited point, sunrise claim and exact coordinate extremity are not automatically identical.",
+      "consequence": "Use official Survey of India maps for legal cartography, especially in disputed sectors.",
+      "trap": "Kanyakumari is the southern tip of mainland India, whereas Indira Point on Great Nicobar is the southernmost point of the Union's territory.",
+      "answer": "Kanyakumari is the southern tip of mainland India, whereas Indira Point on Great Nicobar is the southernmost point of the Union's territory."
+    },
+    {
+      "title": "TROPIC OF CANCER: EIGHT-STATE ORDER AND SIGNIFICANCE",
+      "terms": "The Tropic of Cancer crosses eight states from Gujarat to Mizoram, but it is a solar reference parallel rather than an equal divider or climatic wall.",
+      "mechanism": "The Tropic of Cancer at 23°30'N is the northern overhead-Sun limit.",
+      "consequence": "It is a powerful map-elimination line, but it neither divides India into exactly equal halves nor creates a sharp tropical–temperate climatic wall.",
+      "trap": "The Tropic of Cancer at 23°30'N is the northern overhead-Sun limit.",
+      "answer": "The Tropic of Cancer crosses eight states from Gujarat to Mizoram, but it is a solar reference parallel rather than an equal divider or climatic wall."
+    },
+    {
+      "title": "STANDARD MERIDIAN, MIRZAPUR AND IST DERIVATION",
+      "terms": "The standard map-aid list is Uttar Pradesh → Madhya Pradesh → Chhattisgarh → Odisha → Andhra Pradesh.",
+      "mechanism": "The standard map-aid list is Uttar Pradesh → Madhya Pradesh → Chhattisgarh → Odisha → Andhra Pradesh.",
+      "consequence": "The meridian is near-central, not exactly central: the mainland's longitudinal midpoint is about 82°46'E.",
+      "trap": "The meridian is near-central, not exactly central: the mainland's longitudinal midpoint is about 82°46'E.",
+      "answer": "The meridian is near-central, not exactly central: the mainland's longitudinal midpoint is about 82°46'E."
+    },
+    {
+      "title": "EAST–WEST SOLAR-TIME SPREAD AND UNEQUAL DIMENSIONS",
+      "terms": "Eastern India experiences local sunrise and noon earlier than western India, although clocks use one IST.",
+      "mechanism": "Eastern India experiences local sunrise and noon earlier than western India, although clocks use one IST.",
+      "consequence": "Similar angular spans do not give equal kilometres because longitude degrees contract with latitude.",
+      "trap": "The two-hour figure is an envelope calculation; actual sunrise also varies with season, terrain, refraction and selected endpoints.",
+      "answer": "India's 29°18' longitudinal span produces about 117 minutes of local solar-time difference, even though one civil time is used across the country."
+    },
+    {
+      "title": "AREA, LAND BORDER AND THE 2025 COASTLINE REVISION",
+      "terms": "It does not increase national area, create land or automatically redraw Coastal Regulation Zone (CRZ) high-tide-line boundaries.",
+      "mechanism": "The rise from the legacy 7,516.6 km demonstrates the coastline paradox: a finer measuring scale captures more indentations and island perimeter.",
+      "consequence": "It does not increase national area, create land or automatically redraw Coastal Regulation Zone (CRZ) high-tide-line boundaries.",
+      "trap": "It does not increase national area, create land or automatically redraw Coastal Regulation Zone (CRZ) high-tide-line boundaries.",
+      "answer": "The 2025 coastline figure of 11,098.81 km reflects finer GIS and high-water-line measurement of coastal detail and islands, not territorial expansion or automatic change in Coastal Regulation Zone boundaries."
+    },
+    {
+      "title": "LAND AND MARITIME NEIGHBOURS WITH DISPUTE-SAFE MAPWORK",
+      "terms": "Afghanistan appears in the official list under India's claim, but there is no functioning direct crossing because intervening territory is administered by Pakistan.",
+      "mechanism": "Afghanistan appears in the official list under India's claim, but there is no functioning direct crossing because intervening territory is administered by Pakistan.",
+      "consequence": "Sri Lanka and Maldives are principal maritime neighbours.",
+      "trap": "India's official land-neighbour list contains seven countries, including Afghanistan under India's claim, while Sri Lanka and Maldives are principal maritime neighbours.",
+      "answer": "India's official land-neighbour list contains seven countries, including Afghanistan under India's claim, while Sri Lanka and Maldives are principal maritime neighbours."
+    },
+    {
+      "title": "INDIA AS A SUBCONTINENT: SCALE, COHERENCE, DIVERSITY AND PERMEABILITY",
+      "terms": "“South Asia” is a modern regional term whose membership need not exactly match every use of “Indian subcontinent”.",
+      "mechanism": "“South Asia” is a modern regional term whose membership need not exactly match every use of “Indian subcontinent”.",
+      "consequence": "The term means a large and distinctive subdivision of Asia, not an isolated or culturally uniform container.",
+      "trap": "India is a subcontinent because continental scale, Himalayan-oceanic relative enclosure, physiographic coherence and internal diversity combine within a distinctive subdivision of Asia.",
+      "answer": "India is a subcontinent because continental scale, Himalayan-oceanic relative enclosure, physiographic coherence and internal diversity combine within a distinctive subdivision of Asia."
+    },
+    {
+      "title": "INDIAN OCEAN CENTRALITY, SEAS, ROUTES AND CHOKEPOINTS",
+      "terms": "India's peninsular projection gives it central relational importance in the northern Indian Ocean, but proximity to routes and chokepoints does not by itself confer control.",
+      "mechanism": "India's peninsular projection gives it central relational importance in the northern Indian Ocean, but proximity to routes and chokepoints does not by itself confer control.",
+      "consequence": "India's peninsular projection gives it central relational importance in the northern Indian Ocean, but proximity to routes and chokepoints does not by itself confer control.",
+      "trap": "India's peninsular projection gives it central relational importance in the northern Indian Ocean, but proximity to routes and chokepoints does not by itself confer control.",
+      "answer": "India's peninsular projection gives it central relational importance in the northern Indian Ocean, but proximity to routes and chokepoints does not by itself confer control."
+    },
+    {
+      "title": "COAST AND ISLAND SYSTEM: LAKSHADWEEP AND ANDAMAN–NICOBAR",
+      "terms": "Islands support search and rescue, maritime awareness and connectivity, but they must not be reduced to military dots.",
+      "mechanism": "Islands support search and rescue, maritime awareness and connectivity, but they must not be reduced to military dots.",
+      "consequence": "Lakshadweep and Andaman-Nicobar extend India's western and eastern maritime orientation respectively, but strategic value must be balanced with ecology, hazards, freshwater limits and community rights.",
+      "trap": "Lakshadweep and Andaman-Nicobar extend India's western and eastern maritime orientation respectively, but strategic value must be balanced with ecology, hazards, freshwater limits and community rights.",
+      "answer": "Lakshadweep and Andaman-Nicobar extend India's western and eastern maritime orientation respectively, but strategic value must be balanced with ecology, hazards, freshwater limits and community rights."
+    },
+    {
+      "title": "HIMALAYA AND OCEAN AS FILTERS AND CONNECTORS",
+      "terms": "Filter explains both obstruction and selective passage; connector explains routes without denying risk.",
+      "mechanism": "Filter explains both obstruction and selective passage; connector explains routes without denying risk.",
+      "consequence": "Filter explains both obstruction and selective passage; connector explains routes without denying risk.",
+      "trap": "“Barrier” is incomplete. Filter explains both obstruction and selective.",
+      "answer": "Filter explains both obstruction and selective passage; connector explains routes without denying risk."
+    },
+    {
+      "title": "LATITUDE-LOCATION LINKS TO CLIMATE, BIODIVERSITY, AGRICULTURE AND CULTURE",
+      "terms": "Altitude, climatic gradients and two marine flanks support habitat diversity, but geology, soils, evolution and land use complete the explanation.",
+      "mechanism": "Arabian Sea/Bay of Bengal moisture, Himalayan relief and land–sea contrast help create monsoon seasonality; full jet-stream, Inter-Tropical Convergence Zone, ENSO and IOD mechanics remain later climate owners.",
+      "consequence": "Altitude, climatic gradients and two marine flanks support habitat diversity, but geology, soils, evolution and land use complete the explanation.",
+      "trap": "Passes, plains and coasts enabled multidirectional contact with Central Asia, West Asia, East Africa and South-East Asia.",
+      "answer": "Latitude and oceanic situation establish broad climatic and ecological conditions, while relief, circulation, technology and human agency determine their regional expression and cultural consequences."
+    },
+    {
+      "title": "TRADE, SECURITY AND RELATIONAL STRATEGY",
+      "terms": "Usable capability depends on ports, hinterland connectivity, merchant shipping, Navy and Coast Guard capacity, hydrography, disaster response, fisheries management and regional cooperation.",
+      "mechanism": "Usable capability depends on ports, hinterland connectivity, merchant shipping, Navy and Coast Guard capacity, hydrography, disaster response, fisheries management and regional cooperation.",
+      "consequence": "Usable capability depends on ports, hinterland connectivity, merchant shipping, Navy and Coast Guard capacity, hydrography, disaster response, fisheries management and regional cooperation.",
+      "trap": "Usable capability depends on ports, hinterland connectivity, merchant shipping, Navy and Coast Guard capacity, hydrography, disaster response, fisheries management and regional cooperation.",
+      "answer": "Strategic location is geographic potential converted into capability only through ports, connectivity, institutions, partnerships and responsible stewardship."
+    },
+    {
+      "title": "MAP SKILLS, COORDINATE ELIMINATION AND DISPUTED-SPACE SAFETY",
+      "terms": "A safe UPSC map is schematic and not to scale, labels only claim-relevant lines and features, and never improvises disputed boundaries.",
+      "mechanism": "A safe UPSC map is schematic and not to scale, labels only claim-relevant lines and features, and never improvises disputed boundaries.",
+      "consequence": "A safe UPSC map is schematic and not to scale, labels only claim-relevant lines and features, and never improvises disputed boundaries.",
+      "trap": "A safe UPSC map is schematic and not to scale, labels only claim-relevant lines and features, and never improvises disputed boundaries.",
+      "answer": "A safe UPSC map is schematic and not to scale, labels only claim-relevant lines and features, and never improvises disputed boundaries."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 3,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7760,
+      "y_end": 9960,
+      "overlap_px": 260,
+      "from_stage": 9,
+      "continues_stage": 12
+    },
+    {
+      "page": 6,
+      "y_start": 9700,
+      "y_end": 11900,
+      "overlap_px": 260,
+      "from_stage": 11,
+      "continues_stage": 14
+    },
+    {
+      "page": 7,
+      "y_start": 11640,
+      "y_end": 13840,
+      "overlap_px": 260,
+      "from_stage": 14,
+      "continues_stage": 16
+    },
+    {
+      "page": 8,
+      "y_start": 13580,
+      "y_end": 15780,
+      "overlap_px": 260,
+      "from_stage": 16,
+      "continues_stage": 18
+    },
+    {
+      "page": 9,
+      "y_start": 15520,
+      "y_end": 17720,
+      "overlap_px": 260,
+      "from_stage": 18,
+      "continues_stage": 20
+    },
+    {
+      "page": 10,
+      "y_start": 17460,
+      "y_end": 19660,
+      "overlap_px": 260,
+      "from_stage": 20,
+      "continues_stage": 23
+    },
+    {
+      "page": 11,
+      "y_start": 19194,
+      "y_end": 21394,
+      "overlap_px": 260,
+      "from_stage": 22,
+      "continues_stage": 24
+    }
+  ]
+}

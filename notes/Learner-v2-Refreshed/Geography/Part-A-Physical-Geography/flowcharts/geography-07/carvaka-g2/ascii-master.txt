@@ -1,0 +1,71 @@
+ASCII MASTER FLOW — PANEL 1/12: Concept firewall
+DESERT -> climatic region
+ARIDITY -> long-term moisture deficit
+DROUGHT -> temporary anomaly
+DESERTIFICATION -> degradation within drylands
+
+ASCII MASTER FLOW — PANEL 2/12: Desert-forming controls
+SUBTROPICAL HIGH -> descending dry air
+CONTINENTALITY / RAIN SHADOW -> moisture loss
+COLD CURRENT -> stable dry coastal air
+POLAR COLD -> low absolute moisture
+
+ASCII MASTER FLOW — PANEL 3/12: Aeolian transport
+CREEP -> coarse grains roll or slide
+SALTATION -> sand grains bounce
+SUSPENSION -> fine dust travels far
+DEPOSITION -> velocity or carrying power falls
+
+ASCII MASTER FLOW — PANEL 4/12: Dune discriminator
+BARCHAN -> limited sand, horns downwind
+TRANSVERSE -> abundant sand, one dominant wind
+LONGITUDINAL -> aligned with resultant winds
+PARABOLIC / STAR -> vegetation anchor / multidirectional winds
+
+ASCII MASTER FLOW — PANEL 5/12: Water in the desert
+STORM RUNOFF -> wadi discharge
+MOUNTAIN FRONT -> alluvial fan
+FANS COALESCE -> bajada
+CLOSED BASIN -> playa and salt concentration
+
+ASCII MASTER FLOW — PANEL 6/12: Thar spatial anatomy
+WEST -> sandy Marusthali core
+EAST -> Bagar and Aravalli transition
+SOUTHWEST -> Luni and saline-basin route
+NORTH -> canal-alluvial transformation
+
+ASCII MASTER FLOW — PANEL 7/12: Susceptibility-to-degradation
+VARIABLE RAIN + WIND -> natural stress
+COVER LOSS + SOIL DISTURBANCE -> exposure
+WATER MISMANAGEMENT -> salinity or depletion
+THRESHOLD CROSSED -> recovery capacity declines
+
+ASCII MASTER FLOW — PANEL 8/12: Aravalli boundary
+RELIEF -> modifies local wind and runoff
+DRAINAGE -> divides and routes water
+HABITAT -> supports connectivity
+LIMIT -> not an impermeable desert wall
+
+ASCII MASTER FLOW — PANEL 9/12: Canal balance
+BENEFIT -> water supply and production
+SEEPAGE -> water-table rise
+POOR DRAINAGE -> waterlogging and salinity
+MANAGEMENT -> crop-water fit + drainage + monitoring
+
+ASCII MASTER FLOW — PANEL 10/12: LDN response hierarchy
+AVOID -> protect functioning land
+REDUCE -> improve grazing, tillage and water use
+REVERSE -> restore soil, grass and drainage
+BALANCE -> monitor gains and losses transparently
+
+ASCII MASTER FLOW — PANEL 11/12: Restoration matrix
+WIND EROSION -> cover, shelter and dune management
+RUNOFF EROSION -> contour and watershed treatment
+SALINITY -> drainage and water balance
+RANGELAND DECLINE -> native grass + institutions
+
+ASCII MASTER FLOW — PANEL 12/12: Desertification answer spine
+DEFINE -> retain UNCCD dryland boundary
+MAP -> locate process and pressure
+DIAGNOSE -> susceptibility plus accelerator
+RESPOND -> process-matched, monitored and qualified

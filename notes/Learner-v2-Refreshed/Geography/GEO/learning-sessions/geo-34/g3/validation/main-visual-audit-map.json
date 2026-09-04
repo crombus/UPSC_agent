@@ -1,0 +1,2274 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-34\\g3\\geography-34_Complete-Learning-Session_2026-09-02.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-34\\g3\\geography-34_Complete-Learning-Session_2026-09-02.pdf",
+  "mode": "main",
+  "topic_key": "geography-34",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "World Regional Geography: Continents and Countries - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 304.424
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 41.822
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 50,
+      "markdown_body_line_end": 50,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-34\\g3\\assets\\geography-34_Teaching-Navigation_2026-08-22.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 446.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 138.556
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 64,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: What regional geography does - First frame and second frame Qualified use: Open by naming the frame you are working at before describing any region.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 79,
+      "markdown_body_line_end": 86,
+      "heading": "VISUAL FIRST",
+      "preview": "WHAT REGIONAL GEOGRAPHY DOES AND AT WHICH FRAME",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 356.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 115,
+      "markdown_body_line_end": 132,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - WHAT REGIONAL GEOGRAPHY DOES AND AT WHICH FRAME",
+      "preview": "START / CONCEPT: FOUNDATION — What regional geography does and at which frame",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 272
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 489.891
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 143,
+      "markdown_body_line_end": 143,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Country-linking rule Qualified use: Attach region, relief, river or sea and economic identity to every country named.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 350.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 283.424
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 158,
+      "markdown_body_line_end": 162,
+      "heading": "VISUAL FIRST",
+      "preview": "LEARNING A COUNTRY AS A LOCATIONAL BUNDLE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 190,
+      "markdown_body_line_end": 207,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - LEARNING A COUNTRY AS A LOCATIONAL BUNDLE",
+      "preview": "START / CONCEPT: FOUNDATION — Learning a country as a locational bundle",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 229
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 449.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 218.091
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 218,
+      "markdown_body_line_end": 218,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Continental first-order pattern: In the source framework Asia is the largest continent in both area and population, Antarctica is an ice-dominated polar desert, Europe is highly peninsular and urbanised, and Australia is the smallest contin",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 233,
+      "markdown_body_line_end": 237,
+      "heading": "VISUAL FIRST",
+      "preview": "THE CONTINENTAL FIRST-ORDER PATTERN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 492.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 265,
+      "markdown_body_line_end": 282,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE CONTINENTAL FIRST-ORDER PATTERN",
+      "preview": "START / CONCEPT: FOUNDATION — The continental first-order pattern",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 312
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 293,
+      "markdown_body_line_end": 293,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Macro-region catalogue: The macro-regions to recognise are South-West Asia, South Asia, mainland and maritime South-East Asia, East Asia, Central Asia, North Asia or Siberia, North Africa against Sub-Saharan Africa, Anglo America against La",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 407.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 312.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 308,
+      "markdown_body_line_end": 312,
+      "heading": "VISUAL FIRST",
+      "preview": "THE MACRO-REGION CATALOGUE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 340,
+      "markdown_body_line_end": 357,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE MACRO-REGION CATALOGUE",
+      "preview": "START / CONCEPT: FOUNDATION — The macro-region catalogue",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 370
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 189.691
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 368,
+      "markdown_body_line_end": 368,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Category discipline: Continent, region, sub-region and civilisational label are different categories, so Middle East, Latin America and Nordic are regional labels rather than continents, and Australia is a continent while Oceania is the wid",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 383,
+      "markdown_body_line_end": 387,
+      "heading": "VISUAL FIRST",
+      "preview": "CATEGORY DISCIPLINE: CONTINENT, REGION, LABEL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 415,
+      "markdown_body_line_end": 432,
+      "heading": "CLOSING RECALL FLOW - CORE - CATEGORY DISCIPLINE: CONTINENT, REGION, LABEL",
+      "preview": "START / CONCEPT: CORE — Category discipline: continent, region, label",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 296
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 443,
+      "markdown_body_line_end": 443,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Transition-belt concept: The Sahel is a transition belt defined by a rainfall gradient rather than by relief or political boundary, so it runs across many states and lies wholly within none.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 458,
+      "markdown_body_line_end": 462,
+      "heading": "VISUAL FIRST",
+      "preview": "TRANSITION BELTS AND GRADIENT BOUNDARIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 490,
+      "markdown_body_line_end": 507,
+      "heading": "CLOSING RECALL FLOW - CORE - TRANSITION BELTS AND GRADIENT BOUNDARIES",
+      "preview": "START / CONCEPT: CORE — Transition belts and gradient boundaries",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 219
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 449.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 218.091
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 518,
+      "markdown_body_line_end": 518,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The economic association follows the physical frame, not the reverse.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 92.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 40.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 533,
+      "markdown_body_line_end": 537,
+      "heading": "VISUAL FIRST",
+      "preview": "PHYSIOGRAPHIC FRAMES AND THEIR ECONOMIC ASSOCIATIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 573.491
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 565,
+      "markdown_body_line_end": 582,
+      "heading": "CLOSING RECALL FLOW - CORE - PHYSIOGRAPHIC FRAMES AND THEIR ECONOMIC ASSOCIATIONS",
+      "preview": "START / CONCEPT: CORE — Physiographic frames and their economic associations",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 593,
+      "markdown_body_line_end": 593,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Left-to-right map chain Qualified use: Use the chain as a fast locating device in map-based elimination.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 441.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 374.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 608,
+      "markdown_body_line_end": 612,
+      "heading": "VISUAL FIRST",
+      "preview": "THE LEFT-TO-RIGHT MAP CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 640,
+      "markdown_body_line_end": 657,
+      "heading": "CLOSING RECALL FLOW - CORE - THE LEFT-TO-RIGHT MAP CHAIN",
+      "preview": "START / CONCEPT: CORE — The left-to-right map chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 274
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 449.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 228.091
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 668,
+      "markdown_body_line_end": 668,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Prelims: Separate the agent, landform, location, status and scale attached to The eight comparison axes and how to use them.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 683,
+      "markdown_body_line_end": 690,
+      "heading": "VISUAL FIRST",
+      "preview": "THE EIGHT COMPARISON AXES AND HOW TO USE THEM",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 476.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 719,
+      "markdown_body_line_end": 736,
+      "heading": "CLOSING RECALL FLOW - CORE - THE EIGHT COMPARISON AXES AND HOW TO USE THEM",
+      "preview": "START / CONCEPT: CORE — The eight comparison axes and how to use them",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 279
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 747,
+      "markdown_body_line_end": 747,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Landlocked structural penalty Qualified use: Convert interior location into a freight-cost and transit argument.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 392.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 325.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 762,
+      "markdown_body_line_end": 766,
+      "heading": "VISUAL FIRST",
+      "preview": "LANDLOCKED LOCATION AS A STRUCTURAL VARIABLE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 794,
+      "markdown_body_line_end": 811,
+      "heading": "CLOSING RECALL FLOW - CORE - LANDLOCKED LOCATION AS A STRUCTURAL VARIABLE",
+      "preview": "START / CONCEPT: CORE — Landlocked location as a structural variable",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 324
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 189.691
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 822,
+      "markdown_body_line_end": 822,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Situation outweighs site: Regions positioned on major shipping lanes or at land bridges between economic cores have historically prospered relative to better-endowed peripheral regions, but situation is a relative and changeable property th",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 837,
+      "markdown_body_line_end": 841,
+      "heading": "VISUAL FIRST",
+      "preview": "SITUATION AGAINST SITE IN REGIONAL IMPORTANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 492.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 869,
+      "markdown_body_line_end": 886,
+      "heading": "CLOSING RECALL FLOW - CORE - SITUATION AGAINST SITE IN REGIONAL IMPORTANCE",
+      "preview": "START / CONCEPT: CORE — Situation against site in regional importance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 335
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 897,
+      "markdown_body_line_end": 897,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Seven-step regional method: A regional answer is built by locating and delimiting the region, establishing its physical base, testing accessibility, assessing the resource base, describing population and culture, stating the economic outcom",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 421.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 340.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 912,
+      "markdown_body_line_end": 916,
+      "heading": "VISUAL FIRST",
+      "preview": "THE SEVEN-STEP REGIONAL METHOD",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 944,
+      "markdown_body_line_end": 961,
+      "heading": "CLOSING RECALL FLOW - CORE - THE SEVEN-STEP REGIONAL METHOD",
+      "preview": "START / CONCEPT: CORE — The seven-step regional method",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 317
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 203.891
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 972,
+      "markdown_body_line_end": 972,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: North-east India worked case Qualified use: Show compound causation: terrain, corridor, adjacency and plurality together.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 703.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 987,
+      "markdown_body_line_end": 991,
+      "heading": "VISUAL FIRST",
+      "preview": "WORKED CASE ONE: INDIA'S NORTH-EAST",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 508.424
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 467.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1019,
+      "markdown_body_line_end": 1036,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - WORKED CASE ONE: INDIA'S NORTH-EAST",
+      "preview": "START / CONCEPT: SYNTHESIS — Worked case one: India's north-east",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 482
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1047,
+      "markdown_body_line_end": 1047,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sahel worked case: The Sahel is a semi-arid east-west belt with a single short wet season, exceptionally high inter-annual rainfall variability, level to gently undulating terrain, thin fragile soils vulnerable to wind and water erosion, la",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 397.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 302.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1062,
+      "markdown_body_line_end": 1066,
+      "heading": "VISUAL FIRST",
+      "preview": "WORKED CASE TWO: THE SAHEL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1094,
+      "markdown_body_line_end": 1111,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - WORKED CASE TWO: THE SAHEL",
+      "preview": "START / CONCEPT: SYNTHESIS — Worked case two: the Sahel",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 423
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 406.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 175.491
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1122,
+      "markdown_body_line_end": 1122,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: India's outward arcs - Feature-not-capital trap - Neighbourhood anchors - Kaladan corridor anchor Qualified use: Close with maritime openness, northern constraint and a dated corridor anchor.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1137,
+      "markdown_body_line_end": 1150,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA'S OUTWARD ARCS AND THE EASTERN LAND BRIDGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 370.424
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 239.424
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1180,
+      "markdown_body_line_end": 1184,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (world/general-concept) · **GS Paper:** GS-I **Grounded in:** Majid Husain, *Indian & World Geography* + G.C. Leong for physical-region framing + verified dated current-affairs anchor. **Data cauti",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 405.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 281.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1194,
+      "markdown_body_line_end": 1202,
+      "heading": "2. Continents as the first-order frame",
+      "preview": "Continent | ✅ Source-era area share | ✅ Source-era population share | Exam use",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Continent",
+          "✅ Source-era area share",
+          "✅ Source-era population share",
+          "Exam use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 567.39
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1208,
+      "markdown_body_line_end": 1219,
+      "heading": "3. Macro-regions UPSC should recognise",
+      "preview": "Region label | Organising logic | High-yield examples",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Region label",
+          "Organising logic",
+          "High-yield examples"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 502.79
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 154.188
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1221,
+      "markdown_body_line_end": 1221,
+      "heading": "3. Macro-regions UPSC should recognise",
+      "preview": "🔑 Trap: **Continent**, **region**, **sub-region** and **civilisational label** are not the same thing. \"Middle East\", \"Latin America\" and \"Nordic\" are regional labels, not continents.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 154.188
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 109.52
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1225,
+      "markdown_body_line_end": 1235,
+      "heading": "4. Major physiographic-economic regions of the world",
+      "preview": "Continent / region | Dominant physical frame | Common economic-geography association",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Continent / region",
+          "Dominant physical frame",
+          "Common economic-geography association"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 504.69
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1256,
+      "markdown_body_line_end": 1256,
+      "heading": "6. Must-Know Facts (Prelims) and UPSC traps",
+      "preview": "🔑 Trap: \"Middle East\" is not identical to \"all Muslim-majority countries\"; it is a geographic-regional label anchored in South-West Asia and adjacent North Africa.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 245.09
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 200.422
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1303,
+      "markdown_body_line_end": 1308,
+      "heading": "12.1 Directive decoding",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 768.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 591.69
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1316,
+      "markdown_body_line_end": 1325,
+      "heading": "12.2 The comparison method - the single most reusable tool in regional geography",
+      "preview": "Axis | What to establish",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Axis",
+          "What to establish"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 522.09
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 238.288
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1355,
+      "markdown_body_line_end": 1362,
+      "heading": "12.5 Evidence unit",
+      "preview": "**Claim:** situation outweighs site in explaining regional economic importance. **Evidence:** regions positioned on major shipping lanes and at land bridges between economic cores have historically prospered relative to better-endowed but p",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 610.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 472.624
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1366,
+      "markdown_body_line_end": 1367,
+      "heading": "12.6 Reading a distinctive region: the method, with India's north-east as the worked case",
+      "preview": "⚠️ Added 13 Aug 2026 after a Core-only stress test found the folder able to describe world macro-regions but unable to build a full regional-geography answer about a distinctive region.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 472.624
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 405.956
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1374,
+      "markdown_body_line_end": 1383,
+      "heading": "12.6 Reading a distinctive region: the method, with India's north-east as the worked case",
+      "preview": "Analytical step | Applied to India's north-eastern region",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Analytical step",
+          "Applied to India's north-eastern region"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 396.29
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1389,
+      "markdown_body_line_end": 1390,
+      "heading": "12.6 Reading a distinctive region: the method, with India's north-east as the worked case",
+      "preview": "⚠️ **Factual caution:** do **not** quote corridor widths, state areas, rainfall records, hydropower potential in megawatts, literacy or tribal-population percentages from memory.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 345.69
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 301.022
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1394,
+      "markdown_body_line_end": 1396,
+      "heading": "12.7 A second worked region: the Sahel, for comparative use",
+      "preview": "⚠️ Added 13 Aug 2026 after a final hostile test found that a **comparative** regional question could be answered strongly on one region and only schematically on any second one. A comparison needs two worked cases; this supplies the other s",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 301.022
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 220.154
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1400,
+      "markdown_body_line_end": 1409,
+      "heading": "12.7 A second worked region: the Sahel, for comparative use",
+      "preview": "Analytical step | Applied to the Sahel",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Analytical step",
+          "Applied to the Sahel"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 261.89
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1413,
+      "markdown_body_line_end": 1420,
+      "heading": "12.8 Using the two worked regions comparatively",
+      "preview": "Comparison axis | India's north-east | The Sahel | What the contrast shows",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Comparison axis",
+          "India's north-east",
+          "The Sahel",
+          "What the contrast shows"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 577.39
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1429,
+      "markdown_body_line_end": 1431,
+      "heading": "12.8 Using the two worked regions comparatively",
+      "preview": "⚠️ **Factual caution:** do **not** quote Sahel rainfall values, population growth rates, degradation percentages, Lake Chad area loss, conflict casualty figures or the coverage of any restoration programme from memory.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 498.39
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 453.722
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1437,
+      "markdown_body_line_end": 1439,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 453.722
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 358.654
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1445,
+      "markdown_body_line_end": 1454,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 8,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 352.89
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1467,
+      "markdown_body_line_end": 1467,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 193.29
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 148.622
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1474,
+      "markdown_body_line_end": 1476,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 148.622
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 67.754
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1482,
+      "markdown_body_line_end": 1492,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 9,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 768.891
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 360.99
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1506,
+      "markdown_body_line_end": 1506,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 184.19
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 139.522
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1511,
+      "markdown_body_line_end": 1528,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - INDIA'S OUTWARD ARCS AND THE EASTERN LAND BRIDGE",
+      "preview": "START / CONCEPT: SYNTHESIS — India's outward arcs and the eastern land bridge",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 378
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2577,
+      "markdown_body_line_end": 2580,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India-applied + map-intensive) · **GS Paper:** GS-I with GS-II/GS-III overlap **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain, *Geography of India* + distinct ver",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 689.291
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 602.024
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2586,
+      "markdown_body_line_end": 2594,
+      "heading": "1. India's outward regional geography",
+      "preview": "Region around India | Geographic connector | Why it matters for India",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Region around India",
+          "Geographic connector",
+          "Why it matters for India"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 532.424
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 303.422
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2598,
+      "markdown_body_line_end": 2605,
+      "heading": "2. India-facing world regions: a quick answer-writing grid",
+      "preview": "Region | Static world-geography keyword | India-applied line",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Region",
+          "Static world-geography keyword",
+          "India-applied line"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 281.422
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 62.42
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2624,
+      "markdown_body_line_end": 2657,
+      "heading": "4. Country-by-country UPSC quick-reference (high-yield shortlist)",
+      "preview": "Region | Country | Capital | One physical / locational cue | India-facing recall",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 32,
+        "headers": [
+          "Region",
+          "Country",
+          "Capital",
+          "One physical / locational cue",
+          "India-facing recall"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 640.891
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 460.39
+        }
+      },
+      "pdf_pages": [
+        77,
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2659,
+      "markdown_body_line_end": 2659,
+      "heading": "4. Country-by-country UPSC quick-reference (high-yield shortlist)",
+      "preview": "🔑 Trap: UPSC often asks the **feature**, not just the capital - Suez/Egypt, Bosporus/Turkey, Hormuz-Iran/UAE/Oman side, Malacca-Singapore/Indonesia/Malaysia, Mekong states, Nile basin and Andean states.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 460.39
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 401.522
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2719,
+      "markdown_body_line_end": 2729,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Frames of regional analysis",
+      "preview": "CONTINENT -> first-order landmass frame used to open the answer",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 684.491
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2733,
+      "markdown_body_line_end": 2739,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Continental pattern anchors",
+      "preview": "ASIA -> largest in area and population in the source framework; greatest sub-regional variety",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 662.491
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2743,
+      "markdown_body_line_end": 2749,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Macro-region organising logic",
+      "preview": "SOUTH-WEST ASIA -> arid plateau, desert and chokepoint interfaces",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 516.491
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2753,
+      "markdown_body_line_end": 2759,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Physical frame to economic association",
+      "preview": "SAHARA, ATLAS, NILE -> oasis belts, Mediterranean coast and the Suez gateway",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 494.491
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 432.491
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2763,
+      "markdown_body_line_end": 2769,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Left-to-right locating chain",
+      "preview": "ATLANTIC WORLD -> Europe with its plains, peninsulas and Alpine spine",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 410.491
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 348.491
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2773,
+      "markdown_body_line_end": 2779,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Eight comparison axes",
+      "preview": "LOCATION AND SITUATION -> latitude, coastal or landlocked, proximity to routes",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 326.491
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 264.491
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2783,
+      "markdown_body_line_end": 2789,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Comparison versus description fork",
+      "preview": "QUESTION ASKS FOR A COMPARISON -> select four or five relevant axes",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2793,
+      "markdown_body_line_end": 2799,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Landlocked penalty and route position",
+      "preview": "INTERIOR LOCATION -> dependence on a neighbour's ports, roads and goodwill",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2803,
+      "markdown_body_line_end": 2809,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Seven-step regional method",
+      "preview": "LOCATE AND DELIMIT -> state what bounds the region and what it excludes",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2813,
+      "markdown_body_line_end": 2823,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Two worked regions compared",
+      "preview": "DELIMITATION -> hill-and-valley corridor region; east-west rainfall-gradient belt",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 432.491
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2827,
+      "markdown_body_line_end": 2837,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: India outward arcs",
+      "preview": "WEST -> Arabian Sea to Gulf and Red Sea approaches to the Suez corridor",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 410.491
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 307.691
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2841,
+      "markdown_body_line_end": 2847,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Kaladan corridor and mapwork revival",
+      "preview": "KOLKATA -> sea leg across the Bay of Bengal to the Rakhine coast",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    }
+  ]
+}

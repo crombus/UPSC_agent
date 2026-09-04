@@ -1,0 +1,878 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-01",
+  "subject": "Geography",
+  "title": "GEOGRAPHY 01 — THE EARTH AND THE UNIVERSE / INDIA LOCATION AND EXTENT",
+  "short_route": "EARTH IN THE COSMIC → STARS, SOLAR-SYSTEM BODIES AND → EARTH GEOMETRY, MOTIONS AND → COORDINATES, WORLD TIME AND → MAGNETOSPHERE AND EARTH INTERIOR → INDIA'S COORDINATE FRAME, TROPIC",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g10 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-01\\g10\\geography-01_Complete-Learning-Session_2026-08-23.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-2026-08-23.json",
+  "ascii_spec_sha256": "5b0626c2b1e32a49c858860e95c1b0b6820a314e6104f5b755fa4cbed3ef2c66",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "EARTH IN THE COSMIC HIERARCHY: ORIGIN, EVIDENCE AND PLANETARY SETTING",
+      "structural_type": "process-system-overview",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EARTH IN THE COSMIC HIERARCHY",
+          "role": "primary"
+        },
+        {
+          "text": "ORIGIN, EVIDENCE AND PLANETARY SETTING",
+          "role": "evidence"
+        },
+        {
+          "text": "EARTH IN THE COSMIC SYSTEM",
+          "role": "comparison"
+        },
+        {
+          "text": "HOW DID EARTH ACQUIRE ITS PLACE AND TRAITS?",
+          "role": "evidence"
+        },
+        {
+          "text": "HOT, DENSE EARLY UNIVERSE ABOUT 13.8 BILLION YEARS AGO",
+          "role": "primary"
+        },
+        {
+          "text": "MILKY WAY",
+          "role": "outcome"
+        },
+        {
+          "text": "SOLAR SYSTEM",
+          "role": "comparison"
+        },
+        {
+          "text": "EARTH ROTATING NEBULA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EARTH IN THE COSMIC SYSTEM",
+        "CENTRAL QUESTION: How did Earth acquire its place and traits?",
+        "Hot, dense early universe about 13.8 billion years ago expansion + cooling + structure redshift",
+        "convergent evidence galaxies → Milky Way → Solar System → Earth rotating nebula → disc",
+        "differentiated planets terrestrial inner planets gas and ice giants"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "EARTH IN THE COSMIC SYSTEM",
+            "CENTRAL QUESTION: How did Earth acquire its place and traits?"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Hot, dense early universe about 13.8 billion years ago expansion + cooling + structure redshift CMB light elements",
+            "convergent evidence galaxies → Milky Way → Solar System → Earth rotating nebula → disc → accretion →"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "differentiated planets terrestrial inner planets gas and ice giants",
+            "LOCATION IN A SYSTEM PRECEDES EXPLANATION OF PROCESS"
+          ]
+        }
+      ],
+      "mechanism_strip": "The Big Bang denotes the expansion and cooling of an extremely hot, dense early universe about 13.8 billion years ago, not an explosion from one point into pre-existing empty space.",
+      "answer_line": "The Big Bang denotes the expansion and cooling of an extremely hot, dense early universe about 13.8 billion years ago, not an explosion from one point into pre-existing empty space.",
+      "source_references": [
+        "sessions: [1, 2, 3]",
+        "sections: [\"BASIC LEARNING SESSION\", \"Planetary-geography rapid register\"]",
+        "markdown_lines: [\"101-298\", \"2551-2572\"]"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "STARS, SOLAR-SYSTEM BODIES AND THE MASS-CONTROLLED LIFE CYCLE",
+      "structural_type": "classification-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "STARS, SOLAR-SYSTEM BODIES AND THE MASS-CONTROLLED LIFE CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "MAIN SEQUENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "LOWER MASS HIGHER MASS RED GIANT SUPERGIANT WHITE DWARF",
+          "role": "comparison"
+        },
+        {
+          "text": "SOLAR-SYSTEM BODY FIREWALL ASTEROID",
+          "role": "evidence"
+        },
+        {
+          "text": "ROCKY BODY",
+          "role": "primary"
+        },
+        {
+          "text": "ICE-RICH BODY",
+          "role": "outcome"
+        },
+        {
+          "text": "SMALL BODY METEOR",
+          "role": "comparison"
+        },
+        {
+          "text": "LUMINOUS PASSAGE IN AIR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MAIN SEQUENCE",
+        "LOWER MASS HIGHER MASS red giant supergiant white dwarf supernova neutron star black hole",
+        "SOLAR-SYSTEM BODY FIREWALL asteroid = rocky body",
+        "comet = ice-rich body",
+        "meteoroid = small body meteor = luminous passage in air"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CLASSIFICATION",
+          "role": "primary",
+          "items": [
+            "MAIN SEQUENCE",
+            "LOWER MASS HIGHER MASS red giant supergiant white dwarf supernova neutron star black hole"
+          ]
+        },
+        {
+          "heading": "DIAGNOSTIC BASIS",
+          "role": "evidence",
+          "items": [
+            "SOLAR-SYSTEM BODY FIREWALL asteroid = rocky body",
+            "comet = ice-rich body"
+          ]
+        },
+        {
+          "heading": "PROCESS LINK",
+          "role": "mechanism",
+          "items": [
+            "meteoroid = small body meteor = luminous passage in air",
+            "meteorite = fragment reaching ground"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP",
+          "role": "caution",
+          "items": [
+            "Mass raises fusion rate: massive stars generally burn faster and live less.",
+            "MAIN SEQUENCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "SOLAR-SYSTEM BODY FIREWALL asteroid = rocky body | comet = ice-rich body | meteoroid = small body meteor = luminous passage in air | meteorite = fragment reaching ground.",
+      "answer_line": "SOLAR-SYSTEM BODY FIREWALL asteroid = rocky body | comet = ice-rich body | meteoroid = small body meteor = luminous passage in air | meteorite = fragment reaching ground.",
+      "source_references": [
+        "sessions: [2, 3]",
+        "sections: [\"BASIC LEARNING SESSION\", \"Planetary-geography rapid register\"]",
+        "markdown_lines: [\"166-298\", \"2554-2559\"]"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "EARTH GEOMETRY, MOTIONS AND THE SEASONAL ENERGY SEQUENCE",
+      "structural_type": "causal-chain-with-branching",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "EARTH GEOMETRY, MOTIONS AND THE SEASONAL ENERGY SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "EARTH AS A MOVING GEOID",
+          "role": "outcome"
+        },
+        {
+          "text": "OBLATE SPHEROID",
+          "role": "comparison"
+        },
+        {
+          "text": "GEOMETRIC FORM",
+          "role": "evidence"
+        },
+        {
+          "text": "GRAVITY EQUIPOTENTIAL",
+          "role": "primary"
+        },
+        {
+          "text": "ROTATION ABOUT AXIS DAY-NIGHT + TIME DIFFERENCE ABOUT 24",
+          "role": "outcome"
+        },
+        {
+          "text": "REVOLUTION + 23.5 DEG AXIAL TILT FROM PERPENDICULAR CHANGING",
+          "role": "comparison"
+        },
+        {
+          "text": "JUNE SOLSTICE EQUINOXES DEC SOLSTICE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EARTH AS A MOVING GEOID",
+        "Oblate spheroid: geometric form",
+        "Geoid: gravity equipotential",
+        "ROTATION about axis day-night + time difference about 24 hours; west to east",
+        "REVOLUTION + 23.5 deg axial tilt from perpendicular changing solar angle and changing day length"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "EARTH AS A MOVING GEOID",
+            "Oblate spheroid: geometric form",
+            "Geoid: gravity equipotential",
+            "ROTATION about axis day-night + time difference about 24 hours; west to east"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REVOLUTION + 23.5 deg axial tilt from perpendicular changing solar angle and changing day length",
+            "June solstice equinoxes Dec solstice",
+            "Sun at 23.5 N Sun at Equator Sun at 23.5 S",
+            "N day maximum near-equal day S day maximum"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "ANNUAL SEASONAL CYCLE",
+            "Distance is not the cause: perihelion and aphelion do not create seasons."
+          ]
+        }
+      ],
+      "mechanism_strip": "Rotation produces day and night, whereas revolution acting with axial tilt changes solar angle and day length to produce the seasonal cycle.",
+      "answer_line": "Rotation produces day and night, whereas revolution acting with axial tilt changes solar angle and day length to produce the seasonal cycle.",
+      "source_references": [
+        "sessions: [4, 5, 6]",
+        "sections: [\"BASIC LEARNING SESSION\", \"Planetary-geography rapid register\"]",
+        "markdown_lines: [\"299-482\", \"2559-2563\"]"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "COORDINATES, WORLD TIME AND THE INTERNATIONAL DATE LINE",
+      "structural_type": "spatial-grid-and-decision-flow",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COORDINATES, WORLD TIME AND THE INTERNATIONAL DATE LINE",
+          "role": "primary"
+        },
+        {
+          "text": "COORDINATE READING GRID",
+          "role": "outcome"
+        },
+        {
+          "text": "N OR S OF EQUATOR",
+          "role": "comparison"
+        },
+        {
+          "text": "E OR W OF PRIME MERIDIAN PARALLEL CIRCLES",
+          "role": "evidence"
+        },
+        {
+          "text": "MERIDIANS MEET AT POLES CONTROLS SOLAR ANGLE",
+          "role": "primary"
+        },
+        {
+          "text": "SUPPLIES ANGULAR BASIS FOR TIME",
+          "role": "outcome"
+        },
+        {
+          "text": "EARTH TURNS 360 DEG IN 24 H",
+          "role": "comparison"
+        },
+        {
+          "text": "15 DEG",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COORDINATE READING GRID",
+        "N or S of Equator",
+        "E or W of Prime Meridian parallel circles",
+        "meridians meet at poles controls solar angle",
+        "supplies angular basis for time"
+      ],
+      "matrix": [
+        [
+          "LATITUDE",
+          "LONGITUDE",
+          "",
+          ""
+        ],
+        [
+          "N or S of Equator",
+          "E or W of Prime Meridian parallel circles",
+          "meridians meet at poles controls solar angle",
+          "supplies angular basis for time"
+        ],
+        [
+          "15 deg = 1 hour",
+          "1 deg = 4 minutes",
+          "",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "COORDINATE READING GRID",
+            "N or S of Equator",
+            "E or W of Prime Meridian parallel circles"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "meridians meet at poles controls solar angle",
+            "supplies angular basis for time",
+            "Earth turns 360 deg in 24 h"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "15 deg = 1 hour",
+            "1 deg = 4 minutes",
+            "EAST IS AHEAD IN TIME local time → zone standard → UTC offset"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "International Date Line near 180 deg cross westward: add one day cross eastward: subtract one day",
+            "A great circle has Earth's centre in its plane and gives the shortest route."
+          ]
+        }
+      ],
+      "mechanism_strip": "Earth's rotation gives 15° of longitude per hour and 1° per four minutes; east is ahead, and crossing the International Date Line westward adds a calendar day while eastward subtracts one.",
+      "answer_line": "Earth's rotation gives 15° of longitude per hour and 1° per four minutes; east is ahead, and crossing the International Date Line westward adds a calendar day while eastward subtracts one.",
+      "source_references": [
+        "sessions: [7, 8]",
+        "sections: [\"BASIC LEARNING SESSION\", \"Planetary-geography rapid register\"]",
+        "markdown_lines: [\"483-602\", \"2563-2566\"]"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "MAGNETOSPHERE AND EARTH INTERIOR: TWO EVIDENCE-BASED CROSS-SECTIONS",
+      "structural_type": "paired-cross-section",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MAGNETOSPHERE AND EARTH INTERIOR",
+          "role": "primary"
+        },
+        {
+          "text": "TWO EVIDENCE-BASED CROSS-SECTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "SOLAR-TERRESTRIAL SECTION EARTH-INTERIOR SECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "CME CRUST SOLAR WIND MOHO BOUNDARY MAGNETOSPHERE SOLID MANTLE",
+          "role": "evidence"
+        },
+        {
+          "text": "S WAVES STOP; P WAVES REFRACT OXYGEN AND NITROGEN",
+          "role": "primary"
+        },
+        {
+          "text": "LEHMANN BOUNDARY",
+          "role": "outcome"
+        },
+        {
+          "text": "AURORAL LIGHT SOLID INNER CORE",
+          "role": "comparison"
+        },
+        {
+          "text": "EVIDENCE CONVERGES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SOLAR-TERRESTRIAL SECTION EARTH-INTERIOR SECTION",
+        "Sun / CME crust solar wind Moho boundary magnetosphere solid mantle reconnection Gutenberg boundary polar",
+        "S waves stop; P waves refract oxygen and nitrogen",
+        "Lehmann boundary",
+        "AURORAL LIGHT solid inner core"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "SOLAR-TERRESTRIAL SECTION EARTH-INTERIOR SECTION",
+            "Sun / CME crust solar wind Moho boundary magnetosphere solid mantle reconnection Gutenberg boundary polar particle paths liquid outer core",
+            "S waves stop; P waves refract oxygen and nitrogen"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Lehmann boundary",
+            "AURORAL LIGHT solid inner core",
+            "Evidence converges"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "solar particles + magnetic guidance + gas excitation → aurora",
+            "P-wave refraction + S-wave absence + shadow zones → layered core",
+            "Do not call the whole core liquid; the outer core is liquid, inner core solid."
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "Lehmann boundary"
+          ]
+        }
+      ],
+      "mechanism_strip": "The disappearance of S-waves through the outer core and the refraction of P-waves create shadow zones that reveal a liquid outer core surrounding a solid inner core.",
+      "answer_line": "The disappearance of S-waves through the outer core and the refraction of P-waves create shadow zones that reveal a liquid outer core surrounding a solid inner core.",
+      "source_references": [
+        "sessions: [9, 10]",
+        "sections: [\"BASIC LEARNING SESSION\", \"Planetary-geography rapid register\"]",
+        "markdown_lines: [\"603-756\", \"2566-2571\"]"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "INDIA'S COORDINATE FRAME, TROPIC OF CANCER AND IST DERIVATION",
+      "structural_type": "india-spatial-hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INDIA'S COORDINATE FRAME, TROPIC OF CANCER AND IST DERIVATION",
+          "role": "primary"
+        },
+        {
+          "text": "ABSOLUTE FRAME",
+          "role": "outcome"
+        },
+        {
+          "text": "MAINLAND LATITUDE",
+          "role": "comparison"
+        },
+        {
+          "text": "8 DEG 4 N TO 37 DEG 6 N",
+          "role": "evidence"
+        },
+        {
+          "text": "MAINLAND LONGITUDE",
+          "role": "primary"
+        },
+        {
+          "text": "68 DEG 7 E TO 97 DEG 25 E",
+          "role": "outcome"
+        },
+        {
+          "text": "N-S 3,214 KM",
+          "role": "comparison"
+        },
+        {
+          "text": "E-W 2,933 KM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDIA: ABSOLUTE FRAME",
+        "Mainland latitude : 8 deg 4 N to 37 deg 6 N",
+        "Mainland longitude: 68 deg 7 E to 97 deg 25 E",
+        "N-S 3,214 km",
+        "E-W 2,933 km"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "INDIA: ABSOLUTE FRAME",
+            "Mainland latitude : 8 deg 4 N to 37 deg 6 N",
+            "Mainland longitude: 68 deg 7 E to 97 deg 25 E",
+            "N-S 3,214 km"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "E-W 2,933 km",
+            "area 3,287,263 sq km",
+            "TROPIC OF CANCER: 23.5 deg N across eight states, west to east",
+            "Gujarat → Rajasthan → Madhya Pradesh → Chhattisgarh"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "Jharkhand → West Bengal → Tripura → Mizoram",
+            "STANDARD MERIDIAN: 82 deg 30 E, through Mirzapur",
+            "82.5 x 4 minutes = 330 minutes = UTC + 5:30 = IST",
+            "LONGITUDINAL SPAN: 29 deg 18 min x 4 = about 117 minutes eastern local noon precedes western local noon"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "One civil time creates coordination; it does not erase solar-time difference."
+          ]
+        }
+      ],
+      "mechanism_strip": "India's 29°18' longitudinal span produces about 117 minutes of local solar-time difference, even though one civil time is used across the country.",
+      "answer_line": "India's 29°18' longitudinal span produces about 117 minutes of local solar-time difference, even though one civil time is used across the country.",
+      "source_references": [
+        "sessions: [11, 12, 13, 14, 15, 16]",
+        "sections: [\"BASIC LEARNING SESSION\", \"India Location and Extent rapid register\"]",
+        "markdown_lines: [\"757-1115\", \"2573-2583\"]"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "INDIA'S OCEANIC SITUATION, NEIGHBOURS, COASTS AND ISLAND EXTENSIONS",
+      "structural_type": "regional-map-and-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDIA'S OCEANIC SITUATION, NEIGHBOURS, COASTS AND ISLAND EXTENSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "HIMALAYA LAND NEIGHBOURS + PASSES + CLIMATIC FILTERING",
+          "role": "outcome"
+        },
+        {
+          "text": "ARABIAN SEA -------- PENINSULAR INDIA -------- BAY OF BENGAL",
+          "role": "comparison"
+        },
+        {
+          "text": "LAKSHADWEEP INDIAN OCEAN SOUTH ANDAMAN-NICOBAR CORAL ATOLLS ROUTE CENTRALITY",
+          "role": "evidence"
+        },
+        {
+          "text": "TEN DEGREE CHANNEL",
+          "role": "primary"
+        },
+        {
+          "text": "ANDAMAN SEA TO EAST",
+          "role": "outcome"
+        },
+        {
+          "text": "LAND NEIGHBOURS",
+          "role": "comparison"
+        },
+        {
+          "text": "PAKISTAN, AFGHANISTAN, CHINA, NEPAL, BHUTAN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HIMALAYA land neighbours + passes + climatic filtering",
+        "ARABIAN SEA -------- PENINSULAR INDIA -------- BAY OF BENGAL western routes northern Indian Ocean eastern",
+        "Lakshadweep Indian Ocean south Andaman-Nicobar coral atolls route centrality tectonic island arc",
+        "Ten Degree Channel: Andaman / Nicobar",
+        "Andaman Sea to east"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEFINITION",
+          "PROCESS / MECHANISM",
+          "SPATIAL / INDIA PATTERN",
+          "HAZARD / LIMIT / RESPONSE"
+        ],
+        [
+          "HIMALAYA land neighbours + passes + climatic filtering",
+          "Ten Degree Channel: Andaman / Nicobar",
+          "Bangladesh and Myanmar",
+          "2025 revised coastline: 11,098.81 km"
+        ],
+        [
+          "ARABIAN SEA -------- PENINSULAR INDIA -------- BAY OF BENGAL western routes northern Indian Ocean eastern routes",
+          "Andaman Sea to east",
+          "MARITIME NEIGHBOURS: Sri Lanka and Maldives",
+          "Revised measurement reflects GIS and high-water-line detail, not new territory."
+        ],
+        [
+          "Lakshadweep Indian Ocean south Andaman-Nicobar coral atolls route centrality tectonic island arc",
+          "LAND NEIGHBOURS: Pakistan, Afghanistan, China, Nepal, Bhutan,",
+          "Land border: 15,106.7 km",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "HIMALAYA land neighbours + passes + climatic filtering",
+            "ARABIAN SEA -------- PENINSULAR INDIA -------- BAY OF BENGAL western routes northern Indian Ocean eastern routes",
+            "Lakshadweep Indian Ocean south Andaman-Nicobar coral atolls route centrality tectonic island arc"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Ten Degree Channel: Andaman / Nicobar",
+            "Andaman Sea to east",
+            "LAND NEIGHBOURS: Pakistan, Afghanistan, China, Nepal, Bhutan,"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "Bangladesh and Myanmar",
+            "MARITIME NEIGHBOURS: Sri Lanka and Maldives",
+            "Land border: 15,106.7 km"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "2025 revised coastline: 11,098.81 km",
+            "Revised measurement reflects GIS and high-water-line detail, not new territory."
+          ]
+        }
+      ],
+      "mechanism_strip": "The 2025 coastline figure of 11,098.81 km reflects finer GIS and high-water-line measurement of coastal detail and islands, not territorial expansion or automatic change in Coastal Regulation Zone boundaries.",
+      "answer_line": "The 2025 coastline figure of 11,098.81 km reflects finer GIS and high-water-line measurement of coastal detail and islands, not territorial expansion or automatic change in Coastal Regulation Zone boundaries.",
+      "source_references": [
+        "sessions: [16, 17, 18, 19, 20, 21]",
+        "sections: [\"BASIC LEARNING SESSION\", \"India Location and Extent rapid register\"]",
+        "markdown_lines: [\"1056-1405\", \"2580-2588\"]"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "synthesis",
+      "title": "MAP-ANSWER AND MAINS SPINE FOR INDIA'S LOCATIONAL SIGNIFICANCE",
+      "structural_type": "map-answer-and-mains-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "MAP-ANSWER AND MAINS SPINE FOR INDIA'S LOCATIONAL SIGNIFICANCE",
+          "role": "primary"
+        },
+        {
+          "text": "WHY IS INDIA'S LOCATION SIGNIFICANT WITHOUT BEING DETERMINISTIC?",
+          "role": "outcome"
+        },
+        {
+          "text": "1. DEFINE SCALE",
+          "role": "comparison"
+        },
+        {
+          "text": "ASIAN SUBDIVISION WITH CONTINENTAL SIZE AND DIVERSITY",
+          "role": "evidence"
+        },
+        {
+          "text": "2. DRAW MAP",
+          "role": "primary"
+        },
+        {
+          "text": "ARABIAN SEA",
+          "role": "outcome"
+        },
+        {
+          "text": "3. ADD EVIDENCE COORDINATES",
+          "role": "evidence"
+        },
+        {
+          "text": "ISLAND EXTENSIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "QUESTION: Why is India's location significant without being deterministic?",
+        "1. DEFINE SCALE: Asian subdivision with continental size and diversity",
+        "2. DRAW MAP: Himalaya",
+        "Arabian Sea",
+        "3. ADD EVIDENCE coordinates → Tropic → IST → coast → neighbours → island extensions"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "QUESTION: Why is India's location significant without being deterministic?",
+            "1. DEFINE SCALE: Asian subdivision with continental size and diversity",
+            "2. DRAW MAP: Himalaya"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Arabian Sea",
+            "3. ADD EVIDENCE coordinates → Tropic → IST → coast → neighbours → island extensions",
+            "4. EXPLAIN MECHANISMS latitude → solar regime"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "mountains → selective filter ocean position → trade, monsoon, ecology and security connections",
+            "5. QUALIFY centrality does not equal control; borders and routes require safe mapping",
+            "6. VERDICT location supplies opportunities and constraints"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "connectivity, institutions and stewardship convert them into outcomes",
+            "MAP RULE: schematic, not to scale, claim-relevant labels, no improvised borders."
+          ]
+        }
+      ],
+      "mechanism_strip": "MAP RULE: schematic, not to scale, claim-relevant labels, no improvised borders.",
+      "answer_line": "schematic, not to scale, claim-relevant labels, no improvised borders.",
+      "source_references": [
+        "sessions: [18, 19, 21, 22, 23, 24]",
+        "sections: [\"PYQS AND ANSWER PRACTICE\", \"CONSOLIDATED REGISTER NOTES\"]",
+        "markdown_lines: [\"1178-1599\", \"2596-2670\"]"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "41. COORDINATE ENVELOPE, POLYGON REALITY AND MEASUREMENT DISCIPLINE",
+          "role": "outcome"
+        },
+        {
+          "text": "42. ADMINISTRATIVE GEOGRAPHY OF ONE STANDARD TIME",
+          "role": "comparison"
+        },
+        {
+          "text": "43. LATITUDE IS NOT A CLIMATIC BORDER",
+          "role": "caution"
+        },
+        {
+          "text": "44. COASTLINE PARADOX AND SCALE-DEPENDENT NUMBERS",
+          "role": "primary"
+        },
+        {
+          "text": "45. NEIGHBOUR COUNTS DEPEND ON CATEGORY",
+          "role": "outcome"
+        },
+        {
+          "text": "46. SUBCONTINENT AS A RELATIONAL SCALE CONCEPT",
+          "role": "comparison"
+        },
+        {
+          "text": "47. MOUNTAINS AS SELECTIVE PERMEABILITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL PROCESS DEPTH",
+          "role": "mechanism",
+          "items": [
+            "41. Coordinate envelope, polygon reality and measurement discipline",
+            "42. Administrative geography of one standard time",
+            "43. Latitude is not a climatic border",
+            "44. Coastline paradox and scale-dependent numbers"
+          ]
+        },
+        {
+          "heading": "DATA / INSTITUTION LIMIT",
+          "role": "caution",
+          "items": [
+            "45. Neighbour counts depend on category",
+            "46. Subcontinent as a relational scale concept",
+            "47. Mountains as selective permeability",
+            "48. Oceans as routes and risk fields"
+          ]
+        },
+        {
+          "heading": "CONTEMPORARY PARALLEL",
+          "role": "neutral",
+          "items": [
+            "49. Island extension without strategic simplification",
+            "50. Route maps require humility",
+            "51. Administrative accuracy after reorganisation",
+            "52. Cross-topic deployment without ownership leakage"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

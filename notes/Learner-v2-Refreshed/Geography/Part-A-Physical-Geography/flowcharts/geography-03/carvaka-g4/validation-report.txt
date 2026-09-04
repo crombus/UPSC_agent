@@ -1,0 +1,33 @@
+topic=geography-03
+generation=4
+generated=2026-08-23T11:50:22.421309+05:30
+source=upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\Part-A-Physical-Geography\learning-sessions\geography-03\g4\geography-03_Complete-Learning-Session_2026-08-23.md
+master_png=master.png
+master_dimensions_px=3600x16995
+poster_pdf=poster.pdf
+poster_dimensions_points=1700.79x8029.13
+poster_pages=1
+tiled_pdf=tiled.pdf
+tiled_pages=9
+same_master_split=yes
+tile_overlap_px=260
+preview_count=9
+contact_sheet_count=2
+session_stage_count=19
+editable_sources=editable/flowchart-data.json, editable/README.txt
+ascii_master=ascii-master.txt
+core_before_extra=PASS
+same_master_identity=PASS
+poster_validation=PASS
+tiled_validation=PASS
+tile_coordinates=
+  page-001: y=0..2200; overlap=0; from=1; continues=3
+  page-002: y=1940..4140; overlap=260; from=3; continues=5
+  page-003: y=3880..6080; overlap=260; from=5; continues=7
+  page-004: y=5820..8020; overlap=260; from=7; continues=9
+  page-005: y=7760..9960; overlap=260; from=9; continues=12
+  page-006: y=9700..11900; overlap=260; from=11; continues=14
+  page-007: y=11640..13840; overlap=260; from=14; continues=16
+  page-008: y=13580..15780; overlap=260; from=16; continues=18
+  page-009: y=14795..16995; overlap=260; from=17; continues=19
+errors=none

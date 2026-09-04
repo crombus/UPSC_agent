@@ -1,0 +1,71 @@
+ASCII MASTER FLOW — PANEL 1/12: Siberian climate world distribution
+SIBERIA -> largest single taiga band, continental interior
+CANADA -> boreal belt from Rockies to Atlantic coast
+SCANDINAVIA -> Sweden and Finland share the European taiga
+SOUTHERN HEMISPHERE -> absent: no land broad enough at these latitudes
+
+ASCII MASTER FLOW — PANEL 2/12: Climate character profile
+WINTER -> bitterly cold, long, sub-Arctic; very large annual range
+SUMMER -> short, cool; brief warm growing season
+RAINFALL -> low to moderate; light summer maximum
+PRECIPITATION TYPE -> mostly snow in winter; frontal and convectional in summer
+
+ASCII MASTER FLOW — PANEL 3/12: Conifer adaptation chain
+CONICAL SHAPE -> sheds snow load, prevents branch breakage
+NEEDLE LEAVES -> reduced surface area minimises transpiration loss
+SHALLOW ROOTS -> exploit thin active layer above permafrost
+RESULT -> conifers dominate where broadleaf trees cannot survive
+
+ASCII MASTER FLOW — PANEL 4/12: Softwood economic chain
+UNIFORM LOW-DIVERSITY STANDS -> mechanised extraction feasible
+LONG-FIBRE SOFTWOOD -> ideal for pulp and paper manufacture
+FROZEN GROUND AND RIVERS -> natural winter haulage surfaces
+SPRING THAW -> river floating of logs to downstream mills
+
+ASCII MASTER FLOW — PANEL 5/12: Carbon storage mechanism
+COLD SLOWS DECOMPOSITION -> organic matter accumulates in soil and peat
+PERMAFROST -> locks carbon in frozen ground for millennia
+BELOW-GROUND CARBON -> disproportionately large compared to above-ground
+RESULT -> boreal zone is a globally significant carbon reservoir
+
+ASCII MASTER FLOW — PANEL 6/12: Fire-thaw feedback loop
+WARMING -> lengthens fire season and thaws permafrost
+FIRE -> releases stored carbon directly through combustion
+THAW -> exposes frozen organic matter to decomposition
+FEEDBACK -> released carbon causes further warming (self-reinforcing)
+
+ASCII MASTER FLOW — PANEL 7/12: Permafrost engineering impact
+THAWING PERMAFROST -> ground loses bearing capacity
+ROADS AND RAILWAYS -> subsidence, cracking, realignment needed
+PIPELINES -> stress fractures and leak risk
+BUILDINGS -> foundation failure across settled sub-Arctic
+
+ASCII MASTER FLOW — PANEL 8/12: Himalayan altitudinal zonation
+SUBTROPICAL -> chir pine belt, 100-200 cm rain, fire-prone
+TEMPERATE -> deodar, spruce in western Himalaya
+SUBALPINE -> silver-fir (Abies) at 2200-3000 m, NW and NE
+ALPINE -> bugyals/mergs: treeless pastures above treeline
+
+ASCII MASTER FLOW — PANEL 9/12: Himalayan conifer identification
+SILVER-FIR (Abies) -> 2200-3000 m; planking, pulp, paper, matches
+SPRUCE (Picea smithiana) -> high wet-temperate belt; softwood
+DEODAR (Cedrus deodara) -> western Himalaya; durable timber
+CHIR PINE -> subtropical montane; resinous, fire-prone
+
+ASCII MASTER FLOW — PANEL 10/12: Treeline and alpine pastures
+CONIFEROUS FOREST -> gives way at the treeline altitude
+ALPINE SCRUB -> dwarf shrubs in transition zone
+BUGYALS/MERGS -> open grassy meadows for summer grazing
+SNOWLINE -> permanent snow above the pastoral belt
+
+ASCII MASTER FLOW — PANEL 11/12: Biome comparison strip
+TAIGA -> high-latitude coniferous, below-ground carbon, softwood economy
+STEPPE -> mid-latitude grassland, chernozem soil, mechanised grain
+SAVANNA -> tropical grassland, laterised soil, pastoral subsistence
+DISTINGUISHER -> latitude, rainfall regime, soil type and economic system
+
+ASCII MASTER FLOW — PANEL 12/12: Siberian climate answer spine
+DEFINE -> Northern Hemisphere boreal coniferous belt with extreme continental range
+LOCATE -> Siberia, Canada, Scandinavia; absent in Southern Hemisphere
+EXPLAIN -> cold-adaptation, softwood economy, carbon storage, fire-thaw feedback
+QUALIFY -> India's altitudinal analogue; transparent zero-direct-PYQ boundary

@@ -1,0 +1,358 @@
+{
+  "schema_version": 1,
+  "topic_key": "geography-02",
+  "generation": 7,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-02\\g7\\geography-02_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    25818
+  ],
+  "stages": [
+    {
+      "title": "MASTER VOCABULARY: WHAT EXACTLY ARE WE STUDYING?",
+      "terms": "Structure → process → surface: lithology, bedding, joints, faults and tectonic setting create a template; weathering, rivers, glaciers, waves and human use modify it.",
+      "mechanism": "A rock aggregate is therefore not “a mineral”, and a landform cannot be inferred from a rock name alone.",
+      "consequence": "Structure → process → surface: lithology, bedding, joints, faults and tectonic setting create a template; weathering, rivers, glaciers, waves and human use modify it.",
+      "trap": "A rock aggregate is therefore not “a mineral”, and a landform cannot be inferred from a rock name alone.",
+      "answer": "Geological structure is the age, composition and architecture of rocks and tectonic features beneath a region, while physiography is their broad surface expression and geomorphology explains the processes that reshape it."
+    },
+    {
+      "title": "CRUST AND LITHOSPHERE: RELATED, NOT IDENTICAL",
+      "terms": "Moho means the crust–mantle seismic boundary; its wave evidence belongs to Topic 01 and is only cross-linked here.",
+      "mechanism": "Asthenosphere means the weaker, slowly deforming upper-mantle zone beneath the lithosphere; plates move as coherent lithospheric units over it.",
+      "consequence": "Crust is compositional; lithosphere is mechanical and includes the crust plus rigid uppermost mantle.",
+      "trap": "They are useful mnemonics, not complete modern compositional layers.",
+      "answer": "The crust is Earth’s outer compositional shell, whereas the lithosphere is the stronger mechanical layer comprising the crust plus the rigid uppermost mantle."
+    },
+    {
+      "title": "THE COMPLETE ROCK CYCLE: A NETWORK, NOT A CONVEYOR BELT",
+      "terms": "Lithification means turning loose sediment into rock through compaction and cementation.",
+      "mechanism": "Lithification means turning loose sediment into rock through compaction and cementation.",
+      "consequence": "“Igneous → sedimentary → metamorphic” is one teaching path, not the only path.",
+      "trap": "Metamorphism normally occurs without complete melting; if melting occurs, the material re-enters the igneous path.",
+      "answer": "The rock cycle is an open network in which melting, crystallisation, weathering, lithification, metamorphism and uplift can connect any rock family through multiple pathways rather than one fixed sequence."
+    },
+    {
+      "title": "IGNEOUS ROCKS: COOLING HISTORY, COMPOSITION AND TEXTURE",
+      "terms": "“Primary rock” is an older genetic phrase for igneous rock because crystallisation creates the original mineral framework.",
+      "mechanism": "Porphyritic means large crystals embedded in a finer groundmass, showing two-stage cooling.",
+      "consequence": "It does not mean every igneous exposure is oldest or economically primary.",
+      "trap": "India anchor: Deccan basalt is extrusive flood basalt; Peninsular granites and gneisses have different histories and should not be merged with the Deccan province.",
+      "answer": "“Primary rock” is an older genetic phrase for igneous rock because crystallisation creates the original mineral framework."
+    },
+    {
+      "title": "SEDIMENTARY ROCKS: SEDIMENT PATHWAY AND FIELD CLUES",
+      "terms": "Fossils, ripple marks, mud cracks and cross-bedding can reveal environment, current direction, drying or younging.",
+      "mechanism": "Fossils, ripple marks, mud cracks and cross-bedding can reveal environment, current direction, drying or younging.",
+      "consequence": "Limestone has several origins; do not call every limestone exclusively organic or chemical.",
+      "trap": "Loess is wind-deposited silt and moraine is glacial debris.",
+      "answer": "Conglomerate has rounded gravel clasts; sandstone is sand-sized; shale is fine mud-rich rock."
+    },
+    {
+      "title": "METAMORPHIC ROCKS: PROTOLITH, GRADE AND FABRIC",
+      "terms": "Metamorphic grade means intensity of temperature–pressure conditions.",
+      "mechanism": "Metamorphic grade means intensity of temperature–pressure conditions.",
+      "consequence": "Graphite may form from carbon-rich material, but “coal → graphite” is not a universal one-step rule.",
+      "trap": "Agents are heat, confining pressure, differential stress—unequal directed pressure—and chemically active fluids.",
+      "answer": "Exam-safe paths: shale/mudstone → slate → phyllite → schist → gneiss is a common increasing-grade teaching sequence, not a universal compulsory path."
+    },
+    {
+      "title": "ROCK PROPERTIES AND APPLIED GEOGRAPHY",
+      "terms": "Rock name alone never determines land use: porosity, permeability, fractures, weathering, structure and site conditions jointly control groundwater, soils, foundations, dams and slope behaviour.",
+      "mechanism": "Crystalline igneous and metamorphic rocks commonly have low primary pore space but can store groundwater in weathered zones, joints and fractures.",
+      "consequence": "Basalt aquifers are heterogeneous: vesicular tops and flow contacts may transmit water; compact interiors may not.",
+      "trap": "A dam, tunnel or foundation requires site investigation; “granite is strong” or “limestone is weak” is not an engineering conclusion.",
+      "answer": "Rock name alone never determines land use: porosity, permeability, fractures, weathering, structure and site conditions jointly control groundwater, soils, foundations, dams and slope behaviour."
+    },
+    {
+      "title": "CONTINENTAL DRIFT: WEGENER’S EVIDENCE AND LIMITATION",
+      "terms": "Continental drift became persuasive because shelf-edge fit, matching rock belts, fossils, palaeoclimate and palaeomagnetism independently point to former continental connections, even though Wegener lacked an adequate mechanism.",
+      "mechanism": "It must later be distinguished from India’s Gondwana Supergroup of rocks.",
+      "consequence": "His evidence was powerful, but proposed driving forces were inadequate.",
+      "trap": "Gondwana here means a southern palaeocontinent.",
+      "answer": "Continental drift became persuasive because shelf-edge fit, matching rock belts, fossils, palaeoclimate and palaeomagnetism independently point to former continental connections, even though Wegener lacked an adequate mechanism."
+    },
+    {
+      "title": "SEA-FLOOR SPREADING: OCEANIC EVIDENCE AND MASS BALANCE",
+      "terms": "Sea-floor spreading creates young oceanic crust at mid-ocean ridges, records symmetrical magnetic stripes and balances creation by consuming older lithosphere at trenches, so the Earth does not expand.",
+      "mechanism": "Ocean floor is geologically young relative to continental shields because it is recycled.",
+      "consequence": "The Earth does not expand; ridge creation is balanced by trench destruction.",
+      "trap": "Magnetic reversals create matching stripe patterns on both ridge flanks.",
+      "answer": "Sea-floor spreading creates young oceanic crust at mid-ocean ridges, records symmetrical magnetic stripes and balances creation by consuming older lithosphere at trenches, so the Earth does not expand."
+    },
+    {
+      "title": "PLATE TECTONICS: BOUNDARY MATRIX AND LANDFORM DIAGNOSIS",
+      "terms": "Plate-interior activity occurs at inherited faults, rifts, hot spots and intraplate stress concentrations; boundaries explain global clustering, not every event.",
+      "mechanism": "Plate-interior activity occurs at inherited faults, rifts, hot spots and intraplate stress concentrations; boundaries explain global clustering, not every event.",
+      "consequence": "Andes and Himalaya are both mountains but arise from different convergence types.",
+      "trap": "Plate-interior activity occurs at inherited faults, rifts, hot spots and intraplate stress concentrations; boundaries explain global clustering, not every event.",
+      "answer": "Plate boundaries are diagnosed by motion and products: divergence creates crust, subduction destroys oceanic crust, continent collision thickens crust, and transform motion conserves crust while generating shallow earthquakes."
+    },
+    {
+      "title": "OCEAN-BASIN EVOLUTION: WILSON-CYCLE ANALOGY",
+      "terms": "Passive margins can accumulate thick sediment wedges and host offshore petroleum systems.",
+      "mechanism": "Passive margins can accumulate thick sediment wedges and host offshore petroleum systems.",
+      "consequence": "A basin can stall, reorganise or avoid the ideal sequence; the examples are analogies, not timestamps.",
+      "trap": "The Wilson cycle is an analogy for rifting, ocean opening, subduction, closure and suturing, not a fixed destiny that every ocean basin must complete.",
+      "answer": "The Wilson cycle is an analogy for rifting, ocean opening, subduction, closure and suturing, not a fixed destiny that every ocean basin must complete."
+    },
+    {
+      "title": "ISOSTASY AND OROGENY",
+      "terms": "Isostasy explains vertical crustal adjustment, while orogeny explains mountain building through shortening, thickening and uplift; erosion and unloading can then trigger further isostatic response.",
+      "mechanism": "Orogeny means mountain building through convergence, folding, thrusting, metamorphism, crustal thickening and uplift.",
+      "consequence": "Erosion removes mass, exposes deeper rocks and can produce isostatic response; high relief is therefore dynamic, not a one-time construction.",
+      "trap": "Isostasy means buoyant vertical equilibrium between crust/lithosphere and denser material beneath.",
+      "answer": "Isostasy explains vertical crustal adjustment, while orogeny explains mountain building through shortening, thickening and uplift; erosion and unloading can then trigger further isostatic response."
+    },
+    {
+      "title": "WORLD-TO-INDIA TRANSITION: STRUCTURE EXPRESSED AS RELIEF",
+      "terms": "Structure controls broad relief and resource opportunity, while climate, weathering, rivers and human use modify it.",
+      "mechanism": "At the highest school-geography scale, India’s six broad physiographic divisions are the Himalaya/Northern Mountains, Northern Plain, Peninsular Plateau, Indian Desert, Coastal Plains and Islands.",
+      "consequence": "They are used here only as structural expressions, not as substitutes for the later detailed physiography owners.",
+      "trap": "Structure controls broad relief and resource opportunity, while climate, weathering, rivers and human use modify it.",
+      "answer": "Structure controls broad relief and resource opportunity, while climate, weathering, rivers and human use modify it."
+    },
+    {
+      "title": "SCOPE: GEOLOGICAL STRUCTURE VERSUS PHYSIOGRAPHY AND GEOMORPHOLOGY",
+      "terms": "Geological structure means the age, lithology, stratigraphic order, folds, faults, joints, basins, cratons and plate-tectonic relations of rocks beneath a region.",
+      "mechanism": "This package supplies their geological mechanism and clearly identifies those cross-links.",
+      "consequence": "Exam method: identify the hidden structure, name a region, explain the mechanism, state a surface/resource/hazard consequence, then qualify the relationship.",
+      "trap": "Therefore geology explains pattern and constraint, not every present landform by itself.",
+      "answer": "India’s geological skeleton consists of an ancient Peninsular shield, an active Himalayan fold-thrust belt and a sediment-filled Indo-Ganga-Brahmaputra foreland basin linked by collision, flexure, erosion and deposition."
+    },
+    {
+      "title": "GEOLOGICAL TIME, EVIDENCE AND DATING CAUTIONS",
+      "terms": "Mains use: Use an evidence ladder: field relation - dating/correlation - geophysical image - tectonic interpretation - qualification.",
+      "mechanism": "Relative dating uses superposition, cross-cutting relations, unconformities, fossils and correlation.",
+      "consequence": "Fossils are especially useful in sedimentary correlations, but many ancient Indian crystalline and Proterozoic successions are unfossiliferous or sparsely fossiliferous.",
+      "trap": "Stratigraphy is not merely a rock-name list.",
+      "answer": "A safe geological chronology combines superposition, cross-cutting relations, unconformities, fossils, radiometric event ages, palaeomagnetism and geophysics; relative order is often safer than memorised numerical ages."
+    },
+    {
+      "title": "INDIAN PLATE: GONDWANA ORIGIN, BREAK-UP, DRIFT AND COLLISION",
+      "terms": "The Indian plate journey links Gondwana rifting, northward motion, Tethyan ocean closure and prolonged India-Eurasia collision to Himalayan uplift, foreland subsidence and continuing seismicity.",
+      "mechanism": "Continuing convergence is expressed through active thrusting, earthquakes, uplift, erosion and sediment transfer into the foreland and offshore basins.",
+      "consequence": "Collision was not a single instant across the whole margin.",
+      "trap": "India is both an ancient continental fragment and part of an active plate system: this explains the contrast between old shield rocks and young Himalayan tectonic architecture.",
+      "answer": "The Indian plate journey links Gondwana rifting, northward motion, Tethyan ocean closure and prolonged India-Eurasia collision to Himalayan uplift, foreland subsidence and continuing seismicity."
+    },
+    {
+      "title": "CRATONS, SHIELDS AND THE STABILISED PENINSULAR BLOCK",
+      "terms": "Peninsular India is a mosaic of ancient cratonic nuclei and intervening mobile belts, later cut by faults, rifts and dykes and locally covered by younger sediments and basalt.",
+      "mechanism": "Peninsular India is a mosaic of ancient cratonic nuclei and intervening mobile belts, later cut by faults, rifts and dykes and locally covered by younger sediments and basalt.",
+      "consequence": "Metallic-mineral provinces are strongly associated with ancient shield geology, but ore localisation requires specific magmatic, hydrothermal, sedimentary or metamorphic processes.",
+      "trap": "It does not mean flat, homogeneous, immobile or earthquake-free.",
+      "answer": "Peninsular India is a mosaic of cratons and mobile belts later cut by faults, rifts, dykes and basins and partly covered by younger sediments and lava, so stable never means uniform, flat or earthquake-free."
+    },
+    {
+      "title": "ARCHAEAN AND DHARWAR SYSTEMS: DISTRIBUTION AND TERMINOLOGY CONTROL",
+      "terms": "Mains use: In a classification answer, give lithology, structure, distribution, significance and a terminology caution.",
+      "mechanism": "Mains use: In a classification answer, give lithology, structure, distribution, significance and a terminology caution.",
+      "consequence": "Do not repeat old claims that all Archaean rocks are entirely unfossiliferous or that one textbook's age span is definitive.",
+      "trap": "Named examples such as Kolar or Singhbhum are location anchors, not universal rules for every Dharwar rock.",
+      "answer": "Archaean granitoid-gneiss basement and Dharwar-type supracrustal belts form distinct parts of the ancient shield, and their ore associations reflect specific magmatic, sedimentary, metamorphic and hydrothermal histories rather than age alone."
+    },
+    {
+      "title": "PROTEROZOIC PURANA BASINS: CUDDAPAH AND VINDHYAN",
+      "terms": "Resource links must be bounded: a whole system is not uniformly mineralised, and Panna diamonds do not make every Vindhyan sandstone diamond-bearing.",
+      "mechanism": "Cuddapah and Vindhyan are major Proterozoic sedimentary basin successions resting unconformably on older basement.",
+      "consequence": "Resource links must be bounded: a whole system is not uniformly mineralised, and Panna diamonds do not make every Vindhyan sandstone diamond-bearing.",
+      "trap": "Older textbooks group them under Purana, but their detailed ages and correlations are convention-sensitive.",
+      "answer": "Purana is an older Indian label for Proterozoic basin successions such as Cuddapah and Vindhyan, which rest unconformably on older basement and record long-lived sedimentation rather than one uniform mineral province."
+    },
+    {
+      "title": "GONDWANA SUPERGROUP: RIFT BASINS, COAL AND CONTINENTAL SEDIMENTATION",
+      "terms": "Lower parts of the succession include glacially influenced deposits in some basins, followed by coal-bearing sandstone-shale cycles and younger continental strata.",
+      "mechanism": "Lower parts of the succession include glacially influenced deposits in some basins, followed by coal-bearing sandstone-shale cycles and younger continental strata.",
+      "consequence": "Coal presence is not automatic in every Gondwana unit or every rift.",
+      "trap": "Gondwana coalfields are not simply surface strips along modern rivers.",
+      "answer": "The Gondwana Supergroup is a fault-basin continental sedimentary succession with important coal measures; it must not be confused with Gondwana, the southern palaeocontinent."
+    },
+    {
+      "title": "MARINE SEDIMENTARY BASINS, COASTS AND OFFSHORE PETROLEUM LOGIC",
+      "terms": "Mains use: Explain offshore concentration through basin evolution, not a memorised field list.",
+      "mechanism": "Mains use: Explain offshore concentration through basin evolution, not a memorised field list.",
+      "consequence": "Do not claim every named basin is equally productive or that all offshore oil is young.",
+      "trap": "Thick sediment alone is necessary in many settings but never sufficient.",
+      "answer": "Offshore occurrence is therefore geological, not simply because an area is under the sea."
+    },
+    {
+      "title": "DECCAN TRAP: FLOOD-BASALT PROVINCE AND BOUNDED SURFACE LINKAGES",
+      "terms": "The Deccan Trap is a vast flood-basalt province built by repeated, mainly fissure-fed lava flows around the end-Cretaceous to earliest Cenozoic transition.",
+      "mechanism": "The Deccan Trap is a vast flood-basalt province built by repeated, mainly fissure-fed lava flows around the end-Cretaceous to earliest Cenozoic transition.",
+      "consequence": "Deccan Trap is a volcanic province, not a soil type.",
+      "trap": "This architecture governs groundwater: compact basalt may transmit little water, while fractures, vesicular zones, weathered contacts and interflow horizons can form aquifers.",
+      "answer": "The Deccan Trap is a Late Cretaceous flood-basalt province of stacked fissure-fed flows whose contacts, fractures, vesicular zones and weathering create step relief, black-soil parent material and highly variable aquifers."
+    },
+    {
+      "title": "HIMALAYA: FROM GEOSYNCLINAL LANGUAGE TO MODERN PLATE TECTONICS",
+      "terms": "Modern plate tectonics explains the driving mechanism through subduction of oceanic domains, collision, shortening, thrusting, metamorphism and uplift.",
+      "mechanism": "Modern plate tectonics explains the driving mechanism through subduction of oceanic domains, collision, shortening, thrusting, metamorphism and uplift.",
+      "consequence": "Mains use: Contrast the historical geosynclinal description with the modern plate-tectonic mechanism; then draw a labelled cross-section.",
+      "trap": "They are not the oldest Himalayan rocks.",
+      "answer": "The Himalaya is a continent-collision fold-thrust orogen containing sedimentary, metamorphic and crystalline belts; unlike the Andes, it is not primarily a volcanic subduction arc."
+    },
+    {
+      "title": "INDO-GANGA-BRAHMAPUTRA FORELAND BASIN AND ALLUVIAL FILL",
+      "terms": "Correct: It is a sediment-filled foreland basin.",
+      "mechanism": "Correct: It is a sediment-filled foreland basin.",
+      "consequence": "Thick unconsolidated sediment explains level relief, fertile alluvial soils, major aquifers and dense settlement, but also flood, erosion, subsidence and liquefaction sensitivity.",
+      "trap": "The plain is not one uniform layer or one age.",
+      "answer": "The Indo-Ganga-Brahmaputra Plain is not structureless alluvium but a flexural foreland basin whose thick sediment supports fertile soils and aquifers while also influencing floods, subsidence and seismic site response."
+    },
+    {
+      "title": "COASTS, OFFSHORE BASINS AND ISLAND-ARC VERSUS CORAL-ISLAND DISTINCTION",
+      "terms": "Andaman-Nicobar belongs to an active subduction-related arc-forearc system, whereas Lakshadweep consists of coral atolls on a submarine volcanic-ridge foundation; Indian island geology is therefore not uniform.",
+      "mechanism": "The emergent islands are coral, unlike the tectonic island-arc setting of Andaman-Nicobar.",
+      "consequence": "The island chain also includes sedimentary and uplifted components; it is not simply a row of volcanic cones.",
+      "trap": "Correct: Lakshadweep is coral; Andaman-Nicobar has an active tectonic arc setting.",
+      "answer": "Andaman-Nicobar belongs to an active subduction-related arc-forearc system, whereas Lakshadweep consists of coral atolls on a submarine volcanic-ridge foundation; Indian island geology is therefore not uniform."
+    },
+    {
+      "title": "MAJOR LINEAMENTS, FAULTS AND RIFTS",
+      "terms": "Mains use: Use one map plus one mechanism paragraph; avoid asserting current activity without evidence.",
+      "mechanism": "Mains use: Use one map plus one mechanism paragraph; avoid asserting current activity without evidence.",
+      "consequence": "A lineament mapped from imagery is not automatically a proven active fault.",
+      "trap": "Schematic national maps must not imply exact fault traces or legal boundary precision.",
+      "answer": "A rift is an extensional crustal zone, a graben is a down-dropped fault block, and a lineament is a mapped linear feature that is not automatically an active fault."
+    },
+    {
+      "title": "STRUCTURAL CONTROL OF RELIEF, DRAINAGE, GROUNDWATER AND WATERFALLS",
+      "terms": "Structure guides but does not fully fix drainage.",
+      "mechanism": "Hard-rock groundwater depends on secondary openings.",
+      "consequence": "Correct: Lithologic contrast, rejuvenation and lava contacts are alternative controls.",
+      "trap": "Structure guides but does not fully fix drainage.",
+      "answer": "Geological structure becomes examinable when it explains why relief, rivers, groundwater and resource patterns are spatially organised."
+    },
+    {
+      "title": "GEOLOGY, MINERALS, COAL AND PETROLEUM: ASSOCIATION WITHOUT DETERMINISM",
+      "terms": "Petroleum and gas occur in sedimentary basins onshore and offshore where a complete petroleum system developed and survived.",
+      "mechanism": "India's resource map reflects ancient shield mineralisation, Gondwana coal basins, sedimentary petroleum systems, coastal placers and weathering-derived ores.",
+      "consequence": "It does not imply that all critical minerals lie in one geological province.",
+      "trap": "NCMM is a current policy anchor, not a geological classification.",
+      "answer": "Shield belts, Gondwana basins and sedimentary margins are associated respectively with many metallic ores, coal and petroleum, but exploration, grade, preservation, technology, economics and environmental limits decide usable resources."
+    },
+    {
+      "title": "SEISMICITY: HIMALAYA, KACHCHH AND PENINSULAR INTRAPLATE EVENTS",
+      "terms": "India's seismicity reflects active plate-boundary deformation in the Himalaya and north-east, subduction near Andaman-Nicobar, and intraplate reactivation in Kachchh and parts of the Peninsula.",
+      "mechanism": "India's seismicity reflects active plate-boundary deformation in the Himalaya and north-east, subduction near Andaman-Nicobar, and intraplate reactivation in Kachchh and parts of the Peninsula.",
+      "consequence": "Mains use: Explain source, path/site effect and vulnerability separately; do not equate tectonic activity with disaster magnitude.",
+      "trap": "Kachchh is an intraplate high-hazard region with inherited rift faults and damaging historical earthquakes, including the 2001 Bhuj event.",
+      "answer": "India’s seismicity reflects active Himalayan and Andaman plate boundaries plus reactivation of inherited structures such as Kachchh and selected Peninsular faults; seismic zoning is a design generalisation, not earthquake prediction."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 3,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7760,
+      "y_end": 9960,
+      "overlap_px": 260,
+      "from_stage": 9,
+      "continues_stage": 12
+    },
+    {
+      "page": 6,
+      "y_start": 9700,
+      "y_end": 11900,
+      "overlap_px": 260,
+      "from_stage": 11,
+      "continues_stage": 14
+    },
+    {
+      "page": 7,
+      "y_start": 11640,
+      "y_end": 13840,
+      "overlap_px": 260,
+      "from_stage": 14,
+      "continues_stage": 16
+    },
+    {
+      "page": 8,
+      "y_start": 13580,
+      "y_end": 15780,
+      "overlap_px": 260,
+      "from_stage": 16,
+      "continues_stage": 18
+    },
+    {
+      "page": 9,
+      "y_start": 15520,
+      "y_end": 17720,
+      "overlap_px": 260,
+      "from_stage": 18,
+      "continues_stage": 20
+    },
+    {
+      "page": 10,
+      "y_start": 17460,
+      "y_end": 19660,
+      "overlap_px": 260,
+      "from_stage": 20,
+      "continues_stage": 23
+    },
+    {
+      "page": 11,
+      "y_start": 19400,
+      "y_end": 21600,
+      "overlap_px": 260,
+      "from_stage": 22,
+      "continues_stage": 25
+    },
+    {
+      "page": 12,
+      "y_start": 21340,
+      "y_end": 23540,
+      "overlap_px": 260,
+      "from_stage": 25,
+      "continues_stage": 27
+    },
+    {
+      "page": 13,
+      "y_start": 23280,
+      "y_end": 25480,
+      "overlap_px": 260,
+      "from_stage": 27,
+      "continues_stage": 29
+    },
+    {
+      "page": 14,
+      "y_start": 23618,
+      "y_end": 25818,
+      "overlap_px": 260,
+      "from_stage": 27,
+      "continues_stage": 29
+    }
+  ]
+}

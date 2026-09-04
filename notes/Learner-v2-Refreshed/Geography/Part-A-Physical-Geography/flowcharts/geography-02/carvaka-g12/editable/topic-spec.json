@@ -1,0 +1,876 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-02",
+  "subject": "Geography",
+  "title": "GEOGRAPHY 02 — THE EARTH’S CRUST, ROCKS / INDIA GEOLOGICAL STRUCTURE",
+  "short_route": "CRUST, LITHOSPHERE AND THE → IGNEOUS, SEDIMENTARY AND METAMORPHIC → FROM CONTINENTAL DRIFT TO → INDIAN PLATE JOURNEY AND → INDIAN ROCK SYSTEMS, BASINS → HIMALAYA, FORELAND, COASTS, ISLANDS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g11 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Part-A-Physical-Geography\\learning-sessions\\geography-02\\g11\\geography-02_Complete-Learning-Session_2026-08-23.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-2026-08-23.json",
+  "ascii_spec_sha256": "5b0626c2b1e32a49c858860e95c1b0b6820a314e6104f5b755fa4cbed3ef2c66",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CRUST, LITHOSPHERE AND THE ROCK-CYCLE NETWORK",
+      "structural_type": "process-system-overview",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CRUST, LITHOSPHERE AND THE ROCK-CYCLE NETWORK",
+          "role": "mechanism"
+        },
+        {
+          "text": "EARTH MATERIAL SYSTEM MINERAL",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPOSITIONAL SHELL",
+          "role": "comparison"
+        },
+        {
+          "text": "CRUST + RIGID UPPERMOST MANTLE",
+          "role": "evidence"
+        },
+        {
+          "text": "WEAKER MECHANICAL LAYER BELOW",
+          "role": "primary"
+        },
+        {
+          "text": "ROCK-CYCLE NETWORK MAGMA --CRYSTALLISATION-→ IGNEOUS WEATHERING + TRANSPORT",
+          "role": "mechanism"
+        },
+        {
+          "text": "<---- MELTING -- METAMORPHIC <-- SEDIMENTARY HEAT + PRESSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE CYCLE IS A NETWORK",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "EARTH MATERIAL SYSTEM mineral → rock → lithology → petrology → geology",
+        "Crust = compositional shell",
+        "Lithosphere = crust + rigid uppermost mantle",
+        "Asthenosphere = weaker mechanical layer below",
+        "ROCK-CYCLE NETWORK magma --crystallisation-→ IGNEOUS weathering + transport"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "EARTH MATERIAL SYSTEM mineral → rock → lithology → petrology → geology",
+            "Crust = compositional shell",
+            "Lithosphere = crust + rigid uppermost mantle"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Asthenosphere = weaker mechanical layer below",
+            "ROCK-CYCLE NETWORK magma --crystallisation-→ IGNEOUS weathering + transport",
+            "<---- melting -- METAMORPHIC <-- SEDIMENTARY heat + pressure compaction + cementation uplift and exposure reconnect all paths"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "The cycle is a network: no rock family has one compulsory next stage."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The crust is Earth’s outer compositional shell, whereas the lithosphere is the stronger mechanical layer comprising the crust plus the rigid uppermost mantle.",
+      "source_references": [
+        "sessions: [1, 2, 3]",
+        "sections: [\"BASIC LEARNING SESSION\", \"Rapid register - crust, rocks and dynamics\"]",
+        "markdown_lines: [\"55-247\", \"3267-3274\"]"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "IGNEOUS, SEDIMENTARY AND METAMORPHIC DIAGNOSTIC MATRIX",
+      "structural_type": "classification-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "IGNEOUS, SEDIMENTARY AND METAMORPHIC DIAGNOSTIC MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "FIELD CLUES",
+          "role": "outcome"
+        },
+        {
+          "text": "MAGMA/LAVA COOLING",
+          "role": "comparison"
+        },
+        {
+          "text": "CRYSTALS, GLASS, VESICLES INTRUSIVE",
+          "role": "evidence"
+        },
+        {
+          "text": "SLOW COOLING",
+          "role": "primary"
+        },
+        {
+          "text": "COARSE TEXTURE EXTRUSIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "FAST COOLING",
+          "role": "comparison"
+        },
+        {
+          "text": "FINE OR GLASSY TEXTURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FIELD CLUES",
+        "magma/lava cooling",
+        "crystals, glass, vesicles intrusive",
+        "slow cooling",
+        "coarse texture extrusive"
+      ],
+      "matrix": [
+        [
+          "FAMILY",
+          "PROCESS",
+          "FIELD CLUES"
+        ],
+        [
+          "Sedimentary",
+          "deposit + lithify",
+          "beds, fossils, ripples"
+        ],
+        [
+          "granite-rhyolite = felsic",
+          "diorite-andesite = intermediate gabbro-basalt = mafic",
+          ""
+        ],
+        [
+          "FIREWALLS bedding is not foliation",
+          "loess and moraine are deposits until lithified porosity is void space",
+          "permeability is connected flow capacity"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CLASSIFICATION",
+          "role": "primary",
+          "items": [
+            "FIELD CLUES",
+            "magma/lava cooling",
+            "crystals, glass, vesicles intrusive",
+            "slow cooling",
+            "coarse texture extrusive"
+          ]
+        },
+        {
+          "heading": "DIAGNOSTIC BASIS",
+          "role": "evidence",
+          "items": [
+            "fast cooling",
+            "fine or glassy texture",
+            "deposit + lithify",
+            "beds, fossils, ripples",
+            "solid-state change"
+          ]
+        },
+        {
+          "heading": "PROCESS LINK",
+          "role": "mechanism",
+          "items": [
+            "grade, new minerals foliated",
+            "differential stress",
+            "aligned fabric",
+            "Composition pairs",
+            "granite-rhyolite = felsic"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP",
+          "role": "caution",
+          "items": [
+            "diorite-andesite = intermediate gabbro-basalt = mafic",
+            "FIREWALLS bedding is not foliation",
+            "loess and moraine are deposits until lithified porosity is void space",
+            "permeability is connected flow capacity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Igneous rocks record the cooling history and composition of magma or lava: slow intrusive cooling favours coarse crystals, while rapid extrusive cooling favours fine, glassy or vesicular textures.",
+      "source_references": [
+        "sessions: [4, 5, 6, 7]",
+        "sections: [\"BASIC LEARNING SESSION\", \"Rapid register - crust, rocks and dynamics\"]",
+        "markdown_lines: [\"248-514\", \"3271-3278\"]"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "FROM CONTINENTAL DRIFT TO PLATE TECTONICS AND WILSON-CYCLE CLOSURE",
+      "structural_type": "causal-chain-with-evidence-branches",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FROM CONTINENTAL DRIFT TO PLATE TECTONICS AND WILSON-CYCLE CLOSURE",
+          "role": "mechanism"
+        },
+        {
+          "text": "WEGENER'S DRIFT CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "SHELF-EDGE FIT",
+          "role": "comparison"
+        },
+        {
+          "text": "MATCHING ROCKS AND FOSSILS",
+          "role": "evidence"
+        },
+        {
+          "text": "LATER PALAEOMAGNETIC SUPPORT LIMITATION",
+          "role": "primary"
+        },
+        {
+          "text": "NO ADEQUATE DRIVING MECHANISM",
+          "role": "caution"
+        },
+        {
+          "text": "SEA-FLOOR SPREADING RIDGE CREATION",
+          "role": "comparison"
+        },
+        {
+          "text": "MAGNETIC STRIPES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WEGENER'S DRIFT CLAIM",
+        "shelf-edge fit → matching rocks and fossils",
+        "palaeoclimate → later palaeomagnetic support limitation: no adequate driving mechanism",
+        "SEA-FLOOR SPREADING ridge creation → magnetic stripes → older/deeper floor outward trench destruction",
+        "PLATE TECTONICS divergence subduction transform creates crust destroys oceanic conserves crust ridge/rift trench + arc"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "WEGENER'S DRIFT CLAIM",
+            "shelf-edge fit → matching rocks and fossils",
+            "palaeoclimate → later palaeomagnetic support limitation: no adequate driving mechanism"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SEA-FLOOR SPREADING ridge creation → magnetic stripes → older/deeper floor outward trench destruction",
+            "PLATE TECTONICS divergence subduction transform creates crust destroys oceanic conserves crust ridge/rift trench + arc shallow quakes rift",
+            "→ narrow sea → ocean → subduction → collision → suture"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "Wilson cycle is an analogy, not a compulsory destiny for every ocean."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Plate boundaries are diagnosed by motion and products: divergence creates crust, subduction destroys oceanic crust, continent collision thickens crust, and transform motion conserves crust while generating shallow earthquakes.",
+      "source_references": [
+        "sessions: [8, 9, 10, 11, 12]",
+        "sections: [\"BASIC LEARNING SESSION\", \"Rapid register - crust, rocks and dynamics\"]",
+        "markdown_lines: [\"515-821\", \"3278-3281\"]"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "INDIAN PLATE JOURNEY AND THE THREE-PART GEOLOGICAL SKELETON",
+      "structural_type": "tectonic-cross-section-and-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "INDIAN PLATE JOURNEY AND THE THREE-PART GEOLOGICAL SKELETON",
+          "role": "primary"
+        },
+        {
+          "text": "GONDWANA RIFTING",
+          "role": "outcome"
+        },
+        {
+          "text": "NORTHWARD INDIAN PLATE DRIFT",
+          "role": "comparison"
+        },
+        {
+          "text": "TETHYS CLOSURE",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA-EURASIA COLLISION ANCIENT PENINSULA HIMALAYAN FOLD-THRUST BELT FORELAND BASIN",
+          "role": "primary"
+        },
+        {
+          "text": "NORTH-SOUTH EXAM CROSS-SECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "SIWALIK HIMALAYA",
+          "role": "comparison"
+        },
+        {
+          "text": "FORELAND ALLUVIUM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Gondwana rifting → northward Indian Plate drift → Tethys closure",
+        "India-Eurasia collision ancient Peninsula Himalayan fold-thrust belt foreland basin cratons + belts shortening + thickening",
+        "stable framework continuing uplift/seismicity Indo-Ganga-Brahmaputra",
+        "NORTH-SOUTH EXAM CROSS-SECTION",
+        "Tethyan / Greater / Lesser / Siwalik Himalaya → foreland alluvium"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "Gondwana rifting → northward Indian Plate drift → Tethys closure",
+            "India-Eurasia collision ancient Peninsula Himalayan fold-thrust belt foreland basin cratons + belts shortening + thickening flexure + sediment",
+            "stable framework continuing uplift/seismicity Indo-Ganga-Brahmaputra"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NORTH-SOUTH EXAM CROSS-SECTION",
+            "Tethyan / Greater / Lesser / Siwalik Himalaya → foreland alluvium",
+            "Peninsular cratons, rifts, basins and Deccan cover"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "EVIDENCE LADDER superposition → cross-cutting → unconformity → fossil correlation",
+            "radiometric event age → palaeomagnetism → geophysics",
+            "Stable Peninsula means relatively stable, not uniform, flat or aseismic."
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "NORTH-SOUTH EXAM CROSS-SECTION"
+          ]
+        }
+      ],
+      "mechanism_strip": "Stable Peninsula means relatively stable, not uniform, flat or aseismic.",
+      "answer_line": "India’s geological skeleton consists of an ancient Peninsular shield, an active Himalayan fold-thrust belt and a sediment-filled Indo-Ganga-Brahmaputra foreland basin linked by collision, flexure, erosion and deposition.",
+      "source_references": [
+        "sessions: [13, 14, 15, 16, 17]",
+        "sections: [\"BASIC LEARNING SESSION\", \"Rapid register - India's geological architecture\"]",
+        "markdown_lines: [\"822-1253\", \"3282-3288\"]"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "INDIAN ROCK SYSTEMS, BASINS AND RESOURCE ASSOCIATIONS",
+      "structural_type": "chronology-resource-matrix",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "INDIAN ROCK SYSTEMS, BASINS AND RESOURCE ASSOCIATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "INDIAN EXPRESSION",
+          "role": "outcome"
+        },
+        {
+          "text": "SAFE ASSOCIATION",
+          "role": "comparison"
+        },
+        {
+          "text": "GNEISS + SUPRACRUSTALS",
+          "role": "evidence"
+        },
+        {
+          "text": "PROCESS-SPECIFIC ORE",
+          "role": "mechanism"
+        },
+        {
+          "text": "CUDDAPAH, VINDHYAN",
+          "role": "outcome"
+        },
+        {
+          "text": "STONE; BOUNDED ORES",
+          "role": "comparison"
+        },
+        {
+          "text": "FAULTED INLAND BASINS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDIAN EXPRESSION",
+        "SAFE ASSOCIATION",
+        "gneiss + supracrustals",
+        "process-specific ore",
+        "Cuddapah, Vindhyan"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CLASSIFICATION",
+          "role": "primary",
+          "items": [
+            "INDIAN EXPRESSION",
+            "SAFE ASSOCIATION",
+            "gneiss + supracrustals",
+            "process-specific ore",
+            "Cuddapah, Vindhyan"
+          ]
+        },
+        {
+          "heading": "DIAGNOSTIC BASIS",
+          "role": "evidence",
+          "items": [
+            "stone; bounded ores",
+            "faulted inland basins",
+            "coal, not universal",
+            "Marine basins",
+            "coasts and offshore"
+          ]
+        },
+        {
+          "heading": "PROCESS LINK",
+          "role": "mechanism",
+          "items": [
+            "petroleum potential",
+            "Deccan Trap",
+            "stacked flood basalts",
+            "soil, stone, water",
+            "GONDWANA BASINS: Damodar"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP",
+          "role": "caution",
+          "items": [
+            "PETROLEUM SYSTEM",
+            "source → maturation → migration → reservoir → seal → trap → timing",
+            "DECCAN ARCHITECTURE",
+            "flow top / vesicles / fractures / weathered contact / dense flow interior",
+            "Association is not determinism: grade, preservation, exploration, technology, economics and environmental limits decide usable resources."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "source → maturation → migration → reservoir → seal → trap → timing.",
+      "source_references": [
+        "sessions: [18, 19, 20, 21, 22]",
+        "sections: [\"BASIC LEARNING SESSION\", \"Rapid register - India's geological architecture\"]",
+        "markdown_lines: [\"1254-1703\", \"3288-3295\"]"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "HIMALAYA, FORELAND, COASTS, ISLANDS AND STRUCTURAL CONTROLS",
+      "structural_type": "india-regional-map-hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "HIMALAYA, FORELAND, COASTS, ISLANDS AND STRUCTURAL CONTROLS",
+          "role": "primary"
+        },
+        {
+          "text": "HIMALAYA COLLISION OROGEN",
+          "role": "outcome"
+        },
+        {
+          "text": "SUTURE FRAMEWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "FORELAND FLEXURE AND FILL",
+          "role": "evidence"
+        },
+        {
+          "text": "BHANGAR/KHADAR ALLUVIAL EXPRESSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "PENINSULAR STRUCTURES",
+          "role": "outcome"
+        },
+        {
+          "text": "COASTS AND ISLANDS",
+          "role": "comparison"
+        },
+        {
+          "text": "NARMADA-SON AND TAPI RIFTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HIMALAYA collision orogen: HFT/MFT → MBT → MCT → suture framework",
+        "FORELAND FLEXURE AND FILL",
+        "Bhabar → Terai → bhangar/khadar alluvial expressions",
+        "PENINSULAR STRUCTURES",
+        "COASTS AND ISLANDS"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "HIMALAYA collision orogen: HFT/MFT → MBT → MCT → suture framework",
+            "FORELAND FLEXURE AND FILL",
+            "Bhabar → Terai → bhangar/khadar alluvial expressions",
+            "PENINSULAR STRUCTURES"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COASTS AND ISLANDS",
+            "Narmada-Son and Tapi rifts",
+            "west: rifted-margin sectors",
+            "Cambay and Kachchh"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "east: deltaic sediment basins",
+            "Godavari rift basin",
+            "Andaman: active island arc joints, faults, bedding",
+            "Lakshadweep: coral atolls structure guides relief, drainage, waterfalls and groundwater climate + erosion + base level + human"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "action modify expression",
+            "Rift = extensional zone",
+            "graben = down-dropped block",
+            "Lineament = mapped linear feature, not automatically an active fault."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A rift is an extensional crustal zone, a graben is a down-dropped fault block, and a lineament is a mapped linear feature that is not automatically an active fault.",
+      "source_references": [
+        "sessions: [23, 24, 25, 26, 27]",
+        "sections: [\"BASIC LEARNING SESSION\", \"Rapid register - India's geological architecture\"]",
+        "markdown_lines: [\"1704-2157\", \"3293-3299\"]"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "INDIA SEISMIC EXPRESSION AND GEOLOGY-TO-RISK TRANSLATION",
+      "structural_type": "hazard-risk-response",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INDIA SEISMIC EXPRESSION AND GEOLOGY-TO-RISK TRANSLATION",
+          "role": "caution"
+        },
+        {
+          "text": "TECTONIC AND INHERITED STRUCTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "NE ANDAMAN ARC KACHCHH",
+          "role": "comparison"
+        },
+        {
+          "text": "PENINSULA ACTIVE COLLISION SUBDUCTION INHERITED FAULTS/RIFTS STRONG SHAKING QUAKE",
+          "role": "evidence"
+        },
+        {
+          "text": "SITE FILTER",
+          "role": "primary"
+        },
+        {
+          "text": "ALLUVIUM, BASIN DEPTH, GROUNDWATER, SLOPE, CONSTRUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPOSURE + VULNERABILITY - CAPACITY",
+          "role": "comparison"
+        },
+        {
+          "text": "DISASTER RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TECTONIC AND INHERITED STRUCTURE",
+        "Himalaya / NE Andaman arc Kachchh / Peninsula active collision subduction inherited faults/rifts strong shaking",
+        "intraplate reactivation",
+        "SITE FILTER: alluvium, basin depth, groundwater, slope, construction",
+        "EXPOSURE + VULNERABILITY - CAPACITY"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "TECTONIC AND INHERITED STRUCTURE",
+            "Himalaya / NE Andaman arc Kachchh / Peninsula active collision subduction inherited faults/rifts strong shaking quake + tsunami",
+            "intraplate reactivation"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SITE FILTER: alluvium, basin depth, groundwater, slope, construction",
+            "EXPOSURE + VULNERABILITY - CAPACITY",
+            "DISASTER RISK"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "BIS Zones II-V are broad design generalisations, not predictions.",
+            "Geological association must be followed by site evidence and engineering.",
+            "RESPONSE: map → investigate → code → inspect → retrofit → prepare."
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "SITE FILTER: alluvium, basin depth, groundwater, slope, construction"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "India’s seismicity reflects active Himalayan and Andaman plate boundaries plus reactivation of inherited structures such as Kachchh and selected Peninsular faults; seismic zoning is a design generalisation, not earthquake prediction.",
+      "source_references": [
+        "sessions: [28, 29]",
+        "sections: [\"BASIC LEARNING SESSION\", \"CONSOLIDATED REGISTER NOTES\"]",
+        "markdown_lines: [\"2158-2250\", \"3297-3301\"]"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "synthesis",
+      "title": "MAP-ANSWER AND MAINS SPINE FOR INDIA'S GEOLOGICAL ARCHITECTURE",
+      "structural_type": "map-answer-and-mains-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "MAP-ANSWER AND MAINS SPINE FOR INDIA'S GEOLOGICAL ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "HOW DOES GEOLOGICAL STRUCTURE SHAPE INDIA'S SURFACE GEOGRAPHY?",
+          "role": "outcome"
+        },
+        {
+          "text": "1. DEFINE",
+          "role": "comparison"
+        },
+        {
+          "text": "AGE + COMPOSITION + ROCK ARCHITECTURE + TECTONIC STRUCTURES",
+          "role": "evidence"
+        },
+        {
+          "text": "2. DRAW",
+          "role": "primary"
+        },
+        {
+          "text": "FORELAND PLAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "PENINSULAR SHIELD CROSS-SECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "3. SEQUENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "QUESTION: How does geological structure shape India's surface geography?",
+        "1. DEFINE: age + composition + rock architecture + tectonic structures",
+        "2. DRAW: Himalaya → foreland plain → Peninsular shield cross-section",
+        "3. SEQUENCE: Gondwana rift → drift → collision → uplift → sediment fill",
+        "4. MAP NAMED UNITS cratons"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "QUESTION: How does geological structure shape India's surface geography?",
+            "1. DEFINE: age + composition + rock architecture + tectonic structures",
+            "2. DRAW: Himalaya → foreland plain → Peninsular shield cross-section"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "3. SEQUENCE: Gondwana rift → drift → collision → uplift → sediment fill",
+            "4. MAP NAMED UNITS cratons",
+            "Purana basins"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "Gondwana basins",
+            "5. LINK PROCESS TO CONSEQUENCE structure → relief/drainage/water/resource/seismic expression",
+            "6. QUALIFY association is not reserve; stable is not aseismic; alluvium has structure"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "7. VERDICT inherited geology is filtered through tectonics, climate, erosion and use",
+            "Answer order: thesis → map → evidence → mechanism → India example",
+            "limitation → graded conclusion."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "7. VERDICT inherited geology is filtered through tectonics, climate, erosion and use.",
+      "source_references": [
+        "sessions: [13, 16, 17, 20, 22, 23, 24, 29]",
+        "sections: [\"PYQS AND ANSWER PRACTICE\", \"CONSOLIDATED REGISTER NOTES\"]",
+        "markdown_lines: [\"2948-3116\", \"3364-3383\"]"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "47. OLDER INDIAN ROCK-SYSTEM SCHEMES",
+          "role": "outcome"
+        },
+        {
+          "text": "USEFUL ONLY WHEN DECLARED",
+          "role": "comparison"
+        },
+        {
+          "text": "48. FIELD IDENTIFICATION AND METAMORPHIC NUANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "49. CRATONS, MOBILE BELTS AND ORE SYSTEMS",
+          "role": "primary"
+        },
+        {
+          "text": "50. BASIN ARCHITECTURE BEYOND THE NAME LIST",
+          "role": "outcome"
+        },
+        {
+          "text": "51. DECCAN HYDROGEOLOGY AND LANDSCAPE REFINEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "52. HIMALAYAN STRUCTURAL COMPLEXITY BEYOND A CLASSROOM SECTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL PROCESS DEPTH",
+          "role": "mechanism",
+          "items": [
+            "47. Older Indian rock-system schemes: useful only when declared",
+            "48. Field identification and metamorphic nuance",
+            "49. Cratons, mobile belts and ore systems",
+            "50. Basin architecture beyond the name list"
+          ]
+        },
+        {
+          "heading": "DATA / INSTITUTION LIMIT",
+          "role": "caution",
+          "items": [
+            "51. Deccan hydrogeology and landscape refinement",
+            "52. Himalayan structural complexity beyond a classroom section",
+            "53. Foreland, sediment routing and basin response",
+            "54. Hard-rock aquifers and engineering investigations"
+          ]
+        },
+        {
+          "heading": "CONTEMPORARY PARALLEL",
+          "role": "neutral",
+          "items": [
+            "55. Mineral security without geological overclaim",
+            "56. Map and answer architecture",
+            "Granite, diorite and gabbro provide coarse intrusive end-members; rhyolite, andesite and basalt are broad extrusive partners.",
+            "Slate cleavage, schistosity and gneissic banding are fabrics, not sedimentary beds."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

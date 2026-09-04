@@ -1,0 +1,1160 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-31",
+  "subject": "Geography",
+  "title": "MINERAL AND ENERGY RESOURCES: WORLD AND INDIA",
+  "short_route": "GEOLOGICAL CONTROL OF RESOURCE → MINERAL AND ENERGY CLASSIFICATION → WORLD MINERAL-ENERGY BELT RAIL → EXTRACTION TO INDUSTRY CHAIN → OCCURRENCE TO USABLE RESOURCE → FOUR-ELEMENT PETROLEUM SYSTEM",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-31\\g4\\geography-31_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-31-deep-review-2026-09-02-g4.json",
+  "ascii_spec_sha256": "a9660d84004b520d1837adb775cb7e13e990083adff254c105e91d2d53556c3c",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "GEOLOGICAL CONTROL OF RESOURCE DISTRIBUTION",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "GEOLOGICAL CONTROL OF RESOURCE DISTRIBUTION",
+          "role": "primary"
+        },
+        {
+          "text": "GEOLOGICAL HISTORY",
+          "role": "outcome"
+        },
+        {
+          "text": "ROCK STRUCTURE, BASINS, TECTONICS, SURFACE WEATHERING",
+          "role": "comparison"
+        },
+        {
+          "text": "IGNEOUS-METAMORPHIC TERRAIN",
+          "role": "evidence"
+        },
+        {
+          "text": "METALLIC ORES",
+          "role": "primary"
+        },
+        {
+          "text": "SEDIMENTARY BASIN",
+          "role": "outcome"
+        },
+        {
+          "text": "COAL, PETROLEUM, NATURAL GAS",
+          "role": "comparison"
+        },
+        {
+          "text": "TROPICAL LATERITISATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GEOLOGICAL HISTORY → rock structure, basins, tectonics, surface weathering",
+        "SHIELD / IGNEOUS-METAMORPHIC TERRAIN → metallic ores",
+        "SEDIMENTARY BASIN → coal, petroleum, natural gas",
+        "TROPICAL LATERITISATION → bauxite on suitable plateaux and hilltops",
+        "TRAP → distribution is a deduction from Earth history, not a country list"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GEOLOGICAL HISTORY → rock structure, basins, tectonics, surface weathering",
+            "SHIELD / IGNEOUS-METAMORPHIC TERRAIN → metallic ores",
+            "SEDIMENTARY BASIN → coal, petroleum, natural gas"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TROPICAL LATERITISATION → bauxite on suitable plateaux and hilltops",
+            "TRAP → distribution is a deduction from Earth history, not a country list",
+            "MUST REMEMBER: Resource geography begins with geological occurrence, reserve/resource classification, grade, extraction technology, transport, processing, markets and externalities"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "world belts and India's Gondwana coal, offshore/onshore hydrocarbons,",
+            "Odisha–Jharkhand iron-manganese-bauxite, Rajasthan non-ferrous minerals and nuclear/renewable endowments require map logic."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → distribution is a deduction from Earth history, not a country list.",
+      "source_references": [
+        "Geological control of distribution",
+        "Shield and basin rule",
+        "Lateritisation and bauxite",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\31_Mineral-Energy-Resources-World-and-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\31_Mineral-Energy-Resources-World-and-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-31\\g4\\geography-31_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "MINERAL AND ENERGY CLASSIFICATION LADDER",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MINERAL AND ENERGY CLASSIFICATION LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "FERROUS METALLIC",
+          "role": "outcome"
+        },
+        {
+          "text": "IRON ORE, MANGANESE, CHROMITE; STEEL-MAKING BASE",
+          "role": "comparison"
+        },
+        {
+          "text": "NON-FERROUS METALLIC",
+          "role": "evidence"
+        },
+        {
+          "text": "COPPER, BAUXITE, LEAD, ZINC",
+          "role": "primary"
+        },
+        {
+          "text": "NON-METALLIC INDUSTRIAL",
+          "role": "outcome"
+        },
+        {
+          "text": "MICA, LIMESTONE, GYPSUM, PHOSPHATES",
+          "role": "comparison"
+        },
+        {
+          "text": "MINERAL FUELS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FERROUS METALLIC → iron ore, manganese, chromite; steel-making base",
+        "NON-FERROUS METALLIC → copper, bauxite, lead, zinc",
+        "NON-METALLIC INDUSTRIAL → mica, limestone, gypsum, phosphates",
+        "MINERAL FUELS → coal, petroleum, natural gas, uranium",
+        "ENERGY PAIRS → conventional vs non-conventional; exhaustible stock vs renewable flow"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FERROUS METALLIC → iron ore, manganese, chromite; steel-making base",
+          "NON-METALLIC INDUSTRIAL → mica, limestone, gypsum, phosphates",
+          "ENERGY PAIRS → conventional vs non-conventional; exhaustible stock vs renewable flow"
+        ],
+        [
+          "NON-FERROUS METALLIC → copper, bauxite, lead, zinc",
+          "MINERAL FUELS → coal, petroleum, natural gas, uranium",
+          "FERROUS METALLIC → iron ore, manganese, chromite; steel-making base"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FERROUS METALLIC → iron ore, manganese, chromite; steel-making base",
+            "NON-FERROUS METALLIC → copper, bauxite, lead, zinc"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NON-METALLIC INDUSTRIAL → mica, limestone, gypsum, phosphates",
+            "MINERAL FUELS → coal, petroleum, natural gas, uranium"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ENERGY PAIRS → conventional vs non-conventional; exhaustible stock vs renewable flow",
+            "FERROUS METALLIC → iron ore, manganese, chromite; steel-making base"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ENERGY PAIRS → conventional vs non-conventional; exhaustible stock vs renewable flow.",
+      "source_references": [
+        "Mineral classification ladder",
+        "Energy classification pairs",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\31_Mineral-Energy-Resources-World-and-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\31_Mineral-Energy-Resources-World-and-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-31\\g4\\geography-31_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "WORLD MINERAL-ENERGY BELT RAIL",
+      "structural_type": "institutional-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WORLD MINERAL-ENERGY BELT RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "PERSIAN GULF",
+          "role": "outcome"
+        },
+        {
+          "text": "CLASSIC SEDIMENTARY HYDROCARBON PROVINCE",
+          "role": "comparison"
+        },
+        {
+          "text": "INTERIOR USA",
+          "role": "evidence"
+        },
+        {
+          "text": "COAL, OIL, GAS WITH IRON ASSOCIATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "HISTORIC COAL-IRON HEAVY-INDUSTRY CORE",
+          "role": "outcome"
+        },
+        {
+          "text": "CHINESE INTERIOR",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTINENTAL-SCALE FUEL FRONTIERS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PERSIAN GULF → classic sedimentary hydrocarbon province",
+        "APPALACHIAN / INTERIOR USA → coal, oil, gas with iron associations",
+        "RUHR-LORRAINE → historic coal-iron heavy-industry core",
+        "RUSSIAN-SIBERIAN / CHINESE INTERIOR → continental-scale fuel frontiers",
+        "COPPERBELT, AUSTRALIAN SHIELD, ANDES → shield and tectonic metal provinces"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PERSIAN GULF → classic sedimentary hydrocarbon province",
+            "APPALACHIAN / INTERIOR USA → coal, oil, gas with iron associations"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RUHR-LORRAINE → historic coal-iron heavy-industry core",
+            "RUSSIAN-SIBERIAN / CHINESE INTERIOR → continental-scale fuel frontiers"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COPPERBELT, AUSTRALIAN SHIELD, ANDES → shield and tectonic metal provinces",
+            "PERSIAN GULF → classic sedimentary hydrocarbon province"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COPPERBELT, AUSTRALIAN SHIELD, ANDES → shield and tectonic metal provinces.",
+      "source_references": [
+        "World mineral-energy belts",
+        "Shield and basin rule",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\31_Mineral-Energy-Resources-World-and-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\31_Mineral-Energy-Resources-World-and-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-31\\g4\\geography-31_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "EXTRACTION TO INDUSTRY CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "EXTRACTION TO INDUSTRY CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "ORE OR FUEL RAISED AT THE DEPOSIT",
+          "role": "outcome"
+        },
+        {
+          "text": "RAIL, SLURRY PIPELINE, PORT OR INLAND WATERWAY EVACUATION",
+          "role": "comparison"
+        },
+        {
+          "text": "BENEFICIATION, SMELTING, REFINING, PETROCHEMICAL CONVERSION",
+          "role": "evidence"
+        },
+        {
+          "text": "POWER + MARKET",
+          "role": "mechanism"
+        },
+        {
+          "text": "DISPATCHABLE ENERGY, CAPITAL AND DEMAND COMPLETE THE CLUSTER",
+          "role": "outcome"
+        },
+        {
+          "text": "A PRODUCING REGION IS NOT AUTOMATICALLY AN INDUSTRIAL REGION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "EXTRACTION → ore or fuel raised at the deposit",
+        "TRANSPORT → rail, slurry pipeline, port or inland waterway evacuation",
+        "PROCESSING → beneficiation, smelting, refining, petrochemical conversion",
+        "POWER + MARKET → dispatchable energy, capital and demand complete the cluster",
+        "RULE → a producing region is not automatically an industrial region"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EXTRACTION → ore or fuel raised at the deposit",
+            "TRANSPORT → rail, slurry pipeline, port or inland waterway evacuation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PROCESSING → beneficiation, smelting, refining, petrochemical conversion",
+            "POWER + MARKET → dispatchable energy, capital and demand complete the cluster"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → a producing region is not automatically an industrial region",
+            "EXTRACTION → ore or fuel raised at the deposit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → a producing region is not automatically an industrial region.",
+      "source_references": [
+        "Extraction to industry chain",
+        "Occurrence versus usable resource",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\31_Mineral-Energy-Resources-World-and-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\31_Mineral-Energy-Resources-World-and-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-31\\g4\\geography-31_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "OCCURRENCE TO USABLE RESOURCE FILTER",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "OCCURRENCE TO USABLE RESOURCE FILTER",
+          "role": "primary"
+        },
+        {
+          "text": "OCCURRENCE EXISTS",
+          "role": "outcome"
+        },
+        {
+          "text": "GEOLOGY HAS DONE ITS PART",
+          "role": "comparison"
+        },
+        {
+          "text": "IF GRADE AND DEPTH ARE WORKABLE",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTINUE TO THE ECONOMIC TEST",
+          "role": "primary"
+        },
+        {
+          "text": "IF TRANSPORT DISTANCE AND TECHNOLOGY PERMIT",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTINUE TO THE PRICE TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "IF PRICE SUSTAINS THE COST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OCCURRENCE EXISTS → geology has done its part",
+        "IF grade and depth are workable → continue to the economic test",
+        "IF transport distance and technology permit → continue to the price test",
+        "IF price sustains the cost → occurrence becomes a usable resource",
+        "ELSE → the deposit stays a geological fact with no economic geography"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OCCURRENCE EXISTS → geology has done its part",
+            "IF grade and depth are workable → continue to the economic test"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "IF transport distance and technology permit → continue to the price test",
+            "IF price sustains the cost → occurrence becomes a usable resource"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ELSE → the deposit stays a geological fact with no economic geography",
+            "OCCURRENCE EXISTS → geology has done its part"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ELSE → the deposit stays a geological fact with no economic geography.",
+      "source_references": [
+        "Occurrence versus usable resource",
+        "Extraction to industry chain",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\31_Mineral-Energy-Resources-World-and-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\31_Mineral-Energy-Resources-World-and-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-31\\g4\\geography-31_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "FOUR-ELEMENT PETROLEUM SYSTEM",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FOUR-ELEMENT PETROLEUM SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE ROCK",
+          "role": "evidence"
+        },
+        {
+          "text": "ORGANIC-RICH FINE SEDIMENT BURIED DEEPLY AND LONG ENOUGH",
+          "role": "comparison"
+        },
+        {
+          "text": "RESERVOIR ROCK",
+          "role": "evidence"
+        },
+        {
+          "text": "POROUS PERMEABLE SANDSTONE OR FRACTURED CARBONATE",
+          "role": "primary"
+        },
+        {
+          "text": "CAP ROCK",
+          "role": "outcome"
+        },
+        {
+          "text": "SHALE, EVAPORITE OR TIGHT LIMESTONE PREVENTING ESCAPE",
+          "role": "comparison"
+        },
+        {
+          "text": "ANTICLINE, FAULT BLOCK, SALT DOME, REEF OR STRATIGRAPHIC PINCH-OUT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SOURCE ROCK → organic-rich fine sediment buried deeply and long enough",
+        "RESERVOIR ROCK → porous permeable sandstone or fractured carbonate",
+        "SEAL / CAP ROCK → shale, evaporite or tight limestone preventing escape",
+        "TRAP → anticline, fault block, salt dome, reef or stratigraphic pinch-out",
+        "VERDICT → sedimentary basin is necessary but never sufficient"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SOURCE ROCK → organic-rich fine sediment buried deeply and long enough",
+            "RESERVOIR ROCK → porous permeable sandstone or fractured carbonate"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SEAL / CAP ROCK → shale, evaporite or tight limestone preventing escape",
+            "TRAP → anticline, fault block, salt dome, reef or stratigraphic pinch-out"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → sedimentary basin is necessary but never sufficient",
+            "SOURCE ROCK → organic-rich fine sediment buried deeply and long enough"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → sedimentary basin is necessary but never sufficient.",
+      "source_references": [
+        "Four-element petroleum system",
+        "Why margins concentrate oil",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\31_Mineral-Energy-Resources-World-and-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\31_Mineral-Energy-Resources-World-and-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-31\\g4\\geography-31_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "WHY PASSIVE MARGINS HOLD OFFSHORE OIL",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WHY PASSIVE MARGINS HOLD OFFSHORE OIL",
+          "role": "primary"
+        },
+        {
+          "text": "SHELF AND SLOPE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE WORLD'S GREAT SEDIMENT SINKS RECEIVE RIVER-BORNE ORGANIC LOAD",
+          "role": "comparison"
+        },
+        {
+          "text": "OXYGEN-POOR BOTTOM WATER",
+          "role": "evidence"
+        },
+        {
+          "text": "MARINE SETTINGS PRESERVE ORGANIC MATTER FROM DECAY",
+          "role": "primary"
+        },
+        {
+          "text": "PASSIVE MARGIN SUBSIDENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "THICK, TECTONICALLY QUIET SEDIMENT PRISMS ACCUMULATE",
+          "role": "comparison"
+        },
+        {
+          "text": "DELTAS AND SALT TECTONICS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SHELF AND SLOPE → the world's great sediment sinks receive river-borne organic load",
+        "OXYGEN-POOR BOTTOM WATER → marine settings preserve organic matter from decay",
+        "PASSIVE MARGIN SUBSIDENCE → thick, tectonically quiet sediment prisms accumulate",
+        "DELTAS AND SALT TECTONICS → pair source with reservoir and generate trap families",
+        "PRESERVATION EDGE → uplift and erosion have breached many onshore accumulations"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SHELF AND SLOPE → the world's great sediment sinks receive river-borne organic load",
+            "OXYGEN-POOR BOTTOM WATER → marine settings preserve organic matter from decay"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PASSIVE MARGIN SUBSIDENCE → thick, tectonically quiet sediment prisms accumulate",
+            "DELTAS AND SALT TECTONICS → pair source with reservoir and generate trap families"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PRESERVATION EDGE → uplift and erosion have breached many onshore accumulations",
+            "SHELF AND SLOPE → the world's great sediment sinks receive river-borne organic load"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DELTAS AND SALT TECTONICS → pair source with reservoir and generate trap families.",
+      "source_references": [
+        "Why margins concentrate oil",
+        "Four-element petroleum system",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\31_Mineral-Energy-Resources-World-and-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\31_Mineral-Energy-Resources-World-and-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-31\\g4\\geography-31_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "OFFSHORE VERSUS ONSHORE COMPARISON",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "OFFSHORE VERSUS ONSHORE COMPARISON",
+          "role": "comparison"
+        },
+        {
+          "text": "ONSHORE INTRACRATONIC AND RIFT BASINS VS SHELF, SLOPE AND",
+          "role": "comparison"
+        },
+        {
+          "text": "COST AND TECHNOLOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "INCREMENTAL LAND DRILLING VS LUMPY HIGH-COST MARINE SYSTEMS",
+          "role": "comparison"
+        },
+        {
+          "text": "SMALL ONSHORE FIELDS CAN BE VIABLE; OFFSHORE NEEDS LARGE",
+          "role": "primary"
+        },
+        {
+          "text": "LAND ACQUISITION ONSHORE VS FISHERIES, SHIPPING AND SPILL RISK",
+          "role": "caution"
+        },
+        {
+          "text": "ORDINARY NATIONAL LAW VS MARITIME ZONES AND CONTESTED BOUNDARIES",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "GEOLOGY → onshore intracratonic and rift basins vs shelf, slope and deepwater margin",
+        "COST AND TECHNOLOGY → incremental land drilling vs lumpy high-cost marine systems",
+        "THRESHOLD → small onshore fields can be viable; offshore needs large fields",
+        "FOOTPRINT → land acquisition onshore vs fisheries, shipping and spill risk offshore",
+        "JURISDICTION → ordinary national law vs maritime zones and contested boundaries"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "GEOLOGY → onshore intracratonic and rift basins vs shelf, slope and deepwater margin",
+          "THRESHOLD → small onshore fields can be viable; offshore needs large fields",
+          "JURISDICTION → ordinary national law vs maritime zones and contested boundaries"
+        ],
+        [
+          "COST AND TECHNOLOGY → incremental land drilling vs lumpy high-cost marine systems",
+          "FOOTPRINT → land acquisition onshore vs fisheries, shipping and spill risk offshore",
+          "GEOLOGY → onshore intracratonic and rift basins vs shelf, slope and deepwater margin"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GEOLOGY → onshore intracratonic and rift basins vs shelf, slope and deepwater margin",
+            "COST AND TECHNOLOGY → incremental land drilling vs lumpy high-cost marine systems"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "THRESHOLD → small onshore fields can be viable; offshore needs large fields",
+            "FOOTPRINT → land acquisition onshore vs fisheries, shipping and spill risk offshore"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "JURISDICTION → ordinary national law vs maritime zones and contested boundaries",
+            "GEOLOGY → onshore intracratonic and rift basins vs shelf, slope and deepwater margin"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "JURISDICTION → ordinary national law vs maritime zones and contested boundaries.",
+      "source_references": [
+        "Offshore versus onshore regime",
+        "Indian petroleum provinces",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\31_Mineral-Energy-Resources-World-and-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\31_Mineral-Energy-Resources-World-and-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-31\\g4\\geography-31_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "INDIA PETROLEUM PROVINCE MAP HOOKS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDIA PETROLEUM PROVINCE MAP HOOKS",
+          "role": "primary"
+        },
+        {
+          "text": "ASSAM-ARAKAN BASIN AND THE CAMBAY BASIN OF WESTERN INDIA",
+          "role": "outcome"
+        },
+        {
+          "text": "WESTERN OFFSHORE",
+          "role": "comparison"
+        },
+        {
+          "text": "MAJOR CONTINENTAL-MARGIN PROVINCE, CARBONATE RESERVOIR CHARACTER",
+          "role": "evidence"
+        },
+        {
+          "text": "EAST-COAST OFFSHORE",
+          "role": "primary"
+        },
+        {
+          "text": "KRISHNA-GODAVARI AND CAUVERY DELTAIC MARGINS, GAS-PRONE",
+          "role": "outcome"
+        },
+        {
+          "text": "COASTAL CONSEQUENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "LANDFALL TERMINALS PULL REFINING AND PETROCHEMICALS TO THE COAST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ONSHORE → Assam-Arakan basin and the Cambay basin of western India",
+        "WESTERN OFFSHORE → major continental-margin province, carbonate reservoir character",
+        "EAST-COAST OFFSHORE → Krishna-Godavari and Cauvery deltaic margins, gas-prone",
+        "COASTAL CONSEQUENCE → landfall terminals pull refining and petrochemicals to the coast",
+        "CAUTION → name provinces and reservoir character, never remembered output figures"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ONSHORE → Assam-Arakan basin and the Cambay basin of western India",
+          "EAST-COAST OFFSHORE → Krishna-Godavari and Cauvery deltaic margins, gas-prone",
+          "CAUTION → name provinces and reservoir character, never remembered output figures"
+        ],
+        [
+          "WESTERN OFFSHORE → major continental-margin province, carbonate reservoir character",
+          "COASTAL CONSEQUENCE → landfall terminals pull refining and petrochemicals to the coast",
+          "ONSHORE → Assam-Arakan basin and the Cambay basin of western India"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ONSHORE → Assam-Arakan basin and the Cambay basin of western India",
+            "WESTERN OFFSHORE → major continental-margin province, carbonate reservoir character"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EAST-COAST OFFSHORE → Krishna-Godavari and Cauvery deltaic margins, gas-prone",
+            "COASTAL CONSEQUENCE → landfall terminals pull refining and petrochemicals to the coast"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION → name provinces and reservoir character, never remembered output figures",
+            "ONSHORE → Assam-Arakan basin and the Cambay basin of western India"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → name provinces and reservoir character, never remembered output figures.",
+      "source_references": [
+        "Indian petroleum provinces",
+        "Offshore versus onshore regime",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\31_Mineral-Energy-Resources-World-and-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\31_Mineral-Energy-Resources-World-and-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-31\\g4\\geography-31_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CRITICAL-MINERAL CHOKEPOINT FORK",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CRITICAL-MINERAL CHOKEPOINT FORK",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSITION DEMAND RISES",
+          "role": "outcome"
+        },
+        {
+          "text": "LITHIUM, COBALT, NICKEL, GRAPHITE, COPPER, RARE EARTHS",
+          "role": "comparison"
+        },
+        {
+          "text": "IF THE QUESTION IS EXTRACTION",
+          "role": "evidence"
+        },
+        {
+          "text": "SUPPLY IS GEOLOGICALLY NARROW BUT VISIBLE",
+          "role": "primary"
+        },
+        {
+          "text": "IF THE QUESTION IS PROCESSING",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCENTRATION IS TIGHTER AND OFTEN IN OTHER COUNTRIES",
+          "role": "comparison"
+        },
+        {
+          "text": "THE BINDING CHOKEPOINT IS MIDSTREAM, NOT AT THE MINE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TRANSITION DEMAND RISES → lithium, cobalt, nickel, graphite, copper, rare earths",
+        "IF the question is extraction → supply is geologically narrow but visible",
+        "IF the question is processing → concentration is tighter and often in other countries",
+        "THEREFORE → the binding chokepoint is midstream, not at the mine",
+        "RESPONSE → recycling, substitution, diversification and strategic stockpiling"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TRANSITION DEMAND RISES → lithium, cobalt, nickel, graphite, copper, rare earths",
+            "IF the question is extraction → supply is geologically narrow but visible",
+            "IF the question is processing → concentration is tighter and often in other countries"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "THEREFORE → the binding chokepoint is midstream, not at the mine",
+            "RESPONSE → recycling, substitution, diversification and strategic stockpiling",
+            "CLOSE DISTINCTION: Resource differs from reserve, occurrence from economically recoverable deposit, thermal from metallurgical coal, conventional from non-conventional"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "criticality combines economic importance and supply risk rather than geological scarcity alone."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "THEREFORE → the binding chokepoint is midstream, not at the mine.",
+      "source_references": [
+        "Midstream critical-mineral chokepoint",
+        "Critical-mineral response levers",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\31_Mineral-Energy-Resources-World-and-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\31_Mineral-Energy-Resources-World-and-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-31\\g4\\geography-31_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "INDIA MINERAL BELT AND ENERGY CORRIDOR RAIL",
+      "structural_type": "institutional-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INDIA MINERAL BELT AND ENERGY CORRIDOR RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "CHOTA NAGPUR COMPLEX",
+          "role": "outcome"
+        },
+        {
+          "text": "IRON ORE, COAL, MICA, BAUXITE, MANGANESE HEARTLAND",
+          "role": "comparison"
+        },
+        {
+          "text": "BELT HOOKS",
+          "role": "evidence"
+        },
+        {
+          "text": "BAILADILA IRON, JHARIA COKING COAL, KHETRI COPPER, ZAWAR LEAD-ZINC",
+          "role": "primary"
+        },
+        {
+          "text": "GONDWANA COAL",
+          "role": "outcome"
+        },
+        {
+          "text": "DAMODAR, MAHANADI, SON AND GODAVARI VALLEY BASINS",
+          "role": "comparison"
+        },
+        {
+          "text": "SOLAR CORRIDOR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CHOTA NAGPUR COMPLEX → iron ore, coal, mica, bauxite, manganese heartland",
+        "BELT HOOKS → Bailadila iron, Jharia coking coal, Khetri copper, Zawar lead-zinc",
+        "GONDWANA COAL → Damodar, Mahanadi, Son and Godavari valley basins",
+        "SOLAR CORRIDOR → Rajasthan and Gujarat dry high-insolation belts",
+        "WIND CORRIDOR → Tamil Nadu, Gujarat, Karnataka and Maharashtra coasts and passes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CHOTA NAGPUR COMPLEX → iron ore, coal, mica, bauxite, manganese heartland",
+            "BELT HOOKS → Bailadila iron, Jharia coking coal, Khetri copper, Zawar lead-zinc",
+            "GONDWANA COAL → Damodar, Mahanadi, Son and Godavari valley basins"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOLAR CORRIDOR → Rajasthan and Gujarat dry high-insolation belts",
+            "WIND CORRIDOR → Tamil Nadu, Gujarat, Karnataka and Maharashtra coasts and passes",
+            "EVIDENCE LIMIT: Jharia/Raniganj/Talcher/Korba, Mumbai High, Assam, Krishna-Godavari,"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Bailadila, Keonjhar, Khetri, Jaduguda, monazite coasts, solar Rajasthan/Gujarat and wind",
+            "Tamil Nadu/Gujarat anchor India",
+            "Ministry, IBM, CEA and international data need year/status labels, while just-transition and import dependence qualify security claims."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Tamil Nadu/Gujarat anchor India; Ministry, IBM, CEA and international data need year/status labels, while just-transition and import dependence qualify security claims.",
+      "source_references": [
+        "Chota Nagpur mineral heartland",
+        "Indian belt map hooks",
+        "Coal and the east-central pull",
+        "Renewable corridor shift",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\31_Mineral-Energy-Resources-World-and-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\31_Mineral-Energy-Resources-World-and-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-31\\g4\\geography-31_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "MINERAL AND ENERGY ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "MINERAL AND ENERGY ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "WHICH CLASS OF RESOURCE AND WHICH MEASURE IS BEING",
+          "role": "outcome"
+        },
+        {
+          "text": "SHIELD, BASIN OR WEATHERING CONTROL BEFORE NAMING ANY PLACE",
+          "role": "comparison"
+        },
+        {
+          "text": "WORLD BELT, THEN THE INDIAN BELT OR PETROLEUM PROVINCE",
+          "role": "evidence"
+        },
+        {
+          "text": "OCCURRENCE VERSUS USABLE RESOURCE; CAPACITY VERSUS GENERATION",
+          "role": "comparison"
+        },
+        {
+          "text": "MIDSTREAM CHOKEPOINT, INSTITUTIONAL CONVERSION AND THE DATED MISSION ANCHOR",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DEFINE → which class of resource and which measure is being asked about",
+        "DEDUCE → shield, basin or weathering control before naming any place",
+        "LOCATE → world belt, then the Indian belt or petroleum province",
+        "QUALIFY → occurrence versus usable resource; capacity versus generation",
+        "CLOSE → midstream chokepoint, institutional conversion and the dated mission anchor"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE → which class of resource and which measure is being asked about",
+            "DEDUCE → shield, basin or weathering control before naming any place"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LOCATE → world belt, then the Indian belt or petroleum province",
+            "QUALIFY → occurrence versus usable resource; capacity versus generation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE → midstream chokepoint, institutional conversion and the dated mission anchor",
+            "DEFINE → which class of resource and which measure is being asked about"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → midstream chokepoint, institutional conversion and the dated mission anchor.",
+      "source_references": [
+        "Occurrence versus usable resource",
+        "Institutional conversion ladder",
+        "National Critical Mineral Mission anchor",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\31_Mineral-Energy-Resources-World-and-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\31_Mineral-Energy-Resources-World-and-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-31\\g4\\geography-31_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA IS STRONG IN SEVERAL BULK MINERALS BUT STILL",
+          "role": "outcome"
+        },
+        {
+          "text": "DEPENDENCE IN MANY CRITICAL MINERALS NEEDED FOR BATTERIES, ELECTRONICS",
+          "role": "comparison"
+        },
+        {
+          "text": "BULK-MINERAL STRENGTH DOES NOT AUTOMATICALLY TRANSLATE INTO HIGH-END PROCESSING",
+          "role": "caution"
+        },
+        {
+          "text": "STRATEGIC AUTONOMY NOW REQUIRES CONTROL OVER EXPLORATION, BENEFICIATION, PROCESSING",
+          "role": "primary"
+        },
+        {
+          "text": "EAST-CENTRAL MINERAL ABUNDANCE ALSO CREATES A LOGISTICS QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "RAIL EVACUATION",
+          "role": "comparison"
+        },
+        {
+          "text": "SLURRY PIPELINES, PORT LINKAGES AND POWER AVAILABILITY DECIDE ACTUAL",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: India is strong in several bulk minerals but still faces external",
+            "dependence in many critical minerals needed for batteries, electronics and clean energy.",
+            "CAUTION: Bulk-mineral strength does not automatically translate into high-end processing strength.",
+            "CAUTION: Strategic autonomy now requires control over exploration, beneficiation, processing and recycling , not only extraction."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: East-central mineral abundance also creates a logistics question: rail evacuation,",
+            "slurry pipelines, port linkages and power availability decide actual industrial value.",
+            "Chota Nagpur Plateau is India's classic mineral heartland.",
+            "Coalfields strongly influenced the location of thermal power and heavy industry."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Rajasthan is especially important for several non-ferrous and industrial minerals.",
+            "Hydrocarbons are associated with sedimentary basins and offshore areas, not with shield-core metallic belts.",
+            "Solar and wind geography do not mirror coal geography.",
+            "NOT: India’s mineral core lies in the Indo-Gangetic plain - It is mainly in the peninsular shield and associated belts."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

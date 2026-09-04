@@ -1,0 +1,2414 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g4\\geography-36_Complete-Learning-Session_2026-09-02.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g4\\geography-36_Complete-Learning-Session_2026-09-02.pdf",
+  "mode": "main",
+  "topic_key": "geography-36",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Contemporary Geographical Issues (India) - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 540.69
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 50,
+      "markdown_body_line_end": 50,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g4\\assets\\geography-36_Teaching-Navigation_2026-08-22.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 155.09
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 64,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: What makes an issue geographical Qualified use: Open by proving the issue is spatial before describing any event.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 336.756
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 270.088
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 79,
+      "markdown_body_line_end": 83,
+      "heading": "VISUAL FIRST",
+      "preview": "WHAT MAKES AN ISSUE GEOGRAPHICAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 111,
+      "markdown_body_line_end": 128,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - WHAT MAKES AN ISSUE GEOGRAPHICAL",
+      "preview": "START / CONCEPT: FOUNDATION — What makes an issue geographical",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 328
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 203.891
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 139,
+      "markdown_body_line_end": 139,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The six issue-lenses: The reusable lenses are resource conflict over water, minerals, forests and coasts, boundary and borderland clustering, hazard and vulnerability exposure on floodplains, coasts and slopes, mobility and migration under ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 154,
+      "markdown_body_line_end": 158,
+      "heading": "VISUAL FIRST",
+      "preview": "THE SIX ISSUE-LENSES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 519.424
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 478.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 186,
+      "markdown_body_line_end": 203,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE SIX ISSUE-LENSES",
+      "preview": "START / CONCEPT: FOUNDATION — The six issue-lenses",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 436
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 214,
+      "markdown_body_line_end": 214,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The simple analytical chain Qualified use: Follow the chain from stress to spillover to policy response.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 382.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 315.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 229,
+      "markdown_body_line_end": 233,
+      "heading": "VISUAL FIRST",
+      "preview": "THE SIMPLE STRESS-TO-RESPONSE CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 261,
+      "markdown_body_line_end": 278,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE SIMPLE STRESS-TO-RESPONSE CHAIN",
+      "preview": "START / CONCEPT: FOUNDATION — The simple stress-to-response chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 305
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 189.691
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 289,
+      "markdown_body_line_end": 289,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Standing issue families: The families that recur regardless of the year's headlines are water stress and allocation, climate-linked hazard change, land degradation and land-use conflict, urbanisation stress, regional imbalance and migration",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 674.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 304,
+      "markdown_body_line_end": 308,
+      "heading": "VISUAL FIRST",
+      "preview": "STANDING ISSUE FAMILIES THAT OUTLIVE HEADLINES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 480.024
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 439.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 336,
+      "markdown_body_line_end": 353,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - STANDING ISSUE FAMILIES THAT OUTLIVE HEADLINES",
+      "preview": "START / CONCEPT: FOUNDATION — Standing issue families that outlive headlines",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 421
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 364,
+      "markdown_body_line_end": 364,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Nine-step analytical chain Qualified use: Use the nine steps as the spine of every contemporary-issue answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 401.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 334.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 379,
+      "markdown_body_line_end": 383,
+      "heading": "VISUAL FIRST",
+      "preview": "THE NINE-STEP ANALYTICAL CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 411,
+      "markdown_body_line_end": 428,
+      "heading": "CLOSING RECALL FLOW - CORE - THE NINE-STEP ANALYTICAL CHAIN",
+      "preview": "START / CONCEPT: CORE — The nine-step analytical chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 324
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 203.891
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 439,
+      "markdown_body_line_end": 439,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Exposure against vulnerability: Exposure asks who and what lies in the way of a hazard, while vulnerability asks why the same hazard hurts some groups far more, and collapsing the two is one of the most common analytical failures.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 454,
+      "markdown_body_line_end": 458,
+      "heading": "VISUAL FIRST",
+      "preview": "EXPOSURE AGAINST VULNERABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 486,
+      "markdown_body_line_end": 503,
+      "heading": "CLOSING RECALL FLOW - CORE - EXPOSURE AGAINST VULNERABILITY",
+      "preview": "START / CONCEPT: CORE — Exposure against vulnerability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 259
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 514,
+      "markdown_body_line_end": 514,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Refusal of single-cause attribution: Natural variability and human amplification must be separated rather than merged, because most contemporary geographical problems are the joint product of a physical process and a land-use or governance ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 431.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 350.424
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 529,
+      "markdown_body_line_end": 533,
+      "heading": "VISUAL FIRST",
+      "preview": "REFUSING SINGLE-CAUSE ATTRIBUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 561,
+      "markdown_body_line_end": 578,
+      "heading": "CLOSING RECALL FLOW - CORE - REFUSING SINGLE-CAUSE ATTRIBUTION",
+      "preview": "START / CONCEPT: CORE — Refusing single-cause attribution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 278
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 449.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 208.091
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 589,
+      "markdown_body_line_end": 589,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Scale-mismatch insight: The geography of a problem frequently fails to match the administrative unit expected to solve it, and naming that mismatch is the most frequently available and least frequently used insight in these answers.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 604,
+      "markdown_body_line_end": 608,
+      "heading": "VISUAL FIRST",
+      "preview": "SCALE MISMATCH AS THE DECISIVE INSIGHT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 492.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 636,
+      "markdown_body_line_end": 653,
+      "heading": "CLOSING RECALL FLOW - CORE - SCALE MISMATCH AS THE DECISIVE INSIGHT",
+      "preview": "START / CONCEPT: CORE — Scale mismatch as the decisive insight",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 261
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 664,
+      "markdown_body_line_end": 664,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Groundwater worked case: Groundwater decline in an intensively irrigated plain is abstraction exceeding recharge in an alluvial aquifer, concentrated where tube-well density, water-intensive cropping and assured procurement coincide rather ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 388.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 293.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 679,
+      "markdown_body_line_end": 683,
+      "heading": "VISUAL FIRST",
+      "preview": "WORKED CASE ONE: GROUNDWATER DECLINE IN AN IRRIGATED PLAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 711,
+      "markdown_body_line_end": 728,
+      "heading": "CLOSING RECALL FLOW - CORE - WORKED CASE ONE: GROUNDWATER DECLINE IN AN IRRIGATED PLAIN",
+      "preview": "START / CONCEPT: CORE — Worked case one: groundwater decline in an irrigated plain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 444
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 379.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 138.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 739,
+      "markdown_body_line_end": 739,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Urban flooding worked case: Recurrent urban flooding is runoff generation exceeding drainage conveyance, concentrated in low-lying areas, filled tanks and wetlands and encroached natural drains, driven by surface sealing, undersized silted ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 551.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 754,
+      "markdown_body_line_end": 758,
+      "heading": "VISUAL FIRST",
+      "preview": "WORKED CASE TWO: RECURRENT FLOODING IN A GROWING CITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 356.224
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 315.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 786,
+      "markdown_body_line_end": 803,
+      "heading": "CLOSING RECALL FLOW - CORE - WORKED CASE TWO: RECURRENT FLOODING IN A GROWING CITY",
+      "preview": "START / CONCEPT: CORE — Worked case two: recurrent flooding in a growing city",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 443
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 489.891
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 814,
+      "markdown_body_line_end": 814,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Core-independence rule: A current example must illustrate a process already taught in a core file, so that if the example is removed the answer still stands; core content must never become dependent on current material.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 369.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 302.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 829,
+      "markdown_body_line_end": 836,
+      "heading": "VISUAL FIRST",
+      "preview": "DISCIPLINE FOR USING CURRENT MATERIAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 865,
+      "markdown_body_line_end": 882,
+      "heading": "CLOSING RECALL FLOW - CORE - DISCIPLINE FOR USING CURRENT MATERIAL",
+      "preview": "START / CONCEPT: CORE — Discipline for using current material",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 248
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 359.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 138.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 893,
+      "markdown_body_line_end": 893,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Peninsular against Himalayan river questions - Krishna basin geography Qualified use: Explain storage, release timing and command dependence before allocation shares.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 908,
+      "markdown_body_line_end": 915,
+      "heading": "VISUAL FIRST",
+      "preview": "PENINSULAR BASIN GEOGRAPHY AND THE KRISHNA QUESTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 313.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 944,
+      "markdown_body_line_end": 961,
+      "heading": "CLOSING RECALL FLOW - CORE - PENINSULAR BASIN GEOGRAPHY AND THE KRISHNA QUESTION",
+      "preview": "START / CONCEPT: CORE — Peninsular basin geography and the Krishna question",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 412
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 627.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 376.091
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 972,
+      "markdown_body_line_end": 972,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Great Nicobar development tension Qualified use: Write strategic geography and island fragility together, not in sequence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 222.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 155.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 987,
+      "markdown_body_line_end": 991,
+      "heading": "VISUAL FIRST",
+      "preview": "GREAT NICOBAR AND THE FRAGILE-EDGE TRADE-OFF",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 716.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 675.491
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1019,
+      "markdown_body_line_end": 1036,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - GREAT NICOBAR AND THE FRAGILE-EDGE TRADE-OFF",
+      "preview": "START / CONCEPT: SYNTHESIS — Great Nicobar and the fragile-edge trade-off",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 337
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 349.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 108.891
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1047,
+      "markdown_body_line_end": 1047,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "North-east corridor fragility: The north-east combines narrow mainland access, folded hill terrain, heavy monsoon, young unstable slopes and multiple international frontiers, so every road, rail or multimodal corridor is simultaneously a de",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 551.024
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1062,
+      "markdown_body_line_end": 1069,
+      "heading": "VISUAL FIRST",
+      "preview": "NORTH-EAST CORRIDORS AND GEOMORPHIC RISK",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 356.224
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 285.224
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1098,
+      "markdown_body_line_end": 1115,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - NORTH-EAST CORRIDORS AND GEOMORPHIC RISK",
+      "preview": "START / CONCEPT: SYNTHESIS — North-east corridors and geomorphic risk",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 399
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 627.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 366.091
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1126,
+      "markdown_body_line_end": 1126,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Urban flooding factor set - Krishna tribunal current anchor - Urban flooding current anchor Qualified use: Close with drainage factors bounded by two dated official releases.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 197.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 131.224
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1141,
+      "markdown_body_line_end": 1151,
+      "heading": "VISUAL FIRST",
+      "preview": "URBAN DRAINAGE FACTORS AND THE DATED OFFICIAL ANCHORS",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 699.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 598.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1180,
+      "markdown_body_line_end": 1183,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (conceptual framework) · **GS Paper:** GS-I with GS-III overlap **Grounded in:** Majid Husain, *Indian & World Geography* + G.C. Leong for physical-process foundations + verified current anchor. ✅ ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1191,
+      "markdown_body_line_end": 1198,
+      "heading": "2. Core issue-lenses",
+      "preview": "Lens | What to ask | Typical Indian example type",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Lens",
+          "What to ask",
+          "Typical Indian example type"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 627.624
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 408.622
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1212,
+      "markdown_body_line_end": 1219,
+      "heading": "4. Typical categories of contemporary geographical issues",
+      "preview": "Category | Geographic trigger | Why UPSC likes it",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Category",
+          "Geographic trigger",
+          "Why UPSC likes it"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 317.022
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 98.02
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1271,
+      "markdown_body_line_end": 1274,
+      "heading": "11. The standing issue set and how to analyse any new one",
+      "preview": "**Why this section exists:** a \"contemporary issues\" file becomes obsolete the moment its examples date. What must be stored is a **reusable analytical method** plus the **standing issue families** that recur regardless of the year's headli",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 136.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 55.624
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1278,
+      "markdown_body_line_end": 1288,
+      "heading": "11.1 The standing issue families",
+      "preview": "Family | The geographic question it poses | Core owner to draw evidence from",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Family",
+          "The geographic question it poses",
+          "Core owner to draw evidence from"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 347.89
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1292,
+      "markdown_body_line_end": 1307,
+      "heading": "11.2 The analytical chain, applied to any unfamiliar issue",
+      "preview": "1. PROCESS       What physical or human process is actually operating?",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 325.89
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 174.89
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1358,
+      "markdown_body_line_end": 1363,
+      "heading": "12.1 Directive decoding",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 315.091
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 127.29
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1381,
+      "markdown_body_line_end": 1389,
+      "heading": "12.3 Evidence unit",
+      "preview": "**Claim:** most contemporary geographical issues are governance-scale mismatches rather than knowledge failures. **Evidence:** aquifers, river basins, urban catchments, coastal sediment cells and metropolitan labour markets each have a natu",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 680.891
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 543.224
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1395,
+      "markdown_body_line_end": 1396,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 543.224
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 476.556
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1402,
+      "markdown_body_line_end": 1404,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 424.956
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 349.054
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1410,
+      "markdown_body_line_end": 1410,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 309.854
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 265.187
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1417,
+      "markdown_body_line_end": 1419,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 265.187
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 184.319
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1425,
+      "markdown_body_line_end": 1428,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 685.89
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1435,
+      "markdown_body_line_end": 1435,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 629.49
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 584.822
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1440,
+      "markdown_body_line_end": 1457,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - URBAN DRAINAGE FACTORS AND THE DATED OFFICIAL ANCHORS",
+      "preview": "START / CONCEPT: SYNTHESIS — Urban drainage factors and the dated official anchors",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 358
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 549.822
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 268.822
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2306,
+      "markdown_body_line_end": 2307,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 701.491
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 634.824
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2313,
+      "markdown_body_line_end": 2315,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 583.224
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 507.322
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2321,
+      "markdown_body_line_end": 2321,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 468.122
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 423.454
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2328,
+      "markdown_body_line_end": 2330,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 423.454
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 342.587
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2336,
+      "markdown_body_line_end": 2339,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 290.987
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 173.585
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2346,
+      "markdown_body_line_end": 2346,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 117.185
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 72.517
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2357,
+      "markdown_body_line_end": 2358,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 735.691
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 669.024
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2364,
+      "markdown_body_line_end": 2367,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 617.424
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 479.022
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2374,
+      "markdown_body_line_end": 2374,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 422.622
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 377.954
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2697,
+      "markdown_body_line_end": 2700,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India-applied + current-linked) · **GS Paper:** GS-I with GS-III overlap **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain, *Geography of India* + distinct verified",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 532.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 445.024
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2704,
+      "markdown_body_line_end": 2709,
+      "heading": "1. Issue-map: what to watch",
+      "preview": "Current issue | Core geography | Why it is geographically important",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Current issue",
+          "Core geography",
+          "Why it is geographically important"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 423.024
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 268.822
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2728,
+      "markdown_body_line_end": 2733,
+      "heading": "4. Krishna basin: geography behind the dispute",
+      "preview": "Geographic variable | Why it matters",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Geographic variable",
+          "Why it matters"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 739.691
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 596.69
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2739,
+      "markdown_body_line_end": 2744,
+      "heading": "5. North-east connectivity: corridor versus fragility",
+      "preview": "Corridor issue | Geographic friction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Corridor issue",
+          "Geographic friction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 527.09
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 417.688
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2750,
+      "markdown_body_line_end": 2756,
+      "heading": "6. Urban flooding: a geography of blocked drainage",
+      "preview": "Urban-geography factor | Effect",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Urban-geography factor",
+          "Effect"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 348.088
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 217.487
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2807,
+      "markdown_body_line_end": 2807,
+      "heading": "CA Anchor 5 - 29 July 2024, PIB: \"Urban Flooding During Monsoon Season\"",
+      "preview": "⚠️ Verification discipline: no extra current river-water item beyond the Krishna official release was added here, because other basin developments were not independently fetched from a primary source during compilation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 318.091
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 273.424
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2833,
+      "markdown_body_line_end": 2834,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 688.091
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 621.424
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2840,
+      "markdown_body_line_end": 2843,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 569.824
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 431.422
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2850,
+      "markdown_body_line_end": 2850,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 375.022
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 330.354
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2859,
+      "markdown_body_line_end": 2869,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Is it a geographical issue",
+      "preview": "ASK WHERE -> can the problem be located on a basin, coast, slope or corridor",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 684.491
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2873,
+      "markdown_body_line_end": 2879,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Six issue-lenses",
+      "preview": "RESOURCE CONFLICT -> control of water, minerals, forests and coasts",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 662.491
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2883,
+      "markdown_body_line_end": 2889,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Stress to policy chain",
+      "preview": "RESOURCE, CLIMATE OR TERRAIN STRESS -> the initiating physical condition",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 516.491
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2893,
+      "markdown_body_line_end": 2899,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Nine-step analytical spine",
+      "preview": "PROCESS AND PATTERN -> name the process, then explain why there and not elsewhere",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 494.491
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 432.491
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2903,
+      "markdown_body_line_end": 2909,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Exposure and vulnerability separated",
+      "preview": "EXPOSURE -> population, assets and livelihoods physically in the hazard path",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 410.491
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 348.491
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2913,
+      "markdown_body_line_end": 2919,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Scale mismatch rail",
+      "preview": "AQUIFER SCALE -> matches no administrative boundary in an irrigated plain",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 326.491
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 264.491
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2923,
+      "markdown_body_line_end": 2929,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Groundwater decline worked chain",
+      "preview": "PROCESS -> abstraction exceeds recharge in an alluvial aquifer",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2933,
+      "markdown_body_line_end": 2939,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Urban flooding worked chain",
+      "preview": "PROCESS -> runoff generation exceeds drainage conveyance capacity",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2943,
+      "markdown_body_line_end": 2949,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Current-material discipline",
+      "preview": "FORECAST vs OBSERVATION -> a prediction is not a recorded measurement",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2953,
+      "markdown_body_line_end": 2962,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Peninsular basin dispute geography",
+      "preview": "UPSTREAM STORAGE -> reservoir location and timed release govern downstream availability",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 442.691
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2966,
+      "markdown_body_line_end": 2976,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Fragile-edge development trade-off",
+      "preview": "GREAT NICOBAR ADVANTAGE -> proximity to east-west routes and the Malacca-facing arc",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 317.891
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2980,
+      "markdown_body_line_end": 2986,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Dated official anchors and their boundary",
+      "preview": "21 AUG 2025 -> PIB and Lok Sabha reply on continued Krishna tribunal relevance",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    }
+  ]
+}
