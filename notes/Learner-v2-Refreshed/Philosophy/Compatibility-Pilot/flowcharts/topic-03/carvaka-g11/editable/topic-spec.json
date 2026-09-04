@@ -1,0 +1,747 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-i-indian-philosophy-03",
+  "subject": "Philosophy",
+  "title": "SCHOOLS OF BUDDHISM",
+  "short_route": "COMMON BUDDHIST FOUNDATION → TWELVE-LINKED DEPENDENT ORIGINATION → MOMENTARINESS AND NO-SELF → KARMA, MEMORY AND NIRVĀṆA → ABHIDHARMA SCHOOL FORK → VAIBHĀṢIKA AND SAUTRĀNTIKA",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g10 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-03\\g10\\topic-03_Complete-Learning-Session_2026-08-23.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy-2026-08-23.json",
+  "ascii_spec_sha256": "156ee4a96a5be6cf6c202bb46cb86894662f6531566d13872007e86217a96c32",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "COMMON BUDDHIST FOUNDATION",
+      "structural_type": "foundation-to-schools map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "COMMON BUDDHIST FOUNDATION",
+          "role": "primary"
+        },
+        {
+          "text": "COMMON THERAPEUTIC CORE DUḤKHA",
+          "role": "outcome"
+        },
+        {
+          "text": "ORIGIN (TṚṢṆĀ/AVIDYĀ)",
+          "role": "comparison"
+        },
+        {
+          "text": "CESSATION (NIRVĀṆA)",
+          "role": "evidence"
+        },
+        {
+          "text": "EIGHTFOLD PATH THREE MARKS",
+          "role": "primary"
+        },
+        {
+          "text": "ANĀTMAN DEPENDENT ORIGINATION SUPPLIES THE MIDDLE WAY",
+          "role": "outcome"
+        },
+        {
+          "text": "NEITHER ETERNAL SUBSTANCE NOR CAUSELESS ANNIHILATION LATER SCHOOLS DISAGREE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "COMMON THERAPEUTIC CORE duḥkha → origin (tṛṣṇā/avidyā) → cessation (nirvāṇa) → eightfold path three marks",
+        "anātman dependent origination supplies the middle way",
+        "neither eternal substance nor causeless annihilation later schools disagree about what exists and how it",
+        "about the need to end ignorance and craving."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "COMMON THERAPEUTIC CORE duḥkha → origin (tṛṣṇā/avidyā) → cessation (nirvāṇa) → eightfold path three marks: anitya",
+            "anātman dependent origination supplies the middle way"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "neither eternal substance nor causeless annihilation later schools disagree about what exists and how it is known, not",
+            "about the need to end ignorance and craving."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "COMMON THERAPEUTIC CORE duḥkha → origin (tṛṣṇā/avidyā) → cessation (nirvāṇa) → eightfold path three marks: anitya",
+            "anātman dependent origination supplies the middle way"
+          ]
+        }
+      ],
+      "mechanism_strip": "Buddhist schools share dependent origination and no-self but disagree over external objects, consciousness and ultimate truth; comparison must therefore preserve both their common therapeutic framework and their distinct ontologies.",
+      "answer_line": "Buddhist schools share dependent origination and no-self but disagree over external objects, consciousness and ultimate truth; comparison must therefore preserve both their common therapeutic framework and their distinct ontologies.",
+      "source_references": [
+        "A. System identity",
+        "B. Dependent origination"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "TWELVE-LINKED DEPENDENT ORIGINATION",
+      "structural_type": "causal wheel",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TWELVE-LINKED DEPENDENT ORIGINATION",
+          "role": "primary"
+        },
+        {
+          "text": "IGNORANCE CONDITIONS FORMATIONS; CRAVING AND GRASPING RENEW BECOMING",
+          "role": "outcome"
+        },
+        {
+          "text": "“WHEN THIS IS, THAT COMES TO BE; WITH CESSATION",
+          "role": "comparison"
+        },
+        {
+          "text": "END AVIDYĀ/TṚṢṆĀ",
+          "role": "evidence"
+        },
+        {
+          "text": "BREAK APPROPRIATION",
+          "role": "primary"
+        },
+        {
+          "text": "END REBIRTH-DUḤKHA.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "avidyā → saṃskāra → vijñāna → nāma-rūpa → ṣaḍāyatana → sparśa",
+        "vedanā → tṛṣṇā → upādāna → bhava → jāti → jarā-maraṇa",
+        "IGNORANCE conditions formations; craving and grasping renew becoming",
+        "“When this is, that comes to be; with cessation of this, that ceases” reverse order"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "avidyā → saṃskāra → vijñāna → nāma-rūpa → ṣaḍāyatana → sparśa",
+            "vedanā → tṛṣṇā → upādāna → bhava → jāti → jarā-maraṇa"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "IGNORANCE conditions formations; craving and grasping renew becoming",
+            "“When this is, that comes to be; with cessation of this, that ceases” reverse order: end avidyā/tṛṣṇā → break appropriation → end rebirth-duḥkha."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "avidyā → saṃskāra → vijñāna → nāma-rūpa → ṣaḍāyatana → sparśa",
+            "vedanā → tṛṣṇā → upādāna → bhava → jāti → jarā-maraṇa"
+          ]
+        }
+      ],
+      "mechanism_strip": "Recommended opening definition: pratītyasamutpāda (dependent origination) is the principle that phenomena arise and cease in dependence on conditions, rejecting both eternalism and causeless annihilationism.",
+      "answer_line": "Recommended opening definition: pratītyasamutpāda (dependent origination) is the principle that phenomena arise and cease in dependence on conditions, rejecting both eternalism and causeless annihilationism.",
+      "source_references": [
+        "B. Dependent origination",
+        "C. Derivation spine"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "MOMENTARINESS AND NO-SELF",
+      "structural_type": "derivation and bundle map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MOMENTARINESS AND NO-SELF",
+          "role": "caution"
+        },
+        {
+          "text": "CONDITIONED THINGS ARISE AND PERISH",
+          "role": "outcome"
+        },
+        {
+          "text": "KṢAṆIKAVĀDA CAUSAL EFFICACY BELONGS TO THE MOMENT; NO UNCHANGED",
+          "role": "caution"
+        },
+        {
+          "text": "PERSON ANALYSIS",
+          "role": "evidence"
+        },
+        {
+          "text": "FIVE SKANDHAS RŪPA",
+          "role": "primary"
+        },
+        {
+          "text": "VIJÑĀNA NONE IS PERMANENT, INDEPENDENT OR “MINE”",
+          "role": "outcome"
+        },
+        {
+          "text": "NAIRĀTMYAVĀDA CONTINUITY",
+          "role": "comparison"
+        },
+        {
+          "text": "CAUSAL SERIES, LIKE FLAME-TO-FLAME; IDENTITY IS NEITHER STRICT SAMENESS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRATĪTYASAMUTPĀDA → conditioned things arise and perish → KṢAṆIKAVĀDA causal efficacy belongs to the moment",
+        "PERSON ANALYSIS → five skandhas rūpa",
+        "vijñāna none is permanent, independent or “mine” → NAIRĀTMYAVĀDA continuity = causal series, like flame-to-flame",
+        "identity is neither strict sameness nor total unrelatedness."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "PRATĪTYASAMUTPĀDA → conditioned things arise and perish → KṢAṆIKAVĀDA causal efficacy belongs to the moment; no unchanged bearer is required",
+            "PERSON ANALYSIS → five skandhas rūpa"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "vijñāna none is permanent, independent or “mine” → NAIRĀTMYAVĀDA continuity = causal series, like flame-to-flame",
+            "identity is neither strict sameness nor total unrelatedness."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "PRATĪTYASAMUTPĀDA → conditioned things arise and perish → KṢAṆIKAVĀDA causal efficacy belongs to the moment; no unchanged bearer is required",
+            "PERSON ANALYSIS → five skandhas rūpa"
+          ]
+        }
+      ],
+      "mechanism_strip": "Nairātmyavāda (no-self doctrine) denies an eternal ātman (self) and explains the person as a dependently ordered continuum of five skandhas (aggregates), preserving conventional identity without a permanent substance.",
+      "answer_line": "Nairātmyavāda (no-self doctrine) denies an eternal ātman (self) and explains the person as a dependently ordered continuum of five skandhas (aggregates), preserving conventional identity without a permanent substance.",
+      "source_references": [
+        "D. Momentariness",
+        "E. No-self"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "KARMA, MEMORY AND NIRVĀṆA",
+      "structural_type": "continuity-without-substance chain",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "KARMA, MEMORY AND NIRVĀṆA",
+          "role": "primary"
+        },
+        {
+          "text": "NO ĀTMAN, YET CAUSAL RESPONSIBILITY INTENTION AT T1",
+          "role": "caution"
+        },
+        {
+          "text": "CONDITIONS STREAM",
+          "role": "comparison"
+        },
+        {
+          "text": "FRUIT AT T2 MEMORY",
+          "role": "evidence"
+        },
+        {
+          "text": "LATER COGNITION CAUSALLY CONDITIONED BY EARLIER EXPERIENCE REBIRTH",
+          "role": "primary"
+        },
+        {
+          "text": "ONE PSYCHO-PHYSICAL SERIES CONDITIONS ANOTHER, WITHOUT SOUL-TRANSMIGRATION OBJECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "IF AGENT PERISHES, ANOTHER RECEIVES RESULT REPLY",
+          "role": "comparison"
+        },
+        {
+          "text": "SUCCESSOR IS NEITHER IDENTICAL NOR WHOLLY DIFFERENT; CAUSAL APPROPRIATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NO ĀTMAN, YET CAUSAL RESPONSIBILITY intention at t1 → conditions stream → fruit at t2",
+        "causal appropriation connects nirvāṇa = cessation of greed, hatred and delusion, not destruction of a"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "NO ĀTMAN, YET CAUSAL RESPONSIBILITY intention at t1 → conditions stream → fruit at t2 memory = later",
+            "causal appropriation connects nirvāṇa = cessation of greed, hatred and delusion, not destruction of a substance-self."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NO ĀTMAN, YET CAUSAL RESPONSIBILITY intention at t1 → conditions stream → fruit at t2 memory = later",
+            "causal appropriation connects nirvāṇa = cessation of greed, hatred and delusion, not destruction of a substance-self."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "NO ĀTMAN, YET CAUSAL RESPONSIBILITY intention at t1 → conditions stream → fruit at t2 memory = later",
+            "causal appropriation connects nirvāṇa = cessation of greed, hatred and delusion, not destruction of a substance-self."
+          ]
+        }
+      ],
+      "mechanism_strip": "NO ĀTMAN, YET CAUSAL RESPONSIBILITY intention at t1 → conditions stream → fruit at t2 memory = later cognition causally conditioned by earlier experience rebirth = one psycho-physical series conditions another, without soul-transmigration objection: if agent perishes, another receives result reply: successor is neither identical nor wholly different; causal appropriation connects nirvāṇa = cessation of greed, hatred and delusion, not destruction of a substance-self.",
+      "answer_line": "if agent perishes, another receives result reply: successor is neither identical nor wholly different; causal appropriation connects nirvāṇa = cessation of greed, hatred and delusion, not destruction of a substance-self.",
+      "source_references": [
+        "F. Karma, memory and nirvāṇa"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ABHIDHARMA SCHOOL FORK",
+      "structural_type": "four-school branching taxonomy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ABHIDHARMA SCHOOL FORK",
+          "role": "primary"
+        },
+        {
+          "text": "BUDDHIST REALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "KNOWLEDGE DEBATE",
+          "role": "comparison"
+        },
+        {
+          "text": "HĪNAYĀNA REALISTS MAHĀYĀNA",
+          "role": "evidence"
+        },
+        {
+          "text": "VAIBHĀṢIKA SAUTRĀNTIKA YOGĀCĀRA MĀDHYAMIKA EXTERNAL EXTERNAL OBJECTS COGNITION EMPTINESS",
+          "role": "primary"
+        },
+        {
+          "text": "SCHOOL LABELS MARK EPISTEMIC/ONTOLOGICAL POSITIONS, NOT FOUR PATHS TO",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BUDDHIST REALITY / KNOWLEDGE DEBATE",
+        "HĪNAYĀNA REALISTS MAHĀYĀNA",
+        "Vaibhāṣika Sautrāntika Yogācāra Mādhyamika external external objects cognition emptiness of dharmas inferred from ideas only",
+        "and causal effects perceived",
+        "SCHOOL LABELS MARK EPISTEMIC/ONTOLOGICAL POSITIONS, NOT FOUR PATHS TO MIX."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "BUDDHIST REALITY / KNOWLEDGE DEBATE",
+            "HĪNAYĀNA REALISTS MAHĀYĀNA"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Vaibhāṣika Sautrāntika Yogācāra Mādhyamika external external objects cognition emptiness of dharmas inferred from ideas only all svabhāva directly",
+            "and causal effects perceived"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "SCHOOL LABELS MARK EPISTEMIC/ONTOLOGICAL POSITIONS, NOT FOUR PATHS TO MIX.",
+            "BUDDHIST REALITY / KNOWLEDGE DEBATE"
+          ]
+        }
+      ],
+      "mechanism_strip": "The four-school debate moves from Vaibhāṣika (Abhidharma realist school) and Sautrāntika (Sūtra-based representationalist school) to Yogācāra (yoga-practice consciousness-centred school) and Mādhyamika (Middle Way emptiness school), progressively questioning what can count as ultimately real.",
+      "answer_line": "The four-school debate moves from Vaibhāṣika (Abhidharma realist school) and Sautrāntika (Sūtra-based representationalist school) to Yogācāra (yoga-practice consciousness-centred school) and Mādhyamika (Middle Way emptiness school), progressively questioning what can count as ultimately real.",
+      "source_references": [
+        "G. Four schools"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "VAIBHĀṢIKA AND SAUTRĀNTIKA",
+      "structural_type": "realist comparison panel",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "VAIBHĀṢIKA AND SAUTRĀNTIKA",
+          "role": "primary"
+        },
+        {
+          "text": "ISSUE VAIBHĀṢIKA SAUTRĀNTIKA EXTERNAL OBJECT REAL DHARMAS REAL MOMENTARY",
+          "role": "outcome"
+        },
+        {
+          "text": "DHARMAS EXIST ONLY PRESENT CAUSAL MOMENT STRESSED COGNITION GRASPS",
+          "role": "comparison"
+        },
+        {
+          "text": "SAUTRĀNTIKA ARGUMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "OBJECT-MOMENT IS GONE WHEN AWARENESS OCCURS",
+          "role": "primary"
+        },
+        {
+          "text": "THEREFORE COGNITION PRESENTS AN IMAGE, FROM WHICH EXTERNAL CAUSE",
+          "role": "mechanism"
+        },
+        {
+          "text": "REPRESENTATIVE REALISM MUST EXPLAIN CORRESPONDENCE.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ISSUE VAIBHĀṢIKA SAUTRĀNTIKA external object real dharmas real momentary causes access direct perception inferred from",
+        "sarvāstivāda: dharmas exist only present causal moment stressed cognition grasps object represents object",
+        "SAUTRĀNTIKA ARGUMENT: object-moment is gone when awareness occurs",
+        "therefore cognition presents an image, from which external cause is inferred.",
+        "PRESSURE: representative realism must explain correspondence."
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "ISSUE VAIBHĀṢIKA SAUTRĀNTIKA external object real dharmas real momentary causes access direct perception inferred from mental image past/future",
+          "SAUTRĀNTIKA ARGUMENT: object-moment is gone when awareness occurs",
+          "PRESSURE: representative realism must explain correspondence."
+        ],
+        [
+          "sarvāstivāda: dharmas exist only present causal moment stressed cognition grasps object represents object",
+          "therefore cognition presents an image, from which external cause is inferred.",
+          "ISSUE VAIBHĀṢIKA SAUTRĀNTIKA external object real dharmas real momentary causes access direct perception inferred from mental image past/future"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "ISSUE VAIBHĀṢIKA SAUTRĀNTIKA external object real dharmas real momentary causes access direct perception inferred from mental image past/future",
+            "sarvāstivāda: dharmas exist only present causal moment stressed cognition grasps object represents object"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SAUTRĀNTIKA ARGUMENT: object-moment is gone when awareness occurs",
+            "therefore cognition presents an image, from which external cause is inferred."
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "PRESSURE: representative realism must explain correspondence.",
+            "ISSUE VAIBHĀṢIKA SAUTRĀNTIKA external object real dharmas real momentary causes access direct perception inferred from mental image past/future"
+          ]
+        }
+      ],
+      "mechanism_strip": "therefore cognition presents an image, from which external cause is inferred.",
+      "answer_line": "therefore cognition presents an image, from which external cause is inferred.",
+      "source_references": [
+        "G. Four schools"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "YOGĀCĀRA AND MĀDHYAMIKA",
+      "structural_type": "Mahayana divergence-convergence",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "YOGĀCĀRA AND MĀDHYAMIKA",
+          "role": "primary"
+        },
+        {
+          "text": "VIJÑĀNAVĀDA MĀDHYAMIKA",
+          "role": "outcome"
+        },
+        {
+          "text": "ŚŪNYAVĀDA SUBJECT-OBJECT DUALITY IS CONSTRUCTED ALL THINGS LACK SVABHĀVA",
+          "role": "comparison"
+        },
+        {
+          "text": "REPRESENTATION-ONLY DEPENDENT ARISING",
+          "role": "evidence"
+        },
+        {
+          "text": "EMPTINESS ĀLAYA-VIJÑĀNA STORES BĪJA TENDENCIES TWO TRUTHS",
+          "role": "primary"
+        },
+        {
+          "text": "PARAMĀRTHA THREE NATURES",
+          "role": "outcome"
+        },
+        {
+          "text": "PARIKALPITA, TETRALEMMA REJECTS IS",
+          "role": "comparison"
+        },
+        {
+          "text": "IS-NOT PARATANTRA, PARINIṢPANNA BOTH",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "YOGĀCĀRA / VIJÑĀNAVĀDA MĀDHYAMIKA / ŚŪNYAVĀDA subject-object duality is constructed all things lack svabhāva vijñapti-mātra",
+        "= emptiness ālaya-vijñāna stores bīja tendencies two truths: saṃvṛti / paramārtha three natures: parikalpita, tetralemma",
+        "is-not paratantra, pariniṣpanna both / neither as ultimate capture",
+        "CONVERGENCE: dissolve reification",
+        "DIFFERENCE: Yogācāra privileges purified cognition, while Mādhyamika empties even consciousness and emptiness itself."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "YOGĀCĀRA / VIJÑĀNAVĀDA MĀDHYAMIKA / ŚŪNYAVĀDA subject-object duality is constructed all things lack svabhāva vijñapti-mātra: representation-only dependent arising",
+            "= emptiness ālaya-vijñāna stores bīja tendencies two truths: saṃvṛti / paramārtha three natures: parikalpita, tetralemma rejects is /"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "is-not paratantra, pariniṣpanna both / neither as ultimate capture",
+            "CONVERGENCE: dissolve reification"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "DIFFERENCE: Yogācāra privileges purified cognition, while Mādhyamika empties even consciousness and emptiness itself.",
+            "YOGĀCĀRA / VIJÑĀNAVĀDA MĀDHYAMIKA / ŚŪNYAVĀDA subject-object duality is constructed all things lack svabhāva vijñapti-mātra: representation-only dependent arising"
+          ]
+        }
+      ],
+      "mechanism_strip": "Kṣaṇikavāda (doctrine of momentariness) holds that whatever is causally efficient exists only momentarily, because a permanent entity could neither change its causal power nor produce genuinely successive effects.",
+      "answer_line": "Kṣaṇikavāda (doctrine of momentariness) holds that whatever is causally efficient exists only momentarily, because a permanent entity could neither change its causal power nor produce genuinely successive effects.",
+      "source_references": [
+        "H. Yogācāra",
+        "I. Mādhyamika"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "synthesis",
+      "title": "CRITIQUE AND PYQ ANSWER SPINE",
+      "structural_type": "dialectic-to-answer rail",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CRITIQUE AND PYQ ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "FLUX CANNOT EXPLAIN CONTINUITY",
+          "role": "outcome"
+        },
+        {
+          "text": "ANĀTMAN WEAKENS AGENCY",
+          "role": "comparison"
+        },
+        {
+          "text": "ŚŪNYATĀ IS NIHILISM",
+          "role": "evidence"
+        },
+        {
+          "text": "CAUSAL SERIES",
+          "role": "primary"
+        },
+        {
+          "text": "DEPENDENT RESPONSIBILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "EMPTINESS DENIES SELF-NATURE, NOT FUNCTION",
+          "role": "caution"
+        },
+        {
+          "text": "ANSWER RAIL COMMON CORE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OBJECTIONS: flux cannot explain continuity",
+        "anātman weakens agency",
+        "śūnyatā is nihilism",
+        "REPLIES: causal series",
+        "dependent responsibility"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "OBJECTIONS: flux cannot explain continuity",
+            "anātman weakens agency",
+            "śūnyatā is nihilism",
+            "REPLIES: causal series"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "dependent responsibility",
+            "emptiness denies self-nature, not function",
+            "ANSWER RAIL common core → twelve links → momentariness → five-skandha no-self",
+            "karma/memory reply → four-school fork → exact school comparison"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "objection/reply → qualified verdict",
+            "CLOSE: Buddhism replaces substance with conditioned process",
+            "its schools progressively debate whether external dharmas, cognition, or any intrinsic nature can be retained."
+          ]
+        }
+      ],
+      "mechanism_strip": "The central realist criticism is that momentariness and no-self cannot explain recognition, memory and moral responsibility; the Buddhist reply relocates continuity from substance to causally connected santāna (continuum).",
+      "answer_line": "The central realist criticism is that momentariness and no-self cannot explain recognition, memory and moral responsibility; the Buddhist reply relocates continuity from substance to causally connected santāna (continuum).",
+      "source_references": [
+        "J. Epistemology and silence",
+        "K. Criticism–reply grid",
+        "L. Final answer discipline"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "LAYER-PLACEMENT NOTE",
+          "role": "outcome"
+        },
+        {
+          "text": "LAYER-PLACEMENT NOTE ALL LAYER 3 MATERIAL FROM THE LEGACY",
+          "role": "evidence"
+        },
+        {
+          "text": "IT SHOULD REFINE A CORE ANSWER, NOT DISPLACE THE",
+          "role": "caution"
+        },
+        {
+          "text": "LAYER 3 - ADVANCED ADVANCED DERIVATION AND SCHOOL DIVERGENCE",
+          "role": "primary"
+        },
+        {
+          "text": "IT DIAGNOSES THE STRUCTURE OF CONDITIONED BECOMING HERE AND",
+          "role": "outcome"
+        },
+        {
+          "text": "THIS AVOIDS ETERNALISM BECAUSE NO UNCHANGED SELF GROUNDS THE",
+          "role": "caution"
+        },
+        {
+          "text": "THE DOCTRINE SUPPORTS DIFFERENT ONTOLOGICAL CONCLUSIONS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "Layer-placement note",
+            "Layer-placement note All Layer 3 material from the legacy complete session is retained here after practice.",
+            "It should refine a core answer, not displace the printed syllabus.",
+            "LAYER 3 - ADVANCED Advanced derivation and school divergence Dependent origination is not a search for the universe's first cause."
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "It diagnoses the structure of conditioned becoming here and now.",
+            "This avoids eternalism because no unchanged self grounds the process, and avoids annihilationism because causal continuity remains.",
+            "The doctrine supports different ontological conclusions.",
+            "Mādhyamika argues that whatever depends on conditions lacks svabhāva and is therefore empty."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Vaibhāṣika and Sautrāntika instead emphasise that causally functioning conditioned events are real.",
+            "Their disagreement concerns ultimate status, not whether dependent arising occurs.",
+            "The strongest challenge is regress: if every event is conditioned, what explains the chain as a whole?",
+            "The Buddhist reply is therapeutic and structural rather than foundational—the task is to identify and cease the conditions"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

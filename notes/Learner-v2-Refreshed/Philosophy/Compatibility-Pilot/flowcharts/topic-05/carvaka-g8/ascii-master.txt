@@ -1,0 +1,90 @@
+Sāṃkhya — COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+START / CENTRAL QUESTION
+  Sāṃkhya accepts perception, inference and reliable testimony as pramāṇas, using inference to establish supersensible Prakṛti and Puruṣa.
+        |
+        v
++-- SESSION 01: SĀṂKHYA DUALISM, PRAMĀṆAS AND COGNITION
+|   DEFINITION / TERMS : Sāṃkhya accepts perception, inference and reliable testimony as pramāṇas, using inference to establish supersensible Prakṛti and Puruṣa.
+|   MECHANISM / ARGUMENT: The internal organ takes the form of an object and appears conscious when Puruṣa's awareness is reflected in it.
+|   CONSEQUENCE / CONTRAST: Experience is possible without making matter conscious or consciousness an agent, but the relation between the two principles becomes the system's central difficulty.
+|   TRAP / ANSWER-USE: Do not identify Puruṣa with mind, ego or buddhi, because all three psychological functions belong to evolved Prakṛti.
+|   EXAM OPENING: The system's epistemology supports its dualism: cognition belongs to the material internal organ, while consciousness belongs to the witnessing Puruṣa.
++--
+        |
+        v
++-- SESSION 02: PRAKṚTI, THE THREE GUṆAS AND THEIR PROOFS
+|   DEFINITION / TERMS : ✅ Prakṛti (prakriti) is the unmanifest, unconscious, primordial material principle from which the entire objective and psycho-physical world evolves. ✅ It is also called pradhāna (chief principle) because it is the primary material basis of all empirical manifestation. ✅ It is called avyakta (unmanifest) because in its primordial condition it is not yet differentiated into manifest tattvas. ✅ It is not a created entity; it is the ultimate material cause of the world within Sāṃkhya's dualist ontology. ⚠️ In exam language, Prakṛti is not merely "matter" in the modern physicalist sense; it includes the roots of intellect, ego, mind, senses, subtle elements and gross elements.
+|   MECHANISM / ARGUMENT: ✅ Pradhāna emphasizes that Prakṛti is the chief material principle. ✅ Avyakta emphasizes that it is unmanifest prior to differentiated evolution. ⚠️ An exam-safe definition: Prakṛti is the avyakta pradhāna, the unmanifest chief material principle constituted by the three guṇas.
+|   CONSEQUENCE / CONTRAST: The standard cluster of arguments is central to UPSC. ✅ Empirical things are many, finite, delimited and measurable. ✅ What is finite and determinate points beyond itself to a more fundamental source from which such determinate forms arise. ✅ The manifold world therefore requires a common antecedent material ground. ⚠️ The force of the argument is not merely "every effect has a cause," but "the limited and differentiated presuppose a subtler ground from which limitation and differentiation emerge." ✅ Effects display an underlying order and common pattern. ✅ Diverse products nevertheless reveal continuity of constitution and dependence. ✅ Such systematic coherence suggests a common material basis. ⚠️ This is an argument from coordinated diversity: if effects hang together, they are likely rooted in one underlying matrix. ✅ The empirical order is not inert chaos; it is a field of production, activity and transformation. ✅ Productive activity presupposes a causal potency capable of issuing in determinate effects. ✅ Therefore there must be an underlying productive principle possessing the capacity for manifestation. ⚠️ Sāṃkhya here reasons from the fact of becoming to an abiding source of becoming. ✅ Cause and effect are distinguishable stages: the unmanifest source and the manifest product are not identical in appearance. ✅ If effects are manifest, multiple and differentiated, their cause must be a more basic, prior and subtler condition. ✅ Thus the manifest order implies an unmanifest causal matrix distinct from it as cause from effect. ⚠️ The point is not total disconnection: cause and effect are distinguishable without being unrelated. ✅ The world is astonishingly diverse, yet this diversity forms one interconnected cosmos. ✅ A diversified whole points back to an undivided source in which later differentiations are not yet separated. ✅ Therefore there must be an original unmanifest, undivided root of the whole world-process. ✅ This is the proof that shows Prakṛti must be ONE. ✅ UPSC 2019 directly tests this point: if the diversity of the world issues from an undivided source, that source cannot itself be many disconnected material ultimates; it must be singular. ⚠️ This is the strongest anti-pluralist argument at the level of material causation in Sāṃkhya.
+|   TRAP / ANSWER-USE: ✅ Before manifestation, the three guṇas exist in equilibrium called sāmyāvasthā. ✅ In this state Prakṛti is avyakta, unmanifest. ✅ Manifest evolution begins when this equilibrium is disturbed in the presence of Puruṣa. ⚠️ Disturbance should not be imagined as mechanical collision; Sāṃkhya speaks of functional activation in proximity.
+|   EXAM OPENING: “Puruṣa (the pure conscious witness) is inactive, non-objectifiable and distinct from every product of Prakṛti, while jīva (the empirical embodied self) is Puruṣa apparently identified with intellect, ego and the subtle body.”.
++--
+        |
+        v
++-- SESSION 03: PURUṢA, ITS PLURALITY AND THE WITNESS PRINCIPLE
+|   DEFINITION / TERMS : Reply. ✅ Sāṃkhya replies that agency belongs to Prakṛti's evolutes; ascribing agency to Puruṣa is precisely the abhimāna that bondage consists in.
+|   MECHANISM / ARGUMENT: Statement. ✅ Sāṃkhya argues for Puruṣa as a distinct conscious principle because the entire objective complex is unconscious, instrumental and presented to experience.
+|   CONSEQUENCE / CONTRAST: Conclusion. ✅ This is not a God-proof; it is an inference to Puruṣa as the presiding witness of lived order.
+|   TRAP / ANSWER-USE: Distinction. ⚠️ Plurality does not mean qualitative difference among Puruṣas; each Puruṣa is pure, inactive consciousness, but they are numerically many.
+|   EXAM OPENING: Pure consciousness, being without attribute, part, action or spatial location, admits no principle of individuation; therefore Sāṃkhya proves at most a plurality of cittas (mental streams), not Puruṣas.
++--
+        |
+        v
++-- SESSION 04: THE TWENTY-FIVE TATTVAS AND COSMIC EVOLUTION
+|   DEFINITION / TERMS : ✅ Rajas supplies activity, energy and operative force to both lines. ✅ Rājasa ahaṃkāra does not produce a separate set of tattvas. ⚠️ This must be written explicitly because it is repeatedly confused.
+|   MECHANISM / ARGUMENT: ✅ Rajas supplies activity, energy and operative force to both lines. ✅ Rājasa ahaṃkāra does not produce a separate set of tattvas. ⚠️ This must be written explicitly because it is repeatedly confused.
+|   CONSEQUENCE / CONTRAST: ✅ Buddhi determines, judges, ascertains and discriminates. ✅ It is the locus where reflected consciousness is most conspicuous in empirical life. ⚠️ In psychology: manas coordinates, ahaṃkāra appropriates, buddhi determines.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: ✅ Ahaṃkāra is the I-maker, the principle of individuation. ✅ It appropriates functions into...
+|   EXAM OPENING: ✅ Mahat and buddhi are the SAME tattva. ✅ Mahat is the cosmic aspect or name. ✅ Buddhi is the individual/psychological aspect or name. ✅ Ahaṃkāra emerges from buddhi/mahat as the principle of individuation or I-sense. ✅ Therefore the sequence is Prakṛti → mahat/buddhi → ahaṃkāra. ⚠️ This is a classic UPSC trap.
++--
+        |
+        v
++-- SESSION 05: SATKĀRYAVĀDA, PARIṆĀMAVĀDA AND RIVAL CAUSAL THEORIES
+|   DEFINITION / TERMS : Statement. ✅ Sāṃkhya's satkāryavāda is specifically pariṇāmavāda: the effect is a real transformation of the cause.
+|   MECHANISM / ARGUMENT: The operative mechanism is that ✅ Satkāryavāda holds that the effect pre-exists in its material cause. ✅ Production is...
+|   CONSEQUENCE / CONTRAST: Statement. ✅ Sāṃkhya's satkāryavāda is specifically pariṇāmavāda: the effect is a real transformation of the cause.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: reply. ⚠️ Sāṃkhya replies that causal capacity in the required determinate sense just is...
+|   EXAM OPENING: ✅ Satkāryavāda holds that the effect pre-exists in its material cause. ✅ Production is manifestation, not creation out of sheer non-being. ✅ Sāṃkhya's specific form of satkāryavāda is pariṇāmavāda, the doctrine of real transformation.
++--
+        |
+        v
++-- SESSION 06: BONDAGE, DISCRIMINATIVE KNOWLEDGE AND KAIVALYA
+|   DEFINITION / TERMS : ✅ Bondage in Sāṃkhya is aviveka, non-discrimination between Puruṣa and Prakṛti. ✅ Buddhi reflects consciousness, and this reflection creates false identification. ✅ The self then appears as agent, enjoyer, sufferer and knower in the empirical sense. ⚠️ Bondage is not real alteration in Puruṣa but mistaken identification through reflected consciousness.
+|   MECHANISM / ARGUMENT: ✅ Prakṛti is like a dancer who stops after being seen by Puruṣa. ✅ Once discriminative knowledge arises, Prakṛti no longer continues its binding display for that Puruṣa. ⚠️ This is the neatest canonical image for liberation through fulfilled disclosure.
+|   CONSEQUENCE / CONTRAST: ✅ Bondage in Sāṃkhya is aviveka, non-discrimination between Puruṣa and Prakṛti. ✅ Buddhi reflects consciousness, and this reflection creates false identification. ✅ The self then appears as agent, enjoyer, sufferer and knower in the empirical sense. ⚠️ Bondage is not real alteration in Puruṣa but mistaken identification through reflected consciousness.
+|   TRAP / ANSWER-USE: ✅ Puruṣa is like the lame: conscious but inactive. ✅ Prakṛti is like the blind: active but unconscious. ✅ Together they explain empirical process. ⚠️ The analogy conveys complementarity without collapsing the two principles into one.
+|   EXAM OPENING: ✅ Liberation is viveka-jñāna, discriminative knowledge that "I am not Prakṛti." ✅ When the distinction between witness-consciousness and guṇic evolutes becomes steady, false identification ends. ✅ This state is kaivalya, the aloneness or isolation of Puruṣa. ⚠️ Kaivalya is not merger; it is disentanglement.
++--
+        |
+        v
++-- SESSION 07: THE CONTACT PROBLEM AND ŚAṂKARA'S CRITIQUE
+|   DEFINITION / TERMS : ✅ Sāṃkhya answers that the relation is sānnidhya, mere proximity or presence, not gross physical contact. ✅ Puruṣa does not push or alter Prakṛti by action. ✅ Prakṛti becomes active in the mere presence of Puruṣa.
+|   MECHANISM / ARGUMENT: ✅ Unconscious prakṛti cannot be the Upaniṣadic cause because the Upaniṣadic source is described as conscious, knowing and sat-cit in character. ✅ The contact problem remains unresolved: inactive Puruṣa and unconscious Prakṛti cannot intelligibly relate. ✅ Teleology cannot be explained without consciousness: if Prakṛti evolves "for the sake of" Puruṣa, purposiveness seems to require intelligence. ✅ Texts describing the cause as knowing (tajjñaḥ-type descriptions) exclude jaḍa-prakṛti. ✅ UPSC 2025 makes this a 20-marker shared with Vedanta.md.
+|   CONSEQUENCE / CONTRAST: ✅ Sāṃkhya answers that the relation is sānnidhya, mere proximity or presence, not gross physical contact. ✅ Puruṣa does not push or alter Prakṛti by action. ✅ Prakṛti becomes active in the mere presence of Puruṣa.
+|   TRAP / ANSWER-USE: ✅ Śaṃkara argues that if Puruṣa is truly inactive and Prakṛti truly unconscious, no intelligible real relation is possible. ✅ The magnet analogy fails because even a magnet exerts force; if Puruṣa were like that, it would not be wholly inactive. ✅ The crystal analogy may explain appearance, but not the initiation of world-process. ✅ Therefore Sāṃkhya dualism appears unstable: either it collapses toward monism or it requires a third mediating principle. ✅ UPSC 2023 directly tests this critique of Sāṃkhya dualism.
+|   EXAM OPENING: “Sāṃkhya (the enumerative dualist school) integrates psychology, cosmology and liberation without a creator God, yet guṇa-explanation risks elasticity, Puruṣa-plurality lacks a clear individuator, and mere proximity does not fully solve the contact problem.”.
++--
+        |
+        v
++-- SESSION 08: INTER-SCHOOL DEBATES, OBJECTIONS AND REPLIES
+|   DEFINITION / TERMS : Technically, Inter-School Debates, Objections And Replies is analysed by relating Inter-School Debates to Objections, then testing the relationship through Replies and Priority.
+|   MECHANISM / ARGUMENT: ❓ How can unconscious Prakṛti evolve purposively for Puruṣa's sake? ✅ Sāṃkhya reply: purposive functioning need not involve conscious planning; the guṇa-structure itself yields ordered manifestation in the presence of Puruṣa. ⚠️ This reply preserves system-internal sufficiency but remains vulnerable to Vedāntic criticism. ❓ If Puruṣa and Prakṛti are radically different, how can misidentification occur? ✅ Sāṃkhya reply: through proximity, reflection and false attribution rather than real fusion. ⚠️ This is partly explanatory and partly analogical; critics see it as the school's weakest point. ❓ Could not one consciousness appear as many? ✅ Sāṃkhya reply: non-simultaneous liberation, individual experience and differentiated embodiment support plurality. ❓ If effect already exists, production is redundant. ✅ Sāṃkhya reply: production is manifestation from latent to patent, not pointless repetition.
+|   CONSEQUENCE / CONTRAST: ⚠️ Priority: Primary ownership rises to 10 of 112 parts and occurs in every year. ✅ Required doctrinal depth: The restored questions require plurality of Puruṣas, a defence of Prakṛtipariṇāmavāda against Advaita and application of satkāryavāda to the mango-seed example while rejecting rival causation theories. ❌ Trap / answer consequence: Do not confuse one Prakṛti with one Puruṣa, or say the gross tree pre-exists visibly in the seed; reconstruct latent effect, material continuity and transformation.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: rival - exact objection - Samkhya reply - residual force.
+|   EXAM OPENING: “The power of Sāṃkhya (the enumerative dualist school) lies in connecting epistemology, material continuity, empirical consciousness and liberation within one system; its weakness is that the relation required to connect its two absolutes remains under-explained.”.
++--
+        |
+        v
++-- SESSION 09: PRESUPPOSITIONS, COMPARISONS AND GRADED VERDICT
+|   DEFINITION / TERMS : Sāṃkhya vs Advaita on satkāryavāda. ⚠️ Both can be treated as satkāryavādins because both deny sheer creation from non-being; the decisive difference is pariṇāma versus vivarta.
+|   MECHANISM / ARGUMENT: Sāṃkhya vs Advaita on satkāryavāda. ⚠️ Both can be treated as satkāryavādins because both deny sheer creation from non-being; the decisive difference is pariṇāma versus vivarta.
+|   CONSEQUENCE / CONTRAST: 20 marks. ⚠️ Sāṃkhya is a philosophically serious non-theistic system whose causal realism and psychology of reflection are impressive, but whose unconscious teleology and plurality of attributeless Puruṣas remain unresolved pressure points.
+|   TRAP / ANSWER-USE: A web result claiming adoption of a national "Samkhya Paradigm" in mental-health policy was not supported by an official government source and is excluded.
+|   EXAM OPENING: “A high-scoring Sāṃkhya (enumerative dualist school) answer should state the dualist thesis, present the exact proof or evolutionary sequence, confront the contact or teleology objection, and conclude with a qualified verdict rather than a slogan.”.
++--
+        |
+        v
+ANSWER-WRITING SPINE
+definition -> exact terms -> mechanism/evidence -> consequence/contrast
+-> objection/trap -> qualified answer-use

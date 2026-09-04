@@ -1,0 +1,255 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Nyāya–Vaiśeṣika: central question and analytical axes
+
+```ascii-master
+NYĀYA–VAIŚEṢIKA — CONCEPTUAL ATLAS
+
+
+KEY TERMS: Nyāya • Vaiśeṣika • realism • pramāṇa • padārtha • atomism
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Nyāya–Vaiśeṣika
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       Nyāya supplies pramāṇa theory and argumentative method, while…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: NYĀYA-VAIŚEṢIKA REALISM AND SCHOOL CONVERGENCE
+  • Nyāya
+  • Valid pramāṇas disclose the categories of reality, remove false…
+AXIS 2: PERCEPTION, DETERMINACY AND EXTRAORDINARY CONTACT
+  • Perception
+  • Sāmānyalakṣaṇa-pratyakṣa perception through the universal
+AXIS 3: SELF, MIND AND PERSONAL CONTINUITY
+  • Self
+  • Manas is an atomic internal organ
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  Nyāya • Vaiśeṣika • realism • pramāṇa
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Realism, padarthas, substances, universals and inherence
+
+```ascii-master
+REALISM, PADARTHAS, SUBSTANCES, UNIVERSALS AND INHERENCE
+│
+
+KEY TERMS: Nyāya • Vaiśeṣika • realism • pramāṇa • padārtha • atomism
+├── KEY CONCEPTS
+│   ├── Nyāya
+│   ├── Vaiśeṣika
+│   ├── realism
+│   ├── pramāṇa
+│   └── padārtha
+│
+├── NYĀYA-VAIŚEṢIKA REALISM AND SCHOOL CONVERGENCE
+│   ├─ TERMS: Nyāya supplies pramāṇa theory and argumentative method, while…
+│   ├─ LOGIC: Valid pramāṇas disclose the categories of reality, remove false…
+│   └─ RESULT: Epistemology and ontology support one another: warranted knowledge…
+├── PADĀRTHAS, SUBSTANCE, UNIVERSALS AND INHERENCE
+│   ├─ TERMS: The universal is not spatially divided like a physical thing
+│   ├─ LOGIC: The universal is not spatially divided like a physical thing
+│   └─ RESULT: We genuinely classify many individuals under one concept
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Four pramanas: perception, inference, comparison and testimony
+
+```ascii-master
+FOUR PRAMANAS: PERCEPTION, INFERENCE, COMPARISON AND TESTIMONY
+
+
+KEY TERMS: pramāṇa • pratyakṣa • anumāna • upamāna • śabda • valid cognition
+CAUSE / CONDITION 1: A pramāṇa is a non-errant causal means that produces a true…
+          │
+          ├── MECHANISM
+          │   Perception arises through appropriate contact, inference through a…
+          │
+          └── EFFECT / CONTRAST
+              The fourfold scheme supports a broad realism while allowing Nyāya…
+          │
+          ▼
+CAUSE / CONDITION 2: Sāmānyalakṣaṇa-pratyakṣa perception through the universal
+          │
+          ├── MECHANISM
+          │   Sāmānyalakṣaṇa-pratyakṣa perception through the universal
+          │
+          └── EFFECT / CONTRAST
+              vyavasāyātmakam — determinate It is definite, not doubtful
+          │
+          ▼
+CAUSE / CONDITION 3: pakṣadharmatā — the hetu is present in the subject under…
+          │
+          ├── MECHANISM
+          │   pakṣadharmatā — the hetu is present in the subject under…
+          │
+          └── EFFECT / CONTRAST
+              The investigator searches for deviation (vyabhicāra) and does not…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Validity, error theory, self, mind and personal continuity
+
+```ascii-master
+VALIDITY, ERROR THEORY, SELF, MIND AND PERSONAL CONTINUITY
+
+
+KEY TERMS: Comparison • Testimony • The Validity Of Knowledge • Upamāna • gavaya • Śabda
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ COMPARISON, TESTIMONY  │ Upamāna gives knowledge of    │ Memory reproduces a past      │
+│ AND THE VALIDITY OF    │ the relation between a word   │ cognition                     │
+│ KNOWLEDGE              │ and its…                      │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ ANYATHĀKHYĀTI AND THE  │ A present perceptual base     │ Nyāya uses                    │
+│ REALIST THEORY OF      │ exists — e.g                  │ jñānalakṣaṇa-pratyakṣa to     │
+│ ERROR                  │                               │ explain how the silver can    │
+│                        │                               │ be…                           │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Apavarga, Isvara and Udayana’s cumulative proofs
+
+```ascii-master
+APAVARGA, ISVARA AND UDAYANA’S CUMULATIVE PROOFS
+
+
+KEY TERMS: Self • Mind • Personal Continuity • self (ātman) • adventitious quality • From
+KEY TERMS: desire (icchā) and aversion (dveṣa)
+                 CLAIM / SYSTEM UNDER EXAMINATION
+                                  │
+                                  ▼
+PROBLEM / OBJECTION 1
+  ├─ ISSUE: From cognition (buddhi / jñāna) cognition is a quality and must…
+  ├─ RESPONSE / CONTROL: Manas is an atomic internal organ
+  └─ QUALIFIED VERDICT: Nyāya accepts that the self can exist without manifest
+  └─ QUALIFIED VERDICT: cognition…
+                  │
+                  ▼
+PROBLEM / OBJECTION 2
+  ├─ ISSUE: The aim is freedom from suffering, not acquisition of bliss
+  ├─ RESPONSE / CONTROL: The classic Nyāya chain runs tattva-jñāna - removal of
+  ├─ RESPONSE / CONTROL: mithyā-jñāna…
+  └─ QUALIFIED VERDICT: Apavarga is absolute cessation of pain
+                  │
+                  ▼
+PROBLEM / OBJECTION 3
+  ├─ ISSUE: Īśvara is an omniscient, eternal, bodiless agent who is the…
+  ├─ RESPONSE / CONTROL: Nyāya-Vaiśeṣika affirms Īśvara as an eternal, omniscient…
+  └─ QUALIFIED VERDICT: A strong answer presents Udayana's proofs as a converging
+  └─ QUALIFIED VERDICT: or…
+                                  │
+                                  ▼
+FINAL CONTROL: preserve the strongest insight while stating its limit.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Causation, atomism, rival objections and answer verdict
+
+```ascii-master
+CAUSATION, ATOMISM, RIVAL OBJECTIONS AND ANSWER VERDICT
+
+
+KEY TERMS: Asatkāryavāda • Causation • Atomism • ārambhavāda • Sāṃkhya's satkāryavāda •
+KEY TERMS: ASATKĀRYAVĀDA, CAUSATION AND ATOMISM
+CAUSE / CONDITION 1: Asked whether the seed contains the tree, Nyāya says no in…
+          │
+          ├── MECHANISM
+          │   Nyāya-Vaiśeṣika defends asatkāryavāda, also called ārambhavāda
+          │
+          └── EFFECT / CONTRAST
+              Before the effect arises, it has prāgabhāva — prior non-existence
+          │
+          ▼
+CAUSE / CONDITION 2: Nyāya is primarily epistemology, logic and debate, organized…
+          │
+          ├── MECHANISM
+          │   “A high-scoring answer should move from exact definition to ordered…
+          │
+          └── EFFECT / CONTRAST
+              Use one inter-school contrast at a time: pramanas, validity, error…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Nyāya–Vaiśeṣika: traps, PYQ routes and applied recall
+
+```ascii-master
+NYĀYA–VAIŚEṢIKA: TRAPS, PYQ ROUTES AND APPLIED RECALL
+
+
+KEY TERMS: Nyāya • Vaiśeṣika • realism • pramāṇa • padārtha • atomism
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── Do not reduce Nyāya to formal logic or Vaiśeṣika to atomism…
+├── Upādhi is a conditioning adjunct: sādhya-vyāpakatve sati…
+├── From cognition (buddhi / jñāna) cognition is a quality and must…
+├── Nyāya and Vaiśeṣika are historically distinct but later fused
+│
+├── 2018 · Q5(a) · 10 marks
+├── Question: How do the Vaiśeṣika philosophers explain the difference of the…
+├── Demand decoding: Distinguish saṃyoga from samavāya, apply each relation to…
+├── Verdict: Vaisesika needs samavaya because conjunction cannot explain the…
+│
+└── Nyāya-Vaiśeṣika explains how real substances, qualities, relations…
+└── Nyāya explains illusion through anyathākhyāti
+└── "A fair verdict is graded: Nyāya-Vaiśeṣika gives Indian philosophy…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Nyāya–Vaiśeṣika: integrated revision and answer-writing spine
+
+```ascii-master
+NYĀYA–VAIŚEṢIKA — ANSWER / REVISION SPINE
+
+
+KEY TERMS: Nyāya • Vaiśeṣika • realism • pramāṇa • padārtha • atomism
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ Nyāya supplies pramāṇa theory and argumentative method, while…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ Nyāya
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ pakṣadharmatā — the hetu is present in the subject under…
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ realism
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ Nyāya and Vaiśeṣika are historically distinct but later fused
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ "A fair verdict is graded: Nyāya-Vaiśeṣika gives Indian philosophy…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

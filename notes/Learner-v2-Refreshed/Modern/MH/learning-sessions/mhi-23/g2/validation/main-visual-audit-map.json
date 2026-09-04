@@ -1,0 +1,1867 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-23\\g2\\modern-indian-history-23_Complete-Learning-Session_2026-08-31.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-23\\g2\\modern-indian-history-23_Complete-Learning-Session_2026-08-31.pdf",
+  "mode": "main",
+  "topic_key": "modern-indian-history-23",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 16,
+      "markdown_body_line_end": 23,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 423.091
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 125.69
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 45,
+      "markdown_body_line_end": 45,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-23\\g2\\assets\\modern-indian-history-23_Teaching-Navigation_2026-08-31.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 517.891
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 210.356
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 59,
+      "markdown_body_line_end": 59,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Chronology is the organising discipline for this topic: pre-1930 organisations are roots, the 1930s are the core phase, and 1945-46 movements are consequences or late-colonial bridges.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 81,
+      "heading": "VISUAL FIRST",
+      "preview": "SCOPE MAP: ROOTS, 1930S CORE AND LATE-COLONIAL BRIDGES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 356.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 117,
+      "markdown_body_line_end": 134,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - SCOPE MAP: ROOTS, 1930S CORE AND LATE-COLONIAL BRIDGES",
+      "preview": "START / CONCEPT: FOUNDATION — Scope map: roots, 1930s core and late-colonial bridges",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 213
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 683.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 462.491
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 145,
+      "markdown_body_line_end": 145,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: AITUC was an all-India trade-union platform that organised industrial labour as a distinct political constituency within anti-colonial India.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 336.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 270.224
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 160,
+      "markdown_body_line_end": 167,
+      "heading": "VISUAL FIRST",
+      "preview": "AITUC AND THE LABOUR CONSTITUENCY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 203,
+      "markdown_body_line_end": 220,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - AITUC AND THE LABOUR CONSTITUENCY",
+      "preview": "START / CONCEPT: FOUNDATION — AITUC and the labour constituency",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 190
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 299.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 88.891
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 231,
+      "markdown_body_line_end": 231,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Roy is associated with the Tashkent formation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 246,
+      "markdown_body_line_end": 253,
+      "heading": "VISUAL FIRST",
+      "preview": "COMMUNIST CHRONOLOGY: TASHKENT, KANPUR AND WPP",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 455.624
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 384.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 289,
+      "markdown_body_line_end": 306,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - COMMUNIST CHRONOLOGY: TASHKENT, KANPUR AND WPP",
+      "preview": "START / CONCEPT: FOUNDATION — Communist chronology: Tashkent, Kanpur and WPP",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 184
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 702.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 511.491
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 317,
+      "markdown_body_line_end": 317,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Meerut was a colonial conspiracy prosecution whose political effect combined organisational repression with unintended ideological publicity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 385.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 319.224
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 332,
+      "markdown_body_line_end": 339,
+      "heading": "VISUAL FIRST",
+      "preview": "MEERUT CONSPIRACY CASE: REPRESSION AND PUBLICITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 375,
+      "markdown_body_line_end": 392,
+      "heading": "CLOSING RECALL FLOW - CORE - MEERUT CONSPIRACY CASE: REPRESSION AND PUBLICITY",
+      "preview": "START / CONCEPT: CORE — Meerut Conspiracy Case: repression and publicity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 190
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 299.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 98.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 403,
+      "markdown_body_line_end": 403,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The CSP was an organised socialist current inside Congress that combined commitment to national unity with pressure for social transformation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 418,
+      "markdown_body_line_end": 425,
+      "heading": "VISUAL FIRST",
+      "preview": "CONGRESS SOCIALIST PARTY INSIDE CONGRESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 342.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 461,
+      "markdown_body_line_end": 478,
+      "heading": "CLOSING RECALL FLOW - CORE - CONGRESS SOCIALIST PARTY INSIDE CONGRESS",
+      "preview": "START / CONCEPT: CORE — Congress Socialist Party inside Congress",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 191
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 452.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 489,
+      "markdown_body_line_end": 489,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not call AIKS the beginning of organised peasant politics or swap Sahajanand's presidency and Ranga's secretaryship.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 326.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 260.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 504,
+      "markdown_body_line_end": 512,
+      "heading": "VISUAL FIRST",
+      "preview": "BIHAR KISAN SABHA TO AIKS: LEADERSHIP AND KISAN MANIFESTO",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 550,
+      "markdown_body_line_end": 567,
+      "heading": "CLOSING RECALL FLOW - CORE - BIHAR KISAN SABHA TO AIKS: LEADERSHIP AND KISAN MANIFESTO",
+      "preview": "START / CONCEPT: CORE — Bihar Kisan Sabha to AIKS: leadership and Kisan Manifesto",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 158
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 578,
+      "markdown_body_line_end": 578,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not reduce Faizpur to venue symbolism; retain its programme content.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 469.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 417.224
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 593,
+      "markdown_body_line_end": 603,
+      "heading": "VISUAL FIRST",
+      "preview": "FAIZPUR AND THE AGRARIAN PROGRAMME",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 639,
+      "markdown_body_line_end": 656,
+      "heading": "CLOSING RECALL FLOW - CORE - FAIZPUR AND THE AGRARIAN PROGRAMME",
+      "preview": "START / CONCEPT: CORE — Faizpur and the agrarian programme",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 188
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 269.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 58.891
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 667,
+      "markdown_body_line_end": 667,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The social-content chain is the staged institutional adoption of rights, agrarian reform and planning within a broad nationalist coalition.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 682,
+      "markdown_body_line_end": 690,
+      "heading": "VISUAL FIRST",
+      "preview": "KARACHI-FAIZPUR-PLANNING SOCIAL-CONTENT CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 346.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 726,
+      "markdown_body_line_end": 743,
+      "heading": "CLOSING RECALL FLOW - CORE - KARACHI-FAIZPUR-PLANNING SOCIAL-CONTENT CHAIN",
+      "preview": "START / CONCEPT: CORE — Karachi-Faizpur-planning social-content chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 188
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 696.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 475.491
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 754,
+      "markdown_body_line_end": 754,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not judge the ministries as either complete betrayal or complete fulfilment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 349.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 297.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 769,
+      "markdown_body_line_end": 777,
+      "heading": "VISUAL FIRST",
+      "preview": "CONGRESS MINISTRIES: ACHIEVEMENTS AND STRUCTURAL LIMITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 813,
+      "markdown_body_line_end": 830,
+      "heading": "CLOSING RECALL FLOW - CORE - CONGRESS MINISTRIES: ACHIEVEMENTS AND STRUCTURAL LIMITS",
+      "preview": "START / CONCEPT: CORE — Congress Ministries: achievements and structural limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 193
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 289.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 68.891
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 841,
+      "markdown_body_line_end": 841,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: AISPC was the coordinating platform for democratic movements inside princely India, a political field distinct from British provincial government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 856,
+      "markdown_body_line_end": 863,
+      "heading": "VISUAL FIRST",
+      "preview": "AISPC ORIGINS AND THE PRINCELY-STATE POLITICAL FIELD",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 327.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 899,
+      "markdown_body_line_end": 916,
+      "heading": "CLOSING RECALL FLOW - CORE - AISPC ORIGINS AND THE PRINCELY-STATE POLITICAL FIELD",
+      "preview": "START / CONCEPT: CORE — AISPC origins and the princely-state political field",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 245
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 442.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 927,
+      "markdown_body_line_end": 927,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mains: Use Rajkot to explain a policy transition rather than a sudden total reversal.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 316.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 264.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 942,
+      "markdown_body_line_end": 949,
+      "heading": "VISUAL FIRST",
+      "preview": "PRAJA MANDALS, RAJKOT AND CHANGING CONGRESS POLICY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 985,
+      "markdown_body_line_end": 1002,
+      "heading": "CLOSING RECALL FLOW - CORE - PRAJA MANDALS, RAJKOT AND CHANGING CONGRESS POLICY",
+      "preview": "START / CONCEPT: CORE — Praja Mandals, Rajkot and changing Congress policy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 184
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 285.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 64.691
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1013,
+      "markdown_body_line_end": 1013,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not place Forward Bloc before Tripuri or treat the crisis as only personal.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1028,
+      "markdown_body_line_end": 1035,
+      "heading": "VISUAL FIRST",
+      "preview": "HARIPURA, TRIPURI AND THE FORWARD BLOC",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 455.624
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 384.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1071,
+      "markdown_body_line_end": 1088,
+      "heading": "CLOSING RECALL FLOW - CORE - HARIPURA, TRIPURI AND THE FORWARD BLOC",
+      "preview": "START / CONCEPT: CORE — Haripura, Tripuri and the Forward Bloc",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 243
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 716.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 485.691
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1099,
+      "markdown_body_line_end": 1099,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Ulgulan was Birsa Munda's 1899-1900 tribal revolt linking local land and outsider grievances to an explicitly anti-colonial political horizon.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 360.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 293.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1114,
+      "markdown_body_line_end": 1124,
+      "heading": "VISUAL FIRST",
+      "preview": "BIRSA ULGULAN AS GENEALOGY, NOT 1930S CHRONOLOGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1160,
+      "markdown_body_line_end": 1177,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - BIRSA ULGULAN AS GENEALOGY, NOT 1930S CHRONOLOGY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Birsa Ulgulan as genealogy, not 1930s chronology",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 191
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 256.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 45.891
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1188,
+      "markdown_body_line_end": 1188,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The late-colonial bridge is the post-1930s radicalisation of agrarian and labour conflicts through class organisation and weakening state authority.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1203,
+      "markdown_body_line_end": 1211,
+      "heading": "VISUAL FIRST",
+      "preview": "LATE-COLONIAL AGRARIAN BRIDGES AFTER THE 1930S",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 317.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1247,
+      "markdown_body_line_end": 1264,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - LATE-COLONIAL AGRARIAN BRIDGES AFTER THE 1930S",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Late-colonial agrarian bridges after the 1930s",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 258
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 649.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 408.091
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1275,
+      "markdown_body_line_end": 1275,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Agenda transformation means that organised social constituencies altered Congress commitments even though no single left organisation captured the nationalist coalition.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 254.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 187.424
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1290,
+      "markdown_body_line_end": 1299,
+      "heading": "VISUAL FIRST",
+      "preview": "SYNTHESIS: SOCIAL TRANSFORMATION WITHIN A BROAD COALITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 642.691
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1335,
+      "markdown_body_line_end": 1352,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - SYNTHESIS: SOCIAL TRANSFORMATION WITHIN A BROAD COALITION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Synthesis: social transformation within a broad coalition",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 275
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2165,
+      "markdown_body_line_end": 2167,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 751.091
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 670.224
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2173,
+      "markdown_body_line_end": 2175,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 618.624
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 521.722
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2181,
+      "markdown_body_line_end": 2181,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 482.522
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 437.854
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2188,
+      "markdown_body_line_end": 2190,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 437.854
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 356.987
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2196,
+      "markdown_body_line_end": 2198,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 305.387
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 229.485
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2204,
+      "markdown_body_line_end": 2204,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 190.285
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 145.617
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2209,
+      "markdown_body_line_end": 2210,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 145.617
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 78.95
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2216,
+      "markdown_body_line_end": 2220,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 564.19
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2228,
+      "markdown_body_line_end": 2228,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 490.59
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 445.922
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2495,
+      "markdown_body_line_end": 2508,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 735.091
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 433.69
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2531,
+      "markdown_body_line_end": 2541,
+      "heading": "2. Key classification / data",
+      "preview": "Current | Organisation / leaders | Advanced interpretation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Current",
+          "Organisation / leaders",
+          "Advanced interpretation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 752.891
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 470.29
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2545,
+      "markdown_body_line_end": 2547,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Earlier Gandhian peasant laboratories → `advanced/19_Gandhis-Rise-Rowlatt-and-Jallianwala.md`. **Study link:** ✅ Karachi resolution and CDM social base → `advanced/22_Simon-Nehru-Report-CDM-and-RTC.md`. **Study link:** ✅ C",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 470.29
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 361.022
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2563,
+      "markdown_body_line_end": 2563,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: \"Left influence\" does not mean Congress became communist; it means socialist and class-based demands pressured the mainstream nationalist agenda.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 170.022
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 103.354
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2589,
+      "markdown_body_line_end": 2597,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Roots-core-bridges chronology",
+      "preview": "ROOTS -> AITUC 1920 | Kanpur 1925 | AISPC 1927 | Bihar Sabha 1929",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 388.491
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 306.091
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2601,
+      "markdown_body_line_end": 2606,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: AITUC versus AIKS",
+      "preview": "AITUC -> 1920 -> industrial labour -> Lala Lajpat Rai first president",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2610,
+      "markdown_body_line_end": 2615,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Two-date communist chronology",
+      "preview": "TASHKENT 1920 -> international/emigre communist formation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2619,
+      "markdown_body_line_end": 2625,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Meerut repression-publicity paradox",
+      "preview": "1929 -> arrests target communist and trade-union networks",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 577.691
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2629,
+      "markdown_body_line_end": 2634,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: CSP inside-Congress map",
+      "preview": "BOMBAY, OCTOBER 1934 -> CSP formed within Congress",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 555.691
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 503.891
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2638,
+      "markdown_body_line_end": 2643,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Kisan organisation ladder",
+      "preview": "1929 -> Bihar Provincial Kisan Sabha -> Sahajanand Saraswati",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 481.891
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 430.091
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2647,
+      "markdown_body_line_end": 2652,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Karachi-Faizpur-planning chain",
+      "preview": "KARACHI 1931 -> rights + labour + economic programme",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 408.091
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 356.291
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2656,
+      "markdown_body_line_end": 2661,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Congress ministry gap",
+      "preview": "ACHIEVEMENT -> provincial tenancy and labour reforms",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 334.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 282.491
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2665,
+      "markdown_body_line_end": 2670,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: AISPC and Praja Mandal field",
+      "preview": "DECEMBER 1927 -> first AISPC convention",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2674,
+      "markdown_body_line_end": 2683,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Rajkot policy transition",
+      "preview": "HARIPURA 1938 -> Congress reiterates restraint",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2687,
+      "markdown_body_line_end": 2695,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Bose institutional sequence",
+      "preview": "HARIPURA 1938 -> Bose president",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 598.891
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 516.491
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2699,
+      "markdown_body_line_end": 2704,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Genealogy and late bridges",
+      "preview": "1899-1900 -> Birsa Ulgulan: tribal anti-colonial genealogy",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 494.491
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 442.691
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    }
+  ]
+}

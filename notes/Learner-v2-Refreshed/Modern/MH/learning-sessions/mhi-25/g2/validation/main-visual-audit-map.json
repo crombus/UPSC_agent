@@ -1,0 +1,1786 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\modern-indian-history-25_Complete-Learning-Session_2026-08-31.pdf",
+  "mode": "main",
+  "topic_key": "modern-indian-history-25",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 16,
+      "markdown_body_line_end": 23,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 380.491
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 83.09
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 45,
+      "markdown_body_line_end": 45,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-25\\g2\\assets\\modern-indian-history-25_Teaching-Navigation_2026-08-31.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 155.756
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 59,
+      "markdown_body_line_end": 59,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Unconsulted belligerency refers to the Viceroy's 3 September 1939 declaration of India as a party to the war without any prior consultation of Indian political opinion.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 80,
+      "heading": "VISUAL FIRST",
+      "preview": "UNCONSULTED BELLIGERENCY: 3 SEPTEMBER 1939",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 337.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 116,
+      "markdown_body_line_end": 133,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - UNCONSULTED BELLIGERENCY: 3 SEPTEMBER 1939",
+      "preview": "START / CONCEPT: FOUNDATION — Unconsulted belligerency: 3 September 1939",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 217
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 649.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 418.091
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 144,
+      "markdown_body_line_end": 144,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Core claim: The war declaration triggered a connected chain of party responses — Congress resignation, the League's Deliverance Day, and eventually the Lahore Resolution — that must be read as linked stages, not one flattened event.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 249.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 169.024
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 159,
+      "markdown_body_line_end": 165,
+      "heading": "VISUAL FIRST",
+      "preview": "RESIGNATION TO THE LAHORE RESOLUTION: THE CONNECTED CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 672.691
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 201,
+      "markdown_body_line_end": 218,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - RESIGNATION TO THE LAHORE RESOLUTION: THE CONNECTED CHAIN",
+      "preview": "START / CONCEPT: FOUNDATION — Resignation to the Lahore Resolution: the connected chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 261
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 229,
+      "markdown_body_line_end": 229,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not describe the August Offer as granting immediate self-government; its constitution-making promise was conditional and deferred to after the war.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 407.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 341.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 244,
+      "markdown_body_line_end": 250,
+      "heading": "VISUAL FIRST",
+      "preview": "AUGUST OFFER, 1940: PROMISE AND ITS MINORITY-CONSENT VETO",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 286,
+      "markdown_body_line_end": 303,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - AUGUST OFFER, 1940: PROMISE AND ITS MINORITY-CONSENT VETO",
+      "preview": "START / CONCEPT: FOUNDATION — August Offer, 1940: promise and its minority-consent veto",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 179
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 240.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 786.291
+        }
+      },
+      "pdf_pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 314,
+      "markdown_body_line_end": 314,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Core claim: Individual Satyagraha, beginning 17 October 1940, was a deliberately narrow campaign with a named first and second satyagrahi and a limited anti-war free-speech objective, not a mass movement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 632.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 565.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 329,
+      "markdown_body_line_end": 335,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIVIDUAL SATYAGRAHA: SEQUENCE AND ITS LIMITED OBJECTIVE",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 385.024
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 324.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 371,
+      "markdown_body_line_end": 388,
+      "heading": "CLOSING RECALL FLOW - CORE - INDIVIDUAL SATYAGRAHA: SEQUENCE AND ITS LIMITED OBJECTIVE",
+      "preview": "START / CONCEPT: CORE — Individual Satyagraha: sequence and its limited objective",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 233
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 620.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 389.691
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 399,
+      "markdown_body_line_end": 399,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "State the Cripps proposals as a post-war promise; do not describe them as offering any immediate constitutional change during the war.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 249.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 183.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 414,
+      "markdown_body_line_end": 420,
+      "heading": "VISUAL FIRST",
+      "preview": "CRIPPS MISSION: ARRIVAL AND THE MARCH 1942 PROPOSALS",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 686.891
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 456,
+      "markdown_body_line_end": 473,
+      "heading": "CLOSING RECALL FLOW - CORE - CRIPPS MISSION: ARRIVAL AND THE MARCH 1942 PROPOSALS",
+      "preview": "START / CONCEPT: CORE — Cripps Mission: arrival and the March 1942 proposals",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 226
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 484,
+      "markdown_body_line_end": 484,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The opt-out clause let provinces and princely states decline to join the proposed post-war Indian union, while princely representation in the constitution-making body was by ruler nomination rather than election.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 388.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 321.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 499,
+      "markdown_body_line_end": 505,
+      "heading": "VISUAL FIRST",
+      "preview": "CRIPPS SCHEME: OPT-OUT CLAUSE AND RULER-NOMINATED PRINCELY SEATS",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 541,
+      "markdown_body_line_end": 558,
+      "heading": "CLOSING RECALL FLOW - CORE - CRIPPS SCHEME: OPT-OUT CLAUSE AND RULER-NOMINATED PRINCELY SEATS",
+      "preview": "START / CONCEPT: CORE — Cripps scheme: opt-out clause and ruler-nominated princely seats",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 261
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 569,
+      "markdown_body_line_end": 569,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: British wartime control refers to the Cripps scheme's retention of defence and overall war conduct under British authority, alongside its offer of no immediate responsible national cabinet.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 403.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 336.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 584,
+      "markdown_body_line_end": 590,
+      "heading": "VISUAL FIRST",
+      "preview": "BRITISH WARTIME CONTROL AND THE ABSENCE OF AN IMMEDIATE CABINET",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 626,
+      "markdown_body_line_end": 643,
+      "heading": "CLOSING RECALL FLOW - CORE - BRITISH WARTIME CONTROL AND THE ABSENCE OF AN IMMEDIATE CABINET",
+      "preview": "START / CONCEPT: CORE — British wartime control and the absence of an immediate cabinet",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 238
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 654,
+      "markdown_body_line_end": 654,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Multi-party rejection describes how Congress, the Muslim League, Sikh and Hindu Mahasabha opinion, and some princely opinion each rejected the Cripps proposals for their own distinct reasons.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 385.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 318.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 669,
+      "markdown_body_line_end": 676,
+      "heading": "VISUAL FIRST",
+      "preview": "MULTI-PARTY REJECTION: DIFFERENT GROUPS, DIFFERENT REASONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 712,
+      "markdown_body_line_end": 729,
+      "heading": "CLOSING RECALL FLOW - CORE - MULTI-PARTY REJECTION: DIFFERENT GROUPS, DIFFERENT REASONS",
+      "preview": "START / CONCEPT: CORE — Multi-party rejection: different groups, different reasons",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 240
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 258.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 786.291
+        }
+      },
+      "pdf_pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 740,
+      "markdown_body_line_end": 740,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The post-dated cheque phrase is Gandhi's characterisation of the Cripps proposals as a promise deferred to an uncertain future, retained here only in its shorter, better-attested form.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 660.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 594.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 755,
+      "markdown_body_line_end": 761,
+      "heading": "VISUAL FIRST",
+      "preview": "THE 'POST-DATED CHEQUE' PHRASE AND ITS CAUTIOUS USE",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 399.224
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 338.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 797,
+      "markdown_body_line_end": 814,
+      "heading": "CLOSING RECALL FLOW - CORE - THE 'POST-DATED CHEQUE' PHRASE AND ITS CAUTIOUS USE",
+      "preview": "START / CONCEPT: CORE — The 'post-dated cheque' phrase and its cautious use",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 233
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 649.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 418.091
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 825,
+      "markdown_body_line_end": 825,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The two-stage Quit India resolution is the sequence in which the Congress Working Committee approved the resolution at Wardha on 14 July 1942 before the All-India Congress Committee ratified it at Bombay on 8 August 1942",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 264.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 183.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 840,
+      "markdown_body_line_end": 845,
+      "heading": "VISUAL FIRST",
+      "preview": "QUIT INDIA'S TWO-STAGE RESOLUTION: WARDHA THEN BOMBAY",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 682.691
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 881,
+      "markdown_body_line_end": 898,
+      "heading": "CLOSING RECALL FLOW - CORE - QUIT INDIA'S TWO-STAGE RESOLUTION: WARDHA THEN BOMBAY",
+      "preview": "START / CONCEPT: CORE — Quit India's two-stage resolution: Wardha then Bombay",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 270
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 909,
+      "markdown_body_line_end": 909,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This was the following morning and calendar day after the AICC's 8 August 1942 Bombay ratification, not a full 24 hours later.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 406.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 339.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 924,
+      "markdown_body_line_end": 930,
+      "heading": "VISUAL FIRST",
+      "preview": "OPERATION ZERO HOUR: ARRESTS THE FOLLOWING MORNING",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 966,
+      "markdown_body_line_end": 983,
+      "heading": "CLOSING RECALL FLOW - CORE - OPERATION ZERO HOUR: ARRESTS THE FOLLOWING MORNING",
+      "preview": "START / CONCEPT: CORE — Operation Zero Hour: arrests the following morning",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 221
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 994,
+      "markdown_body_line_end": 994,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Aruna Asaf Ali is associated with hoisting the Congress flag at Gowalia Tank in Bombay after the leaders' arrest.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1009,
+      "markdown_body_line_end": 1015,
+      "heading": "VISUAL FIRST",
+      "preview": "DO OR DIE, GOWALIA TANK AND THE UNDERGROUND RESISTANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1051,
+      "markdown_body_line_end": 1068,
+      "heading": "CLOSING RECALL FLOW - CORE - DO OR DIE, GOWALIA TANK AND THE UNDERGROUND RESISTANCE",
+      "preview": "START / CONCEPT: CORE — Do or Die, Gowalia Tank and the underground resistance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 260
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1079,
+      "markdown_body_line_end": 1079,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Parallel national governments were locally declared alternative administrations during Quit India, including Ballia, the Jatiya Sarkar at Tamluk in Midnapore, and the Prati Sarkar at Satara.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1094,
+      "markdown_body_line_end": 1101,
+      "heading": "VISUAL FIRST",
+      "preview": "PARALLEL NATIONAL GOVERNMENTS: BALLIA, TAMLUK AND SATARA",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1137,
+      "markdown_body_line_end": 1154,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PARALLEL NATIONAL GOVERNMENTS: BALLIA, TAMLUK AND SATARA",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Parallel national governments: Ballia, Tamluk and Satara",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 239
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 258.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 37.491
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1165,
+      "markdown_body_line_end": 1165,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Quit India drew a genuinely broad social base and regionally varied intensity, faced harsh repression that must be stated cautiously, and saw distinctly different political groups align in different ways.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1180,
+      "markdown_body_line_end": 1187,
+      "heading": "VISUAL FIRST",
+      "preview": "SOCIAL BASE, REPRESSION CAUTION AND POLITICAL ALIGNMENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 342.024
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1223,
+      "markdown_body_line_end": 1240,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - SOCIAL BASE, REPRESSION CAUTION AND POLITICAL ALIGNMENTS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Social base, repression caution and political alignments",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 233
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 607.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 376.691
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1251,
+      "markdown_body_line_end": 1251,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Core claim: Quit India was suppressed within months, and it did not by itself win independence, but it demonstrated the depth of popular anti-colonial sentiment — exactly the balance a verified 2024 Mains question asks candidates to strike.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 222.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 141.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1266,
+      "markdown_body_line_end": 1273,
+      "heading": "VISUAL FIRST",
+      "preview": "RESULTS OF QUIT INDIA AND THE 2024 MAINS ANCHOR",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 699.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 628.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1309,
+      "markdown_body_line_end": 1326,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - RESULTS OF QUIT INDIA AND THE 2024 MAINS ANCHOR",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Results of Quit India and the 2024 Mains anchor",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 269
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2139,
+      "markdown_body_line_end": 2140,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 515.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 448.624
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2146,
+      "markdown_body_line_end": 2148,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 397.024
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 321.122
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2154,
+      "markdown_body_line_end": 2154,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 281.922
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 237.254
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2161,
+      "markdown_body_line_end": 2163,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 237.254
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 156.387
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2169,
+      "markdown_body_line_end": 2172,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 685.89
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2179,
+      "markdown_body_line_end": 2179,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 629.49
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 584.822
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2398,
+      "markdown_body_line_end": 2406,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 764.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 546.49
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2426,
+      "markdown_body_line_end": 2435,
+      "heading": "2. Key classification / data",
+      "preview": "Debate / dimension | Advanced takeaway",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Debate / dimension",
+          "Advanced takeaway"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 503.49
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2439,
+      "markdown_body_line_end": 2441,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Congress ministries and provincial autonomy → `advanced/24_Government-of-India-Act-1935-and-Congress-Ministries.md`. **Study link:** ✅ Post-war armed-forces disaffection and INA trials → `advanced/26_Post-War-Upsurge-INA-R",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 503.49
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 394.222
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2456,
+      "markdown_body_line_end": 2456,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Quit India was not a simple centrally planned campaign; it became a **leaderless but not purposeless** mass upsurge after arrests.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 220.422
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 153.754
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2481,
+      "markdown_body_line_end": 2489,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Unconsulted belligerency and the response chain",
+      "preview": "3 SEP 1939 -> Viceroy declares India a belligerent, no consultation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 368.891
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2493,
+      "markdown_body_line_end": 2498,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: August Offer: promise and minority-consent veto",
+      "preview": "8 AUG 1940 -> AUGUST OFFER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 346.891
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 295.091
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2502,
+      "markdown_body_line_end": 2507,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Individual Satyagraha: sequence and limited objective",
+      "preview": "17 OCT 1940 -> Vinoba Bhave, first satyagrahi",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2511,
+      "markdown_body_line_end": 2516,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Cripps arrival and the March 1942 proposals",
+      "preview": "MAR 1942 -> Cripps arrives in India",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2520,
+      "markdown_body_line_end": 2525,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Cripps scheme: opt-out and princely nomination",
+      "preview": "OPT-OUT -> any province or princely state may not join the new union",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2529,
+      "markdown_body_line_end": 2534,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: British wartime control and no immediate cabinet",
+      "preview": "DEFENCE + WAR CONDUCT -> remain under British control throughout the war",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2538,
+      "markdown_body_line_end": 2543,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Multi-party rejection of the Cripps proposals",
+      "preview": "CONGRESS -> deferred, conditional offer; no immediate responsible government",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2547,
+      "markdown_body_line_end": 2552,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Post-dated cheque phrase, cautious provenance",
+      "preview": "SHORT PHRASE -> \"post-dated cheque\" -> well attested, safe to use",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2556,
+      "markdown_body_line_end": 2561,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Quit India's two-stage resolution",
+      "preview": "14 JUL 1942, WARDHA -> Congress Working Committee approves resolution",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 292.691
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2565,
+      "markdown_body_line_end": 2573,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Operation Zero Hour, the following morning after Bombay",
+      "preview": "8 AUG 1942 -> AICC ratifies Quit India resolution at Bombay",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2577,
+      "markdown_body_line_end": 2585,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Do or Die, Gowalia Tank and underground resistance",
+      "preview": "8 AUG 1942 -> Gandhi's \"Do or Die\" call, before his arrest",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2589,
+      "markdown_body_line_end": 2594,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Parallel governments, social base and results",
+      "preview": "PARALLEL GOVERNMENTS -> Ballia; Jatiya Sarkar (Tamluk); Prati Sarkar (Satara)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 526.691
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    }
+  ]
+}

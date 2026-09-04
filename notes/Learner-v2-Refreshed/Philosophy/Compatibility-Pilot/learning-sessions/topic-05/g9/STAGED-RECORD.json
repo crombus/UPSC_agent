@@ -1,0 +1,103 @@
+{
+  "record_id": "philosophy-paper-i-indian-philosophy-05:learner-v2:g9",
+  "topic_key": "philosophy-paper-i-indian-philosophy-05",
+  "variant": "learner-v2",
+  "generation": 9,
+  "supersedes": "philosophy-paper-i-indian-philosophy-05:learner-v2:g8",
+  "command": "Generate learner-v2 topic: Philosophy Optional — Philosophy Paper I — Indian Philosophy — Samkhya — Learner-v2 refreshed — Learner-v2 semantic-aid repair — Learner-v2 refreshed — Notions-style ASCII-master repair",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-05\\g9\\topic-05_Complete-Learning-Session_2026-08-23.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-05\\g9\\topic-05_Solved-Practice-Workbook_2026-08-23.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-05\\g9\\topic-05_Complete-Learning-Session_2026-08-23.md",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-philosophy-layered-source-complete",
+    "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Samkhya.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Samkhya\\Samkhya_Layered-Complete-Learning-Session_2026-08-18.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Samkhya.md",
+    "legacy_v1_source_package": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Samkhya\\Samkhya_Layered-Complete-Learning-Session_2026-08-18.md",
+    "legacy_v1_workbook": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Samkhya\\Samkhya_Layered-Solved-Practice-Workbook_2026-08-18.md",
+    "pyq_corpus": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md",
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-05\\g9\\topic-05_Complete-Learning-Session_2026-08-23.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.1"
+    },
+    "generation_date": "2026-08-23",
+    "superseded_v1": "philosophy-paper-i-indian-philosophy-05:legacy-v1:g1",
+    "reused_legacy_assets": [
+      "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Samkhya\\assets\\05_Samkhya-One-Three-TwentyFive.png"
+    ],
+    "migration_note": "Layered teaching was preserved and reordered into learner-v2 sequence. The legacy 32-question practice was replaced by 48 diagnostics and the original solved set expanded from three to six.",
+    "retrofit": {
+      "id": "continuous-core-first-2026-08-22",
+      "source_record": "philosophy-paper-i-indian-philosophy-05:learner-v2:g4",
+      "closure_flow": "source-derived and placed after every BASIC H3",
+      "workbook": "byte-preserved; no practice content changed",
+      "flowchart": "new continuous core-first same-master companion"
+    },
+    "refresh": {
+      "id": "notions-style-ascii-master-repair-2026-08-23",
+      "source_record": "philosophy-paper-i-indian-philosophy-05:learner-v2:g8",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-05\\g8\\topic-05_Complete-Learning-Session_2026-08-23.md",
+      "source_hashes": {
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-05\\carvaka-g8\\ascii-master.txt": "2051aae2e17bd3a23f9ec63cae1ef5ec50b64bee0f7783f873137c9498249648",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-05\\carvaka-g8\\editable\\flowchart-data.json": "fc568ce0cc6a60a3f8de56304510c36837f9a7fe5362514efd6a01ffe2a936c3",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-05\\carvaka-g8\\editable\\README.txt": "691b325ba328333680e06e20926382872adbc91fcc69190ecfc6934fde2c8d25",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-05\\carvaka-g8\\master.png": "cfdf06feb1bb8e25d90635b2b0a0039f059658fb34f47aa276896d0a94d982d8",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-05\\carvaka-g8\\poster.pdf": "38152c1d50cb53d75f7574ea6bda8ca800146ba705bc5b3b1170d636055f81a7",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-05\\carvaka-g8\\previews\\contact-sheet-01.png": "1e6ca78180f527a1c0862a8e6a6746fe56b57e6701425996dda0d8079d3a33a6",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-05\\carvaka-g8\\previews\\page-001.png": "80880e9a4bd8086ef80990ea177c477d286344866726af0b5bac143dcd0bef48",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-05\\carvaka-g8\\previews\\page-002.png": "13a091ef357cc78e4b26d0c8c1082613ac9d9874a950d66abdec254c8e4c2d79",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-05\\carvaka-g8\\previews\\page-003.png": "dba82f141a6e38137b41fe5d08e9bca30915c7b06f8f77f1d33d943c85a3f02d",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-05\\carvaka-g8\\previews\\page-004.png": "d24d757d0a32c33f151943f58ca004c2fa9ea44619523e9fd0a7bdb80bed21ac",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-05\\carvaka-g8\\previews\\page-005.png": "d1ebcd27686b4b6747a5ac76732bebdcdf4a32b880cc62c1c37526a32573fe28",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-05\\carvaka-g8\\tiled.pdf": "2e741d73889bd2206e977efba76479e4098206fd1615865e229335303a470345",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-05\\carvaka-g8\\validation-report.txt": "cab515754eae8cbbbccf0acd402ecad57998a268f81f2271515250be2d938c79",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-05\\g8\\topic-05_Complete-Learning-Session_2026-08-23.pdf": "aafb733a0cbb37450666c9952ed37c28574bb7e723e63fb315b922a0f576781c",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-05\\g8\\topic-05_Solved-Practice-Workbook_2026-08-23.pdf": "73175c9b0e9f480fb0a97ce4bf275170002cf9b68ecad16e86a1019c14a25dc8",
+        "tools\\markdown_learning_pdf.py": "394a0e26d0f972ebaab1015cd57da26c7b24951143162d3bc43d86d7ae67ca29",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-05\\g7\\topic-05_Complete-Learning-Session_2026-08-23.md": "737a88b0bb710a2754d1a7b1846a7683c6aa83bac6853b87836000438b2f84f8",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-05\\g8\\assets\\05_Samkhya-One-Three-TwentyFive.png": "d888beee4844b946c64029aabbe43d1fb139f999fc07d64071bae2c9cf8d6afc",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-05\\g8\\assets\\topic-05_Teaching-Navigation_2026-08-23.png": "73fb5e9b289cc1f686e22ec0e3efbfb4d0b1b2fbe1fc960ac39ecaf3bdd06cda",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-05\\g8\\topic-05_Complete-Learning-Session_2026-08-23.md": "f9cbc959a1ab6425e6a9f5cd16ff78a76bb6165016a63291a8474b6dff516fbc",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-05\\g8\\topic-05_Solved-Practice-Workbook_2026-08-23.md": "76a142e67339d22d2011f949f7279afb0af0f414f1c69ac5f47f7c139dda0bd0",
+        "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Samkhya\\assets\\05_Samkhya-One-Three-TwentyFive.png": "d888beee4844b946c64029aabbe43d1fb139f999fc07d64071bae2c9cf8d6afc",
+        "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Samkhya\\Samkhya_Layered-Complete-Learning-Session_2026-08-18.md": "557f5e83ec8de59d2dc725f67a8888838af1595d0136b6a758b435c6ec9d5267",
+        "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Samkhya\\Samkhya_Layered-Solved-Practice-Workbook_2026-08-18.md": "8ba05769015037e853949260bf70375895da445ca589fcde3873b70ac7953ea1",
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md": "ba401dde672f4bab8a9dc4580a434be6ced246e9a81b5150b45cbeded9079fd1",
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Samkhya.md": "876f834f85490462f7d0cc3f01af40bc00db2bf94a143d6959ffeee6cd3daf24"
+      },
+      "session_contract": "named-session definition/opening/keywords/use/closure",
+      "mcq_keys": "stable-topic-seed balanced deterministic non-patterned",
+      "tracker_updated": false,
+      "tracker_sha256": "ca3c2aaee6c94d66433ca51735980a5fd94bc198ad4d5fc040ef5c9f7edf0776"
+    }
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "philosophy-paper-i-indian-philosophy-05:learner-v2:g9"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-23",
+    "validator": "tools/refresh_all_v2_learning_sessions.py + tools/validate_v2_export.py"
+  },
+  "generated_on": "2026-08-23",
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-05\\carvaka-g9",
+    "master_image": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-05\\carvaka-g9\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-05\\carvaka-g9\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-05\\carvaka-g9\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-05\\carvaka-g9\\editable",
+    "previews": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-05\\carvaka-g9\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-05\\carvaka-g9\\previews\\contact-sheet-01.png"
+    ],
+    "validation_report": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-05\\carvaka-g9\\validation-report.txt",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-05\\carvaka-g9\\ascii-master.txt"
+  },
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-05\\g9\\topic-05_Solved-Practice-Workbook_2026-08-23.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-05\\g9\\assets",
+  "refresh_profile": "notions-style-ascii-master-repair-2026-08-23"
+}

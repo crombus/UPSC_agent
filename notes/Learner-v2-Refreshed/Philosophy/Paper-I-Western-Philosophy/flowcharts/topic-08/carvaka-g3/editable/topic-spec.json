@@ -1,0 +1,907 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-i-western-philosophy-08",
+  "subject": "Philosophy",
+  "title": "LATER WITTGENSTEIN",
+  "short_route": "TRANSITION FROM PICTURE AND → MEANING AND USE BEYOND → OSTENSIVE DEFINITION, BACKGROUND GRAMMAR → LANGUAGE-GAMES, GRAMMAR AND ORGANISED → FORMS OF LIFE, AGREEMENT → RULE-FOLLOWING, FINITE INSTRUCTION AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g3\\topic-08_Complete-Learning-Session_2026-08-29.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-western-philosophy-08-ascii-2026-08-26.json",
+  "ascii_spec_sha256": "a0c9c94c6d60237966c3e251af89086d08e665968bcccccf035d48cac669ea69",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TRANSITION FROM PICTURE AND LOGICAL FORM TO DESCRIPTIVE THERAPY",
+      "structural_type": "continuity-discontinuity-bridge",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TRACTATUS: PICTURE + LOGICAL FORM",
+          "role": "primary"
+        },
+        {
+          "text": "INVESTIGATIONS: REMARKS + DESCRIPTION",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTINUITY: CLARIFICATION AND LIMITS",
+          "role": "evidence"
+        },
+        {
+          "text": "DISCONTINUITY: NO ONE HIDDEN ESSENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT A NEW UNIVERSAL USE THEORY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "START → Tractatus: proposition pictures a possible fact through shared logical form.",
+        "EARLY AIM → philosophy clarifies limits of sense; factual saying differs from showing.",
+        "PRESSURE → one essence, ideal analysis and independent elementary propositions fail.",
+        "LATER CONTEXT → Philosophical Investigations, posthumous 1953; remarks, not a system.",
+        "SHIFT → inspect diverse human practices instead of a hidden calculus beneath language."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "EARLY PROJECT",
+          "role": "evidence",
+          "items": [
+            "Propositions picture possible facts through logical form.",
+            "Analysis seeks logically perspicuous elementary propositions.",
+            "Philosophy clarifies the boundary of factual saying."
+          ]
+        },
+        {
+          "heading": "LATER TURN",
+          "role": "mechanism",
+          "items": [
+            "Actual linguistic practices replace the search for one hidden essence.",
+            "Remarks, comparisons and reminders display grammar case by case.",
+            "Meaning-as-use is carefully qualified and not a universal reduction."
+          ]
+        },
+        {
+          "heading": "CONTINUITY AND CAUTION",
+          "role": "outcome",
+          "items": [
+            "Both periods treat philosophy as clarification rather than empirical science.",
+            "The diagnosis changes from ideal logical form to captive grammatical pictures.",
+            "Do not erase continuity or project later concepts backward into the Tractatus."
+          ]
+        }
+      ],
+      "mechanism_strip": "Tractarian picture/logical-form project -> internal and grammatical pressures -> description of actual uses -> therapeutic remarks rather than system-building.",
+      "answer_line": "Later Wittgenstein preserves the early aim of releasing us from philosophical confusion while abandoning the Tractarian assumption that one logical form explains every meaningful use.",
+      "source_references": [
+        "SESSION 1"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "MEANING AND USE BEYOND THE AUGUSTINIAN NAME-OBJECT MODEL",
+      "structural_type": "qualified-thesis-and-distinction-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PI 43: LARGE CLASS, NOT ALL",
+          "role": "primary"
+        },
+        {
+          "text": "NAMING IS ONE LANGUAGE-GAME",
+          "role": "comparison"
+        },
+        {
+          "text": "USE = NORM-GOVERNED ROLE",
+          "role": "evidence"
+        },
+        {
+          "text": "TOOLS, SLABS, NUMBERS, AVOWALS",
+          "role": "outcome"
+        },
+        {
+          "text": "USE != FREQUENCY OR INTENTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PI 43 → for a large class of cases, though not all, meaning is use",
+        "AUGUSTINIAN PICTURE → every word names an object; sentence combines names.",
+        "CORRECTION → naming is one language-game, not the essence of all language.",
+        "USE → norm-governed role in a practice, learned through training and contrast.",
+        "EXAMPLES → slab, tools, colour terms, numbers, commands, jokes, prayers, avowals."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "PI 43 → for a large class of cases, though not all, meaning is use in language.",
+            "AUGUSTINIAN PICTURE → every word names an object; sentence combines names.",
+            "CORRECTION → naming is one language-game, not the essence of all language.",
+            "USE → norm-governed role in a practice, learned through training and contrast."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAMPLES → slab, tools, colour terms, numbers, commands, jokes, prayers, avowals.",
+            "DISTINGUISH → use != usage frequency != intention != reference != definition.",
+            "ANTI-BEHAVIOURISM → public use does not reduce meaning to bodily movement.",
+            "OBJECTION → circularity: meaningful use appears to presuppose meaning and norms."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "REPLY → grammar, correction and technique distinguish role from mere recurrence.",
+            "LIMIT → practice displays normativity more clearly than it explains its authority."
+          ]
+        }
+      ],
+      "mechanism_strip": "Training and contrasts establish a word's role -> competent speakers apply it across cases -> meaning is displayed in norm-governed use within a practice.",
+      "answer_line": "Meaning-as-use redirects analysis from an imagined word-object bond to the norm-governed role a word performs in a practice, without denying reference or defining every meaning identically.",
+      "source_references": [
+        "SESSION 2"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "OSTENSIVE DEFINITION, BACKGROUND GRAMMAR AND FAMILY RESEMBLANCE",
+      "structural_type": "background-dependence-and-overlap-network",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "POINTING NEEDS BACKGROUND GRAMMAR",
+          "role": "primary"
+        },
+        {
+          "text": "COLOUR SAMPLE AS TRAINED RULE",
+          "role": "comparison"
+        },
+        {
+          "text": "OVERLAPPING FAMILY RESEMBLANCES",
+          "role": "evidence"
+        },
+        {
+          "text": "OPEN TEXTURE WITH STANDARDS",
+          "role": "outcome"
+        },
+        {
+          "text": "NO ESSENCE != NO BOUNDARY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "POINTING → red square may mean colour, shape, material, number, place or sample.",
+        "OSTENSIVE DEFINITION → pointing works only within prior grammar and training.",
+        "COLOUR SAMPLE → functions as a rule after comparison and application are learned.",
+        "NUMBER SERIES → finite examples do not mechanically contain every future case.",
+        "FAMILY RESEMBLANCE → similarities overlap and criss-cross without one common atom."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "POINTING → red square may mean colour, shape, material, number, place or sample.",
+            "OSTENSIVE DEFINITION → pointing works only within prior grammar and training.",
+            "COLOUR SAMPLE → functions as a rule after comparison and application are learned.",
+            "NUMBER SERIES → finite examples do not mechanically contain every future case."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FAMILY RESEMBLANCE → similarities overlap and criss-cross without one common atom.",
+            "GAME → board, card, ball, Olympic and solitary cases form an extensible network.",
+            "OPEN TEXTURE → boundaries may remain flexible while standards still operate.",
+            "TRAP → no single essence does not mean anything counts or definitions never work."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "OBJECTION → any two things resemble one another somehow; network seems permissive.",
+            "REPLY → purposes, contrasts, training and judgments select relevant similarities."
+          ]
+        }
+      ],
+      "mechanism_strip": "Pointing + prior training/grammar -> selected dimension -> corrected applications; overlapping similarities + practice -> extensible concept without one common essence.",
+      "answer_line": "Ostension cannot create meaning from an uninterpreted point, and family resemblance removes the demand for one essence without removing the practical standards governing a concept.",
+      "source_references": [
+        "SESSION 3"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "LANGUAGE-GAMES, GRAMMAR AND ORGANISED HUMAN ACTIVITY",
+      "structural_type": "component-ecosystem-and-worked-games",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LANGUAGE + ACTIVITY + TRAINING",
+          "role": "primary"
+        },
+        {
+          "text": "SLAB GAME: COORDINATED PURPOSE",
+          "role": "comparison"
+        },
+        {
+          "text": "GRAMMAR = NORMS OF USE",
+          "role": "evidence"
+        },
+        {
+          "text": "PLURALITY WITHOUT CHAOS",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT A DECORATIVE LIST",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "LANGUAGE-GAME → language intertwined with activity, training, rules and purpose.",
+        "COMPONENTS → participants + circumstances + grammar + possible moves + responses.",
+        "SLAB GAME → order, trained response and completed building action form one whole.",
+        "PLURALITY → report, joke, pray, calculate, promise, ask, narrate and command.",
+        "ANALYSIS → each game has a point and standards; the list alone proves nothing."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "LANGUAGE-GAME → language intertwined with activity, training, rules and purpose.",
+            "COMPONENTS → participants + circumstances + grammar + possible moves + responses.",
+            "SLAB GAME → order, trained response and completed building action form one whole.",
+            "PLURALITY → report, joke, pray, calculate, promise, ask, narrate and command."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ANALYSIS → each game has a point and standards; the list alone proves nothing.",
+            "GRAMMAR → norms of representation and use, not merely classroom syntax.",
+            "PUBLIC EXAMPLES → railway request, court promise, market order, devotional prayer.",
+            "ERROR SOURCE → expression is moved across games while its surface form is retained."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "TRAP → language-games are not literal contests or sealed cultural islands.",
+            "LIMIT → strong at differentiation; thinner as causal theory of linguistic change."
+          ]
+        }
+      ],
+      "mechanism_strip": "Participants + activity + training + grammar + purpose -> possible moves and responses -> an intelligible language-game with standards of success and failure.",
+      "answer_line": "Language-games make meaning inseparable from organised activity: grammar supplies the norms, training supplies competence, and purpose supplies the contrast among uses.",
+      "source_references": [
+        "SESSION 4"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "FORMS OF LIFE, AGREEMENT IN JUDGMENTS AND JUSTIFICATORY BEDROCK",
+      "structural_type": "background-ladder-and-anti-relativism-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FORM OF LIFE: SHARED BACKGROUND",
+          "role": "primary"
+        },
+        {
+          "text": "AGREEMENT IN JUDGMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "BEDROCK: THIS IS WHAT I DO",
+          "role": "evidence"
+        },
+        {
+          "text": "INTELLIGIBILITY AND CORRECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "AGREEMENT != MAJORITY VOTE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FORM OF LIFE → shared practices and natural reactions enabling intelligibility.",
+        "NOT → biological determinism, total cultural worldview or sealed relativism.",
+        "LANGUAGE → training and judgments rest on this enacted background.",
+        "AGREEMENT → agreement in judgments and ways of acting, not every opinion.",
+        "MAJORITY → numerical headcount is not the definition of correctness or truth."
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "FORM OF LIFE → shared practices and natural reactions enabling intelligibility.",
+          "MAJORITY → numerical headcount is not the definition of correctness or truth.",
+          "OBJECTION → social fact seems to replace reason; relativism or conservatism threatens."
+        ],
+        [
+          "NOT → biological determinism, total cultural worldview or sealed relativism.",
+          "BEDROCK → reasons end in 'this is simply what I do' within an established practice.",
+          "LIMIT → balance among natural, cultural and normative elements remains unsettled."
+        ],
+        [
+          "LANGUAGE → training and judgments rest on this enacted background.",
+          "LION → radically different life can block understanding despite apparent speech.",
+          ""
+        ],
+        [
+          "AGREEMENT → agreement in judgments and ways of acting, not every opinion.",
+          "STRENGTH → avoids infinite explicit justification and private foundations.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "FORM OF LIFE → shared practices and natural reactions enabling intelligibility.",
+            "NOT → biological determinism, total cultural worldview or sealed relativism.",
+            "LANGUAGE → training and judgments rest on this enacted background.",
+            "AGREEMENT → agreement in judgments and ways of acting, not every opinion."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "MAJORITY → numerical headcount is not the definition of correctness or truth.",
+            "BEDROCK → reasons end in 'this is simply what I do' within an established practice.",
+            "LION → radically different life can block understanding despite apparent speech.",
+            "STRENGTH → avoids infinite explicit justification and private foundations."
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "OBJECTION → social fact seems to replace reason; relativism or conservatism threatens.",
+            "LIMIT → balance among natural, cultural and normative elements remains unsettled."
+          ]
+        }
+      ],
+      "mechanism_strip": "Shared natural reactions and practices -> training and stable judgments -> intelligible language-games -> reasons eventually terminate in enacted standards.",
+      "answer_line": "Forms of life explain how rule-governed language has a shared background without converting truth or correctness into whatever a numerical majority happens to accept.",
+      "source_references": [
+        "SESSION 5"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "RULE-FOLLOWING, FINITE INSTRUCTION AND THE NORMATIVITY PROBLEM",
+      "structural_type": "paradox-response-options-and-normative-bridge",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FINITE RULE UNDERDETERMINES",
+          "role": "primary"
+        },
+        {
+          "text": "INTERPRETATION REGRESS",
+          "role": "comparison"
+        },
+        {
+          "text": "TRAINING + CORRECTION + PRACTICE",
+          "role": "evidence"
+        },
+        {
+          "text": "NORMATIVE CONTINUATION",
+          "role": "outcome"
+        },
+        {
+          "text": "KRIPKENSTEIN IS A CONTESTED READING",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RULE-FOLLOWING → being correct differs from merely recurring or seeming correct.",
+        "PARADOX PI 201 → every finite course can be interpreted to fit divergent rules.",
+        "REGRESS → another interpretation needs another rule; no interpretation is final.",
+        "TEXTUAL RESPONSE → grasp of a rule is exhibited in obeying and violating it.",
+        "BRIDGE → finite rule + training + examples + correction → normative continuation."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "RULE-FOLLOWING → being correct differs from merely recurring or seeming correct.",
+            "PARADOX PI 201 → every finite course can be interpreted to fit divergent rules.",
+            "REGRESS → another interpretation needs another rule; no interpretation is final.",
+            "TEXTUAL RESPONSE → grasp of a rule is exhibited in obeying and violating it."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BRIDGE → finite rule + training + examples + correction → normative continuation.",
+            "REGULARITY != RULE → only a rule has a role for mistake, correction and breach.",
+            "KRIPKENSTEIN 1982 → sceptical paradox plus community assertibility solution.",
+            "CAUTION → Kripke's reconstruction is contested and not simple textual identity."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "INDIVIDUAL PRACTICE → standards may persist without present majority headcount.",
+            "LIMIT → practice may describe normativity without fully explaining its authority."
+          ]
+        }
+      ],
+      "mechanism_strip": "Finite rule/examples -> multiple compatible interpretations -> regress if another rule is added -> trained practice displays correct continuation and possible correction.",
+      "answer_line": "Rules guide because trained practices sustain a distinction between correct and incorrect continuation; neither a private interpretation nor bare behavioural regularity can create that norm.",
+      "source_references": [
+        "SESSION 6"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ESSENTIALLY PRIVATE LANGUAGE AND THE DIARY S FAILURE",
+      "structural_type": "diagnostic-filter-and-correctness-collapse",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ESSENTIAL SEMANTIC PRIVACY",
+          "role": "primary"
+        },
+        {
+          "text": "PRIVATE OSTENSIVE DEFINITION",
+          "role": "comparison"
+        },
+        {
+          "text": "DIARY S + MEMORY TABLE",
+          "role": "evidence"
+        },
+        {
+          "text": "SEEMING/RIGHT COLLAPSE",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT THOUGHT, DIARY OR SECRET CODE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TARGET → signs for sensations knowable in principle only to one speaker.",
+        "PLUS → correctness cannot be independently distinguished from present seeming.",
+        "NOT TARGET → private thought, English diary, secret code or first-person authority.",
+        "PRIVATE OSTENSION → inward attention is supposed to fix sign S.",
+        "DIARY → later S is checked against an inner memory sample or table."
+      ],
+      "matrix": [
+        [
+          "SOURCE / DOCTRINE",
+          "ARGUMENT / MECHANISM",
+          "IMPLICATION / VERDICT"
+        ],
+        [
+          "TARGET → signs for sensations knowable in principle only to one speaker.",
+          "DIARY → later S is checked against an inner memory sample or table.",
+          "PUBLIC-WORD REPLY → importing public grammar abandons essential private grounding."
+        ],
+        [
+          "PLUS → correctness cannot be independently distinguished from present seeming.",
+          "FAILURE → the present impression judges both sample and application.",
+          "LIMIT → temporally extended individual-practice replies keep the debate open."
+        ],
+        [
+          "NOT TARGET → private thought, English diary, secret code or first-person authority.",
+          "NORMATIVITY → seeming right cannot constitute being right where no error is possible.",
+          ""
+        ],
+        [
+          "PRIVATE OSTENSION → inward attention is supposed to fix sign S.",
+          "MEMORY REPLY → perfect reliability still needs a standard of same/correct use.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "TARGET → signs for sensations knowable in principle only to one speaker.",
+            "PLUS → correctness cannot be independently distinguished from present seeming.",
+            "NOT TARGET → private thought, English diary, secret code or first-person authority.",
+            "PRIVATE OSTENSION → inward attention is supposed to fix sign S."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DIARY → later S is checked against an inner memory sample or table.",
+            "FAILURE → the present impression judges both sample and application.",
+            "NORMATIVITY → seeming right cannot constitute being right where no error is possible.",
+            "MEMORY REPLY → perfect reliability still needs a standard of same/correct use."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "PUBLIC-WORD REPLY → importing public grammar abandons essential private grounding.",
+            "LIMIT → temporally extended individual-practice replies keep the debate open."
+          ]
+        }
+      ],
+      "mechanism_strip": "Private sensation + inward pointing -> sign S -> later memory comparison -> no distinction between correct and seeming-correct -> no privately constituted rule of use.",
+      "answer_line": "The diary S fails not because memory is always unreliable but because an exclusively private memory impression cannot by itself constitute a standard that separates correctness from seeming.",
+      "source_references": [
+        "SESSION 7"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "SENSATION GRAMMAR, AVOWALS, CRITERIA AND THE BEETLE ILLUSTRATION",
+      "structural_type": "first-third-person-and-private-secret-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CRITERION != EVIDENCE OR SYMPTOM",
+          "role": "primary"
+        },
+        {
+          "text": "AVOWAL != THIRD-PERSON REPORT",
+          "role": "comparison"
+        },
+        {
+          "text": "BEETLE DROPS OUT OF GRAMMAR",
+          "role": "evidence"
+        },
+        {
+          "text": "INNER LIFE PRESERVED",
+          "role": "outcome"
+        },
+        {
+          "text": "PUBLIC != INFALLIBLE OR MAJORITY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CRITERION → grammatical ground for application; defeasible, not infallible.",
+        "EVIDENCE/SYMPTOM → empirical support or correlation; revisable by investigation.",
+        "AVOWAL → 'I am in pain' expresses pain; it is not self-observation from behaviour.",
+        "THIRD PERSON → 'She is in pain' uses context, expression and outward criteria.",
+        "BEETLE → private object drops out of the public word's grammar."
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "CRITERION → grammatical ground for application; defeasible, not infallible.",
+          "BEETLE → private object drops out of the public word's grammar.",
+          "PUBLIC CRITERIA != majority vote, surveillance or conclusive behavioural symptom."
+        ],
+        [
+          "EVIDENCE/SYMPTOM → empirical support or correlation; revisable by investigation.",
+          "CAUTION → beetle is an illustration, not the whole private-language proof.",
+          "LIMIT → grammar leaves the qualitative character of experience under-described."
+        ],
+        [
+          "AVOWAL → 'I am in pain' expresses pain; it is not self-observation from behaviour.",
+          "ANTI-BEHAVIOURISM → criteria organise a concept but do not equal bodily motion.",
+          ""
+        ],
+        [
+          "THIRD PERSON → 'She is in pain' uses context, expression and outward criteria.",
+          "SECRET CODE → rule is teachable/checkable; concealment is merely contingent.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "CRITERION → grammatical ground for application; defeasible, not infallible.",
+            "EVIDENCE/SYMPTOM → empirical support or correlation; revisable by investigation.",
+            "AVOWAL → 'I am in pain' expresses pain; it is not self-observation from behaviour.",
+            "THIRD PERSON → 'She is in pain' uses context, expression and outward criteria."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "BEETLE → private object drops out of the public word's grammar.",
+            "CAUTION → beetle is an illustration, not the whole private-language proof.",
+            "ANTI-BEHAVIOURISM → criteria organise a concept but do not equal bodily motion.",
+            "SECRET CODE → rule is teachable/checkable; concealment is merely contingent."
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "PUBLIC CRITERIA != majority vote, surveillance or conclusive behavioural symptom.",
+            "LIMIT → grammar leaves the qualitative character of experience under-described."
+          ]
+        }
+      ],
+      "mechanism_strip": "Natural pain-expression -> training in pain-word -> avowal in first person; outward circumstances -> criterion-guided third-person judgment; private object is not semantic ground.",
+      "answer_line": "Wittgenstein is anti-Cartesian without being behaviourist: outward criteria organise the grammar of sensation concepts while avowals preserve first-person authority and inner experience.",
+      "source_references": [
+        "SESSION 8"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "PERSPICUOUS REPRESENTATION AND PHILOSOPHICAL THERAPY",
+      "structural_type": "diagnosis-treatment-release-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LANGUAGE IDLES / GOES ON HOLIDAY",
+          "role": "primary"
+        },
+        {
+          "text": "PERSPICUOUS REPRESENTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "REMINDERS + DESCRIPTION",
+          "role": "evidence"
+        },
+        {
+          "text": "FLY FINDS THE EXIT",
+          "role": "outcome"
+        },
+        {
+          "text": "QUIETISM REMAINS A REAL LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DIAGNOSIS → language idles or goes on holiday outside its home practice.",
+        "CAPTIVE PICTURE → surface analogy makes a pseudo-demand seem unavoidable.",
+        "PROBLEM FORM → philosophical disorientation: 'I do not know my way about.'",
+        "TOOLS → description, reminders, comparisons and perspicuous representation.",
+        "PERSPICUOUS → arrange grammar so connections and crossed games become visible."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "DIAGNOSIS → language idles or goes on holiday outside its home practice.",
+            "CAPTIVE PICTURE → surface analogy makes a pseudo-demand seem unavoidable.",
+            "PROBLEM FORM → philosophical disorientation: 'I do not know my way about.'",
+            "TOOLS → description, reminders, comparisons and perspicuous representation."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PERSPICUOUS → arrange grammar so connections and crossed games become visible.",
+            "THERAPY → local treatments; no one empirical science or metaphysical system.",
+            "FLY-BOTTLE → show the path out of a self-generated conceptual trap.",
+            "QUIETISM → 'leaves everything as it is' can appear conservative or self-defeating."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "REPLY → first-order science, ethics and reform are not automatically prohibited.",
+            "LIMIT → identifying every persistent problem as grammatical risks unfalsifiability."
+          ]
+        }
+      ],
+      "mechanism_strip": "Misleading analogy or idle word -> philosophical disorientation -> compare language-games and assemble reminders -> perspicuous view -> grip of problem weakens.",
+      "answer_line": "Wittgensteinian therapy changes our view of the grammatical terrain rather than adding a theory behind it, but its refusal of explanation must itself be defended against quietism.",
+      "source_references": [
+        "SESSION 9"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "synthesis",
+      "title": "EARLY-LATER SYNTHESIS, DISTINCTIONS AND ANSWER SPINE",
+      "structural_type": "comparison-critique-and-exam-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EARLY / LATER COMPARATIVE SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "SEVEN EXACT DISTINCTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "OBJECTIONS + SERIOUS REPLIES",
+          "role": "evidence"
+        },
+        {
+          "text": "ORDINARY LANGUAGE + MIND + RULES",
+          "role": "outcome"
+        },
+        {
+          "text": "POWERFUL METHOD, LIMITED THEORY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "EARLY → name/object, logical form, picture, ideal analysis and saying/showing.",
+        "LATER → practice, grammar, use, games, family resemblance and therapeutic dissolution.",
+        "CONTRIBUTION → ordinary language, mind, anti-essentialism and rule-following.",
+        "LIMITS → quietism, relativism, normativity, science and private experience.",
+        "DISTINGUISH → criterion/evidence; symptom/criterion; private/secret."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "EARLY → name/object, logical form, picture, ideal analysis and saying/showing.",
+            "LATER → practice, grammar, use, games, family resemblance and therapeutic dissolution.",
+            "CONTRIBUTION → ordinary language, mind, anti-essentialism and rule-following.",
+            "LIMITS → quietism, relativism, normativity, science and private experience."
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "DISTINGUISH → criterion/evidence; symptom/criterion; private/secret.",
+            "DISTINGUISH → rule/regularity; use/intention; grammar/empirical fact.",
+            "DISTINGUISH → agreement in judgments/majority headcount.",
+            "ENRICHMENT → aspect-seeing, certainty, religion and post-Wittgensteinian debate."
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "ANSWER SPINE → thesis → definitions → mechanism → objection/reply → comparison.",
+            "VERDICT → powerful anti-essentialist method; incomplete general explanatory theory."
+          ]
+        }
+      ],
+      "mechanism_strip": "Fair reconstruction of transition -> use/games/rules/private-language mechanism -> precise distinctions -> objections and replies -> qualified contribution and residual limits.",
+      "answer_line": "A comparative synthesis of Later Wittgenstein supports a precise answer architecture: his anti-essentialist method clarifies language and mind, although practice under-explains normativity.",
+      "source_references": [
+        "SESSION 10"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 1 — THE BREAK FROM THE TRACTATUS",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED SESSION 2 — MEANING AS USE - THE",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED SESSION 3 — FAMILY RESEMBLANCE - OVERLAPPING SIMILARITIES",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED SESSION 4 — LANGUAGE-GAMES - LANGUAGE WOVEN INTO",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 5 — FORMS OF LIFE - PI",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED SESSION 6 — RULE-FOLLOWING AND THE PARADOX (PI",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED SESSION 7 — THE PRIVATE-LANGUAGE ARGUMENT - LOGICAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "ADVANCED SESSION 1 — The Break from the Tractatus - Placement, the One-Screen Map and Why the Later Philosophy Begins",
+            "ADVANCED SESSION 2 — Meaning as Use - the Toolbox, the PI 43 Qualification and Mastery of a Technique",
+            "ADVANCED SESSION 3 — Family Resemblance - Overlapping Similarities, Fuzzy Boundaries and 'Don't Think, But Look'",
+            "ADVANCED SESSION 4 — Language-Games - Language Woven into Activity, the Builders and Rules by Training"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "ADVANCED SESSION 5 — Forms of Life - PI 19, Agreement in Form of Life, the Lion Remark and the Bedrock of Justification",
+            "ADVANCED SESSION 6 — Rule-Following and the Paradox (PI 201) - Interpretation Regress, Practice and Going On",
+            "ADVANCED SESSION 7 — The Private-Language Argument - Logical Privacy, the Diary 'S', the Beetle and Public Criteria",
+            "ADVANCED SESSION 8 — Criteria vs Symptoms, PI 580 Outward Criteria and the Behaviourism Charge Answered"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "ADVANCED SESSION 9 — Philosophy as Therapy - Language on Holiday, the Fly-Bottle, Perspicuous Representation and 'Leaves Everything as It Is'",
+            "ADVANCED SESSION 10 — Aspect-Seeing and the Duck-Rabbit - Seeing-As, the Dawning of an Aspect and Aspect-Blindness",
+            "ADVANCED DOSSIER REFINEMENTS — USE SELECTIVELY",
+            "The colour-exclusion problem (1929)."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

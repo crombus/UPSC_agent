@@ -1,0 +1,27 @@
+Nyāya–Vaiśeṣika — COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+START / CENTRAL QUESTION
+  Do not turn curriculum discussion into proof of a metaphysical or epistemological claim.
+        |
+        v
++-- SESSION 01: NYĀYA–VAIŚEṢIKA
+|   DEFINITION / TERMS : Do not turn curriculum discussion into proof of a metaphysical or epistemological claim.
+|   MECHANISM / ARGUMENT: Do not turn curriculum discussion into proof of a metaphysical or epistemological claim.
+|   CONSEQUENCE / CONTRAST: Do not turn curriculum discussion into proof of a metaphysical or epistemological claim.
+|   TRAP / ANSWER-USE: Do not turn curriculum discussion into proof of a metaphysical or epistemological claim.
+|   EXAM OPENING: Do not turn curriculum discussion into proof of a metaphysical or epistemological claim.
++--
+        |
+        v
++-- SESSION 02: NYĀYA–VAIŚEṢIKA: CORE DISTINCTIONS
+|   DEFINITION / TERMS : “Nyāya (the school of logic and valid knowledge) supplies the method of warranted cognition, while Vaiśeṣika (the school of categories and atomism) supplies the realist inventory that the later synthesis explains as one liberation-oriented system.”.
+|   MECHANISM / ARGUMENT: Master verdict: Nyāya–Vaiśeṣika is a realist system in which a detailed ontology is disclosed through valid cognition, error is a misrelation among real factors, and liberation follows removal of false knowledge.
+|   CONSEQUENCE / CONTRAST: Not every general term names a real universal (jāti, class-universal); where a proposed jāti is blocked, Nyāya-Vaiśeṣika treats it as an imposed property or limiting condition (upādhi, adjunct), not as a new padārtha. ⚠️ Philosophical function.
+|   TRAP / ANSWER-USE: ✅ Nyāya-Vaiśeṣika affirms Īśvara as an eternal, omniscient, omnipotent being. ✅ God is the nimitta-kāraṇa (efficient cause), not the material cause of the world. ✅ The material cause remains atoms.
+|   EXAM OPENING: “Nyāya (the school of logic and valid knowledge) supplies the method of warranted cognition, while Vaiśeṣika (the school of categories and atomism) supplies the realist inventory that the later synthesis explains as one liberation-oriented system.”.
++--
+        |
+        v
+ANSWER-WRITING SPINE
+definition -> exact terms -> mechanism/evidence -> consequence/contrast
+-> objection/trap -> qualified answer-use

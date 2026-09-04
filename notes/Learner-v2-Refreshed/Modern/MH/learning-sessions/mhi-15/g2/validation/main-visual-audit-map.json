@@ -1,0 +1,2056 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-15\\g2\\modern-indian-history-15_Complete-Learning-Session_2026-08-31.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-15\\g2\\modern-indian-history-15_Complete-Learning-Session_2026-08-31.pdf",
+  "mode": "main",
+  "topic_key": "modern-indian-history-15",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 16,
+      "markdown_body_line_end": 23,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 451.491
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 154.09
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 46,
+      "markdown_body_line_end": 46,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-15\\g2\\assets\\modern-indian-history-15_Teaching-Navigation_2026-08-31.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 500.691
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 193.156
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 60,
+      "markdown_body_line_end": 60,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: Mini-timeline is the chronological spine that prevents announcement, action and consequence from being merged.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 75,
+      "markdown_body_line_end": 79,
+      "heading": "VISUAL FIRST",
+      "preview": "MINI-TIMELINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 88,
+      "markdown_body_line_end": 97,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 306.224
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 100.822
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 110,
+      "markdown_body_line_end": 127,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - MINI-TIMELINE",
+      "preview": "START / CONCEPT: FOUNDATION — Mini-timeline",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 173
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 748.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 527.091
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 138,
+      "markdown_body_line_end": 138,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Snapshot & core idea is the shortest statement of the topic's central historical change.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 363.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 311.224
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 153,
+      "markdown_body_line_end": 160,
+      "heading": "VISUAL FIRST",
+      "preview": "1. SNAPSHOT & CORE IDEA",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 195,
+      "markdown_body_line_end": 212,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - 1. SNAPSHOT & CORE IDEA",
+      "preview": "START / CONCEPT: FOUNDATION — 1. Snapshot & core idea",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 636
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 526.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 223,
+      "markdown_body_line_end": 223,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Key classification / data is a comparison of the topic's political, economic, institutional and social dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 419.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 367.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 238,
+      "markdown_body_line_end": 244,
+      "heading": "VISUAL FIRST",
+      "preview": "2. KEY CLASSIFICATION / DATA",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 253,
+      "markdown_body_line_end": 262,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "Component | Meaning / example",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Component",
+          "Meaning / example"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 627.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 377.09
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 275,
+      "markdown_body_line_end": 292,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - 2. KEY CLASSIFICATION / DATA",
+      "preview": "START / CONCEPT: FOUNDATION — 2. Key classification / data",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 181
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 262.49
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 61.49
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 303,
+      "markdown_body_line_end": 303,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Study links is the boundary map connecting this topic to its preconditions and consequences.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 655.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 318,
+      "markdown_body_line_end": 323,
+      "heading": "VISUAL FIRST",
+      "preview": "3. STUDY LINKS",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 474.624
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 423.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 332,
+      "markdown_body_line_end": 335,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "**Study link:** ✅ Moderate limitations and economic critique come from `basic/14_Foundation-of-INC-and-Moderate-Phase.md`. **Study link:** ✅ Revolutionary politics after repression leads to `basic/16_Revolutionary-Nationalism-Phase-I.md`. *",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 338.824
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 237.356
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 348,
+      "markdown_body_line_end": 365,
+      "heading": "CLOSING RECALL FLOW - CORE - 3. STUDY LINKS",
+      "preview": "START / CONCEPT: CORE — 3. Study links",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 376,
+      "markdown_body_line_end": 376,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Must-Know Facts (Prelims) is the minimum actor-date-institution set required for accurate recall.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 479.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 427.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 391,
+      "markdown_body_line_end": 398,
+      "heading": "VISUAL FIRST",
+      "preview": "4. MUST-KNOW FACTS (PRELIMS)",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 36
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 427,
+      "markdown_body_line_end": 444,
+      "heading": "CLOSING RECALL FLOW - CORE - 4. MUST-KNOW FACTS (PRELIMS)",
+      "preview": "START / CONCEPT: CORE — 4. Must-Know Facts (Prelims)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 777
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 353.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 72.891
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 455,
+      "markdown_body_line_end": 455,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: High-risk factual distinctions in Militant Nationalism, Swadeshi & the Partition of Bengal (1905-1908) is the correction sheet for the topic's nearest and most tempting false statements.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 655.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 588.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 470,
+      "markdown_body_line_end": 476,
+      "heading": "VISUAL FIRST",
+      "preview": "HIGH-RISK FACTUAL DISTINCTIONS IN MILITANT NATIONALISM, SWADESHI & THE PARTITION OF BENGAL (1905-1908)",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 102
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 394.024
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 323.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 485,
+      "markdown_body_line_end": 485,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "🔑 Trap: Swadeshi began as an anti-partition movement, but its techniques outgrew Bengal.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 224.024
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 193.556
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 503,
+      "markdown_body_line_end": 520,
+      "heading": "CLOSING RECALL FLOW - CORE - HIGH-RISK FACTUAL DISTINCTIONS IN MILITANT NATIONALISM, SWADESHI & THE PARTITION OF BENGAL (1905-1908)",
+      "preview": "START / CONCEPT: CORE — High-risk factual distinctions in Militant Nationalism, Swadeshi & the Partition of Bengal (1905-1908)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 563
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 700.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 399.691
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 525,
+      "markdown_body_line_end": 532,
+      "heading": "VISUAL FIRST",
+      "preview": "6. 📰 CURRENT LINK",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 352.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 281.691
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 561,
+      "markdown_body_line_end": 561,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mains angles is the recurring ways UPSC can convert the topic into an analytical question.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 655.224
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 576,
+      "markdown_body_line_end": 582,
+      "heading": "VISUAL FIRST",
+      "preview": "7. MAINS ANGLES",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 474.624
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 413.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 606,
+      "markdown_body_line_end": 623,
+      "heading": "CLOSING RECALL FLOW - CORE - 7. MAINS ANGLES",
+      "preview": "START / CONCEPT: CORE — 7. Mains angles",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 141
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 628,
+      "markdown_body_line_end": 632,
+      "heading": "VISUAL FIRST",
+      "preview": "ANSWER ARCHITECTURE OVERVIEW",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 539.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 498.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 641,
+      "markdown_body_line_end": 641,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "Purpose: support **causation, technique-analysis, achievement-evaluation and precursor** demands on Swadeshi, and substantively cover the routed Prelims demands on the movement's industrial and educational contribution and the 7 August anch",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 399.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 340.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 661,
+      "markdown_body_line_end": 661,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.1 Demand and directive map is a guide to what each command word requires the answer to do.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 127.024
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 74.556
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 676,
+      "markdown_body_line_end": 683,
+      "heading": "VISUAL FIRST",
+      "preview": "8.1 DEMAND AND DIRECTIVE MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 661.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 590.891
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 692,
+      "markdown_body_line_end": 699,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "Demand family | Typical directive signals | Answer spine to use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Demand family",
+          "Typical directive signals",
+          "Answer spine to use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 491.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 272.89
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 712,
+      "markdown_body_line_end": 729,
+      "heading": "CLOSING RECALL FLOW - CORE - 8.1 DEMAND AND DIRECTIVE MAP",
+      "preview": "START / CONCEPT: CORE — 8.1 Demand and directive map",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 141
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 740,
+      "markdown_body_line_end": 740,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.2 Qualified thesis options is a central claim that states both historical significance and limitation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 393.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 755,
+      "markdown_body_line_end": 761,
+      "heading": "VISUAL FIRST",
+      "preview": "8.2 QUALIFIED THESIS OPTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 28
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 786,
+      "markdown_body_line_end": 803,
+      "heading": "CLOSING RECALL FLOW - CORE - 8.2 QUALIFIED THESIS OPTIONS",
+      "preview": "START / CONCEPT: CORE — 8.2 Qualified thesis options",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 284
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 347.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 116.491
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 814,
+      "markdown_body_line_end": 814,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.3 Mark-scaled structure is the adjustment of structure and evidence load to the marks and word limit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 829,
+      "markdown_body_line_end": 834,
+      "heading": "VISUAL FIRST",
+      "preview": "8.3 MARK-SCALED STRUCTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 381.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 843,
+      "markdown_body_line_end": 847,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "Marks | Recommended architecture | Evidence load",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Recommended architecture",
+          "Evidence load"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 282.024
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 160.222
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 860,
+      "markdown_body_line_end": 877,
+      "heading": "CLOSING RECALL FLOW - CORE - 8.3 MARK-SCALED STRUCTURE",
+      "preview": "START / CONCEPT: CORE — 8.3 Mark-scaled structure",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 210
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 888,
+      "markdown_body_line_end": 888,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.4 Named evidence units (claim → evidence → significance → limit) is the actor, date, institution or event that proves an analytical claim.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 903,
+      "markdown_body_line_end": 910,
+      "heading": "VISUAL FIRST",
+      "preview": "8.4 NAMED EVIDENCE UNITS (CLAIM → EVIDENCE → SIGNIFICANCE → LIMIT)",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 966,
+      "markdown_body_line_end": 983,
+      "heading": "CLOSING RECALL FLOW - CORE - 8.4 NAMED EVIDENCE UNITS (CLAIM -> EVIDENCE -> SIGNIFICANCE -> LIMIT)",
+      "preview": "START / CONCEPT: CORE — 8.4 Named evidence units (claim → evidence → significance → limit)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 199
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 312.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 81.091
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 994,
+      "markdown_body_line_end": 994,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.5 Achievement-and-limitation ledger (for evaluation demands) is a comparison of the topic's political, economic, institutional and social dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1009,
+      "markdown_body_line_end": 1015,
+      "heading": "VISUAL FIRST",
+      "preview": "8.5 ACHIEVEMENT-AND-LIMITATION LEDGER (FOR EVALUATION DEMANDS)",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 352.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1024,
+      "markdown_body_line_end": 1030,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "Domain | Achievement | Limitation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Domain",
+          "Achievement",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 253.024
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 77.622
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1043,
+      "markdown_body_line_end": 1060,
+      "heading": "CLOSING RECALL FLOW - CORE - 8.5 ACHIEVEMENT-AND-LIMITATION LEDGER (FOR EVALUATION DEMANDS)",
+      "preview": "START / CONCEPT: CORE — 8.5 Achievement-and-limitation ledger (for evaluation demands)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 198
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 700.691
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 469.691
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1071,
+      "markdown_body_line_end": 1071,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.6 Counter-evidence, balance and variation is the evidence that prevents the main argument from becoming universal or heroic.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 329.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 263.224
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1086,
+      "markdown_body_line_end": 1093,
+      "heading": "VISUAL FIRST",
+      "preview": "8.6 COUNTER-EVIDENCE, BALANCE AND VARIATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1118,
+      "markdown_body_line_end": 1135,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - 8.6 COUNTER-EVIDENCE, BALANCE AND VARIATION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — 8.6 Counter-evidence, balance and variation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 374
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 380.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 129.091
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1146,
+      "markdown_body_line_end": 1146,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.7 Verdict scaffolds is the final weighing of immediate result, structural legacy and documented limit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 650.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 584.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1161,
+      "markdown_body_line_end": 1166,
+      "heading": "VISUAL FIRST",
+      "preview": "8.7 VERDICT SCAFFOLDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 389.424
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 338.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1190,
+      "markdown_body_line_end": 1207,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - 8.7 VERDICT SCAFFOLDS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — 8.7 Verdict scaffolds",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 556
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 526.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1218,
+      "markdown_body_line_end": 1218,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.8 Factual-risk cautions is the correction sheet for the topic's nearest and most tempting false statements.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 405.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 338.824
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1233,
+      "markdown_body_line_end": 1239,
+      "heading": "VISUAL FIRST",
+      "preview": "8.8 FACTUAL-RISK CAUTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1268,
+      "markdown_body_line_end": 1285,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - 8.8 FACTUAL-RISK CAUTIONS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — 8.8 Factual-risk cautions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 313.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 82.091
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2098,
+      "markdown_body_line_end": 2100,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 182.891
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 102.024
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2106,
+      "markdown_body_line_end": 2111,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 602.89
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2120,
+      "markdown_body_line_end": 2120,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 512.09
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 467.422
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2125,
+      "markdown_body_line_end": 2126,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 467.422
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 400.754
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2132,
+      "markdown_body_line_end": 2134,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 349.154
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 273.253
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2140,
+      "markdown_body_line_end": 2140,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 234.053
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 189.385
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2419,
+      "markdown_body_line_end": 2428,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 764.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 558.89
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2448,
+      "markdown_body_line_end": 2457,
+      "heading": "2. Key classification / data",
+      "preview": "Analytical theme | Advanced detail",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Analytical theme",
+          "Advanced detail"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 514.69
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2461,
+      "markdown_body_line_end": 2464,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Moderate economic nationalism and organisational base connect back to `advanced/14_Foundation-of-INC-and-Moderate-Phase.md`. **Study link:** ✅ Repression and frustration feed `advanced/16_Revolutionary-Nationalism-Phase-I.",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 514.69
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 377.022
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2479,
+      "markdown_body_line_end": 2479,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Extremist nationalism was not merely emotional; it had a coherent programme of self-reliance and passive resistance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 203.222
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 136.554
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2503,
+      "markdown_body_line_end": 2513,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Curzon's measures formed a provocation chain",
+      "preview": "1899 CALCUTTA CORPORATION ACT -> reduced elected Indian influence",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 482.691
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 379.891
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2517,
+      "markdown_body_line_end": 2524,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Three dates that must not be merged",
+      "preview": "JULY 1905 -> partition announced",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 357.891
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 285.691
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2528,
+      "markdown_body_line_end": 2534,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Administrative pretext versus political reading",
+      "preview": "OFFICIAL CASE -> Bengal was too large for efficient administration",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2538,
+      "markdown_body_line_end": 2544,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Swadeshi and boycott were complementary",
+      "preview": "BOYCOTT / NEGATIVE ARM -> refuse foreign goods and selected institutions",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2548,
+      "markdown_body_line_end": 2555,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: The constructive programme built institutions",
+      "preview": "INDUSTRY -> indigenous production, stores and investment",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 547.091
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2559,
+      "markdown_body_line_end": 2566,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Cultural mobilisation widened and narrowed politics",
+      "preview": "WIDENED -> songs, festivals, processions and Vande Mataram",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 525.091
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 452.891
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2570,
+      "markdown_body_line_end": 2577,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Militant nationalism was a programme, not a mood",
+      "preview": "SWARAJ -> political objective and moral self-rule",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 430.891
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 358.691
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2581,
+      "markdown_body_line_end": 2588,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Regional spread was uneven",
+      "preview": "BENGAL -> anti-partition core, samitis, education and cultural action",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 336.691
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 264.491
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2592,
+      "markdown_body_line_end": 2599,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Participation expanded but did not become fully mass",
+      "preview": "VISIBLE CORE -> students, professionals and urban middle classes",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2603,
+      "markdown_body_line_end": 2613,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Congress compromise gave way to the Surat rupture",
+      "preview": "BANARAS 1905 -> Congress accepted Swadeshi and Bengal boycott",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 590.291
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2617,
+      "markdown_body_line_end": 2626,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Decline and legacy moved in opposite directions",
+      "preview": "DECLINE -> repression, arrests, deportation and press controls",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 568.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 475.691
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2630,
+      "markdown_body_line_end": 2637,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Swadeshi answer-writing spine",
+      "preview": "TRIGGER -> Curzonian reaction and Bengal partition",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 453.691
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 381.491
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2184 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-09\\g4\\modern-indian-history-09_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-09\\g4\\modern-indian-history-09_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "modern-indian-history-09",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 16,
+      "markdown_body_line_end": 23,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 451.491
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 154.09
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 45,
+      "markdown_body_line_end": 45,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-09\\g4\\assets\\modern-indian-history-09_Teaching-Navigation_2026-08-30.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 546.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 238.756
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 59,
+      "markdown_body_line_end": 59,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: Mini-timeline is a learner's map within Social & Cultural Policy - Education, the Press, State & Society that groups Mini-timeline, context and evidence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 78,
+      "heading": "VISUAL FIRST",
+      "preview": "MINI-TIMELINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 87,
+      "markdown_body_line_end": 97,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 407.824
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 192.422
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 110,
+      "markdown_body_line_end": 127,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - MINI-TIMELINE",
+      "preview": "START / CONCEPT: FOUNDATION — Mini-timeline",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 200
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 138,
+      "markdown_body_line_end": 138,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Snapshot & core idea is a learner's map within Social & Cultural Policy - Education, the Press, State & Society that groups Calcutta Madrasa (1781), Sanskrit College, Banaras (1791) and Charter Act, 1813.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 425.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 358.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 153,
+      "markdown_body_line_end": 157,
+      "heading": "VISUAL FIRST",
+      "preview": "1. SNAPSHOT & CORE IDEA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 194,
+      "markdown_body_line_end": 211,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - 1. SNAPSHOT & CORE IDEA",
+      "preview": "START / CONCEPT: FOUNDATION — 1. Snapshot & core idea",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 706
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 222,
+      "markdown_body_line_end": 222,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Key classification / data is a learner's map within Social & Cultural Policy - Education, the Press, State & Society that groups Key, classification and data.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 375.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 308.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 237,
+      "markdown_body_line_end": 241,
+      "heading": "VISUAL FIRST",
+      "preview": "2. KEY CLASSIFICATION / DATA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 250,
+      "markdown_body_line_end": 259,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "Area | Measure / personality | UPSC cue",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Area",
+          "Measure / personality",
+          "UPSC cue"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 647.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 430.69
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 272,
+      "markdown_body_line_end": 289,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - 2. KEY CLASSIFICATION / DATA",
+      "preview": "START / CONCEPT: FOUNDATION — 2. Key classification / data",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 187
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 316.09
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 115.09
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 300,
+      "markdown_body_line_end": 300,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Study links is a learner's map within Social & Cultural Policy - Education, the Press, State & Society that groups Study link:, Study and links.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 315,
+      "markdown_body_line_end": 319,
+      "heading": "VISUAL FIRST",
+      "preview": "3. STUDY LINKS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 328,
+      "markdown_body_line_end": 331,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "**Study link:** ✅ Administrative and legal state enabling social intervention → `basic/08_Administrative-Organisation.md`. **Study link:** ✅ Reform movements and Rammohan Roy/Vidyasagar overlap → `basic/10`. **Study link:** ⚠️ Nationalist u",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 306.224
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 233.156
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 344,
+      "markdown_body_line_end": 361,
+      "heading": "CLOSING RECALL FLOW - CORE - 3. STUDY LINKS",
+      "preview": "START / CONCEPT: CORE — 3. Study links",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 173
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 372,
+      "markdown_body_line_end": 372,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Must-Know Facts (Prelims) is a learner's map within Social & Cultural Policy - Education, the Press, State & Society that groups Calcutta Madrasa (1781), Warren Hastings and Sanskrit College, Banaras (1791).",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 441.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 374.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 387,
+      "markdown_body_line_end": 391,
+      "heading": "VISUAL FIRST",
+      "preview": "4. MUST-KNOW FACTS (PRELIMS)",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 423,
+      "markdown_body_line_end": 440,
+      "heading": "CLOSING RECALL FLOW - CORE - 4. MUST-KNOW FACTS (PRELIMS)",
+      "preview": "START / CONCEPT: CORE — 4. Must-Know Facts (Prelims)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 236
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 332.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 101.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 451,
+      "markdown_body_line_end": 451,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: High-risk factual distinctions in Social & Cultural Policy - Education, the Press, State & Society is a learner's map within Social & Cultural Policy - Education, the Press, State & Society that groups Macaulay's Minute (1",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 627.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 546.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 466,
+      "markdown_body_line_end": 470,
+      "heading": "VISUAL FIRST",
+      "preview": "HIGH-RISK FACTUAL DISTINCTIONS IN SOCIAL & CULTURAL POLICY - EDUCATION, THE PRESS, STATE & SOCIETY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 351.424
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 310.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 479,
+      "markdown_body_line_end": 479,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "🔑 Trap: **Macaulay's Minute (1835)** and **Wood's Despatch (1854)** are not the same policy document.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 183.024
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 152.556
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 498,
+      "markdown_body_line_end": 515,
+      "heading": "CLOSING RECALL FLOW - CORE - HIGH-RISK FACTUAL DISTINCTIONS IN SOCIAL & CULTURAL POLICY - EDUCATION, THE PRESS, STATE & SOCIETY",
+      "preview": "START / CONCEPT: CORE — High-risk factual distinctions in Social & Cultural Policy - Education, the Press, State & Society",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 307
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 633.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 362.091
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 520,
+      "markdown_body_line_end": 524,
+      "heading": "VISUAL FIRST",
+      "preview": "6. 📰 CURRENT LINK",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 315.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 274.091
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 553,
+      "markdown_body_line_end": 553,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mains angles is a learner's map within Social & Cultural Policy - Education, the Press, State & Society that groups Mains, angles and context.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 649.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 582.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 568,
+      "markdown_body_line_end": 572,
+      "heading": "VISUAL FIRST",
+      "preview": "7. MAINS ANGLES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 402.024
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 361.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 598,
+      "markdown_body_line_end": 615,
+      "heading": "CLOSING RECALL FLOW - CORE - 7. MAINS ANGLES",
+      "preview": "START / CONCEPT: CORE — 7. Mains angles",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 171
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 620,
+      "markdown_body_line_end": 624,
+      "heading": "VISUAL FIRST",
+      "preview": "ANSWER ARCHITECTURE OVERVIEW",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 529.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 488.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 633,
+      "markdown_body_line_end": 633,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "Purpose: support the **motive-versus-consequence** demand that dominates this topic — colonial intention against Indian appropriation — and substantively resolve the routed Prelims demands, including bounding the ones the repository cannot ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 389.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 330.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 653,
+      "markdown_body_line_end": 653,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.1 Demand and directive map is a learner's map within Social & Cultural Policy - Education, the Press, State & Society that groups Demand, and and directive.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 117.024
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 50.356
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 668,
+      "markdown_body_line_end": 672,
+      "heading": "VISUAL FIRST",
+      "preview": "8.1 DEMAND AND DIRECTIVE MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 587.691
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 681,
+      "markdown_body_line_end": 688,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "Demand family | Typical directive signals | Answer spine to use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Demand family",
+          "Typical directive signals",
+          "Answer spine to use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 488.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 269.69
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 701,
+      "markdown_body_line_end": 718,
+      "heading": "CLOSING RECALL FLOW - CORE - 8.1 DEMAND AND DIRECTIVE MAP",
+      "preview": "START / CONCEPT: CORE — 8.1 Demand and directive map",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 205
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 729,
+      "markdown_body_line_end": 729,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.2 Qualified thesis options is a learner's map within Social & Cultural Policy - Education, the Press, State & Society that groups Double-edged thesis:, Filtration-failure thesis: and Contested-sphere thesis:.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 407.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 340.424
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 744,
+      "markdown_body_line_end": 748,
+      "heading": "VISUAL FIRST",
+      "preview": "8.2 QUALIFIED THESIS OPTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 110
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 773,
+      "markdown_body_line_end": 790,
+      "heading": "CLOSING RECALL FLOW - CORE - 8.2 QUALIFIED THESIS OPTIONS",
+      "preview": "START / CONCEPT: CORE — 8.2 Qualified thesis options",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 257
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 343.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 102.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 801,
+      "markdown_body_line_end": 801,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.3 Mark-scaled structure is a learner's map within Social & Cultural Policy - Education, the Press, State & Society that groups Mark-scaled, structure and context.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 816,
+      "markdown_body_line_end": 820,
+      "heading": "VISUAL FIRST",
+      "preview": "8.3 MARK-SCALED STRUCTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 829,
+      "markdown_body_line_end": 833,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "Marks | Recommended architecture | Evidence load",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Recommended architecture",
+          "Evidence load"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 292.024
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 147.822
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 846,
+      "markdown_body_line_end": 863,
+      "heading": "CLOSING RECALL FLOW - CORE - 8.3 MARK-SCALED STRUCTURE",
+      "preview": "START / CONCEPT: CORE — 8.3 Mark-scaled structure",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 216
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 874,
+      "markdown_body_line_end": 874,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.4 Named evidence units (claim → evidence → significance → limit) is a learner's map within Social & Cultural Policy - Education, the Press, State & Society that groups Claim:, Evidence: and Wellesley.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 378.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 311.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 889,
+      "markdown_body_line_end": 893,
+      "heading": "VISUAL FIRST",
+      "preview": "8.4 NAMED EVIDENCE UNITS (CLAIM → EVIDENCE → SIGNIFICANCE → LIMIT)",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 949,
+      "markdown_body_line_end": 966,
+      "heading": "CLOSING RECALL FLOW - CORE - 8.4 NAMED EVIDENCE UNITS (CLAIM -> EVIDENCE -> SIGNIFICANCE -> LIMIT)",
+      "preview": "START / CONCEPT: CORE — 8.4 Named evidence units (claim → evidence → significance → limit)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 286
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 523.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 977,
+      "markdown_body_line_end": 977,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.5 Mechanism — how a control instrument became a nationalist resource is a learner's map within Social & Cultural Policy - Education, the Press, State & Society that groups Mechanism, how and control.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 355.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 288.424
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 992,
+      "markdown_body_line_end": 996,
+      "heading": "VISUAL FIRST",
+      "preview": "8.5 MECHANISM — HOW A CONTROL INSTRUMENT BECAME A NATIONALIST RESOURCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1005,
+      "markdown_body_line_end": 1013,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "Cheap intermediary staff needed",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 647.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1026,
+      "markdown_body_line_end": 1043,
+      "heading": "CLOSING RECALL FLOW - CORE - 8.5 MECHANISM - HOW A CONTROL INSTRUMENT BECAME A NATIONALIST RESOURCE",
+      "preview": "START / CONCEPT: CORE — 8.5 Mechanism — how a control instrument became a nationalist resource",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 248
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 424.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 183.491
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1054,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.6 Counter-evidence, variation and caution is a learner's map within Social & Cultural Policy - Education, the Press, State & Society that groups Against a purely instrumental reading:, Against uniformity: and Vernacular ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 755.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 674.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1069,
+      "markdown_body_line_end": 1073,
+      "heading": "VISUAL FIRST",
+      "preview": "8.6 COUNTER-EVIDENCE, VARIATION AND CAUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 480.024
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 439.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1098,
+      "markdown_body_line_end": 1115,
+      "heading": "CLOSING RECALL FLOW - CORE - 8.6 COUNTER-EVIDENCE, VARIATION AND CAUTION",
+      "preview": "START / CONCEPT: CORE — 8.6 Counter-evidence, variation and caution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 279
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1126,
+      "markdown_body_line_end": 1126,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.7 Verdict scaffolds is a learner's map within Social & Cultural Policy - Education, the Press, State & Society that groups Double-edged verdict:, Press verdict: and Reform verdict:.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 415.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 348.824
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1141,
+      "markdown_body_line_end": 1145,
+      "heading": "VISUAL FIRST",
+      "preview": "8.7 VERDICT SCAFFOLDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1169,
+      "markdown_body_line_end": 1186,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - 8.7 VERDICT SCAFFOLDS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — 8.7 Verdict scaffolds",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 543
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 441.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 160.491
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1197,
+      "markdown_body_line_end": 1197,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.8 Factual-risk cautions is a learner's map within Social & Cultural Policy - Education, the Press, State & Society that groups 1857, European and 1802.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1212,
+      "markdown_body_line_end": 1216,
+      "heading": "VISUAL FIRST",
+      "preview": "8.8 FACTUAL-RISK CAUTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1243,
+      "markdown_body_line_end": 1260,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - 8.8 FACTUAL-RISK CAUTIONS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — 8.8 Factual-risk cautions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 200
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1271,
+      "markdown_body_line_end": 1271,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.9 Routed Prelims demands that this repository cannot yet verify is a learner's map within Social & Cultural Policy - Education, the Press, State & Society that groups Handling rule:, Routed and Prelims.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 345.624
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1286,
+      "markdown_body_line_end": 1290,
+      "heading": "VISUAL FIRST",
+      "preview": "8.9 ROUTED PRELIMS DEMANDS THAT THIS REPOSITORY CANNOT YET VERIFY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1299,
+      "markdown_body_line_end": 1299,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "⚠️ **Handling rule:** two routed 2021 Prelims demands have **no supporting content in any source book, note or knowledge file held in this repository**, and the official 2021 key is not held locally. They are recorded here so that they are ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 647.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 588.424
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1301,
+      "markdown_body_line_end": 1304,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "Routed demand | Local status | Safe handling",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Routed demand",
+          "Local status",
+          "Safe handling"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 588.424
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 465.422
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1321,
+      "markdown_body_line_end": 1338,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - 8.9 ROUTED PRELIMS DEMANDS THAT THIS REPOSITORY CANNOT YET VERIFY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — 8.9 Routed Prelims demands that this repository cannot yet verify",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 251
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 523.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2201,
+      "markdown_body_line_end": 2203,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 642.891
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 562.024
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2209,
+      "markdown_body_line_end": 2216,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 6,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 510.424
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 227.022
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2227,
+      "markdown_body_line_end": 2227,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 101.822
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 57.154
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2232,
+      "markdown_body_line_end": 2233,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2239,
+      "markdown_body_line_end": 2241,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 691.024
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 594.122
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2247,
+      "markdown_body_line_end": 2247,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 554.922
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 510.254
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2546,
+      "markdown_body_line_end": 2557,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 735.091
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 498.49
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2579,
+      "markdown_body_line_end": 2588,
+      "heading": "2. Key classification / data",
+      "preview": "Debate / policy | Core issue | Analytical meaning",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Debate / policy",
+          "Core issue",
+          "Analytical meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 581.89
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2592,
+      "markdown_body_line_end": 2595,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Colonial administrative capacity behind reform and repression → `advanced/08_Administrative-Organisation.md`. **Study link:** ✅ Socio-religious reform movements as Indian agency → `advanced/10`. **Study link:** ⚠️ Press an",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 581.89
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 472.622
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2612,
+      "markdown_body_line_end": 2612,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: The colonial state and Indian reformers both mattered; avoid writing either \"British gifted reform\" or \"British had no role\".",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 250.222
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 183.554
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2638,
+      "markdown_body_line_end": 2646,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Hicky's Bengal Gazette in colonial education and press",
+      "preview": "FOCUS -> Hicky's Bengal Gazette",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 465.491
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 383.091
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2650,
+      "markdown_body_line_end": 2656,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Calcutta Madrasa in colonial education and press",
+      "preview": "FOCUS -> Calcutta Madrasa",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 361.091
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 299.091
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2660,
+      "markdown_body_line_end": 2665,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Sanskrit College at Banaras in colonial education and press",
+      "preview": "FOCUS -> Sanskrit College at Banaras",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2669,
+      "markdown_body_line_end": 2675,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Fort William College in colonial education and press",
+      "preview": "FOCUS -> Fort William College",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 651.491
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2679,
+      "markdown_body_line_end": 2685,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Charter Act of 1813 in colonial education and press",
+      "preview": "FOCUS -> Charter Act of 1813",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 629.491
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 567.491
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2689,
+      "markdown_body_line_end": 2695,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Macaulay's Minute in colonial education and press",
+      "preview": "FOCUS -> Macaulay's Minute",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 545.491
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 483.491
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2699,
+      "markdown_body_line_end": 2705,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Bentinck's 1835 resolution in colonial education and press",
+      "preview": "FOCUS -> Bentinck's 1835 resolution",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 461.491
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 399.491
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2709,
+      "markdown_body_line_end": 2715,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Metcalfe's press policy in colonial education and press",
+      "preview": "FOCUS -> Metcalfe's press policy",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 377.491
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 315.491
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2719,
+      "markdown_body_line_end": 2725,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Wood's Despatch in colonial education and press",
+      "preview": "FOCUS -> Wood's Despatch",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2729,
+      "markdown_body_line_end": 2738,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Presidency universities in colonial education and press",
+      "preview": "FOCUS -> Presidency universities",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 610.691
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2742,
+      "markdown_body_line_end": 2751,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Licensing Act of 1857 in colonial education and press",
+      "preview": "FOCUS -> Licensing Act of 1857",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 588.691
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 496.091
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2755,
+      "markdown_body_line_end": 2761,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Vernacular Press Act in colonial education and press",
+      "preview": "FOCUS -> Vernacular Press Act",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 474.091
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 412.091
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    }
+  ]
+}

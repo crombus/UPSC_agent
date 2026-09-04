@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-04\\g4\\modern-indian-history-04_Solved-Practice-Workbook_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-04\\g4\\modern-indian-history-04_Solved-Practice-Workbook_2026-09-04.pdf",
+  "mode": "workbook",
+  "topic_key": "modern-indian-history-04",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 817,
+      "markdown_body_line_end": 824,
+      "heading": "Semantic-completeness coverage drills - Modern Topic 04",
+      "preview": "Control | Required answer route | Fatal trap",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Required answer route",
+          "Fatal trap"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 307.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 155.49
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 856,
+      "markdown_body_line_end": 856,
+      "heading": "Evidence and answer-writing drills",
+      "preview": "Visual 2: Repeat: the farman-vs-dastak-abuse distinction, previewed before the drills below",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-04\\g4\\assets\\02_02_farman_dastak_privilege_abuse.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 767.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 459.556
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 959,
+      "markdown_body_line_end": 959,
+      "heading": "Mains practice: solved model answers",
+      "preview": "Visual 21: Repeat: topic boundaries, previewed before Mains practice (see Mains 2's bounded bridge answer)",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-04\\g4\\assets\\21_21_topic_boundary_bridge.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 299.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        24,
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 988,
+      "markdown_body_line_end": 988,
+      "heading": "Mains 1 - 10 marks | 150 words",
+      "preview": "Visual 22: Answer spine, 10 marks: the political method behind the 1765 Diwani grant",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-04\\g4\\assets\\22_22_answer_spine_10mark_diwani.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 703.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 395.556
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1071,
+      "markdown_body_line_end": 1071,
+      "heading": "Mains 4 - 15 marks | 250 words",
+      "preview": "Visual 23: Answer spine, 15 marks: why the Dual Government failed structurally",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-04\\g4\\assets\\23_23_answer_spine_15mark_dual_government.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 224.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        28,
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1220,
+      "markdown_body_line_end": 1220,
+      "heading": "Mains 9 - 20 marks | 300 words",
+      "preview": "Visual 24: Answer spine, 20 marks: Plassey's opening versus Buxar-Allahabad's institutional foundation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-04\\g4\\assets\\24_24_answer_spine_20mark_comparative.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 526.891
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 219.356
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    }
+  ]
+}

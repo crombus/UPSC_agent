@@ -1,0 +1,1621 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-35\\g3\\modern-indian-history-35_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-35\\g3\\modern-indian-history-35_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "modern-indian-history-35",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 16,
+      "markdown_body_line_end": 23,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 394.691
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 186.89
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 45,
+      "markdown_body_line_end": 45,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-35\\g3\\assets\\modern-indian-history-35_Teaching-Navigation_2026-08-31.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 517.891
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 210.356
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 59,
+      "markdown_body_line_end": 59,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The 1972-73 economic crisis is the combination of twin monsoon failures, drought and the 1973 oil shock that produced a roughly 22 per cent price rise and eroded Indira Gandhi's post-1971 popularity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 80,
+      "heading": "VISUAL FIRST",
+      "preview": "THE 1972-73 ECONOMIC CRISIS: DROUGHT, INFLATION AND THE OIL SHOCK",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 337.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 115,
+      "markdown_body_line_end": 132,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE 1972-73 ECONOMIC CRISIS: DROUGHT, INFLATION AND THE OIL SHOCK",
+      "preview": "START / CONCEPT: FOUNDATION — The 1972-73 economic crisis: drought, inflation and the oil shock",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 259
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 621.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 380.891
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 143,
+      "markdown_body_line_end": 143,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Nav Nirman is the student agitation that began in Gujarat in January 1974 over prices and corruption, the first of the movements that fed into the wider crisis of 1974-75.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 241.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 174.424
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 158,
+      "markdown_body_line_end": 164,
+      "heading": "VISUAL FIRST",
+      "preview": "NAV NIRMAN: THE GUJARAT STUDENT AGITATION, JANUARY 1974",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 672.691
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 199,
+      "markdown_body_line_end": 216,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - NAV NIRMAN: THE GUJARAT STUDENT AGITATION, JANUARY 1974",
+      "preview": "START / CONCEPT: FOUNDATION — Nav Nirman: the Gujarat student agitation, January 1974",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 220
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 227,
+      "markdown_body_line_end": 227,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Total Revolution, or Sampoorna Kranti, is Jayaprakash Narayan's call, from March 1974, for sweeping change against corruption and misgovernance beyond ordinary electoral politics.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 379.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 312.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 242,
+      "markdown_body_line_end": 248,
+      "heading": "VISUAL FIRST",
+      "preview": "THE BIHAR MOVEMENT AND JP'S TOTAL REVOLUTION, MARCH 1974",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 283,
+      "markdown_body_line_end": 300,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE BIHAR MOVEMENT AND JP'S TOTAL REVOLUTION, MARCH 1974",
+      "preview": "START / CONCEPT: FOUNDATION — The Bihar movement and JP's Total Revolution, March 1974",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 236
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 311,
+      "markdown_body_line_end": 311,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The railway strike of May 1974 is the 22-day all-India strike that added economic disruption to the political crisis building around the JP movement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 412.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 345.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 326,
+      "markdown_body_line_end": 332,
+      "heading": "VISUAL FIRST",
+      "preview": "THE RAILWAY STRIKE OF MAY 1974",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 367,
+      "markdown_body_line_end": 384,
+      "heading": "CLOSING RECALL FLOW - CORE - THE RAILWAY STRIKE OF MAY 1974",
+      "preview": "START / CONCEPT: CORE — The railway strike of May 1974",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 222
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 298.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 67.691
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 395,
+      "markdown_body_line_end": 395,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The Allahabad High Court judgment of 12 June 1975 is Justice Jagmohanlal Sinha's ruling, on Raj Narain's petition, that set aside Indira Gandhi's 1971 election.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 410,
+      "markdown_body_line_end": 416,
+      "heading": "VISUAL FIRST",
+      "preview": "THE ALLAHABAD HIGH COURT JUDGMENT, 12 JUNE 1975",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 352.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 451,
+      "markdown_body_line_end": 468,
+      "heading": "CLOSING RECALL FLOW - CORE - THE ALLAHABAD HIGH COURT JUDGMENT, 12 JUNE 1975",
+      "preview": "START / CONCEPT: CORE — The Allahabad High Court judgment, 12 June 1975",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 223
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 620.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 379.691
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 479,
+      "markdown_body_line_end": 479,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The Supreme Court's conditional stay of 24 June 1975 is Justice V.R.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 254.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 201.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 494,
+      "markdown_body_line_end": 500,
+      "heading": "VISUAL FIRST",
+      "preview": "THE SUPREME COURT'S CONDITIONAL STAY, 24 JUNE 1975",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 701.091
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 535,
+      "markdown_body_line_end": 552,
+      "heading": "CLOSING RECALL FLOW - CORE - THE SUPREME COURT'S CONDITIONAL STAY, 24 JUNE 1975",
+      "preview": "START / CONCEPT: CORE — The Supreme Court's conditional stay, 24 June 1975",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 157
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 563,
+      "markdown_body_line_end": 563,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The Emergency proclamation is the Article 352 declaration dated 25 June 1975 but publicly announced only on 26 June 1975, issued the same day as JP's Delhi rally.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 578,
+      "markdown_body_line_end": 584,
+      "heading": "VISUAL FIRST",
+      "preview": "JP'S 25 JUNE RALLY AND THE PROCLAMATION OF EMERGENCY",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 619,
+      "markdown_body_line_end": 636,
+      "heading": "CLOSING RECALL FLOW - CORE - JP'S 25 JUNE RALLY AND THE PROCLAMATION OF EMERGENCY",
+      "preview": "START / CONCEPT: CORE — JP's 25 June rally and the proclamation of Emergency",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 223
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 647,
+      "markdown_body_line_end": 647,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: MISA, the Maintenance of Internal Security Act, is the law under which over 100,000 people were detained without trial during the Emergency, alongside press censorship and the 42nd Amendment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 335.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 662,
+      "markdown_body_line_end": 668,
+      "heading": "VISUAL FIRST",
+      "preview": "THE EMERGENCY'S LEGAL INSTRUMENTS: MISA, CENSORSHIP AND THE 42ND AMENDMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 703,
+      "markdown_body_line_end": 720,
+      "heading": "CLOSING RECALL FLOW - CORE - THE EMERGENCY'S LEGAL INSTRUMENTS: MISA, CENSORSHIP AND THE 42ND AMENDMENT",
+      "preview": "START / CONCEPT: CORE — The Emergency's legal instruments: MISA, censorship and the 42nd Amendment",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 240
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 271.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 731,
+      "markdown_body_line_end": 731,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Sanjay Gandhi is Indira Gandhi's son who, holding no formal office, became an extra-constitutional power centre during the Emergency, associated with coercive sterilisation and slum-demolition excesses.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 746,
+      "markdown_body_line_end": 752,
+      "heading": "VISUAL FIRST",
+      "preview": "SANJAY GANDHI'S EXTRA-CONSTITUTIONAL POWER AND ITS EXCESSES",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 370.424
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 309.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 787,
+      "markdown_body_line_end": 804,
+      "heading": "CLOSING RECALL FLOW - CORE - SANJAY GANDHI'S EXTRA-CONSTITUTIONAL POWER AND ITS EXCESSES",
+      "preview": "START / CONCEPT: CORE — Sanjay Gandhi's extra-constitutional power and its excesses",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 278
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 543.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 302.091
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 815,
+      "markdown_body_line_end": 815,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Core claim: The Shah Commission, constituted after the Emergency ended, carried out the formal official reckoning with its excesses, examining the abuses of power that had gone uninvestigated while the Emergency itself was in force.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 148.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 67.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 830,
+      "markdown_body_line_end": 836,
+      "heading": "VISUAL FIRST",
+      "preview": "THE SHAH COMMISSION AND THE RECKONING WITH EXCESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 553.491
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 871,
+      "markdown_body_line_end": 888,
+      "heading": "CLOSING RECALL FLOW - CORE - THE SHAH COMMISSION AND THE RECKONING WITH EXCESS",
+      "preview": "START / CONCEPT: CORE — The Shah Commission and the reckoning with excess",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 261
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 899,
+      "markdown_body_line_end": 899,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The 1977 elections, called in January and held in March, are the polls that defeated Congress and Sanjay Gandhi and ended the Emergency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 914,
+      "markdown_body_line_end": 920,
+      "heading": "VISUAL FIRST",
+      "preview": "THE 1977 ELECTIONS AND THE EMERGENCY'S END",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 955,
+      "markdown_body_line_end": 972,
+      "heading": "CLOSING RECALL FLOW - CORE - THE 1977 ELECTIONS AND THE EMERGENCY'S END",
+      "preview": "START / CONCEPT: CORE — The 1977 elections and the Emergency's end",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 185
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 298.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 77.691
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 983,
+      "markdown_body_line_end": 983,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The 44th Amendment of 1978 is the constitutional change, passed after the Emergency ended, that reversed many 42nd Amendment provisions and rebuilt rights safeguards.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 998,
+      "markdown_body_line_end": 1004,
+      "heading": "VISUAL FIRST",
+      "preview": "THE 44TH AMENDMENT, 1978: REBUILDING SAFEGUARDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 352.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1039,
+      "markdown_body_line_end": 1056,
+      "heading": "CLOSING RECALL FLOW - CORE - THE 44TH AMENDMENT, 1978: REBUILDING SAFEGUARDS",
+      "preview": "START / CONCEPT: CORE — The 44th Amendment, 1978: rebuilding safeguards",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 215
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 649.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 418.091
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1067,
+      "markdown_body_line_end": 1067,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "It never acquired a rural or organised working-class base comparable to its urban strength.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 278.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 225.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1082,
+      "markdown_body_line_end": 1088,
+      "heading": "VISUAL FIRST",
+      "preview": "THE JP MOVEMENT'S SOCIAL BASE: STRENGTH AND LIMITATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1123,
+      "markdown_body_line_end": 1140,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - THE JP MOVEMENT'S SOCIAL BASE: STRENGTH AND LIMITATION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — The JP movement's social base: strength and limitation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 271.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 50.491
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1151,
+      "markdown_body_line_end": 1151,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A balanced verdict on the Emergency must specify precisely what held, the electoral machinery, and what failed, Parliament, the ruling party and the judiciary's protection of personal liberty in the detention cases.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1166,
+      "markdown_body_line_end": 1172,
+      "heading": "VISUAL FIRST",
+      "preview": "WHAT HELD AND WHAT FAILED: A BALANCED VERDICT",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 352.024
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1207,
+      "markdown_body_line_end": 1224,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - WHAT HELD AND WHAT FAILED: A BALANCED VERDICT",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — What held and what failed: a balanced verdict",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 244
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 620.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 389.691
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1235,
+      "markdown_body_line_end": 1235,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The 2025 Emergency commemoration is the Union Cabinet's 25 June 2025 resolution marking fifty years since the Emergency, cited to PIB PRID 2139543.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 249.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 183.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1250,
+      "markdown_body_line_end": 1256,
+      "heading": "VISUAL FIRST",
+      "preview": "FIFTY YEARS OF THE EMERGENCY: THE 2025 COMMEMORATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 672.691
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1291,
+      "markdown_body_line_end": 1308,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - FIFTY YEARS OF THE EMERGENCY: THE 2025 COMMEMORATION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Fifty years of the Emergency: the 2025 commemoration",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 196
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2336,
+      "markdown_body_line_end": 2344,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 463.691
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 201.09
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2364,
+      "markdown_body_line_end": 2371,
+      "heading": "2. Key classification / data",
+      "preview": "Dimension | Advanced takeaway",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "Advanced takeaway"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 608.091
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 456.29
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2375,
+      "markdown_body_line_end": 2378,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ The de-institutionalisation that preceded the crisis → `advanced/34_From-Shastri-to-Indira-1964-73.md`. **Study link:** ✅ The Janata aftermath and Indira's return → `advanced/36_Janata-Interregnum-Indiras-Return-and-Region",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 456.29
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 332.822
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2391,
+      "markdown_body_line_end": 2391,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Chandra insists **both** protagonists spurned the democratic option — JP's call for defiance and Indira's refusal to hold elections — so the crisis was avoidable.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 179.222
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 112.554
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2418,
+      "markdown_body_line_end": 2428,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: The 1972-73 economic crisis",
+      "preview": "TWIN MONSOON FAILURES + 1973 OIL SHOCK -> deepening scarcity",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 399.691
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 296.891
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2432,
+      "markdown_body_line_end": 2437,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Nav Nirman and the Bihar movement, 1974",
+      "preview": "NAV NIRMAN -> Gujarat, JANUARY 1974; students protest prices and corruption",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2441,
+      "markdown_body_line_end": 2446,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: The railway strike, May 1974",
+      "preview": "ALL-INDIA RAILWAY STRIKE -> MAY 1974, lasting 22 days",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2450,
+      "markdown_body_line_end": 2455,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: The Allahabad High Court judgment, 12 June 1975",
+      "preview": "PETITIONER -> Raj Narain",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2459,
+      "markdown_body_line_end": 2464,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: The Supreme Court's conditional stay, 24 June 1975",
+      "preview": "COURT -> Supreme Court, Justice V.R. Krishna Iyer",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2468,
+      "markdown_body_line_end": 2473,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: The proclamation: dated 25 June, announced 26 June",
+      "preview": "JP'S DELHI RALLY -> 25 JUNE 1975; calls for civil disobedience",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2477,
+      "markdown_body_line_end": 2482,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Instruments of the Emergency: MISA, censorship, 42nd Amendment",
+      "preview": "DETENTIONS -> under MISA; over 100,000 held without trial, ~19 months",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2486,
+      "markdown_body_line_end": 2491,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Sanjay Gandhi's extra-constitutional power and its excesses",
+      "preview": "POSITION -> no formal office; extra-constitutional power centre",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 292.691
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2495,
+      "markdown_body_line_end": 2500,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: 1977: the electoral reversal",
+      "preview": "ELECTIONS CALLED -> January 1977",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2504,
+      "markdown_body_line_end": 2513,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: What held and what failed",
+      "preview": "HELD -> the electoral machinery itself; free verdict delivered in 1977",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2517,
+      "markdown_body_line_end": 2526,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: The JP movement's social base",
+      "preview": "BASE -> students, middle class, traders, intelligentsia",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 598.891
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2530,
+      "markdown_body_line_end": 2535,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Fifty years of the Emergency, 2025",
+      "preview": "EVENT -> Union Cabinet resolution, 25 JUNE 2025",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 484.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 432.491
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    }
+  ]
+}

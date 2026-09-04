@@ -1,0 +1,1702 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-21\\g2\\modern-indian-history-21_Complete-Learning-Session_2026-08-31.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-21\\g2\\modern-indian-history-21_Complete-Learning-Session_2026-08-31.pdf",
+  "mode": "main",
+  "topic_key": "modern-indian-history-21",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 16,
+      "markdown_body_line_end": 23,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 505.89
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 46,
+      "markdown_body_line_end": 46,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-21\\g2\\assets\\modern-indian-history-21_Teaching-Navigation_2026-08-31.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 771.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 464.356
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 60,
+      "markdown_body_line_end": 60,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The 1922 strategic vacuum is Congress's post-withdrawal need to choose a new method, resolved through the No-changer/Pro-changer debate rather than an organisational split.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 291.156
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 224.488
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 75,
+      "markdown_body_line_end": 82,
+      "heading": "VISUAL FIRST",
+      "preview": "THE 1922 STRATEGIC VACUUM AND THE NO-CHANGER/PRO-CHANGER DEBATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 118,
+      "markdown_body_line_end": 135,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE 1922 STRATEGIC VACUUM AND THE NO-CHANGER/PRO-CHANGER DEBATE",
+      "preview": "START / CONCEPT: FOUNDATION — The 1922 strategic vacuum and the No-changer/Pro-changer debate",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 221
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 146,
+      "markdown_body_line_end": 146,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: No-changer continuity is the sustained pursuit of Gandhian constructive work as preparation for future struggle, rather than a passive retreat from politics.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 403.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 336.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 161,
+      "markdown_body_line_end": 168,
+      "heading": "VISUAL FIRST",
+      "preview": "NO-CHANGERS AND CONSTRUCTIVE WORK AFTER WITHDRAWAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 204,
+      "markdown_body_line_end": 221,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - NO-CHANGERS AND CONSTRUCTIVE WORK AFTER WITHDRAWAL",
+      "preview": "START / CONCEPT: FOUNDATION — No-changers and constructive work after withdrawal",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 206
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 232,
+      "markdown_body_line_end": 232,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Council-entry logic is the Swarajist argument that entering the legislatures to obstruct government exposes colonial reform's limits rather than legitimising colonial rule.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 427.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 361.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 247,
+      "markdown_body_line_end": 254,
+      "heading": "VISUAL FIRST",
+      "preview": "SWARAJ PARTY FORMATION AND COUNCIL-ENTRY LOGIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 290,
+      "markdown_body_line_end": 307,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - SWARAJ PARTY FORMATION AND COUNCIL-ENTRY LOGIC",
+      "preview": "START / CONCEPT: FOUNDATION — Swaraj Party formation and council-entry logic",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 237
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 318,
+      "markdown_body_line_end": 318,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The Swarajist record is the demonstrated legislative fact that an elected Indian majority could obstruct dyarchy without being able to govern under it.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 354.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 333,
+      "markdown_body_line_end": 340,
+      "heading": "VISUAL FIRST",
+      "preview": "SWARAJIST ACHIEVEMENTS IN THE 1923 LEGISLATURES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 376,
+      "markdown_body_line_end": 393,
+      "heading": "CLOSING RECALL FLOW - CORE - SWARAJIST ACHIEVEMENTS IN THE 1923 LEGISLATURES",
+      "preview": "START / CONCEPT: CORE — Swarajist achievements in the 1923 legislatures",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 200
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 404,
+      "markdown_body_line_end": 404,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Swarajist decline is the gradual, post-1925 erosion of obstruction's discipline through leadership loss and the pull of ministerial patronage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 459.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 393.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 419,
+      "markdown_body_line_end": 426,
+      "heading": "VISUAL FIRST",
+      "preview": "SWARAJIST DECLINE AFTER 1925",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 462,
+      "markdown_body_line_end": 479,
+      "heading": "CLOSING RECALL FLOW - CORE - SWARAJIST DECLINE AFTER 1925",
+      "preview": "START / CONCEPT: CORE — Swarajist decline after 1925",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 191
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 271.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 50.491
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 490,
+      "markdown_body_line_end": 490,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Despite their apparent rupture, the Swarajist and No-changer wings both remained within Congress and reassembled their methods and personnel for the 1930 Civil Disobedience Movement, so the 1920s should be read as continuity rather than an ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 505,
+      "markdown_body_line_end": 512,
+      "heading": "VISUAL FIRST",
+      "preview": "CONTINUITY: BOTH WINGS REASSEMBLE FOR 1930",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 370.424
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 299.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 548,
+      "markdown_body_line_end": 565,
+      "heading": "CLOSING RECALL FLOW - CORE - CONTINUITY: BOTH WINGS REASSEMBLE FOR 1930",
+      "preview": "START / CONCEPT: CORE — Continuity: both wings reassemble for 1930",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 279
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 598.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 367.691
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 576,
+      "markdown_body_line_end": 576,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The republican programme is HRA's October 1924 Kanpur-founded aim of an armed overthrow of colonial rule to establish a republican India, distinct from HSRA's later socialist programme.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 213.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 147.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 591,
+      "markdown_body_line_end": 598,
+      "heading": "VISUAL FIRST",
+      "preview": "HRA FORMATION AND THE REPUBLICAN PROGRAMME",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 716.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 645.491
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 634,
+      "markdown_body_line_end": 651,
+      "heading": "CLOSING RECALL FLOW - CORE - HRA FORMATION AND THE REPUBLICAN PROGRAMME",
+      "preview": "START / CONCEPT: CORE — HRA formation and the republican programme",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 372
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 662,
+      "markdown_body_line_end": 662,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The Kakori conspiracy is the 1925 HRA fund-raising train action and its 1927 trial and executions, the interwar period's first mass revolutionary martyr cult.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 396.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 329.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 677,
+      "markdown_body_line_end": 684,
+      "heading": "VISUAL FIRST",
+      "preview": "KAKORI CONSPIRACY AND THE 1927 EXECUTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 720,
+      "markdown_body_line_end": 737,
+      "heading": "CLOSING RECALL FLOW - CORE - KAKORI CONSPIRACY AND THE 1927 EXECUTIONS",
+      "preview": "START / CONCEPT: CORE — Kakori conspiracy and the 1927 executions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 334
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 748,
+      "markdown_body_line_end": 748,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The Naujawan Bharat Sabha is the March 1926 Lahore youth organisation, an open legal front distinct from the underground HRA/HSRA network, that mobilised socialist and anti-imperialist politics ahead of HSRA's formal 192",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 382.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 301.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 763,
+      "markdown_body_line_end": 770,
+      "heading": "VISUAL FIRST",
+      "preview": "NAUJAWAN BHARAT SABHA AND YOUTH MOBILISATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 806,
+      "markdown_body_line_end": 823,
+      "heading": "CLOSING RECALL FLOW - CORE - NAUJAWAN BHARAT SABHA AND YOUTH MOBILISATION",
+      "preview": "START / CONCEPT: CORE — Naujawan Bharat Sabha and youth mobilisation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 286
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 834,
+      "markdown_body_line_end": 834,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The socialist turn is HRA's reorganisation as HSRA at Ferozeshah Kotla, Delhi, on 9-10 September 1928 - one continuous organisational lineage under a new name, not a rival body - which added an explicit anti-imperialist ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 392.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 311.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 849,
+      "markdown_body_line_end": 856,
+      "heading": "VISUAL FIRST",
+      "preview": "HRA'S REORGANISATION AS HSRA: THE SOCIALIST TURN",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 892,
+      "markdown_body_line_end": 909,
+      "heading": "CLOSING RECALL FLOW - CORE - HRA'S REORGANISATION AS HSRA: THE SOCIALIST TURN",
+      "preview": "START / CONCEPT: CORE — HRA's reorganisation as HSRA: the socialist turn",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 334
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 920,
+      "markdown_body_line_end": 920,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: This causal chain links Lala Lajpat Rai's death from protest injuries to HSRA's retaliatory killing of Saunders and the sharpened confrontation before the Assembly bomb.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 354.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 935,
+      "markdown_body_line_end": 942,
+      "heading": "VISUAL FIRST",
+      "preview": "LALA LAJPAT RAI, SAUNDERS AND THE ROAD TO THE ASSEMBLY BOMB",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 978,
+      "markdown_body_line_end": 995,
+      "heading": "CLOSING RECALL FLOW - CORE - LALA LAJPAT RAI, SAUNDERS AND THE ROAD TO THE ASSEMBLY BOMB",
+      "preview": "START / CONCEPT: CORE — Lala Lajpat Rai, Saunders and the road to the Assembly bomb",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 218
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1006,
+      "markdown_body_line_end": 1006,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not describe the Assembly bomb as an attempt at mass killing; its intent was symbolic and non-lethal by design.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 399.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 346.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1021,
+      "markdown_body_line_end": 1028,
+      "heading": "VISUAL FIRST",
+      "preview": "THE ASSEMBLY BOMB: SYMBOLIC AND NON-LETHAL INTENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1064,
+      "markdown_body_line_end": 1081,
+      "heading": "CLOSING RECALL FLOW - CORE - THE ASSEMBLY BOMB: SYMBOLIC AND NON-LETHAL INTENT",
+      "preview": "START / CONCEPT: CORE — The Assembly bomb: symbolic and non-lethal intent",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 288
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1092,
+      "markdown_body_line_end": 1092,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The Lahore Conspiracy Case is a separate, later Special Tribunal proceeding from the Assembly Bomb Case, during which the jail hunger strike and Jatin Das's 1929 death (reported as 63 or 64 days) occurred, distinct from ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 321.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1107,
+      "markdown_body_line_end": 1114,
+      "heading": "VISUAL FIRST",
+      "preview": "LAHORE CONSPIRACY CASE, THE JAIL HUNGER STRIKE AND JATIN DAS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 102
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1150,
+      "markdown_body_line_end": 1167,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - LAHORE CONSPIRACY CASE, THE JAIL HUNGER STRIKE AND JATIN DAS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Lahore Conspiracy Case, the jail hunger strike and Jatin Das",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 305
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1178,
+      "markdown_body_line_end": 1178,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mains: Use the thinker-not-only-martyr framing directly for 'evaluate Bhagat Singh as a political thinker' demands.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 393.491
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 341.024
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1193,
+      "markdown_body_line_end": 1200,
+      "heading": "VISUAL FIRST",
+      "preview": "BHAGAT SINGH AS RATIONALIST POLITICAL THINKER AND THE 1931 EXECUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1236,
+      "markdown_body_line_end": 1253,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - BHAGAT SINGH AS RATIONALIST POLITICAL THINKER AND THE 1931 EXECUTION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Bhagat Singh as rationalist political thinker and the 1931 execution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 391
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 513.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1264,
+      "markdown_body_line_end": 1264,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Core claim: The Chittagong Armoury Raid of 1930 in Bengal, led by Surya Sen and including women revolutionaries, represents an attempted seizure of a locality rather than an individual action, showing that revolutionary nationalism in the 1",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 345.091
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 250.024
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1279,
+      "markdown_body_line_end": 1286,
+      "heading": "VISUAL FIRST",
+      "preview": "CHITTAGONG AND THE PLURAL REVOLUTIONARY FIELD OF THE 1920S",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1322,
+      "markdown_body_line_end": 1339,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - CHITTAGONG AND THE PLURAL REVOLUTIONARY FIELD OF THE 1920S",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Chittagong and the plural revolutionary field of the 1920s",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 394
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 523.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2152,
+      "markdown_body_line_end": 2153,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 366.491
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 299.824
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2159,
+      "markdown_body_line_end": 2161,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 248.224
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 151.322
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2167,
+      "markdown_body_line_end": 2167,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 112.122
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 67.454
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2376,
+      "markdown_body_line_end": 2386,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 764.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 526.49
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2406,
+      "markdown_body_line_end": 2415,
+      "heading": "2. Key classification / data",
+      "preview": "Stream / figure | Advanced significance",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Stream / figure",
+          "Advanced significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 537.09
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2419,
+      "markdown_body_line_end": 2421,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Non-Cooperation withdrawal and Gandhian constructive programme → `advanced/20_Non-Cooperation-and-Khilafat-Movement.md`. **Study link:** ✅ Simon Commission protests and Lala Lajpat Rai's death → `advanced/22_Simon-Nehru-Re",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 537.09
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 427.822
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2437,
+      "markdown_body_line_end": 2437,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Do not place Bhagat Singh in Kakori; his major cases are Saunders, Assembly Bomb and Lahore Conspiracy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 222.622
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 155.954
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2462,
+      "markdown_body_line_end": 2472,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Post-1922 debate chronology",
+      "preview": "FEB 1922 -> Non-Cooperation withdrawn; Congress faces a strategic vacuum",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 482.691
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 379.891
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2476,
+      "markdown_body_line_end": 2483,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: No-changer vs Swarajist comparison",
+      "preview": "AXIS         NO-CHANGERS                     SWARAJISTS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 357.891
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 285.691
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2487,
+      "markdown_body_line_end": 2493,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Swarajist rise-and-decline arc",
+      "preview": "1 JAN 1923 -> Swaraj Party founded for council-entry and obstruction",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2497,
+      "markdown_body_line_end": 2503,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: HRA formation and republican programme",
+      "preview": "OCT 1924, KANPUR -> Hindustan Republican Association founded",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2507,
+      "markdown_body_line_end": 2513,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Kakori-to-executions sequence",
+      "preview": "1925 -> Kakori train action raises funds for revolutionary activity",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2517,
+      "markdown_body_line_end": 2523,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Naujawan Bharat Sabha bridge",
+      "preview": "MARCH 1926, LAHORE -> Naujawan Bharat Sabha founded",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2527,
+      "markdown_body_line_end": 2533,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: HRA to HSRA ideological turn",
+      "preview": "AXIS          HRA (from Oct 1924, Kanpur)       HSRA (from Sep 1928, Ferozeshah Kotla)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 389.291
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2537,
+      "markdown_body_line_end": 2543,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Lajpat Rai to Saunders causal chain",
+      "preview": "SIMON COMMISSION PROTEST -> lathi-charge injures Lala Lajpat Rai",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 367.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2547,
+      "markdown_body_line_end": 2553,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Assembly bomb symbolic logic",
+      "preview": "8 APRIL 1929 -> Bhagat Singh and Batukeshwar Dutt act in the Assembly",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2557,
+      "markdown_body_line_end": 2566,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Lahore Conspiracy Case and jail resistance",
+      "preview": "CASE -> Lahore Conspiracy Case (separate from Assembly Bomb Case) tries Singh, Sukhdev, Rajguru",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 610.691
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2570,
+      "markdown_body_line_end": 2579,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Bhagat Singh's thought and martyrdom",
+      "preview": "POSITION -> rationalist, atheist and socialist political thought",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 588.691
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 496.091
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2583,
+      "markdown_body_line_end": 2589,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Four streams balance sheet incl. Chittagong",
+      "preview": "STREAM 1 -> Swarajists expose dyarchy from inside the legislatures",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 474.091
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 412.091
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    }
+  ]
+}

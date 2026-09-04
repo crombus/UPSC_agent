@@ -1,0 +1,236 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Jainism: central question and analytical axes
+
+```ascii-master
+JAINISM — CONCEPTUAL ATLAS
+
+
+KEY TERMS: Jainism • jīva • ajīva • anekāntavāda • karma • triratna
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Jainism
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       Jain philosophy combines pluralistic realism, anekāntavāda…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: JAIN FRAMEWORK, SOURCES AND SOTERIOLOGICAL AIM
+  • Jainism
+  • Jīva becomes bound when passions attract karmic matter, while…
+AXIS 2: PRAMĀṆA, KNOWLEDGE AND ANEKĀNTAVĀDA
+  • Pramāṇa
+  • In the strict Jaina sense, pratyakṣa means knowledge that the…
+AXIS 3: SEVEN TATTVAS, NINE PADĀRTHAS AND KARMA-PRAKṚTIS
+  • Seven Tattvas
+  • The seven tattvas (real categories for liberation-analysis) are…
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  Jainism • jīva • ajīva • anekāntavāda
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Jiva–ajiva ontology, substance, quality and modes
+
+```ascii-master
+JIVA–AJIVA ONTOLOGY, SUBSTANCE, QUALITY AND MODES
+│
+
+KEY TERMS: Jainism • jīva • ajīva • anekāntavāda • karma • triratna
+├── KEY CONCEPTS
+│   ├── Jainism
+│   ├── jīva
+│   ├── ajīva
+│   ├── anekāntavāda
+│   └── karma
+│
+├── JAIN FRAMEWORK, SOURCES AND SOTERIOLOGICAL AIM
+│   ├─ TERMS: Jain philosophy combines pluralistic realism, anekāntavāda…
+│   ├─ LOGIC: Jīva becomes bound when passions attract karmic matter, while right…
+│   └─ RESULT: Liberation requires both epistemic non-absolutism and rigorous…
+├── JĪVA, AJĪVA, DRAVYA, GUṆA AND PARYĀYA
+│   ├─ TERMS: Jainism (Jina-centred path of many-sided reality and liberation) is…
+│   ├─ LOGIC: The body, speech, and even karmic matter belong to ajīva
+│   └─ RESULT: Guṇa is not the same as paryāya: qualities belong to the substance…
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Knowledge, anekantavada, nayavada and syadvada logic
+
+```ascii-master
+KNOWLEDGE, ANEKANTAVADA, NAYAVADA AND SYADVADA LOGIC
+
+
+KEY TERMS: Pramāṇa • Knowledge • Anekāntavāda • pratyakṣa • parokṣa • sāṃvyavahārika
+KEY TERMS: pratyakṣa
+CAUSE / CONDITION 1: In the strict Jaina sense, pratyakṣa means knowledge that the…
+          │
+          ├── MECHANISM
+          │   In the strict Jaina sense, pratyakṣa means knowledge that the soul…
+          │
+          └── EFFECT / CONTRAST
+              The five jñānas are not five independent pramāṇas in the Nyāya sense
+          │
+          ▼
+CAUSE / CONDITION 2: Nayavāda teaches that every ordinary judgement expresses a…
+          │
+          ├── MECHANISM
+          │   They matter because many philosophical disputes are verbal…
+          │
+          └── EFFECT / CONTRAST
+              Do not confuse nayas (standpoints) with the sevenfold predications…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Karmic bondage, triratna and the liberation mechanism
+
+```ascii-master
+KARMIC BONDAGE, TRIRATNA AND THE LIBERATION MECHANISM
+
+
+KEY TERMS: Karmic Bondage • Triratna • Liberation • pudgala • material • āsrava - bandha -
+KEY TERMS: saṃvara - nirjarā…
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ KARMIC BONDAGE,        │ Anger or greed in the soul is │ Unlike Buddhist nirvāṇa, it   │
+│ TRIRATNA AND           │ bhāvabandha                   │ is liberation of a distinct   │
+│ LIBERATION             │                               │ enduring…                     │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Tattvas, karma types, gunasthanas and sallekhana
+
+```ascii-master
+TATTVAS, KARMA TYPES, GUNASTHANAS AND SALLEKHANA
+
+
+KEY TERMS: Seven Tattvas • Nine Padārthas • Karma-Prakṛtis • tattvas • jīva • ajīva
+                 CLAIM / SYSTEM UNDER EXAMINATION
+                                  │
+                                  ▼
+PROBLEM / OBJECTION 1
+  ├─ ISSUE: The jīva-karma relation is anādi (beginningless) but not endless
+  ├─ RESPONSE / CONTROL: The seven tattvas (real categories for
+  ├─ RESPONSE / CONTROL: liberation-analysis) are…
+  └─ QUALIFIED VERDICT: Jaina mokṣa is not acquisition of God’s grace, not merger
+  └─ QUALIFIED VERDICT: into…
+                  │
+                  ▼
+PROBLEM / OBJECTION 2
+  ├─ ISSUE: A lamp with its obscuring cover removed shines fully even before…
+  ├─ RESPONSE / CONTROL: Jainism distinguishes sallekhanā from ātma-ghāta
+  ├─ RESPONSE / CONTROL: (suicide): suicide…
+  └─ QUALIFIED VERDICT: Stage 4 is a breakthrough in right vision
+                                  │
+                                  ▼
+FINAL CONTROL: preserve the strongest insight while stating its limit.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Inter-school comparisons, objections and Jain replies
+
+```ascii-master
+INTER-SCHOOL COMPARISONS, OBJECTIONS AND JAIN REPLIES
+
+
+KEY TERMS: Jain realism • Buddhist momentariness • Advaita non-dualism • Cārvāka materialism
+KEY TERMS: • anekāntavāda • jīva
+CAUSE / CONDITION 1: Jainism combines enduring substances with changing modes…
+          │
+          ├── MECHANISM
+          │   The comparison turns on whether reality contains enduring…
+          │
+          └── EFFECT / CONTRAST
+              Jainism preserves plurality and persistence while explaining change…
+          │
+          ▼
+CAUSE / CONDITION 2: Jainism replies through utpāda-vyaya-dhrauvya: origination…
+          │
+          ├── MECHANISM
+          │   Opposed predicates are indexed to distinct standpoints
+          │
+          └── EFFECT / CONTRAST
+              The Jaina answer again uses standpoint-indexing: the same dravya…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Jainism: traps, PYQ routes and applied recall
+
+```ascii-master
+JAINISM: TRAPS, PYQ ROUTES AND APPLIED RECALL
+
+
+KEY TERMS: Jainism • jīva • ajīva • anekāntavāda • karma • triratna
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── Do not reduce anekāntavāda to relativism, because Jainism affirms a…
+├── In exam answers, do not confuse these five kinds of knowledge with…
+├── The jīva-karma relation is anādi (beginningless) but not endless
+├── The reply is internally coherent within Jaina pluralism, but the…
+│
+├── 2018 · Q6(c) · 15 marks
+├── Explain the mechanism of bondage, not merely define karma
+├── Compare the bound and liberated soul on identity, embodiment, cognition and…
+├── “Discuss” requires one conceptual difficulty and a balanced conclusion
+│
+└── Jainism links ontology, epistemology and ethics: reality has many…
+└── When all karmic matter is gone, liberation occurs
+└── Opposed predicates are indexed to distinct standpoints: dravya…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Jainism: integrated revision and answer-writing spine
+
+```ascii-master
+JAINISM — ANSWER / REVISION SPINE
+
+
+KEY TERMS: Jainism • jīva • ajīva • anekāntavāda • karma • triratna
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ Jain philosophy combines pluralistic realism, anekāntavāda…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ Jainism
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ They matter because many philosophical disputes are verbal…
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ ajīva
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ The reply is internally coherent within Jaina pluralism, but the…
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ Opposed predicates are indexed to distinct standpoints: dravya…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

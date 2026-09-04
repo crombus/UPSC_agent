@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-i-indian-philosophy-02",
+  "generation": 9,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-02\\g9\\topic-02_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    8408
+  ],
+  "stages": [
+    {
+      "title": "JAIN FRAMEWORK, SOURCES AND SOTERIOLOGICAL AIM",
+      "terms": "Jain philosophy combines pluralistic realism, anekāntavāda, standpoint-conditioned predication and a material theory of karma within one soteriological system.",
+      "mechanism": "Jīva becomes bound when passions attract karmic matter, while right faith, knowledge and conduct stop influx and shed accumulated karma.",
+      "consequence": "Liberation requires both epistemic non-absolutism and rigorous ethical purification rather than mere intellectual assent.",
+      "trap": "Do not reduce anekāntavāda to relativism, because Jainism affirms a mind-independent plural reality while limiting finite predication.",
+      "answer": "Jainism links ontology, epistemology and ethics: reality has many aspects, finite judgments are standpoint-bound, and disciplined conduct removes material karmic bondage."
+    },
+    {
+      "title": "JĪVA, AJĪVA, DRAVYA, GUṆA AND PARYĀYA",
+      "terms": "Jainism (Jina-centred path of many-sided reality and liberation) is a pluralist realism in which anekāntavāda (doctrine of many-sided reality) holds that enduring dravya (substance) possesses guṇa (qualities) and changing paryāya (modes).",
+      "mechanism": "Example. ✅ The body, speech, and even karmic matter belong to ajīva; the conscious experiencer bound by them is jīva.",
+      "consequence": "Distinction. ✅ Guṇa is not the same as paryāya: qualities belong to the substance as abiding characteristics; modes are changing states or manifestations.",
+      "trap": "Six dravyas; five are astikāyas, while kāla is a dravya but not an astikāya.",
+      "answer": "Jainism (Jina-centred path of many-sided reality and liberation) is a pluralist realism in which anekāntavāda (doctrine of many-sided reality) holds that enduring dravya (substance) possesses guṇa (qualities) and changing paryāya (modes)."
+    },
+    {
+      "title": "PRAMĀṆA, KNOWLEDGE AND ANEKĀNTAVĀDA",
+      "terms": "Argument. ✅ ✅ In the strict Jaina sense, pratyakṣa means knowledge that the soul knows directly without mediation by senses or mind. ✅ Ordinary sense-perception is therefore not ultimate direct knowledge; it is only sāṃvyavahārika pratyakṣa (empirical or conventional direct knowledge). ✅ Strictly, ordinary sense-and-mind cognition belongs with mediated cognition because it depends on sense-organs, mind, signs, and karmic limitation. ⚠️ This reverses the usual classroom expectation that perception is the primary direct pramāṇa.",
+      "mechanism": "Argument. ✅ ✅ In the strict Jaina sense, pratyakṣa means knowledge that the soul knows directly without mediation by senses or mind. ✅ Ordinary sense-perception is therefore not ultimate direct knowledge; it is only sāṃvyavahārika pratyakṣa (empirical or conventional direct knowledge). ✅ Strictly, ordinary sense-and-mind cognition belongs with mediated cognition because it depends on sense-organs, mind, signs, and karmic limitation. ⚠️ This reverses the usual classroom expectation that perception is the primary direct pramāṇa.",
+      "consequence": "Distinction. ✅ The five jñānas are not five independent pramāṇas in the Nyāya sense; they are Jaina modes of knowledge mapped to bondage and purification.",
+      "trap": "Objection (Nyāya objection). ✅ Nyāya can argue that memory merely reproduces past knowledge and is not a new pramāṇa.",
+      "answer": "Statement. ✅ Anekāntavāda is not an arbitrary logical device; it is the epistemological consequence of Jaina metaphysics plus Jaina theory of knowledge."
+    },
+    {
+      "title": "NAYAVĀDA, SYĀDVĀDA AND SAPTABHAṄGĪ",
+      "terms": "Statement. ✅ Nayavāda teaches that every ordinary judgement expresses a naya, a standpoint that captures one aspect of the real.",
+      "mechanism": "Reply. ⚠️ They matter because many philosophical disputes are verbal absolutizations of context-bound usage.",
+      "consequence": "Distinction. ✅ Do not confuse nayas (standpoints) with the sevenfold predications of syādvāda.",
+      "trap": "Distinction. ✅ In exam answers, do not confuse these five kinds of knowledge with the seven nayas or the sevenfold predications.",
+      "answer": "Statement. ✅ The saptabhaṅgī is the sevenfold schema of conditional predication produced by combining affirmation, negation, and indescribability under the qualifier syāt."
+    },
+    {
+      "title": "KARMIC BONDAGE, TRIRATNA AND LIBERATION",
+      "terms": "Example. ✅ Anger or greed in the soul is bhāvabandha; the karmic matter drawn and fixed by that passion is dravyabandha.",
+      "mechanism": "Reply. ✅ The distinction helps Jainism explain both moral agency and ontological consequence: one is the soul’s state, the other is the karmic material result.",
+      "consequence": "Unlike Buddhist nirvāṇa, it is liberation of a distinct enduring jīva.",
+      "trap": "Do not miss this limiting distinction: thus psychic and material bondage are distinct yet interlinked.",
+      "answer": "When all karmic matter is gone, liberation occurs."
+    },
+    {
+      "title": "SEVEN TATTVAS, NINE PADĀRTHAS AND KARMA-PRAKṚTIS",
+      "terms": "Statement. ✅ The seven tattvas (real categories for liberation-analysis) are jīva, ajīva, āsrava, bandha, saṃvara, nirjarā, and mokṣa.",
+      "mechanism": "Statement. ✅ The seven tattvas (real categories for liberation-analysis) are jīva, ajīva, āsrava, bandha, saṃvara, nirjarā, and mokṣa.",
+      "consequence": "Distinction. ✅ Jaina mokṣa is not acquisition of God’s grace, not merger into Brahman, and not annihilation of self; it is release of an individual jīva from karmic matter.",
+      "trap": "Reply. ✅ The jīva-karma relation is anādi (beginningless) but not endless; like seed-and-tree or ore-and-gold analogies, there is no first temporal term, but purification can terminate the bondage.",
+      "answer": "Statement. ✅ The nine padārthas are the same seven tattvas plus puṇya (merit) and pāpa (demerit)."
+    },
+    {
+      "title": "GUṆASTHĀNAS, SALLEKHANĀ AND THE ASCENT TO KEVALA",
+      "terms": "Distinction. ✅ Jainism distinguishes sallekhanā from ātma-ghāta (suicide): suicide is passion-driven, sudden, violent, often concealed, and motivated by despair or aversion; sallekhanā is passion-free, non-violent, gradual, supervised, and public.",
+      "mechanism": "Distinction. ✅ Jainism distinguishes sallekhanā from ātma-ghāta (suicide): suicide is passion-driven, sudden, violent, often concealed, and motivated by despair or aversion; sallekhanā is passion-free, non-violent, gradual, supervised, and public.",
+      "consequence": "Distinction. ✅ Stage 4 is a breakthrough in right vision; it is not yet complete ascetic conduct.",
+      "trap": "Example. ✅ A lamp with its obscuring cover removed shines fully even before the lamp is relocated; similarly the arhat is omniscient while embodied.",
+      "answer": "Statement. ✅ The guṇasthānas are fourteen ordered stages marking the soul’s gradual movement from delusion to omniscience and final liberation."
+    },
+    {
+      "title": "JAINISM IN INTER-SCHOOL COMPARISON",
+      "terms": "Jainism combines enduring substances with changing modes, thereby opposing Buddhist momentariness, Advaita's ultimate non-duality and Cārvāka's rejection of supersensible bondage.",
+      "mechanism": "The comparison turns on whether reality contains enduring substances, whether a permanent self exists and whether karmic bondage is metaphysically real.",
+      "consequence": "Jainism preserves plurality and persistence while explaining change through modes, but rivals challenge the coherence of combining permanence and alteration.",
+      "trap": "Do not equate Jain non-absolutism with Buddhist emptiness or Advaita's claim that plurality is ultimately sublated.",
+      "answer": "Jainism occupies a distinctive middle position: it is realist without absolutist finite predication and pluralist without denying the disciplined possibility of truth."
+    },
+    {
+      "title": "NAMED CRITICISMS AND JAIN REPLIES",
+      "terms": "Jaina reply. ✅ Jainism replies through utpāda-vyaya-dhrauvya: origination, cessation, and permanence are simultaneously real features of every sat; the substance is permanent qua dravya and changing qua paryāya.",
+      "mechanism": "The operative mechanism is that jaina reply. ✅ ✅ Opposed predicates are indexed to distinct standpoints.",
+      "consequence": "Jaina reply. ✅ The Jaina answer again uses standpoint-indexing: the same dravya persists while paryāyas arise and cease, so the opposition is between aspects, not within one unqualified predication.",
+      "trap": "Assessment. ⚠️ The reply is internally coherent within Jaina pluralism, but the interaction of conscious pradeśa-bearing jīva and matter remains a debated point.",
+      "answer": "Jaina reply. ✅ ✅ Opposed predicates are indexed to distinct standpoints: dravya (substance), kṣetra (place), kāla (time), and bhāva (mode). ✅ There is no contradiction unless affirmation and negation are made in the same respect, place, time, and mode. ✅ Syādvāda is itself asserted syāt; this reflexive qualification is a virtue because the doctrine obeys its own rule. ⚠️ A residual objection remains: if syādvāda is always qualified, critics may say it loses final assertoric force."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 2,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 6208,
+      "y_end": 8408,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    }
+  ]
+}

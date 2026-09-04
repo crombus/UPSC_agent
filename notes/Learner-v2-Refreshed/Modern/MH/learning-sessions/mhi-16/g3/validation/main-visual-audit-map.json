@@ -1,0 +1,1702 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-16\\g3\\modern-indian-history-16_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-16\\g3\\modern-indian-history-16_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "modern-indian-history-16",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 16,
+      "markdown_body_line_end": 23,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 437.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 139.89
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 45,
+      "markdown_body_line_end": 45,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-16\\g3\\assets\\modern-indian-history-16_Teaching-Navigation_2026-08-31.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 546.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 238.756
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 59,
+      "markdown_body_line_end": 59,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not flatten separate organisations and theatres into one central command.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 79,
+      "heading": "VISUAL FIRST",
+      "preview": "BOUNDARY, CHRONOLOGY AND THEATRE MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 576.224
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 525.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 114,
+      "markdown_body_line_end": 131,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - BOUNDARY, CHRONOLOGY AND THEATRE MAP",
+      "preview": "START / CONCEPT: FOUNDATION — Boundary, chronology and theatre map",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 142,
+      "markdown_body_line_end": 142,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: This subtopic explains how the decline of open Swadeshi mobilisation created conditions in which some younger nationalists chose clandestine action and exemplary sacrifice.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 157,
+      "markdown_body_line_end": 166,
+      "heading": "VISUAL FIRST",
+      "preview": "SWADESHI REPRESSION AND THE ARMED TURN",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 201,
+      "markdown_body_line_end": 218,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - SWADESHI REPRESSION AND THE ARMED TURN",
+      "preview": "START / CONCEPT: FOUNDATION — Swadeshi repression and the armed turn",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 219
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 297.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 66.091
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 229,
+      "markdown_body_line_end": 229,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Technical definition: For exam use, it is a conceptual unit defining the category, its mechanism and its changing political form within Revolutionary Nationalism (Phase I, 1907-1917).",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 244,
+      "markdown_body_line_end": 249,
+      "heading": "VISUAL FIRST",
+      "preview": "REVOLUTIONARY THEORY, METHODS AND SOCIAL CEILING",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 376.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 284,
+      "markdown_body_line_end": 301,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - REVOLUTIONARY THEORY, METHODS AND SOCIAL CEILING",
+      "preview": "START / CONCEPT: FOUNDATION — Revolutionary theory, methods and social ceiling",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 212
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 716.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 485.691
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 312,
+      "markdown_body_line_end": 312,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Anushilan Samiti and Dacca Anushilan developed connected but distinct organisational histories.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 360.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 307.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 327,
+      "markdown_body_line_end": 333,
+      "heading": "VISUAL FIRST",
+      "preview": "ANUSHILAN, DACCA ANUSHILAN AND JUGANTAR",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 369,
+      "markdown_body_line_end": 386,
+      "heading": "CLOSING RECALL FLOW - CORE - ANUSHILAN, DACCA ANUSHILAN AND JUGANTAR",
+      "preview": "START / CONCEPT: CORE — Anushilan, Dacca Anushilan and Jugantar",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 338.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 117.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 397,
+      "markdown_body_line_end": 397,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: This subtopic explains how the April 1908 Muzaffarpur attack and the 1908-09 Alipore Bomb Case were causally linked but legally and factually distinct.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 412,
+      "markdown_body_line_end": 418,
+      "heading": "VISUAL FIRST",
+      "preview": "MUZAFFARPUR ACTION AND ALIPORE PROSECUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 366.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 454,
+      "markdown_body_line_end": 471,
+      "heading": "CLOSING RECALL FLOW - CORE - MUZAFFARPUR ACTION AND ALIPORE PROSECUTION",
+      "preview": "START / CONCEPT: CORE — Muzaffarpur action and Alipore prosecution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 716.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 475.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 482,
+      "markdown_body_line_end": 482,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not merge the 1897 Poona killings, Abhinav Bharat's formation and the 1909 Nasik action.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 335.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 283.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 497,
+      "markdown_body_line_end": 503,
+      "heading": "VISUAL FIRST",
+      "preview": "MAHARASHTRA, ABHINAV BHARAT AND THE NASIK CASE",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 539,
+      "markdown_body_line_end": 556,
+      "heading": "CLOSING RECALL FLOW - CORE - MAHARASHTRA, ABHINAV BHARAT AND THE NASIK CASE",
+      "preview": "START / CONCEPT: CORE — Maharashtra, Abhinav Bharat and the Nasik case",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 309.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 78.891
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 567,
+      "markdown_body_line_end": 567,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: This subtopic explains how india House gave students and exiles a London centre for political education, publishing and revolutionary contact.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 582,
+      "markdown_body_line_end": 588,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA HOUSE IDENTITY AND LONDON CONFRONTATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 352.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 624,
+      "markdown_body_line_end": 641,
+      "heading": "CLOSING RECALL FLOW - CORE - INDIA HOUSE IDENTITY AND LONDON CONFRONTATION",
+      "preview": "START / CONCEPT: CORE — India House identity and London confrontation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 716.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 495.691
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 652,
+      "markdown_body_line_end": 652,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: This subtopic explains how paris and continental Europe enabled propaganda, asylum and international visibility beyond the tighter policing of London.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 355.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 289.224
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 667,
+      "markdown_body_line_end": 674,
+      "heading": "VISUAL FIRST",
+      "preview": "EUROPEAN PROPAGANDA AND DIPLOMATIC SPACE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 710,
+      "markdown_body_line_end": 727,
+      "heading": "CLOSING RECALL FLOW - CORE - EUROPEAN PROPAGANDA AND DIPLOMATIC SPACE",
+      "preview": "START / CONCEPT: CORE — European propaganda and diplomatic space",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 299.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 58.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 738,
+      "markdown_body_line_end": 738,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: This subtopic explains how racial exclusion, labour migration and political print created the social and communicative infrastructure from which Ghadar emerged.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 753,
+      "markdown_body_line_end": 760,
+      "heading": "VISUAL FIRST",
+      "preview": "PACIFIC MIGRATION BEFORE GHADAR",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 361.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 796,
+      "markdown_body_line_end": 813,
+      "heading": "CLOSING RECALL FLOW - CORE - PACIFIC MIGRATION BEFORE GHADAR",
+      "preview": "START / CONCEPT: CORE — Pacific migration before Ghadar",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 207
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 716.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 495.691
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 824,
+      "markdown_body_line_end": 824,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: This subtopic explains how ghadar united a migrant-worker base, a printing centre and a programme of secular republican revolt.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 355.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 289.224
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 839,
+      "markdown_body_line_end": 845,
+      "heading": "VISUAL FIRST",
+      "preview": "GHADAR ORGANISATION, PAPER AND PROGRAMME",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 882,
+      "markdown_body_line_end": 899,
+      "heading": "CLOSING RECALL FLOW - CORE - GHADAR ORGANISATION, PAPER AND PROGRAMME",
+      "preview": "START / CONCEPT: CORE — Ghadar organisation, paper and programme",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 321.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 90.091
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 910,
+      "markdown_body_line_end": 910,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: This subtopic explains how the Komagata Maru episode exposed the racial boundary of imperial citizenship and sharpened anger among overseas Indians in 1914.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 925,
+      "markdown_body_line_end": 932,
+      "heading": "VISUAL FIRST",
+      "preview": "KOMAGATA MARU AND RACIAL EXCLUSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 389.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 968,
+      "markdown_body_line_end": 985,
+      "heading": "CLOSING RECALL FLOW - CORE - KOMAGATA MARU AND RACIAL EXCLUSION",
+      "preview": "START / CONCEPT: CORE — Komagata Maru and racial exclusion",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 716.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 485.691
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 996,
+      "markdown_body_line_end": 996,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mains: The failure funnel is intelligence penetration plus coordination weakness plus limited mass support.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 360.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 307.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1011,
+      "markdown_body_line_end": 1018,
+      "heading": "VISUAL FIRST",
+      "preview": "FEBRUARY 1915 PLAN AND FAILURE FUNNEL",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1071,
+      "heading": "CLOSING RECALL FLOW - CORE - FEBRUARY 1915 PLAN AND FAILURE FUNNEL",
+      "preview": "START / CONCEPT: CORE — February 1915 plan and failure funnel",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 299.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 68.891
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1082,
+      "markdown_body_line_end": 1082,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Singapore mutiny began on 15 February 1915 but was not simply a Ghadar operation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1097,
+      "markdown_body_line_end": 1104,
+      "heading": "VISUAL FIRST",
+      "preview": "BERLIN, KABUL AND SINGAPORE IN THE WARTIME NETWORK",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 455.624
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 384.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1140,
+      "markdown_body_line_end": 1157,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - BERLIN, KABUL AND SINGAPORE IN THE WARTIME NETWORK",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Berlin, Kabul and Singapore in the wartime network",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 703.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 482.691
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1168,
+      "markdown_body_line_end": 1168,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: This subtopic explains how the colonial state combined surveillance, informers, special law, trials and armed pursuit to break small clandestine networks.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 342.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 276.224
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1183,
+      "markdown_body_line_end": 1190,
+      "heading": "VISUAL FIRST",
+      "preview": "REPRESSION, LAW AND NETWORK ATTRITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1226,
+      "markdown_body_line_end": 1243,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - REPRESSION, LAW AND NETWORK ATTRITION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Repression, law and network attrition",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 201
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 299.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 68.891
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1254,
+      "markdown_body_line_end": 1254,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Its achievements were psychological defiance, sacrifice, internationalisation and pressure on the state.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1269,
+      "markdown_body_line_end": 1275,
+      "heading": "VISUAL FIRST",
+      "preview": "ACHIEVEMENT, LIMITS, GANDHIAN SHIFT AND PYQ ROUTE",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 441.424
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 380.424
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1312,
+      "markdown_body_line_end": 1329,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - ACHIEVEMENT, LIMITS, GANDHIAN SHIFT AND PYQ ROUTE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Achievement, limits, Gandhian shift and PYQ route",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 210
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 703.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 472.691
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2168,
+      "markdown_body_line_end": 2170,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 205.891
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 125.024
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2176,
+      "markdown_body_line_end": 2178,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 727.39
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2184,
+      "markdown_body_line_end": 2184,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 688.19
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 643.522
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2385,
+      "markdown_body_line_end": 2394,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 279.691
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 74.29
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2414,
+      "markdown_body_line_end": 2423,
+      "heading": "2. Key classification / data",
+      "preview": "Analytical lens | Revolutionary detail",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Analytical lens",
+          "Revolutionary detail"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 528.091
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 277.89
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2427,
+      "markdown_body_line_end": 2430,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Swadeshi repression and decline connect back to `advanced/15_Militant-Nationalism-and-Swadeshi.md`. **Study link:** ✅ World War I opportunity connects forward to `advanced/18_WWI-Home-Rule-and-Lucknow-Pact.md`. **Study lin",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 277.89
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 154.422
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2445,
+      "markdown_body_line_end": 2445,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Early revolutionary nationalism was geographically dispersed but organisationally fragmented.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 691.891
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 639.424
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2468,
+      "markdown_body_line_end": 2477,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Layered chronology from precursor to political transition",
+      "preview": "1897 CHAPEKAR -> armed precursor in Poona",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2481,
+      "markdown_body_line_end": 2488,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Transnational revolutionary network",
+      "preview": "BENGAL -> Anushilan, Dacca Anushilan, Barindra and Jugantar",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2492,
+      "markdown_body_line_end": 2499,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Organisation, publication, leader and arena matrix",
+      "preview": "ANUSHILAN -> Bengal network; not identical to Jugantar",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2503,
+      "markdown_body_line_end": 2510,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: From repression to exemplary action",
+      "preview": "SWADESHI DECLINE + REPRESSION -> impatience with open politics",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 484.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 412.091
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2514,
+      "markdown_body_line_end": 2521,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Muzaffarpur action to Alipore prosecution",
+      "preview": "APR 1908 -> Khudiram Bose and Prafulla Chaki target Kingsford",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 390.091
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 317.891
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2525,
+      "markdown_body_line_end": 2532,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Abhinav Bharat and the Nasik sequence",
+      "preview": "1897 POONA -> Chapekar precursor",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2536,
+      "markdown_body_line_end": 2543,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: India House identity card",
+      "preview": "FOUNDER -> Shyamji Krishna Varma",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2547,
+      "markdown_body_line_end": 2554,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Ghadar print and mobilisation flow",
+      "preview": "MIGRANT GRIEVANCE -> racial exclusion and labour insecurity",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 598.891
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 526.691
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2558,
+      "markdown_body_line_end": 2565,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Komagata Maru voyage and political effect",
+      "preview": "PUNJAB / ASIA -> passengers travel toward Canada",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 504.691
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 432.491
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2569,
+      "markdown_body_line_end": 2578,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: The 1915 failure funnel",
+      "preview": "RETURNING ACTIVISTS -> seek support in Punjab and cantonments",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 410.491
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 317.891
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2582,
+      "markdown_body_line_end": 2592,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: State repression and special-law ladder",
+      "preview": "SURVEILLANCE -> mail, travel, associations and informers",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 684.491
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2596,
+      "markdown_body_line_end": 2603,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Revolutionary and Gandhian strategy matrix",
+      "preview": "REVOLUTIONARY AGENT -> disciplined clandestine vanguard",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 662.491
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 590.291
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    }
+  ]
+}

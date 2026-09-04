@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-i-indian-philosophy-02",
+  "generation": 6,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-02\\topic-02_Complete-Learning-Session_2026-08-22.md",
+  "master_dimensions": [
+    3600,
+    2034
+  ],
+  "stages": [
+    {
+      "title": "CONTEMPORARY-ANCHOR DISCIPLINE",
+      "terms": "Contemporary-anchor discipline: ⚠️ Inference: Use anekāntavāda as a conceptual resource for intellectual humility and sallekhanā as a bounded ethics application.",
+      "mechanism": "⚠️ Inference: Use anekāntavāda as a conceptual resource for intellectual humility and sallekhanā as a bounded ethics application.",
+      "consequence": "Do not invent a fresh legal development or let current application replace the printed metaphysics–logic–liberation syllabus.",
+      "trap": "✅ Fact: A live August 2026 search primarily returned contemporary educational discussion of anekāntavāda and continuing ethical discussion of sallekhanā, not a clearly verified new court ruling in the February–August window.",
+      "answer": "✅ Fact: A live August 2026 search primarily returned contemporary educational discussion of anekāntavāda and continuing ethical discussion of sallekhanā, not a clearly verified new court ruling in the February–August window."
+    },
+    {
+      "title": "MASTER DISTINCTION GATEWAY",
+      "terms": "Master verdict: Jainism is pluralistic realism with epistemic non-absolutism and a material theory of karmic bondage; its unity lies in linking ontology, knowledge, conduct and liberation.",
+      "mechanism": "Reality contains many genuine aspects; finite knowers see only some of them; statements must therefore be qualified; and right knowledge must transform conduct so that karmic bondage can end.",
+      "consequence": "Reality contains many genuine aspects; finite knowers see only some of them; statements must therefore be qualified; and right knowledge must transform conduct so that karmic bondage can end.",
+      "trap": "A live 2026 search found contemporary discussion of anekāntavāda and sallekhanā, used only as labelled conceptual application rather than doctrinal authority.",
+      "answer": "Recommended opening definition: Jainism (Jina-centred path of many-sided reality and liberation) is a pluralist realism in which anekāntavāda (doctrine of many-sided reality) holds that enduring dravya (substance) possesses guṇa (qualities) and changing paryāya (modes)."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2034,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 2
+    }
+  ]
+}

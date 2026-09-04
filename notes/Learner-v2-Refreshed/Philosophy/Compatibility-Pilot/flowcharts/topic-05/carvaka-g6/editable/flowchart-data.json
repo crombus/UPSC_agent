@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-i-indian-philosophy-05",
+  "generation": 6,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-05\\topic-05_Complete-Learning-Session_2026-08-22.md",
+  "master_dimensions": [
+    3600,
+    2035
+  ],
+  "stages": [
+    {
+      "title": "CONTEMPORARY-ANCHOR DISCIPLINE",
+      "terms": "Contemporary-anchor discipline: A February 2026 academic lecture on Puruṣa and Prakṛti is educational context only.",
+      "mechanism": "A February 2026 academic lecture on Puruṣa and Prakṛti is educational context only.",
+      "consequence": "⚠️ Inference: Contemporary mind–body comparisons may clarify the doctrine, but must not be presented as official adoption or as evidence for classical metaphysics.",
+      "trap": "⚠️ Inference: Contemporary mind–body comparisons may clarify the doctrine, but must not be presented as official adoption or as evidence for classical metaphysics.",
+      "answer": "✅ Search finding: A live August 2026 search repeated a non-official claim that a national “Sāṃkhya paradigm” entered Indian mental-health policy; no official government source verified it."
+    },
+    {
+      "title": "MASTER DISTINCTION GATEWAY",
+      "terms": "Master verdict: Sāṃkhya is a realist dualism and evolutionism: Prakṛti transforms, Puruṣa witnesses, and liberation occurs through discriminating their radical difference.",
+      "mechanism": "Master verdict: Sāṃkhya is a realist dualism and evolutionism: Prakṛti transforms, Puruṣa witnesses, and liberation occurs through discriminating their radical difference.",
+      "consequence": "Conclusion. ⚠️ Therefore the five arguments for Prakṛti and the arguments for Puruṣa are not rhetorical flourishes; they discharge an epistemological obligation created by Sāṃkhya's own three-pramāṇa scheme.",
+      "trap": "Statement. ✅ Other proposed pramāṇas — upamāna (comparison), arthāpatti (postulation), anupalabdhi (non-apprehension), sambhava (inclusion/probability) and aitihya (traditional report) — are not rejected as useless; they are reduced to, or included within, these three.",
+      "answer": "Master verdict: Sāṃkhya is a realist dualism and evolutionism: Prakṛti transforms, Puruṣa witnesses, and liberation occurs through discriminating their radical difference."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2035,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 2
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Schools of Buddhism: central question and analytical axes
+
+```ascii-master
+SCHOOLS OF BUDDHISM — CONCEPTUAL ATLAS
+
+
+KEY TERMS: Four Noble Truths • dependent origination • middle way • no-self • momentariness
+KEY TERMS: • nirvāṇa
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Schools of Buddhism
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       Buddhist schools share dependent origination and the cessation of…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: BUDDHIST FOUNDATION, MIDDLE WAY AND SCHOOL MAP
+  • Four Noble Truths
+  • Ignorance conditions craving and suffering, while insight into…
+AXIS 2: MOMENTARINESS, CAUSAL EFFICIENCY AND CONTINUITY
+  • Momentariness
+  • The Buddhist reply is that if the permanent thing remains wholly…
+AXIS 3: MĀDHYAMAKA, EMPTINESS, TWO TRUTHS AND CATUṢKOṬI
+  • Mādhyamaka
+  • Early / Nikāya use: the avyākata / avyākṛta questions are often…
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  Four Noble Truths • dependent origination • middle way • no-self
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Middle Way, Four Noble Truths and dependent origination
+
+```ascii-master
+MIDDLE WAY, FOUR NOBLE TRUTHS AND DEPENDENT ORIGINATION
+│
+
+KEY TERMS: Four Noble Truths • dependent origination • middle way • no-self • momentariness
+KEY TERMS: • nirvāṇa
+├── KEY CONCEPTS
+│   ├── Four Noble Truths
+│   ├── dependent origination
+│   ├── middle way
+│   ├── no-self
+│   └── momentariness
+│
+├── BUDDHIST FOUNDATION, MIDDLE WAY AND SCHOOL MAP
+│   ├─ TERMS: Buddhist schools share dependent origination and the cessation of…
+│   ├─ LOGIC: Ignorance conditions craving and suffering, while insight into…
+│   └─ RESULT: A common practical path can support realist, representationalist…
+├── DEPENDENT ORIGINATION AND THE FOUR NOBLE TRUTHS
+│   ├─ TERMS: The classical chain of dependent origination is expressed through…
+│   ├─ LOGIC: Buddhism states the problem first: duḥkha
+│   └─ RESULT: Its primary concern is soteriological: to show that suffering is…
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Momentariness, causal continuity, no-self and nirvana
+
+```ascii-master
+MOMENTARINESS, CAUSAL CONTINUITY, NO-SELF AND NIRVANA
+
+
+KEY TERMS: Momentariness • Causal Efficiency • Continuity • Kṣaṇikavāda • Arthakriyākāritva
+KEY TERMS: • sat = arthakriyā-samartha
+CAUSE / CONDITION 1: Arthakriyākāritva (causal efficacy / capacity to perform a…
+          │
+          ├── MECHANISM
+          │   The Buddhist reply is that if the permanent thing remains wholly…
+          │
+          └── EFFECT / CONTRAST
+              Santāna: memory belongs to the same causal stream, not to a…
+          │
+          ▼
+CAUSE / CONDITION 2: The person is analysed into five skandhas rūpa —…
+          │
+          ├── MECHANISM
+          │   The question "who attains?" assumes the very self Buddhism rejects
+          │
+          └── EFFECT / CONTRAST
+              The person is analysed into five skandhas rūpa — form/material body…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Vaibhasika, Sautrantika, Yogacara and Madhyamaka compared
+
+```ascii-master
+VAIBHASIKA, SAUTRANTIKA, YOGACARA AND MADHYAMAKA COMPARED
+
+
+KEY TERMS: Vaibhāṣika • Sautrāntika Realisms • Sarvāstivāda • bāhya-pratyakṣa-vāda • sarvam
+KEY TERMS: asti • bāhyānumeya-vāda
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ VAIBHĀṢIKA AND         │ Usually associated with       │ Vaibhāṣika preserves Buddhist │
+│ SAUTRĀNTIKA REALISMS   │ Sarvāstivāda realism          │ anti-self doctrine while      │
+│                        │                               │ still…                        │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ YOGĀCĀRA,              │ parikalpita-svabhāva —        │ Dream argument: dream-objects │
+│ CONSCIOUSNESS-ONLY AND │ imagined nature               │ are vividly experienced       │
+│ THE THREE NATURES      │ paratantra-svabhāva —…        │ despite…                      │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ MĀDHYAMAKA, EMPTINESS, │ Associated especially with    │ To say things are empty is to │
+│ TWO TRUTHS AND         │ Nāgārjuna                     │ say they lack svabhāva        │
+│ CATUṢKOṬI              │                               │                               │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Creator-God critique and internal Buddhist disputes
+
+```ascii-master
+CREATOR-GOD CRITIQUE AND INTERNAL BUDDHIST DISPUTES
+
+
+KEY TERMS: Creator-God Critique • Internal School Disputes • The Buddhist • 2019 Q5(b), 10
+KEY TERMS: marks • 2024 Q6(b), 15 marks • CREATOR-GOD CRITIQUE AND INTERNAL…
+                 CLAIM / SYSTEM UNDER EXAMINATION
+                                  │
+                                  ▼
+PROBLEM / OBJECTION 1
+  ├─ ISSUE: If conditioned arising explains the world-process, God is not needed
+  ├─ RESPONSE / CONTROL: No creator is required because conditioned causation
+  ├─ RESPONSE / CONTROL: performs the…
+  └─ QUALIFIED VERDICT: Buddhist critique is not mere atheistic denial
+                  │
+                  ▼
+PROBLEM / OBJECTION 2
+  ├─ ISSUE: Buddhism says the real conditioned is momentary, not unreal in…
+  ├─ RESPONSE / CONTROL: Mādhyamika explicitly resists that reading
+  └─ QUALIFIED VERDICT: for “Schools of Buddhism”, do not list four schools
+  └─ QUALIFIED VERDICT: mechanically
+                                  │
+                                  ▼
+FINAL CONTROL: preserve the strongest insight while stating its limit.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Dignaga–Dharmakirti epistemology, liberation and final verdict
+
+```ascii-master
+DIGNAGA–DHARMAKIRTI EPISTEMOLOGY, LIBERATION AND FINAL VERDICT
+
+
+KEY TERMS: Dignāga-Dharmakīrti Epistemology • Apoha • nairātmyavāda • kṣaṇikavāda • pramāṇas
+KEY TERMS: • DIGNĀGA-DHARMAKĪRTI EPISTEMOLOGY AND…
+CAUSE / CONDITION 1: Apoha (exclusion) says a general term does not denote a real…
+          │
+          ├── MECHANISM
+          │   Apoha (exclusion) says a general term does not denote a real…
+          │
+          └── EFFECT / CONTRAST
+              Similarity is grounded not in a shared universal but in a shared…
+          │
+          ▼
+CAUSE / CONDITION 2: The questions are na arthasaṃhita (not conducive to the goal…
+          │
+          ├── MECHANISM
+          │   Avyākata: questions left undeclared because they do not conduce to…
+          │
+          └── EFFECT / CONTRAST
+              Avyākata / avyākṛta (undeclared / unanswered) questions are…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Schools of Buddhism: traps, PYQ routes and applied recall
+
+```ascii-master
+SCHOOLS OF BUDDHISM: TRAPS, PYQ ROUTES AND APPLIED RECALL
+
+
+KEY TERMS: Four Noble Truths • dependent origination • middle way • no-self • momentariness
+KEY TERMS: • nirvāṇa
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── Do not treat Buddhism as one uniform metaphysics or confuse no…
+├── The classic chariot analogy argues that "chariot" is merely a name…
+├── If conditioned arising explains the world-process, God is not needed
+├── The questions are na arthasaṃhita (not conducive to the goal / not…
+│
+├── 2018 · Q5(b) · 10 marks
+├── Question: How do the Mādhyamika Buddhists apply the notion of…
+├── Explain the Mādhyamika inference from dependent origination to emptiness
+├── 2018 · Q6(b) · 15 marks
+│
+└── The unity of Buddhist philosophy lies in its causal and…
+└── Yogācāra advances vijñaptimātra or consciousness-only
+└── Buddhist philosophy replaces substantial identity with dependent…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Schools of Buddhism: integrated revision and answer-writing spine
+
+```ascii-master
+SCHOOLS OF BUDDHISM — ANSWER / REVISION SPINE
+
+
+KEY TERMS: Four Noble Truths • dependent origination • middle way • no-self • momentariness
+KEY TERMS: • nirvāṇa
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ Buddhist schools share dependent origination and the cessation of…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ Four Noble Truths
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ The question "who attains?" assumes the very self Buddhism rejects
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ middle way
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ The questions are na arthasaṃhita (not conducive to the goal / not…
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ Buddhist philosophy replaces substantial identity with dependent…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

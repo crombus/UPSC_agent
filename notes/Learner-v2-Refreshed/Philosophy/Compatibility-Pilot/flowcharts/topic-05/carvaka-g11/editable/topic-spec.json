@@ -1,0 +1,733 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-i-indian-philosophy-05",
+  "subject": "Philosophy",
+  "title": "SĀṂKHYA",
+  "short_route": "DUALIST ARCHITECTURE → KNOWLEDGE AND PROOF OF → THREE GUṆAS → TWENTY-FIVE TATTVAS → SATKĀRYAVĀDA → WHY MANY PURUṢAS?",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g10 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-05\\g10\\topic-05_Complete-Learning-Session_2026-08-23.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy-2026-08-23.json",
+  "ascii_spec_sha256": "156ee4a96a5be6cf6c202bb46cb86894662f6531566d13872007e86217a96c32",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "DUALIST ARCHITECTURE",
+      "structural_type": "two-reality gateway",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "DUALIST ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "SATKĀRYAVĀDA + TATTVA EVOLUTION + PLURAL PURUṢAS",
+          "role": "outcome"
+        },
+        {
+          "text": "PRAKṚTI PURUṢA ONE, UNCONSCIOUS, PRODUCTIVE MANY, CONSCIOUS, INACTIVE WITNESSES",
+          "role": "comparison"
+        },
+        {
+          "text": "SĀṂKHYA = SATKĀRYAVĀDA + TATTVA EVOLUTION + PLURAL PURUṢAS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SĀṂKHYA = SATKĀRYAVĀDA + TATTVA EVOLUTION + PLURAL PURUṢAS",
+        "PRAKṚTI PURUṢA one, unconscious, productive many, conscious, inactive witnesses avyakta equilibrium of guṇas uncaused, unchanging",
+        "discrimination ends bondage."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "SĀṂKHYA = SATKĀRYAVĀDA + TATTVA EVOLUTION + PLURAL PURUṢAS",
+            "PRAKṚTI PURUṢA one, unconscious, productive many, conscious, inactive witnesses avyakta equilibrium of guṇas uncaused, unchanging, non-agent apparent association"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "discrimination ends bondage.",
+            "SĀṂKHYA = SATKĀRYAVĀDA + TATTVA EVOLUTION + PLURAL PURUṢAS"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "PRAKṚTI PURUṢA one, unconscious, productive many, conscious, inactive witnesses avyakta equilibrium of guṇas uncaused, unchanging, non-agent apparent association",
+            "discrimination ends bondage."
+          ]
+        }
+      ],
+      "mechanism_strip": "(RECOMMENDED OPENING DEFINITION): “Sāṃkhya (the enumerative dualist school) is a realist dualism in which three pramāṇas (means of valid knowledge) establish one unconscious Prakṛti (primordial material nature) and many conscious Puruṣas (pure witnesses).”.",
+      "answer_line": "(RECOMMENDED OPENING DEFINITION): “Sāṃkhya (the enumerative dualist school) is a realist dualism in which three pramāṇas (means of valid knowledge) establish one unconscious Prakṛti (primordial material nature) and many conscious Puruṣas (pure witnesses).”.",
+      "source_references": [
+        "A. System identity",
+        "C. Prakṛti",
+        "E. Puruṣa"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "KNOWLEDGE AND PROOF OF PRAKṚTI",
+      "structural_type": "pramāṇa-to-metaphysics tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "KNOWLEDGE AND PROOF OF PRAKṚTI",
+          "role": "primary"
+        },
+        {
+          "text": "THREE PRAMĀṆAS",
+          "role": "outcome"
+        },
+        {
+          "text": "RELIABLE TESTIMONY PRAKṚTI IS INFERRED, NOT ORDINARILY PERCEIVED FINITE",
+          "role": "caution"
+        },
+        {
+          "text": "EFFECTS SHARE COMMON FEATURES COORDINATED WORLD REQUIRES COMMON SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "EVOLUTES NEED AN UNEVOLVED GROUND PLEASURE/PAIN/DULLNESS IN EFFECTS",
+          "role": "primary"
+        },
+        {
+          "text": "SATTVA/RAJAS/TAMAS IN CAUSE",
+          "role": "mechanism"
+        },
+        {
+          "text": "BEGINNINGLESS, UNMANIFEST, INDEPENDENT MATERIAL CAUSE",
+          "role": "evidence"
+        },
+        {
+          "text": "NOT “MATTER” ALONE, BUT PSYCHOPHYSICAL SOURCE OF INTELLECT, SENSES",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "THREE PRAMĀṆAS: perception",
+        "reliable testimony prakṛti is inferred, not ordinarily perceived finite effects require cause → effects share",
+        "world requires common source → evolutes need an unevolved ground pleasure/pain/dullness in effects → sattva/rajas/tamas",
+        "PRAKṚTI: beginningless, unmanifest, independent material cause",
+        "not “matter” alone, but psychophysical source of intellect, senses and elements."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "THREE PRAMĀṆAS: perception",
+            "reliable testimony prakṛti is inferred, not ordinarily perceived finite effects require cause → effects share common features coordinated"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "world requires common source → evolutes need an unevolved ground pleasure/pain/dullness in effects → sattva/rajas/tamas in cause",
+            "PRAKṚTI: beginningless, unmanifest, independent material cause"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "not “matter” alone, but psychophysical source of intellect, senses and elements.",
+            "THREE PRAMĀṆAS: perception"
+          ]
+        }
+      ],
+      "mechanism_strip": "(RECOMMENDED OPENING DEFINITION): “Prakṛti (primordial material nature) is the one unmanifest material root whose three guṇas (constituent qualities)—illumination, activity and restraint—explain both psychological and cosmic diversity through changing proportions.”.",
+      "answer_line": "(RECOMMENDED OPENING DEFINITION): “Prakṛti (primordial material nature) is the one unmanifest material root whose three guṇas (constituent qualities)—illumination, activity and restraint—explain both psychological and cosmic diversity through changing proportions.”.",
+      "source_references": [
+        "B. Three pramāṇas",
+        "C. Prakṛti"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THREE GUṆAS",
+      "structural_type": "dynamic equilibrium triangle",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THREE GUṆAS",
+          "role": "primary"
+        },
+        {
+          "text": "SATTVA LIGHTNESS",
+          "role": "outcome"
+        },
+        {
+          "text": "PRAKṚTI EQUILIBRIUM BREAKS",
+          "role": "comparison"
+        },
+        {
+          "text": "RAJAS -------------------------- TAMAS ACTIVITY",
+          "role": "evidence"
+        },
+        {
+          "text": "PAIN INERTIA",
+          "role": "primary"
+        },
+        {
+          "text": "DULLNESS GUṆAS ARE CONSTITUENTS, NOT DETACHABLE QUALITIES MUTUAL DOMINATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SATTVA lightness",
+        "PRAKṚTI equilibrium breaks",
+        "RAJAS -------------------------- TAMAS activity",
+        "pain inertia",
+        "dullness guṇas are constituents, not detachable qualities mutual domination + support + production drive all"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "SATTVA lightness",
+            "PRAKṚTI equilibrium breaks"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RAJAS -------------------------- TAMAS activity",
+            "pain inertia"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "dullness guṇas are constituents, not detachable qualities mutual domination + support + production drive all manifest difference.",
+            "SATTVA lightness"
+          ]
+        }
+      ],
+      "mechanism_strip": "(RECOMMENDED OPENING DEFINITION): “Puruṣa (the pure conscious witness) is inactive, non-objectifiable and distinct from every product of Prakṛti, while jīva (the empirical embodied self) is Puruṣa apparently identified with intellect, ego and the subtle body.”.",
+      "answer_line": "(RECOMMENDED OPENING DEFINITION): “Puruṣa (the pure conscious witness) is inactive, non-objectifiable and distinct from every product of Prakṛti, while jīva (the empirical embodied self) is Puruṣa apparently identified with intellect, ego and the subtle body.”.",
+      "source_references": [
+        "D. Three guṇas"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "TWENTY-FIVE TATTVAS",
+      "structural_type": "evolution cascade",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TWENTY-FIVE TATTVAS",
+          "role": "primary"
+        },
+        {
+          "text": "PRAKṚTI (1)",
+          "role": "outcome"
+        },
+        {
+          "text": "BUDDHI (2)",
+          "role": "comparison"
+        },
+        {
+          "text": "AHAṂKĀRA (3)",
+          "role": "evidence"
+        },
+        {
+          "text": "MANAS (4) + 5 JÑĀNENDRIYAS + 5 KARMENDRIYAS",
+          "role": "primary"
+        },
+        {
+          "text": "5 TANMĀTRAS",
+          "role": "outcome"
+        },
+        {
+          "text": "5 MAHĀBHŪTAS",
+          "role": "comparison"
+        },
+        {
+          "text": "RĀJASA SUPPLIES ACTIVITY TO BOTH BRANCHES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRAKṚTI (1)",
+        "MAHAT / BUDDHI (2)",
+        "AHAṂKĀRA (3)",
+        "sāttvika → MANAS (4) + 5 JÑĀNENDRIYAS + 5 KARMENDRIYAS",
+        "tāmasa → 5 TANMĀTRAS → 5 MAHĀBHŪTAS"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "PRAKṚTI (1)",
+            "MAHAT / BUDDHI (2)",
+            "AHAṂKĀRA (3)"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "sāttvika → MANAS (4) + 5 JÑĀNENDRIYAS + 5 KARMENDRIYAS",
+            "tāmasa → 5 TANMĀTRAS → 5 MAHĀBHŪTAS",
+            "rājasa supplies activity to both branches"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "PURUṢA (25) stands outside the evolute chain as witness",
+            "COUNT CONTROL: 1 prakṛti + 23 evolutes + puruṣa = 25 tattvas."
+          ]
+        }
+      ],
+      "mechanism_strip": "(CORE ARGUMENT): “Satkāryavāda (the theory that the effect pre-exists potentially in its cause) and pariṇāmavāda (real transformation) make the evolution of twenty-five fundamental principles a manifestation of determinate causal powers rather than creation from non-being.”.",
+      "answer_line": "(CORE ARGUMENT): “Satkāryavāda (the theory that the effect pre-exists potentially in its cause) and pariṇāmavāda (real transformation) make the evolution of twenty-five fundamental principles a manifestation of determinate causal powers rather than creation from non-being.”.",
+      "source_references": [
+        "F. Twenty-five tattvas"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SATKĀRYAVĀDA",
+      "structural_type": "five-reason causation chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "EFFECT PRE-EXISTS LATENTLY IN CAUSE ASADAKARAṆĀT",
+          "role": "mechanism"
+        },
+        {
+          "text": "NON-BEING CANNOT BE PRODUCED UPĀDĀNAGRAHAṆĀT",
+          "role": "outcome"
+        },
+        {
+          "text": "SPECIFIC MATERIAL CAUSE IS SELECTED SARVASAMBHAVĀBHĀVĀT",
+          "role": "evidence"
+        },
+        {
+          "text": "NOT EVERYTHING ARISES FROM EVERYTHING ŚAKTASYA ŚAKYAKARAṆĀT",
+          "role": "caution"
+        },
+        {
+          "text": "CAUSE PRODUCES ONLY WHAT IT HAS POWER TO PRODUCE",
+          "role": "mechanism"
+        },
+        {
+          "text": "EFFECT SHARES NATURE OF CAUSE PARIṆĀMAVĀDA",
+          "role": "mechanism"
+        },
+        {
+          "text": "REAL TRANSFORMATION OF PRAKṚTI",
+          "role": "comparison"
+        },
+        {
+          "text": "NYĀYA ĀRAMBHAVĀDA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EFFECT PRE-EXISTS LATENTLY IN CAUSE asadakaraṇāt: non-being cannot be produced upādānagrahaṇāt: specific material cause is",
+        "everything arises from everything śaktasya śakyakaraṇāt: cause produces only what it has power to produce",
+        "nature of cause pariṇāmavāda: real transformation of prakṛti",
+        "NYĀYA ārambhavāda: new effect",
+        "ADVAITA vivarta: apparent transformation."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "EFFECT PRE-EXISTS LATENTLY IN CAUSE asadakaraṇāt: non-being cannot be produced upādānagrahaṇāt: specific material cause is selected sarvasambhavābhāvāt: not",
+            "everything arises from everything śaktasya śakyakaraṇāt: cause produces only what it has power to produce kāraṇabhāvāt: effect shares"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "nature of cause pariṇāmavāda: real transformation of prakṛti",
+            "NYĀYA ārambhavāda: new effect"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "ADVAITA vivarta: apparent transformation.",
+            "EFFECT PRE-EXISTS LATENTLY IN CAUSE asadakaraṇāt: non-being cannot be produced upādānagrahaṇāt: specific material cause is selected sarvasambhavābhāvāt: not"
+          ]
+        }
+      ],
+      "mechanism_strip": "(FINAL VERDICT): “The power of Sāṃkhya (the enumerative dualist school) lies in connecting epistemology, material continuity, empirical consciousness and liberation within one system; its weakness is that the relation required to connect its two absolutes remains under-explained.”.",
+      "answer_line": "(FINAL VERDICT): “The power of Sāṃkhya (the enumerative dualist school) lies in connecting epistemology, material continuity, empirical consciousness and liberation within one system; its weakness is that the relation required to connect its two absolutes remains under-explained.”.",
+      "source_references": [
+        "G. Satkāryavāda",
+        "H. Rival causation"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "WHY MANY PURUṢAS?",
+      "structural_type": "plural-witness argument tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WHY MANY PURUṢAS?",
+          "role": "primary"
+        },
+        {
+          "text": "PURUṢA EXISTS BECAUSE COMPOSITES SERVE ANOTHER",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPERIENCE NEEDS CONSCIOUS WITNESS OBJECTS OF THREE GUṆAS REQUIRE",
+          "role": "comparison"
+        },
+        {
+          "text": "LIBERATION IS CONCEIVABLE",
+          "role": "evidence"
+        },
+        {
+          "text": "BIRTHS/DEATHS DIFFER; SENSE CAPACITIES AND ACTIONS ARE UNCOORDINATED",
+          "role": "primary"
+        },
+        {
+          "text": "IF ONE PURUṢA, ONE PERSON'S LIBERATION OR PAIN WOULD",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTACT PROBLEM",
+          "role": "comparison"
+        },
+        {
+          "text": "INACTIVE CONSCIOUSNESS CANNOT LITERALLY TOUCH UNCONSCIOUS PRAKṚTI ANALOGIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURUṢA EXISTS BECAUSE composites serve another",
+        "experience needs conscious witness objects of three guṇas require non-guṇa experiencer",
+        "liberation is conceivable",
+        "PLURALITY: births/deaths differ; sense capacities and actions are uncoordinated",
+        "if one puruṣa, one person's liberation or pain would belong to all"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "PURUṢA EXISTS BECAUSE composites serve another",
+            "experience needs conscious witness objects of three guṇas require non-guṇa experiencer",
+            "liberation is conceivable"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PLURALITY: births/deaths differ; sense capacities and actions are uncoordinated",
+            "if one puruṣa, one person's liberation or pain would belong to all",
+            "CONTACT PROBLEM: inactive consciousness cannot literally touch unconscious prakṛti analogies: blind-and-lame cooperation"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "magnet and iron pressure remains: how does mere proximity begin purposive evolution?"
+          ]
+        }
+      ],
+      "mechanism_strip": "PURUṢA EXISTS BECAUSE composites serve another | experience needs conscious witness objects of three guṇas require non-guṇa experiencer | liberation is conceivable",
+      "answer_line": "(CRITICISM): “Sāṃkhya (the enumerative dualist school) integrates psychology, cosmology and liberation without a creator God, yet guṇa-explanation risks elasticity, Puruṣa-plurality lacks a clear individuator, and mere proximity does not fully solve the contact problem.”.",
+      "source_references": [
+        "E. Puruṣa",
+        "I. Contact problem"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "BONDAGE, LIBERATION AND CRITIQUE",
+      "structural_type": "soteriological release route",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "BONDAGE, LIBERATION AND CRITIQUE",
+          "role": "primary"
+        },
+        {
+          "text": "BUDDHI'S STATES ARE APPROPRIATED AS “I” BY REFLECTED CONSCIOUSNESS",
+          "role": "outcome"
+        },
+        {
+          "text": "REPEATED EMBODIMENT TATTVA-JÑĀNA",
+          "role": "comparison"
+        },
+        {
+          "text": "“I AM PURUṢA, NOT PRAKṚTI OR ITS EVOLUTES” PRAKṚTI",
+          "role": "caution"
+        },
+        {
+          "text": "CEASES ACTIVITY FOR THAT PURUṢA",
+          "role": "primary"
+        },
+        {
+          "text": "UNCONSCIOUS PRAKṚTI CANNOT ACT FOR AN END; DUALISM CANNOT",
+          "role": "institution"
+        },
+        {
+          "text": "SĀṂKHYA REPLY",
+          "role": "comparison"
+        },
+        {
+          "text": "TELEOLOGY IS IMMANENT, AS MILK FLOWS FOR CALF; NO",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "AVIVEKA: buddhi's states are appropriated as “I” by reflected consciousness experience + karmic dispositions →",
+        "/ viveka-khyāti: “I am puruṣa, not prakṛti or its evolutes” prakṛti has been seen →",
+        "that puruṣa → KAIVALYA",
+        "ŚAṂKARA: unconscious prakṛti cannot act for an end; dualism cannot explain contact",
+        "SĀṂKHYA REPLY: teleology is immanent, as milk flows for calf; no creator is needed."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "AVIVEKA: buddhi's states are appropriated as “I” by reflected consciousness experience + karmic dispositions → repeated embodiment tattva-jñāna",
+            "/ viveka-khyāti: “I am puruṣa, not prakṛti or its evolutes” prakṛti has been seen → ceases activity for"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "that puruṣa → KAIVALYA",
+            "ŚAṂKARA: unconscious prakṛti cannot act for an end; dualism cannot explain contact"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "SĀṂKHYA REPLY: teleology is immanent, as milk flows for calf; no creator is needed.",
+            "AVIVEKA: buddhi's states are appropriated as “I” by reflected consciousness experience + karmic dispositions → repeated embodiment tattva-jñāna"
+          ]
+        }
+      ],
+      "mechanism_strip": "(CRITICISM): “Kaivalya (liberating isolation of consciousness) follows from viveka-jñāna (discriminative knowledge), but the system’s hardest burden is explaining how inactive consciousness and unconscious nature can sustain coordinated, purposive experience.”.",
+      "answer_line": "(CRITICISM): “Kaivalya (liberating isolation of consciousness) follows from viveka-jñāna (discriminative knowledge), but the system’s hardest burden is explaining how inactive consciousness and unconscious nature can sustain coordinated, purposive experience.”.",
+      "source_references": [
+        "J. Bondage and liberation",
+        "K. Śaṃkara’s critique"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "synthesis",
+      "title": "PYQ ANSWER SYNTHESIS",
+      "structural_type": "answer-writing convergence",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ ANSWER SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "START WITH DUALISM AND THREE GUṆAS",
+          "role": "outcome"
+        },
+        {
+          "text": "PROVE PRAKṚTI AND PLURAL PURUṢAS",
+          "role": "comparison"
+        },
+        {
+          "text": "DRAW EXACT 25-TATTVA CASCADE",
+          "role": "evidence"
+        },
+        {
+          "text": "DEFEND SATKĀRYAVĀDA WITH FIVE REASONS",
+          "role": "primary"
+        },
+        {
+          "text": "DISTINGUISH PARIṆĀMA FROM ĀRAMBHA/VIVARTA",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPLAIN AVIVEKA AND KAIVALYA",
+          "role": "comparison"
+        },
+        {
+          "text": "TEST CONTACT AND TELEOLOGY OBJECTIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "START with dualism and three guṇas → prove prakṛti and plural puruṣas",
+        "draw exact 25-tattva cascade → defend satkāryavāda with five reasons",
+        "distinguish pariṇāma from ārambha/vivarta",
+        "explain aviveka and kaivalya → test contact and teleology objections",
+        "QUALIFIED VERDICT: Sāṃkhya powerfully unifies cosmos, mind and liberation, but the coordination of inactive consciousness"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "START with dualism and three guṇas → prove prakṛti and plural puruṣas",
+            "draw exact 25-tattva cascade → defend satkāryavāda with five reasons"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "distinguish pariṇāma from ārambha/vivarta",
+            "explain aviveka and kaivalya → test contact and teleology objections"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "QUALIFIED VERDICT: Sāṃkhya powerfully unifies cosmos, mind and liberation, but the coordination of inactive consciousness with unconscious nature",
+            "is its hard problem."
+          ]
+        }
+      ],
+      "mechanism_strip": "QUALIFIED VERDICT: Sāṃkhya powerfully unifies cosmos, mind and liberation, but the coordination of inactive consciousness with unconscious nature is its hard problem.",
+      "answer_line": "Sāṃkhya powerfully unifies cosmos, mind and liberation, but the coordination of inactive consciousness with unconscious nature is its hard problem.",
+      "source_references": [
+        "L. Final answer discipline"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "LAYER-PLACEMENT NOTE",
+          "role": "outcome"
+        },
+        {
+          "text": "LAYER-PLACEMENT NOTE ALL LAYER 3 MATERIAL FROM THE LEGACY",
+          "role": "evidence"
+        },
+        {
+          "text": "IT SHOULD REFINE A CORE ANSWER, NOT DISPLACE THE",
+          "role": "caution"
+        },
+        {
+          "text": "LAYER 3 - ADVANCED ADVANCED PROOF BURDEN AND COGNITION",
+          "role": "primary"
+        },
+        {
+          "text": "ITS THREE ACCEPTED PRAMANAS.",
+          "role": "outcome"
+        },
+        {
+          "text": "THIS ECONOMY CREATES A BURDEN",
+          "role": "comparison"
+        },
+        {
+          "text": "IMPERCEPTIBLE PRAKRITI AND PURUSA CANNOT SIMPLY BE ASSERTED.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "Layer-placement note",
+            "Layer-placement note All Layer 3 material from the legacy complete session is retained here after practice.",
+            "It should refine a core answer, not displace the printed syllabus.",
+            "LAYER 3 - ADVANCED Advanced proof burden and cognition model Samkhya reduces comparison, postulation, non-apprehension and tradition to"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "its three accepted pramanas.",
+            "This economy creates a burden: imperceptible Prakriti and Purusa cannot simply be asserted.",
+            "Samanyato-drsta inference must reach entities never presented as ordinary sense-objects.",
+            "Carvaka attacks the unobserved universal relation, while Nyaya grants inference but proposes atoms and Isvara as a more economical explanation."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Samkhya replies that material continuity, guna-patterns and the objectifiability of experience jointly require one material root and a",
+            "distinct witness.",
+            "Empirical cognition occurs through the inner instrument.",
+            "Manas coordinates, ahamkara appropriates and buddhi determines."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

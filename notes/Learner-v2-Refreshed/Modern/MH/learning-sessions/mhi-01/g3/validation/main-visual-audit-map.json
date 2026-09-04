@@ -1,0 +1,2876 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-01\\g3\\modern-indian-history-01_Complete-Learning-Session_2026-08-31.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-01\\g3\\modern-indian-history-01_Complete-Learning-Session_2026-08-31.pdf",
+  "mode": "main",
+  "topic_key": "modern-indian-history-01",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 7,
+      "heading": "The Decline of the Mughal Empire (1707-1740s) - Learner-v2 Complete Learning Session",
+      "preview": "**Subject:** Modern Indian History | **Paper:** Prelims GS-I + GS-I analytical foundation | **Topic:** 01 | **Regenerated:** 13 August 2026  **Evidence key:** FACT = supported by a named source/event/institution; INTERPRETATION = evidence-l",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 664.024
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 13,
+      "markdown_body_line_end": 20,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 606.024
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 308.622
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 43,
+      "markdown_body_line_end": 43,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-01\\g3\\assets\\modern-indian-history-01_Teaching-Navigation_2026-08-30.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 365.156
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 53,
+      "markdown_body_line_end": 61,
+      "heading": "Package practice counts",
+      "preview": "Component | Count",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Component",
+          "Count"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 250.156
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 77.154
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 74,
+      "heading": "Sources actually used",
+      "preview": "Source class | Exact source | Use and caveat",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Source class",
+          "Exact source",
+          "Use and caveat"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 380.29
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 252,
+      "markdown_body_line_end": 252,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Nadir Shah accelerated and advertised the crisis; he did not originate it. [THESIS] Aurangzeb's choices mattered, especially the long Deccan commitment and difficulties with Marathas and some Rajput houses, but neither personal blame nor co",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 267,
+      "markdown_body_line_end": 274,
+      "heading": "Compact scope visual",
+      "preview": "NECESSARY BACKGROUND                  CORE ANALYTICAL WINDOW                   BOUNDED CONSEQUENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 104
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 452.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 287,
+      "markdown_body_line_end": 292,
+      "heading": "Decline versus transition matrix",
+      "preview": "Analytical term | Correct use | Evidence | Unsafe overstatement",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Analytical term",
+          "Correct use",
+          "Evidence",
+          "Unsafe overstatement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 628.89
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 300,
+      "markdown_body_line_end": 317,
+      "heading": "CLOSING RECALL FLOW - MEANING, SCOPE AND GOVERNING THESIS",
+      "preview": "START / CONCEPT: Meaning, scope and governing thesis",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 482
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 523.09
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 242.09
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 328,
+      "markdown_body_line_end": 328,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Their continuation under a successor state proves retained Mughal legitimacy, not direct daily control from Delhi. [METHOD] Court chronicles are strongest on offices, noble alliances, ceremonial precedence and war.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 107.09
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 40.422
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 343,
+      "markdown_body_line_end": 351,
+      "heading": "Source matrix",
+      "preview": "Source family | Named examples | What it can establish | Genre or bias limit",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Source family",
+          "Named examples",
+          "What it can establish",
+          "Genre or bias limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 619.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 284.09
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 365,
+      "markdown_body_line_end": 377,
+      "heading": "Source-use flow",
+      "preview": "QUESTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 666.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 388,
+      "markdown_body_line_end": 405,
+      "heading": "CLOSING RECALL FLOW - EVIDENCE BASE AND SOURCE CRITICISM",
+      "preview": "START / CONCEPT: Evidence base and source criticism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 243
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 553.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 312.491
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 416,
+      "markdown_body_line_end": 416,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The system could govern diversity without uniform bureaucracy because it nested imperial authority within provincial and local intermediaries.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 191.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 125.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 431,
+      "markdown_body_line_end": 445,
+      "heading": "Institutional map",
+      "preview": "EMPEROR",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 699.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 558.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 459,
+      "markdown_body_line_end": 466,
+      "heading": "Inherited strength and vulnerability",
+      "preview": "Strength in 1707 | Why it had worked | Vulnerability after 1707",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Strength in 1707",
+          "Why it had worked",
+          "Vulnerability after 1707"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 568.29
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 474,
+      "markdown_body_line_end": 491,
+      "heading": "CLOSING RECALL FLOW - IMPERIAL STRUCTURE INHERITED IN 1707",
+      "preview": "START / CONCEPT: Imperial structure inherited in 1707",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 223
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 476.69
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 245.69
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 502,
+      "markdown_body_line_end": 502,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The long Deccan phase tied the emperor and large forces to southern warfare, added Bijapur and Golconda, and failed to extinguish mobile Maratha resistance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 517,
+      "markdown_body_line_end": 529,
+      "heading": "Causal background",
+      "preview": "Deccan annexations and prolonged campaigning",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 426.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 543,
+      "markdown_body_line_end": 549,
+      "heading": "Balanced responsibility table",
+      "preview": "Dimension | Aurangzeb-linked contribution | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Aurangzeb-linked contribution",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 611.89
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 557,
+      "markdown_body_line_end": 574,
+      "heading": "CLOSING RECALL FLOW - LATE-AURANGZEB STRAINS: BALANCED ASSESSMENT",
+      "preview": "START / CONCEPT: Late-Aurangzeb strains: balanced assessment",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 239
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 534.49
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 293.49
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 585,
+      "markdown_body_line_end": 585,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Bahadur Shah shows that a capable ruler could slow decline but could not simultaneously solve succession, Sikh resistance, Maratha bargaining, Rajput interests and the fiscal cost of elite accommodation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 172.69
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 106.022
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 600,
+      "markdown_body_line_end": 613,
+      "heading": "Succession tree",
+      "preview": "Aurangzeb dies, 1707",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 679.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 548.091
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 633,
+      "markdown_body_line_end": 639,
+      "heading": "Chronology table",
+      "preview": "Date | Ruler or event | Analytical significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Date",
+          "Ruler or event",
+          "Analytical significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 643,
+      "markdown_body_line_end": 660,
+      "heading": "CLOSING RECALL FLOW - SUCCESSION AND COURT CHRONOLOGY, 1707-1713",
+      "preview": "START / CONCEPT: Succession and court chronology, 1707-1713",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 232
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 634.69
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 413.69
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 671,
+      "markdown_body_line_end": 671,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Sayyid ascendancy ended, but kingmaking had permanently damaged the aura of unchallengeable monarchy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 288.09
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 235.622
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 686,
+      "markdown_body_line_end": 697,
+      "heading": "Faction and office map",
+      "preview": "EMPEROR FARRUKHSIYAR",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 711,
+      "markdown_body_line_end": 716,
+      "heading": "Interpretation: symptom and agent",
+      "preview": "As symptom | As agent",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "As symptom",
+          "As agent"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 372.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 241.09
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 724,
+      "markdown_body_line_end": 741,
+      "heading": "CLOSING RECALL FLOW - FARRUKHSIYAR, THE SAYYID BROTHERS AND KINGMAKER POLITICS, 1713-1720",
+      "preview": "START / CONCEPT: Farrukhsiyar, the Sayyid Brothers and kingmaker politics, 1713-1720",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 199
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 563.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 752,
+      "markdown_body_line_end": 752,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The sobriquet \"Rangila\" and stories of pleasure describe court culture but do not explain the fiscal-military crisis.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 423.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 371.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 767,
+      "markdown_body_line_end": 779,
+      "heading": "Political sequence",
+      "preview": "1719 Muhammad Shah installed",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 666.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 793,
+      "markdown_body_line_end": 798,
+      "heading": "Muhammad Shah: decline and cultural vitality",
+      "preview": "Political contraction | Cultural continuity and change",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Political contraction",
+          "Cultural continuity and change"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 405.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 273.69
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 806,
+      "markdown_body_line_end": 823,
+      "heading": "CLOSING RECALL FLOW - MUHAMMAD SHAH, NIZAM-UL-MULK AND THE SHRINKING CENTRE",
+      "preview": "START / CONCEPT: Muhammad Shah, Nizam-ul-Mulk and the shrinking centre",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 227
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 834,
+      "markdown_body_line_end": 834,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Limit: Factions were produced partly by jagir and office scarcity, so they cannot be treated as an isolated moral cause.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 849,
+      "markdown_body_line_end": 857,
+      "heading": "Faction map",
+      "preview": "TURANI       IRANI       AFGHAN       HINDUSTANI / BARAHA       DECCANI / MARATHA entrants",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 179.224
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 98.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 878,
+      "markdown_body_line_end": 895,
+      "heading": "CLOSING RECALL FLOW - NOBILITY, FACTIONS AND THE POLITICS OF PATRONAGE",
+      "preview": "START / CONCEPT: Nobility, factions and the politics of patronage",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 149
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 448.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 237.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 906,
+      "markdown_body_line_end": 906,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mansabdari and jagirdari were not separate problems: a rank without adequate assignment produced arrears; an assignment without audit weakened troops; a weakened army reduced collection.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 921,
+      "markdown_body_line_end": 935,
+      "heading": "Jagirdari causal flow",
+      "preview": "expansion slows + wartime entrants and promotions increase",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 421.024
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 939,
+      "markdown_body_line_end": 947,
+      "heading": "Terminology",
+      "preview": "Term | Meaning | Exam caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Term",
+          "Meaning",
+          "Exam caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 399.024
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 214.822
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 959,
+      "markdown_body_line_end": 964,
+      "heading": "Debate and qualification",
+      "preview": "Interpretation | Core claim | Evidence used | Limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Interpretation",
+          "Core claim",
+          "Evidence used",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 752.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 583.99
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 972,
+      "markdown_body_line_end": 989,
+      "heading": "CLOSING RECALL FLOW - JAGIRDARI AND MANSABDARI CRISIS: MECHANISM AND DEBATE",
+      "preview": "START / CONCEPT: Jagirdari and mansabdari crisis: mechanism and debate",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 215
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 492.39
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 251.39
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1000,
+      "markdown_body_line_end": 1000,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "\"Agrarian crisis\" must therefore be spatially differentiated: extraction and insecurity were severe, but production and commercialisation did not collapse uniformly.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 111.59
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 44.922
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1015,
+      "markdown_body_line_end": 1024,
+      "heading": "Rural power chain",
+      "preview": "imperial demand -> jagirdar / khalisa official / revenue farmer",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 537.691
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1038,
+      "markdown_body_line_end": 1043,
+      "heading": "Agrarian interpretation matrix",
+      "preview": "Observation | Decline reading | Regionalisation reading | Combined answer",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Observation",
+          "Decline reading",
+          "Regionalisation reading",
+          "Combined answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 262.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 114.79
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1051,
+      "markdown_body_line_end": 1068,
+      "heading": "CLOSING RECALL FLOW - AGRARIAN AND FISCAL STRESS: PEASANTS, ZAMINDARS AND REVENUE FARMERS",
+      "preview": "START / CONCEPT: Agrarian and fiscal stress: peasants, zamindars and revenue farmers",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 194
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1079,
+      "markdown_body_line_end": 1079,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "\"Marathas versus Mughals\" is too simple.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 436.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 384.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1094,
+      "markdown_body_line_end": 1098,
+      "heading": "Chauth and sardeshmukhi",
+      "preview": "Claim | Working meaning | Political significance | Caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Claim",
+          "Working meaning",
+          "Political significance",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 194.424
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 77.522
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1112,
+      "markdown_body_line_end": 1122,
+      "heading": "Deccan interaction model",
+      "preview": "Mughal campaign cannot eliminate dispersed Maratha power",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 545.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 444.491
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1130,
+      "markdown_body_line_end": 1147,
+      "heading": "CLOSING RECALL FLOW - DECCAN LEGACY AND THE MARATHA CHALLENGE",
+      "preview": "START / CONCEPT: Deccan legacy and the Maratha challenge",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 192
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 367.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 176.091
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1158,
+      "markdown_body_line_end": 1158,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "J-S-R-B-Z: Jats, Sikhs, Rajputs, Bundelas and Zamindars turned local rights into bargaining power; none alone replaced the empire.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1173,
+      "markdown_body_line_end": 1179,
+      "heading": "Regional assertion table",
+      "preview": "Power or region | Named evidence within scope | Basis of assertion | Relation to Mughal order | Limit",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 5,
+        "headers": [
+          "Power or region",
+          "Named evidence within scope",
+          "Basis of assertion",
+          "Relation to Mughal order",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 432.224
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 179.822
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1197,
+      "markdown_body_line_end": 1214,
+      "heading": "CLOSING RECALL FLOW - JAT, SIKH, RAJPUT, BUNDELA AND ZAMINDAR ASSERTIONS",
+      "preview": "START / CONCEPT: Jat, Sikh, Rajput, Bundela and zamindar assertions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 159
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 603.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 392.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1225,
+      "markdown_body_line_end": 1225,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Successor states were continuities in administrative form and transformations in the location of sovereignty.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 252.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 200.024
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1240,
+      "markdown_body_line_end": 1244,
+      "heading": "Successor-state matrix",
+      "preview": "State | Foundational figure and date | Mughal continuity | Practical autonomy | Distinctive base",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 3,
+        "headers": [
+          "State",
+          "Foundational figure and date",
+          "Mughal continuity",
+          "Practical autonomy",
+          "Distinctive base"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 767.091
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 597.69
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1269,
+      "markdown_body_line_end": 1279,
+      "heading": "Nature of successor states",
+      "preview": "MUGHAL PROVINCIAL OFFICE",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1287,
+      "markdown_body_line_end": 1304,
+      "heading": "CLOSING RECALL FLOW - HYDERABAD, BENGAL AND AWADH: SUCCESSOR STATES",
+      "preview": "START / CONCEPT: Hyderabad, Bengal and Awadh: successor states",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 181
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 594.691
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 373.691
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1315,
+      "markdown_body_line_end": 1315,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Delhi retained titles, ceremonial authority and a strategic upper-Ganga core, but each corridor required cooperation from regional powers.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 233.891
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 167.224
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1330,
+      "markdown_body_line_end": 1346,
+      "heading": "Map",
+      "preview": "KABUL / QANDAHAR",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 586.891
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1364,
+      "markdown_body_line_end": 1381,
+      "heading": "CLOSING RECALL FLOW - REGIONAL MAP IN TEXT: A MULTI-CENTRED POLITICAL FIELD",
+      "preview": "START / CONCEPT: Regional map in text: a multi-centred political field",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 167
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 256.491
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 45.491
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1392,
+      "markdown_body_line_end": 1392,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Technology mattered, but organisation, pay, mobility, intelligence and coalition discipline determined whether technology could be used.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1407,
+      "markdown_body_line_end": 1414,
+      "heading": "Comparative military matrix",
+      "preview": "Dimension | Mughal strength inherited | Early eighteenth-century limit | Comparative implication",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "Mughal strength inherited",
+          "Early eighteenth-century limit",
+          "Comparative implication"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 432.224
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 222.322
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1428,
+      "markdown_body_line_end": 1433,
+      "heading": "Military-fiscal loop",
+      "preview": "unreliable jagir yield -> incomplete contingents -> weaker collection",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 701.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 650.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1441,
+      "markdown_body_line_end": 1458,
+      "heading": "CLOSING RECALL FLOW - MILITARY ORGANISATION, TECHNOLOGY, COMMAND AND LOGISTICS",
+      "preview": "START / CONCEPT: Military organisation, technology, command and logistics",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 191
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 572.891
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 361.891
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1469,
+      "markdown_body_line_end": 1469,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The safest economic conclusion is uneven redistribution: some imperial circuits and war zones declined, while regional agrarian, banking, artisanal and commercial centres remained vigorous.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 222.091
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 155.424
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1484,
+      "markdown_body_line_end": 1490,
+      "heading": "Economy balance sheet",
+      "preview": "Evidence of disruption | Evidence of continuity or vitality",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Evidence of disruption",
+          "Evidence of continuity or vitality"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 735.691
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 560.29
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1504,
+      "markdown_body_line_end": 1514,
+      "heading": "Company presence: bounded context",
+      "preview": "commercial privilege (1717 farman)",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 296.49
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 195.49
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1522,
+      "markdown_body_line_end": 1539,
+      "heading": "CLOSING RECALL FLOW - TRADE, ECONOMY AND URBAN CENTRES: CONTRACTION WITH REGIONAL VITALITY",
+      "preview": "START / CONCEPT: Trade, economy and urban centres: contraction with regional vitality",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 218
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1550,
+      "markdown_body_line_end": 1550,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Muhammad Shah's court is associated with important patronage of music, including the development of khayal through musicians such as Niyamat Khan \"Sadarang\".",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 351.624
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1565,
+      "markdown_body_line_end": 1571,
+      "heading": "Culture-state distinction",
+      "preview": "weaker provincial obedience != absence of cultural production",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 156.824
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 95.824
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1585,
+      "markdown_body_line_end": 1590,
+      "heading": "Evidence and inference",
+      "preview": "Evidence | Safe inference | Unsafe inference",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Evidence",
+          "Safe inference",
+          "Unsafe inference"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 581.691
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 449.89
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1594,
+      "markdown_body_line_end": 1611,
+      "heading": "CLOSING RECALL FLOW - COURT AND CULTURE UNDER MUHAMMAD SHAH",
+      "preview": "START / CONCEPT: Court and culture under Muhammad Shah",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 262
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 427.89
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 206.89
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1622,
+      "markdown_body_line_end": 1622,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Stories that Nizam-ul-Mulk or Saadat Khan invited Nadir lack documentary proof in Satish Chandra's assessment and should not be stated as fact.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1637,
+      "markdown_body_line_end": 1651,
+      "heading": "Campaign route",
+      "preview": "Safavid collapse and Nadir's rise",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 421.024
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1679,
+      "markdown_body_line_end": 1686,
+      "heading": "Consequence matrix",
+      "preview": "Dimension | Consequence | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "Consequence",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 672.891
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 476.29
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1694,
+      "markdown_body_line_end": 1711,
+      "heading": "CLOSING RECALL FLOW - NADIR SHAH'S INVASION, KARNAL AND DELHI, 1738-1739",
+      "preview": "START / CONCEPT: Nadir Shah's invasion, Karnal and Delhi, 1738-1739",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 202
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 370.49
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 149.49
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1722,
+      "markdown_body_line_end": 1722,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Structural fiscal-military core: the mansab-jagir contract became less credible because dependable assignments, actual collection and service obligations diverged.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1737,
+      "markdown_body_line_end": 1754,
+      "heading": "Interaction diagram",
+      "preview": "DECCAN OVERSTRETCH -----------\\",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 227.824
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1767,
+      "markdown_body_line_end": 1775,
+      "heading": "Why single-cause explanations fail",
+      "preview": "Single cause | What it correctly notices | What it misses",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Single cause",
+          "What it correctly notices",
+          "What it misses"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 752.891
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 512.69
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1783,
+      "markdown_body_line_end": 1800,
+      "heading": "CLOSING RECALL FLOW - WHY CENTRAL AUTHORITY DECLINED: MULTI-CAUSAL INTERACTION MODEL",
+      "preview": "START / CONCEPT: Why central authority declined: multi-causal interaction model",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 317
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 421.09
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 180.09
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1811,
+      "markdown_body_line_end": 1811,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This gap explains why the dynasty survived as a political symbol long after Delhi ceased to command the empire.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1826,
+      "markdown_body_line_end": 1834,
+      "heading": "Continuity map",
+      "preview": "Surviving Mughal element | Evidence in the transition | Why it mattered",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Surviving Mughal element",
+          "Evidence in the transition",
+          "Why it mattered"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 567.024
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 315.622
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1852,
+      "markdown_body_line_end": 1869,
+      "heading": "CLOSING RECALL FLOW - CONTINUITIES AFTER POLITICAL CONTRACTION",
+      "preview": "START / CONCEPT: Continuities after political contraction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 228
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 731.891
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 510.891
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1880,
+      "markdown_body_line_end": 1880,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Delhi suffered catastrophic violence in 1739, and warfare burdened cultivators and trade routes. [ARGUMENT AGAINST UNIVERSAL DECLINE] Bengal and other regions retained commercial vitality; local agrarian expansion and banking networks finan",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 342.691
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 233.424
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1895,
+      "markdown_body_line_end": 1904,
+      "heading": "Historiographical debate",
+      "preview": "Historian or school | Main emphasis | Evidence contribution | Limitation or reply",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Historian or school",
+          "Main emphasis",
+          "Evidence contribution",
+          "Limitation or reply"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 452.39
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1914,
+      "markdown_body_line_end": 1921,
+      "heading": "Historiographical answer flow",
+      "preview": "define the level of decline",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 299.99
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 228.99
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1929,
+      "markdown_body_line_end": 1946,
+      "heading": "CLOSING RECALL FLOW - HISTORIOGRAPHY: DARK AGE, CRISIS OR REGIONAL TRANSITION?",
+      "preview": "START / CONCEPT: Historiography: dark age, crisis or regional transition?",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 482
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 516.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1957,
+      "markdown_body_line_end": 1957,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Terminology, timeline, memory hooks and answer toolkit comprises Terminology, timeline and memory hooks as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 376.491
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 309.824
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1972,
+      "markdown_body_line_end": 1988,
+      "heading": "Timeline ladder",
+      "preview": "Date | Event | One-line significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 15,
+        "headers": [
+          "Date",
+          "Event",
+          "One-line significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 411.09
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2029,
+      "markdown_body_line_end": 2033,
+      "heading": "Mark-scaled answer architecture",
+      "preview": "Marks | Structure | Evidence density",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Structure",
+          "Evidence density"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 596.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 485.69
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2037,
+      "markdown_body_line_end": 2044,
+      "heading": "Universal answer spine",
+      "preview": "DIRECT THESIS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 463.69
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 392.69
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2048,
+      "markdown_body_line_end": 2065,
+      "heading": "CLOSING RECALL FLOW - TERMINOLOGY, TIMELINE, MEMORY HOOKS AND ANSWER TOOLKIT",
+      "preview": "START / CONCEPT: Terminology, timeline, memory hooks and answer toolkit",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 166
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 370.69
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 169.69
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3546,
+      "markdown_body_line_end": 3549,
+      "heading": "The Decline of the Mughal Empire (1707-1740s) - ADVANCED",
+      "preview": "**Subject:** History (Modern India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims). **Grounded in:** Bipan Chandra, *Modern India* (Ch. I), cross-checked against Sekhar Bandyopadhyay, *From Plassey to Partit",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 668.024
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3555,
+      "markdown_body_line_end": 3563,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 640.524
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 467.522
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3580,
+      "markdown_body_line_end": 3586,
+      "heading": "2. Key classification / data",
+      "preview": "Interpretation | Emphasis | Associated with",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Interpretation",
+          "Emphasis",
+          "Associated with"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 609.89
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3590,
+      "markdown_body_line_end": 3592,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Successor states (Bengal, Awadh, Hyderabad, Marathas, Sikhs, Jats) → `advanced/02`. **Study link:** ⚠️ The **1717 farman** to the English Company → `advanced/03` (European settlements) & `advanced/04` (Bengal conquest). **",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 584.89
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 511.822
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3604,
+      "markdown_body_line_end": 3604,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Distinguish **\"decline of the empire\"** (central authority) from **\"decline of the economy/regions.\"** The revisionist point is that many *regions prospered* even as the *centre* collapsed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 333.222
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 288.554
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3633,
+      "markdown_body_line_end": 3641,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Scope: decline of command, not disappearance",
+      "preview": "1707 -> imperial command weakens; dynasty, titles and Persianate grammar endure",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 414.491
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 332.091
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3645,
+      "markdown_body_line_end": 3650,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Chronology from Aurangzeb to the 1740s",
+      "preview": "1707 Aurangzeb dies -> Bahadur Shah I 1707-12 -> Jahandar Shah 1712-13",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 310.091
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 258.291
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3654,
+      "markdown_body_line_end": 3659,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Succession instability: throne becomes a prize",
+      "preview": "NO FIXED PRIMOGENITURE -> princes mobilise households and noble clients",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3663,
+      "markdown_body_line_end": 3668,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Factions and the Sayyid moment",
+      "preview": "TURANI / IRANI / AFGHAN / HINDUSTANI -> shifting patronage formations",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3672,
+      "markdown_body_line_end": 3677,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Jagirdari vocabulary prevents category errors",
+      "preview": "JAGIR -> transferable revenue assignment, not private landownership",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3681,
+      "markdown_body_line_end": 3686,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Fiscal-military feedback loop",
+      "preview": "MORE CLAIMANTS + WEAK PAIBAQI -> scramble for productive jagirs",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3690,
+      "markdown_body_line_end": 3695,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Aurangzeb's legacy: a weighted background",
+      "preview": "DECCAN WAR -> garrisons, transport, remounts and unresolved Maratha challenge",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3699,
+      "markdown_body_line_end": 3704,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Agrarian and regional assertion",
+      "preview": "REVENUE PRESSURE -> zamindars, peasants and intermediaries bargain or resist",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3708,
+      "markdown_body_line_end": 3713,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Successor-state spectrum",
+      "preview": "BENGAL -> Murshid Quli Khan | AWADH -> Saadat Khan | HYDERABAD -> Nizam-ul-Mulk",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 292.691
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3717,
+      "markdown_body_line_end": 3725,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Nadir Shah: shock exposes a prior crisis",
+      "preview": "FRONTIER WEAKNESS + Persian military capacity -> invasion opportunity",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3729,
+      "markdown_body_line_end": 3736,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Institutional continuity after contraction",
+      "preview": "EMPEROR / FARMAN / SANAD -> symbolic arbitration and legal vocabulary",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 610.691
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3740,
+      "markdown_body_line_end": 3746,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Topic 01 answer spine",
+      "preview": "OPEN -> central fiscal-military command declined inside a continuing political culture",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 588.691
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 526.691
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    }
+  ]
+}

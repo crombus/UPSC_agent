@@ -1,0 +1,1734 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-38\\g2\\modern-indian-history-38_Complete-Learning-Session_2026-09-01.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-38\\g2\\modern-indian-history-38_Complete-Learning-Session_2026-09-01.pdf",
+  "mode": "main",
+  "topic_key": "modern-indian-history-38",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 16,
+      "markdown_body_line_end": 23,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 505.89
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 45,
+      "markdown_body_line_end": 45,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-38\\g2\\assets\\modern-indian-history-38_Teaching-Navigation_2026-08-31.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 59,
+      "markdown_body_line_end": 59,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The licence-permit raj is the maze of licences and controls that protected inefficiency and throttled competition even as the Industrial Policy Resolutions and the Mahalanobis Second Plan delivered growth above the colon",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 294.156
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 213.288
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 80,
+      "heading": "VISUAL FIRST",
+      "preview": "THE ECONOMIC MODEL: FROM PLANNING TO THE LICENCE-PERMIT RAJ",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 115,
+      "markdown_body_line_end": 132,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE ECONOMIC MODEL: FROM PLANNING TO THE LICENCE-PERMIT RAJ",
+      "preview": "START / CONCEPT: FOUNDATION — The economic model: from planning to the licence-permit raj",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 335
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 513.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 143,
+      "markdown_body_line_end": 143,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Zamindari abolition is the land reform, largely complete by 1956, that made about 20 million superior tenants into owners by targeting the politically weak intermediary class.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 373.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 306.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 158,
+      "markdown_body_line_end": 164,
+      "heading": "VISUAL FIRST",
+      "preview": "ZAMINDARI ABOLITION: WHY IT SUCCEEDED",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 199,
+      "markdown_body_line_end": 216,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - ZAMINDARI ABOLITION: WHY IT SUCCEEDED",
+      "preview": "START / CONCEPT: FOUNDATION — Zamindari abolition: why it succeeded",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 224
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 284.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 63.491
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 227,
+      "markdown_body_line_end": 227,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Tenancy and ceiling reform are the land-reform components that largely failed because they targeted the state's own rural political base and were evaded through poor records, benami transfers and family partition.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 242,
+      "markdown_body_line_end": 248,
+      "heading": "VISUAL FIRST",
+      "preview": "TENANCY AND CEILING REFORM: WHY THEY FAILED",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 323.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 283,
+      "markdown_body_line_end": 300,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - TENANCY AND CEILING REFORM: WHY THEY FAILED",
+      "preview": "START / CONCEPT: FOUNDATION — Tenancy and ceiling reform: why they failed",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 301
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 556.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 305.091
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 311,
+      "markdown_body_line_end": 311,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not treat Bhoodan as equivalent to structural land reform; it was a voluntary gesture that could not reallocate land at scale.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 151.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 84.424
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 326,
+      "markdown_body_line_end": 332,
+      "heading": "VISUAL FIRST",
+      "preview": "BHOODAN: A GESTURE, NOT A STRUCTURAL REFORM",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 661.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 600.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 367,
+      "markdown_body_line_end": 384,
+      "heading": "CLOSING RECALL FLOW - CORE - BHOODAN: A GESTURE, NOT A STRUCTURAL REFORM",
+      "preview": "START / CONCEPT: CORE — Bhoodan: a gesture, not a structural reform",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 237
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 389,
+      "markdown_body_line_end": 395,
+      "heading": "VISUAL FIRST",
+      "preview": "THE GREEN REVOLUTION'S PACKAGE AND ITS INITIAL GEOGRAPHY",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 499.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 438.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 437,
+      "markdown_body_line_end": 437,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not state only one side of the Green Revolution debate as settled fact; this topic requires both Chandra's diffusion argument and the critics' inequality critique.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 617.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 551.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 452,
+      "markdown_body_line_end": 458,
+      "heading": "VISUAL FIRST",
+      "preview": "THE GREEN REVOLUTION DEBATE: DIFFUSION VERSUS INEQUALITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 356.424
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 295.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 493,
+      "markdown_body_line_end": 510,
+      "heading": "CLOSING RECALL FLOW - CORE - THE GREEN REVOLUTION DEBATE: DIFFUSION VERSUS INEQUALITY",
+      "preview": "START / CONCEPT: CORE — The Green Revolution debate: diffusion versus inequality",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 335
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 570.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 319.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 521,
+      "markdown_body_line_end": 521,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Naxalbari uprising of 1967 launched the Naxalite movement, with the CPI(ML) formed in 1969, while the rich-farmer movements of the 1980s, Nasik in 1980 and Sisauli in 1986, pursued opposed market demands of prices, inputs and credit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 165.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 84.424
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 536,
+      "markdown_body_line_end": 542,
+      "heading": "VISUAL FIRST",
+      "preview": "AGRARIAN STRUGGLE FROM NAXALBARI TO THE 1980S FARMERS' MOVEMENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 661.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 600.891
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 577,
+      "markdown_body_line_end": 594,
+      "heading": "CLOSING RECALL FLOW - CORE - AGRARIAN STRUGGLE FROM NAXALBARI TO THE 1980S FARMERS' MOVEMENTS",
+      "preview": "START / CONCEPT: CORE — Agrarian struggle from Naxalbari to the 1980s farmers' movements",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 266
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 605,
+      "markdown_body_line_end": 605,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The Hindu Code Bill is the set of four separate Acts, Marriage, Succession, Minority and Guardianship, and Adoption and Maintenance, that substantially expanded women's rights within Hindu personal law without establishi",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 385.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 304.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 620,
+      "markdown_body_line_end": 626,
+      "heading": "VISUAL FIRST",
+      "preview": "THE HINDU CODE BILL AND THE WOMEN'S MOVEMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 119
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 661,
+      "markdown_body_line_end": 678,
+      "heading": "CLOSING RECALL FLOW - CORE - THE HINDU CODE BILL AND THE WOMEN'S MOVEMENT",
+      "preview": "START / CONCEPT: CORE — The Hindu Code Bill and the women's movement",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 334
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 526.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 689,
+      "markdown_body_line_end": 689,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not treat Mandal's 1990 implementation as the starting point of caste politics; it is the culmination of a trajectory running back to Ambedkar.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 372.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 305.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 704,
+      "markdown_body_line_end": 710,
+      "heading": "VISUAL FIRST",
+      "preview": "CASTE POLITICS: FROM AMBEDKAR TO MANDAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 745,
+      "markdown_body_line_end": 762,
+      "heading": "CLOSING RECALL FLOW - CORE - CASTE POLITICS: FROM AMBEDKAR TO MANDAL",
+      "preview": "START / CONCEPT: CORE — Caste politics: from Ambedkar to Mandal",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 264
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 773,
+      "markdown_body_line_end": 773,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Communalism, in this topic's framing, is the ideology that revived from the 1960s and turned endemic after the late 1970s, of which riots are a symptom rather than the whole phenomenon.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 368.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 788,
+      "markdown_body_line_end": 794,
+      "heading": "VISUAL FIRST",
+      "preview": "COMMUNALISM AS IDEOLOGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 829,
+      "markdown_body_line_end": 846,
+      "heading": "CLOSING RECALL FLOW - CORE - COMMUNALISM AS IDEOLOGY",
+      "preview": "START / CONCEPT: CORE — Communalism as ideology",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 234
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 327.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 96.091
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 857,
+      "markdown_body_line_end": 857,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The 1991 reforms are the Narasimha-Rao-and-Manmohan-Singh-led liberalisation, forced by a balance-of-payments crisis and framed here as a correction of dirigiste excess rather than an abandonment of the original developm",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 598.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 872,
+      "markdown_body_line_end": 878,
+      "heading": "VISUAL FIRST",
+      "preview": "1991: LIBERALISATION AS CORRECTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 403.624
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 342.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 913,
+      "markdown_body_line_end": 930,
+      "heading": "CLOSING RECALL FLOW - CORE - 1991: LIBERALISATION AS CORRECTION",
+      "preview": "START / CONCEPT: CORE — 1991: liberalisation as correction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 281
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 556.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 325.091
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 941,
+      "markdown_body_line_end": 941,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not treat self-reliance as one unchanging idea across 1905 to 1991; its content changed at every stage, each following the demonstrated failure of the previous one.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 185.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 118.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 956,
+      "markdown_body_line_end": 962,
+      "heading": "VISUAL FIRST",
+      "preview": "THREAD 1: SELF-RELIANCE'S CHANGING CONTENT, 1905-1991",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 682.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 621.091
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 997,
+      "markdown_body_line_end": 1014,
+      "heading": "CLOSING RECALL FLOW - CORE - THREAD 1: SELF-RELIANCE'S CHANGING CONTENT, 1905-1991",
+      "preview": "START / CONCEPT: CORE — Thread 1: self-reliance's changing content, 1905-1991",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 196
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1025,
+      "markdown_body_line_end": 1025,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Thread 2 is the pattern by which agrarian distress produced regime change only when it coincided with a political crisis of legitimacy, as in 1857, 1967 and 1975-77, rather than through economic distress alone.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 345.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1040,
+      "markdown_body_line_end": 1046,
+      "heading": "VISUAL FIRST",
+      "preview": "THREAD 2: AGRARIAN DISTRESS AND REGIME CHANGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1081,
+      "markdown_body_line_end": 1098,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - THREAD 2: AGRARIAN DISTRESS AND REGIME CHANGE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Thread 2: agrarian distress and regime change",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 259
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1109,
+      "markdown_body_line_end": 1109,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The synthesis engine and institutional decay together describe how state capacity was deployed selectively and how Parliament, the Cabinet and defection controls decayed even as Indian democracy itself endured and deepen",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 388.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 307.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1124,
+      "markdown_body_line_end": 1130,
+      "heading": "VISUAL FIRST",
+      "preview": "THE SYNTHESIS ENGINE AND INSTITUTIONAL DECAY",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1165,
+      "markdown_body_line_end": 1182,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - THE SYNTHESIS ENGINE AND INSTITUTIONAL DECAY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — The synthesis engine and institutional decay",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 296
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1193,
+      "markdown_body_line_end": 1193,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The 2019 Prelims GS-I Q2 demand on land-reforms legislation in post-independence India is covered by this topic's land-reform bank.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 396.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 329.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1208,
+      "markdown_body_line_end": 1214,
+      "heading": "VISUAL FIRST",
+      "preview": "THE PYQ RECONCILIATION: COVERED DEMAND AND BOUNDED GAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1249,
+      "markdown_body_line_end": 1266,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - THE PYQ RECONCILIATION: COVERED DEMAND AND BOUNDED GAP",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — The PYQ reconciliation: covered demand and bounded gap",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 206
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2119,
+      "markdown_body_line_end": 2121,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 498.891
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 403.824
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2127,
+      "markdown_body_line_end": 2132,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 352.224
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 109.822
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2141,
+      "markdown_body_line_end": 2141,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 741.424
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2148,
+      "markdown_body_line_end": 2150,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 741.424
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 660.556
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2156,
+      "markdown_body_line_end": 2162,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 5,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 608.956
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 314.554
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2172,
+      "markdown_body_line_end": 2172,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 206.554
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 161.887
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2345,
+      "markdown_body_line_end": 2352,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 764.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 590.09
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2377,
+      "markdown_body_line_end": 2385,
+      "heading": "2. Key classification / data",
+      "preview": "Dimension | Advanced takeaway",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Dimension",
+          "Advanced takeaway"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 591.89
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2389,
+      "markdown_body_line_end": 2392,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ The Nehruvian origin of this model → `advanced/32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md`. **Study link:** ✅ Mandal, Mandir and Market context → `advanced/37_The-Rajiv-Years-and-Run-up-to-the-Millennium.md`. **Stu",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 591.89
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 454.222
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2405,
+      "markdown_body_line_end": 2405,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Chandra frames **1991 as a correction, not a repudiation** — the goals (growth, self-reliance, poverty removal) stayed; the instruments changed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 258.022
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 191.354
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2430,
+      "markdown_body_line_end": 2439,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: The economic model's rise and break, 1948-91",
+      "preview": "IPR 1948/1956 + MAHALANOBIS PLAN -> public sector \"commanding heights\"",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 545.491
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 452.891
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2443,
+      "markdown_body_line_end": 2448,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Land reform disaggregated: zamindari vs tenancy vs ceiling",
+      "preview": "COMPONENT   | OUTCOME           | WHY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 430.891
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 379.091
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2452,
+      "markdown_body_line_end": 2457,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Bhoodan: gesture, not structural reform",
+      "preview": "MOVEMENT -> Bhoodan, led by Vinoba Bhave",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 357.091
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2461,
+      "markdown_body_line_end": 2466,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: The Green Revolution's contested verdict",
+      "preview": "CHANDRA'S READING -> diffusion to rice regions; scale-neutral technology",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2470,
+      "markdown_body_line_end": 2475,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Agrarian struggle: three moments, three classes",
+      "preview": "TELANGANA (1946-47) -> landless and tenant struggle, at the moment of transfer",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2479,
+      "markdown_body_line_end": 2484,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Law-versus-society: caste, gender and communalism",
+      "preview": "CASTE -> untouchability abolished; Ambedkar to Dalit Panthers, BSP, Mandal 1990",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2488,
+      "markdown_body_line_end": 2494,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: The synthesis engine: state capacity to political organisation",
+      "preview": "STATE CAPACITY inherited from the colonial order",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 503.891
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2498,
+      "markdown_body_line_end": 2503,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Thread 1: self-reliance's changing content, 1905-1991",
+      "preview": "SWADESHI (1905) -> boycott + indigenous enterprise",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 481.891
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 430.091
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2507,
+      "markdown_body_line_end": 2512,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Thread 2: agrarian distress and regime change",
+      "preview": "MOMENT     | DISTRESS                  | OUTCOME",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 408.091
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 356.291
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2516,
+      "markdown_body_line_end": 2525,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Institutions in decay, democracy enduring",
+      "preview": "PARLIAMENT -> declining role from the late 1960s",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 334.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 241.691
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2529,
+      "markdown_body_line_end": 2538,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: PYQ reconciliation: 9 routed demands, three categories",
+      "preview": "9 ROUTED PRELIMS DEMANDS in this owner's local ledgers",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2542,
+      "markdown_body_line_end": 2547,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Verdict scaffolds: three graded readings",
+      "preview": "MODEL VERDICT -> planning built the economy India needed; 1991 corrected it",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    }
+  ]
+}

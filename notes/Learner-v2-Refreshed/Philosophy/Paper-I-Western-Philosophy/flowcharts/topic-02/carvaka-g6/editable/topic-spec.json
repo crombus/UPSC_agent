@@ -1,0 +1,958 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-i-western-philosophy-02",
+  "subject": "Philosophy",
+  "title": "RATIONALISM",
+  "short_route": "REASON WITH EXPERIENCE-OCCASION → CARTESIAN COGITO/GOD/WORLD → SPINOZIST IMMANENT NECESSITY → LEIBNIZIAN MONADS/POSSIBLE WORLDS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g6 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-02\\g6\\topic-02_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-western-philosophy-02-ascii-2026-08-26.json",
+  "ascii_spec_sha256": "e8d28b0e1dc856547a3c55ba27f62bfc269f0ba681e3b75e7f0846e7db86b39e",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "RATIONALIST STARTING PROBLEM AND CONNECTED 3-1-INFINITY SEQUENCE",
+      "structural_type": "conceptual-root-sequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "RATIONALIST STARTING PROBLEM AND CONNECTED 3-1-INFINITY SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "CAN REASON SECURE NECESSARY KNOWLEDGE AND AN INTELLIGIBLE WORLD?",
+          "role": "outcome"
+        },
+        {
+          "text": "A PRIORI PRINCIPLES + INTUITION + DEDUCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "SUBSTANCE, ATTRIBUTE, MODE AND SUFFICIENT EXPLANATION",
+          "role": "evidence"
+        },
+        {
+          "text": "GOD + MIND + BODY",
+          "role": "primary"
+        },
+        {
+          "text": "INTERACTION PROBLEM",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE GOD/NATURE",
+          "role": "comparison"
+        },
+        {
+          "text": "PARALLELISM + NECESSITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL QUESTION: CAN REASON SECURE NECESSARY KNOWLEDGE AND AN INTELLIGIBLE WORLD?",
+        "METHOD: a priori principles + intuition + deduction",
+        "METAPHYSICS: substance, attribute, mode and sufficient explanation",
+        "DESCARTES: God + mind + body → interaction problem",
+        "SPINOZA: one God/Nature → parallelism + necessity → individuality problem"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL QUESTION: CAN REASON SECURE NECESSARY KNOWLEDGE AND AN INTELLIGIBLE WORLD?",
+            "METHOD: a priori principles + intuition + deduction",
+            "METAPHYSICS: substance, attribute, mode and sufficient explanation"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DESCARTES: God + mind + body → interaction problem",
+            "SPINOZA: one God/Nature → parallelism + necessity → individuality problem",
+            "LEIBNIZ: many monads → harmony + contingency → economy and evil problem"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "MEMORY: substance 3-1-infinity; mind-body I-P-H."
+          ]
+        }
+      ],
+      "mechanism_strip": "A shared demand for intelligibility produces different systems because independence, simplicity and individuation are interpreted differently.",
+      "answer_line": "Rationalism uses reason and innate structure to ground necessity while allowing experience to occasion cognition; shared method does not fix one substance theory.",
+      "source_references": [
+        "SESSION 1"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CARTESIAN METHODIC DOUBT, COGITO AND FIRST CERTAINTY",
+      "structural_type": "epistemic-demolition-reconstruction-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CARTESIAN METHODIC DOUBT, COGITO AND FIRST CERTAINTY",
+          "role": "primary"
+        },
+        {
+          "text": "FOUR METHOD RULES",
+          "role": "outcome"
+        },
+        {
+          "text": "SIMPLE-TO-COMPLEX ORDER",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPLETE REVIEW",
+          "role": "evidence"
+        },
+        {
+          "text": "SENSE ERROR",
+          "role": "primary"
+        },
+        {
+          "text": "DREAM ARGUMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIL-GENIUS HYPOTHESIS SUSPEND EVERY BELIEF THAT CAN BE DOUBTED",
+          "role": "comparison"
+        },
+        {
+          "text": "I AM, I EXIST WHENEVER I THINK IMMEDIATE INTUITION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FOUR METHOD RULES: evidence → division → simple-to-complex order → complete review",
+        "SENSE ERROR → DREAM ARGUMENT → EVIL-GENIUS HYPOTHESIS suspend every belief that can be doubted",
+        "COGITO: I AM, I EXIST WHENEVER I THINK immediate intuition, not a syllogism",
+        "clear and distinct perception becomes the model",
+        "intuition supplies first principles; deduction orders consequences"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "FOUR METHOD RULES: evidence → division → simple-to-complex order → complete review",
+            "SENSE ERROR → DREAM ARGUMENT → EVIL-GENIUS HYPOTHESIS suspend every belief that can be doubted"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COGITO: I AM, I EXIST WHENEVER I THINK immediate intuition, not a syllogism",
+            "clear and distinct perception becomes the model"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "intuition supplies first principles; deduction orders consequences",
+            "LIMIT: present thinking is certain; enduring res cogitans needs further argument."
+          ]
+        }
+      ],
+      "mechanism_strip": "The attempt to doubt thinking existence performs the very thinking whose existence it tries to deny.",
+      "answer_line": "The cogito secures present thinking existence performatively, not an enduring immaterial substance, world or complete personal identity.",
+      "source_references": [
+        "SESSION 2"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CARTESIAN KNOWLEDGE ARCHITECTURE AND CIRCLE OBJECTION",
+      "structural_type": "argument-loop-with-qualified-reply",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CARTESIAN KNOWLEDGE ARCHITECTURE AND CIRCLE OBJECTION",
+          "role": "primary"
+        },
+        {
+          "text": "MATHEMATICS AND EXTERNAL RES EXTENSA",
+          "role": "outcome"
+        },
+        {
+          "text": "FACTITIOUS; OBJECTIVE REALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "REPRESENTATIONAL CONTENT",
+          "role": "evidence"
+        },
+        {
+          "text": "CAUSAL ADEQUACY OR TRADEMARK ROUTE + ONTOLOGICAL ROUTE; PRESENT",
+          "role": "primary"
+        },
+        {
+          "text": "INTELLECT JUDGES EXTENDED, FLEXIBLE, CHANGEABLE IDENTITY BEYOND SENSORY QUALITIES",
+          "role": "outcome"
+        },
+        {
+          "text": "CLEAR/DISTINCT PREMISES PROVE GOD",
+          "role": "comparison"
+        },
+        {
+          "text": "GOD GUARANTEES CLEAR/DISTINCT TRUTH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COGITO → IDEAS → GOD → NON-DECEPTION → MATHEMATICS AND EXTERNAL RES EXTENSA",
+        "IDEAS: innate / adventitious / factitious; objective reality = representational content",
+        "GOD: causal adequacy or trademark route + ontological route; present cautiously",
+        "WAX: intellect judges extended, flexible, changeable identity beyond sensory qualities",
+        "CIRCLE: clear/distinct premises prove God → God guarantees clear/distinct truth"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "COGITO → IDEAS → GOD → NON-DECEPTION → MATHEMATICS AND EXTERNAL RES EXTENSA",
+            "IDEAS: innate / adventitious / factitious; objective reality = representational content",
+            "GOD: causal adequacy or trademark route + ontological route; present cautiously"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "WAX: intellect judges extended, flexible, changeable identity beyond sensory qualities",
+            "CIRCLE: clear/distinct premises prove God → God guarantees clear/distinct truth",
+            "REPLY: present intuition compels; God secures memory and extended reasoning"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "RESIDUAL: the divine proofs themselves use inferential premises",
+            "WORLD: involuntary sensory ideas require an active cause; veracity blocks deception",
+            "LIMIT: body-existence is stronger than exact resemblance of sensible qualities."
+          ]
+        }
+      ],
+      "mechanism_strip": "Innate resources, divine veracity and involuntary sensory ideas rebuild knowledge and bodies, but Locke and the Cartesian Circle pressure the bridge.",
+      "answer_line": "God is the epistemic hinge of Cartesian reconstruction because divine non-deception extends clear and distinct certainty beyond the cogito, yet that hinge creates the Cartesian Circle.",
+      "source_references": [
+        "SESSION 3"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DESCARTES ON SUBSTANCE, INTERACTION AND FREEDOM",
+      "structural_type": "ontology-tree-and-problem-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DESCARTES ON SUBSTANCE, INTERACTION AND FREEDOM",
+          "role": "primary"
+        },
+        {
+          "text": "INFINITE SUBSTANCE, ABSOLUTELY INDEPENDENT",
+          "role": "outcome"
+        },
+        {
+          "text": "RES COGITANS",
+          "role": "comparison"
+        },
+        {
+          "text": "ATTRIBUTE THOUGHT; MODES INCLUDE IDEAS AND VOLITIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "RES EXTENSA",
+          "role": "primary"
+        },
+        {
+          "text": "ATTRIBUTE EXTENSION; MODES INCLUDE SHAPE AND MOTION",
+          "role": "outcome"
+        },
+        {
+          "text": "REAL DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "CLEAR CONCEPTION OF EACH WITHOUT THE OTHER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GOD = INFINITE SUBSTANCE, ABSOLUTELY INDEPENDENT",
+        "RES COGITANS: attribute thought; modes include ideas and volitions",
+        "RES EXTENSA: attribute extension; modes include shape and motion",
+        "REAL DISTINCTION: clear conception of each without the other",
+        "SUBSTANTIAL UNION: one embodied person experiences cross-domain coordination"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "GOD = INFINITE SUBSTANCE, ABSOLUTELY INDEPENDENT",
+            "RES COGITANS: attribute thought; modes include ideas and volitions",
+            "RES EXTENSA: attribute extension; modes include shape and motion",
+            "REAL DISTINCTION: clear conception of each without the other"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SUBSTANTIAL UNION: one embodied person experiences cross-domain coordination",
+            "OBJECTION: how can unextended mind cause extended motion? causal-closure pressure",
+            "REPLY: primitive notion of union; RESIDUAL: no transparent mechanism",
+            "OTHER MINDS: inferred through embodied behaviour, not given by the cogito"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "FREEDOM: will assents or withholds; error occurs when will outruns intellect",
+            "LIMIT: created substances depend continuously on God."
+          ]
+        }
+      ],
+      "mechanism_strip": "Clear and distinct conceivability supports real distinction, while the human union is treated as a primitive lived fact rather than a third substance.",
+      "answer_line": "Cartesian dualism gains conceptual clarity by separating thought from extension, but its success in distinction becomes its central causal problem because heterogeneous substances must still explain one life.",
+      "source_references": [
+        "SESSION 4"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SPINOZA'S SUBSTANCE-ATTRIBUTE-MODE HIERARCHY AND IMMANENT GOD",
+      "structural_type": "substance-hierarchy-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SPINOZA'S SUBSTANCE-ATTRIBUTE-MODE HIERARCHY AND IMMANENT GOD",
+          "role": "primary"
+        },
+        {
+          "text": "ONE SELF-CAUSED, NECESSARILY EXISTING, ABSOLUTELY INFINITE SUBSTANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "= DEUS SIVE NATURA INFINITELY MANY ATTRIBUTES HUMANS KNOW",
+          "role": "comparison"
+        },
+        {
+          "text": "IMMANENT CAUSE; WHATEVER IS, IS IN GOD; NO EXTERNAL",
+          "role": "caution"
+        },
+        {
+          "text": "ACOSMISM; REPLY",
+          "role": "primary"
+        },
+        {
+          "text": "MODES RETAIN DEPENDENT REALITY.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ONE SELF-CAUSED, NECESSARILY EXISTING, ABSOLUTELY INFINITE SUBSTANCE",
+        "= DEUS SIVE NATURA infinitely many ATTRIBUTES humans know THOUGHT and EXTENSION finite minds and",
+        "GOD = immanent cause; whatever is, is in God; no external created realm",
+        "OBJECTION: acosmism; REPLY: modes retain dependent reality."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "ONE SELF-CAUSED, NECESSARILY EXISTING, ABSOLUTELY INFINITE SUBSTANCE",
+            "= DEUS SIVE NATURA infinitely many ATTRIBUTES humans know THOUGHT and EXTENSION finite minds and bodies are MODES"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GOD = immanent cause; whatever is, is in God; no external created realm",
+            "OBJECTION: acosmism; REPLY: modes retain dependent reality."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "ONE SELF-CAUSED, NECESSARILY EXISTING, ABSOLUTELY INFINITE SUBSTANCE",
+            "= DEUS SIVE NATURA infinitely many ATTRIBUTES humans know THOUGHT and EXTENSION finite minds and bodies are MODES"
+          ]
+        }
+      ],
+      "mechanism_strip": "Because substance is conceived through itself and cannot be limited by another substance of the same nature, the system culminates in one infinite substance.",
+      "answer_line": "All modes are in God by immanent necessity, yet no finite mode or finite aggregate is numerically identical with the whole infinite divine essence.",
+      "source_references": [
+        "SESSION 5"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SPINOZA'S PARALLELISM AND ROUTE FROM BONDAGE TO FREEDOM",
+      "structural_type": "parallel-rail-and-liberation-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SPINOZA'S PARALLELISM AND ROUTE FROM BONDAGE TO FREEDOM",
+          "role": "primary"
+        },
+        {
+          "text": "ONE EVENT",
+          "role": "outcome"
+        },
+        {
+          "text": "UNDER THOUGHT",
+          "role": "comparison"
+        },
+        {
+          "text": "UNDER EXTENSION",
+          "role": "evidence"
+        },
+        {
+          "text": "ORDER AND CONNECTION OF IDEAS",
+          "role": "primary"
+        },
+        {
+          "text": "ORDER AND CONNECTION OF THINGS",
+          "role": "outcome"
+        },
+        {
+          "text": "NO CROSS-ATTRIBUTE CAUSAL TRANSFER; PARALLELISM REPLACES CARTESIAN INTERACTION",
+          "role": "caution"
+        },
+        {
+          "text": "FINITE MODES ARE NECESSARILY CAUSED; CONTINGENCY RECORDS IGNORANCE OF",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ONE EVENT → under THOUGHT: idea → under EXTENSION: body-state",
+        "ORDER AND CONNECTION OF IDEAS = ORDER AND CONNECTION OF THINGS",
+        "NO cross-attribute causal transfer; parallelism replaces Cartesian interaction",
+        "FINITE MODES are necessarily caused; contingency records ignorance of causes",
+        "CONATUS = each thing's striving to persevere in being"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "ONE EVENT → under THOUGHT: idea → under EXTENSION: body-state",
+            "ORDER AND CONNECTION OF IDEAS = ORDER AND CONNECTION OF THINGS",
+            "NO cross-attribute causal transfer; parallelism replaces Cartesian interaction"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FINITE MODES are necessarily caused; contingency records ignorance of causes",
+            "CONATUS = each thing's striving to persevere in being",
+            "INADEQUATE IDEAS + external causes → passive affects → BONDAGE"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "COMMON NOTIONS / REASON / INTUITION → ADEQUATE IDEAS → ACTIVITY",
+            "FREEDOM = acting from understood nature within necessity, not uncaused choice",
+            "LIMIT: autonomy survives, but alternative possibilities do not."
+          ]
+        }
+      ],
+      "mechanism_strip": "The same modal event is expressed under Thought as an idea and under Extension as a body-state, eliminating cross-attribute causal transfer.",
+      "answer_line": "Spinoza reconciles freedom with determinism by treating freedom not as uncaused choice but as adequate self-determination within the necessary order of God or Nature.",
+      "source_references": [
+        "SESSION 6"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "LEIBNIZ'S MONAD HIERARCHY, PERCEPTION AND INDIVIDUALITY",
+      "structural_type": "graded-monad-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LEIBNIZ'S MONAD HIERARCHY, PERCEPTION AND INDIVIDUALITY",
+          "role": "primary"
+        },
+        {
+          "text": "WHY MONADS? EXTENSION IS DIVISIBLE; ULTIMATE SUBSTANCE MUST BE",
+          "role": "outcome"
+        },
+        {
+          "text": "NECESSARY SUPREME MONAD",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPLETE INTELLIGENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "RATIONAL SPIRITS",
+          "role": "primary"
+        },
+        {
+          "text": "APPERCEPTION + REASON + MORAL AGENCY",
+          "role": "outcome"
+        },
+        {
+          "text": "ANIMAL SOULS",
+          "role": "comparison"
+        },
+        {
+          "text": "MEMORY + CLEARER PERCEPTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WHY MONADS? extension is divisible; ultimate substance must be simple",
+        "GOD: necessary supreme monad / complete intelligence",
+        "RATIONAL SPIRITS: apperception + reason + moral agency",
+        "ANIMAL SOULS: memory + clearer perception",
+        "BARE MONADS: obscure petites perceptions"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "WHY MONADS? extension is divisible; ultimate substance must be simple",
+            "GOD: necessary supreme monad / complete intelligence",
+            "RATIONAL SPIRITS: apperception + reason + moral agency"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ANIMAL SOULS: memory + clearer perception",
+            "BARE MONADS: obscure petites perceptions",
+            "EVERY MONAD: simple, unextended, windowless, perceptive and appetitive"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "APPETITION = internal transition; each perspective expresses the universe",
+            "IDENTITY OF INDISCERNIBLES secures uniqueness",
+            "BODIES = well-founded phenomena, not ultimate substances."
+          ]
+        }
+      ],
+      "mechanism_strip": "Appetition moves each monad from one perception to another according to its own law, while its perspective differentiates it from every other monad.",
+      "answer_line": "Created monads perceive and appetitively unfold; minute perception differs from apperception, and God is their unique uncreated necessary source.",
+      "source_references": [
+        "SESSION 7"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "LEIBNIZIAN HARMONY, SUFFICIENT REASON, CONTINGENCY AND FREEDOM",
+      "structural_type": "synchronised-process-and-modal-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LEIBNIZIAN HARMONY, SUFFICIENT REASON, CONTINGENCY AND FREEDOM",
+          "role": "primary"
+        },
+        {
+          "text": "GOD CHOOSES A COMPOSSIBLE BEST WORLD UNDER THE PRINCIPLE",
+          "role": "outcome"
+        },
+        {
+          "text": "MIND-MONAD STATES UNFOLD INTERNALLY",
+          "role": "comparison"
+        },
+        {
+          "text": "BODILY/ORGANIC STATES UNFOLD INTERNALLY",
+          "role": "evidence"
+        },
+        {
+          "text": "PRE-ESTABLISHED HARMONY MAKES THEM CORRESPOND WITHOUT INTERACTION",
+          "role": "primary"
+        },
+        {
+          "text": "TRUTHS OF REASON",
+          "role": "outcome"
+        },
+        {
+          "text": "OPPOSITE CONTRADICTORY",
+          "role": "comparison"
+        },
+        {
+          "text": "LOGICALLY NECESSARY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GOD chooses a compossible best world under the PRINCIPLE OF SUFFICIENT REASON",
+        "mind-monad states unfold internally",
+        "bodily/organic states unfold internally",
+        "PRE-ESTABLISHED HARMONY makes them correspond without interaction",
+        "TRUTHS OF REASON: opposite contradictory → logically necessary"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "GOD chooses a compossible best world under the PRINCIPLE OF SUFFICIENT REASON",
+            "mind-monad states unfold internally",
+            "bodily/organic states unfold internally",
+            "PRE-ESTABLISHED HARMONY makes them correspond without interaction"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRUTHS OF REASON: opposite contradictory → logically necessary",
+            "TRUTHS OF FACT: opposite conceivable → contingent though certain",
+            "COMPLETE CONCEPT: all predicates belong to the individual known fully by God",
+            "FREEDOM: spontaneity + intelligence + contingency; reasons incline, not coerce"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "OBJECTION: programming/evil; REPLY: self-expression + optimal compossibility",
+            "LIMIT: compatibility is stronger than libertarian freedom."
+          ]
+        }
+      ],
+      "mechanism_strip": "Truths of reason are necessary; truths of fact remain logically contingent through possible worlds despite complete-concept certainty in the actual world.",
+      "answer_line": "Leibniz preserves freedom by distinguishing certainty from absolute necessity: rational actions arise spontaneously from the agent's own reasons, which incline without necessitating in the logical sense.",
+      "source_references": [
+        "SESSION 8"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "THREE RATIONALIST SYSTEMS COMPARED ON MATCHED AXES",
+      "structural_type": "four-axis-comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE RATIONALIST SYSTEMS COMPARED ON MATCHED AXES",
+          "role": "primary"
+        },
+        {
+          "text": "LEIBNIZ SUBSTANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "GOD + MIND + BODY",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE GOD OR NATURE",
+          "role": "evidence"
+        },
+        {
+          "text": "MANY SIMPLE MONADS",
+          "role": "primary"
+        },
+        {
+          "text": "IMMANENT REALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "SELECTOR/COORDINATOR MIND-BODY",
+          "role": "comparison"
+        },
+        {
+          "text": "HARMONY ORDER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LEIBNIZ substance",
+        "God + mind + body",
+        "one God or Nature",
+        "many simple monads",
+        "immanent reality"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "LEIBNIZ substance",
+          "selector/coordinator mind-body",
+          "rational assent"
+        ],
+        [
+          "God + mind + body",
+          "harmony order",
+          "adequate activity"
+        ],
+        [
+          "one God or Nature",
+          "mechanism + will",
+          "intelligent spontaneity"
+        ],
+        [
+          "many simple monads",
+          "strict necessity",
+          "PRESSURE SEQUENCE: interaction gap → monist unity → restored individuality."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "LEIBNIZ substance",
+            "God + mind + body",
+            "one God or Nature",
+            "many simple monads",
+            "immanent reality"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "selector/coordinator mind-body",
+            "harmony order",
+            "mechanism + will",
+            "strict necessity",
+            "certain/contingent freedom"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "rational assent",
+            "adequate activity",
+            "intelligent spontaneity",
+            "PRESSURE SEQUENCE: interaction gap → monist unity → restored individuality."
+          ]
+        }
+      ],
+      "mechanism_strip": "Each successor accepts the Cartesian pressure but redistributes substance and causation to avoid direct interaction between heterogeneous realities.",
+      "answer_line": "Spinoza removes the interaction gap by collapsing Cartesian substances into attributes of one order, while Leibniz restores plurality by replacing interaction with divinely coordinated internal activity.",
+      "source_references": [
+        "SESSION 9"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "synthesis",
+      "title": "CRITICISM-REPLY LEDGER, TRAPS, PYQ ROUTES AND ANSWER SPINE",
+      "structural_type": "evaluation-ledger-and-exam-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CRITICISM-REPLY LEDGER, TRAPS, PYQ ROUTES AND ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "INTERACTION GAP",
+          "role": "outcome"
+        },
+        {
+          "text": "PRIMITIVE UNION",
+          "role": "comparison"
+        },
+        {
+          "text": "MECHANISM REMAINS OPAQUE",
+          "role": "mechanism"
+        },
+        {
+          "text": "ADEQUATE ACTIVITY + MODAL REALITY",
+          "role": "primary"
+        },
+        {
+          "text": "NO ALTERNATIVES",
+          "role": "caution"
+        },
+        {
+          "text": "SPONTANEITY + POSSIBLE WORLDS",
+          "role": "comparison"
+        },
+        {
+          "text": "RESIDUAL PRESSURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DESCARTES: interaction gap → primitive union → mechanism remains opaque",
+        "SPINOZA: necessity/acosmism → adequate activity + modal reality → no alternatives",
+        "LEIBNIZ: programming/evil/economy → spontaneity + possible worlds → residual pressure",
+        "PRECISION: substance != attribute != mode; mind != person; necessity != fatalism",
+        "PRECISION: spontaneity != autonomy; compatibilism != libertarian freedom"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "DESCARTES: interaction gap → primitive union → mechanism remains opaque",
+            "SPINOZA: necessity/acosmism → adequate activity + modal reality → no alternatives",
+            "LEIBNIZ: programming/evil/economy → spontaneity + possible worlds → residual pressure",
+            "PRECISION: substance != attribute != mode; mind != person; necessity != fatalism"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "PRECISION: spontaneity != autonomy; compatibilism != libertarian freedom",
+            "PYQ ROUTES: certainty/self-world; substance 3-1-infinity; pantheism; freedom",
+            "PYQ ROUTES: innate ideas; monads/harmony; God; determination/negation",
+            "ANSWER SPINE"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "directive → thesis → definitions → argument → example → objection → reply → verdict",
+            "CONTROL: claim → named evidence → analysis → qualification",
+            "VERDICT: intelligibility is gained at recurring costs to interaction and autonomy."
+          ]
+        }
+      ],
+      "mechanism_strip": "Precision turns system summaries into answers by linking every doctrine to a named inferential role and an explicit qualification.",
+      "answer_line": "Keep method, substance, God, mind-body and freedom central; use Empiricism, Kant and optional science only as targeted objections.",
+      "source_references": [
+        "SESSION 10"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 1 — RATIONALISM MASTER MAP AND BASIC",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED SESSION 2 — CARTESIAN DOUBT, COGITO AND CERTAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED SESSION 3 — WAX, EXTERNAL WORLD, DIVINE GUARANTEE",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED SESSION 4 — SUBSTANCE",
+          "role": "primary"
+        },
+        {
+          "text": "ONE INHERITED CRITERION, DESCARTES 3, SPINOZA 1, LEIBNIZ INFINITY",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED SESSION 5 — GOD",
+          "role": "comparison"
+        },
+        {
+          "text": "CARTESIAN GUARANTEE, SPINOZIST IMMANENT NATURE, LEIBNIZIAN SELECTOR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "ADVANCED SESSION 1 — Rationalism Master Map and Basic Tenets",
+            "ADVANCED SESSION 2 — Cartesian Doubt, Cogito and Certain Self-Knowledge",
+            "ADVANCED SESSION 3 — Wax, External World, Divine Guarantee and the Cartesian Circle",
+            "ADVANCED SESSION 4 — Substance: One Inherited Criterion, Descartes 3, Spinoza 1, Leibniz Infinity"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "ADVANCED SESSION 5 — God: Cartesian Guarantee, Spinozist Immanent Nature, Leibnizian Selector",
+            "ADVANCED SESSION 6 — Mind and Body: Interactionism, Parallelism and Pre-Established Harmony",
+            "ADVANCED SESSION 7 — Freedom and Determinism Across the Rationalist Trio",
+            "ADVANCED SESSION 8 — Spinoza's Integrated System: Necessity, Knowledge, Pantheism and Negation"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "ADVANCED SESSION 9 — Leibniz: Monads, Sufficient Reason, Contingency and Harmony",
+            "ADVANCED SESSION 10 — Criticisms, Comparisons, PYQ Routing and Provenance-Safe Answer Architecture",
+            "ADVANCED DOSSIER REFINEMENTS — USE SELECTIVELY",
+            "Core prerequisite : finish the owner first for Cartesian Method and Certain Knowledge"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

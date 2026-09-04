@@ -1,0 +1,103 @@
+{
+  "record_id": "philosophy-paper-i-indian-philosophy-01:learner-v2:g7",
+  "topic_key": "philosophy-paper-i-indian-philosophy-01",
+  "variant": "learner-v2",
+  "generation": 7,
+  "supersedes": "philosophy-paper-i-indian-philosophy-01:learner-v2:g6",
+  "command": "Generate learner-v2 topic: Philosophy Optional — Philosophy Paper I — Indian Philosophy — Carvaka — Learner-v2 refreshed",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Indian-Philosophy\\learning-sessions\\topic-01\\topic-01_Complete-Learning-Session_2026-08-22.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Indian-Philosophy\\learning-sessions\\topic-01\\topic-01_Solved-Practice-Workbook_2026-08-22.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Indian-Philosophy\\learning-sessions\\topic-01\\topic-01_Complete-Learning-Session_2026-08-22.md",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-philosophy-regeneration-source-complete",
+    "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Carvaka.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Carvaka\\Carvaka_Layered-Complete-Learning-Session_2026-08-10.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Carvaka.md",
+    "prior_learner_v2": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\philosophy-paper-i-indian-philosophy-01_Learning-Session.md",
+    "legacy_v1_source_package": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Carvaka\\Carvaka_Layered-Complete-Learning-Session_2026-08-10.md",
+    "legacy_v1_workbook": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Carvaka\\Carvaka_Layered-Solved-Practice-Workbook_2026-08-10.md",
+    "pyq_corpus": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md",
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Indian-Philosophy\\learning-sessions\\topic-01\\topic-01_Complete-Learning-Session_2026-08-22.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.1"
+    },
+    "generation_date": "2026-08-22",
+    "superseded_v1": "philosophy-paper-i-indian-philosophy-01:legacy-v1:g1",
+    "reused_legacy_assets": [
+      "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Carvaka\\assets\\01_Carvaka-One-Four-Two-Zero.png"
+    ],
+    "migration_note": "The complete learner-v2 g2 Basic, Advanced and detailed register were retained. Practice was standardised from 32+10 diagnostics to 40+8, with nine rebuilt PYQs and six original solved Mains models. New g3 paths preserve g2 unchanged.",
+    "retrofit": {
+      "id": "continuous-core-first-2026-08-22",
+      "source_record": "philosophy-paper-i-indian-philosophy-01:learner-v2:g5",
+      "closure_flow": "source-derived and placed after every BASIC H3",
+      "workbook": "byte-preserved; no practice content changed",
+      "flowchart": "approved Cārvāka reference reused unchanged"
+    },
+    "refresh": {
+      "id": "learner-v2-refreshed-2026-08-22",
+      "source_record": "philosophy-paper-i-indian-philosophy-01:learner-v2:g6",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy-g3-core-first-g4-core-first-g5-core-first-g6\\philosophy-paper-i-indian-philosophy-01_Learning-Session.md",
+      "source_hashes": {
+        "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Master.png": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+        "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Poster_2026-08-22.pdf": "f291dde859557d822b91902027b070bb649e92f20c52e9031b1521a9dde16d90",
+        "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\Carvaka_Continuous-At-a-Glance-Core-First_Tiled_2026-08-22.pdf": "eb3e452797f15bac2599431e72bc69efedb66aa104367c6f0404b4abe3296d6e",
+        "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\preservation-hashes-after.json": "106755568bf1dc39afa352cfb922af0dfb10761505c489b105a948ff078d9e70",
+        "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\preservation-hashes-before.json": "ffc4c6fd5afe60ab50749cd8e61db4af4b4d42b5edfaa487b0ae6c5ab9562b45",
+        "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\contact-sheet-01.png": "25b565a4484eac9346b62ca1bc235d77062d1791d64dd6566ab05dc526814ecf",
+        "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\contact-sheet-02.png": "79837711c4d908a334e487a430ff8d8d7d25c867f99e4daef6cad9188f0ab33e",
+        "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\page-001.png": "588f7528a9c63324a348d2e609bfa7c916947a1740ea60acce6fb25cdcd1f236",
+        "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\page-002.png": "31273137fb36fb3002717556e23dfe80681109a911c8fd7864c2d088bdd7443b",
+        "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\page-003.png": "69429b72393f24b74586207753de5df650d0cb391ea07d1b1e636489276106f0",
+        "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\page-004.png": "cb0f3258c93e033db6b3d722dcb7f7abb28aae0fd9234e917b58941deeca0f64",
+        "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\page-005.png": "e1af2c8583a37e585a08bd64f04aab2d6cb6186490a57de94dd98d5a6ce40b8f",
+        "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\previews\\page-006.png": "94eea8cb7ff639e60254ae985e727590259ed032637324689cf8dbb8d1168d86",
+        "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\README.txt": "31df6ad4c502840dbdc098d80e247e08ad8ba37ba1889da4fb2e86d274a9b28e",
+        "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\validation-report.txt": "6ee3bba7c47f855d36c94fd92c50efd873d417b2947c72a836df5831d9185989",
+        "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy-g3-core-first-g4-core-first-g5-core-first-g6\\notes\\philosophy-paper-i-indian-philosophy-01_Learning-Session_2026-08-22.pdf": "611c09024b6a349e2546515a52ea5fe0307ba61448ae43d45aa79aa4ea7d02ab",
+        "notes\\Philosophy\\learning-session-v2\\philosophy-paper-i-indian-philosophy-01\\philosophy-paper-i-indian-philosophy-01_Solved-Workbook_2026-08-21.pdf": "283773c316fc5c12de5d35a9c127a2aceaf72f3581ba05422cc8490c1865b123",
+        "tools\\markdown_learning_pdf.py": "394a0e26d0f972ebaab1015cd57da26c7b24951143162d3bc43d86d7ae67ca29",
+        "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Carvaka\\assets\\01_Carvaka-One-Four-Two-Zero.png": "880a3bf4ee700a987e2d6530e6a03d3258a2c84022362a28d277ee930f6d9768",
+        "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Carvaka\\Carvaka_Layered-Complete-Learning-Session_2026-08-10.md": "47e7639b4b32ff7f89e7c5f3e8d7b3072b74e39aa3fecb053490364e2ddd431a",
+        "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Carvaka\\Carvaka_Layered-Solved-Practice-Workbook_2026-08-10.md": "7708e9aa55a0087e6fa44555809d4a48b4b94a3af26fadef43a76c0bee13f93f",
+        "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy-g3-core-first-g4-core-first-g5-core-first-g6\\philosophy-paper-i-indian-philosophy-01_Learning-Session.md": "c6fdeaba1b07f4ebbabfa2209264027e626fd97673ce067b5b984fcbee98e6e7",
+        "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\philosophy-paper-i-indian-philosophy-01_Learning-Session.md": "2238e1175ed155b5aca6c9f0bbee5bd62e051c582fa56bc88e581226c61aa54e",
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md": "ba401dde672f4bab8a9dc4580a434be6ced246e9a81b5150b45cbeded9079fd1",
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Carvaka.md": "d37f45d753a68f97ceb8b3d3fbe94f5d8c4ccb50baaa174cf6fcf5d1f7194ee8"
+      },
+      "session_contract": "named-session definition/opening/keywords/use/closure",
+      "mcq_keys": "stable-topic-seed balanced deterministic non-patterned",
+      "tracker_updated": false,
+      "tracker_sha256": "2ad398cbb20ccd11c73be28a704c0e82342810bc147e19aec7d75acf8f584571"
+    }
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "philosophy-paper-i-indian-philosophy-01:learner-v2:g7"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-22",
+    "validator": "tools/refresh_all_v2_learning_sessions.py + tools/validate_v2_export.py"
+  },
+  "generated_on": "2026-08-22",
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Indian-Philosophy\\flowcharts\\topic-01\\carvaka-g7",
+    "master_image": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Indian-Philosophy\\flowcharts\\topic-01\\carvaka-g7\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Indian-Philosophy\\flowcharts\\topic-01\\carvaka-g7\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Indian-Philosophy\\flowcharts\\topic-01\\carvaka-g7\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Indian-Philosophy\\flowcharts\\topic-01\\carvaka-g7\\editable",
+    "previews": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Indian-Philosophy\\flowcharts\\topic-01\\carvaka-g7\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Indian-Philosophy\\flowcharts\\topic-01\\carvaka-g7\\previews\\contact-sheet-01.png"
+    ],
+    "validation_report": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Indian-Philosophy\\flowcharts\\topic-01\\carvaka-g7\\validation-report.txt",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Indian-Philosophy\\flowcharts\\topic-01\\carvaka-g7\\ascii-master.txt"
+  },
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Indian-Philosophy\\learning-sessions\\topic-01\\topic-01_Solved-Practice-Workbook_2026-08-22.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Indian-Philosophy\\learning-sessions\\topic-01\\assets",
+  "refresh_profile": "learner-v2-refreshed-2026-08-22"
+}

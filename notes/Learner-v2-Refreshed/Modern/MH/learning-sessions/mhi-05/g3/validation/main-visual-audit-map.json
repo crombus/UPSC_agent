@@ -1,0 +1,2616 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\modern-indian-history-05_Complete-Learning-Session_2026-08-31.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\modern-indian-history-05_Complete-Learning-Session_2026-08-31.pdf",
+  "mode": "main",
+  "topic_key": "modern-indian-history-05",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 7,
+      "markdown_body_line_end": 14,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 672.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 374.89
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 37,
+      "markdown_body_line_end": 37,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\modern-indian-history-05_Teaching-Navigation_2026-08-30.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 732.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 424.956
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 66,
+      "markdown_body_line_end": 66,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Company expansion after 1765 combined changing policy postures with an expanding fiscal-military capacity rather than following one predetermined blueprint.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 655.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 588.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 85,
+      "markdown_body_line_end": 85,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 1: five rungs of Company expansion -- ring-fence, buffer, subsidiary dependency, paramountcy, annexation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\01_01_expansion_master_timeline.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 91,
+      "markdown_body_line_end": 108,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - 1. FROM COMMERCIAL-FISCAL BASE TO MILITARY-FISCAL STATE: RING-FENCE, BUFFER, SUBSIDIARY DEPENDENCY, PARAMOUNTCY, ANNEXATION",
+      "preview": "START / CONCEPT: FOUNDATION — 1. From commercial-fiscal base to military-fiscal state: ring-fence, buffer, subsidiary dependency, paramountcy, annexation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 237
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 427.356
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 176.356
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 119,
+      "markdown_body_line_end": 119,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "the clearest textbook evidence for genuine contingency is that the Company lost battles and signed treaties it did not dictate on its own terms.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 627.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 560.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 140,
+      "markdown_body_line_end": 157,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - 2. CONTINGENCY, NOT INEVITABILITY: READING TERRITORIAL EXPANSION AS A SEQUENCE OF CHOICES",
+      "preview": "START / CONCEPT: FOUNDATION — 2. Contingency, not inevitability: reading territorial expansion as a sequence of choices",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 522
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 463.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 168,
+      "markdown_body_line_end": 168,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Integrated logistics: a functioning commissariat, credit network and transport system let Company armies sustain campaigns far from their home bases (Wellesley's armies fighting simultaneously in the Deccan and north India in 1803 is the cl",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 290.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 195.224
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 187,
+      "markdown_body_line_end": 187,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 2: the fiscal-military flywheel -- Bengal revenue, army, conquest, more revenue",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\02_02_fiscal_military_flywheel.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 433.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 125.756
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 193,
+      "markdown_body_line_end": 210,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - 3. WHY COMPANY ARMIES PREVAILED I: BENGAL REVENUE, THE SEPOY ARMY, OFFICERS, ARTILLERY AND LOGISTICS",
+      "preview": "START / CONCEPT: FOUNDATION — 3. Why Company armies prevailed I: Bengal revenue, the sepoy army, officers, artillery and logistics",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 392
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 503.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 221,
+      "markdown_body_line_end": 221,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Diplomacy that produced serial isolation of opponents: this is the single most consistently documented mechanism across all three fronts this topic covers.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 282.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 216.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 240,
+      "markdown_body_line_end": 240,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 3: the Company victory system -- eight linked factors and where each fits",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\03_03_company_victory_system_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 291.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 249,
+      "markdown_body_line_end": 266,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - 4. WHY COMPANY ARMIES PREVAILED II: CREDIT AND SUPPLY, MARITIME REINFORCEMENT, DIPLOMACY, SERIAL ISOLATION, INDIAN ALLIES AND RECRUITS -- AND THE COMPANY'S OWN REVERSES",
+      "preview": "START / CONCEPT: FOUNDATION — 4. Why Company armies prevailed II: credit and supply, maritime reinforcement, diplomacy, serial isolation, Indian allies and recruits -- and the Company's own reverses",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 446
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 395.356
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 74.356
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 277,
+      "markdown_body_line_end": 277,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The historian Burton Stein has described Tipu's revenue system as a form of \"military fiscalism\": taxes collected from a wide base directly by state officials specifically to mobilise resources for a large standing army, part of a deliberat",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 575.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 437.424
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 296,
+      "markdown_body_line_end": 296,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 4: Mysore's military-fiscal reform under Haidar Ali and Tipu Sultan",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\04_04_four_mysore_wars_timeline_-fcfa14abd6.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 608.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 301.156
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 302,
+      "markdown_body_line_end": 319,
+      "heading": "CLOSING RECALL FLOW - CORE - 5. MYSORE'S STATE CAPACITY: HAIDAR ALI'S RISE, ARMY REFORM AND TIPU'S \"MILITARY FISCALISM\"",
+      "preview": "START / CONCEPT: CORE — 5. Mysore's state capacity: Haidar Ali's rise, army reform and Tipu's \"military fiscalism\"",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 818
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 443.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 330,
+      "markdown_body_line_end": 330,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "there were four rounds of Company-Mysore warfare, and the alliance pattern across them is itself a classic exam point, because it shifted each time.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 289.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 222.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 349,
+      "markdown_body_line_end": 349,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 5: four Anglo-Mysore Wars -- shifting alliances and treaties, 1767-1799",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\04_04_four_mysore_wars_timeline_-fcfa14abd6.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 461.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 154.156
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 355,
+      "markdown_body_line_end": 372,
+      "heading": "CLOSING RECALL FLOW - CORE - 6. FOUR ANGLO-MYSORE WARS: ALLIANCES, TREATIES, MADRAS/MANGALORE/SERINGAPATAM",
+      "preview": "START / CONCEPT: CORE — 6. Four Anglo-Mysore Wars: alliances, treaties, Madras/Mangalore/Seringapatam",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 493
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 493.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 383,
+      "markdown_body_line_end": 383,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "this is also the right place to state, without cultural caricature, why Mysore's resistance nonetheless ultimately failed despite genuine military and administrative reform: Tipu fought without a durable regional coalition (the Marathas and",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 310.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 187.424
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 404,
+      "markdown_body_line_end": 421,
+      "heading": "CLOSING RECALL FLOW - CORE - 7. MALABAR, TRAVANCORE AND TIPU'S DIPLOMACY: THE FRENCH CONNECTION WITHOUT MYTH",
+      "preview": "START / CONCEPT: CORE — 7. Malabar, Travancore and Tipu's diplomacy: the French connection without myth",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 872
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 363.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 432,
+      "markdown_body_line_end": 432,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The reduced core of Mysore was restored to the Wodeyar dynasty -- the original royal line that Haidar Ali had displaced decades earlier -- but the restored Raja was immediately bound by a Subsidiary Alliance treaty (Part IV) that authorised",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 147.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 52.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 449,
+      "markdown_body_line_end": 449,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 6: the 1799 Seringapatam settlement -- siege, partition, restoration, subsidiary control",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\05_05_seringapatam_1799_schematic.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 427.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 120.156
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 458,
+      "markdown_body_line_end": 475,
+      "heading": "CLOSING RECALL FLOW - CORE - 8. THE 1799 SETTLEMENT: SERINGAPATAM, WODEYAR RESTORATION, SUBSIDIARY CONTROL, AND WHY RESISTANCE FAILED",
+      "preview": "START / CONCEPT: CORE — 8. The 1799 settlement: Seringapatam, Wodeyar restoration, subsidiary control, and why resistance failed",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 437
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 454.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 486,
+      "markdown_body_line_end": 486,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "(Topic 02 owns the Marathas' eighteenth-century rise and internal state structure in full; this subtopic recaps only what is load-bearing for the Company wars that follow.).",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 281.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 214.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 505,
+      "markdown_body_line_end": 505,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 7: the Maratha confederacy -- five houses and the Peshwa's weakening authority",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\06_06_maratha_confederacy_network.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 518.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 210.956
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 511,
+      "markdown_body_line_end": 528,
+      "heading": "CLOSING RECALL FLOW - CORE - 9. THE MARATHA CONFEDERACY: STRUCTURE, FIVE HOUSES, AND THE COST OF A HEADLESS POLITY",
+      "preview": "START / CONCEPT: CORE — 9. The Maratha confederacy: structure, five houses, and the cost of a headless polity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 613
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 443.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 539,
+      "markdown_body_line_end": 539,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "In 1775 the Bombay government agreed to back Raghunath Rao's claim, and after his forces were defeated in Gujarat, offered him direct support -- an intervention traditionally associated with an agreement (the Treaty of Surat) trading Compan",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 260.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 165.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 558,
+      "markdown_body_line_end": 558,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 8: First Anglo-Maratha War -- Surat to Purandar to Wadgaon to Salbai",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\07_07_first_anglo_maratha_war_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 414.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 106.556
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 564,
+      "markdown_body_line_end": 581,
+      "heading": "CLOSING RECALL FLOW - CORE - 10. FIRST ANGLO-MARATHA WAR: RAGHUNATH RAO, SURAT, PURANDAR, WADGAON, SALBAI",
+      "preview": "START / CONCEPT: CORE — 10. First Anglo-Maratha War: Raghunath Rao, Surat, Purandar, Wadgaon, Salbai",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 434
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 592,
+      "markdown_body_line_end": 592,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Treaty of Bassein converted a Maratha succession and confederate conflict into a constitutional subordination of the Peshwa and a wider Company-Maratha war.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 319.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 252.624
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 609,
+      "markdown_body_line_end": 609,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 9: the Bassein causal chain, 1800-1802 -- from Nana Phadnis's death to the Peshwa's Subsidiary Alliance",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\08_08_bassein_1802_causal_chain.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 580.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 272.756
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 615,
+      "markdown_body_line_end": 632,
+      "heading": "CLOSING RECALL FLOW - CORE - 11. TREATY OF BASSEIN, 1802: THE TURNING POINT",
+      "preview": "START / CONCEPT: CORE — 11. Treaty of Bassein, 1802: the turning point",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 250
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 643,
+      "markdown_body_line_end": 643,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Bassein directly triggered the Second Anglo-Maratha War (1803-05), as Sindhia and Bhonsle rejected the Peshwa's subordination and took up arms, while Holkar initially stood aside and the Gaekwad of Baroda supported the Company -- again illu",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 335.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 240.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 660,
+      "markdown_body_line_end": 660,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 10: Second Anglo-Maratha War, 1803-05 -- Assaye, Laswari, Delhi, and Holkar's resistance",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\09_09_second_anglo_maratha_war_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 551.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 244.356
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 666,
+      "markdown_body_line_end": 683,
+      "heading": "CLOSING RECALL FLOW - CORE - 12. SECOND ANGLO-MARATHA WAR: ASSAYE, DELHI, LASWARI, AND HOLKAR'S RESISTANCE",
+      "preview": "START / CONCEPT: CORE — 12. Second Anglo-Maratha War: Assaye, Delhi, Laswari, and Holkar's resistance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 495
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 463.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 694,
+      "markdown_body_line_end": 694,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "the Third Anglo-Maratha War completes the fragmentation trajectory begun at Bassein: the First War (1775-82) produced a genuinely negotiated peace between roughly comparable powers; by the Second War (1803-05) the Company could isolate and ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 261.891
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 166.824
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 713,
+      "markdown_body_line_end": 713,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 11: Third Anglo-Maratha War, 1817-18 -- Pindaris, the end of the Peshwaship, and Baji Rao II's pensioning",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\10_10_third_anglo_maratha_war_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 414.091
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 106.556
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 722,
+      "markdown_body_line_end": 739,
+      "heading": "CLOSING RECALL FLOW - CORE - 13. THIRD ANGLO-MARATHA WAR: PINDARIS, 1817-18, BAJI RAO II, AND THE END OF THE PESHWASHIP",
+      "preview": "START / CONCEPT: CORE — 13. Third Anglo-Maratha War: Pindaris, 1817-18, Baji Rao II, and the end of the Peshwaship",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 469
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 474.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 750,
+      "markdown_body_line_end": 750,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "the practice of stationing a Company-paid force alongside an allied Indian ruler was not itself Wellesley's invention -- the technique had precedents in earlier Company arrangements and in comparable French subsidiary practice on the Indian",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 206.691
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 125.824
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 769,
+      "markdown_body_line_end": 769,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 12: Subsidiary Alliance -- the six core clauses and what each removed",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\11_11_subsidiary_alliance_sovere-1a7d1834cc.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 393.891
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 86.356
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 775,
+      "markdown_body_line_end": 792,
+      "heading": "CLOSING RECALL FLOW - CORE - 14. PRECEDENTS AND WELLESLEY'S SYSTEMATISATION: THE EXACT CORE CLAUSES",
+      "preview": "START / CONCEPT: CORE — 14. Precedents and Wellesley's systematisation: the exact core clauses",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 916
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 413.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 803,
+      "markdown_body_line_end": 803,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "ANALYSIS: the correct sequencing to hold in memory for Prelims-style questions is: Hyderabad first, 1798; Mysore, 1799, immediately after conquest; Awadh, 1801; the Peshwa via Bassein, 1802, followed by Sindhia and Bhonsle after 1803 -- a c",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 230.891
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 121.624
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 820,
+      "markdown_body_line_end": 820,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 13: the Subsidiary Alliance case sequence, 1798-1803 -- Hyderabad, Mysore, Awadh, Bassein",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\11_11_subsidiary_alliance_sovere-1a7d1834cc.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 395.891
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 88.356
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 826,
+      "markdown_body_line_end": 843,
+      "heading": "CLOSING RECALL FLOW - CORE - 15. THE CASE SEQUENCE: HYDERABAD 1798, MYSORE 1799, AWADH 1801, BASSEIN 1802 AND AFTER",
+      "preview": "START / CONCEPT: CORE — 15. The case sequence: Hyderabad 1798, Mysore 1799, Awadh 1801, Bassein 1802 and after",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 522
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 483.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 854,
+      "markdown_body_line_end": 854,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The paradox therefore runs precisely as follows: the Company created the conditions for administrative drift or decline (through fiscal strain, disbanded armies and Resident encroachment on real authority) and then, in case after case exami",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 300.891
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 191.624
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 873,
+      "markdown_body_line_end": 873,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 14: indirect rule's responsibility paradox -- power removed, responsibility retained",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\12_12_indirect_rule_responsibility_paradox.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 376.491
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 68.956
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 882,
+      "markdown_body_line_end": 899,
+      "heading": "CLOSING RECALL FLOW - CORE - 16. SOVEREIGNTY ERODED: DEPENDENCY, THE RESIDENT, AND THE RESPONSIBILITY PARADOX",
+      "preview": "START / CONCEPT: CORE — 16. Sovereignty eroded: dependency, the Resident, and the responsibility paradox",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 617
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 374.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 910,
+      "markdown_body_line_end": 910,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The exam-ready reading of Sindh is that it was annexed principally for strategic and commercial control of the Indus frontier approaching Afghanistan, using a manufactured treaty grievance as proximate pretext -- a pattern of outright annex",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 149.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 40.024
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 929,
+      "markdown_body_line_end": 929,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 15: Sindh's frontier logic, 1832-1843 -- from Indus trade treaty to Napier's annexation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\13_13_sindh_frontier_route_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 280.691
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        42,
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 938,
+      "markdown_body_line_end": 955,
+      "heading": "CLOSING RECALL FLOW - CORE - 17. SINDH: COMMERCIAL AND STRATEGIC CONTEXT, AND NAPIER'S 1843 ANNEXATION",
+      "preview": "START / CONCEPT: CORE — 17. Sindh: commercial and strategic context, and Napier's 1843 annexation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 566
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 408.356
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 77.356
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 966,
+      "markdown_body_line_end": 966,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "His Khalsa army was distinctive for its scale and its systematic modernisation: infantry and artillery were reorganised and drilled on European lines with the help of French, Italian and other European officers he recruited (including Jean-",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 522.624
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 983,
+      "markdown_body_line_end": 983,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 16: Ranjit Singh's Sikh Empire and the Khalsa army, to 1839",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\14_14_sikh_empire_khalsa_army_schematic.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 989,
+      "markdown_body_line_end": 1006,
+      "heading": "CLOSING RECALL FLOW - CORE - 18. RANJIT SINGH'S STATE, THE KHALSA ARMY, AND THE TREATY OF AMRITSAR, 1809",
+      "preview": "START / CONCEPT: CORE — 18. Ranjit Singh's state, the Khalsa army, and the Treaty of Amritsar, 1809",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 603
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 427.356
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 96.356
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1017,
+      "markdown_body_line_end": 1017,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ranjit Singh's death in June 1839 was followed by rapid, destabilising successions -- his son Kharak Singh (died 1840), grandson Nau Nihal Singh (died the same day as his father's funeral procession, 1840), and a succession of further short",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 560.891
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 451.624
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1034,
+      "markdown_body_line_end": 1034,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 17: post-Ranjit Singh instability, 1839-45 -- five rulers, factional collapse, and the Khalsa army's rise as an independent force",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\15_15_post_ranjit_instability_chain.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1040,
+      "markdown_body_line_end": 1057,
+      "heading": "CLOSING RECALL FLOW - CORE - 19. POST-1839 SUCCESSION CRISIS: FACTIONAL INSTABILITY AFTER RANJIT SINGH",
+      "preview": "START / CONCEPT: CORE — 19. Post-1839 succession crisis: factional instability after Ranjit Singh",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 708
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 427.356
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 106.356
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1068,
+      "markdown_body_line_end": 1068,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "rising mutual suspicion -- the Company's build-up of forces on the Sutlej frontier following the Afghan war, and the Khalsa army's own increasingly independent political assertiveness at Lahore -- led the Khalsa army to cross the Sutlej in ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 551.024
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1087,
+      "markdown_body_line_end": 1087,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 18: the Anglo-Sikh treaty ladder -- Amritsar 1809 to Lahore/Bhyrowal 1846 to annexation 1849",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\16_16_anglo_sikh_treaty_ladder.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1093,
+      "markdown_body_line_end": 1110,
+      "heading": "CLOSING RECALL FLOW - CORE - 20. FIRST ANGLO-SIKH WAR: MUDKI TO SOBRAON, LAHORE, AND BHYROWAL",
+      "preview": "START / CONCEPT: CORE — 20. First Anglo-Sikh War: Mudki to Sobraon, Lahore, and Bhyrowal",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 591
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 427.356
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 116.356
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1121,
+      "markdown_body_line_end": 1121,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Company and allied forces besieged Multan while a separate field campaign confronted the main Khalsa forces: the Battle of Ramnagar (22 November 1848) was an inconclusive early clash; the Battle of Chillianwala (13 January 1849) was excepti",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 598.691
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 489.424
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1138,
+      "markdown_body_line_end": 1138,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 19: Second Anglo-Sikh War, 1848-49 -- Multan, Chillianwala, Gujrat, and the annexation of Punjab",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\16_16_anglo_sikh_treaty_ladder.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1147,
+      "markdown_body_line_end": 1164,
+      "heading": "CLOSING RECALL FLOW - CORE - 21. SECOND ANGLO-SIKH WAR: THE MULTAN TRIGGER, CHILLIANWALA, GUJRAT, AND 1849 ANNEXATION",
+      "preview": "START / CONCEPT: CORE — 21. Second Anglo-Sikh War: the Multan trigger, Chillianwala, Gujrat, and 1849 annexation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 574
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 408.356
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 127.356
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1175,
+      "markdown_body_line_end": 1175,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "ANALYSIS: keeping the territorial-Lapse cases (Satara, Nagpur, Jhansi and the smaller states) analytically separate from title/pension denials (Nana Sahib) is essential precision: both fed resentment toward Company paramountcy, but only the",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 589.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 508.424
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1194,
+      "markdown_body_line_end": 1194,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 20: the Doctrine of Lapse decision tree -- natural heir, adoption, and annexation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\17_17_lapse_decision_tree.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 727.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 419.756
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1198,
+      "markdown_body_line_end": 1198,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 21: annexation matrix, 1848-56 -- Lapse cases, title/pension cases, and Awadh compared",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\18_18_annexation_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 386.356
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 78.82
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1204,
+      "markdown_body_line_end": 1221,
+      "heading": "CLOSING RECALL FLOW - CORE - 22. THE DOCTRINE OF LAPSE: PRINCIPLES, PARAMOUNTCY, AND THE VERIFIED CASES",
+      "preview": "START / CONCEPT: CORE — 22. The Doctrine of Lapse: principles, paramountcy, and the verified cases",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1082
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 343.291
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1232,
+      "markdown_body_line_end": 1232,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "the annexation of Awadh in February 1856 is a distinct case that this package deliberately separates from the Doctrine of Lapse.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 160.891
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 94.224
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1249,
+      "markdown_body_line_end": 1249,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 22: Awadh 1856 -- misgovernance annexation compared against true Lapse cases",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\19_19_awadh_misgovernance_vs_lapse.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 449.691
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 142.156
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1258,
+      "markdown_body_line_end": 1275,
+      "heading": "CLOSING RECALL FLOW - CORE - 23. AWADH, 1856: MISGOVERNANCE, EXPLICITLY NOT LAPSE",
+      "preview": "START / CONCEPT: CORE — 23. Awadh, 1856: misgovernance, explicitly NOT Lapse",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 642
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 768.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 457.291
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1286,
+      "markdown_body_line_end": 1286,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "⚠️ ANALYSIS: this package states only a bounded, non-monocausal linkage: these named grievances -- Nana Sahib's, the Rani of Jhansi's, the Awadh taluqdars', and disbanded soldiers' -- are well-attested antecedents that fed into the wider cr",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 274.891
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 179.824
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1305,
+      "markdown_body_line_end": 1305,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 23: from dispossession to 1857 -- a bounded bridge (full account at Topic 11)",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\20_20_dispossession_to_1857_bridge.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 442.491
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 134.956
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1311,
+      "markdown_body_line_end": 1328,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - 24. DISPOSSESSION AND THE ROAD TO 1857: A BOUNDED BRIDGE, NOT A MONOCAUSAL CLAIM",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — 24. Dispossession and the road to 1857: a bounded bridge, not a monocausal claim",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 808
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 423.291
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1339,
+      "markdown_body_line_end": 1339,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "⚠️ ANALYSIS: an examiner-grade answer should be able to name at least two of these four lenses, attribute them to the correct historiographical tradition, and use them to organise evidence rather than treating \"the British won because they ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 184.091
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 74.824
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1362,
+      "markdown_body_line_end": 1362,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 24: four historiographical lenses on British territorial expansion",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\22_22_historiography_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 218.691
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        59,
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1368,
+      "markdown_body_line_end": 1385,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - 25. HISTORIOGRAPHY: FOUR LENSES ON BRITISH TERRITORIAL EXPANSION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — 25. Historiography: four lenses on British territorial expansion",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 674
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 427.356
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 46.356
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1396,
+      "markdown_body_line_end": 1396,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "the instruments of subordination employed were correspondingly distinct and must not be conflated: outright war followed by partition and a subsidiary settlement (Mysore 1799; Punjab's path via 1846 dependency to 1849 annexation); war follo",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 541.891
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 404.224
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1413,
+      "markdown_body_line_end": 1413,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 25: comparative resistance -- Mysore vs Maratha vs Sikh, and the four distinct instruments of subordination",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\21_21_comparative_resistance_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 670.491
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 362.956
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1417,
+      "markdown_body_line_end": 1417,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 26: campaign map of major Company campaigns, 1767-1849 (illustrative locations only)",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\23_23_campaign_map_not_to_scale.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 329.556
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 784.89
+        }
+      },
+      "pdf_pages": [
+        62,
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1426,
+      "markdown_body_line_end": 1443,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - 26. COMPARATIVE SYNTHESIS: MYSORE VS MARATHA VS SIKH; WAR VS ALLIANCE VS LAPSE VS MISGOVERNANCE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — 26. Comparative synthesis: Mysore vs Maratha vs Sikh; war vs alliance vs lapse vs misgovernance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 809
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 697.49
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 306.49
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2293,
+      "markdown_body_line_end": 2293,
+      "heading": "Evidence and answer-writing drills",
+      "preview": "Visual 27: the eleven most-tested UPSC traps in this topic, at a glance",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\27_27_upsc_traps_grid.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 253.891
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        79,
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2421,
+      "markdown_body_line_end": 2421,
+      "heading": "Mains 1 - 10 marks | 150 words (2022 Mains GS-I, Q2 -- verified verbatim; this topic's own PYQ, answered in full)",
+      "preview": "Visual 29: answer spine, 10 marks -- why Company armies won consistently, 2022 Mains GS-I Q2",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\24_24_answer_spine_10mark.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 226.291
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        83,
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2499,
+      "markdown_body_line_end": 2499,
+      "heading": "Mains 4 - 15 marks | 250 words",
+      "preview": "Visual 30: answer spine, 15 marks -- Mysore's capacity-versus-defeat paradox",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\25_25_answer_spine_15mark.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 377.091
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 69.556
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2527,
+      "markdown_body_line_end": 2527,
+      "heading": "Mains 5 - 20 marks | 300 words",
+      "preview": "Visual 31: answer spine, 20 marks -- comparative mechanisms of territorial expansion",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g3\\assets\\26_26_answer_spine_20mark.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 220.091
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        87,
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2709,
+      "markdown_body_line_end": 2712,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** History (Modern India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims). **Grounded in:** Bipin Chandra, *Modern India* (Ch. IV) + *India's Struggle for Independence* (backdrop) — with historiogra",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 313.491
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 226.224
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2718,
+      "markdown_body_line_end": 2731,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 508.29
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2752,
+      "markdown_body_line_end": 2759,
+      "heading": "2. Key classification / data",
+      "preview": "Instrument/front | Dates | Mechanism | Result | Advanced significance",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 6,
+        "headers": [
+          "Instrument/front",
+          "Dates",
+          "Mechanism",
+          "Result",
+          "Advanced significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 545.89
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2763,
+      "markdown_body_line_end": 2765,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ The powers conquered here emerged from the 18th-century regional-state order → `advanced/02_Indian-States-and-Society-18th-Century.md`. **Study link:** ✅ Bengal's Diwani supplied fiscal resources for Company armies → `adva",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 545.89
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 450.822
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2783,
+      "markdown_body_line_end": 2783,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Expansion was not only battlefield conquest; it was a spectrum — buffer policy, Subsidiary Alliance, Resident control, Lapse, misgovernance and direct annexation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 225.422
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 158.754
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2810,
+      "markdown_body_line_end": 2811,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 464.691
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 398.024
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2817,
+      "markdown_body_line_end": 2819,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 346.424
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 260.022
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2825,
+      "markdown_body_line_end": 2825,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 220.822
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 176.154
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2834,
+      "markdown_body_line_end": 2841,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Expansion was a ladder, not one method",
+      "preview": "RING-FENCE -> friendly buffer protects Company territory",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 733.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 661.091
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2845,
+      "markdown_body_line_end": 2850,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: The Company fiscal-military flywheel",
+      "preview": "BENGAL DIWANI -> predictable revenue and credit",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 639.091
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 587.291
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2854,
+      "markdown_body_line_end": 2859,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Mysore resistance and four-war sequence",
+      "preview": "1767-69 FIRST -> Treaty of Madras; Haidar forces a negotiated peace",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 565.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 513.491
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2863,
+      "markdown_body_line_end": 2868,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Tipu: reform, diplomacy and bounded interpretation",
+      "preview": "STATE CAPACITY -> direct revenue, army reform, state commerce and strategic ports",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 491.491
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 439.691
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2872,
+      "markdown_body_line_end": 2877,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Maratha confederacy and the cohesion problem",
+      "preview": "PESHWA at Pune -> nominal confederate centre",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 417.691
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 365.891
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2881,
+      "markdown_body_line_end": 2886,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Three Anglo-Maratha Wars",
+      "preview": "1775-82 FIRST -> Raghunath Rao crisis -> Wadgaon reverse -> Treaty of Salbai",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 343.891
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 292.091
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2890,
+      "markdown_body_line_end": 2895,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Subsidiary Alliance dismantled sovereignty",
+      "preview": "BRITISH FORCE STATIONED -> ruler pays cash or cedes revenue territory",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2899,
+      "markdown_body_line_end": 2904,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Alliance case sequence and consequences",
+      "preview": "HYDERABAD 1798/1800 -> French-trained force removed; dependence deepens",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2908,
+      "markdown_body_line_end": 2913,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Sindh and the northwest strategic corridor",
+      "preview": "INDUS COMMERCE + AFGHAN FRONTIER ANXIETY -> rising Company attention",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2917,
+      "markdown_body_line_end": 2924,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Sikh strength, succession crisis and two wars",
+      "preview": "RANJIT SINGH -> consolidated Punjab + modernised Khalsa army",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 493.691
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2928,
+      "markdown_body_line_end": 2935,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Lapse, title denial and misgovernment are distinct",
+      "preview": "LAPSE -> adopted heir not recognised -> Satara, Jhansi and Nagpur annexed",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 471.691
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 399.491
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2939,
+      "markdown_body_line_end": 2944,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Comparative answer spine and 1857 bridge",
+      "preview": "MYSORE -> centralised reform but diplomatic isolation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 377.491
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 325.691
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    }
+  ]
+}

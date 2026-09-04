@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-i-indian-philosophy-05",
+  "generation": 7,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-05\\g7\\topic-05_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    2293
+  ],
+  "stages": [
+    {
+      "title": "SĀṂKHYA",
+      "terms": "A February 2026 academic lecture on Puruṣa and Prakṛti is educational context only. ⚠️ Inference: Contemporary mind–body comparisons may clarify the doctrine, but must not be presented as official adoption or as evidence for classical metaphysics.",
+      "mechanism": "A February 2026 academic lecture on Puruṣa and Prakṛti is educational context only. ⚠️ Inference: Contemporary mind–body comparisons may clarify the doctrine, but must not be presented as official adoption or as evidence for classical metaphysics.",
+      "consequence": "A February 2026 academic lecture on Puruṣa and Prakṛti is educational context only. ⚠️ Inference: Contemporary mind–body comparisons may clarify the doctrine, but must not be presented as official adoption or as evidence for classical metaphysics.",
+      "trap": "A February 2026 academic lecture on Puruṣa and Prakṛti is educational context only. ⚠️ Inference: Contemporary mind–body comparisons may clarify the doctrine, but must not be presented as official adoption or as evidence for classical metaphysics.",
+      "answer": "A February 2026 academic lecture on Puruṣa and Prakṛti is educational context only. ⚠️ Inference: Contemporary mind–body comparisons may clarify the doctrine, but must not be presented as official adoption or as evidence for classical metaphysics."
+    },
+    {
+      "title": "SĀṂKHYA: CORE DISTINCTIONS",
+      "terms": "Exam use. ⚠️ This epistemology is the hinge of the whole system: because mūla-prakṛti (root Prakṛti) and puruṣa are not sense-objects, Sāṃkhya must show how they can still be known without multiplying pramāṇas.",
+      "mechanism": "Master verdict: Sāṃkhya is a realist dualism and evolutionism: Prakṛti transforms, Puruṣa witnesses, and liberation occurs through discriminating their radical difference.",
+      "consequence": "Exam use. ⚠️ This epistemology is the hinge of the whole system: because mūla-prakṛti (root Prakṛti) and puruṣa are not sense-objects, Sāṃkhya must show how they can still be known without multiplying pramāṇas.",
+      "trap": "Conclusion. ⚠️ Therefore the five arguments for Prakṛti and the arguments for Puruṣa are not rhetorical flourishes; they discharge an epistemological obligation created by Sāṃkhya's own three-pramāṇa scheme.",
+      "answer": "“Sāṃkhya (the enumerative dualist school) is a realist dualism in which three pramāṇas (means of valid knowledge) establish one unconscious Prakṛti (primordial material nature) and many conscious Puruṣas (pure witnesses).”."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 2
+    },
+    {
+      "page": 2,
+      "y_start": 93,
+      "y_end": 2293,
+      "overlap_px": 260,
+      "from_stage": 1,
+      "continues_stage": 2
+    }
+  ]
+}

@@ -1,0 +1,2420 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\modern-indian-history-07_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\modern-indian-history-07_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "modern-indian-history-07",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 7,
+      "markdown_body_line_end": 14,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 672.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 374.89
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 36,
+      "markdown_body_line_end": 36,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\modern-indian-history-07_Teaching-Navigation_2026-08-30.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 478.556
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 65,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "ANALYSIS: these phases overlap rather than replace one another -- revenue extraction did not stop in 1813, and deindustrialisation continued alongside colonial industrialisation later -- so a defensible answer states the periodisation as a ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 703.224
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 84,
+      "markdown_body_line_end": 84,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 2: Extraction-to-underdevelopment system map",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\02_02_extraction_to_underdevelop-59cb06f3d4.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 93,
+      "markdown_body_line_end": 110,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - 1. PERIODISATION AND THE EXTRACTION-TO-UNDERDEVELOPMENT FRAME",
+      "preview": "START / CONCEPT: FOUNDATION — 1. Periodisation and the extraction-to-underdevelopment frame",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 636
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 337.156
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 121,
+      "markdown_body_line_end": 121,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "ANALYSIS: this baseline is exactly what makes \"deindustrialisation\" the analytically correct term for the nineteenth-century reversal (subtopics 9-11) rather than \"failure to industrialise\" -- a country cannot be \"deindustrialised\" unless i",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 536.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 140,
+      "markdown_body_line_end": 140,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 3: Pre-colonial/early-colonial baseline -- caution against both romanticism and its opposite",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\03_03_precolonial_baseline_caution.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 153,
+      "markdown_body_line_end": 170,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - 2. THE PRE-COLONIAL AND EARLY-COLONIAL BASELINE, WITHOUT ROMANTICISM",
+      "preview": "START / CONCEPT: FOUNDATION — 2. The pre-colonial and early-colonial baseline, without romanticism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 407
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 434.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 181,
+      "markdown_body_line_end": 181,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "ANALYSIS: \"permanent\" describes the state's demand on the zamindar, not the rent the zamindar could charge cultivators, which is a distinct and uncapped relationship; this distinction is the single most tested conceptual point on this settl",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 251.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 171.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 202,
+      "markdown_body_line_end": 202,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 4: The Permanent Settlement -- property and revenue chain",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\05_05_permanent_settlement_prope-85dbad34af.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 394.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 87.356
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 213,
+      "markdown_body_line_end": 230,
+      "heading": "CLOSING RECALL FLOW - CORE - 3. THE PERMANENT SETTLEMENT, 1793: CORNWALLIS, ZAMINDAR PROPERTY AND FIXED DEMAND",
+      "preview": "START / CONCEPT: CORE — 3. The Permanent Settlement, 1793: Cornwallis, zamindar property and fixed demand",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 744
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 573.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 242.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 241,
+      "markdown_body_line_end": 241,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "ANALYSIS: \"direct settlement with the cultivator\" is the system's defining institutional feature and its most tested identifying fact, distinguishing it sharply from both the zamindar-intermediary model of the Permanent Settlement and the c",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 260,
+      "markdown_body_line_end": 260,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 5: The Ryotwari settlement -- risk chain",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\06_06_ryotwari_risk_chain.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 285.024
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 269,
+      "markdown_body_line_end": 286,
+      "heading": "CLOSING RECALL FLOW - CORE - 4. THE RYOTWARI SETTLEMENT: READ, MUNRO, AND DIRECT SETTLEMENT WITH UNCERTAINTY",
+      "preview": "START / CONCEPT: CORE — 4. The Ryotwari settlement: Read, Munro, and direct settlement with uncertainty",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 561
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 351.356
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 50.356
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 297,
+      "markdown_body_line_end": 297,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "the Mahalwari settlement originated in Holt Mackenzie's 1822 framework and was substantially implemented and revised by R.M.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 314,
+      "markdown_body_line_end": 314,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 6: The Mahalwari settlement -- collective-liability diagram",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\07_07_mahalwari_collective_liabi-f405896f91.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 240.424
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        18,
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 325,
+      "markdown_body_line_end": 342,
+      "heading": "CLOSING RECALL FLOW - CORE - 5. THE MAHALWARI SETTLEMENT: HOLT MACKENZIE'S FRAMEWORK AND BIRD'S IMPLEMENTATION",
+      "preview": "START / CONCEPT: CORE — 5. The Mahalwari settlement: Holt Mackenzie's framework and Bird's implementation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 618
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 433.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 353,
+      "markdown_body_line_end": 353,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "ANALYSIS: a \"compare the three systems\" question rewards naming this regional overlay explicitly, since revenue-system boundaries and commercial-crop-belt boundaries are two separate maps that a strong answer keeps analytically distinct eve",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 265.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 170.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 366,
+      "markdown_body_line_end": 366,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 7: Three land-settlement systems -- comparison",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\04_04_three_land_settlements_comparison.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 462.356
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 383,
+      "markdown_body_line_end": 400,
+      "heading": "CLOSING RECALL FLOW - CORE - 6. COMPARATIVE SYNTHESIS OF THE THREE LAND-REVENUE SYSTEMS",
+      "preview": "START / CONCEPT: CORE — 6. Comparative synthesis of the three land-revenue systems",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 500
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 730.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 389.091
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 411,
+      "markdown_body_line_end": 411,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "ANALYSIS: naming this regional crop map is necessary to avoid treating \"commercialisation\" as one undifferentiated national process -- the coercion, credit relationship and market risk each crop's cultivators faced differed by crop and regi",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 164.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 83.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 424,
+      "markdown_body_line_end": 424,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 8: Commercialisation -- risk allocation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\08_08_commercialisation_risk_allocation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 683.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 376.356
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 435,
+      "markdown_body_line_end": 435,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 9: Crop-to-market chain under colonial commercialisation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\09_09_crop_market_chain.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 462.356
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 446,
+      "markdown_body_line_end": 463,
+      "heading": "CLOSING RECALL FLOW - CORE - 7. COMMERCIALISATION: CROPS, COERCION, CREDIT AND RISK",
+      "preview": "START / CONCEPT: CORE — 7. Commercialisation: crops, coercion, credit and risk",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 753
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 436.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 474,
+      "markdown_body_line_end": 474,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This topic uses the Indigo revolt, the Pabna agrarian leagues and the Deccan riots strictly as economic-response case studies illustrating how the specific form of agrarian exploitation shaped a specific protest repertoire; their fuller pol",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 282.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 187.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 487,
+      "markdown_body_line_end": 487,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 10: Indigo, Pabna and Deccan -- comparison of causes and repertoires",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\10_10_indigo_pabna_deccan_comparison.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 462.356
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 508,
+      "markdown_body_line_end": 525,
+      "heading": "CLOSING RECALL FLOW - CORE - 8. CASE STUDIES IN ECONOMIC PROTEST: INDIGO, PABNA, DECCAN",
+      "preview": "START / CONCEPT: CORE — 8. Case studies in economic protest: Indigo, Pabna, Deccan",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 595
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 624.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 303.491
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 536,
+      "markdown_body_line_end": 536,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Given the pre-colonial baseline established in subtopic 2 -- a substantial, export-competitive textile and handicraft economy -- deindustrialisation names the specific nineteenth-century reversal of that position, and this topic must presen",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 125.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 45.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 549,
+      "markdown_body_line_end": 549,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 11: Deindustrialisation -- causal web",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\11_11_deindustrialisation_causal_web.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 650.691
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 343.156
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 566,
+      "markdown_body_line_end": 583,
+      "heading": "CLOSING RECALL FLOW - CORE - 9. THE DEINDUSTRIALISATION CAUSAL WEB",
+      "preview": "START / CONCEPT: CORE — 9. The deindustrialisation causal web",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 487
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 600.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 299.891
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 594,
+      "markdown_body_line_end": 594,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This subtopic directly addresses the exact 2024 GS-I Mains demand -- \"How far was the Industrial Revolution in England responsible for the decline of handicrafts and cottage industries in India?\" -- solved in full in Part X; here the underl",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 145.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 65.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 607,
+      "markdown_body_line_end": 607,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 12: The 2024 \"how far\" question -- balance of responsibility",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\12_12_industrial_revolution_how_far_balance.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 650.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 343.156
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 624,
+      "markdown_body_line_end": 641,
+      "heading": "CLOSING RECALL FLOW - CORE - 10. THE 2024 \"HOW FAR\" DEMAND: INDUSTRIAL REVOLUTION AND INDIAN HANDICRAFTS",
+      "preview": "START / CONCEPT: CORE — 10. The 2024 \"how far\" demand: Industrial Revolution and Indian handicrafts",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 524
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 658.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 337.891
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 652,
+      "markdown_body_line_end": 652,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "ANALYSIS: keeping \"deindustrialisation\" (loss of craft output/employment) and \"de-urbanisation\" (the displaced population's movement into villages and agriculture) as two distinct, linked terms, rather than synonyms, is a frequently tested ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 183.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 103.024
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 665,
+      "markdown_body_line_end": 665,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 13: Artisan displacement loop",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\13_13_artisan_displacement_loop.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 701.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 393.556
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 682,
+      "markdown_body_line_end": 699,
+      "heading": "CLOSING RECALL FLOW - CORE - 11. ARTISAN DISPLACEMENT, DE-URBANISATION AND THE LIMITS OF \"DEINDUSTRIALISATION\"",
+      "preview": "START / CONCEPT: CORE — 11. Artisan displacement, de-urbanisation and the limits of \"deindustrialisation\"",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 527
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 687.491
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 356.491
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 710,
+      "markdown_body_line_end": 710,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "this topic distinguishes early plunder from systemic drain as two related but different phenomena.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 188.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 135.824
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 723,
+      "markdown_body_line_end": 723,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 14: Drain channels map",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\14_14_drain_channels_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 735.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 427.956
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 740,
+      "markdown_body_line_end": 757,
+      "heading": "CLOSING RECALL FLOW - CORE - 12. DRAIN THEORY: PLUNDER, SYSTEMIC DRAIN AND ITS CHANNELS",
+      "preview": "START / CONCEPT: CORE — 12. Drain theory: plunder, systemic drain and its channels",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 523
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 671.891
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 390.891
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 768,
+      "markdown_body_line_end": 768,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ranade is associated with an early, economically grounded critique of colonial policy from within the Moderate nationalist tradition, emphasising the need for Indian industrial development and a more interventionist, protective economic pol",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 165.891
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 56.624
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 781,
+      "markdown_body_line_end": 781,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 15: Naoroji's argument tree",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\15_15_naoroji_argument_tree.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 650.691
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 343.156
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 800,
+      "markdown_body_line_end": 817,
+      "heading": "CLOSING RECALL FLOW - CORE - 13. NAOROJI, R.C. DUTT AND M.G. RANADE: THE NATIONALIST ECONOMIC CRITIQUE",
+      "preview": "START / CONCEPT: CORE — 13. Naoroji, R.C. Dutt and M.G. Ranade: the nationalist economic critique",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 603
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 535.491
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 164.491
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 828,
+      "markdown_body_line_end": 828,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "the Council Bills mechanism -- through which the Secretary of State for India in London sold bills (drawable against India's own revenues and export earnings) to British importers and others needing to make payments to India, with the rupee",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 617.691
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 494.224
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 841,
+      "markdown_body_line_end": 841,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 16: Export surplus and Council Bills -- schematic",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\16_16_export_surplus_council_bill_schematic.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 335.624
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 784.89
+        }
+      },
+      "pdf_pages": [
+        38,
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 860,
+      "markdown_body_line_end": 877,
+      "heading": "CLOSING RECALL FLOW - CORE - 14. EXPORT SURPLUS, COUNCIL BILLS AND THE COLONIAL FISCAL-FINANCIAL SYSTEM",
+      "preview": "START / CONCEPT: CORE — 14. Export surplus, Council Bills and the colonial fiscal-financial system",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 665
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 403.291
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 888,
+      "markdown_body_line_end": 888,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "colonial-era railways, ports, roads, telegraph lines and canals were substantial, genuine physical infrastructure, and this topic requires their purpose and their consequence to be judged separately rather than treated as a single verdict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 164.091
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 83.224
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 901,
+      "markdown_body_line_end": 901,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 17: Railways -- guarantee system and imperial purpose map",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\17_17_railway_guarantee_imperial-6d8a2dcb7f.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 683.891
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 376.356
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 918,
+      "markdown_body_line_end": 918,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 18: Infrastructure -- dual-effects matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\18_18_infrastructure_dual_effects_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 385.691
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 78.156
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 927,
+      "markdown_body_line_end": 944,
+      "heading": "CLOSING RECALL FLOW - CORE - 15. INFRASTRUCTURE: RAILWAYS, PORTS, ROADS, TELEGRAPH, CANALS AND FORESTS",
+      "preview": "START / CONCEPT: CORE — 15. Infrastructure: railways, ports, roads, telegraph, canals and forests",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 886
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 384.291
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 955,
+      "markdown_body_line_end": 955,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "ANALYSIS: this regional unevenness is itself part of the \"colonial modernisation without autonomous development\" verdict (subtopic 15) -- modern industry existed, but as scattered, foreign-capital-weighted enclaves rather than a nationally ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 201.891
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 106.824
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 968,
+      "markdown_body_line_end": 968,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 19: Uneven colonial industrialisation -- map",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\19_19_uneven_industrialisation_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 701.091
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 393.556
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 991,
+      "markdown_body_line_end": 1008,
+      "heading": "CLOSING RECALL FLOW - CORE - 16. COLONIAL INDUSTRIALISATION: PLANTATIONS, MINES AND MODERN INDUSTRY",
+      "preview": "START / CONCEPT: CORE — 16. Colonial industrialisation: plantations, mines and modern industry",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 523
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 402.691
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 61.691
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1019,
+      "markdown_body_line_end": 1019,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "colonial-era famines were failures of entitlement and governance, not simply failures of rainfall; this topic's own sourced position explicitly frames famine causation as combining a genuine climatic trigger (drought, harvest failure) with ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 617.691
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 522.624
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1032,
+      "markdown_body_line_end": 1032,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 20: Famine -- entitlement and governance causal web",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\20_20_famine_entitlement_governa-94dc0b056c.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 364.024
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 56.488
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1047,
+      "markdown_body_line_end": 1047,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 21: Climate shock versus policy-created vulnerability",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\21_21_climate_shock_vs_policy_vulnerability.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 276.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        47,
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1056,
+      "markdown_body_line_end": 1073,
+      "heading": "CLOSING RECALL FLOW - CORE - 17. FAMINE CAUSATION: CLIMATE SHOCK VERSUS ENTITLEMENT AND GOVERNANCE",
+      "preview": "START / CONCEPT: CORE — 17. Famine causation: climate shock versus entitlement and governance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 485
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 365.556
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        48,
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1084,
+      "markdown_body_line_end": 1084,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Colonial famine policy evolved reactively: recurring harvest shocks exposed revenue, entitlement and relief failures, after which commissions and codes attempted to regularise an uneven administrative response.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1097,
+      "markdown_body_line_end": 1097,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 22: Famine policy timeline",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\22_22_famine_policy_timeline.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 420.824
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 113.288
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1118,
+      "markdown_body_line_end": 1135,
+      "heading": "CLOSING RECALL FLOW - CORE - 18. THE FAMINE CASE SEQUENCE AND COLONIAL FAMINE POLICY",
+      "preview": "START / CONCEPT: CORE — 18. The famine case sequence and colonial famine policy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 252
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 768.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 507.291
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1146,
+      "markdown_body_line_end": 1146,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "forest policy (subtopic 15) had a specific, documented social cost, disproportionately affecting hunter-gatherer communities and populations dependent on jhum (shifting) cultivation, whose practices the colonial state actively discouraged a",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 225.491
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 130.424
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1159,
+      "markdown_body_line_end": 1159,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 23: Regional and social impact spectrum",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\23_23_regional_social_impact_spectrum.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 735.491
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 427.956
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1176,
+      "markdown_body_line_end": 1193,
+      "heading": "CLOSING RECALL FLOW - CORE - 19. POVERTY, DEMOGRAPHY, INDEBTEDNESS AND ECOLOGICAL/SOCIAL VARIATION",
+      "preview": "START / CONCEPT: CORE — 19. Poverty, demography, indebtedness and ecological/social variation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1007
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 540.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 139.291
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1204,
+      "markdown_body_line_end": 1204,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "ANALYSIS: naming all four positions, and which specific claim each is best used to support, is what converts a \"there are different views\" gesture into a genuine historiography answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1217,
+      "markdown_body_line_end": 1217,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 24: Historiography matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\24_24_historiography_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 420.824
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 113.288
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1230,
+      "markdown_body_line_end": 1247,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - 20. HISTORIOGRAPHY OF THE COLONIAL ECONOMY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — 20. Historiography of the colonial economy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 640
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 425.491
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 84.491
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1258,
+      "markdown_body_line_end": 1258,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Extraction versus transformation: the colonial economy extracted a persistent unrequited surplus (Part V) while also genuinely transforming agrarian property relations (Part II), craft-versus-factory production (Parts IV, VII) and physical ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 541.891
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 446.824
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1271,
+      "markdown_body_line_end": 1271,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Visual 25: Extraction-to-underdevelopment system map (repeated for synthesis)",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\02_02_extraction_to_underdevelop-59cb06f3d4.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 288.224
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        56,
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1286,
+      "markdown_body_line_end": 1303,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - 21. COMPARATIVE SYNTHESIS: EXTRACTION, TRANSFORMATION AND COLONIAL MODERNISATION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — 21. Comparative synthesis: extraction, transformation and colonial modernisation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 857
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 706.491
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 335.491
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1306,
+      "markdown_body_line_end": 1306,
+      "heading": "CORE SYNTHESIS - 22. Topic boundaries and a bounded current link",
+      "preview": "Visual 26: Topic-boundaries map",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\25_25_topic_boundaries_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 310.491
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        58,
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2205,
+      "markdown_body_line_end": 2205,
+      "heading": "Evidence and answer-writing drills",
+      "preview": "Visual 26 (repeat): Topic-boundaries map, previewed before the drills below",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\25_25_topic_boundaries_map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 710.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 402.756
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2325,
+      "markdown_body_line_end": 2325,
+      "heading": "Mains practice: solved model answers",
+      "preview": "Visual 26: Answer spine, 10 marks",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\26_26_answer_spine_10mark.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 676.891
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 369.356
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2402,
+      "markdown_body_line_end": 2402,
+      "heading": "Mains 3 -- 10 marks | 150 words",
+      "preview": "Visual 27: Answer spine, 15 marks",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\27_27_answer_spine_15mark.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 195.891
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        84,
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2527,
+      "markdown_body_line_end": 2527,
+      "heading": "Mains 8 -- 15 marks | 250 words",
+      "preview": "Visual 28: Answer spine, 20 marks",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g4\\assets\\28_28_answer_spine_20mark.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 541.891
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 234.356
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2667,
+      "markdown_body_line_end": 2670,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** History (Modern India) · **Tier:** Advanced (deeper understanding) · **GS Paper:** GS-I (also Prelims). **Grounded in:** Bipan Chandra, *Modern India* (Ch. XI) + *India's Struggle for Independence* (Chs. 2–3), cross-checked aga",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 182.091
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 80.624
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2676,
+      "markdown_body_line_end": 2685,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 593.09
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2708,
+      "markdown_body_line_end": 2716,
+      "heading": "2. Key classification / data",
+      "preview": "Interpretation | Emphasis | Associated with",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Interpretation",
+          "Emphasis",
+          "Associated with"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 502.29
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2720,
+      "markdown_body_line_end": 2720,
+      "heading": "➕ Exact PYQ application (2024 GS-I)",
+      "preview": "**Verbatim:** “How far was the Industrial Revolution in England responsible for the decline of handicrafts and cottage industries in India? (Answer in 250 words)”",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 502.29
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 435.622
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2722,
+      "markdown_body_line_end": 2729,
+      "heading": "➕ Exact PYQ application (2024 GS-I)",
+      "preview": "Causal layer | Mechanism | Weight in a “how far” answer",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Causal layer",
+          "Mechanism",
+          "Weight in a “how far” answer"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 435.622
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 149.42
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2733,
+      "markdown_body_line_end": 2733,
+      "heading": "➕ Exact PYQ application (2024 GS-I)",
+      "preview": "**Cross-route:** `World-History/advanced/04_Industrial-Revolution.md` supplies the English technology-capital-market mechanism only; this file owns the Indian causal assessment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 101.82
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 57.153
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2737,
+      "markdown_body_line_end": 2740,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Revenue rights after Buxar and Diwani → `advanced/04_British-Conquest-of-Bengal.md`. **Study link:** ✅ Law, bureaucracy and police enforcing revenue order → `advanced/08_Administrative-Organisation.md`. **Study link:** ⚠️ ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 700.024
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2756,
+      "markdown_body_line_end": 2756,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Do not treat the nationalist drain theory as merely emotional rhetoric; it was a structured economic critique, even if exact quantification is debated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 438.024
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 371.356
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2783,
+      "markdown_body_line_end": 2784,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 676.891
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 610.224
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2790,
+      "markdown_body_line_end": 2793,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 558.624
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 399.222
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2800,
+      "markdown_body_line_end": 2800,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 342.822
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 298.154
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2809,
+      "markdown_body_line_end": 2817,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Extraction became structural underdevelopment",
+      "preview": "COMPANY PLUNDER -> early direct extraction after conquest and Diwani",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2821,
+      "markdown_body_line_end": 2826,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Three land-revenue systems compared",
+      "preview": "PERMANENT -> zamindari estate | fixed in perpetuity | Bengal-Bihar-Orissa",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 631.091
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2830,
+      "markdown_body_line_end": 2835,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Commercialisation shifted risk downward",
+      "preview": "EXPORT DEMAND / PLANTER ADVANCE -> cash-crop commitment",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 609.091
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2839,
+      "markdown_body_line_end": 2844,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Indigo, Pabna and Deccan were not one movement",
+      "preview": "INDIGO 1859-60 -> European planters -> collective refusal to sow",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 483.491
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2848,
+      "markdown_body_line_end": 2854,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Deindustrialisation was a causal web",
+      "preview": "ENGLISH MECHANISATION -> cheaper factory cloth",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 461.491
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 399.491
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2858,
+      "markdown_body_line_end": 2863,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: The 2024 how-far answer",
+      "preview": "NECESSARY CONDITION -> Industrial Revolution lowered British production costs",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 377.491
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 325.691
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2867,
+      "markdown_body_line_end": 2873,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Drain theory names channels, not an invented total",
+      "preview": "INDIAN REVENUE -> home charges and India Office costs",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 303.691
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 241.691
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2877,
+      "markdown_body_line_end": 2882,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Export surplus could finance transfer",
+      "preview": "INDIAN EXPORTS EXCEED VISIBLE IMPORTS -> apparent trade surplus",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2886,
+      "markdown_body_line_end": 2891,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Infrastructure had a dual effect",
+      "preview": "IMPERIAL DESIGN -> troops, administration, raw-material export and import reach",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2895,
+      "markdown_body_line_end": 2903,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Colonial industrialisation was real but constrained",
+      "preview": "GROWTH -> plantations, jute, cotton, coal, mines and later steel",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2907,
+      "markdown_body_line_end": 2916,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Famine was shock plus structural amplification",
+      "preview": "CLIMATE / HARVEST SHOCK -> immediate scarcity risk",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 442.691
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2920,
+      "markdown_body_line_end": 2926,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Historiography and final synthesis",
+      "preview": "NATIONALIST -> drain and deindustrialisation explain poverty",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 358.691
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    }
+  ]
+}

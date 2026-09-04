@@ -1,0 +1,1702 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-34\\g2\\modern-indian-history-34_Complete-Learning-Session_2026-09-01.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-34\\g2\\modern-indian-history-34_Complete-Learning-Session_2026-09-01.pdf",
+  "mode": "main",
+  "topic_key": "modern-indian-history-34",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 16,
+      "markdown_body_line_end": 23,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 366.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 68.89
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 45,
+      "markdown_body_line_end": 45,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-34\\g2\\assets\\modern-indian-history-34_Teaching-Navigation_2026-08-31.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 449.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 141.556
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 59,
+      "markdown_body_line_end": 59,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not relocate Shastri's death to India or to any other date; it occurred at Tashkent on 10 January 1966.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 80,
+      "heading": "VISUAL FIRST",
+      "preview": "SHASTRI'S ACCESSION AND THE 1965 WAR, JUNE 1964 TO JANUARY 1966",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 352.024
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 115,
+      "markdown_body_line_end": 132,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - SHASTRI'S ACCESSION AND THE 1965 WAR, JUNE 1964 TO JANUARY 1966",
+      "preview": "START / CONCEPT: FOUNDATION — Shastri's accession and the 1965 war, June 1964 to January 1966",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 279
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 636.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 395.091
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 143,
+      "markdown_body_line_end": 143,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Indira Gandhi is the Prime Minister elected in January 1966 by defeating Morarji Desai 355 votes to 169, initially with Syndicate backing that she later broke free of.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 241.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 174.424
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 158,
+      "markdown_body_line_end": 164,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIRA GANDHI'S ELECTION AS PRIME MINISTER, JANUARY 1966",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 672.691
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 199,
+      "markdown_body_line_end": 216,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - INDIRA GANDHI'S ELECTION AS PRIME MINISTER, JANUARY 1966",
+      "preview": "START / CONCEPT: FOUNDATION — Indira Gandhi's election as Prime Minister, January 1966",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 274
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 227,
+      "markdown_body_line_end": 227,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The June 1966 devaluation is the roughly 35.5 per cent reduction in the rupee's value undertaken by Indira Gandhi's government under war-expenditure and harvest-failure pressure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 379.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 312.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 242,
+      "markdown_body_line_end": 248,
+      "heading": "VISUAL FIRST",
+      "preview": "THE RUPEE DEVALUATION OF JUNE 1966 AND ITS CAUSES",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 283,
+      "markdown_body_line_end": 300,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE RUPEE DEVALUATION OF JUNE 1966 AND ITS CAUSES",
+      "preview": "START / CONCEPT: FOUNDATION — The rupee devaluation of June 1966 and its causes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 265
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 311,
+      "markdown_body_line_end": 311,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The Prime Minister's Secretariat, or PMO, is the administrative office that gained coordinating weight under Shastri and continued to grow under Indira Gandhi.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 392.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 325.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 326,
+      "markdown_body_line_end": 332,
+      "heading": "VISUAL FIRST",
+      "preview": "THE PRIME MINISTER'S SECRETARIAT AND EARLY EXECUTIVE CENTRALISATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 367,
+      "markdown_body_line_end": 384,
+      "heading": "CLOSING RECALL FLOW - CORE - THE PRIME MINISTER'S SECRETARIAT AND EARLY EXECUTIVE CENTRALISATION",
+      "preview": "START / CONCEPT: CORE — The Prime Minister's Secretariat and early executive centralisation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 271
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 395,
+      "markdown_body_line_end": 395,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Core claim: The fourth general election of 1967 is the pivot at which the 'Congress system' of easy national dominance ended, slashing the party's majority and costing it power in eight states in a single contest.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 379.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 312.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 410,
+      "markdown_body_line_end": 416,
+      "heading": "VISUAL FIRST",
+      "preview": "THE 1967 GENERAL ELECTION: THE END OF EASY DOMINANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 451,
+      "markdown_body_line_end": 468,
+      "heading": "CLOSING RECALL FLOW - CORE - THE 1967 GENERAL ELECTION: THE END OF EASY DOMINANCE",
+      "preview": "START / CONCEPT: CORE — The 1967 general election: the end of easy dominance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 242
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 284.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 53.491
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 479,
+      "markdown_body_line_end": 479,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not describe defection politics as a post-1969 phenomenon; it began immediately after the 1967 election.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 494,
+      "markdown_body_line_end": 500,
+      "heading": "VISUAL FIRST",
+      "preview": "COALITION GOVERNMENTS AND DEFECTION POLITICS AFTER 1967",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 352.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 535,
+      "markdown_body_line_end": 552,
+      "heading": "CLOSING RECALL FLOW - CORE - COALITION GOVERNMENTS AND DEFECTION POLITICS AFTER 1967",
+      "preview": "START / CONCEPT: CORE — Coalition governments and defection politics after 1967",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 216
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 620.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 389.691
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 563,
+      "markdown_body_line_end": 563,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The 1969 Congress split is the division of the Congress party into Congress (R) under Indira Gandhi and Congress (O) under the Syndicate, following the presidential contest and bank nationalisation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 235.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 169.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 578,
+      "markdown_body_line_end": 584,
+      "heading": "VISUAL FIRST",
+      "preview": "THE 1969 CONGRESS SPLIT: GIRI, BANK NATIONALISATION AND THE SYNDICATE'S DEFEAT",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 672.691
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 619,
+      "markdown_body_line_end": 636,
+      "heading": "CLOSING RECALL FLOW - CORE - THE 1969 CONGRESS SPLIT: GIRI, BANK NATIONALISATION AND THE SYNDICATE'S DEFEAT",
+      "preview": "START / CONCEPT: CORE — The 1969 Congress split: Giri, bank nationalisation and the Syndicate's defeat",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 247
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 647,
+      "markdown_body_line_end": 647,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The Supreme Court's 1970 rulings are the two judgments that struck down the government's first bank-nationalisation order and its privy-purse derecognition order in the same year.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 393.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 326.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 662,
+      "markdown_body_line_end": 668,
+      "heading": "VISUAL FIRST",
+      "preview": "THE SUPREME COURT'S 1970 RULINGS AGAINST THE EXECUTIVE",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 703,
+      "markdown_body_line_end": 720,
+      "heading": "CLOSING RECALL FLOW - CORE - THE SUPREME COURT'S 1970 RULINGS AGAINST THE EXECUTIVE",
+      "preview": "START / CONCEPT: CORE — The Supreme Court's 1970 rulings against the executive",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 257
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 731,
+      "markdown_body_line_end": 731,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: 'Garibi Hatao' names the 1971 election slogan on which Congress (R) won 352 of 518 seats, the same year privy purses were abolished by the 26th Amendment.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 406.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 339.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 746,
+      "markdown_body_line_end": 752,
+      "heading": "VISUAL FIRST",
+      "preview": "1971: PRIVY PURSES ABOLISHED AND THE GARIBI HATAO LANDSLIDE",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 787,
+      "markdown_body_line_end": 804,
+      "heading": "CLOSING RECALL FLOW - CORE - 1971: PRIVY PURSES ABOLISHED AND THE GARIBI HATAO LANDSLIDE",
+      "preview": "START / CONCEPT: CORE — 1971: privy purses abolished and the Garibi Hatao landslide",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 203
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 815,
+      "markdown_body_line_end": 815,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The 1971 Bangladesh war is the conflict, arising from the East Pakistan crisis, that India won decisively, resulting in the creation of Bangladesh.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 403.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 336.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 830,
+      "markdown_body_line_end": 836,
+      "heading": "VISUAL FIRST",
+      "preview": "THE 1971 BANGLADESH WAR AND ITS STRATEGIC SIGNIFICANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 871,
+      "markdown_body_line_end": 888,
+      "heading": "CLOSING RECALL FLOW - CORE - THE 1971 BANGLADESH WAR AND ITS STRATEGIC SIGNIFICANCE",
+      "preview": "START / CONCEPT: CORE — The 1971 Bangladesh war and its strategic significance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 196
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 298.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 87.691
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 899,
+      "markdown_body_line_end": 899,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not treat the two wars as interchangeable evidence for the same argument; their origins and outcomes were different in kind, not just in degree.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 914,
+      "markdown_body_line_end": 920,
+      "heading": "VISUAL FIRST",
+      "preview": "COMPARING 1965 AND 1971: TWO WARS, TWO OUTCOMES",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 366.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 955,
+      "markdown_body_line_end": 972,
+      "heading": "CLOSING RECALL FLOW - CORE - COMPARING 1965 AND 1971: TWO WARS, TWO OUTCOMES",
+      "preview": "START / CONCEPT: CORE — Comparing 1965 and 1971: two wars, two outcomes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 217
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 634.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 403.891
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 983,
+      "markdown_body_line_end": 983,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Pokhran-I is India's first nuclear test, conducted in May 1974 and officially described as a peaceful nuclear explosion.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 264.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 197.424
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 998,
+      "markdown_body_line_end": 1004,
+      "heading": "VISUAL FIRST",
+      "preview": "POKHRAN-I, MAY 1974: INDIA'S FIRST NUCLEAR TEST",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1039,
+      "markdown_body_line_end": 1056,
+      "heading": "CLOSING RECALL FLOW - CORE - POKHRAN-I, MAY 1974: INDIA'S FIRST NUCLEAR TEST",
+      "preview": "START / CONCEPT: CORE — Pokhran-I, May 1974: India's first nuclear test",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 169
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 298.691
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 87.691
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1067,
+      "markdown_body_line_end": 1067,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "This de-institutionalisation is the structural background to the 1973-75 crisis analysed in the following topic.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1082,
+      "markdown_body_line_end": 1088,
+      "heading": "VISUAL FIRST",
+      "preview": "DE-INSTITUTIONALISATION: THE HIDDEN COST OF CONSOLIDATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 366.224
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1123,
+      "markdown_body_line_end": 1140,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - DE-INSTITUTIONALISATION: THE HIDDEN COST OF CONSOLIDATION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — De-institutionalisation: the hidden cost of consolidation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 171
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 640.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 419.891
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1151,
+      "markdown_body_line_end": 1151,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The coal-sector nationalisation gap is the routed 2019 Prelims demand that this topic's local sources cannot support with any verified year, statute or sequence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 265.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 199.224
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1166,
+      "markdown_body_line_end": 1172,
+      "heading": "VISUAL FIRST",
+      "preview": "THE COAL-SECTOR NATIONALISATION GAP: A BOUNDED CAUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 701.091
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1207,
+      "markdown_body_line_end": 1224,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - THE COAL-SECTOR NATIONALISATION GAP: A BOUNDED CAUTION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — The coal-sector nationalisation gap: a bounded caution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 251
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1235,
+      "markdown_body_line_end": 1235,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not present resilience and cost as mutually exclusive verdicts; the owner's own historiography treats them as compatible readings of the same decade.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 379.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 312.624
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1250,
+      "markdown_body_line_end": 1256,
+      "heading": "VISUAL FIRST",
+      "preview": "RESILIENCE AND COST: TWO VERDICTS ON 1964-73",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1291,
+      "markdown_body_line_end": 1308,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - RESILIENCE AND COST: TWO VERDICTS ON 1964-73",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Resilience and cost: two verdicts on 1964-73",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 249
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 270.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 39.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2121,
+      "markdown_body_line_end": 2123,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 281.691
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 200.824
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2129,
+      "markdown_body_line_end": 2131,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 149.224
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 73.322
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2137,
+      "markdown_body_line_end": 2137,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 770.091
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 725.424
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2307,
+      "markdown_body_line_end": 2314,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 246.891
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 95.09
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2334,
+      "markdown_body_line_end": 2341,
+      "heading": "2. Key classification / data",
+      "preview": "Dimension | Advanced takeaway",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "Advanced takeaway"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 513.891
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 362.09
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2345,
+      "markdown_body_line_end": 2348,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ The system that broke down here → `advanced/33_Party-Politics-1947-67-Congress-System-and-Opposition.md`. **Study link:** ✅ The Emergency this drift produced → `advanced/35_The-JP-Movement-and-the-Emergency.md`. **Study li",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 362.09
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 224.422
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2361,
+      "markdown_body_line_end": 2361,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Indira's radicalism was **as much a strategy of power** (isolating the Syndicate) as an ideological programme — the two are inseparable.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2386,
+      "markdown_body_line_end": 2396,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Two successions in twenty months",
+      "preview": "SHASTRI PM -> JUNE 1964, after Nehru's death",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 381.624
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 278.824
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2400,
+      "markdown_body_line_end": 2405,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: The mid-1960s economic crisis and the 1966 devaluation",
+      "preview": "1965 WAR EXPENDITURE + HARVEST FAILURES + FOOD-AID DEPENDENCE -> fiscal strain",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2409,
+      "markdown_body_line_end": 2414,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: 1967: the end of easy dominance",
+      "preview": "FOURTH GENERAL ELECTION -> 1967",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2418,
+      "markdown_body_line_end": 2423,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: 1969: the Congress split",
+      "preview": "TRIGGER -> V.V. Giri presidential contest + bank nationalisation (14 banks)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2427,
+      "markdown_body_line_end": 2432,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Courts vs the executive, 1970",
+      "preview": "SUPREME COURT, 1970 -> strikes down FIRST bank-nationalisation order",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2436,
+      "markdown_body_line_end": 2441,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: 1971: privy purses and Garibi Hatao",
+      "preview": "PRIVY PURSES ABOLISHED -> 1971, 26th Constitutional Amendment",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2445,
+      "markdown_body_line_end": 2450,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: The 1971 Bangladesh war",
+      "preview": "ORIGIN -> crisis in East Pakistan; refugee influx into India",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2454,
+      "markdown_body_line_end": 2459,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: 1965 vs 1971 compared",
+      "preview": "1965 WAR -> origin: Pakistani infiltration into Kashmir",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 292.691
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2463,
+      "markdown_body_line_end": 2468,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Pokhran-I, May 1974",
+      "preview": "TEST -> Pokhran-I, MAY 1974",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2472,
+      "markdown_body_line_end": 2481,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: De-institutionalisation: the hidden cost",
+      "preview": "TECHNIQUE -> populist mobilisation + personalised leadership",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2485,
+      "markdown_body_line_end": 2493,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: The coal-sector nationalisation gap, 2019: a bounded caution",
+      "preview": "ROUTED DEMAND -> 2019 Prelims GS-I Q48, coal-sector nationalisation status",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 598.891
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 516.491
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2497,
+      "markdown_body_line_end": 2502,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Resilience and cost: two verdicts on 1964-73",
+      "preview": "VERDICT ONE -> resilience: two successions absorbed peacefully; 1971 war won",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 494.491
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 442.691
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    }
+  ]
+}

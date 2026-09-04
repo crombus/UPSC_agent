@@ -1,0 +1,119 @@
+ASCII MASTER FLOW — PANEL 1/10: Vienna Circle programme and the analytic-synthetic division
+START -> Vienna Circle: Schlick, Carnap, Neurath; Ayer is the English expositor.
+INFLUENCES -> empiricism + mathematical logic + early Wittgenstein.
+PHILOSOPHY -> logical clarification, not a rival source of empirical facts.
+COGNITIVE MEANING -> truth-apt factual content or analytic logical function.
+ANALYTIC -> true by meanings/rules; necessary; non-factual yet meaningful.
+SYNTHETIC -> contingent; truth depends on experience; factual candidate.
+SCIENTIFIC WORLDVIEW -> public evidence, coordination and unity ambitions.
+DIVERSITY -> protocols, reduction, physicalism and confirmation remained disputed.
+TRAP -> meaningful != scientifically true; non-cognitive != worthless.
+ANSWER LINE -> one programme, evolving formulations and different internal routes.
+
+ASCII MASTER FLOW — PANEL 2/10: Verification criterion, strong-weak fork and in-principle access
+FACTUAL P -> cognitively meaningful only if experience could count for or against P.
+ACTUAL VERIFICATION -> the evidence has been gathered now.
+IN-PRACTICE TESTABILITY -> present technology and conditions make checking feasible.
+IN-PRINCIPLE VERIFIABILITY -> relevant observations can be specified in principle.
+STRONG -> experience could conclusively establish truth; sharp but over-exclusive.
+WEAK -> possible evidence raises/lowers probability; Ayer's broader repair.
+CONFIRMATION -> partial evidential support, not conclusive proof or truth itself.
+PRESSURE -> laws, past, other minds, dispositions and theory terms.
+TRAP -> falsifiability is Popper's rival demarcation rule, not this doctrine.
+DILEMMA -> strong kills science; weak risks readmitting metaphysics.
+
+ASCII MASTER FLOW — PANEL 3/10: Positive case and scientific hard cases
+POSITIVE CASE -> evidence, operational clarity, public testing, anti-obscurantism.
+UNIVERSAL LAW -> finite observations never conclusively verify every instance.
+DISPOSITION -> meaningful tendency may remain unmanifested in the present case.
+PAST EVENT -> current traces, records and testimony provide indirect evidence.
+OTHER MIND -> behaviour/expression provide public but non-conclusive evidence.
+THEORETICAL ENTITY -> electron-talk belongs to a predictive theoretical network.
+ROUTE -> theory + conditions + auxiliaries -> prediction -> observation report.
+RESULT -> confirm, weaken or revise the connected system.
+REPLY -> public predictive integration differs from insulation from evidence.
+LIMIT -> science is saved as sentence-by-sentence demarcation becomes less sharp.
+
+ASCII MASTER FLOW — PANEL 4/10: Early Wittgenstein's influence and the positivist addition
+TRACTATUS INFLUENCE -> facts can be said; logic is tautological; philosophy clarifies.
+TAUTOLOGY -> shows logical form but does not picture a contingent fact.
+SAYING/SHOWING -> cannot be identified wholesale with positivist verificationism.
+CIRCLE'S ADDITION -> factual meaning requires possible experiential verification.
+MODERN LOGIC -> analyse logical form beneath misleading surface grammar.
+LOGICAL SYNTAX -> reveals misuse of categories, terms and quantificational forms.
+PHILOSOPHY -> clarification of scientific language and limits of assertion.
+HISTORICAL CAUTION -> influence does not make Wittgenstein a uniform Circle member.
+AYER CAUTION -> English exposition is not identical with every Vienna doctrine.
+ANSWER LINE -> inherited logical boundary plus an original empiricist meaning test.
+
+ASCII MASTER FLOW — PANEL 5/10: Metaphysical pseudo-proposition diagnostic
+ASSERTION-LIKE SENTENCE -> first ask: analytic or tautological?
+IF NO -> what possible experience would bear on truth or falsity?
+IF NONE -> inspect each term's criterion of application.
+CHECK -> grammatical disguise, category mistake and misuse of logical syntax.
+PSEUDO-PROPOSITION -> assertion-like form without cognitive factual content.
+CARNAP -> logical analysis diagnoses malformed or empty metaphysical constructions.
+AYER -> unverifiable factual pretence fails the cognitive-meaning criterion.
+NOT FALSE -> the positivist denies truth-conditions, not merely correspondence.
+NOT WORTHLESS -> expressive, historical or existential significance may remain.
+LIMIT -> the verdict is only as strong as the verification criterion itself.
+
+ASCII MASTER FLOW — PANEL 6/10: Religion, ethics and aesthetics: status versus significance
+FIRST QUESTION -> does the utterance contain a factual, testable component?
+ETHICAL JUDGEMENT -> Ayer treats basic evaluation as non-cognitive expression.
+EMOTIVE SIGNIFICANCE -> evinces/influences attitudes; does not report a fact.
+REPORTING FEELING != EXPRESSING APPROVAL.
+PRESCRIPTIVE FUNCTION -> recommends conduct or commitment.
+RELIGIOUS LANGUAGE -> may mix historical claims, symbols and devotional practice.
+AESTHETIC LANGUAGE -> evaluation and response need not be measurement reports.
+FAIRNESS -> analyse sentence-functions; never caricature a whole tradition.
+OBJECTION -> reasons, consistency and embedded ethics pressure simple emotivism.
+VERDICT -> non-factual cognitive status does not erase human significance.
+
+ASCII MASTER FLOW — PANEL 7/10: Linguistic theory of necessary propositions
+EMPIRICIST PROBLEM -> how can logic and mathematics be necessary and a priori?
+ANSWER -> analytic/tautological truth by definitions, conventions and rules.
+TAUTOLOGY -> true under every admissible assignment; no contingent fact asserted.
+LOGIC/MATHEMATICS -> organise inference and representation within a framework.
+MEANINGFUL -> non-factual logical role; empirical verification is unnecessary.
+CONVENTIONALISM -> framework rules explain necessity without supersensible objects.
+EARLY WITTGENSTEIN -> tautology influence, not wholesale doctrinal identity.
+KANT -> synthetic a priori challenges reduction to analyticity.
+QUINE -> analytic-synthetic boundary appears circular and unstable.
+REPLY/LIMIT -> strict consequences within chosen rules; choice standards need defence.
+
+ASCII MASTER FLOW — PANEL 8/10: Protocol statements and the internal shift toward confirmation
+PROTOCOL STATEMENT -> basic observation report used as an evidential checkpoint.
+SCHLICK -> more foundational experiential role for observation reports.
+NEURATH -> public, revisable protocols; no private incorrigible foundation.
+THEORY -> predicts event; protocol records it; mismatch triggers distributed revision.
+PHYSICALISM -> public coordination language, not crude denial of mental discourse.
+UNITY OF SCIENCE -> intersubjective integration remained an ambition, not one formula.
+DEVELOPMENT -> strict reduction -> probability -> confirmation.
+FURTHER SHIFT -> reduction sentences, syntax/semantics and theoretical-term toleration.
+THEORY-LADENNESS -> observation is not a neutral language-free bedrock.
+VERDICT -> practice survives through revisability as foundational verification weakens.
+
+ASCII MASTER FLOW — PANEL 9/10: Carnapian tolerance, frameworks and conventionalist refinement
+PRINCIPLE OF TOLERANCE -> state rules clearly; no single compulsory logical language.
+LINGUISTIC FRAMEWORK -> syntax, semantics and standards for internal questions.
+INTERNAL ANALYTIC QUESTION -> answered through framework rules.
+INTERNAL FACTUAL QUESTION -> answered through evidence inside the framework.
+ADOPTION QUESTION -> practical comparison: clarity, economy, fruitfulness, coordination.
+CONVENTIONAL CHOICE != arbitrary consequence inside an adopted system.
+ONTOLOGY -> some disputes can be recast as framework proposals rather than discoveries.
+THEORETICAL TERMS -> retained when disciplined by inferential and test relations.
+OBJECTION -> standards of framework choice themselves require justification.
+LIMIT -> conceptual engineering does not dissolve every substantive ontological issue.
+
+ASCII MASTER FLOW — PANEL 10/10: Self-application, successor critiques, evaluation and answer spine
+SELF-APPLICATION -> is the verification principle analytic or empirically verifiable?
+IF NEITHER -> it fails its own test; if stipulative -> its universal authority weakens.
+POPPER -> falsifiability demarcates science; it is not a positivist meaning criterion.
+QUINE -> attacks analyticity and isolated testing; experience meets a web of belief.
+KANT -> synthetic a priori challenges the linguistic reduction of necessity.
+STRENGTHS -> clarity, evidence, anti-obscurantism, philosophy of science/language.
+WEAKNESSES -> self-reference, laws, theory-ladenness, values, unstable analyticity.
+DISTINGUISH -> meaning | truth | verification | confirmation | demarcation | significance.
+ANSWER SPINE -> context -> definitions -> three doctrines -> objections/replies.
+CONCLUSION -> enduring method of clarification, unsuccessful final tribunal of meaning.

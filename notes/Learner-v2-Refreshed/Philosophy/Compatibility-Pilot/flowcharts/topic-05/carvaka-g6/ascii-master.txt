@@ -1,0 +1,27 @@
+Sāṃkhya — COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+START / CENTRAL QUESTION
+  Contemporary-anchor discipline: A February 2026 academic lecture on Puruṣa and Prakṛti is educational context only.
+        |
+        v
++-- SESSION 01: CONTEMPORARY-ANCHOR DISCIPLINE
+|   DEFINITION / TERMS : Contemporary-anchor discipline: A February 2026 academic lecture on Puruṣa and Prakṛti is educational context only.
+|   MECHANISM / ARGUMENT: A February 2026 academic lecture on Puruṣa and Prakṛti is educational context only.
+|   CONSEQUENCE / CONTRAST: ⚠️ Inference: Contemporary mind–body comparisons may clarify the doctrine, but must not be presented as official adoption or as evidence for classical metaphysics.
+|   TRAP / ANSWER-USE: ⚠️ Inference: Contemporary mind–body comparisons may clarify the doctrine, but must not be presented as official adoption or as evidence for classical metaphysics.
+|   EXAM OPENING: ✅ Search finding: A live August 2026 search repeated a non-official claim that a national “Sāṃkhya paradigm” entered Indian mental-health policy; no official government source verified it.
++--
+        |
+        v
++-- SESSION 02: MASTER DISTINCTION GATEWAY
+|   DEFINITION / TERMS : Master verdict: Sāṃkhya is a realist dualism and evolutionism: Prakṛti transforms, Puruṣa witnesses, and liberation occurs through discriminating their radical difference.
+|   MECHANISM / ARGUMENT: Master verdict: Sāṃkhya is a realist dualism and evolutionism: Prakṛti transforms, Puruṣa witnesses, and liberation occurs through discriminating their radical difference.
+|   CONSEQUENCE / CONTRAST: Conclusion. ⚠️ Therefore the five arguments for Prakṛti and the arguments for Puruṣa are not rhetorical flourishes; they discharge an epistemological obligation created by Sāṃkhya's own three-pramāṇa scheme.
+|   TRAP / ANSWER-USE: Statement. ✅ Other proposed pramāṇas — upamāna (comparison), arthāpatti (postulation), anupalabdhi (non-apprehension), sambhava (inclusion/probability) and aitihya (traditional report) — are not rejected as useless; they are reduced to, or included within, these three.
+|   EXAM OPENING: Master verdict: Sāṃkhya is a realist dualism and evolutionism: Prakṛti transforms, Puruṣa witnesses, and liberation occurs through discriminating their radical difference.
++--
+        |
+        v
+ANSWER-WRITING SPINE
+definition -> exact terms -> mechanism/evidence -> consequence/contrast
+-> objection/trap -> qualified answer-use

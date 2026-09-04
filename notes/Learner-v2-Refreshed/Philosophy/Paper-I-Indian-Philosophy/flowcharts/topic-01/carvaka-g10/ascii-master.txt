@@ -1,0 +1,230 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Cārvāka / Lokāyata: central question and analytical axes
+
+```ascii-master
+CĀRVĀKA / LOKĀYATA — CONCEPTUAL ATLAS
+
+
+KEY TERMS: Historical Reconstruction • The Source Problem • Cārvāka • Lokāyata • Bārhaspatya
+KEY TERMS: • HISTORICAL RECONSTRUCTION AND THE…
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Cārvāka / Lokāyata
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       Cārvāka (Indian materialist school), also called Lokāyata (worldly…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: HISTORICAL RECONSTRUCTION AND THE SOURCE PROBLEM
+  • Historical Reconstruction
+  • That does not make reconstruction impossible
+AXIS 2: EPISTEMOLOGY — PERCEPTION AS THE SOLE PRAMĀṆA
+  • Epistemology
+  • Pratyakṣaika-pramāṇavāda: perception alone is a pramāṇa
+AXIS 3: METAPHYSICS AND MATERIALISM — FOUR BHŪTAS, THE REJECTION OF…
+  • Metaphysics
+  • The Cārvāka's best reply is that the soul-hypothesis renames the…
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  Historical Reconstruction • The Source Problem • Cārvāka • Lokāyata
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Sources and perception as the sole pramana
+
+```ascii-master
+SOURCES AND PERCEPTION AS THE SOLE PRAMANA
+│
+
+KEY TERMS: Historical Reconstruction • The Source Problem • Cārvāka • Lokāyata • Bārhaspatya
+KEY TERMS: • HISTORICAL RECONSTRUCTION AND THE…
+├── KEY CONCEPTS
+│   ├── Historical Reconstruction
+│   ├── The Source Problem
+│   ├── Cārvāka
+│   ├── Lokāyata
+│   └── Bārhaspatya
+│
+├── HISTORICAL RECONSTRUCTION AND THE SOURCE PROBLEM
+│   ├─ TERMS: Cārvāka (Indian materialist school), also called Lokāyata (worldly…
+│   ├─ LOGIC: That does not make reconstruction impossible
+│   └─ RESULT: Lost primary text The Bṛhaspati-sūtra does not survive
+├── EPISTEMOLOGY — PERCEPTION AS THE SOLE PRAMĀṆA
+│   ├─ TERMS: Pratyakṣaika-pramāṇavāda: perception alone is a pramāṇa
+│   ├─ LOGIC: Pratyakṣaika-pramāṇavāda: perception alone is a pramāṇa
+│   └─ RESULT: Chatterjee and Datta frame the architecture of the whole system on…
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Inference critique: vyapti, upadhi and self-refutation
+
+```ascii-master
+INFERENCE CRITIQUE: VYAPTI, UPADHI AND SELF-REFUTATION
+
+
+KEY TERMS: The Critique Of Inference • Vyāpti • Upādhi • The Socrates Syllogism •
+KEY TERMS: Self-Refutation • THE CRITIQUE OF INFERENCE — VYĀPTI…
+CAUSE / CONDITION 1: Against the uncompromising formulation the self-refutation…
+          │
+          ├── MECHANISM
+          │   Inference is "a leap in the dark"
+          │
+          └── EFFECT / CONTRAST
+              This is why the correct one-line statement of the doctrine is: the…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Nyaya’s defence and the balanced epistemological verdict
+
+```ascii-master
+NYAYA’S DEFENCE AND THE BALANCED EPISTEMOLOGICAL VERDICT
+
+
+KEY TERMS: The Nyāya Defence Of Inference • A Critically Balanced Verdict • assembled •
+KEY TERMS: bhūyodarśana • anvaya • THE NYĀYA DEFENCE OF INFERENCE — AND A…
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ THE NYĀYA DEFENCE OF   │ The question says "the other  │ The question says "the other  │
+│ INFERENCE — AND A      │ systems" — plural — and asks  │ systems" — plural — and asks  │
+│ CRITICALLY BALANCED    │ for your…                     │ for your…                     │
+│ VERDICT                │                               │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ METAPHYSICS AND        │ Name it as a presupposition,  │ The elemental ledger is       │
+│ MATERIALISM — FOUR     │ not a proof                   │ therefore the neatest         │
+│ BHŪTAS, THE REJECTION  │                               │ possible…                     │
+│ OF ĀKĀŚA, AND…         │                               │                               │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Materialism, body-self, consciousness and transcendent-entity critique
+
+```ascii-master
+MATERIALISM, BODY-SELF, CONSCIOUSNESS AND TRANSCENDENT-ENTITY CRITIQUE
+
+
+KEY TERMS: Self • Body • Consciousness • Dehātmavāda • Cārvāka Versus Buddhist Anātman (2024
+KEY TERMS: • 20 Marks)
+                 CLAIM / SYSTEM UNDER EXAMINATION
+                                  │
+                                  ▼
+PROBLEM / OBJECTION 1
+  ├─ ISSUE: He denies a transcendental self and affirms a material one
+  ├─ RESPONSE / CONTROL: caitanya-viśiṣṭaḥ kāyaḥ puruṣaḥ / caitanya-viśiṣṭa deha
+  ├─ RESPONSE / CONTROL: eva ātmā —…
+  └─ QUALIFIED VERDICT: Use shared denial but different reconstruction: Cārvāka
+  └─ QUALIFIED VERDICT: relocates…
+                                  │
+                                  ▼
+FINAL CONTROL: preserve the strongest insight while stating its limit.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Ethics, social meaning and inter-school comparison
+
+```ascii-master
+ETHICS, SOCIAL MEANING AND INTER-SCHOOL COMPARISON
+
+
+KEY TERMS: The Rejection Of Transcendent Entities • God • Soul • Karma • Rebirth • Heaven
+CAUSE / CONDITION 1: Chatterjee and Datta name adṛṣṭa explicitly among the…
+          │
+          ├── MECHANISM
+          │   The template: X is imperceptible - only inference or testimony…
+          │
+          └── EFFECT / CONTRAST
+              Cārvāka is the only school whose atheism follows from its…
+          │
+          ▼
+CAUSE / CONDITION 2: Cārvāka (Indian materialist school) ethics is best read as…
+          │
+          ├── MECHANISM
+          │   Hence hedonism
+          │
+          └── EFFECT / CONTRAST
+              This Cārvāka ethics may be called, therefore, hedonism or the…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Cārvāka / Lokāyata: traps, PYQ routes and applied recall
+
+```ascii-master
+CĀRVĀKA / LOKĀYATA: TRAPS, PYQ ROUTES AND APPLIED RECALL
+
+
+KEY TERMS: Historical Reconstruction • The Source Problem • Cārvāka • Lokāyata • Bārhaspatya
+KEY TERMS: • HISTORICAL RECONSTRUCTION AND THE…
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── It is nāstika because it rejects the authority of the Veda — and…
+├── Against the uncompromising formulation the self-refutation charge…
+├── He denies a transcendental self and affirms a material one
+├── He "believes in God and in life after death" and is a materialist…
+│
+├── 2018 · Q8(b) · 15 marks
+├── Independent model answer
+├── Why this earns marks
+├── 2019 · Q5(c) · 10 marks
+│
+└── Cārvāka (Indian materialist school), also called Lokāyata (worldly…
+└── Cārvāka (Indian materialist school) materialism holds that…
+└── Cārvāka (Indian materialist school) ethics is best read as prudent…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Cārvāka / Lokāyata: integrated revision and answer-writing spine
+
+```ascii-master
+CĀRVĀKA / LOKĀYATA — ANSWER / REVISION SPINE
+
+
+KEY TERMS: Historical Reconstruction • The Source Problem • Cārvāka • Lokāyata • Bārhaspatya
+KEY TERMS: • HISTORICAL RECONSTRUCTION AND THE…
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ Cārvāka (Indian materialist school), also called Lokāyata (worldly…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ Historical Reconstruction
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ Inference is "a leap in the dark"
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ Cārvāka
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ He "believes in God and in life after death" and is a materialist…
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ Cārvāka (Indian materialist school) ethics is best read as prudent…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

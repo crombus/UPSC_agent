@@ -1,0 +1,91 @@
+ASCII MASTER FLOW — PANEL 1/8: 1. Source-critical entry
+CĀRVĀKA / LOKĀYATA: RECONSTRUCTION BEFORE DOCTRINE
+                         |
+     +-------------------+-------------------+
+     v                   v                   v
+ lost Bṛhaspati-sūtra  opponent reports   quoted fragments
+                       (Mādhava, Jayanta,  (often polemical)
+                        Śāntarakṣita)
+     +-------------------+-------------------+
+                         v
+ RULE: distinguish attested thesis from hostile caricature
+ Lokāyata = this-worldly orientation; Cārvāka = materialist school label.
+
+ASCII MASTER FLOW — PANEL 2/8: 2. Epistemic gate
+VALID KNOWLEDGE (PRAMĀ)                     REJECTED INDEPENDENT SOURCES
+          |                                             |
+          v                                             v
+ PRATYAKṢA / PERCEPTION              anumāna     śabda      upamāna
+ direct, sense-grounded              inference   testimony  comparison
+          |                              |
+          v                              v
+ observed conjunction is finite; universal vyāpti outruns perception
+ smoke seen with fire in kitchens != smoke is invariably fire-linked.
+
+ASCII MASTER FLOW — PANEL 3/8: 3. Inference controversy
+CĀRVĀKA ATTACK: inference needs universal concomitance (vyāpti)
+ vyāpti known by inference -> circularity | by perception -> incomplete survey
+ hidden condition (upādhi) may defeat the rule: fire without smoke, wet fuel matters
+                         |
+ NYĀYA REPLY: repeated agreement + absence of counter-instance + tarka
+ anvaya (presence) + vyatireka (absence) -> defeasible but rational vyāpti
+                         |
+ CĀRVĀKA COUNTER-PRESSURE: practical expectation may work without certainty
+ SELF-REFUTATION CHARGE: arguing against inference already employs inference.
+
+ASCII MASTER FLOW — PANEL 4/8: 4. Material ontology
+ONLY THIS-WORLDLY ELEMENTS ARE REQUIRED
+ earth + water + fire + air -> organised living body -> consciousness
+                         |
+ consciousness is a body-property, not an immaterial substance
+ analogy: fermentation ingredients -> intoxicating power not present separately
+                         |
+ SELF = living conscious body (dehātma-vāda)
+ death -> elemental dissolution -> no surviving ātman, rebirth or afterlife
+ QUALIFICATION: emergence is asserted; a full mechanism is not supplied.
+
+ASCII MASTER FLOW — PANEL 5/8: 5. Transcendent denials
+NO PERCEPTUAL WARRANT
+       |
+       +-> no immortal soul -> no rebirth
+       +-> no karma as supersensible moral force
+       +-> no heaven/hell -> no post-mortem reward or punishment
+       +-> no creator God -> world needs no transcendent planner
+       +-> no Vedic infallibility -> priestly testimony lacks intrinsic authority
+ RESULT: metaphysics is cut back to perceptible nature and embodied life.
+
+ASCII MASTER FLOW — PANEL 6/8: 6. Ethics without caricature
+PURUṢĀRTHA FILTER
+ dharma: rejected when grounded in unseen reward or Vedic command
+ mokṣa: rejected as liberation of a separable soul
+ artha + kāma: intelligible goods within one embodied life
+                         |
+ prudent enjoyment != reckless indulgence
+ pleasure sought -> weigh pain, social consequence and attainable means
+                         |
+ EXAM CONTROL: call it naturalistic hedonism or this-worldliness;
+ do not reduce the school to the hostile slogan “eat, drink and borrow.”
+
+ASCII MASTER FLOW — PANEL 7/8: 7. Comparative pressure map
+ISSUE          CĀRVĀKA             NYĀYA              BUDDHISM
+pramāṇa        perception only     four pramāṇas      perception + inference
+self           conscious body      enduring ātman     anātman stream
+causation      observed sequence   realist relation   dependent origination
+transcendent   denied              God, soul, karma   karma without creator
+liberation     death ends person    apavarga           nirvāṇa
+                         |
+ STRENGTH: anti-dogmatic evidential discipline
+ LIMIT: perception-only rule struggles to justify science, memory and its own critique.
+
+ASCII MASTER FLOW — PANEL 8/8: 8. PYQ answer rail
+DEFINE source problem -> STATE perception thesis -> RECONSTRUCT inference attack
+        |                         |                         |
+        v                         v                         v
+ explain upādhi/circularity -> give Nyāya reply -> assess self-refutation
+        |
+        v
+ derive materialism -> embodied self -> transcendent denials -> ethical result
+        |
+        v
+ QUALIFIED VERDICT: Cārvāka is a rigorous empiricist challenge, but its exclusive
+ pratyakṣa criterion is narrower than the reasoning needed to defend that challenge.

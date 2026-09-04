@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-i-indian-philosophy-03",
+  "generation": 7,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-03\\g7\\topic-03_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    2409
+  ],
+  "stages": [
+    {
+      "title": "SCHOOLS OF BUDDHISM",
+      "terms": "✅ Fact: The High Commission of India in Colombo reported the public exposition of the Devnimori Buddha relics at Gangaramaya Temple from 4–10 February 2026, presenting it as cultural and spiritual engagement through shared Buddhist heritage. ⚠️ Inference: The event can frame Buddhism as a living civilizational language, but answers must derive doctrine from dependent origination, momentariness, no-self, emptiness, consciousness and liberation.",
+      "mechanism": "✅ Fact: The High Commission of India in Colombo reported the public exposition of the Devnimori Buddha relics at Gangaramaya Temple from 4–10 February 2026, presenting it as cultural and spiritual engagement through shared Buddhist heritage. ⚠️ Inference: The event can frame Buddhism as a living civilizational language, but answers must derive doctrine from dependent origination, momentariness, no-self, emptiness, consciousness and liberation.",
+      "consequence": "✅ Fact: The High Commission of India in Colombo reported the public exposition of the Devnimori Buddha relics at Gangaramaya Temple from 4–10 February 2026, presenting it as cultural and spiritual engagement through shared Buddhist heritage. ⚠️ Inference: The event can frame Buddhism as a living civilizational language, but answers must derive doctrine from dependent origination, momentariness, no-self, emptiness, consciousness and liberation.",
+      "trap": "✅ Fact: The High Commission of India in Colombo reported the public exposition of the Devnimori Buddha relics at Gangaramaya Temple from 4–10 February 2026, presenting it as cultural and spiritual engagement through shared Buddhist heritage. ⚠️ Inference: The event can frame Buddhism as a living civilizational language, but answers must derive doctrine from dependent origination, momentariness, no-self, emptiness, consciousness and liberation.",
+      "answer": "✅ Fact: The High Commission of India in Colombo reported the public exposition of the Devnimori Buddha relics at Gangaramaya Temple from 4–10 February 2026, presenting it as cultural and spiritual engagement through shared Buddhist heritage. ⚠️ Inference: The event can frame Buddhism as a living civilizational language, but answers must derive doctrine from dependent origination, momentariness, no-self, emptiness, consciousness and liberation."
+    },
+    {
+      "title": "SCHOOLS OF BUDDHISM: CORE DISTINCTIONS",
+      "terms": "Because Buddhism denies permanent substance, yet it also denies that phenomena are sheer nothing.",
+      "mechanism": "Master verdict: Buddhism is a family of anti-substantialist, causally ordered and soteriological systems; its schools range from realism through consciousness-only analysis to radical emptiness.",
+      "consequence": "⚠️ Exam payoff: for “Schools of Buddhism”, do not list four schools mechanically.",
+      "trap": "Buddhism says the real conditioned is momentary, not unreal in every sense. ⚠️ Trap 3: confusing pudgala-nairātmya with dharma-nairātmya. ⚠️ Trap 4: writing that all Buddhist schools say the same thing about the external world.",
+      "answer": "pratītyasamutpāda (dependent origination) is the principle that phenomena arise and cease in dependence on conditions, rejecting both eternalism and causeless annihilationism."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 2
+    },
+    {
+      "page": 2,
+      "y_start": 209,
+      "y_end": 2409,
+      "overlap_px": 260,
+      "from_stage": 1,
+      "continues_stage": 2
+    }
+  ]
+}

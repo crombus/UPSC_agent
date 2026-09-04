@@ -1,0 +1,239 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Sāṃkhya: central question and analytical axes
+
+```ascii-master
+SĀṂKHYA — CONCEPTUAL ATLAS
+
+
+KEY TERMS: Sāṃkhya • Prakṛti • Puruṣa • pramāṇa • buddhi • antaḥkaraṇa
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Sāṃkhya
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       Sāṃkhya accepts perception, inference and reliable testimony as…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: SĀṂKHYA DUALISM, PRAMĀṆAS AND COGNITION
+  • Sāṃkhya
+  • The internal organ takes the form of an object and appears…
+AXIS 2: PURUṢA, ITS PLURALITY AND THE WITNESS PRINCIPLE
+  • Puruṣa
+  • Sāṃkhya argues for Puruṣa as a distinct conscious principle…
+AXIS 3: BONDAGE, DISCRIMINATIVE KNOWLEDGE AND KAIVALYA
+  • Bondage
+  • Prakṛti is like a dancer who stops after being seen by Puruṣa
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  Sāṃkhya • Prakṛti • Puruṣa • pramāṇa
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Dualism, pramanas, prakriti and the three gunas
+
+```ascii-master
+DUALISM, PRAMANAS, PRAKRITI AND THE THREE GUNAS
+│
+
+KEY TERMS: Sāṃkhya • Prakṛti • Puruṣa • pramāṇa • buddhi • antaḥkaraṇa
+├── KEY CONCEPTS
+│   ├── Sāṃkhya
+│   ├── Prakṛti
+│   ├── Puruṣa
+│   ├── pramāṇa
+│   └── buddhi
+│
+├── SĀṂKHYA DUALISM, PRAMĀṆAS AND COGNITION
+│   ├─ TERMS: Sāṃkhya accepts perception, inference and reliable testimony as…
+│   ├─ LOGIC: The internal organ takes the form of an object and appears…
+│   └─ RESULT: Experience is possible without making matter conscious or…
+├── PRAKṚTI, THE THREE GUṆAS AND THEIR PROOFS
+│   ├─ TERMS: Prakṛti (prakriti) is the unmanifest, unconscious, primordial…
+│   ├─ LOGIC: Pradhāna emphasizes that Prakṛti is the chief material principle
+│   └─ RESULT: The standard cluster of arguments is central to UPSC
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Purusha plurality and the twenty-five tattva evolution
+
+```ascii-master
+PURUSHA PLURALITY AND THE TWENTY-FIVE TATTVA EVOLUTION
+
+
+KEY TERMS: Puruṣa • Its Plurality • The Witness Principle • Puruṣa (purusha) •
+KEY TERMS: saṅghāta-parārthatvāt • saṅghāta
+CAUSE / CONDITION 1: Sāṃkhya replies that agency belongs to Prakṛti's evolutes
+          │
+          ├── MECHANISM
+          │   Sāṃkhya argues for Puruṣa as a distinct conscious principle because…
+          │
+          └── EFFECT / CONTRAST
+              Conclusion
+          │
+          ▼
+CAUSE / CONDITION 2: Rajas supplies activity, energy and operative force to both…
+          │
+          ├── MECHANISM
+          │   Rajas supplies activity, energy and operative force to both lines
+          │
+          └── EFFECT / CONTRAST
+              Buddhi determines, judges, ascertains and discriminates
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Satkaryavada, parinamavada and rival causal theories
+
+```ascii-master
+SATKARYAVADA, PARINAMAVADA AND RIVAL CAUSAL THEORIES
+
+
+KEY TERMS: Satkāryavāda • Pariṇāmavāda • Rival Causal Theories • asadakaraṇāt • Nyāya •
+KEY TERMS: upādāna-grahaṇāt
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ SATKĀRYAVĀDA,          │ Sāṃkhya's satkāryavāda is     │ Sāṃkhya's satkāryavāda is     │
+│ PARIṆĀMAVĀDA AND RIVAL │ specifically pariṇāmavāda:    │ specifically pariṇāmavāda:    │
+│ CAUSAL THEORIES        │ the effect is…                │ the effect is…                │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Bondage, discriminative knowledge and kaivalya
+
+```ascii-master
+BONDAGE, DISCRIMINATIVE KNOWLEDGE AND KAIVALYA
+
+
+KEY TERMS: Bondage • Discriminative Knowledge • Kaivalya • aviveka • viveka-jñāna •
+KEY TERMS: Jīvanmukti
+                 CLAIM / SYSTEM UNDER EXAMINATION
+                                  │
+                                  ▼
+PROBLEM / OBJECTION 1
+  ├─ ISSUE: Puruṣa is like the lame: conscious but inactive
+  ├─ RESPONSE / CONTROL: Prakṛti is like a dancer who stops after being seen by
+  ├─ RESPONSE / CONTROL: Puruṣa
+  └─ QUALIFIED VERDICT: Bondage in Sāṃkhya is aviveka, non-discrimination between
+  └─ QUALIFIED VERDICT: Puruṣa…
+                  │
+                  ▼
+PROBLEM / OBJECTION 2
+  ├─ ISSUE: Śaṃkara argues that if Puruṣa is truly inactive and Prakṛti truly…
+  ├─ RESPONSE / CONTROL: Unconscious prakṛti cannot be the Upaniṣadic cause
+  ├─ RESPONSE / CONTROL: because the…
+  └─ QUALIFIED VERDICT: Sāṃkhya answers that the relation is sānnidhya, mere
+  └─ QUALIFIED VERDICT: proximity or…
+                                  │
+                                  ▼
+FINAL CONTROL: preserve the strongest insight while stating its limit.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Contact problem, Shankara’s critique and graded verdict
+
+```ascii-master
+CONTACT PROBLEM, SHANKARA’S CRITIQUE AND GRADED VERDICT
+
+
+KEY TERMS: Inter-School Debates • Objections • Replies • Priority • Required doctrinal depth
+KEY TERMS: • Trap / answer consequence
+CAUSE / CONDITION 1: Frame the answer through Inter-School Debates
+          │
+          ├── MECHANISM
+          │   ❓ How can unconscious Prakṛti evolve purposively for Puruṣa's sake?
+          │
+          └── EFFECT / CONTRAST
+              Causation satkārya + pariṇāma Nyāya pre-existent effect vs
+              prāgabhāva/new beginning
+          │
+          ▼
+CAUSE / CONDITION 2: Sāṃkhya vs Advaita on satkāryavāda
+          │
+          ├── MECHANISM
+          │   Sāṃkhya vs Advaita on satkāryavāda
+          │
+          └── EFFECT / CONTRAST
+              20 marks
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Sāṃkhya: traps, PYQ routes and applied recall
+
+```ascii-master
+SĀṂKHYA: TRAPS, PYQ ROUTES AND APPLIED RECALL
+
+
+KEY TERMS: Sāṃkhya • Prakṛti • Puruṣa • pramāṇa • buddhi • antaḥkaraṇa
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── Do not identify Puruṣa with mind, ego or buddhi, because all three…
+├── Ahaṃkāra is the I-maker, the principle of individuation
+├── Puruṣa is like the lame: conscious but inactive
+├── A web result claiming adoption of a national "Samkhya Paradigm" in…
+│
+├── Independent learner-practice models, not official UPSC answer keys
+├── 2018 · Q5(e) · 10 marks
+├── Question: Is Puruṣa one or many?
+├── Samkhya accepts many Purusas
+│
+└── The system's epistemology supports its dualism: cognition belongs…
+└── Satkāryavāda holds that the effect pre-exists in its material cause
+└── “A high-scoring Sāṃkhya (enumerative dualist school) answer should…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Sāṃkhya: integrated revision and answer-writing spine
+
+```ascii-master
+SĀṂKHYA — ANSWER / REVISION SPINE
+
+
+KEY TERMS: Sāṃkhya • Prakṛti • Puruṣa • pramāṇa • buddhi • antaḥkaraṇa
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ Sāṃkhya accepts perception, inference and reliable testimony as…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ Sāṃkhya
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ Rajas supplies activity, energy and operative force to both lines
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ Puruṣa
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ A web result claiming adoption of a national "Samkhya Paradigm" in…
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ “A high-scoring Sāṃkhya (enumerative dualist school) answer should…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

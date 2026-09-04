@@ -1,0 +1,987 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-i-western-philosophy-05",
+  "subject": "Philosophy",
+  "title": "HEGEL",
+  "short_route": "REGISTER CONTROL → IMMANENT DIALECTIC → DETERMINATE NEGATION/SUBLATION → IDENTITY/CONCEPT/TRUE INFINITE → ABSOLUTE IDEALISM → KANT → PHENOMENOLOGICAL EXAMPLE → OBJECTIVE FREEDOM/HISTORY → CRITIQUE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g6 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-05\\g6\\topic-05_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-western-philosophy-05-ascii-2026-08-26.json",
+  "ascii_spec_sha256": "c34e154e04033b34d137d8fdbd85c70c805640a50a434aea9fbfa8595a5d8abb",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "KANTIAN DUALISMS AND HEGEL'S IMMANENT STARTING PROJECT",
+      "structural_type": "opposition-bridge-and-moment-rail",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "KANTIAN DUALISMS AND HEGEL'S IMMANENT STARTING PROJECT",
+          "role": "primary"
+        },
+        {
+          "text": "KANT SECURES OBJECTIVE EXPERIENCE BUT RETAINS FIXED RESIDUAL OPPOSITIONS.",
+          "role": "outcome"
+        },
+        {
+          "text": "KNOWABLE APPEARANCE; NOUMENON",
+          "role": "comparison"
+        },
+        {
+          "text": "UNKNOWABLE THING-IN-ITSELF.",
+          "role": "evidence"
+        },
+        {
+          "text": "SUBJECT SUPPLIES COGNITIVE FORM; OBJECT NAMES INDEPENDENTLY EXISTING REALITY.",
+          "role": "primary"
+        },
+        {
+          "text": "THOUGHT VERSUS BEING; FREEDOM VERSUS NATURE REMAIN EXTERNALLY DIVIDED.",
+          "role": "comparison"
+        },
+        {
+          "text": "HEGEL'S CHARGE",
+          "role": "comparison"
+        },
+        {
+          "text": "A LIMIT DETERMINATELY THOUGHT IS ALREADY WITHIN THOUGHT.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "START: Kant secures objective experience but retains fixed residual oppositions.",
+        "PHENOMENON = knowable appearance; NOUMENON = unknowable thing-in-itself.",
+        "SUBJECT supplies cognitive form; OBJECT names independently existing reality.",
+        "THOUGHT versus BEING; FREEDOM versus NATURE remain externally divided.",
+        "HEGEL'S CHARGE → a limit determinately thought is already within thought."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "START: Kant secures objective experience but retains fixed residual oppositions.",
+            "PHENOMENON = knowable appearance; NOUMENON = unknowable thing-in-itself.",
+            "SUBJECT supplies cognitive form; OBJECT names independently existing reality.",
+            "THOUGHT versus BEING; FREEDOM versus NATURE remain externally divided."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HEGEL'S CHARGE → a limit determinately thought is already within thought.",
+            "IMMANENT CRITIQUE → test a category or form of life by its own criterion.",
+            "FINITE CATEGORY → its claim to self-sufficiency discloses dependence on its other.",
+            "ABSTRACT/UNDERSTANDING → NEGATIVE/DIALECTICAL → SPECULATIVE/POSITIVE moment"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "IDENTITY-IN-DIFFERENCE → reconciliation preserves determinate distinctions.",
+            "ABSOLUTE → self-developing rational whole/subject, not a static supernatural thing.",
+            "ANSWER LINE → Hegel transforms Kantian limits into internally mediated relations."
+          ]
+        }
+      ],
+      "mechanism_strip": "Each opposition is taken on its own terms; when either pole claims self-sufficiency, its dependence on the other appears and forces a richer determination.",
+      "answer_line": "Hegel pressures Kant's fixed external limits through immanent mediation, but a thought limit does not by itself prove the complete Absolute system.",
+      "source_references": [
+        "SESSION 1"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DETERMINATE NEGATION, SUBLATION AND THE OPENING LOGICAL MOVEMENT",
+      "structural_type": "sublation-triad-and-negation-spiral",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DETERMINATE NEGATION, SUBLATION AND THE OPENING LOGICAL MOVEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "IMMANENT SELF-MOVEMENT THROUGH AN INTERNALLY GENERATED TENSION.",
+          "role": "outcome"
+        },
+        {
+          "text": "OPPOSED DETERMINATIONS WITHIN A CLAIM, NOT LICENCE FOR FORMAL",
+          "role": "caution"
+        },
+        {
+          "text": "DETERMINATE NEGATION",
+          "role": "evidence"
+        },
+        {
+          "text": "NEGATION OF THIS CONTENT YIELDS A SPECIFIC SUCCESSOR.",
+          "role": "primary"
+        },
+        {
+          "text": "CANCEL ONE-SIDEDNESS + PRESERVE TRUTH + ELEVATE RESULT.",
+          "role": "outcome"
+        },
+        {
+          "text": "NEGATION OF NEGATION",
+          "role": "comparison"
+        },
+        {
+          "text": "MEDIATED RECOVERY, NOT RETURN TO UNTOUCHED IMMEDIACY.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DIALECTIC → immanent self-movement through an internally generated tension.",
+        "CONTRADICTION → opposed determinations within a claim, not licence for formal chaos.",
+        "DETERMINATE NEGATION → negation of THIS content yields a SPECIFIC successor.",
+        "AUFHEBUNG / SUBLATION → CANCEL one-sidedness + PRESERVE truth + ELEVATE result.",
+        "NEGATION OF NEGATION → mediated recovery, not return to untouched immediacy."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "DIALECTIC → immanent self-movement through an internally generated tension.",
+            "CONTRADICTION → opposed determinations within a claim, not licence for formal chaos.",
+            "DETERMINATE NEGATION → negation of THIS content yields a SPECIFIC successor.",
+            "AUFHEBUNG / SUBLATION → CANCEL one-sidedness + PRESERVE truth + ELEVATE result."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NEGATION OF NEGATION → mediated recovery, not return to untouched immediacy.",
+            "PURE BEING → no determination; therefore indistinguishable from PURE NOTHING.",
+            "BEING <→ NOTHING → their truth is the passing-over named BECOMING.",
+            "BECOMING → first richer determination; Being and Nothing survive as moments."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "TRANSITION IS LOGICAL → no temporal sequence and no magic formula.",
+            "T-A-S → loose teaching shorthand, not Hegel's standard fixed algorithm.",
+            "TEST → every progression must be justified from the prior term's precise failure."
+          ]
+        }
+      ],
+      "mechanism_strip": "A finite determination discloses its own specific insufficiency; determinate negation constrains the successor and sublation cancels, preserves and raises.",
+      "answer_line": "Hegelian negation is productive only when the successor is generated by the precise defect of the earlier determination, and Aufhebung names the single act by which the earlier moment is cancelled, preserved and elevated.",
+      "source_references": [
+        "SESSION 2"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CONCRETE UNIVERSAL, FINITE REALITY AND NESTED SYSTEM ARCHITECTURE",
+      "structural_type": "whole-moment-system-architecture",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CONCRETE UNIVERSAL, FINITE REALITY AND NESTED SYSTEM ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "ABSTRACT UNIVERSAL",
+          "role": "outcome"
+        },
+        {
+          "text": "GAINS UNITY BY OMITTING DIFFERENCE; HEGEL CALLS IT ONE-SIDED.",
+          "role": "comparison"
+        },
+        {
+          "text": "CONCRETE UNIVERSAL",
+          "role": "evidence"
+        },
+        {
+          "text": "PARTICULARISES ITSELF AND CONTAINS ORGANISED DIFFERENCES.",
+          "role": "primary"
+        },
+        {
+          "text": "FINITE ENTITIES/CATEGORIES",
+          "role": "outcome"
+        },
+        {
+          "text": "REAL AS MOMENTS, PARTIAL WHEN TREATED IN ISOLATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "INTERNAL RELATIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ABSTRACT UNIVERSAL → gains unity by omitting difference; Hegel calls it one-sided.",
+        "CONCRETE UNIVERSAL → particularises itself and contains organised differences.",
+        "FINITE ENTITIES/CATEGORIES → real as moments, partial when treated in isolation.",
+        "INTERNAL RELATIONS → a moment's identity depends on mediated relations to others.",
+        "'THE TRUE IS THE WHOLE' → whole is RESULT of development, not ready-made totality."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "ABSTRACT UNIVERSAL → gains unity by omitting difference; Hegel calls it one-sided.",
+            "CONCRETE UNIVERSAL → particularises itself and contains organised differences.",
+            "FINITE ENTITIES/CATEGORIES → real as moments, partial when treated in isolation.",
+            "INTERNAL RELATIONS → a moment's identity depends on mediated relations to others."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "'THE TRUE IS THE WHOLE' → whole is RESULT of development, not ready-made totality.",
+            "LOGIC → Idea in-itself; Being → Essence → Concept.",
+            "NATURE → Idea in otherness; space, time, matter, life; not created later in time.",
+            "SPIRIT → Idea returned-to-itself through rational self-conscious life."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "SUBJECTIVE SPIRIT → mind; OBJECTIVE SPIRIT → right, morality, ethical life, history",
+            "ABSOLUTE SPIRIT → art → religion → philosophy as conceptual comprehension.",
+            "ANSWER LINE → the whole preserves finite difference while making it intelligible."
+          ]
+        }
+      ],
+      "mechanism_strip": "Finite moments gain determinate identity through relations; the whole develops from pure categories through externality to self-conscious institutional and cultural life.",
+      "answer_line": "Identity-in-difference and the Concept's universality-particularity-individuality make the whole concrete; true infinity includes finite self-limitation and return.",
+      "source_references": [
+        "SESSION 3"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "RECOGNITION AND THE LORDSHIP-BONDAGE DEPENDENCE REVERSAL",
+      "structural_type": "recognition-dependence-loop",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "RECOGNITION AND THE LORDSHIP-BONDAGE DEPENDENCE REVERSAL",
+          "role": "primary"
+        },
+        {
+          "text": "REQUIRES RECOGNITION FROM ANOTHER SELF-CONSCIOUSNESS.",
+          "role": "outcome"
+        },
+        {
+          "text": "EACH SEEKS CERTAINTY OF ITSELF THROUGH THE OTHER'S ACKNOWLEDGEMENT.",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE BECOMES LORD; THE OTHER BECOMES BONDMAN THROUGH FEAR",
+          "role": "evidence"
+        },
+        {
+          "text": "LORD'S FAILURE",
+          "role": "primary"
+        },
+        {
+          "text": "RECOGNITION FROM A DEVALUED UNFREE OTHER IS WORTHLESS.",
+          "role": "outcome"
+        },
+        {
+          "text": "LORD'S DEPENDENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "ENJOYMENT RELIES ON THE BONDSMAN'S LABOUR AND MEDIATION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SELF-CONSCIOUSNESS → requires recognition from another self-consciousness.",
+        "ENCOUNTER → each seeks certainty of itself through the other's acknowledgement.",
+        "STRUGGLE → one becomes LORD; the other becomes BONDMAN through fear of death.",
+        "LORD'S FAILURE → recognition from a devalued unfree other is worthless.",
+        "LORD'S DEPENDENCE → enjoyment relies on the bondsman's labour and mediation."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "SELF-CONSCIOUSNESS → requires recognition from another self-consciousness.",
+            "ENCOUNTER → each seeks certainty of itself through the other's acknowledgement.",
+            "STRUGGLE → one becomes LORD; the other becomes BONDMAN through fear of death.",
+            "LORD'S FAILURE → recognition from a devalued unfree other is worthless."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LORD'S DEPENDENCE → enjoyment relies on the bondsman's labour and mediation.",
+            "BONDMAN'S FEAR → disrupts attachment to immediate natural desire.",
+            "SERVICE → disciplines desire; LABOUR shapes an enduring independent object.",
+            "BILDUNG → the bondsman sees his own form in the worked world and forms himself."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "REVERSAL → apparent independence is dependent; servitude becomes formative.",
+            "LIMIT → unequal recognition is conceptually unstable, not historically brief.",
+            "ROLE → bounded illustration of dialectic; Hegel is not reducible to this episode."
+          ]
+        }
+      ],
+      "mechanism_strip": "The lord consumes through the bondsman's work and receives recognition from an unfree other; the bondsman disciplines desire, shapes the object and encounters his own form in the worked world.",
+      "answer_line": "Lordship and bondage destabilises one-sided recognition through dependence, fear and labour without yet completing reciprocal freedom.",
+      "source_references": [
+        "SESSION 4"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PHENOMENOLOGICAL LADDER FROM CONSCIOUSNESS TO REASON AND SPIRIT",
+      "structural_type": "phenomenology-failure-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PHENOMENOLOGICAL LADDER FROM CONSCIOUSNESS TO REASON AND SPIRIT",
+          "role": "primary"
+        },
+        {
+          "text": "A CRITERION OF KNOWING PLUS THE OBJECT IT CLAIMS",
+          "role": "outcome"
+        },
+        {
+          "text": "THE OBJECT FAILS THE SHAPE'S OWN CRITERION; BOTH STANDARD",
+          "role": "comparison"
+        },
+        {
+          "text": "TREATS THE OBJECT AS INDEPENDENT; IMMEDIACY PROVES UNSTABLE.",
+          "role": "evidence"
+        },
+        {
+          "text": "DISCOVERS THAT ANOTHER SELF AND RECOGNITION ARE NECESSARY.",
+          "role": "primary"
+        },
+        {
+          "text": "UNEQUAL RECOGNITION FAILS AND FREEDOM WITHDRAWS INTO THOUGHT.",
+          "role": "outcome"
+        },
+        {
+          "text": "ABSTRACT INNER FREEDOM; EMPTY BECAUSE INDIFFERENT TO DETERMINATE CONTENT.",
+          "role": "comparison"
+        },
+        {
+          "text": "DISSOLVES CONTENT BUT LIVES AS A DETERMINATE SELF",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GESTALT / SHAPE → a criterion of knowing plus the object it claims to know.",
+        "EXPERIENCE → the object fails the shape's own criterion; both standard and object shift.",
+        "CONSCIOUSNESS → treats the object as independent; immediacy proves unstable.",
+        "SELF-CONSCIOUSNESS → discovers that another self and recognition are necessary.",
+        "LORDSHIP-BONDAGE → unequal recognition fails and freedom withdraws into thought."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "GESTALT / SHAPE → a criterion of knowing plus the object it claims to know.",
+            "EXPERIENCE → the object fails the shape's own criterion; both standard and object shift.",
+            "CONSCIOUSNESS → treats the object as independent; immediacy proves unstable.",
+            "SELF-CONSCIOUSNESS → discovers that another self and recognition are necessary."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LORDSHIP-BONDAGE → unequal recognition fails and freedom withdraws into thought.",
+            "STOICISM → abstract inner freedom; empty because indifferent to determinate content.",
+            "SCEPTICISM → dissolves content but lives as a determinate self: performative conflict.",
+            "UNHAPPY CONSCIOUSNESS → knows the split between changeable self and beyond."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "DEVOTION → WORK → MEDIATOR → self-renunciation reverses into universality.",
+            "REASON → finds itself in reality; SPIRIT → shared historical and social life.",
+            "RULE → transitions are logical immanent failures, not a literal world chronology."
+          ]
+        }
+      ],
+      "mechanism_strip": "Phenomenological shapes fail by their own criteria; this itinerary differs from logical category-development and historical institutional change.",
+      "answer_line": "The Phenomenology is a ladder of immanent failures: each shape discovers that its own criterion cannot secure the object it claims, so consciousness preserves the lesson and advances toward reason and Spirit.",
+      "source_references": [
+        "SESSION 5"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ABSOLUTE IDEALISM, SUBSTANCE-AS-SUBJECT AND ACTUALITY",
+      "structural_type": "substance-subject-actuality-split",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ABSOLUTE IDEALISM, SUBSTANCE-AS-SUBJECT AND ACTUALITY",
+          "role": "primary"
+        },
+        {
+          "text": "ABSOLUTE IDEALISM",
+          "role": "outcome"
+        },
+        {
+          "text": "REALITY INTELLIGIBLE AS ONE INTERNALLY RELATED DEVELOPING WHOLE.",
+          "role": "comparison"
+        },
+        {
+          "text": "ABSOLUTE AS RESULT",
+          "role": "evidence"
+        },
+        {
+          "text": "WHOLE BECOMES WHAT IT IS THROUGH DIFFERENTIATION AND RETURN.",
+          "role": "primary"
+        },
+        {
+          "text": "SUBSTANCE ALSO AS SUBJECT",
+          "role": "outcome"
+        },
+        {
+          "text": "UNITY IS ACTIVE, SELF-DIFFERENTIATING AND SELF-KNOWING.",
+          "role": "comparison"
+        },
+        {
+          "text": "THOUGHT AND BEING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ABSOLUTE IDEALISM → reality intelligible as one internally related developing whole.",
+        "ABSOLUTE AS RESULT → whole becomes what it is through differentiation and return.",
+        "SUBSTANCE ALSO AS SUBJECT → unity is active, self-differentiating and self-knowing.",
+        "THOUGHT AND BEING → identity through mediation, not undifferentiated sameness.",
+        "NATURE + FINITE MINDS → real moments of the Absolute, not unreal illusions."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "ABSOLUTE IDEALISM → reality intelligible as one internally related developing whole.",
+            "ABSOLUTE AS RESULT → whole becomes what it is through differentiation and return.",
+            "SUBSTANCE ALSO AS SUBJECT → unity is active, self-differentiating and self-knowing.",
+            "THOUGHT AND BEING → identity through mediation, not undifferentiated sameness."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NATURE + FINITE MINDS → real moments of the Absolute, not unreal illusions.",
+            "PHENOMENAL WORLD → mediated manifestation: real as moment, not ultimate alone.",
+            "DASEIN / MERE EXISTENCE → a fact may fail its concept or norm.",
+            "WIRKLICHKEIT / ACTUALITY → existence that has realised its rational concept."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "'ACTUAL IS RATIONAL' → NOT 'whatever exists or every injustice is justified.'",
+            "INSTITUTIONAL TEST → does the form concretely realise freedom?",
+            "RESIDUAL → reconciliation can still slide into retrospective conservatism."
+          ]
+        }
+      ],
+      "mechanism_strip": "The Absolute differentiates itself in nature and finite spirit, relates those differences internally, and returns to conceptual self-comprehension without cancelling their reality.",
+      "answer_line": "Absolute Idealism claims immanent intelligibility and substance-as-subject; Spirit is not a cosmic person and actuality is not every existent fact.",
+      "source_references": [
+        "SESSION 6"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "KANT-HEGEL COMPARISON: NOUMENAL LIMIT AND IMMANENT REASON",
+      "structural_type": "kant-hegel-comparison-and-limit-test",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "KANT-HEGEL COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "NOUMENAL LIMIT AND IMMANENT REASON",
+          "role": "caution"
+        },
+        {
+          "text": "FORMS/CATEGORIES SECURE PHENOMENA; THING-IN-ITSELF LIMITS THEORETICAL KNOWLEDGE.",
+          "role": "comparison"
+        },
+        {
+          "text": "HEGEL PRONG 1",
+          "role": "evidence"
+        },
+        {
+          "text": "THE BOUNDARY OF THOUGHT IS ITSELF A THOUGHT AND",
+          "role": "primary"
+        },
+        {
+          "text": "HEGEL PRONG 2",
+          "role": "outcome"
+        },
+        {
+          "text": "'THING-IN-ITSELF' USES BEING, NEGATION AND DETERMINACY.",
+          "role": "comparison"
+        },
+        {
+          "text": "HEGEL PRONG 3",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "KANT → forms/categories secure phenomena; thing-in-itself limits theoretical knowledge.",
+        "HEGEL PRONG 1 → the boundary of thought is itself a thought and relates both",
+        "HEGEL PRONG 2 → 'thing-in-itself' uses being, negation and determinacy.",
+        "HEGEL PRONG 3 → noumenal affection applies relation/causality beyond experience.",
+        "RESULT → fixed subject/object dualism is unstable and must be internally mediated."
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "KANT → forms/categories secure phenomena; thing-in-itself limits theoretical knowledge.",
+          "RESULT → fixed subject/object dualism is unstable and must be internally mediated.",
+          "KANT → phenomenal objectivity; HEGEL → identity-in-difference of thought and being."
+        ],
+        [
+          "HEGEL PRONG 1 → the boundary of thought is itself a thought and relates both sides.",
+          "KANT'S REPLY → noumenon is a negative limiting concept, not positive knowledge.",
+          "VERDICT → Hegel pressures positive noumenal causation more than he proves totality."
+        ],
+        [
+          "HEGEL PRONG 2 → 'thing-in-itself' uses being, negation and determinacy.",
+          "HEGEL'S REJOINDER → externally imposed limits remain dogmatic unless self-generated.",
+          "ANSWER RULE → present both systems accurately before ruling."
+        ],
+        [
+          "HEGEL PRONG 3 → noumenal affection applies relation/causality beyond experience.",
+          "KANT → critical restraint; HEGEL → reason develops its own criteria and limits.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "KANT → forms/categories secure phenomena; thing-in-itself limits theoretical knowledge.",
+            "HEGEL PRONG 1 → the boundary of thought is itself a thought and relates both sides.",
+            "HEGEL PRONG 2 → 'thing-in-itself' uses being, negation and determinacy.",
+            "HEGEL PRONG 3 → noumenal affection applies relation/causality beyond experience."
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "RESULT → fixed subject/object dualism is unstable and must be internally mediated.",
+            "KANT'S REPLY → noumenon is a negative limiting concept, not positive knowledge.",
+            "HEGEL'S REJOINDER → externally imposed limits remain dogmatic unless self-generated.",
+            "KANT → critical restraint; HEGEL → reason develops its own criteria and limits."
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "KANT → phenomenal objectivity; HEGEL → identity-in-difference of thought and being.",
+            "VERDICT → Hegel pressures positive noumenal causation more than he proves totality.",
+            "ANSWER RULE → present both systems accurately before ruling."
+          ]
+        }
+      ],
+      "mechanism_strip": "Thinking a boundary relates both sides; naming a thing-in-itself applies being and negation; invoking affection applies causal relation beyond possible experience.",
+      "answer_line": "Hegel's Kant critique is strongest against reified two-world/affection readings; negative noumenon as a limiting concept remains Kant's reply.",
+      "source_references": [
+        "SESSION 7"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "LOGIC-NATURE SEAM: FREE RELEASE, CONTINGENCY AND OBJECTIONS",
+      "structural_type": "logic-nature-seam-objection-stack",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "LOGIC-NATURE SEAM",
+          "role": "primary"
+        },
+        {
+          "text": "FREE RELEASE, CONTINGENCY AND OBJECTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "ABSOLUTE IDEA UNDER CLAIMED NECESSITY.",
+          "role": "comparison"
+        },
+        {
+          "text": "HOW CAN PURE CATEGORIES BE FOLLOWED BY EXISTING CONTINGENT",
+          "role": "evidence"
+        },
+        {
+          "text": "'FREE RELEASE'",
+          "role": "primary"
+        },
+        {
+          "text": "ABSOLUTE IDEA RELATES TO ITSELF AS EXTERNALITY.",
+          "role": "outcome"
+        },
+        {
+          "text": "IDEA IN OTHERNESS; NOT LATER IN TIME, NOT CAUSED",
+          "role": "caution"
+        },
+        {
+          "text": "IMPOTENCE OF NATURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LOGIC → Being → Essence → Concept → Absolute Idea under claimed necessity.",
+        "QUESTION → how can pure categories be followed by existing contingent nature?",
+        "'FREE RELEASE' → Absolute Idea relates to itself as externality.",
+        "NATURE → Idea in otherness; NOT later in time, NOT caused by a thinking agent.",
+        "IMPOTENCE OF NATURE → externality cannot perfectly hold the Concept."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "LOGIC → Being → Essence → Concept → Absolute Idea under claimed necessity.",
+            "QUESTION → how can pure categories be followed by existing contingent nature?",
+            "'FREE RELEASE' → Absolute Idea relates to itself as externality.",
+            "NATURE → Idea in otherness; NOT later in time, NOT caused by a thinking agent."
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "IMPOTENCE OF NATURE → externality cannot perfectly hold the Concept.",
+            "CONSEQUENCE → contingency and imprecision; no deduction of every natural fact.",
+            "SCHELLING → logic gives what existence must be, not THAT anything exists.",
+            "TRENDELENBURG → movement is smuggled into static categories."
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "FEUERBACH → disguised creation theology; ANALYTIC → personification, no proof.",
+            "REPLY → conceptual instability is non-spatial and non-temporal self-undermining.",
+            "VERDICT → coherent within the system, but not strictly demonstrative to every critic."
+          ]
+        }
+      ],
+      "mechanism_strip": "Pure self-relating form is said to externalise as nature; nature's externality cannot perfectly hold the Concept, so contingent particulars are not deduced one by one.",
+      "answer_line": "The Logic-Nature transition is defensible only as a non-temporal claim that complete self-relation includes externality, not as the story of an Idea existing before nature and causing a world.",
+      "source_references": [
+        "SESSION 8"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "OBJECTIVE SPIRIT, INSTITUTIONAL FREEDOM AND HISTORICAL DEVELOPMENT",
+      "structural_type": "freedom-institution-history-rail",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OBJECTIVE SPIRIT, INSTITUTIONAL FREEDOM AND HISTORICAL DEVELOPMENT",
+          "role": "primary"
+        },
+        {
+          "text": "BEING AT HOME WITH ONESELF IN AN OTHER, NOT",
+          "role": "caution"
+        },
+        {
+          "text": "SUBJECTIVE WILL",
+          "role": "comparison"
+        },
+        {
+          "text": "CHOICE REMAINS ABSTRACT WITHOUT RECOGNITION AND STABLE NORMS.",
+          "role": "evidence"
+        },
+        {
+          "text": "ABSTRACT RIGHT",
+          "role": "primary"
+        },
+        {
+          "text": "PERSONS AND PROPERTY; MORALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "INTENTION AND CONSCIENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "ETHICAL LIFE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FREEDOM → being at home with oneself in an other, not arbitrary absence of limits.",
+        "SUBJECTIVE WILL → choice remains abstract without recognition and stable norms.",
+        "ABSTRACT RIGHT → persons and property; MORALITY → intention and conscience",
+        "ETHICAL LIFE → family, civil society and constitutional institutions.",
+        "OBJECTIVE SPIRIT → freedom becomes durable, public and mutually recognisable."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "FREEDOM → being at home with oneself in an other, not arbitrary absence of limits.",
+            "SUBJECTIVE WILL → choice remains abstract without recognition and stable norms.",
+            "ABSTRACT RIGHT → persons and property; MORALITY → intention and conscience",
+            "ETHICAL LIFE → family, civil society and constitutional institutions."
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OBJECTIVE SPIRIT → freedom becomes durable, public and mutually recognisable.",
+            "HISTORY → development of consciousness that freedom belongs in principle to all.",
+            "ONE FREE → SOME FREE → ALL FREE IN PRINCIPLE is Hegel's broad sequence.",
+            "INTERNAL CONTRADICTION → a society fails its own norm, such as freedom with slavery."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "CUNNING OF REASON → passions produce outcomes beyond agents' intentions.",
+            "CRITIQUE → Eurocentrism, retrospective necessity, conservatism and material exclusion.",
+            "DEFENSIBLE RESIDUE → institutions can be criticised by their own norm of freedom."
+          ]
+        }
+      ],
+      "mechanism_strip": "Individual will enters relations of right and morality, finds fuller mediation in ethical institutions, and historically becomes conscious that freedom belongs in principle to all.",
+      "answer_line": "Objective freedom is mediated through right, morality and ethical life; Hegel's one-some-all history remains Eurocentric retrospective teleology.",
+      "source_references": [
+        "SESSION 9"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "synthesis",
+      "title": "COMPARISON, CRITICISM-REPLY MAP AND COMPLETE ANSWER SPINE",
+      "structural_type": "criticism-reply-answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "COMPARISON, CRITICISM-REPLY MAP AND COMPLETE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "SUBJECTIVE IDEALISM",
+          "role": "outcome"
+        },
+        {
+          "text": "FINITE MIND/IDEAS; OBJECTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "MIND-INDEPENDENT IDEAL ORDER.",
+          "role": "evidence"
+        },
+        {
+          "text": "ABSOLUTE IDEALISM",
+          "role": "primary"
+        },
+        {
+          "text": "FINITE SUBJECT AND OBJECT ARE MOMENTS OF ONE DEVELOPING",
+          "role": "outcome"
+        },
+        {
+          "text": "SYSTEM LOSES EXISTING INDIVIDUAL; REPLY",
+          "role": "comparison"
+        },
+        {
+          "text": "FINITE IS PRESERVED AS MOMENT.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SUBJECTIVE IDEALISM → finite mind/ideas; OBJECTIVE → mind-independent ideal order.",
+        "ABSOLUTE IDEALISM → finite subject and object are moments of one developing whole.",
+        "KIERKEGAARD → system loses existing individual; reply: finite is preserved as moment.",
+        "MARX → idealist inversion/material relations; bounded link keeps dialectical change.",
+        "SCHOPENHAUER/ANALYTIC → obscurity, contradiction and unproved transitions."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "SUBJECTIVE IDEALISM → finite mind/ideas; OBJECTIVE → mind-independent ideal order.",
+            "ABSOLUTE IDEALISM → finite subject and object are moments of one developing whole.",
+            "KIERKEGAARD → system loses existing individual; reply: finite is preserved as moment.",
+            "MARX → idealist inversion/material relations; bounded link keeps dialectical change."
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "SCHOPENHAUER/ANALYTIC → obscurity, contradiction and unproved transitions.",
+            "REPLY → determinate negation demands a specific successor, not arbitrary synthesis.",
+            "POLITICAL OBJECTION → actuality excuses power; reply: Wirklichkeit != mere existence.",
+            "STRENGTH → immanent critique, mediation, recognition and internal relations."
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "TENSION → retrospective coherence may fall short of demonstrative necessity.",
+            "PYQS → 2019 truth; 2020 phenomenal world; 2021/22 method-Absolute; 2023 history",
+            "PYQ → 2025 Kant challenge; practice → 36 MCQs + solved 10/15/20-mark originals.",
+            "ANSWER SPINE → thesis → terms → transition → example → objection/reply → verdict."
+          ]
+        }
+      ],
+      "mechanism_strip": "Each critic targets a different joint: the individual's irreducibility, material conditions, logical obscurity, necessity of transition, or political reconciliation.",
+      "answer_line": "Distinguish Hegel from Berkeley, later Marxism and British neo-Hegelianism; keep politics, art, religion and later analysis bounded.",
+      "source_references": [
+        "SESSION 10"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 1 — THE DIALECTICAL METHOD - IMMANENT",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED SESSION 2 — AUFHEBUNG AND THE FIRST TRIAD",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED SESSION 3 — THE CONCRETE UNIVERSAL AND THE",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED SESSION 4 — THE MASTER-SLAVE DIALECTIC - RECOGNITION",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 5 — STOICISM, SCEPTICISM AND THE UNHAPPY",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED SESSION 6 — ABSOLUTE IDEALISM - THE REAL",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED SESSION 7 — THE CHALLENGE TO KANT'S PHENOMENA/NOUMENA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "ADVANCED SESSION 1 — The Dialectical Method - Immanent Conceptual Development",
+            "ADVANCED SESSION 2 — Aufhebung and the First Triad - Being, Nothing, Becoming",
+            "ADVANCED SESSION 3 — The Concrete Universal and the Three Domains - Logic, Nature, Spirit",
+            "ADVANCED SESSION 4 — The Master-Slave Dialectic - Recognition, Labour and Reversal"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "ADVANCED SESSION 5 — Stoicism, Scepticism and the Unhappy Consciousness",
+            "ADVANCED SESSION 6 — Absolute Idealism - The Real is the Rational; Subject not Substance",
+            "ADVANCED SESSION 7 — The Challenge to Kant's Phenomena/Noumena Distinction",
+            "ADVANCED SESSION 8 — The Logic-to-Nature Transition - 'Freely Releases Itself'"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "ADVANCED SESSION 9 — Dialectic in History - Progress in the Consciousness of Freedom",
+            "ADVANCED SESSION 10 — Absolute vs Subjective Idealism (Berkeley) and the Inter-Thinker Bridges",
+            "ADVANCED DOSSIER REFINEMENTS — USE SELECTIVELY",
+            "\"Motion is smuggled in\" (Trendelenburg)."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

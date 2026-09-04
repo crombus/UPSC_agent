@@ -1,0 +1,1704 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-33\\g2\\modern-indian-history-33_Complete-Learning-Session_2026-09-01.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-33\\g2\\modern-indian-history-33_Complete-Learning-Session_2026-09-01.pdf",
+  "mode": "main",
+  "topic_key": "modern-indian-history-33",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 16,
+      "markdown_body_line_end": 23,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 408.891
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 111.49
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 45,
+      "markdown_body_line_end": 45,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-33\\g2\\assets\\modern-indian-history-33_Teaching-Navigation_2026-08-31.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 505.891
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 198.356
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 59,
+      "markdown_body_line_end": 59,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Congress's 1947 dominant position is its unmatched all-India organisational reach and freedom-movement legacy at independence, the starting condition against which every later split, ban, merger and new party in this top",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 81,
+      "heading": "VISUAL FIRST",
+      "preview": "CONGRESS'S DOMINANT POSITION AT INDEPENDENCE, 1947",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 370.424
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 299.424
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 116,
+      "markdown_body_line_end": 133,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CONGRESS'S DOMINANT POSITION AT INDEPENDENCE, 1947",
+      "preview": "START / CONCEPT: FOUNDATION — Congress's dominant position at Independence, 1947",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 300
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 521.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 270.691
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 144,
+      "markdown_body_line_end": 144,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The 1948 dual-membership ban is the Congress constitutional amendment that forced Congress Socialist Party members to choose between Congress and an independent party, producing the Socialist exit of 1948.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 116.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 801.024
+        }
+      },
+      "pdf_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 159,
+      "markdown_body_line_end": 165,
+      "heading": "VISUAL FIRST",
+      "preview": "THE 1948 BAN ON DUAL PARTY MEMBERSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 606.224
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 545.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 200,
+      "markdown_body_line_end": 217,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE 1948 BAN ON DUAL PARTY MEMBERSHIP",
+      "preview": "START / CONCEPT: FOUNDATION — The 1948 ban on dual party membership",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 254
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 228,
+      "markdown_body_line_end": 228,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Core claim: This session traces Congress's own internal leadership contest to show that factional competition operated inside the party even at its highest level.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 392.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 325.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 243,
+      "markdown_body_line_end": 249,
+      "heading": "VISUAL FIRST",
+      "preview": "THE TANDON-NEHRU CONTEST, 1950-51",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 284,
+      "markdown_body_line_end": 301,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE TANDON-NEHRU CONTEST, 1950-51",
+      "preview": "START / CONCEPT: FOUNDATION — The Tandon-Nehru contest, 1950-51",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 232
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 270.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 39.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 312,
+      "markdown_body_line_end": 312,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The Bharatiya Jana Sangh is the party founded in 1951 by Syama Prasad Mookerjee on a Hindu-nationalist cultural-political platform, organisationally linked to the RSS network.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 327,
+      "markdown_body_line_end": 333,
+      "heading": "VISUAL FIRST",
+      "preview": "THE BHARATIYA JANA SANGH, 1951",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 371.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 368,
+      "markdown_body_line_end": 385,
+      "heading": "CLOSING RECALL FLOW - CORE - THE BHARATIYA JANA SANGH, 1951",
+      "preview": "START / CONCEPT: CORE — The Bharatiya Jana Sangh, 1951",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 224
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 696.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 475.491
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 396,
+      "markdown_body_line_end": 396,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The Praja Socialist Party (PSP) is the party formed in 1952 from the merger of J.B.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 335.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 283.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 411,
+      "markdown_body_line_end": 417,
+      "heading": "VISUAL FIRST",
+      "preview": "KMPP INTO THE PRAJA SOCIALIST PARTY, 1951-52",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 452,
+      "markdown_body_line_end": 469,
+      "heading": "CLOSING RECALL FLOW - CORE - KMPP INTO THE PRAJA SOCIALIST PARTY, 1951-52",
+      "preview": "START / CONCEPT: CORE — KMPP into the Praja Socialist Party, 1951-52",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 163
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 256.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 480,
+      "markdown_body_line_end": 480,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The Swatantra Party is the free-market, anti-collectivisation party founded in 1959 by C.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 495,
+      "markdown_body_line_end": 501,
+      "heading": "VISUAL FIRST",
+      "preview": "THE SWATANTRA PARTY, 1959",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 385.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 536,
+      "markdown_body_line_end": 553,
+      "heading": "CLOSING RECALL FLOW - CORE - THE SWATANTRA PARTY, 1959",
+      "preview": "START / CONCEPT: CORE — The Swatantra Party, 1959",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 228
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 668.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 437.091
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 564,
+      "markdown_body_line_end": 564,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The 1964 CPI split is the division of the Communist Party of India into the CPI and CPI(M), driven by the Sino-Soviet split and differing responses to the 1962 war.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 297.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 230.624
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 579,
+      "markdown_body_line_end": 585,
+      "heading": "VISUAL FIRST",
+      "preview": "THE 1964 SPLIT IN THE COMMUNIST PARTY OF INDIA",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 620,
+      "markdown_body_line_end": 637,
+      "heading": "CLOSING RECALL FLOW - CORE - THE 1964 SPLIT IN THE COMMUNIST PARTY OF INDIA",
+      "preview": "START / CONCEPT: CORE — The 1964 split in the Communist Party of India",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 213
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 312.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 71.891
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 648,
+      "markdown_body_line_end": 648,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The 'Congress system' is Rajni Kothari's analytical term for a Congress functioning as a party of consensus that absorbed internal factions while opposition parties acted mainly as parties of pressure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 663,
+      "markdown_body_line_end": 669,
+      "heading": "VISUAL FIRST",
+      "preview": "RAJNI KOTHARI'S 'CONGRESS SYSTEM'",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 417.824
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 356.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 704,
+      "markdown_body_line_end": 721,
+      "heading": "CLOSING RECALL FLOW - CORE - RAJNI KOTHARI'S 'CONGRESS SYSTEM'",
+      "preview": "START / CONCEPT: CORE — Rajni Kothari's 'Congress system'",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 250
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 620.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 379.691
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 732,
+      "markdown_body_line_end": 732,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The seat-vote gap describes how Congress won comfortable parliamentary seat majorities in 1952, 1957 and 1962 while its national vote share stayed well under 50 per cent.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 239.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 173.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 747,
+      "markdown_body_line_end": 753,
+      "heading": "VISUAL FIRST",
+      "preview": "SEAT MAJORITIES ON A MINORITY VOTE SHARE",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 672.691
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 788,
+      "markdown_body_line_end": 805,
+      "heading": "CLOSING RECALL FLOW - CORE - SEAT MAJORITIES ON A MINORITY VOTE SHARE",
+      "preview": "START / CONCEPT: CORE — Seat majorities on a minority vote share",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 219
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 816,
+      "markdown_body_line_end": 816,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: RSP and Forward Bloc are smaller Left party formations, strongest in Bengal and Kerala, whose existence alongside the CPI and CPI(M) shows the plurality of India's organised Left before 1967.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 335.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 831,
+      "markdown_body_line_end": 837,
+      "heading": "VISUAL FIRST",
+      "preview": "SMALLER LEFT FORMATIONS AND THE PLURAL LEFT",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 872,
+      "markdown_body_line_end": 889,
+      "heading": "CLOSING RECALL FLOW - CORE - SMALLER LEFT FORMATIONS AND THE PLURAL LEFT",
+      "preview": "START / CONCEPT: CORE — Smaller left formations and the plural Left",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 240
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 270.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 39.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 900,
+      "markdown_body_line_end": 900,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Congress as an umbrella organisation describes a party broad enough to hold Nehruvian planners, conservative traditionalists and regional bosses together, so that factional competition occurred mainly inside the party.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 915,
+      "markdown_body_line_end": 921,
+      "heading": "VISUAL FIRST",
+      "preview": "CONGRESS AS AN UMBRELLA ORGANISATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 323.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 956,
+      "markdown_body_line_end": 973,
+      "heading": "CLOSING RECALL FLOW - CORE - CONGRESS AS AN UMBRELLA ORGANISATION",
+      "preview": "START / CONCEPT: CORE — Congress as an umbrella organisation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 267
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 620.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 389.691
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 984,
+      "markdown_body_line_end": 984,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The 'Syndicate' is the later label for the powerful state-level Congress leaders who became organisationally decisive by the mid-1960s and shaped the 1966 succession.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 249.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 183.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 999,
+      "markdown_body_line_end": 1005,
+      "heading": "VISUAL FIRST",
+      "preview": "THE RISE OF STATE-LEVEL 'SYNDICATE' BOSSES",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 672.691
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1040,
+      "markdown_body_line_end": 1057,
+      "heading": "CLOSING RECALL FLOW - CORE - THE RISE OF STATE-LEVEL 'SYNDICATE' BOSSES",
+      "preview": "START / CONCEPT: CORE — The rise of state-level 'Syndicate' bosses",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 215
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1068,
+      "markdown_body_line_end": 1068,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: 'Non-Congressism' is Ram Manohar Lohia's doctrine calling for ideologically diverse opposition parties to unite electorally against Congress, a logic with little effect before 1967 but later used to build the 1977 Janata",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 321.424
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1083,
+      "markdown_body_line_end": 1089,
+      "heading": "VISUAL FIRST",
+      "preview": "RAM MANOHAR LOHIA AND 'NON-CONGRESSISM'",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1124,
+      "markdown_body_line_end": 1141,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - RAM MANOHAR LOHIA AND 'NON-CONGRESSISM'",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Ram Manohar Lohia and 'non-Congressism'",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 280
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1152,
+      "markdown_body_line_end": 1152,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The ideological range of the non-Congress opposition refers to the genuine but fragmented spread of Jana Sangh, Swatantra, Socialist and Communist parties active between 1947 and 1967.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 335.624
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1167,
+      "markdown_body_line_end": 1173,
+      "heading": "VISUAL FIRST",
+      "preview": "THE IDEOLOGICAL RANGE OF THE NON-CONGRESS OPPOSITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1208,
+      "markdown_body_line_end": 1225,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - THE IDEOLOGICAL RANGE OF THE NON-CONGRESS OPPOSITION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — The ideological range of the non-Congress opposition",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 233
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1236,
+      "markdown_body_line_end": 1236,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The 1967 watershed is the general election in which Congress lost power in eight states for the first time, the cumulative outcome of the party-system fragmentation and declining vote share traced across this topic.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 389.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 308.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1251,
+      "markdown_body_line_end": 1257,
+      "heading": "VISUAL FIRST",
+      "preview": "1967: THE WATERSHED FORESHADOWED",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1292,
+      "markdown_body_line_end": 1309,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - 1967: THE WATERSHED FORESHADOWED",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — 1967: the watershed foreshadowed",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 264
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2122,
+      "markdown_body_line_end": 2124,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 529.491
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 434.424
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2130,
+      "markdown_body_line_end": 2132,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 382.824
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 296.422
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2138,
+      "markdown_body_line_end": 2138,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 257.222
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 212.554
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2308,
+      "markdown_body_line_end": 2315,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 460.691
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 308.89
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2335,
+      "markdown_body_line_end": 2342,
+      "heading": "2. Key classification / data",
+      "preview": "Dimension | Advanced takeaway",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "Advanced takeaway"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 721.491
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 524.89
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2346,
+      "markdown_body_line_end": 2349,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ The leader at the system's centre → `advanced/32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md`. **Study link:** ✅ The system's collapse and the 1969 split → `advanced/34_From-Shastri-to-Indira-1964-73.md`. **Study link:",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 524.89
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 401.422
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2362,
+      "markdown_body_line_end": 2362,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: The opposition's weakness was **structural** (fragmentation + shared Congress idiom), not merely a failure of leadership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 247.822
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 181.154
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2387,
+      "markdown_body_line_end": 2396,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: The 1948 ban on dual party membership",
+      "preview": "CONGRESS CONSTITUTION -> amended 1948: BARS DUAL PARTY MEMBERSHIP",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 573.891
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 481.291
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2400,
+      "markdown_body_line_end": 2406,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: The Tandon-Nehru contest, 1950-51",
+      "preview": "1950 -> CONGRESS PRESIDENTIAL CONTEST: Tandon defeats the Nehru-backed candidate",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 459.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 397.291
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2410,
+      "markdown_body_line_end": 2416,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Jana Sangh, 1951, is not Swatantra, 1959",
+      "preview": "BHARATIYA JANA SANGH -> founded 1951, founder SYAMA PRASAD MOOKERJEE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 375.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 313.291
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2420,
+      "markdown_body_line_end": 2425,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: KMPP, 1951, into the Praja Socialist Party, 1952",
+      "preview": "1951 -> KISAN MAZDOOR PRAJA PARTY (KMPP) founded, led by J.B. KRIPALANI",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2429,
+      "markdown_body_line_end": 2435,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: The 1964 split in the Communist Party of India",
+      "preview": "EARLY 1960s -> ideological strain: the Sino-Soviet split",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 651.491
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2439,
+      "markdown_body_line_end": 2445,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Rajni Kothari's 'Congress system'",
+      "preview": "RAJNI KOTHARI -> political scientist, coins the term \"CONGRESS SYSTEM\"",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 629.491
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 567.491
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2449,
+      "markdown_body_line_end": 2458,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Seat majorities on a minority vote share",
+      "preview": "+-------+------------------------+---------------------------+",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 545.491
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 452.891
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2462,
+      "markdown_body_line_end": 2468,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: The plural, fragmented Indian Left",
+      "preview": "CPI -> pro-Soviet stream after the 1964 split",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 430.891
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 368.891
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2472,
+      "markdown_body_line_end": 2478,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Congress as an umbrella, not a narrow party",
+      "preview": "CONGRESS ORGANISATION -> a broad UMBRELLA",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 346.891
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 284.891
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2482,
+      "markdown_body_line_end": 2492,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Lohia's 'non-Congressism': a doctrine ahead of its time",
+      "preview": "RAM MANOHAR LOHIA -> leading Socialist figure, critic of Congress dominance",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 684.491
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2496,
+      "markdown_body_line_end": 2509,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: The opposition's ideological range, 1947-67",
+      "preview": "+------------------+---------------------------------------------+",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 662.491
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 529.091
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2513,
+      "markdown_body_line_end": 2519,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: 1967: the watershed this whole topic foreshadows",
+      "preview": "1948-1964 -> ban, splits, mergers, new parties reshape the opposition",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 507.091
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 445.091
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    }
+  ]
+}

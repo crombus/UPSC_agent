@@ -1,0 +1,707 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-i-indian-philosophy-02",
+  "subject": "Philosophy",
+  "title": "JAINISM",
+  "short_route": "PLURAL REALIST ONTOLOGY → JĪVA AND AJĪVA MECHANICS → BONDAGE AS MATERIAL PROCESS → MANY-SIDED KNOWLEDGE → SAPTABHAṄGĪ SEVENFOLD BRANCH → ETHICAL-SOTERIOLOGICAL ROUTE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g10 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-02\\g10\\topic-02_Complete-Learning-Session_2026-08-23.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy-2026-08-23.json",
+  "ascii_spec_sha256": "156ee4a96a5be6cf6c202bb46cb86894662f6531566d13872007e86217a96c32",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "PLURAL REALIST ONTOLOGY",
+      "structural_type": "ontological branching map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PLURAL REALIST ONTOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "JAIN REALITY (SAT)",
+          "role": "outcome"
+        },
+        {
+          "text": "JĪVA AJĪVA CONSCIOUS SUBSTANCES NON-CONSCIOUS SUBSTANCES INNUMERABLE SOULS PUDGALA",
+          "role": "comparison"
+        },
+        {
+          "text": "KĀLA EACH DRAVYA HAS ENDURING SUBSTANCE + CHANGING GUṆA/PARYĀYA",
+          "role": "evidence"
+        },
+        {
+          "text": "UTPĀDA + VYAYA + DHRAUVYA",
+          "role": "primary"
+        },
+        {
+          "text": "ORIGINATION + CESSATION + PERSISTENCE.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "JAIN REALITY (SAT) = permanence-through-change",
+        "JĪVA AJĪVA conscious substances non-conscious substances innumerable souls pudgala",
+        "kāla each dravya has enduring substance + changing guṇa/paryāya",
+        "UTPĀDA + VYAYA + DHRAUVYA = origination + cessation + persistence."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "JAIN REALITY (SAT) = permanence-through-change",
+            "JĪVA AJĪVA conscious substances non-conscious substances innumerable souls pudgala"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "kāla each dravya has enduring substance + changing guṇa/paryāya",
+            "UTPĀDA + VYAYA + DHRAUVYA = origination + cessation + persistence."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "JAIN REALITY (SAT) = permanence-through-change",
+            "JĪVA AJĪVA conscious substances non-conscious substances innumerable souls pudgala"
+          ]
+        }
+      ],
+      "mechanism_strip": "Recommended opening definition: Jainism (Jina-centred path of many-sided reality and liberation) is a pluralist realism in which anekāntavāda (doctrine of many-sided reality) holds that enduring dravya (substance) possesses guṇa (qualities) and changing paryāya (modes).",
+      "answer_line": "Recommended opening definition: Jainism (Jina-centred path of many-sided reality and liberation) is a pluralist realism in which anekāntavāda (doctrine of many-sided reality) holds that enduring dravya (substance) possesses guṇa (qualities) and changing paryāya (modes).",
+      "source_references": [
+        "A. System identity",
+        "B. Reality"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "JĪVA AND AJĪVA MECHANICS",
+      "structural_type": "substance taxonomy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "JĪVA AND AJĪVA MECHANICS",
+          "role": "primary"
+        },
+        {
+          "text": "CONSCIOUSNESS (UPAYOGA) IS ESSENTIAL; KNOWLEDGE IS NATURALLY UNBOUNDED EMBODIED",
+          "role": "outcome"
+        },
+        {
+          "text": "SOUL EXPANDS/CONTRACTS TO BODY",
+          "role": "comparison"
+        },
+        {
+          "text": "AGENCY + EXPERIENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "AJĪVA FIVEFOLD PUDGALA",
+          "role": "primary"
+        },
+        {
+          "text": "MATTER, INCLUDING KARMIC MATTER",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCOMMODATION DHARMA",
+          "role": "comparison"
+        },
+        {
+          "text": "MEDIUM OF MOTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "JĪVA: consciousness (upayoga) is essential; knowledge is naturally unbounded embodied state → soul expands/contracts to",
+        "AJĪVA FIVEFOLD pudgala = matter, including karmic matter",
+        "ākāśa = accommodation dharma = medium of motion",
+        "adharma = medium of rest kāla = condition of change",
+        "TRAP: dharma/adharma here are cosmic media, not moral merit/demerit."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "JĪVA: consciousness (upayoga) is essential; knowledge is naturally unbounded embodied state → soul expands/contracts to body → agency + experience",
+            "AJĪVA FIVEFOLD pudgala = matter, including karmic matter"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ākāśa = accommodation dharma = medium of motion",
+            "adharma = medium of rest kāla = condition of change"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "TRAP: dharma/adharma here are cosmic media, not moral merit/demerit.",
+            "JĪVA: consciousness (upayoga) is essential; knowledge is naturally unbounded embodied state → soul expands/contracts to body → agency + experience"
+          ]
+        }
+      ],
+      "mechanism_strip": "dharma/adharma here are cosmic media, not moral merit/demerit.",
+      "answer_line": "dharma/adharma here are cosmic media, not moral merit/demerit.",
+      "source_references": [
+        "C. Substance and soul"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "BONDAGE AS MATERIAL PROCESS",
+      "structural_type": "causal bondage chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BONDAGE AS MATERIAL PROCESS",
+          "role": "evidence"
+        },
+        {
+          "text": "PASSIONATE ACTIVITY (YOGA + KAṢĀYA)",
+          "role": "outcome"
+        },
+        {
+          "text": "INFLUX OF SUBTLE KARMIC PUDGALA INTO JĪVA",
+          "role": "comparison"
+        },
+        {
+          "text": "KARMIC MATTER BINDS AND OBSCURES KNOWLEDGE, FAITH, ENERGY, BLISS",
+          "role": "evidence"
+        },
+        {
+          "text": "KEVALA-JÑĀNA; LIBERATED SIDDHA RISES BEYOND SAṂSĀRA.",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PASSIONATE ACTIVITY (yoga + kaṣāya)",
+        "ĀSRAVA: influx of subtle karmic pudgala into jīva",
+        "BANDHA: karmic matter binds and obscures knowledge, faith, energy, bliss saṃvara blocks new influx +",
+        "MOKṢA: kevala-jñāna; liberated siddha rises beyond saṃsāra."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "PASSIONATE ACTIVITY (yoga + kaṣāya)",
+            "ĀSRAVA: influx of subtle karmic pudgala into jīva"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BANDHA: karmic matter binds and obscures knowledge, faith, energy, bliss saṃvara blocks new influx + nirjarā sheds old karma",
+            "MOKṢA: kevala-jñāna; liberated siddha rises beyond saṃsāra."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "PASSIONATE ACTIVITY (yoga + kaṣāya)",
+            "ĀSRAVA: influx of subtle karmic pudgala into jīva"
+          ]
+        }
+      ],
+      "mechanism_strip": "Jaina bondage begins when āsrava (influx) brings karmic matter into the soul and bandha (bondage) binds it; saṃvara (stoppage) and nirjarā (shedding) culminate in mokṣa (liberation).",
+      "answer_line": "Jaina bondage begins when āsrava (influx) brings karmic matter into the soul and bandha (bondage) binds it; saṃvara (stoppage) and nirjarā (shedding) culminate in mokṣa (liberation).",
+      "source_references": [
+        "H. Karma and bondage"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "MANY-SIDED KNOWLEDGE",
+      "structural_type": "perspectival hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MANY-SIDED KNOWLEDGE",
+          "role": "primary"
+        },
+        {
+          "text": "REALITY HAS INNUMERABLE ASPECTS",
+          "role": "outcome"
+        },
+        {
+          "text": "ANEKĀNTAVĀDA NAYAVĀDA METAPHYSICAL MANY-SIDEDNESS PARTIAL STANDPOINTS OF JUDGEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "CONDITIONAL PREDICATION — “IN A CERTAIN RESPECT” PARTIAL STATEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "NOT SCEPTICISM; OMNISCIENCE KNOWS FULLY, FINITE KNOWERS KNOW PERSPECTIVALLY.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "REALITY HAS INNUMERABLE ASPECTS",
+        "ANEKĀNTAVĀDA NAYAVĀDA metaphysical many-sidedness partial standpoints of judgement",
+        "SYĀDVĀDA: conditional predication — “in a certain respect” partial statement can be valid without being",
+        "TRAP: not scepticism; omniscience knows fully, finite knowers know perspectivally."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "REALITY HAS INNUMERABLE ASPECTS",
+            "ANEKĀNTAVĀDA NAYAVĀDA metaphysical many-sidedness partial standpoints of judgement"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SYĀDVĀDA: conditional predication — “in a certain respect” partial statement can be valid without being absolutely exhaustive",
+            "TRAP: not scepticism; omniscience knows fully, finite knowers know perspectivally."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "REALITY HAS INNUMERABLE ASPECTS",
+            "ANEKĀNTAVĀDA NAYAVĀDA metaphysical many-sidedness partial standpoints of judgement"
+          ]
+        }
+      ],
+      "mechanism_strip": "not scepticism; omniscience knows fully, finite knowers know perspectivally.",
+      "answer_line": "not scepticism; omniscience knows fully, finite knowers know perspectivally.",
+      "source_references": [
+        "D. Knowledge",
+        "E. Many-sided judgement"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SAPTABHAṄGĪ SEVENFOLD BRANCH",
+      "structural_type": "seven-branch predication tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SAPTABHAṄGĪ SEVENFOLD BRANCH",
+          "role": "primary"
+        },
+        {
+          "text": "ABOUT OBJECT X, UNDER SPECIFIED STANDPOINT",
+          "role": "outcome"
+        },
+        {
+          "text": "1 SYĀD-ASTI",
+          "role": "comparison"
+        },
+        {
+          "text": "IN SOME RESPECT, X IS",
+          "role": "evidence"
+        },
+        {
+          "text": "2 SYĀN-NĀSTI",
+          "role": "primary"
+        },
+        {
+          "text": "IN SOME RESPECT, X IS NOT",
+          "role": "caution"
+        },
+        {
+          "text": "3 SYĀD-ASTI-NĀSTI",
+          "role": "comparison"
+        },
+        {
+          "text": "SUCCESSIVELY, X IS AND IS NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ABOUT OBJECT X, UNDER SPECIFIED STANDPOINT / TIME / MODE",
+        "1 syād-asti → in some respect, X is",
+        "2 syān-nāsti → in some respect, X is not",
+        "3 syād-asti-nāsti → successively, X is and is not",
+        "4 syād-avaktavyaḥ → X is inexpressible under simultaneous demand"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "ABOUT OBJECT X, UNDER SPECIFIED STANDPOINT / TIME / MODE",
+            "1 syād-asti → in some respect, X is",
+            "2 syān-nāsti → in some respect, X is not"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "3 syād-asti-nāsti → successively, X is and is not",
+            "4 syād-avaktavyaḥ → X is inexpressible under simultaneous demand",
+            "5 syād-asti-avaktavyaḥ → X is and is inexpressible"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "6 syān-nāsti-avaktavyaḥ → X is not and is inexpressible",
+            "7 syād-asti-nāsti-avaktavyaḥ → X is, is not, and is inexpressible",
+            "CONTRADICTION IS AVOIDED BY DIFFERENT RESPECTS, NOT BY ASSERTING P AND NOT-P SIMPLY."
+          ]
+        }
+      ],
+      "mechanism_strip": "Saptabhaṅgī (sevenfold predication) expresses syādvāda (doctrine of conditional assertion) by qualifying every judgement through a standpoint, thereby avoiding both dogmatic absolutism and sceptical silence.",
+      "answer_line": "Saptabhaṅgī (sevenfold predication) expresses syādvāda (doctrine of conditional assertion) by qualifying every judgement through a standpoint, thereby avoiding both dogmatic absolutism and sceptical silence.",
+      "source_references": [
+        "F. Sevenfold predication"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ETHICAL-SOTERIOLOGICAL ROUTE",
+      "structural_type": "three-jewel liberation ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ETHICAL-SOTERIOLOGICAL ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "SAMYAK-CĀRITRA RIGHT FAITH RIGHT KNOWLEDGE RIGHT CONDUCT FIVE VOWS",
+          "role": "outcome"
+        },
+        {
+          "text": "AHIṂSĀ, SATYA, ASTEYA, BRAHMACARYA, APARIGRAHA HOUSEHOLDER AṆUVRATA",
+          "role": "comparison"
+        },
+        {
+          "text": "ASCETIC MAHĀVRATA",
+          "role": "evidence"
+        },
+        {
+          "text": "GUṆASTHĀNA PURIFICATION AHIṂSĀ DISCIPLINES BODY, SPEECH AND THOUGHT BECAUSE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SAMYAG-DARŚANA → SAMYAG-JÑĀNA → SAMYAK-CĀRITRA right faith right knowledge right conduct five vows: ahiṃsā, satya",
+        "householder aṇuvrata → ascetic mahāvrata → guṇasthāna purification ahiṃsā disciplines body, speech and thought because",
+        "be harmed."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "SAMYAG-DARŚANA → SAMYAG-JÑĀNA → SAMYAK-CĀRITRA right faith right knowledge right conduct five vows: ahiṃsā, satya, asteya, brahmacarya, aparigraha",
+            "householder aṇuvrata → ascetic mahāvrata → guṇasthāna purification ahiṃsā disciplines body, speech and thought because every jīva can"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "be harmed.",
+            "SAMYAG-DARŚANA → SAMYAG-JÑĀNA → SAMYAK-CĀRITRA right faith right knowledge right conduct five vows: ahiṃsā, satya, asteya, brahmacarya, aparigraha"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "householder aṇuvrata → ascetic mahāvrata → guṇasthāna purification ahiṃsā disciplines body, speech and thought because every jīva can",
+            "be harmed."
+          ]
+        }
+      ],
+      "mechanism_strip": "SAMYAG-DARŚANA → SAMYAG-JÑĀNA → SAMYAK-CĀRITRA right faith right knowledge right conduct five vows: ahiṃsā, satya, asteya, brahmacarya, aparigraha householder aṇuvrata → ascetic mahāvrata → guṇasthāna purification ahiṃsā disciplines body, speech and thought because every jīva can be harmed.",
+      "answer_line": "Final verdict: Jaina philosophy combines metaphysical pluralism, perspectival logic and ethical self-purification, but its coherence depends on showing that conditional predication preserves truth without collapsing into contradiction or relativism.",
+      "source_references": [
+        "I. Liberation sequence",
+        "J. Ethics and stages"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "OBJECTIONS, REPLIES, COMPARISONS",
+      "structural_type": "dialectical comparison grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "OBJECTIONS, REPLIES, COMPARISONS",
+          "role": "primary"
+        },
+        {
+          "text": "OBJECTION JAIN REPLY SYĀDVĀDA IS SELF-REFUTING IT APPLIES CONDITIONALLY",
+          "role": "outcome"
+        },
+        {
+          "text": "CHANGE WITHOUT SUBSTANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "UNITY BENEATH PLURALITY",
+          "role": "evidence"
+        },
+        {
+          "text": "REAL SUBSTANCES PERSIST THROUGH REAL MODES; PLURALITY IS IRREDUCIBLE.",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OBJECTION JAIN REPLY syādvāda is self-refuting it applies conditionally to itself, not absolutely seven forms",
+        "track affirmation, denial, ineffability anekānta destroys truth it rejects one-sided absolutism, not determinate truth karma-matter/soul",
+        "is beginningless via passions and subtle pudgala",
+        "BUDDHISM: change without substance",
+        "VEDĀNTA: unity beneath plurality"
+      ],
+      "matrix": [
+        [
+          "DOCTRINE / CLAIM",
+          "OBJECTION / PRESSURE",
+          "REPLY / RESIDUAL"
+        ],
+        [
+          "OBJECTION JAIN REPLY syādvāda is self-refuting it applies conditionally to itself, not absolutely seven forms are repetitive combinations",
+          "is beginningless via passions and subtle pudgala",
+          "VEDĀNTA: unity beneath plurality"
+        ],
+        [
+          "track affirmation, denial, ineffability anekānta destroys truth it rejects one-sided absolutism, not determinate truth karma-matter/soul contact obscure bondage",
+          "BUDDHISM: change without substance",
+          "JAINISM: real substances persist through real modes; plurality is irreducible."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "OBJECTION JAIN REPLY syādvāda is self-refuting it applies conditionally to itself, not absolutely seven forms are repetitive combinations",
+            "track affirmation, denial, ineffability anekānta destroys truth it rejects one-sided absolutism, not determinate truth karma-matter/soul contact obscure bondage"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "is beginningless via passions and subtle pudgala",
+            "BUDDHISM: change without substance"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "VEDĀNTA: unity beneath plurality",
+            "JAINISM: real substances persist through real modes; plurality is irreducible."
+          ]
+        }
+      ],
+      "mechanism_strip": "The charge that anekāntavāda (doctrine of many-sided reality) is self-refuting fails if its own claim is understood as standpoint-qualified rather than as an unqualified absolute denial of absolutes.",
+      "answer_line": "The charge that anekāntavāda (doctrine of many-sided reality) is self-refuting fails if its own claim is understood as standpoint-qualified rather than as an unqualified absolute denial of absolutes.",
+      "source_references": [
+        "G. Absolutism objection",
+        "K. Criticism–reply grid"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "synthesis",
+      "title": "PYQ ANSWER ARCHITECTURE",
+      "structural_type": "convergent answer spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ ANSWER ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "JAINISM JOINS REALISM, PLURALISM AND PERSPECTIVAL DISCIPLINE ONTOLOGY",
+          "role": "outcome"
+        },
+        {
+          "text": "PERMANENCE-THROUGH-CHANGE EPISTEMOLOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "EXACT SEVEN BHAṄGAS SOTERIOLOGY",
+          "role": "evidence"
+        },
+        {
+          "text": "KARMA AS MATTER",
+          "role": "primary"
+        },
+        {
+          "text": "MOKṢA EVALUATE STRONGEST CONTRADICTION OBJECTION AND STANDPOINT REPLY",
+          "role": "outcome"
+        },
+        {
+          "text": "QUALIFIED PREDICATION PROTECTS COMPLEXITY WITHOUT SURRENDERING TRUTH.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "OPEN: Jainism joins realism, pluralism and perspectival discipline ontology → jīva/ajīva → dravya-guṇa-paryāya → permanence-through-change",
+        "→ naya → syāt → exact seven bhaṅgas soteriology → karma as matter → āsrava/bandha",
+        "mokṣa evaluate strongest contradiction objection and standpoint reply",
+        "CLOSE: qualified predication protects complexity without surrendering truth."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "OPEN: Jainism joins realism, pluralism and perspectival discipline ontology → jīva/ajīva → dravya-guṇa-paryāya → permanence-through-change epistemology → anekānta",
+            "→ naya → syāt → exact seven bhaṅgas soteriology → karma as matter → āsrava/bandha → saṃvara/nirjarā →"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "mokṣa evaluate strongest contradiction objection and standpoint reply",
+            "CLOSE: qualified predication protects complexity without surrendering truth."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "OPEN: Jainism joins realism, pluralism and perspectival discipline ontology → jīva/ajīva → dravya-guṇa-paryāya → permanence-through-change epistemology → anekānta",
+            "→ naya → syāt → exact seven bhaṅgas soteriology → karma as matter → āsrava/bandha → saṃvara/nirjarā →"
+          ]
+        }
+      ],
+      "mechanism_strip": "Jainism (Jina-centred path of many-sided reality and liberation) mediates between Cārvāka (Indian materialist school), Buddhist flux and Advaita (non-dualism) by defending a many-sided reality of enduring substances that genuinely undergo changing modes.",
+      "answer_line": "Jainism (Jina-centred path of many-sided reality and liberation) mediates between Cārvāka (Indian materialist school), Buddhist flux and Advaita (non-dualism) by defending a many-sided reality of enduring substances that genuinely undergo changing modes.",
+      "source_references": [
+        "L. Final answer discipline"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "LAYER-PLACEMENT NOTE",
+          "role": "outcome"
+        },
+        {
+          "text": "LAYER-PLACEMENT NOTE ALL LAYER 3 MATERIAL FROM THE LEGACY",
+          "role": "evidence"
+        },
+        {
+          "text": "IT SHOULD REFINE A CORE ANSWER, NOT DISPLACE THE",
+          "role": "caution"
+        },
+        {
+          "text": "LAYER 3 - ADVANCED ADVANCED SYNTHESIS THE CROSS-SECTARIAN STANDING",
+          "role": "primary"
+        },
+        {
+          "text": "ERASING ŚVETĀMBARA-DIGAMBARA DIFFERENCES.",
+          "role": "outcome"
+        },
+        {
+          "text": "THIS MATTERS METHODOLOGICALLY",
+          "role": "comparison"
+        },
+        {
+          "text": "CITE THE TEXT AS A SHARED SYSTEMATIC ANCHOR, BUT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "Layer-placement note",
+            "Layer-placement note All Layer 3 material from the legacy complete session is retained here after practice.",
+            "It should refine a core answer, not displace the printed syllabus.",
+            "LAYER 3 - ADVANCED Advanced synthesis The cross-sectarian standing of the Tattvārthasūtra supplies a common doctrinal grammar without"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "erasing Śvetāmbara-Digambara differences.",
+            "This matters methodologically: cite the text as a shared systematic anchor, but do not infer complete uniformity of canon or practice.",
+            "Tīrthaṅkaras are perfected teachers rather than creators, so Jaina religious authority remains compatible with an uncreated cosmos.",
+            "The deeper philosophical architecture is reciprocal."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Metaphysical many-sidedness explains epistemic partiality",
+            "epistemic discipline supports ethical non-violence in thought",
+            "ethical purification removes the karmic obstruction that prevents complete knowledge.",
+            "Treating these as unrelated chapters misses the system's unity."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

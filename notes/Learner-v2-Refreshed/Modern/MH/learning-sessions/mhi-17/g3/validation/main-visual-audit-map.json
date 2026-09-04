@@ -1,0 +1,1620 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g3\\modern-indian-history-17_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g3\\modern-indian-history-17_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "modern-indian-history-17",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 16,
+      "markdown_body_line_end": 23,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 451.491
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 154.09
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 45,
+      "markdown_body_line_end": 45,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-17\\g3\\assets\\modern-indian-history-17_Teaching-Navigation_2026-08-31.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 546.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 238.756
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 59,
+      "markdown_body_line_end": 59,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Religion and religiosity do not by themselves constitute communalism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 81,
+      "heading": "VISUAL FIRST",
+      "preview": "DEFINITION LADDER: RELIGION, COMMUNITY AND COMMUNALISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 576.224
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 505.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 117,
+      "markdown_body_line_end": 134,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - DEFINITION LADDER: RELIGION, COMMUNITY AND COMMUNALISM",
+      "preview": "START / CONCEPT: FOUNDATION — Definition ladder: religion, community and communalism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 200
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 583.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 145,
+      "markdown_body_line_end": 145,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: This subtopic explains how religious difference existed before colonial rule, but modern communal politics cannot be read backward as an unbroken civilisational conflict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 443.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 376.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 160,
+      "markdown_body_line_end": 169,
+      "heading": "VISUAL FIRST",
+      "preview": "PRECOLONIAL CAUTION AND THE 1857 COUNTEREXAMPLE",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 205,
+      "markdown_body_line_end": 222,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - PRECOLONIAL CAUTION AND THE 1857 COUNTEREXAMPLE",
+      "preview": "START / CONCEPT: FOUNDATION — Precolonial caution and the 1857 counterexample",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 217
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 279.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 38.891
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 233,
+      "markdown_body_line_end": 233,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: This subtopic explains how colonial institutions interacted with social competition and political choices; no single layer alone explains communal growth.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 248,
+      "markdown_body_line_end": 255,
+      "heading": "VISUAL FIRST",
+      "preview": "COLONIAL STATE AND LAYERED CAUSATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 356.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 292,
+      "markdown_body_line_end": 309,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - COLONIAL STATE AND LAYERED CAUSATION",
+      "preview": "START / CONCEPT: FOUNDATION — Colonial state and layered causation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 201
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 432.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 320,
+      "markdown_body_line_end": 320,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: This subtopic explains how the Aligarh movement addressed educational disadvantage, while Syed Ahmad Khan's later politics stressed loyalism and caution toward Congress.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 325.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 259.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 335,
+      "markdown_body_line_end": 342,
+      "heading": "VISUAL FIRST",
+      "preview": "ALIGARH, EDUCATION AND ELITE LOYALISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 378,
+      "markdown_body_line_end": 395,
+      "heading": "CLOSING RECALL FLOW - CORE - ALIGARH, EDUCATION AND ELITE LOYALISM",
+      "preview": "START / CONCEPT: CORE — Aligarh, education and elite loyalism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 216
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 299.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 68.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 406,
+      "markdown_body_line_end": 406,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: This subtopic explains how the sequence from Bengal partition to elite deputation, League formation and separate electorates institutionalised a new politics of safeguards.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 421,
+      "markdown_body_line_end": 426,
+      "heading": "VISUAL FIRST",
+      "preview": "PARTITION, SIMLA DEPUTATION AND SEPARATE ELECTORATES, 1905-09",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 441.424
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 390.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 462,
+      "markdown_body_line_end": 479,
+      "heading": "CLOSING RECALL FLOW - CORE - PARTITION, SIMLA DEPUTATION AND SEPARATE ELECTORATES, 1905-09",
+      "preview": "START / CONCEPT: CORE — Partition, Simla Deputation and separate electorates, 1905-09",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 219
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 703.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 482.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 490,
+      "markdown_body_line_end": 490,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Technical definition: For exam use, it is a conceptual unit defining the category, its mechanism and its changing political form within Growth of Communalism & the Muslim League.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 361.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 295.224
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 505,
+      "markdown_body_line_end": 511,
+      "heading": "VISUAL FIRST",
+      "preview": "MUSLIM LEAGUE LIFE-CYCLE",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 548,
+      "markdown_body_line_end": 565,
+      "heading": "CLOSING RECALL FLOW - CORE - MUSLIM LEAGUE LIFE-CYCLE",
+      "preview": "START / CONCEPT: CORE — Muslim League life-cycle",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 292.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 51.691
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 576,
+      "markdown_body_line_end": 576,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: This subtopic explains how the 1916 Pact showed that Congress-League agreement was possible while also confirming separate electorates as the currency of negotiation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 591,
+      "markdown_body_line_end": 596,
+      "heading": "VISUAL FIRST",
+      "preview": "LUCKNOW PACT: COOPERATION THROUGH A COMMUNAL LEDGER",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 362.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 632,
+      "markdown_body_line_end": 649,
+      "heading": "CLOSING RECALL FLOW - CORE - LUCKNOW PACT: COOPERATION THROUGH A COMMUNAL LEDGER",
+      "preview": "START / CONCEPT: CORE — Lucknow Pact: cooperation through a communal ledger",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 213
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 716.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 475.691
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 660,
+      "markdown_body_line_end": 660,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: This subtopic explains how the 1920-22 alliance achieved unusually broad joint mobilisation but did not create durable secular organisation beneath the coalition.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 335.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 269.224
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 675,
+      "markdown_body_line_end": 684,
+      "heading": "VISUAL FIRST",
+      "preview": "KHILAFAT-NON-COOPERATION UNITY AND BREAKDOWN",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 720,
+      "markdown_body_line_end": 737,
+      "heading": "CLOSING RECALL FLOW - CORE - KHILAFAT-NON-COOPERATION UNITY AND BREAKDOWN",
+      "preview": "START / CONCEPT: CORE — Khilafat-Non-Cooperation unity and breakdown",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 279.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 48.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 748,
+      "markdown_body_line_end": 748,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: This subtopic explains how post-Khilafat politics saw competing organisations, press campaigns and identity consolidation, but neither community became politically uniform.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 763,
+      "markdown_body_line_end": 769,
+      "heading": "VISUAL FIRST",
+      "preview": "THE 1920S: HINDU AND MUSLIM COMMUNAL ORGANISATIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 366.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 805,
+      "markdown_body_line_end": 822,
+      "heading": "CLOSING RECALL FLOW - CORE - THE 1920S: HINDU AND MUSLIM COMMUNAL ORGANISATIONS",
+      "preview": "START / CONCEPT: CORE — The 1920s: Hindu and Muslim communal organisations",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 219
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 716.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 475.691
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 833,
+      "markdown_body_line_end": 833,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not read the Fourteen Points as identical to the Lahore Resolution.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 369.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 316.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 848,
+      "markdown_body_line_end": 854,
+      "heading": "VISUAL FIRST",
+      "preview": "NEHRU REPORT AND FOURTEEN POINTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 890,
+      "markdown_body_line_end": 907,
+      "heading": "CLOSING RECALL FLOW - CORE - NEHRU REPORT AND FOURTEEN POINTS",
+      "preview": "START / CONCEPT: CORE — Nehru Report and Fourteen Points",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 204
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 324.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 103.091
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 918,
+      "markdown_body_line_end": 918,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: This subtopic explains how the 1930s expanded representative arenas while preserving multiple forms of community and interest representation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 933,
+      "markdown_body_line_end": 938,
+      "heading": "VISUAL FIRST",
+      "preview": "COMMUNAL AWARD AND GOVERNMENT OF INDIA ACT 1935",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 347.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 974,
+      "markdown_body_line_end": 991,
+      "heading": "CLOSING RECALL FLOW - CORE - COMMUNAL AWARD AND GOVERNMENT OF INDIA ACT 1935",
+      "preview": "START / CONCEPT: CORE — Communal Award and Government of India Act 1935",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 204
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 716.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 495.691
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1002,
+      "markdown_body_line_end": 1002,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Congress, Hindu society, Hindu communal organisations and all Hindus are not interchangeable.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 355.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 303.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1017,
+      "markdown_body_line_end": 1023,
+      "heading": "VISUAL FIRST",
+      "preview": "REPRESENTATION TABLE AND HINDU COMMUNAL CAUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1059,
+      "markdown_body_line_end": 1076,
+      "heading": "CLOSING RECALL FLOW - CORE - REPRESENTATION TABLE AND HINDU COMMUNAL CAUTION",
+      "preview": "START / CONCEPT: CORE — Representation table and Hindu communal caution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 188
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 309.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 88.891
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1087,
+      "markdown_body_line_end": 1087,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: This subtopic explains how the 1937 elections exposed the gap between all-India claims and provincial politics in the United Provinces, Punjab, Bengal and the NWFP.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1102,
+      "markdown_body_line_end": 1109,
+      "heading": "VISUAL FIRST",
+      "preview": "1937 ELECTIONS AND PROVINCIAL VARIATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 441.424
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 370.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1145,
+      "markdown_body_line_end": 1162,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - 1937 ELECTIONS AND PROVINCIAL VARIATION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — 1937 elections and provincial variation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 211
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 716.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 475.691
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1173,
+      "markdown_body_line_end": 1173,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: This subtopic explains how the Lahore Resolution changed the bargaining framework during wartime, but multiple constitutional possibilities remained under negotiation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 335.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 269.224
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1188,
+      "markdown_body_line_end": 1193,
+      "heading": "VISUAL FIRST",
+      "preview": "LAHORE RESOLUTION, WAR AND BARGAINING, 1940-45",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1229,
+      "markdown_body_line_end": 1246,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - LAHORE RESOLUTION, WAR AND BARGAINING, 1940-45",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Lahore Resolution, war and bargaining, 1940-45",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 214
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 319.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 88.891
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1257,
+      "markdown_body_line_end": 1257,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: This subtopic explains how electoral mandate, failed federal bargaining, violence and accelerated British withdrawal narrowed alternatives between 1945 and 1947.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1272,
+      "markdown_body_line_end": 1278,
+      "heading": "VISUAL FIRST",
+      "preview": "1945-47 ENDGAME AND HISTORIOGRAPHICAL MATRIX",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 352.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1316,
+      "markdown_body_line_end": 1333,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - 1945-47 ENDGAME AND HISTORIOGRAPHICAL MATRIX",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — 1945-47 endgame and historiographical matrix",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 208
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 627.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 386.091
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2381,
+      "markdown_body_line_end": 2390,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 593.09
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2410,
+      "markdown_body_line_end": 2419,
+      "heading": "2. Key classification / data",
+      "preview": "Analytical theme | Advanced detail",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Analytical theme",
+          "Advanced detail"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 492.29
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2423,
+      "markdown_body_line_end": 2426,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Morley-Minto and separate electorates connect back to `advanced/15_Militant-Nationalism-and-Swadeshi.md`. **Study link:** ✅ Lucknow Pact connects forward to `advanced/18_WWI-Home-Rule-and-Lucknow-Pact.md`. **Study link:** ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 492.29
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 368.822
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2442,
+      "markdown_body_line_end": 2442,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Separate electorates did not merely reflect communalism; they helped produce and reward communal politics.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 149.422
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 82.754
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2465,
+      "markdown_body_line_end": 2474,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Communalism definition ladder",
+      "preview": "RELIGION -> faith, practice and community life",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 358.691
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2478,
+      "markdown_body_line_end": 2485,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Layered causation wheel",
+      "preview": "COLONIAL STATE -> census, patronage and constitutional categories",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 336.691
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 264.491
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2489,
+      "markdown_body_line_end": 2496,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Constitutional rail, 1905-47",
+      "preview": "1905-09 -> Bengal partition, Simla, League and separate electorates",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2500,
+      "markdown_body_line_end": 2507,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Muslim League life-cycle",
+      "preview": "1906 -> elite safeguards and loyalist influence within the Raj",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2511,
+      "markdown_body_line_end": 2518,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Separate-electorate incentive loop",
+      "preview": "COMMUNITY ELECTORATE -> candidate addresses one recognised electorate",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 598.891
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 526.691
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2522,
+      "markdown_body_line_end": 2529,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Lucknow Pact ledger",
+      "preview": "GAIN -> Congress-League joint constitutional programme",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 504.691
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 432.491
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2533,
+      "markdown_body_line_end": 2540,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: The 1920s sequence",
+      "preview": "1920-22 -> Khilafat-Non-Cooperation joint mobilisation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 410.491
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 338.291
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2544,
+      "markdown_body_line_end": 2551,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Nehru Report and Fourteen Points matrix",
+      "preview": "NEHRU REPORT -> stronger common constitutional framework",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 316.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 244.091
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2555,
+      "markdown_body_line_end": 2562,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Representation devices are not interchangeable",
+      "preview": "SEPARATE ELECTORATE -> only community voters choose community candidate",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2566,
+      "markdown_body_line_end": 2576,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Provincial variation map",
+      "preview": "UNITED PROVINCES -> service politics and failed coalition bargaining",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 590.291
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2580,
+      "markdown_body_line_end": 2590,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Decision tree from Lahore to Partition",
+      "preview": "23 MAR 1940 -> Lahore Resolution changes the bargaining framework",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 568.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 465.491
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2594,
+      "markdown_body_line_end": 2601,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Historiography and answer-writing matrix",
+      "preview": "BIPAN CHANDRA -> modern ideology, elite interest and three stages",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 443.491
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 371.291
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    }
+  ]
+}

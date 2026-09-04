@@ -1,0 +1,2323 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g7\\modern-indian-history-10_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g7\\modern-indian-history-10_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "modern-indian-history-10",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 16,
+      "markdown_body_line_end": 23,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 430.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 133.09
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 45,
+      "markdown_body_line_end": 45,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g7\\assets\\modern-indian-history-10_Teaching-Navigation_2026-08-30.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 532.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 224.556
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 59,
+      "markdown_body_line_end": 59,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: Mini-timeline is a learner's map within Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.) that groups Brahmo Samaj, Deoband and Satyashodhak Samaj.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 78,
+      "heading": "VISUAL FIRST",
+      "preview": "MINI-TIMELINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 87,
+      "markdown_body_line_end": 95,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 422.024
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 249.022
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 108,
+      "markdown_body_line_end": 125,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - MINI-TIMELINE",
+      "preview": "START / CONCEPT: FOUNDATION — Mini-timeline",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 220
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 136,
+      "markdown_body_line_end": 136,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Snapshot & core idea is a learner's map within Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.) that groups Atmiya Sabha, Brahmo Samaj (1828) and Debendranath Tagore.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 421.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 354.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 151,
+      "markdown_body_line_end": 155,
+      "heading": "VISUAL FIRST",
+      "preview": "1. SNAPSHOT & CORE IDEA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 189,
+      "markdown_body_line_end": 206,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - 1. SNAPSHOT & CORE IDEA",
+      "preview": "START / CONCEPT: FOUNDATION — 1. Snapshot & core idea",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 667
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 516.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 217,
+      "markdown_body_line_end": 217,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Key classification / data is a learner's map within Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.) that groups Key, classification and data.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 395.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 328.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 232,
+      "markdown_body_line_end": 236,
+      "heading": "VISUAL FIRST",
+      "preview": "2. KEY CLASSIFICATION / DATA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 245,
+      "markdown_body_line_end": 254,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "Stream / community | Organisation / leader | Core emphasis",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Stream / community",
+          "Organisation / leader",
+          "Core emphasis"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 647.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 363.49
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 267,
+      "markdown_body_line_end": 284,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - 2. KEY CLASSIFICATION / DATA",
+      "preview": "START / CONCEPT: FOUNDATION — 2. Key classification / data",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 198
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 248.89
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 37.89
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 295,
+      "markdown_body_line_end": 295,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Study links is a learner's map within Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.) that groups Study link:, Study and links.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 310,
+      "markdown_body_line_end": 314,
+      "heading": "VISUAL FIRST",
+      "preview": "3. STUDY LINKS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 323,
+      "markdown_body_line_end": 325,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "**Study link:** ✅ Social and cultural policy background → `basic/09_Social-and-Cultural-Policy-Education-Press.md`. **Study link:** ⚠️ Reform currents shaped early nationalist leadership → `basic/14_Foundation-of-INC-and-Moderate-Phase.md`.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 306.224
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 204.756
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 338,
+      "markdown_body_line_end": 355,
+      "heading": "CLOSING RECALL FLOW - CORE - 3. STUDY LINKS",
+      "preview": "START / CONCEPT: CORE — 3. Study links",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 184
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 366,
+      "markdown_body_line_end": 366,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Must-Know Facts (Prelims) is a learner's map within Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.) that groups Savitribai Phule, Pandita Ramabai and Reformist.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 465.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 398.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 381,
+      "markdown_body_line_end": 385,
+      "heading": "VISUAL FIRST",
+      "preview": "4. MUST-KNOW FACTS (PRELIMS)",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 413,
+      "markdown_body_line_end": 430,
+      "heading": "CLOSING RECALL FLOW - CORE - 4. MUST-KNOW FACTS (PRELIMS)",
+      "preview": "START / CONCEPT: CORE — 4. Must-Know Facts (Prelims)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 222
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 358.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 127.491
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 441,
+      "markdown_body_line_end": 441,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Retain the distinction expressed by High-risk factual distinctions in Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.); do not reduce it to an isolated fact.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 627.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 560.424
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 456,
+      "markdown_body_line_end": 460,
+      "heading": "VISUAL FIRST",
+      "preview": "HIGH-RISK FACTUAL DISTINCTIONS IN SOCIO-RELIGIOUS REFORM MOVEMENTS (BRAHMO, ARYA, RAMAKRISHNA, ALIGARH, ETC.)",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 109
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 365.624
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 314.624
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 469,
+      "markdown_body_line_end": 469,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "🔑 Trap: Match **founder → organisation → year → region**; UPSC often mixes Brahmo, Arya and Ramakrishna dates.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 187.224
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 142.556
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 487,
+      "markdown_body_line_end": 504,
+      "heading": "CLOSING RECALL FLOW - CORE - HIGH-RISK FACTUAL DISTINCTIONS IN SOCIO-RELIGIOUS REFORM MOVEMENTS (BRAHMO, ARYA, RAMAKRISHNA, ALIGARH, ETC.)",
+      "preview": "START / CONCEPT: CORE — High-risk factual distinctions in Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 324
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 667.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 386.491
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 509,
+      "markdown_body_line_end": 513,
+      "heading": "VISUAL FIRST",
+      "preview": "6. 📰 CURRENT LINK",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 339.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 298.491
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 542,
+      "markdown_body_line_end": 542,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mains angles is a learner's map within Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.) that groups Mains, angles and context.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 557,
+      "markdown_body_line_end": 561,
+      "heading": "VISUAL FIRST",
+      "preview": "7. MAINS ANGLES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 585,
+      "markdown_body_line_end": 602,
+      "heading": "CLOSING RECALL FLOW - CORE - 7. MAINS ANGLES",
+      "preview": "START / CONCEPT: CORE — 7. Mains angles",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 182
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 607,
+      "markdown_body_line_end": 611,
+      "heading": "VISUAL FIRST",
+      "preview": "ANSWER ARCHITECTURE OVERVIEW",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 529.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 488.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 620,
+      "markdown_body_line_end": 620,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "Purpose: this owner must support the **2025 GS-I 15-mark Phule demand**, the Rammohan Roy and Periyar Prelims demands, and unfamiliar comparison/critical-evaluation questions on reform, caste, gender and community. The banks below are separ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 375.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 302.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 640,
+      "markdown_body_line_end": 640,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.1 Demand and directive map is a learner's map within Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.) that groups Demand, and and directive.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 655,
+      "markdown_body_line_end": 659,
+      "heading": "VISUAL FIRST",
+      "preview": "8.1 DEMAND AND DIRECTIVE MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 668,
+      "markdown_body_line_end": 675,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "Demand family | Typical directive signals | Answer spine to use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Demand family",
+          "Typical directive signals",
+          "Answer spine to use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 422.024
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 169.422
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 688,
+      "markdown_body_line_end": 705,
+      "heading": "CLOSING RECALL FLOW - CORE - 8.1 DEMAND AND DIRECTIVE MAP",
+      "preview": "START / CONCEPT: CORE — 8.1 Demand and directive map",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 216
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 716,
+      "markdown_body_line_end": 716,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.2 Qualified thesis options is a learner's map within Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.) that groups Two-front thesis:, Agency thesis (for gender): and Backlash thesis:.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 407.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 340.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 731,
+      "markdown_body_line_end": 735,
+      "heading": "VISUAL FIRST",
+      "preview": "8.2 QUALIFIED THESIS OPTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 760,
+      "markdown_body_line_end": 777,
+      "heading": "CLOSING RECALL FLOW - CORE - 8.2 QUALIFIED THESIS OPTIONS",
+      "preview": "START / CONCEPT: CORE — 8.2 Qualified thesis options",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 258
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 339.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 98.091
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 788,
+      "markdown_body_line_end": 788,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.3 Mark-scaled structure is a learner's map within Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.) that groups Mark-scaled, structure and context.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 803,
+      "markdown_body_line_end": 807,
+      "heading": "VISUAL FIRST",
+      "preview": "8.3 MARK-SCALED STRUCTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 816,
+      "markdown_body_line_end": 820,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "Marks | Recommended architecture | Evidence load",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Recommended architecture",
+          "Evidence load"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 292.024
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 136.622
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 833,
+      "markdown_body_line_end": 850,
+      "heading": "CLOSING RECALL FLOW - CORE - 8.3 MARK-SCALED STRUCTURE",
+      "preview": "START / CONCEPT: CORE — 8.3 Mark-scaled structure",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 222
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 861,
+      "markdown_body_line_end": 861,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.4 Bank A — Jotirao Phule (2025 GS-I owner requirement) is a learner's map within Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.) that groups Claim:, Evidence: and Mali (gardener) caste.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 378.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 297.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 876,
+      "markdown_body_line_end": 880,
+      "heading": "VISUAL FIRST",
+      "preview": "8.4 BANK A — JOTIRAO PHULE (2025 GS-I OWNER REQUIREMENT)",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 905,
+      "markdown_body_line_end": 922,
+      "heading": "CLOSING RECALL FLOW - CORE - 8.4 BANK A - JOTIRAO PHULE (2025 GS-I OWNER REQUIREMENT)",
+      "preview": "START / CONCEPT: CORE — 8.4 Bank A — Jotirao Phule (2025 GS-I owner requirement)",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 361
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 526.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 933,
+      "markdown_body_line_end": 933,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.5 Bank B — Rammohan Roy and the Brahmo tradition is a learner's map within Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.) that groups Claim:, Evidence: and Atmiya Sabha.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 358.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 291.424
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 948,
+      "markdown_body_line_end": 952,
+      "heading": "VISUAL FIRST",
+      "preview": "8.5 BANK B — RAMMOHAN ROY AND THE BRAHMO TRADITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 977,
+      "markdown_body_line_end": 994,
+      "heading": "CLOSING RECALL FLOW - CORE - 8.5 BANK B - RAMMOHAN ROY AND THE BRAHMO TRADITION",
+      "preview": "START / CONCEPT: CORE — 8.5 Bank B — Rammohan Roy and the Brahmo tradition",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 247
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 367.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 116.491
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1005,
+      "markdown_body_line_end": 1005,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.6 Bank C — Reformist and revivalist streams compared is a learner's map within Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.) that groups shuddhi, Analytical use: and source of authority.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1020,
+      "markdown_body_line_end": 1024,
+      "heading": "VISUAL FIRST",
+      "preview": "8.6 BANK C — REFORMIST AND REVIVALIST STREAMS COMPARED",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 357.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1033,
+      "markdown_body_line_end": 1042,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "Stream | Source of authority | Method | Social programme | Political afterlife",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 8,
+        "headers": [
+          "Stream",
+          "Source of authority",
+          "Method",
+          "Social programme",
+          "Political afterlife"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 478.89
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1057,
+      "markdown_body_line_end": 1074,
+      "heading": "CLOSING RECALL FLOW - CORE - 8.6 BANK C - REFORMIST AND REVIVALIST STREAMS COMPARED",
+      "preview": "START / CONCEPT: CORE — 8.6 Bank C — Reformist and revivalist streams compared",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 310
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 307.49
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 46.49
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1085,
+      "markdown_body_line_end": 1085,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.7 Bank D — Gender: from reform to rights is a learner's map within Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.) that groups Claim:, Evidence: and thirty-five girls' schools.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1100,
+      "markdown_body_line_end": 1104,
+      "heading": "VISUAL FIRST",
+      "preview": "8.7 BANK D — GENDER: FROM REFORM TO RIGHTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1125,
+      "markdown_body_line_end": 1130,
+      "heading": "CONCEPT DEFINITIONS",
+      "preview": "Evidence for \"reform imposed ON women\" | Evidence for \"reform achieved BY women\"",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Evidence for \"reform imposed ON women\"",
+          "Evidence for \"reform achieved BY women\""
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 547.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 292.89
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1146,
+      "markdown_body_line_end": 1163,
+      "heading": "CLOSING RECALL FLOW - CORE - 8.7 BANK D - GENDER: FROM REFORM TO RIGHTS",
+      "preview": "START / CONCEPT: CORE — 8.7 Bank D — Gender: from reform to rights",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 369
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 526.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1174,
+      "markdown_body_line_end": 1174,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.8 Bank E — Caste, non-Brahman and Self-Respect politics is a learner's map within Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.) that groups Claim:, Evidence: and Self-Respect movement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 372.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 291.424
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1189,
+      "markdown_body_line_end": 1193,
+      "heading": "VISUAL FIRST",
+      "preview": "8.8 BANK E — CASTE, NON-BRAHMAN AND SELF-RESPECT POLITICS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1218,
+      "markdown_body_line_end": 1235,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - 8.8 BANK E - CASTE, NON-BRAHMAN AND SELF-RESPECT POLITICS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — 8.8 Bank E — Caste, non-Brahman and Self-Respect politics",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 333
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 513.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1246,
+      "markdown_body_line_end": 1246,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.9 Verdict scaffolds is a learner's map within Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.) that groups Phule verdict:, Reform verdict: and Gender verdict:.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 378.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 311.624
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1261,
+      "markdown_body_line_end": 1265,
+      "heading": "VISUAL FIRST",
+      "preview": "8.9 VERDICT SCAFFOLDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1290,
+      "markdown_body_line_end": 1307,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - 8.9 VERDICT SCAFFOLDS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — 8.9 Verdict scaffolds",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 235
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 395.891
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 154.891
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1318,
+      "markdown_body_line_end": 1318,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plain definition: 8.10 Factual-risk cautions is a learner's map within Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.) that groups 1897, Vivekananda, 1873, Phule and 1891.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1333,
+      "markdown_body_line_end": 1337,
+      "heading": "VISUAL FIRST",
+      "preview": "8.10 FACTUAL-RISK CAUTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 417.824
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 376.824
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1366,
+      "markdown_body_line_end": 1383,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - 8.10 FACTUAL-RISK CAUTIONS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — 8.10 Factual-risk cautions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 228
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 727.891
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 496.891
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2243,
+      "markdown_body_line_end": 2245,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`, `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key ",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 642.891
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 533.624
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2251,
+      "markdown_body_line_end": 2255,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 482.024
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 281.122
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2263,
+      "markdown_body_line_end": 2263,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 207.522
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 162.854
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2270,
+      "markdown_body_line_end": 2272,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 162.854
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 81.987
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2278,
+      "markdown_body_line_end": 2284,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 5,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 491.69
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2294,
+      "markdown_body_line_end": 2294,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 383.69
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 339.022
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2299,
+      "markdown_body_line_end": 2300,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 339.022
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 272.354
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2306,
+      "markdown_body_line_end": 2309,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 220.754
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 82.353
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2316,
+      "markdown_body_line_end": 2316,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 741.424
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2670,
+      "markdown_body_line_end": 2678,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 764.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 591.29
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2699,
+      "markdown_body_line_end": 2706,
+      "heading": "2. Key classification / data",
+      "preview": "Debate / category | Key examples | Advanced takeaway",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Debate / category",
+          "Key examples",
+          "Advanced takeaway"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 568.29
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2710,
+      "markdown_body_line_end": 2712,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Education, press and social policy background → `advanced/09_Social-and-Cultural-Policy-Education-Press.md`. **Study link:** ⚠️ Reform associations trained the early public sphere that fed the INC → `advanced/14_Foundation",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 568.29
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 430.622
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2726,
+      "markdown_body_line_end": 2726,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Do not treat \"reform\" as automatically liberal and \"revival\" as automatically conservative; both could contain modern and conservative elements.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 231.422
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 164.754
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2750,
+      "markdown_body_line_end": 2759,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Atmiya Sabha in socio-religious reform",
+      "preview": "FOCUS -> Atmiya Sabha",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 531.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 438.691
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2763,
+      "markdown_body_line_end": 2769,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Brahmo Samaj in socio-religious reform",
+      "preview": "FOCUS -> Brahmo Samaj",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 416.691
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 354.691
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2773,
+      "markdown_body_line_end": 2778,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Debendranath Tagore in socio-religious reform",
+      "preview": "FOCUS -> Debendranath Tagore",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 332.691
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 280.891
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2782,
+      "markdown_body_line_end": 2787,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Sadharan Brahmo Samaj in socio-religious reform",
+      "preview": "FOCUS -> Sadharan Brahmo Samaj",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2791,
+      "markdown_body_line_end": 2797,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Young Bengal in socio-religious reform",
+      "preview": "FOCUS -> Young Bengal",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 651.491
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2801,
+      "markdown_body_line_end": 2807,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Prarthana Samaj in socio-religious reform",
+      "preview": "FOCUS -> Prarthana Samaj",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 629.491
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 567.491
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2811,
+      "markdown_body_line_end": 2817,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Arya Samaj in socio-religious reform",
+      "preview": "FOCUS -> Arya Samaj",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 545.491
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 483.491
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2821,
+      "markdown_body_line_end": 2827,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Arya institutions in socio-religious reform",
+      "preview": "FOCUS -> Arya institutions",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 461.491
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 399.491
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2831,
+      "markdown_body_line_end": 2837,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Ramakrishna Mission in socio-religious reform",
+      "preview": "FOCUS -> Ramakrishna Mission",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 377.491
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 315.491
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2841,
+      "markdown_body_line_end": 2850,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Satyashodhak Samaj in socio-religious reform",
+      "preview": "FOCUS -> Satyashodhak Samaj",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2854,
+      "markdown_body_line_end": 2861,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Phule girls' school in socio-religious reform",
+      "preview": "FOCUS -> Phule girls' school",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2865,
+      "markdown_body_line_end": 2871,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Bethune School and Vidyasagar in socio-religious reform",
+      "preview": "FOCUS -> Bethune School and Vidyasagar",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 516.491
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    }
+  ]
+}

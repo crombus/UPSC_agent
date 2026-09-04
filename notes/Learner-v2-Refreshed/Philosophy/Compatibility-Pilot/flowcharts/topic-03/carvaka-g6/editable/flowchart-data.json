@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-i-indian-philosophy-03",
+  "generation": 6,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-03\\topic-03_Complete-Learning-Session_2026-08-22.md",
+  "master_dimensions": [
+    3600,
+    2128
+  ],
+  "stages": [
+    {
+      "title": "CONTEMPORARY-ANCHOR DISCIPLINE",
+      "terms": "Contemporary-anchor discipline: ⚠️ Inference: The event can frame Buddhism as a living civilizational language, but answers must derive doctrine from dependent origination, momentariness, no-self, emptiness, consciousness and liberation.",
+      "mechanism": "✅ Fact: The High Commission of India in Colombo reported the public exposition of the Devnimori Buddha relics at Gangaramaya Temple from 4–10 February 2026, presenting it as cultural and spiritual engagement through shared Buddhist heritage.",
+      "consequence": "⚠️ Inference: The event can frame Buddhism as a living civilizational language, but answers must derive doctrine from dependent origination, momentariness, no-self, emptiness, consciousness and liberation.",
+      "trap": "Answer-use: ✅ Fact: The High Commission of India in Colombo reported the public exposition of the Devnimori Buddha relics at Gangaramaya Temple from 4–10 February 2026, presenting it as cultural and spiritual engagement through shared Buddhist heritage.",
+      "answer": "✅ Fact: The High Commission of India in Colombo reported the public exposition of the Devnimori Buddha relics at Gangaramaya Temple from 4–10 February 2026, presenting it as cultural and spiritual engagement through shared Buddhist heritage."
+    },
+    {
+      "title": "MASTER DISTINCTION GATEWAY",
+      "terms": "Master verdict: Buddhism is a family of anti-substantialist, causally ordered and soteriological systems; its schools range from realism through consciousness-only analysis to radical emptiness.",
+      "mechanism": "Master verdict: Buddhism is a family of anti-substantialist, causally ordered and soteriological systems; its schools range from realism through consciousness-only analysis to radical emptiness.",
+      "consequence": "It is the key to the arising of duḥkha and therefore the key to its cessation.",
+      "trap": "⚠️ Exam key: In Buddhism, the three syllabus terms are not separate islands.",
+      "answer": "Recommended opening definition: pratītyasamutpāda (dependent origination) is the principle that phenomena arise and cease in dependence on conditions, rejecting both eternalism and causeless annihilationism."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2128,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 2
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+ASCII MASTER FLOW — PANEL 1/10: Empiricist starting rule and Locke-Berkeley-Hume pressure sequence
+CENTRAL QUESTION: WHAT CAN EXPERIENTIAL MATERIALS PLUS MENTAL OPERATIONS JUSTIFY?
+        |
+LOCKE: sensation + reflection -> ideas -> represented material world
+        | pressure: resemblance and unknown substratum
+        v
+BERKELEY: sensible objects = ideas; active spirits; no matter
+        | pressure: what experiential source supports self and necessary power?
+        v
+HUME: impressions + ideas -> custom / natural belief -> mitigated scepticism
+ROUTE: representative realism -> immaterialism -> sceptical naturalism.
+
+ASCII MASTER FLOW — PANEL 2/10: Locke's source-of-ideas pipeline and limits of knowledge
+REJECT INNATE CONTENT, NOT NATIVE FACULTIES: no universal assent
+SENSATION (outer sense) + REFLECTION (mental operations)
+        |
+        v
+SIMPLE IDEAS: passively received
+        | combine / compare / abstract
+        v
+COMPLEX IDEAS: MODES | SUBSTANCES | RELATIONS
+KNOWLEDGE: intuitive -> demonstrative -> sensitive; beyond it lies probability
+LIMIT: genetic explanation does not by itself defeat dispositional innatism.
+
+ASCII MASTER FLOW — PANEL 3/10: Locke's abstraction, general ideas and real-nominal essence
+PARTICULAR IDEAS -> omit time/place/concomitants -> GENERAL REPRESENTATIVE
+GENERAL WORD -> signifies abstract general idea -> classifies particulars
+NOMINAL ESSENCE = abstract idea attached to the name
+REAL ESSENCE = hidden internal constitution producing observable powers
+TRIANGLE PROBLEM: neither equilateral nor scalene, yet represents both
+BERKELEY: no contradictory abstract image; use a particular sign generally
+LOCKE REPLY: undetermined feature != contradictory feature
+RESIDUAL: non-imagistic abstraction strains Locke's official idea theory.
+
+ASCII MASTER FLOW — PANEL 4/10: Locke's qualities, representative realism and unknown substratum
+PRIMARY: solidity, extension, figure, motion/rest, number; inseparable from body
+SECONDARY: colour, sound, taste, smell, heat/cold; powers relative to perceivers
+RESEMBLANCE: primary-quality ideas resemble; secondary-quality ideas do not
+BODY -> causal action -> IDEA IMMEDIATELY PERCEIVED -> REPRESENTATION CLAIM
+VEIL OBJECTION: how can an idea be compared with unperceived matter?
+SUBSTRATUM: supposed support of co-occurring qualities
+EXACT LIMIT: 'something, I know not what' = unknown nature, not denied existence
+REPLY: causal/structural representation; RESIDUAL: support remains opaque.
+
+ASCII MASTER FLOW — PANEL 5/10: Locke's knowledge, probability, self, memory and demonstrative God
+KNOWLEDGE = perceived agreement/disagreement of ideas; probability guides belief
+SAME PERSON: consciousness appropriates the past; memory is vehicle/evidence
+SAME HUMAN BEING: continuity of one living organism
+SAME SUBSTANCE: sameness of material or immaterial bearer
+PRINCE/COBBLER: person follows consciousness; man follows organism
+BUTLER: memory presupposes identity; REID: Brave Officer breaks transitivity
+REPAIR: overlapping psychological-continuity chains
+GOD: finite knowing existence -> demonstrative causal route; no innate God-idea
+LIMIT: repaired continuity exceeds a simple episodic-memory criterion.
+
+ASCII MASTER FLOW — PANEL 6/10: Berkeley's anti-abstraction route to immaterialism and direct realism
+NO ABSTRACT GENERAL IMAGE -> material substance-in-general loses content
+LIKENESS PRINCIPLE: an idea can be like only an idea
+QUALITY PARITY: observer-relativity applies to primary and secondary qualities
+SENSIBLE OBJECT = stable collection of immediately perceived ideas
+ESSE EST PERCIPI applies to sensible things; IDEAS are passive
+SPIRITS perceive and act; they are not themselves ideas
+DIRECT-REALIST DIMENSION: no unknowable material duplicate behind experience
+TRAP: immaterialism denies matter, not experienced tables, trees or order.
+
+ASCII MASTER FLOW — PANEL 7/10: Berkeley's spirits, God, world-continuity and objection ledger
+FINITE SPIRITS receive involuntary sensory ideas; imagination is weaker/voluntary
+PASSIVE IDEAS cannot cause; active causation belongs to spirit
+GOD / INFINITE SPIRIT causes stable, coherent and shared sensory order
+OBJECT CONTINUITY does not depend on continuous human observation
+SELF: active spirit known by NOTION, not by a copied idea
+OTHER MINDS: analogical inference from purposive signs; common divine order
+ILLUSION REPLY: coherence, involuntariness and correction within experience
+RESIDUAL: experienced order does not uniquely demonstrate Berkeley's God.
+
+ASCII MASTER FLOW — PANEL 8/10: Hume's impressions, ideas, Fork, substance, bundle self and religion limits
+PERCEPTIONS -> IMPRESSIONS (forceful) / IDEAS (fainter copies)
+COPY PRINCIPLE: simple ideas normally trace to impressions; missing shade qualifies
+QUALIFICATION: missing shade of blue is a narrow acknowledged exception
+ASSOCIATION: resemblance | contiguity | cause and effect
+HUME'S FORK: relations of ideas / matters of fact
+SUBSTANCE: no distinct impression beyond a collection of qualities/perceptions
+SELF: bundle in flux; memory/association generate identity fiction
+APPENDIX DIFFICULTY: Hume cannot explain genuine unity among perceptions
+GOD/RELIGION: design analogy and divine predicates exceed demonstrative certainty.
+
+ASCII MASTER FLOW — PANEL 9/10: Hume's causation, induction and custom loop
+ONE CASE: priority + contiguity + succession; no impression of necessary power
+REPETITION: constant conjunction; objects reveal no new tie
+CUSTOM changes the mind -> felt transition from A to expected B
+NECESSITY = impression of reflection projected onto objects
+CAUSE 1: regularly conjoined objects; CAUSE 2: one idea determines another
+INDUCTION assumes future resembles past / nature is uniform
+NO DEMONSTRATION: contrary is conceivable
+NO NON-CIRCULAR EXPERIENCE PROOF: past success already uses induction
+VERDICT: practice is natural and indispensable, but not rationally necessitated.
+
+ASCII MASTER FLOW — PANEL 10/10: Comparative synthesis, scepticism, PYQ routes and answer spine
+LOCKE: matter retained / quality split / consciousness-self / demonstrative God
+BERKELEY: no matter / all sensible qualities ideas / spirit-self / ordering God
+HUME: no substance impression / perceptions / bundle-self / religion proof limits
+SCEPTICISM: Locke limited realism | Berkeley anti-sceptical | Hume mitigated
+REALISM: representative != direct; IDEALISM != denial of experience
+HUME: antecedent/excessive doubt rejected; custom/common life restore belief
+PYQ ROUTES: innate ideas; identity; primary qualities; nominalism; Berkeley reality
+PYQ ROUTES: Fork; causation; induction; bundle self; Kant response
+ANSWER: directive -> thesis -> definitions -> argument -> objection/reply -> verdict
+CONTROL: claim -> named text/example -> analysis -> qualification
+ROUTED REPLIES: Kant supplies apperceptive unity and causal category for experience.
+BOUNDARY: finish empiricism first; Kant's positive system remains the next owner.
+VERDICT: empiricism disciplines certainty but cannot rationally ground every belief.

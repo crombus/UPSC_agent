@@ -1,0 +1,99 @@
+{
+  "record_id": "philosophy-paper-i-indian-philosophy-04:learner-v2:g7",
+  "topic_key": "philosophy-paper-i-indian-philosophy-04",
+  "variant": "learner-v2",
+  "generation": 7,
+  "supersedes": "philosophy-paper-i-indian-philosophy-04:learner-v2:g6",
+  "command": "Generate learner-v2 topic: Philosophy Optional — Philosophy Paper I — Indian Philosophy — Nyaya–Vaisesika — Learner-v2 refreshed — Learner-v2 semantic-aid repair",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-04\\g7\\topic-04_Complete-Learning-Session_2026-08-23.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-04\\g7\\topic-04_Solved-Practice-Workbook_2026-08-23.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-04\\g7\\topic-04_Complete-Learning-Session_2026-08-23.md",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-philosophy-layered-source-complete",
+    "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Nyaya-Vaisesika.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Nyaya-Vaisesika\\Nyaya-Vaisesika_Layered-Complete-Learning-Session_2026-08-18.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Nyaya-Vaisesika.md",
+    "legacy_v1_source_package": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Nyaya-Vaisesika\\Nyaya-Vaisesika_Layered-Complete-Learning-Session_2026-08-18.md",
+    "legacy_v1_workbook": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Nyaya-Vaisesika\\Nyaya-Vaisesika_Layered-Solved-Practice-Workbook_2026-08-18.md",
+    "pyq_corpus": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md",
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-04\\g7\\topic-04_Complete-Learning-Session_2026-08-23.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.1"
+    },
+    "generation_date": "2026-08-23",
+    "superseded_v1": "philosophy-paper-i-indian-philosophy-04:legacy-v1:g1",
+    "reused_legacy_assets": [
+      "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Nyaya-Vaisesika\\assets\\04_Nyaya-Vaisesika-Realist-System.png"
+    ],
+    "migration_note": "Layered teaching was preserved and reordered into learner-v2 sequence. The legacy 32-question practice was replaced by 48 diagnostics and the original solved set expanded from three to six.",
+    "retrofit": {
+      "id": "continuous-core-first-2026-08-22",
+      "source_record": "philosophy-paper-i-indian-philosophy-04:learner-v2:g4",
+      "closure_flow": "source-derived and placed after every BASIC H3",
+      "workbook": "byte-preserved; no practice content changed",
+      "flowchart": "new continuous core-first same-master companion"
+    },
+    "refresh": {
+      "id": "semantic-aid-repair-2026-08-23",
+      "source_record": "philosophy-paper-i-indian-philosophy-04:learner-v2:g6",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-04\\topic-04_Complete-Learning-Session_2026-08-22.md",
+      "source_hashes": {
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-04\\carvaka-g6\\ascii-master.txt": "b3333bb87ac2cb5b1f9b92c6f5549d31129d82c149fc1a817904a5fa6fd36a0b",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-04\\carvaka-g6\\editable\\flowchart-data.json": "80c2df1aabb81913daee7755aef7bf2782066ef55d02fb7f01c1ecb187cdea30",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-04\\carvaka-g6\\editable\\README.txt": "691b325ba328333680e06e20926382872adbc91fcc69190ecfc6934fde2c8d25",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-04\\carvaka-g6\\master.png": "ae2e507f72ed0d5cd52394d3e6b1caaa0796f06d1d5f420473309a708446cc77",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-04\\carvaka-g6\\poster.pdf": "0ef1776a0f69b60552a14f241e4e0b481bd76b116ec1667e7a232273572b87bb",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-04\\carvaka-g6\\previews\\contact-sheet-01.png": "e49d84dfee940af8f1a91c904bf7aad2ff60bd5b5596cd08928f344990daaa9e",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-04\\carvaka-g6\\previews\\page-001.png": "a0a2fec103e3e66b33279820627fe717b31e38294d5db69283641d78d7485aab",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-04\\carvaka-g6\\tiled.pdf": "f1548043c752c083dbb30b2985d67147962d2d92dd8cc8864d3e57e939c81ba8",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-04\\carvaka-g6\\validation-report.txt": "9094152ba90a912d506cd09d52a12a6eec23c4463b34a9039df4ce7211867ae2",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-04\\topic-04_Complete-Learning-Session_2026-08-22.pdf": "15973c46d987e321e0da3d487791cbb91c59b003d4137b0040b7df077427ee74",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-04\\topic-04_Solved-Practice-Workbook_2026-08-22.pdf": "4e3a8778f3b45f8de891efe0bdf1a6b66944501cd491a058f9421307ecedae77",
+        "tools\\markdown_learning_pdf.py": "394a0e26d0f972ebaab1015cd57da26c7b24951143162d3bc43d86d7ae67ca29",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-04\\assets\\04_Nyaya-Vaisesika-Realist-System.png": "24eb515e6b48b00c0bdbc434d7c0fa8bf54ee2686a94af17f9341ab892d5d221",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-04\\assets\\topic-04_Teaching-Navigation_2026-08-22.png": "2c5caa3b25fefefe893699ccfc645ad0f101c951a4eaa65338ee7c740cbe69a5",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-04\\topic-04_Complete-Learning-Session_2026-08-22.md": "7a4becaaa812fc872861bf6efa37e7d6e26309c467a2db46e19dc41e0e3a0cdd",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-04\\topic-04_Solved-Practice-Workbook_2026-08-22.md": "80ca54d2f3aa3ad477b506df811e9f926fd3554f2149f670016caaa0dd382087",
+        "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Nyaya-Vaisesika\\assets\\04_Nyaya-Vaisesika-Realist-System.png": "24eb515e6b48b00c0bdbc434d7c0fa8bf54ee2686a94af17f9341ab892d5d221",
+        "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Nyaya-Vaisesika\\Nyaya-Vaisesika_Layered-Complete-Learning-Session_2026-08-18.md": "aca5231cfffe12101e4c6857636f6842c795c89204fcd9d566c004819c65919f",
+        "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Nyaya-Vaisesika\\Nyaya-Vaisesika_Layered-Solved-Practice-Workbook_2026-08-18.md": "1e559342225dca71c92e37b6af8c3408a4a8d09c2f271d32fc97c462f4b679f5",
+        "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\philosophy-paper-i-indian-philosophy-04_Learning-Session.md": "f89dae61a2f2fa5c89ee423de3dcdf01ffe70a0add1fbcc77dab5bb7ea1576ce",
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md": "ba401dde672f4bab8a9dc4580a434be6ced246e9a81b5150b45cbeded9079fd1",
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Nyaya-Vaisesika.md": "65486d32ede02a8d162c9a1343dcabcc4c36121b301f3840e8ecffd3a10fe45b"
+      },
+      "session_contract": "named-session definition/opening/keywords/use/closure",
+      "mcq_keys": "stable-topic-seed balanced deterministic non-patterned",
+      "tracker_updated": false,
+      "tracker_sha256": "9297217edabdd66ca5aa5897e57e2418f5cf606ff491b948cb1c20190c6e5d8d"
+    }
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "philosophy-paper-i-indian-philosophy-04:learner-v2:g7"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-23",
+    "validator": "tools/refresh_all_v2_learning_sessions.py + tools/validate_v2_export.py"
+  },
+  "generated_on": "2026-08-23",
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-04\\carvaka-g7",
+    "master_image": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-04\\carvaka-g7\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-04\\carvaka-g7\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-04\\carvaka-g7\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-04\\carvaka-g7\\editable",
+    "previews": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-04\\carvaka-g7\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-04\\carvaka-g7\\previews\\contact-sheet-01.png"
+    ],
+    "validation_report": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-04\\carvaka-g7\\validation-report.txt",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-04\\carvaka-g7\\ascii-master.txt"
+  },
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-04\\g7\\topic-04_Solved-Practice-Workbook_2026-08-23.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-04\\g7\\assets",
+  "refresh_profile": "semantic-aid-repair-2026-08-23"
+}

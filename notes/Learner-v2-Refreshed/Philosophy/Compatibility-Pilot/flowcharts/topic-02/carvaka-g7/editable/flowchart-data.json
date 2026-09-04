@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-i-indian-philosophy-02",
+  "generation": 7,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-02\\g7\\topic-02_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    2081
+  ],
+  "stages": [
+    {
+      "title": "JAINISM",
+      "terms": "Do not invent a fresh legal development or let current application replace the printed metaphysics–logic–liberation syllabus.",
+      "mechanism": "Do not invent a fresh legal development or let current application replace the printed metaphysics–logic–liberation syllabus.",
+      "consequence": "✅ Fact: A live August 2026 search primarily returned contemporary educational discussion of anekāntavāda and continuing ethical discussion of sallekhanā, not a clearly verified new court ruling in the February–August window. ⚠️ Inference: Use anekāntavāda as a conceptual resource for intellectual humility and sallekhanā as a bounded ethics application.",
+      "trap": "✅ Fact: A live August 2026 search primarily returned contemporary educational discussion of anekāntavāda and continuing ethical discussion of sallekhanā, not a clearly verified new court ruling in the February–August window. ⚠️ Inference: Use anekāntavāda as a conceptual resource for intellectual humility and sallekhanā as a bounded ethics application.",
+      "answer": "✅ Fact: A live August 2026 search primarily returned contemporary educational discussion of anekāntavāda and continuing ethical discussion of sallekhanā, not a clearly verified new court ruling in the February–August window. ⚠️ Inference: Use anekāntavāda as a conceptual resource for intellectual humility and sallekhanā as a bounded ethics application."
+    },
+    {
+      "title": "JAINISM: CORE DISTINCTIONS",
+      "terms": "A high-scoring opening states that Jainism is pluralistic realism with non-absolutist finite predication and a material theory of karmic bondage.",
+      "mechanism": "It also differs from Nyāya, where the self is conscious through conjunction with mind; in Jainism consciousness belongs intrinsically to jīva.",
+      "consequence": "Distinction. ✅ The Tīrthaṅkaras are liberated teachers and ford-makers, not creator Gods; Jainism remains anīśvaravāda (non-theistic about creation).",
+      "trap": "Distinction. ✅ Jainism is pluralistic: there are many jīvas, not one universal self.",
+      "answer": "Jainism (Jina-centred path of many-sided reality and liberation) is a pluralist realism in which anekāntavāda (doctrine of many-sided reality) holds that enduring dravya (substance) possesses guṇa (qualities) and changing paryāya (modes)."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2081,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 2
+    }
+  ]
+}

@@ -1,0 +1,1784 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g2\\modern-indian-history-19_Complete-Learning-Session_2026-08-31.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g2\\modern-indian-history-19_Complete-Learning-Session_2026-08-31.pdf",
+  "mode": "main",
+  "topic_key": "modern-indian-history-19",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 16,
+      "markdown_body_line_end": 23,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 402.091
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 104.69
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 50,
+      "markdown_body_line_end": 50,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-19\\g2\\assets\\modern-indian-history-19_Teaching-Navigation_2026-08-31.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 405.691
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 98.156
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 64,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not narrate South Africa as identical in constituency, law or scale to India.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 79,
+      "markdown_body_line_end": 84,
+      "heading": "VISUAL FIRST",
+      "preview": "SOUTH AFRICA, RETURN IN 1915 AND GOKHALE'S COUNSEL",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 455.624
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 404.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 119,
+      "markdown_body_line_end": 136,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - SOUTH AFRICA, RETURN IN 1915 AND GOKHALE'S COUNSEL",
+      "preview": "START / CONCEPT: FOUNDATION — South Africa, return in 1915 and Gokhale's counsel",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 185
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 764.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 553.091
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 147,
+      "markdown_body_line_end": 147,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Satyagraha is open, disciplined non-violent resistance grounded in truth and voluntary acceptance of suffering.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 413.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 346.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 162,
+      "markdown_body_line_end": 169,
+      "heading": "VISUAL FIRST",
+      "preview": "SATYAGRAHA PRINCIPLES AND POLITICAL MECHANISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 204,
+      "markdown_body_line_end": 221,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - SATYAGRAHA PRINCIPLES AND POLITICAL MECHANISM",
+      "preview": "START / CONCEPT: FOUNDATION — Satyagraha principles and political mechanism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 160
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 317.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 106.091
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 232,
+      "markdown_body_line_end": 232,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not erase peasant and local initiative by presenting Gandhi as the source of the grievance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 247,
+      "markdown_body_line_end": 255,
+      "heading": "VISUAL FIRST",
+      "preview": "CHAMPARAN: RAJ KUMAR SHUKLA, TINKATHIA AND LOCAL AGENCY",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 441.424
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 360.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 292,
+      "markdown_body_line_end": 309,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CHAMPARAN: RAJ KUMAR SHUKLA, TINKATHIA AND LOCAL AGENCY",
+      "preview": "START / CONCEPT: FOUNDATION — Champaran: Raj Kumar Shukla, tinkathia and local agency",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 145
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 650.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 429.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 320,
+      "markdown_body_line_end": 320,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The reform-repression contradiction is the coexistence of rising constitutional expectations with continuing economic distress and exceptional coercion.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 275.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 208.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 335,
+      "markdown_body_line_end": 342,
+      "heading": "VISUAL FIRST",
+      "preview": "WARTIME HARDSHIP AND THE REFORM-REPRESSION CONTRADICTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 378,
+      "markdown_body_line_end": 395,
+      "heading": "CLOSING RECALL FLOW - CORE - WARTIME HARDSHIP AND THE REFORM-REPRESSION CONTRADICTION",
+      "preview": "START / CONCEPT: CORE — Wartime hardship and the reform-repression contradiction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 201
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 286.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 65.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 406,
+      "markdown_body_line_end": 406,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The Ahmedabad dispute was an industrial wage conflict shaped by the withdrawal or adjustment of a plague-related bonus.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 421,
+      "markdown_body_line_end": 428,
+      "heading": "VISUAL FIRST",
+      "preview": "AHMEDABAD: PLAGUE BONUS, WAGES AND THE SARABHAI RELATIONSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 441.424
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 370.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 464,
+      "markdown_body_line_end": 481,
+      "heading": "CLOSING RECALL FLOW - CORE - AHMEDABAD: PLAGUE BONUS, WAGES AND THE SARABHAI RELATIONSHIP",
+      "preview": "START / CONCEPT: CORE — Ahmedabad: plague bonus, wages and the Sarabhai relationship",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 168
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 703.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 492.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 492,
+      "markdown_body_line_end": 492,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A fast can create moral coercion; do not describe it as a neutral substitute for bargaining.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 367.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 314.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 507,
+      "markdown_body_line_end": 515,
+      "heading": "VISUAL FIRST",
+      "preview": "AHMEDABAD: FIRST INDIAN FAST, PLEDGE AND ARBITRATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 552,
+      "markdown_body_line_end": 569,
+      "heading": "CLOSING RECALL FLOW - CORE - AHMEDABAD: FIRST INDIAN FAST, PLEDGE AND ARBITRATION",
+      "preview": "START / CONCEPT: CORE — Ahmedabad: first Indian fast, pledge and arbitration",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 159
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 272.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 61.691
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 580,
+      "markdown_body_line_end": 580,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Revenue remission or suspension is relief from collection under stated conditions, not abolition of the land-revenue system.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 595,
+      "markdown_body_line_end": 602,
+      "heading": "VISUAL FIRST",
+      "preview": "KHEDA: CROP FAILURE, REVENUE REMISSION AND LEADERSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 356.224
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 638,
+      "markdown_body_line_end": 655,
+      "heading": "CLOSING RECALL FLOW - CORE - KHEDA: CROP FAILURE, REVENUE REMISSION AND LEADERSHIP",
+      "preview": "START / CONCEPT: CORE — Kheda: crop failure, revenue remission and leadership",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 173
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 696.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 475.491
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 666,
+      "markdown_body_line_end": 666,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "CORE — Comparative anatomy of Champaran, Ahmedabad and Kheda comprises Comparative anatomy of Champaran, Ahmedabad and Kheda as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 321.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 254.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 681,
+      "markdown_body_line_end": 688,
+      "heading": "VISUAL FIRST",
+      "preview": "COMPARATIVE ANATOMY OF CHAMPARAN, AHMEDABAD AND KHEDA",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 724,
+      "markdown_body_line_end": 741,
+      "heading": "CLOSING RECALL FLOW - CORE - COMPARATIVE ANATOMY OF CHAMPARAN, AHMEDABAD AND KHEDA",
+      "preview": "START / CONCEPT: CORE — Comparative anatomy of Champaran, Ahmedabad and Kheda",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 187
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 286.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 95.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 752,
+      "markdown_body_line_end": 752,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not convert two introduced Bills into two enacted Acts or confuse Rowlatt with constitutional reform.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 641.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 767,
+      "markdown_body_line_end": 777,
+      "heading": "VISUAL FIRST",
+      "preview": "ROWLATT COMMITTEE, BILLS AND ACT",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 359.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 812,
+      "markdown_body_line_end": 829,
+      "heading": "CLOSING RECALL FLOW - CORE - ROWLATT COMMITTEE, BILLS AND ACT",
+      "preview": "START / CONCEPT: CORE — Rowlatt Committee, Bills and Act",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 221
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 716.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 495.691
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 840,
+      "markdown_body_line_end": 840,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not erase the date mismatch or present the hartal as uniformly controlled.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 370.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 317.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 855,
+      "markdown_body_line_end": 861,
+      "heading": "VISUAL FIRST",
+      "preview": "SATYAGRAHA SABHA, 6 APRIL HARTAL AND DELHI MISMATCH",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 897,
+      "markdown_body_line_end": 914,
+      "heading": "CLOSING RECALL FLOW - CORE - SATYAGRAHA SABHA, 6 APRIL HARTAL AND DELHI MISMATCH",
+      "preview": "START / CONCEPT: CORE — Satyagraha Sabha, 6 April hartal and Delhi mismatch",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 150
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 309.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 98.891
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 925,
+      "markdown_body_line_end": 925,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Himalayan miscalculation names Gandhi's judgement that mass civil disobedience had been called before adequate non-violent discipline existed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 940,
+      "markdown_body_line_end": 948,
+      "heading": "VISUAL FIRST",
+      "preview": "VIOLENCE AND THE HIMALAYAN MISCALCULATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 332.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 983,
+      "markdown_body_line_end": 1000,
+      "heading": "CLOSING RECALL FLOW - CORE - VIOLENCE AND THE HIMALAYAN MISCALCULATION",
+      "preview": "START / CONCEPT: CORE — Violence and the Himalayan miscalculation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 191
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 696.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 485.491
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1011,
+      "markdown_body_line_end": 1011,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not begin the Punjab story only at the moment Dyer entered Jallianwala Bagh.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 374.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 321.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1026,
+      "markdown_body_line_end": 1033,
+      "heading": "VISUAL FIRST",
+      "preview": "PUNJAB CONTEXT AND THE ARRESTS OF KITCHLEW AND SATYA PAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1069,
+      "markdown_body_line_end": 1086,
+      "heading": "CLOSING RECALL FLOW - CORE - PUNJAB CONTEXT AND THE ARRESTS OF KITCHLEW AND SATYA PAL",
+      "preview": "START / CONCEPT: CORE — Punjab context and the arrests of Kitchlew and Satya Pal",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 191
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 286.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 75.891
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1097,
+      "markdown_body_line_end": 1097,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Reginald Dyer must not be confused with Lieutenant-Governor Michael O'Dwyer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1112,
+      "markdown_body_line_end": 1120,
+      "heading": "VISUAL FIRST",
+      "preview": "JALLIANWALA BAGH: ENCLOSED SPACE, DYER AND FIRING",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 455.624
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 374.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1157,
+      "markdown_body_line_end": 1174,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - JALLIANWALA BAGH: ENCLOSED SPACE, DYER AND FIRING",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Jallianwala Bagh: enclosed space, Dyer and firing",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 149
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 683.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 472.491
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1185,
+      "markdown_body_line_end": 1185,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not generalise the crawling order to all Punjab or treat Hunter as a shared national verdict.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 332.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 280.224
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1200,
+      "markdown_body_line_end": 1209,
+      "heading": "VISUAL FIRST",
+      "preview": "MARTIAL LAW, CRAWLING ORDER AND COMPETING INQUIRIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1246,
+      "markdown_body_line_end": 1263,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - MARTIAL LAW, CRAWLING ORDER AND COMPETING INQUIRIES",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Martial law, crawling order and competing inquiries",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 199
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1274,
+      "markdown_body_line_end": 1274,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Withdrawal of moral consent is the public rejection of honours and cooperation once imperial authority is judged illegitimate.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 403.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 336.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1289,
+      "markdown_body_line_end": 1297,
+      "heading": "VISUAL FIRST",
+      "preview": "MORAL REPUDIATION, CONSEQUENCES AND NON-COOPERATION BRIDGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1336,
+      "markdown_body_line_end": 1353,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - MORAL REPUDIATION, CONSEQUENCES AND NON-COOPERATION BRIDGE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Moral repudiation, consequences and Non-Cooperation bridge",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 175
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2166,
+      "markdown_body_line_end": 2168,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 409.091
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 328.224
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2174,
+      "markdown_body_line_end": 2178,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 276.624
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 117.722
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2186,
+      "markdown_body_line_end": 2186,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2191,
+      "markdown_body_line_end": 2192,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 758.624
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 691.956
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2198,
+      "markdown_body_line_end": 2201,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 640.356
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 480.954
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2208,
+      "markdown_body_line_end": 2208,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 424.554
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 379.887
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2497,
+      "markdown_body_line_end": 2505,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 275.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 91.09
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2525,
+      "markdown_body_line_end": 2533,
+      "heading": "2. Key classification / data",
+      "preview": "Method / episode | Advanced significance",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Method / episode",
+          "Advanced significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 499.691
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 270.69
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2537,
+      "markdown_body_line_end": 2539,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Wartime conditions and Home Rule background → `advanced/18_WWI-Home-Rule-and-Lucknow-Pact.md`. **Study link:** ✅ Non-Cooperation as the mature all-India Gandhian movement → `advanced/20_Non-Cooperation-and-Khilafat-Movemen",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 270.69
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 175.622
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2554,
+      "markdown_body_line_end": 2554,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Gandhi's early campaigns were not identical; each tested a different social constituency and technique.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 768.891
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 702.224
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2578,
+      "markdown_body_line_end": 2588,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Formation-to-national-leadership chronology",
+      "preview": "1893-1914 -> South African formation of satyagraha",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 330.024
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 227.224
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2592,
+      "markdown_body_line_end": 2599,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Satyagraha mechanism",
+      "preview": "TRUTH -> grievance must survive factual inquiry",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2603,
+      "markdown_body_line_end": 2610,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Champaran local-agency chain",
+      "preview": "TINKATHIA = 3/20 / PLANTER PRESSURE -> cultivator grievance",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2614,
+      "markdown_body_line_end": 2621,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Ahmedabad relationship and dispute map",
+      "preview": "WORKERS SEEK 50% -> plague-bonus and wage claim",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 598.891
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 526.691
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2625,
+      "markdown_body_line_end": 2632,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Ahmedabad pressure-to-arbitration sequence",
+      "preview": "DISPUTE -> worker pledge and 21-day strike",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 504.691
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 432.491
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2636,
+      "markdown_body_line_end": 2643,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Kheda remission campaign",
+      "preview": "CROP FAILURE -> four annas or less under revenue rules",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 410.491
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 338.291
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2647,
+      "markdown_body_line_end": 2654,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Three local laboratories",
+      "preview": "CHAMPARAN -> cultivators / planters / indigo / inquiry plus defiance",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 316.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 244.091
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2658,
+      "markdown_body_line_end": 2666,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Rowlatt emergency-power carryover",
+      "preview": "WAR -> inflation, scarcity, epidemic distress and coercive power",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2670,
+      "markdown_body_line_end": 2677,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Sabha, hartal and communication gap",
+      "preview": "FEB 1919 -> Satyagraha Sabha in Bombay",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 610.691
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2681,
+      "markdown_body_line_end": 2691,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: The Himalayan-miscalculation feedback",
+      "preview": "ALL-INDIA APPEAL -> rapid mobilisation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 588.691
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 485.891
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2695,
+      "markdown_body_line_end": 2705,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Punjab trigger-to-massacre sequence",
+      "preview": "WARTIME PUNJAB -> recruitment pressure and repression",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 463.891
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 361.091
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2709,
+      "markdown_body_line_end": 2717,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Martial law, inquiry and moral rupture",
+      "preview": "13 APRIL MASSACRE -> formal martial law follows",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 339.091
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 256.691
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    }
+  ]
+}

@@ -1,0 +1,982 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-i-western-philosophy-01",
+  "subject": "Philosophy",
+  "title": "PLATO AND ARISTOTLE",
+  "short_route": "CENTRAL PROBLEM: ONE, MANY → TWO-LEVEL ONTOLOGY AND THE → PARTICIPATION PRESSURE AND ARISTOTLE'S → ARISTOTLE'S SUBSTANCE HIERARCHY AND → HYLOMORPHIC COMPOSITE: MATTER, FORM → FOUR CAUSES AS A",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-01\\g3\\topic-01_Complete-Learning-Session_2026-08-29.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy--paper-i-western-philosophy-ascii-2026-08-26.json",
+  "ascii_spec_sha256": "347bc20cd6a6e36dc49f84cc01b1b31ac9882d7f4ea00a746bc3fcb8e3e8c279",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CENTRAL PROBLEM: ONE, MANY, KNOWLEDGE AND STABILITY",
+      "structural_type": "conceptual-root-branch",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CENTRAL PROBLEM",
+          "role": "primary"
+        },
+        {
+          "text": "ONE, MANY, KNOWLEDGE AND STABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "HOW CAN MANY CHANGING THINGS SHARE ONE KNOWABLE CHARACTER?",
+          "role": "comparison"
+        },
+        {
+          "text": "MANY JUST ACTS",
+          "role": "evidence"
+        },
+        {
+          "text": "ONE INTELLIGIBLE STANDARD OF JUSTICE",
+          "role": "primary"
+        },
+        {
+          "text": "EPISTEME REQUIRES A STABLE OBJECT, NOT FLUX ALONE",
+          "role": "caution"
+        },
+        {
+          "text": "TRANSCENDENT FORMS; PARTICULARS PARTICIPATE OR IMITATE",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATION MAKES THE FORM-PARTICULAR RELATION HARD TO EXPLAIN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL QUESTION: HOW CAN MANY CHANGING THINGS SHARE ONE KNOWABLE CHARACTER?",
+        "ONE-MANY: many just acts → one intelligible standard of Justice",
+        "KNOWLEDGE: episteme requires a stable object, not flux alone",
+        "PLATO: transcendent Forms; particulars participate or imitate",
+        "COST: separation makes the Form-particular relation hard to explain"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL QUESTION: HOW CAN MANY CHANGING THINGS SHARE ONE KNOWABLE CHARACTER?",
+            "ONE-MANY: many just acts → one intelligible standard of Justice"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "KNOWLEDGE: episteme requires a stable object, not flux alone",
+            "PLATO: transcendent Forms; particulars participate or imitate"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "COST: separation makes the Form-particular relation hard to explain",
+            "CENTRAL QUESTION: HOW CAN MANY CHANGING THINGS SHARE ONE KNOWABLE CHARACTER?"
+          ]
+        }
+      ],
+      "mechanism_strip": "Many changing particulars are intelligible as instances only because a stable universal Form supplies the common character reason grasps.",
+      "answer_line": "Plato's Forms convert the one-many and knowledge problems into a two-level ontology in which stable intelligible universals ground predication and knowledge, while sensible particulars possess derivative reality.",
+      "source_references": [
+        "SESSION 1"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "TWO-LEVEL ONTOLOGY AND THE ASCENT FROM OPINION TO KNOWLEDGE",
+      "structural_type": "epistemic-ladder-hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TWO-LEVEL ONTOLOGY AND THE ASCENT FROM OPINION TO KNOWLEDGE",
+          "role": "primary"
+        },
+        {
+          "text": "PLATO'S TWO-LEVEL ONTOLOGY",
+          "role": "outcome"
+        },
+        {
+          "text": "STABLE, UNIVERSAL",
+          "role": "comparison"
+        },
+        {
+          "text": "MANY, CHANGING EPISTEME THROUGH REASON",
+          "role": "evidence"
+        },
+        {
+          "text": "DOXA THROUGH PERCEPTION",
+          "role": "primary"
+        },
+        {
+          "text": "^ PARTICIPATION",
+          "role": "outcome"
+        },
+        {
+          "text": "VISIBLE THINGS",
+          "role": "comparison"
+        },
+        {
+          "text": "THE GOOD GROUNDS BOTH BEING AND KNOWABILITY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PLATO'S TWO-LEVEL ONTOLOGY",
+        "Forms: stable, universal",
+        "particulars: many, changing episteme through reason",
+        "doxa through perception",
+        "^ participation / imitation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "PLATO'S TWO-LEVEL ONTOLOGY",
+            "Forms: stable, universal",
+            "particulars: many, changing episteme through reason"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "doxa through perception",
+            "^ participation / imitation",
+            "CAVE: shadows → visible things → mathematics → Forms → Good"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "LINE: eikasia → pistis → dianoia → noesis",
+            "SUN: the Good grounds both being and knowability."
+          ]
+        }
+      ],
+      "mechanism_strip": "Cognitive ascent occurs by leaving images and unexamined hypotheses for dialectical understanding of Forms under the illumination of the Good.",
+      "answer_line": "The Sun, Line and Cave jointly identify the Good as the condition of being and knowing, grade opinion into knowledge, and portray education as the turning of the soul toward intelligible reality.",
+      "source_references": [
+        "SESSION 1",
+        "SESSION 2"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "PARTICIPATION PRESSURE AND ARISTOTLE'S IMMANENT REPAIR",
+      "structural_type": "problem-response-dialectic",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "PARTICIPATION PRESSURE AND ARISTOTLE'S IMMANENT REPAIR",
+          "role": "primary"
+        },
+        {
+          "text": "PLATONIC EXPLANATION ARISTOTELIAN PRESSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "FORM F",
+          "role": "comparison"
+        },
+        {
+          "text": "MANY F-THINGS",
+          "role": "evidence"
+        },
+        {
+          "text": "PARTICIPATION REMAINS METAPHORICAL SEPARATE PARADIGM EXPLAINS COMMON F",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATION DUPLICATES THE EXPLANANDUM",
+          "role": "outcome"
+        },
+        {
+          "text": "LIKENESS INVITES ANOTHER FORM",
+          "role": "comparison"
+        },
+        {
+          "text": "THIRD MAN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PLATONIC EXPLANATION ARISTOTELIAN PRESSURE",
+        "Form F → participation → many F-things",
+        "participation remains metaphorical separate paradigm explains common F",
+        "separation duplicates the explanandum",
+        "likeness invites another Form"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "PLATONIC EXPLANATION ARISTOTELIAN PRESSURE",
+            "Form F → participation → many F-things",
+            "participation remains metaphorical separate paradigm explains common F"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "separation duplicates the explanandum",
+            "likeness invites another Form",
+            "THIRD MAN: particulars + Form F resemble → further Form F2 → regress"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "REPLY: deny unrestricted self-predication or restrict the premise",
+            "RESIDUAL: how does a separate Form causally determine a particular?",
+            "ARISTOTLE'S REPAIR: retain form, but make it immanent in concrete substance."
+          ]
+        }
+      ],
+      "mechanism_strip": "If likeness to a separate Form itself requires a further Form, the original explanation reproduces the one-many problem instead of ending it.",
+      "answer_line": "Aristotle's criticism does not deny intelligibility through form; it denies that a separately existing Form can explain particulars without duplication, a non-metaphorical participation relation and regress.",
+      "source_references": [
+        "SESSION 3"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ARISTOTLE'S SUBSTANCE HIERARCHY AND EXPLANATORY ESSENCE",
+      "structural_type": "substance-hierarchy-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ARISTOTLE'S SUBSTANCE HIERARCHY AND EXPLANATORY ESSENCE",
+          "role": "primary"
+        },
+        {
+          "text": "WHAT EXISTS PRIMARILY, AND WHAT MAKES IT WHAT IT",
+          "role": "outcome"
+        },
+        {
+          "text": "WHICH THINGS? METAPHYSICS",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS PERSON/HORSE FORM OR ESSENCE EXPLAINS THE COMPOUND SECONDARY",
+          "role": "evidence"
+        },
+        {
+          "text": "SPECIES AND GENUS MATTER ALONE IS NOT A DETERMINATE",
+          "role": "caution"
+        },
+        {
+          "text": "SAFE SYNTHESIS",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIVIDUAL EXISTS; FORM EXPLAINS ITS IDENTITY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ARISTOTLE: WHAT EXISTS PRIMARILY, AND WHAT MAKES IT WHAT IT IS?",
+        "CATEGORIES: WHICH THINGS? METAPHYSICS: SUBSTANCE-HOOD?",
+        "primary = this person/horse form or essence explains the compound secondary = species and genus",
+        "not a determinate this accidents exist in a substance universal and genus are not primary",
+        "safe synthesis: individual exists; form explains its identity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "ARISTOTLE: WHAT EXISTS PRIMARILY, AND WHAT MAKES IT WHAT IT IS?",
+            "CATEGORIES: WHICH THINGS? METAPHYSICS: SUBSTANCE-HOOD?"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "primary = this person/horse form or essence explains the compound secondary = species and genus matter alone is",
+            "not a determinate this accidents exist in a substance universal and genus are not primary"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "safe synthesis: individual exists; form explains its identity",
+            "ARISTOTLE: WHAT EXISTS PRIMARILY, AND WHAT MAKES IT WHAT IT IS?"
+          ]
+        }
+      ],
+      "mechanism_strip": "The individual bears predicates, while its form or essence answers why this matter constitutes this determinate substance.",
+      "answer_line": "Aristotle makes the concrete individual the primary subject of predication, yet explains substance-hood through immanent form and essence, thereby distinguishing what exists primarily from what makes it what it is.",
+      "source_references": [
+        "SESSION 4"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "HYLOMORPHIC COMPOSITE: MATTER, FORM AND SUBSTANTIAL UNITY",
+      "structural_type": "hylomorphic-composite-columns",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "HYLOMORPHIC COMPOSITE",
+          "role": "primary"
+        },
+        {
+          "text": "MATTER, FORM AND SUBSTANTIAL UNITY",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE NATURAL SUBSTANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "MATTER INFORMED BY IMMANENT FORM",
+          "role": "evidence"
+        },
+        {
+          "text": "FORM THAT OUT OF WHICH",
+          "role": "primary"
+        },
+        {
+          "text": "ESSENCE RELATIVE POTENTIALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "ACTUALITY CAN RECEIVE DETERMINATION",
+          "role": "comparison"
+        },
+        {
+          "text": "MAKES THE COMPOSITE ONE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ONE NATURAL SUBSTANCE = MATTER INFORMED BY IMMANENT FORM",
+        "FORM that out of which",
+        "what-it-is / essence relative potentiality",
+        "organisation / actuality can receive determination",
+        "makes the composite one"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "ONE NATURAL SUBSTANCE = MATTER INFORMED BY IMMANENT FORM",
+            "FORM that out of which",
+            "what-it-is / essence relative potentiality"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "organisation / actuality can receive determination",
+            "makes the composite one",
+            "CONCRETE COMPOSITE bronze + statue-form; wood + table-form; body + soul in a living organism"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "LIMIT: prime matter is a theoretical limit, not independently existing stuff."
+          ]
+        }
+      ],
+      "mechanism_strip": "Matter makes alternative determination possible, while form organises that capacity into the actual unity and intelligibility of a substance.",
+      "answer_line": "Hylomorphism treats natural substance as one matter-form composite: matter supplies determinate capacity, while immanent form gives unity, essence and actuality without Platonic separation.",
+      "source_references": [
+        "SESSION 5"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "FOUR CAUSES AS A MATRIX OF EXPLANATORY COMPLETENESS",
+      "structural_type": "four-causes-comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FOUR CAUSES AS A MATRIX OF EXPLANATORY COMPLETENESS",
+          "role": "primary"
+        },
+        {
+          "text": "ONE QUESTION, FOUR COMPLEMENTARY SENSES OF WHY",
+          "role": "outcome"
+        },
+        {
+          "text": "FINAL MADE OF WHAT",
+          "role": "comparison"
+        },
+        {
+          "text": "WHAT IT IS",
+          "role": "evidence"
+        },
+        {
+          "text": "SOURCE OF CHANGE",
+          "role": "evidence"
+        },
+        {
+          "text": "FOR THE SAKE OF WHAT WOOD",
+          "role": "outcome"
+        },
+        {
+          "text": "TABLE STRUCTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "CARPENTER AND TOOLS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ONE QUESTION, FOUR COMPLEMENTARY SENSES OF WHY",
+        "FINAL made of what",
+        "what it is",
+        "source of change",
+        "for the sake of what wood"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "ONE QUESTION, FOUR COMPLEMENTARY SENSES OF WHY",
+          "for the sake of what wood",
+          "NATURAL CASE: acorn matter + oak form + generating parent/process + mature oak telos"
+        ],
+        [
+          "FINAL made of what",
+          "table structure",
+          "formal, efficient and final causes may coincide in natural development"
+        ],
+        [
+          "what it is",
+          "carpenter and tools",
+          "teleology need not mean a conscious external designer"
+        ],
+        [
+          "source of change",
+          "usable working surface",
+          "RESULT: explanatory completeness is richer than efficient succession alone."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "ONE QUESTION, FOUR COMPLEMENTARY SENSES OF WHY",
+            "FINAL made of what",
+            "what it is",
+            "source of change"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "for the sake of what wood",
+            "table structure",
+            "carpenter and tools",
+            "usable working surface"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "NATURAL CASE: acorn matter + oak form + generating parent/process + mature oak telos",
+            "formal, efficient and final causes may coincide in natural development",
+            "teleology need not mean a conscious external designer",
+            "RESULT: explanatory completeness is richer than efficient succession alone."
+          ]
+        }
+      ],
+      "mechanism_strip": "The four causes converge by explaining the material capacity, defining form, originating process and completed end of one substance or change.",
+      "answer_line": "Aristotle's four causes are complementary dimensions of explanatory completeness, because material constitution, formal identity, efficient production and final end answer irreducible senses of why.",
+      "source_references": [
+        "SESSION 6"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "POTENTIALITY TO ACTUALITY: CHANGE WITHOUT CREATION FROM NOTHING",
+      "structural_type": "potentiality-actuality-process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "POTENTIALITY TO ACTUALITY",
+          "role": "primary"
+        },
+        {
+          "text": "CHANGE WITHOUT CREATION FROM NOTHING",
+          "role": "outcome"
+        },
+        {
+          "text": "GROUNDED CAPACITY",
+          "role": "comparison"
+        },
+        {
+          "text": "PROCESS OF ACTUALISATION",
+          "role": "mechanism"
+        },
+        {
+          "text": "FULFILLED ACTUALITY WOOD FIT FOR A TABLE",
+          "role": "primary"
+        },
+        {
+          "text": "CUTTING AND JOINING",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPLETED TABLE ACORN ORDERED TO OAK",
+          "role": "comparison"
+        },
+        {
+          "text": "ORGANIC DEVELOPMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GROUNDED CAPACITY → PROCESS OF ACTUALISATION → FULFILLED ACTUALITY wood fit for a table →",
+        "→ completed table acorn ordered to oak → organic development → mature oak dynamis kinesis",
+        "change = actuality of the potential precisely as potential",
+        "actuality is prior in definition, end and species-level explanation",
+        "qualification: potentiality may be earlier in an individual's time"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "GROUNDED CAPACITY → PROCESS OF ACTUALISATION → FULFILLED ACTUALITY wood fit for a table → cutting and joining",
+            "→ completed table acorn ordered to oak → organic development → mature oak dynamis kinesis energeia / entelecheia"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "change = actuality of the potential precisely as potential",
+            "actuality is prior in definition, end and species-level explanation"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "qualification: potentiality may be earlier in an individual's time",
+            "RESULT: becoming is structured being-in-capacity, not emergence from sheer non-being."
+          ]
+        }
+      ],
+      "mechanism_strip": "An efficient process actualises a grounded capacity under a determining form and toward the completed actuality that gives the process direction.",
+      "answer_line": "Potentiality is a real, qualified capacity ordered to actuality, so change becomes the actualisation of what can be rather than an impossible leap from non-being to being.",
+      "source_references": [
+        "SESSION 7"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "TELEOLOGICAL ORDER AND PURE ACTUALITY",
+      "structural_type": "teleological-causal-sequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TELEOLOGICAL ORDER AND PURE ACTUALITY",
+          "role": "primary"
+        },
+        {
+          "text": "MOTION HERE AND NOW REQUIRES ACTUALITY, BUT THE SERIES",
+          "role": "outcome"
+        },
+        {
+          "text": "MOVED MOVER",
+          "role": "comparison"
+        },
+        {
+          "text": "ORDERED ETERNAL MOTION",
+          "role": "evidence"
+        },
+        {
+          "text": "UNMOVED MOVER",
+          "role": "primary"
+        },
+        {
+          "text": "PURE ACTUALITY WITHOUT UNREALISED POTENTIALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "MOVES AS FINAL CAUSE",
+          "role": "mechanism"
+        },
+        {
+          "text": "OBJECT OF DESIRE AND THOUGHT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MOTION HERE AND NOW REQUIRES ACTUALITY, BUT THE SERIES CANNOT BE PURE POTENCY moved mover",
+        "UNMOVED MOVER = PURE ACTUALITY WITHOUT UNREALISED POTENTIALITY",
+        "moves as final cause: object of desire and thought",
+        "thought thinking itself; no material composition",
+        "not a temporal first event or material cause"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "MOTION HERE AND NOW REQUIRES ACTUALITY, BUT THE SERIES CANNOT BE PURE POTENCY moved mover → moved mover → ordered eternal motion",
+            "UNMOVED MOVER = PURE ACTUALITY WITHOUT UNREALISED POTENTIALITY"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "moves as final cause: object of desire and thought",
+            "thought thinking itself; no material composition"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "not a temporal first event or material cause",
+            "LIMIT: do not equate Aristotle's mover with a personal efficient creator."
+          ]
+        }
+      ],
+      "mechanism_strip": "The highest actuality moves without undergoing change because dependent motion is ordered toward it as the ultimate object of desire and thought.",
+      "answer_line": "The Unmoved Mover completes Aristotle's priority of actuality as pure act and final cause of cosmic motion, but it should not be assimilated uncritically to a personal efficient creator.",
+      "source_references": [
+        "SESSION 8"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "PLATO AND ARISTOTLE ON FORM: COMPARISON, CRITICISM AND REPLY",
+      "structural_type": "comparison-matrix-dialectic",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PLATO AND ARISTOTLE ON FORM",
+          "role": "primary"
+        },
+        {
+          "text": "COMPARISON, CRITICISM AND REPLY",
+          "role": "outcome"
+        },
+        {
+          "text": "ARISTOTLE STATUS OF FORM",
+          "role": "comparison"
+        },
+        {
+          "text": "TRANSCENDENT AND SEPARATE",
+          "role": "evidence"
+        },
+        {
+          "text": "IMMANENT IN SUBSTANCE PRIMARY REALITY",
+          "role": "primary"
+        },
+        {
+          "text": "UNIVERSAL FORM",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCRETE INDIVIDUAL RELATION TO PARTICULARS",
+          "role": "comparison"
+        },
+        {
+          "text": "HYLOMORPHIC CONSTITUTION EXPLANATION OF CHANGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARISTOTLE status of form",
+        "transcendent and separate",
+        "immanent in substance primary reality",
+        "universal Form",
+        "concrete individual relation to particulars"
+      ],
+      "matrix": [
+        [
+          "DOCTRINE / CLAIM",
+          "OBJECTION / PRESSURE",
+          "REPLY / RESIDUAL"
+        ],
+        [
+          "ARISTOTLE status of form",
+          "participation / imitation",
+          "REPLY FOR PLATO → stable universals secure objectivity, definition and norms"
+        ],
+        [
+          "transcendent and separate",
+          "hylomorphic constitution explanation of change",
+          "OBJECTION TO ARISTOTLE → universality and prime matter remain difficult"
+        ],
+        [
+          "immanent in substance primary reality",
+          "limited paradigmatic role",
+          "VERDICT → Aristotle transforms Plato's insight; he does not simply erase it."
+        ],
+        [
+          "universal Form",
+          "causes plus potency-act",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "ARISTOTLE status of form",
+            "transcendent and separate",
+            "immanent in substance primary reality",
+            "universal Form",
+            "concrete individual relation to particulars"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "participation / imitation",
+            "hylomorphic constitution explanation of change",
+            "limited paradigmatic role",
+            "causes plus potency-act",
+            "OBJECTION TO PLATO → duplication, regress and causal gap"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "REPLY FOR PLATO → stable universals secure objectivity, definition and norms",
+            "OBJECTION TO ARISTOTLE → universality and prime matter remain difficult",
+            "VERDICT → Aristotle transforms Plato's insight; he does not simply erase it."
+          ]
+        }
+      ],
+      "mechanism_strip": "Aristotle preserves Plato's demand for intelligible form but relocates its explanatory work inside substances, causes and developmental powers.",
+      "answer_line": "Plato secures universality by transcendent Forms, whereas Aristotle internalises form within substance to gain causal and developmental explanation, though both must still account for the relation between universality and particulars.",
+      "source_references": [
+        "SESSION 9"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "synthesis",
+      "title": "ANSWER SPINE AND PRECISION DISTINCTIONS",
+      "structural_type": "answer-exam-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER SPINE AND PRECISION DISTINCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "ORGANISING ACTUALITY; UNIVERSAL",
+          "role": "outcome"
+        },
+        {
+          "text": "PREDICABLE OF MANY",
+          "role": "comparison"
+        },
+        {
+          "text": "WHAT-IT-IS; SUBSTANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "PRIMARY BEARER",
+          "role": "primary"
+        },
+        {
+          "text": "CONCRETE BEING",
+          "role": "outcome"
+        },
+        {
+          "text": "CAPACITY PRINCIPLE; CAUSE",
+          "role": "mechanism"
+        },
+        {
+          "text": "EXPLANATORY BECAUSE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DIRECTIVE → DEFINITION → ARGUMENT → EXAMPLE → OBJECTION → REPLY → VERDICT",
+        "FORM: organising actuality; UNIVERSAL: predicable of many",
+        "ESSENCE: what-it-is; SUBSTANCE: primary bearer / concrete being",
+        "MATTER: capacity principle; CAUSE: explanatory because",
+        "POTENTIALITY: qualified capacity; ACTUALITY: fulfilment or activity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "DIRECTIVE → DEFINITION → ARGUMENT → EXAMPLE → OBJECTION → REPLY → VERDICT",
+            "FORM: organising actuality; UNIVERSAL: predicable of many",
+            "ESSENCE: what-it-is; SUBSTANCE: primary bearer / concrete being",
+            "MATTER: capacity principle; CAUSE: explanatory because"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POTENTIALITY: qualified capacity; ACTUALITY: fulfilment or activity",
+            "PYQ ROUTES",
+            "Forms → one-many + knowledge + participation; Substance → Categories/Metaphysics",
+            "Causes → four complementary explanations; Change → potentiality to actuality"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "Comparison → transcendent Form versus immanent form on matched axes",
+            "FINAL CONTROL: answer the printed directive, not a general biography of two thinkers."
+          ]
+        }
+      ],
+      "mechanism_strip": "Directive fidelity converts doctrine into marks by ordering definition, argument, named example, criticism, reply and an explicitly qualified verdict.",
+      "answer_line": "A precise answer must keep universal, form, essence, substance, matter, cause, potentiality and actuality distinct before showing how Aristotle reorganises Plato's problem rather than merely rejecting it.",
+      "source_references": [
+        "SESSION 10"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 1 — PLATO'S MASTER MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "FORMS, PARTICULARS AND TWO-WORLD ONTOLOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED SESSION 2 — SUN, DIVIDED LINE AND CAVE",
+          "role": "evidence"
+        },
+        {
+          "text": "GOOD, KNOWLEDGE AND METAPHYSICS",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED SESSION 3 — PARTICIPATION, THIRD MAN AND ARISTOTLE'S",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED SESSION 4 — ARISTOTLE'S SUBSTANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "CATEGORIES, METAPHYSICS AND ACCIDENTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "ADVANCED SESSION 1 — Plato's Master Map: Forms, Particulars and Two-World Ontology",
+            "ADVANCED SESSION 2 — Sun, Divided Line and Cave: Good, Knowledge and Metaphysics",
+            "ADVANCED SESSION 3 — Participation, Third Man and Aristotle's Critique of Separated Forms",
+            "ADVANCED SESSION 4 — Aristotle's Substance: Categories, Metaphysics and Accidents"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "ADVANCED SESSION 5 — Hylomorphism: Matter Relativity, Prime Matter and the Status of Form",
+            "ADVANCED SESSION 6 — Four Causes and Teleology: Artifacts, Organisms and Development",
+            "ADVANCED SESSION 7 — Potentiality and Actuality: Energeia, Entelecheia and Becoming",
+            "ADVANCED SESSION 8 — The Unmoved Mover and Aristotle's Integrated Metaphysical System"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "ADVANCED SESSION 9 — Plato-Aristotle Comparison, Criticisms and Wider Philosophical Debates",
+            "ADVANCED SESSION 10 — PYQ Routing, Terminology, Directives, Citations and Verdict Discipline",
+            "ADVANCED DOSSIER REFINEMENTS — USE SELECTIVELY",
+            "Elucidate: clarify implications and distinctions."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

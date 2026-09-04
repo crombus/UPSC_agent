@@ -1,0 +1,1872 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-24\\g3\\modern-indian-history-24_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-24\\g3\\modern-indian-history-24_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "modern-indian-history-24",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 16,
+      "markdown_body_line_end": 23,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 394.691
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 97.29
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 45,
+      "markdown_body_line_end": 45,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-24\\g3\\assets\\modern-indian-history-24_Teaching-Navigation_2026-08-31.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 155.756
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 59,
+      "markdown_body_line_end": 59,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The 1935 Act's constitutional lineage is the ordered sequence Simon Report, Round Table Conferences, White Paper and Joint Select Committee, ending in royal assent.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 79,
+      "heading": "VISUAL FIRST",
+      "preview": "CONSTITUTIONAL LINEAGE: FROM SIMON TO ROYAL ASSENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 362.024
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 115,
+      "markdown_body_line_end": 132,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CONSTITUTIONAL LINEAGE: FROM SIMON TO ROYAL ASSENT",
+      "preview": "START / CONCEPT: FOUNDATION — Constitutional lineage: from Simon to royal assent",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 231
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 620.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 379.691
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 143,
+      "markdown_body_line_end": 143,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Core claim: The 1935 Act is best analysed as two separable halves — an All-India Federation with central dyarchy, and provincial autonomy with dyarchy abolished — and only the provincial half ever became operative.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 239.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 173.224
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 158,
+      "markdown_body_line_end": 164,
+      "heading": "VISUAL FIRST",
+      "preview": "TWO HALVES OF THE ACT AND THE FEDERATION THAT NEVER OPERATED",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 672.691
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 200,
+      "markdown_body_line_end": 217,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - TWO HALVES OF THE ACT AND THE FEDERATION THAT NEVER OPERATED",
+      "preview": "START / CONCEPT: FOUNDATION — Two halves of the Act and the federation that never operated",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 243
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 228,
+      "markdown_body_line_end": 228,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not say the Act 'modified' provincial dyarchy; it abolished it, and do not describe central dyarchy as operating.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 403.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 351.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 243,
+      "markdown_body_line_end": 248,
+      "heading": "VISUAL FIRST",
+      "preview": "PROVINCIAL DYARCHY ABOLISHED, NOT MERELY MODIFIED",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 284,
+      "markdown_body_line_end": 301,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - PROVINCIAL DYARCHY ABOLISHED, NOT MERELY MODIFIED",
+      "preview": "START / CONCEPT: FOUNDATION — Provincial dyarchy abolished, not merely modified",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 215
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 277.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 46.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 312,
+      "markdown_body_line_end": 312,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Discretionary powers and special responsibilities were standing governor authorities under the 1935 Act that could override or bypass ministerial advice on named grounds.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 327,
+      "markdown_body_line_end": 333,
+      "heading": "VISUAL FIRST",
+      "preview": "GOVERNOR'S DISCRETIONARY POWERS AND SPECIAL RESPONSIBILITIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 352.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 369,
+      "markdown_body_line_end": 386,
+      "heading": "CLOSING RECALL FLOW - CORE - GOVERNOR'S DISCRETIONARY POWERS AND SPECIAL RESPONSIBILITIES",
+      "preview": "START / CONCEPT: CORE — Governor's discretionary powers and special responsibilities",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 219
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 636.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 395.091
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 397,
+      "markdown_body_line_end": 397,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The 1939 resignations were triggered by unconsulted wartime belligerency, not by any Section 93 action.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 255.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 202.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 412,
+      "markdown_body_line_end": 418,
+      "heading": "VISUAL FIRST",
+      "preview": "SECTION 93: THE BACKGROUND EMERGENCY RESERVE POWER",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 701.091
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 454,
+      "markdown_body_line_end": 471,
+      "heading": "CLOSING RECALL FLOW - CORE - SECTION 93: THE BACKGROUND EMERGENCY RESERVE POWER",
+      "preview": "START / CONCEPT: CORE — Section 93: the background emergency reserve power",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 165
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 482,
+      "markdown_body_line_end": 482,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "State the four reserved subjects exactly — Defence, External Affairs, Ecclesiastical Affairs and Tribal Areas — and do not add or omit any of them.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 359.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 497,
+      "markdown_body_line_end": 505,
+      "heading": "VISUAL FIRST",
+      "preview": "RESERVED CENTRAL SUBJECTS AND RESIDUARY POWER",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 541,
+      "markdown_body_line_end": 558,
+      "heading": "CLOSING RECALL FLOW - CORE - RESERVED CENTRAL SUBJECTS AND RESIDUARY POWER",
+      "preview": "START / CONCEPT: CORE — Reserved central subjects and residuary power",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 203
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 569,
+      "markdown_body_line_end": 569,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Core claim: The 1935 Act widened the franchise substantially, but because sources differ on the denominator, the safest exam answer states a qualified range rather than a single exact number.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 416.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 584,
+      "markdown_body_line_end": 590,
+      "heading": "VISUAL FIRST",
+      "preview": "FRANCHISE REFORM AS A QUALIFIED RANGE, NOT ONE EXACT FIGURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 626,
+      "markdown_body_line_end": 643,
+      "heading": "CLOSING RECALL FLOW - CORE - FRANCHISE REFORM AS A QUALIFIED RANGE, NOT ONE EXACT FIGURE",
+      "preview": "START / CONCEPT: CORE — Franchise reform as a qualified range, not one exact figure",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 220
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 268.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 37.491
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 654,
+      "markdown_body_line_end": 654,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The Reserve Bank of India Act, 1934 is the separate statute that established the Reserve Bank of India one year before the Government of India Act, 1935.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 669,
+      "markdown_body_line_end": 674,
+      "heading": "VISUAL FIRST",
+      "preview": "RBI ACT 1934 VERSUS THE GOVERNMENT OF INDIA ACT 1935",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 376.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 710,
+      "markdown_body_line_end": 727,
+      "heading": "CLOSING RECALL FLOW - CORE - RBI ACT 1934 VERSUS THE GOVERNMENT OF INDIA ACT 1935",
+      "preview": "START / CONCEPT: CORE — RBI Act 1934 versus the Government of India Act 1935",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 227
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 696.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 475.491
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 738,
+      "markdown_body_line_end": 738,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not describe the Federal Court's start or Burma's separation as caused by each other; they are parallel 1937 developments under the same Act.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 335.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 269.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 753,
+      "markdown_body_line_end": 759,
+      "heading": "VISUAL FIRST",
+      "preview": "FEDERAL COURT AND BURMA SEPARATION: PARALLEL 1937 DEVELOPMENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 795,
+      "markdown_body_line_end": 812,
+      "heading": "CLOSING RECALL FLOW - CORE - FEDERAL COURT AND BURMA SEPARATION: PARALLEL 1937 DEVELOPMENTS",
+      "preview": "START / CONCEPT: CORE — Federal Court and Burma separation: parallel 1937 developments",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 199
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 823,
+      "markdown_body_line_end": 823,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not state that Congress formed eight ministries immediately after the February 1937 elections; distinguish the six July ministries, later NWFP ministry and 1938 Assam ministry.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 399.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 332.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 838,
+      "markdown_body_line_end": 845,
+      "heading": "VISUAL FIRST",
+      "preview": "1937 ELECTIONS, MINISTRY TIMING, NWFP AND ASSAM",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 881,
+      "markdown_body_line_end": 898,
+      "heading": "CLOSING RECALL FLOW - CORE - 1937 ELECTIONS, MINISTRY TIMING, NWFP AND ASSAM",
+      "preview": "START / CONCEPT: CORE — 1937 elections, ministry timing, NWFP and Assam",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 277
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 909,
+      "markdown_body_line_end": 909,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The office-acceptance debate was Congress's 1937 internal argument over whether taking provincial office would legitimise the 1935 Act's limited constitutional structure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 406.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 339.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 924,
+      "markdown_body_line_end": 930,
+      "heading": "VISUAL FIRST",
+      "preview": "THE 1937 OFFICE-ACCEPTANCE DEBATE INSIDE CONGRESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 966,
+      "markdown_body_line_end": 983,
+      "heading": "CLOSING RECALL FLOW - CORE - THE 1937 OFFICE-ACCEPTANCE DEBATE INSIDE CONGRESS",
+      "preview": "START / CONCEPT: CORE — The 1937 office-acceptance debate inside Congress",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 219
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 281.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 40.491
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 994,
+      "markdown_body_line_end": 994,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mains: Use this session for any 'assess the record of the Congress ministries' style question.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1009,
+      "markdown_body_line_end": 1015,
+      "heading": "VISUAL FIRST",
+      "preview": "ACHIEVEMENTS AND STRUCTURAL LIMITS OF THE CONGRESS MINISTRIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 352.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1051,
+      "markdown_body_line_end": 1068,
+      "heading": "CLOSING RECALL FLOW - CORE - ACHIEVEMENTS AND STRUCTURAL LIMITS OF THE CONGRESS MINISTRIES",
+      "preview": "START / CONCEPT: CORE — Achievements and structural limits of the Congress ministries",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 152
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 636.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 415.091
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1079,
+      "markdown_body_line_end": 1079,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not describe Deliverance Day as a shared or neutral national event; it was specifically the Muslim League's response.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 275.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 208.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1094,
+      "markdown_body_line_end": 1099,
+      "heading": "VISUAL FIRST",
+      "preview": "1939 RESIGNATION AND THE LEAGUE'S DELIVERANCE DAY",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1135,
+      "markdown_body_line_end": 1152,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - 1939 RESIGNATION AND THE LEAGUE'S DELIVERANCE DAY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — 1939 resignation and the League's Deliverance Day",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 205
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 264.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        29,
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1163,
+      "markdown_body_line_end": 1163,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Core claim: The Lahore Resolution of March 1940 followed the 1939 resignation and Deliverance Day, but it must be read as one link in a longer, multi-causal chain rather than a simple, single cause of Partition.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1178,
+      "markdown_body_line_end": 1182,
+      "heading": "VISUAL FIRST",
+      "preview": "LAHORE RESOLUTION AS ONE LINK, NOT THE WHOLE CAUSAL CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 343.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1218,
+      "markdown_body_line_end": 1235,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - LAHORE RESOLUTION AS ONE LINK, NOT THE WHOLE CAUSAL CHAIN",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Lahore Resolution as one link, not the whole causal chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 240
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 607.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 366.691
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1246,
+      "markdown_body_line_end": 1246,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The topic's two PYQ anchors are the confirmed-key 2024 Prelims Q62 on the federal scheme and reserved powers, and the key-unheld 2018 Prelims Q38 on residuary power.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 226.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 160.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1261,
+      "markdown_body_line_end": 1266,
+      "heading": "VISUAL FIRST",
+      "preview": "PYQ ANCHORS: CONFIRMED 2024 KEY AND CAUTIOUS 2018 RESIDUARY RECALL",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 682.691
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1302,
+      "markdown_body_line_end": 1319,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PYQ ANCHORS: CONFIRMED 2024 KEY AND CAUTIOUS 2018 RESIDUARY RECALL",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — PYQ anchors: confirmed 2024 key and cautious 2018 residuary recall",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 231
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1330,
+      "markdown_body_line_end": 1338,
+      "heading": "Text, material evidence and dating",
+      "preview": "Evidence | Historical use | Non-negotiable limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Evidence",
+          "Historical use",
+          "Non-negotiable limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 371.091
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 108.49
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1347,
+      "markdown_body_line_end": 1353,
+      "heading": "Historical formation matrix",
+      "preview": "Phase | Development | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Phase",
+          "Development",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 578.29
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1359,
+      "markdown_body_line_end": 1371,
+      "heading": "Institutions and patronage",
+      "preview": "oral teacher lineage",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 531.29
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 410.29
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2255,
+      "markdown_body_line_end": 2257,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 338.491
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 243.424
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2263,
+      "markdown_body_line_end": 2265,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 191.824
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 94.922
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2271,
+      "markdown_body_line_end": 2271,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2278,
+      "markdown_body_line_end": 2280,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 758.624
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 677.756
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2286,
+      "markdown_body_line_end": 2288,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 626.156
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 550.254
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2294,
+      "markdown_body_line_end": 2294,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 511.054
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 466.387
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2493,
+      "markdown_body_line_end": 2503,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 560.69
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2527,
+      "markdown_body_line_end": 2537,
+      "heading": "2. Key classification / data",
+      "preview": "Dimension | Advanced significance | Exam handle",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Dimension",
+          "Advanced significance",
+          "Exam handle"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 515.89
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2541,
+      "markdown_body_line_end": 2543,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Simon-RTC constitutional roots → `advanced/22_Simon-Nehru-Report-CDM-and-RTC.md`. **Study link:** ✅ Agrarian, labour and left pressure on ministry programmes → `advanced/23_Left-Peasant-Workers-and-States-Peoples-Movements",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 515.89
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 420.822
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2560,
+      "markdown_body_line_end": 2560,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: The Act created an appearance of constitutional advance while embedding safeguards; UPSC often tests the difference between **formal provision** and **actual implementation**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 226.822
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 160.154
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2584,
+      "markdown_body_line_end": 2592,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Constitutional lineage, Simon to royal assent",
+      "preview": "SIMON REPORT (1930) -> RTCs (1930-32) -> WHITE PAPER (1933)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 514.091
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 431.691
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2596,
+      "markdown_body_line_end": 2601,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Two halves of the Act, federation never in force",
+      "preview": "FEDERAL HALF -> All-India Federation + central dyarchy -> NEVER IN FORCE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 409.691
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 357.891
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2605,
+      "markdown_body_line_end": 2610,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Dyarchy: abolished provincially, unrealised centrally",
+      "preview": "1919 ACT -> provincial dyarchy (reserved + transferred subjects)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 335.891
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 284.091
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2614,
+      "markdown_body_line_end": 2619,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Governor's powers versus Section 93",
+      "preview": "DISCRETIONARY / SPECIAL RESPONSIBILITY -> continuous standing power",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2623,
+      "markdown_body_line_end": 2630,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Reserved subjects and residuary power",
+      "preview": "RESERVED TO GOVERNOR-GENERAL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2634,
+      "markdown_body_line_end": 2639,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Franchise reform as a qualified range",
+      "preview": "ELECTORATE -> roughly 30 to 35 million voters (source-dependent)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 567.491
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2643,
+      "markdown_body_line_end": 2648,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: RBI Act 1934 versus the 1935 Act",
+      "preview": "1934 -> Reserve Bank of India Act -> RBI founded",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 545.491
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 493.691
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2652,
+      "markdown_body_line_end": 2657,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Federal Court and Burma: parallel 1937 tracks",
+      "preview": "1935 ACT PROVISIONS -> two parallel 1937 developments",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 471.691
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 419.891
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2661,
+      "markdown_body_line_end": 2667,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: 1937 election and ministry timing, NWFP and Assam",
+      "preview": "FEB 1937 -> elections; Congress largest in most provinces",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 397.891
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 335.891
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2671,
+      "markdown_body_line_end": 2679,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Office-acceptance debate",
+      "preview": "FOR -> reformist and organisational opportunity within autonomy",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 313.891
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 231.491
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2683,
+      "markdown_body_line_end": 2690,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Ministries' achievements and structural limits",
+      "preview": "ACHIEVEMENTS -> civil liberties, prisoner release, tenancy/debt reform",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2694,
+      "markdown_body_line_end": 2699,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: 1939 resignation to Lahore, and the PYQ anchors",
+      "preview": "OCT-NOV 1939 -> ministries resign (unconsulted war declaration)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    }
+  ]
+}

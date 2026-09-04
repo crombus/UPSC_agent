@@ -1,0 +1,99 @@
+{
+  "record_id": "philosophy-paper-i-indian-philosophy-02:learner-v2:g7",
+  "topic_key": "philosophy-paper-i-indian-philosophy-02",
+  "variant": "learner-v2",
+  "generation": 7,
+  "supersedes": "philosophy-paper-i-indian-philosophy-02:learner-v2:g6",
+  "command": "Generate learner-v2 topic: Philosophy Optional — Philosophy Paper I — Indian Philosophy — Jainism — Learner-v2 refreshed — Learner-v2 semantic-aid repair",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-02\\g7\\topic-02_Complete-Learning-Session_2026-08-23.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-02\\g7\\topic-02_Solved-Practice-Workbook_2026-08-23.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-02\\g7\\topic-02_Complete-Learning-Session_2026-08-23.md",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-philosophy-layered-source-complete",
+    "source_basic": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Jainism.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Jainism\\Jainism_Layered-Complete-Learning-Session_2026-08-17.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Jainism.md",
+    "legacy_v1_source_package": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Jainism\\Jainism_Layered-Complete-Learning-Session_2026-08-17.md",
+    "legacy_v1_workbook": "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Jainism\\Jainism_Layered-Solved-Practice-Workbook_2026-08-17.md",
+    "pyq_corpus": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md",
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-02\\g7\\topic-02_Complete-Learning-Session_2026-08-23.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.1"
+    },
+    "generation_date": "2026-08-23",
+    "superseded_v1": "philosophy-paper-i-indian-philosophy-02:legacy-v1:g1",
+    "reused_legacy_assets": [
+      "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Jainism\\assets\\02_Jainism-Many-Sided-Reality.png"
+    ],
+    "migration_note": "Layered teaching was preserved and reordered into learner-v2 sequence. The legacy 32-question practice was replaced by 48 diagnostics and the original solved set expanded from three to six.",
+    "retrofit": {
+      "id": "continuous-core-first-2026-08-22",
+      "source_record": "philosophy-paper-i-indian-philosophy-02:learner-v2:g4",
+      "closure_flow": "source-derived and placed after every BASIC H3",
+      "workbook": "byte-preserved; no practice content changed",
+      "flowchart": "new continuous core-first same-master companion"
+    },
+    "refresh": {
+      "id": "semantic-aid-repair-2026-08-23",
+      "source_record": "philosophy-paper-i-indian-philosophy-02:learner-v2:g6",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-02\\topic-02_Complete-Learning-Session_2026-08-22.md",
+      "source_hashes": {
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-02\\carvaka-g6\\ascii-master.txt": "7b74ea91d0640c56f057049549156510d2b7a3784662a91e911258a69ed453c7",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-02\\carvaka-g6\\editable\\flowchart-data.json": "9bb87b6420a40192b45b5c69d5bf4d325e3770cf147a568e1584ace13fcb136a",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-02\\carvaka-g6\\editable\\README.txt": "691b325ba328333680e06e20926382872adbc91fcc69190ecfc6934fde2c8d25",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-02\\carvaka-g6\\master.png": "9c8d084cc6a5073cfcae4ff7e7279d8317d169ac64cdd82d0d1b0be43606b44f",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-02\\carvaka-g6\\poster.pdf": "f3661817b51b79f6660550628c85e32828064d38c1d5919ef89945aff4c69ba4",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-02\\carvaka-g6\\previews\\contact-sheet-01.png": "07d232afe64af420e87a6709ad7c26fe5c29ded51caeb151bd06b6a01cc82cc1",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-02\\carvaka-g6\\previews\\page-001.png": "5507a0c09e66377a0ac2047ce7b7607be080a8e3f71b0e6a863a1591559bdc08",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-02\\carvaka-g6\\tiled.pdf": "f8bbeaa99cb3f60cea1e166892b27ce22fad00efb39d0392ed5a0f0f64cb4fe9",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-02\\carvaka-g6\\validation-report.txt": "395af2c28a030b3e42e8a285ece6640ddb9f4884d2e2daac9f9591af65425e95",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-02\\topic-02_Complete-Learning-Session_2026-08-22.pdf": "5d612f94a28d6e3ce56a18e11e2aa3b511ba06d07b2673368caa6ea6e5979c54",
+        "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-02\\topic-02_Solved-Practice-Workbook_2026-08-22.pdf": "6363fba8ec79695eb9e1ff554617d9a12c91cc424e3ecb24bb8dc3b0e81ef106",
+        "tools\\markdown_learning_pdf.py": "394a0e26d0f972ebaab1015cd57da26c7b24951143162d3bc43d86d7ae67ca29",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-02\\assets\\02_Jainism-Many-Sided-Reality.png": "9ef607751bdd72d0706e5bec6989f29ff1d270316b922386265f3035f80f7792",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-02\\assets\\topic-02_Teaching-Navigation_2026-08-22.png": "e0c74c5199a32cc4e0ce1e1d4b971f37f4ad58bcede2dce5cf95f24630e87d6c",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-02\\topic-02_Complete-Learning-Session_2026-08-22.md": "10520cde89f6d9e378b3dff65d38078ed042ef24e7c1a8c877f7edd1302e979c",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-02\\topic-02_Solved-Practice-Workbook_2026-08-22.md": "da4c13f21113aada8bdef9e9fd4ea4589cc6eb952ae58a6171d09f424c9af99f",
+        "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Jainism\\assets\\02_Jainism-Many-Sided-Reality.png": "9ef607751bdd72d0706e5bec6989f29ff1d270316b922386265f3035f80f7792",
+        "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Jainism\\Jainism_Layered-Complete-Learning-Session_2026-08-17.md": "fdfa590144d7bd15aceb7f868bd40b9339da62c584302dbff5d5c1bf9bbbea58",
+        "upsc-ai-kit\\knowledge\\Philosophy\\Indian-Philosophy\\learning-sessions\\Jainism\\Jainism_Layered-Solved-Practice-Workbook_2026-08-17.md": "550f8a42c1e1c0b7807c57cfb68452d192ec619b0161c45a01d2dcb863b67e15",
+        "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\compatibility-pilot-core-first-g3-core-first-g4-core-first-g5\\philosophy-paper-i-indian-philosophy-02_Learning-Session.md": "f9233d14c4d8d8c98067f12e393e8aa2e028dc715e2594bdf3e31427b6ff0f34",
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md": "ba401dde672f4bab8a9dc4580a434be6ced246e9a81b5150b45cbeded9079fd1",
+        "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Jainism.md": "54b76e88930853541346eb2b650f9973ca82991bccac72d60ffdae7b1c732410"
+      },
+      "session_contract": "named-session definition/opening/keywords/use/closure",
+      "mcq_keys": "stable-topic-seed balanced deterministic non-patterned",
+      "tracker_updated": false,
+      "tracker_sha256": "9297217edabdd66ca5aa5897e57e2418f5cf606ff491b948cb1c20190c6e5d8d"
+    }
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "philosophy-paper-i-indian-philosophy-02:learner-v2:g7"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-23",
+    "validator": "tools/refresh_all_v2_learning_sessions.py + tools/validate_v2_export.py"
+  },
+  "generated_on": "2026-08-23",
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-02\\carvaka-g7",
+    "master_image": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-02\\carvaka-g7\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-02\\carvaka-g7\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-02\\carvaka-g7\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-02\\carvaka-g7\\editable",
+    "previews": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-02\\carvaka-g7\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-02\\carvaka-g7\\previews\\contact-sheet-01.png"
+    ],
+    "validation_report": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-02\\carvaka-g7\\validation-report.txt",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\flowcharts\\topic-02\\carvaka-g7\\ascii-master.txt"
+  },
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-02\\g7\\topic-02_Solved-Practice-Workbook_2026-08-23.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-02\\g7\\assets",
+  "refresh_profile": "semantic-aid-repair-2026-08-23"
+}

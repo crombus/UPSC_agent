@@ -1,0 +1,1621 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g5\\modern-indian-history-37_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g5\\modern-indian-history-37_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "modern-indian-history-37",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 16,
+      "markdown_body_line_end": 23,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 408.891
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 201.09
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 45,
+      "markdown_body_line_end": 45,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-37\\g5\\assets\\modern-indian-history-37_Teaching-Navigation_2026-08-31.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 532.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 224.556
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 59,
+      "markdown_body_line_end": 59,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Rajiv Gandhi's 1984 mandate is his record December 1984 election victory that opened a modernising agenda whose panchayati raj component reached constitutional status only later, under the 73rd and 74th Amendments.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 703.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 74,
+      "markdown_body_line_end": 80,
+      "heading": "VISUAL FIRST",
+      "preview": "RAJIV GANDHI'S 1984 MANDATE AND MODERNISING AGENDA",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 508.424
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 447.424
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 115,
+      "markdown_body_line_end": 132,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - RAJIV GANDHI'S 1984 MANDATE AND MODERNISING AGENDA",
+      "preview": "START / CONCEPT: FOUNDATION — Rajiv Gandhi's 1984 mandate and modernising agenda",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 268
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 653.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 412.891
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 143,
+      "markdown_body_line_end": 143,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not attribute the Anti-Defection Act to V.P.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 292.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 239.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 158,
+      "markdown_body_line_end": 164,
+      "heading": "VISUAL FIRST",
+      "preview": "THE ANTI-DEFECTION ACT, 1985",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 199,
+      "markdown_body_line_end": 216,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE ANTI-DEFECTION ACT, 1985",
+      "preview": "START / CONCEPT: FOUNDATION — The Anti-Defection Act, 1985",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 215
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 312.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 101.891
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 227,
+      "markdown_body_line_end": 227,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The 1985 accords are the three separate Punjab, Assam and Mizoram settlements Rajiv Gandhi concluded through negotiation, resolving regional crises inherited from the prior decade.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 242,
+      "markdown_body_line_end": 248,
+      "heading": "VISUAL FIRST",
+      "preview": "THE 1985 ACCORDS: PUNJAB, ASSAM AND MIZORAM",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 441.424
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 380.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 283,
+      "markdown_body_line_end": 300,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE 1985 ACCORDS: PUNJAB, ASSAM AND MIZORAM",
+      "preview": "START / CONCEPT: FOUNDATION — The 1985 accords: Punjab, Assam and Mizoram",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 229
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 696.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 485.491
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 311,
+      "markdown_body_line_end": 311,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The Shah Bano reversal is the 1986 legislative overturning of a 1985 Supreme Court maintenance ruling, undertaken under conservative religious pressure and alienating liberal and minority-rights opinion.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 364.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 298.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 326,
+      "markdown_body_line_end": 332,
+      "heading": "VISUAL FIRST",
+      "preview": "THE SHAH BANO CASE AND ITS REVERSAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 367,
+      "markdown_body_line_end": 384,
+      "heading": "CLOSING RECALL FLOW - CORE - THE SHAH BANO CASE AND ITS REVERSAL",
+      "preview": "START / CONCEPT: CORE — The Shah Bano case and its reversal",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 252
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 284.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 53.491
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 395,
+      "markdown_body_line_end": 395,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The Ayodhya shrine opening is the government's action intended to balance the Shah Bano reversal that instead alienated the other community and energised Hindu mobilisation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 410,
+      "markdown_body_line_end": 416,
+      "heading": "VISUAL FIRST",
+      "preview": "THE AYODHYA SHRINE OPENING",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 371.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 451,
+      "markdown_body_line_end": 468,
+      "heading": "CLOSING RECALL FLOW - CORE - THE AYODHYA SHRINE OPENING",
+      "preview": "START / CONCEPT: CORE — The Ayodhya shrine opening",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 222
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 653.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 422.891
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 479,
+      "markdown_body_line_end": 479,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The Bofors scandal is the 1987 arms-deal controversy that destroyed Rajiv Gandhi's 'Mr Clean' image and converted his own anti-corruption idiom into the platform used against his government.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 268.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 202.224
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 494,
+      "markdown_body_line_end": 500,
+      "heading": "VISUAL FIRST",
+      "preview": "THE BOFORS SCANDAL AND ITS POLITICAL FALLOUT",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 535,
+      "markdown_body_line_end": 552,
+      "heading": "CLOSING RECALL FLOW - CORE - THE BOFORS SCANDAL AND ITS POLITICAL FALLOUT",
+      "preview": "START / CONCEPT: CORE — The Bofors scandal and its political fallout",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 239
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 270.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 39.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 563,
+      "markdown_body_line_end": 563,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Singh's exit is his 1987 break from Congress via the Jan Morcha, followed by the 1988 formation of the Janata Dal and National Front on an anti-corruption platform.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 578,
+      "markdown_body_line_end": 584,
+      "heading": "VISUAL FIRST",
+      "preview": "V.P. SINGH'S EXIT AND THE NATIONAL FRONT",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 385.224
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 619,
+      "markdown_body_line_end": 636,
+      "heading": "CLOSING RECALL FLOW - CORE - V.P. SINGH'S EXIT AND THE NATIONAL FRONT",
+      "preview": "START / CONCEPT: CORE — V.P. Singh's exit and the National Front",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 193
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 668.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 457.091
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 647,
+      "markdown_body_line_end": 647,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The 1989 election is the contest that fragmented the party system, reducing Congress to about 197 seats, raising the BJP to 86, and installing V.P.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 317.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 250.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 662,
+      "markdown_body_line_end": 668,
+      "heading": "VISUAL FIRST",
+      "preview": "THE 1989 ELECTION AND PARTY-SYSTEM FRAGMENTATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 703,
+      "markdown_body_line_end": 720,
+      "heading": "CLOSING RECALL FLOW - CORE - THE 1989 ELECTION AND PARTY-SYSTEM FRAGMENTATION",
+      "preview": "START / CONCEPT: CORE — The 1989 election and party-system fragmentation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 196
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 256.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        19,
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 731,
+      "markdown_body_line_end": 731,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The Mandal Commission's 1990 implementation is V.P.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 655.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 746,
+      "markdown_body_line_end": 752,
+      "heading": "VISUAL FIRST",
+      "preview": "THE MANDAL COMMISSION, 1990",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 399.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 787,
+      "markdown_body_line_end": 804,
+      "heading": "CLOSING RECALL FLOW - CORE - THE MANDAL COMMISSION, 1990",
+      "preview": "START / CONCEPT: CORE — The Mandal Commission, 1990",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 161
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 696.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 485.491
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 815,
+      "markdown_body_line_end": 815,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Advani's rath yatra, 1990, is the religious-axis mobilisation intensifying the Ayodhya agitation in parallel with, and distinct from, the same-year caste-axis Mandal announcement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 345.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 279.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 830,
+      "markdown_body_line_end": 836,
+      "heading": "VISUAL FIRST",
+      "preview": "ADVANI'S RATH YATRA AND THE AYODHYA MOBILISATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 871,
+      "markdown_body_line_end": 888,
+      "heading": "CLOSING RECALL FLOW - CORE - ADVANI'S RATH YATRA AND THE AYODHYA MOBILISATION",
+      "preview": "START / CONCEPT: CORE — Advani's rath yatra and the Ayodhya mobilisation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 228
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 270.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 39.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 899,
+      "markdown_body_line_end": 899,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The 1991 economic break is the Narasimha Rao government's crisis-compelled launch of economic liberalisation under Finance Minister Manmohan Singh, triggered by a balance-of-payments crisis rather than a pre-existing con",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 914,
+      "markdown_body_line_end": 920,
+      "heading": "VISUAL FIRST",
+      "preview": "1991: THE ECONOMIC BREAK AND THE RAO GOVERNMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 323.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 955,
+      "markdown_body_line_end": 972,
+      "heading": "CLOSING RECALL FLOW - CORE - 1991: THE ECONOMIC BREAK AND THE RAO GOVERNMENT",
+      "preview": "START / CONCEPT: CORE — 1991: the economic break and the Rao government",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 276
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 620.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 379.691
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 983,
+      "markdown_body_line_end": 983,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: Rajiv Gandhi's assassination in 1991 is the fatal event during the general election campaign that preceded the Narasimha Rao government, recorded here without further elaboration of circumstances.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 230.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 163.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 998,
+      "markdown_body_line_end": 1004,
+      "heading": "VISUAL FIRST",
+      "preview": "RAJIV GANDHI'S ASSASSINATION, 1991",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 672.691
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1039,
+      "markdown_body_line_end": 1056,
+      "heading": "CLOSING RECALL FLOW - CORE - RAJIV GANDHI'S ASSASSINATION, 1991",
+      "preview": "START / CONCEPT: CORE — Rajiv Gandhi's assassination, 1991",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 248
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1067,
+      "markdown_body_line_end": 1067,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The Babri Masjid demolition, 6 December 1992, is the culmination of the religious-axis mobilisation begun by the 1990 rath yatra, a defining rupture of the decade's politics.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 392.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 325.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1082,
+      "markdown_body_line_end": 1088,
+      "heading": "VISUAL FIRST",
+      "preview": "THE BABRI MASJID DEMOLITION, 1992",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1123,
+      "markdown_body_line_end": 1140,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - THE BABRI MASJID DEMOLITION, 1992",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — The Babri Masjid demolition, 1992",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 226
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 312.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 71.891
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1151,
+      "markdown_body_line_end": 1151,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The coalition decade, 1996-99, is the sequence of the short 1996 Vajpayee government, the Deve Gowda and Gujral United Front governments, and the NDA formed in 1998 and consolidated in 1999.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1166,
+      "markdown_body_line_end": 1172,
+      "heading": "VISUAL FIRST",
+      "preview": "THE COALITION DECADE, 1996-99",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 323.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1207,
+      "markdown_body_line_end": 1224,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - THE COALITION DECADE, 1996-99",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — The coalition decade, 1996-99",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 262
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 634.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 393.891
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1235,
+      "markdown_body_line_end": 1235,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precise definition: The Mandal-Mandir-Market synthesis is Bipan Chandra's reading of the 1989-1992 convergence of caste assertion, religious mobilisation and economic liberalisation as jointly dismantling the Nehruvian consensus, against a ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 239.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 159.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1250,
+      "markdown_body_line_end": 1256,
+      "heading": "VISUAL FIRST",
+      "preview": "SYNTHESIS: MANDAL, MANDIR AND MARKET",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 730.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 669.691
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1291,
+      "markdown_body_line_end": 1308,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - SYNTHESIS: MANDAL, MANDIR AND MARKET",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Synthesis: Mandal, Mandir and Market",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 311
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2340,
+      "markdown_body_line_end": 2348,
+      "heading": "Mini-timeline",
+      "preview": "Date | Event",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Date",
+          "Event"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 403.891
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 219.69
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2368,
+      "markdown_body_line_end": 2376,
+      "heading": "2. Key classification / data",
+      "preview": "Dimension | Advanced takeaway",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Dimension",
+          "Advanced takeaway"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 625.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 441.09
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2380,
+      "markdown_body_line_end": 2383,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ The Indira-era crises Rajiv inherited → `advanced/36_Janata-Interregnum-Indiras-Return-and-Regional-Crises.md`. **Study link:** ✅ Economy, communalism, caste — the full synthesis → `advanced/38_Economy-Land-Society-and-Sta",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 441.09
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 303.422
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2396,
+      "markdown_body_line_end": 2396,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Chandra's \"**Mandal, Mandir and Market**\" captures the three simultaneous forces (1989–92) that dismantled the Nehruvian consensus.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 164.022
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 97.354
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2421,
+      "markdown_body_line_end": 2431,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: The 1984 mandate and modernising agenda",
+      "preview": "MANDATE -> DECEMBER 1984; CONGRESS wins 404 of 514 elected seats under RAJIV GANDHI",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 505.091
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 402.291
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2435,
+      "markdown_body_line_end": 2440,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: The 1985 accords and the Anti-Defection Act",
+      "preview": "PUNJAB ACCORD -> Rajiv Gandhi and Harchand Singh Longowal, 1985",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 380.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 328.491
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2444,
+      "markdown_body_line_end": 2449,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: The twin identity concessions",
+      "preview": "CONCESSION 1 -> Shah Bano reversal, 1985-86, conservative pressure",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 306.491
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 254.691
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2453,
+      "markdown_body_line_end": 2458,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Bofors and the exit of V.P. Singh",
+      "preview": "BOFORS SCANDAL -> breaks in 1987; wrecks Rajiv Gandhi's \"Mr Clean\" image",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2462,
+      "markdown_body_line_end": 2467,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: 1989: fragmentation of the party system",
+      "preview": "CONGRESS -> falls from the 1984 record to about 197 seats",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2471,
+      "markdown_body_line_end": 2476,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Mandal, 1990: the caste axis",
+      "preview": "COMMISSION -> Mandal Commission recommendations implemented, 1990",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2480,
+      "markdown_body_line_end": 2485,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Mandir, 1990: the religious axis",
+      "preview": "MOBILISATION -> Advani's rath yatra, 1990, intensifies Ayodhya agitation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2489,
+      "markdown_body_line_end": 2494,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: System-change engine: 1984 to 1999",
+      "preview": "1984 -> single-party record majority",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2498,
+      "markdown_body_line_end": 2503,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: 1991: the economic break",
+      "preview": "GOVERNMENT -> Narasimha Rao takes office, 1991",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2507,
+      "markdown_body_line_end": 2516,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: The coalition decade, 1996-99",
+      "preview": "1996 -> a short BJP government under Atal Bihari Vajpayee",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 251.891
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2520,
+      "markdown_body_line_end": 2528,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Comparative cleavages: Mandal versus Mandir",
+      "preview": "AXIS      | MANDAL              | MANDIR",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2532,
+      "markdown_body_line_end": 2537,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Three-transitions thesis",
+      "preview": "TRANSITION 1 -> single-party majority to coalition government",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 631.091
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+topic=philosophy-paper-i-indian-philosophy-01
+generation=10
+generated=2026-08-23T13:26:36.402861+05:30
+source=upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Paper-I-Indian-Philosophy\learning-sessions\topic-01\g10\topic-01_Complete-Learning-Session_2026-08-23.md
+master_png=master.png
+master_dimensions_px=3600x10104
+poster_pdf=poster.pdf
+poster_dimensions_points=1700.79x4773.54
+poster_pages=1
+tiled_pdf=tiled.pdf
+tiled_pages=6
+same_master_split=yes
+tile_overlap_px=260
+preview_count=6
+contact_sheet_count=1
+session_stage_count=8
+editable_sources=editable/flowchart-data.json, editable/README.txt
+ascii_master=ascii-master.txt
+core_before_extra=PASS
+same_master_identity=PASS
+poster_validation=PASS
+tiled_validation=PASS
+tile_coordinates=
+  page-001: y=0..2200; overlap=0; from=1; continues=2
+  page-002: y=1940..4140; overlap=260; from=2; continues=4
+  page-003: y=3880..6080; overlap=260; from=3; continues=6
+  page-004: y=5820..8020; overlap=260; from=5; continues=7
+  page-005: y=7760..9960; overlap=260; from=7; continues=8
+  page-006: y=7904..10104; overlap=260; from=7; continues=8
+errors=none

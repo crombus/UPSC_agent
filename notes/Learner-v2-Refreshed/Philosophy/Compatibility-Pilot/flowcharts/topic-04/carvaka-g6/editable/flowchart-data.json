@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "topic_key": "philosophy-paper-i-indian-philosophy-04",
+  "generation": 6,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Compatibility-Pilot\\learning-sessions\\topic-04\\topic-04_Complete-Learning-Session_2026-08-22.md",
+  "master_dimensions": [
+    3600,
+    2010
+  ],
+  "stages": [
+    {
+      "title": "CONTEMPORARY-ANCHOR DISCIPLINE",
+      "terms": "Contemporary-anchor discipline: ⚠️ Inference: Mention renewed interest in Indian logical traditions only as a bounded introduction or conclusion.",
+      "mechanism": "⚠️ Inference: Mention renewed interest in Indian logical traditions only as a bounded introduction or conclusion.",
+      "consequence": "Do not turn curriculum discussion into proof of a metaphysical or epistemological claim.",
+      "trap": "Do not turn curriculum discussion into proof of a metaphysical or epistemological claim.",
+      "answer": "✅ Search finding: A live August 2026 search located broad educational and academic discussion of Indian Knowledge Systems and classical Indian logic, but no sufficiently direct official doctrinal development specific to Nyāya–Vaiśeṣika."
+    },
+    {
+      "title": "MASTER DISTINCTION GATEWAY",
+      "terms": "Master verdict: Nyāya–Vaiśeṣika is a realist system in which a detailed ontology is disclosed through valid cognition, error is a misrelation among real factors, and liberation follows removal of false knowledge.",
+      "mechanism": "Master verdict: Nyāya–Vaiśeṣika is a realist system in which a detailed ontology is disclosed through valid cognition, error is a misrelation among real factors, and liberation follows removal of false knowledge.",
+      "consequence": "Memory line: seven categories prevent unlike kinds of reality from being confused.",
+      "trap": "✅ Its concern is not logic in an abstract formalist sense alone, but valid cognition as a means to the removal of error and finally liberation.",
+      "answer": "Master verdict: Nyāya–Vaiśeṣika is a realist system in which a detailed ontology is disclosed through valid cognition, error is a misrelation among real factors, and liberation follows removal of false knowledge."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2010,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 2
+    }
+  ]
+}

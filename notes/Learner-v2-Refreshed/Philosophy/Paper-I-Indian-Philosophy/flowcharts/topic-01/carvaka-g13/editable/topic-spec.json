@@ -1,0 +1,747 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "philosophy-paper-i-indian-philosophy-01",
+  "subject": "Philosophy",
+  "title": "CĀRVĀKA / LOKĀYATA",
+  "short_route": "SOURCE-CRITICAL ENTRY → EPISTEMIC GATE → INFERENCE CONTROVERSY → MATERIAL ONTOLOGY → TRANSCENDENT DENIALS → ETHICS WITHOUT CARICATURE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g12 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Indian-Philosophy\\learning-sessions\\topic-01\\g12\\topic-01_Complete-Learning-Session_2026-08-23.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\philosophy-2026-08-23.json",
+  "ascii_spec_sha256": "156ee4a96a5be6cf6c202bb46cb86894662f6531566d13872007e86217a96c32",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "SOURCE-CRITICAL ENTRY",
+      "structural_type": "provenance funnel",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "SOURCE-CRITICAL ENTRY",
+          "role": "evidence"
+        },
+        {
+          "text": "RECONSTRUCTION BEFORE DOCTRINE LOST BṚHASPATI-SŪTRA OPPONENT REPORTS QUOTED FRAGMENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "(MĀDHAVA, JAYANTA, (OFTEN POLEMICAL)",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTINGUISH ATTESTED THESIS FROM HOSTILE CARICATURE",
+          "role": "evidence"
+        },
+        {
+          "text": "THIS-WORLDLY ORIENTATION; CĀRVĀKA",
+          "role": "primary"
+        },
+        {
+          "text": "MATERIALIST SCHOOL LABEL.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CĀRVĀKA / LOKĀYATA: RECONSTRUCTION BEFORE DOCTRINE lost Bṛhaspati-sūtra opponent reports quoted fragments",
+        "(Mādhava, Jayanta, (often polemical)",
+        "RULE: distinguish attested thesis from hostile caricature",
+        "Lokāyata = this-worldly orientation; Cārvāka = materialist school label."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "CĀRVĀKA / LOKĀYATA: RECONSTRUCTION BEFORE DOCTRINE lost Bṛhaspati-sūtra opponent reports quoted fragments",
+            "(Mādhava, Jayanta, (often polemical)"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RULE: distinguish attested thesis from hostile caricature",
+            "Lokāyata = this-worldly orientation; Cārvāka = materialist school label."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "CĀRVĀKA / LOKĀYATA: RECONSTRUCTION BEFORE DOCTRINE lost Bṛhaspati-sūtra opponent reports quoted fragments",
+            "(Mādhava, Jayanta, (often polemical)"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Recommended opening definition: Cārvāka (Indian materialist school), also called Lokāyata (worldly doctrine), is a non-Vedic and this-worldly philosophy that accepts pratyakṣa (perception) as the only independent pramāṇa (means of valid knowledge) and rejects unverifiable transcendent entities; because its primary texts are lost, its doctrines must be stated as a cautious doxographical reconstruction.",
+      "source_references": [
+        "A. Source status",
+        "Historical Reconstruction and the Source Problem"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "EPISTEMIC GATE",
+      "structural_type": "branching pramāṇa tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EPISTEMIC GATE",
+          "role": "primary"
+        },
+        {
+          "text": "VALID KNOWLEDGE (PRAMĀ) REJECTED INDEPENDENT SOURCES",
+          "role": "outcome"
+        },
+        {
+          "text": "PERCEPTION ANUMĀNA ŚABDA UPAMĀNA DIRECT, SENSE-GROUNDED INFERENCE TESTIMONY COMPARISON",
+          "role": "comparison"
+        },
+        {
+          "text": "SMOKE IS INVARIABLY FIRE-LINKED.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "VALID KNOWLEDGE (PRAMĀ) REJECTED INDEPENDENT SOURCES",
+        "PRATYAKṢA / PERCEPTION anumāna śabda upamāna direct, sense-grounded inference testimony comparison observed conjunction is finite",
+        "universal vyāpti outruns perception smoke seen with fire in kitchens != smoke is invariably fire-linked."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "VALID KNOWLEDGE (PRAMĀ) REJECTED INDEPENDENT SOURCES",
+            "PRATYAKṢA / PERCEPTION anumāna śabda upamāna direct, sense-grounded inference testimony comparison observed conjunction is finite"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "universal vyāpti outruns perception smoke seen with fire in kitchens != smoke is invariably fire-linked.",
+            "VALID KNOWLEDGE (PRAMĀ) REJECTED INDEPENDENT SOURCES"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "PRATYAKṢA / PERCEPTION anumāna śabda upamāna direct, sense-grounded inference testimony comparison observed conjunction is finite",
+            "universal vyāpti outruns perception smoke seen with fire in kitchens != smoke is invariably fire-linked."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Cārvāka (Indian materialist school) epistemology treats pratyakṣa (perception) as the only independent pramāṇa (means of valid knowledge), while accepting inference only as fallible practical expectation rather than certain knowledge.",
+      "source_references": [
+        "B. Epistemic thesis",
+        "C. Critique of inference"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "INFERENCE CONTROVERSY",
+      "structural_type": "objection-reply dialectic",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "INFERENCE CONTROVERSY",
+          "role": "primary"
+        },
+        {
+          "text": "CĀRVĀKA ATTACK",
+          "role": "outcome"
+        },
+        {
+          "text": "INFERENCE NEEDS UNIVERSAL CONCOMITANCE (VYĀPTI) VYĀPTI KNOWN BY INFERENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "BY PERCEPTION",
+          "role": "evidence"
+        },
+        {
+          "text": "INCOMPLETE SURVEY HIDDEN CONDITION (UPĀDHI) MAY DEFEAT THE RULE",
+          "role": "primary"
+        },
+        {
+          "text": "FIRE WITHOUT SMOKE, WET FUEL MATTERS",
+          "role": "outcome"
+        },
+        {
+          "text": "NYĀYA REPLY",
+          "role": "comparison"
+        },
+        {
+          "text": "REPEATED AGREEMENT + ABSENCE OF COUNTER-INSTANCE + TARKA ANVAYA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CĀRVĀKA ATTACK: inference needs universal concomitance (vyāpti) vyāpti known by inference → circularity",
+        "by perception → incomplete survey hidden condition (upādhi) may defeat the rule: fire without smoke",
+        "NYĀYA REPLY: repeated agreement + absence of counter-instance + tarka anvaya (presence) + vyatireka (absence)",
+        "CĀRVĀKA COUNTER-PRESSURE: practical expectation may work without certainty",
+        "SELF-REFUTATION CHARGE: arguing against inference already employs inference."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "CĀRVĀKA ATTACK: inference needs universal concomitance (vyāpti) vyāpti known by inference → circularity",
+            "by perception → incomplete survey hidden condition (upādhi) may defeat the rule: fire without smoke, wet fuel matters"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "NYĀYA REPLY: repeated agreement + absence of counter-instance + tarka anvaya (presence) + vyatireka (absence) → defeasible but rational vyāpti",
+            "CĀRVĀKA COUNTER-PRESSURE: practical expectation may work without certainty"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "SELF-REFUTATION CHARGE: arguing against inference already employs inference.",
+            "CĀRVĀKA ATTACK: inference needs universal concomitance (vyāpti) vyāpti known by inference → circularity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "inference needs universal concomitance (vyāpti) vyāpti known by inference → circularity | by perception → incomplete survey hidden condition (upādhi) may defeat the rule: fire without smoke, wet fuel matters.",
+      "source_references": [
+        "C. Critique of inference",
+        "D. Upādhi and self-refutation",
+        "E. Nyāya reply"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "MATERIAL ONTOLOGY",
+      "structural_type": "emergence map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MATERIAL ONTOLOGY",
+          "role": "evidence"
+        },
+        {
+          "text": "ONLY THIS-WORLDLY ELEMENTS ARE REQUIRED EARTH + WATER +",
+          "role": "outcome"
+        },
+        {
+          "text": "ORGANISED LIVING BODY",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSCIOUSNESS CONSCIOUSNESS IS A BODY-PROPERTY, NOT AN IMMATERIAL SUBSTANCE",
+          "role": "caution"
+        },
+        {
+          "text": "FERMENTATION INGREDIENTS",
+          "role": "primary"
+        },
+        {
+          "text": "INTOXICATING POWER NOT PRESENT SEPARATELY",
+          "role": "caution"
+        },
+        {
+          "text": "LIVING CONSCIOUS BODY (DEHĀTMA-VĀDA) DEATH",
+          "role": "comparison"
+        },
+        {
+          "text": "ELEMENTAL DISSOLUTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ONLY THIS-WORLDLY ELEMENTS ARE REQUIRED earth + water + fire + air → organised living",
+        "consciousness is a body-property, not an immaterial substance analogy: fermentation ingredients → intoxicating power not",
+        "SELF = living conscious body (dehātma-vāda) death → elemental dissolution → no surviving ātman, rebirth",
+        "QUALIFICATION: emergence is asserted; a full mechanism is not supplied."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "ONLY THIS-WORLDLY ELEMENTS ARE REQUIRED earth + water + fire + air → organised living body → consciousness",
+            "consciousness is a body-property, not an immaterial substance analogy: fermentation ingredients → intoxicating power not present separately"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SELF = living conscious body (dehātma-vāda) death → elemental dissolution → no surviving ātman, rebirth or afterlife",
+            "QUALIFICATION: emergence is asserted; a full mechanism is not supplied."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "ONLY THIS-WORLDLY ELEMENTS ARE REQUIRED earth + water + fire + air → organised living body → consciousness",
+            "consciousness is a body-property, not an immaterial substance analogy: fermentation ingredients → intoxicating power not present separately"
+          ]
+        }
+      ],
+      "mechanism_strip": "QUALIFICATION: emergence is asserted; a full mechanism is not supplied.",
+      "answer_line": "emergence is asserted; a full mechanism is not supplied.",
+      "source_references": [
+        "F. Material reality",
+        "G. Self and consciousness"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "TRANSCENDENT DENIALS",
+      "structural_type": "dependency collapse chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TRANSCENDENT DENIALS",
+          "role": "primary"
+        },
+        {
+          "text": "NO PERCEPTUAL WARRANT",
+          "role": "mechanism"
+        },
+        {
+          "text": "NO IMMORTAL SOUL",
+          "role": "evidence"
+        },
+        {
+          "text": "NO REBIRTH",
+          "role": "comparison"
+        },
+        {
+          "text": "NO KARMA AS SUPERSENSIBLE MORAL FORCE",
+          "role": "caution"
+        },
+        {
+          "text": "NO HEAVEN/HELL",
+          "role": "caution"
+        },
+        {
+          "text": "NO POST-MORTEM REWARD OR PUNISHMENT",
+          "role": "caution"
+        },
+        {
+          "text": "NO CREATOR GOD",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NO PERCEPTUAL WARRANT",
+        "no immortal soul → no rebirth",
+        "no karma as supersensible moral force",
+        "no heaven/hell → no post-mortem reward or punishment",
+        "no creator God → world needs no transcendent planner"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "NO PERCEPTUAL WARRANT",
+            "no immortal soul → no rebirth",
+            "no karma as supersensible moral force"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "no heaven/hell → no post-mortem reward or punishment",
+            "no creator God → world needs no transcendent planner",
+            "no Vedic infallibility → priestly testimony lacks intrinsic authority"
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "RESULT: metaphysics is cut back to perceptible nature and embodied life."
+          ]
+        }
+      ],
+      "mechanism_strip": "RESULT: metaphysics is cut back to perceptible nature and embodied life.",
+      "answer_line": "metaphysics is cut back to perceptible nature and embodied life.",
+      "source_references": [
+        "H. Transcendent denials"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ETHICS WITHOUT CARICATURE",
+      "structural_type": "ethical decision matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ETHICS WITHOUT CARICATURE",
+          "role": "primary"
+        },
+        {
+          "text": "PURUṢĀRTHA FILTER DHARMA",
+          "role": "outcome"
+        },
+        {
+          "text": "REJECTED WHEN GROUNDED IN UNSEEN REWARD OR VEDIC COMMAND",
+          "role": "comparison"
+        },
+        {
+          "text": "REJECTED AS LIBERATION OF A SEPARABLE SOUL ARTHA +",
+          "role": "evidence"
+        },
+        {
+          "text": "INTELLIGIBLE GOODS WITHIN ONE EMBODIED LIFE PRUDENT ENJOYMENT",
+          "role": "primary"
+        },
+        {
+          "text": "RECKLESS INDULGENCE PLEASURE SOUGHT",
+          "role": "outcome"
+        },
+        {
+          "text": "WEIGH PAIN, SOCIAL CONSEQUENCE AND ATTAINABLE MEANS",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM CONTROL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PURUṢĀRTHA FILTER dharma: rejected when grounded in unseen reward or Vedic command mokṣa: rejected as",
+        "separable soul artha + kāma: intelligible goods within one embodied life prudent enjoyment != reckless",
+        "→ weigh pain, social consequence and attainable means",
+        "EXAM CONTROL: call it naturalistic hedonism or this-worldliness",
+        "do not reduce the school to the hostile slogan “eat, drink and borrow.”"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DOCTRINE",
+          "DECISIVE DISTINCTION",
+          "EVALUATION / TRAP"
+        ],
+        [
+          "PURUṢĀRTHA FILTER dharma: rejected when grounded in unseen reward or Vedic command mokṣa: rejected as liberation of a",
+          "→ weigh pain, social consequence and attainable means",
+          "do not reduce the school to the hostile slogan “eat, drink and borrow.”"
+        ],
+        [
+          "separable soul artha + kāma: intelligible goods within one embodied life prudent enjoyment != reckless indulgence pleasure sought",
+          "EXAM CONTROL: call it naturalistic hedonism or this-worldliness",
+          "PURUṢĀRTHA FILTER dharma: rejected when grounded in unseen reward or Vedic command mokṣa: rejected as liberation of a"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "PURUṢĀRTHA FILTER dharma: rejected when grounded in unseen reward or Vedic command mokṣa: rejected as liberation of a",
+            "separable soul artha + kāma: intelligible goods within one embodied life prudent enjoyment != reckless indulgence pleasure sought"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "→ weigh pain, social consequence and attainable means",
+            "EXAM CONTROL: call it naturalistic hedonism or this-worldliness"
+          ]
+        },
+        {
+          "heading": "EVALUATION / TRAP",
+          "role": "caution",
+          "items": [
+            "do not reduce the school to the hostile slogan “eat, drink and borrow.”",
+            "PURUṢĀRTHA FILTER dharma: rejected when grounded in unseen reward or Vedic command mokṣa: rejected as liberation of a"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Cārvāka (Indian materialist school) ethics is best read as prudent this-worldly well-being rather than crude hedonism: pleasure is valuable, pain is a cost, and action requires intelligent calculation within embodied social life.",
+      "source_references": [
+        "I. Ethics",
+        "Labels and evaluation"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "COMPARATIVE PRESSURE MAP",
+      "structural_type": "school comparison grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COMPARATIVE PRESSURE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "ISSUE CĀRVĀKA NYĀYA BUDDHISM PRAMĀṆA PERCEPTION ONLY FOUR PRAMĀṆAS",
+          "role": "outcome"
+        },
+        {
+          "text": "ANTI-DOGMATIC EVIDENTIAL DISCIPLINE",
+          "role": "comparison"
+        },
+        {
+          "text": "PERCEPTION-ONLY RULE STRUGGLES TO JUSTIFY SCIENCE, MEMORY AND ITS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ISSUE CĀRVĀKA NYĀYA BUDDHISM pramāṇa perception only four pramāṇas perception + inference self conscious body",
+        "stream causation observed sequence realist relation dependent origination transcendent denied God, soul, karma karma without",
+        "ends person apavarga nirvāṇa",
+        "STRENGTH: anti-dogmatic evidential discipline",
+        "LIMIT: perception-only rule struggles to justify science, memory and its own critique."
+      ],
+      "matrix": [
+        [
+          "DOCTRINE / CLAIM",
+          "OBJECTION / PRESSURE",
+          "REPLY / RESIDUAL"
+        ],
+        [
+          "ISSUE CĀRVĀKA NYĀYA BUDDHISM pramāṇa perception only four pramāṇas perception + inference self conscious body enduring ātman anātman",
+          "ends person apavarga nirvāṇa",
+          "LIMIT: perception-only rule struggles to justify science, memory and its own critique."
+        ],
+        [
+          "stream causation observed sequence realist relation dependent origination transcendent denied God, soul, karma karma without creator liberation death",
+          "STRENGTH: anti-dogmatic evidential discipline",
+          "ISSUE CĀRVĀKA NYĀYA BUDDHISM pramāṇa perception only four pramāṇas perception + inference self conscious body enduring ātman anātman"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DOCTRINE / CLAIM",
+          "role": "primary",
+          "items": [
+            "ISSUE CĀRVĀKA NYĀYA BUDDHISM pramāṇa perception only four pramāṇas perception + inference self conscious body enduring ātman anātman",
+            "stream causation observed sequence realist relation dependent origination transcendent denied God, soul, karma karma without creator liberation death"
+          ]
+        },
+        {
+          "heading": "OBJECTION / PRESSURE",
+          "role": "caution",
+          "items": [
+            "ends person apavarga nirvāṇa",
+            "STRENGTH: anti-dogmatic evidential discipline"
+          ]
+        },
+        {
+          "heading": "REPLY / RESIDUAL",
+          "role": "comparison",
+          "items": [
+            "LIMIT: perception-only rule struggles to justify science, memory and its own critique.",
+            "ISSUE CĀRVĀKA NYĀYA BUDDHISM pramāṇa perception only four pramāṇas perception + inference self conscious body enduring ātman anātman"
+          ]
+        }
+      ],
+      "mechanism_strip": "LIMIT: perception-only rule struggles to justify science, memory and its own critique.",
+      "answer_line": "perception-only rule struggles to justify science, memory and its own critique.",
+      "source_references": [
+        "J. Comparative map",
+        "K. Labels and evaluation"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "synthesis",
+      "title": "PYQ ANSWER RAIL",
+      "structural_type": "answer-synthesis flow",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ ANSWER RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE SOURCE PROBLEM",
+          "role": "evidence"
+        },
+        {
+          "text": "STATE PERCEPTION THESIS",
+          "role": "institution"
+        },
+        {
+          "text": "RECONSTRUCT INFERENCE ATTACK EXPLAIN UPĀDHI/CIRCULARITY",
+          "role": "evidence"
+        },
+        {
+          "text": "GIVE NYĀYA REPLY",
+          "role": "primary"
+        },
+        {
+          "text": "ASSESS SELF-REFUTATION DERIVE MATERIALISM",
+          "role": "outcome"
+        },
+        {
+          "text": "EMBODIED SELF",
+          "role": "comparison"
+        },
+        {
+          "text": "TRANSCENDENT DENIALS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINE source problem → STATE perception thesis → RECONSTRUCT inference attack explain upādhi/circularity → give",
+        "assess self-refutation derive materialism → embodied self → transcendent denials → ethical result",
+        "QUALIFIED VERDICT: Cārvāka is a rigorous empiricist challenge, but its exclusive pratyakṣa criterion is narrower",
+        "needed to defend that challenge."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOURCE / DOCTRINE",
+          "role": "evidence",
+          "items": [
+            "DEFINE source problem → STATE perception thesis → RECONSTRUCT inference attack explain upādhi/circularity → give Nyāya reply →",
+            "assess self-refutation derive materialism → embodied self → transcendent denials → ethical result"
+          ]
+        },
+        {
+          "heading": "ARGUMENT / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "QUALIFIED VERDICT: Cārvāka is a rigorous empiricist challenge, but its exclusive pratyakṣa criterion is narrower than the reasoning",
+            "needed to defend that challenge."
+          ]
+        },
+        {
+          "heading": "IMPLICATION / VERDICT",
+          "role": "outcome",
+          "items": [
+            "DEFINE source problem → STATE perception thesis → RECONSTRUCT inference attack explain upādhi/circularity → give Nyāya reply →",
+            "assess self-refutation derive materialism → embodied self → transcendent denials → ethical result"
+          ]
+        }
+      ],
+      "mechanism_strip": "QUALIFIED VERDICT: Cārvāka is a rigorous empiricist challenge, but its exclusive pratyakṣa criterion is narrower than the reasoning needed to defend that challenge.",
+      "answer_line": "Cārvāka is a rigorous empiricist challenge, but its exclusive pratyakṣa criterion is narrower than the reasoning needed to defend that challenge.",
+      "source_references": [
+        "L. Final answer discipline",
+        "Rapid answer spine",
+        "PYQ routes at a glance"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. HISTORICAL RECONSTRUCTION AND THE SOURCE PROBLEM",
+          "role": "evidence"
+        },
+        {
+          "text": "2. EPISTEMOLOGY — PERCEPTION AS THE SOLE PRAMĀṆA",
+          "role": "comparison"
+        },
+        {
+          "text": "3. THE CRITIQUE OF INFERENCE — VYĀPTI , UPĀDHI",
+          "role": "evidence"
+        },
+        {
+          "text": "4. THE NYĀYA DEFENCE OF INFERENCE — AND A",
+          "role": "primary"
+        },
+        {
+          "text": "5. METAPHYSICS AND MATERIALISM — FOUR BHŪTAS , THE",
+          "role": "outcome"
+        },
+        {
+          "text": "6. SELF, BODY AND CONSCIOUSNESS — DEHĀTMAVĀDA , AND",
+          "role": "comparison"
+        },
+        {
+          "text": "7. THE REJECTION OF TRANSCENDENT ENTITIES — GOD, SOUL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE WITNESS",
+          "role": "evidence",
+          "items": [
+            "1. Historical Reconstruction and the Source Problem",
+            "2. Epistemology — Perception as the Sole Pramāṇa",
+            "3. The Critique of Inference — Vyāpti , Upādhi , the Socrates Syllogism and Self-Refutation",
+            "4. The Nyāya Defence of Inference — and a Critically Balanced Verdict"
+          ]
+        },
+        {
+          "heading": "ADVANCED OBJECTION",
+          "role": "caution",
+          "items": [
+            "5. Metaphysics and Materialism — Four Bhūtas , the Rejection of Ākāśa , and Svabhāvavāda",
+            "6. Self, Body and Consciousness — Dehātmavāda , and Cārvāka versus Buddhist Anātman (2024, 20 marks)",
+            "7. The Rejection of Transcendent Entities — God, Soul, Karma , Rebirth, Heaven, Mokṣa , Veda and Ritual",
+            "8. Ethics and the Political-Social Meaning — and Cārvāka versus Jaina Reality (2020, 15 marks)"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "9. Comparative Synthesis and Answer-Writing Architecture",
+            "A genuine early principle of epistemic economy: do not multiply unseen entities without warrant.",
+            "A real and still powerful problem about the warrant for universals and vyāpti.",
+            "A valuable naturalistic check on speculative metaphysics, ritualism, and unverifiable claims."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}
