@@ -1,0 +1,7 @@
+# Medieval History Deep Review Batch
+
+- `medieval-indian-history-21:learner-v2:g2` (95/100) → `medieval-indian-history-21:learner-v2:g3` (98/100); chain: medieval-indian-history-21:learner-v2:g2, medieval-indian-history-21:learner-v2:g3; all hard gates passed; approval false.
+- `medieval-indian-history-22:learner-v2:g2` (95/100) → `medieval-indian-history-22:learner-v2:g3` (98/100); chain: medieval-indian-history-22:learner-v2:g2, medieval-indian-history-22:learner-v2:g3; all hard gates passed; approval false.
+- `medieval-indian-history-23:learner-v2:g2` (95/100) → `medieval-indian-history-23:learner-v2:g3` (98/100); chain: medieval-indian-history-23:learner-v2:g2, medieval-indian-history-23:learner-v2:g3; all hard gates passed; approval false.
+- `medieval-indian-history-24:learner-v2:g2` (95/100) → `medieval-indian-history-24:learner-v2:g3` (98/100); chain: medieval-indian-history-24:learner-v2:g2, medieval-indian-history-24:learner-v2:g3; all hard gates passed; approval false.
+- `medieval-indian-history-25:learner-v2:g2` (95/100) → `medieval-indian-history-25:learner-v2:g4` (98/100); chain: medieval-indian-history-25:learner-v2:g2, medieval-indian-history-25:learner-v2:g3, medieval-indian-history-25:learner-v2:g4; all hard gates passed; approval false.

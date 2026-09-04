@@ -1,0 +1,14 @@
+{
+  "topic_key": "ethics-04",
+  "locked_at": "2026-09-02T12:35:20.314640+00:00",
+  "master_tracker_identity": "ethics-04:learner-v2:g1",
+  "generation": 1,
+  "approval": false,
+  "hashes": {
+    "markdown": "c02d5da991dc7e31f3e4d56ca1c7622de04a708cc33a4d028d904d8100a7c185",
+    "main_pdf": "3c0d7452c3ba8e6d503ea1badf32b9785d436cf2bd7813e0a5c5cdb052515d8a",
+    "workbook": "60e86ab31d3505d65978c83e3a9ca230f31335edd4e76ba3f750a8a56e05ced2",
+    "graphical_master": "886d48e3d343ca30b33f26959d89e3e0327ed70073bcab5880bc274aad80a2b2",
+    "ascii_master": "b164f989fc1a60658918bbc451483f70ddb5be8e992585d708a66a73f23d3b57"
+  }
+}

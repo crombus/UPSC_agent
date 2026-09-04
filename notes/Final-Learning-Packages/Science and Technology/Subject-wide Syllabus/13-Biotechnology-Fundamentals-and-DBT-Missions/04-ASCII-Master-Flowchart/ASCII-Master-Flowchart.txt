@@ -1,0 +1,87 @@
+ASCII MASTER FLOW — PANEL 1/12: Biotechnology information rail
+BIOLOGICAL INPUT -> gene / cell / tissue / enzyme / organism
+DNA --TRANSCRIPTION--> RNA --TRANSLATION--> PROTEIN
+INTERVENTIONS -> rDNA / PCR / culture / diagnostics / bioprocess
+OUTPUT -> knowledge / service / regulated product
+RULE -> biotechnology is broader than genetic engineering
+
+ASCII MASTER FLOW — PANEL 2/12: Recombinant DNA assembly chain
+TARGET GENE -> restriction endonuclease cut
+VECTOR -> plasmid / bacteriophage / Ti-plasmid carrier
+DNA LIGASE -> recombinant construct
+HOST TRANSFORMATION -> marker selection -> expression
+TRAP -> vector, insert, host and product are different
+
+ASCII MASTER FLOW — PANEL 3/12: PCR distinction matrix
+PCR CORE -> denaturation -> annealing -> extension
+THERMOSTABLE POLYMERASE -> repeated DNA copying
+REVERSE-TRANSCRIPTION PCR -> RNA first converted to cDNA
+REAL-TIME PCR -> fluorescence measured during amplification
+RULE -> template conversion and detection timing are separate axes
+
+ASCII MASTER FLOW — PANEL 4/12: Bioprocess scale rail
+STRAIN / CELL LINE + MEDIUM -> upstream preparation
+BIOREACTOR -> pH / temperature / oxygen / sterility control
+HARVEST -> downstream recovery and purification
+QUALITY CONTROL -> identity / purity / reproducibility
+LAB SUCCESS != PILOT != COMMERCIAL MANUFACTURE
+
+ASCII MASTER FLOW — PANEL 5/12: Culture and potency map
+PLANT EXPLANT -> sterile medium -> callus / shoots / roots
+TOTIPOTENCY -> suitable cell can regenerate whole plant
+EMBRYONIC STEM CELL -> pluripotent
+ADULT STEM CELL -> usually multipotent / tissue-restricted
+iPSC -> somatic cell reprogrammed to pluripotency
+
+ASCII MASTER FLOW — PANEL 6/12: Gene therapy and diagnostics twin rail
+THERAPY -> add / replace / silence / edit disease-relevant sequence
+DELIVERY -> engineered viral vector or lipid nanoparticle
+DIAGNOSTIC -> sample -> extraction -> marker detection -> interpretation
+SOMATIC != GERMLINE; MARKER != CLINICAL OUTCOME
+RULE -> mechanism, delivery, validation and status all matter
+
+ASCII MASTER FLOW — PANEL 7/12: Biotechnology institution router
+DBT / MINISTRY OF S&T -> policy, missions and research support
+BIRAC -> industry-academia translation and enterprise support
+ICMR / CSIR / ICAR -> domain-specific research systems
+CDSCO -> drugs and vaccines; GEAC -> GMO environmental release
+RULE -> funder, performer, interface and regulator are distinct
+
+ASCII MASTER FLOW — PANEL 8/12: BioE3 six-sector wheel
+1 BIO-BASED CHEMICALS AND ENZYMES
+2 FUNCTIONAL FOODS AND SMART PROTEINS
+3 PRECISION BIOTHERAPEUTICS
+4 CLIMATE-RESILIENT AGRICULTURE
+5 CARBON CAPTURE AND ITS UTILISATION
+6 FUTURISTIC MARINE AND SPACE RESEARCH
+
+ASCII MASTER FLOW — PANEL 9/12: Bio-RIDE and GenomeIndia timeline
+28 FEB 2024 -> DBT announces 10,000 GenomeIndia sequences complete
+24 AUG 2024 -> Cabinet approves BioE3
+19 SEP 2024 -> Cabinet approves Bio-RIDE
+GENOME DATA -> reference and research potential plus safeguards
+APPROVAL / COMPLETION VERB -> preserve exact object and status
+
+ASCII MASTER FLOW — PANEL 10/12: Research-to-impact funnel
+DISCOVERY -> proof of concept
+BIRAC / INCUBATOR -> translation and enterprise support
+BIOFOUNDRY / PILOT -> reproducibility and process optimisation
+REGULATION / QUALITY / MANUFACTURE -> adoption gateway
+SOCIAL BENEFIT -> affordability, access and fit still required
+MUST REMEMBER: Biotechnology uses genes, cells, tissues, enzymes, microbes and...
+
+ASCII MASTER FLOW — PANEL 11/12: PYQ applications matrix
+BIOPHARMA -> rDNA + culture + bioprocess + quality + access
+MICROBES / FUEL -> digestion + fermentation + biomass conversion
+OBJECTIVE CONCEPTS -> barcode / biofilter / Wolbachia / air DNA
+CLEAN TECH -> bounded contribution to wider energy transition
+2026 -> genetic medicine and GenomeIndia; no provisional key asserted
+CLOSE DISTINCTION: Biotechnology is not only genetic engineering, PCR is not sequencing,...
+
+ASCII MASTER FLOW — PANEL 12/12: Biotechnology answer spine
+DEFINE -> platform and biological information level
+EXPLAIN -> mechanism from laboratory to bioprocess
+MAP -> DBT / BIRAC / research bodies / regulators
+APPLY -> health / agriculture / industry / environment / energy
+QUALIFY -> biosafety, data, scale, affordability and status
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Trace discovery, validation, scale-up,...

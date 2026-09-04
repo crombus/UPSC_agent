@@ -1,0 +1,28 @@
+{
+  "topic_key": "essay-03",
+  "allocated_at": "2026-09-04T15:47:43.151586+00:00",
+  "baseline_record_id": "essay-03:learner-v2:g3",
+  "baseline_generation": 3,
+  "new_record_id": "essay-03:learner-v2:g4",
+  "new_generation": 4,
+  "prior_generation_immutable": true,
+  "live_master_identity_before": "essay-03:learner-v2:g3",
+  "live_review_identity_before": "essay-03:learner-v2:g3",
+  "fresh_scores": {
+    "complete_learning_session": null,
+    "solved_practice_workbook": null,
+    "graphical_flowchart": null,
+    "ascii_master_flowchart": null,
+    "total": null
+  },
+  "fresh_hard_gates": {
+    "syllabus_core_complete": null,
+    "facts_verified": null,
+    "pyqs_verified": null,
+    "model_answers_marks_worthy": null,
+    "advanced_is_optional": null,
+    "four_artifacts_consistent": null,
+    "current_data_source_dated": null
+  },
+  "approved": false
+}

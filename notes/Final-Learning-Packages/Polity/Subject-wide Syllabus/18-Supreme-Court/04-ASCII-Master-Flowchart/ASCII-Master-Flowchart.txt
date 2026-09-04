@@ -1,0 +1,166 @@
+ASCII MASTER FLOW — PANEL 1/12: Apex court, integrated hierarchy and institutional identity
+ARTICLES 124-147, PART V: UNION JUDICIARY
+Privy Council -> Federal Court (1937) -> Constitution (26 Jan 1950) -> SC (28 Jan 1950)
+
+SUPREME COURT -> HIGH COURTS -> SUBORDINATE COURTS
+one hierarchy applies Union + State law; Article 141 promotes national legal uniformity.
+LIMIT: integrated does not mean unitary administration; Articles 226, 227 and 235 remain vital.
+
+CONTROL CARD, 28 AUG 2026
+sanctioned 34 including CJI | official sitting roster 34 | retirement 65
+seat Delhi, Article 130 | Article 145(3): five-judge minimum for specified questions.
+
+ASCII MASTER FLOW — PANEL 2/12: Appointment text, collegium evolution and NJAC test
+ARTICLE 124: PRESIDENT APPOINTS -> CONSTITUTIONALLY REQUIRED CONSULTATION
+Current operation: collegium recommendation -> Union processing -> presidential appointment.
+
+First Judges Case (1981) -> executive primacy
+Second Judges Case (1993) -> judicial primacy; collegium created
+Third Judges Case (1998) -> SC collegium: CJI + four senior-most judges
+2014 99th Amendment + NJAC Act -> six-member commission
+Fourth Judges Case (2015) -> NJAC invalid; collegium restored
+
+CJI SENIORITY: settled convention reflected in MoP, not express constitutional text.
+REFORM TEST: transparent criteria + diversity + time discipline without executive capture.
+
+ASCII MASTER FLOW — PANEL 3/12: Qualifications, service conditions and removal route
+ELIGIBILITY -> Indian citizen + five years HC judge OR ten years HC advocate
+              OR distinguished jurist in the President's opinion; no minimum age.
+
+OATH -> secure tenure to 65 -> resignation to President OR Article 124(4) removal
+REMOVAL: proved misbehaviour/incapacity -> inquiry -> special majority in each House
+         -> presidential order; Constitution says removal, not impeachment.
+
+FINANCIAL FIREWALL
+salary charged under Article 112(3)(d)(i) | conditions protected by Article 125
+Court administrative expenses charged under Article 146(3).
+Article 124(7): former SC judge cannot plead or act before any Indian court/authority.
+
+ASCII MASTER FLOW — PANEL 4/12: Independence and accountability must operate together
+INDEPENDENCE SHIELD
+appointment insulation | tenure | protected conditions | Article 121 | Article 129
+Article 50 separation | binding authority | administrative and financial autonomy
+
+ACCOUNTABILITY CHANNELS
+reasoned judgments + recusals + disclosure + published collegium resolutions
+1997 Restatement + 1999 in-house procedure: non-statutory
+Article 124(4): extreme removal endpoint; no SC judge has been removed.
+
+DIALECTIC
+independence without accountability -> opacity
+accountability without insulation -> political compliance
+VERDICT -> independent decisions + transparent institutional process.
+
+ASCII MASTER FLOW — PANEL 5/12: Jurisdiction gateway and the federal-rights routes
+CHOOSE THE CONSTITUTIONAL DOOR
+federal legal dispute among listed governments -> Article 131, exclusive original
+Fundamental Right enforcement -> Article 32, itself a Fundamental Right
+other public-law right -> High Court Article 226, wider in purpose
+
+FIVE WRITS
+habeas corpus: liberty | mandamus: public duty | prohibition: stop proceeding
+certiorari: quash completed order | quo warranto: test public office
+
+ARTICLE 131 LIMITS
+eligible parties + existence/extent of legal right; not a political mediation forum.
+Treaty proviso and Article 262 water-dispute exclusion must be checked.
+
+ASCII MASTER FLOW — PANEL 6/12: Appeals, special leave and presidential reference
+APPELLATE ROUTES
+Article 132: constitutional | 133: civil | 134: criminal | 134A: certificate process
+Article 136: extraordinary discretionary special leave, not a regular fourth appeal
+              no SLP from Armed Forces courts or tribunals.
+
+ARTICLE 143 ADVISORY ROUTE
+143(1): public-importance question; Court may report opinion
+143(2): dispute within Article 131 proviso; Court shall hear and report
+Opinion remains advisory, not an ordinary binding decree.
+
+2025 ASSENT OPINION: no rigid court-made timelines or automatic deemed assent;
+prolonged unexplained inaction remains reviewable. Use as dated, issue-specific evidence.
+State of Tamil Nadu v. Governor of Tamil Nadu (2025) -> facts-specific assent relief.
+In re Assent, Withholding or Reservation of Bills (2025) -> advisory control.
+
+ASCII MASTER FLOW — PANEL 7/12: Finality, review, curative power and contempt
+JUDGMENT -> ARTICLE 137 REVIEW -> FINALITY
+review corrects prescribed error; it is not a rehearing of the appeal.
+
+AFTER REVIEW DISMISSAL -> CURATIVE PETITION
+Rupa Ashok Hurra (2002): rare grave-miscarriage route with added safeguards
+LIMIT: no routine second review.
+
+ARTICLE 129: COURT OF RECORD
+permanent authoritative records + constitutional contempt power
+civil contempt -> wilful disobedience | criminal contempt -> substantial interference
+fair criticism and statutory truth defence protect speech; power protects justice, not ego.
+
+ASCII MASTER FLOW — PANEL 8/12: Precedent, complete justice, assistance and procedure
+ARTICLE 141 -> ratio of law declared binds all courts
+larger Bench > smaller Bench; coordinate disagreement ordinarily goes to larger Bench.
+
+ARTICLE 142 -> complete justice in the cause or matter before the Court
+Prem Chand Garg -> cannot violate Fundamental Rights
+Supreme Court Bar Association (1998) -> cannot supplant substantive law.
+ARTICLE 144 -> civil and judicial authorities act in aid.
+ARTICLE 145 -> rules; five-judge floor for Article 143 and substantial interpretation.
+
+CONTINUITY TOOLS
+126 acting CJI | 127 ad hoc judge | 128 retired judge sitting: distinct consent routes.
+
+ASCII MASTER FLOW — PANEL 9/12: Judicial review, Basic Structure, Ninth Schedule and tribunals
+CONSTITUTIONAL SUPREMACY -> REVIEW OF LAW + EXECUTIVE ACTION + AMENDMENT EFFECT
+Kesavananda Bharati (1973) -> amendment cannot damage Basic Structure
+Minerva Mills (1980) -> limited power + Parts III-IV harmony
+I.R. Coelho (2007) -> post-24 Apr 1973 Ninth Schedule insertions face impact review
+LIMIT: reviewability is not automatic invalidity.
+
+TRIBUNAL FLOOR
+L. Chandra Kumar (1997) -> tribunals may supplement adjudication
+BUT Articles 226/227 High Court review and Article 32 review cannot be wholly excluded.
+Specialisation remains under constitutional-court supervision.
+
+ASCII MASTER FLOW — PANEL 10/12: PIL, activism, judicial legislation and environment
+ACCESS EXPANSION
+relaxed locus standi + epistolary jurisdiction + continuing mandamus
+Hussainara Khatoon (1979): speedy trial | S.P. Gupta (1981): representative standing
+LIMIT: standing is relaxed, not erased; screen bona fides and administrability.
+
+JUDICIAL LEGISLATION
+Vishaka (1997): rights-based interim norm in legal vacuum until 2013 legislation
+legitimacy test -> right + vacuum + necessity + temporary, legally anchored remedy.
+
+ENVIRONMENTAL LINE
+Article 21 + 48A + 51A(g) -> absolute liability, precaution, polluter pays, public trust
+Court catalyses compliance; CPCB, State boards and NGT remain indispensable.
+
+ASCII MASTER FLOW — PANEL 11/12: Comparison, diversity, profession and delivery reform
+DIVERSITY -> equality + legitimacy + wider professional pipeline
+Fathima Beevi (1989): first woman SC judge; avoid undated percentages.
+
+INDIA-UK -> shared precedent; constitutional supremacy versus parliamentary sovereignty
+INDIA-USA -> collegium + retirement 65 versus nomination + Senate + good-behaviour tenure
+
+PROFESSION -> State Bar Councils enrol; BCI sets national statutory standards and appeals
+BCI is statutory, not constitutional; courts retain practice and proceeding rules.
+
+DELIVERY CHAIN
+accessible filing -> timely listing/hearing -> reasoned order -> implementation
+technology + legal aid + judges + case management; e-Courts alone cannot cure exclusion.
+
+ASCII MASTER FLOW — PANEL 12/12: Prelims firewalls, PYQ routes and examiner-ready synthesis
+PRELIMS FIREWALL
+Article 32 narrower in purpose than 226 | Article 136 discretionary | 143 advisory
+Article 142 bounded | Constitution Bench minimum five | curative is exceptional
+collegium not constitutional text | removal is not impeachment | working strength is dated.
+
+PYQ ROUTES
+India-UK | judicial legislation/PIL | women | environmental constitutionalism
+independence | PIL and judicial power | constitutional morality | India-USA appointments.
+
+MAINS SPINE
+define institutional role -> Article -> mechanism -> case + year -> consequence
+-> counterpoint/limit -> matched reform -> qualified conclusion.
+
+VERDICT
+The Court guards constitutional supremacy only when independent authority is joined to
+reasoned restraint, accountable process, accessible remedies and executable orders.

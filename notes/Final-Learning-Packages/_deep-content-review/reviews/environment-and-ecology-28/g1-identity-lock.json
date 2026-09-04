@@ -1,0 +1,14 @@
+{
+  "topic_key": "environment-and-ecology-28",
+  "locked_at": "2026-09-04T02:15:23.782649+00:00",
+  "master_tracker_identity": "environment-and-ecology-28:learner-v2:g1",
+  "generation": 1,
+  "approval": false,
+  "hashes": {
+    "markdown": "4d7fc9f6e88c8f4524a864e76d2e38813719a5b8714122618874c6fe2f83ebd1",
+    "main_pdf": "00dd4744dbd972a2d6e9bd3dc5abf8c612622498b4642a356cc543524b5cf5f2",
+    "workbook": "29ae37a7d09c25d546a91ca9c188e99c6d2f34f08ebaeec38c26579f79929921",
+    "graphical_master": "896c6514e879e1e92f2da7af632fd802e8c41171bfc9e0a9eeb5c73505b4d87c",
+    "ascii_master": "3903722dfba54a46b61731989ad6198395d23d0917182b35726d1a4bfd2d83a1"
+  }
+}

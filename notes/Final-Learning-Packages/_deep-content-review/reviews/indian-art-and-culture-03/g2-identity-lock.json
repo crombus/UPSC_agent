@@ -1,0 +1,14 @@
+{
+  "topic_key": "indian-art-and-culture-03",
+  "locked_at": "2026-09-04T14:57:09.958491+00:00",
+  "master_tracker_identity": "indian-art-and-culture-03:learner-v2:g2",
+  "generation": 2,
+  "approval": false,
+  "hashes": {
+    "markdown": "8ddc4e0410e253f192ca835d263899fdf4233774da5794fe1488a0c43abfb6b2",
+    "main_pdf": "d9ff3aa63557ba14b0634b456c4c38e868b05df85282d7e34157256487aa69ed",
+    "workbook": "58c62a5adbf06aa9f7a2317024082413f3dcb36193bf132a849d3a60229329fa",
+    "graphical_master": "abe1d033b0f23dc8b2c513efd3cd8399cb791352fe22eb4b7ae82cbc5649f3ff",
+    "ascii_master": "b5dc1f1a108eae62ad2d18ab6fedb0ed9df8fae3c557d9a0120e8bfab3fb10dd"
+  }
+}

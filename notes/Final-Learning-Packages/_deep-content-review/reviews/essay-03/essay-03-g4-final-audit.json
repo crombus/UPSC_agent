@@ -1,0 +1,17 @@
+{
+  "topic_key": "essay-03",
+  "record_id": "essay-03:learner-v2:g4",
+  "status": "passed",
+  "score": 98,
+  "hard_gate_failures": 0,
+  "validation": "upsc-ai-kit\\manifests\\exports\\essay-03-learner-v2-g4-2026-09-04-essay-deep-review-validation.json",
+  "canonical_owners_unchanged": true,
+  "defects_closed": [
+    "The live final library selected obsolete session-style generations instead of the completed Essay-specific guide generations.",
+    "The question-only workbooks contained only two or three full-topic prompts and no outline, introduction, conclusion, paragraph-repair, transition, thesis-correction or evidence-selection practice.",
+    "The model essays were roughly 500-650 words, repeated one generic opening, and omitted explicit why-it-earns-marks and improvement guidance.",
+    "The Essay-specific PDFs were rendered through the legacy mode and therefore had neither an internal contents page nor PDF bookmarks.",
+    "The final library forced Essay into Session/Workbook/Graphical/ASCII folder names even though the authoritative contract is Guide/Question-only Workbook/Separate Solutions with integrated workflow visuals.",
+    "The first immutable successors exposed literal `&#8203;` text inside PDF table cells because a shared renderer escaped its line-break hint; those intermediate generations were retained, failed and superseded."
+  ]
+}

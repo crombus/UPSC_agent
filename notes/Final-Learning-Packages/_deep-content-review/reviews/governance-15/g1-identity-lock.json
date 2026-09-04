@@ -1,0 +1,14 @@
+{
+  "topic_key": "governance-15",
+  "locked_at": "2026-09-02T16:00:35.182514+00:00",
+  "master_tracker_identity": "governance-15:learner-v2:g1",
+  "generation": 1,
+  "approval": false,
+  "hashes": {
+    "markdown": "33a6dc431b9bc1bb26de8f4e3b5419edc46325033e5aaf4541188f89b15c0e54",
+    "main_pdf": "d1d0d1380c16f913a04b5aa2f4260803f5d145b261d989e90681cf8ed20476a3",
+    "workbook": "87ef2423d5f8596b90cff84b8a7b9115af285f8cb61dab280b924642f758b336",
+    "graphical_master": "7ffeda178216a3fafd367de3627c33ad223b3526db771b719832c57799411257",
+    "ascii_master": "2ffdea07a025f25bfa41efc1fb11f65282782493f4573f78eab0278ea6bbf68a"
+  }
+}

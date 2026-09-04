@@ -1,0 +1,126 @@
+ASCII MASTER FLOW — PANEL 1/12: Constitutional right, RTI identity and public-authority test
+ARTICLE 19(1)(a) -> constitutional right to know.
+RTI ACT, 2005 -> statutory access and enforcement machinery.
+
+INFORMATION
+existing material held by or controlled by a public authority, including accessible
+private-body material.
+
+PUBLIC AUTHORITY: Constitution | law | notification/order | ownership/control | substantial
+finance.
+
+LIMIT
+RTI gives covered records, not compelled creation of answers or opinions.
+
+ASCII MASTER FLOW — PANEL 2/12: Proactive disclosure and the request route
+SECTION 4
+record management + organisation, powers, norms, budgets and decision reasons
+-> maximum proactive disclosure -> minimum resort to applications.
+
+SECTIONS 5-7
+PIO/APIO -> request without reasons -> ordinary 30 days | life/liberty 48 hours.
+Transfer under section 6(3): as soon as practicable, not later than five days.
+
+TRAP
+additional clocks apply to APIO and third-party routes.
+
+ASCII MASTER FLOW — PANEL 3/12: Four distinct routes: request, complaint and two appeals
+REQUEST -> PIO decision.
+FIRST APPEAL -> senior departmental officer.
+SECOND APPEAL -> CIC/SIC; PIO bears denial burden; decision binding under section 19(7).
+SECTION 18 COMPLAINT -> access-system failures and inquiry powers.
+
+CHIEF INFORMATION COMMISSIONER V. STATE OF MANIPUR (2011)
+complaint is not an automatic substitute for the appellate disclosure remedy.
+
+ASCII MASTER FLOW — PANEL 4/12: CIC and SIC composition and appointment
+CIC: Chief + up to ten Information Commissioners.
+President appoints after PM + Lok Sabha LoP + nominated Union Cabinet Minister committee.
+
+SIC: State Chief + up to ten State Information Commissioners.
+Governor appoints after CM + Assembly LoP + nominated State Cabinet Minister committee.
+
+ELIGIBILITY
+eminence across listed fields; conflict disqualifications apply.
+
+ASCII MASTER FLOW — PANEL 5/12: Tenure, service conditions and removal after 2019
+2019 AMENDMENT
+Act-fixed term and Election-Commission pay linkage removed
+-> Central Government prescribes tenure, pay and service conditions.
+2019 SERVICE-CONDITION RULES: three-year term; age ceiling remains 65.
+
+REMOVAL
+CIC: President | SIC: Governor.
+Proved misbehaviour/incapacity -> Supreme Court inquiry/report; direct statutory grounds
+remain separate.
+
+ASCII MASTER FLOW — PANEL 6/12: Section 18 inquiry and evidence powers
+COMPLAINT TRIGGERS
+no PIO | inability to apply | refusal | delay | unreasonable fee | incomplete/false/misleading
+information.
+
+INQUIRY POWERS
+summons | oath | documents | affidavits | public records | commissions.
+Commission may inspect covered records notwithstanding another objection.
+
+LIMIT
+evidence powers do not themselves supply the section 19 disclosure remedy.
+
+ASCII MASTER FLOW — PANEL 7/12: Appeal, compliance, compensation and penalty
+SECTION 19 APPEAL
+binding decision + disclosure/compliance directions + compensation by public authority.
+SECTION 20
+personal PIO penalty: Rs 250 per day, maximum Rs 25,000, after hearing and statutory grounds.
+Disciplinary recommendation remains distinct.
+
+BOUNDARY
+binding does not exclude Article 226/32 judicial review.
+
+ASCII MASTER FLOW — PANEL 8/12: Exemptions, override, severability and third-party process
+SECTION 8(1): enumerated protected interests.
+SECTION 8(2): public-interest override over Official Secrets Act and section 8(1) harms.
+SECTION 8(3): twenty-year rule with specified exceptions.
+SECTION 9: copyright limit.
+SECTION 10: sever non-exempt material.
+SECTION 11: consultation, not independent exemption or third-party veto.
+
+ASCII MASTER FLOW — PANEL 9/12: Security organisations and statutory priority
+SECTION 24
+Second Schedule intelligence/security bodies generally exempt.
+PROVISOS: corruption and human-rights allegations remain routes; HR disclosure needs CIC
+approval and uses special time.
+SECTION 22: RTI Act overrides inconsistent secrecy law.
+
+TRAP
+security exemption is not absolute immunity from corruption or human-rights information.
+
+ASCII MASTER FLOW — PANEL 10/12: Personal information after the DPDP substitution
+DPDP ACT section 44(3), effective 13 November 2025
+-> section 8(1)(j): information which relates to personal information.
+Historical clause-specific tests are no longer current text.
+
+SURVIVING ANALYSIS
+section 8(2) | severability | other statutes | Article 19(1)(a) and privacy proportionality.
+
+LIMIT
+do not invent a stay, Constitution Bench reference or final judgment.
+
+ASCII MASTER FLOW — PANEL 11/12: Case law and public-authority boundaries
+STATE OF U.P. V. RAJ NARAIN (1975): right to know public acts.
+S.P. GUPTA V. UNION OF INDIA (1981): open government.
+CBSE v. Aditya Bandopadhyay (2011): existing records, not compelled new opinions.
+CHIEF INFORMATION COMMISSIONER V. STATE OF MANIPUR (2011): complaint route != disclosure appeal.
+RBI v. Jayantilal N. Mistry (2015): no blanket regulatory fiduciary shield.
+SUBHASH CHANDRA AGARWAL (2019): CJI office is public authority, subject to exemptions/balancing.
+ANJALI BHARDWAJ V. UNION OF INDIA (2019): timely transparent appointments.
+
+Political-party CIC ruling is not a final Supreme Court holding.
+
+ASCII MASTER FLOW — PANEL 12/12: Independence, reform, PYQ and qualified verdict
+STRENGTHS: binding appeal | compliance directions | compensation | personal penalty.
+LIMITS: vacancies | backlog | weak records | underused penalties | service-condition dependence.
+REFORM: fixed transparent appointments | protected conditions | digital interoperability |
+proactive disclosure | reasoned penalty practice.
+
+PYQ 2020: amendment and autonomy, 10 marks, 150 words.
+VERDICT: legal teeth require independent, staffed and accessible commissions.

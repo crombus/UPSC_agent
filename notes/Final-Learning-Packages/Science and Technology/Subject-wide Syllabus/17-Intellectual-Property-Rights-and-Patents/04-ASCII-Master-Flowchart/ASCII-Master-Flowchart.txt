@@ -1,0 +1,86 @@
+ASCII MASTER FLOW — PANEL 1/12: Patentability decision tree
+CLAIMED SUBJECT MATTER -> product or process?
+NOVELTY -> absent from prior art
+INVENTIVE STEP -> non-obvious technical advance / economic significance
+INDUSTRIAL APPLICATION -> capable of being made or used in industry
+SECTIONS 3 / 4 -> excluded subject matter still fails
+
+ASCII MASTER FLOW — PANEL 2/12: Discovery invention product process matrix
+DISCOVERY -> finding; not automatically an invention
+INVENTION -> qualifying new product or process
+PRODUCT PATENT -> claimed thing
+PROCESS PATENT -> claimed method
+INDIA PHARMA / FOOD / CHEMICALS -> process-only 1970-2004; product from 01 JAN 2005
+
+ASCII MASTER FLOW — PANEL 3/12: Term and territoriality map
+FILING DATE -> 20-YEAR TERM CLOCK
+INDIAN GRANT -> enforceable territorial Indian right
+DIRECT / PARIS ROUTE -> selected foreign filings
+PCT ROUTE -> common international application procedure
+NATIONAL / REGIONAL OFFICE -> final grant decision
+
+ASCII MASTER FLOW — PANEL 4/12: Indian patent procedure rail
+APPLICATION FILED
+        -> PUBLICATION
+        -> EXAMINATION ON REQUEST
+        -> OPPOSITION / COMPLIANCE TEST
+        -> GRANT OR REFUSAL; NEVER UPGRADE AN EARLIER RUNG
+
+ASCII MASTER FLOW — PANEL 5/12: Institution and forum router
+DPIIT / CIPAM -> policy and implementation support
+CGPDTM -> administrative apex
+INDIAN PATENT OFFICE -> patent administration
+WIPO -> PCT and treaty cooperation; WTO -> TRIPS
+IPAB -> existed at 2019 PYQ date; abolished in 2021
+
+ASCII MASTER FLOW — PANEL 6/12: Public-interest safeguard ladder
+SECTION 3(d) -> patentability quality filter
+SECTION 25 -> pre-grant / post-grant opposition
+SECTION 84 -> three-year timing plus three grounds
+SECTION 92 -> notified emergency / urgency / public non-commercial use
+SECTION 107A -> regulatory-information use; not unlimited research
+
+ASCII MASTER FLOW — PANEL 7/12: Section 3(d) twin-limb gate
+KNOWN SUBSTANCE
+BRANCH A -> new property / new use -> not an invention
+BRANCH B -> new form -> test significant efficacy difference
+THERAPEUTIC CONTEXT -> owner records therapeutic-efficacy reading
+TRAP -> never transfer the new-form exception to a new-use claim
+
+ASCII MASTER FLOW — PANEL 8/12: PCT WIPO TRIPS WTO split
+PCT -> international patent-application procedure
+WIPO -> administers PCT and other IP treaties
+TRIPS -> minimum standards plus flexibilities
+WTO -> monitoring and member-to-member dispute settlement
+NONE -> automatic universal patent grant
+
+ASCII MASTER FLOW — PANEL 9/12: Traditional knowledge protection chain
+CODIFIED MEDICINAL KNOWLEDGE
+        -> TKDL DOCUMENTATION
+        -> SEARCHABLE PRIOR ART FOR PATENT OFFICES
+        -> RESIST WRONGFUL NOVELTY CLAIMS / BIOPIRACY
+LIMIT -> defensive disclosure is not a patent or automatic benefit sharing
+
+ASCII MASTER FLOW — PANEL 10/12: IP boundary wheel
+PATENT -> invention / technical function
+COPYRIGHT -> original expression, not idea
+TRADEMARK -> commercial-source identifier
+GI -> collective place-linked goods
+DESIGN -> visual appearance, not technical function
+MUST REMEMBER: Patent analysis separates patentable subject matter, novelty, inventive...
+
+ASCII MASTER FLOW — PANEL 11/12: Life material and software filter
+PLANTS / ANIMALS / SEEDS / VARIETIES -> Section 3(j) exclusion
+PLANT VARIETY -> PPV&FR sui-generis route
+MICRO-ORGANISM -> not inside the stated plant-animal exclusion
+SOFTWARE-LABELLED CLAIM -> apply criteria and exclusions; no blanket rule here
+RULE -> classify claimed subject matter before policy argument
+CLOSE DISTINCTION: Discovery is not invention, filing is not grant, patent is not...
+
+ASCII MASTER FLOW — PANEL 12/12: Innovation access and status spine
+INCENTIVE -> disclosure + investment + licensing
+TRANSLATION -> validation + TTO + pilot + finance + regulation + market
+ACCESS -> Section 3(d) + CL + opposition + Bolar + TRIPS flexibilities
+STATUS -> filed != published != examined != granted != commercialised
+VERDICT -> quality rights, credible safeguards and translation capacity
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Cite the relevant Act/provision,...

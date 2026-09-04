@@ -1,0 +1,14 @@
+{
+  "topic_key": "geography-07",
+  "locked_at": "2026-09-01T18:24:26.311842+00:00",
+  "master_tracker_identity": "geography-07:learner-v2:g3",
+  "generation": 3,
+  "approval": false,
+  "hashes": {
+    "markdown": "67b06ede3ed49602fd4bc8e690ec2aae586a4abe14b798893284a5b9433175df",
+    "main_pdf": "9985cf1ca6670e80df25cfc7d2b8ad4400945b2f727d1d8b5c3eaa18d565de69",
+    "workbook": "ecd8c50b3c317c3b11e2dd1c227d3ccf9fc91f5296c617d67520174a7da661e3",
+    "graphical_master": "e89cb66b4f1c4044bc358a6aa1343b91020a6c98838ca4c2fea6314708293964",
+    "ascii_master": "b0c62336a5ebefeacfc86c85545874957abf40b7103830b561d4ae2eb1c74830"
+  }
+}

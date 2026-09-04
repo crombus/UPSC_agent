@@ -1,0 +1,14 @@
+{
+  "topic_key": "geography-24",
+  "locked_at": "2026-09-01T18:34:23.071063+00:00",
+  "master_tracker_identity": "geography-24:learner-v2:g3",
+  "generation": 3,
+  "approval": false,
+  "hashes": {
+    "markdown": "4ee9457c85b087a4952feb7ee0e7c629c70ece3c6038f338039af3355f7edeb6",
+    "main_pdf": "5aaff61b20c9ac8153b5b15d73a8f107edee49c830f35fcd48b2a0802973a89b",
+    "workbook": "aeb45a92dc3f2f641157998539cdeb6f0f2a3a600cad23ad76d4496b7543a59b",
+    "graphical_master": "cf7b63cf28774fa3f50dd4d3047007c0ee40dacec13098d9dc7a67b1c0e80c6d",
+    "ascii_master": "f81180d0649c5fc1cac1e5a32a0a5fefc8ec295809210bb4e8c05c32413c75b2"
+  }
+}

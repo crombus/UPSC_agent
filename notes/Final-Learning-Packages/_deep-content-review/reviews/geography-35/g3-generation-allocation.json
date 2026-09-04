@@ -1,0 +1,12 @@
+{
+  "topic_key": "geography-35",
+  "allocated_at": "2026-09-02T04:20:55.870320+00:00",
+  "baseline_record_id": "geography-35:learner-v2:g2",
+  "new_record_id": "geography-35:learner-v2:g3",
+  "review_state": "revalidation_pending",
+  "scores": null,
+  "approval": false,
+  "prior_generation_immutable": true,
+  "live_export_identity": "geography-35:learner-v2:g2",
+  "live_master_identity": "geography-35:learner-v2:g2"
+}

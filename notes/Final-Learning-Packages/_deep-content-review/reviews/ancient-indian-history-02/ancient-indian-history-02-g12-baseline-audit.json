@@ -1,0 +1,83 @@
+{
+  "record_id": "ancient-indian-history-02:learner-v2:g12",
+  "generation": 12,
+  "scores": {
+    "complete_learning_session": 37,
+    "solved_practice_workbook": 29,
+    "graphical_flowchart": 13,
+    "ascii_master_flowchart": 12,
+    "total": 91
+  },
+  "metrics": {
+    "main_characters": 231738,
+    "workbook_characters": 42589,
+    "question_count": 15,
+    "missing_answer_controls": {},
+    "mcq_count": 40,
+    "mcq_keys": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "mcq_unparsed": [],
+    "flow_panel_count": 9,
+    "graphical_validation_passed": true,
+    "main_pages": 90,
+    "workbook_pages": 19,
+    "main_layout": {
+      "page_count": 90,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook_layout": {
+      "page_count": 19,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    }
+  },
+  "defects": [
+    "The session lacks an explicit syllabus, evidence-class, contested-claim and approval contract.",
+    "The predecessor master flow has 9 panels and lacks a dedicated evidence-control, contested-boundary and answer-spine closure."
+  ]
+}

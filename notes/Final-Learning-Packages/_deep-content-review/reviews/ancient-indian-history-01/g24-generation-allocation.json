@@ -1,0 +1,12 @@
+{
+  "topic_key": "ancient-indian-history-01",
+  "allocated_at": "2026-09-03T09:55:49.625435+00:00",
+  "baseline_record_id": "ancient-indian-history-01:learner-v2:g23",
+  "new_record_id": "ancient-indian-history-01:learner-v2:g24",
+  "review_state": "revalidation_pending",
+  "scores": null,
+  "approval": false,
+  "prior_generation_immutable": true,
+  "live_export_identity": "ancient-indian-history-01:learner-v2:g23",
+  "live_master_identity": "ancient-indian-history-01:learner-v2:g23"
+}

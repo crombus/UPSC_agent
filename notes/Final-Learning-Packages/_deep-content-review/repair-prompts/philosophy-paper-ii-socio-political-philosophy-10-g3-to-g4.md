@@ -1,0 +1,3 @@
+# Repair handoff — Caste Discrimination: Gandhi and Ambedkar
+
+Keep reviewed baseline `philosophy-paper-ii-socio-political-philosophy-10:learner-v2:g3` immutable. Allocate successor `philosophy-paper-ii-socio-political-philosophy-10:learner-v2:g4` with fresh score, `revalidation_pending` allocation state and approval false. Repair every defect in the baseline audit, regenerate the complete learning session, solved workbook, Cārvāka graphical flow and ASCII master from the same source ledger, then run refreshed Markdown, strict-key, PDF, graphical, ASCII, tracker and final-library validations. Do not carry forward any old score or approval. Status: completed, revalidated and passed; approval remains false.

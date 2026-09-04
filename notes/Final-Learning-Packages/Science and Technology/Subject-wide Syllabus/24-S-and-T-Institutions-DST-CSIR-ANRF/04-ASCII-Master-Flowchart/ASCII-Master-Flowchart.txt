@@ -1,0 +1,86 @@
+ASCII MASTER FLOW — PANEL 1/12: Institutional form classifier
+MINISTRY -> political-administrative portfolio
+DEPARTMENT -> DST | DSIR | DBT | DAE
+STATUTORY BODY -> ANRF
+AUTONOMOUS SOCIETY -> CSIR
+OFFICE / ACADEMY / REGULATOR / LAB -> distinct again
+
+ASCII MASTER FLOW — PANEL 2/12: Ministry to research network map
+MINISTRY OF SCIENCE AND TECHNOLOGY
+  DST -> policy / missions / coordination
+  DSIR -> industrial research / technology transfer
+    CSIR -> autonomous society + laboratory network
+  DBT -> biotechnology Department
+
+ASCII MASTER FLOW — PANEL 3/12: ANRF statutory governance map
+ANRF ACT 2023 -> statutory foundation
+COMMENCEMENT -> 5 February 2024
+GOVERNING BOARD -> PM ex officio President
+EXECUTIVE COUNCIL -> PSA ex officio Chairperson
+DST -> administrative anchor, not parent office
+
+ASCII MASTER FLOW — PANEL 4/12: SERB to ANRF transition
+SERB ACT 2008 -> former statutory grant body
+ANRF ACT section 27 -> repeal + dissolution
+ASSETS / LIABILITIES / PERSONNEL -> transition and savings
+OLD SERB REFERENCE -> historical context
+CURRENT APEX IDENTITY -> ANRF
+
+ASCII MASTER FLOW — PANEL 5/12: Funding instrument matrix
+FELLOWSHIP -> supports person
+PROJECT GRANT -> defined investigator project
+MISSION-MODE -> directed multi-institution outcome
+FINANCING DESIGN -> expected source mix
+APPROPRIATION / RELEASE / SPEND -> separate evidence
+
+ASCII MASTER FLOW — PANEL 6/12: Research-to-use pipeline
+QUESTION -> BASIC RESEARCH -> EXPERIMENT
+REPLICATION -> APPLIED RESEARCH -> PROTOTYPE
+TEST / STANDARD / REGULATION -> SCALE-UP
+MANUFACTURE / ADOPTION -> MEASURED OUTCOME
+STOP -> last verified rung
+
+ASCII MASTER FLOW — PANEL 7/12: Horizontal and vertical architecture
+HORIZONTAL -> DST policy | ANRF funding | DSIR-CSIR capability
+VERTICAL -> space | nuclear | biotech | defence | digital
+BRIDGE -> universities + labs + skills + standards
+COLLABORATION -> does not change legal identity
+CAPACITY MULTIPLIER != mission replacement
+
+ASCII MASTER FLOW — PANEL 8/12: CSIR laboratory portfolio
+NPL -> metrology
+NCL -> chemistry | CECRI -> electrochemistry
+CCMB -> molecular biology | IGIB -> genomics
+CEERI -> electronics
+LAB MANDATE != sector-wide regulation or mission ownership
+
+ASCII MASTER FLOW — PANEL 9/12: ANRF programme status ladder
+PM ECRG -> early-career project support
+MAHA -> mission-mode research platform
+CALL -> APPLICATION -> SELECTION -> SANCTION
+RELEASE -> RESEARCH -> VALIDATION
+NO AUTOMATIC COMMERCIAL OR PUBLIC OUTCOME
+
+ASCII MASTER FLOW — PANEL 10/12: Policy instrument firewall
+STI POLICY 2013 -> adopted policy owner
+STIP 2020 -> draft / consultation status
+VIGYAN DHARA -> DST umbrella scheme
+PROGRAMME / GRANT -> subordinate instrument
+DOCUMENT STATUS -> date and notification required
+MUST REMEMBER: India's science institutions must be routed by legal form, ministry,...
+
+ASCII MASTER FLOW — PANEL 11/12: Research governance balance board
+AUTONOMY <-> ACCOUNTABILITY
+EXCELLENCE <-> INCLUSION
+CURIOSITY <-> MISSION PRIORITY
+PUBLIC RISK CAPITAL <-> INDUSTRY PARTICIPATION
+CENTRAL COORDINATION <-> INSTITUTIONAL FLEXIBILITY
+CLOSE DISTINCTION: Funder is not research performer, department is not autonomous...
+
+ASCII MASTER FLOW — PANEL 12/12: PYQ support and evidence rail
+SPECIALIST PYQ -> specialist science owner
+TOPIC 24 SUPPORT -> funding / lab / university / translation
+NO DIRECT ROUTE -> no ownership inflation
+LAW / MEETING / CALL / GRANT / PROTOTYPE / DEPLOYMENT
+CONCLUSION -> institution + mandate + last verified status
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Cite institution, parent authority,...

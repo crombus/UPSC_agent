@@ -1,0 +1,31 @@
+{
+  "topic_key": "philosophy-paper-i-indian-philosophy-06",
+  "locked_at": "2026-08-29T06:06:40.098106+00:00",
+  "master_tracker_identity": "philosophy-paper-i-indian-philosophy-06:learner-v2:g2",
+  "review_tracker_identity": "philosophy-paper-i-indian-philosophy-06:learner-v2:g2",
+  "generation": 2,
+  "approval": false,
+  "hashes": {
+    "markdown": {
+      "path": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-06_Learning-Session.md",
+      "sha256": "32230f017d0e97b1aaf31fe9add01c3d7b76bedf58fcf8056f50505c95c506be"
+    },
+    "main_pdf": {
+      "path": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\notes\\philosophy-paper-i-indian-philosophy-06_Learning-Session_2026-08-25.pdf",
+      "sha256": "bfb4c13e24f7c813852cb91c94e6ded4e9dc13a8a62fe9406ae9d729d1109d9d"
+    },
+    "workbook": {
+      "path": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\workbooks\\philosophy-paper-i-indian-philosophy-06_Solved-Workbook_2026-08-25.pdf",
+      "sha256": "30bb8cd1a3cdfcb8da3a49e77113bc77a46005a18754be55acf2de5c6d14f4fb"
+    },
+    "graphical_master": {
+      "path": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-06\\continuous-at-a-glance-english-first-g2\\master.png",
+      "sha256": "7234ae551253c311590ba4733bbd05520f04c7d4ef388fb416f1f00b92575087"
+    },
+    "ascii_master": {
+      "path": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-06\\continuous-at-a-glance-english-first-g2\\ascii-master.txt",
+      "sha256": "c6fa13a354d8b90fd75a04b072a0b9ae7c70d9d1cc7b03baa02e3121ba384697"
+    }
+  },
+  "preserved_markdown_copy": "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\indian-philosophy-06\\g2-source\\philosophy-paper-i-indian-philosophy-06_Learning-Session.md"
+}

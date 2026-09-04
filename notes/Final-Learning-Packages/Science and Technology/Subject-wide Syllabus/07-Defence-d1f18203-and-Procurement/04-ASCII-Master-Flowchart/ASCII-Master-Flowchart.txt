@@ -1,0 +1,86 @@
+ASCII MASTER FLOW — PANEL 1/12: Capability conversion chain
+SERVICE REQUIREMENT -> operational need
+R&D / PROTOTYPE -> design and validation
+DAP ROUTE / AoN -> category and in-principle approval
+CONTRACT / PRODUCTION -> repeatable industrial output
+DELIVERY / INDUCTION / SUSTAINMENT -> usable capability
+
+ASCII MASTER FLOW — PANEL 2/12: Three meanings of indigenous
+DESIGN -> Indian control of architecture and intellectual property
+MANUFACTURE -> production occurs in India
+INDIGENOUS CONTENT -> Indian share of contract value
+LIFECYCLE CONTROL -> spares, repairs, upgrades and standards
+RULE -> test each dimension independently
+
+ASCII MASTER FLOW — PANEL 3/12: DAP purpose map
+DAP 2020 -> capital-acquisition rulebook
+CATEGORY -> vendor and localisation pathway
+PROCEDURE -> RFP, evaluation and negotiation
+CONTRACT -> legally binding procurement event
+TRAP -> procedure is not purchase or delivery
+
+ASCII MASTER FLOW — PANEL 4/12: Five-rung Buy ladder
+1 BUY INDIAN-IDDM -> Indian design, development and manufacture
+2 BUY INDIAN -> Indian vendor with prescribed content
+3 BUY AND MAKE INDIAN -> Indian vendor plus foreign transfer
+4 BUY GLOBAL-MANUFACTURE IN INDIA -> global vendor plus local build
+5 BUY GLOBAL -> global procurement route
+
+ASCII MASTER FLOW — PANEL 5/12: Approval-to-service ladder
+SERVICES REQUIREMENT -> stated need
+DAC AoN -> in-principle approval and category
+RFP / TRIALS -> competition and technical evaluation
+CONTRACT / DELIVERY -> order and physical supply
+INDUCTION -> service acceptance, not inferred deployment scale
+
+ASCII MASTER FLOW — PANEL 6/12: Positive-list split
+SERVICES PIL -> platforms and equipment import restriction
+DPSU PIL -> components, subsystems and materials
+NOTIFIED DATE -> item-specific sourcing boundary
+SRIJAN -> DPSU implementation stage tracker
+TRAP -> list length is not achieved domestic depth
+
+ASCII MASTER FLOW — PANEL 7/12: Industrial actor map
+DPSU -> sovereign integrator and legacy production base
+PRIVATE PRIME -> integration, competition and investment
+MSME / STARTUP -> specialised subsystem and rapid innovation
+USER / QA -> trials, standards and acceptance
+RULE -> ecosystem depth matters more than ownership slogan
+
+ASCII MASTER FLOW — PANEL 8/12: OFB restructuring card
+BEFORE 2021 -> departmental Ordnance Factory Board structure
+2021 -> corporatisation implemented
+SEVEN DPSUs -> corporate production entities
+TEST -> order books, quality, productivity and delivery
+TRAP -> restructuring itself is not performance proof
+
+ASCII MASTER FLOW — PANEL 9/12: Innovation instrument matrix
+iDEX -> challenge-based startup and MSME innovation
+ADITI -> deep-technology support within innovation ecosystem
+TDF -> DRDO-supported industry technology development
+DAP -> acquisition rulebook
+RULE -> funding route is not procurement category
+
+ASCII MASTER FLOW — PANEL 10/12: Corridor and FDI map
+UP + TAMIL NADU CORRIDORS -> place-based supplier clustering
+FDI UP TO 74 PERCENT -> automatic route
+BEYOND 74 TO 100 PERCENT -> government route conditions
+OFFSETS -> reciprocal obligations with narrowed coverage
+TEST -> actual absorption, certification and supplier depth
+MUST REMEMBER: Defence indigenisation spans design authority, intellectual property,...
+
+ASCII MASTER FLOW — PANEL 11/12: Lifecycle and export loop
+PREDICTABLE ORDERS -> investment and production learning
+MRO / SPARES -> availability after delivery
+UPGRADES / CONFIGURATION CONTROL -> design autonomy
+EXPORTS -> scale, learning and support obligations
+QUALIFICATION -> totals do not prove indigenous design
+CLOSE DISTINCTION: Indian manufacture is not Indian design, announced value is not...
+
+ASCII MASTER FLOW — PANEL 12/12: Procurement-claim firewall
+DEFINE -> design, manufacture, content and lifecycle
+CLASSIFY -> DAP route and positive-list family
+TRACE -> AoN, RFP, trial, contract, delivery and induction
+SEPARATE -> programme, production line and operational fleet
+VERIFY -> values, counts, timelines and content shares by date
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Date policy/list/contract claims and...

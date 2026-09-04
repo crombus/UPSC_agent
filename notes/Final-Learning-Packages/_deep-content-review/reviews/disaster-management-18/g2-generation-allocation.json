@@ -1,0 +1,13 @@
+{
+  "topic_key": "disaster-management-18",
+  "allocated_at": "2026-09-04T14:14:54.753881+00:00",
+  "baseline_record_id": "disaster-management-18:learner-v2:g1",
+  "new_record_id": "disaster-management-18:learner-v2:g2",
+  "review_state": "revalidation_pending",
+  "scores": null,
+  "hard_gates": null,
+  "approval": false,
+  "prior_generation_immutable": true,
+  "live_export_identity": "disaster-management-18:learner-v2:g1",
+  "live_master_identity": "disaster-management-18:learner-v2:g1"
+}

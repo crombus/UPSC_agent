@@ -1,0 +1,106 @@
+ASCII MASTER FLOW — PANEL 1/12: Federal constitutional map and institutional boundary
+UNION -> Article 76 Attorney General for India
+STATE -> Article 165 Advocate General for each State
+ROLE -> legal advice + assigned legal duties + government representation
+NOT -> judge, minister, legislature member, prosecutor-general or final interpreter
+
+CORE: constitutional status defines the office; courts decide law and government decides policy.
+
+ASCII MASTER FLOW — PANEL 2/12: Article 76 Attorney General clause spine
+76(1) -> President appoints a person qualified as Supreme Court Judge
+76(2) -> advice, assigned legal duties and functions conferred by Constitution/law
+76(3) -> right of audience in all courts in India while performing duties
+76(4) -> President pleasure + remuneration determined by President
+
+LIMIT: opinion is advisory; audience is not automatic assignment in every case.
+
+ASCII MASTER FLOW — PANEL 3/12: Article 165 Advocate General clause spine
+165(1) -> Governor appoints a person qualified as High Court Judge
+165(2) -> State-government advice, assigned duties and legal functions
+165(3) -> Governor pleasure + remuneration determined by Governor
+
+ASYMMETRY: Article 165 has no express equivalent of Article 76(3) all-India audience.
+Applicable professional and State law controls courtroom practice.
+
+ASCII MASTER FLOW — PANEL 4/12: Qualifications appointment tenure and remuneration
+AGI -> citizen + Article 124(3) alternative route; President appoints
+ADVOCATE GENERAL -> citizen + Article 217(2) route; Governor appoints
+BOTH -> no fixed constitutional term; office during constitutional head pleasure
+UNION RULE 3 -> administrative term subject always to Article 76(4) pleasure
+
+TRAP: judicial qualification or retirement age does not become law-officer tenure.
+
+ASCII MASTER FLOW — PANEL 5/12: Advice representation and audience distinctions
+ADVICE -> legal matter referred or assigned through government route
+REPRESENTATION -> specific brief in court or constitutional reference
+AUDIENCE -> entitlement to be heard; AGI has express Article 76(3) right
+PRACTICE -> professional capacity under governing law
+
+FOUR QUESTIONS: qualified? audience? assigned? conflict-free?
+Opinion neither binds government nor court.
+
+ASCII MASTER FLOW — PANEL 6/12: Legislative participation privilege and no vote
+ARTICLE 88 -> AGI may speak and take part in both Houses, joint sitting and named committee
+ARTICLE 177 -> Advocate General may participate in State House(s) and named committee
+ARTICLES 105(4) / 194(4) -> proceeding-linked privilege extension
+COMMON LIMIT -> no vote by office; no elected membership or ministerial responsibility
+
+TRAP: permission to participate is not a legislative seat.
+
+ASCII MASTER FLOW — PANEL 7/12: Rule 8 private practice conflicts and permissions
+PRIVATE PRACTICE -> possible, but not unrestricted
+DO NOT -> advise or appear against Government / covered public entities
+DO NOT -> act where officer advised or is likely to advise government
+PERMISSION -> criminal defence and specified company/corporate positions
+PROCESS -> conflict check -> disclosure -> recusal/screen -> authorised brief
+
+Union rules cannot be silently imposed on every State Advocate General.
+
+ASCII MASTER FLOW — PANEL 8/12: AGI Solicitor General prosecutor and Law Minister
+AGI -> constitutional office under Article 76
+SG / ASG -> executive law officers governed by Union rules; not constitutional offices
+ADVOCATE GENERAL -> constitutional State office under Article 165
+PUBLIC PROSECUTOR -> criminal-procedure office
+LAW MINISTER -> political executive
+CAG -> independent constitutional auditor
+
+EXAM RULE: classify by creating source before comparing prestige or function.
+
+ASCII MASTER FLOW — PANEL 9/12: Attorney General and Advocate General comparison
+DIMENSION       ATTORNEY GENERAL             ADVOCATE GENERAL
+Source          Article 76                   Article 165
+Appointer       President                    Governor
+Qualification   Supreme Court Judge route    High Court Judge route
+Advice          Government of India          State Government
+Audience text   all courts in India          no matching express clause
+Legislature     Article 88                   Article 177
+Vote            none by office               none by office
+Pleasure        President                    Governor
+
+ASCII MASTER FLOW — PANEL 10/12: Government client court duty and confidentiality
+GOVERNMENT CLIENT -> expects loyal, competent and confidential advice
+COURT DUTY -> candour; no misleading submission or suppressed binding authority
+PROFESSIONAL PRIVILEGE -> protects qualifying communications subject to law and exceptions
+CONFLICT CONTROL -> identify prior/current interests -> disclose -> recuse or obtain permission
+
+BALANCE: loyalty to government operates within law and professional responsibility.
+
+ASCII MASTER FLOW — PANEL 11/12: Independence, conventions and fair State panel selection
+STRUCTURAL TENSION -> trusted counsel + pleasure tenure + assignment control
+COUNTERWEIGHT -> qualification + court duty + conflict rules + reasoned advice
+STATE OF PUNJAB V. BRIJESHWAR SINGH CHAHAL (2016) -> State panel selection must be fair and
+  objective
+LIMIT -> judgment did not replace Governor appointment of Advocate General under Article 165
+
+REFORM: transparent criteria, conflict register, reasoned recusals and reviewable procedures.
+
+ASCII MASTER FLOW — PANEL 12/12: Current controls PYQs traps and answer synthesis
+CONTROL DATE -> 28 August 2026; no volatile officeholder frozen
+PYQ 2019 -> AGI as chief legal adviser
+PYQ 2025 -> responsibilities, rights and limitations
+PRELIMS 2022 -> AGI versus Solicitor General constitutional position
+
+FIREWALL: pleasure != impeachment | audience != assigned brief | speak != vote
+| privilege != blanket immunity | private practice != conflict-free practice
+
+MAINS: source -> function/right -> limits -> dual-role tension -> qualified reform.

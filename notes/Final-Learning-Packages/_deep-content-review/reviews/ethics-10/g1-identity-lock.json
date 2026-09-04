@@ -1,0 +1,14 @@
+{
+  "topic_key": "ethics-10",
+  "locked_at": "2026-09-02T12:41:14.671286+00:00",
+  "master_tracker_identity": "ethics-10:learner-v2:g1",
+  "generation": 1,
+  "approval": false,
+  "hashes": {
+    "markdown": "f714d4349113affef187c138100fe8acb46e8206bf9c0a7943bb570e35bb8ef7",
+    "main_pdf": "62054909c375d9e28e49f3ee12786c7701fae2964b3da8609c0d54b08782d319",
+    "workbook": "616904bc6501e9cc25ef6ac806f0b46ed1e281f64567f1927a76fa1e86780960",
+    "graphical_master": "8bd4075ebaaa46b72b0d4df994aeae86f76a4484f8973b6e7d9deb0385bdb039",
+    "ascii_master": "910816733d21bd28c134016095c5b978bd09c1c5dacf689b12c0ed83cfe488aa"
+  }
+}

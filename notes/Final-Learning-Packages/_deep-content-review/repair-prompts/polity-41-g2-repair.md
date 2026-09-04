@@ -1,0 +1,2 @@
+# Repair handoff — polity-41 g2
+Preserve `polity-41:learner-v2:g2` immutably. Repair the Basic, Advanced and canonical owners for all defects in the review report; solve both verified adjacent PYQs; retain complete Core before Optional Advanced; add specific answer improvement/compression and twelve agreeing flow panels. Re-read live trackers before allocation, regenerate all four artifacts and exact metadata, validate strict A-B-C-D rotation and prose/PDF/hash integrity, and keep approval false. Never carry g2's score forward.

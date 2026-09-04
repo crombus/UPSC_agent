@@ -1,0 +1,86 @@
+ASCII MASTER FLOW — PANEL 1/12: Human-rating pyramid
+LAUNCH RELIABILITY -> necessary starting condition
+MARGINS AND REDUNDANCY -> tolerate selected failures
+HEALTH MONITORING -> detect unsafe vehicle conditions
+ABORT MODES -> protect crew during ascent
+HUMAN RATING -> system qualification, not a success count
+
+ASCII MASTER FLOW — PANEL 2/12: Gaganyaan module map
+CREW MODULE -> habitable and re-entry capable
+SERVICE MODULE -> propulsion, power and support
+ORBITAL MODULE -> Crew Module plus Service Module
+LAUNCH VEHICLE -> ascent platform, separate from spacecraft
+RULE -> module, spacecraft and launcher are different layers
+
+ASCII MASTER FLOW — PANEL 3/12: Crew-survival chain
+ECLSS -> breathable and thermally controlled cabin
+CREW ESCAPE -> separation from a failing launcher
+RE-ENTRY -> controlled atmospheric return
+PARACHUTES -> staged deceleration
+RECOVERY -> splashdown, extraction and medical support
+
+ASCII MASTER FLOW — PANEL 4/12: Qualification ladder
+COMPONENT / GROUND TEST -> verify subsystem behaviour
+AIR-DROP TEST -> parachute and recovery sequence
+TEST-VEHICLE ABORT -> escape under a selected flight condition
+UNCREWED ORBITAL FLIGHT -> integrated mission without crew
+CREWED FLIGHT -> later accepted human risk
+
+ASCII MASTER FLOW — PANEL 5/12: International-exposure firewall
+AXIOM-4 -> international ISS mission experience
+FOREIGN LAUNCHER / SPACECRAFT -> external transport systems
+INDIAN EXPERIMENTS -> operational and scientific exposure
+GAGANYAAN -> indigenous launch, module and recovery objective
+RULE -> experience complements but does not certify capability
+
+ASCII MASTER FLOW — PANEL 6/12: Mission-status ladder
+ANNOUNCED / PROPOSED -> intent
+APPROVED -> authority and programme sanction
+UNDER DEVELOPMENT / TESTED -> work and evidence rung
+LAUNCHED / INSERTED / OPERATIONAL -> distinct flight milestones
+COMPLETED / PARTIAL / FAILED / CONCLUDED -> outcome vocabulary
+
+ASCII MASTER FLOW — PANEL 7/12: Lunar capability ladder
+CHANDRAYAAN-1 -> orbital science and lunar-water evidence
+CHANDRAYAAN-2 -> orbiter success, lander setback
+CHANDRAYAAN-3 -> soft landing and surface operations
+CHANDRAYAAN-4 -> approved sample-return technology mission
+RULE -> landing does not prove ascent, docking or Earth return
+
+ASCII MASTER FLOW — PANEL 8/12: Solar-observatory geometry
+SUN-EARTH SYSTEM -> defines Lagrange-point geometry
+L1 REGION -> continuous solar-view advantage
+HALO ORBIT -> three-dimensional path around L1
+STATION KEEPING -> periodic correction and propellant use
+ADITYA-L1 -> solar observatory, not a landing mission
+
+ASCII MASTER FLOW — PANEL 9/12: Planetary-status matrix
+MARS ORBITER MISSION -> historic mission, now concluded
+VENUS ORBITER MISSION -> approved future mission in owner
+LUNAR SAMPLE RETURN -> ascent and return architecture
+SOLAR OBSERVATORY -> remote sensing from L1 halo orbit
+RULE -> destination and status both control the description
+
+ASCII MASTER FLOW — PANEL 10/12: Parallel capability ladders
+HUMAN -> abort, life support, uncrewed, crewed, station
+LUNAR -> orbit, soft land, rove, sample return
+SOLAR -> transit, halo insertion, station keeping, observation
+PLANETARY -> cruise, insertion, science operations
+RULE -> one ladder cannot certify another
+MUST REMEMBER: Human spaceflight requires a human-rated launcher, crew and service...
+
+ASCII MASTER FLOW — PANEL 11/12: Planetary-defence rail
+DETECTION -> discover potentially hazardous objects
+CHARACTERISATION -> refine orbit, size and composition
+WARNING TIME -> determines response feasibility
+DEFLECTION -> kinetic impact is one demonstrated concept
+RESIDUAL RISK -> one test is not a complete shield
+CLOSE DISTINCTION: Launch-vehicle test is not crew-system qualification, abort test is...
+
+ASCII MASTER FLOW — PANEL 12/12: Mission answer spine
+CLASSIFY -> human lunar solar planetary or defence mission
+TRACE -> minimum technical and safety chain
+NAME -> one verified achievement or approved next rung
+SEPARATE -> test launch operation completion and outcome
+VERIFY -> dated crew schedule payload finding and status source
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Use the latest dated official status and...

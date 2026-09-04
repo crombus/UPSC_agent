@@ -1,0 +1,203 @@
+ASCII MASTER FLOW — PANEL 1/12: Urban constitutionalisation and the Article 243Q institutional map
+URBAN GOVERNANCE PROBLEM
+growth across wards and agencies -> services, planning, finance and democratic voice.
+
+74TH AMENDMENT ACT, 1992
+Part IXA + Twelfth Schedule -> constitutional municipal framework from 1 June 1993.
+
+ARTICLE 243P DEFINITIONS
+municipality | municipal area | ward | metropolitan area | population.
+
+ARTICLE 243Q TYPES
+transitional area -> Nagar Panchayat
+smaller urban area -> Municipal Council
+larger urban area -> Municipal Corporation.
+
+INDUSTRIAL-TOWNSHIP PROVISO
+Governor may specify after considering municipal services supplied/proposed;
+it is an exception, not the status of every industrial or census town.
+
+ASCII MASTER FLOW — PANEL 2/12: Council, wards, reservation, tenure and State Election Commission
+ARTICLE 243R
+directly elected ward representatives; State law may add specified representation.
+
+ARTICLE 243S
+Ward Committees mandatory in municipalities with population >= three lakh.
+State law fixes composition, area and additional committees.
+
+ARTICLE 243T
+SC/ST population-linked reservation + not less than one-third seats for women.
+
+ARTICLE 243U
+five-year duration; hearing before dissolution; timely re-election.
+
+ARTICLE 243ZA
+State Election Commission controls municipal rolls and elections.
+
+LIMIT compulsory democratic form does not itself transfer functions, staff or finance.
+
+ASCII MASTER FLOW — PANEL 3/12: Article 243W, Twelfth Schedule and measurable service devolution
+ARTICLE 243W IS ENABLING
+State law may endow municipalities with self-government and scheme functions.
+
+TWELFTH SCHEDULE: 18 MATTERS
+urban planning + land use + roads + water + public health/sanitation
+-> fire services + urban forestry/environment
+-> weaker sections/slums/poverty
+-> amenities/culture + burials + cattle pounds
+-> vital statistics + street lighting/parking/bus stops/public conveniences.
+
+THREE-F TEST
+function assigned? | staff controlled? | money predictable and discretionary?
+
+SERVICE TEST
+clear responsibility -> standard -> budget -> delivery -> grievance -> public audit.
+
+ASCII MASTER FLOW — PANEL 4/12: Municipal finance: property tax, user charges, bonds and grants
+ARTICLE 243X
+State law may authorise taxes, duties, tolls, fees, assignments, grants and funds.
+
+ARTICLE 243Y
+the State Finance Commission reviews municipal and Panchayat finances.
+
+OWN REVENUE
+property tax -> complete register + fair valuation + billing + collection + appeal.
+user charge -> service cost + affordability protection + transparent subsidy.
+
+CAPITAL FINANCE
+municipal bond -> accounts + revenue stream + disclosure + credit discipline.
+pooled finance -> smaller bodies aggregate borrowing capacity.
+
+GRANTS
+equalisation and national priorities; tied money cannot replace local fiscal authority.
+
+ASCII MASTER FLOW — PANEL 5/12: Mayor-commissioner relations, parastatals and mission SPVs
+ELECTED COUNCIL / MAYOR
+mandate -> priorities -> budget -> public answerability.
+
+MUNICIPAL COMMISSIONER
+State-law executive authority -> administration -> engineering/procurement continuity.
+
+MODEL CAVEAT
+mayor selection, tenure, executive power and commissioner control vary by State law.
+
+PARASTATALS
+water/transport/development authorities may add expertise and regional scale
+but can fragment money, staff and accountability.
+
+MISSION SPVs
+project focus + professional delivery
+must remain aligned with elected plans, transparent accounts and municipal ownership.
+
+ANSWER TEST
+who decides? who spends? who employs? who answers to voters?
+
+ASCII MASTER FLOW — PANEL 6/12: DPC, MPC and government at the scale of the city-region
+ARTICLE 243ZD: DISTRICT PLANNING COMMITTEE
+Panchayat plans + municipal plans -> draft district development plan.
+At least four-fifths elected by/from district Panchayat and municipal elected members.
+
+ARTICLE 243ZE: METROPOLITAN PLANNING COMMITTEE
+municipal + Panchayat plans -> metropolitan development plan.
+At least two-thirds elected by/from municipal members and Panchayat chairpersons.
+
+METROPOLITAN AREA
+population ten lakh or more across one or more districts and local bodies.
+
+PERI-URBAN CHOICE
+Nagar Panchayat | merger | joint authority | phased transition.
+
+LIMIT constitutional plan preparation needs alignment with agencies, budgets and land powers.
+
+ASCII MASTER FLOW — PANEL 7/12: Citizen participation, accountability and bounded digital reform
+DOWNWARD ACCOUNTABILITY
+ward voice -> open budget -> service standard -> grievance redress
+-> audit/report -> council correction -> electoral sanction.
+
+FISCAL ACCOUNTABILITY
+asset register + double-entry accounts + audit + public disclosure + procurement control.
+
+DIGITAL / SMART TOOLS
+GIS property base | online permissions/payments | dashboards | sensor data.
+
+CAUTION
+technology can expose performance and expand access
+but cannot cure missing staff, fragmented authority or digital exclusion by itself.
+
+REFORM
+activity mapping + stronger wards + professional cadre + accountable executive
+-> integrated planning + viable revenue + transparent service contracts.
+
+ASCII MASTER FLOW — PANEL 8/12: Rural-urban comparison and local-government case-law controls
+PANCHAYAT                             MUNICIPALITY
+Part IX / Eleventh 29                Part IXA / Twelfth 18
+Gram Sabha                            Ward Committee where Article 243S applies
+rural three-tier map                  transitional/smaller/larger urban forms.
+
+COMMON
+State-law devolution | SEC elections | SFC review | DPC linkage.
+
+CASE CODE
+Kishansing Tomar (2006) -> constitutional election timetable.
+K. Krishna Murthy (2010) -> local reservation analysis.
+Vikas Kishanrao Gawali (2021) -> OBC triple test.
+State of Goa v. Fouziya Imtiaz Shaikh (2021) -> SEC independence.
+
+TRAP census town != municipality | every industrial area != industrial township.
+
+ASCII MASTER FLOW — PANEL 9/12: Part IXA transition, exclusions and election bar
+ARTICLE 243U
+five-year term -> election before expiry or within six months after dissolution.
+Short remainder below six months needs no election; new body serves the balance.
+Reasonable hearing precedes dissolution.
+
+243ZB -> President may adapt Part IXA for Union Territories.
+243ZC -> Scheduled/tribal-area exclusion; Parliament may extend to Scheduled Areas.
+243ZF -> inconsistent old laws at most one year; existing bodies protected to term.
+243ZG -> delimitation/allotment bar; election petition is the prescribed route.
+
+ASCII MASTER FLOW — PANEL 10/12: Planning composition, inputs and State forwarding
+DISTRICT PLANNING COMMITTEE — ARTICLE 243ZD
+at least four-fifths elected by/from district-Panchayat and municipal elected members
+-> ratio follows rural and urban population -> consolidates local plans.
+
+METROPOLITAN PLANNING COMMITTEE — ARTICLE 243ZE
+at least two-thirds elected by/from municipal members and Panchayat chairpersons
+-> ratio follows municipal and Panchayat population -> prepares metropolitan plan.
+
+COMMON INPUTS
+spatial planning | shared water/resources | infrastructure | environment | likely resources.
+Chairperson forwards the recommended draft development plan to State Government.
+
+ASCII MASTER FLOW — PANEL 11/12: Dated finance evidence and exam compression
+DATED OFFICIAL CONTROLS — CHECKED 28 AUGUST 2026
+RBI Municipal Finances 2022 -> property-tax potential and administration gaps.
+FC-XVI 2026-31 -> RLB:ULB 60:40 after special components; basic:performance 80:20.
+AMRUT 2.0 -> water security + property tax + user charges + accounts/capacity.
+SEBI municipal-debt framework -> bonds are regulated borrowing, not tax revenue.
+
+ANSWER COMPRESSION
+10 marks -> Article pair + functional gap + fiscal gap + verdict.
+15 marks -> design + three Fs + planning + current evidence + qualification.
+20 marks -> evolution + city-region institutions + finance + executive design + reforms.
+
+LIMIT report ratios are dated recommendations; release status needs current verification.
+
+ASCII MASTER FLOW — PANEL 12/12: Urban reform, Prelims traps, PYQ spine and qualified synthesis
+CORE DIAGNOSIS
+constitutional existence and elections
+without assured functions, metropolitan coordination, staff control or buoyant revenue.
+
+REFORM LADDER
+State activity map -> empowered wards -> stable elected leadership
+-> professional administration -> property/user-charge reform
+-> accountable bonds/grants -> agency-plan convergence -> public audit.
+
+PRELIMS FIREWALL
+243Q types | 243S three-lakh Ward Committee threshold
+| DPC four-fifths | MPC two-thirds | metropolitan population ten lakh
+| SEC, not ECI | Twelfth Schedule does not transfer automatically.
+
+MAINS SPINE
+constitutional design -> operational gap -> finance/governance mechanism
+-> city-region evidence -> State-law caveat -> democratic functionality verdict.

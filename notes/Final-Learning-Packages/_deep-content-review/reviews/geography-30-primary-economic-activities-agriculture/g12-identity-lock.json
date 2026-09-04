@@ -1,0 +1,14 @@
+{
+  "topic_key": "geography-30-primary-economic-activities-agriculture",
+  "locked_at": "2026-09-02T03:49:47.114890+00:00",
+  "master_tracker_identity": "geography-30-primary-economic-activities-agriculture:learner-v2:g12",
+  "generation": 12,
+  "approval": false,
+  "hashes": {
+    "markdown": "3de8e029960a7cb93239b23c3485073a3f302d8725124d4ece32009c23363c9a",
+    "main_pdf": "52c28bde9aba0de6b054cecb2a8e6bccebe64cb9e8eafef04b3d46e26db37608",
+    "workbook": "e5b52251d53f7ee91d53afb8a2e8718351257d8c9277d594500f49b63ff8c842",
+    "graphical_master": "e3658248e368e4728715c270d2887d53d90a98e65af2e9403662d4a88d867bbf",
+    "ascii_master": "36ab19c6bfc0eb38e34df51b3148c13ed0ac8cf5f077be9ad994d9fcc3a5e687"
+  }
+}

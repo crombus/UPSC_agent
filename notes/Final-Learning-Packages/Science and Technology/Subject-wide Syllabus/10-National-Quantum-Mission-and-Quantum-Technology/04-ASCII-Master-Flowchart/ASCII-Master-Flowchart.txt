@@ -1,0 +1,86 @@
+ASCII MASTER FLOW — PANEL 1/12: Bit and qubit card
+CLASSICAL BIT -> recorded as 0 or 1
+QUBIT -> amplitudes over basis states
+MEASUREMENT -> one classical outcome with probability
+SPEED -> not the defining difference
+RULE -> state description is not two stored classical bits
+
+ASCII MASTER FLOW — PANEL 2/12: Quantum principle split
+SUPERPOSITION -> one system in a combination of basis states
+ENTANGLEMENT -> joint state of two or more systems
+NO-CLONING -> arbitrary unknown state cannot be copied perfectly
+NO SIGNALLING -> entanglement does not transmit messages faster
+RULE -> each principle answers a different question
+
+ASCII MASTER FLOW — PANEL 3/12: Algorithm mechanism rail
+PREPARE STATE -> initialise qubits
+QUANTUM GATES -> transform amplitudes
+INTERFERENCE -> suppress and reinforce paths
+MEASUREMENT -> obtain classical sample
+TRAP -> superposition does not reveal every answer
+
+ASCII MASTER FLOW — PANEL 4/12: Decoherence engineering stack
+ENVIRONMENTAL INTERACTION -> phase information degrades
+COHERENCE TIME -> finite computation window
+CRYOGENICS / VACUUM / SHIELDING -> reduce disturbance
+CONTROL ELECTRONICS / MATERIALS -> execute accurate gates
+OUTCOME -> engineering, not theory alone, limits scale
+
+ASCII MASTER FLOW — PANEL 5/12: Physical-to-logical ladder
+PHYSICAL QUBIT -> noisy hardware element
+ERROR CHARACTERISATION -> measure failure channels
+ERROR-CORRECTING CODE -> redundant encoding
+LOGICAL QUBIT -> protected information unit
+RULE -> raw qubit count is not useful capability
+
+ASCII MASTER FLOW — PANEL 6/12: Four technology families
+COMPUTING -> selected information-processing algorithms
+COMMUNICATION -> quantum-state links and key distribution
+SENSING / METROLOGY -> precision measurement
+MATERIALS / DEVICES -> enabling hardware substrate
+TRAP -> quantum technology is not computing alone
+
+ASCII MASTER FLOW — PANEL 7/12: QKD security chain
+QUANTUM STATES -> distribute key material
+DISTURBANCE TEST -> reveal possible interception
+AUTHENTICATED ENDPOINTS -> prevent impersonation
+CLASSICAL ENCRYPTION -> protects message content
+RULE -> QKD alone is not a complete secure network
+
+ASCII MASTER FLOW — PANEL 8/12: QKD versus PQC
+QKD -> quantum hardware and physical link
+PQC -> classical quantum-resistant algorithms
+QKD PURPOSE -> specialised key distribution
+PQC PURPOSE -> broad standards and software migration
+POLICY -> complementary tools with different timelines
+
+ASCII MASTER FLOW — PANEL 9/12: NQM institution map
+MINISTRY OF SCIENCE AND TECHNOLOGY -> ministerial umbrella
+DST -> implementing department
+NQM -> national capability mission
+T-HUBS -> four vertical ecosystem anchors
+RULE -> department, mission and hub are distinct
+
+ASCII MASTER FLOW — PANEL 10/12: Four T-Hub map
+IISc BENGALURU -> Quantum Computing
+IIT MADRAS WITH C-DOT -> Quantum Communication
+IIT BOMBAY -> Quantum Sensing and Metrology
+IIT DELHI -> Quantum Materials and Devices
+TRAP -> hub creation is not operational capability
+MUST REMEMBER: Quantum technology covers computing, communication and sensing: qubits...
+
+ASCII MASTER FLOW — PANEL 11/12: Readiness ladder
+CABINET APPROVAL -> mission authority and outlay
+TARGET -> intended future capability
+RESEARCH PROTOTYPE -> bounded demonstration
+VALIDATED SYSTEM -> repeatable performance evidence
+OPERATIONAL DEPLOYMENT -> field use with sustainment
+CLOSE DISTINCTION: Qubit is not a faster classical bit, gate count is not useful...
+
+ASCII MASTER FLOW — PANEL 12/12: Quantum claim firewall
+DEFINE -> qubit, superposition, entanglement and decoherence
+CLASSIFY -> computing, communication, sensing or materials
+SEPARATE -> physical and logical qubits; QKD and PQC
+LABEL -> approval, target, prototype, validation and operation
+VERIFY -> outlay, qubits, distance and startup claims officially
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Identify platform, qubit/measurement...

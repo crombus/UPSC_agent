@@ -1,0 +1,76 @@
+{
+  "record_id": "geography-32-industries-and-industrial-regions:learner-v2:g12",
+  "generation": 12,
+  "scores": {
+    "complete_learning_session": 34,
+    "solved_practice_workbook": 29,
+    "graphical_flowchart": 13,
+    "ascii_master_flowchart": 12,
+    "total": 88
+  },
+  "metrics": {
+    "main_characters": 124658,
+    "workbook_characters": 56464,
+    "question_count": 0,
+    "missing_answer_controls": {},
+    "mcq_count": 28,
+    "mcq_keys": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "mcq_unparsed": [],
+    "flow_panel_count": 8,
+    "graphical_validation_passed": true,
+    "main_pages": 54,
+    "workbook_pages": 20,
+    "main_layout": {
+      "page_count": 54,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook_layout": {
+      "page_count": 20,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "session_count": 8,
+    "visual_first_count": 0,
+    "replacement_glyph_count": 0
+  },
+  "defects": [
+    "The session lacks an explicit syllabus, evidence-class, contested-claim and approval contract.",
+    "The predecessor master flow has 8 panels and lacks a dedicated evidence-control, contested-boundary and answer-spine closure.",
+    "The package lacks a topic-specific Geography chronology, spatial distinction and evidence/historiography qualification control.",
+    "Visual-first Core progression is incomplete: sessions=8, visual gateways=0."
+  ]
+}

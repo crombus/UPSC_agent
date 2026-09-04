@@ -1,0 +1,14 @@
+{
+  "topic_key": "ancient-indian-history-15",
+  "locked_at": "2026-08-30T15:38:25.388868+00:00",
+  "master_tracker_identity": "ancient-indian-history-15:learner-v2:g2",
+  "generation": 2,
+  "approval": false,
+  "hashes": {
+    "markdown": "99a83946c05c2cdf0c631fa34a0dcb1dc1b47d9b5f0cb31b694abf4cfabf4f98",
+    "main_pdf": "670ca4b62dba79f3dc7e0bfd309fe87e3c3d881765896e898c523028d80cfba4",
+    "workbook": "6c02f5c7a256ebf76710b8a4ec433f25bdc976dea67053af04e5565b31bf7618",
+    "graphical_master": "942d248814a2dd1b15dedacdc48a823ad6f2ccca8fa068b0cd7b299dc61ecf0f",
+    "ascii_master": "967db079bf17deed61a6c7223c247111c196a99a26ea7c2077d494875800255e"
+  }
+}

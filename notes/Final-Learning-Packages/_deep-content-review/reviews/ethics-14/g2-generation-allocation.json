@@ -1,0 +1,12 @@
+{
+  "topic_key": "ethics-14",
+  "allocated_at": "2026-09-02T12:42:44.613307+00:00",
+  "baseline_record_id": "ethics-14:learner-v2:g1",
+  "new_record_id": "ethics-14:learner-v2:g2",
+  "review_state": "revalidation_pending",
+  "scores": null,
+  "approval": false,
+  "prior_generation_immutable": true,
+  "live_export_identity": "ethics-14:learner-v2:g1",
+  "live_master_identity": "ethics-14:learner-v2:g1"
+}

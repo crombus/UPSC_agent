@@ -1,0 +1,52 @@
+{
+  "topic_key": "philosophy-paper-i-indian-philosophy-06",
+  "rechecked_at": "2026-08-29T07:22:56.479400+00:00",
+  "old_record_id": "philosophy-paper-i-indian-philosophy-06:learner-v2:g2",
+  "new_record_id": "philosophy-paper-i-indian-philosophy-06:learner-v2:g3",
+  "generation": 3,
+  "approval": false,
+  "hashes": {
+    "markdown": {
+      "path": "upsc-ai-kit\\knowledge\\Philosophy\\learning-sessions\\v2\\paper-i-indian-philosophy\\philosophy-paper-i-indian-philosophy-06_Learning-Session.md",
+      "sha256": "9287eef6eb3244122814d66b748e0146fd7e022848fa4c95cef40ba41b46a52a"
+    },
+    "main_pdf": {
+      "path": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\notes\\philosophy-paper-i-indian-philosophy-06_Learning-Session_2026-08-29.pdf",
+      "sha256": "1ec6aa057cb3ad85da52f624566b0406539ca00fb4e253b940d4225318b8429b"
+    },
+    "workbook": {
+      "path": "notes\\Philosophy\\learning-session-v2\\paper-i-indian-philosophy\\workbooks\\philosophy-paper-i-indian-philosophy-06_Solved-Workbook_2026-08-29.pdf",
+      "sha256": "448d25ce321cc59ce1b374e0804f96a718be77360e860b781c3cc42526217331"
+    },
+    "graphical_master": {
+      "path": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-06\\continuous-at-a-glance-english-first-g3\\master.png",
+      "sha256": "966e6a122a7f823ced4ae56ee600b2ebe7efa81baa143baf9ced212d1df0b269"
+    },
+    "ascii_master": {
+      "path": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-06\\continuous-at-a-glance-english-first-g3\\ascii-master.txt",
+      "sha256": "c6fa13a354d8b90fd75a04b072a0b9ae7c70d9d1cc7b03baa02e3121ba384697"
+    }
+  },
+  "hard_gates": {
+    "syllabus_core_complete": true,
+    "facts_verified": true,
+    "pyqs_verified": true,
+    "model_answers_marks_worthy": true,
+    "advanced_is_optional": true,
+    "four_artifacts_consistent": true,
+    "current_data_source_dated": true
+  },
+  "baseline_score": 78,
+  "re_review_score": 96,
+  "metrics": {
+    "main_pages": 61,
+    "workbook_pages": 18,
+    "mcqs": 48,
+    "improvements": 10
+  },
+  "baseline_issues": [
+    "answer-specific improvement and exam-length compression were absent",
+    "practice stopped at 32 MCQs and a seven-column comparison could not render safely"
+  ],
+  "result": "passed"
+}

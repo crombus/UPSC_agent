@@ -1,0 +1,14 @@
+{
+  "topic_key": "geography-28-human-settlements-and-urbanisation",
+  "locked_at": "2026-09-02T03:14:40.947485+00:00",
+  "master_tracker_identity": "geography-28-human-settlements-and-urbanisation:learner-v2:g12",
+  "generation": 12,
+  "approval": false,
+  "hashes": {
+    "markdown": "80eb94d8299912fcb230813e86bb37e75b2cc6562684090b625d577598f5bea7",
+    "main_pdf": "73bf9eb63595d56bcb3059de16b3ce263b8ae713efd60a61977d1b048c51f4ae",
+    "workbook": "22428d4c462d2ca03d5059d940f26c4f5ff18cd07687343e420dfc18e483ad92",
+    "graphical_master": "5880a88d54627212e9196eccee284905ed1647c288cec38130cbd481f0e7b25c",
+    "ascii_master": "a4c7419376d777283a19792ab38de2394c868587b0b9333960b8c31b33ef276f"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "topic_key": "geography-29",
+  "locked_at": "2026-09-02T03:49:28.565277+00:00",
+  "master_tracker_identity": "geography-29:learner-v2:g4",
+  "generation": 4,
+  "approval": false,
+  "hashes": {
+    "markdown": "589aacbc21545d9ca3a16ae6a6bd312c7c09287ccea5e27edb2fad5ecd145c5f",
+    "main_pdf": "7889fb8ed14eaea2b6b95ae31063febf5c2b0738ed80dc9b10cf82f4b7c2ec39",
+    "workbook": "ed7ef081453032881df902265f63d6a725daaca8c98ab51ca962d24d23700388",
+    "graphical_master": "879fa9306c8336d6cb829139728e148035ea88ccae7bada34a6bd0b4713bfb33",
+    "ascii_master": "66ce451b4c640d63723bd18ae40ea05c349f02a23a2d6f74b27cbd3f30546aa1"
+  }
+}

@@ -1,0 +1,221 @@
+ASCII MASTER FLOW — PANEL 1/12: Article 244 starting point and the autonomy-development rationale
+ROOT PROBLEM
+ordinary territorial administration may reproduce dispossession and weak bargaining
+power.
+
+ARTICLE 244(1)
+Fifth Schedule -> Scheduled Areas and Scheduled Tribes outside the Sixth Schedule map.
+
+ARTICLE 244(2)
+Sixth Schedule -> tribal areas in Assam, Meghalaya, Tripura and Mizoram.
+
+ARTICLE 244A
+Parliament may create an autonomous State within Assam with legislature/CoM.
+
+TERMS
+Scheduled Tribe = Article 342 community status
+| Scheduled Area = presidential territorial declaration
+| tribal area = Sixth Schedule territorial unit.
+
+CORE IDEA differentiated institutions pursue substantive equality within one
+Constitution.
+
+ASCII MASTER FLOW — PANEL 2/12: Fifth Schedule: declaration, Governor, TAC and regulation chain
+SCHEDULED AREA
+President declares, enlarges, diminishes or alters after the constitutional consultation
+route.
+
+EXECUTIVE CHAIN
+State executive applies -> Governor reports annually/when required to President
+-> Union may issue directions on administration.
+
+TRIBES ADVISORY COUNCIL
+up to 20 members; as nearly as may be three-fourths ST legislators in the State.
+advises on ST welfare/advancement matters referred by Governor.
+
+GOVERNOR'S REGULATION
+peace and good government -> restrict/prohibit tribal land transfer
+-> regulate allotment -> regulate money-lending
+-> may amend State/Parliament law for the area.
+
+CHECK
+regulation requires Presidential assent; personal-discretion claims need exact
+authority.
+
+ASCII MASTER FLOW — PANEL 3/12: Sixth Schedule territory, council composition and four-State scope
+SCOPE
+Assam | Meghalaya | Tripura | Mizoram only.
+
+AUTONOMOUS DISTRICT
+Governor organises territory; multiple tribes may form autonomous regions.
+
+ORDINARY DISTRICT COUNCIL MODEL
+not more than 30 members -> up to four nominated by Governor
+-> remainder elected by adult suffrage -> normally five-year elected term.
+
+REGIONAL COUNCIL
+created for an autonomous region; powers follow the Schedule and applicable rules.
+
+ASSAM VARIATION
+special paragraphs/statutes/accord implementation may modify composition and powers.
+
+LIMIT ADC != State, municipality, ordinary Panchayat or Article 244A autonomous State.
+
+ASCII MASTER FLOW — PANEL 4/12: Sixth Schedule legislative, executive, judicial and fiscal powers
+LEGISLATIVE
+land other than reserved forest | non-reserved forest | shifting cultivation
+| village administration | inheritance | marriage/divorce | social customs.
+Governor assent is required for council laws.
+
+EXECUTIVE
+primary schools, dispensaries, markets, roads and specified local services.
+
+JUDICIAL
+village courts/council courts for specified tribal-party disputes
+subject to constitutional/statutory supervision and jurisdiction rules.
+
+FISCAL
+District/Regional Funds | land revenue | listed taxes/fees | mineral-royalty share.
+
+CHECKS
+Governor territorial and suspension/dissolution powers
+| Parliament/State-law application controls | audit and judicial review.
+
+LIMIT autonomy is substantial but enumerated and supervised, not sovereignty.
+
+ASCII MASTER FLOW — PANEL 5/12: Fifth and Sixth Schedules: complete close-option comparison
+DIMENSION          FIFTH SCHEDULE             SIXTH SCHEDULE
+States             multiple notified States      Assam/Meghalaya/Tripura/Mizoram
+territory          Scheduled Area                 autonomous district/region
+core body          Governor + TAC                 elected District/Regional Council
+law mechanism      Governor regulation            council law + Governor assent
+judicial power     no Schedule-created ADC courts council/village courts in listed field
+finance            State/Union channels           own funds + listed taxes/royalty share
+local democracy    PESA in covered areas           council system; Part IX ordinarily
+excluded
+
+COMMON PURPOSE
+land/custom protection + self-government + development administration.
+
+TRAP
+TAC is advisory, not an ADC | Sixth Schedule does not cover every North-Eastern State.
+
+ASCII MASTER FLOW — PANEL 6/12: PESA, FRA, land and resource rights with judicial boundaries
+PESA, 1996
+Part IX extension to Fifth Schedule areas -> customary village/Gram Sabha
+-> plans/resources/markets/land safeguards through exact statutory verbs.
+
+FRA, 2006
+individual/community forest rights + community forest-resource governance
+through its own claim and recognition procedure.
+
+LAND / MINING CHAIN
+territorial law -> land-transfer rule -> PESA role -> FRA rights
+-> forest/environment clearance -> rehabilitation -> judicial review.
+
+Samatha (1997)
+protected Scheduled-Area land under the applicable Andhra Pradesh regime;
+not a detached nationwide mining ban.
+
+Orissa Mining Corporation (2013)
+Gram Sabhas determined specified FRA religious/community-right claims at Niyamgiri;
+not an unlimited veto over every project.
+
+ASCII MASTER FLOW — PANEL 7/12: Scheduled Tribe safeguards beyond territorial autonomy
+RIGHTS AND REPRESENTATION
+Article 46 -> education/economic interests and protection from exploitation.
+Articles 330/332 -> ST political reservation in Lok Sabha/State Assemblies.
+Article 335 -> service claims consistent with administrative efficiency.
+
+FINANCE AND OVERSIGHT
+Article 275(1) -> specified grants
+| Article 338A -> National Commission for Scheduled Tribes
+| Article 339 -> commission and Union welfare-scheme directions.
+
+NCST ROLE
+monitor safeguards -> inquire into complaints -> advise planning
+-> report to President -> recommendations and follow-up.
+
+BOUNDARY
+NCST does not replace Governor/TAC, Gram Sabha, ADC, courts or elected governments.
+
+ASCII MASTER FLOW — PANEL 8/12: Article 371, Panchayats and autonomous-council boundaries
+DO NOT COLLAPSE FOUR SYSTEMS
+Article 371A/371G -> State-specific Part XXI consent shields.
+Fifth Schedule -> Governor/TAC administration for Scheduled Areas.
+Sixth Schedule -> autonomous district/regional councils in four States.
+ordinary Part IX -> Panchayats outside exclusions; PESA modifies Fifth Schedule route.
+
+ACCOUNTABILITY TENSIONS
+autonomy vs elite capture | custom vs individual rights
+| development vs land/resource security | Governor oversight vs elected legitimacy.
+
+CURRENT CONTROL
+Ladakh or other demands for Sixth Schedule/Statehood/Article 371 safeguards
+remain proposals until the Constitution or law is validly changed.
+
+REFORM
+clear jurisdiction + audited funds + accessible laws + women/community voice
+-> transparent Governor action + timely rights recognition.
+
+ASCII MASTER FLOW — PANEL 9/12: Prelims firewalls and Mains synthesis
+PRELIMS FIREWALL
+President declares Scheduled Areas | Governor makes Fifth Schedule regulations
+| President assents | TAC advisory | ADC laws need Governor assent
+| reserved forest excluded from listed ADC forest power
+| Article 244A applies only within Assam.
+
+PYQ ROUTES
+Fifth/Sixth identification | council composition/powers
+| PESA verbs | FRA relationship | Article 275/339 | land/mining case limits.
+
+MAINS SPINE
+define differentiated autonomy -> identify territory -> map institution/power
+-> rights/development purpose -> accountability risk -> named case with limit
+-> reform through voice, legality, capacity and audit.
+
+SYNTHESIS
+autonomy earns legitimacy when it protects land and custom while remaining inclusive,
+reviewable, fiscally accountable and capable of delivering development.
+
+ASCII MASTER FLOW — PANEL 10/12: Article 275(1), Article 339 and the Union accountability chain
+ARTICLE 275(1)
+grants-in-aid support Scheduled-Area administration and ST welfare schemes.
+
+ARTICLE 339(1)
+President appoints a commission on Scheduled Areas and ST welfare.
+
+ARTICLE 339(2)
+Union may direct States on schemes essential to ST welfare.
+
+ACCOUNTABILITY ROUTE
+local evidence -> Governor report -> Union scrutiny -> funded corrective action.
+
+ASCII MASTER FLOW — PANEL 11/12: PESA exact-verb decision ladder and FRA interface
+PESA SECTION 4
+Gram Sabha approves plans; identifies beneficiaries; certifies fund use; is consulted
+before land acquisition; gives mandatory recommendation for specified minor-mineral
+decisions; owns minor forest produce; controls markets and money-lending; prevents and
+restores alienated land.
+
+FRA, 2006
+Gram Sabha initiates rights claims and protects community forest resources.
+
+LIMIT
+consultation, recommendation and approval are not interchangeable and do not create one
+universal veto.
+
+ASCII MASTER FLOW — PANEL 12/12: Current controls, reform route and extension test
+DATED CONTROL — 28 AUGUST 2026
+Fifth Schedule areas remain notified in 10 States. Jharkhand PESA Rules, 2025 are listed
+by MoPR; no separate Odisha rules instrument is listed. Ladakh remains outside the Sixth
+Schedule.
+
+REFORM ROUTE
+publish outcome-based Governor reports -> reasoned TAC disposal -> align State laws with
+PESA -> strengthen ADC audit and own-source revenue -> converge FRA records and legal
+aid.
+
+EXTENSION TEST
+tribal geography + customary institutions + democratic demand + viable powers + federal
+fit; never treat Sixth Schedule as an automatic template.
