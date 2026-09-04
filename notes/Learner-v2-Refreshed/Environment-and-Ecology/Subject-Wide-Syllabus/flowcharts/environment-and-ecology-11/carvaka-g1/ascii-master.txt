@@ -1,0 +1,83 @@
+ASCII MASTER FLOW — PANEL 1/12: Four-vocabulary firewall
+FOREST TYPE -> ecology, climate and vegetation
+LEGAL CATEGORY -> Reserved, Protected or Village Forest
+RECORDED FOREST AREA -> government forest record
+FOREST OR TREE COVER -> canopy measurement
+RULE -> never use one vocabulary as automatic proof of another
+
+ASCII MASTER FLOW — PANEL 2/12: Moisture-gradient map
+VERY WET -> tropical wet evergreen
+TRANSITION -> semi-evergreen
+SEASONAL MOISTURE -> moist deciduous
+DRIER SEASONAL CLIMATE -> dry deciduous
+ARIDITY -> thorn and drought-adapted vegetation
+
+ASCII MASTER FLOW — PANEL 3/12: Mountain-zonation rail
+LOWER SLOPES -> climate and aspect condition forest
+MONTANE BELTS -> changing temperature and moisture
+SUB-ALPINE -> upper tree-limit transition
+ALPINE -> vegetation above forest limit
+CAUTION -> local exposure and land use modify the ideal sequence
+
+ASCII MASTER FLOW — PANEL 4/12: Legal-category matrix
+RESERVED FOREST -> restrictive permission presumption
+PROTECTED FOREST -> different permission and prohibition structure
+VILLAGE FOREST -> statutory management category
+UNCLASSED FOREST -> verify record and applicable legal basis
+NONE -> an ecological type or canopy-density class
+
+ASCII MASTER FLOW — PANEL 5/12: Cover-record divergence
+RECORDED FOREST WITH LOW CANOPY -> legal record can remain
+PLANTATION OR ORCHARD WITH CANOPY -> may enter cover measurement
+FOREST COVER -> remote-sensing criterion
+TREE COVER -> separate measurement category
+RESULT -> area figures answer different questions
+
+ASCII MASTER FLOW — PANEL 6/12: FRA purpose gate
+PAST EXCLUSION -> historical injustice
+ELIGIBLE FOREST DWELLER -> statutory claimant category
+RIGHT CLAIM -> evidence and procedure
+RECOGNITION -> defined right and title
+NO BLANKET TRANSFER -> State governance framework continues
+
+ASCII MASTER FLOW — PANEL 7/12: Eligibility decision tree
+CLAIMANT -> forest-dwelling Scheduled Tribe or OTFD
+OCCUPATION -> before 13 December 2005
+OTFD ONLY -> three generations or 75 years plus dependence
+EVIDENCE -> apply statutory and Rules-based forms
+PROCEDURE -> eligibility claim still requires verification
+
+ASCII MASTER FLOW — PANEL 8/12: Rights matrix
+IFR -> prior habitation or self-cultivation under actual occupation
+COMMUNITY RIGHTS -> customary access, grazing, water and MFP
+CFR RIGHT -> protect, regenerate, conserve and manage resource
+HABITAT RIGHT -> PVTG or pre-agricultural community route
+RULE -> right categories have different holders and content
+
+ASCII MASTER FLOW — PANEL 9/12: Recognition procedure
+GRAM SABHA -> initiate, receive and verify claims
+SDLC -> scrutinise and hear the intermediate claim stage
+DLC -> final district-level decision
+TITLE OR REASONED REJECTION -> outcome after procedure
+NO ASSUMPTION -> filing or recommendation is not conferment
+
+ASCII MASTER FLOW — PANEL 10/12: Safeguard and facility gate
+SECTION 4(5) -> no eviction before recognition process completes
+LIMIT -> safeguard does not automatically approve every claim
+SECTION 3(2) -> specified community facilities only
+CONDITIONS -> retain area, tree and Gram Sabha limits from the owner
+NO EXTENSION -> not a general non-forest-use exemption
+
+ASCII MASTER FLOW — PANEL 11/12: Rights-conservation bridge
+RECOGNISED TENURE -> stronger stewardship incentive may follow
+CFR INSTITUTION -> community management authority
+SUPPORT -> ecological, technical and livelihood capacity
+MONITOR -> forest condition and distributional outcomes
+QUALIFY -> title is an input, not automatic ecological success
+
+ASCII MASTER FLOW — PANEL 12/12: PYQ answer spine
+CLASSIFY -> type, legal category, record, cover or right
+DEFINE -> claimant, right holder and procedure
+TRACE -> Gram Sabha, SDLC and DLC
+APPLY -> bamboo, habitat, forest type, Miyawaki or resource demand
+QUALIFY -> dated data and objective keys remain source-bounded

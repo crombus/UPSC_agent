@@ -1,0 +1,1233 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ethics-10",
+  "subject": "Ethics",
+  "title": "SOURCES OF ETHICAL GUIDANCE: LAWS, RULES, CONSCIENCE",
+  "short_route": "SOURCES OF ETHICAL GUIDANCE → LAW, RULE, REGULATION AND → LEGALITY, ETHICS AND PROPRIETY → ETHICS IN MAKING RULES → CONSTITUTIONAL MORALITY IN ADMINISTRATION → CALIBRATING CONSCIENCE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-10\\g2\\ethics-10_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-10-deep-review-2026-09-02-g2.json",
+  "ascii_spec_sha256": "b4286d50b89f6dfba4275cd674555cd3b1183005fffb23dca4b9f6903c4a16b6",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "SOURCES OF ETHICAL GUIDANCE MAP",
+      "structural_type": "nested-authority-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SOURCES OF ETHICAL GUIDANCE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. SOURCES OF ETHICAL GUIDANCE MAP",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] CONSCIENCE SIGNALS AN INTERNAL MORAL CONCERN.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] FAMILY AND SOCIAL LEARNING SHAPE EARLY MORAL JUDGMENT.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] PROFESSIONAL ETHICS ARTICULATE OCCUPATIONAL VALUES.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] CONDUCT CODES SPECIFY INSTITUTIONAL EXPECTATIONS.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] SERVICE RULES GOVERN DEFINED OFFICIAL CONDUCT.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "1. Sources of ethical guidance map",
+        "[1] Conscience signals an internal moral concern.",
+        "[2] Family and social learning shape early moral judgment.",
+        "[3] Professional ethics articulate occupational values."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "1. Sources of ethical guidance map",
+            "[1] Conscience signals an internal moral concern.",
+            "[2] Family and social learning shape early moral judgment.",
+            "[3] Professional ethics articulate occupational values."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Conduct codes specify institutional expectations.",
+            "[5] Service rules govern defined official conduct.",
+            "[6] Regulations operate under delegated legal authority.",
+            "[7] Statutes establish binding public legal standards.",
+            "[8] Constitutional limits test all public authority."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Treat the sources as interacting checks, not as a mechanical ladder that legalises every compliant act.",
+            "ANSWER USE → Use for an opening definition map before resolving a law-rule-conscience conflict.",
+            "MUST REMEMBER: Constitution, statute, delegated legislation, service rule, code,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "MUST REMEMBER: Constitution, statute, delegated legislation, service rule, code,...",
+      "answer_line": "ANSWER USE → Use for an opening definition map before resolving a law-rule-conscience conflict.",
+      "source_references": [
+        "{'sessions': [1]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-10\\g2\\ethics-10_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "LAW, RULE, REGULATION AND INSTRUCTION",
+      "structural_type": "authority-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LAW, RULE, REGULATION AND INSTRUCTION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "2. LAW, RULE, REGULATION AND INSTRUCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] START WITH CONSTITUTIONAL COMPETENCE AND RIGHTS.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] IDENTIFY THE PARENT STATUTE AND ITS PURPOSE.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] LOCATE ANY DELEGATED RULE-MAKING POWER.",
+          "role": "mechanism"
+        },
+        {
+          "text": "[4] CHECK WHETHER A VALID RULE APPLIES.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] IDENTIFY REGULATOR-MADE REGULATIONS, IF ANY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "2. Law, rule, regulation and instruction",
+        "[1] Start with constitutional competence and rights.",
+        "[2] Identify the parent statute and its purpose.",
+        "[3] Locate any delegated rule-making power."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "2. Law, rule, regulation and instruction",
+            "[1] Start with constitutional competence and rights.",
+            "[2] Identify the parent statute and its purpose."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Locate any delegated rule-making power.",
+            "[4] Check whether a valid rule applies.",
+            "[5] Identify regulator-made regulations, if any.",
+            "[6] Separate circulars and guidelines from regulations."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Check service-rule or contractual adoption of codes.",
+            "[8] Record the instrument's actual legal force.",
+            "VERDICT → Never call every office instruction a law or every guideline delegated legislation.",
+            "ANSWER USE → Use in the 2020 laws-versus-rules answer and in rule-of-law case studies."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANSWER USE → Use in the 2020 laws-versus-rules answer and in rule-of-law case studies.",
+      "source_references": [
+        "{'sessions': [2]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-10\\g2\\ethics-10_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "LEGALITY, ETHICS AND PROPRIETY",
+      "structural_type": "three-test-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LEGALITY, ETHICS AND PROPRIETY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "3. LEGALITY, ETHICS AND PROPRIETY",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] ASK WHETHER THE ACTOR HAS LEGAL AUTHORITY.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] CHECK COMPLIANCE WITH APPLICABLE RULE AND PROCEDURE.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] IDENTIFY THE PUBLIC PURPOSE OF THE POWER.",
+          "role": "mechanism"
+        },
+        {
+          "text": "[4] TEST FAIRNESS AND EQUAL TREATMENT.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] MAP FORESEEABLE HARMS AND BENEFITS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "3. Legality, ethics and propriety",
+        "[1] Ask whether the actor has legal authority.",
+        "[2] Check compliance with applicable rule and procedure.",
+        "[3] Identify the public purpose of the power."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] Identify the public purpose of the power.",
+          "[7] Assess trust and institutional precedent."
+        ],
+        [
+          "3. Legality, ethics and propriety",
+          "[4] Test fairness and equal treatment.",
+          "[8] State a qualified ethical-propriety verdict."
+        ],
+        [
+          "[1] Ask whether the actor has legal authority.",
+          "[5] Map foreseeable harms and benefits.",
+          "VERDICT → Technical legality is necessary but does not exhaust ethics or propriety."
+        ],
+        [
+          "[2] Check compliance with applicable rule and procedure.",
+          "[6] Check conflicts, gifts and appearance of bias.",
+          "ANSWER USE → Use to structure a legal-but-unethical example without implying that ethics overrides law."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "3. Legality, ethics and propriety",
+            "[1] Ask whether the actor has legal authority.",
+            "[2] Check compliance with applicable rule and procedure."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Identify the public purpose of the power.",
+            "[4] Test fairness and equal treatment.",
+            "[5] Map foreseeable harms and benefits.",
+            "[6] Check conflicts, gifts and appearance of bias."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Assess trust and institutional precedent.",
+            "[8] State a qualified ethical-propriety verdict.",
+            "VERDICT → Technical legality is necessary but does not exhaust ethics or propriety.",
+            "ANSWER USE → Use to structure a legal-but-unethical example without implying that ethics overrides law."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Technical legality is necessary but does not exhaust ethics or propriety.",
+      "source_references": [
+        "{'sessions': [3]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-10\\g2\\ethics-10_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ETHICS IN MAKING RULES",
+      "structural_type": "rule-design-cycle",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ETHICS IN MAKING RULES",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "4. ETHICS IN MAKING RULES",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] DEFINE THE LEGITIMATE PUBLIC OBJECTIVE.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] IDENTIFY AFFECTED GROUPS AND UNEQUAL BURDENS.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] CHOOSE AUTHORITY CONSISTENT WITH THE PARENT LAW.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] MAKE CRITERIA INTELLIGIBLE AND TRANSPARENT.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] TEST PROPORTIONALITY OF RESTRICTIONS AND SANCTIONS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "4. Ethics in making rules",
+        "[1] Define the legitimate public objective.",
+        "[2] Identify affected groups and unequal burdens.",
+        "[3] Choose authority consistent with the parent law."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "4. Ethics in making rules",
+            "[1] Define the legitimate public objective.",
+            "[2] Identify affected groups and unequal burdens."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Choose authority consistent with the parent law.",
+            "[4] Make criteria intelligible and transparent.",
+            "[5] Test proportionality of restrictions and sanctions.",
+            "[6] Build access and accommodation where authorised."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Provide reasons, appeal and review mechanisms.",
+            "[8] Revise after evidence of exclusion or harm.",
+            "VERDICT → Ethics improves legitimacy, fairness and implementation; it does not create delegated power.",
+            "ANSWER USE → Use for the second half of 2020 GS-IV Q4(a)."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Ethics improves legitimacy, fairness and implementation; it does not create delegated power.",
+      "source_references": [
+        "{'sessions': [4]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-10\\g2\\ethics-10_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CONSTITUTIONAL MORALITY IN ADMINISTRATION",
+      "structural_type": "value-to-action-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CONSTITUTIONAL MORALITY IN ADMINISTRATION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "5. CONSTITUTIONAL MORALITY IN ADMINISTRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] IDENTIFY THE CONSTITUTIONAL VALUE IN ISSUE.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] CHECK COMPETENCE AND LEGAL AUTHORITY.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] PROTECT EQUALITY AND NON-ARBITRARINESS.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] RESPECT DIGNITY AND AFFECTED-PERSON VOICE.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] FOLLOW DUE PROCESS AND FAIR HEARING.",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "5. Constitutional morality in administration",
+        "[1] Identify the constitutional value in issue.",
+        "[2] Check competence and legal authority.",
+        "[3] Protect equality and non-arbitrariness."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "5. Constitutional morality in administration",
+            "[1] Identify the constitutional value in issue.",
+            "[2] Check competence and legal authority."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Protect equality and non-arbitrariness.",
+            "[4] Respect dignity and affected-person voice.",
+            "[5] Follow due process and fair hearing.",
+            "[6] Give intelligible public reasons."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Resist majoritarian or partisan pressure.",
+            "[8] Accept competent review and correction.",
+            "VERDICT → Constitutional morality disciplines both majority pressure and private preference.",
+            "ANSWER USE → Use for the 2019 and 2025 constitutional-morality routes."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Constitutional morality disciplines both majority pressure and private preference.",
+      "source_references": [
+        "{'sessions': [5]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-10\\g2\\ethics-10_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CALIBRATING CONSCIENCE",
+      "structural_type": "reflection-and-audit-loop",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CALIBRATING CONSCIENCE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. CALIBRATING CONSCIENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] NOTICE THE MORAL ALARM OR DISCOMFORT.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] COLLECT FACTS INSTEAD OF ACTING ON IMPULSE.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] NAME THE AFFECTED STAKEHOLDERS AND HARMS.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] CHECK PERSONAL BIAS AND INCOMPLETE INFORMATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] IDENTIFY APPLICABLE LAW AND SERVICE RULES.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "6. Calibrating conscience",
+        "[1] Notice the moral alarm or discomfort.",
+        "[2] Collect facts instead of acting on impulse.",
+        "[3] Name the affected stakeholders and harms."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "6. Calibrating conscience",
+            "[1] Notice the moral alarm or discomfort.",
+            "[2] Collect facts instead of acting on impulse."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Name the affected stakeholders and harms.",
+            "[4] Check personal bias and incomplete information.",
+            "[5] Identify applicable law and service rules.",
+            "[6] Test constitutional values and public purpose."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Consult a competent institutional channel.",
+            "[8] Record a revisable reasoned conclusion.",
+            "VERDICT → Conscience is an ethical signal that becomes reliable through evidence and public reasoning.",
+            "ANSWER USE → Use for 2023 GS-IV Q5(a) and conscience-based case studies."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Conscience is an ethical signal that becomes reliable through evidence and public reasoning.",
+      "source_references": [
+        "{'sessions': [6]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-10\\g2\\ethics-10_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CRISIS OF CONSCIENCE RESPONSE LADDER",
+      "structural_type": "escalation-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CRISIS OF CONSCIENCE RESPONSE LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "7. CRISIS OF CONSCIENCE RESPONSE LADDER",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] DEFINE THE INSTRUCTION AND MORAL CONFLICT PRECISELY.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] VERIFY FACTS, LAW AND SERIOUSNESS OF HARM.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] REFLECT AND SEEK ETHICAL OR LEGAL CLARIFICATION.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] PLACE A FACTUAL WRITTEN OBJECTION ON RECORD.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] SEEK RECUSAL ONLY WHERE AUTHORITY PERMITS IT.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "7. Crisis of conscience response ladder",
+        "[1] Define the instruction and moral conflict precisely.",
+        "[2] Verify facts, law and seriousness of harm.",
+        "[3] Reflect and seek ethical or legal clarification."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "7. Crisis of conscience response ladder",
+            "[1] Define the instruction and moral conflict precisely.",
+            "[2] Verify facts, law and seriousness of harm."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Reflect and seek ethical or legal clarification.",
+            "[4] Place a factual written objection on record.",
+            "[5] Seek recusal only where authority permits it.",
+            "[6] Escalate to a competent superior or oversight body."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Report verified wrongdoing through available channels.",
+            "[8] Consider resignation only after grave unresolved complicity.",
+            "VERDICT → Use the lowest effective accountable channel, not silent compliance or immediate public defiance.",
+            "ANSWER USE → Use in the 2019 crisis-of-conscience answer and public-service dilemmas."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Use the lowest effective accountable channel, not silent compliance or immediate public defiance.",
+      "source_references": [
+        "{'sessions': [7]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-10\\g2\\ethics-10_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CIVIL DISOBEDIENCE VERSUS INSTITUTIONAL DISSENT",
+      "structural_type": "split-boundary-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CIVIL DISOBEDIENCE VERSUS INSTITUTIONAL DISSENT",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "8. CIVIL DISOBEDIENCE VERSUS INSTITUTIONAL DISSENT",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] CITIZEN IDENTIFIES AN UNJUST LAW OR POLICY.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] CIVIL RESISTANCE IS PUBLIC AND COMMUNICATIVE.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] NON-VIOLENCE LIMITS COERCIVE HARM.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] ACCEPTANCE OF CONSEQUENCE SIGNALS PRINCIPLED PROTEST.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] PUBLIC SERVANT HOLDS DELEGATED OFFICIAL AUTHORITY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "8. Civil disobedience versus institutional dissent",
+        "[1] Citizen identifies an unjust law or policy.",
+        "[2] Civil resistance is public and communicative.",
+        "[3] Non-violence limits coercive harm."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] Non-violence limits coercive harm.",
+          "[7] Dissent begins with review and escalation channels."
+        ],
+        [
+          "8. Civil disobedience versus institutional dissent",
+          "[4] Acceptance of consequence signals principled protest.",
+          "[8] External action needs necessity and proportionality."
+        ],
+        [
+          "[1] Citizen identifies an unjust law or policy.",
+          "[5] Public servant holds delegated official authority.",
+          "VERDICT → Do not import the citizen's civil-disobedience model unchanged into public-service office duties."
+        ],
+        [
+          "[2] Civil resistance is public and communicative.",
+          "[6] Office duty requires records and confidentiality.",
+          "ANSWER USE → Use to distinguish principled resistance from unaccountable disclosure."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "8. Civil disobedience versus institutional dissent",
+            "[1] Citizen identifies an unjust law or policy.",
+            "[2] Civil resistance is public and communicative."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Non-violence limits coercive harm.",
+            "[4] Acceptance of consequence signals principled protest.",
+            "[5] Public servant holds delegated official authority.",
+            "[6] Office duty requires records and confidentiality."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Dissent begins with review and escalation channels.",
+            "[8] External action needs necessity and proportionality.",
+            "VERDICT → Do not import the citizen's civil-disobedience model unchanged into public-service office duties.",
+            "ANSWER USE → Use to distinguish principled resistance from unaccountable disclosure."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Do not import the citizen's civil-disobedience model unchanged into public-service office duties.",
+      "source_references": [
+        "{'sessions': [8]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-10\\g2\\ethics-10_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "WHISTLEBLOWING AND PROTECTED CHANNELS",
+      "structural_type": "public-interest-disclosure-test",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "WHISTLEBLOWING AND PROTECTED CHANNELS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "9. WHISTLEBLOWING AND PROTECTED CHANNELS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] IDENTIFY EVIDENCE OF SERIOUS WRONGDOING OR HARM.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] SEPARATE FACT FROM POLICY DISAGREEMENT OR GRIEVANCE.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] PRESERVE MATERIAL LAWFULLY AND CONFIDENTIALLY.",
+          "role": "evidence"
+        },
+        {
+          "text": "[4] ASSESS IMMEDIATE PUBLIC-INTEREST URGENCY.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] USE THE LEAST COMPROMISED COMPETENT RECIPIENT.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "9. Whistleblowing and protected channels",
+        "[1] Identify evidence of serious wrongdoing or harm.",
+        "[2] Separate fact from policy disagreement or grievance.",
+        "[3] Preserve material lawfully and confidentially."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "9. Whistleblowing and protected channels",
+            "[1] Identify evidence of serious wrongdoing or harm.",
+            "[2] Separate fact from policy disagreement or grievance."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Preserve material lawfully and confidentially.",
+            "[4] Assess immediate public-interest urgency.",
+            "[5] Use the least compromised competent recipient.",
+            "[6] Verify current protection and confidentiality scope."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Document retaliation risk and requested safeguard.",
+            "[8] Seek independent review of response or inaction.",
+            "VERDICT → Whistleblowing is evidence-based public-interest reporting, not an automatic entitlement to leak.",
+            "ANSWER USE → Use for the 2022 protection route and conscience-to-accountability answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Whistleblowing is evidence-based public-interest reporting, not an automatic entitlement to leak.",
+      "source_references": [
+        "{'sessions': [9]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-10\\g2\\ethics-10_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SNOWDEN-TYPE EXTERNAL DISCLOSURE TEST",
+      "structural_type": "proportionality-decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SNOWDEN-TYPE EXTERNAL DISCLOSURE TEST",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "10. SNOWDEN-TYPE EXTERNAL DISCLOSURE TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] SPECIFY THE ALLEGED PUBLIC WRONG.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] VERIFY EVIDENCE AND CREDIBILITY OF THE CONCERN.",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] MAP PRIVACY, TRANSPARENCY AND SECURITY VALUES.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] ASSESS REALISTIC INTERNAL OVERSIGHT CHANNELS.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] TEST WHETHER THOSE CHANNELS ARE INADEQUATE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "10. Snowden-type external disclosure test",
+        "[1] Specify the alleged public wrong.",
+        "[2] Verify evidence and credibility of the concern.",
+        "[3] Map privacy, transparency and security values."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "10. Snowden-type external disclosure test",
+            "[1] Specify the alleged public wrong.",
+            "[2] Verify evidence and credibility of the concern.",
+            "[3] Map privacy, transparency and security values."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Assess realistic internal oversight channels.",
+            "[5] Test whether those channels are inadequate.",
+            "[6] Consider narrower authorised disclosure alternatives.",
+            "[7] Minimise avoidable harm to uninvolved persons.",
+            "[8] Give a qualified necessity-proportionality verdict."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → A serious conscience claim strengthens only when method, necessity and proportionality also withstand scrutiny.",
+            "ANSWER USE → Use for 2018 GS-IV Q12 without treating the question's legal claims as settled facts.",
+            "CLOSE DISTINCTION: A crisis of conscience is a serious conflict among justified..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → A serious conscience claim strengthens only when method, necessity and proportionality also withstand scrutiny.",
+      "source_references": [
+        "{'sessions': [10]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-10\\g2\\ethics-10_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "FORM, SUBSTANCE AND REASONED DISCRETION",
+      "structural_type": "purposive-decision-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FORM, SUBSTANCE AND REASONED DISCRETION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "11. FORM, SUBSTANCE AND REASONED DISCRETION",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] IDENTIFY THE STATUTORY OR SCHEME PURPOSE.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] READ THE APPLICABLE RULE AND ITS EXCEPTION.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] ESTABLISH RELEVANT FACTS AND AFFECTED INTERESTS.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] CHECK WHETHER EQUIVALENT COMPLIANCE IS AUTHORISED.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] TREAT SIMILARLY PLACED PERSONS ALIKE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "11. Form, substance and reasoned discretion",
+        "[1] Identify the statutory or scheme purpose.",
+        "[2] Read the applicable rule and its exception.",
+        "[3] Establish relevant facts and affected interests."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "11. Form, substance and reasoned discretion",
+            "[1] Identify the statutory or scheme purpose.",
+            "[2] Read the applicable rule and its exception.",
+            "[3] Establish relevant facts and affected interests."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Check whether equivalent compliance is authorised.",
+            "[5] Treat similarly placed persons alike.",
+            "[6] Reject ultra-vires or selective waiver.",
+            "[7] Record authority, alternatives and reasons.",
+            "[8] Enable audit, appeal and judicial review."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Substance corrects mechanical literalism only within authority, equality and review safeguards.",
+            "ANSWER USE → Use for 2024 Q4(b) and discretionary welfare or procurement cases.",
+            "EVIDENCE / AUTHORITY / APPLICATION LIMIT: For Snowden or Indian vigilance examples,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Substance corrects mechanical literalism only within authority, equality and review safeguards.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-10\\g2\\ethics-10_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANSWER-WRITING SYNTHESIS",
+      "structural_type": "eight-step-answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER-WRITING SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "12. ANSWER-WRITING SYNTHESIS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] DEFINE THE PRECISE SOURCE-OF-GUIDANCE ISSUE.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] DISTINGUISH LAW, RULE, REGULATION AND CODE.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] IDENTIFY CONSTITUTIONAL VALUE AND LEGAL AUTHORITY.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] STATE THE ETHICAL HARM OR PUBLIC-INTEREST CONCERN.",
+          "role": "institution"
+        },
+        {
+          "text": "[5] TEST CONSCIENCE AGAINST FACTS AND BIAS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "12. Answer-writing synthesis",
+        "[1] Define the precise source-of-guidance issue.",
+        "[2] Distinguish law, rule, regulation and code.",
+        "[3] Identify constitutional value and legal authority."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "12. Answer-writing synthesis",
+            "[1] Define the precise source-of-guidance issue.",
+            "[2] Distinguish law, rule, regulation and code."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Identify constitutional value and legal authority.",
+            "[4] State the ethical harm or public-interest concern.",
+            "[5] Test conscience against facts and bias.",
+            "[6] Choose institutional channel and safeguard."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Use a named Indian administrative illustration.",
+            "[8] Conclude with a qualified accountable verdict.",
+            "VERDICT → High-scoring answers combine ethical sensitivity with lawful, evidence-based institutional action.",
+            "ANSWER USE → Use as the final revision checklist for theory questions and case studies."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → High-scoring answers combine ethical sensitivity with lawful, evidence-based institutional action.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-10\\g2\\ethics-10_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "2. CONCEPTS AND DISTINCTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DETAILED TREATMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "4. INSTITUTIONAL AND REFORM ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "5. INDIAN APPLICATIONS AND BOUNDARY CASES",
+          "role": "outcome"
+        },
+        {
+          "text": "6. LIMITATIONS AND TRADE-OFFS",
+          "role": "comparison"
+        },
+        {
+          "text": "7. MUST-KNOW FACTS FOR ADVANCED PRELIMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. Architecture",
+            "2. Concepts and distinctions",
+            "3. Detailed treatment",
+            "4. Institutional and reform architecture"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "5. Indian applications and boundary cases",
+            "6. Limitations and trade-offs",
+            "7. Must-Know Facts for Advanced Prelims",
+            "8. Advanced Prelims traps"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "9. Current-anchor application",
+            "10. PYQ-based analytical application",
+            "11. Mains-ready framework",
+            "12. Probable questions"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

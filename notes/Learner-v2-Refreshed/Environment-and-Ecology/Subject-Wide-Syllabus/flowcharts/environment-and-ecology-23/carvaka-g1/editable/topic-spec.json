@@ -1,0 +1,1092 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-23",
+  "subject": "Environment-and-Ecology",
+  "title": "DESERTIFICATION UNCCD AND LAND DEGRADATION",
+  "short_route": "LAND CONCEPT NESTING → DROUGHT-RISK TRIANGLE → RIO CONVENTION MAP → UNCCD IMPLEMENTATION RAIL → LDN ACCOUNTING FRAME → LDN RESPONSE HIERARCHY",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-23\\environment-and-ecology-23_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-23-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "78e44b87f841e90fc344316b431d9a161b7d783e6f2bdc85fe974f82948c3440",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "LAND CONCEPT NESTING",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LAND CONCEPT NESTING",
+          "role": "primary"
+        },
+        {
+          "text": "LAND DEGRADATION",
+          "role": "outcome"
+        },
+        {
+          "text": "BROAD PRODUCTIVITY AND FUNCTION LOSS",
+          "role": "comparison"
+        },
+        {
+          "text": "DEGRADATION INSIDE DEFINED DRYLANDS",
+          "role": "evidence"
+        },
+        {
+          "text": "ABNORMAL WATER-DEFICIT EVENT OR HAZARD",
+          "role": "primary"
+        },
+        {
+          "text": "DROUGHT CAN INTENSIFY DEGRADATION",
+          "role": "outcome"
+        },
+        {
+          "text": "NO MERGER",
+          "role": "caution"
+        },
+        {
+          "text": "PROCESS EVENT AND SPATIAL SCOPE DIFFER",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "LAND DEGRADATION → broad productivity and function loss",
+        "DESERTIFICATION → degradation inside defined drylands",
+        "DROUGHT → abnormal water-deficit event or hazard",
+        "INTERACTION → drought can intensify degradation",
+        "NO MERGER → process event and spatial scope differ"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "LAND DEGRADATION → broad productivity and function loss",
+            "DESERTIFICATION → degradation inside defined drylands"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DROUGHT → abnormal water-deficit event or hazard",
+            "INTERACTION → drought can intensify degradation"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "NO MERGER → process event and spatial scope differ",
+            "LAND DEGRADATION → broad productivity and function loss"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO MERGER → process event and spatial scope differ.",
+      "source_references": [
+        "Land-degradation umbrella",
+        "Desertification dryland boundary",
+        "Drought event boundary"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DROUGHT-RISK TRIANGLE",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DROUGHT-RISK TRIANGLE",
+          "role": "caution"
+        },
+        {
+          "text": "SEVERITY DURATION TIMING AND SPATIAL EXTENT",
+          "role": "outcome"
+        },
+        {
+          "text": "PEOPLE CROPS LIVESTOCK ECOSYSTEMS AND ASSETS",
+          "role": "comparison"
+        },
+        {
+          "text": "SENSITIVITY AND COPING CAPACITY",
+          "role": "evidence"
+        },
+        {
+          "text": "INTERACTION OF ALL THREE",
+          "role": "primary"
+        },
+        {
+          "text": "REALISED IMPACT, NOT RAINFALL DEFICIT ALONE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "HAZARD → severity duration timing and spatial extent",
+        "EXPOSURE → people crops livestock ecosystems and assets",
+        "VULNERABILITY → sensitivity and coping capacity",
+        "RISK → interaction of all three",
+        "LOSS → realised impact, not rainfall deficit alone"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "HAZARD → severity duration timing and spatial extent",
+            "EXPOSURE → people crops livestock ecosystems and assets"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VULNERABILITY → sensitivity and coping capacity",
+            "RISK → interaction of all three"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "LOSS → realised impact, not rainfall deficit alone",
+            "HAZARD → severity duration timing and spatial extent"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LOSS → realised impact, not rainfall deficit alone.",
+      "source_references": [
+        "Drought-risk components"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "RIO CONVENTION MAP",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RIO CONVENTION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "DESERTIFICATION LAND DEGRADATION AND DROUGHT EFFECTS",
+          "role": "outcome"
+        },
+        {
+          "text": "CLIMATE SYSTEM AND GREENHOUSE-GAS RESPONSE",
+          "role": "comparison"
+        },
+        {
+          "text": "BIODIVERSITY CONSERVATION USE AND BENEFIT-SHARING",
+          "role": "evidence"
+        },
+        {
+          "text": "LAND CONNECTS ALL THREE",
+          "role": "primary"
+        },
+        {
+          "text": "INSTITUTIONS REPORTS AND DECISIONS REMAIN DISTINCT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "UNCCD → desertification land degradation and drought effects",
+        "UNFCCC → climate system and greenhouse-gas response",
+        "CBD → biodiversity conservation use and benefit-sharing",
+        "SYNERGY → land connects all three",
+        "RULE → institutions reports and decisions remain distinct"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "UNCCD → desertification land degradation and drought effects",
+          "CBD → biodiversity conservation use and benefit-sharing",
+          "RULE → institutions reports and decisions remain distinct"
+        ],
+        [
+          "UNFCCC → climate system and greenhouse-gas response",
+          "SYNERGY → land connects all three",
+          "UNCCD → desertification land degradation and drought effects"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "UNCCD → desertification land degradation and drought effects",
+            "UNFCCC → climate system and greenhouse-gas response"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CBD → biodiversity conservation use and benefit-sharing",
+            "SYNERGY → land connects all three"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "RULE → institutions reports and decisions remain distinct",
+            "UNCCD → desertification land degradation and drought effects"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → institutions reports and decisions remain distinct.",
+      "source_references": [
+        "UNCCD treaty identity",
+        "Rio-convention relationship"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "UNCCD IMPLEMENTATION RAIL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "UNCCD IMPLEMENTATION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "TREATY OBJECTIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "COOPERATION AND LAND STEWARDSHIP",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIONAL ACTION PROGRAMME",
+          "role": "evidence"
+        },
+        {
+          "text": "COUNTRY PLANNING",
+          "role": "primary"
+        },
+        {
+          "text": "ENABLING POLICY AND FINANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "IMPLEMENTATION CAPACITY",
+          "role": "comparison"
+        },
+        {
+          "text": "LAND USERS AND LOCAL INSTITUTIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TREATY OBJECTIVE → cooperation and land stewardship",
+        "NATIONAL ACTION PROGRAMME → country planning",
+        "ENABLING POLICY AND FINANCE → implementation capacity",
+        "PARTICIPATION → land users and local institutions",
+        "MONITORING AND OUTCOME → separate evidence stage"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "TREATY OBJECTIVE → cooperation and land stewardship",
+            "NATIONAL ACTION PROGRAMME → country planning"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "ENABLING POLICY AND FINANCE → implementation capacity",
+            "PARTICIPATION → land users and local institutions"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "MONITORING AND OUTCOME → separate evidence stage",
+            "TREATY OBJECTIVE → cooperation and land stewardship"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PARTICIPATION → land users and local institutions; MONITORING AND OUTCOME → separate evidence stage.",
+      "source_references": [
+        "National action pathway",
+        "Target-decision-outcome boundary"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "LDN ACCOUNTING FRAME",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LDN ACCOUNTING FRAME",
+          "role": "primary"
+        },
+        {
+          "text": "STARTING CONDITION",
+          "role": "outcome"
+        },
+        {
+          "text": "SPATIAL SCALE",
+          "role": "comparison"
+        },
+        {
+          "text": "ACCOUNTING BOUNDARY",
+          "role": "evidence"
+        },
+        {
+          "text": "TEMPORAL SCALE",
+          "role": "primary"
+        },
+        {
+          "text": "COMPARISON PERIOD",
+          "role": "outcome"
+        },
+        {
+          "text": "AMOUNT AND QUALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "LAND RESOURCE CONDITION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BASELINE → starting condition",
+        "SPATIAL SCALE → accounting boundary",
+        "TEMPORAL SCALE → comparison period",
+        "AMOUNT AND QUALITY → land resource condition",
+        "NEUTRALITY → stable or increased functional resource base"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "BASELINE → starting condition",
+          "TEMPORAL SCALE → comparison period",
+          "NEUTRALITY → stable or increased functional resource base"
+        ],
+        [
+          "SPATIAL SCALE → accounting boundary",
+          "AMOUNT AND QUALITY → land resource condition",
+          "BASELINE → starting condition"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "BASELINE → starting condition",
+            "SPATIAL SCALE → accounting boundary"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "TEMPORAL SCALE → comparison period",
+            "AMOUNT AND QUALITY → land resource condition"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "NEUTRALITY → stable or increased functional resource base",
+            "BASELINE → starting condition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NEUTRALITY → stable or increased functional resource base.",
+      "source_references": [
+        "LDN definition",
+        "LDN baseline boundary"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "LDN RESPONSE HIERARCHY",
+      "structural_type": "layered-rail",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LDN RESPONSE HIERARCHY",
+          "role": "primary"
+        },
+        {
+          "text": "PROTECT HEALTHY LAND FIRST",
+          "role": "outcome"
+        },
+        {
+          "text": "SLOW CURRENT DEGRADATION",
+          "role": "comparison"
+        },
+        {
+          "text": "RESTORE OR REHABILITATE DEGRADED LAND",
+          "role": "evidence"
+        },
+        {
+          "text": "INDICATORS AGAINST BASELINE",
+          "role": "primary"
+        },
+        {
+          "text": "NO AUTOMATIC ECOLOGICAL EQUIVALENCE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "AVOID → protect healthy land first",
+        "REDUCE → slow current degradation",
+        "REVERSE → restore or rehabilitate degraded land",
+        "MONITOR → indicators against baseline",
+        "SAFEGUARD → no automatic ecological equivalence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "AVOID → protect healthy land first",
+            "REDUCE → slow current degradation"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REVERSE → restore or rehabilitate degraded land",
+            "MONITOR → indicators against baseline"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "SAFEGUARD → no automatic ecological equivalence",
+            "AVOID → protect healthy land first"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MONITOR → indicators against baseline; SAFEGUARD → no automatic ecological equivalence.",
+      "source_references": [
+        "Avoid-reduce-reverse hierarchy",
+        "Neutrality-not-zero boundary"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "INDICATOR EVIDENCE BOARD",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDICATOR EVIDENCE BOARD",
+          "role": "evidence"
+        },
+        {
+          "text": "LAND COVER",
+          "role": "outcome"
+        },
+        {
+          "text": "CLASS AND CONVERSION PATTERN",
+          "role": "comparison"
+        },
+        {
+          "text": "LAND PRODUCTIVITY",
+          "role": "evidence"
+        },
+        {
+          "text": "TREND IN PRODUCTIVE FUNCTION",
+          "role": "primary"
+        },
+        {
+          "text": "SOIL ORGANIC CARBON",
+          "role": "outcome"
+        },
+        {
+          "text": "SOIL CARBON CONDITION",
+          "role": "comparison"
+        },
+        {
+          "text": "METHOD LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "LAND COVER → class and conversion pattern",
+        "LAND PRODUCTIVITY → trend in productive function",
+        "SOIL ORGANIC CARBON → soil carbon condition",
+        "METHOD LIMIT → resolution baseline and interpretation",
+        "GROUND CHECK → soil water vegetation and livelihoods"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "LAND COVER → class and conversion pattern",
+          "SOIL ORGANIC CARBON → soil carbon condition",
+          "GROUND CHECK → soil water vegetation and livelihoods"
+        ],
+        [
+          "LAND PRODUCTIVITY → trend in productive function",
+          "METHOD LIMIT → resolution baseline and interpretation",
+          "LAND COVER → class and conversion pattern"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "LAND COVER → class and conversion pattern",
+            "LAND PRODUCTIVITY → trend in productive function"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SOIL ORGANIC CARBON → soil carbon condition",
+            "METHOD LIMIT → resolution baseline and interpretation"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "GROUND CHECK → soil water vegetation and livelihoods",
+            "LAND COVER → class and conversion pattern"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GROUND CHECK → soil water vegetation and livelihoods.",
+      "source_references": [
+        "Indicator-evidence boundary",
+        "Remote-ground integration"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "DEGRADATION DRIVER WEB",
+      "structural_type": "causal-chain",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "DEGRADATION DRIVER WEB",
+          "role": "primary"
+        },
+        {
+          "text": "CLIMATE VARIABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "WATER STRESS AND DISTURBANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "VEGETATION LOSS OR OVERGRAZING",
+          "role": "evidence"
+        },
+        {
+          "text": "EXPOSED SOIL",
+          "role": "primary"
+        },
+        {
+          "text": "EROSION OR SALINISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "DECLINING FUNCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "UNSUSTAINABLE WATER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CLIMATE VARIABILITY → water stress and disturbance",
+        "VEGETATION LOSS OR OVERGRAZING → exposed soil",
+        "EROSION OR SALINISATION → declining function",
+        "UNSUSTAINABLE WATER USE → hydrological stress",
+        "FEEDBACK → lower resilience and greater drought impact"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "CLIMATE VARIABILITY → water stress and disturbance",
+            "VEGETATION LOSS OR OVERGRAZING → exposed soil"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EROSION OR SALINISATION → declining function",
+            "UNSUSTAINABLE WATER USE → hydrological stress"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "FEEDBACK → lower resilience and greater drought impact",
+            "CLIMATE VARIABILITY → water stress and disturbance"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FEEDBACK → lower resilience and greater drought impact.",
+      "source_references": [
+        "Driver interaction"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "RESTORATION EVIDENCE LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RESTORATION EVIDENCE LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "MONEY SPENT",
+          "role": "outcome"
+        },
+        {
+          "text": "FINANCIAL INPUT",
+          "role": "comparison"
+        },
+        {
+          "text": "AREA TREATED",
+          "role": "evidence"
+        },
+        {
+          "text": "PROGRAMME OUTPUT",
+          "role": "primary"
+        },
+        {
+          "text": "TREES OR STRUCTURES",
+          "role": "outcome"
+        },
+        {
+          "text": "PHYSICAL OUTPUT",
+          "role": "comparison"
+        },
+        {
+          "text": "FUNCTION RECOVERED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MONEY SPENT → financial input",
+        "AREA TREATED → programme output",
+        "TREES OR STRUCTURES → physical output",
+        "FUNCTION RECOVERED → ecological outcome",
+        "PERSISTENCE AND LIVELIHOODS → long-term result"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "MONEY SPENT → financial input",
+            "AREA TREATED → programme output"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TREES OR STRUCTURES → physical output",
+            "FUNCTION RECOVERED → ecological outcome"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "PERSISTENCE AND LIVELIHOODS → long-term result",
+            "MONEY SPENT → financial input"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FUNCTION RECOVERED → ecological outcome; PERSISTENCE AND LIVELIHOODS → long-term result.",
+      "source_references": [
+        "Restoration-quality boundary"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "COMMENSURABILITY TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "COMMENSURABILITY TEST",
+          "role": "primary"
+        },
+        {
+          "text": "FERTILITY EROSION AND CARBON FUNCTION COMPARABLE",
+          "role": "outcome"
+        },
+        {
+          "text": "INFILTRATION RUNOFF AND AQUIFER EFFECT COMPARABLE",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIVE OPEN OR WOODED SYSTEM RESPECTED",
+          "role": "evidence"
+        },
+        {
+          "text": "TENURE AND LIVELIHOOD",
+          "role": "primary"
+        },
+        {
+          "text": "USERS AND RIGHTS CONSIDERED",
+          "role": "outcome"
+        },
+        {
+          "text": "AGGREGATE AREA ALONE CANNOT PROVE REPLACEMENT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SOIL → fertility erosion and carbon function comparable",
+        "WATER → infiltration runoff and aquifer effect comparable",
+        "BIODIVERSITY → native open or wooded system respected",
+        "TENURE AND LIVELIHOOD → users and rights considered",
+        "VERDICT → aggregate area alone cannot prove replacement"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "SOIL → fertility erosion and carbon function comparable",
+            "WATER → infiltration runoff and aquifer effect comparable"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BIODIVERSITY → native open or wooded system respected",
+            "TENURE AND LIVELIHOOD → users and rights considered"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → aggregate area alone cannot prove replacement",
+            "SOIL → fertility erosion and carbon function comparable"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → aggregate area alone cannot prove replacement.",
+      "source_references": [
+        "Commensurability limit",
+        "Rangeland and open-ecosystem boundary"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "DRYLAND RESPONSE CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DRYLAND RESPONSE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "SOIL COVER",
+          "role": "outcome"
+        },
+        {
+          "text": "REDUCE EROSION",
+          "role": "comparison"
+        },
+        {
+          "text": "INFILTRATION AND RUNOFF",
+          "role": "evidence"
+        },
+        {
+          "text": "WATERSHED TREATMENT",
+          "role": "primary"
+        },
+        {
+          "text": "GROUNDWATER CROPS AND GRAZING PRESSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMONS TENURE AND PARTICIPATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ADAPTIVE MONITORING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SOIL COVER → reduce erosion",
+        "INFILTRATION AND RUNOFF → watershed treatment",
+        "DEMAND → groundwater crops and grazing pressure",
+        "INSTITUTIONS → commons tenure and participation",
+        "ADAPTIVE MONITORING → drought and recovery feedback"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "SOIL COVER → reduce erosion",
+            "INFILTRATION AND RUNOFF → watershed treatment"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "DEMAND → groundwater crops and grazing pressure",
+            "INSTITUTIONS → commons tenure and participation"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ADAPTIVE MONITORING → drought and recovery feedback",
+            "SOIL COVER → reduce erosion"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INSTITUTIONS → commons tenure and participation; ADAPTIVE MONITORING → drought and recovery feedback.",
+      "source_references": [
+        "Watershed response chain",
+        "Rangeland and open-ecosystem boundary"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "UNCCD ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "UNCCD ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEGRADATION DESERTIFICATION DROUGHT AND RISK",
+          "role": "caution"
+        },
+        {
+          "text": "UNCCD AND LDN WITHIN DISTINCT TREATY ROLES",
+          "role": "comparison"
+        },
+        {
+          "text": "BASELINE SCALE PERIOD INDICATORS AND HIERARCHY",
+          "role": "evidence"
+        },
+        {
+          "text": "CAUSES QUALITY COMMENSURABILITY AND OPEN ECOSYSTEMS",
+          "role": "primary"
+        },
+        {
+          "text": "TARGET ATLAS COP FINANCE AND MEASURED OUTCOME",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DEFINE → degradation desertification drought and risk",
+        "PLACE → UNCCD and LDN within distinct treaty roles",
+        "ACCOUNT → baseline scale period indicators and hierarchy",
+        "TEST → causes quality commensurability and open ecosystems",
+        "VERIFY → target atlas COP finance and measured outcome"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "DEFINE → degradation desertification drought and risk",
+            "PLACE → UNCCD and LDN within distinct treaty roles"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ACCOUNT → baseline scale period indicators and hierarchy",
+            "TEST → causes quality commensurability and open ecosystems"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERIFY → target atlas COP finance and measured outcome",
+            "DEFINE → degradation desertification drought and risk"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERIFY → target atlas COP finance and measured outcome.",
+      "source_references": [
+        "Target-decision-outcome boundary",
+        "Current evidence boundary"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ASSESSING DESERTIFICATION/LAND-DEGRADATION EXTENT COMBINES REMOTE-SENSING-BASED",
+          "role": "outcome"
+        },
+        {
+          "text": "ANALYTICAL CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "DISTINGUISHING \"DESERTIFICATION\" (A LONGER-TERM, LARGELY",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA'S APPROACH TO DESERTIFICATION COMBINES MULTIPLE POLICY INSTRUMENTS —",
+          "role": "primary"
+        },
+        {
+          "text": "IMPLEMENTATION CRITIQUE",
+          "role": "outcome"
+        },
+        {
+          "text": "AS WITH OTHER LARGE INDIAN ENVIRONMENTAL-RESTORATION",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIONAL DESERTIFICATION/LAND-DEGRADATION EXTENT FIGURES FOR INDIA ARE PERIODICALLY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL ECOLOGICAL PROCESS DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Assessing desertification/land-degradation extent combines remote-sensing-based",
+            "CAUTION: Analytical caution: distinguishing \"desertification\" (a longer-term, largely",
+            "CAUTION: India's approach to desertification combines multiple policy instruments — watershed",
+            "CAUTION: Implementation critique: as with other large Indian environmental-restoration"
+          ]
+        },
+        {
+          "heading": "SCALE, PARAMETER OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: National desertification/land-degradation extent figures for India are periodically",
+            "CAUTION: LDN target-setting baselines and progress-reporting are self-reported by member",
+            "CAUTION: Attributing a specific instance of land degradation precisely to climatic variability",
+            "The UNCCD has historically received comparatively less international political"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE RESTORATION NUANCE",
+          "role": "comparison",
+          "items": [
+            "Land Degradation Neutrality's \"no net loss\" counterbalancing mechanism is structurally",
+            "Distinguishing desertification from temporary drought-driven vegetation change requires",
+            "India's Desertification and Land Degradation Atlas (ISRO/Space Applications Centre) is",
+            "NOT: The UNCCD receives comparable international political attention and dedicated finance"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

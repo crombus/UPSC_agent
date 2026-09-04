@@ -1,0 +1,655 @@
+{
+  "topic_seed_sha256": "c337fec21ea0837f071cacbd76cea5449308f072c46a83d26c6fe6bddbf192c9",
+  "question_count": 80,
+  "keys": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "A",
+    "B",
+    "C",
+    "D",
+    "A",
+    "B",
+    "C",
+    "D",
+    "A",
+    "B",
+    "C",
+    "D",
+    "A",
+    "B",
+    "C",
+    "D",
+    "A",
+    "B",
+    "C",
+    "D",
+    "A",
+    "B",
+    "C",
+    "D",
+    "A",
+    "B",
+    "C",
+    "D",
+    "A",
+    "B",
+    "C",
+    "D",
+    "A",
+    "B",
+    "C",
+    "D",
+    "A",
+    "B",
+    "C",
+    "D",
+    "A",
+    "B",
+    "C",
+    "D",
+    "A",
+    "B",
+    "C",
+    "D",
+    "A",
+    "B",
+    "C",
+    "D",
+    "A",
+    "B",
+    "C",
+    "D",
+    "A",
+    "B",
+    "C",
+    "D",
+    "A",
+    "B",
+    "C",
+    "D",
+    "A",
+    "B",
+    "C",
+    "D",
+    "A",
+    "B",
+    "C",
+    "D",
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "counts": {
+    "A": 20,
+    "B": 20,
+    "C": 20,
+    "D": 20
+  },
+  "all_correct_option_texts_preserved": true,
+  "questions": [
+    {
+      "question": 1,
+      "source_answer": "A",
+      "refreshed_answer": "A",
+      "correct_option_text_sha256": "520211a134ac347ef0be7484947c4e962d5aa903bdb30c39ac778d1c3a8e6c59",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 2,
+      "source_answer": "B",
+      "refreshed_answer": "B",
+      "correct_option_text_sha256": "520211a134ac347ef0be7484947c4e962d5aa903bdb30c39ac778d1c3a8e6c59",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 3,
+      "source_answer": "C",
+      "refreshed_answer": "C",
+      "correct_option_text_sha256": "520211a134ac347ef0be7484947c4e962d5aa903bdb30c39ac778d1c3a8e6c59",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 4,
+      "source_answer": "D",
+      "refreshed_answer": "D",
+      "correct_option_text_sha256": "520211a134ac347ef0be7484947c4e962d5aa903bdb30c39ac778d1c3a8e6c59",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 5,
+      "source_answer": "A",
+      "refreshed_answer": "A",
+      "correct_option_text_sha256": "5d0ecddf270a43886aff00273a096a580691283d7cf75173b6a33066d9a0172e",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 6,
+      "source_answer": "B",
+      "refreshed_answer": "B",
+      "correct_option_text_sha256": "5d0ecddf270a43886aff00273a096a580691283d7cf75173b6a33066d9a0172e",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 7,
+      "source_answer": "C",
+      "refreshed_answer": "C",
+      "correct_option_text_sha256": "5d0ecddf270a43886aff00273a096a580691283d7cf75173b6a33066d9a0172e",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 8,
+      "source_answer": "D",
+      "refreshed_answer": "D",
+      "correct_option_text_sha256": "5d0ecddf270a43886aff00273a096a580691283d7cf75173b6a33066d9a0172e",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 9,
+      "source_answer": "A",
+      "refreshed_answer": "A",
+      "correct_option_text_sha256": "599a89eb0b6372aa291cdd52fbfaf4ccc4694d628ce50fa9df447848ab05ba4e",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 10,
+      "source_answer": "B",
+      "refreshed_answer": "B",
+      "correct_option_text_sha256": "599a89eb0b6372aa291cdd52fbfaf4ccc4694d628ce50fa9df447848ab05ba4e",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 11,
+      "source_answer": "C",
+      "refreshed_answer": "C",
+      "correct_option_text_sha256": "599a89eb0b6372aa291cdd52fbfaf4ccc4694d628ce50fa9df447848ab05ba4e",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 12,
+      "source_answer": "D",
+      "refreshed_answer": "D",
+      "correct_option_text_sha256": "599a89eb0b6372aa291cdd52fbfaf4ccc4694d628ce50fa9df447848ab05ba4e",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 13,
+      "source_answer": "A",
+      "refreshed_answer": "A",
+      "correct_option_text_sha256": "c35938d48097f06cf243a376b4c8cb77ebd320947a18a4c0455f35fecd0819fe",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 14,
+      "source_answer": "B",
+      "refreshed_answer": "B",
+      "correct_option_text_sha256": "c35938d48097f06cf243a376b4c8cb77ebd320947a18a4c0455f35fecd0819fe",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 15,
+      "source_answer": "C",
+      "refreshed_answer": "C",
+      "correct_option_text_sha256": "c35938d48097f06cf243a376b4c8cb77ebd320947a18a4c0455f35fecd0819fe",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 16,
+      "source_answer": "D",
+      "refreshed_answer": "D",
+      "correct_option_text_sha256": "c35938d48097f06cf243a376b4c8cb77ebd320947a18a4c0455f35fecd0819fe",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 17,
+      "source_answer": "A",
+      "refreshed_answer": "A",
+      "correct_option_text_sha256": "ac26d1671d1539766c680b3d5d6e4ac82b71755eea69fd3d9da1ee3aec6a6f1b",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 18,
+      "source_answer": "B",
+      "refreshed_answer": "B",
+      "correct_option_text_sha256": "ac26d1671d1539766c680b3d5d6e4ac82b71755eea69fd3d9da1ee3aec6a6f1b",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 19,
+      "source_answer": "C",
+      "refreshed_answer": "C",
+      "correct_option_text_sha256": "ac26d1671d1539766c680b3d5d6e4ac82b71755eea69fd3d9da1ee3aec6a6f1b",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 20,
+      "source_answer": "D",
+      "refreshed_answer": "D",
+      "correct_option_text_sha256": "ac26d1671d1539766c680b3d5d6e4ac82b71755eea69fd3d9da1ee3aec6a6f1b",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 21,
+      "source_answer": "A",
+      "refreshed_answer": "A",
+      "correct_option_text_sha256": "eff0096492e4f46921ad9ab0a20a0a29d38e5d378aa88ba84ab3acaae0b87979",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 22,
+      "source_answer": "B",
+      "refreshed_answer": "B",
+      "correct_option_text_sha256": "eff0096492e4f46921ad9ab0a20a0a29d38e5d378aa88ba84ab3acaae0b87979",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 23,
+      "source_answer": "C",
+      "refreshed_answer": "C",
+      "correct_option_text_sha256": "eff0096492e4f46921ad9ab0a20a0a29d38e5d378aa88ba84ab3acaae0b87979",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 24,
+      "source_answer": "D",
+      "refreshed_answer": "D",
+      "correct_option_text_sha256": "eff0096492e4f46921ad9ab0a20a0a29d38e5d378aa88ba84ab3acaae0b87979",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 25,
+      "source_answer": "A",
+      "refreshed_answer": "A",
+      "correct_option_text_sha256": "0db406b18c4479a63564797b3e68c9c48db792c79de378036f136fd806c29ccb",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 26,
+      "source_answer": "B",
+      "refreshed_answer": "B",
+      "correct_option_text_sha256": "0db406b18c4479a63564797b3e68c9c48db792c79de378036f136fd806c29ccb",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 27,
+      "source_answer": "C",
+      "refreshed_answer": "C",
+      "correct_option_text_sha256": "0db406b18c4479a63564797b3e68c9c48db792c79de378036f136fd806c29ccb",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 28,
+      "source_answer": "D",
+      "refreshed_answer": "D",
+      "correct_option_text_sha256": "0db406b18c4479a63564797b3e68c9c48db792c79de378036f136fd806c29ccb",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 29,
+      "source_answer": "A",
+      "refreshed_answer": "A",
+      "correct_option_text_sha256": "6e9c404c34789f536e76e6769cfe749a03346734374d89c788c6dd0ddf10f7a3",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 30,
+      "source_answer": "B",
+      "refreshed_answer": "B",
+      "correct_option_text_sha256": "6e9c404c34789f536e76e6769cfe749a03346734374d89c788c6dd0ddf10f7a3",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 31,
+      "source_answer": "C",
+      "refreshed_answer": "C",
+      "correct_option_text_sha256": "6e9c404c34789f536e76e6769cfe749a03346734374d89c788c6dd0ddf10f7a3",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 32,
+      "source_answer": "D",
+      "refreshed_answer": "D",
+      "correct_option_text_sha256": "6e9c404c34789f536e76e6769cfe749a03346734374d89c788c6dd0ddf10f7a3",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 33,
+      "source_answer": "A",
+      "refreshed_answer": "A",
+      "correct_option_text_sha256": "55d08d561791ae6db76b7f6b81a7270c83c03cede0c124cebb48275ef9eed358",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 34,
+      "source_answer": "B",
+      "refreshed_answer": "B",
+      "correct_option_text_sha256": "55d08d561791ae6db76b7f6b81a7270c83c03cede0c124cebb48275ef9eed358",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 35,
+      "source_answer": "C",
+      "refreshed_answer": "C",
+      "correct_option_text_sha256": "55d08d561791ae6db76b7f6b81a7270c83c03cede0c124cebb48275ef9eed358",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 36,
+      "source_answer": "D",
+      "refreshed_answer": "D",
+      "correct_option_text_sha256": "55d08d561791ae6db76b7f6b81a7270c83c03cede0c124cebb48275ef9eed358",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 37,
+      "source_answer": "A",
+      "refreshed_answer": "A",
+      "correct_option_text_sha256": "b041bd6f11b2f000506e820100968ddef74f9c82504a33fb780d7bb9ed8eccd4",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 38,
+      "source_answer": "B",
+      "refreshed_answer": "B",
+      "correct_option_text_sha256": "b041bd6f11b2f000506e820100968ddef74f9c82504a33fb780d7bb9ed8eccd4",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 39,
+      "source_answer": "C",
+      "refreshed_answer": "C",
+      "correct_option_text_sha256": "b041bd6f11b2f000506e820100968ddef74f9c82504a33fb780d7bb9ed8eccd4",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 40,
+      "source_answer": "D",
+      "refreshed_answer": "D",
+      "correct_option_text_sha256": "b041bd6f11b2f000506e820100968ddef74f9c82504a33fb780d7bb9ed8eccd4",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 41,
+      "source_answer": "A",
+      "refreshed_answer": "A",
+      "correct_option_text_sha256": "6bcbf990e066c9024025e22a06790fb55e8f8796ebe64bdcc06c3cc4e6f41501",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 42,
+      "source_answer": "B",
+      "refreshed_answer": "B",
+      "correct_option_text_sha256": "6bcbf990e066c9024025e22a06790fb55e8f8796ebe64bdcc06c3cc4e6f41501",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 43,
+      "source_answer": "C",
+      "refreshed_answer": "C",
+      "correct_option_text_sha256": "6bcbf990e066c9024025e22a06790fb55e8f8796ebe64bdcc06c3cc4e6f41501",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 44,
+      "source_answer": "D",
+      "refreshed_answer": "D",
+      "correct_option_text_sha256": "6bcbf990e066c9024025e22a06790fb55e8f8796ebe64bdcc06c3cc4e6f41501",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 45,
+      "source_answer": "A",
+      "refreshed_answer": "A",
+      "correct_option_text_sha256": "10412646380fbc0e3bc3f7cd83b05c6359ab258d2b673d29f6583face83c00ae",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 46,
+      "source_answer": "B",
+      "refreshed_answer": "B",
+      "correct_option_text_sha256": "10412646380fbc0e3bc3f7cd83b05c6359ab258d2b673d29f6583face83c00ae",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 47,
+      "source_answer": "C",
+      "refreshed_answer": "C",
+      "correct_option_text_sha256": "10412646380fbc0e3bc3f7cd83b05c6359ab258d2b673d29f6583face83c00ae",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 48,
+      "source_answer": "D",
+      "refreshed_answer": "D",
+      "correct_option_text_sha256": "10412646380fbc0e3bc3f7cd83b05c6359ab258d2b673d29f6583face83c00ae",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 49,
+      "source_answer": "A",
+      "refreshed_answer": "A",
+      "correct_option_text_sha256": "964b4959b05f71509ba68aa2e69d5c0e13c2cc4a2b7f66d03f30c18937d483ea",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 50,
+      "source_answer": "B",
+      "refreshed_answer": "B",
+      "correct_option_text_sha256": "964b4959b05f71509ba68aa2e69d5c0e13c2cc4a2b7f66d03f30c18937d483ea",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 51,
+      "source_answer": "C",
+      "refreshed_answer": "C",
+      "correct_option_text_sha256": "964b4959b05f71509ba68aa2e69d5c0e13c2cc4a2b7f66d03f30c18937d483ea",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 52,
+      "source_answer": "D",
+      "refreshed_answer": "D",
+      "correct_option_text_sha256": "964b4959b05f71509ba68aa2e69d5c0e13c2cc4a2b7f66d03f30c18937d483ea",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 53,
+      "source_answer": "A",
+      "refreshed_answer": "A",
+      "correct_option_text_sha256": "16d59ae71059f83dcc3b4efe178fb41b6543e3e275b316918350def6e4bf67f6",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 54,
+      "source_answer": "B",
+      "refreshed_answer": "B",
+      "correct_option_text_sha256": "16d59ae71059f83dcc3b4efe178fb41b6543e3e275b316918350def6e4bf67f6",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 55,
+      "source_answer": "C",
+      "refreshed_answer": "C",
+      "correct_option_text_sha256": "16d59ae71059f83dcc3b4efe178fb41b6543e3e275b316918350def6e4bf67f6",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 56,
+      "source_answer": "D",
+      "refreshed_answer": "D",
+      "correct_option_text_sha256": "16d59ae71059f83dcc3b4efe178fb41b6543e3e275b316918350def6e4bf67f6",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 57,
+      "source_answer": "A",
+      "refreshed_answer": "A",
+      "correct_option_text_sha256": "6dfd5e2876523477d3e4a6a20e5bc99c9d0763128d8baa5450906dfbc419655e",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 58,
+      "source_answer": "B",
+      "refreshed_answer": "B",
+      "correct_option_text_sha256": "6dfd5e2876523477d3e4a6a20e5bc99c9d0763128d8baa5450906dfbc419655e",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 59,
+      "source_answer": "C",
+      "refreshed_answer": "C",
+      "correct_option_text_sha256": "6dfd5e2876523477d3e4a6a20e5bc99c9d0763128d8baa5450906dfbc419655e",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 60,
+      "source_answer": "D",
+      "refreshed_answer": "D",
+      "correct_option_text_sha256": "6dfd5e2876523477d3e4a6a20e5bc99c9d0763128d8baa5450906dfbc419655e",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 61,
+      "source_answer": "A",
+      "refreshed_answer": "A",
+      "correct_option_text_sha256": "939f7fcce3573bcc57037c179e3aa4c744b30a91d0bab8b41092efb8df7ae3e7",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 62,
+      "source_answer": "B",
+      "refreshed_answer": "B",
+      "correct_option_text_sha256": "939f7fcce3573bcc57037c179e3aa4c744b30a91d0bab8b41092efb8df7ae3e7",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 63,
+      "source_answer": "C",
+      "refreshed_answer": "C",
+      "correct_option_text_sha256": "939f7fcce3573bcc57037c179e3aa4c744b30a91d0bab8b41092efb8df7ae3e7",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 64,
+      "source_answer": "D",
+      "refreshed_answer": "D",
+      "correct_option_text_sha256": "939f7fcce3573bcc57037c179e3aa4c744b30a91d0bab8b41092efb8df7ae3e7",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 65,
+      "source_answer": "A",
+      "refreshed_answer": "A",
+      "correct_option_text_sha256": "ef6f91f5df947654d40109fdab45660cc65b0c2695a6435368df2317719f5fda",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 66,
+      "source_answer": "B",
+      "refreshed_answer": "B",
+      "correct_option_text_sha256": "ef6f91f5df947654d40109fdab45660cc65b0c2695a6435368df2317719f5fda",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 67,
+      "source_answer": "C",
+      "refreshed_answer": "C",
+      "correct_option_text_sha256": "ef6f91f5df947654d40109fdab45660cc65b0c2695a6435368df2317719f5fda",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 68,
+      "source_answer": "D",
+      "refreshed_answer": "D",
+      "correct_option_text_sha256": "ef6f91f5df947654d40109fdab45660cc65b0c2695a6435368df2317719f5fda",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 69,
+      "source_answer": "A",
+      "refreshed_answer": "A",
+      "correct_option_text_sha256": "0643349e0172679f1fe03b81b2904c65a81be80c7863855ad76238fc42dce80a",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 70,
+      "source_answer": "B",
+      "refreshed_answer": "B",
+      "correct_option_text_sha256": "0643349e0172679f1fe03b81b2904c65a81be80c7863855ad76238fc42dce80a",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 71,
+      "source_answer": "C",
+      "refreshed_answer": "C",
+      "correct_option_text_sha256": "0643349e0172679f1fe03b81b2904c65a81be80c7863855ad76238fc42dce80a",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 72,
+      "source_answer": "D",
+      "refreshed_answer": "D",
+      "correct_option_text_sha256": "0643349e0172679f1fe03b81b2904c65a81be80c7863855ad76238fc42dce80a",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 73,
+      "source_answer": "A",
+      "refreshed_answer": "A",
+      "correct_option_text_sha256": "257d3fbdd0abd9a063768d65f7dd9b489c2eba3f4f25de42af017d60746352a7",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 74,
+      "source_answer": "B",
+      "refreshed_answer": "B",
+      "correct_option_text_sha256": "257d3fbdd0abd9a063768d65f7dd9b489c2eba3f4f25de42af017d60746352a7",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 75,
+      "source_answer": "C",
+      "refreshed_answer": "C",
+      "correct_option_text_sha256": "257d3fbdd0abd9a063768d65f7dd9b489c2eba3f4f25de42af017d60746352a7",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 76,
+      "source_answer": "D",
+      "refreshed_answer": "D",
+      "correct_option_text_sha256": "257d3fbdd0abd9a063768d65f7dd9b489c2eba3f4f25de42af017d60746352a7",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 77,
+      "source_answer": "A",
+      "refreshed_answer": "A",
+      "correct_option_text_sha256": "881a63f71fd65829a04a66a4fafeeb92d1de3b229b5c82cb2c5aaa0d8c635107",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 78,
+      "source_answer": "B",
+      "refreshed_answer": "B",
+      "correct_option_text_sha256": "881a63f71fd65829a04a66a4fafeeb92d1de3b229b5c82cb2c5aaa0d8c635107",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 79,
+      "source_answer": "C",
+      "refreshed_answer": "C",
+      "correct_option_text_sha256": "881a63f71fd65829a04a66a4fafeeb92d1de3b229b5c82cb2c5aaa0d8c635107",
+      "option_texts_preserved": true
+    },
+    {
+      "question": 80,
+      "source_answer": "D",
+      "refreshed_answer": "D",
+      "correct_option_text_sha256": "881a63f71fd65829a04a66a4fafeeb92d1de3b229b5c82cb2c5aaa0d8c635107",
+      "option_texts_preserved": true
+    }
+  ]
+}

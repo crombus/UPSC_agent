@@ -1,0 +1,1233 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ethics-21",
+  "subject": "Ethics",
+  "title": "PROTECTING HONEST OFFICIALS AND VIGILANCE ADMINISTRATION",
+  "short_route": "BONA FIDES DECISION TEST → ARC'S TWO-SIDED VIGILANCE FAILURE → SCREENING AND SECRET VERIFICATION → SECTION 17A AND SECTION → FROM SINGLE DIRECTIVE TO → ACCOUNTABILITY OF INVESTIGATORS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-21\\g2\\ethics-21_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-21-deep-review-2026-09-02-g2.json",
+  "ascii_spec_sha256": "8f5bbb3bbfa6ca7a46149cf0b0d4ba73ba4a684a7dfc2ab2a3a13196343993b3",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "BONA FIDES DECISION TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BONA FIDES DECISION TEST",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. BONA FIDES DECISION TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] IDENTIFY THE DECISION ACTUALLY TAKEN",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] RECONSTRUCT FACTS KNOWN AT THAT TIME",
+          "role": "primary"
+        },
+        {
+          "text": "[3] CHECK PRESCRIBED RULES AND AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] TEST PRUDENT-PERSON PLAUSIBILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] INSPECT REASONS AND DUE DILIGENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "1. Bona fides decision test",
+        "[1] Identify the decision actually taken",
+        "[2] Reconstruct facts known at that time",
+        "[3] Check prescribed rules and authority"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "1. Bona fides decision test",
+            "[1] Identify the decision actually taken",
+            "[2] Reconstruct facts known at that time",
+            "[3] Check prescribed rules and authority"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Test prudent-person plausibility",
+            "[5] Inspect reasons and due diligence",
+            "[6] Check conflict or personal benefit",
+            "[7] Separate outcome from decision process",
+            "[8] Classify error, negligence or misconduct"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → A later loss is evidence to examine, not automatic proof of corruption.",
+            "ANSWER USE → Use to open any good-faith-decision-gone-wrong answer.",
+            "MUST REMEMBER: Protecting honest officials requires a bona fide decision test, recorded..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → A later loss is evidence to examine, not automatic proof of corruption.",
+      "source_references": [
+        "{'sessions': [1]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-21\\g2\\ethics-21_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ARC'S TWO-SIDED VIGILANCE FAILURE",
+      "structural_type": "balance-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ARC'S TWO-SIDED VIGILANCE FAILURE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "2. ARC'S TWO-SIDED VIGILANCE FAILURE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] OVER-SUSPICION BEGINS WITH BAD OUTCOME",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] WHOLE DECISION CHAIN IS IMPLICATED",
+          "role": "primary"
+        },
+        {
+          "text": "[3] HONEST OFFICERS BECOME RISK-AVERSE",
+          "role": "caution"
+        },
+        {
+          "text": "[4] INVESTIGATIVE CAPACITY LOSES PRECISION",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] UNDER-SUSPICION BEGINS WITH CAPTURED SAFEGUARD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "2. ARC's two-sided vigilance failure",
+        "[1] Over-suspicion begins with bad outcome",
+        "[2] Whole decision chain is implicated",
+        "[3] Honest officers become risk-averse"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "2. ARC's two-sided vigilance failure",
+            "[1] Over-suspicion begins with bad outcome",
+            "[2] Whole decision chain is implicated"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Honest officers become risk-averse",
+            "[4] Investigative capacity loses precision",
+            "[5] Under-suspicion begins with captured safeguard",
+            "[6] Approval or secrecy creates delay"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Actual wrongdoers obtain protection",
+            "[8] Calibrated scrutiny corrects both sides",
+            "VERDICT → Ethical vigilance must resist both harassment and institutional shielding.",
+            "ANSWER USE → Use as the central thesis in a 15-mark analytical answer."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Ethical vigilance must resist both harassment and institutional shielding.",
+      "source_references": [
+        "{'sessions': [2]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-21\\g2\\ethics-21_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SCREENING AND SECRET VERIFICATION RAIL",
+      "structural_type": "process-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SCREENING AND SECRET VERIFICATION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "3. SCREENING AND SECRET VERIFICATION RAIL",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] RECEIVE COMPLAINT THROUGH SECURE CHANNEL",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] TEST SPECIFICITY OF ALLEGED CONDUCT",
+          "role": "primary"
+        },
+        {
+          "text": "[3] TEST CREDIBILITY OF SOURCE AND FACTS",
+          "role": "evidence"
+        },
+        {
+          "text": "[4] TEST VERIFIABILITY THROUGH AVAILABLE RECORDS",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] PRESERVE IDENTITY AND EVIDENCE DISCREETLY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "3. Screening and secret verification rail",
+        "[1] Receive complaint through secure channel",
+        "[2] Test specificity of alleged conduct",
+        "[3] Test credibility of source and facts"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "3. Screening and secret verification rail",
+            "[1] Receive complaint through secure channel",
+            "[2] Test specificity of alleged conduct"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Test credibility of source and facts",
+            "[4] Test verifiability through available records",
+            "[5] Preserve identity and evidence discreetly",
+            "[6] Use competent technical evaluation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Record closure, escalation or investigation",
+            "[8] Permit supervisory review of delay",
+            "VERDICT → Confidentiality protects persons; recorded review prevents invisible burial.",
+            "ANSWER USE → Use for ARC paragraph 7.9 safeguards and complaint triage."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Confidentiality protects persons; recorded review prevents invisible burial.",
+      "source_references": [
+        "{'sessions': [3]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-21\\g2\\ethics-21_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SECTION 17A AND SECTION 19",
+      "structural_type": "comparison-chain",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SECTION 17A AND SECTION 19",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "4. SECTION 17A AND SECTION 19",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] 17A GATE",
+          "role": "evidence"
+        },
+        {
+          "text": "PRE-ENQUIRY OR INVESTIGATION",
+          "role": "primary"
+        },
+        {
+          "text": "[2] 17A NEXUS",
+          "role": "outcome"
+        },
+        {
+          "text": "OFFICIAL RECOMMENDATION OR DECISION",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] 17A EXCEPTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "4. Section 17A and Section 19",
+        "[1] 17A gate: pre-enquiry or investigation",
+        "[2] 17A nexus: official recommendation or decision",
+        "[3] 17A exception: on-the-spot undue advantage"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] 17A exception: on-the-spot undue advantage",
+          "[7] Both require timely competent decision"
+        ],
+        [
+          "4. Section 17A and Section 19",
+          "[4] 17A risk: inquiry blocked too early",
+          "[8] Neither converts sanction into acquittal"
+        ],
+        [
+          "[1] 17A gate: pre-enquiry or investigation",
+          "[5] 19 gate: court takes cognizance",
+          "VERDICT → The provisions protect at different stages and must never be collapsed."
+        ],
+        [
+          "[2] 17A nexus: official recommendation or decision",
+          "[6] 19 scope: specified corruption offences",
+          "ANSWER USE → Use for a legal-ethical distinction in GS-IV or GS-II overlap."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "4. Section 17A and Section 19",
+            "[1] 17A gate: pre-enquiry or investigation",
+            "[2] 17A nexus: official recommendation or decision"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] 17A exception: on-the-spot undue advantage",
+            "[4] 17A risk: inquiry blocked too early",
+            "[5] 19 gate: court takes cognizance",
+            "[6] 19 scope: specified corruption offences"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Both require timely competent decision",
+            "[8] Neither converts sanction into acquittal",
+            "VERDICT → The provisions protect at different stages and must never be collapsed.",
+            "ANSWER USE → Use for a legal-ethical distinction in GS-IV or GS-II overlap."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → The provisions protect at different stages and must never be collapsed.",
+      "source_references": [
+        "{'sessions': [4]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-21\\g2\\ethics-21_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "FROM SINGLE DIRECTIVE TO CURRENT UNCERTAINTY",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FROM SINGLE DIRECTIVE TO CURRENT UNCERTAINTY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "5. FROM SINGLE DIRECTIVE TO CURRENT UNCERTAINTY",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] EXECUTIVE SINGLE DIRECTIVE PROTECTED SENIOR RANKS",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] VINEET NARAIN ANNULLED EXECUTIVE PROTECTION",
+          "role": "primary"
+        },
+        {
+          "text": "[3] CVC ACT INSERTED DSPE ACT 6A",
+          "role": "institution"
+        },
+        {
+          "text": "[4] SUBRAMANIAN SWAMY STRUCK 6A IN 2014",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] PC AMENDMENT INSERTED 17A IN 2018",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "5. From single directive to current uncertainty",
+        "[1] Executive single directive protected senior ranks",
+        "[2] Vineet Narain annulled executive protection",
+        "[3] CVC Act inserted DSPE Act 6A"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "5. From single directive to current uncertainty",
+            "[1] Executive single directive protected senior ranks",
+            "[2] Vineet Narain annulled executive protection"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] CVC Act inserted DSPE Act 6A",
+            "[4] Subramanian Swamy struck 6A in 2014",
+            "[5] PC Amendment inserted 17A in 2018",
+            "[6] 17A shifted from rank to conduct nexus"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Supreme Court split on 13 January 2026",
+            "[8] Official order referred matter for new Bench",
+            "VERDICT → The old rank rule is gone; Section 17A's final constitutional status remains contested.",
+            "ANSWER USE → Use for chronology and current-anchor accuracy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → The old rank rule is gone; Section 17A's final constitutional status remains contested.",
+      "source_references": [
+        "{'sessions': [5]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-21\\g2\\ethics-21_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ACCOUNTABILITY OF INVESTIGATORS",
+      "structural_type": "watchdog-loop",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ACCOUNTABILITY OF INVESTIGATORS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. ACCOUNTABILITY OF INVESTIGATORS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] PROTECT OPERATIONAL INDEPENDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] DEMAND ALLEGATION AND JURISDICTION RECORDS",
+          "role": "primary"
+        },
+        {
+          "text": "[3] AUDIT SELECTIVE TARGETING OR OMISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] TEST FABRICATED OR SUPPRESSED EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "[5] REVIEW COERCIVE DELAY AND PUBLICITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "6. Accountability of investigators",
+        "[1] Protect operational independence",
+        "[2] Demand allegation and jurisdiction records",
+        "[3] Audit selective targeting or omission"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "6. Accountability of investigators",
+            "[1] Protect operational independence",
+            "[2] Demand allegation and jurisdiction records"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Audit selective targeting or omission",
+            "[4] Test fabricated or suppressed evidence",
+            "[5] Review coercive delay and publicity",
+            "[6] Protect bona fide investigative judgment"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Provide independent complaint forum",
+            "[8] Publish anonymised accountability outcomes",
+            "VERDICT → Watching investigators is compatible with independence when review targets abuse, not outcomes.",
+            "ANSWER USE → Use to explain ARC's proposed investigator-accountability unit."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Watching investigators is compatible with independence when review targets abuse, not outcomes.",
+      "source_references": [
+        "{'sessions': [6]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-21\\g2\\ethics-21_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "TRANSFER INDUSTRY AND TENURE PROTECTION",
+      "structural_type": "cause-correction-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "TRANSFER INDUSTRY AND TENURE PROTECTION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "7. TRANSFER INDUSTRY AND TENURE PROTECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] POLITICAL DEMAND TARGETS AN HONEST REFUSAL",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] POSTING BECOMES REWARD OR PUNISHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "[3] REPEATED MOVEMENT DESTROYS CONTINUITY",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] INFORMAL RETALIATION AVOIDS FORMAL PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "[5] PUBLISH OBJECTIVE TRANSFER POLICY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "7. Transfer industry and tenure protection",
+        "[1] Political demand targets an honest refusal",
+        "[2] Posting becomes reward or punishment",
+        "[3] Repeated movement destroys continuity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "7. Transfer industry and tenure protection",
+            "[1] Political demand targets an honest refusal",
+            "[2] Posting becomes reward or punishment"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Repeated movement destroys continuity",
+            "[4] Informal retaliation avoids formal process",
+            "[5] Publish objective transfer policy",
+            "[6] Provide minimum tenure norms"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Record grounds for premature transfer",
+            "[8] Allow independent appeal and narrow exception",
+            "VERDICT → Transfer reform protects neutrality without creating ownership of a post.",
+            "ANSWER USE → Use in politicisation, non-partisanship and honest-official cases."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Transfer reform protects neutrality without creating ownership of a post.",
+      "source_references": [
+        "{'sessions': [7]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-21\\g2\\ethics-21_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "WRITTEN DISSENT IMPLEMENTATION SEQUENCE",
+      "structural_type": "action-ladder",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "WRITTEN DISSENT IMPLEMENTATION SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "8. WRITTEN DISSENT IMPLEMENTATION SEQUENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] SEEK IMPROPER ORAL DIRECTION IN WRITING",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] RECORD FACTS, RULES AND PUBLIC RISK",
+          "role": "caution"
+        },
+        {
+          "text": "[3] DISCLOSE CONFLICT AND RECUSE IF NEEDED",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] USE COMMITTEE AND PUBLISHED CRITERIA",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] STATE A REASONED WRITTEN DISSENT",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "8. Written dissent implementation sequence",
+        "[1] Seek improper oral direction in writing",
+        "[2] Record facts, rules and public risk",
+        "[3] Disclose conflict and recuse if needed"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "8. Written dissent implementation sequence",
+            "[1] Seek improper oral direction in writing",
+            "[2] Record facts, rules and public risk"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Disclose conflict and recuse if needed",
+            "[4] Use committee and published criteria",
+            "[5] State a reasoned written dissent",
+            "[6] Preserve records and access trails"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Escalate if the dissent is overridden",
+            "[8] Monitor residual risk after decision",
+            "VERDICT → Conscience becomes administratively effective when converted into reasons, records and escalation.",
+            "ANSWER USE → Use as the operational core of a Section-B answer."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Conscience becomes administratively effective when converted into reasons, records and escalation.",
+      "source_references": [
+        "{'sessions': [8]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-21\\g2\\ethics-21_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "WHISTLEBLOWER PROTECTION LADDER",
+      "structural_type": "escalation-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WHISTLEBLOWER PROTECTION LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "9. WHISTLEBLOWER PROTECTION LADDER",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] VERIFY CONCERN AND AVOID RECKLESS ACCUSATION",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] PRESERVE DOCUMENTS LAWFULLY AND SECURELY",
+          "role": "primary"
+        },
+        {
+          "text": "[3] USE INTERNAL AUTHORISED VIGILANCE CHANNEL",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] RESTRICT AND LOG IDENTITY ACCESS",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] ASSESS SAFETY AND RETALIATION RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "9. Whistleblower protection ladder",
+        "[1] Verify concern and avoid reckless accusation",
+        "[2] Preserve documents lawfully and securely",
+        "[3] Use internal authorised vigilance channel"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "9. Whistleblower protection ladder",
+            "[1] Verify concern and avoid reckless accusation",
+            "[2] Preserve documents lawfully and securely"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Use internal authorised vigilance channel",
+            "[4] Restrict and log identity access",
+            "[5] Assess safety and retaliation risk",
+            "[6] Escalate beyond captured management"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Use external disclosure only as last resort",
+            "[8] Seek remedy for adverse career action",
+            "VERDICT → Effective voice requires safe routing, evidence discipline and remedies against reprisals.",
+            "ANSWER USE → Use for the 2022 whistleblower PYQ and retaliation cases."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Effective voice requires safe routing, evidence discipline and remedies against reprisals.",
+      "source_references": [
+        "{'sessions': [9]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-21\\g2\\ethics-21_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "POSH DUE-PROCESS CHANNEL",
+      "structural_type": "parallel-process-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "POSH DUE-PROCESS CHANNEL",
+          "role": "mechanism"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "10. POSH DUE-PROCESS CHANNEL",
+          "role": "mechanism"
+        },
+        {
+          "text": "[1] RECEIVE WRITTEN WORKPLACE COMPLAINT",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] CONSTITUTE COMPETENT INTERNAL COMMITTEE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] PROTECT CONFIDENTIALITY AND PARTICIPANTS",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] DEFINE ALLEGATIONS AND PRESERVE EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "[5] GIVE RESPONDENT FAIR OPPORTUNITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "10. POSH due-process channel",
+        "[1] Receive written workplace complaint",
+        "[2] Constitute competent Internal Committee",
+        "[3] Protect confidentiality and participants"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "10. POSH due-process channel",
+            "[1] Receive written workplace complaint",
+            "[2] Constitute competent Internal Committee",
+            "[3] Protect confidentiality and participants"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Define allegations and preserve evidence",
+            "[5] Give respondent fair opportunity",
+            "[6] Complete impartial workplace inquiry",
+            "[7] Issue reasoned recommendations and action",
+            "[8] Keep criminal and vigilance routes distinct"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Protection of the complainant and fairness to the respondent are mutually necessary.",
+            "ANSWER USE → Use where POSH is ignored, weaponised or mixed with corruption pressure.",
+            "CLOSE DISTINCTION: Whistleblowing, grievance, vigilance complaint, protected disclosure..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Protection of the complainant and fairness to the respondent are mutually necessary.",
+      "source_references": [
+        "{'sessions': [10]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-21\\g2\\ethics-21_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "PROTECTION WITHOUT IMPUNITY MATRIX",
+      "structural_type": "safeguard-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PROTECTION WITHOUT IMPUNITY MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "11. PROTECTION WITHOUT IMPUNITY MATRIX",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] BONA FIDE RISK RECEIVES PROCESS PROTECTION",
+          "role": "caution"
+        },
+        {
+          "text": "[2] SPECIFIC CREDIBLE COMPLAINT RECEIVES INQUIRY",
+          "role": "primary"
+        },
+        {
+          "text": "[3] FALSE PUBLICITY RECEIVES CONFIDENTIALITY CONTROL",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] CREDIBLE DELAY RECEIVES INDEPENDENT REVIEW",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] HONEST INVESTIGATOR RECEIVES OPERATIONAL SPACE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "11. Protection without impunity matrix",
+        "[1] Bona fide risk receives process protection",
+        "[2] Specific credible complaint receives inquiry",
+        "[3] False publicity receives confidentiality control"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[4] Credible delay receives independent review",
+          "VERDICT → Every safeguard must protect integrity while preserving a path to verified accountability."
+        ],
+        [
+          "11. Protection without impunity matrix",
+          "[5] Honest investigator receives operational space",
+          "ANSWER USE → Use as a balanced conclusion rather than a one-sided immunity claim."
+        ],
+        [
+          "[1] Bona fide risk receives process protection",
+          "[6] Abusive investigator receives accountability",
+          "EVIDENCE / AUTHORITY / APPLICATION LIMIT: An executable response uses clarification,..."
+        ],
+        [
+          "[2] Specific credible complaint receives inquiry",
+          "[7] Tenure receives recorded protection",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "11. Protection without impunity matrix",
+            "[1] Bona fide risk receives process protection",
+            "[2] Specific credible complaint receives inquiry",
+            "[3] False publicity receives confidentiality control"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Credible delay receives independent review",
+            "[5] Honest investigator receives operational space",
+            "[6] Abusive investigator receives accountability",
+            "[7] Tenure receives recorded protection",
+            "[8] Proved misconduct receives lawful consequence"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Every safeguard must protect integrity while preserving a path to verified accountability.",
+            "ANSWER USE → Use as a balanced conclusion rather than a one-sided immunity claim.",
+            "EVIDENCE / AUTHORITY / APPLICATION LIMIT: An executable response uses clarification,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT → Every safeguard must protect integrity while preserving a path to verified accountability.",
+      "answer_line": "ANSWER USE → Use as a balanced conclusion rather than a one-sided immunity claim.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-21\\g2\\ethics-21_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "EXAMINER-READY ANSWER SPINE",
+      "structural_type": "answer-framework",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EXAMINER-READY ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "12. EXAMINER-READY ANSWER SPINE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] NAME THE COMPETING PUBLIC VALUES",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] IDENTIFY OVER-SUSPICION OR SHIELDING RISK",
+          "role": "caution"
+        },
+        {
+          "text": "[3] APPLY THE BONA FIDES PROCESS TEST",
+          "role": "mechanism"
+        },
+        {
+          "text": "[4] ADD SCREENING AND VERIFICATION SAFEGUARDS",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] SEPARATE 17A, 19 AND ADJUDICATION STAGES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "12. Examiner-ready answer spine",
+        "[1] Name the competing public values",
+        "[2] Identify over-suspicion or shielding risk",
+        "[3] Apply the bona fides process test"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "12. Examiner-ready answer spine",
+            "[1] Name the competing public values",
+            "[2] Identify over-suspicion or shielding risk"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Apply the bona fides process test",
+            "[4] Add screening and verification safeguards",
+            "[5] Separate 17A, 19 and adjudication stages",
+            "[6] Add dissent, transfer and reporting remedies"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Protect parallel POSH due process",
+            "[8] Conclude with protection without impunity",
+            "VERDICT → A high-quality answer joins ethical principle, named institution, action and qualification.",
+            "ANSWER USE → Use to structure 10-, 15- and 20-mark responses."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → A high-quality answer joins ethical principle, named institution, action and qualification.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-21\\g2\\ethics-21_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "2. CONCEPTS AND DISTINCTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DETAILED TREATMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "4. INSTITUTIONAL AND REFORM ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "5. INDIAN APPLICATIONS AND BOUNDARY CASES",
+          "role": "outcome"
+        },
+        {
+          "text": "6. LIMITATIONS AND TRADE-OFFS",
+          "role": "comparison"
+        },
+        {
+          "text": "7. MUST-KNOW FACTS FOR ADVANCED PRELIMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. Architecture",
+            "2. Concepts and distinctions",
+            "3. Detailed treatment",
+            "4. Institutional and reform architecture"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "5. Indian applications and boundary cases",
+            "6. Limitations and trade-offs",
+            "7. Must-Know Facts for Advanced Prelims",
+            "8. Advanced Prelims traps"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "9. Current-anchor application",
+            "10. PYQ-based analytical application",
+            "11. Mains-ready framework",
+            "12. Probable questions"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

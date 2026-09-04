@@ -1,0 +1,83 @@
+ASCII MASTER FLOW — PANEL 1/12: Coastal system map
+RIVER AND SEDIMENT -> material reaches the coast
+WAVES TIDES CURRENTS -> transport and reshape shoreline
+ECOSYSTEMS -> trap sediment buffer hazards support habitat
+HUMAN USE -> extraction structures ports settlements and livelihoods
+OUTCOME -> coupled land-sea response, not one isolated driver
+
+ASCII MASTER FLOW — PANEL 2/12: Coastal ecosystem matrix
+MANGROVE -> intertidal woody vegetation
+SEAGRASS -> submerged flowering-plant meadow
+SALT MARSH -> vegetated intertidal wetland
+CORAL REEF -> biogenic marine structure
+DUNE MUDFLAT ESTUARY -> distinct sediment and habitat systems
+
+ASCII MASTER FLOW — PANEL 3/12: Coral dual-stress diagram
+THERMAL STRESS -> symbiont loss and bleaching
+ACIDIFICATION -> carbonate chemistry changes
+LOCAL POLLUTION -> compounding stress
+RECOVERY -> event severity and local condition matter
+RULE -> bleaching and acidification are not synonyms
+
+ASCII MASTER FLOW — PANEL 4/12: Sediment-budget rail
+SOURCE -> rivers cliffs reefs and alongshore supply
+TRANSPORT -> waves currents and tides
+INTERRUPTION -> dams mining ports and coastal structures
+EVENT -> storm and surge redistribution
+SHORELINE -> erosion accretion or reorientation
+
+ASCII MASTER FLOW — PANEL 5/12: CRZ legal hierarchy
+ENVIRONMENT PROTECTION ACT -> enabling legal base
+CRZ NOTIFICATION -> national regulatory framework
+AMENDMENT -> changes specified provisions
+CZMP -> mapped state or UT implementation layer
+PROJECT DECISION -> separate appraisal and clearance
+
+ASCII MASTER FLOW — PANEL 6/12: CRZ category compass
+CRZ I -> ecologically sensitive and intertidal contexts
+CRZ II -> developed urban coastal context
+CRZ III -> relatively undisturbed rural context
+CRZ IV -> specified water-area context
+SUBCATEGORY RULE -> official notification controls detail
+
+ASCII MASTER FLOW — PANEL 7/12: Coastal line firewall
+HTL -> mapped tidal reference
+LTL -> mapped lower tidal reference
+HAZARD LINE -> hazard-information function
+SETBACK OR NDZ -> rule-defined regulatory function
+APPROVED MAP -> category boundary evidence
+
+ASCII MASTER FLOW — PANEL 8/12: CZMP-to-clearance sequence
+CZMP -> category and boundary map
+PROJECT LOCATION -> overlaid on approved plan
+APPLICABLE RULE -> category subcategory and activity
+APPRAISAL OR CLEARANCE -> project-specific decision
+COMPLIANCE -> construction and operation monitoring
+
+ASCII MASTER FLOW — PANEL 9/12: ICZM coordination wheel
+ECOSYSTEMS -> cumulative ecological condition
+HAZARDS -> erosion surge flooding and intrusion
+LIVELIHOODS -> fishing access tenure and settlements
+DEVELOPMENT -> ports tourism energy and infrastructure
+COORDINATION -> wider than one project clearance
+
+ASCII MASTER FLOW — PANEL 10/12: Coastal aquifer mechanism
+OVER EXTRACTION OR LOWER RECHARGE -> freshwater head falls
+HYDRAULIC GRADIENT CHANGES -> saline interface moves
+SEA LEVEL OR ENGINEERING -> possible compounding pressure
+SALINISATION -> wells soils and supply affected
+RESPONSE -> demand recharge pumping monitoring and barriers
+
+ASCII MASTER FLOW — PANEL 11/12: Blue Economy sustainability test
+SECTOR OPPORTUNITY -> fisheries shipping tourism energy or science
+ECOSYSTEM PRESSURE -> habitat pollution extraction and carbon
+LIVELIHOOD AND EQUITY -> access benefit and displacement
+CUMULATIVE GOVERNANCE -> thresholds monitoring and enforcement
+VERDICT -> growth is not sustainability without outcomes
+
+ASCII MASTER FLOW — PANEL 12/12: Coastal answer spine
+DEFINE -> ecological coast and administrative CRZ separately
+MAP -> habitat sediment hazard aquifer and livelihood systems
+PLACE -> notification CZMP category clearance ICZM and maritime zone
+EVALUATE -> sector opportunity against ecosystem and equity outcome
+VERIFY -> official map survey notification decision and date

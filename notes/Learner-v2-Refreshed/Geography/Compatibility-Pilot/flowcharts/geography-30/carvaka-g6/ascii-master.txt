@@ -1,0 +1,135 @@
+Geography 30 — Primary Economic Activities: Agriculture — COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+START / CENTRAL QUESTION
+  Start here — the learning path and evidence safety: The topic is easiest when read as one chain
+        |
+        v
++-- SESSION 01: START HERE — THE LEARNING PATH AND EVIDENCE SAFETY
+|   DEFINITION / TERMS : Start here — the learning path and evidence safety: The topic is easiest when read as one chain
+|   MECHANISM / ARGUMENT: activity spaces, but each is explained by a different combination of ecology, labour,
+|   CONSEQUENCE / CONTRAST: Agriculture is not a list of crops.
+|   TRAP / ANSWER-USE: Agriculture is not a list of crops.
+|   EXAM OPENING: !Roadmap from primary-activity basics to location, systems, change and exam application
++--
+        |
+        v
++-- SESSION 02: WHAT AGRICULTURAL GEOGRAPHY STUDIES
+|   DEFINITION / TERMS : What agricultural geography studies: Agriculture is a leading primary activity because it draws directly on land, water, climate,
+|   MECHANISM / ARGUMENT: !Primary activities classified by direct dependence on nature
+|   CONSEQUENCE / CONTRAST: Agricultural geography therefore asks three simple questions
+|   TRAP / ANSWER-USE: cannot explain the location; water control and incentives complete the answer.
+|   EXAM OPENING: !Primary activities classified by direct dependence on nature
++--
+        |
+        v
++-- SESSION 03: THE SIX CONTROLS OF AGRICULTURE
+|   DEFINITION / TERMS : The six controls of agriculture: Fertile soil alone is not sufficient.
+|   MECHANISM / ARGUMENT: No single control creates an agricultural region.
+|   CONSEQUENCE / CONTRAST: Think of six filters working together
+|   TRAP / ANSWER-USE: water, labour or access does not automatically become a productive farming belt.
+|   EXAM OPENING: !Physical and human controls that jointly shape agricultural location
++--
+        |
+        v
++-- SESSION 04: MAJOR AGRICULTURAL SYSTEMS
+|   DEFINITION / TERMS : Major agricultural systems: Commercial orientation asks how strongly production is aimed at the market.
+|   MECHANISM / ARGUMENT: !Farming systems compared by subsistence, labour, scale and market orientation
+|   CONSEQUENCE / CONTRAST: Intensity asks how much labour/capital and output occur per unit land.
+|   TRAP / ANSWER-USE: Intensive does not always mean mechanised.
+|   EXAM OPENING: !Farming systems compared by subsistence, labour, scale and market orientation
++--
+        |
+        v
++-- SESSION 05: VON THUNEN — WHY DISTANCE STILL MATTERS
+|   DEFINITION / TERMS : Von Thunen is a location model, not a climate classification.
+|   MECHANISM / ARGUMENT: Von Thunen imagined one market surrounded by uniform land.
+|   CONSEQUENCE / CONTRAST: !Modern transport and cold chains stretch rather than erase distance effects
+|   TRAP / ANSWER-USE: !Modern transport and cold chains stretch rather than erase distance effects
+|   EXAM OPENING: !Classical Von Thunen rings around a central market
++--
+        |
+        v
++-- SESSION 06: WORLD AGRICULTURAL REGIONS AND CROP REQUIREMENTS
+|   DEFINITION / TERMS : World regions become memorable when each is tied to one climate pattern, one production
+|   MECHANISM / ARGUMENT: World regions become memorable when each is tied to one climate pattern, one production
+|   CONSEQUENCE / CONTRAST: system and one market or labour feature.
+|   TRAP / ANSWER-USE: Crop requirements are broad guides, not rigid thresholds
+|   EXAM OPENING: !World agricultural regions linked to climate, labour and markets
++--
+        |
+        v
++-- SESSION 07: FROM SUBSISTENCE TO COMMERCIALISATION
+|   DEFINITION / TERMS : From subsistence to commercialisation: A vegetable-growing district can commercialise only when production is matched by roads,
+|   MECHANISM / ARGUMENT: Institutions matter because they organise water, information and exchange.
+|   CONSEQUENCE / CONTRAST: Institutions matter because they organise water, information and exchange.
+|   TRAP / ANSWER-USE: Explain commercialisation as a sequence of linked capabilities, not as a simple shift from
+|   EXAM OPENING: !Inputs, farm decisions, outputs and feedbacks in an agroecosystem
++--
+        |
+        v
++-- SESSION 08: READING AGRICULTURE CURRENT AFFAIRS WITHOUT DATA MISTAKES
+|   DEFINITION / TERMS : Reading agriculture current affairs without data mistakes: Is it an estimate, a final value, a target or an administrative count?
+|   MECHANISM / ARGUMENT: Agriculture news often places several unlike numbers side by side.
+|   CONSEQUENCE / CONTRAST: Agriculture news often places several unlike numbers side by side.
+|   TRAP / ANSWER-USE: !Official-data status ladder and the labels that must not be collapsed
+|   EXAM OPENING: !Official-data status ladder and the labels that must not be collapsed
++--
+        |
+        v
++-- SESSION 09: NON-FARM PRIMARY ACTIVITIES — THE PHYSIOGRAPHY PRINCIPLE
+|   DEFINITION / TERMS : Non-farm primary activities — the physiography principle: Their location is tightly constrained because the resource cannot be shifted to any chosen
+|   MECHANISM / ARGUMENT: Their location is tightly constrained because the resource cannot be shifted to any chosen
+|   CONSEQUENCE / CONTRAST: Their location is tightly constrained because the resource cannot be shifted to any chosen
+|   TRAP / ANSWER-USE: Their location is tightly constrained because the resource cannot be shifted to any chosen
+|   EXAM OPENING: Primary activities extract or harvest directly from nature.
++--
+        |
+        v
++-- SESSION 10: FISHING
+|   DEFINITION / TERMS : Fishing: current mixing, upwelling, sheltered landing sites, estuaries and inland water bodies.
+|   MECHANISM / ARGUMENT: Link every example to a mechanism: shelf - marine potential; floodplain/reservoir - inland
+|   CONSEQUENCE / CONTRAST: Mangrove-estuarine margins are nursery habitats but can also face aquaculture pressure.
+|   TRAP / ANSWER-USE: floodplains and peninsular reservoirs also show why a major fish-producing area need not be
+|   EXAM OPENING: Fishing geography depends on the width and depth of the continental shelf, nutrient supply,
++--
+        |
+        v
++-- SESSION 11: FORESTRY AND FOREST PRODUCE
+|   DEFINITION / TERMS : Forestry is controlled not only by the existence of trees but by species, slope, distance and
+|   MECHANISM / ARGUMENT: Forestry is controlled not only by the existence of trees but by species, slope, distance and
+|   CONSEQUENCE / CONTRAST: Diverse tropical forests are also less suited to uniform mechanised extraction than
+|   TRAP / ANSWER-USE: Forestry is controlled not only by the existence of trees but by species, slope, distance and
+|   EXAM OPENING: Forestry is controlled not only by the existence of trees but by species, slope, distance and
++--
+        |
+        v
++-- SESSION 12: MINING AND QUARRYING
+|   DEFINITION / TERMS : Mining and quarrying: Bulky low-value-per-tonne ores are especially sensitive to transport cost.
+|   MECHANISM / ARGUMENT: Geology decides occurrence, while grade, relief, transport, power and processing decide
+|   CONSEQUENCE / CONTRAST: Quarrying may be widespread, but riverbed mining and hill cutting can destabilise channels and
+|   TRAP / ANSWER-USE: Mineral richness does not guarantee local prosperity.
+|   EXAM OPENING: Geology decides occurrence, while grade, relief, transport, power and processing decide
++--
+        |
+        v
++-- SESSION 13: ANSWER ARCHITECTURE AND TECHNOLOGY-LED TRANSFORMATION
+|   DEFINITION / TERMS : Answer architecture and technology-led transformation: The Green Revolution is the clearest illustration: it strengthened national grain security
+|   MECHANISM / ARGUMENT: unevenly because water, level land, credit, inputs and purchase outlets are unevenly
+|   CONSEQUENCE / CONTRAST: extension and procurement—can raise yields and cropping intensity quickly.
+|   TRAP / ANSWER-USE: Do not narrate a technology package without explaining spatial selectivity.
+|   EXAM OPENING: !A Geography answer spine from claim and map logic to qualification and verdict
++--
+        |
+        v
++-- SESSION 14: CORE EXAM MAP
+|   DEFINITION / TERMS : Core exam map: classification; official-data labels.
+|   MECHANISM / ARGUMENT: classification; official-data labels.
+|   CONSEQUENCE / CONTRAST: GS-I: world agricultural regions; location models; physiography of non-farm primary
+|   TRAP / ANSWER-USE: Answer-use: Prelims: farming-system distinctions; crop-climate links; Von Thunen; primary-activity
+|   EXAM OPENING: Prelims: farming-system distinctions; crop-climate links; Von Thunen; primary-activity
++--
+        |
+        v
+ANSWER-WRITING SPINE
+definition -> exact terms -> mechanism/evidence -> consequence/contrast
+-> objection/trap -> qualified answer-use

@@ -1,0 +1,1146 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-14",
+  "subject": "Environment-and-Ecology",
+  "title": "WATER POLLUTION AND RIVER CLEANING MISSIONS",
+  "short_route": "SOURCE-PATHWAY MAP → STANDARD FIREWALL → ORGANIC-POLLUTION DIAGNOSTIC → EUTROPHICATION CHAIN → INSTITUTION AND APPROVAL LADDER → SEWAGE QUANTITY LEDGER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-14\\g2\\environment-and-ecology-14_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-14-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "8f61c6bca22f7c4e7cbca708ba2edfee23e87a020f0c9c6d87dea8324214379e",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "SOURCE-PATHWAY MAP",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SOURCE-PATHWAY MAP",
+          "role": "evidence"
+        },
+        {
+          "text": "POINT SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "IDENTIFIABLE PIPE, DRAIN OR OUTFALL",
+          "role": "comparison"
+        },
+        {
+          "text": "NON-POINT SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "DIFFUSE CATCHMENT RUNOFF",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE TO RECEIVING WATER",
+          "role": "evidence"
+        },
+        {
+          "text": "SOURCE SAMPLE VERSUS CATCHMENT EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "TOOL MUST MATCH THE PATHWAY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "POINT SOURCE → identifiable pipe, drain or outfall",
+        "NON-POINT SOURCE → diffuse catchment runoff",
+        "PATHWAY → source to receiving water",
+        "MONITORING → source sample versus catchment evidence",
+        "CONTROL → tool must match the pathway"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "POINT SOURCE → identifiable pipe, drain or outfall",
+          "PATHWAY → source to receiving water",
+          "CONTROL → tool must match the pathway"
+        ],
+        [
+          "NON-POINT SOURCE → diffuse catchment runoff",
+          "MONITORING → source sample versus catchment evidence",
+          "POINT SOURCE → identifiable pipe, drain or outfall"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "POINT SOURCE → identifiable pipe, drain or outfall",
+            "NON-POINT SOURCE → diffuse catchment runoff"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "PATHWAY → source to receiving water",
+            "MONITORING → source sample versus catchment evidence"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "CONTROL → tool must match the pathway",
+            "POINT SOURCE → identifiable pipe, drain or outfall"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "POINT SOURCE → identifiable pipe, drain or outfall.",
+      "source_references": [
+        "Point and non-point sources"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "STANDARD FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "STANDARD FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "EFFLUENT STANDARD",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTROLS DISCHARGE FROM A SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "WATER-QUALITY CRITERION",
+          "role": "evidence"
+        },
+        {
+          "text": "DESCRIBES RECEIVING WATER",
+          "role": "primary"
+        },
+        {
+          "text": "USE CLASS",
+          "role": "outcome"
+        },
+        {
+          "text": "INTENDED-WATER-USE FRAMEWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "UNIT AND SAMPLING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EFFLUENT STANDARD → controls discharge from a source",
+        "WATER-QUALITY CRITERION → describes receiving water",
+        "USE CLASS → intended-water-use framework",
+        "UNIT AND SAMPLING → belong to the exact indicator",
+        "RULE → never exchange these values"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "EFFLUENT STANDARD → controls discharge from a source",
+          "USE CLASS → intended-water-use framework",
+          "RULE → never exchange these values"
+        ],
+        [
+          "WATER-QUALITY CRITERION → describes receiving water",
+          "UNIT AND SAMPLING → belong to the exact indicator",
+          "EFFLUENT STANDARD → controls discharge from a source"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "EFFLUENT STANDARD → controls discharge from a source",
+            "WATER-QUALITY CRITERION → describes receiving water"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "USE CLASS → intended-water-use framework",
+            "UNIT AND SAMPLING → belong to the exact indicator"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "RULE → never exchange these values",
+            "EFFLUENT STANDARD → controls discharge from a source"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "UNIT AND SAMPLING → belong to the exact indicator.",
+      "source_references": [
+        "Water-quality and effluent boundary",
+        "Water class and discharge boundary"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ORGANIC-POLLUTION DIAGNOSTIC",
+      "structural_type": "process-flow",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ORGANIC-POLLUTION DIAGNOSTIC",
+          "role": "primary"
+        },
+        {
+          "text": "ORGANIC LOAD",
+          "role": "outcome"
+        },
+        {
+          "text": "MICROBIAL DECOMPOSITION",
+          "role": "comparison"
+        },
+        {
+          "text": "OXYGEN DEMAND DURING DECOMPOSITION",
+          "role": "evidence"
+        },
+        {
+          "text": "OXYGEN REMAINING FOR AQUATIC LIFE",
+          "role": "primary"
+        },
+        {
+          "text": "FAECAL INDICATOR",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTAMINATION WARNING",
+          "role": "comparison"
+        },
+        {
+          "text": "USE INDICATORS TOGETHER, NOT INTERCHANGEABLY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ORGANIC LOAD → microbial decomposition",
+        "BOD → oxygen demand during decomposition",
+        "DO → oxygen remaining for aquatic life",
+        "FAECAL INDICATOR → contamination warning",
+        "DIAGNOSIS → use indicators together, not interchangeably"
+      ],
+      "matrix": [
+        [
+          "SYSTEM INPUT / STARTING CONDITION",
+          "ECOLOGICAL PROCESS / TRANSFER",
+          "OUTCOME / FEEDBACK / LIMIT"
+        ],
+        [
+          "ORGANIC LOAD → microbial decomposition",
+          "DO → oxygen remaining for aquatic life",
+          "DIAGNOSIS → use indicators together, not interchangeably"
+        ],
+        [
+          "BOD → oxygen demand during decomposition",
+          "FAECAL INDICATOR → contamination warning",
+          "ORGANIC LOAD → microbial decomposition"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "ORGANIC LOAD → microbial decomposition",
+            "BOD → oxygen demand during decomposition"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "DO → oxygen remaining for aquatic life",
+            "FAECAL INDICATOR → contamination warning"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "DIAGNOSIS → use indicators together, not interchangeably",
+            "ORGANIC LOAD → microbial decomposition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FAECAL INDICATOR → contamination warning; DIAGNOSIS → use indicators together, not interchangeably.",
+      "source_references": [
+        "BOD and DO relation",
+        "Faecal-indicator boundary"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "EUTROPHICATION CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "EUTROPHICATION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "NUTRIENT INPUT",
+          "role": "outcome"
+        },
+        {
+          "text": "NITROGEN OR PHOSPHORUS ENRICHMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ALGAL GROWTH",
+          "role": "evidence"
+        },
+        {
+          "text": "BIOMASS INCREASE",
+          "role": "primary"
+        },
+        {
+          "text": "OXYGEN DEMAND",
+          "role": "outcome"
+        },
+        {
+          "text": "LOW OXYGEN",
+          "role": "comparison"
+        },
+        {
+          "text": "ECOLOGICAL STRESS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NUTRIENT INPUT → nitrogen or phosphorus enrichment",
+        "ALGAL GROWTH → biomass increase",
+        "DECOMPOSITION → oxygen demand",
+        "LOW OXYGEN → ecological stress",
+        "BOUNDARY → not identical to toxic industrial discharge"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "NUTRIENT INPUT → nitrogen or phosphorus enrichment",
+            "ALGAL GROWTH → biomass increase"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "DECOMPOSITION → oxygen demand",
+            "LOW OXYGEN → ecological stress"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → not identical to toxic industrial discharge",
+            "NUTRIENT INPUT → nitrogen or phosphorus enrichment"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY → not identical to toxic industrial discharge.",
+      "source_references": [
+        "Eutrophication chain"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "INSTITUTION AND APPROVAL LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INSTITUTION AND APPROVAL LADDER",
+          "role": "institution"
+        },
+        {
+          "text": "WATER ACT",
+          "role": "institution"
+        },
+        {
+          "text": "STATUTORY POLLUTION-CONTROL FRAMEWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIONAL COORDINATION AND FRAMEWORK",
+          "role": "evidence"
+        },
+        {
+          "text": "SPCB OR PCC",
+          "role": "primary"
+        },
+        {
+          "text": "CONSENT, MONITORING AND ENFORCEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "CTE OR CTO",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE PERMISSION LAYER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WATER ACT → statutory pollution-control framework",
+        "CPCB → national coordination and framework",
+        "SPCB OR PCC → consent, monitoring and enforcement",
+        "CTE OR CTO → source permission layer",
+        "ENVIRONMENTAL CLEARANCE → separate prior-appraisal layer"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "WATER ACT → statutory pollution-control framework",
+            "CPCB → national coordination and framework"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SPCB OR PCC → consent, monitoring and enforcement",
+            "CTE OR CTO → source permission layer"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "ENVIRONMENTAL CLEARANCE → separate prior-appraisal layer",
+            "WATER ACT → statutory pollution-control framework"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SPCB OR PCC → consent, monitoring and enforcement.",
+      "source_references": [
+        "Water Act institution layer",
+        "CTE and CTO boundary"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SEWAGE QUANTITY LEDGER",
+      "structural_type": "layered-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SEWAGE QUANTITY LEDGER",
+          "role": "primary"
+        },
+        {
+          "text": "TOTAL WASTEWATER PRODUCED",
+          "role": "outcome"
+        },
+        {
+          "text": "FLOW REACHING A NETWORK",
+          "role": "mechanism"
+        },
+        {
+          "text": "NAMEPLATE TREATMENT CAPACITY",
+          "role": "evidence"
+        },
+        {
+          "text": "ACTUALLY TREATED",
+          "role": "primary"
+        },
+        {
+          "text": "OPERATING INFLOW AND PERFORMANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "REUSED OR DISCHARGED",
+          "role": "comparison"
+        },
+        {
+          "text": "FINAL PATHWAY AND QUALITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GENERATED → total wastewater produced",
+        "SEWERED → flow reaching a network",
+        "INSTALLED → nameplate treatment capacity",
+        "ACTUALLY TREATED → operating inflow and performance",
+        "REUSED OR DISCHARGED → final pathway and quality"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "GENERATED → total wastewater produced",
+            "SEWERED → flow reaching a network"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INSTALLED → nameplate treatment capacity",
+            "ACTUALLY TREATED → operating inflow and performance"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "REUSED OR DISCHARGED → final pathway and quality",
+            "GENERATED → total wastewater produced"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REUSED OR DISCHARGED → final pathway and quality.",
+      "source_references": [
+        "Sewage quantity chain",
+        "Capacity and utilisation"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "TREATMENT-PLANT MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TREATMENT-PLANT MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "MUNICIPAL OR DOMESTIC SEWAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE ESTABLISHMENT'S INDUSTRIAL EFFLUENT",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMON TREATMENT FOR A GROUP OF UNITS",
+          "role": "evidence"
+        },
+        {
+          "text": "INFRASTRUCTURE OUTPUT",
+          "role": "primary"
+        },
+        {
+          "text": "COMPLIANT OPERATION",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPARATELY VERIFIED PERFORMANCE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "STP → municipal or domestic sewage",
+        "ETP → one establishment's industrial effluent",
+        "CETP → common treatment for a group of units",
+        "INSTALLATION → infrastructure output",
+        "COMPLIANT OPERATION → separately verified performance"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "STP → municipal or domestic sewage",
+          "CETP → common treatment for a group of units",
+          "COMPLIANT OPERATION → separately verified performance"
+        ],
+        [
+          "ETP → one establishment's industrial effluent",
+          "INSTALLATION → infrastructure output",
+          "STP → municipal or domestic sewage"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "STP → municipal or domestic sewage",
+            "ETP → one establishment's industrial effluent"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CETP → common treatment for a group of units",
+            "INSTALLATION → infrastructure output"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "COMPLIANT OPERATION → separately verified performance",
+            "STP → municipal or domestic sewage"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CETP → common treatment for a group of units.",
+      "source_references": [
+        "Municipal and industrial streams",
+        "STP ETP and CETP"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "REGULATOR-MISSION FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REGULATOR-MISSION FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "CPCB OR SPCB",
+          "role": "outcome"
+        },
+        {
+          "text": "STATUTORY POLLUTION-CONTROL ROLE",
+          "role": "comparison"
+        },
+        {
+          "text": "RIVER MISSION",
+          "role": "evidence"
+        },
+        {
+          "text": "PROJECT AND BASIN COORDINATION",
+          "role": "primary"
+        },
+        {
+          "text": "GANGA MISSION IMPLEMENTATION ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "SEWERAGE SERVICE AND LOCAL OPERATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE ACTOR NEVER SUBSTITUTES FOR ALL OTHERS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CPCB OR SPCB → statutory pollution-control role",
+        "RIVER MISSION → project and basin coordination",
+        "NMCG → Ganga mission implementation architecture",
+        "ULB → sewerage service and local operation",
+        "RULE → one actor never substitutes for all others"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "CPCB OR SPCB → statutory pollution-control role",
+          "NMCG → Ganga mission implementation architecture",
+          "RULE → one actor never substitutes for all others"
+        ],
+        [
+          "RIVER MISSION → project and basin coordination",
+          "ULB → sewerage service and local operation",
+          "CPCB OR SPCB → statutory pollution-control role"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "CPCB OR SPCB → statutory pollution-control role",
+            "RIVER MISSION → project and basin coordination"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "NMCG → Ganga mission implementation architecture",
+            "ULB → sewerage service and local operation"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "RULE → one actor never substitutes for all others",
+            "CPCB OR SPCB → statutory pollution-control role"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → one actor never substitutes for all others.",
+      "source_references": [
+        "Regulation and mission boundary",
+        "NMCG institutional boundary"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "RIVER-MISSION COMPONENT WHEEL",
+      "structural_type": "layered-rail",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "RIVER-MISSION COMPONENT WHEEL",
+          "role": "primary"
+        },
+        {
+          "text": "SEWAGE INFRASTRUCTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERCEPT AND TREAT FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "INDUSTRIAL MONITORING",
+          "role": "evidence"
+        },
+        {
+          "text": "SOURCE COMPLIANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "BIODIVERSITY AND RIVERBANK MEASURES",
+          "role": "outcome"
+        },
+        {
+          "text": "PUBLIC PARTICIPATION",
+          "role": "comparison"
+        },
+        {
+          "text": "BEHAVIOUR AND ACCOUNTABILITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SEWAGE INFRASTRUCTURE → intercept and treat flow",
+        "INDUSTRIAL MONITORING → source compliance",
+        "ECOLOGY → biodiversity and riverbank measures",
+        "PUBLIC PARTICIPATION → behaviour and accountability",
+        "VISIBLE WORK → not itself a water-quality outcome"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "SEWAGE INFRASTRUCTURE → intercept and treat flow",
+            "INDUSTRIAL MONITORING → source compliance"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ECOLOGY → biodiversity and riverbank measures",
+            "PUBLIC PARTICIPATION → behaviour and accountability"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "VISIBLE WORK → not itself a water-quality outcome",
+            "SEWAGE INFRASTRUCTURE → intercept and treat flow"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VISIBLE WORK → not itself a water-quality outcome.",
+      "source_references": [
+        "Namami Gange component boundary"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PROGRAMME-SCOPE GATE",
+      "structural_type": "decision-gate",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PROGRAMME-SCOPE GATE",
+          "role": "primary"
+        },
+        {
+          "text": "GANGA QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "USE NOTIFIED GANGA ARCHITECTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "OTHER RIVER",
+          "role": "evidence"
+        },
+        {
+          "text": "IDENTIFY APPLICABLE PROGRAMME AND STATE ACTORS",
+          "role": "institution"
+        },
+        {
+          "text": "WIDER RIVER-CONSERVATION PROGRAMME CONTEXT",
+          "role": "outcome"
+        },
+        {
+          "text": "RETAIN RIVER, STRETCH AND DATE",
+          "role": "comparison"
+        },
+        {
+          "text": "NO TRANSFER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "GANGA QUESTION → use notified Ganga architecture",
+        "OTHER RIVER → identify applicable programme and state actors",
+        "NRCP → wider river-conservation programme context",
+        "RESULT → retain river, stretch and date",
+        "NO TRANSFER → never move one mission result to another river"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "GANGA QUESTION → use notified Ganga architecture",
+            "OTHER RIVER → identify applicable programme and state actors"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NRCP → wider river-conservation programme context",
+            "RESULT → retain river, stretch and date"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "NO TRANSFER → never move one mission result to another river",
+            "GANGA QUESTION → use notified Ganga architecture"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO TRANSFER → never move one mission result to another river.",
+      "source_references": [
+        "NRCP and river scope"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "PERFORMANCE AND EVIDENCE CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PERFORMANCE AND EVIDENCE CHAIN",
+          "role": "evidence"
+        },
+        {
+          "text": "OUTLAY OR SANCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "FINANCIAL ACTIVITY",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSET COMPLETED",
+          "role": "evidence"
+        },
+        {
+          "text": "PHYSICAL OUTPUT",
+          "role": "primary"
+        },
+        {
+          "text": "FLOW TREATED OR LOAD REDUCED",
+          "role": "mechanism"
+        },
+        {
+          "text": "OPERATIONAL RESULT",
+          "role": "comparison"
+        },
+        {
+          "text": "RIVER QUALITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OUTLAY OR SANCTION → input",
+        "EXPENDITURE → financial activity",
+        "ASSET COMPLETED → physical output",
+        "FLOW TREATED OR LOAD REDUCED → operational result",
+        "RIVER QUALITY → stretch-season-indicator outcome"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "OUTLAY OR SANCTION → input",
+            "EXPENDITURE → financial activity"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "ASSET COMPLETED → physical output",
+            "FLOW TREATED OR LOAD REDUCED → operational result"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "RIVER QUALITY → stretch-season-indicator outcome",
+            "OUTLAY OR SANCTION → input"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FLOW TREATED OR LOAD REDUCED → operational result.",
+      "source_references": [
+        "Input output outcome chain",
+        "Stretch season indicator",
+        "Dilution and ecological flow"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "WATER ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "WATER ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE, PATHWAY AND POLLUTANT",
+          "role": "evidence"
+        },
+        {
+          "text": "INDICATOR, UNIT, LOCATION, SEASON AND SAMPLING",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSENT, EFFLUENT CONTROL AND ENFORCEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "SEWER NETWORK, STP, ETP OR CETP OPERATION",
+          "role": "primary"
+        },
+        {
+          "text": "LOAD AND RIVER OUTCOME, WITH PYQ AND LIVE-DATA LIMITS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DIAGNOSE → source, pathway and pollutant",
+        "MEASURE → indicator, unit, location, season and sampling",
+        "REGULATE → consent, effluent control and enforcement",
+        "TREAT → sewer network, STP, ETP or CETP operation",
+        "JUDGE → load and river outcome, with PYQ and live-data limits"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "DIAGNOSE → source, pathway and pollutant",
+            "MEASURE → indicator, unit, location, season and sampling"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REGULATE → consent, effluent control and enforcement",
+            "TREAT → sewer network, STP, ETP or CETP operation"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "JUDGE → load and river outcome, with PYQ and live-data limits",
+            "DIAGNOSE → source, pathway and pollutant"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "JUDGE → load and river outcome, with PYQ and live-data limits.",
+      "source_references": [
+        "Audited evidence boundary"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "RIVER WATER-QUALITY MONITORING (BOD, DO, FAECAL COLIFORM TRENDS AT",
+          "role": "outcome"
+        },
+        {
+          "text": "ANALYTICAL CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "A CLAIM THAT \"THE GANGA IS NOW CLEAN\" OR",
+          "role": "evidence"
+        },
+        {
+          "text": "PARLIAMENTARY STANDING COMMITTEE AND CAG-TYPE REVIEWS OF LARGE RIVER-MISSION",
+          "role": "primary"
+        },
+        {
+          "text": "FEDERAL COORDINATION CHALLENGE",
+          "role": "outcome"
+        },
+        {
+          "text": "BECAUSE THE GANGA FLOWS THROUGH MULTIPLE STATES",
+          "role": "comparison"
+        },
+        {
+          "text": "PRECISE, REAL-TIME FIGURES FOR SEWAGE-TREATMENT CAPACITY CREATED VERSUS ACTUALLY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL ECOLOGICAL PROCESS DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: River water-quality monitoring (BOD, DO, faecal coliform trends at various monitoring",
+            "CAUTION: Analytical caution: a claim that \"the Ganga is now clean\" or \"is now fit for",
+            "CAUTION: Parliamentary standing committee and CAG-type reviews of large river-mission spending",
+            "CAUTION: Federal coordination challenge: because the Ganga flows through multiple states"
+          ]
+        },
+        {
+          "heading": "SCALE, PARAMETER OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Precise, real-time figures for sewage-treatment capacity created versus actually",
+            "CAUTION: Non-point-source agricultural-runoff pollution (fertiliser/pesticide-driven nutrient",
+            "Namami Gange addresses multiple components — sewage-treatment infrastructure,",
+            "A documented implementation gap in river-cleaning missions is the \"last-mile\" problem:"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE RESTORATION NUANCE",
+          "role": "comparison",
+          "items": [
+            "River water-quality improvement is stretch-specific and season-variable; blanket",
+            "Non-point-source agricultural-runoff pollution is measured and regulated with",
+            "NOT: Namami Gange is solely a sewage-treatment-infrastructure programme. - It integrates",
+            "NOT: Created sewage-treatment-plant capacity automatically means proportionate pollution-load"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

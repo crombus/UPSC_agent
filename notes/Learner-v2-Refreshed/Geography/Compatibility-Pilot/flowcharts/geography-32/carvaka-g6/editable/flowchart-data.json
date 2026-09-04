@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "topic_key": "geography-32-industries-and-industrial-regions",
+  "generation": 6,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Compatibility-Pilot\\learning-sessions\\geography-32\\geography-32_Complete-Learning-Session_2026-08-22.md",
+  "master_dimensions": [
+    3600,
+    9050
+  ],
+  "stages": [
+    {
+      "title": "LEARNING ROAD MAP: ASK THE LOCATION QUESTION IN THE RIGHT ORDER",
+      "terms": "Learning road map: ask the location question in the right order: Industrial geography is not a plant-list chapter.",
+      "mechanism": "Trap: A named factory is evidence only when it proves a mechanism.",
+      "consequence": "Industrial geography is not a plant-list chapter.",
+      "trap": "Industrial geography is not a plant-list chapter.",
+      "answer": "!Road map from definitions to location, regions and answers"
+    },
+    {
+      "title": "TERMINOLOGY FIREWALL: INDUSTRY, MANUFACTURING, FACTORY AND INDUSTRIAL REGION",
+      "terms": "Industry is the broad set of activities and organisations that transform inputs into useful goods.",
+      "mechanism": "A corridor links nodes through freight, utilities and urban systems.",
+      "consequence": "Industry is the broad set of activities and organisations that transform inputs into useful goods.",
+      "trap": "Visual first: activity, establishment and region are different units and should not be mixed.",
+      "answer": "!Terminology and classification firewall"
+    },
+    {
+      "title": "MAIN LOCATION FACTORS: BUILD A RANKED FACTOR SYSTEM",
+      "terms": "Main location factors: build a ranked factor system: Ask which input is bulky, perishable, energy-intensive or skill-intensive.",
+      "mechanism": "Sugar mills are pulled toward cane because cane is bulky and loses recoverable quality with delay.",
+      "consequence": "Visual first: location results from interacting material, energy, labour, market, transport, water, capital and technology pulls.",
+      "trap": "Rank the factors; do not merely list them.",
+      "answer": "Visual first: location results from interacting material, energy, labour, market, transport, water, capital and technology pulls."
+    },
+    {
+      "title": "WEBER'S LEAST-COST THEORY: LEARN IT IN SIX STEPS",
+      "terms": "Weber's least-cost theory: learn it in six steps: The first task is to find the site with the lowest total cost of moving inputs in and output out.",
+      "mechanism": "The model gives a disciplined starting mechanism.",
+      "consequence": "Alfred Weber's 1909 model asks: where can a factory minimise the combined burden of transport cost, labour cost and agglomeration/deglomeration effects?",
+      "trap": "It is the starting point, not an automatic final answer.",
+      "answer": "!Weber material index, transport minimum and isodapane"
+    },
+    {
+      "title": "TYPES OF INDUSTRIAL ORIENTATION: COMPARE STAGES, NOT LABELS",
+      "terms": "Types of industrial orientation: compare stages, not labels: Trap: Footloose means flexible among suitable sites, not free from skills, utilities, logistics or regulation.",
+      "mechanism": "Technology can split the chain: raw-material processing remains near the source while assembly or finishing moves toward markets.",
+      "consequence": "The term “orientation” does not imprison an industry in one place.",
+      "trap": "The term “orientation” does not imprison an industry in one place.",
+      "answer": "!Stage-by-factor matrix for industrial orientation"
+    },
+    {
+      "title": "MAJOR WORLD INDUSTRIAL REGIONS: MAP THE MECHANISM BEHIND EACH BELT",
+      "terms": "Visual first: the world's major regions represent different combinations of resources, ports, markets, labour and state-supported infrastructure; the map is schematic and not to scale.",
+      "mechanism": "Use world cases to prove mechanisms, not as decorative examples: Japan refutes resource determinism; Ruhr/Great Lakes show conditional inertia; coastal China shows policy-enabled export agglomeration.",
+      "consequence": "An industrial region is a historical accumulation.",
+      "trap": "Visual first: the world's major regions represent different combinations of resources, ports, markets, labour and state-supported infrastructure; the map is schematic and not to scale.",
+      "answer": "!Schematic major world industrial regions"
+    },
+    {
+      "title": "AGGLOMERATION, DEGLOMERATION AND INDUSTRIAL INERTIA",
+      "terms": "Agglomeration means firms cluster because they share",
+      "mechanism": "Agglomeration means firms cluster because they share",
+      "consequence": "Agglomeration means firms cluster because they share",
+      "trap": "The Hugli belt cannot be explained by raw jute alone.",
+      "answer": "!Agglomeration economies and diseconomies"
+    },
+    {
+      "title": "ACTORS, INSTITUTIONS AND PLANNED LOCATION: THE STATE CAN SUPPORT, NOT INVENT, EVERY LINKAGE",
+      "terms": "Actors, institutions and planned location: the state can support, not invent, every linkage: This is an example of deliberate corridor-linked, multimodal and plug-and-play industrial space.",
+      "mechanism": "The location-theory link is valid: transport, land, labour pools, utilities and market reach are being assembled through policy.",
+      "consequence": "Basic current anchor retained from the owner",
+      "trap": "Then state the limit: policy cannot compensate indefinitely for weak market access, skills or ecological capacity.",
+      "answer": "!Corridor and logistics architecture"
+    },
+    {
+      "title": "WHAT CHANGED AFTER WEBER - AND WHAT DID NOT",
+      "terms": "What changes is the content of those burdens.",
+      "mechanism": "Freight still matters, but time, reliability, qualification by buyers, supplier depth, carbon rules and geopolitical risk may matter more.",
+      "consequence": "Weber's method remains useful: compare location-dependent burdens.",
+      "trap": "It is not “location-free”; its cost surface is simply more complex than a mine-market triangle.",
+      "answer": "!Evolution from classical location theory to modern risk and capability"
+    },
+    {
+      "title": "BASIC ANSWER ARCHITECTURE AND EVIDENCE UNITS",
+      "terms": "Basic answer architecture and evidence units: Claim: Domestic mineral abundance is not necessary for industrialisation.",
+      "mechanism": "Visual first: high-scoring answers move from a precise boundary to mechanism, evidence, qualification and verdict.",
+      "consequence": "Explain the dominant location mechanism.",
+      "trap": "Verdict: Persistence must be demonstrated, not assumed.",
+      "answer": "!UPSC industrial-geography answer spine"
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 3,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 6850,
+      "y_end": 9050,
+      "overlap_px": 260,
+      "from_stage": 8,
+      "continues_stage": 10
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+ASCII MASTER FLOW — PANEL 1/12: Four-category legal ladder
+NATIONAL PARK -> strict statutory habitat regime
+WILDLIFE SANCTUARY -> protected habitat with a different rights settlement
+CONSERVATION RESERVE -> connector or buffer, generally government land
+COMMUNITY RESERVE -> consent-based community or private land
+RULE -> each category has its own notification and activity regime
+
+ASCII MASTER FLOW — PANEL 2/12: Rights and tenure matrix
+NATIONAL PARK -> strictest owner-described activity regime
+SANCTUARY -> regulated rights may continue after settlement
+CONSERVATION RESERVE -> consultation-centered government-land route
+COMMUNITY RESERVE -> consent plus local management role
+CAUTION -> read the Act and site notification before asserting a right
+
+ASCII MASTER FLOW — PANEL 3/12: 2002 expansion logic
+1972 FRAMEWORK -> National Parks and Sanctuaries
+LANDSCAPE GAP -> corridors, buffers and non-state tenure
+2002 AMENDMENT -> Conservation and Community Reserves
+RESULT -> wider legal menu without one exclusion model
+LIMIT -> category creation does not prove on-ground conservation
+
+ASCII MASTER FLOW — PANEL 4/12: Tiger overlay stack
+UNDERLYING LAND STATUS -> NP, Sanctuary or other notified landscape
+TIGER RESERVE -> NTCA-linked species-management overlay
+CORE -> critical tiger habitat
+BUFFER -> coexistence and connectivity functions
+RULE -> overlay and underlying category remain distinct
+
+ASCII MASTER FLOW — PANEL 5/12: Relocation safeguard gate
+CORE-HABITAT PROPOSAL -> identify affected rights holders
+CONSENT -> voluntary and informed
+REHABILITATION -> applicable package and implementation
+FRA COORDINATION -> tenure-recognition process cannot be ignored
+VERDICT -> habitat protection and rights compliance must travel together
+
+ASCII MASTER FLOW — PANEL 6/12: Tiger and elephant models
+TIGER -> statutory NTCA core-buffer architecture
+ELEPHANT -> wide-ranging corridor and landscape coordination
+BOUNDARY FIT -> stronger for bounded tiger habitat than elephant movement
+JURISDICTION -> multi-state coordination matters for elephants
+RULE -> reserve design must follow species ecology
+
+ASCII MASTER FLOW — PANEL 7/12: ESZ legal firewall
+PROTECTED AREA -> Wildlife Protection Act notification
+ESZ -> Environment Protection Act notification
+PA BOUNDARY -> primary protected-area legal line
+ESZ BOUNDARY -> separate site-specific regulatory line
+NO UNIFORM WIDTH -> read the individual notification
+
+ASCII MASTER FLOW — PANEL 8/12: Three spatial objects
+INNER -> notified protected-area boundary
+AROUND -> separately notified Eco-Sensitive Zone
+BEYOND -> corridor, catchment or seasonal-use landscape
+OVERLAP IN ECOLOGY -> distinct in legal identity
+ANSWER RULE -> never call the whole landscape the notified PA
+
+ASCII MASTER FLOW — PANEL 9/12: Connectivity mechanism
+ISOLATED HABITAT -> reduced movement and dispersal
+CORRIDOR OR STEPPING STONE -> functional linkage
+GENE FLOW AND SEASONAL ACCESS -> improved persistence pathway
+OUTSIDE-PA LAND USE -> determines corridor quality
+LIMIT -> mapped corridor is not proof of functional connectivity
+
+ASCII MASTER FLOW — PANEL 10/12: Boundary safeguard map
+STATE PROCESS -> protected-area notification and management
+STATE LEGISLATURE -> owner-recorded role for specified boundary changes
+NBWL -> owner-recorded recommendation or approval safeguard
+NTCA -> additional Tiger Reserve boundary role
+RULE -> identify the exact category before naming the authority
+
+ASCII MASTER FLOW — PANEL 11/12: Formal PA and OECM
+FORMAL PA -> statutory category under wildlife law
+OECM -> sustained conservation outcome outside formal PA status
+SACRED OR WORKING LANDSCAPE -> possible OECM route, not automatic status
+COUNTING CLAIM -> needs a verified recognition process
+RULE -> outcome label does not silently create a legal category
+
+ASCII MASTER FLOW — PANEL 12/12: Evidence and PYQ spine
+CLASSIFY -> PA category, Tiger overlay, ESZ, corridor or OECM
+FIX -> notified boundary and competent authority
+ADD -> rights, connectivity and management mechanism
+DATE -> any count, notification or overlay milestone
+QUALIFY -> designation is not verified protection outcome

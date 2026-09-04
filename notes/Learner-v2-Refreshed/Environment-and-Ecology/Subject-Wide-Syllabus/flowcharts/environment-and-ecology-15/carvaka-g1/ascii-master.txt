@@ -1,0 +1,83 @@
+ASCII MASTER FLOW — PANEL 1/12: Three-stream firewall
+SOLID WASTE -> municipal generation, segregation and local services
+PLASTIC WASTE -> product and packaging controls plus EPR
+E-WASTE -> electrical and electronic end-of-life chain
+COMMON PARENT -> Environment Protection Act framework
+RULE -> separate streams remain legally distinct
+
+ASCII MASTER FLOW — PANEL 2/12: Rule-vintage ladder
+BASE RULE -> identify notification
+AMENDMENT -> identify changed provision and date
+GUIDELINE OR SOP -> implementation instruction
+PORTAL PROCEDURE -> digital compliance workflow
+CURRENT CLAIM -> verify all later changes
+
+ASCII MASTER FLOW — PANEL 3/12: Municipal responsibility map
+GENERATOR -> segregate and hand over
+BULK GENERATOR -> additional applicable duties
+ULB -> collection and processing system
+OPERATOR -> run authorised facility
+SPCB OR PCC -> authorisation and monitoring
+
+ASCII MASTER FLOW — PANEL 4/12: Segregation-to-disposal chain
+PREVENT OR REDUCE -> avoid waste
+SEGREGATE -> preserve recoverable streams
+COLLECT AND TRANSPORT -> move without remixing
+RECOVER OR TREAT -> process by stream
+RESIDUE -> safe final disposal
+
+ASCII MASTER FLOW — PANEL 5/12: Plastic actor matrix
+PRODUCER -> covered product or packaging responsibility
+IMPORTER -> covered imported product responsibility
+BRAND OWNER -> branded packaging responsibility
+PROCESSOR -> authorised end-of-life activity
+ULB -> municipal service role, not automatic EPR substitute
+
+ASCII MASTER FLOW — PANEL 6/12: Ban-versus-EPR gate
+IDENTIFIED ITEM -> test the exact restriction and vintage
+PLASTIC PACKAGING -> test EPR category and obligation
+OTHER PRODUCT -> do not infer ban from plastic content
+MATERIAL FACT -> composition question
+LEGAL FACT -> rule-specific classification
+
+ASCII MASTER FLOW — PANEL 7/12: EPR evidence ladder
+OBLIGATION OR TARGET -> legal requirement
+REGISTRATION -> actor enters portal
+CERTIFICATE -> compliance instrument
+REPORTED THROUGHPUT -> claimed processing
+VERIFIED RECOVERY -> physical outcome evidence
+
+ASCII MASTER FLOW — PANEL 8/12: Processor audit gate
+REGISTRATION -> formal eligibility
+INPUT RECORD -> material received
+PROCESS RECORD -> actual authorised operation
+OUTPUT AND RESIDUE -> destination and safe handling
+AUDIT -> quantity and outcome require verification
+
+ASCII MASTER FLOW — PANEL 9/12: E-waste actor chain
+MANUFACTURER OR IMPORTER -> product enters market
+PRODUCER -> EPR-side responsibility
+CONSUMER OR BULK CONSUMER -> channelisation duty
+REFURBISHER -> life extension where applicable
+RECYCLER -> authorised material recovery
+
+ASCII MASTER FLOW — PANEL 10/12: Formal-informal integration map
+INFORMAL COLLECTOR -> reach and livelihood
+UNSAFE DISMANTLING -> exposure and pollution risk
+AUTHORISED FACILITY -> controlled processing route
+INTEGRATION -> recognition, safety and traceability
+VERDICT -> formalise processing without erasing livelihoods
+
+ASCII MASTER FLOW — PANEL 11/12: Stock-flow and technology matrix
+CURRENT WASTE FLOW -> EPR and collection controls
+LEGACY DUMP OR SITE -> remediation problem
+RECYCLING -> material recovery route
+THERMAL OR CHEMICAL ROUTE -> feedstock and emission conditions
+NO UNIVERSAL WINNER -> compare complete mass and residue balance
+
+ASCII MASTER FLOW — PANEL 12/12: Waste-governance answer spine
+CLASSIFY -> stream, material and rule vintage
+ASSIGN -> generator, ULB, producer, importer and processor
+TRACE -> segregation, collection, processing and residue
+VERIFY -> obligation, certificate, throughput and recovery
+QUALIFY -> informal sector, legacy stock, technology and PYQ limits

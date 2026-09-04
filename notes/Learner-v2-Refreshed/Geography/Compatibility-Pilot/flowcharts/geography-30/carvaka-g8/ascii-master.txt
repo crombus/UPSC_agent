@@ -1,0 +1,108 @@
+Geography 30 — Primary Economic Activities: Agriculture — COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+START / CENTRAL QUESTION
+  Agriculture is a leading primary activity because it draws directly on land, water, climate, soil and labour.
+        |
+        v
++-- SESSION 01: WHAT AGRICULTURAL GEOGRAPHY STUDIES
+|   DEFINITION / TERMS : Agriculture is a leading primary activity because it draws directly on land, water, climate, soil and labour.
+|   MECHANISM / ARGUMENT: Agriculture is a leading primary activity because it draws directly on land, water, climate, soil and labour.
+|   CONSEQUENCE / CONTRAST: Rice appears in humid eastern and deltaic belts because water and level alluvial land favour it, but irrigated rice can also appear in drier north-western districts.
+|   TRAP / ANSWER-USE: Primary activity does not mean technologically primitive.
+|   EXAM OPENING: A good GS-I opening line is: Agricultural geography explains the spatial organisation of production through the interaction of ecological suitability and human choice.
++--
+        |
+        v
++-- SESSION 02: THE SIX CONTROLS OF AGRICULTURE
+|   DEFINITION / TERMS : For a location question, organise the answer under physical controls and human controls, then show their interaction.
+|   MECHANISM / ARGUMENT: Black soil supports cotton in parts of the Deccan because it retains moisture, but cotton also grows on alluvial soils where climate, irrigation and markets are favourable.
+|   CONSEQUENCE / CONTRAST: A fertile soil without suitable temperature, water, labour or access does not automatically become a productive farming belt.
+|   TRAP / ANSWER-USE: Irrigation reduces rainfall uncertainty; it does not remove heat, drainage or market limits.
+|   EXAM OPENING: For a location question, organise the answer under physical controls and human controls, then show their interaction.
++--
+        |
+        v
++-- SESSION 03: MAJOR AGRICULTURAL SYSTEMS
+|   DEFINITION / TERMS : A tea plantation is commercial and export-oriented, but it is a different system from a commercial grain farm.
+|   MECHANISM / ARGUMENT: Wet-rice cultivation may be highly intensive because much labour is applied to a small field, even when mechanisation is limited.
+|   CONSEQUENCE / CONTRAST: A tea plantation is commercial and export-oriented, but it is a different system from a commercial grain farm.
+|   TRAP / ANSWER-USE: Shifting cultivation and plantation agriculture are not synonyms.
+|   EXAM OPENING: A farming system tells us how land, labour, animals, capital and markets are combined.
++--
+        |
+        v
++-- SESSION 04: VON THUNEN — WHY DISTANCE STILL MATTERS
+|   DEFINITION / TERMS : Technically, Von Thunen — Why Distance Still Matters is analysed by relating Von Thunen to Why Distance Still Matters, then testing the relationship through core logic - modern modification - surviving application - limitation and Farmers.
+|   MECHANISM / ARGUMENT: Do not call the model obsolete merely because technology changes distance penalties.
+|   CONSEQUENCE / CONTRAST: They do not make freight, freshness, delivery frequency or access disappear.
+|   TRAP / ANSWER-USE: A cold chain can move the belt outward, but it adds cost and requires reliable logistics.
+|   EXAM OPENING: Von Thunen is a location model, not a climate classification.
++--
+        |
+        v
++-- SESSION 05: WORLD AGRICULTURAL REGIONS AND CROP REQUIREMENTS
+|   DEFINITION / TERMS : World regions become memorable when each is tied to one climate pattern, one production system and one market or labour feature.
+|   MECHANISM / ARGUMENT: World regions become memorable when each is tied to one climate pattern, one production system and one market or labour feature.
+|   CONSEQUENCE / CONTRAST: Crop requirements are broad guides, not rigid thresholds.
+|   TRAP / ANSWER-USE: A historical production belt is not automatically the current top-ranking belt.
+|   EXAM OPENING: A crop region is a bundle of suitability, not a single climatic number.
++--
+        |
+        v
++-- SESSION 06: FROM SUBSISTENCE TO COMMERCIALISATION
+|   DEFINITION / TERMS : Explain commercialisation as a sequence of linked capabilities, not as a simple shift from “traditional” to “modern.”.
+|   MECHANISM / ARGUMENT: Commercialisation is produced by water + technology + connectivity + institutions + demand.
+|   CONSEQUENCE / CONTRAST: Cold chain changes distance costs but can add capital, energy and bargaining risks.
+|   TRAP / ANSWER-USE: More inputs do not automatically mean more net income.
+|   EXAM OPENING: Explain commercialisation as a sequence of linked capabilities, not as a simple shift from “traditional” to “modern.”.
++--
+        |
+        v
++-- SESSION 07: NON-FARM PRIMARY ACTIVITIES — THE PHYSIOGRAPHY PRINCIPLE
+|   DEFINITION / TERMS : Physiography creates the map of possibility; transport, technology, rights and regulation decide how much of that possibility is used.
+|   MECHANISM / ARGUMENT: Their location is tightly constrained because the resource cannot be shifted to any chosen place.
+|   CONSEQUENCE / CONTRAST: Do not list activities without the physiographic mechanism.
+|   TRAP / ANSWER-USE: Resource occurrence is not the same as realised production.
+|   EXAM OPENING: Physiography sets where the resource can exist; human systems decide whether and how it is used.
++--
+        |
+        v
++-- SESSION 08: FISHING
+|   DEFINITION / TERMS : Fishing geography depends on the width and depth of the continental shelf, nutrient supply, current mixing, upwelling, sheltered landing sites, estuaries and inland water bodies.
+|   MECHANISM / ARGUMENT: Fishing geography depends on the width and depth of the continental shelf, nutrient supply, current mixing, upwelling, sheltered landing sites, estuaries and inland water bodies.
+|   CONSEQUENCE / CONTRAST: Mangrove-estuarine margins are nursery habitats but can also face aquaculture pressure.
+|   TRAP / ANSWER-USE: The Gangetic and Brahmaputra floodplains and peninsular reservoirs also show why a major fish-producing area need not be coastal.
+|   EXAM OPENING: Coastal state does not automatically mean the same fishing potential.
++--
+        |
+        v
++-- SESSION 09: FORESTRY AND FOREST PRODUCE
+|   DEFINITION / TERMS : Forestry is controlled not only by the existence of trees but by species, slope, distance and access.
+|   MECHANISM / ARGUMENT: Non-timber forest produce—bamboo, tendu leaf, mahua, gums, resins, honey, lac and medicinal plants—is especially important in central Indian and north-eastern forest belts.
+|   CONSEQUENCE / CONTRAST: Forestry is controlled not only by the existence of trees but by species, slope, distance and access.
+|   TRAP / ANSWER-USE: Do not treat all Indian forests as commercial timber zones.
+|   EXAM OPENING: Forestry location is shaped by forest type, slope, accessibility and rights.
++--
+        |
+        v
++-- SESSION 10: MINING AND QUARRYING
+|   DEFINITION / TERMS : Technically, Mining And Quarrying is analysed by relating Mining to Quarrying, then testing the relationship through transport and institutions convert deposit into production and claim - named evidence - analysis - qualification - verdict.
+|   MECHANISM / ARGUMENT: It also spreads unevenly because water, level land, credit, inputs and purchase outlets are unevenly distributed.
+|   CONSEQUENCE / CONTRAST: Technology can overcome a constraint nationally while producing uneven regional gains and new ecological pressures.
+|   TRAP / ANSWER-USE: The Green Revolution is the clearest illustration: it strengthened national grain security but first favoured irrigated, well-connected regions.
+|   EXAM OPENING: Quarrying may be widespread, but riverbed mining and hill cutting can destabilise channels and slopes.
++--
+        |
+        v
++-- SESSION 11: CORE EXAM MAP
+|   DEFINITION / TERMS : Prelims: farming-system distinctions; crop-climate links; Von Thunen; primary-activity classification; official-data labels.
+|   MECHANISM / ARGUMENT: The operative mechanism is that prelims: farming-system distinctions; crop-climate links; Von Thunen; primary-activity classification; official-data labels.
+|   CONSEQUENCE / CONTRAST: The resulting consequence is that prelims: farming-system distinctions; crop-climate links; Von Thunen; primary-activity classification; official-data labels.
+|   TRAP / ANSWER-USE: Do not miss this limiting distinction: prelims: farming-system distinctions; crop-climate links; Von Thunen; primary-activity classification; official-data labels.
+|   EXAM OPENING: Prelims: farming-system distinctions; crop-climate links; Von Thunen; primary-activity classification; official-data labels.
++--
+        |
+        v
+ANSWER-WRITING SPINE
+definition -> exact terms -> mechanism/evidence -> consequence/contrast
+-> objection/trap -> qualified answer-use

@@ -1,0 +1,1148 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-20",
+  "subject": "Environment-and-Ecology",
+  "title": "INDIA CLIMATE POLICY NAPCC PANCHAMRIT LTLEDS",
+  "short_route": "INDIA CLIMATE-POLICY TIMELINE → ORIGINAL MISSION MAP → CENTRE-STATE IMPLEMENTATION RAIL → PANCHAMRIT FIVE-PART BOARD → TARGET-TYPE CLASSIFIER → PLEDGE-TO-NDC FIREWALL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-20\\environment-and-ecology-20_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-20-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "595138331367e24294b78b982be9b7a1c613d1977e587a9b1d4c22b3c1d25c18",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "INDIA CLIMATE-POLICY TIMELINE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "INDIA CLIMATE-POLICY TIMELINE",
+          "role": "primary"
+        },
+        {
+          "text": "2008 NAPCC",
+          "role": "outcome"
+        },
+        {
+          "text": "DOMESTIC MISSION-BASED FRAMEWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "PARIS NDC",
+          "role": "evidence"
+        },
+        {
+          "text": "INTERNATIONALLY COMMUNICATED CONTRIBUTION",
+          "role": "primary"
+        },
+        {
+          "text": "COP26 PANCHAMRIT",
+          "role": "outcome"
+        },
+        {
+          "text": "FIVE-PART POLITICAL ANNOUNCEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "2022 UPDATED NDC",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "2008 NAPCC → domestic mission-based framework",
+        "PARIS NDC → internationally communicated contribution",
+        "COP26 PANCHAMRIT → five-part political announcement",
+        "2022 UPDATED NDC → strengthened communicated 2030 terms",
+        "2022 LT-LEDS → long-horizon low-carbon development strategy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "2008 NAPCC → domestic mission-based framework",
+            "PARIS NDC → internationally communicated contribution"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COP26 PANCHAMRIT → five-part political announcement",
+            "2022 UPDATED NDC → strengthened communicated 2030 terms"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "2022 LT-LEDS → long-horizon low-carbon development strategy",
+            "2008 NAPCC → domestic mission-based framework"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "2022 UPDATED NDC → strengthened communicated 2030 terms.",
+      "source_references": [
+        "NAPCC identity",
+        "Panchamrit status",
+        "Updated NDC quantified terms",
+        "LT-LEDS identity"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ORIGINAL MISSION MAP",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ORIGINAL MISSION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "SOLAR AND ENHANCED ENERGY EFFICIENCY",
+          "role": "outcome"
+        },
+        {
+          "text": "WATER, HIMALAYA AND AGRICULTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "HABITAT, GREEN INDIA AND STRATEGIC KNOWLEDGE",
+          "role": "evidence"
+        },
+        {
+          "text": "DEVELOPMENT, RESILIENCE AND ENVIRONMENTAL QUALITY",
+          "role": "primary"
+        },
+        {
+          "text": "COUNT RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "EIGHT ORIGINAL MISSIONS IN THE 2008 ARCHITECTURE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "MITIGATION-HEAVY → solar and enhanced energy efficiency",
+        "ADAPTATION-HEAVY → water, Himalaya and agriculture",
+        "CROSS-CUTTING → habitat, Green India and strategic knowledge",
+        "CO-BENEFITS → development, resilience and environmental quality",
+        "COUNT RULE → eight original missions in the 2008 architecture"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "MITIGATION-HEAVY → solar and enhanced energy efficiency",
+            "ADAPTATION-HEAVY → water, Himalaya and agriculture"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CROSS-CUTTING → habitat, Green India and strategic knowledge",
+            "CO-BENEFITS → development, resilience and environmental quality"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "COUNT RULE → eight original missions in the 2008 architecture",
+            "MITIGATION-HEAVY → solar and enhanced energy efficiency"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COUNT RULE → eight original missions in the 2008 architecture.",
+      "source_references": [
+        "Original eight missions",
+        "Mitigation-adaptation portfolio"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CENTRE-STATE IMPLEMENTATION RAIL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CENTRE-STATE IMPLEMENTATION RAIL",
+          "role": "institution"
+        },
+        {
+          "text": "NAPCC MISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "NATIONAL DIRECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "MINISTRY OR AGENCY",
+          "role": "evidence"
+        },
+        {
+          "text": "PROGRAMME AND GUIDANCE",
+          "role": "primary"
+        },
+        {
+          "text": "STATE-CONTEXT TRANSLATION",
+          "role": "institution"
+        },
+        {
+          "text": "BUDGET AND EXECUTION",
+          "role": "comparison"
+        },
+        {
+          "text": "IMPLEMENTATION EVIDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NAPCC MISSION → national direction",
+        "MINISTRY OR AGENCY → programme and guidance",
+        "SAPCC → state-context translation",
+        "BUDGET AND EXECUTION → implementation evidence",
+        "MONITORING AND OUTCOME → separate verification stage"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "NAPCC MISSION → national direction",
+            "MINISTRY OR AGENCY → programme and guidance"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "SAPCC → state-context translation",
+            "BUDGET AND EXECUTION → implementation evidence"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "MONITORING AND OUTCOME → separate verification stage",
+            "NAPCC MISSION → national direction"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BUDGET AND EXECUTION → implementation evidence; MONITORING AND OUTCOME → separate verification stage.",
+      "source_references": [
+        "SAPCC boundary",
+        "Target-achievement distinction"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PANCHAMRIT FIVE-PART BOARD",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PANCHAMRIT FIVE-PART BOARD",
+          "role": "primary"
+        },
+        {
+          "text": "500 GW",
+          "role": "outcome"
+        },
+        {
+          "text": "NON-FOSSIL CAPACITY BY 2030",
+          "role": "comparison"
+        },
+        {
+          "text": "50 PERCENT",
+          "role": "evidence"
+        },
+        {
+          "text": "ENERGY REQUIREMENTS FROM RENEWABLES BY 2030",
+          "role": "primary"
+        },
+        {
+          "text": "ONE BILLION TONNES",
+          "role": "outcome"
+        },
+        {
+          "text": "PROJECTED CARBON-EMISSIONS REDUCTION BY 2030",
+          "role": "comparison"
+        },
+        {
+          "text": "45 PERCENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "500 GW → non-fossil capacity by 2030",
+        "50 PERCENT → energy requirements from renewables by 2030",
+        "ONE BILLION TONNES → projected carbon-emissions reduction by 2030",
+        "45 PERCENT → emissions-intensity reduction from 2005 by 2030",
+        "2070 → announced net-zero destination"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "500 GW → non-fossil capacity by 2030",
+          "ONE BILLION TONNES → projected carbon-emissions reduction by 2030",
+          "2070 → announced net-zero destination"
+        ],
+        [
+          "50 PERCENT → energy requirements from renewables by 2030",
+          "45 PERCENT → emissions-intensity reduction from 2005 by 2030",
+          "500 GW → non-fossil capacity by 2030"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "500 GW → non-fossil capacity by 2030",
+            "50 PERCENT → energy requirements from renewables by 2030"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ONE BILLION TONNES → projected carbon-emissions reduction by 2030",
+            "45 PERCENT → emissions-intensity reduction from 2005 by 2030"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "2070 → announced net-zero destination",
+            "500 GW → non-fossil capacity by 2030"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "45 PERCENT → emissions-intensity reduction from 2005 by 2030.",
+      "source_references": [
+        "Panchamrit status",
+        "Panchamrit five elements"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "TARGET-TYPE CLASSIFIER",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TARGET-TYPE CLASSIFIER",
+          "role": "primary"
+        },
+        {
+          "text": "INSTALLED POWER QUANTITY",
+          "role": "mechanism"
+        },
+        {
+          "text": "RENEWABLE FRACTION OF ENERGY REQUIREMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "PROJECTED REDUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "COUNTERFACTUAL-DEPENDENT EMISSIONS QUANTITY",
+          "role": "primary"
+        },
+        {
+          "text": "EMISSIONS PER UNIT OF GDP",
+          "role": "outcome"
+        },
+        {
+          "text": "NET ZERO",
+          "role": "comparison"
+        },
+        {
+          "text": "ECONOMY-WIDE NET BALANCE WITH DEFINED BOUNDARY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CAPACITY → installed power quantity",
+        "SHARE → renewable fraction of energy requirements",
+        "PROJECTED REDUCTION → counterfactual-dependent emissions quantity",
+        "INTENSITY → emissions per unit of GDP",
+        "NET ZERO → economy-wide net balance with defined boundary"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "CAPACITY → installed power quantity",
+          "PROJECTED REDUCTION → counterfactual-dependent emissions quantity",
+          "NET ZERO → economy-wide net balance with defined boundary"
+        ],
+        [
+          "SHARE → renewable fraction of energy requirements",
+          "INTENSITY → emissions per unit of GDP",
+          "CAPACITY → installed power quantity"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "CAPACITY → installed power quantity",
+            "SHARE → renewable fraction of energy requirements"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "PROJECTED REDUCTION → counterfactual-dependent emissions quantity",
+            "INTENSITY → emissions per unit of GDP"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "NET ZERO → economy-wide net balance with defined boundary",
+            "CAPACITY → installed power quantity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NET ZERO → economy-wide net balance with defined boundary.",
+      "source_references": [
+        "Panchamrit five elements",
+        "Intensity-absolute distinction",
+        "Gross-net distinction"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PLEDGE-TO-NDC FIREWALL",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PLEDGE-TO-NDC FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "COP26 SPEECH",
+          "role": "outcome"
+        },
+        {
+          "text": "ANNOUNCED PANCHAMRIT",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFICIAL NDC DOCUMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMUNICATED INTERNATIONAL CONTRIBUTION",
+          "role": "primary"
+        },
+        {
+          "text": "2022 QUANTIFIED TERMS",
+          "role": "outcome"
+        },
+        {
+          "text": "INTENSITY AND NON-FOSSIL CAPACITY",
+          "role": "comparison"
+        },
+        {
+          "text": "FOREST SINK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COP26 SPEECH → announced Panchamrit",
+        "OFFICIAL NDC DOCUMENT → communicated international contribution",
+        "2022 QUANTIFIED TERMS → intensity and non-fossil capacity",
+        "FOREST SINK → continuing NDC objective, not Panchamrit item six",
+        "RULE → no automatic one-to-one conversion of every phrase"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "COP26 SPEECH → announced Panchamrit",
+            "OFFICIAL NDC DOCUMENT → communicated international contribution"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "2022 QUANTIFIED TERMS → intensity and non-fossil capacity",
+            "FOREST SINK → continuing NDC objective, not Panchamrit item six"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → no automatic one-to-one conversion of every phrase",
+            "COP26 SPEECH → announced Panchamrit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → no automatic one-to-one conversion of every phrase.",
+      "source_references": [
+        "Updated NDC quantified terms",
+        "Forest-sink continuity",
+        "Panchamrit-NDC boundary"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "LT-LEDS PATHWAY MAP",
+      "structural_type": "layered-rail",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "LT-LEDS PATHWAY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "LOWER-CARBON SUPPLY AND SYSTEM TRANSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSPORT AND CITIES",
+          "role": "comparison"
+        },
+        {
+          "text": "INTEGRATED MOBILITY AND URBAN EFFICIENCY",
+          "role": "evidence"
+        },
+        {
+          "text": "LOWER-EMISSION GROWTH AND TECHNOLOGY PATHWAYS",
+          "role": "primary"
+        },
+        {
+          "text": "REMOVALS AND LAND",
+          "role": "outcome"
+        },
+        {
+          "text": "CARBON DIOXIDE REMOVAL AND VEGETATIVE COVER",
+          "role": "comparison"
+        },
+        {
+          "text": "FINANCE AND ECONOMY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ELECTRICITY → lower-carbon supply and system transition",
+        "TRANSPORT AND CITIES → integrated mobility and urban efficiency",
+        "INDUSTRY → lower-emission growth and technology pathways",
+        "REMOVALS AND LAND → carbon dioxide removal and vegetative cover",
+        "FINANCE AND ECONOMY → enabling transition conditions"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "ELECTRICITY → lower-carbon supply and system transition",
+            "TRANSPORT AND CITIES → integrated mobility and urban efficiency"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INDUSTRY → lower-emission growth and technology pathways",
+            "REMOVALS AND LAND → carbon dioxide removal and vegetative cover"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "FINANCE AND ECONOMY → enabling transition conditions",
+            "ELECTRICITY → lower-carbon supply and system transition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REMOVALS AND LAND → carbon dioxide removal and vegetative cover.",
+      "source_references": [
+        "LT-LEDS identity",
+        "LT-LEDS pathway families",
+        "Sector-interdependency"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "NET-ZERO STATUS LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NET-ZERO STATUS LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "ANNOUNCED YEAR",
+          "role": "outcome"
+        },
+        {
+          "text": "POLITICAL LONG-TERM DESTINATION",
+          "role": "comparison"
+        },
+        {
+          "text": "STRATEGIC PATHWAYS",
+          "role": "evidence"
+        },
+        {
+          "text": "SECTOR POLICY",
+          "role": "primary"
+        },
+        {
+          "text": "PROGRAMMES AND REGULATION",
+          "role": "outcome"
+        },
+        {
+          "text": "MEASURED TRAJECTORY",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE-DATED EMISSIONS AND REMOVALS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ANNOUNCED YEAR → political long-term destination",
+        "LT-LEDS → strategic pathways",
+        "SECTOR POLICY → programmes and regulation",
+        "MEASURED TRAJECTORY → source-dated emissions and removals",
+        "NET RESULT → defined economy-wide balance, not one milestone"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "ANNOUNCED YEAR → political long-term destination",
+            "LT-LEDS → strategic pathways"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SECTOR POLICY → programmes and regulation",
+            "MEASURED TRAJECTORY → source-dated emissions and removals"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "NET RESULT → defined economy-wide balance, not one milestone",
+            "ANNOUNCED YEAR → political long-term destination"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NET RESULT → defined economy-wide balance, not one milestone.",
+      "source_references": [
+        "Net-zero pathway boundary",
+        "Gross-net distinction"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CLIMATE-ACCOUNTING MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CLIMATE-ACCOUNTING MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "ABSOLUTE EMISSIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "TOTAL FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "EMISSIONS INTENSITY",
+          "role": "evidence"
+        },
+        {
+          "text": "FLOW PER UNIT OF GDP",
+          "role": "mechanism"
+        },
+        {
+          "text": "GROSS REMOVALS",
+          "role": "outcome"
+        },
+        {
+          "text": "SINK UPTAKE BEFORE NETTING",
+          "role": "comparison"
+        },
+        {
+          "text": "NET EMISSIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ABSOLUTE EMISSIONS → total flow",
+        "EMISSIONS INTENSITY → flow per unit of GDP",
+        "GROSS REMOVALS → sink uptake before netting",
+        "NET EMISSIONS → emissions minus removals within boundary",
+        "BASELINE AND YEAR → mandatory for comparison"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "ABSOLUTE EMISSIONS → total flow",
+          "GROSS REMOVALS → sink uptake before netting",
+          "BASELINE AND YEAR → mandatory for comparison"
+        ],
+        [
+          "EMISSIONS INTENSITY → flow per unit of GDP",
+          "NET EMISSIONS → emissions minus removals within boundary",
+          "ABSOLUTE EMISSIONS → total flow"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "ABSOLUTE EMISSIONS → total flow",
+            "EMISSIONS INTENSITY → flow per unit of GDP"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "GROSS REMOVALS → sink uptake before netting",
+            "NET EMISSIONS → emissions minus removals within boundary"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "BASELINE AND YEAR → mandatory for comparison",
+            "ABSOLUTE EMISSIONS → total flow"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NET EMISSIONS → emissions minus removals within boundary.",
+      "source_references": [
+        "Intensity-absolute distinction",
+        "Gross-net distinction"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ENERGY-DENOMINATOR FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ENERGY-DENOMINATOR FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "INSTALLED CAPACITY",
+          "role": "outcome"
+        },
+        {
+          "text": "RATED POWER-SYSTEM CAPACITY",
+          "role": "mechanism"
+        },
+        {
+          "text": "ELECTRICITY GENERATION",
+          "role": "evidence"
+        },
+        {
+          "text": "ENERGY ACTUALLY PRODUCED",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE CLASSIFICATION BROADER THAN RENEWABLES",
+          "role": "evidence"
+        },
+        {
+          "text": "TOTAL ENERGY REQUIREMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "WIDER DENOMINATOR THAN ELECTRICITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INSTALLED CAPACITY → rated power-system capacity",
+        "ELECTRICITY GENERATION → energy actually produced",
+        "NON-FOSSIL → source classification broader than renewables",
+        "TOTAL ENERGY REQUIREMENTS → wider denominator than electricity",
+        "NO RELABELLING → each metric needs its own source and date"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "INSTALLED CAPACITY → rated power-system capacity",
+          "NON-FOSSIL → source classification broader than renewables",
+          "NO RELABELLING → each metric needs its own source and date"
+        ],
+        [
+          "ELECTRICITY GENERATION → energy actually produced",
+          "TOTAL ENERGY REQUIREMENTS → wider denominator than electricity",
+          "INSTALLED CAPACITY → rated power-system capacity"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "INSTALLED CAPACITY → rated power-system capacity",
+            "ELECTRICITY GENERATION → energy actually produced"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "NON-FOSSIL → source classification broader than renewables",
+            "TOTAL ENERGY REQUIREMENTS → wider denominator than electricity"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "NO RELABELLING → each metric needs its own source and date",
+            "INSTALLED CAPACITY → rated power-system capacity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO RELABELLING → each metric needs its own source and date.",
+      "source_references": [
+        "Capacity-generation-energy distinction",
+        "Target-achievement distinction"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "REPORTING-INSTRUMENT MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REPORTING-INSTRUMENT MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "FORWARD NATIONALLY DETERMINED CONTRIBUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "LONG-TERM STRATEGIC PATHWAY",
+          "role": "comparison"
+        },
+        {
+          "text": "BACKWARD-LOOKING INVENTORY AND PROGRESS REPORTING",
+          "role": "evidence"
+        },
+        {
+          "text": "INTENDED RESULT",
+          "role": "primary"
+        },
+        {
+          "text": "VERIFIED RESULT ON THE SAME METRIC",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "NDC → forward nationally determined contribution",
+        "LT-LEDS → long-term strategic pathway",
+        "BUR → backward-looking inventory and progress reporting",
+        "TARGET → intended result",
+        "ACHIEVEMENT → verified result on the same metric"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "NDC → forward nationally determined contribution",
+          "BUR → backward-looking inventory and progress reporting",
+          "ACHIEVEMENT → verified result on the same metric"
+        ],
+        [
+          "LT-LEDS → long-term strategic pathway",
+          "TARGET → intended result",
+          "NDC → forward nationally determined contribution"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "NDC → forward nationally determined contribution",
+            "LT-LEDS → long-term strategic pathway"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "BUR → backward-looking inventory and progress reporting",
+            "TARGET → intended result"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "ACHIEVEMENT → verified result on the same metric",
+            "NDC → forward nationally determined contribution"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ACHIEVEMENT → verified result on the same metric.",
+      "source_references": [
+        "Target-achievement distinction",
+        "BUR-NDC-LTLEDS distinction"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "INDIA CLIMATE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "INDIA CLIMATE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "NAPCC, SAPCC, PANCHAMRIT, NDC AND LT-LEDS",
+          "role": "outcome"
+        },
+        {
+          "text": "MITIGATION, ADAPTATION AND TARGET TYPE",
+          "role": "comparison"
+        },
+        {
+          "text": "PLEDGE, COMMUNICATION, STRATEGY AND REPORT",
+          "role": "evidence"
+        },
+        {
+          "text": "BASELINE, DENOMINATOR, GROSS, NET AND AS-ON DATE",
+          "role": "primary"
+        },
+        {
+          "text": "EQUITY, CO-BENEFITS, INTERDEPENDENCY AND DELIVERY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "MAP → NAPCC, SAPCC, Panchamrit, NDC and LT-LEDS",
+        "CLASSIFY → mitigation, adaptation and target type",
+        "DISTINGUISH → pledge, communication, strategy and report",
+        "MEASURE → baseline, denominator, gross, net and as-on date",
+        "EVALUATE → equity, co-benefits, interdependency and delivery"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "MAP → NAPCC, SAPCC, Panchamrit, NDC and LT-LEDS",
+            "CLASSIFY → mitigation, adaptation and target type"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DISTINGUISH → pledge, communication, strategy and report",
+            "MEASURE → baseline, denominator, gross, net and as-on date"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "EVALUATE → equity, co-benefits, interdependency and delivery",
+            "MAP → NAPCC, SAPCC, Panchamrit, NDC and LT-LEDS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MEASURE → baseline, denominator, gross, net and as-on date.",
+      "source_references": [
+        "Co-benefits and equity",
+        "Sector-interdependency",
+        "Current-status evidence boundary"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "IMPLEMENTING THE LT-LEDS/PANCHAMRIT ARCHITECTURE REQUIRES COORDINATION ACROSS MULTIPLE",
+          "role": "outcome"
+        },
+        {
+          "text": "FINANCING GAP",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA'S OWN ASSESSMENTS (AND INDEPENDENT ANALYSES) SUGGEST THE",
+          "role": "evidence"
+        },
+        {
+          "text": "PROGRESS-TRACKING FIGURES TOWARD THE 500 GW NON-FOSSIL-CAPACITY TARGET (INSTALLED",
+          "role": "primary"
+        },
+        {
+          "text": "LT-LEDS SECTORAL PATHWAYS DESCRIBE STRATEGIC DIRECTION AND ILLUSTRATIVE SCENARIOS",
+          "role": "outcome"
+        },
+        {
+          "text": "ESTIMATES OF THE TOTAL INVESTMENT REQUIRED TO MEET INDIA'S",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA'S LT-LEDS STRUCTURES ITS NET-ZERO-BY-2070 PATHWAY AROUND SPECIFIC SECTORS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL ECOLOGICAL PROCESS DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Implementing the LT-LEDS/Panchamrit architecture requires coordination across multiple",
+            "CAUTION: Financing gap: India's own assessments (and independent analyses) suggest the",
+            "CAUTION: Progress-tracking figures toward the 500 GW non-fossil-capacity target (installed",
+            "CAUTION: LT-LEDS sectoral pathways describe strategic direction and illustrative scenarios"
+          ]
+        },
+        {
+          "heading": "SCALE, PARAMETER OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Estimates of the total investment required to meet India's climate targets vary",
+            "India's LT-LEDS structures its net-zero-by-2070 pathway around specific sectors: power,",
+            "The Panchamrit pledges include distinct target types — absolute capacity (500 GW),",
+            "India's emissions-intensity-reduction approach allows continued economic growth while"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE RESTORATION NUANCE",
+          "role": "comparison",
+          "items": [
+            "India's climate-ambition framing is explicitly conditioned on adequate international",
+            "NOT: All five Panchamrit pledges are the same type of target (e.g., all absolute emission",
+            "NOT: India's 45% carbon-intensity-reduction target means a 45% reduction in absolute national",
+            "NOT: The LT-LEDS is a legally binding document with enforceable sub-targets and penalties."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

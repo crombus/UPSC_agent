@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "topic_key": "geography-30-primary-economic-activities-agriculture",
+  "generation": 7,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Compatibility-Pilot\\learning-sessions\\geography-30\\g7\\geography-30_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    10810
+  ],
+  "stages": [
+    {
+      "title": "WHAT AGRICULTURAL GEOGRAPHY STUDIES",
+      "terms": "Agriculture is a leading primary activity because it draws directly on land, water, climate, soil and labour.",
+      "mechanism": "Agriculture is a leading primary activity because it draws directly on land, water, climate, soil and labour.",
+      "consequence": "Rice appears in humid eastern and deltaic belts because water and level alluvial land favour it, but irrigated rice can also appear in drier north-western districts.",
+      "trap": "Primary activity does not mean technologically primitive.",
+      "answer": "A good GS-I opening line is: Agricultural geography explains the spatial organisation of production through the interaction of ecological suitability and human choice."
+    },
+    {
+      "title": "THE SIX CONTROLS OF AGRICULTURE",
+      "terms": "Black soil supports cotton in parts of the Deccan because it retains moisture, but cotton also grows on alluvial soils where climate, irrigation and markets are favourable.",
+      "mechanism": "Black soil supports cotton in parts of the Deccan because it retains moisture, but cotton also grows on alluvial soils where climate, irrigation and markets are favourable.",
+      "consequence": "A fertile soil without suitable temperature, water, labour or access does not automatically become a productive farming belt.",
+      "trap": "Irrigation reduces rainfall uncertainty; it does not remove heat, drainage or market limits.",
+      "answer": "For a location question, organise the answer under physical controls and human controls, then show their interaction."
+    },
+    {
+      "title": "MAJOR AGRICULTURAL SYSTEMS",
+      "terms": "A farming system tells us how land, labour, animals, capital and markets are combined.",
+      "mechanism": "Wet-rice cultivation may be highly intensive because much labour is applied to a small field, even when mechanisation is limited.",
+      "consequence": "A tea plantation is commercial and export-oriented, but it is a different system from a commercial grain farm.",
+      "trap": "Shifting cultivation and plantation agriculture are not synonyms.",
+      "answer": "Commercial orientation asks how strongly production is aimed at the market."
+    },
+    {
+      "title": "VON THUNEN — WHY DISTANCE STILL MATTERS",
+      "terms": "Do not call the model obsolete merely because technology changes distance penalties.",
+      "mechanism": "Do not call the model obsolete merely because technology changes distance penalties.",
+      "consequence": "They do not make freight, freshness, delivery frequency or access disappear.",
+      "trap": "A cold chain can move the belt outward, but it adds cost and requires reliable logistics.",
+      "answer": "Von Thunen is a location model, not a climate classification."
+    },
+    {
+      "title": "WORLD AGRICULTURAL REGIONS AND CROP REQUIREMENTS",
+      "terms": "A crop region is a bundle of suitability, not a single climatic number.",
+      "mechanism": "A crop region is a bundle of suitability, not a single climatic number.",
+      "consequence": "Crop requirements are broad guides, not rigid thresholds.",
+      "trap": "A historical production belt is not automatically the current top-ranking belt.",
+      "answer": "World regions become memorable when each is tied to one climate pattern, one production system and one market or labour feature."
+    },
+    {
+      "title": "FROM SUBSISTENCE TO COMMERCIALISATION",
+      "terms": "A vegetable-growing district can commercialise only when production is matched by roads, grading, aggregation, storage and buyers.",
+      "mechanism": "Commercialisation is produced by water + technology + connectivity + institutions + demand.",
+      "consequence": "Cold chain changes distance costs but can add capital, energy and bargaining risks.",
+      "trap": "More inputs do not automatically mean more net income.",
+      "answer": "Explain commercialisation as a sequence of linked capabilities, not as a simple shift from “traditional” to “modern.”."
+    },
+    {
+      "title": "READING AGRICULTURE CURRENT AFFAIRS WITHOUT DATA MISTAKES",
+      "terms": "Use dated evidence as a labelled example: “PIB, 28 May 2025, records Kharif MSP approval; this is a policy announcement, not procurement coverage.”.",
+      "mechanism": "A national Kharif MSP announcement affects expectations across crop belts, but actual purchase still depends on crop, state, mandi access and procurement arrangements.",
+      "consequence": "Use dated evidence as a labelled example: “PIB, 28 May 2025, records Kharif MSP approval; this is a policy announcement, not procurement coverage.”.",
+      "trap": "It is not evidence of final output or universal procurement.",
+      "answer": "The Basic owner's current anchor is PIB, 28 May 2025, on approval of MSP for Kharif crops for 2025-26."
+    },
+    {
+      "title": "NON-FARM PRIMARY ACTIVITIES — THE PHYSIOGRAPHY PRINCIPLE",
+      "terms": "Their location is tightly constrained because the resource cannot be shifted to any chosen place.",
+      "mechanism": "Their location is tightly constrained because the resource cannot be shifted to any chosen place.",
+      "consequence": "Do not list activities without the physiographic mechanism.",
+      "trap": "Resource occurrence is not the same as realised production.",
+      "answer": "Physiography sets where the resource can exist; human systems decide whether and how it is used."
+    },
+    {
+      "title": "FISHING",
+      "terms": "Physiography explains potential, not landings by itself.",
+      "mechanism": "Fishing geography depends on the width and depth of the continental shelf, nutrient supply, current mixing, upwelling, sheltered landing sites, estuaries and inland water bodies.",
+      "consequence": "Mangrove-estuarine margins are nursery habitats but can also face aquaculture pressure.",
+      "trap": "The Gangetic and Brahmaputra floodplains and peninsular reservoirs also show why a major fish-producing area need not be coastal.",
+      "answer": "Coastal state does not automatically mean the same fishing potential."
+    },
+    {
+      "title": "FORESTRY AND FOREST PRODUCE",
+      "terms": "Forestry is controlled not only by the existence of trees but by species, slope, distance and access.",
+      "mechanism": "Forestry is controlled not only by the existence of trees but by species, slope, distance and access.",
+      "consequence": "Do not treat all Indian forests as commercial timber zones.",
+      "trap": "Non-timber forest produce—bamboo, tendu leaf, mahua, gums, resins, honey, lac and medicinal plants—is especially important in central Indian and north-eastern forest belts.",
+      "answer": "Forestry location is shaped by forest type, slope, accessibility and rights."
+    },
+    {
+      "title": "MINING AND QUARRYING",
+      "terms": "Quarrying may be widespread, but riverbed mining and hill cutting can destabilise channels and slopes.",
+      "mechanism": "The coincidence of mineral belts with peninsular plateaus shows the geological control.",
+      "consequence": "Mineral richness does not guarantee local prosperity.",
+      "trap": "Deposit quality alone does not decide viability.",
+      "answer": "Quarrying may be widespread, but riverbed mining and hill cutting can destabilise channels and slopes."
+    },
+    {
+      "title": "CORE EXAM MAP",
+      "terms": "Prelims: farming-system distinctions; crop-climate links; Von Thunen; primary-activity classification; official-data labels.",
+      "mechanism": "Prelims: farming-system distinctions; crop-climate links; Von Thunen; primary-activity classification; official-data labels.",
+      "consequence": "Prelims: farming-system distinctions; crop-climate links; Von Thunen; primary-activity classification; official-data labels.",
+      "trap": "Prelims: farming-system distinctions; crop-climate links; Von Thunen; primary-activity classification; official-data labels.",
+      "answer": "Prelims: farming-system distinctions; crop-climate links; Von Thunen; primary-activity classification; official-data labels."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 3,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7760,
+      "y_end": 9960,
+      "overlap_px": 260,
+      "from_stage": 9,
+      "continues_stage": 12
+    },
+    {
+      "page": 6,
+      "y_start": 8610,
+      "y_end": 10810,
+      "overlap_px": 260,
+      "from_stage": 10,
+      "continues_stage": 12
+    }
+  ]
+}

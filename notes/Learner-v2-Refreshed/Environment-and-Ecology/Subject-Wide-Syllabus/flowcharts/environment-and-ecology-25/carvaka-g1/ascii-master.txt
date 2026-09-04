@@ -1,0 +1,83 @@
+ASCII MASTER FLOW — PANEL 1/12: Power metric firewall
+INSTALLED CAPACITY -> nameplate power capability
+GENERATION -> electrical energy produced over time
+CAPACITY SHARE -> portfolio capability, not output share
+RELIABLE SUPPLY -> timing, flexibility and network matter
+RULE -> never convert megawatts into generation without evidence
+
+ASCII MASTER FLOW — PANEL 2/12: Energy category map
+RENEWABLE -> solar wind hydro biomass geothermal
+NON-FOSSIL -> renewable sources plus other non-fossil sources
+ELECTRICITY -> generated energy output
+HYDROGEN -> manufactured energy carrier
+RULE -> source, output and carrier are different categories
+
+ASCII MASTER FLOW — PANEL 3/12: Grid integration rail
+VARIABLE GENERATION -> forecast resource-dependent output
+TRANSMISSION -> move power from resource to demand
+FLEXIBLE DEMAND AND BALANCING -> match system conditions
+STORAGE -> shift energy and provide selected services
+DELIVERY -> reliability is a system outcome
+
+ASCII MASTER FLOW — PANEL 4/12: Project status ladder
+TARGET OR ANNOUNCEMENT -> intended future scale
+ALLOCATION OR AWARD -> contractual or policy commitment
+CONSTRUCTION -> physical implementation stage
+COMMISSIONING -> asset enters service
+GENERATION OR PRODUCTION -> measured operating output
+
+ASCII MASTER FLOW — PANEL 5/12: Electrolysis pathway
+ELECTRICITY SOURCE -> attribute must be evidenced
+WATER AND TREATMENT -> project-specific input context
+ELECTROLYSER -> water split into hydrogen and oxygen
+HYDROGEN OUTPUT -> chemical product
+GREEN CLAIM -> standard and certification layer still required
+
+ASCII MASTER FLOW — PANEL 6/12: Hydrogen claim stack
+PRODUCTION PATHWAY -> how hydrogen is made
+LIFECYCLE BOUNDARY -> included emissions stages
+OFFICIAL STANDARD -> qualifying conditions
+CERTIFICATION -> documented conformity
+MARKET LABEL -> cannot replace the layers below
+
+ASCII MASTER FLOW — PANEL 7/12: Use-case decision tree
+CAN CLEAN ELECTRICITY BE USED DIRECTLY -> prefer direct route
+MOLECULE OR HIGH HEAT NEEDED -> test hydrogen fit
+SECTOR AND DUTY CYCLE -> identify technical constraint
+CONVERSION LOSS AND INFRASTRUCTURE -> disclose trade-off
+VERDICT -> hydrogen is selective, not universal
+
+ASCII MASTER FLOW — PANEL 8/12: Derivative conversion map
+HYDROGEN -> base energy carrier and feedstock
+AMMONIA -> nitrogen-based derivative
+METHANOL OR SYNTHETIC FUEL -> carbon-containing derivative
+CONVERSION AND DELIVERY -> extra energy and infrastructure
+RULE -> product targets and outputs remain separate
+
+ASCII MASTER FLOW — PANEL 9/12: Water and site screen
+SOURCE -> freshwater treated water or other verified supply
+QUALITY -> pretreatment requirement
+LOCATION -> basin and local scarcity context
+COMPETING DEMAND -> ecological and social claims
+VERDICT -> project evidence, not a universal water number
+
+ASCII MASTER FLOW — PANEL 10/12: Hydrogen logistics chain
+PRODUCTION -> hydrogen leaves electrolyser
+CONDITIONING -> compression liquefaction or conversion
+STORAGE AND TRANSPORT -> vessel pipeline tanker or port
+END USE -> equipment and safety compatibility
+OUTCOME -> delivered service differs from production capacity
+
+ASCII MASTER FLOW — PANEL 11/12: Mission and SIGHT map
+MISSION TARGET -> intended future production scale
+SIGHT MANUFACTURING -> electrolyser capability support
+SIGHT PRODUCTION -> hydrogen output support
+COMMISSIONED OUTPUT -> later measured evidence
+CLIMATE OUTCOME -> separate lifecycle result
+
+ASCII MASTER FLOW — PANEL 12/12: Energy-transition answer spine
+DEFINE -> capacity generation reliability source and carrier
+TRACE -> grid integration electrolysis certification and delivery
+SCREEN -> direct electrification before selective hydrogen use
+SEPARATE -> target award commission output and outcome
+VERIFY -> dated MNRE power-system and standards evidence

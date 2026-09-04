@@ -1,0 +1,83 @@
+ASCII MASTER FLOW — PANEL 1/12: Carbon-unit identity fork
+ALLOWANCE -> permission unit inside a compliance constraint
+CREDIT -> verified outcome against an approved baseline
+ORIGIN -> allocation or auction versus methodology and issuance
+USE -> surrender or retirement under the applicable rule
+TRAP -> tradability does not erase different unit origins
+
+ASCII MASTER FLOW — PANEL 2/12: Market architecture matrix
+CAP AND TRADE -> absolute covered-emissions ceiling
+BASELINE AND CREDIT -> performance against target or baseline
+COMPLIANCE -> legal obligation and surrender requirement
+VOLUNTARY -> non-mandated purchase or claim
+QUESTION -> what constrains emissions and who must act
+
+ASCII MASTER FLOW — PANEL 3/12: Claim-type ladder
+AVOIDANCE -> counterfactual source does not arise
+REDUCTION -> existing source emits less
+REMOVAL -> carbon leaves ambient atmosphere
+STORAGE -> duration and reversal risk determine durability
+NO MERGER -> each supports a different climate claim
+
+ASCII MASTER FLOW — PANEL 4/12: Integrity gate
+BASELINE -> define the counterfactual
+ADDITIONALITY -> test business-as-usual risk
+MRV -> quantify boundary period and outcome
+VERIFICATION -> independent evidence check
+ISSUANCE -> unit created only after rule-defined gates
+
+ASCII MASTER FLOW — PANEL 5/12: Credit lifecycle rail
+DESIGN OR VALIDATION -> method and project accepted
+MONITORING -> activity and outcome recorded
+VERIFICATION -> evidence examined
+ISSUANCE AND TRANSFER -> tradable unit enters registry
+RETIREMENT -> unit removed from circulation for a claim
+
+ASCII MASTER FLOW — PANEL 6/12: Accounting-risk firewall
+DOUBLE ISSUANCE -> more than one unit for one outcome
+DOUBLE USE -> one unit used more than once
+DOUBLE CLAIMING -> same outcome claimed by multiple actors
+CORRESPONDING ADJUSTMENT -> international accounting treatment
+RULE -> adjustment is not issuance transfer or retirement
+
+ASCII MASTER FLOW — PANEL 7/12: India CCTS stage ladder
+LEGAL BASIS -> enabling framework
+SCHEME DESIGN -> compliance and offset pathways
+TARGET OR METHODOLOGY -> obligation and credit rules
+ISSUANCE AND TRADING -> operational transactions
+PRICE AND VOLUME -> dated market evidence only
+
+ASCII MASTER FLOW — PANEL 8/12: CCUS chain
+SOURCE -> concentrated carbon dioxide stream
+CAPTURE AND CONDITIONING -> separation and preparation
+TRANSPORT -> pipeline ship road or other route
+UTILISATION OR STORAGE -> destination determines durability
+MONITORING AND CLOSURE -> permanence and responsibility
+
+ASCII MASTER FLOW — PANEL 9/12: Utilisation-storage test
+PRODUCT USE -> how long is carbon retained
+PROCESS USE -> does later release occur
+GEOLOGICAL STORAGE -> containment and monitoring
+LEAKAGE -> reversal risk and remediation
+NET BENEFIT -> full lifecycle accounting required
+
+ASCII MASTER FLOW — PANEL 10/12: Capture technology comparison
+POINT SOURCE CCUS -> carbon intercepted before release
+DAC -> carbon separated from ambient air
+BECCS -> biogenic carbon plus capture and storage
+REMOVAL TEST -> atmospheric origin plus durable storage
+LIFECYCLE TEST -> energy land transport and reversal
+
+ASCII MASTER FLOW — PANEL 11/12: Net-zero mitigation hierarchy
+AVOID -> prevent unnecessary emissions
+REDUCE -> decarbonise existing activities
+CAPTURE -> address hard-to-abate point sources
+REMOVE -> counterbalance genuinely residual emissions
+VERIFY -> net balance needs one boundary and period
+
+ASCII MASTER FLOW — PANEL 12/12: Carbon instruments answer spine
+CLASSIFY -> unit market and claim type
+TRACE -> baseline MRV issuance transfer retirement
+FOLLOW -> capture transport utilisation or storage
+TEST -> permanence leakage lifecycle and double counting
+AUDIT -> current rule price volume cost and capacity source

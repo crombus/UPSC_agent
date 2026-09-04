@@ -1,0 +1,83 @@
+ASCII MASTER FLOW — PANEL 1/12: Legal-vintage timeline
+1972 ACT -> original wildlife-protection framework
+PRE-2022 -> six schedules
+2022 AMENDMENT -> restructuring
+POST-2022 -> four schedules
+RULE -> answer the law applicable to the question's time point
+
+ASCII MASTER FLOW — PANEL 2/12: Post-2022 schedule map
+SCHEDULE I -> animals, greatest degree of protection
+SCHEDULE II -> animals, lesser degree than Schedule I
+SCHEDULE III -> specified plants
+SCHEDULE IV -> CITES scheduled specimens and trade control
+RULE -> Schedule IV is not another protection rung
+
+ASCII MASTER FLOW — PANEL 3/12: Species-placement gate
+NAME A SPECIES -> identify legal date
+CHECK -> current consolidated schedule or notification
+IUCN STATUS -> separate scientific field
+CITES APPENDIX -> separate trade field
+NO MEMORY SHORTCUT -> placement can change
+
+ASCII MASTER FLOW — PANEL 4/12: Vermin time-point map
+OLD STRUCTURE -> Schedule V vermin list
+2022 CHANGE -> old Schedule V omitted
+CURRENT OWNER ROUTE -> central notification
+LIMITS -> specified area and period; Schedule I excluded
+PYQ RULE -> use the law in force when the question is framed
+
+ASCII MASTER FLOW — PANEL 5/12: Prohibition and exception gate
+BASELINE -> hunting prohibited
+CLAIMED EXCEPTION -> identify statutory purpose or condition
+AUTHORITY -> Chief Wildlife Warden or other authorised officer
+FORM -> applicable written permission or permit
+RULE -> exception never becomes general permission
+
+ASCII MASTER FLOW — PANEL 6/12: Narrow animal-action route
+DANGEROUS TO HUMAN LIFE -> test statutory condition
+DISABLED OR DISEASED BEYOND RECOVERY -> test evidence
+SCHEDULE -> determines applicable authority route
+WRITTEN PERMISSION -> retain in the answer
+NO EXTENSION -> do not invent a population-control exception
+
+ASCII MASTER FLOW — PANEL 7/12: CITES authority split
+MANAGEMENT AUTHORITY -> permits and certificates
+SCIENTIFIC AUTHORITY -> conservation advice on trade
+CHAPTER VB -> domestic international-trade machinery
+SCHEDULE IV -> scheduled specimens
+RULE -> advice, permission and species listing are separate functions
+
+ASCII MASTER FLOW — PANEL 8/12: CITES incorporation firewall
+CITES COP OR APPENDIX -> international decision
+INDIAN LEGAL PROCESS -> applicable domestic update
+SCHEDULE IV -> domestic scheduled-specimen status
+PERMIT SYSTEM -> Management Authority action
+NO AUTOMATICITY -> international change is not instant domestic text
+
+ASCII MASTER FLOW — PANEL 9/12: Invasive alien species power
+IDENTIFY -> species claimed to be invasive
+VERIFY -> applicable legal notification or order
+CENTRAL POWER -> regulate or prohibit listed activities
+IMPLEMENT -> trade, possession and proliferation controls as applicable
+CAUTION -> no species list is inferred from the enabling power
+
+ASCII MASTER FLOW — PANEL 10/12: WCCB statutory map
+SECTION 38Y -> constitution of WCCB on MoEFCC page
+SECTION 38Z -> functions on MoEFCC page
+INTELLIGENCE -> collection, collation and dissemination
+COORDINATION -> enforcement and international cooperation
+LIMIT -> WCCB does not replace every statutory decision-maker
+
+ASCII MASTER FLOW — PANEL 11/12: Domestic authority matrix
+CHIEF WILDLIFE WARDEN -> state authorisation and enforcement route
+WCCB -> organised wildlife-crime intelligence and coordination
+NBWL -> protected-area governance role
+NTCA -> tiger-specific statutory role
+CITES AUTHORITIES -> international scheduled-specimen trade
+
+ASCII MASTER FLOW — PANEL 12/12: PYQ and answer spine
+DATE -> pre-2022 or post-2022 structure
+CLASSIFY -> Schedule I, II, III or IV function
+TRACE -> prohibition, exception, authority and permit
+SEPARATE -> IUCN risk, domestic schedule and CITES trade
+QUALIFY -> verify current placement, penalty and objective key

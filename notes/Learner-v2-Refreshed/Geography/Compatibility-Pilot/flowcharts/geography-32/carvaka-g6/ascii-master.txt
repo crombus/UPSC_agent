@@ -1,0 +1,99 @@
+Geography 32 - Industries and Industrial Regions - Learner-First V2 — COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+START / CENTRAL QUESTION
+  Learning road map: ask the location question in the right order: Industrial geography is not a plant-list chapter.
+        |
+        v
++-- SESSION 01: LEARNING ROAD MAP: ASK THE LOCATION QUESTION IN THE RIGHT ORDER
+|   DEFINITION / TERMS : Learning road map: ask the location question in the right order: Industrial geography is not a plant-list chapter.
+|   MECHANISM / ARGUMENT: Trap: A named factory is evidence only when it proves a mechanism.
+|   CONSEQUENCE / CONTRAST: Industrial geography is not a plant-list chapter.
+|   TRAP / ANSWER-USE: Industrial geography is not a plant-list chapter.
+|   EXAM OPENING: !Road map from definitions to location, regions and answers
++--
+        |
+        v
++-- SESSION 02: TERMINOLOGY FIREWALL: INDUSTRY, MANUFACTURING, FACTORY AND INDUSTRIAL REGION
+|   DEFINITION / TERMS : Industry is the broad set of activities and organisations that transform inputs into useful goods.
+|   MECHANISM / ARGUMENT: A corridor links nodes through freight, utilities and urban systems.
+|   CONSEQUENCE / CONTRAST: Industry is the broad set of activities and organisations that transform inputs into useful goods.
+|   TRAP / ANSWER-USE: Visual first: activity, establishment and region are different units and should not be mixed.
+|   EXAM OPENING: !Terminology and classification firewall
++--
+        |
+        v
++-- SESSION 03: MAIN LOCATION FACTORS: BUILD A RANKED FACTOR SYSTEM
+|   DEFINITION / TERMS : Main location factors: build a ranked factor system: Ask which input is bulky, perishable, energy-intensive or skill-intensive.
+|   MECHANISM / ARGUMENT: Sugar mills are pulled toward cane because cane is bulky and loses recoverable quality with delay.
+|   CONSEQUENCE / CONTRAST: Visual first: location results from interacting material, energy, labour, market, transport, water, capital and technology pulls.
+|   TRAP / ANSWER-USE: Rank the factors; do not merely list them.
+|   EXAM OPENING: Visual first: location results from interacting material, energy, labour, market, transport, water, capital and technology pulls.
++--
+        |
+        v
++-- SESSION 04: WEBER'S LEAST-COST THEORY: LEARN IT IN SIX STEPS
+|   DEFINITION / TERMS : Weber's least-cost theory: learn it in six steps: The first task is to find the site with the lowest total cost of moving inputs in and output out.
+|   MECHANISM / ARGUMENT: The model gives a disciplined starting mechanism.
+|   CONSEQUENCE / CONTRAST: Alfred Weber's 1909 model asks: where can a factory minimise the combined burden of transport cost, labour cost and agglomeration/deglomeration effects?
+|   TRAP / ANSWER-USE: It is the starting point, not an automatic final answer.
+|   EXAM OPENING: !Weber material index, transport minimum and isodapane
++--
+        |
+        v
++-- SESSION 05: TYPES OF INDUSTRIAL ORIENTATION: COMPARE STAGES, NOT LABELS
+|   DEFINITION / TERMS : Types of industrial orientation: compare stages, not labels: Trap: Footloose means flexible among suitable sites, not free from skills, utilities, logistics or regulation.
+|   MECHANISM / ARGUMENT: Technology can split the chain: raw-material processing remains near the source while assembly or finishing moves toward markets.
+|   CONSEQUENCE / CONTRAST: The term “orientation” does not imprison an industry in one place.
+|   TRAP / ANSWER-USE: The term “orientation” does not imprison an industry in one place.
+|   EXAM OPENING: !Stage-by-factor matrix for industrial orientation
++--
+        |
+        v
++-- SESSION 06: MAJOR WORLD INDUSTRIAL REGIONS: MAP THE MECHANISM BEHIND EACH BELT
+|   DEFINITION / TERMS : Visual first: the world's major regions represent different combinations of resources, ports, markets, labour and state-supported infrastructure; the map is schematic and not to scale.
+|   MECHANISM / ARGUMENT: Use world cases to prove mechanisms, not as decorative examples: Japan refutes resource determinism; Ruhr/Great Lakes show conditional inertia; coastal China shows policy-enabled export agglomeration.
+|   CONSEQUENCE / CONTRAST: An industrial region is a historical accumulation.
+|   TRAP / ANSWER-USE: Visual first: the world's major regions represent different combinations of resources, ports, markets, labour and state-supported infrastructure; the map is schematic and not to scale.
+|   EXAM OPENING: !Schematic major world industrial regions
++--
+        |
+        v
++-- SESSION 07: AGGLOMERATION, DEGLOMERATION AND INDUSTRIAL INERTIA
+|   DEFINITION / TERMS : Agglomeration means firms cluster because they share
+|   MECHANISM / ARGUMENT: Agglomeration means firms cluster because they share
+|   CONSEQUENCE / CONTRAST: Agglomeration means firms cluster because they share
+|   TRAP / ANSWER-USE: The Hugli belt cannot be explained by raw jute alone.
+|   EXAM OPENING: !Agglomeration economies and diseconomies
++--
+        |
+        v
++-- SESSION 08: ACTORS, INSTITUTIONS AND PLANNED LOCATION: THE STATE CAN SUPPORT, NOT INVENT, EVERY LINKAGE
+|   DEFINITION / TERMS : Actors, institutions and planned location: the state can support, not invent, every linkage: This is an example of deliberate corridor-linked, multimodal and plug-and-play industrial space.
+|   MECHANISM / ARGUMENT: The location-theory link is valid: transport, land, labour pools, utilities and market reach are being assembled through policy.
+|   CONSEQUENCE / CONTRAST: Basic current anchor retained from the owner
+|   TRAP / ANSWER-USE: Then state the limit: policy cannot compensate indefinitely for weak market access, skills or ecological capacity.
+|   EXAM OPENING: !Corridor and logistics architecture
++--
+        |
+        v
++-- SESSION 09: WHAT CHANGED AFTER WEBER - AND WHAT DID NOT
+|   DEFINITION / TERMS : What changes is the content of those burdens.
+|   MECHANISM / ARGUMENT: Freight still matters, but time, reliability, qualification by buyers, supplier depth, carbon rules and geopolitical risk may matter more.
+|   CONSEQUENCE / CONTRAST: Weber's method remains useful: compare location-dependent burdens.
+|   TRAP / ANSWER-USE: It is not “location-free”; its cost surface is simply more complex than a mine-market triangle.
+|   EXAM OPENING: !Evolution from classical location theory to modern risk and capability
++--
+        |
+        v
++-- SESSION 10: BASIC ANSWER ARCHITECTURE AND EVIDENCE UNITS
+|   DEFINITION / TERMS : Basic answer architecture and evidence units: Claim: Domestic mineral abundance is not necessary for industrialisation.
+|   MECHANISM / ARGUMENT: Visual first: high-scoring answers move from a precise boundary to mechanism, evidence, qualification and verdict.
+|   CONSEQUENCE / CONTRAST: Explain the dominant location mechanism.
+|   TRAP / ANSWER-USE: Verdict: Persistence must be demonstrated, not assumed.
+|   EXAM OPENING: !UPSC industrial-geography answer spine
++--
+        |
+        v
+ANSWER-WRITING SPINE
+definition -> exact terms -> mechanism/evidence -> consequence/contrast
+-> objection/trap -> qualified answer-use

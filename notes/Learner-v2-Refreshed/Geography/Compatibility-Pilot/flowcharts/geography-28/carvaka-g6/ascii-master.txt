@@ -1,0 +1,171 @@
+Geography 28 — Human Settlements and Urbanisation — COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+
+START / CENTRAL QUESTION
+  then how it is arranged, what it does and how it connects to other places.
+        |
+        v
++-- SESSION 01: ROADMAP: WHAT YOU ARE ABOUT TO LEARN
+|   DEFINITION / TERMS : then how it is arranged, what it does and how it connects to other places.
+|   MECHANISM / ARGUMENT: It rewards the spatial mechanism that
+|   CONSEQUENCE / CONTRAST: Read one settlement: site, situation, form, pattern and function.
+|   TRAP / ANSWER-USE: Answer-use: The roadmap moves from a single settlement site to a connected hierarchy and then to urban
+|   EXAM OPENING: The roadmap moves from a single settlement site to a connected hierarchy and then to urban
++--
+        |
+        v
++-- SESSION 02: SETTLEMENT GEOGRAPHY: SITE, SITUATION, FUNCTION AND HIERARCHY
+|   DEFINITION / TERMS : Site is the exact ground; situation is the settlement's relative position in a larger region.
+|   MECHANISM / ARGUMENT: By contrast, a Himalayan village may have a secure terrace site but remain small because steep
+|   CONSEQUENCE / CONTRAST: By contrast, a Himalayan village may have a secure terrace site but remain small because steep
+|   TRAP / ANSWER-USE: This produces explanation rather than description.
+|   EXAM OPENING: !Site, situation and settlement reading
++--
+        |
+        v
++-- SESSION 03: RURAL SETTLEMENT FORMS: HOW CLOSELY DO PEOPLE LIVE?
+|   DEFINITION / TERMS : Rural settlement form describes how houses are grouped.
+|   MECHANISM / ARGUMENT: Rural form answers “how closely?”; it does not by itself answer “how urban?”
+|   CONSEQUENCE / CONTRAST: Dispersion may be a rational response to terrain and farm size;
+|   TRAP / ANSWER-USE: compactness may reflect security or concentrated water rather than urban character.
+|   EXAM OPENING: The visual compares clustering, partial dispersion, hamlets and isolated dwellings.
++--
+        |
+        v
++-- SESSION 04: SETTLEMENT PATTERNS: WHAT GEOMETRY APPEARS ON THE GROUND?
+|   DEFINITION / TERMS : Settlement patterns: what geometry appears on the ground?: Pattern is the visible arrangement of streets and dwellings; it is not the same as function.
+|   MECHANISM / ARGUMENT: A settlement pattern is its geometrical arrangement.
+|   CONSEQUENCE / CONTRAST: The most dependable textbook example is a
+|   TRAP / ANSWER-USE: Pattern is the visible arrangement of streets and dwellings; it is not the same as function.
+|   EXAM OPENING: Pattern is the visible arrangement of streets and dwellings; it is not the same as function.
++--
+        |
+        v
++-- SESSION 05: URBANISATION AND THE RURAL-URBAN CONTINUUM
+|   DEFINITION / TERMS : Urbanisation means a rising share of people living in urban places and an expansion of urban
+|   MECHANISM / ARGUMENT: The rural-urban boundary is therefore a continuum, not a clean wall.
+|   CONSEQUENCE / CONTRAST: The rural-urban boundary is therefore a continuum, not a clean wall.
+|   TRAP / ANSWER-USE: Urbanisation changes population share, occupation, services, connectivity and land use—not just
+|   EXAM OPENING: Urbanisation changes population share, occupation, services, connectivity and land use—not just
++--
+        |
+        v
++-- SESSION 06: MODEL FIREWALL: MODELS SIMPLIFY; THEY DO NOT PHOTOGRAPH REALITY
+|   DEFINITION / TERMS : A model is a thinking tool, not a universal map.
+|   MECHANISM / ARGUMENT: Delhi can be read through a historic core, colonial New Delhi, industrial corridors, satellite
+|   CONSEQUENCE / CONTRAST: Relief, rivers, coastlines, colonial legacies, political boundaries,
+|   TRAP / ANSWER-USE: A model is a thinking tool, not a universal map.
+|   EXAM OPENING: Indian cities usually require layered application and explicit
++--
+        |
+        v
++-- SESSION 07: CHRISTALLER'S CENTRAL-PLACE THEORY: THRESHOLD, RANGE AND HIERARCHY
+|   DEFINITION / TERMS : Christaller's central-place theory: threshold, range and hierarchy: A periodic market is a particularly clear South Asian response: when local demand is
+|   MECHANISM / ARGUMENT: The theory explains a nested hierarchy of service centres through the minimum demand needed and
+|   CONSEQUENCE / CONTRAST: Christaller begins with a deliberately simplified world: a uniform plain, evenly distributed
+|   TRAP / ANSWER-USE: Real plains are not uniform; relief, rivers, resources and historic routes matter.
+|   EXAM OPENING: The theory explains a nested hierarchy of service centres through the minimum demand needed and
++--
+        |
+        v
++-- SESSION 08: APPLYING CENTRAL-PLACE LOGIC TO INDIA
+|   DEFINITION / TERMS : Applying central-place logic to India: This comparison is the visual: use it to move from “model fits” to “model is selectively useful.”
+|   MECHANISM / ARGUMENT: Christaller's most useful contemporary application is hierarchy collapse.
+|   CONSEQUENCE / CONTRAST: expands faster than local demand reaches the threshold for small-centre services, people bypass the
+|   TRAP / ANSWER-USE: Do not draw a perfect hexagonal map of India.
+|   EXAM OPENING: This comparison is the visual: use it to move from “model fits” to “model is selectively useful.”
++--
+        |
+        v
++-- SESSION 09: RANK-SIZE, PRIMATE CITY AND INDIA'S MULTI-METROPOLITAN SYSTEM
+|   DEFINITION / TERMS : The rank-size rule says that, in a well-integrated urban system, a city's population is roughly
+|   MECHANISM / ARGUMENT: the largest city's population divided by its rank.
+|   CONSEQUENCE / CONTRAST: The rank-size rule says that, in a well-integrated urban system, a city's population is roughly
+|   TRAP / ANSWER-USE: It is an approximate regularity, not a law.
+|   EXAM OPENING: !Rank-size and primate-city comparison
++--
+        |
+        v
++-- SESSION 10: BURGESS: THE CONCENTRIC-ZONE MODEL
+|   DEFINITION / TERMS : Burgess: the concentric-zone model: The transition zone is not a universal “slum ring.”
+|   MECHANISM / ARGUMENT: Growth occurs through invasion and succession: expanding activities enter an adjacent ring and
+|   CONSEQUENCE / CONTRAST: The model can help interpret an old commercial core and surrounding transition areas.
+|   TRAP / ANSWER-USE: across the city—not only one inner ring.
+|   EXAM OPENING: Burgess reads an industrial city as outward rings around one central business district.
++--
+        |
+        v
++-- SESSION 11: HOYT: THE SECTOR MODEL
+|   DEFINITION / TERMS : Hoyt is stronger than Burgess when direction and transport corridors matter, but it still assumes
+|   MECHANISM / ARGUMENT: The sector model argues that industry, housing and high-status residential areas grow outward in
+|   CONSEQUENCE / CONTRAST: Railways, roads, waterfronts and other corridors give development a preferred
+|   TRAP / ANSWER-USE: Do not call every transport corridor a complete sector model.
+|   EXAM OPENING: Hoyt turns rings into wedges: land uses extend along transport corridors.
++--
+        |
+        v
++-- SESSION 12: HARRIS AND ULLMAN: THE MULTIPLE-NUCLEI MODEL
+|   DEFINITION / TERMS : Harris and Ullman: the multiple-nuclei model: The model is descriptive rather than strongly predictive: it identifies multiple nodes but does
+|   MECHANISM / ARGUMENT: some activities require special sites;
+|   CONSEQUENCE / CONTRAST: The result may include an old CBD, industrial node, university area, airport corridor, wholesale
+|   TRAP / ANSWER-USE: Large metropolitan regions develop several specialised centres rather than one controlling CBD.
+|   EXAM OPENING: Large metropolitan regions develop several specialised centres rather than one controlling CBD.
++--
+        |
+        v
++-- SESSION 13: INDIA'S URBAN DEFINITIONS: STATISTICAL URBANISATION AND ADMINISTRATIVE URBANISATION
+|   DEFINITION / TERMS : The central Indian distinction is between urban status by law and urban status by
+|   MECHANISM / ARGUMENT: The central Indian distinction is between urban status by law and urban status by
+|   CONSEQUENCE / CONTRAST: The key Indian issue is a mismatch between statistical urbanisation and administrative
+|   TRAP / ANSWER-USE: Trap: a census town becomes urban only after municipal notification.
+|   EXAM OPENING: !Statutory town, census town and urban agglomeration
++--
+        |
+        v
++-- SESSION 14: INDIA'S URBAN PROBLEM SET: SPRAWL, HOUSING AND MOBILITY
+|   DEFINITION / TERMS : India's urban problem set: sprawl, housing and mobility: Sprawl is peripheral expansion that outruns boundaries, infrastructure and coordinated land-use
+|   MECHANISM / ARGUMENT: Trap: slums are caused only by migration.
+|   CONSEQUENCE / CONTRAST: Urban sprawl is low-density or discontinuous outward growth beyond the effective reach of the
+|   TRAP / ANSWER-USE: Informal settlement is best understood as a housing-market and governance failure, not as a moral
+|   EXAM OPENING: Sprawl is peripheral expansion that outruns boundaries, infrastructure and coordinated land-use
++--
+        |
+        v
++-- SESSION 15: INDIA'S URBAN PROBLEM SET: FLOODS, HEAT, WATER AND SANITATION
+|   DEFINITION / TERMS : India's urban problem set: floods, heat, water and sanitation: Heat risk is especially serious when night-time temperatures stay high.
+|   MECHANISM / ARGUMENT: The exact local mechanism differs, but the
+|   CONSEQUENCE / CONTRAST: wetlands remove storage and conveyance.
+|   TRAP / ANSWER-USE: reduces frequency and severity; it cannot eliminate residual risk.
+|   EXAM OPENING: Urban flooding becomes severe when rainfall meets sealed surfaces, lost storage, blocked drains
++--
+        |
+        v
++-- SESSION 16: INDIA'S URBAN PROBLEM SET: GOVERNANCE FRAGMENTATION
+|   DEFINITION / TERMS : India's urban problem set: governance fragmentation: This is why well-known technical solutions often fail at implementation.
+|   MECHANISM / ARGUMENT: Use governance fragmentation as the underlying mechanism connecting sprawl, flooding, service
+|   CONSEQUENCE / CONTRAST: the built-up or commuting region crosses municipal boundaries;
+|   TRAP / ANSWER-USE: Floodwater, air pollution, commuters and waste do not stop at a municipal border.
+|   EXAM OPENING: The urban system works across boundaries even when government responsibilities remain divided.
++--
+        |
+        v
++-- SESSION 17: BASIC ANSWER ARCHITECTURE: TURN KNOWLEDGE INTO MARKS
+|   DEFINITION / TERMS : Basic answer architecture: turn knowledge into marks: The reusable sequence is definition and scale → mechanism → named evidence → analysis →
+|   MECHANISM / ARGUMENT: The reusable sequence is definition and scale → mechanism → named evidence → analysis →
+|   CONSEQUENCE / CONTRAST: Measurement: distinguish statutory town, census town and urban agglomeration.
+|   TRAP / ANSWER-USE: Thesis: India's challenge lies in the form and governance of urbanisation, not population
+|   EXAM OPENING: The reusable sequence is definition and scale → mechanism → named evidence → analysis →
++--
+        |
+        v
++-- SESSION 18: BASIC MASTERY RECAP
+|   DEFINITION / TERMS : Basic mastery recap: Urban problems emerge when land use, services and government no longer
+|   MECHANISM / ARGUMENT: Urban problems emerge when land use, services and government no longer
+|   CONSEQUENCE / CONTRAST: Urban problems emerge when land use, services and government no longer
+|   TRAP / ANSWER-USE: Answer-use: Basic verdict: settlement geography moves from the ground under a habitation to the regional
+|   EXAM OPENING: Basic verdict: settlement geography moves from the ground under a habitation to the regional
++--
+        |
+        v
+ANSWER-WRITING SPINE
+definition -> exact terms -> mechanism/evidence -> consequence/contrast
+-> objection/trap -> qualified answer-use

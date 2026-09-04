@@ -1,0 +1,953 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-30-primary-economic-activities-agriculture",
+  "subject": "Geography",
+  "title": "GEOGRAPHY 30 — PRIMARY ECONOMIC ACTIVITIES: AGRICULTURE",
+  "short_route": "AGRICULTURAL GEOGRAPHY AS A → FARMING-SYSTEM CLASSIFICATION BY ECOLOGY → VON THUNEN RINGS AND → WORLD CROP REGIONS AND → INDIA'S AGRO-CLIMATIC MOSAIC, GREEN → FISHING, FORESTRY, MINING AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g11 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Compatibility-Pilot\\learning-sessions\\geography-30\\g11\\geography-30_Complete-Learning-Session_2026-08-23.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-2026-08-23.json",
+  "ascii_spec_sha256": "5b0626c2b1e32a49c858860e95c1b0b6820a314e6104f5b755fa4cbed3ef2c66",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "AGRICULTURAL GEOGRAPHY AS A NATURAL-HUMAN-MARKET SYSTEM",
+      "structural_type": "process-system-overview",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "AGRICULTURAL GEOGRAPHY AS A NATURAL-HUMAN-MARKET SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "AGRICULTURAL GEOGRAPHY",
+          "role": "outcome"
+        },
+        {
+          "text": "WHERE DOES PRODUCTION OCCUR, WHY THERE, HOW ORGANISED, AND",
+          "role": "comparison"
+        },
+        {
+          "text": "NATURAL BASE HUMAN SYSTEM MARKET SYSTEM CLIMATE LABOUR/HOLDING DEMAND",
+          "role": "evidence"
+        },
+        {
+          "text": "FARMING SYSTEM LOCATION",
+          "role": "primary"
+        },
+        {
+          "text": "VALUE CHAIN SPATIAL GAINS AND COSTS FEED BACK TO",
+          "role": "outcome"
+        },
+        {
+          "text": "SIX CONTROLS",
+          "role": "comparison"
+        },
+        {
+          "text": "CLIMATE, RELIEF, SOIL, WATER, LABOUR, MARKET/TRANSPORT.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AGRICULTURAL GEOGRAPHY",
+        "Where does production occur, why there, how organised, and how does the pattern change through",
+        "NATURAL BASE HUMAN SYSTEM MARKET SYSTEM climate labour/holding demand relief technology transport soil tenure/capital storage/processing",
+        "and trade links",
+        "FARMING SYSTEM location → seasonality → intensity → surplus → value chain spatial gains and"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "AGRICULTURAL GEOGRAPHY",
+            "Where does production occur, why there, how organised, and how does the pattern change through time?"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NATURAL BASE HUMAN SYSTEM MARKET SYSTEM climate labour/holding demand relief technology transport soil tenure/capital storage/processing water institutions price",
+            "and trade links"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "FARMING SYSTEM location → seasonality → intensity → surplus → value chain spatial gains and costs feed back to soil, water, labour and region",
+            "Six controls: climate, relief, soil, water, labour, market/transport."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Six controls: climate, relief, soil, water, labour, market/transport.",
+      "source_references": [
+        "sessions: [1, 2]",
+        "sections: [\"BASIC LEARNING SESSION\", \"Agricultural geography in one line\"]",
+        "markdown_lines: [\"76-243\", \"2702-2708\"]"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "FARMING-SYSTEM CLASSIFICATION BY ECOLOGY, LABOUR AND MARKET",
+      "structural_type": "classification-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FARMING-SYSTEM CLASSIFICATION BY ECOLOGY, LABOUR AND MARKET",
+          "role": "primary"
+        },
+        {
+          "text": "TYPICAL SETTING",
+          "role": "outcome"
+        },
+        {
+          "text": "SHIFTING CULTIVATION",
+          "role": "comparison"
+        },
+        {
+          "text": "CLEARING + FALLOW",
+          "role": "evidence"
+        },
+        {
+          "text": "HUMID FOREST MARGINS",
+          "role": "primary"
+        },
+        {
+          "text": "WET-RICE INTENSIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "SMALL, LABOUR, WATER",
+          "role": "comparison"
+        },
+        {
+          "text": "MONSOON VALLEYS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TYPICAL SETTING",
+        "Shifting cultivation",
+        "clearing + fallow",
+        "humid forest margins",
+        "Wet-rice intensive"
+      ],
+      "matrix": [
+        [
+          "SYSTEM",
+          "ORGANISATION",
+          "TYPICAL SETTING"
+        ],
+        [
+          "Shifting cultivation",
+          "clearing + fallow",
+          "humid forest margins"
+        ],
+        [
+          "Wet-rice intensive",
+          "small, labour, water",
+          "monsoon valleys"
+        ],
+        [
+          "Nomadic pastoralism",
+          "mobile herds",
+          "arid sparse pasture"
+        ],
+        [
+          "Mixed farming",
+          "crop-livestock link",
+          "temperate regions"
+        ],
+        [
+          "Mediterranean",
+          "winter rain system",
+          "west-coast margins"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CLASSIFICATION",
+          "role": "primary",
+          "items": [
+            "TYPICAL SETTING",
+            "Shifting cultivation",
+            "clearing + fallow",
+            "humid forest margins",
+            "Wet-rice intensive"
+          ]
+        },
+        {
+          "heading": "DIAGNOSTIC BASIS",
+          "role": "evidence",
+          "items": [
+            "Nomadic pastoralism",
+            "mobile herds",
+            "arid sparse pasture",
+            "Mixed farming",
+            "crop-livestock link"
+          ]
+        },
+        {
+          "heading": "PROCESS LINK",
+          "role": "mechanism",
+          "items": [
+            "west-coast margins",
+            "estate + export crop",
+            "tropical highlands",
+            "Commercial grain",
+            "mechanised vast farms"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP",
+          "role": "caution",
+          "items": [
+            "perishable + urban",
+            "city hinterlands",
+            "CLASSIFICATION AXES subsistence/commercial",
+            "crop/livestock mix sedentary/mobile",
+            "small/large scale"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "High output per hectare is not the same as commercial orientation.",
+      "source_references": [
+        "sessions: [3]",
+        "sections: [\"BASIC LEARNING SESSION\", \"Farming systems and world regions\"]",
+        "markdown_lines: [\"244-333\", \"2709-2720\"]"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "VON THUNEN RINGS AND THE SURVIVAL OF DISTANCE",
+      "structural_type": "spatial-ring-model-and-modification-chain",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "VON THUNEN RINGS AND THE SURVIVAL OF DISTANCE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL MARKET DAIRY",
+          "role": "outcome"
+        },
+        {
+          "text": "HIGH DECAY, FREQUENT TRIPS FORESTRY",
+          "role": "comparison"
+        },
+        {
+          "text": "HEAVY TRANSPORT BURDEN FIELD CROPS",
+          "role": "evidence"
+        },
+        {
+          "text": "LOWER PERISHABILITY LIVESTOCK",
+          "role": "primary"
+        },
+        {
+          "text": "EXTENSIVE OUTER USE DISTANCE UP",
+          "role": "outcome"
+        },
+        {
+          "text": "FREIGHT/RELIABILITY COST UP",
+          "role": "comparison"
+        },
+        {
+          "text": "BID RENT GENERALLY DOWN PERISHABILITY + DELIVERY FREQUENCY +",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL MARKET dairy / vegetables",
+        "high decay, frequent trips forestry / fuelwood",
+        "heavy transport burden field crops",
+        "lower perishability livestock / ranching",
+        "extensive outer use distance up → freight/reliability cost up → bid rent generally down perishability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "CENTRAL MARKET dairy / vegetables",
+            "high decay, frequent trips forestry / fuelwood",
+            "heavy transport burden field crops"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "lower perishability livestock / ranching",
+            "extensive outer use distance up → freight/reliability cost up → bid rent generally down perishability + delivery frequency",
+            "+ land rent decide near-market use"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "MODERN MODIFIERS cold chain + expressway + processing + digital markets + policy stretch, distort or split rings; they do not abolish cost and access",
+            "Answer route: assumptions → mechanism → modification → surviving use",
+            "limits from relief, multiple markets and institutions."
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "lower perishability livestock / ranching"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Answer route: assumptions → mechanism → modification → surviving use.",
+      "source_references": [
+        "sessions: [4]",
+        "sections: [\"BASIC LEARNING SESSION\", \"Von Thunen and location\"]",
+        "markdown_lines: [\"334-425\", \"2721-2727\"]"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "WORLD CROP REGIONS AND ECOLOGICAL REQUIREMENTS",
+      "structural_type": "global-spatial-distribution-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "WORLD CROP REGIONS AND ECOLOGICAL REQUIREMENTS",
+          "role": "primary"
+        },
+        {
+          "text": "ECOLOGICAL BUNDLE",
+          "role": "outcome"
+        },
+        {
+          "text": "BROAD GEOGRAPHY",
+          "role": "comparison"
+        },
+        {
+          "text": "WARMTH + MANAGED WATER",
+          "role": "evidence"
+        },
+        {
+          "text": "MONSOON VALLEYS/DELTAS",
+          "role": "primary"
+        },
+        {
+          "text": "COOL GROWTH, DRY RIPENING",
+          "role": "outcome"
+        },
+        {
+          "text": "TEMPERATE AND WINTER BELTS",
+          "role": "comparison"
+        },
+        {
+          "text": "FROST-FREE WARMTH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ECOLOGICAL BUNDLE",
+        "BROAD GEOGRAPHY",
+        "warmth + managed water",
+        "monsoon valleys/deltas",
+        "cool growth, dry ripening"
+      ],
+      "matrix": [
+        [
+          "CROP",
+          "ECOLOGICAL BUNDLE",
+          "BROAD GEOGRAPHY"
+        ],
+        [
+          "Rice",
+          "warmth + managed water",
+          "monsoon valleys/deltas"
+        ],
+        [
+          "Wheat",
+          "cool growth, dry ripening",
+          "temperate and winter belts"
+        ],
+        [
+          "Cotton",
+          "frost-free warmth",
+          "subtropical plains/plateaus"
+        ],
+        [
+          "Jute",
+          "humid alluvium + retting",
+          "eastern deltaic belt"
+        ],
+        [
+          "Tea",
+          "humid acidic slopes",
+          "Asian tropical highlands"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "ECOLOGICAL BUNDLE",
+            "BROAD GEOGRAPHY",
+            "warmth + managed water",
+            "monsoon valleys/deltas",
+            "cool growth, dry ripening"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "frost-free warmth",
+            "subtropical plains/plateaus",
+            "humid alluvium + retting",
+            "eastern deltaic belt",
+            "humid acidic slopes"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "shaded drained uplands",
+            "tropical uplands",
+            "variable lower rainfall",
+            "semi-arid drylands",
+            "REGIONAL LOGIC"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "temperate plains → commercial grain",
+            "Mediterranean margins → winter crops, vines, olives and fruits",
+            "Tropical estates → plantation crops",
+            "city belts → dairy and vegetables",
+            "A crop-soil link is an association, not an exclusive rule."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A crop-soil link is an association, not an exclusive rule.",
+      "source_references": [
+        "sessions: [5, 6]",
+        "sections: [\"BASIC LEARNING SESSION\", \"Crop-location rapid recall\"]",
+        "markdown_lines: [\"426-655\", \"2728-2737\"]"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "INDIA'S AGRO-CLIMATIC MOSAIC, GREEN REVOLUTION AND FOOD CHAIN",
+      "structural_type": "india-regional-map-and-causal-chain",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "INDIA'S AGRO-CLIMATIC MOSAIC, GREEN REVOLUTION AND FOOD CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA'S AGRICULTURAL MOSAIC",
+          "role": "outcome"
+        },
+        {
+          "text": "IRRIGATED WHEAT-RICE AND PROCUREMENT CORE",
+          "role": "comparison"
+        },
+        {
+          "text": "EASTERN DELTAS",
+          "role": "evidence"
+        },
+        {
+          "text": "RICE, JUTE AND WATER-RICH FARMING",
+          "role": "primary"
+        },
+        {
+          "text": "DRYLAND DECCAN",
+          "role": "outcome"
+        },
+        {
+          "text": "MILLETS, PULSES, OILSEEDS AND VARIABLE RAINFALL",
+          "role": "comparison"
+        },
+        {
+          "text": "WESTERN PLATEAU",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDIA'S AGRICULTURAL MOSAIC",
+        "North-west : irrigated wheat-rice and procurement core",
+        "Eastern deltas : rice, jute and water-rich farming",
+        "Dryland Deccan : millets, pulses, oilseeds and variable rainfall",
+        "Western plateau : cotton and mixed irrigated-dryland systems"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "INDIA'S AGRICULTURAL MOSAIC",
+            "North-west : irrigated wheat-rice and procurement core",
+            "Eastern deltas : rice, jute and water-rich farming"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Dryland Deccan : millets, pulses, oilseeds and variable rainfall",
+            "Western plateau : cotton and mixed irrigated-dryland systems",
+            "Highlands : tea, coffee, spices and horticulture"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "Mountains : horticulture, pastoral and terrace systems",
+            "GREEN REVOLUTION PACKAGE",
+            "HYV + assured irrigation + fertiliser + credit + extension + procurement early concentration: Punjab + Haryana +"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "western Uttar Pradesh higher grain output → procurement → central pool → NFSA/PDS movement",
+            "SECOND-GENERATION FEEDBACK water-table decline + nutrient imbalance + residue pressure rice-wheat lock-in + regional divergence",
+            "Productive success and ecological stress can coexist in the same region."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Productive success and ecological stress can coexist in the same region.",
+      "source_references": [
+        "sessions: [5, 6]",
+        "sections: [\"OPTIONAL ADVANCED DEPTH\", \"India's seasonal and regional mosaic\", \"Green Revolution and procurement geography\"]",
+        "markdown_lines: [\"2390-2619\", \"2767-2793\"]"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "FISHING, FORESTRY, MINING AND QUARRYING THROUGH PHYSIOGRAPHY",
+      "structural_type": "primary-activity-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FISHING, FORESTRY, MINING AND QUARRYING THROUGH PHYSIOGRAPHY",
+          "role": "primary"
+        },
+        {
+          "text": "PHYSICAL BASE",
+          "role": "outcome"
+        },
+        {
+          "text": "HUMAN FILTER",
+          "role": "comparison"
+        },
+        {
+          "text": "SHELF, NUTRIENTS, MIXING",
+          "role": "evidence"
+        },
+        {
+          "text": "HARBOUR, COLD CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "INLAND FISH",
+          "role": "outcome"
+        },
+        {
+          "text": "RIVER, TANK, RESERVOIR",
+          "role": "comparison"
+        },
+        {
+          "text": "RIGHTS, SEED, MARKETS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PHYSICAL BASE",
+        "HUMAN FILTER",
+        "shelf, nutrients, mixing",
+        "harbour, cold chain",
+        "Inland fish"
+      ],
+      "matrix": [
+        [
+          "ACTIVITY",
+          "PHYSICAL BASE",
+          "HUMAN FILTER"
+        ],
+        [
+          "Fishing",
+          "shelf, nutrients, mixing",
+          "harbour, cold chain"
+        ],
+        [
+          "Inland fish",
+          "river, tank, reservoir",
+          "rights, seed, markets"
+        ],
+        [
+          "Forestry",
+          "climate, altitude, species",
+          "access, tenure, rules"
+        ],
+        [
+          "Mining",
+          "ore body or fuel basin",
+          "grade, power, transport"
+        ],
+        [
+          "Quarrying",
+          "accessible bulk material",
+          "demand, regulation"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "PHYSICAL BASE",
+            "HUMAN FILTER",
+            "shelf, nutrients, mixing",
+            "harbour, cold chain",
+            "Inland fish"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "climate, altitude, species",
+            "access, tenure, rules",
+            "ore body or fuel basin",
+            "grade, power, transport",
+            "accessible bulk material"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "determine realised activity",
+            "Indian cues",
+            "central/NE forests → timber and NTFP",
+            "shields → many metallic ores sedimentary basins → coal/limestone",
+            "margins → offshore hydrocarbons"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "central/NE forests → timber and NTFP | shields → many metallic ores sedimentary basins → coal/limestone | margins → offshore hydrocarbons.",
+      "source_references": [
+        "sessions: [7, 8, 9, 10]",
+        "sections: [\"BASIC LEARNING SESSION\", \"Non-farm primary activities\"]",
+        "markdown_lines: [\"656-1033\", \"2745-2752\"]"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SUSTAINABLE AGRICULTURE AND INTERVENTION STACK",
+      "structural_type": "hazard-risk-response-and-institutional-stack",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SUSTAINABLE AGRICULTURE AND INTERVENTION STACK",
+          "role": "primary"
+        },
+        {
+          "text": "REGIONAL PRODUCTION PRESSURE MONSOON VARIABILITY + FRAGMENTED HOLDINGS +",
+          "role": "outcome"
+        },
+        {
+          "text": "RESPONSE STACK SOIL AND WATER CONSERVATION",
+          "role": "comparison"
+        },
+        {
+          "text": "CROP-WATER ALIGNMENT AND DIVERSIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "EFFICIENT IRRIGATION AND RESILIENT SEED SYSTEMS",
+          "role": "primary"
+        },
+        {
+          "text": "STORAGE, AGGREGATION, PROCESSING AND COLD CHAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "CREDIT, INSURANCE, EXTENSION AND MARKET ACCESS",
+          "role": "comparison"
+        },
+        {
+          "text": "PROCUREMENT REFORM WITH FOOD-SECURITY SAFEGUARDS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "REGIONAL PRODUCTION PRESSURE monsoon variability + fragmented holdings + unequal irrigation soil decline + water",
+        "RESPONSE STACK soil and water conservation",
+        "crop-water alignment and diversification",
+        "efficient irrigation and resilient seed systems",
+        "storage, aggregation, processing and cold chain"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "REGIONAL PRODUCTION PRESSURE monsoon variability + fragmented holdings + unequal irrigation soil decline + water stress + market risk",
+            "RESPONSE STACK soil and water conservation",
+            "crop-water alignment and diversification",
+            "efficient irrigation and resilient seed systems",
+            "storage, aggregation, processing and cold chain"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "credit, insurance, extension and market access",
+            "procurement reform with food-security safeguards",
+            "local monitoring of income, nutrition and ecology",
+            "EVIDENCE FIREWALL estimate is not final",
+            "output is not procurement"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "procurement is not stock stock is not consumption",
+            "MSP announcement is not actual purchase",
+            "SCHEME STATUS announcement → approval → guidelines → selection → funds",
+            "physical output → service outcome → long-term impact",
+            "Technology raises output only where water, knowledge and institutions converge."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE FIREWALL estimate is not final | output is not procurement | procurement is not stock stock is not consumption | MSP announcement is not actual purchase.",
+      "source_references": [
+        "sessions: [6, 11]",
+        "sections: [\"BASIC LEARNING SESSION\", \"Commercialisation and evidence firewalls\", \"Current evidence and safe use\"]",
+        "markdown_lines: [\"523-655\", \"1034-1125\", \"2738-2744\", \"2794-2801\"]"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "synthesis",
+      "title": "MAP-ANSWER AND MAINS SPINE FOR AGRICULTURAL GEOGRAPHY",
+      "structural_type": "map-answer-and-mains-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "MAP-ANSWER AND MAINS SPINE FOR AGRICULTURAL GEOGRAPHY",
+          "role": "primary"
+        },
+        {
+          "text": "WHY IS AGRICULTURAL CHANGE SPATIALLY UNEQUAL?",
+          "role": "outcome"
+        },
+        {
+          "text": "1. DEFINE",
+          "role": "comparison"
+        },
+        {
+          "text": "LOCATION, SEASONALITY, ORGANISATION AND CHANGE",
+          "role": "evidence"
+        },
+        {
+          "text": "2. MAP",
+          "role": "primary"
+        },
+        {
+          "text": "IRRIGATED NW",
+          "role": "outcome"
+        },
+        {
+          "text": "EASTERN DELTAS",
+          "role": "comparison"
+        },
+        {
+          "text": "DRY DECCAN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "QUESTION: Why is agricultural change spatially unequal?",
+        "1. DEFINE: location, seasonality, organisation and change",
+        "2. MAP: irrigated NW",
+        "eastern deltas",
+        "dry Deccan"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "QUESTION: Why is agricultural change spatially unequal?",
+            "1. DEFINE: location, seasonality, organisation and change",
+            "2. MAP: irrigated NW",
+            "eastern deltas"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "dry Deccan",
+            "plantation hills",
+            "3. BUILD CONTROL MATRIX climate + relief + soil + water + labour + market/transport",
+            "4. EXPLAIN SYSTEM subsistence → surplus → specialisation → processing → value chain"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "5. ADD NAMED EVIDENCE",
+            "Green Revolution core, procurement geography or physiographic activity",
+            "6. EVALUATE productivity + food security versus water, soil and regional inequality",
+            "7. QUALIFY AND CONCLUDE diversify only with purchase assurance, processing and transition support"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "Claim → evidence → spatial mechanism → distributional/ecological limit",
+            "region-sensitive verdict."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Claim → evidence → spatial mechanism → distributional/ecological limit.",
+      "source_references": [
+        "sessions: [1, 2, 4, 5, 6, 7, 11]",
+        "sections: [\"PYQS AND ANSWER PRACTICE\", \"CONSOLIDATED REGISTER NOTES\"]",
+        "markdown_lines: [\"2678-2701\", \"2802-2824\"]"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. INDIA IS AN AGRO-CLIMATIC MOSAIC, NOT ONE FARM",
+          "role": "caution"
+        },
+        {
+          "text": "2. HOLDINGS, IRRIGATION INEQUALITY AND THE SOIL-CROP MAP",
+          "role": "comparison"
+        },
+        {
+          "text": "3. GREEN REVOLUTION GEOGRAPHY",
+          "role": "evidence"
+        },
+        {
+          "text": "4. PROCUREMENT, THE CENTRAL POOL AND FOOD-SECURITY GEOGRAPHY",
+          "role": "primary"
+        },
+        {
+          "text": "5. REGIONAL IMBALANCE, ECOLOGICAL FEEDBACK AND DIVERSIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "6. DATED CURRENT-POLICY EVIDENCE AND STATUS DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "7. ADVANCED EXAM ROUTES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL PROCESS DEPTH",
+          "role": "mechanism",
+          "items": [
+            "1. India is an agro-climatic mosaic, not one farm region",
+            "2. Holdings, irrigation inequality and the soil-crop map",
+            "3. Green Revolution geography",
+            "4. Procurement, the central pool and food-security geography"
+          ]
+        },
+        {
+          "heading": "DATA / INSTITUTION LIMIT",
+          "role": "caution",
+          "items": [
+            "5. Regional imbalance, ecological feedback and diversification",
+            "6. Dated current-policy evidence and status discipline",
+            "7. Advanced exam routes",
+            "Kharif and Rabi are not mere calendar labels."
+          ]
+        },
+        {
+          "heading": "CONTEMPORARY PARALLEL",
+          "role": "neutral",
+          "items": [
+            "India does not have one uniform rainfed or irrigated agriculture.",
+            "Current rankings must not be inferred from textbook crop belts.",
+            "Owned land is not the same as operated land.",
+            "Average holding size is not a measure of landlessness."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

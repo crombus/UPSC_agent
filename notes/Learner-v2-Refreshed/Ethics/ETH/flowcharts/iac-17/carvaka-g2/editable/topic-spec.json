@@ -1,0 +1,1207 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ethics-17",
+  "subject": "Ethics",
+  "title": "CITIZENS' CHARTERS, WORK CULTURE AND SERVICE DELIVERY",
+  "short_route": "CITIZEN-CENTRIC SERVICE CHAIN → COMPLETE CHARTER ANATOMY → STANDARD DESIGN MATRIX → CONSULTATION AND REVIEW LOOP → THREE INSTRUMENTS KEPT DISTINCT → SEVOTTAM AND CPGRAMS ROUTE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-17\\g2\\ethics-17_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-17-deep-review-2026-09-02-g2.json",
+  "ascii_spec_sha256": "f44c3460a89d360fa6c963113c2bfbb57641cbe99df85f6dbbeaffe95808ae3e",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CITIZEN-CENTRIC SERVICE CHAIN",
+      "structural_type": "continuous-service-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "CITIZEN-CENTRIC SERVICE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. CITIZEN-CENTRIC SERVICE CHAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] CITIZEN IS RIGHTS-HOLDER",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] AUTHORITY DEFINES LAWFUL SERVICE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] CHARTER PUBLISHES COMMITMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] CAPABILITY PERFORMS THE WORK",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] CULTURE SHAPES THE ENCOUNTER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "1. Citizen-centric service chain",
+        "[1] Citizen is rights-holder",
+        "[2] Authority defines lawful service",
+        "[3] Charter publishes commitment"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "1. Citizen-centric service chain",
+            "[1] Citizen is rights-holder",
+            "[2] Authority defines lawful service",
+            "[3] Charter publishes commitment"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Capability performs the work",
+            "[5] Culture shapes the encounter",
+            "[6] Grievance exposes failure",
+            "[7] Remedy corrects harm",
+            "[8] Learning redesigns the system"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → A charter is credible only inside a complete promise-to-learning chain.",
+            "ANSWER USE → Use to open any broad service-delivery answer.",
+            "MUST REMEMBER: A Citizens' Charter publicly states service standards and grievance routes..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → A charter is credible only inside a complete promise-to-learning chain.",
+      "source_references": [
+        "{'sessions': [1]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-17\\g2\\ethics-17_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "COMPLETE CHARTER ANATOMY",
+      "structural_type": "charter-anatomy",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "COMPLETE CHARTER ANATOMY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "2. COMPLETE CHARTER ANATOMY",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] NAME SERVICE AND ELIGIBILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] LIST DOCUMENTS AND LAWFUL FEE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] STATE TIME AND QUALITY STANDARD",
+          "role": "institution"
+        },
+        {
+          "text": "[4] DEFINE CLOCK AND PAUSE RULES",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] IDENTIFY RESPONSIBLE CONTACT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "2. Complete charter anatomy",
+        "[1] Name service and eligibility",
+        "[2] List documents and lawful fee",
+        "[3] State time and quality standard"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "2. Complete charter anatomy",
+            "[1] Name service and eligibility",
+            "[2] List documents and lawful fee"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] State time and quality standard",
+            "[4] Define clock and pause rules",
+            "[5] Identify responsible contact",
+            "[6] Explain status and reasons"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Publish grievance route",
+            "[8] Fix monitoring and review date",
+            "VERDICT → Specific, usable and reviewable commitments replace decorative declarations.",
+            "ANSWER USE → Use for the 2019 direct charter PYQ."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Specific, usable and reviewable commitments replace decorative declarations.",
+      "source_references": [
+        "{'sessions': [2]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-17\\g2\\ethics-17_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "STANDARD DESIGN MATRIX",
+      "structural_type": "quality-standard-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "STANDARD DESIGN MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "3. STANDARD DESIGN MATRIX",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] SPEED WITHOUT RUSHED DISPOSAL",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] ACCURACY WITHOUT HIDDEN BACKLOG",
+          "role": "primary"
+        },
+        {
+          "text": "[3] FAIRNESS ACROSS SOCIAL GROUPS",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] ACCESSIBILITY ACROSS DISABILITIES",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] COMPLETENESS OF FINAL OUTCOME",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "3. Standard design matrix",
+        "[1] Speed without rushed disposal",
+        "[2] Accuracy without hidden backlog",
+        "[3] Fairness across social groups"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] Fairness across social groups",
+          "[7] Correction of official error"
+        ],
+        [
+          "3. Standard design matrix",
+          "[4] Accessibility across disabilities",
+          "[8] Audit against target gaming"
+        ],
+        [
+          "[1] Speed without rushed disposal",
+          "[5] Completeness of final outcome",
+          "VERDICT → Quality, fairness and usability must discipline every time target."
+        ],
+        [
+          "[2] Accuracy without hidden backlog",
+          "[6] Communication during delay",
+          "ANSWER USE → Use for metrics and ethical-failure analysis."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "3. Standard design matrix",
+            "[1] Speed without rushed disposal",
+            "[2] Accuracy without hidden backlog"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Fairness across social groups",
+            "[4] Accessibility across disabilities",
+            "[5] Completeness of final outcome",
+            "[6] Communication during delay"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Correction of official error",
+            "[8] Audit against target gaming",
+            "VERDICT → Quality, fairness and usability must discipline every time target.",
+            "ANSWER USE → Use for metrics and ethical-failure analysis."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Quality, fairness and usability must discipline every time target.",
+      "source_references": [
+        "{'sessions': [3]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-17\\g2\\ethics-17_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CONSULTATION AND REVIEW LOOP",
+      "structural_type": "consultation-loop",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CONSULTATION AND REVIEW LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "4. CONSULTATION AND REVIEW LOOP",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] MAP USERS AND NON-USERS",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] HEAR VULNERABLE GROUPS",
+          "role": "primary"
+        },
+        {
+          "text": "[3] TEST FRONTLINE FEASIBILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] PUBLISH DRAFT STANDARDS",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] PILOT THE SERVICE JOURNEY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "4. Consultation and review loop",
+        "[1] Map users and non-users",
+        "[2] Hear vulnerable groups",
+        "[3] Test frontline feasibility"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "4. Consultation and review loop",
+            "[1] Map users and non-users",
+            "[2] Hear vulnerable groups"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Test frontline feasibility",
+            "[4] Publish draft standards",
+            "[5] Pilot the service journey",
+            "[6] Measure citizen experience"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Revise weak commitments",
+            "[8] Publish changes and reasons",
+            "VERDICT → A living charter learns from both citizen barriers and delivery capability.",
+            "ANSWER USE → Use for reform and periodic-review recommendations."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → A living charter learns from both citizen barriers and delivery capability.",
+      "source_references": [
+        "{'sessions': [4]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-17\\g2\\ethics-17_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "THREE INSTRUMENTS KEPT DISTINCT",
+      "structural_type": "three-layer-distinction",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THREE INSTRUMENTS KEPT DISTINCT",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "5. THREE INSTRUMENTS KEPT DISTINCT",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] CHARTER STATES THE PROMISE",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] GRIEVANCE REGISTERS FAILURE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] AUTHORITY INVESTIGATES COMPLAINT",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] ADMINISTRATIVE REMEDY MAY FOLLOW",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] STATUTE CREATES ENTITLEMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "5. Three instruments kept distinct",
+        "[1] Charter states the promise",
+        "[2] Grievance registers failure",
+        "[3] Authority investigates complaint"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "5. Three instruments kept distinct",
+            "[1] Charter states the promise",
+            "[2] Grievance registers failure"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Authority investigates complaint",
+            "[4] Administrative remedy may follow",
+            "[5] Statute creates entitlement",
+            "[6] Only notified services qualify"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Appeal follows applicable law",
+            "[8] Exact State design controls",
+            "VERDICT → Promise, complaint route and statutory right are connected but never interchangeable.",
+            "ANSWER USE → Use for close-option distinctions and legal precision."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Promise, complaint route and statutory right are connected but never interchangeable.",
+      "source_references": [
+        "{'sessions': [5]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-17\\g2\\ethics-17_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SEVOTTAM AND CPGRAMS ROUTE",
+      "structural_type": "integrated-quality-route",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SEVOTTAM AND CPGRAMS ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. SEVOTTAM AND CPGRAMS ROUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] CHARTER SETS SERVICE STANDARD",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] CAPABILITY MAKES IT FEASIBLE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] CITIZEN EXPERIENCES DELIVERY",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] CPGRAMS RECORDS GRIEVANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] REGISTRATION ENABLES TRACKING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "6. Sevottam and CPGRAMS route",
+        "[1] Charter sets service standard",
+        "[2] Capability makes it feasible",
+        "[3] Citizen experiences delivery"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "6. Sevottam and CPGRAMS route",
+            "[1] Charter sets service standard",
+            "[2] Capability makes it feasible"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Citizen experiences delivery",
+            "[4] CPGRAMS records grievance",
+            "[5] Registration enables tracking",
+            "[6] Feedback tests closure"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Appeal challenges poor resolution",
+            "[8] Patterns drive capability repair",
+            "VERDICT → A portal makes failure visible; the responsible authority must still resolve it.",
+            "ANSWER USE → Use for current official linkage."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → A portal makes failure visible; the responsible authority must still resolve it.",
+      "source_references": [
+        "{'sessions': [6]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-17\\g2\\ethics-17_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ETHICAL WORK-CULTURE ENGINE",
+      "structural_type": "culture-engine",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ETHICAL WORK-CULTURE ENGINE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "7. ETHICAL WORK-CULTURE ENGINE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] LEADERSHIP MODELS PUBLIC SERVICE",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] PROFESSIONALISM JOINS SKILL AND CARE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] EMPATHY REVEALS LIVED BARRIERS",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] RULES PRESERVE EQUAL TREATMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] TEAMS DISCUSS NEAR MISSES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "7. Ethical work-culture engine",
+        "[1] Leadership models public service",
+        "[2] Professionalism joins skill and care",
+        "[3] Empathy reveals lived barriers"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "7. Ethical work-culture engine",
+            "[1] Leadership models public service",
+            "[2] Professionalism joins skill and care"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Empathy reveals lived barriers",
+            "[4] Rules preserve equal treatment",
+            "[5] Teams discuss near misses",
+            "[6] Incentives reward true resolution"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Safe feedback prevents concealment",
+            "[8] Fair accountability sustains trust",
+            "VERDICT → Employees follow repeated signals more readily than ceremonial slogans.",
+            "ANSWER USE → Use for the 2025 ethical-work-culture PYQ."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Employees follow repeated signals more readily than ceremonial slogans.",
+      "source_references": [
+        "{'sessions': [7]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-17\\g2\\ethics-17_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "FACILITATIVE ADMINISTRATION",
+      "structural_type": "enabler-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FACILITATIVE ADMINISTRATION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "8. FACILITATIVE ADMINISTRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] EXPLAIN LAWFUL REQUIREMENTS",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] OFFER PRE-APPLICATION ASSISTANCE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] REMOVE DUPLICATE DOCUMENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] COORDINATE A SINGLE WINDOW",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] USE RISK-BASED SCRUTINY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "8. Facilitative administration",
+        "[1] Explain lawful requirements",
+        "[2] Offer pre-application assistance",
+        "[3] Remove duplicate documents"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "8. Facilitative administration",
+            "[1] Explain lawful requirements",
+            "[2] Offer pre-application assistance"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Remove duplicate documents",
+            "[4] Coordinate a single window",
+            "[5] Use risk-based scrutiny",
+            "[6] Give reasoned decisions"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Correct curable defects",
+            "[8] Retain safeguards for high risk",
+            "VERDICT → Enabler means solution-oriented legality, not abandonment of regulation.",
+            "ANSWER USE → Use for the 2025 facilitator PYQ."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Enabler means solution-oriented legality, not abandonment of regulation.",
+      "source_references": [
+        "{'sessions': [8]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-17\\g2\\ethics-17_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "PROCESS BEFORE PORTAL",
+      "structural_type": "redesign-before-digital",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PROCESS BEFORE PORTAL",
+          "role": "mechanism"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "9. PROCESS BEFORE PORTAL",
+          "role": "mechanism"
+        },
+        {
+          "text": "[1] MAP PRESENT CITIZEN JOURNEY",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] REMOVE AVOIDABLE TOUCHPOINTS",
+          "role": "primary"
+        },
+        {
+          "text": "[3] ASSIGN END-TO-END OWNERSHIP",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] SIMPLIFY EVIDENCE REQUIREMENTS",
+          "role": "evidence"
+        },
+        {
+          "text": "[5] INTEGRATE BACK-END WORKFLOW",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "9. Process before portal",
+        "[1] Map present citizen journey",
+        "[2] Remove avoidable touchpoints",
+        "[3] Assign end-to-end ownership"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "9. Process before portal",
+            "[1] Map present citizen journey",
+            "[2] Remove avoidable touchpoints"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Assign end-to-end ownership",
+            "[4] Simplify evidence requirements",
+            "[5] Integrate back-end workflow",
+            "[6] Digitise with traceable records"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Provide correction and review",
+            "[8] Audit real outcome after launch",
+            "VERDICT → Computerising a fragmented process can accelerate opacity rather than service.",
+            "ANSWER USE → Use for e-governance and Mission Karmayogi answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Computerising a fragmented process can accelerate opacity rather than service.",
+      "source_references": [
+        "{'sessions': [9]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-17\\g2\\ethics-17_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "LAST-MILE INCLUSION LADDER",
+      "structural_type": "inclusion-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LAST-MILE INCLUSION LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "10. LAST-MILE INCLUSION LADDER",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] ACCESSIBLE PHYSICAL COUNTER",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] ASSISTED DIGITAL CHANNEL",
+          "role": "primary"
+        },
+        {
+          "text": "[3] LOCAL-LANGUAGE COMMUNICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] LOW-BANDWIDTH ALTERNATIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] ALTERNATIVE AUTHENTICATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "10. Last-mile inclusion ladder",
+        "[1] Accessible physical counter",
+        "[2] Assisted digital channel",
+        "[3] Local-language communication"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "10. Last-mile inclusion ladder",
+            "[1] Accessible physical counter",
+            "[2] Assisted digital channel",
+            "[3] Local-language communication"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Low-bandwidth alternative",
+            "[5] Alternative authentication",
+            "[6] Disability-compatible interface",
+            "[7] Human review of exclusion",
+            "[8] Outreach to remote users"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Digital-by-default must never become exclusion by design.",
+            "ANSWER USE → Use for vulnerable-group and online-method questions.",
+            "CLOSE DISTINCTION: Sevottam links charter quality, grievance redress and service..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Digital-by-default must never become exclusion by design.",
+      "source_references": [
+        "{'sessions': [10]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-17\\g2\\ethics-17_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "METRICS AND ANTI-GAMING DASHBOARD",
+      "structural_type": "balanced-metrics-dashboard",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "METRICS AND ANTI-GAMING DASHBOARD",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "11. METRICS AND ANTI-GAMING DASHBOARD",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] TIMELINESS OF FINAL OUTCOME",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] ACCURACY AND CORRECTION RATE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] FIRST-CONTACT RESOLUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] REPEAT GRIEVANCE FREQUENCY",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] APPEAL REVERSAL PATTERN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "11. Metrics and anti-gaming dashboard",
+        "[1] Timeliness of final outcome",
+        "[2] Accuracy and correction rate",
+        "[3] First-contact resolution"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "11. Metrics and anti-gaming dashboard",
+            "[1] Timeliness of final outcome",
+            "[2] Accuracy and correction rate",
+            "[3] First-contact resolution"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Repeat grievance frequency",
+            "[5] Appeal reversal pattern",
+            "[6] Citizen feedback quality",
+            "[7] Group-wise access and exclusion",
+            "[8] Independent sample-file audit"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Measure resolved, correct and equitable service rather than attractive disposal alone.",
+            "ANSWER USE → Use for diagnosis, monitoring and evaluation.",
+            "EVIDENCE / AUTHORITY / APPLICATION LIMIT: Reform must combine consultation, process..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Measure resolved, correct and equitable service rather than attractive disposal alone.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-17\\g2\\ethics-17_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "COMPLETE EXAMINER ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "COMPLETE EXAMINER ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "12. COMPLETE EXAMINER ANSWER SPINE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] DEFINE CHARTER AND CITIZEN-CENTRICITY",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] DISTINGUISH REDRESS AND LEGAL RIGHT",
+          "role": "primary"
+        },
+        {
+          "text": "[3] STATE STANDARDS AND OWNERSHIP",
+          "role": "institution"
+        },
+        {
+          "text": "[4] ADD SEVOTTAM CAPABILITY LOGIC",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] DIAGNOSE WORK-CULTURE INCENTIVES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "12. Complete examiner answer spine",
+        "[1] Define charter and citizen-centricity",
+        "[2] Distinguish redress and legal right",
+        "[3] State standards and ownership"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "12. Complete examiner answer spine",
+            "[1] Define charter and citizen-centricity",
+            "[2] Distinguish redress and legal right"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] State standards and ownership",
+            "[4] Add Sevottam capability logic",
+            "[5] Diagnose work-culture incentives",
+            "[6] Redesign process and access"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Use balanced metrics and review",
+            "[8] Conclude promise plus remedy",
+            "VERDICT → The strongest answer connects ethical values to an administratively testable service system.",
+            "ANSWER USE → Use for PYQ synthesis and original Mains practice."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANSWER USE → Use for PYQ synthesis and original Mains practice.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-17\\g2\\ethics-17_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. THE ADVANCED PROBLEM",
+          "role": "outcome"
+        },
+        {
+          "text": "MAKING PUBLIC PROMISES CREDIBLE",
+          "role": "comparison"
+        },
+        {
+          "text": "2. CHARTER AS COMMITMENT, NOT CONTRACT BY METAPHOR",
+          "role": "caution"
+        },
+        {
+          "text": "3. STANDARD DESIGN AS A MULTI-OBJECTIVE PROBLEM",
+          "role": "primary"
+        },
+        {
+          "text": "4. CAPABILITY-CALIBRATED COMMITMENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "5. WORK CULTURE AS A SLOW INSTITUTIONAL VARIABLE",
+          "role": "comparison"
+        },
+        {
+          "text": "6. STREET-LEVEL DISCRETION AND ADMINISTRATIVE BURDEN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. The advanced problem: making public promises credible",
+            "2. Charter as commitment, not contract by metaphor",
+            "3. Standard design as a multi-objective problem",
+            "4. Capability-calibrated commitments"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "5. Work culture as a slow institutional variable",
+            "6. Street-level discretion and administrative burden",
+            "7. Grievance data as service-design intelligence",
+            "8. Service recovery and restoration of trust"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "9. Metrics, Goodhart's pressure and anti-gaming design",
+            "10. Single window, positive silence and risk migration",
+            "11. Digital public service: convenience, dignity and contestability",
+            "12. Inclusion as substantive service quality"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

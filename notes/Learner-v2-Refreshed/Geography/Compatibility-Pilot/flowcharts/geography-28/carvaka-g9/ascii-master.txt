@@ -1,0 +1,290 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Geography 28 — Human Settlements and Urbanisation: central question and analytical axes
+
+```ascii-master
+GEOGRAPHY 28 — HUMAN SETTLEMENTS AND URBANISATION — CONCEPTUAL ATLAS
+
+
+KEY TERMS: Settlement Geography • Site • Situation • Function • Hierarchy • location, form,
+KEY TERMS: function and hierarchy
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Geography 28 — Human Settlements and Urbanisation
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       An urban settlement is generally larger, functionally diversified…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: SETTLEMENT GEOGRAPHY: SITE, SITUATION, FUNCTION AND HIERARCHY
+  • Settlement Geography
+  • An urban settlement is generally larger, functionally diversified…
+AXIS 2: MODEL FIREWALL: MODELS SIMPLIFY
+  • Model Firewall
+  • Use a model in four steps: assumption - mechanism - Indian…
+AXIS 3: HOYT: THE SECTOR MODEL
+  • Hoyt
+  • The sector model argues that industry, housing and high-status…
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  Settlement Geography • Site • Situation • Function
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Settlement site, situation, form, pattern and rural–urban continuum
+
+```ascii-master
+SETTLEMENT SITE, SITUATION, FORM, PATTERN AND RURAL–URBAN CONTINUUM
+│
+
+KEY TERMS: Settlement Geography • Site • Situation • Function • Hierarchy • location, form,
+KEY TERMS: function and hierarchy
+├── KEY CONCEPTS
+│   ├── Settlement Geography
+│   ├── Site
+│   ├── Situation
+│   ├── Function
+│   └── Hierarchy
+│
+├── SETTLEMENT GEOGRAPHY: SITE, SITUATION, FUNCTION AND HIERARCHY
+│   ├─ TERMS: An urban settlement is generally larger, functionally diversified…
+│   ├─ LOGIC: An urban settlement is generally larger, functionally diversified…
+│   └─ RESULT: By contrast, a Himalayan village may have a secure terrace site
+│   └─ RESULT: but…
+├── RURAL SETTLEMENT FORMS: HOW CLOSELY DO PEOPLE LIVE?
+│   ├─ TERMS: Rural form answers “how closely?”
+│   ├─ LOGIC: Rural settlement form describes how houses are grouped
+│   └─ RESULT: Form is not a development ranking
+├── SETTLEMENT PATTERNS: WHAT GEOMETRY APPEARS ON THE GROUND?
+│   ├─ TERMS: Ribbon development along a national highway is linear even when the…
+│   ├─ LOGIC: The most dependable textbook example is a linear settlement…
+│   └─ RESULT: Pattern is the visible arrangement of streets and dwellings
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Central-place theory, threshold, range and Indian application
+
+```ascii-master
+CENTRAL-PLACE THEORY, THRESHOLD, RANGE AND INDIAN APPLICATION
+
+
+KEY TERMS: Urbanisation • The Rural-Urban Continuum • continuum • Urban agglomeration (UA) •
+KEY TERMS: Metropolis • Conurbation
+CAUSE / CONDITION 1: Urbanisation is a process of people + work + services +…
+          │
+          ├── MECHANISM
+          │   A village near a metropolitan edge may still have a panchayat but…
+          │
+          └── EFFECT / CONTRAST
+              Urbanisation changes population share, occupation, services…
+          │
+          ▼
+CAUSE / CONDITION 2: A model is a thinking tool, not a universal map
+          │
+          ├── MECHANISM
+          │   Use a model in four steps: assumption - mechanism - Indian…
+          │
+          └── EFFECT / CONTRAST
+              A model is a thinking tool, not a universal map
+          │
+          ▼
+CAUSE / CONDITION 3: The theory explains a nested hierarchy of service centres…
+          │
+          ├── MECHANISM
+          │   The theory explains a nested hierarchy of service centres through…
+          │
+          └── EFFECT / CONTRAST
+              Real plains are not uniform
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Rank-size and Burgess/Hoyt urban morphology models
+
+```ascii-master
+RANK-SIZE AND BURGESS/HOYT URBAN MORPHOLOGY MODELS
+
+
+KEY TERMS: Applying Central-Place Logic To India • hierarchy collapse • variables • Great
+KEY TERMS: alluvial plains • Service-facility planning • Periodic markets
+UPSTREAM / OUTER SETTING
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ ZONE / LAYER A                                                       │
+│ APPLYING CENTRAL-PLACE LOGIC TO INDIA                                │
+│ Process: This comparison is the visual: use it to move from “model…  │
+│ Result : Use the variables, not the ideal geometry, as the main…     │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ ZONE / LAYER B                                                       │
+│ RANK-SIZE, PRIMATE CITY AND INDIA'S MULTI-METROPOLITAN SYSTEM        │
+│ Process: The rank-size rule says that, in a well-integrated urban…   │
+│ Result : India is not strongly primate at the national scale…        │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ ZONE / LAYER C                                                       │
+│ BURGESS: THE CONCENTRIC-ZONE MODEL                                   │
+│ Process: Growth occurs through invasion and succession: expanding…   │
+│ Result : The transition zone is not a universal “slum ring.”         │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ INDIA / LOCAL EXPRESSION                                             │
+│ HOYT: THE SECTOR MODEL                                               │
+│ Process: The sector model argues that industry, housing and…         │
+│ Result : Hoyt is stronger than Burgess when direction and transport… │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+SPATIAL CONTROL: locate the process, then compare scale and regional expression.
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Multiple nuclei, Indian urban definitions and metropolitan structure
+
+```ascii-master
+MULTIPLE NUCLEI, INDIAN URBAN DEFINITIONS AND METROPOLITAN STRUCTURE
+
+
+KEY TERMS: Harris • Ullman • The Multiple-Nuclei Model • specialisation + clustering +… •
+KEY TERMS: CBD • The model
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ HARRIS AND ULLMAN: THE │ The result may include an old │ Polycentricity is not         │
+│ MULTIPLE-NUCLEI MODEL  │ CBD, industrial node,         │ automatically good governance │
+│                        │ university…                   │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ INDIA'S URBAN          │ The central Indian            │ A census town may have dense  │
+│ DEFINITIONS:           │ distinction is between urban  │ non-farm activity but remain  │
+│ STATISTICAL            │ status by law and…            │ governed…                     │
+│ URBANISATION AND       │                               │                               │
+│ ADMINISTRATIVE…        │                               │                               │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ INDIA'S URBAN PROBLEM  │ Correction: they are the same │ Informal settlement is best   │
+│ SET: SPRAWL, HOUSING   │ land-use and mobility problem │ understood as a               │
+│ AND MOBILITY           │ viewed…                       │ housing-market and…           │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Urban sprawl, housing, mobility, floods, heat, water and governance
+
+```ascii-master
+URBAN SPRAWL, HOUSING, MOBILITY, FLOODS, HEAT, WATER AND GOVERNANCE
+
+
+KEY TERMS: India'S Urban Problem Set • Floods • Heat • Water • Sanitation • volume and speed
+CAUSE / CONDITION 1: Trap: urban flooding is caused by rainfall alone
+          │
+          ├── MECHANISM
+          │   Trap: urban flooding is caused by rainfall alone
+          │
+          └── EFFECT / CONTRAST
+              The exact local mechanism differs, but the catchment principle is…
+          │
+          ▼
+CAUSE / CONDITION 2: Claim: part of urban growth is invisible to urban government
+          │
+          ├── MECHANISM
+          │   Use governance fragmentation as the underlying mechanism connecting…
+          │
+          └── EFFECT / CONTRAST
+              Frame the answer through India'S Urban Problem Set
+          │
+          ▼
+CAUSE / CONDITION 3: Urban problems emerge when land use, services and government…
+          │
+          ├── MECHANISM
+          │   Urban problems emerge when land use, services and government no…
+          │
+          └── EFFECT / CONTRAST
+              settlement geography moves from the ground under a habitation to…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Geography 28 — Human Settlements and Urbanisation: traps, PYQ routes and applied recall
+
+```ascii-master
+GEOGRAPHY 28 — HUMAN SETTLEMENTS AND URBANISATION: TRAPS, PYQ ROUTES AND APPLIED RECALL
+
+
+KEY TERMS: Settlement Geography • Site • Situation • Function • Hierarchy • location, form,
+KEY TERMS: function and hierarchy
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── correction: site is local ground
+├── The model is static, while technology and population change…
+├── multiple nuclei best captures specialisation + clustering +…
+├── settlement geography moves from the ground under a habitation to…
+│
+├── Practice protocol and provenance
+├── Question wording follows locally available paper scans with minor OCR…
+├── 2
+├── Locally available official GS-I question paper verified
+│
+└── A good water site may remain small if it is isolated
+└── Burgess explains rings well
+└── Basic verdict: settlement geography moves from the ground under a…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Geography 28 — Human Settlements and Urbanisation: integrated revision and answer-writing…
+
+```ascii-master
+GEOGRAPHY 28 — HUMAN SETTLEMENTS AND URBANISATION — ANSWER / REVISION SPINE
+
+
+KEY TERMS: Settlement Geography • Site • Situation • Function • Hierarchy • location, form,
+KEY TERMS: function and hierarchy
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ An urban settlement is generally larger, functionally diversified…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ Settlement Geography
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ The theory explains a nested hierarchy of service centres through…
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ Situation
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ settlement geography moves from the ground under a habitation to…
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ Basic verdict: settlement geography moves from the ground under a…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

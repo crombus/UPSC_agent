@@ -1,0 +1,1233 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ethics-08",
+  "subject": "Ethics",
+  "title": "MORAL THEORIES: DEONTOLOGY, CONSEQUENTIALISM, VIRTUE ETHICS",
+  "short_route": "ANATOMY OF A MORALLY → DEONTOLOGICAL DUTY LADDER → CONSEQUENTIALIST OUTCOME CALCULUS → ACT UTILITY VERSUS RULE → VIRTUE ETHICS AND PHRONESIS → INTUITION-TO-REASON REFLECTIVE LOOP",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-08\\g2\\ethics-08_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics-08-deep-review-2026-09-02-g2.json",
+  "ascii_spec_sha256": "e056cf0717fd7ef247e6723c954159579dbbe1d0f66c650c1c212f843fdc47a2",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ANATOMY OF A MORALLY APPRAISED ACTION",
+      "structural_type": "layered-process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ANATOMY OF A MORALLY APPRAISED ACTION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. ANATOMY OF A MORALLY APPRAISED ACTION",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] START WITH THE SITUATION, RELEVANT FACTS AND REALISTIC",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] IDENTIFY MOTIVE",
+          "role": "primary"
+        },
+        {
+          "text": "THE BACKGROUND REASON MOVING THE AGENT.",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] IDENTIFY INTENTION",
+          "role": "comparison"
+        },
+        {
+          "text": "THE RESULT AND MEANS DELIBERATELY CHOSEN.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "1. Anatomy of a morally appraised action",
+        "[1] Start with the situation, relevant facts and realistic alternatives.",
+        "[2] Identify motive: the background reason moving the agent.",
+        "[3] Identify intention: the result and means deliberately chosen."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "1. Anatomy of a morally appraised action",
+            "[1] Start with the situation, relevant facts and realistic alternatives.",
+            "[2] Identify motive: the background reason moving the agent.",
+            "[3] Identify intention: the result and means deliberately chosen."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Test the chosen means for duty, dignity and legality.",
+            "[5] Estimate expected and reasonably foreseeable consequences.",
+            "[6] Record actual consequences without equating outcome with complete responsibility.",
+            "[7] Separate what was controlled from resultant or circumstantial luck.",
+            "[8] Triangulate duty, consequence and character into a reasoned verdict."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Never let a good motive or fortunate outcome substitute for appraisal of intention and means.",
+            "ANSWER USE → Use as the opening diagnostic in any theory question or administrative case study.",
+            "MUST REMEMBER: Deontology tests duties and rights, consequentialism foreseeable outcomes,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Never let a good motive or fortunate outcome substitute for appraisal of intention and means.",
+      "source_references": [
+        "{'sessions': [1]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-08\\g2\\ethics-08_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DEONTOLOGICAL DUTY LADDER",
+      "structural_type": "vertical-duty-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DEONTOLOGICAL DUTY LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "2. DEONTOLOGICAL DUTY LADDER",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] GOOD WILL ASKS WHETHER THE AGENT ACTS FROM",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] STATE THE OPERATIVE MAXIM BEHIND THE PROPOSED ADMINISTRATIVE",
+          "role": "institution"
+        },
+        {
+          "text": "[3] UNIVERSALISE THE MAXIM AND TEST FOR CONTRADICTION OR",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] APPLY THE HUMANITY FORMULA",
+          "role": "comparison"
+        },
+        {
+          "text": "NEVER TREAT PERSONS MERELY AS MEANS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "2. Deontological duty ladder",
+        "[1] Good will asks whether the agent acts from duty rather than expediency.",
+        "[2] State the operative maxim behind the proposed administrative act.",
+        "[3] Universalise the maxim and test for contradiction or selective privilege."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "2. Deontological duty ladder",
+            "[1] Good will asks whether the agent acts from duty rather than expediency.",
+            "[2] State the operative maxim behind the proposed administrative act."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Universalise the maxim and test for contradiction or selective privilege.",
+            "[4] Apply the humanity formula: never treat persons merely as means.",
+            "[5] Identify the duty and rights floor that outcomes cannot ordinarily override.",
+            "[6] Recognise agent-relative restraints on one's own lying, coercion or falsification."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Where duties conflict, identify their grounds instead of mechanically repeating rules.",
+            "[8] Give a reasoned priority while acknowledging deontology's rigidity limit.",
+            "VERDICT → Deontology supplies non-negotiable floors, but hard cases still require reasoned priority among duties.",
+            "ANSWER USE → Use to write the duty-and-rights paragraph in a Mains answer or case evaluation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Deontology supplies non-negotiable floors, but hard cases still require reasoned priority among duties.",
+      "source_references": [
+        "{'sessions': [2]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-08\\g2\\ethics-08_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CONSEQUENTIALIST OUTCOME CALCULUS",
+      "structural_type": "multi-stage-calculus",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CONSEQUENTIALIST OUTCOME CALCULUS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "3. CONSEQUENTIALIST OUTCOME CALCULUS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] LIST FEASIBLE ALTERNATIVES RATHER THAN COMPARING ACTION ONLY",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] MAP EVERY MATERIALLY AFFECTED STAKEHOLDER, INCLUDING WEAK AND",
+          "role": "primary"
+        },
+        {
+          "text": "[3] ESTIMATE EXPECTED BENEFITS UNDER EACH ALTERNATIVE.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] ESTIMATE DIRECT, INDIRECT AND OPPORTUNITY-COST HARMS.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] ATTACH REALISTIC PROBABILITIES AND IDENTIFY UNCERTAINTY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "3. Consequentialist outcome calculus",
+        "[1] List feasible alternatives rather than comparing action only with inaction.",
+        "[2] Map every materially affected stakeholder, including weak and future interests.",
+        "[3] Estimate expected benefits under each alternative."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "3. Consequentialist outcome calculus",
+            "[1] List feasible alternatives rather than comparing action only with inaction.",
+            "[2] Map every materially affected stakeholder, including weak and future interests."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Estimate expected benefits under each alternative.",
+            "[4] Estimate direct, indirect and opportunity-cost harms.",
+            "[5] Attach realistic probabilities and identify uncertainty.",
+            "[6] Examine distribution and the short, medium and long time horizons."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Include precedent, institutional trust and behavioural incentives.",
+            "[8] Select the best expected outcome subject to an explicit rights check.",
+            "VERDICT → A utility total is credible only when stakeholders, uncertainty, distribution and long-term trust are visible.",
+            "ANSWER USE → Use for policy appraisal, cost-benefit ethics and option comparison in case studies."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → A utility total is credible only when stakeholders, uncertainty, distribution and long-term trust are visible.",
+      "source_references": [
+        "{'sessions': [3]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-08\\g2\\ethics-08_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ACT UTILITY VERSUS RULE UTILITY",
+      "structural_type": "split-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ACT UTILITY VERSUS RULE UTILITY",
+          "role": "institution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "4. ACT UTILITY VERSUS RULE UTILITY",
+          "role": "institution"
+        },
+        {
+          "text": "[1] ACT UTILITARIANISM TREATS THE INDIVIDUAL ACT AS THE",
+          "role": "institution"
+        },
+        {
+          "text": "[2] RULE UTILITARIANISM EVALUATES THE GENERAL ACCEPTANCE OF A",
+          "role": "primary"
+        },
+        {
+          "text": "[3] ACT UTILITY ASKS WHETHER A LOCAL EXCEPTION IMPROVES",
+          "role": "institution"
+        },
+        {
+          "text": "[4] RULE UTILITY ASKS WHAT WIDESPREAD EXCEPTION-MAKING WOULD PRODUCE.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] GENERAL RULES CREATE PREDICTABILITY AND ADMINISTRATIVE COORDINATION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "4. Act utility versus rule utility",
+        "[1] Act utilitarianism treats the individual act as the unit of evaluation.",
+        "[2] Rule utilitarianism evaluates the general acceptance of a rule.",
+        "[3] Act utility asks whether a local exception improves expected welfare."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] Act utility asks whether a local exception improves expected welfare.",
+          "[7] Rigid adherence can become rule worship when context defeats purpose."
+        ],
+        [
+          "4. Act utility versus rule utility",
+          "[4] Rule utility asks what widespread exception-making would produce.",
+          "[8] Allow only authorised, recorded and reviewable purposive exceptions."
+        ],
+        [
+          "[1] Act utilitarianism treats the individual act as the unit of evaluation.",
+          "[5] General rules create predictability and administrative coordination.",
+          "VERDICT → Use welfare-promoting rules as the default and narrow purposive exceptions as the safety valve."
+        ],
+        [
+          "[2] Rule utilitarianism evaluates the general acceptance of a rule.",
+          "[6] Impartial rules protect trust and reduce disguised favouritism.",
+          "ANSWER USE → Use to differentiate the two theories or analyse procurement and emergency departures."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "4. Act utility versus rule utility",
+            "[1] Act utilitarianism treats the individual act as the unit of evaluation.",
+            "[2] Rule utilitarianism evaluates the general acceptance of a rule."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Act utility asks whether a local exception improves expected welfare.",
+            "[4] Rule utility asks what widespread exception-making would produce.",
+            "[5] General rules create predictability and administrative coordination.",
+            "[6] Impartial rules protect trust and reduce disguised favouritism."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Rigid adherence can become rule worship when context defeats purpose.",
+            "[8] Allow only authorised, recorded and reviewable purposive exceptions.",
+            "VERDICT → Use welfare-promoting rules as the default and narrow purposive exceptions as the safety valve.",
+            "ANSWER USE → Use to differentiate the two theories or analyse procurement and emergency departures."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Use welfare-promoting rules as the default and narrow purposive exceptions as the safety valve.",
+      "source_references": [
+        "{'sessions': [4]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-08\\g2\\ethics-08_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "VIRTUE ETHICS AND PHRONESIS WHEEL",
+      "structural_type": "hub-spoke-wheel",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "VIRTUE ETHICS AND PHRONESIS WHEEL",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "5. VIRTUE ETHICS AND PHRONESIS WHEEL",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] EUDAIMONIA SUPPLIES THE WIDER IDEA OF HUMAN FLOURISHING.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] CHARACTER CONCERNS THE KIND OF PERSON REPEATED CHOICES",
+          "role": "primary"
+        },
+        {
+          "text": "[3] HABITUATION CONVERTS ISOLATED GOOD ACTS INTO RELIABLE DISPOSITIONS.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] THE MEAN IS APPROPRIATE RESPONSE BETWEEN EXCESS AND",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] PHRONESIS PERCEIVES WHICH FEATURES OF THE CONTEXT ETHICALLY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "5. Virtue ethics and phronesis wheel",
+        "[1] Eudaimonia supplies the wider idea of human flourishing.",
+        "[2] Character concerns the kind of person repeated choices create.",
+        "[3] Habituation converts isolated good acts into reliable dispositions."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "5. Virtue ethics and phronesis wheel",
+            "[1] Eudaimonia supplies the wider idea of human flourishing.",
+            "[2] Character concerns the kind of person repeated choices create."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Habituation converts isolated good acts into reliable dispositions.",
+            "[4] The mean is appropriate response between excess and deficiency.",
+            "[5] Phronesis perceives which features of the context ethically matter.",
+            "[6] Public role and entrusted power shape the virtues demanded."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Justice, courage, honesty, compassion and temperance must work together.",
+            "[8] Practical wisdom supplements rather than abolishes rules and evidence.",
+            "VERDICT → Virtue ethics explains the quality of judgment that rules and calculations alone cannot supply.",
+            "ANSWER USE → Use for wisdom, leadership, context-sensitive judgment and role-ethics answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Virtue ethics explains the quality of judgment that rules and calculations alone cannot supply.",
+      "source_references": [
+        "{'sessions': [5]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-08\\g2\\ethics-08_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "INTUITION-TO-REASON REFLECTIVE LOOP",
+      "structural_type": "feedback-loop",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INTUITION-TO-REASON REFLECTIVE LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. INTUITION-TO-REASON REFLECTIVE LOOP",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] AN INTUITIVE REACTION FIRST SIGNALS THAT SOMETHING MAY",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] EXPERIENCE AND AFFECT EXPLAIN ITS SPEED AND PRACTICAL",
+          "role": "primary"
+        },
+        {
+          "text": "[3] BIAS, FAMILIARITY AND IN-GROUP PREFERENCE MAKE INTUITION FALLIBLE.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] PAUSE BEFORE CONVERTING THE FELT RESPONSE INTO OFFICIAL",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] GATHER FACTS, ALTERNATIVES, LAW AND AFFECTED-PARTY PERSPECTIVES.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "6. Intuition-to-reason reflective loop",
+        "[1] An intuitive reaction first signals that something may be morally salient.",
+        "[2] Experience and affect explain its speed and practical sensitivity.",
+        "[3] Bias, familiarity and in-group preference make intuition fallible."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "6. Intuition-to-reason reflective loop",
+            "[1] An intuitive reaction first signals that something may be morally salient.",
+            "[2] Experience and affect explain its speed and practical sensitivity."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Bias, familiarity and in-group preference make intuition fallible.",
+            "[4] Pause before converting the felt response into official action.",
+            "[5] Gather facts, alternatives, law and affected-party perspectives.",
+            "[6] Test the reaction through duties, consequences and virtues."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] State public reasons capable of review and appeal.",
+            "[8] Revise the intuition or decision when the reasoned test requires it.",
+            "VERDICT → Intuition should trigger inquiry; reason should audit it; neither is sufficient alone.",
+            "ANSWER USE → Use directly for 2023 Q4(b) and in the reasoning stage of any case study."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Intuition should trigger inquiry; reason should audit it; neither is sufficient alone.",
+      "source_references": [
+        "{'sessions': [6]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-08\\g2\\ethics-08_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DOING GOOD BEYOND THE RULEBOOK",
+      "structural_type": "decision-gate",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DOING GOOD BEYOND THE RULEBOOK",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "7. DOING GOOD BEYOND THE RULEBOOK",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] SPECIFY THE PUBLIC GOOD THE PROPOSED INITIATIVE SEEKS.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] CONFIRM DELEGATED AUTHORITY TO TAKE THE PROPOSED ACTION.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] CHECK FOR AN EXPRESS STATUTORY OR REGULATORY PROHIBITION.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] CHECK PURPOSE AND STRUCTURE FOR AN IMPLIED PROHIBITION.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] PROTECT RIGHTS, DUE PROCESS AND EQUAL TREATMENT OF",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "7. Doing good beyond the rulebook",
+        "[1] Specify the public good the proposed initiative seeks.",
+        "[2] Confirm delegated authority to take the proposed action.",
+        "[3] Check for an express statutory or regulatory prohibition."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "7. Doing good beyond the rulebook",
+            "[1] Specify the public good the proposed initiative seeks.",
+            "[2] Confirm delegated authority to take the proposed action."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Check for an express statutory or regulatory prohibition.",
+            "[4] Check purpose and structure for an implied prohibition.",
+            "[5] Protect rights, due process and equal treatment of comparable citizens.",
+            "[6] Examine resource diversion, precedent and institutional capacity."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Record reasons, apply consistently and preserve review.",
+            "[8] Proceed only as calibrated initiative rather than personal benevolence.",
+            "VERDICT → No express prohibition is only the first gate, not a complete ethical or legal permission.",
+            "ANSWER USE → Use as the full safeguard sequence for 2018 Q4(a) and discretion questions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → No express prohibition is only the first gate, not a complete ethical or legal permission.",
+      "source_references": [
+        "{'sessions': [7]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-08\\g2\\ethics-08_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "MEANS-AND-ENDS ETHICAL MATRIX",
+      "structural_type": "four-quadrant-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MEANS-AND-ENDS ETHICAL MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "8. MEANS-AND-ENDS ETHICAL MATRIX",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] GOOD END WITH GOOD MEANS IS THE STRONGEST",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] GOOD END WITH WRONGFUL MEANS CREATES THE CENTRAL",
+          "role": "primary"
+        },
+        {
+          "text": "[3] WRONGFUL END CANNOT BE RESCUED BY PROCEDURALLY PROPER",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] WRONGFUL END WITH WRONGFUL MEANS IS REJECTED BY",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] KANTIAN DUTY IMPOSES DIGNITY AND UNIVERSALISABILITY RESTRAINTS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "8. Means-and-ends ethical matrix",
+        "[1] Good end with good means is the strongest presumptive choice.",
+        "[2] Good end with wrongful means creates the central disputed case.",
+        "[3] Wrongful end cannot be rescued by procedurally proper means."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] Wrongful end cannot be rescued by procedurally proper means.",
+          "[7] Gandhian and virtue reasoning ask what tainted methods create."
+        ],
+        [
+          "8. Means-and-ends ethical matrix",
+          "[4] Wrongful end with wrongful means is rejected by every lens.",
+          "[8] Final synthesis: rights floor, then necessity and proportionality."
+        ],
+        [
+          "[1] Good end with good means is the strongest presumptive choice.",
+          "[5] Kantian duty imposes dignity and universalisability restraints.",
+          "VERDICT → Optimise consequences within clean means; justify emergency departures narrowly rather than sloganising ends."
+        ],
+        [
+          "[2] Good end with wrongful means creates the central disputed case.",
+          "[6] Act and rule consequentialism may assess exceptions differently.",
+          "ANSWER USE → Use for 2018 Q4(b), whistleblowing, surveillance and emergency-power answers."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "8. Means-and-ends ethical matrix",
+            "[1] Good end with good means is the strongest presumptive choice.",
+            "[2] Good end with wrongful means creates the central disputed case."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Wrongful end cannot be rescued by procedurally proper means.",
+            "[4] Wrongful end with wrongful means is rejected by every lens.",
+            "[5] Kantian duty imposes dignity and universalisability restraints.",
+            "[6] Act and rule consequentialism may assess exceptions differently."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Gandhian and virtue reasoning ask what tainted methods create.",
+            "[8] Final synthesis: rights floor, then necessity and proportionality.",
+            "VERDICT → Optimise consequences within clean means; justify emergency departures narrowly rather than sloganising ends.",
+            "ANSWER USE → Use for 2018 Q4(b), whistleblowing, surveillance and emergency-power answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Optimise consequences within clean means; justify emergency departures narrowly rather than sloganising ends.",
+      "source_references": [
+        "{'sessions': [8]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-08\\g2\\ethics-08_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SCARCE-RESOURCE TRIAGE FUNNEL",
+      "structural_type": "priority-funnel",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "SCARCE-RESOURCE TRIAGE FUNNEL",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "9. SCARCE-RESOURCE TRIAGE FUNNEL",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] DEFINE THE SCARCITY, TIME PRESSURE AND DIVISIBLE RESOURCE.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] MAP PATIENTS, WORKERS, FAMILIES AND INSTITUTIONAL STAKEHOLDERS.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] USE RELIABLE CLINICAL OR NEED-BASED EVIDENCE.",
+          "role": "evidence"
+        },
+        {
+          "text": "[4] ESTIMATE AGGREGATE WELFARE AND AVOID PREVENTABLE WASTE.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] PROTECT EQUAL WORTH AND PROHIBIT STATUS-BASED DISCRIMINATION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "9. Scarce-resource triage funnel",
+        "[1] Define the scarcity, time pressure and divisible resource.",
+        "[2] Map patients, workers, families and institutional stakeholders.",
+        "[3] Use reliable clinical or need-based evidence."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "9. Scarce-resource triage funnel",
+            "[1] Define the scarcity, time pressure and divisible resource.",
+            "[2] Map patients, workers, families and institutional stakeholders."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Use reliable clinical or need-based evidence.",
+            "[4] Estimate aggregate welfare and avoid preventable waste.",
+            "[5] Protect equal worth and prohibit status-based discrimination.",
+            "[6] Examine vulnerability and indirect barriers faced by weaker groups."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Publish criteria, document choices and provide rapid review.",
+            "[8] Adopt a consequence-sensitive but rights-constrained hybrid decision.",
+            "VERDICT → Clinical benefit may guide priority, but it cannot convert social status into a measure of human worth.",
+            "ANSWER USE → Use for health, disaster-relief and other scarce-resource allocation cases."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Clinical benefit may guide priority, but it cannot convert social status into a measure of human worth.",
+      "source_references": [
+        "{'sessions': [9]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-08\\g2\\ethics-08_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SNOWDEN-TYPE DISCLOSURE LADDER",
+      "structural_type": "escalation-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SNOWDEN-TYPE DISCLOSURE LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "10. SNOWDEN-TYPE DISCLOSURE LADDER",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] IDENTIFY THE LEGAL AND PROFESSIONAL DUTY OF CONFIDENTIALITY.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] IDENTIFY PRIVACY, PUBLIC INTEREST AND DEMOCRATIC-ACCOUNTABILITY CLAIMS.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] EXAMINE THE DISCLOSER'S MOTIVE WITHOUT TREATING IT AS",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] EXAMINE INTENDED AUDIENCE, SCOPE AND CHOSEN DISCLOSURE METHOD.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] COMPARE PUBLIC BENEFITS WITH SECURITY, PRIVACY AND TRUST",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "10. Snowden-type disclosure ladder",
+        "[1] Identify the legal and professional duty of confidentiality.",
+        "[2] Identify privacy, public interest and democratic-accountability claims.",
+        "[3] Examine the discloser's motive without treating it as decisive."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "10. Snowden-type disclosure ladder",
+            "[1] Identify the legal and professional duty of confidentiality.",
+            "[2] Identify privacy, public interest and democratic-accountability claims.",
+            "[3] Examine the discloser's motive without treating it as decisive."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Examine intended audience, scope and chosen disclosure method.",
+            "[5] Compare public benefits with security, privacy and trust harms.",
+            "[6] Ask whether protected internal and oversight channels were viable.",
+            "[7] Apply necessity, minimisation and proportionality to the material released.",
+            "[8] Require accountability and an independently reviewable final verdict."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Ethical defensibility turns on targeted, necessary and accountable disclosure, not moral motive alone.",
+            "ANSWER USE → Use for whistleblowing, secrecy-versus-conscience and public-interest disclosure questions.",
+            "CLOSE DISTINCTION: No theory is self-sufficient: duties can conflict, outcomes are..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Ethical defensibility turns on targeted, necessary and accountable disclosure, not moral motive alone.",
+      "source_references": [
+        "{'sessions': [10]}",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-08\\g2\\ethics-08_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MORAL LUCK TAXONOMY AND VIGILANCE TEST",
+      "structural_type": "taxonomy-to-process-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MORAL LUCK TAXONOMY AND VIGILANCE TEST",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "11. MORAL LUCK TAXONOMY AND VIGILANCE TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] CONTROL PRINCIPLE",
+          "role": "evidence"
+        },
+        {
+          "text": "BLAME SHOULD TRACK WHAT THE AGENT COULD CONTROL.",
+          "role": "primary"
+        },
+        {
+          "text": "[2] RESULTANT LUCK CONCERNS HOW A DECISION ACTUALLY TURNS",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] CIRCUMSTANTIAL LUCK CONCERNS THE SITUATIONS AN AGENT HAPPENS",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] CONSTITUTIVE LUCK CONCERNS TEMPERAMENT AND CAPACITIES NOT WHOLLY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "11. Moral luck taxonomy and vigilance test",
+        "[1] Control principle: blame should track what the agent could control.",
+        "[2] Resultant luck concerns how a decision actually turns out.",
+        "[3] Circumstantial luck concerns the situations an agent happens to face."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "11. Moral luck taxonomy and vigilance test",
+            "[1] Control principle: blame should track what the agent could control.",
+            "[2] Resultant luck concerns how a decision actually turns out.",
+            "[3] Circumstantial luck concerns the situations an agent happens to face."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[4] Constitutive luck concerns temperament and capacities not wholly chosen.",
+            "[5] Causal luck concerns the antecedent causal chain shaping choice.",
+            "[6] Evaluate authority, evidence, diligence and foreseeable risk ex ante.",
+            "[7] Use outcomes as evidence and feedback, not the sole measure of blame.",
+            "[8] Apply the ARC-style bona-fides distinction without excusing negligence."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → Protect sound good-faith judgment from hindsight bias while preserving liability for bad process.",
+            "ANSWER USE → Use for failed projects, vigilance scrutiny, disaster command and the 2019 honest-officials case.",
+            "EVIDENCE / AUTHORITY / APPLICATION LIMIT: Apply a bounded plural test: lawful floor and..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Protect sound good-faith judgment from hindsight bias while preserving liability for bad process.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-08\\g2\\ethics-08_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "CONTEXT-RELATIVE JUSTICE REVIEW CYCLE",
+      "structural_type": "continuous-review-cycle",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CONTEXT-RELATIVE JUSTICE REVIEW CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "12. CONTEXT-RELATIVE JUSTICE REVIEW CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "[1] BEGIN WITH STABLE CONSTITUTIONAL AND ETHICAL VALUES.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] IDENTIFY CHANGED FACTS, TECHNOLOGY, KNOWLEDGE OR INSTITUTIONAL CAPACITY.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] IDENTIFY CHANGED BURDENS, BENEFICIARIES AND PATTERNS OF EXCLUSION.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] ASK WHETHER THE OLD APPLICATION NOW PRODUCES INJUSTICE.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] REJECT CONVENIENCE-BASED RELATIVISM AND PRESERVE CORE RIGHTS.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "12. Context-relative justice review cycle",
+        "[1] Begin with stable constitutional and ethical values.",
+        "[2] Identify changed facts, technology, knowledge or institutional capacity.",
+        "[3] Identify changed burdens, beneficiaries and patterns of exclusion."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "12. Context-relative justice review cycle",
+            "[1] Begin with stable constitutional and ethical values.",
+            "[2] Identify changed facts, technology, knowledge or institutional capacity."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Identify changed burdens, beneficiaries and patterns of exclusion.",
+            "[4] Ask whether the old application now produces injustice.",
+            "[5] Reject convenience-based relativism and preserve core rights.",
+            "[6] Prefer lawful substance over mechanical attachment to literal form."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Confirm authority, record reasons and provide appeal or review.",
+            "[8] Continue scrutiny, including of evolving AI-assisted decisions.",
+            "VERDICT → Justice can require adaptive application without surrendering stable values or legality.",
+            "ANSWER USE → Use directly for 2024 Q4 and as the current-affairs bridge to AI governance."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Justice can require adaptive application without surrendering stable values or legality.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE",
+        "upsc-ai-kit\\knowledge\\Ethics\\basic\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Ethics\\advanced\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-08\\g2\\ethics-08_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "2. CONCEPTS AND DISTINCTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DETAILED TREATMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "4. INSTITUTIONAL AND REFORM ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "5. INDIAN APPLICATIONS AND BOUNDARY CASES",
+          "role": "outcome"
+        },
+        {
+          "text": "6. LIMITATIONS AND TRADE-OFFS",
+          "role": "comparison"
+        },
+        {
+          "text": "7. MUST-KNOW FACTS FOR ADVANCED PRELIMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. Architecture",
+            "2. Concepts and distinctions",
+            "3. Detailed treatment",
+            "4. Institutional and reform architecture"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "5. Indian applications and boundary cases",
+            "6. Limitations and trade-offs",
+            "7. Must-Know Facts for Advanced Prelims",
+            "8. Advanced Prelims traps"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "9. Current application",
+            "10. PYQ-based analytical application",
+            "11. Mains-ready framework",
+            "12. Probable questions"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

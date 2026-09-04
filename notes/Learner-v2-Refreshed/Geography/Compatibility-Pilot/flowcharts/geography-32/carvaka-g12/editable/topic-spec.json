@@ -1,0 +1,914 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-32-industries-and-industrial-regions",
+  "subject": "Geography",
+  "title": "GEOGRAPHY 32 - INDUSTRIES AND INDUSTRIAL REGIONS - LEARNER-FIRST V2",
+  "short_route": "INDUSTRIAL GEOGRAPHY: TERMINOLOGY AND → RANKED LOCATION FACTORS AND → WEBER'S LEAST-COST THEORY IN → MAJOR WORLD INDUSTRIAL REGIONS → INDIA'S LAYERED INDUSTRIAL MAP → AGGLOMERATION, DEGLOMERATION, INERTIA AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g11 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Compatibility-Pilot\\learning-sessions\\geography-32\\g11\\geography-32_Complete-Learning-Session_2026-08-23.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-2026-08-23.json",
+  "ascii_spec_sha256": "5b0626c2b1e32a49c858860e95c1b0b6820a314e6104f5b755fa4cbed3ef2c66",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "INDUSTRIAL GEOGRAPHY: TERMINOLOGY AND LOCATION QUESTION",
+      "structural_type": "process-system-overview",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INDUSTRIAL GEOGRAPHY",
+          "role": "primary"
+        },
+        {
+          "text": "TERMINOLOGY AND LOCATION QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "WHY DOES AN ACTIVITY LOCATE HERE, CLUSTER THERE, PERSIST",
+          "role": "comparison"
+        },
+        {
+          "text": "BROAD ORGANISED ECONOMIC ACTIVITY",
+          "role": "evidence"
+        },
+        {
+          "text": "TRANSFORMATION OF MATERIAL INTO PRODUCTS",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIVIDUAL PRODUCTION ESTABLISHMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "INDUSTRIAL REGION",
+          "role": "comparison"
+        },
+        {
+          "text": "DENSE INTERACTING FIRMS, LABOUR AND INFRASTRUCTURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDUSTRIAL GEOGRAPHY",
+        "CENTRAL QUESTION: Why does an activity locate here, cluster there, persist, disperse or relocate?",
+        "INDUSTRY = broad organised economic activity",
+        "MANUFACTURING = transformation of material into products",
+        "FACTORY = individual production establishment"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "INDUSTRIAL GEOGRAPHY",
+            "CENTRAL QUESTION: Why does an activity locate here, cluster there, persist, disperse or relocate?",
+            "INDUSTRY = broad organised economic activity",
+            "MANUFACTURING = transformation of material into products"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FACTORY = individual production establishment",
+            "INDUSTRIAL REGION = dense interacting firms, labour and infrastructure",
+            "LOCATION FACTOR SYSTEM raw material + energy + water + labour + capital + market transport + land",
+            "+ technology + policy + agglomeration firm choice → supplier links → labour settlement → shared services cluster"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "growth or failure depends on linkage quality and external costs",
+            "Do not use factory, manufacturing and industrial region as synonyms."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Do not use factory, manufacturing and industrial region as synonyms.",
+      "source_references": [
+        "sessions: [1, 2]",
+        "sections: [\"BASIC LEARNING SESSION\", \"CONSOLIDATED REGISTER NOTES\"]",
+        "markdown_lines: [\"60-226\", \"2058-2096\"]"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "RANKED LOCATION FACTORS AND INDUSTRIAL ORIENTATION",
+      "structural_type": "classification-table-and-decision-tree",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RANKED LOCATION FACTORS AND INDUSTRIAL ORIENTATION",
+          "role": "primary"
+        },
+        {
+          "text": "FIRST ASK",
+          "role": "outcome"
+        },
+        {
+          "text": "WHICH COST, RISK OR CAPABILITY DOMINATES THIS INDUSTRY?",
+          "role": "caution"
+        },
+        {
+          "text": "RAW-MATERIAL MARKET FOOTLOOSE",
+          "role": "evidence"
+        },
+        {
+          "text": "SKILL WEIGHT LOSS PERISHABILITY HIGH VALUE-TO-WEIGHT BULK OR FRAGILITY",
+          "role": "primary"
+        },
+        {
+          "text": "PORT ORIENTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "IMPORTED INPUT + EXPORT MARKET + DEEP LOGISTICS",
+          "role": "comparison"
+        },
+        {
+          "text": "POWER ORIENTATION",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "FIRST ASK: Which cost, risk or capability dominates this industry?",
+        "RAW-MATERIAL MARKET FOOTLOOSE / SKILL weight loss perishability high value-to-weight bulk or fragility custom demand",
+        "ore processing food/bakery electronics / IT-linked",
+        "PORT ORIENTATION: imported input + export market + deep logistics",
+        "POWER ORIENTATION: energy-intensive process"
+      ],
+      "matrix": [
+        [
+          "CLASSIFICATION",
+          "DIAGNOSTIC BASIS",
+          "PROCESS LINK",
+          "EXAM TRAP"
+        ],
+        [
+          "FIRST ASK: Which cost, risk or capability dominates this industry?",
+          "PORT ORIENTATION: imported input + export market + deep logistics",
+          "STATE ORIENTATION: serviced land, trunk utility and policy support",
+          "PORT ORIENTATION: imported input + export market + deep logistics"
+        ],
+        [
+          "RAW-MATERIAL MARKET FOOTLOOSE / SKILL weight loss perishability high value-to-weight bulk or fragility custom demand knowledge and networks",
+          "POWER ORIENTATION: energy-intensive process",
+          "RANK FACTORS BY PROCESS STAGE input → transformation → assembly → distribution → after-sales",
+          ""
+        ],
+        [
+          "ore processing food/bakery electronics / IT-linked",
+          "LABOUR ORIENTATION: skill, wage, productivity and labour ecosystem",
+          "A multi-stage value chain can split across several locations.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CLASSIFICATION",
+          "role": "primary",
+          "items": [
+            "FIRST ASK: Which cost, risk or capability dominates this industry?",
+            "RAW-MATERIAL MARKET FOOTLOOSE / SKILL weight loss perishability high value-to-weight bulk or fragility custom demand knowledge and networks",
+            "ore processing food/bakery electronics / IT-linked"
+          ]
+        },
+        {
+          "heading": "DIAGNOSTIC BASIS",
+          "role": "evidence",
+          "items": [
+            "PORT ORIENTATION: imported input + export market + deep logistics",
+            "POWER ORIENTATION: energy-intensive process",
+            "LABOUR ORIENTATION: skill, wage, productivity and labour ecosystem"
+          ]
+        },
+        {
+          "heading": "PROCESS LINK",
+          "role": "mechanism",
+          "items": [
+            "STATE ORIENTATION: serviced land, trunk utility and policy support",
+            "RANK FACTORS BY PROCESS STAGE input → transformation → assembly → distribution → after-sales",
+            "A multi-stage value chain can split across several locations."
+          ]
+        },
+        {
+          "heading": "EXAM TRAP",
+          "role": "caution",
+          "items": [
+            "PORT ORIENTATION: imported input + export market + deep logistics"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A multi-stage value chain can split across several locations.",
+      "source_references": [
+        "sessions: [2, 4]",
+        "sections: [\"BASIC LEARNING SESSION\"]",
+        "markdown_lines: [\"140-226\", \"337-410\"]"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "WEBER'S LEAST-COST THEORY IN SIX ANALYTICAL STEPS",
+      "structural_type": "causal-decision-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WEBER'S LEAST-COST THEORY IN SIX ANALYTICAL STEPS",
+          "role": "primary"
+        },
+        {
+          "text": "1. LOCATE RAW-MATERIAL SOURCES AND MARKET",
+          "role": "evidence"
+        },
+        {
+          "text": "2. CLASSIFY INPUTS",
+          "role": "comparison"
+        },
+        {
+          "text": "UBIQUITOUS OR LOCALISED; PURE OR WEIGHT-LOSING",
+          "role": "evidence"
+        },
+        {
+          "text": "3. COMPARE TRANSPORT BURDEN THROUGH THE MATERIAL INDEX",
+          "role": "evidence"
+        },
+        {
+          "text": "4. FIND TRANSPORT-MINIMUM POINT WITHIN THE LOCATIONAL TRIANGLE",
+          "role": "outcome"
+        },
+        {
+          "text": "5. TEST LABOUR SAVING AGAINST ADDED TRANSPORT COST",
+          "role": "comparison"
+        },
+        {
+          "text": "6. TEST AGGLOMERATION SAVING AGAINST CONGESTION AND DISPERSION COST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1. LOCATE raw-material sources and market",
+        "2. CLASSIFY inputs: ubiquitous or localised; pure or weight-losing",
+        "3. COMPARE transport burden through the material index",
+        "4. FIND transport-minimum point within the locational triangle",
+        "5. TEST labour saving against added transport cost"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "1. LOCATE raw-material sources and market",
+            "2. CLASSIFY inputs: ubiquitous or localised; pure or weight-losing",
+            "3. COMPARE transport burden through the material index",
+            "4. FIND transport-minimum point within the locational triangle"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "5. TEST labour saving against added transport cost",
+            "6. TEST agglomeration saving against congestion and dispersion cost",
+            "LEAST TOTAL COST LOCATION",
+            "TRANSPORT COST + LABOUR COST + AGGLOMERATION ECONOMY"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "MODERN QUALIFICATION containers + roads + reliable power + data + regulation + value chains alter cost surfaces,",
+            "but distance, weight, time and reliability still matter.",
+            "Weber explains a baseline mechanism, not every final location."
+          ]
+        }
+      ],
+      "mechanism_strip": "Weber explains a baseline mechanism, not every final location.",
+      "answer_line": "MODERN QUALIFICATION containers + roads + reliable power + data + regulation + value chains alter cost surfaces, but distance, weight, time and reliability still matter.",
+      "source_references": [
+        "sessions: [3]",
+        "sections: [\"BASIC LEARNING SESSION\"]",
+        "markdown_lines: [\"227-336\"]"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "MAJOR WORLD INDUSTRIAL REGIONS AND THEIR GEOGRAPHIC MECHANISMS",
+      "structural_type": "global-spatial-distribution-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MAJOR WORLD INDUSTRIAL REGIONS AND THEIR GEOGRAPHIC MECHANISMS",
+          "role": "primary"
+        },
+        {
+          "text": "NE UNITED STATES",
+          "role": "outcome"
+        },
+        {
+          "text": "MARKET + GREAT LAKES + TRANSPORT + SKILLS",
+          "role": "comparison"
+        },
+        {
+          "text": "NW EUROPE",
+          "role": "evidence"
+        },
+        {
+          "text": "COAL LEGACY + RHINE LINKS + DENSE MARKETS",
+          "role": "primary"
+        },
+        {
+          "text": "N ITALY",
+          "role": "outcome"
+        },
+        {
+          "text": "OLD INDUSTRY + SMES + EUROPEAN NETWORKS",
+          "role": "comparison"
+        },
+        {
+          "text": "JAPAN PACIFIC BELT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NE United States",
+        "market + Great Lakes + transport + skills",
+        "Ruhr / NW Europe",
+        "coal legacy + Rhine links + dense markets",
+        "Midlands / N Italy"
+      ],
+      "matrix": [
+        [
+          "REGION",
+          "MECHANISM"
+        ],
+        [
+          "NE United States",
+          "market + Great Lakes + transport + skills"
+        ],
+        [
+          "Ruhr / NW Europe",
+          "coal legacy + Rhine links + dense markets"
+        ],
+        [
+          "Midlands / N Italy",
+          "old industry + SMEs + European networks"
+        ],
+        [
+          "Japan Pacific Belt",
+          "ports + imported inputs + coastal markets"
+        ],
+        [
+          "China coastal belt",
+          "ports + labour + FDI + supplier depth"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "NE United States",
+            "market + Great Lakes + transport + skills",
+            "Ruhr / NW Europe",
+            "coal legacy + Rhine links + dense markets",
+            "Midlands / N Italy"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "old industry + SMEs + European networks",
+            "Japan Pacific Belt",
+            "ports + imported inputs + coastal markets",
+            "China coastal belt",
+            "ports + labour + FDI + supplier depth"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "South Korea corridor",
+            "ports + chaebol networks + technology",
+            "COMMON EVOLUTION resource or port advantage → firm concentration → suppliers and labour",
+            "infrastructure and knowledge → diversification → industrial inertia",
+            "RESTRUCTURING PRESSURE old plant + pollution + land cost + global competition"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "upgrading, decline, relocation or service transition",
+            "The same label hides different factor combinations and historical paths."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The same label hides different factor combinations and historical paths.",
+      "source_references": [
+        "sessions: [5]",
+        "sections: [\"BASIC LEARNING SESSION\"]",
+        "markdown_lines: [\"411-483\"]"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "INDIA'S LAYERED INDUSTRIAL MAP: BELTS, CLUSTERS AND CORRIDORS",
+      "structural_type": "india-regional-map-hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INDIA'S LAYERED INDUSTRIAL MAP",
+          "role": "primary"
+        },
+        {
+          "text": "BELTS, CLUSTERS AND CORRIDORS",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA'S LAYERED INDUSTRIAL GEOGRAPHY",
+          "role": "comparison"
+        },
+        {
+          "text": "CHOTA NAGPUR",
+          "role": "evidence"
+        },
+        {
+          "text": "COAL + ORE + RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "STEEL, POWER, ENGINEERING",
+          "role": "mechanism"
+        },
+        {
+          "text": "PORT + MARKET + CAPITAL",
+          "role": "comparison"
+        },
+        {
+          "text": "DIVERSIFIED INDUSTRY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDIA'S LAYERED INDUSTRIAL GEOGRAPHY",
+        "Chota Nagpur / Damodar : coal + ore + rail → steel, power, engineering",
+        "Mumbai-Pune : port + market + capital → diversified industry",
+        "Ahmedabad-Vadodara : cotton + enterprise → textile, chemical, engineering",
+        "Chennai-Bengaluru : ports + skill → auto, electronics, machinery"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "INDIA'S LAYERED INDUSTRIAL GEOGRAPHY",
+            "Chota Nagpur / Damodar : coal + ore + rail → steel, power, engineering",
+            "Mumbai-Pune : port + market + capital → diversified industry",
+            "Ahmedabad-Vadodara : cotton + enterprise → textile, chemical, engineering"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Chennai-Bengaluru : ports + skill → auto, electronics, machinery",
+            "Coimbatore-Tiruppur : textile base + SMEs → knitwear, pumps, machinery",
+            "Delhi-NCR : market + policy + logistics → diversified cluster",
+            "Visakhapatnam/east : port + mineral hinterland → metal and petro industry"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "CORRIDOR OVERLAY freight spine / expressway / port → planned node → trunk utilities",
+            "firms and suppliers → labour settlements → possible industrial region",
+            "DMIC west",
+            "AKIC east"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "New corridors overlay inherited belts; they do not erase brownfield depth."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "New corridors overlay inherited belts; they do not erase brownfield depth.",
+      "source_references": [
+        "sessions: [5, 7]",
+        "sections: [\"OPTIONAL ADVANCED DEPTH\", \"India's industrial geography\", \"Corridors and planned industrial space\"]",
+        "markdown_lines: [\"1689-1762\"]"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "AGGLOMERATION, DEGLOMERATION, INERTIA AND REGIONAL DIVERGENCE",
+      "structural_type": "comparison-and-feedback-loop",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AGGLOMERATION, DEGLOMERATION, INERTIA AND REGIONAL DIVERGENCE",
+          "role": "primary"
+        },
+        {
+          "text": "AGGLOMERATION LOOP FIRMS CLUSTER",
+          "role": "outcome"
+        },
+        {
+          "text": "SHARED SUPPLIERS + LABOUR + SERVICES + KNOWLEDGE",
+          "role": "comparison"
+        },
+        {
+          "text": "LOWER TRANSACTION COST",
+          "role": "evidence"
+        },
+        {
+          "text": "MORE FIRMS AND SKILL",
+          "role": "primary"
+        },
+        {
+          "text": "DEEPER CLUSTER",
+          "role": "outcome"
+        },
+        {
+          "text": "CONGESTION THRESHOLD LAND COST + TRAFFIC + POLLUTION +",
+          "role": "comparison"
+        },
+        {
+          "text": "DEGLOMERATION SELECTED PLANTS OR STAGES MOVE OUTWARD TO CHEAPER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AGGLOMERATION LOOP firms cluster → shared suppliers + labour + services + knowledge",
+        "lower transaction cost → more firms and skill → deeper cluster",
+        "CONGESTION THRESHOLD land cost + traffic + pollution + water stress + labour pressure",
+        "DEGLOMERATION selected plants or stages move outward to cheaper connected sites",
+        "INDUSTRIAL INERTIA sunk capital + supplier ties + skill + reputation keep old region active"
+      ],
+      "matrix": [
+        [
+          "SYSTEM / DEFINITION",
+          "PROCESS / MECHANISM",
+          "SPATIAL / INDIA PATTERN",
+          "HAZARD / LIMIT / RESPONSE"
+        ],
+        [
+          "AGGLOMERATION LOOP firms cluster → shared suppliers + labour + services + knowledge",
+          "DEGLOMERATION selected plants or stages move outward to cheaper connected sites",
+          "SPREAD: local suppliers + training + demand + infrastructure diffusion",
+          "DEGLOMERATION selected plants or stages move outward to cheaper connected sites"
+        ],
+        [
+          "lower transaction cost → more firms and skill → deeper cluster",
+          "INDUSTRIAL INERTIA sunk capital + supplier ties + skill + reputation keep old region active",
+          "BACKWASH: talent/capital drain + enclave links + land displacement",
+          ""
+        ],
+        [
+          "CONGESTION THRESHOLD land cost + traffic + pollution + water stress + labour pressure",
+          "REGIONAL OUTCOME TEST",
+          "A large plant creates convergence only when local capability and linkages grow.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "AGGLOMERATION LOOP firms cluster → shared suppliers + labour + services + knowledge",
+            "lower transaction cost → more firms and skill → deeper cluster",
+            "CONGESTION THRESHOLD land cost + traffic + pollution + water stress + labour pressure"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DEGLOMERATION selected plants or stages move outward to cheaper connected sites",
+            "INDUSTRIAL INERTIA sunk capital + supplier ties + skill + reputation keep old region active",
+            "REGIONAL OUTCOME TEST"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "SPREAD: local suppliers + training + demand + infrastructure diffusion",
+            "BACKWASH: talent/capital drain + enclave links + land displacement",
+            "A large plant creates convergence only when local capability and linkages grow."
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "DEGLOMERATION selected plants or stages move outward to cheaper connected sites"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A large plant creates convergence only when local capability and linkages grow.",
+      "source_references": [
+        "sessions: [6]",
+        "sections: [\"BASIC LEARNING SESSION\", \"Institutions, regional imbalance and spread-backwash test\"]",
+        "markdown_lines: [\"484-568\", \"1799-1833\"]"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "STATE, CORRIDORS, PLI AND THE INDUSTRIAL INTERVENTION STACK",
+      "structural_type": "institutional-intervention-stack",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "STATE, CORRIDORS, PLI AND THE INDUSTRIAL INTERVENTION STACK",
+          "role": "institution"
+        },
+        {
+          "text": "NATIONAL POLICY",
+          "role": "outcome"
+        },
+        {
+          "text": "MINISTRIES DEFINE FRAMEWORKS AND INCENTIVES",
+          "role": "comparison"
+        },
+        {
+          "text": "CORRIDOR GOVERNANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "SPVS PLAN NODES AND TRUNK SYSTEMS",
+          "role": "primary"
+        },
+        {
+          "text": "STATE AGENCIES",
+          "role": "institution"
+        },
+        {
+          "text": "LAND + UTILITIES + APPROVALS + LOCAL INDUSTRIAL ESTATES",
+          "role": "comparison"
+        },
+        {
+          "text": "NETWORK ACTORS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NATIONAL POLICY: DPIIT / ministries define frameworks and incentives",
+        "CORRIDOR GOVERNANCE: NICDIT / SPVs plan nodes and trunk systems",
+        "STATE AGENCIES: land + utilities + approvals + local industrial estates",
+        "NETWORK ACTORS: rail freight + ports + roads + power + digital systems",
+        "FIRM ECOSYSTEM: anchor producer + suppliers + skills + testing + finance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DEFINITION / COMPONENTS",
+          "role": "primary",
+          "items": [
+            "NATIONAL POLICY: DPIIT / ministries define frameworks and incentives",
+            "CORRIDOR GOVERNANCE: NICDIT / SPVs plan nodes and trunk systems",
+            "STATE AGENCIES: land + utilities + approvals + local industrial estates",
+            "NETWORK ACTORS: rail freight + ports + roads + power + digital systems"
+          ]
+        },
+        {
+          "heading": "TRIGGER / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FIRM ECOSYSTEM: anchor producer + suppliers + skills + testing + finance",
+            "URBAN SUPPORT: housing + mobility + water + waste + social services",
+            "OUTCOME: production + jobs + local linkages + lower logistics cost",
+            "STATUS FIREWALL outlay → application → investment → production → incentive → wider outcome"
+          ]
+        },
+        {
+          "heading": "EFFECT / INTERVENTION",
+          "role": "outcome",
+          "items": [
+            "PLI may reinforce capable clusters unless weaker regions gain real ecosystems.",
+            "A transport line becomes a corridor only through functioning nodes and linkages."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATUS FIREWALL outlay → application → investment → production → incentive → wider outcome.",
+      "source_references": [
+        "sessions: [7, 8]",
+        "sections: [\"BASIC LEARNING SESSION\", \"PLI and the new sector-specific industrial map\", \"Institutions\"]",
+        "markdown_lines: [\"569-735\", \"1723-1833\"]"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "synthesis",
+      "title": "MAP-ANSWER AND MAINS SPINE FOR INDUSTRIAL LOCATION AND REGIONS",
+      "structural_type": "map-answer-and-mains-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "MAP-ANSWER AND MAINS SPINE FOR INDUSTRIAL LOCATION AND REGIONS",
+          "role": "primary"
+        },
+        {
+          "text": "HOW IS INDIA'S INDUSTRIAL GEOGRAPHY BEING REORGANISED?",
+          "role": "outcome"
+        },
+        {
+          "text": "1. DEFINE",
+          "role": "comparison"
+        },
+        {
+          "text": "FACTORY, MANUFACTURING, CLUSTER, REGION AND CORRIDOR",
+          "role": "evidence"
+        },
+        {
+          "text": "2. MAP",
+          "role": "primary"
+        },
+        {
+          "text": "MINERAL EAST",
+          "role": "outcome"
+        },
+        {
+          "text": "WESTERN PORT BELT",
+          "role": "comparison"
+        },
+        {
+          "text": "SOUTHERN SKILL ARCS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "QUESTION: How is India's industrial geography being reorganised?",
+        "1. DEFINE: factory, manufacturing, cluster, region and corridor",
+        "2. MAP: mineral east",
+        "western port belt",
+        "southern skill arcs"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / DEFINITION",
+          "role": "primary",
+          "items": [
+            "QUESTION: How is India's industrial geography being reorganised?",
+            "1. DEFINE: factory, manufacturing, cluster, region and corridor",
+            "2. MAP: mineral east"
+          ]
+        },
+        {
+          "heading": "PROCESS / MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "western port belt",
+            "southern skill arcs",
+            "3. EXPLAIN INHERITED LOCATION raw material + port + market + labour + transport + agglomeration"
+          ]
+        },
+        {
+          "heading": "SPATIAL / INDIA PATTERN",
+          "role": "evidence",
+          "items": [
+            "4. ADD NEW NETWORK LOGIC freight corridor + planned node + supplier ecosystem + incentives",
+            "5. TEST REGIONAL EFFECT jobs + local procurement + skill transfer versus enclave/backwash",
+            "6. QUALIFY STATUS announcement, construction, operation and outcome need separate evidence"
+          ]
+        },
+        {
+          "heading": "HAZARD / LIMIT / RESPONSE",
+          "role": "caution",
+          "items": [
+            "7. VERDICT designed concentration becomes development only when logistics, suppliers, skills, settlements, ecology and institutions work together."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "7. VERDICT designed concentration becomes development only when logistics, suppliers, skills, settlements, ecology and institutions work together.",
+      "source_references": [
+        "sessions: [2, 3, 5, 6, 7, 8]",
+        "sections: [\"PYQS AND ANSWER PRACTICE\", \"CONSOLIDATED REGISTER NOTES\"]",
+        "markdown_lines: [\"1867-1895\", \"2058-2258\"]"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. INDIA'S INDUSTRIAL GEOGRAPHY",
+          "role": "outcome"
+        },
+        {
+          "text": "FROM INHERITED BELTS TO DESIGNED CORRIDORS",
+          "role": "comparison"
+        },
+        {
+          "text": "2. CORRIDORS AND PLANNED INDUSTRIAL SPACE",
+          "role": "evidence"
+        },
+        {
+          "text": "3. PLI AND THE NEW SECTOR-SPECIFIC INDUSTRIAL MAP",
+          "role": "primary"
+        },
+        {
+          "text": "4. INSTITUTIONS, REGIONAL IMBALANCE AND THE SPREAD-BACKWASH TEST",
+          "role": "outcome"
+        },
+        {
+          "text": "5. ADVANCED FACTS, TRAPS AND CURRENT LINKAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "6. HISTORICAL PYQ INTEGRATION AND ADVANCED ANSWER ROUTES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL PROCESS DEPTH",
+          "role": "mechanism",
+          "items": [
+            "1. India's industrial geography: from inherited belts to designed corridors",
+            "2. Corridors and planned industrial space",
+            "3. PLI and the new sector-specific industrial map",
+            "4. Institutions, regional imbalance and the spread-backwash test"
+          ]
+        },
+        {
+          "heading": "DATA / INSTITUTION LIMIT",
+          "role": "caution",
+          "items": [
+            "5. Advanced facts, traps and current linkage",
+            "6. Historical PYQ integration and advanced answer routes",
+            "Regional imbalance: western and southern corridors may advance faster than eastern or interior regions because prior capabilities differ.",
+            "Brownfield versus greenfield: old belts possess supplier and labour depth; new cities may offer better infrastructure and planning."
+          ]
+        },
+        {
+          "heading": "CONTEMPORARY PARALLEL",
+          "role": "neutral",
+          "items": [
+            "Deindustrialisation: corridor construction can coexist with weak manufacturing employment quality or decline in particular old sectors.",
+            "Logistics-led industrialisation: multimodal connectivity now complements tariffs, subsidies and industrial licensing.",
+            "Spread versus backwash: local procurement, skills and small-firm upgrading produce spread",
+            "imported labour, enclave supply chains and land pressure produce backwash."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

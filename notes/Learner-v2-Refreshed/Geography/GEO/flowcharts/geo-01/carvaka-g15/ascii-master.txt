@@ -1,0 +1,211 @@
+ASCII MASTER FLOW — PANEL 1/12: Earth in the cosmic hierarchy: origin, evidence and planetary setting
++---------------- EARTH IN THE COSMIC SYSTEM ----------------+
+| CENTRAL QUESTION: How did Earth acquire its place and traits? |
++---------------------------------------------------------------+
+  Hot, dense early universe about 13.8 billion years ago
+                           |
+             expansion + cooling + structure
+             /             |              \
+       redshift            CMB        light elements
+             \             |              /
+              +------ convergent evidence ------+
+                           |
+       galaxies -> Milky Way -> Solar System -> Earth
+                           |
+ rotating nebula -> disc -> accretion -> differentiated planets
+             /                                  \
+ terrestrial inner planets                 gas and ice giants
+                           |
+         LOCATION IN A SYSTEM PRECEDES EXPLANATION OF PROCESS
+MUST REMEMBER: Earth-system explanation runs from universe and Solar-System scale through
+  rotation, revolution, axial tilt, latitude-longitude and time to India's 8°4′N–37°6′N,
+  68°7′E–97°25′E location, 82°30′E standard meridian and Indian Ocean setting.
+
+ASCII MASTER FLOW — PANEL 2/12: Stars, Solar-System bodies and the mass-controlled life cycle
+                         NEBULA
+                           |
+                       PROTOSTAR
+                           |
+                     MAIN SEQUENCE
+                 +---------+---------+
+                 |                   |
+             LOWER MASS           HIGHER MASS
+                 |                   |
+             red giant            supergiant
+                 |                   |
+           white dwarf             supernova
+                                     |
+                           +---------+---------+
+                           |                   |
+                      neutron star         black hole
+
+SOLAR-SYSTEM BODY FIREWALL
+asteroid = rocky body | comet = ice-rich body | meteoroid = small body
+meteor = luminous passage in air | meteorite = fragment reaching ground
+
+Mass raises fusion rate: massive stars generally burn faster and live less.
+
+ASCII MASTER FLOW — PANEL 3/12: Earth geometry, motions and the seasonal energy sequence
++------------------ EARTH AS A MOVING GEOID ------------------+
+| Oblate spheroid: geometric form | Geoid: gravity equipotential |
++---------------------------------------------------------------+
+                  ROTATION about axis
+                         |
+              day-night + time difference
+                         |
+             about 24 hours; west to east
+
+       REVOLUTION + 23.5 deg axial tilt from perpendicular
+                         |
+          changing solar angle and changing day length
+             /                         |                  \
+ June solstice                   equinoxes          Dec solstice
+ Sun at 23.5 N                  Sun at Equator      Sun at 23.5 S
+ N day maximum                 near-equal day       S day maximum
+             \                         |                  /
+                    ANNUAL SEASONAL CYCLE
+
+Distance is not the cause: perihelion and aphelion do not create seasons.
+
+ASCII MASTER FLOW — PANEL 4/12: Coordinates, world time and the International Date Line
+                    COORDINATE READING GRID
++----------------------+----------------------------------------+
+| LATITUDE             | LONGITUDE                              |
+| N or S of Equator    | E or W of Prime Meridian              |
+| parallel circles     | meridians meet at poles               |
+| controls solar angle | supplies angular basis for time       |
++----------------------+----------------------------------------+
+                           |
+                  Earth turns 360 deg in 24 h
+                           |
+             15 deg = 1 hour | 1 deg = 4 minutes
+                           |
+                    EAST IS AHEAD IN TIME
+                           |
+             local time -> zone standard -> UTC offset
+                           |
+             International Date Line near 180 deg
+                 /                             \
+ cross westward: add one day       cross eastward: subtract one day
+
+A great circle has Earth's centre in its plane and gives the shortest route.
+
+ASCII MASTER FLOW — PANEL 5/12: Magnetosphere and Earth interior: two evidence-based cross-sections
+SOLAR-TERRESTRIAL SECTION          EARTH-INTERIOR SECTION
+Sun / CME                          crust
+    |                               |
+solar wind                      Moho boundary
+    |                               |
+magnetosphere                  solid mantle
+    |                               |
+reconnection                  Gutenberg boundary
+    |                               |
+polar particle paths          liquid outer core
+    |                          S waves stop; P waves refract
+oxygen and nitrogen                |
+    |                         Lehmann boundary
+AURORAL LIGHT                 solid inner core
+
+Evidence converges:
+solar particles + magnetic guidance + gas excitation -> aurora
+P-wave refraction + S-wave absence + shadow zones -> layered core
+
+Do not call the whole core liquid; the outer core is liquid, inner core solid.
+
+ASCII MASTER FLOW — PANEL 6/12: India's coordinate frame, Tropic of Cancer and IST derivation
++---------------- INDIA: ABSOLUTE FRAME ----------------+
+| Mainland latitude : 8 deg 4 N to 37 deg 6 N           |
+| Mainland longitude: 68 deg 7 E to 97 deg 25 E         |
+| N-S 3,214 km | E-W 2,933 km | area 3,287,263 sq km    |
++--------------------------------------------------------+
+                         |
+TROPIC OF CANCER: 23.5 deg N across eight states, west to east
+Gujarat -> Rajasthan -> Madhya Pradesh -> Chhattisgarh
+        -> Jharkhand -> West Bengal -> Tripura -> Mizoram
+                         |
+STANDARD MERIDIAN: 82 deg 30 E, through Mirzapur
+82.5 x 4 minutes = 330 minutes = UTC + 5:30 = IST
+                         |
+LONGITUDINAL SPAN: 29 deg 18 min x 4 = about 117 minutes
+                         |
+       eastern local noon precedes western local noon
+
+One civil time creates coordination; it does not erase solar-time difference.
+
+ASCII MASTER FLOW — PANEL 7/12: India's oceanic situation, neighbours, coasts and island extensions
+                          HIMALAYA
+          land neighbours + passes + climatic filtering
+                             |
+ARABIAN SEA -------- PENINSULAR INDIA -------- BAY OF BENGAL
+ western routes        northern Indian Ocean       eastern routes
+      |                         |                         |
+Lakshadweep             Indian Ocean south      Andaman-Nicobar
+coral atolls             route centrality       tectonic island arc
+                                                    |
+                              Ten Degree Channel: Andaman / Nicobar
+                                                    |
+                                             Andaman Sea to east
+
+LAND NEIGHBOURS: Pakistan, Afghanistan, China, Nepal, Bhutan,
+                 Bangladesh and Myanmar
+MARITIME NEIGHBOURS: Sri Lanka and Maldives
+
+Land border: 15,106.7 km | 2025 revised coastline: 11,098.81 km
+Revised measurement reflects GIS and high-water-line detail, not new territory.
+
+ASCII MASTER FLOW — PANEL 8/12: Map-answer and Mains spine for India's locational significance
+QUESTION: Why is India's location significant without being deterministic?
+                             |
+1. DEFINE SCALE: Asian subdivision with continental size and diversity
+                             |
+2. DRAW MAP: Himalaya | peninsula | Arabian Sea | Bay | islands | routes
+                             |
+3. ADD EVIDENCE
+   coordinates -> Tropic -> IST -> coast -> neighbours -> island extensions
+                             |
+4. EXPLAIN MECHANISMS
+   latitude -> solar regime | mountains -> selective filter
+   ocean position -> trade, monsoon, ecology and security connections
+                             |
+5. QUALIFY
+   centrality does not equal control; borders and routes require safe mapping
+                             |
+6. VERDICT
+   location supplies opportunities and constraints;
+   connectivity, institutions and stewardship convert them into outcomes
+
+MAP RULE: schematic, not to scale, claim-relevant labels, no improvised borders.
+
+ASCII MASTER FLOW — PANEL 9/12: Evidence ladder and confidence control
+EVIDENCE LADDER
+1. = from source book = inference / standard knowledge = current affairs.
+2. Evidence units available in this file
+3. the atmosphere. Evidence: the aurora forms an oval centred on the...
+VERDICT: Source type controls the strength and limits of the historical claim.
+
+ASCII MASTER FLOW — PANEL 10/12: Examiner traps and contested boundaries
+CLOSE DISTINCTIONS
+1. synthesis [LIMIT] scope, dating or cartographic caution.
+2. Causal method Initial condition -> energy/force or driver ->...
+3. [LIMIT] Maps below are schematic/not to scale and do not depict or...
+VERDICT: Qualification earns marks; false certainty is a hard failure.
+CLOSE DISTINCTION: Rotation causes the diurnal cycle and Coriolis framework, revolution plus
+  axial tilt causes seasons; local solar time is longitude-based while IST is a legal
+  standard, and the Tropic of Cancer is not India's climatic divide by itself.
+
+ASCII MASTER FLOW — PANEL 11/12: Integrated answer spine and qualified conclusion
+ANSWER SPINE
+1. Learner-v2 generation g2 Part A - Physical Geography Prelims GS-I +...
+2. Practice contract Every solved item has demand decoding, a detailed...
+3. Classification: CORE PRELIMS + CORE MAINS
+VERDICT: Claim, named evidence, analysis and qualification lead to a graded...
+EVIDENCE LIMIT: Astronomical models, boundary lengths and current administrative counts
+  require source/date discipline; location creates opportunities and constraints but does not
+  mechanically determine monsoon, trade or strategy.
+
+ASCII MASTER FLOW — PANEL 12/12: Evidence ladder and confidence control — DEEP-REVIEW SYNTHESIS 2
+EVIDENCE LADDER
+1. = from source book = inference / standard knowledge = current affairs.
+2. Evidence units available in this file
+3. the atmosphere. Evidence: the aurora forms an oval centred on the...
+VERDICT: Source type controls the strength and limits of the historical claim.

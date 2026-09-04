@@ -1,0 +1,83 @@
+ASCII MASTER FLOW — PANEL 1/12: Three-level biodiversity ladder
+GENETIC -> variation within a species or population
+SPECIES -> variety and relative abundance within a stated area
+ECOSYSTEM -> variety of habitats, communities and processes
+DEPENDENCE -> loss at one level can weaken the others
+RULE -> level is ecological scale, not taxonomic rank
+
+ASCII MASTER FLOW — PANEL 2/12: Species-diversity components
+RICHNESS -> number of species
+EVENNESS -> distribution of abundance among species
+SAME RICHNESS -> can coexist with different evenness
+DIVERSITY INDEX -> depends on its stated formula and sample
+CAUTION -> never infer community quality from count alone
+
+ASCII MASTER FLOW — PANEL 3/12: Alpha beta gamma map
+HABITAT A -> alpha diversity inside one local community
+HABITAT B -> its own local alpha diversity
+A TO B TURNOVER -> beta diversity
+WHOLE LANDSCAPE -> gamma diversity
+RULE -> every term requires a stated sampling or regional boundary
+
+ASCII MASTER FLOW — PANEL 4/12: Ecological and taxonomic axes
+ECOLOGICAL LEVEL -> genetic, species, ecosystem
+SPATIAL DIVERSITY -> alpha, beta, gamma
+TAXONOMIC RANK -> species, genus, family and higher ranks
+THREAT STATUS -> separate assessment of extinction risk
+RULE -> answer on the axis actually asked
+
+ASCII MASTER FLOW — PANEL 5/12: Distribution vocabulary
+NATIVE -> occurs naturally in the defined region
+ENDEMIC -> naturally restricted to the defined region
+RARE -> low abundance or occurrence under a stated measure
+THREATENED -> status under an assessment framework
+CAUTION -> one species may satisfy several, but terms are not synonyms
+
+ASCII MASTER FLOW — PANEL 6/12: Hotspot criteria gate
+GATE 1 -> at least 1,500 endemic vascular plant species
+AND
+GATE 2 -> 30 per cent or less of original natural vegetation remains
+BOTH GATES MET -> hotspot prioritisation framework applies
+FAILED GATE -> species richness alone cannot create hotspot status
+
+ASCII MASTER FLOW — PANEL 7/12: Designation firewall
+HOTSPOT -> Conservation International scientific prioritisation framework
+PROTECTED AREA -> legal designation under applicable domestic law
+BIODIVERSITY HERITAGE SITE -> separate statutory category
+ECO-SENSITIVE ZONE -> notification-based regulatory status
+RULE -> one label never automatically confers another status
+
+ASCII MASTER FLOW — PANEL 8/12: India-linked hotspot map in words
+HIMALAYA -> transboundary mountain biodiversity region
+INDO-BURMA -> wider mainland Southeast Asian biogeographic region
+WESTERN GHATS-SRI LANKA -> linked biogeographic hotspot name
+SUNDALAND -> India's represented portion is the Nicobar Islands
+CAUTION -> hotspot extent is not coterminous with India's border
+
+ASCII MASTER FLOW — PANEL 9/12: Triage and completeness
+HOTSPOT LOGIC -> focus scarce resources where endemism and habitat loss coincide
+PRESSURE -> plant criteria can understate other nationally important values
+NON-HOTSPOT EXAMPLES -> grasslands, wetlands and cold deserts
+REPLY -> use hotspots for priority, not for exclusion
+VERDICT -> national strategy must retain a wider ecological baseline
+
+ASCII MASTER FLOW — PANEL 10/12: Country, label and institution
+MEGADIVERSE COUNTRY -> national biodiversity descriptor
+LMMC -> international political grouping
+HOTSPOT -> transboundary scientific priority region
+NBA, SBB, BMC -> domestic statutory governance levels
+RULE -> four categories answer different questions
+
+ASCII MASTER FLOW — PANEL 11/12: ABS governance rail
+BIOLOGICAL RESOURCE OR ASSOCIATED KNOWLEDGE -> access request
+RELEVANT AUTHORITY -> scrutiny under the legal architecture
+COMMERCIAL OR RESEARCH USE -> applicable conditions
+BENEFIT SHARING -> intended return to eligible claimants or communities
+PBR -> local documentation; not proof that benefits were delivered
+
+ASCII MASTER FLOW — PANEL 12/12: Global and PYQ boundary
+KMGBF TARGET 3 -> area-based conservation and OECMs in the owner
+CBD GUIDANCE -> does not replace or qualify adopted COP decisions
+MASS EXTINCTION ROUTE -> human drivers, no inferred objective answer
+ISSG AND EU NRL -> external institutional or legal comparators
+CLOSE -> scientific label, domestic law and external comparator stay distinct

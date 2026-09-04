@@ -1,0 +1,253 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Geography 30 — Primary Economic Activities: Agriculture: central question and analytical…
+
+```ascii-master
+GEOGRAPHY 30 — PRIMARY ECONOMIC ACTIVITIES: AGRICULTURE — CONCEPTUAL ATLAS
+
+
+KEY TERMS: What Agricultural Geography Studies • location, seasonality, organisation and… •
+KEY TERMS: Agriculture • Why • The third question • It
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Geography 30 — Primary Economic Activities…
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       Agriculture is a leading primary activity because it draws directly…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: WHAT AGRICULTURAL GEOGRAPHY STUDIES
+  • What Agricultural Geography Studies
+  • Agriculture is a leading primary activity because it draws…
+AXIS 2: MAJOR AGRICULTURAL SYSTEMS
+  • Major Agricultural Systems
+  • Wet-rice cultivation may be highly intensive because much labour…
+AXIS 3: NON-FARM PRIMARY ACTIVITIES — THE PHYSIOGRAPHY PRINCIPLE
+  • Non-Farm Primary Activities
+  • Their location is tightly constrained because the resource cannot…
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  What Agricultural Geography Studies • location, seasonality, organisation and… •
+  Agriculture • Why
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Agricultural geography, controls and farming-system classification
+
+```ascii-master
+AGRICULTURAL GEOGRAPHY, CONTROLS AND FARMING-SYSTEM CLASSIFICATION
+│
+├── KEY CONCEPTS
+│   ├── What Agricultural Geography Studies
+│   ├── location, seasonality, organisation and…
+│   ├── Agriculture
+│   ├── Why
+│   └── The third question
+│
+├── WHAT AGRICULTURAL GEOGRAPHY STUDIES
+│   ├─ TERMS: Agriculture is a leading primary activity because it draws directly…
+│   ├─ LOGIC: Agriculture is a leading primary activity because it draws directly…
+│   └─ RESULT: Rice appears in humid eastern and deltaic belts because water and…
+├── THE SIX CONTROLS OF AGRICULTURE
+│   ├─ TERMS: For a location question, organise the answer under physical…
+│   ├─ LOGIC: Black soil supports cotton in parts of the Deccan because it…
+│   └─ RESULT: A fertile soil without suitable temperature, water, labour or…
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Von Thunen logic, commercialisation and crop-region patterns
+
+```ascii-master
+VON THUNEN LOGIC, COMMERCIALISATION AND CROP-REGION PATTERNS
+
+
+KEY TERMS: Major Agricultural Systems • Intensity • Commercial orientation • climate base,
+KEY TERMS: labour/scale, market link • resource base + labour and scale +… • Shifting
+KEY TERMS: cultivation
+CAUSE / CONDITION 1: A tea plantation is commercial and export-oriented, but it is…
+          │
+          ├── MECHANISM
+          │   Wet-rice cultivation may be highly intensive because much labour is…
+          │
+          └── EFFECT / CONTRAST
+              A tea plantation is commercial and export-oriented, but it is a…
+          │
+          ▼
+CAUSE / CONDITION 2: Von Thunen is a location model, not a climate classification
+          │
+          ├── MECHANISM
+          │   Do not call the model obsolete merely because technology changes…
+          │
+          └── EFFECT / CONTRAST
+              They do not make freight, freshness, delivery frequency or access…
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: World agricultural regions and physiographic controls
+
+```ascii-master
+WORLD AGRICULTURAL REGIONS AND PHYSIOGRAPHIC CONTROLS
+
+
+KEY TERMS: World Agricultural Regions • Crop Requirements • crop - climate - soil/drainage -
+KEY TERMS: region • bundle of suitability • Monsoon Asia • Intensive wet-rice
+UPSTREAM / OUTER SETTING
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ ZONE / LAYER A                                                       │
+│ WORLD AGRICULTURAL REGIONS AND CROP REQUIREMENTS                     │
+│ Process: World regions become memorable when each is tied to one…    │
+│ Result : Crop requirements are broad guides, not rigid thresholds    │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ ZONE / LAYER B                                                       │
+│ FROM SUBSISTENCE TO COMMERCIALISATION                                │
+│ Process: Commercialisation is produced by water + technology +…      │
+│ Result : Cold chain changes distance costs but can add capital…      │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ ZONE / LAYER C                                                       │
+│ NON-FARM PRIMARY ACTIVITIES — THE PHYSIOGRAPHY PRINCIPLE             │
+│ Process: Their location is tightly constrained because the resource… │
+│ Result : Do not list activities without the physiographic mechanism  │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+SPATIAL CONTROL: locate the process, then compare scale and regional expression.
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Fishing and forestry as location-bound primary activities
+
+```ascii-master
+FISHING AND FORESTRY AS LOCATION-BOUND PRIMARY ACTIVITIES
+
+
+KEY TERMS: Fishing • water-body form + nutrients + shelter +… • Mangrove-estuarine margins •
+KEY TERMS: Mangrove-estuarine • India's • The Gangetic
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ FISHING                │ Fishing geography depends on  │ Mangrove-estuarine margins    │
+│                        │ the width and depth of the    │ are nursery habitats but can  │
+│                        │ continental…                  │ also face…                    │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ FORESTRY AND FOREST    │ Forestry is controlled not    │ Forestry is controlled not    │
+│ PRODUCE                │ only by the existence of      │ only by the existence of      │
+│                        │ trees but by…                 │ trees but by…                 │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: Mining, quarrying, sustainability and the integrated exam map
+
+```ascii-master
+MINING, QUARRYING, SUSTAINABILITY AND THE INTEGRATED EXAM MAP
+
+
+KEY TERMS: Mining • Quarrying • transport and institutions convert… • claim - named evidence
+KEY TERMS: - analysis… • uneven regional gains and new… • Ancient shields and crystalline
+KEY TERMS: plateaus
+                 CLAIM / SYSTEM UNDER EXAMINATION
+                                  │
+                                  ▼
+PROBLEM / OBJECTION 1
+  ├─ ISSUE: The Green Revolution is the clearest illustration: it strengthened…
+  ├─ RESPONSE / CONTROL: It also spreads unevenly because water, level land,
+  ├─ RESPONSE / CONTROL: credit, inputs…
+  └─ QUALIFIED VERDICT: Technology can overcome a constraint nationally while
+  └─ QUALIFIED VERDICT: producing…
+                  │
+                  ▼
+PROBLEM / OBJECTION 2
+  ├─ ISSUE: prelims: farming-system distinctions
+  ├─ RESPONSE / CONTROL: prelims: farming-system distinctions
+  └─ QUALIFIED VERDICT: prelims: farming-system distinctions
+                                  │
+                                  ▼
+FINAL CONTROL: preserve the strongest insight while stating its limit.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Geography 30 — Primary Economic Activities: Agriculture: traps, PYQ routes and applied…
+
+```ascii-master
+GEOGRAPHY 30 — PRIMARY ECONOMIC ACTIVITIES: AGRICULTURE: TRAPS, PYQ ROUTES AND APPLIED…
+
+
+KEY TERMS: What Agricultural Geography Studies • location, seasonality, organisation and… •
+KEY TERMS: Agriculture • Why • The third question • It
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── Primary activity does not mean technologically primitive
+├── A cold chain can move the belt outward, but it adds cost and…
+├── The Gangetic and Brahmaputra floodplains and peninsular reservoirs…
+├── prelims: farming-system distinctions
+│
+├── Verified direct PYQs
+├── UPSC Prelims 2019 Q21 - New World crops
+├── UPSC Prelims 2020 Q87 - frost-free subtropical crop
+├── UPSC Prelims 2022 Q62 - tea-producing states
+│
+└── A good GS-I opening line is: Agricultural geography explains the…
+└── Explain commercialisation as a sequence of linked capabilities, not…
+└── Prelims: farming-system distinctions
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Geography 30 — Primary Economic Activities: Agriculture: integrated revision and…
+
+```ascii-master
+GEOGRAPHY 30 — PRIMARY ECONOMIC ACTIVITIES: AGRICULTURE — ANSWER / REVISION SPINE
+
+
+KEY TERMS: What Agricultural Geography Studies • location, seasonality, organisation and… •
+KEY TERMS: Agriculture • Why • The third question • It
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ Agriculture is a leading primary activity because it draws directly…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ What Agricultural Geography Studies
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ Do not call the model obsolete merely because technology changes…
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ Agriculture
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ prelims: farming-system distinctions
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ Prelims: farming-system distinctions
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

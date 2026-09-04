@@ -1,0 +1,236 @@
+#### ASCII MASTER FLOW — PANEL 1/8: Geography 32 - Industries and Industrial Regions - Learner-First V2: central question and…
+
+```ascii-master
+GEOGRAPHY 32 - INDUSTRIES AND INDUSTRIAL REGIONS - LEARNER-FIRST V2 — CONCEPTUAL ATLAS
+
+
+KEY TERMS: Terminology Firewall • Industry • Manufacturing • ory • Industrial Region •
+KEY TERMS: Manufacturing is the transformation or…
+                         CENTRAL QUESTION / ROOT
+        How should the complete structure of Geography 32 - Industries and Industrial Regions…
+        be defined, related, compared and evaluated?
+                                  │
+                                  ▼
+                       Mumbai-Pune is an industrial region because ports, finance, labour…
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+AXIS 1: TERMINOLOGY FIREWALL: INDUSTRY, MANUFACTURING, FACTORY AND…
+  • Terminology Firewall
+  • Mumbai-Pune is an industrial region because ports, finance…
+AXIS 2: MAIN LOCATION FACTORS: BUILD A RANKED FACTOR SYSTEM
+  • Main Location Factors
+  • Sugar mills are pulled toward cane because cane is bulky and…
+AXIS 3: MAJOR WORLD INDUSTRIAL REGIONS: MAP THE MECHANISM BEHIND EACH BELT
+  • Major World Industrial Regions
+  • Use world cases to prove mechanisms, not as decorative examples…
+          └───────────────────────┼───────────────────────┘
+                                  ▼
+                         CROSS-PANEL CONTROL
+  Terminology Firewall • Industry • Manufacturing • ory
+                                  │
+                                  ▼
+          Definition → relation → mechanism → comparison → verdict
+```
+
+#### ASCII MASTER FLOW — PANEL 2/8: Industry terminology and ranked location-factor system
+
+```ascii-master
+INDUSTRY TERMINOLOGY AND RANKED LOCATION-FACTOR SYSTEM
+│
+
+KEY TERMS: Terminology Firewall • Industry • Manufacturing • ory • Industrial Region •
+KEY TERMS: Manufacturing is the transformation or…
+├── KEY CONCEPTS
+│   ├── Terminology Firewall
+│   ├── Industry
+│   ├── Manufacturing
+│   ├── ory
+│   └── Industrial Region
+│
+├── TERMINOLOGY FIREWALL: INDUSTRY, MANUFACTURING, FACTORY AND…
+│   ├─ TERMS: Mumbai-Pune is an industrial region because ports, finance, labour…
+│   ├─ LOGIC: Mumbai-Pune is an industrial region because ports, finance, labour…
+│   └─ RESULT: A factory is an establishment or production site
+├── MAIN LOCATION FACTORS: BUILD A RANKED FACTOR SYSTEM
+│   ├─ TERMS: Visual first: location results from interacting material, energy,
+│   ├─ TERMS: labour, market, transport, water, capital and…
+│   ├─ LOGIC: Sugar mills are pulled toward cane because cane is bulky and loses…
+│   └─ RESULT: Rank the factors
+│
+└── CONVERGENCE
+    ├─ Distinguish the branches before combining them
+    └─ Reconnect each branch to the topic's central explanatory problem
+```
+
+#### ASCII MASTER FLOW — PANEL 3/8: Weber’s least-cost sequence and transport–labour trade-offs
+
+```ascii-master
+WEBER’S LEAST-COST SEQUENCE AND TRANSPORT–LABOUR TRADE-OFFS
+
+
+KEY TERMS: Weber'S Least-Cost Theory • Learn It In Six Steps • Step 1 - the question •
+KEY TERMS: transport cost, labour cost and… • Step 2 - locate raw materials and market •
+KEY TERMS: Step 3 - use weight-loss logic
+CAUSE / CONDITION 1: For “assess Weber,” do not reject the theory
+          │
+          ├── MECHANISM
+          │   A firm moves to a labour site only when labour savings exceed that…
+          │
+          └── EFFECT / CONTRAST
+              It is the starting point, not an automatic final answer
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/8: Industrial orientations and major world-region mechanisms
+
+```ascii-master
+INDUSTRIAL ORIENTATIONS AND MAJOR WORLD-REGION MECHANISMS
+
+
+KEY TERMS: Types Of Industrial Orientation • Not Labels • TYPES OF INDUSTRIAL ORIENTATION… •
+KEY TERMS: Major World Industrial Regions • Map The Mechanism Behind Each Belt •
+KEY TERMS: India-centric comparison
+UPSTREAM / OUTER SETTING
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ ZONE / LAYER A                                                       │
+│ TYPES OF INDUSTRIAL ORIENTATION: COMPARE STAGES, NOT LABELS          │
+│ Process: Technology can split the chain: raw-material processing…    │
+│ Result : Steel's mining and beneficiation remain source-linked…      │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│ ZONE / LAYER B                                                       │
+│ MAJOR WORLD INDUSTRIAL REGIONS: MAP THE MECHANISM BEHIND EACH BELT   │
+│ Process: Use world cases to prove mechanisms, not as decorative…     │
+│ Result : Use these as textbook locational frames, not undated rank…  │
+└──────────────────────────────────────────────────────────────────────┘
+        │
+        ▼
+SPATIAL CONTROL: locate the process, then compare scale and regional expression.
+```
+
+#### ASCII MASTER FLOW — PANEL 5/8: Agglomeration, deglomeration and industrial inertia
+
+```ascii-master
+AGGLOMERATION, DEGLOMERATION AND INDUSTRIAL INERTIA
+
+
+KEY TERMS: Agglomeration • Deglomeration • Industrial Inertia • Agglomeration means •
+KEY TERMS: Deglomeration means • Industrial inertia means
+┌────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ MODEL / BRANCH         │ CORE POSITION                 │ DISTINCTION / RESULT          │
+├────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ AGGLOMERATION,         │ Agglomeration means firms     │ Trap: Inertia is not a        │
+│ DEGLOMERATION AND      │ cluster because they share    │ guarantee of survival         │
+│ INDUSTRIAL INERTIA     │                               │                               │
+└────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+                                  │
+                                  ▼
+COMPARE ON THE SAME AXIS: definition • mechanism • consequence • limit
+```
+
+#### ASCII MASTER FLOW — PANEL 6/8: State, institutions, post-Weber change and planning limits
+
+```ascii-master
+STATE, INSTITUTIONS, POST-WEBER CHANGE AND PLANNING LIMITS
+
+
+KEY TERMS: Actors • Institutions • Planned Location • The State Can Support • Not Invent •
+KEY TERMS: Every Linkage
+CAUSE / CONDITION 1: A corridor can lower entry cost for firms, but it becomes an…
+          │
+          ├── MECHANISM
+          │   The location-theory link is valid: transport, land, labour pools…
+          │
+          └── EFFECT / CONTRAST
+              A corridor can lower entry cost for firms, but it becomes an…
+          │
+          ▼
+CAUSE / CONDITION 2: A balanced assessment says classical theory is a starting…
+          │
+          ├── MECHANISM
+          │   A semiconductor or electronics location depends on reliable power…
+          │
+          └── EFFECT / CONTRAST
+              It is not “location-free”
+          │
+          ▼
+SYSTEM RESULT: causes interact; mechanism explains why the outcome follows.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/8: Geography 32 - Industries and Industrial Regions - Learner-First V2: traps, PYQ routes…
+
+```ascii-master
+GEOGRAPHY 32 - INDUSTRIES AND INDUSTRIAL REGIONS - LEARNER-FIRST V2: TRAPS, PYQ ROUTES…
+
+
+KEY TERMS: Terminology Firewall • Industry • Manufacturing • ory • Industrial Region •
+KEY TERMS: Manufacturing is the transformation or…
+                         EXAM APPLICATION ROOT
+                                  │
+          ┌───────────────────────┼───────────────────────┐
+          ▼                       ▼                       ▼
+    CLOSE-OPTION TRAPS         PYQ / QUESTION ROUTES      ANSWER USE
+├── manufacturing data, factory-sector data and employment generated by…
+├── Weber did not explain transport alone
+├── inertia is not a guarantee of survival
+├── Digitalisation reduces some distance costs but does not erase the…
+│
+├── Evidence protocol and data-status discipline
+├── Source register - retrieved 20 August 2026
+├── 36
+├── Part II - Solved Prelims PYQs
+│
+└── Mini recap: Industry is the ecosystem
+└── An industrial region is a historical accumulation
+└── (15 marks) Explain why old industrial regions persist after the…
+                                  │
+                                  ▼
+CONTROL: identify demand → select exact evidence → expose trap → qualify.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/8: Geography 32 - Industries and Industrial Regions - Learner-First V2: integrated revision…
+
+```ascii-master
+GEOGRAPHY 32 - INDUSTRIES AND INDUSTRIAL REGIONS - LEARNER-FIRST V2 — ANSWER / REVISION SPINE
+
+
+KEY TERMS: Terminology Firewall • Industry • Manufacturing • ory • Industrial Region •
+KEY TERMS: Manufacturing is the transformation or…
+1. DEFINE THE PRECISE TOPIC / TERM
+   └─ Mumbai-Pune is an industrial region because ports, finance, labour…
+                  │
+                  ▼
+2. MAP THE MAIN TYPES, STAGES OR INSTITUTIONS
+   └─ Terminology Firewall
+                  │
+                  ▼
+3. EXPLAIN THE MECHANISM / ARGUMENT / CAUSAL LINK
+   └─ A firm moves to a labour site only when labour savings exceed that…
+                  │
+                  ▼
+4. COMPARE ON A COMMON ANALYTICAL AXIS
+   └─ Manufacturing
+                  │
+                  ▼
+5. TEST WITH OBJECTION, LIMIT, EXCEPTION OR TRAP
+   └─ Digitalisation reduces some distance costs but does not erase the…
+                  │
+                  ▼
+6. GIVE A QUALIFIED, TOPIC-SPECIFIC VERDICT
+   └─ (15 marks) Explain why old industrial regions persist after the…
+
+HIGH-YIELD FORMULA
+  ROOT CONCEPT
+      + CLASSIFICATION / SEQUENCE
+      + MECHANISM / EVIDENCE
+      + COMPARISON / APPLICATION
+      + OBJECTION / LIMIT
+      = QUALIFIED ANSWER
+```

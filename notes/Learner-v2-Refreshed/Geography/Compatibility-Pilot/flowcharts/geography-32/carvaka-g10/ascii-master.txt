@@ -1,0 +1,169 @@
+ASCII MASTER FLOW — PANEL 1/8: Industrial geography: terminology and location question
++---------------- INDUSTRIAL GEOGRAPHY ----------------+
+| CENTRAL QUESTION: Why does an activity locate here,  |
+| cluster there, persist, disperse or relocate?         |
++--------------------------------------------------------+
+                         |
+INDUSTRY = broad organised economic activity
+MANUFACTURING = transformation of material into products
+FACTORY = individual production establishment
+INDUSTRIAL REGION = dense interacting firms, labour and infrastructure
+                         |
+LOCATION FACTOR SYSTEM
+raw material + energy + water + labour + capital + market
++ transport + land + technology + policy + agglomeration
+                         |
+firm choice -> supplier links -> labour settlement -> shared services
+                         |
+cluster growth or failure depends on linkage quality and external costs
+
+Do not use factory, manufacturing and industrial region as synonyms.
+
+ASCII MASTER FLOW — PANEL 2/8: Ranked location factors and industrial orientation
+FIRST ASK: Which cost, risk or capability dominates this industry?
+                             |
+       +---------------------+----------------------+
+       |                     |                      |
+RAW-MATERIAL            MARKET                 FOOTLOOSE / SKILL
+weight loss             perishability          high value-to-weight
+bulk or fragility       custom demand          knowledge and networks
+       |                     |                      |
+ore processing          food/bakery             electronics / IT-linked
+       +---------------------+----------------------+
+                             |
+PORT ORIENTATION: imported input + export market + deep logistics
+POWER ORIENTATION: energy-intensive process
+LABOUR ORIENTATION: skill, wage, productivity and labour ecosystem
+STATE ORIENTATION: serviced land, trunk utility and policy support
+                             |
+RANK FACTORS BY PROCESS STAGE
+input -> transformation -> assembly -> distribution -> after-sales
+
+A multi-stage value chain can split across several locations.
+
+ASCII MASTER FLOW — PANEL 3/8: Weber's least-cost theory in six analytical steps
+1. LOCATE raw-material sources and market
+                         |
+2. CLASSIFY inputs: ubiquitous or localised; pure or weight-losing
+                         |
+3. COMPARE transport burden through the material index
+                         |
+4. FIND transport-minimum point within the locational triangle
+                         |
+5. TEST labour saving against added transport cost
+                         |
+6. TEST agglomeration saving against congestion and dispersion cost
+                         |
+                 LEAST TOTAL COST LOCATION
+
+TRANSPORT COST + LABOUR COST + AGGLOMERATION ECONOMY
+                         |
+MODERN QUALIFICATION
+containers + roads + reliable power + data + regulation + value chains
+alter cost surfaces, but distance, weight, time and reliability still matter.
+
+Weber explains a baseline mechanism, not every final location.
+
+ASCII MASTER FLOW — PANEL 4/8: Major world industrial regions and their geographic mechanisms
++----------------------+--------------------------------------------+
+| REGION               | MECHANISM                                  |
++----------------------+--------------------------------------------+
+| NE United States     | market + Great Lakes + transport + skills  |
+| Ruhr / NW Europe     | coal legacy + Rhine links + dense markets  |
+| Midlands / N Italy   | old industry + SMEs + European networks    |
+| Japan Pacific Belt   | ports + imported inputs + coastal markets  |
+| China coastal belt   | ports + labour + FDI + supplier depth      |
+| South Korea corridor | ports + chaebol networks + technology      |
++----------------------+--------------------------------------------+
+
+COMMON EVOLUTION
+resource or port advantage -> firm concentration -> suppliers and labour
+-> infrastructure and knowledge -> diversification -> industrial inertia
+
+RESTRUCTURING PRESSURE
+old plant + pollution + land cost + global competition
+-> upgrading, decline, relocation or service transition
+
+The same label hides different factor combinations and historical paths.
+
+ASCII MASTER FLOW — PANEL 5/8: India's layered industrial map: belts, clusters and corridors
+INDIA'S LAYERED INDUSTRIAL GEOGRAPHY
+Chota Nagpur / Damodar : coal + ore + rail -> steel, power, engineering
+Mumbai-Pune            : port + market + capital -> diversified industry
+Ahmedabad-Vadodara     : cotton + enterprise -> textile, chemical, engineering
+Chennai-Bengaluru      : ports + skill -> auto, electronics, machinery
+Coimbatore-Tiruppur    : textile base + SMEs -> knitwear, pumps, machinery
+Delhi-NCR              : market + policy + logistics -> diversified cluster
+Visakhapatnam/east     : port + mineral hinterland -> metal and petro industry
+                         |
+CORRIDOR OVERLAY
+freight spine / expressway / port -> planned node -> trunk utilities
+-> firms and suppliers -> labour settlements -> possible industrial region
+                         |
+DMIC west | AKIC east | Chennai-Bengaluru | Vizag-Chennai
+
+New corridors overlay inherited belts; they do not erase brownfield depth.
+
+ASCII MASTER FLOW — PANEL 6/8: Agglomeration, deglomeration, inertia and regional divergence
+AGGLOMERATION LOOP
+firms cluster -> shared suppliers + labour + services + knowledge
+-> lower transaction cost -> more firms and skill -> deeper cluster
+                         |
+                 CONGESTION THRESHOLD
+land cost + traffic + pollution + water stress + labour pressure
+                         |
+DEGLOMERATION
+selected plants or stages move outward to cheaper connected sites
+                         |
+INDUSTRIAL INERTIA
+sunk capital + supplier ties + skill + reputation keep old region active
+
+REGIONAL OUTCOME TEST
+SPREAD: local suppliers + training + demand + infrastructure diffusion
+BACKWASH: talent/capital drain + enclave links + land displacement
+                         |
+A large plant creates convergence only when local capability and linkages grow.
+
+ASCII MASTER FLOW — PANEL 7/8: State, corridors, PLI and the industrial intervention stack
+NATIONAL POLICY: DPIIT / ministries define frameworks and incentives
+                         |
+CORRIDOR GOVERNANCE: NICDIT / SPVs plan nodes and trunk systems
+                         |
+STATE AGENCIES: land + utilities + approvals + local industrial estates
+                         |
+NETWORK ACTORS: rail freight + ports + roads + power + digital systems
+                         |
+FIRM ECOSYSTEM: anchor producer + suppliers + skills + testing + finance
+                         |
+URBAN SUPPORT: housing + mobility + water + waste + social services
+                         |
+OUTCOME: production + jobs + local linkages + lower logistics cost
+
+STATUS FIREWALL
+outlay -> application -> investment -> production -> incentive -> wider outcome
+
+PLI may reinforce capable clusters unless weaker regions gain real ecosystems.
+A transport line becomes a corridor only through functioning nodes and linkages.
+
+ASCII MASTER FLOW — PANEL 8/8: Map-answer and Mains spine for industrial location and regions
+QUESTION: How is India's industrial geography being reorganised?
+                             |
+1. DEFINE: factory, manufacturing, cluster, region and corridor
+                             |
+2. MAP: mineral east | western port belt | southern skill arcs | NCR
+                             |
+3. EXPLAIN INHERITED LOCATION
+   raw material + port + market + labour + transport + agglomeration
+                             |
+4. ADD NEW NETWORK LOGIC
+   freight corridor + planned node + supplier ecosystem + incentives
+                             |
+5. TEST REGIONAL EFFECT
+   jobs + local procurement + skill transfer versus enclave/backwash
+                             |
+6. QUALIFY STATUS
+   announcement, construction, operation and outcome need separate evidence
+                             |
+7. VERDICT
+   designed concentration becomes development only when logistics,
+   suppliers, skills, settlements, ecology and institutions work together.

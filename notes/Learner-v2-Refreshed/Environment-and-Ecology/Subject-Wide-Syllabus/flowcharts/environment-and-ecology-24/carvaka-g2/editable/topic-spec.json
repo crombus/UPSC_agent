@@ -1,0 +1,1122 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-24",
+  "subject": "Environment-and-Ecology",
+  "title": "COASTAL AND MARINE ECOLOGY CRZ BLUE ECONOMY",
+  "short_route": "COASTAL SYSTEM MAP → COASTAL ECOSYSTEM MATRIX → CORAL DUAL-STRESS DIAGRAM → SEDIMENT-BUDGET RAIL → CRZ LEGAL HIERARCHY → CRZ CATEGORY COMPASS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-24\\g2\\environment-and-ecology-24_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-24-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "620faca33c55b64382053b4da7ca301ec700efae6090ce9655ff117604d4f71a",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "COASTAL SYSTEM MAP",
+      "structural_type": "causal-chain",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "COASTAL SYSTEM MAP",
+          "role": "primary"
+        },
+        {
+          "text": "RIVER AND SEDIMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "MATERIAL REACHES THE COAST",
+          "role": "evidence"
+        },
+        {
+          "text": "WAVES TIDES CURRENTS",
+          "role": "evidence"
+        },
+        {
+          "text": "TRANSPORT AND RESHAPE SHORELINE",
+          "role": "primary"
+        },
+        {
+          "text": "TRAP SEDIMENT BUFFER HAZARDS SUPPORT HABITAT",
+          "role": "caution"
+        },
+        {
+          "text": "HUMAN USE",
+          "role": "comparison"
+        },
+        {
+          "text": "EXTRACTION STRUCTURES PORTS SETTLEMENTS AND LIVELIHOODS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RIVER AND SEDIMENT → material reaches the coast",
+        "WAVES TIDES CURRENTS → transport and reshape shoreline",
+        "ECOSYSTEMS → trap sediment buffer hazards support habitat",
+        "HUMAN USE → extraction structures ports settlements and livelihoods",
+        "OUTCOME → coupled land-sea response, not one isolated driver"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "RIVER AND SEDIMENT → material reaches the coast",
+            "WAVES TIDES CURRENTS → transport and reshape shoreline"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ECOSYSTEMS → trap sediment buffer hazards support habitat",
+            "HUMAN USE → extraction structures ports settlements and livelihoods"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "OUTCOME → coupled land-sea response, not one isolated driver",
+            "RIVER AND SEDIMENT → material reaches the coast"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ECOSYSTEMS → trap sediment buffer hazards support habitat.",
+      "source_references": [
+        "Coastal-system boundary",
+        "Sediment and erosion chain"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "COASTAL ECOSYSTEM MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COASTAL ECOSYSTEM MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "INTERTIDAL WOODY VEGETATION",
+          "role": "outcome"
+        },
+        {
+          "text": "SUBMERGED FLOWERING-PLANT MEADOW",
+          "role": "comparison"
+        },
+        {
+          "text": "SALT MARSH",
+          "role": "evidence"
+        },
+        {
+          "text": "VEGETATED INTERTIDAL WETLAND",
+          "role": "primary"
+        },
+        {
+          "text": "CORAL REEF",
+          "role": "outcome"
+        },
+        {
+          "text": "BIOGENIC MARINE STRUCTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "DUNE MUDFLAT ESTUARY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MANGROVE → intertidal woody vegetation",
+        "SEAGRASS → submerged flowering-plant meadow",
+        "SALT MARSH → vegetated intertidal wetland",
+        "CORAL REEF → biogenic marine structure",
+        "DUNE MUDFLAT ESTUARY → distinct sediment and habitat systems"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "MANGROVE → intertidal woody vegetation",
+          "SALT MARSH → vegetated intertidal wetland",
+          "DUNE MUDFLAT ESTUARY → distinct sediment and habitat systems"
+        ],
+        [
+          "SEAGRASS → submerged flowering-plant meadow",
+          "CORAL REEF → biogenic marine structure",
+          "MANGROVE → intertidal woody vegetation"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "MANGROVE → intertidal woody vegetation",
+            "SEAGRASS → submerged flowering-plant meadow"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "SALT MARSH → vegetated intertidal wetland",
+            "CORAL REEF → biogenic marine structure"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "DUNE MUDFLAT ESTUARY → distinct sediment and habitat systems",
+            "MANGROVE → intertidal woody vegetation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DUNE MUDFLAT ESTUARY → distinct sediment and habitat systems.",
+      "source_references": [
+        "Ecosystem-service portfolio",
+        "Mangrove boundary",
+        "Seagrass-marsh boundary"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CORAL DUAL-STRESS DIAGRAM",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CORAL DUAL-STRESS DIAGRAM",
+          "role": "primary"
+        },
+        {
+          "text": "THERMAL STRESS",
+          "role": "outcome"
+        },
+        {
+          "text": "SYMBIONT LOSS AND BLEACHING",
+          "role": "comparison"
+        },
+        {
+          "text": "CARBONATE CHEMISTRY CHANGES",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL POLLUTION",
+          "role": "primary"
+        },
+        {
+          "text": "COMPOUNDING STRESS",
+          "role": "outcome"
+        },
+        {
+          "text": "EVENT SEVERITY AND LOCAL CONDITION MATTER",
+          "role": "comparison"
+        },
+        {
+          "text": "BLEACHING AND ACIDIFICATION ARE NOT SYNONYMS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "THERMAL STRESS → symbiont loss and bleaching",
+        "ACIDIFICATION → carbonate chemistry changes",
+        "LOCAL POLLUTION → compounding stress",
+        "RECOVERY → event severity and local condition matter",
+        "RULE → bleaching and acidification are not synonyms"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "THERMAL STRESS → symbiont loss and bleaching",
+          "LOCAL POLLUTION → compounding stress",
+          "RULE → bleaching and acidification are not synonyms"
+        ],
+        [
+          "ACIDIFICATION → carbonate chemistry changes",
+          "RECOVERY → event severity and local condition matter",
+          "THERMAL STRESS → symbiont loss and bleaching"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "THERMAL STRESS → symbiont loss and bleaching",
+            "ACIDIFICATION → carbonate chemistry changes"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "LOCAL POLLUTION → compounding stress",
+            "RECOVERY → event severity and local condition matter"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "RULE → bleaching and acidification are not synonyms",
+            "THERMAL STRESS → symbiont loss and bleaching"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → bleaching and acidification are not synonyms.",
+      "source_references": [
+        "Coral stress distinction"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SEDIMENT-BUDGET RAIL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SEDIMENT-BUDGET RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "RIVERS CLIFFS REEFS AND ALONGSHORE SUPPLY",
+          "role": "outcome"
+        },
+        {
+          "text": "WAVES CURRENTS AND TIDES",
+          "role": "comparison"
+        },
+        {
+          "text": "DAMS MINING PORTS AND COASTAL STRUCTURES",
+          "role": "evidence"
+        },
+        {
+          "text": "STORM AND SURGE REDISTRIBUTION",
+          "role": "primary"
+        },
+        {
+          "text": "EROSION ACCRETION OR REORIENTATION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "SOURCE → rivers cliffs reefs and alongshore supply",
+        "TRANSPORT → waves currents and tides",
+        "INTERRUPTION → dams mining ports and coastal structures",
+        "EVENT → storm and surge redistribution",
+        "SHORELINE → erosion accretion or reorientation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "SOURCE → rivers cliffs reefs and alongshore supply",
+            "TRANSPORT → waves currents and tides"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "INTERRUPTION → dams mining ports and coastal structures",
+            "EVENT → storm and surge redistribution"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "SHORELINE → erosion accretion or reorientation",
+            "SOURCE → rivers cliffs reefs and alongshore supply"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INTERRUPTION → dams mining ports and coastal structures.",
+      "source_references": [
+        "Sediment and erosion chain"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CRZ LEGAL HIERARCHY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CRZ LEGAL HIERARCHY",
+          "role": "primary"
+        },
+        {
+          "text": "ENVIRONMENT PROTECTION ACT",
+          "role": "institution"
+        },
+        {
+          "text": "ENABLING LEGAL BASE",
+          "role": "comparison"
+        },
+        {
+          "text": "CRZ NOTIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "NATIONAL REGULATORY FRAMEWORK",
+          "role": "primary"
+        },
+        {
+          "text": "CHANGES SPECIFIED PROVISIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "MAPPED STATE OR UT IMPLEMENTATION LAYER",
+          "role": "institution"
+        },
+        {
+          "text": "PROJECT DECISION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ENVIRONMENT PROTECTION ACT → enabling legal base",
+        "CRZ NOTIFICATION → national regulatory framework",
+        "AMENDMENT → changes specified provisions",
+        "CZMP → mapped state or UT implementation layer",
+        "PROJECT DECISION → separate appraisal and clearance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "ENVIRONMENT PROTECTION ACT → enabling legal base",
+            "CRZ NOTIFICATION → national regulatory framework"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AMENDMENT → changes specified provisions",
+            "CZMP → mapped state or UT implementation layer"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "PROJECT DECISION → separate appraisal and clearance",
+            "ENVIRONMENT PROTECTION ACT → enabling legal base"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CZMP → mapped state or UT implementation layer.",
+      "source_references": [
+        "CRZ legal identity",
+        "Notification-vintage boundary",
+        "CZMP evidence boundary",
+        "Classification-clearance distinction"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CRZ CATEGORY COMPASS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CRZ CATEGORY COMPASS",
+          "role": "primary"
+        },
+        {
+          "text": "CRZ I",
+          "role": "outcome"
+        },
+        {
+          "text": "ECOLOGICALLY SENSITIVE AND INTERTIDAL CONTEXTS",
+          "role": "comparison"
+        },
+        {
+          "text": "CRZ II",
+          "role": "evidence"
+        },
+        {
+          "text": "DEVELOPED URBAN COASTAL CONTEXT",
+          "role": "primary"
+        },
+        {
+          "text": "CRZ III",
+          "role": "outcome"
+        },
+        {
+          "text": "RELATIVELY UNDISTURBED RURAL CONTEXT",
+          "role": "comparison"
+        },
+        {
+          "text": "CRZ IV",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CRZ I → ecologically sensitive and intertidal contexts",
+        "CRZ II → developed urban coastal context",
+        "CRZ III → relatively undisturbed rural context",
+        "CRZ IV → specified water-area context",
+        "SUBCATEGORY RULE → official notification controls detail"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "CRZ I → ecologically sensitive and intertidal contexts",
+          "CRZ III → relatively undisturbed rural context",
+          "SUBCATEGORY RULE → official notification controls detail"
+        ],
+        [
+          "CRZ II → developed urban coastal context",
+          "CRZ IV → specified water-area context",
+          "CRZ I → ecologically sensitive and intertidal contexts"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "CRZ I → ecologically sensitive and intertidal contexts",
+            "CRZ II → developed urban coastal context"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "CRZ III → relatively undisturbed rural context",
+            "CRZ IV → specified water-area context"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "SUBCATEGORY RULE → official notification controls detail",
+            "CRZ I → ecologically sensitive and intertidal contexts"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CRZ I → ecologically sensitive and intertidal contexts.",
+      "source_references": [
+        "CRZ category boundary"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "COASTAL LINE FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COASTAL LINE FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "MAPPED TIDAL REFERENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "MAPPED LOWER TIDAL REFERENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "HAZARD LINE",
+          "role": "evidence"
+        },
+        {
+          "text": "HAZARD-INFORMATION FUNCTION",
+          "role": "primary"
+        },
+        {
+          "text": "SETBACK OR NDZ",
+          "role": "outcome"
+        },
+        {
+          "text": "RULE-DEFINED REGULATORY FUNCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "APPROVED MAP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HTL → mapped tidal reference",
+        "LTL → mapped lower tidal reference",
+        "HAZARD LINE → hazard-information function",
+        "SETBACK OR NDZ → rule-defined regulatory function",
+        "APPROVED MAP → category boundary evidence"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "HTL → mapped tidal reference",
+          "HAZARD LINE → hazard-information function",
+          "APPROVED MAP → category boundary evidence"
+        ],
+        [
+          "LTL → mapped lower tidal reference",
+          "SETBACK OR NDZ → rule-defined regulatory function",
+          "HTL → mapped tidal reference"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "HTL → mapped tidal reference",
+            "LTL → mapped lower tidal reference"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "HAZARD LINE → hazard-information function",
+            "SETBACK OR NDZ → rule-defined regulatory function"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "APPROVED MAP → category boundary evidence",
+            "HTL → mapped tidal reference"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SETBACK OR NDZ → rule-defined regulatory function; APPROVED MAP → category boundary evidence.",
+      "source_references": [
+        "HTL-LTL boundary",
+        "CZMP evidence boundary"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CZMP-TO-CLEARANCE SEQUENCE",
+      "structural_type": "process-flow",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CZMP-TO-CLEARANCE SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "CATEGORY AND BOUNDARY MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "PROJECT LOCATION",
+          "role": "comparison"
+        },
+        {
+          "text": "OVERLAID ON APPROVED PLAN",
+          "role": "evidence"
+        },
+        {
+          "text": "APPLICABLE RULE",
+          "role": "primary"
+        },
+        {
+          "text": "CATEGORY SUBCATEGORY AND ACTIVITY",
+          "role": "outcome"
+        },
+        {
+          "text": "APPRAISAL OR CLEARANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "PROJECT-SPECIFIC DECISION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CZMP → category and boundary map",
+        "PROJECT LOCATION → overlaid on approved plan",
+        "APPLICABLE RULE → category subcategory and activity",
+        "APPRAISAL OR CLEARANCE → project-specific decision",
+        "COMPLIANCE → construction and operation monitoring"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "CZMP → category and boundary map",
+            "PROJECT LOCATION → overlaid on approved plan"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "APPLICABLE RULE → category subcategory and activity",
+            "APPRAISAL OR CLEARANCE → project-specific decision"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "COMPLIANCE → construction and operation monitoring",
+            "CZMP → category and boundary map"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "APPRAISAL OR CLEARANCE → project-specific decision; COMPLIANCE → construction and operation monitoring.",
+      "source_references": [
+        "CZMP evidence boundary",
+        "Classification-clearance distinction"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ICZM COORDINATION WHEEL",
+      "structural_type": "layered-rail",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ICZM COORDINATION WHEEL",
+          "role": "primary"
+        },
+        {
+          "text": "CUMULATIVE ECOLOGICAL CONDITION",
+          "role": "outcome"
+        },
+        {
+          "text": "EROSION SURGE FLOODING AND INTRUSION",
+          "role": "comparison"
+        },
+        {
+          "text": "FISHING ACCESS TENURE AND SETTLEMENTS",
+          "role": "evidence"
+        },
+        {
+          "text": "PORTS TOURISM ENERGY AND INFRASTRUCTURE",
+          "role": "primary"
+        },
+        {
+          "text": "WIDER THAN ONE PROJECT CLEARANCE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ECOSYSTEMS → cumulative ecological condition",
+        "HAZARDS → erosion surge flooding and intrusion",
+        "LIVELIHOODS → fishing access tenure and settlements",
+        "DEVELOPMENT → ports tourism energy and infrastructure",
+        "COORDINATION → wider than one project clearance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "ECOSYSTEMS → cumulative ecological condition",
+            "HAZARDS → erosion surge flooding and intrusion"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LIVELIHOODS → fishing access tenure and settlements",
+            "DEVELOPMENT → ports tourism energy and infrastructure"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "COORDINATION → wider than one project clearance",
+            "ECOSYSTEMS → cumulative ecological condition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DEVELOPMENT → ports tourism energy and infrastructure; COORDINATION → wider than one project clearance.",
+      "source_references": [
+        "ICZM-clearance distinction",
+        "Layered legal geography"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "COASTAL AQUIFER MECHANISM",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "COASTAL AQUIFER MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "OVER EXTRACTION OR LOWER RECHARGE",
+          "role": "outcome"
+        },
+        {
+          "text": "FRESHWATER HEAD FALLS",
+          "role": "comparison"
+        },
+        {
+          "text": "HYDRAULIC GRADIENT CHANGES",
+          "role": "evidence"
+        },
+        {
+          "text": "SALINE INTERFACE MOVES",
+          "role": "primary"
+        },
+        {
+          "text": "SEA LEVEL OR ENGINEERING",
+          "role": "outcome"
+        },
+        {
+          "text": "POSSIBLE COMPOUNDING PRESSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "WELLS SOILS AND SUPPLY AFFECTED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OVER EXTRACTION OR LOWER RECHARGE → freshwater head falls",
+        "HYDRAULIC GRADIENT CHANGES → saline interface moves",
+        "SEA LEVEL OR ENGINEERING → possible compounding pressure",
+        "SALINISATION → wells soils and supply affected",
+        "RESPONSE → demand recharge pumping monitoring and barriers"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "OVER EXTRACTION OR LOWER RECHARGE → freshwater head falls",
+            "HYDRAULIC GRADIENT CHANGES → saline interface moves"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SEA LEVEL OR ENGINEERING → possible compounding pressure",
+            "SALINISATION → wells soils and supply affected"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "RESPONSE → demand recharge pumping monitoring and barriers",
+            "OVER EXTRACTION OR LOWER RECHARGE → freshwater head falls"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESPONSE → demand recharge pumping monitoring and barriers.",
+      "source_references": [
+        "Seawater-intrusion chain",
+        "Intrusion response hierarchy"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "BLUE ECONOMY SUSTAINABILITY TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BLUE ECONOMY SUSTAINABILITY TEST",
+          "role": "primary"
+        },
+        {
+          "text": "SECTOR OPPORTUNITY",
+          "role": "outcome"
+        },
+        {
+          "text": "FISHERIES SHIPPING TOURISM ENERGY OR SCIENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "ECOSYSTEM PRESSURE",
+          "role": "evidence"
+        },
+        {
+          "text": "HABITAT POLLUTION EXTRACTION AND CARBON",
+          "role": "primary"
+        },
+        {
+          "text": "LIVELIHOOD AND EQUITY",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCESS BENEFIT AND DISPLACEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "CUMULATIVE GOVERNANCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SECTOR OPPORTUNITY → fisheries shipping tourism energy or science",
+        "ECOSYSTEM PRESSURE → habitat pollution extraction and carbon",
+        "LIVELIHOOD AND EQUITY → access benefit and displacement",
+        "CUMULATIVE GOVERNANCE → thresholds monitoring and enforcement",
+        "VERDICT → growth is not sustainability without outcomes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "SECTOR OPPORTUNITY → fisheries shipping tourism energy or science",
+            "ECOSYSTEM PRESSURE → habitat pollution extraction and carbon"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LIVELIHOOD AND EQUITY → access benefit and displacement",
+            "CUMULATIVE GOVERNANCE → thresholds monitoring and enforcement"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → growth is not sustainability without outcomes",
+            "SECTOR OPPORTUNITY → fisheries shipping tourism energy or science"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → growth is not sustainability without outcomes.",
+      "source_references": [
+        "Blue-economy definition",
+        "Sector-outcome boundary"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "COASTAL ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "COASTAL ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "ECOLOGICAL COAST AND ADMINISTRATIVE CRZ SEPARATELY",
+          "role": "outcome"
+        },
+        {
+          "text": "HABITAT SEDIMENT HAZARD AQUIFER AND LIVELIHOOD SYSTEMS",
+          "role": "comparison"
+        },
+        {
+          "text": "NOTIFICATION CZMP CATEGORY CLEARANCE ICZM AND MARITIME ZONE",
+          "role": "evidence"
+        },
+        {
+          "text": "SECTOR OPPORTUNITY AGAINST ECOSYSTEM AND EQUITY OUTCOME",
+          "role": "primary"
+        },
+        {
+          "text": "OFFICIAL MAP SURVEY NOTIFICATION DECISION AND DATE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DEFINE → ecological coast and administrative CRZ separately",
+        "MAP → habitat sediment hazard aquifer and livelihood systems",
+        "PLACE → notification CZMP category clearance ICZM and maritime zone",
+        "EVALUATE → sector opportunity against ecosystem and equity outcome",
+        "VERIFY → official map survey notification decision and date"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "DEFINE → ecological coast and administrative CRZ separately",
+            "MAP → habitat sediment hazard aquifer and livelihood systems"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PLACE → notification CZMP category clearance ICZM and maritime zone",
+            "EVALUATE → sector opportunity against ecosystem and equity outcome"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERIFY → official map survey notification decision and date",
+            "DEFINE → ecological coast and administrative CRZ separately"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERIFY → official map survey notification decision and date.",
+      "source_references": [
+        "Maritime-zone boundary",
+        "Current evidence boundary"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CORAL BLEACHING RESULTS PRIMARILY FROM SEA-SURFACE-TEMPERATURE STRESS (CORALS EXPELLING",
+          "role": "outcome"
+        },
+        {
+          "text": "ANALYTICAL POINT",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS COMPOUNDING-STRESS FRAMING IS IMPORTANT BECAUSE ADDRESSING",
+          "role": "evidence"
+        },
+        {
+          "text": "CRZ IMPLEMENTATION REQUIRES COORDINATION BETWEEN MOEFCC/NCZMA (ENVIRONMENTAL CLEARANCE)",
+          "role": "primary"
+        },
+        {
+          "text": "DOCUMENTED FRICTION",
+          "role": "outcome"
+        },
+        {
+          "text": "COASTAL-COMMUNITY AND FISHERFOLK ORGANISATIONS HAVE, IN VARIOUS",
+          "role": "comparison"
+        },
+        {
+          "text": "PRECISE BLUE-CARBON STORAGE/SEQUESTRATION-RATE FIGURES FOR INDIA'S SPECIFIC MANGROVE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL ECOLOGICAL PROCESS DEPTH",
+          "role": "evidence",
+          "items": [
+            "Coral bleaching results primarily from sea-surface-temperature stress (corals expelling",
+            "CAUTION: Analytical point: this compounding-stress framing is important because addressing",
+            "CRZ implementation requires coordination between MoEFCC/NCZMA (environmental clearance),",
+            "CAUTION: Documented friction: coastal-community and fisherfolk organisations have, in various"
+          ]
+        },
+        {
+          "heading": "SCALE, PARAMETER OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Precise blue-carbon storage/sequestration-rate figures for India's specific mangrove",
+            "CAUTION: Coral-reef health/bleaching-extent monitoring in India (Gulf of Mannar, Lakshadweep,",
+            "CAUTION: The precise economic valuation of Blue Economy sectors (fisheries, coastal tourism,",
+            "The 2019 CRZ Notification's reduced No Development Zone distances and simplified"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE RESTORATION NUANCE",
+          "role": "comparison",
+          "items": [
+            "Blue-carbon ecosystems (mangroves, seagrass, salt marshes) can sequester carbon per",
+            "Coral reefs face a compounding dual stress from rising atmospheric CO₂ — sea-surface",
+            "CRZ implementation requires coordination across multiple central ministries and state",
+            "NOT: The 2019 CRZ Notification is universally regarded as an unambiguous improvement over"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+ASCII MASTER FLOW — PANEL 1/8: Settlement-reading system: ground, form, work and network
++---------------- SETTLEMENT GEOGRAPHY ----------------+
+| CENTRAL QUESTION: Why do people settle here, in this  |
+| form, for these functions, within this wider network? |
++--------------------------------------------------------+
+                         |
+       +-----------------+-----------------+
+       |                 |                 |
+SITE: exact ground   SITUATION: links   FUNCTION: work
+relief, soil, water  route, river, city  farm, trade, service
+       \                 |                 /
+        +----------- SETTLEMENT FORM ------+
+       compact | semi-compact | hamleted | dispersed
+                         |
+PATTERN: linear | grid | radial | circular | irregular
+                         |
+HIERARCHY: village -> town -> city -> metropolis
+           -> conurbation -> megalopolis
+
+Ground -> shape -> work -> network; no single dimension is sufficient.
+
+ASCII MASTER FLOW — PANEL 2/8: Rural settlement forms and the rural-urban continuum
+RURAL MORPHOLOGY
++----------------+----------------------+-------------------------+
+| FORM           | COMMON CONTROL       | SAFE INTERPRETATION     |
++----------------+----------------------+-------------------------+
+| Compact        | security, water      | close houses, not urban |
+| Hamleted       | caste/clan, terrain  | linked small clusters   |
+| Dispersed      | slopes, farms        | rational adaptation     |
+| Linear         | road, river, canal   | corridor alignment      |
++----------------+----------------------+-------------------------+
+
+RURAL <----------------------------------------------------> URBAN
+primary work      mixed livelihoods       non-primary work/services
+low density       peri-urban change       dense networked land use
+                         |
+Urbanisation = share change + work change + services + networks + land use
+                         |
+UA = continuous urban spread | conurbation = coalesced towns
+metropolis = command city | megalopolis = multi-metropolitan region
+
+The continuum replaces a false binary but does not erase legal categories.
+
+ASCII MASTER FLOW — PANEL 3/8: Central-place theory: threshold, range, hierarchy and Indian fit
+                      CENTRAL PLACE
+                           |
+       +-------------------+-------------------+
+       |                                       |
+THRESHOLD                              RANGE
+minimum viable demand                  maximum accepted travel/cost
+       |                                       |
+low-order goods                       high-order goods
+small threshold, short range          large threshold, long range
+       \                                       /
+        +------------ PLACE HIERARCHY --------+
+                           |
+K=3 marketing | K=4 transport | K=7 administration
+                           |
+INDIAN FIT: alluvial plains, periodic markets, facility planning
+INDIAN BREAKS: hills, forests, deserts, deltas, coasts, history,
+               better transport and metropolitan dominance
+                           |
+VERDICT: hexagonal geometry is weak; threshold, range and hierarchy endure.
+
+ASCII MASTER FLOW — PANEL 4/8: Urban-system and morphology models compared
++----------------+-----------------------+------------------------+
+| MODEL          | CORE MECHANISM        | MAIN LIMIT             |
++----------------+-----------------------+------------------------+
+| Rank-size      | size falls with rank  | system boundary matters|
+| Primacy        | one city dominates    | scale changes verdict  |
+| Burgess        | concentric rings      | monocentric assumption |
+| Hoyt           | corridor sectors      | underplays later nodes |
+| Harris-Ullman  | specialised nuclei    | more descriptive       |
++----------------+-----------------------+------------------------+
+
+BURGESS: CBD -> transition -> worker housing -> better housing -> commuters
+HOYT   : CBD with wedges extending along transport corridors
+NUCLEI : CBD + industry + airport + university + suburban business nodes
+                         |
+REAL INDIAN METROPOLIS
+historic core + colonial axis + industry + corridors + informal growth
+                         |
+Use models as layered lenses; none is a literal photograph of the city.
+
+ASCII MASTER FLOW — PANEL 5/8: India's statistical, legal and physical urbanisation
+                    INDIA'S URBAN REALITY
+                            |
+       +--------------------+---------------------+
+       |                    |                     |
+LEGAL                  STATISTICAL             PHYSICAL
+statutory town         census town             built-up continuity
+urban local body       urban criteria          peri-urban spread / UA
+       |                    |                     |
+       +----------- may not coincide -------------+
+                            |
+HIDDEN URBANISATION
+functional and census change ahead of municipal institutions
+                            |
+CENSUS 2011 OBSERVED BASELINE
+urban population 377.1 million | urban share 31.16%
+7,935 towns = 4,041 statutory + 3,894 census towns
+53 million-plus urban agglomerations / cities
+
+Always attach source and year; projections and mission counts are not Census.
+
+ASCII MASTER FLOW — PANEL 6/8: Urban problem system: sprawl, housing, mobility, flood and heat
+URBAN EXPANSION OUTRUNS PLANNING AND SERVICES
+                         |
+       +-----------------+------------------+
+       |                 |                  |
+SPRAWL               HOUSING FAILURE      SEALED LAND
+longer networks      informality          faster runoff
+longer trips         hazardous sites      lost storage
+congestion           unequal service      urban flood
+       |                 |                  |
+       +-----------------+------------------+
+                         |
+DARK SURFACES + LOW TREE COVER -> retained heat -> health inequality
+DISTANT WATER + LEAKS + UNTREATED SEWAGE -> basin-scale water stress
+                         |
+EXPOSURE FILTER
+income, tenure, occupation, age, gender, disability and warning access
+                         |
+RESPONSE
+compact serviced growth + affordable housing + transit + blue-green systems
++ drainage maintenance + heat action + water reuse + risk-sensitive zoning
+
+ASCII MASTER FLOW — PANEL 7/8: Functional city versus fragmented governance
+FUNCTIONAL URBAN REGION
+jobs + housing + transport + water + waste + ecology cross boundaries
+                         |
+GOVERNING MAP
+ULB A | ULB B | development authority | utility | district | state agency
+                         |
+fragmented mandate + finance + data + accountability
+                         |
+uneven service, delayed infrastructure and risk transfer
+                         |
+INTEGRATION STACK
+metropolitan planning -> empowered ULBs -> stable finance
+-> ward participation -> common data -> transit-land-use alignment
+-> utility coordination -> outcome audits
+
+MISSION FIREWALL
+announcement -> sanction -> project -> completion -> service outcome
+A dated project count is not proof of universal liveability.
+
+Polycentric growth needs integrated mobility and governance,
+otherwise multiple nodes become multiple accountability gaps.
+
+ASCII MASTER FLOW — PANEL 8/8: Map-answer and Mains spine for Indian urbanisation
+QUESTION: Is Indian urbanisation productive, inclusive and resilient?
+                             |
+1. DEFINE THE URBAN LENS
+   legal + statistical + physical + functional urbanisation
+                             |
+2. MAP THE SYSTEM
+   metros -> corridors -> intermediate towns -> census towns -> peri-urban belts
+                             |
+3. EXPLAIN BENEFITS
+   agglomeration -> matching -> innovation -> shared infrastructure
+                             |
+4. DIAGNOSE MECHANISMS
+   sprawl | housing | mobility | flood | heat | water | sanitation
+                             |
+5. LOCATE GOVERNANCE GAP
+   functional region exceeds municipal boundary and capacity
+                             |
+6. QUALIFY WITH DATED EVIDENCE
+   Census baseline is observed; mission outputs require outcome checks
+                             |
+7. VERDICT
+   capture density and connectivity while building inclusive services,
+   ecological safeguards and accountable metropolitan institutions.

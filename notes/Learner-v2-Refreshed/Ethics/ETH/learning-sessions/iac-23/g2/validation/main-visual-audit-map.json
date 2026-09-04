@@ -1,0 +1,1241 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-23\\g2\\ethics-23_Complete-Learning-Session_2026-09-02.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Ethics\\ETH\\learning-sessions\\iac-23\\g2\\ethics-23_Complete-Learning-Session_2026-09-02.pdf",
+  "mode": "main",
+  "topic_key": "ethics-23",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 47,
+      "markdown_body_line_end": 57,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 424.891
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 119.89
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 79,
+      "markdown_body_line_end": 93,
+      "heading": "SESSION 1 - Case method: mechanism, evidence, limitation and transfer",
+      "preview": "**Subject:** Ethics | **Tier:** Must-Do (foundation) | **GS Paper:** GS-IV. **Core area:** Named, source-grounded Indian cases and comparative international anti-corruption models, retaining exact source and date rather than simplified \"her",
+      "metadata": {
+        "line_count": 15
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 551.491
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 307.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 98,
+      "markdown_body_line_end": 112,
+      "heading": "1. Visual foundation",
+      "preview": "NAMED INDIAN CASES                          COMPARATIVE INTERNATIONAL MODELS",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 283.324
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 142.324
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 124,
+      "markdown_body_line_end": 134,
+      "heading": "2. Essential case summaries (retain source and date)",
+      "preview": "Case | Source-grounded facts",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Case",
+          "Source-grounded facts"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 741.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 701.49
+        }
+      },
+      "pdf_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 141,
+      "markdown_body_line_end": 148,
+      "heading": "3. Comparative international models (ARC-cited)",
+      "preview": "Country/Model | Source-grounded facts",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Country/Model",
+          "Source-grounded facts"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 625.99
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 624.29
+        }
+      },
+      "pdf_pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 163,
+      "markdown_body_line_end": 167,
+      "heading": "4.1 Workplace-safety and research-ethics named evidence",
+      "preview": "Instrument/case | Source-grounded facts | Limitation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Instrument/case",
+          "Source-grounded facts",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 273.49
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 170,
+      "markdown_body_line_end": 174,
+      "heading": "4.2 Humanitarian and refugee-protection jurisprudence",
+      "preview": "Case | Source-grounded facts | Limitation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Case",
+          "Source-grounded facts",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 228.69
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 177,
+      "markdown_body_line_end": 181,
+      "heading": "4.3 Communal-harmony and peacebuilding named evidence",
+      "preview": "Case/practice | Source-grounded facts | Limitation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Case/practice",
+          "Source-grounded facts",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 407.89
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 184,
+      "markdown_body_line_end": 186,
+      "heading": "4.4 Custodial-justice/policing jurisprudence",
+      "preview": "Case | Source-grounded facts | Limitation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 1,
+        "headers": [
+          "Case",
+          "Source-grounded facts",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 385.89
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 172.088
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 271,
+      "markdown_body_line_end": 275,
+      "heading": "8. Mains angles",
+      "preview": "**Answer thesis:** India's and the world's anti-corruption record, as the ARC itself documents, is a mixed one of genuine successes (MKSS, Parivartan, Bhoomi, Gyandoot, Hong Kong's ICAC) and sobering limitations (Manjunath's and Dubey's dea",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 312.591
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 239.524
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 310,
+      "markdown_body_line_end": 311,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 525.391
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 458.724
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 317,
+      "markdown_body_line_end": 319,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 407.124
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 268.222
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 324,
+      "markdown_body_line_end": 324,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 214.822
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 170.154
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1742,
+      "markdown_body_line_end": 1749,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Ethics | **Tier:** Advanced | **GS Paper:** GS-IV. **Core area:** Deeper synthesis of named Indian cases and comparative international models, extracting transferable institutional-design lessons while resisting hero-story simp",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 678.824
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1754,
+      "markdown_body_line_end": 1775,
+      "heading": "1. Architecture",
+      "preview": "CASE CATEGORY               TRANSFERABLE LESSON                RESIDUAL LIMITATION (do not omit)",
+      "metadata": {
+        "language": "text",
+        "line_count": 20,
+        "max_source_line_length": 109
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 651.324
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 370.324
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1783,
+      "markdown_body_line_end": 1788,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 335.49
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1929,
+      "markdown_body_line_end": 1932,
+      "heading": "9. CURRENT: Current-anchor application",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 529.491
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 417.69
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1969,
+      "markdown_body_line_end": 1970,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 562.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 517.624
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1976,
+      "markdown_body_line_end": 1978,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 466.024
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 327.122
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1983,
+      "markdown_body_line_end": 1983,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 273.722
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 229.054
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1992,
+      "markdown_body_line_end": 2022,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: 1. Named-case reasoning chain",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 480.491
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2026,
+      "markdown_body_line_end": 2055,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: 2. Whistleblower protection architecture",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 458.491
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 161.891
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2059,
+      "markdown_body_line_end": 2088,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: 3. Parliamentary ethics comparison",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 490.691
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2092,
+      "markdown_body_line_end": 2121,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: 4. Citizen evidence chain",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 468.691
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 172.091
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2125,
+      "markdown_body_line_end": 2154,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: 5. Bhoomi versus CARD",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 490.691
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2158,
+      "markdown_body_line_end": 2187,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: 6. Comparative anti-corruption models",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 468.691
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 172.091
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2191,
+      "markdown_body_line_end": 2220,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: 7. Vishaka to workplace statute",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 490.691
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2224,
+      "markdown_body_line_end": 2253,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: 8. ICMR research-ethics gate",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 468.691
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 172.091
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2257,
+      "markdown_body_line_end": 2286,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: 9. Refugee-rights paired reading",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 490.691
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2290,
+      "markdown_body_line_end": 2320,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: 10. Crisis action versus later inquiry",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 468.691
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 161.891
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2324,
+      "markdown_body_line_end": 2354,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: 11. D.K. Basu custody safeguards",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 480.491
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2358,
+      "markdown_body_line_end": 2387,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: 12. Examiner-ready answer spine",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 458.491
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 161.891
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2396,
+      "markdown_body_line_end": 2425,
+      "heading": "ASCII PANEL 1/12 - 1. Named-case reasoning chain",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 744.091
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 453.091
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2429,
+      "markdown_body_line_end": 2458,
+      "heading": "ASCII PANEL 2/12 - 2. Whistleblower protection architecture",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 431.091
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 140.091
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2462,
+      "markdown_body_line_end": 2491,
+      "heading": "ASCII PANEL 3/12 - 3. Parliamentary ethics comparison",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2495,
+      "markdown_body_line_end": 2524,
+      "heading": "ASCII PANEL 4/12 - 4. Citizen evidence chain",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2528,
+      "markdown_body_line_end": 2557,
+      "heading": "ASCII PANEL 5/12 - 5. Bhoomi versus CARD",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2561,
+      "markdown_body_line_end": 2590,
+      "heading": "ASCII PANEL 6/12 - 6. Comparative anti-corruption models",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2594,
+      "markdown_body_line_end": 2623,
+      "heading": "ASCII PANEL 7/12 - 7. Vishaka to workplace statute",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2627,
+      "markdown_body_line_end": 2656,
+      "heading": "ASCII PANEL 8/12 - 8. ICMR research-ethics gate",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2660,
+      "markdown_body_line_end": 2689,
+      "heading": "ASCII PANEL 9/12 - 9. Refugee-rights paired reading",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2693,
+      "markdown_body_line_end": 2722,
+      "heading": "ASCII PANEL 10/12 - 10. Crisis action versus later inquiry",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2726,
+      "markdown_body_line_end": 2755,
+      "heading": "ASCII PANEL 11/12 - 11. D.K. Basu custody safeguards",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2759,
+      "markdown_body_line_end": 2788,
+      "heading": "ASCII PANEL 12/12 - 12. Examiner-ready answer spine",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2792,
+      "markdown_body_line_end": 2805,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 80.69
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2955,
+      "markdown_body_line_end": 2955,
+      "heading": "12. PYQ AND ANSWER-WRITING SPINE",
+      "preview": "**Final thesis:** A high-quality GS-IV answer does not celebrate a case name and stop. It identifies the rule, explains the causal mechanism, shows what the evidence proves, retains the unresolved limitation and adapts the remedy to the new",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 716.024
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    }
+  ]
+}

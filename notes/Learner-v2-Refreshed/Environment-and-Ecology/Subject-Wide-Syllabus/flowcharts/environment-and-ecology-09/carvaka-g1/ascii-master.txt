@@ -1,0 +1,83 @@
+ASCII MASTER FLOW — PANEL 1/12: Jurisdiction firewall
+CITES -> international movement of listed specimens
+DOMESTIC HUNTING -> domestic wildlife law
+HABITAT LOSS -> land, forest and protected-area law
+LOCAL CONSUMPTION -> domestic enforcement and demand reduction
+RULE -> treaty scope is trade-specific, not species-protection complete
+
+ASCII MASTER FLOW — PANEL 2/12: Appendix comparison
+APPENDIX I -> threatened with extinction; particularly strict trade control
+APPENDIX II -> trade controlled to avoid incompatible utilization
+APPENDIX III -> one Party seeks cooperation for a species it regulates
+COMMON THREAD -> international trade documents and verification
+NOT A LADDER -> Appendix III is not a lower extinction-risk score
+
+ASCII MASTER FLOW — PANEL 3/12: Listing-to-transaction gate
+LISTING FOUND -> verify accepted scientific name
+IDENTIFY -> specimen or processed product
+CLASSIFY -> import, export, re-export or introduction from sea
+CHECK -> origin, purpose, reservation and required document
+VERDICT -> listing alone never proves lawful or unlawful movement
+
+ASCII MASTER FLOW — PANEL 4/12: Specimen and source check
+SHIPMENT LABEL -> compare with accepted taxon
+PART OR DERIVATIVE -> verify recognizability and listing scope
+SOURCE CLAIM -> inspect the transaction document
+NO SHORTCUT -> captive or propagated origin is not presumed
+OUTPUT -> source-bounded specimen identity
+
+ASCII MASTER FLOW — PANEL 5/12: Transaction matrix
+IMPORT -> entry into a State
+EXPORT -> departure from the State of origin
+RE-EXPORT -> departure after prior import
+INTRODUCTION FROM SEA -> separate Convention transaction
+RULE -> required findings and documents vary by transaction
+
+ASCII MASTER FLOW — PANEL 6/12: Science-to-permit chain
+SCIENTIFIC AUTHORITY -> assesses detriment
+NDF -> science gate where applicable
+LEGAL ACQUISITION -> separate compliance finding where required
+MANAGEMENT AUTHORITY -> issues permit or certificate
+BORDER -> document and specimen still require verification
+
+ASCII MASTER FLOW — PANEL 7/12: Authority split
+SCIENTIFIC AUTHORITY -> trade-impact advice
+MANAGEMENT AUTHORITY -> document administration
+CUSTOMS -> border control and declaration checks
+WCCB -> wildlife-crime intelligence and coordination
+NO MERGER -> each institution keeps its own decision boundary
+
+ASCII MASTER FLOW — PANEL 8/12: Appendix-change routes
+APPENDIX I OR II -> COP amendment route
+APPENDIX III -> unilateral Party request route
+RESERVATION -> specified Party and specified taxon treatment
+INDIAN UPDATE -> separate domestic legal step
+CAUTION -> proposal, adoption and domestic effect are different states
+
+ASCII MASTER FLOW — PANEL 9/12: India implementation bridge
+CITES DECISION -> international treaty plane
+SCHEDULE IV -> Indian scheduled-specimen plane
+DESIGNATED AUTHORITIES -> science and permit plane
+CUSTOMS AND WCCB -> enforcement plane
+RULE -> no automaticity across the four planes
+
+ASCII MASTER FLOW — PANEL 10/12: Enforcement weakest-link map
+POPULATION EVIDENCE -> credible NDF
+PERMIT INTEGRITY -> authentic document
+SPECIES IDENTIFICATION -> correct specimen match
+BORDER COORDINATION -> customs and wildlife enforcement
+DEMAND REDUCTION -> complementary domestic response
+
+ASCII MASTER FLOW — PANEL 11/12: Convention distinction matrix
+CITES -> international wildlife trade
+IUCN -> scientific extinction-risk assessment
+CMS -> migratory-range cooperation
+WILDLIFE ACT -> domestic legal consequences
+RULE -> one species may occupy all layers without merging them
+
+ASCII MASTER FLOW — PANEL 12/12: Audit and answer spine
+SCOPE -> international trade only
+APPENDIX -> I, II or III mechanics
+TRANSACTION -> specimen, source, purpose and document
+AUTHORITY -> science, permit and enforcement roles
+QUALIFY -> zero direct PYQ and failed current-listing retrieval

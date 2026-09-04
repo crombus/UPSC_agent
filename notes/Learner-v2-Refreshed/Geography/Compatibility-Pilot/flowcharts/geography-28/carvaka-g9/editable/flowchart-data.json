@@ -1,0 +1,206 @@
+{
+  "schema_version": 1,
+  "topic_key": "geography-28-human-settlements-and-urbanisation",
+  "generation": 9,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Compatibility-Pilot\\learning-sessions\\geography-28\\g9\\geography-28_Complete-Learning-Session_2026-08-23.md",
+  "master_dimensions": [
+    3600,
+    14330
+  ],
+  "stages": [
+    {
+      "title": "SETTLEMENT GEOGRAPHY: SITE, SITUATION, FUNCTION AND HIERARCHY",
+      "terms": "An urban settlement is generally larger, functionally diversified and dominated by non-primary activities.",
+      "mechanism": "An urban settlement is generally larger, functionally diversified and dominated by non-primary activities.",
+      "consequence": "By contrast, a Himalayan village may have a secure terrace site but remain small because steep relief limits expansion and connectivity.",
+      "trap": "Do not miss this limiting distinction: correction: site is local ground; situation is relational location.",
+      "answer": "A good water site may remain small if it is isolated; a modest site may grow rapidly if its situation becomes a major transport junction."
+    },
+    {
+      "title": "RURAL SETTLEMENT FORMS: HOW CLOSELY DO PEOPLE LIVE?",
+      "terms": "Rural form answers “how closely?”; it does not by itself answer “how urban?”.",
+      "mechanism": "Rural settlement form describes how houses are grouped.",
+      "consequence": "Form is not a development ranking.",
+      "trap": "Do not miss this limiting distinction: dispersed settlement can be a functional adaptation to large farms or rugged terrain.",
+      "answer": "Rural form answers “how closely?”; it does not by itself answer “how urban?”."
+    },
+    {
+      "title": "SETTLEMENT PATTERNS: WHAT GEOMETRY APPEARS ON THE GROUND?",
+      "terms": "Ribbon development along a national highway is linear even when the settlement contains shops, homes and workshops.",
+      "mechanism": "The most dependable textbook example is a linear settlement following a road, canal, river or coast.",
+      "consequence": "Pattern is the visible arrangement of streets and dwellings; it is not the same as function.",
+      "trap": "Do not miss this limiting distinction: ribbon development along a national highway is linear even when the settlement contains shops...",
+      "answer": "Form measures clustering; pattern shows geometry; function explains economic role."
+    },
+    {
+      "title": "URBANISATION AND THE RURAL-URBAN CONTINUUM",
+      "terms": "Urbanisation is a process of people + work + services + networks + land-use change.",
+      "mechanism": "A village near a metropolitan edge may still have a panchayat but increasingly depend on commuting, warehouses, rental rooms and urban land markets.",
+      "consequence": "Urbanisation changes population share, occupation, services, connectivity and land use—not just the number of buildings.",
+      "trap": "✅ Current policy debate still depends on the Census distinction between statutory towns, census towns and urban agglomerations because a newer full census-based national urban baseline has not yet replaced Census 2011 in the reused sources.",
+      "answer": "The rural-urban boundary is therefore a continuum, not a clean wall."
+    },
+    {
+      "title": "MODEL FIREWALL: MODELS SIMPLIFY; THEY DO NOT PHOTOGRAPH REALITY",
+      "terms": "Technically, Model Firewall: Models Simplify; They Do Not Photograph Reality is analysed by relating Model Firewall to Models Simplify, then testing the relationship through They Do Not Photograph Reality and Christaller.",
+      "mechanism": "Use a model in four steps: assumption → mechanism → Indian application → limitation.",
+      "consequence": "A model is a thinking tool, not a universal map.",
+      "trap": "Do not miss this limiting distinction: delhi can be read through a historic core, colonial New Delhi, industrial corridors, satellite...",
+      "answer": "❌ Wrong: “The city follows Model X.” ✅ Better: “Model X explains this part of the pattern, while history, informality and polycentric growth require qualification.”."
+    },
+    {
+      "title": "CHRISTALLER'S CENTRAL-PLACE THEORY: THRESHOLD, RANGE AND HIERARCHY",
+      "terms": "The theory explains a nested hierarchy of service centres through the minimum demand needed and the maximum distance consumers will travel.",
+      "mechanism": "The theory explains a nested hierarchy of service centres through the minimum demand needed and the maximum distance consumers will travel.",
+      "consequence": "Real plains are not uniform; relief, rivers, resources and historic routes matter.",
+      "trap": "The model is static, while technology and population change continuously.",
+      "answer": "Never stop at “settlements form a hierarchy.” Explain threshold → range → service order → nested centres, then qualify the geometry."
+    },
+    {
+      "title": "APPLYING CENTRAL-PLACE LOGIC TO INDIA",
+      "terms": "Technically, Applying Central-Place Logic To India is analysed by relating hierarchy collapse to variables, then testing the relationship through Great alluvial plains and Service-facility planning.",
+      "mechanism": "This comparison is the visual: use it to move from “model fits” to “model is selectively useful.”.",
+      "consequence": "Use the variables, not the ideal geometry, as the main Indian application.",
+      "trap": "Do not miss this limiting distinction: christaller's most useful contemporary application is hierarchy collapse.",
+      "answer": "Do not draw a perfect hexagonal map of India."
+    },
+    {
+      "title": "RANK-SIZE, PRIMATE CITY AND INDIA'S MULTI-METROPOLITAN SYSTEM",
+      "terms": "The rank-size rule says that, in a well-integrated urban system, a city's population is roughly the largest city's population divided by its rank.",
+      "mechanism": "The rank-size rule says that, in a well-integrated urban system, a city's population is roughly the largest city's population divided by its rank.",
+      "consequence": "India is not strongly primate at the national scale because several very large metropolitan centres coexist.",
+      "trap": "It is an approximate regularity, not a law.",
+      "answer": "A primate city is far larger and more dominant than the rank-size expectation."
+    },
+    {
+      "title": "BURGESS: THE CONCENTRIC-ZONE MODEL",
+      "terms": "The model can help interpret an old commercial core and surrounding transition areas.",
+      "mechanism": "Growth occurs through invasion and succession: expanding activities enter an adjacent ring and push older uses outward.",
+      "consequence": "The transition zone is not a universal “slum ring.”.",
+      "trap": "Do not miss this limiting distinction: use Burgess to explain an age-status gradient, then immediately qualify the single-centre and uniform-transport...",
+      "answer": "Burgess explains rings well; it explains polycentric and corridor growth poorly."
+    },
+    {
+      "title": "HOYT: THE SECTOR MODEL",
+      "terms": "The sector model argues that industry, housing and high-status residential areas grow outward in wedges.",
+      "mechanism": "The sector model argues that industry, housing and high-status residential areas grow outward in wedges.",
+      "consequence": "Hoyt is stronger than Burgess when direction and transport corridors matter, but it still assumes one main centre and underplays later suburban nodes.",
+      "trap": "Industrial uses may extend along rail or highway corridors, while higher-income housing follows a well-connected and environmentally attractive direction.",
+      "answer": "Do not call every transport corridor a complete sector model."
+    },
+    {
+      "title": "HARRIS AND ULLMAN: THE MULTIPLE-NUCLEI MODEL",
+      "terms": "The result may include an old CBD, industrial node, university area, airport corridor, wholesale market and suburban business district.",
+      "mechanism": "The result may include an old CBD, industrial node, university area, airport corridor, wholesale market and suburban business district.",
+      "consequence": "Polycentricity is not automatically good governance.",
+      "trap": "Do not miss this limiting distinction: multiple nuclei best captures specialisation + clustering + incompatibility + decentralisation.",
+      "answer": "The model is descriptive rather than strongly predictive: it identifies multiple nodes but does not fully explain when and why each one will arise."
+    },
+    {
+      "title": "INDIA'S URBAN DEFINITIONS: STATISTICAL URBANISATION AND ADMINISTRATIVE URBANISATION",
+      "terms": "The central Indian distinction is between urban status by law and urban status by demographic-economic criteria.",
+      "mechanism": "The central Indian distinction is between urban status by law and urban status by demographic-economic criteria.",
+      "consequence": "A census town may have dense non-farm activity but remain governed as a rural panchayat, with rural service norms and funding arrangements.",
+      "trap": "A fast-growing settlement outside a city may host factories, warehouses, rented housing and daily commuters but lack municipal planning, drainage and property-management capacity.",
+      "answer": "The key Indian issue is a mismatch between statistical urbanisation and administrative urbanisation."
+    },
+    {
+      "title": "INDIA'S URBAN PROBLEM SET: SPRAWL, HOUSING AND MOBILITY",
+      "terms": "Correction: they are the same land-use and mobility problem viewed at different scales.",
+      "mechanism": "raises per-person infrastructure costs; lengthens commutes; converts farmland; separates housing from jobs; and leaves peri-urban areas under fragmented jurisdiction.",
+      "consequence": "Informal settlement is best understood as a housing-market and governance failure, not as a moral failure of migrants.",
+      "trap": "Restrictive land and building rules can limit supply, while insecure tenure discourages household investment.",
+      "answer": "Urban sprawl is low-density or discontinuous outward growth beyond the effective reach of the municipal plan."
+    },
+    {
+      "title": "INDIA'S URBAN PROBLEM SET: FLOODS, HEAT, WATER AND SANITATION",
+      "terms": "Trap: urban flooding is caused by rainfall alone.",
+      "mechanism": "Trap: urban flooding is caused by rainfall alone.",
+      "consequence": "The exact local mechanism differs, but the catchment principle is common.",
+      "trap": "Do not miss this limiting distinction: dark surfaces store heat, reduced vegetation limits evaporative cooling, built geometry traps radiation and...",
+      "answer": "Urban ecology is infrastructure: wetlands store water, vegetation cools and water bodies support drainage, recharge and habitat."
+    },
+    {
+      "title": "INDIA'S URBAN PROBLEM SET: GOVERNANCE FRAGMENTATION",
+      "terms": "Claim: part of urban growth is invisible to urban government.",
+      "mechanism": "Use governance fragmentation as the underlying mechanism connecting sprawl, flooding, service stress and weak maintenance.",
+      "consequence": "Named evidence/example: census towns meet demographic-economic urban criteria but may have no urban local body and remain under rural panchayats.",
+      "trap": "Analysis: urban planning powers, service norms and municipal finance do not automatically reach these settlements.",
+      "answer": "The problem is not only knowledge; it is the mismatch between the functional city and the governed city."
+    },
+    {
+      "title": "BASIC MASTERY RECAP",
+      "terms": "Urban problems emerge when land use, services and government no longer match the functional city.",
+      "mechanism": "Urban problems emerge when land use, services and government no longer match the functional city.",
+      "consequence": "The resulting consequence is that settlement geography moves from the ground under a habitation to the regional network that...",
+      "trap": "Do not miss this limiting distinction: settlement geography moves from the ground under a habitation to the regional network that...",
+      "answer": "Basic verdict: settlement geography moves from the ground under a habitation to the regional network that sustains it."
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 3,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7760,
+      "y_end": 9960,
+      "overlap_px": 260,
+      "from_stage": 9,
+      "continues_stage": 12
+    },
+    {
+      "page": 6,
+      "y_start": 9700,
+      "y_end": 11900,
+      "overlap_px": 260,
+      "from_stage": 11,
+      "continues_stage": 14
+    },
+    {
+      "page": 7,
+      "y_start": 11640,
+      "y_end": 13840,
+      "overlap_px": 260,
+      "from_stage": 14,
+      "continues_stage": 16
+    },
+    {
+      "page": 8,
+      "y_start": 12130,
+      "y_end": 14330,
+      "overlap_px": 260,
+      "from_stage": 14,
+      "continues_stage": 16
+    }
+  ]
+}

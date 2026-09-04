@@ -1,0 +1,83 @@
+ASCII MASTER FLOW — PANEL 1/12: India climate-policy timeline
+2008 NAPCC -> domestic mission-based framework
+PARIS NDC -> internationally communicated contribution
+COP26 PANCHAMRIT -> five-part political announcement
+2022 UPDATED NDC -> strengthened communicated 2030 terms
+2022 LT-LEDS -> long-horizon low-carbon development strategy
+
+ASCII MASTER FLOW — PANEL 2/12: Original mission map
+MITIGATION-HEAVY -> solar and enhanced energy efficiency
+ADAPTATION-HEAVY -> water, Himalaya and agriculture
+CROSS-CUTTING -> habitat, Green India and strategic knowledge
+CO-BENEFITS -> development, resilience and environmental quality
+COUNT RULE -> eight original missions in the 2008 architecture
+
+ASCII MASTER FLOW — PANEL 3/12: Centre-state implementation rail
+NAPCC MISSION -> national direction
+MINISTRY OR AGENCY -> programme and guidance
+SAPCC -> state-context translation
+BUDGET AND EXECUTION -> implementation evidence
+MONITORING AND OUTCOME -> separate verification stage
+
+ASCII MASTER FLOW — PANEL 4/12: Panchamrit five-part board
+500 GW -> non-fossil capacity by 2030
+50 PERCENT -> energy requirements from renewables by 2030
+ONE BILLION TONNES -> projected carbon-emissions reduction by 2030
+45 PERCENT -> emissions-intensity reduction from 2005 by 2030
+2070 -> announced net-zero destination
+
+ASCII MASTER FLOW — PANEL 5/12: Target-type classifier
+CAPACITY -> installed power quantity
+SHARE -> renewable fraction of energy requirements
+PROJECTED REDUCTION -> counterfactual-dependent emissions quantity
+INTENSITY -> emissions per unit of GDP
+NET ZERO -> economy-wide net balance with defined boundary
+
+ASCII MASTER FLOW — PANEL 6/12: Pledge-to-NDC firewall
+COP26 SPEECH -> announced Panchamrit
+OFFICIAL NDC DOCUMENT -> communicated international contribution
+2022 QUANTIFIED TERMS -> intensity and non-fossil capacity
+FOREST SINK -> continuing NDC objective, not Panchamrit item six
+RULE -> no automatic one-to-one conversion of every phrase
+
+ASCII MASTER FLOW — PANEL 7/12: LT-LEDS pathway map
+ELECTRICITY -> lower-carbon supply and system transition
+TRANSPORT AND CITIES -> integrated mobility and urban efficiency
+INDUSTRY -> lower-emission growth and technology pathways
+REMOVALS AND LAND -> carbon dioxide removal and vegetative cover
+FINANCE AND ECONOMY -> enabling transition conditions
+
+ASCII MASTER FLOW — PANEL 8/12: Net-zero status ladder
+ANNOUNCED YEAR -> political long-term destination
+LT-LEDS -> strategic pathways
+SECTOR POLICY -> programmes and regulation
+MEASURED TRAJECTORY -> source-dated emissions and removals
+NET RESULT -> defined economy-wide balance, not one milestone
+
+ASCII MASTER FLOW — PANEL 9/12: Climate-accounting matrix
+ABSOLUTE EMISSIONS -> total flow
+EMISSIONS INTENSITY -> flow per unit of GDP
+GROSS REMOVALS -> sink uptake before netting
+NET EMISSIONS -> emissions minus removals within boundary
+BASELINE AND YEAR -> mandatory for comparison
+
+ASCII MASTER FLOW — PANEL 10/12: Energy-denominator firewall
+INSTALLED CAPACITY -> rated power-system capacity
+ELECTRICITY GENERATION -> energy actually produced
+NON-FOSSIL -> source classification broader than renewables
+TOTAL ENERGY REQUIREMENTS -> wider denominator than electricity
+NO RELABELLING -> each metric needs its own source and date
+
+ASCII MASTER FLOW — PANEL 11/12: Reporting-instrument matrix
+NDC -> forward nationally determined contribution
+LT-LEDS -> long-term strategic pathway
+BUR -> backward-looking inventory and progress reporting
+TARGET -> intended result
+ACHIEVEMENT -> verified result on the same metric
+
+ASCII MASTER FLOW — PANEL 12/12: India climate answer spine
+MAP -> NAPCC, SAPCC, Panchamrit, NDC and LT-LEDS
+CLASSIFY -> mitigation, adaptation and target type
+DISTINGUISH -> pledge, communication, strategy and report
+MEASURE -> baseline, denominator, gross, net and as-on date
+EVALUATE -> equity, co-benefits, interdependency and delivery

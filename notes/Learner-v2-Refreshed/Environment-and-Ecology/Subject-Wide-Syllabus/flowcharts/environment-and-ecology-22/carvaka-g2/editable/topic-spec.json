@@ -1,0 +1,1150 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-22",
+  "subject": "Environment-and-Ecology",
+  "title": "MULTILATERAL ENVIRONMENTAL CONVENTIONS (CBD, BASEL, STOCKHOLM, MONTREAL)",
+  "short_route": "CONVENTION SCOPE COMPASS → TREATY LEGAL-STATUS LADDER → CBD FAMILY TREE → CBD PROTOCOL FIREWALL → CBD DELIVERY CHAIN → BASEL MOVEMENT-CONTROL RAIL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g2 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\Subject-Wide-Syllabus\\learning-sessions\\environment-and-ecology-22\\g2\\environment-and-ecology-22_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-22-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "1bf2ed87ed139e24e6b7faee7ca9013f17e008da8f0b8c46dcd09ccc1ddd28ad",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CONVENTION SCOPE COMPASS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CONVENTION SCOPE COMPASS",
+          "role": "primary"
+        },
+        {
+          "text": "BIODIVERSITY CONSERVATION USE AND BENEFIT-SHARING",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSBOUNDARY WASTE MOVEMENT AND DISPOSAL",
+          "role": "comparison"
+        },
+        {
+          "text": "PERSISTENT ORGANIC POLLUTANT CONTROLS",
+          "role": "evidence"
+        },
+        {
+          "text": "VIENNA MONTREAL",
+          "role": "primary"
+        },
+        {
+          "text": "OZONE-LAYER SUBSTANCE REGIME",
+          "role": "outcome"
+        },
+        {
+          "text": "ENVIRONMENTAL OBJECT DETERMINES THE MECHANISM",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "CBD → biodiversity conservation use and benefit-sharing",
+        "BASEL → transboundary waste movement and disposal",
+        "STOCKHOLM → persistent organic pollutant controls",
+        "VIENNA MONTREAL → ozone-layer substance regime",
+        "RULE → environmental object determines the mechanism"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "CBD → biodiversity conservation use and benefit-sharing",
+          "STOCKHOLM → persistent organic pollutant controls",
+          "RULE → environmental object determines the mechanism"
+        ],
+        [
+          "BASEL → transboundary waste movement and disposal",
+          "VIENNA MONTREAL → ozone-layer substance regime",
+          "CBD → biodiversity conservation use and benefit-sharing"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "CBD → biodiversity conservation use and benefit-sharing",
+            "BASEL → transboundary waste movement and disposal"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "STOCKHOLM → persistent organic pollutant controls",
+            "VIENNA MONTREAL → ozone-layer substance regime"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "RULE → environmental object determines the mechanism",
+            "CBD → biodiversity conservation use and benefit-sharing"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VIENNA MONTREAL → ozone-layer substance regime; RULE → environmental object determines the mechanism.",
+      "source_references": [
+        "Treaty-scope map"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "TREATY LEGAL-STATUS LADDER",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TREATY LEGAL-STATUS LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "TEXT AGREED",
+          "role": "outcome"
+        },
+        {
+          "text": "AUTHENTICATION WHERE APPLICABLE",
+          "role": "comparison"
+        },
+        {
+          "text": "RATIFICATION OR ACCESSION",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSENT TO BE BOUND",
+          "role": "primary"
+        },
+        {
+          "text": "ENTRY INTO FORCE",
+          "role": "outcome"
+        },
+        {
+          "text": "OPERATIVE UNDER TREATY CONDITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "DOMESTIC IMPLEMENTATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ADOPTION → text agreed",
+        "SIGNATURE → authentication where applicable",
+        "RATIFICATION OR ACCESSION → consent to be bound",
+        "ENTRY INTO FORCE → operative under treaty conditions",
+        "DOMESTIC IMPLEMENTATION → separate national legal step"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "ADOPTION → text agreed",
+            "SIGNATURE → authentication where applicable"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RATIFICATION OR ACCESSION → consent to be bound",
+            "ENTRY INTO FORCE → operative under treaty conditions"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "DOMESTIC IMPLEMENTATION → separate national legal step",
+            "ADOPTION → text agreed"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ENTRY INTO FORCE → operative under treaty conditions.",
+      "source_references": [
+        "Treaty-status sequence",
+        "Decision-obligation boundary"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CBD FAMILY TREE",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CBD FAMILY TREE",
+          "role": "primary"
+        },
+        {
+          "text": "PARENT BIODIVERSITY CONVENTION",
+          "role": "outcome"
+        },
+        {
+          "text": "OBJECTIVE 1",
+          "role": "comparison"
+        },
+        {
+          "text": "OBJECTIVE 2",
+          "role": "evidence"
+        },
+        {
+          "text": "SUSTAINABLE USE",
+          "role": "primary"
+        },
+        {
+          "text": "OBJECTIVE 3",
+          "role": "outcome"
+        },
+        {
+          "text": "FAIR AND EQUITABLE BENEFIT-SHARING",
+          "role": "comparison"
+        },
+        {
+          "text": "CARTAGENA BIOSAFETY AND NAGOYA ABS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CBD → parent biodiversity convention",
+        "OBJECTIVE 1 → conservation",
+        "OBJECTIVE 2 → sustainable use",
+        "OBJECTIVE 3 → fair and equitable benefit-sharing",
+        "PROTOCOLS → Cartagena biosafety and Nagoya ABS"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "CBD → parent biodiversity convention",
+            "OBJECTIVE 1 → conservation"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OBJECTIVE 2 → sustainable use",
+            "OBJECTIVE 3 → fair and equitable benefit-sharing"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "PROTOCOLS → Cartagena biosafety and Nagoya ABS",
+            "CBD → parent biodiversity convention"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OBJECTIVE 3 → fair and equitable benefit-sharing; PROTOCOLS → Cartagena biosafety and Nagoya ABS.",
+      "source_references": [
+        "CBD three objectives",
+        "CBD convention-protocol boundary"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CBD PROTOCOL FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CBD PROTOCOL FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "LIVING MODIFIED ORGANISMS AND BIOSAFETY",
+          "role": "outcome"
+        },
+        {
+          "text": "GENETIC-RESOURCE ACCESS AND BENEFIT-SHARING",
+          "role": "comparison"
+        },
+        {
+          "text": "AIA OR TRANSBOUNDARY PROCEDURE",
+          "role": "evidence"
+        },
+        {
+          "text": "CARTAGENA CONTEXT",
+          "role": "primary"
+        },
+        {
+          "text": "PIC AND MUTUALLY AGREED TERMS",
+          "role": "outcome"
+        },
+        {
+          "text": "NAGOYA CONTEXT",
+          "role": "comparison"
+        },
+        {
+          "text": "PARTICIPATION CHECKED SEPARATELY FOR EACH PROTOCOL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CARTAGENA → living modified organisms and biosafety",
+        "NAGOYA → genetic-resource access and benefit-sharing",
+        "AIA OR TRANSBOUNDARY PROCEDURE → Cartagena context",
+        "PIC AND MUTUALLY AGREED TERMS → Nagoya context",
+        "STATUS → participation checked separately for each protocol"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "CARTAGENA → living modified organisms and biosafety",
+          "AIA OR TRANSBOUNDARY PROCEDURE → Cartagena context",
+          "STATUS → participation checked separately for each protocol"
+        ],
+        [
+          "NAGOYA → genetic-resource access and benefit-sharing",
+          "PIC AND MUTUALLY AGREED TERMS → Nagoya context",
+          "CARTAGENA → living modified organisms and biosafety"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "CARTAGENA → living modified organisms and biosafety",
+            "NAGOYA → genetic-resource access and benefit-sharing"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "AIA OR TRANSBOUNDARY PROCEDURE → Cartagena context",
+            "PIC AND MUTUALLY AGREED TERMS → Nagoya context"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "STATUS → participation checked separately for each protocol",
+            "CARTAGENA → living modified organisms and biosafety"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATUS → participation checked separately for each protocol.",
+      "source_references": [
+        "Cartagena biosafety pathway",
+        "Nagoya ABS pathway"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CBD DELIVERY CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CBD DELIVERY CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "CONVENTION OBJECTIVES",
+          "role": "outcome"
+        },
+        {
+          "text": "PERMANENT TREATY FRAME",
+          "role": "comparison"
+        },
+        {
+          "text": "COP FRAMEWORK OR DECISION",
+          "role": "evidence"
+        },
+        {
+          "text": "COLLECTIVE DIRECTION",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL STRATEGY AND LAW",
+          "role": "outcome"
+        },
+        {
+          "text": "DOMESTIC TRANSLATION",
+          "role": "comparison"
+        },
+        {
+          "text": "FINANCE AND IMPLEMENTATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONVENTION OBJECTIVES → permanent treaty frame",
+        "COP FRAMEWORK OR DECISION → collective direction",
+        "NATIONAL STRATEGY AND LAW → domestic translation",
+        "FINANCE AND IMPLEMENTATION → activity evidence",
+        "ECOLOGICAL OUTCOME → separate measured result"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "CONVENTION OBJECTIVES → permanent treaty frame",
+            "COP FRAMEWORK OR DECISION → collective direction"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "NATIONAL STRATEGY AND LAW → domestic translation",
+            "FINANCE AND IMPLEMENTATION → activity evidence"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ECOLOGICAL OUTCOME → separate measured result",
+            "CONVENTION OBJECTIVES → permanent treaty frame"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FINANCE AND IMPLEMENTATION → activity evidence; ECOLOGICAL OUTCOME → separate measured result.",
+      "source_references": [
+        "CBD COP framework boundary"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "BASEL MOVEMENT-CONTROL RAIL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BASEL MOVEMENT-CONTROL RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "WASTE CLASSIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ANNEX AND NATIONAL RULE",
+          "role": "comparison"
+        },
+        {
+          "text": "EXPORT NOTIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "PROPOSED MOVEMENT DISCLOSED",
+          "role": "primary"
+        },
+        {
+          "text": "PRIOR INFORMED CONSENT",
+          "role": "outcome"
+        },
+        {
+          "text": "IMPORTING STATE DECISION",
+          "role": "institution"
+        },
+        {
+          "text": "MOVEMENT AND DISPOSAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WASTE CLASSIFICATION → annex and national rule",
+        "EXPORT NOTIFICATION → proposed movement disclosed",
+        "PRIOR INFORMED CONSENT → importing state decision",
+        "MOVEMENT AND DISPOSAL → environmentally sound management",
+        "BAN AMENDMENT → separate stronger legal layer"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM INPUT / STARTING CONDITION",
+          "role": "evidence",
+          "items": [
+            "WASTE CLASSIFICATION → annex and national rule",
+            "EXPORT NOTIFICATION → proposed movement disclosed"
+          ]
+        },
+        {
+          "heading": "ECOLOGICAL PROCESS / TRANSFER",
+          "role": "mechanism",
+          "items": [
+            "PRIOR INFORMED CONSENT → importing state decision",
+            "MOVEMENT AND DISPOSAL → environmentally sound management"
+          ]
+        },
+        {
+          "heading": "OUTCOME / FEEDBACK / LIMIT",
+          "role": "caution",
+          "items": [
+            "BAN AMENDMENT → separate stronger legal layer",
+            "WASTE CLASSIFICATION → annex and national rule"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MOVEMENT AND DISPOSAL → environmentally sound management; BAN AMENDMENT → separate stronger legal layer.",
+      "source_references": [
+        "Basel PIC mechanism",
+        "Basel Ban Amendment boundary",
+        "Basel waste-listing boundary"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "BRS CLUSTER MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BRS CLUSTER MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "WASTE MOVEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "LISTED CHEMICAL AND PESTICIDE TRADE",
+          "role": "comparison"
+        },
+        {
+          "text": "POP PRODUCTION USE RELEASE AND DISPOSAL CONTROLS",
+          "role": "evidence"
+        },
+        {
+          "text": "JOINT ADMINISTRATION",
+          "role": "primary"
+        },
+        {
+          "text": "OPERATIONAL COORDINATION",
+          "role": "outcome"
+        },
+        {
+          "text": "NO MERGER",
+          "role": "caution"
+        },
+        {
+          "text": "THREE TREATY OBJECTS AND OBLIGATIONS REMAIN DISTINCT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BASEL → waste movement",
+        "ROTTERDAM → listed chemical and pesticide trade",
+        "STOCKHOLM → POP production use release and disposal controls",
+        "JOINT ADMINISTRATION → operational coordination",
+        "NO MERGER → three treaty objects and obligations remain distinct"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "BASEL → waste movement",
+          "STOCKHOLM → POP production use release and disposal controls",
+          "NO MERGER → three treaty objects and obligations remain distinct"
+        ],
+        [
+          "ROTTERDAM → listed chemical and pesticide trade",
+          "JOINT ADMINISTRATION → operational coordination",
+          "BASEL → waste movement"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "BASEL → waste movement",
+            "ROTTERDAM → listed chemical and pesticide trade"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "STOCKHOLM → POP production use release and disposal controls",
+            "JOINT ADMINISTRATION → operational coordination"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "NO MERGER → three treaty objects and obligations remain distinct",
+            "BASEL → waste movement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO MERGER → three treaty objects and obligations remain distinct.",
+      "source_references": [
+        "Rotterdam cluster distinction",
+        "Treaty-scope map"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "POPS CLASSIFICATION BOARD",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "POPS CLASSIFICATION BOARD",
+          "role": "primary"
+        },
+        {
+          "text": "RESISTS DEGRADATION",
+          "role": "outcome"
+        },
+        {
+          "text": "BUILDS IN ORGANISMS AND FOOD WEBS",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVERSE EFFECTS",
+          "role": "evidence"
+        },
+        {
+          "text": "HUMAN OR ECOLOGICAL HARM",
+          "role": "primary"
+        },
+        {
+          "text": "LONG RANGE TRANSPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "CROSSES BOUNDARIES",
+          "role": "comparison"
+        },
+        {
+          "text": "SCIENTIFIC REVIEW PLUS COP DECISION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PERSISTENCE → resists degradation",
+        "BIOACCUMULATION → builds in organisms and food webs",
+        "ADVERSE EFFECTS → human or ecological harm",
+        "LONG RANGE TRANSPORT → crosses boundaries",
+        "LISTING → scientific review plus COP decision"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "PERSISTENCE → resists degradation",
+          "ADVERSE EFFECTS → human or ecological harm",
+          "LISTING → scientific review plus COP decision"
+        ],
+        [
+          "BIOACCUMULATION → builds in organisms and food webs",
+          "LONG RANGE TRANSPORT → crosses boundaries",
+          "PERSISTENCE → resists degradation"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "PERSISTENCE → resists degradation",
+            "BIOACCUMULATION → builds in organisms and food webs"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ADVERSE EFFECTS → human or ecological harm",
+            "LONG RANGE TRANSPORT → crosses boundaries"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "LISTING → scientific review plus COP decision",
+            "PERSISTENCE → resists degradation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BIOACCUMULATION → builds in organisms and food webs.",
+      "source_references": [
+        "Stockholm POP identity",
+        "POPRC-to-COP sequence"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "STOCKHOLM ANNEX MAP",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "STOCKHOLM ANNEX MAP",
+          "role": "primary"
+        },
+        {
+          "text": "ANNEX A",
+          "role": "outcome"
+        },
+        {
+          "text": "ANNEX B",
+          "role": "comparison"
+        },
+        {
+          "text": "ANNEX C",
+          "role": "evidence"
+        },
+        {
+          "text": "UNINTENTIONAL PRODUCTION",
+          "role": "primary"
+        },
+        {
+          "text": "EXEMPTION OR ACCEPTABLE PURPOSE",
+          "role": "outcome"
+        },
+        {
+          "text": "TREATY-SPECIFIC CONDITION",
+          "role": "comparison"
+        },
+        {
+          "text": "DATE RULE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ANNEX A → elimination",
+        "ANNEX B → restriction",
+        "ANNEX C → unintentional production",
+        "EXEMPTION OR ACCEPTABLE PURPOSE → treaty-specific condition",
+        "DATE RULE → current placement needs official list"
+      ],
+      "matrix": [
+        [
+          "ECOLOGICAL UNIT / PARAMETER",
+          "DECISIVE DISTINCTION",
+          "SCALE / STATUS / EXCEPTION"
+        ],
+        [
+          "ANNEX A → elimination",
+          "ANNEX C → unintentional production",
+          "DATE RULE → current placement needs official list"
+        ],
+        [
+          "ANNEX B → restriction",
+          "EXEMPTION OR ACCEPTABLE PURPOSE → treaty-specific condition",
+          "ANNEX A → elimination"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ECOLOGICAL UNIT / PARAMETER",
+          "role": "primary",
+          "items": [
+            "ANNEX A → elimination",
+            "ANNEX B → restriction"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ANNEX C → unintentional production",
+            "EXEMPTION OR ACCEPTABLE PURPOSE → treaty-specific condition"
+          ]
+        },
+        {
+          "heading": "SCALE / STATUS / EXCEPTION",
+          "role": "caution",
+          "items": [
+            "DATE RULE → current placement needs official list",
+            "ANNEX A → elimination"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DATE RULE → current placement needs official list.",
+      "source_references": [
+        "Stockholm annex functions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "POPRC DECISION SEQUENCE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "POPRC DECISION SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "CHEMICAL PROPOSED",
+          "role": "outcome"
+        },
+        {
+          "text": "TREATY CRITERIA EXAMINED",
+          "role": "comparison"
+        },
+        {
+          "text": "RISK PROFILE AND EVALUATION",
+          "role": "caution"
+        },
+        {
+          "text": "SCIENTIFIC REVIEW",
+          "role": "primary"
+        },
+        {
+          "text": "POPRC RECOMMENDATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVICE, NOT FINAL LISTING",
+          "role": "caution"
+        },
+        {
+          "text": "COP DECISION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NOMINATION → chemical proposed",
+        "SCREENING → treaty criteria examined",
+        "RISK PROFILE AND EVALUATION → scientific review",
+        "POPRC RECOMMENDATION → advice, not final listing",
+        "COP DECISION → legal listing step subject to treaty rules"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "NOMINATION → chemical proposed",
+            "SCREENING → treaty criteria examined"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RISK PROFILE AND EVALUATION → scientific review",
+            "POPRC RECOMMENDATION → advice, not final listing"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "COP DECISION → legal listing step subject to treaty rules",
+            "NOMINATION → chemical proposed"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COP DECISION → legal listing step subject to treaty rules.",
+      "source_references": [
+        "POPRC-to-COP sequence",
+        "Decision-obligation boundary"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "OZONE TREATY HIERARCHY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "OZONE TREATY HIERARCHY",
+          "role": "primary"
+        },
+        {
+          "text": "VIENNA CONVENTION",
+          "role": "outcome"
+        },
+        {
+          "text": "FRAMEWORK COOPERATION",
+          "role": "comparison"
+        },
+        {
+          "text": "MONTREAL PROTOCOL",
+          "role": "evidence"
+        },
+        {
+          "text": "OPERATIVE SUBSTANCE CONTROLS",
+          "role": "primary"
+        },
+        {
+          "text": "PRODUCTION AND CONSUMPTION PHASE-OUT",
+          "role": "outcome"
+        },
+        {
+          "text": "MULTILATERAL FUND",
+          "role": "comparison"
+        },
+        {
+          "text": "DEVELOPING-COUNTRY IMPLEMENTATION SUPPORT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "VIENNA CONVENTION → framework cooperation",
+        "MONTREAL PROTOCOL → operative substance controls",
+        "SCHEDULES → production and consumption phase-out",
+        "MULTILATERAL FUND → developing-country implementation support",
+        "KIGALI → HFC phase-down for climate impact"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "VIENNA CONVENTION → framework cooperation",
+            "MONTREAL PROTOCOL → operative substance controls"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SCHEDULES → production and consumption phase-out",
+            "MULTILATERAL FUND → developing-country implementation support"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "KIGALI → HFC phase-down for climate impact",
+            "VIENNA CONVENTION → framework cooperation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MULTILATERAL FUND → developing-country implementation support; KIGALI → HFC phase-down for climate impact.",
+      "source_references": [
+        "Vienna-Montreal hierarchy",
+        "Montreal control object",
+        "Kigali HFC boundary",
+        "Montreal implementation support"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "CONVENTION ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CONVENTION ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "TREATY ENVIRONMENTAL OBJECT",
+          "role": "outcome"
+        },
+        {
+          "text": "CONVENTION PROTOCOL AMENDMENT OR COP DECISION",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSENT LISTING SCHEDULE FINANCE AND NATIONAL LAW",
+          "role": "evidence"
+        },
+        {
+          "text": "PROPOSAL ADOPTION ENTRY INTO FORCE AND OUTCOME",
+          "role": "primary"
+        },
+        {
+          "text": "CURRENT PARTY LISTING OBLIGATION AND FUND STATUS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "IDENTIFY → treaty environmental object",
+        "PLACE → convention protocol amendment or COP decision",
+        "TRACE → consent listing schedule finance and national law",
+        "DISTINGUISH → proposal adoption entry into force and outcome",
+        "VERIFY → current party listing obligation and fund status"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SYSTEM / LEVEL / DEFINITION",
+          "role": "primary",
+          "items": [
+            "IDENTIFY → treaty environmental object",
+            "PLACE → convention protocol amendment or COP decision"
+          ]
+        },
+        {
+          "heading": "STRUCTURE-FUNCTION MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRACE → consent listing schedule finance and national law",
+            "DISTINGUISH → proposal adoption entry into force and outcome"
+          ]
+        },
+        {
+          "heading": "SCALE / EVIDENCE LIMIT",
+          "role": "caution",
+          "items": [
+            "VERIFY → current party listing obligation and fund status",
+            "IDENTIFY → treaty environmental object"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERIFY → current party listing obligation and fund status.",
+      "source_references": [
+        "Decision-obligation boundary",
+        "Current evidence boundary"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NEW CHEMICALS ARE ADDED TO THE STOCKHOLM CONVENTION'S CONTROL",
+          "role": "outcome"
+        },
+        {
+          "text": "\"REGRETTABLE SUBSTITUTION\" PROBLEM",
+          "role": "comparison"
+        },
+        {
+          "text": "WHEN A SPECIFIC CHEMICAL IS BANNED/RESTRICTED",
+          "role": "evidence"
+        },
+        {
+          "text": "THIS IS DIRECTLY COMPARABLE, AS AN ANALYTICAL POINT, TO",
+          "role": "primary"
+        },
+        {
+          "text": "HFCS WERE ORIGINALLY PROMOTED AS THE OZONE-SAFE REPLACEMENT FOR",
+          "role": "outcome"
+        },
+        {
+          "text": "ANALYTICAL SIGNIFICANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE KIGALI AMENDMENT IS FREQUENTLY CITED AS A MODEL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL ECOLOGICAL PROCESS DEPTH",
+          "role": "evidence",
+          "items": [
+            "New chemicals are added to the Stockholm Convention's control lists through a",
+            "CAUTION: \"Regrettable substitution\" problem: when a specific chemical is banned/restricted,",
+            "CAUTION: This is directly comparable, as an analytical point, to the \"next generation of concern\"",
+            "HFCs were originally promoted as the ozone-safe replacement for CFCs under the Montreal"
+          ]
+        },
+        {
+          "heading": "SCALE, PARAMETER OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Analytical significance: the Kigali Amendment is frequently cited as a model for",
+            "CAUTION: Ozone-layer recovery trajectories (post-Montreal Protocol) are tracked through",
+            "CAUTION: CBD 30x30 progress tracking across member states (including India) is compiled through",
+            "CAUTION: Basel Convention hazardous-waste-flow data (e.g., volumes of e-waste or other hazardous"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE RESTORATION NUANCE",
+          "role": "comparison",
+          "items": [
+            "The Montreal Protocol's success is attributed to binding time-bound phase-out",
+            "The Basel Ban Amendment sought to prohibit hazardous-waste exports from OECD/EU/",
+            "New chemicals are added to the Stockholm Convention through a structured scientific",
+            "The Kigali Amendment (2016) illustrates \"regrettable substitution\" being addressed"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

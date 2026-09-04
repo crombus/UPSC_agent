@@ -1,0 +1,83 @@
+ASCII MASTER FLOW — PANEL 1/12: Disaster-risk equation
+HAZARD -> potentially damaging process or event
+EXPOSURE -> people assets systems in harm's way
+VULNERABILITY -> susceptibility to damage
+CAPACITY -> resources and ability to manage risk
+RISK -> interaction across a stated place and time
+
+ASCII MASTER FLOW — PANEL 2/12: Hazard-to-disaster threshold
+HAZARD OCCURS -> physical or human-induced event
+EXPOSED SYSTEM -> contact with people assets or ecosystems
+VULNERABILITY AND LOW CAPACITY -> losses amplify
+COPING ABILITY SEVERELY TESTED -> serious disruption
+DISASTER -> not every hazard crosses this threshold
+
+ASCII MASTER FLOW — PANEL 3/12: Risk-reduction ladder
+PREVENTION -> avoid creation or existence of risk where possible
+MITIGATION -> reduce adverse impact of remaining risk
+PREPAREDNESS -> ready plans warnings skills and resources
+RESPONSE -> immediate life-saving and basic needs
+RECOVERY -> restore and improve while reducing future risk
+
+ASCII MASTER FLOW — PANEL 4/12: Build Back Better loop
+DAMAGE AND NEEDS ASSESSMENT -> establish recovery baseline
+REHABILITATION -> restore essential functions
+RECONSTRUCTION -> rebuild assets and systems
+RISK-INFORMED IMPROVEMENT -> avoid old vulnerability
+FEEDBACK -> prevention mitigation and preparedness improve
+
+ASCII MASTER FLOW — PANEL 5/12: Domestic architecture firewall
+DISASTER MANAGEMENT ACT -> domestic legal base
+NDMA -> national policy and guidelines
+NEC -> executive coordination and implementation support
+SDMA AND DDMA -> state and district statutory levels
+RULE -> roles come from domestic law, not Sendai text
+
+ASCII MASTER FLOW — PANEL 6/12: Training-response split
+NIDM -> training research documentation capacity development
+NDRF -> specialised disaster response operations
+NDMA -> policy and guidance
+DDMA -> district planning and implementation context
+RULE -> institution type determines the answer
+
+ASCII MASTER FLOW — PANEL 7/12: Sendai identity card
+PERIOD -> 2015 to 2030
+NATURE -> global voluntary non-binding framework
+PURPOSE -> prevent new and reduce existing disaster risk
+SCOPE -> people livelihoods health assets and systems
+NOT -> Indian statute fund or response force
+
+ASCII MASTER FLOW — PANEL 8/12: Four priorities rail
+PRIORITY 1 -> understand disaster risk
+PRIORITY 2 -> strengthen risk governance
+PRIORITY 3 -> invest in resilience
+PRIORITY 4 -> preparedness response and Build Back Better
+RULE -> fields of action, not the seven global targets
+
+ASCII MASTER FLOW — PANEL 9/12: Seven-target logic
+TARGETS A TO D -> substantially reduce specified losses
+MORTALITY AND AFFECTED PEOPLE -> human impact directions
+ECONOMIC AND CRITICAL-SERVICE LOSS -> system impact directions
+TARGETS E TO G -> substantially increase strategies cooperation warnings
+RULE -> indicator values require official monitoring metadata
+
+ASCII MASTER FLOW — PANEL 10/12: Global-domestic bridge
+SENDAI -> global principles priorities and targets
+INDIAN LAW -> authorities powers duties and funds
+NATIONAL AND STATE PLANS -> domestic implementation choices
+SECTOR AGENCIES -> warnings infrastructure health and relief
+ALIGNMENT -> policy bridge, not legal identity
+
+ASCII MASTER FLOW — PANEL 11/12: Evidence status screen
+LOSS FIGURE -> event date definition and reporting source
+TARGET PROGRESS -> indicator baseline and period
+EARLY WARNING -> hazard geography reach and access
+INSTITUTIONAL POWER -> current statutory provision
+PLAN STATUS -> dated official edition or amendment
+
+ASCII MASTER FLOW — PANEL 12/12: Disaster answer spine
+DEFINE -> hazard exposure vulnerability capacity risk and disaster
+SEQUENCE -> prevention mitigation preparedness response recovery
+MAP -> NDMA NEC NIDM NDRF SDMA and DDMA by owned role
+SEPARATE -> four Sendai priorities from seven global targets
+VERIFY -> domestic law plan loss indicator and warning evidence

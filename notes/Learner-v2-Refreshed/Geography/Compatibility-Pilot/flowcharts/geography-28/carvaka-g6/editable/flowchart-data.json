@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "topic_key": "geography-28-human-settlements-and-urbanisation",
+  "generation": 6,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Compatibility-Pilot\\learning-sessions\\geography-28\\geography-28_Complete-Learning-Session_2026-08-22.md",
+  "master_dimensions": [
+    3600,
+    16090
+  ],
+  "stages": [
+    {
+      "title": "ROADMAP: WHAT YOU ARE ABOUT TO LEARN",
+      "terms": "then how it is arranged, what it does and how it connects to other places.",
+      "mechanism": "It rewards the spatial mechanism that",
+      "consequence": "Read one settlement: site, situation, form, pattern and function.",
+      "trap": "Answer-use: The roadmap moves from a single settlement site to a connected hierarchy and then to urban",
+      "answer": "The roadmap moves from a single settlement site to a connected hierarchy and then to urban"
+    },
+    {
+      "title": "SETTLEMENT GEOGRAPHY: SITE, SITUATION, FUNCTION AND HIERARCHY",
+      "terms": "Site is the exact ground; situation is the settlement's relative position in a larger region.",
+      "mechanism": "By contrast, a Himalayan village may have a secure terrace site but remain small because steep",
+      "consequence": "By contrast, a Himalayan village may have a secure terrace site but remain small because steep",
+      "trap": "This produces explanation rather than description.",
+      "answer": "!Site, situation and settlement reading"
+    },
+    {
+      "title": "RURAL SETTLEMENT FORMS: HOW CLOSELY DO PEOPLE LIVE?",
+      "terms": "Rural settlement form describes how houses are grouped.",
+      "mechanism": "Rural form answers “how closely?”; it does not by itself answer “how urban?”",
+      "consequence": "Dispersion may be a rational response to terrain and farm size;",
+      "trap": "compactness may reflect security or concentrated water rather than urban character.",
+      "answer": "The visual compares clustering, partial dispersion, hamlets and isolated dwellings."
+    },
+    {
+      "title": "SETTLEMENT PATTERNS: WHAT GEOMETRY APPEARS ON THE GROUND?",
+      "terms": "Settlement patterns: what geometry appears on the ground?: Pattern is the visible arrangement of streets and dwellings; it is not the same as function.",
+      "mechanism": "A settlement pattern is its geometrical arrangement.",
+      "consequence": "The most dependable textbook example is a",
+      "trap": "Pattern is the visible arrangement of streets and dwellings; it is not the same as function.",
+      "answer": "Pattern is the visible arrangement of streets and dwellings; it is not the same as function."
+    },
+    {
+      "title": "URBANISATION AND THE RURAL-URBAN CONTINUUM",
+      "terms": "Urbanisation means a rising share of people living in urban places and an expansion of urban",
+      "mechanism": "The rural-urban boundary is therefore a continuum, not a clean wall.",
+      "consequence": "The rural-urban boundary is therefore a continuum, not a clean wall.",
+      "trap": "Urbanisation changes population share, occupation, services, connectivity and land use—not just",
+      "answer": "Urbanisation changes population share, occupation, services, connectivity and land use—not just"
+    },
+    {
+      "title": "MODEL FIREWALL: MODELS SIMPLIFY; THEY DO NOT PHOTOGRAPH REALITY",
+      "terms": "A model is a thinking tool, not a universal map.",
+      "mechanism": "Delhi can be read through a historic core, colonial New Delhi, industrial corridors, satellite",
+      "consequence": "Relief, rivers, coastlines, colonial legacies, political boundaries,",
+      "trap": "A model is a thinking tool, not a universal map.",
+      "answer": "Indian cities usually require layered application and explicit"
+    },
+    {
+      "title": "CHRISTALLER'S CENTRAL-PLACE THEORY: THRESHOLD, RANGE AND HIERARCHY",
+      "terms": "Christaller's central-place theory: threshold, range and hierarchy: A periodic market is a particularly clear South Asian response: when local demand is",
+      "mechanism": "The theory explains a nested hierarchy of service centres through the minimum demand needed and",
+      "consequence": "Christaller begins with a deliberately simplified world: a uniform plain, evenly distributed",
+      "trap": "Real plains are not uniform; relief, rivers, resources and historic routes matter.",
+      "answer": "The theory explains a nested hierarchy of service centres through the minimum demand needed and"
+    },
+    {
+      "title": "APPLYING CENTRAL-PLACE LOGIC TO INDIA",
+      "terms": "Applying central-place logic to India: This comparison is the visual: use it to move from “model fits” to “model is selectively useful.”",
+      "mechanism": "Christaller's most useful contemporary application is hierarchy collapse.",
+      "consequence": "expands faster than local demand reaches the threshold for small-centre services, people bypass the",
+      "trap": "Do not draw a perfect hexagonal map of India.",
+      "answer": "This comparison is the visual: use it to move from “model fits” to “model is selectively useful.”"
+    },
+    {
+      "title": "RANK-SIZE, PRIMATE CITY AND INDIA'S MULTI-METROPOLITAN SYSTEM",
+      "terms": "The rank-size rule says that, in a well-integrated urban system, a city's population is roughly",
+      "mechanism": "the largest city's population divided by its rank.",
+      "consequence": "The rank-size rule says that, in a well-integrated urban system, a city's population is roughly",
+      "trap": "It is an approximate regularity, not a law.",
+      "answer": "!Rank-size and primate-city comparison"
+    },
+    {
+      "title": "BURGESS: THE CONCENTRIC-ZONE MODEL",
+      "terms": "Burgess: the concentric-zone model: The transition zone is not a universal “slum ring.”",
+      "mechanism": "Growth occurs through invasion and succession: expanding activities enter an adjacent ring and",
+      "consequence": "The model can help interpret an old commercial core and surrounding transition areas.",
+      "trap": "across the city—not only one inner ring.",
+      "answer": "Burgess reads an industrial city as outward rings around one central business district."
+    },
+    {
+      "title": "HOYT: THE SECTOR MODEL",
+      "terms": "Hoyt is stronger than Burgess when direction and transport corridors matter, but it still assumes",
+      "mechanism": "The sector model argues that industry, housing and high-status residential areas grow outward in",
+      "consequence": "Railways, roads, waterfronts and other corridors give development a preferred",
+      "trap": "Do not call every transport corridor a complete sector model.",
+      "answer": "Hoyt turns rings into wedges: land uses extend along transport corridors."
+    },
+    {
+      "title": "HARRIS AND ULLMAN: THE MULTIPLE-NUCLEI MODEL",
+      "terms": "Harris and Ullman: the multiple-nuclei model: The model is descriptive rather than strongly predictive: it identifies multiple nodes but does",
+      "mechanism": "some activities require special sites;",
+      "consequence": "The result may include an old CBD, industrial node, university area, airport corridor, wholesale",
+      "trap": "Large metropolitan regions develop several specialised centres rather than one controlling CBD.",
+      "answer": "Large metropolitan regions develop several specialised centres rather than one controlling CBD."
+    },
+    {
+      "title": "INDIA'S URBAN DEFINITIONS: STATISTICAL URBANISATION AND ADMINISTRATIVE URBANISATION",
+      "terms": "The central Indian distinction is between urban status by law and urban status by",
+      "mechanism": "The central Indian distinction is between urban status by law and urban status by",
+      "consequence": "The key Indian issue is a mismatch between statistical urbanisation and administrative",
+      "trap": "Trap: a census town becomes urban only after municipal notification.",
+      "answer": "!Statutory town, census town and urban agglomeration"
+    },
+    {
+      "title": "INDIA'S URBAN PROBLEM SET: SPRAWL, HOUSING AND MOBILITY",
+      "terms": "India's urban problem set: sprawl, housing and mobility: Sprawl is peripheral expansion that outruns boundaries, infrastructure and coordinated land-use",
+      "mechanism": "Trap: slums are caused only by migration.",
+      "consequence": "Urban sprawl is low-density or discontinuous outward growth beyond the effective reach of the",
+      "trap": "Informal settlement is best understood as a housing-market and governance failure, not as a moral",
+      "answer": "Sprawl is peripheral expansion that outruns boundaries, infrastructure and coordinated land-use"
+    },
+    {
+      "title": "INDIA'S URBAN PROBLEM SET: FLOODS, HEAT, WATER AND SANITATION",
+      "terms": "India's urban problem set: floods, heat, water and sanitation: Heat risk is especially serious when night-time temperatures stay high.",
+      "mechanism": "The exact local mechanism differs, but the",
+      "consequence": "wetlands remove storage and conveyance.",
+      "trap": "reduces frequency and severity; it cannot eliminate residual risk.",
+      "answer": "Urban flooding becomes severe when rainfall meets sealed surfaces, lost storage, blocked drains"
+    },
+    {
+      "title": "INDIA'S URBAN PROBLEM SET: GOVERNANCE FRAGMENTATION",
+      "terms": "India's urban problem set: governance fragmentation: This is why well-known technical solutions often fail at implementation.",
+      "mechanism": "Use governance fragmentation as the underlying mechanism connecting sprawl, flooding, service",
+      "consequence": "the built-up or commuting region crosses municipal boundaries;",
+      "trap": "Floodwater, air pollution, commuters and waste do not stop at a municipal border.",
+      "answer": "The urban system works across boundaries even when government responsibilities remain divided."
+    },
+    {
+      "title": "BASIC ANSWER ARCHITECTURE: TURN KNOWLEDGE INTO MARKS",
+      "terms": "Basic answer architecture: turn knowledge into marks: The reusable sequence is definition and scale → mechanism → named evidence → analysis →",
+      "mechanism": "The reusable sequence is definition and scale → mechanism → named evidence → analysis →",
+      "consequence": "Measurement: distinguish statutory town, census town and urban agglomeration.",
+      "trap": "Thesis: India's challenge lies in the form and governance of urbanisation, not population",
+      "answer": "The reusable sequence is definition and scale → mechanism → named evidence → analysis →"
+    },
+    {
+      "title": "BASIC MASTERY RECAP",
+      "terms": "Basic mastery recap: Urban problems emerge when land use, services and government no longer",
+      "mechanism": "Urban problems emerge when land use, services and government no longer",
+      "consequence": "Urban problems emerge when land use, services and government no longer",
+      "trap": "Answer-use: Basic verdict: settlement geography moves from the ground under a habitation to the regional",
+      "answer": "Basic verdict: settlement geography moves from the ground under a habitation to the regional"
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 3,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7760,
+      "y_end": 9960,
+      "overlap_px": 260,
+      "from_stage": 9,
+      "continues_stage": 12
+    },
+    {
+      "page": 6,
+      "y_start": 9700,
+      "y_end": 11900,
+      "overlap_px": 260,
+      "from_stage": 11,
+      "continues_stage": 14
+    },
+    {
+      "page": 7,
+      "y_start": 11640,
+      "y_end": 13840,
+      "overlap_px": 260,
+      "from_stage": 14,
+      "continues_stage": 16
+    },
+    {
+      "page": 8,
+      "y_start": 13580,
+      "y_end": 15780,
+      "overlap_px": 260,
+      "from_stage": 16,
+      "continues_stage": 18
+    },
+    {
+      "page": 9,
+      "y_start": 13890,
+      "y_end": 16090,
+      "overlap_px": 260,
+      "from_stage": 16,
+      "continues_stage": 18
+    }
+  ]
+}

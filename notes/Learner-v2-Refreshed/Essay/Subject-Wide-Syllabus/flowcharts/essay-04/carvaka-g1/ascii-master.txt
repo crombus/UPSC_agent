@@ -1,0 +1,71 @@
+ASCII MASTER FLOW — PANEL 1/12: Divergent-to-convergent funnel
+DECODED PROMPT
+DIVERGE -> generate candidate claims
+FILTER -> mechanism + evidence + limit
+CONVERGE -> coherent argument clusters
+
+ASCII MASTER FLOW — PANEL 2/12: Actor ladder
+INDIVIDUAL -> FAMILY OR COMMUNITY
+INSTITUTION -> STATE
+GLOBAL ORDER -> CIVILISATION
+KEEP ONLY -> levels that change claim or mechanism
+
+ASCII MASTER FLOW — PANEL 3/12: Scale-time matrix
+LOCAL TO NATIONAL -> proximity and institutions
+GLOBAL TO CIVILISATIONAL -> systems and long-run pattern
+PAST TO PRESENT -> continuity and change
+FUTURE -> plausible trajectory, not prediction
+
+ASCII MASTER FLOW — PANEL 4/12: Domain search field
+SOCIAL + ECONOMIC + POLITICAL
+ETHICAL + CULTURAL
+TECHNOLOGICAL + ECOLOGICAL
+RULE -> lens earns entry only through a distinct claim
+
+ASCII MASTER FLOW — PANEL 5/12: Causal architecture
+IMMEDIATE CAUSE -> STRUCTURAL CAUSE
+IMPACT -> DISTRIBUTIONAL EFFECT
+RESPONSE -> FEEDBACK
+LIMIT -> not every prompt requires the whole chain
+
+ASCII MASTER FLOW — PANEL 6/12: Direction test
+INTENDED BENEFIT
+UNINTENDED CONSEQUENCE
+WHO GAINS OR LOSES
+SYNTHESIS -> conditions changing the balance
+
+ASCII MASTER FLOW — PANEL 7/12: Framework firewall
+PESTLE -> recall prompt
+ACTOR OR DOMAIN GRID -> search aid
+COMPULSORY HEADINGS -> reject
+OUTPUT -> prompt-specific claims without visible template
+
+ASCII MASTER FLOW — PANEL 8/12: Claim distinction test
+WRITE ONE SENTENCE PER DIMENSION
+SAME CLAIM IN NEW WORDS? -> DELETE
+NEW MECHANISM OR SCALE? -> CONTINUE
+NO THESIS LINK? -> PARK
+
+ASCII MASTER FLOW — PANEL 9/12: Evidence-limit card
+CLAIM -> MECHANISM
+MECHANISM -> NAMED EVIDENCE
+EVIDENCE -> LIMIT OR COUNTER-CASE
+COMPLETE CARD -> eligible for prioritisation
+
+ASCII MASTER FLOW — PANEL 10/12: Prioritisation grid
+THESIS RELEVANCE -> high or low
+MECHANISM STRENGTH -> clear or vague
+EVIDENCE SAFETY -> secure or risky
+NEW ARGUMENT JOB -> distinct or redundant
+
+ASCII MASTER FLOW — PANEL 11/12: Cluster builder
+RELATED CLAIMS -> one mechanism cluster
+CLUSTER ONE -> foundation
+CLUSTER TWO -> expansion or complication
+CLUSTER THREE -> counter-view and synthesis
+
+ASCII MASTER FLOW — PANEL 12/12: Brainstorming answer spine
+DIVERGE ACROSS ACTOR SCALE TIME DOMAIN
+TEST CAUSALITY DISTRIBUTION AND DIRECTION
+WRITE CLAIMS -> MAP EVIDENCE -> MAP LIMITS
+PRIORITISE -> CLUSTER -> CUT -> SEQUENCE

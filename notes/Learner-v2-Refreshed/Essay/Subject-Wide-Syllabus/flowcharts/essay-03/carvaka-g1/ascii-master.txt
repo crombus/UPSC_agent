@@ -1,0 +1,71 @@
+ASCII MASTER FLOW — PANEL 1/12: Issue classification gate
+CONCRETE PHENOMENON NAMED?
+CAUSAL OR EVALUATIVE CLAIM PRESENT?
+LITERAL READING ALREADY CONTESTABLE?
+YES -> SCOPE | NO -> DECODE FIRST
+
+ASCII MASTER FLOW — PANEL 2/12: Demand types
+QUESTION -> judgment required
+ALTERNATIVES -> compare and qualify
+CAUSAL ASSERTION -> test links
+VALUE CLAIM -> define evaluative standard
+
+ASCII MASTER FLOW — PANEL 3/12: Object-qualifier lock
+OBJECT -> exact phenomenon or relationship
+QUALIFIER -> named population, place or judgment
+THESIS -> must preserve both
+DRIFT -> adjacent subject matter without argumentative function
+
+ASCII MASTER FLOW — PANEL 4/12: Scope coordinates
+WHERE -> geography
+WHEN -> time horizon
+WHO -> actor
+AT WHAT LEVEL -> scale
+
+ASCII MASTER FLOW — PANEL 5/12: Causal chain test
+ASSERTED CAUSE
+MECHANISM -> EVIDENCE
+MEDIATOR OR FEEDBACK
+LIMIT -> QUALIFIED EFFECT
+
+ASCII MASTER FLOW — PANEL 6/12: Evaluative standard
+PROMPT WORD -> threat, anomaly, myth or complex
+STANDARD -> what would make the judgment true
+EVIDENCE -> cases supporting or weakening it
+VERDICT -> graded rather than absolute
+
+ASCII MASTER FLOW — PANEL 7/12: Hidden-tension map
+PROMISED BENEFIT
+OBSERVED OR ASSERTED COST
+CONDITIONS ALTERING THE BALANCE
+SYNTHESIS -> responsibility across actors
+
+ASCII MASTER FLOW — PANEL 8/12: Exclusion box
+IN -> material proving the exact relationship
+OUT -> generic history of the whole domain
+OUT -> unrelated schemes and statistics
+RE-ENTRY -> only with a clear argumentative function
+
+ASCII MASTER FLOW — PANEL 9/12: Definition-to-thesis bridge
+DEFINE NECESSARY TERMS
+STATE OBJECT AND QUALIFIERS
+NAME CAUSAL OR EVALUATIVE BURDEN
+WRITE CONDITIONAL THESIS
+
+ASCII MASTER FLOW — PANEL 10/12: GS-collapse warning
+GS LIST -> causes, effects, schemes
+ESSAY MOVE -> claim, mechanism, counter-case
+GS LIST -> parallel headings
+ESSAY MOVE -> connected paragraph argument
+
+ASCII MASTER FLOW — PANEL 11/12: Counter-case to synthesis
+THESIS -> strongest supporting mechanism
+COUNTER-CASE -> rival effect or limit
+CONDITION -> when each side dominates
+SYNTHESIS -> distributed responsibility and feasible action
+
+ASCII MASTER FLOW — PANEL 12/12: Scoping answer spine
+CLASSIFY -> DEMAND -> OBJECT -> QUALIFIER
+GEOGRAPHY -> TIME -> ACTOR -> SCALE
+MECHANISM -> TENSION -> EXCLUSIONS
+THESIS -> COUNTER-CASE -> SYNTHESIS

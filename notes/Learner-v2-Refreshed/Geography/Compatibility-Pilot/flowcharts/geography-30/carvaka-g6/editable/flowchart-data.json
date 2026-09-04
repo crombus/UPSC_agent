@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "topic_key": "geography-30-primary-economic-activities-agriculture",
+  "generation": 6,
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\Compatibility-Pilot\\learning-sessions\\geography-30\\geography-30_Complete-Learning-Session_2026-08-22.md",
+  "master_dimensions": [
+    3600,
+    12570
+  ],
+  "stages": [
+    {
+      "title": "START HERE — THE LEARNING PATH AND EVIDENCE SAFETY",
+      "terms": "Start here — the learning path and evidence safety: The topic is easiest when read as one chain",
+      "mechanism": "activity spaces, but each is explained by a different combination of ecology, labour,",
+      "consequence": "Agriculture is not a list of crops.",
+      "trap": "Agriculture is not a list of crops.",
+      "answer": "!Roadmap from primary-activity basics to location, systems, change and exam application"
+    },
+    {
+      "title": "WHAT AGRICULTURAL GEOGRAPHY STUDIES",
+      "terms": "What agricultural geography studies: Agriculture is a leading primary activity because it draws directly on land, water, climate,",
+      "mechanism": "!Primary activities classified by direct dependence on nature",
+      "consequence": "Agricultural geography therefore asks three simple questions",
+      "trap": "cannot explain the location; water control and incentives complete the answer.",
+      "answer": "!Primary activities classified by direct dependence on nature"
+    },
+    {
+      "title": "THE SIX CONTROLS OF AGRICULTURE",
+      "terms": "The six controls of agriculture: Fertile soil alone is not sufficient.",
+      "mechanism": "No single control creates an agricultural region.",
+      "consequence": "Think of six filters working together",
+      "trap": "water, labour or access does not automatically become a productive farming belt.",
+      "answer": "!Physical and human controls that jointly shape agricultural location"
+    },
+    {
+      "title": "MAJOR AGRICULTURAL SYSTEMS",
+      "terms": "Major agricultural systems: Commercial orientation asks how strongly production is aimed at the market.",
+      "mechanism": "!Farming systems compared by subsistence, labour, scale and market orientation",
+      "consequence": "Intensity asks how much labour/capital and output occur per unit land.",
+      "trap": "Intensive does not always mean mechanised.",
+      "answer": "!Farming systems compared by subsistence, labour, scale and market orientation"
+    },
+    {
+      "title": "VON THUNEN — WHY DISTANCE STILL MATTERS",
+      "terms": "Von Thunen is a location model, not a climate classification.",
+      "mechanism": "Von Thunen imagined one market surrounded by uniform land.",
+      "consequence": "!Modern transport and cold chains stretch rather than erase distance effects",
+      "trap": "!Modern transport and cold chains stretch rather than erase distance effects",
+      "answer": "!Classical Von Thunen rings around a central market"
+    },
+    {
+      "title": "WORLD AGRICULTURAL REGIONS AND CROP REQUIREMENTS",
+      "terms": "World regions become memorable when each is tied to one climate pattern, one production",
+      "mechanism": "World regions become memorable when each is tied to one climate pattern, one production",
+      "consequence": "system and one market or labour feature.",
+      "trap": "Crop requirements are broad guides, not rigid thresholds",
+      "answer": "!World agricultural regions linked to climate, labour and markets"
+    },
+    {
+      "title": "FROM SUBSISTENCE TO COMMERCIALISATION",
+      "terms": "From subsistence to commercialisation: A vegetable-growing district can commercialise only when production is matched by roads,",
+      "mechanism": "Institutions matter because they organise water, information and exchange.",
+      "consequence": "Institutions matter because they organise water, information and exchange.",
+      "trap": "Explain commercialisation as a sequence of linked capabilities, not as a simple shift from",
+      "answer": "!Inputs, farm decisions, outputs and feedbacks in an agroecosystem"
+    },
+    {
+      "title": "READING AGRICULTURE CURRENT AFFAIRS WITHOUT DATA MISTAKES",
+      "terms": "Reading agriculture current affairs without data mistakes: Is it an estimate, a final value, a target or an administrative count?",
+      "mechanism": "Agriculture news often places several unlike numbers side by side.",
+      "consequence": "Agriculture news often places several unlike numbers side by side.",
+      "trap": "!Official-data status ladder and the labels that must not be collapsed",
+      "answer": "!Official-data status ladder and the labels that must not be collapsed"
+    },
+    {
+      "title": "NON-FARM PRIMARY ACTIVITIES — THE PHYSIOGRAPHY PRINCIPLE",
+      "terms": "Non-farm primary activities — the physiography principle: Their location is tightly constrained because the resource cannot be shifted to any chosen",
+      "mechanism": "Their location is tightly constrained because the resource cannot be shifted to any chosen",
+      "consequence": "Their location is tightly constrained because the resource cannot be shifted to any chosen",
+      "trap": "Their location is tightly constrained because the resource cannot be shifted to any chosen",
+      "answer": "Primary activities extract or harvest directly from nature."
+    },
+    {
+      "title": "FISHING",
+      "terms": "Fishing: current mixing, upwelling, sheltered landing sites, estuaries and inland water bodies.",
+      "mechanism": "Link every example to a mechanism: shelf - marine potential; floodplain/reservoir - inland",
+      "consequence": "Mangrove-estuarine margins are nursery habitats but can also face aquaculture pressure.",
+      "trap": "floodplains and peninsular reservoirs also show why a major fish-producing area need not be",
+      "answer": "Fishing geography depends on the width and depth of the continental shelf, nutrient supply,"
+    },
+    {
+      "title": "FORESTRY AND FOREST PRODUCE",
+      "terms": "Forestry is controlled not only by the existence of trees but by species, slope, distance and",
+      "mechanism": "Forestry is controlled not only by the existence of trees but by species, slope, distance and",
+      "consequence": "Diverse tropical forests are also less suited to uniform mechanised extraction than",
+      "trap": "Forestry is controlled not only by the existence of trees but by species, slope, distance and",
+      "answer": "Forestry is controlled not only by the existence of trees but by species, slope, distance and"
+    },
+    {
+      "title": "MINING AND QUARRYING",
+      "terms": "Mining and quarrying: Bulky low-value-per-tonne ores are especially sensitive to transport cost.",
+      "mechanism": "Geology decides occurrence, while grade, relief, transport, power and processing decide",
+      "consequence": "Quarrying may be widespread, but riverbed mining and hill cutting can destabilise channels and",
+      "trap": "Mineral richness does not guarantee local prosperity.",
+      "answer": "Geology decides occurrence, while grade, relief, transport, power and processing decide"
+    },
+    {
+      "title": "ANSWER ARCHITECTURE AND TECHNOLOGY-LED TRANSFORMATION",
+      "terms": "Answer architecture and technology-led transformation: The Green Revolution is the clearest illustration: it strengthened national grain security",
+      "mechanism": "unevenly because water, level land, credit, inputs and purchase outlets are unevenly",
+      "consequence": "extension and procurement—can raise yields and cropping intensity quickly.",
+      "trap": "Do not narrate a technology package without explaining spatial selectivity.",
+      "answer": "!A Geography answer spine from claim and map logic to qualification and verdict"
+    },
+    {
+      "title": "CORE EXAM MAP",
+      "terms": "Core exam map: classification; official-data labels.",
+      "mechanism": "classification; official-data labels.",
+      "consequence": "GS-I: world agricultural regions; location models; physiography of non-farm primary",
+      "trap": "Answer-use: Prelims: farming-system distinctions; crop-climate links; Von Thunen; primary-activity",
+      "answer": "Prelims: farming-system distinctions; crop-climate links; Von Thunen; primary-activity"
+    }
+  ],
+  "tiles": [
+    {
+      "page": 1,
+      "y_start": 0,
+      "y_end": 2200,
+      "overlap_px": 0,
+      "from_stage": 1,
+      "continues_stage": 3
+    },
+    {
+      "page": 2,
+      "y_start": 1940,
+      "y_end": 4140,
+      "overlap_px": 260,
+      "from_stage": 3,
+      "continues_stage": 5
+    },
+    {
+      "page": 3,
+      "y_start": 3880,
+      "y_end": 6080,
+      "overlap_px": 260,
+      "from_stage": 5,
+      "continues_stage": 7
+    },
+    {
+      "page": 4,
+      "y_start": 5820,
+      "y_end": 8020,
+      "overlap_px": 260,
+      "from_stage": 7,
+      "continues_stage": 9
+    },
+    {
+      "page": 5,
+      "y_start": 7760,
+      "y_end": 9960,
+      "overlap_px": 260,
+      "from_stage": 9,
+      "continues_stage": 12
+    },
+    {
+      "page": 6,
+      "y_start": 9700,
+      "y_end": 11900,
+      "overlap_px": 260,
+      "from_stage": 11,
+      "continues_stage": 14
+    },
+    {
+      "page": 7,
+      "y_start": 10370,
+      "y_end": 12570,
+      "overlap_px": 260,
+      "from_stage": 12,
+      "continues_stage": 14
+    }
+  ]
+}
