@@ -1,0 +1,838 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-09_Learning-Session.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Ethics\\learning-session-v2\\subject-wide-syllabus\\notes\\ethics-09_Learning-Session_2026-08-29.pdf",
+  "mode": "main",
+  "topic_key": "ethics-09",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 33,
+      "markdown_body_line_end": 39,
+      "heading": "SESSION 1 - Public office, Nolan values and essential distinctions",
+      "preview": "**Subject:** Ethics | **Tier:** Must-Do (foundation) | **GS Paper:** GS-IV. **Core area:** Status and problems of ethical values in public service; the Nolan principles of public life; the anatomy and resolution of ethical dilemmas. **Groun",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 233.491
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 94.024
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 44,
+      "markdown_body_line_end": 55,
+      "heading": "1. Visual foundation",
+      "preview": "THE SEVEN NOLAN PRINCIPLES OF PUBLIC LIFE (UK Committee on Standards in Public Life, 1995)",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 75,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 230.69
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 164,
+      "markdown_body_line_end": 166,
+      "heading": "8. Mains angles",
+      "preview": "**Answer thesis:** Ethical dilemmas in public service arise from genuine conflicts between legitimate duties, not merely from temptation to break rules; the Nolan principles provide a checkable standard against which any proposed resolution",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 501.191
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 442.324
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 180,
+      "markdown_body_line_end": 182,
+      "heading": "10. Conflict of interest - full actual/potential/apparent taxonomy (historical demand)",
+      "preview": "⚠️ 2018 GS-IV Q3(a) (historical demand, routed here): illustrate conflict of interest as actual vs potential, with examples. Section 2's table already distinguishes conflict of interest from corruption; this section supplies the full, opera",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 276.824
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 195.956
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 219,
+      "markdown_body_line_end": 220,
+      "heading": "11. Coercion vs undue influence (historical demand)",
+      "preview": "⚠️ 2023 GS-IV Q2(b) (historical demand, routed here): \"differentiate\" coercion from undue influence in a work environment.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 373.191
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 306.524
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 222,
+      "markdown_body_line_end": 229,
+      "heading": "11. Coercion vs undue influence (historical demand)",
+      "preview": "Aspect | Coercion | Undue influence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Aspect",
+          "Coercion",
+          "Undue influence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 349.09
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 242,
+      "markdown_body_line_end": 242,
+      "heading": "12. Selectable named evidence/application units",
+      "preview": "Pick 1-2 units per answer; each follows claim -> named evidence/example -> significance -> limitation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 225.79
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 173.322
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 274,
+      "markdown_body_line_end": 278,
+      "heading": "13. Executable directive decoding and answer architecture",
+      "preview": "Directive word | What is tested | Structural move",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Directive word",
+          "What is tested",
+          "Structural move"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 556.391
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 412.19
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 313,
+      "markdown_body_line_end": 314,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 771.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 705.224
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 388,
+      "markdown_body_line_end": 388,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 339.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 295.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 394,
+      "markdown_body_line_end": 395,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 295.224
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 228.556
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 541,
+      "markdown_body_line_end": 541,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 486.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 441.624
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1670,
+      "markdown_body_line_end": 1676,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Ethics | **Tier:** Advanced | **GS Paper:** GS-IV. **Core area:** Deeper treatment of public-service values, the Nolan principles, and structured resolution of hard/multi-duty ethical dilemmas. **Grounded in:** 2nd ARC 4th Repo",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 693.024
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1681,
+      "markdown_body_line_end": 1694,
+      "heading": "1. Architecture",
+      "preview": "NOLAN PRINCIPLES (aspirational floor)         DILEMMA TYPES (where principles collide)",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 665.524
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 534.524
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1701,
+      "markdown_body_line_end": 1710,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 183.49
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1809,
+      "markdown_body_line_end": 1811,
+      "heading": "9. CURRENT: Current-anchor application",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 1,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 218.491
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 116.69
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1851,
+      "markdown_body_line_end": 1852,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 207.691
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 163.024
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1998,
+      "markdown_body_line_end": 1998,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 423.491
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2009,
+      "markdown_body_line_end": 2038,
+      "heading": "ASCII PANEL 1/12 - 1. Public trust chain",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2042,
+      "markdown_body_line_end": 2071,
+      "heading": "ASCII PANEL 2/12 - 2. Nolan public-life rail",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2075,
+      "markdown_body_line_end": 2104,
+      "heading": "ASCII PANEL 3/12 - 3. Status and role morality",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2108,
+      "markdown_body_line_end": 2137,
+      "heading": "ASCII PANEL 4/12 - 4. Constitutional decision boundary",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2141,
+      "markdown_body_line_end": 2170,
+      "heading": "ASCII PANEL 5/12 - 5. Public-private interface",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2174,
+      "markdown_body_line_end": 2203,
+      "heading": "ASCII PANEL 6/12 - 6. Conflict management ladder",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2207,
+      "markdown_body_line_end": 2236,
+      "heading": "ASCII PANEL 7/12 - 7. Legality, morality and propriety",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2240,
+      "markdown_body_line_end": 2269,
+      "heading": "ASCII PANEL 8/12 - 8. Bounded discretion",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2273,
+      "markdown_body_line_end": 2302,
+      "heading": "ASCII PANEL 9/12 - 9. Dilemma resolution sequence",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2306,
+      "markdown_body_line_end": 2335,
+      "heading": "ASCII PANEL 10/12 - 10. Neutrality and elected mandate",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2339,
+      "markdown_body_line_end": 2368,
+      "heading": "ASCII PANEL 11/12 - 11. Accountability loop",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2372,
+      "markdown_body_line_end": 2401,
+      "heading": "ASCII PANEL 12/12 - 12. Mains answer spine",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2405,
+      "markdown_body_line_end": 2418,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 712.69
+        }
+      },
+      "pdf_pages": [
+        66,
+        67
+      ]
+    }
+  ]
+}

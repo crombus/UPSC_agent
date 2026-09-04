@@ -1,0 +1,1168 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ethics-09",
+  "subject": "Ethics",
+  "title": "PUBLIC SERVICE VALUES, STATUS AND ETHICAL DILEMMAS",
+  "short_route": "PUBLIC TRUST CHAIN → NOLAN PUBLIC-LIFE RAIL → STATUS AND ROLE MORALITY → CONSTITUTIONAL DECISION BOUNDARY → PUBLIC-PRIVATE INTERFACE → CONFLICT MANAGEMENT LADDER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-09_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics--subject-wide-syllabus-09-ascii-2026-08-29-g1.json",
+  "ascii_spec_sha256": "5519141e4d221bf7186e51523f8d293f252728c3b67a34a90ec992ec032cba3b",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "PUBLIC TRUST CHAIN",
+      "structural_type": "linear-trust-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "PUBLIC TRUST CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. PUBLIC TRUST CHAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] PUBLIC OFFICE",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] ENTRUSTED POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "[3] PUBLIC PURPOSE",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] INTEGRITY",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] IMPARTIALITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "1. Public trust chain",
+        "[1] Public office",
+        "[2] Entrusted power",
+        "[3] Public purpose"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "1. Public trust chain",
+            "[1] Public office",
+            "[2] Entrusted power"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Public purpose",
+            "[4] Integrity",
+            "[5] Impartiality",
+            "[6] Reasons"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Scrutiny",
+            "[8] Trust",
+            "VERDICT → Status heightens restraint and answerability.",
+            "ANSWER USE → Open a public-service-values answer."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Status heightens restraint and answerability.; ANSWER USE → Open a public-service-values answer.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "NOLAN PUBLIC-LIFE RAIL",
+      "structural_type": "seven-value-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "NOLAN PUBLIC-LIFE RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "2. NOLAN PUBLIC-LIFE RAIL",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] SELFLESSNESS",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] INTEGRITY",
+          "role": "primary"
+        },
+        {
+          "text": "[3] OBJECTIVITY",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] ACCOUNTABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] OPENNESS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "2. Nolan public-life rail",
+        "[1] Selflessness",
+        "[2] Integrity",
+        "[3] Objectivity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "2. Nolan public-life rail",
+            "[1] Selflessness",
+            "[2] Integrity"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Objectivity",
+            "[4] Accountability",
+            "[5] Openness",
+            "[6] Honesty"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Leadership",
+            "[8] Defensible action",
+            "VERDICT → Use Nolan as an ARC-cited checklist, not an India-specific code.",
+            "ANSWER USE → Use in values and Code-of-Ethics answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Use Nolan as an ARC-cited checklist, not an India-specific code.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "STATUS AND ROLE MORALITY",
+      "structural_type": "role-duty-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "STATUS AND ROLE MORALITY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "3. STATUS AND ROLE MORALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] STATUS",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] AUTHORITY",
+          "role": "primary"
+        },
+        {
+          "text": "[3] INFORMATION",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] ASYMMETRY",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] HIGHER DUTY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "3. Status and role morality",
+        "[1] Status",
+        "[2] Authority",
+        "[3] Information"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "3. Status and role morality",
+            "[1] Status",
+            "[2] Authority"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Information",
+            "[4] Asymmetry",
+            "[5] Higher duty",
+            "[6] Restraint"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Public confidence",
+            "[8] Legitimacy",
+            "VERDICT → Role duty serves constitutional public purpose.",
+            "ANSWER USE → Use for 2019 public-servant demand."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Role duty serves constitutional public purpose.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CONSTITUTIONAL DECISION BOUNDARY",
+      "structural_type": "values-gate",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CONSTITUTIONAL DECISION BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "4. CONSTITUTIONAL DECISION BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] CONSTITUTION",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] EQUALITY",
+          "role": "primary"
+        },
+        {
+          "text": "[3] DIGNITY",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] RULE OF LAW",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] NON-ARBITRARINESS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "4. Constitutional decision boundary",
+        "[1] Constitution",
+        "[2] Equality",
+        "[3] Dignity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "4. Constitutional decision boundary",
+            "[1] Constitution",
+            "[2] Equality"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Dignity",
+            "[4] Rule of law",
+            "[5] Non-arbitrariness",
+            "[6] Due process"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Reasons",
+            "[8] Review",
+            "VERDICT → Neutrality never excuses constitutional indifference.",
+            "ANSWER USE → Use for political-executive directions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Neutrality never excuses constitutional indifference.; ANSWER USE → Use for political-executive directions.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PUBLIC-PRIVATE INTERFACE",
+      "structural_type": "interface-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PUBLIC-PRIVATE INTERFACE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "5. PUBLIC-PRIVATE INTERFACE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] FAMILY OR FINANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] OFFICIAL POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "[3] RISK",
+          "role": "caution"
+        },
+        {
+          "text": "[4] DISCLOSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] SCREENING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "5. Public-private interface",
+        "[1] Family or finance",
+        "[2] Official power",
+        "[3] Risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "5. Public-private interface",
+            "[1] Family or finance",
+            "[2] Official power"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Risk",
+            "[4] Disclosure",
+            "[5] Screening",
+            "[6] Recusal or conditions"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Audit",
+            "[8] Trust",
+            "VERDICT → Private interest must be managed before it distorts public duty.",
+            "ANSWER USE → Use for conflict-of-interest questions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Private interest must be managed before it distorts public duty.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CONFLICT MANAGEMENT LADDER",
+      "structural_type": "three-type-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CONFLICT MANAGEMENT LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. CONFLICT MANAGEMENT LADDER",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] ACTUAL CONFLICT",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] IMMEDIATE DECISION",
+          "role": "primary"
+        },
+        {
+          "text": "[3] RECUSAL",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] POTENTIAL CONFLICT",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] INTEREST REGISTER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "6. Conflict management ladder",
+        "[1] Actual conflict",
+        "[2] Immediate decision",
+        "[3] Recusal"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "6. Conflict management ladder",
+            "[1] Actual conflict",
+            "[2] Immediate decision"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Recusal",
+            "[4] Potential conflict",
+            "[5] Interest register",
+            "[6] Apparent conflict"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Transparent reasons",
+            "[8] Confidence test",
+            "VERDICT → Scale safeguards to materiality; disclosure alone is not resolution.",
+            "ANSWER USE → Use for 2018 Q3(a)."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Scale safeguards to materiality; disclosure alone is not resolution.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "LEGALITY, MORALITY AND PROPRIETY",
+      "structural_type": "three-lens-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LEGALITY, MORALITY AND PROPRIETY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "7. LEGALITY, MORALITY AND PROPRIETY",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] LEGAL VALIDITY",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] MORAL DUTY",
+          "role": "primary"
+        },
+        {
+          "text": "[3] PROPRIETY",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] PUBLIC PURPOSE",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] CONSTITUTIONAL BOUNDARY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "7. Legality, morality and propriety",
+        "[1] Legal validity",
+        "[2] Moral duty",
+        "[3] Propriety"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] Propriety",
+          "[7] Oversight"
+        ],
+        [
+          "7. Legality, morality and propriety",
+          "[4] Public purpose",
+          "[8] Verdict"
+        ],
+        [
+          "[1] Legal validity",
+          "[5] Constitutional boundary",
+          "VERDICT → Legal permission is necessary but may not complete ethical justification."
+        ],
+        [
+          "[2] Moral duty",
+          "[6] Public reasons",
+          "ANSWER USE → Use in law-versus-ethics answers."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "7. Legality, morality and propriety",
+            "[1] Legal validity",
+            "[2] Moral duty"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Propriety",
+            "[4] Public purpose",
+            "[5] Constitutional boundary",
+            "[6] Public reasons"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Oversight",
+            "[8] Verdict",
+            "VERDICT → Legal permission is necessary but may not complete ethical justification.",
+            "ANSWER USE → Use in law-versus-ethics answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Legal permission is necessary but may not complete ethical justification.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "BOUNDED DISCRETION",
+      "structural_type": "decision-gate",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "BOUNDED DISCRETION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "8. BOUNDED DISCRETION",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] RULE GAP",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] AUTHORITY",
+          "role": "primary"
+        },
+        {
+          "text": "[3] RELEVANT FACTS",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] EQUAL CRITERIA",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] PROPORTIONALITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "8. Bounded discretion",
+        "[1] Rule gap",
+        "[2] Authority",
+        "[3] Relevant facts"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "8. Bounded discretion",
+            "[1] Rule gap",
+            "[2] Authority"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Relevant facts",
+            "[4] Equal criteria",
+            "[5] Proportionality",
+            "[6] Written reasons"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Review",
+            "[8] Learning",
+            "VERDICT → Discretion is reviewable judgment, not personal freedom.",
+            "ANSWER USE → Use for emergency and service-delivery cases."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Discretion is reviewable judgment, not personal freedom.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "DILEMMA RESOLUTION SEQUENCE",
+      "structural_type": "ethical-decision-flow",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "DILEMMA RESOLUTION SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "9. DILEMMA RESOLUTION SEQUENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] FACTS",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] STAKEHOLDERS",
+          "role": "primary"
+        },
+        {
+          "text": "[3] COMPETING DUTIES",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] LEGAL FLOOR",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] REALISTIC OPTIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "9. Dilemma resolution sequence",
+        "[1] Facts",
+        "[2] Stakeholders",
+        "[3] Competing duties"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "9. Dilemma resolution sequence",
+            "[1] Facts",
+            "[2] Stakeholders"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Competing duties",
+            "[4] Legal floor",
+            "[5] Realistic options",
+            "[6] Ethical tests"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Choice",
+            "[8] Residual-harm mitigation",
+            "VERDICT → Name genuine conflict before choosing a proportionate response.",
+            "ANSWER USE → Use for 2018 Q5(b) and cases."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Name genuine conflict before choosing a proportionate response.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "NEUTRALITY AND ELECTED MANDATE",
+      "structural_type": "dual-accountability-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "NEUTRALITY AND ELECTED MANDATE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "10. NEUTRALITY AND ELECTED MANDATE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] ELECTED MANDATE",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] FRANK ADVICE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] RECORDED DISSENT",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] LAWFUL DIRECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] NEUTRAL IMPLEMENTATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "10. Neutrality and elected mandate",
+        "[1] Elected mandate",
+        "[2] Frank advice",
+        "[3] Recorded dissent"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "10. Neutrality and elected mandate",
+            "[1] Elected mandate",
+            "[2] Frank advice"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Recorded dissent",
+            "[4] Lawful direction",
+            "[5] Neutral implementation",
+            "[6] No favour"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Accountability",
+            "[8] Continuity",
+            "VERDICT → Advise frankly; implement lawful decisions without partisanship.",
+            "ANSWER USE → Use for political neutrality."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Advise frankly; implement lawful decisions without partisanship.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ACCOUNTABILITY LOOP",
+      "structural_type": "feedback-loop",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ACCOUNTABILITY LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "11. ACCOUNTABILITY LOOP",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] DUTY",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] DECISION",
+          "role": "primary"
+        },
+        {
+          "text": "[3] RECORD",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] TRANSPARENCY",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] ANSWERABILITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "11. Accountability loop",
+        "[1] Duty",
+        "[2] Decision",
+        "[3] Record"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "11. Accountability loop",
+            "[1] Duty",
+            "[2] Decision"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Record",
+            "[4] Transparency",
+            "[5] Answerability",
+            "[6] External scrutiny"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Remedy",
+            "[8] Institutional learning",
+            "VERDICT → Responsibility becomes accountability through scrutiny and correction.",
+            "ANSWER USE → Use with CPGRAMS and grievance cases."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Responsibility becomes accountability through scrutiny and correction.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "MAINS ANSWER SPINE",
+      "structural_type": "answer-writing-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "MAINS ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "12. MAINS ANSWER SPINE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] DEFINE",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] DISTINGUISH",
+          "role": "primary"
+        },
+        {
+          "text": "[3] EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "[4] STAKEHOLDERS",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] OPTIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "12. Mains answer spine",
+        "[1] Define",
+        "[2] Distinguish",
+        "[3] Evidence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "12. Mains answer spine",
+            "[1] Define",
+            "[2] Distinguish"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Evidence",
+            "[4] Stakeholders",
+            "[5] Options",
+            "[6] Ethical test"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Implementation",
+            "[8] Qualified conclusion",
+            "VERDICT → A reasoned, reviewable verdict outperforms a moral slogan.",
+            "ANSWER USE → Use in every Topic 09 Mains response."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → A reasoned, reviewable verdict outperforms a moral slogan.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "2. CONCEPTS AND DISTINCTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DETAILED TREATMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "4. INSTITUTIONAL AND REFORM ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "5. INDIAN APPLICATIONS AND BOUNDARY CASES",
+          "role": "outcome"
+        },
+        {
+          "text": "6. LIMITATIONS AND TRADE-OFFS",
+          "role": "comparison"
+        },
+        {
+          "text": "7. MUST-KNOW FACTS FOR ADVANCED PRELIMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL ETHICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. Architecture",
+            "2. Concepts and distinctions",
+            "3. Detailed treatment",
+            "4. Institutional and reform architecture"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "5. Indian applications and boundary cases",
+            "6. Limitations and trade-offs",
+            "7. Must-Know Facts for Advanced Prelims",
+            "8. Advanced Prelims traps"
+          ]
+        },
+        {
+          "heading": "ADMINISTRATIVE APPLICATION",
+          "role": "comparison",
+          "items": [
+            "9. Current-anchor application",
+            "10. PYQ-based analytical application",
+            "11. Mains-ready framework",
+            "12. Probable questions"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

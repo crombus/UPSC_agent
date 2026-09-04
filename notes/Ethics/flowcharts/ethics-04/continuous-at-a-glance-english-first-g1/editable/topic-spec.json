@@ -1,0 +1,1194 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ethics-04",
+  "subject": "Ethics",
+  "title": "APTITUDE AND FOUNDATIONAL VALUES FOR CIVIL SERVICE",
+  "short_route": "APTITUDE, ATTITUDE AND VALUE... → INTEGRITY UNDER DISCRETION: THE... → IMPARTIALITY IS NOT IDENTICAL... → NON-PARTISANSHIP AND THE TRANSFER... → EMPATHY, SYMPATHY AND COMPASSION... → ENABLER VERSUS REGULATOR: CALIBRATION...",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-04_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics--subject-wide-syllabus-04-ascii-2026-08-29-g1.json",
+  "ascii_spec_sha256": "e29502e7547d9d21b2cff20e4a521bbf939a9019f554919e38c05f8fec21a0fc",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "APTITUDE, ATTITUDE AND VALUE: THE THREE-OBJECT TAXONOMY",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "APTITUDE, ATTITUDE AND VALUE",
+          "role": "primary"
+        },
+        {
+          "text": "THE THREE-OBJECT TAXONOMY",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "1. APTITUDE, ATTITUDE AND VALUE",
+          "role": "evidence"
+        },
+        {
+          "text": "[1] APTITUDE IS CAPACITY TO PERFORM A TASK OR...",
+          "role": "primary"
+        },
+        {
+          "text": "[2] ATTITUDE IS AN EVALUATIVE STANCE TOWARD A SPECIFIC...",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] VALUE IS A GENERAL CROSS-SITUATIONAL STANDARD OF WORTH.",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] APTITUDE IS TRAINABLE THROUGH DELIBERATE PRACTICE AND MENTORING.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "1. Aptitude, attitude and value: the three-object taxonomy",
+        "[1] Aptitude is capacity to perform a task or role competently.",
+        "[2] Attitude is an evaluative stance toward a specific object.",
+        "[3] Value is a general cross-situational standard of worth."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] Value is a general cross-situational standard of worth.",
+          "[7] Probation and appraisal assess dedication and initiative."
+        ],
+        [
+          "1. Aptitude, attitude and value: the three-object taxonomy",
+          "[4] Aptitude is trainable through deliberate practice and mentoring.",
+          "[8] Confusing the three weakens assessment design and answers."
+        ],
+        [
+          "[1] Aptitude is capacity to perform a task or role competently.",
+          "[5] Attitude can change with experience; values are more enduring.",
+          "VERDICT → Classify the object of assessment precisely before applying it to a civil-service case."
+        ],
+        [
+          "[2] Attitude is an evaluative stance toward a specific object.",
+          "[6] Recruitment tests primarily measure aptitude and intelligence.",
+          "ANSWER USE → Open foundational-values answers by distinguishing what is being assessed."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "1. Aptitude, attitude and value: the three-object taxonomy",
+            "[1] Aptitude is capacity to perform a task or role competently.",
+            "[2] Attitude is an evaluative stance toward a specific object."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Value is a general cross-situational standard of worth.",
+            "[4] Aptitude is trainable through deliberate practice and mentoring.",
+            "[5] Attitude can change with experience; values are more enduring.",
+            "[6] Recruitment tests primarily measure aptitude and intelligence."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Probation and appraisal assess dedication and initiative.",
+            "[8] Confusing the three weakens assessment design and answers.",
+            "VERDICT → Classify the object of assessment precisely before applying it to a civil-service case.",
+            "ANSWER USE → Open foundational-values answers by distinguishing what is being assessed."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Classify the object of assessment precisely before applying it to a civil-service case.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "INTEGRITY UNDER DISCRETION: THE HARDEST TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INTEGRITY UNDER DISCRETION",
+          "role": "primary"
+        },
+        {
+          "text": "THE HARDEST TEST",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "2. INTEGRITY UNDER DISCRETION",
+          "role": "evidence"
+        },
+        {
+          "text": "[1] INTEGRITY MEANS CONSISTENCY OF VALUES ACROSS SITUATIONS.",
+          "role": "primary"
+        },
+        {
+          "text": "[2] THE NOLAN COMMITTEE TREATS INTEGRITY AND HONESTY AS...",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] INTEGRITY IS COSTLESS TO DISPLAY WHEN OBSERVED.",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] IT IS GENUINELY TESTED WHEN DISCRETION, SECRECY AND...",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "2. Integrity under discretion: the hardest test",
+        "[1] Integrity means consistency of values across situations.",
+        "[2] The Nolan Committee treats integrity and honesty as separate principles.",
+        "[3] Integrity is costless to display when observed."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "2. Integrity under discretion: the hardest test",
+            "[1] Integrity means consistency of values across situations.",
+            "[2] The Nolan Committee treats integrity and honesty as separate principles."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Integrity is costless to display when observed.",
+            "[4] It is genuinely tested when discretion, secrecy and gain converge.",
+            "[5] The state cannot legislate integrity directly.",
+            "[6] It legislates proxies: asset declarations and conflict disclosures."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Random inspections and cooling-off periods add observable checks.",
+            "[8] Integrity proxies monitor behaviour but cannot guarantee character.",
+            "VERDICT → Integrity is the precondition for every other foundational value to be trustworthy.",
+            "ANSWER USE → Use the discretion-secrecy-gain test to show how integrity is operationally assessed."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Integrity is the precondition for every other foundational value to be trustworthy.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "IMPARTIALITY IS NOT IDENTICAL TREATMENT",
+      "structural_type": "fork-diagram",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "IMPARTIALITY IS NOT IDENTICAL TREATMENT",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "3. IMPARTIALITY IS NOT IDENTICAL TREATMENT",
+          "role": "caution"
+        },
+        {
+          "text": "[1] IMPARTIALITY REQUIRES DECISIONS ON MERIT WITHOUT PERSONAL BIAS.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] IT DOES NOT REQUIRE IDENTICAL TREATMENT REGARDLESS OF...",
+          "role": "caution"
+        },
+        {
+          "text": "[3] NEEDS-BASED SUPPORT FOR WEAKER SECTIONS CAN BE IMPARTIAL.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] THE CRITERION IS WHETHER DIFFERENTIATION IS TRANSPARENT AND...",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] A PUBLISHED FEE WAIVER FOR BPL APPLICANTS IS...",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "3. Impartiality is not identical treatment",
+        "[1] Impartiality requires decisions on merit without personal bias.",
+        "[2] It does not require identical treatment regardless of need.",
+        "[3] Needs-based support for weaker sections can be impartial."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "3. Impartiality is not identical treatment",
+            "[1] Impartiality requires decisions on merit without personal bias.",
+            "[2] It does not require identical treatment regardless of need."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Needs-based support for weaker sections can be impartial.",
+            "[4] The criterion is whether differentiation is transparent and rule-based.",
+            "[5] A published fee waiver for BPL applicants is impartial.",
+            "[6] An informal favour for a relative is nepotism under any label."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] The safeguard is transparent eligibility, not removal of discretion.",
+            "[8] Affirmative facilitation strengthens equality of access.",
+            "VERDICT → Test the criteria, not the outcome, to distinguish impartiality from favouritism.",
+            "ANSWER USE → Apply to welfare-scheme, reservation, or targeted-delivery answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Test the criteria, not the outcome, to distinguish impartiality from favouritism.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "NON-PARTISANSHIP AND THE TRANSFER INDUSTRY",
+      "structural_type": "causal-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "NON-PARTISANSHIP AND THE TRANSFER INDUSTRY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "4. NON-PARTISANSHIP AND THE TRANSFER INDUSTRY",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] NON-PARTISANSHIP REQUIRES PARTY-NEUTRAL OFFICIAL CONDUCT.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] PERSONAL POLITICAL VIEWS ARE PERMITTED; OFFICIAL ACTION IS...",
+          "role": "primary"
+        },
+        {
+          "text": "[3] THE ARC DOCUMENTS TRANSFER AS THE POLITICIANS' CONTROL...",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] ROBERT WADE'S AP STUDY SHOWS TRANSFER AS A...",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] WITHOUT TENURE PROTECTION, NON-PARTISANSHIP IS STRUCTURALLY FRAGILE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "4. Non-partisanship and the transfer industry",
+        "[1] Non-partisanship requires party-neutral official conduct.",
+        "[2] Personal political views are permitted; official action is not.",
+        "[3] The ARC documents transfer as the politicians' control weapon."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "4. Non-partisanship and the transfer industry",
+            "[1] Non-partisanship requires party-neutral official conduct.",
+            "[2] Personal political views are permitted; official action is not."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] The ARC documents transfer as the politicians' control weapon.",
+            "[4] Robert Wade's AP study shows transfer as a lever for extraction.",
+            "[5] Without tenure protection, non-partisanship is structurally fragile.",
+            "[6] The Fifth Pay Commission recommended three-to-five-year tenure."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Civil Services Board insulates transfers from political discretion.",
+            "[8] Training plus tenure protection produces durable non-partisanship.",
+            "VERDICT → Non-partisanship is an institutional-design achievement, not just a personal virtue.",
+            "ANSWER USE → Ground non-partisanship answers in structural analysis rather than exhortation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Non-partisanship is an institutional-design achievement, not just a personal virtue.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "EMPATHY, SYMPATHY AND COMPASSION: AN ASCENDING LADDER",
+      "structural_type": "ascending-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EMPATHY, SYMPATHY AND COMPASSION",
+          "role": "primary"
+        },
+        {
+          "text": "AN ASCENDING LADDER",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "5. EMPATHY, SYMPATHY AND COMPASSION",
+          "role": "evidence"
+        },
+        {
+          "text": "[1] SYMPATHY FEELS FOR SOMEONE FROM OUTSIDE WITH AN...",
+          "role": "primary"
+        },
+        {
+          "text": "[2] EMPATHY GRASPS ANOTHER'S SITUATION FROM THEIR FRAME OF...",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] COMPASSION ADDS A MOTIVATED COMMITMENT TO RELIEVE SUFFERING.",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] ONLY COMPASSION NECESSARILY ISSUES IN ACTION OR SERVICE...",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "5. Empathy, sympathy and compassion: an ascending ladder",
+        "[1] Sympathy feels for someone from outside with an implicit hierarchy.",
+        "[2] Empathy grasps another's situation from their frame of reference.",
+        "[3] Compassion adds a motivated commitment to relieve suffering."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "5. Empathy, sympathy and compassion: an ascending ladder",
+            "[1] Sympathy feels for someone from outside with an implicit hierarchy.",
+            "[2] Empathy grasps another's situation from their frame of reference."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Compassion adds a motivated commitment to relieve suffering.",
+            "[4] Only compassion necessarily issues in action or service design.",
+            "[5] A social media statement of sorrow is sympathy, not compassion.",
+            "[6] Listening to displaced families and adjusting relief is empathy."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Redesigning pension verification for disabled applicants is compassion.",
+            "[8] GS-IV answers must translate feeling into a process change.",
+            "VERDICT → Compassion earns marks only when it changes a defensible administrative process.",
+            "ANSWER USE → Use the ladder to escalate from sentiment to service-design in any answer."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Compassion earns marks only when it changes a defensible administrative process.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ENABLER VERSUS REGULATOR: CALIBRATION SPECTRUM",
+      "structural_type": "spectrum-slider",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ENABLER VERSUS REGULATOR",
+          "role": "comparison"
+        },
+        {
+          "text": "CALIBRATION SPECTRUM",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "6. ENABLER VERSUS REGULATOR",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] FACILITATION REMOVES BARRIERS AND PROACTIVELY CONNECTS CITIZENS TO...",
+          "role": "primary"
+        },
+        {
+          "text": "[2] REGULATION PROTECTS SAFETY, EQUITY AND PUBLIC INTEREST.",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] SINGLE-WINDOW CLEARANCE CONSOLIDATES MULTIPLE APPROVALS FOR LOW-RISK CASES.",
+          "role": "caution"
+        },
+        {
+          "text": "[4] POST-FACTO RISK-BASED INSPECTION REPLACES UNIVERSAL EX-ANTE GATEKEEPING.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "6. Enabler versus regulator: calibration spectrum",
+        "[1] Facilitation removes barriers and proactively connects citizens to services.",
+        "[2] Regulation protects safety, equity and public interest.",
+        "[3] Single-window clearance consolidates multiple approvals for low-risk cases."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "6. Enabler versus regulator: calibration spectrum",
+            "[1] Facilitation removes barriers and proactively connects citizens to services.",
+            "[2] Regulation protects safety, equity and public interest."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Single-window clearance consolidates multiple approvals for low-risk cases.",
+            "[4] Post-facto risk-based inspection replaces universal ex-ante gatekeeping.",
+            "[5] Deemed approval shifts incentive from delay to timely review.",
+            "[6] Pure facilitation without backstops risks regulatory capture."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Excessive regulation without enabling stifles legitimate development.",
+            "[8] Calibration requires reliable risk-classification systems.",
+            "VERDICT → The civil servant should sequence facilitation and regulation, not choose one exclusively.",
+            "ANSWER USE → Use to build the calibrated-role paragraph in any enabler-regulator question."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → The civil servant should sequence facilitation and regulation, not choose one exclusively.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "MISSION KARMAYOGI: VALUES AS TRAINABLE COMPETENCIES",
+      "structural_type": "institutional-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MISSION KARMAYOGI",
+          "role": "primary"
+        },
+        {
+          "text": "VALUES AS TRAINABLE COMPETENCIES",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "7. MISSION KARMAYOGI",
+          "role": "evidence"
+        },
+        {
+          "text": "[1] NPCSCB APPROVED BY CABINET ON 2 SEPTEMBER 2020.",
+          "role": "primary"
+        },
+        {
+          "text": "[2] FRAC MAPS FUNCTIONAL AND BEHAVIOURAL COMPETENCIES TO ROLES.",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] IGOT-KARMAYOGI DELIVERS LEARNING IN 23 LANGUAGES.",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] KCM ALIGNS ROLES WITH COMPETENCIES AND SUPPORTS ACCOUNTABILITY...",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "7. Mission Karmayogi: values as trainable competencies",
+        "[1] NPCSCB approved by Cabinet on 2 September 2020.",
+        "[2] FRAC maps functional and behavioural competencies to roles.",
+        "[3] iGOT-Karmayogi delivers learning in 23 languages."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "7. Mission Karmayogi: values as trainable competencies",
+            "[1] NPCSCB approved by Cabinet on 2 September 2020.",
+            "[2] FRAC maps functional and behavioural competencies to roles."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] iGOT-Karmayogi delivers learning in 23 languages.",
+            "[4] KCM aligns roles with competencies and supports accountability and role-fit (CBC).",
+            "[5] AI Sarthi and AI Tutor showcased at IndiaAI Impact Summit (16-20 Feb 2026) for role-based personalised learning (CBC).",
+            "[6] Training reach does not prove ethical internalisation."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Do not claim a general APAR linkage without a service-specific DoPT order.",
+            "[8] Values training needs supplementation by citizen feedback and field observation.",
+            "VERDICT → Mission Karmayogi institutionalises values education; it cannot certify ethical conduct.",
+            "ANSWER USE → Cite as the institutional bridge between values and role-based capacity."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Mission Karmayogi institutionalises values education; it cannot certify ethical conduct.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "COMPASSION VERSUS FAVOURITISM: THE BOUNDARY",
+      "structural_type": "fork-diagram",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "COMPASSION VERSUS FAVOURITISM",
+          "role": "comparison"
+        },
+        {
+          "text": "THE BOUNDARY",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "8. COMPASSION VERSUS FAVOURITISM",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] COMPASSIONATE FACILITATION USES TRANSPARENT PUBLISHED CRITERIA.",
+          "role": "primary"
+        },
+        {
+          "text": "[2] FAVOURITISM USES INFORMAL SELECTION WITHOUT PUBLISHED JUSTIFICATION.",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] BOTH MAY LOOK IDENTICAL IN FORM",
+          "role": "comparison"
+        },
+        {
+          "text": "EXPEDITED SERVICE FOR ONE PERSON.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "8. Compassion versus favouritism: the boundary",
+        "[1] Compassionate facilitation uses transparent published criteria.",
+        "[2] Favouritism uses informal selection without published justification.",
+        "[3] Both may look identical in form: expedited service for one person."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "8. Compassion versus favouritism: the boundary",
+            "[1] Compassionate facilitation uses transparent published criteria.",
+            "[2] Favouritism uses informal selection without published justification."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Both may look identical in form: expedited service for one person.",
+            "[4] The distinguishing test is whether criteria are rule-based and auditable.",
+            "[5] Written reasons for each discretionary decision create an audit trail.",
+            "[6] Periodic review of waiver and expedited-service patterns detects drift."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Affirmative needs-based support passes the test; selective favour fails it.",
+            "[8] The safeguard is transparency, not the removal of all discretion.",
+            "VERDICT → Compassion and impartiality coexist when discretion operates within published rules.",
+            "ANSWER USE → Use to resolve the compassion-favouritism tension in welfare-delivery answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Compassion and impartiality coexist when discretion operates within published rules.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "TOLERANCE AND CONSTITUTIONAL MORALITY",
+      "structural_type": "anchor-framework",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "TOLERANCE AND CONSTITUTIONAL MORALITY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "9. TOLERANCE AND CONSTITUTIONAL MORALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] TOLERANCE MEANS RESPECT FOR DIVERSITY OF BELIEF, CULTURE...",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] IT GOES BEYOND PASSIVE NON-INTERFERENCE TO POSITIVE FACILITATION.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] ARTICLE 51A(E) ANCHORS TOLERANCE IN A FUNDAMENTAL DUTY...",
+          "role": "institution"
+        },
+        {
+          "text": "[4] CONSTITUTIONAL MORALITY REQUIRES FIDELITY TO CONSTITUTIONAL VALUES.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] EQUAL POLICE PROTECTION FOR MINORITY PROCESSIONS DEMONSTRATES TOLERANCE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "9. Tolerance and constitutional morality",
+        "[1] Tolerance means respect for diversity of belief, culture and viewpoint.",
+        "[2] It goes beyond passive non-interference to positive facilitation.",
+        "[3] Article 51A(e) anchors tolerance in a fundamental duty of secular conduct."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "9. Tolerance and constitutional morality",
+            "[1] Tolerance means respect for diversity of belief, culture and viewpoint.",
+            "[2] It goes beyond passive non-interference to positive facilitation."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Article 51A(e) anchors tolerance in a fundamental duty of secular conduct.",
+            "[4] Constitutional morality requires fidelity to constitutional values.",
+            "[5] Equal police protection for minority processions demonstrates tolerance.",
+            "[6] Ignoring a minority community is not tolerance but neglect."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Tolerance does not require approval; it requires equal respect and access.",
+            "[8] Constitutional morality disciplines personal prejudice with public duty.",
+            "VERDICT → Tolerance becomes a foundational administrative value through constitutional morality.",
+            "ANSWER USE → Use to anchor diversity and secularism answers in specific constitutional provisions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Tolerance becomes a foundational administrative value through constitutional morality.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "NOLAN SEVEN VERSUS GS-IV SYLLABUS LIST",
+      "structural_type": "overlap-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NOLAN SEVEN VERSUS GS-IV SYLLABUS LIST",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "10. NOLAN SEVEN VERSUS GS-IV SYLLABUS LIST",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] NOLAN LISTS SELFLESSNESS, INTEGRITY, OBJECTIVITY AS SHARED WITH...",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] NOLAN ADDS ACCOUNTABILITY, OPENNESS, HONESTY AND LEADERSHIP.",
+          "role": "primary"
+        },
+        {
+          "text": "[3] GS-IV ADDS EMPATHY, TOLERANCE AND COMPASSION TOWARD WEAKER...",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] NON-PARTISANSHIP APPEARS IN GS-IV BUT NOT EXPLICITLY IN...",
+          "role": "caution"
+        },
+        {
+          "text": "[5] DEDICATION TO PUBLIC SERVICE OVERLAPS WITH NOLAN'S SELFLESSNESS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "10. Nolan seven versus GS-IV syllabus list",
+        "[1] Nolan lists selflessness, integrity, objectivity as shared with GS-IV.",
+        "[2] Nolan adds accountability, openness, honesty and leadership.",
+        "[3] GS-IV adds empathy, tolerance and compassion toward weaker sections."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] GS-IV adds empathy, tolerance and compassion toward weaker sections.",
+          "[7] Equating them without qualification is a common exam trap."
+        ],
+        [
+          "10. Nolan seven versus GS-IV syllabus list",
+          "[4] Non-partisanship appears in GS-IV but not explicitly in Nolan.",
+          "[8] Indian civil-service ethics must address both frameworks."
+        ],
+        [
+          "[1] Nolan lists selflessness, integrity, objectivity as shared with GS-IV.",
+          "[5] Dedication to public service overlaps with Nolan's selflessness.",
+          "VERDICT → Know both lists and where they diverge to avoid a false equivalence trap."
+        ],
+        [
+          "[2] Nolan adds accountability, openness, honesty and leadership.",
+          "[6] The two lists are complementary, not identical.",
+          "ANSWER USE → Use the overlap and gaps to answer any Nolan or foundational-values comparison."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "10. Nolan seven versus GS-IV syllabus list",
+            "[1] Nolan lists selflessness, integrity, objectivity as shared with GS-IV.",
+            "[2] Nolan adds accountability, openness, honesty and leadership."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] GS-IV adds empathy, tolerance and compassion toward weaker sections.",
+            "[4] Non-partisanship appears in GS-IV but not explicitly in Nolan.",
+            "[5] Dedication to public service overlaps with Nolan's selflessness.",
+            "[6] The two lists are complementary, not identical."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Equating them without qualification is a common exam trap.",
+            "[8] Indian civil-service ethics must address both frameworks.",
+            "VERDICT → Know both lists and where they diverge to avoid a false equivalence trap.",
+            "ANSWER USE → Use the overlap and gaps to answer any Nolan or foundational-values comparison."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Know both lists and where they diverge to avoid a false equivalence trap.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "VALUES UNDER PRESSURE: AN INTEGRATION MAP",
+      "structural_type": "hub-spoke",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "VALUES UNDER PRESSURE",
+          "role": "primary"
+        },
+        {
+          "text": "AN INTEGRATION MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "11. VALUES UNDER PRESSURE",
+          "role": "evidence"
+        },
+        {
+          "text": "[1] DISCRETION CREATES THE SPACE IN WHICH INTEGRITY IS...",
+          "role": "primary"
+        },
+        {
+          "text": "[2] POLITICAL TRANSITION TESTS NON-PARTISANSHIP MOST SHARPLY.",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] ELECTION DUTY TESTS IMPARTIALITY UNDER DIRECT POLITICAL PRESSURE.",
+          "role": "comparison"
+        },
+        {
+          "text": "[4] WELFARE DELIVERY TESTS COMPASSION ALONGSIDE IMPARTIAL RULE-APPLICATION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "11. Values under pressure: an integration map",
+        "[1] Discretion creates the space in which integrity is tested.",
+        "[2] Political transition tests non-partisanship most sharply.",
+        "[3] Election duty tests impartiality under direct political pressure."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "11. Values under pressure: an integration map",
+            "[1] Discretion creates the space in which integrity is tested.",
+            "[2] Political transition tests non-partisanship most sharply."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Election duty tests impartiality under direct political pressure.",
+            "[4] Welfare delivery tests compassion alongside impartial rule-application.",
+            "[5] Gender-specific challenges test impartiality reflexively.",
+            "[6] Service-delivery redesign tests compassion as operational output."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Enabler-regulator framing tests dedication and objectivity together.",
+            "[8] Each value interacts with others under realistic administrative stress.",
+            "VERDICT → Foundational values are tested in combination, not in isolation.",
+            "ANSWER USE → Use to show multi-value interaction in any pressure-scenario question."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Foundational values are tested in combination, not in isolation.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ AND ANSWER SYNTHESIS",
+      "structural_type": "exam-synthesis-rail",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ AND ANSWER SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "12. PYQ AND ANSWER SYNTHESIS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] 2025 Q5(B) TESTED ENABLER-FACILITATOR WITH SPECIFIC MEASURES.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] 2025 Q4(A) TESTED OBJECTIVITY AND CRITICAL THINKING IN...",
+          "role": "primary"
+        },
+        {
+          "text": "[3] 2025 Q5(A) TESTED DEVOTION TO DUTY AND PERSONAL...",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] 2024 Q6(A) TESTED GENDER-SPECIFIC CHALLENGES AND PROBITY.",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] 2018-2021 TESTED NOLAN PRINCIPLES, BUFFETT, AND NON-PARTISANSHIP.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "12. PYQ and answer synthesis",
+        "[1] 2025 Q5(b) tested enabler-facilitator with specific measures.",
+        "[2] 2025 Q4(a) tested objectivity and critical thinking in welfare schemes.",
+        "[3] 2025 Q5(a) tested devotion to duty and personal fulfilment."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "12. PYQ and answer synthesis",
+            "[1] 2025 Q5(b) tested enabler-facilitator with specific measures.",
+            "[2] 2025 Q4(a) tested objectivity and critical thinking in welfare schemes."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] 2025 Q5(a) tested devotion to duty and personal fulfilment.",
+            "[4] 2024 Q6(a) tested gender-specific challenges and probity.",
+            "[5] 2018-2021 tested Nolan principles, Buffett, and non-partisanship.",
+            "[6] Name the value precisely rather than listing adjectives."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Show the institutional mechanism that operationalises the value.",
+            "[8] Close with a qualified verdict acknowledging a real limitation.",
+            "VERDICT → The highest-scoring answer moves from value to pressure to mechanism to example to limit.",
+            "ANSWER USE → Use as the revision checklist before any foundational-values PYQ attempt."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → The highest-scoring answer moves from value to pressure to mechanism to example to limit.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "2. CONCEPTS AND DISTINCTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DETAILED TREATMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "4. INSTITUTIONAL AND REFORM ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "5. INDIAN APPLICATIONS AND BOUNDARY CASES",
+          "role": "outcome"
+        },
+        {
+          "text": "6. LIMITATIONS AND TRADE-OFFS",
+          "role": "comparison"
+        },
+        {
+          "text": "7. MUST-KNOW FACTS FOR ADVANCED PRELIMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL ETHICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. Architecture",
+            "2. Concepts and distinctions",
+            "3. Detailed treatment",
+            "4. Institutional and reform architecture"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "5. Indian applications and boundary cases",
+            "6. Limitations and trade-offs",
+            "7. Must-Know Facts for Advanced Prelims",
+            "8. Advanced Prelims traps"
+          ]
+        },
+        {
+          "heading": "ADMINISTRATIVE APPLICATION",
+          "role": "comparison",
+          "items": [
+            "9. Current application",
+            "10. PYQ-based analytical application",
+            "11. Mains-ready framework",
+            "12. Probable questions"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

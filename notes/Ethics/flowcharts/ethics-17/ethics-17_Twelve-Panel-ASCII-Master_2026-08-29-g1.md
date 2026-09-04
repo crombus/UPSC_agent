@@ -1,0 +1,400 @@
+# Citizens' Charters, Work Culture and Service Delivery — Twelve-Panel ASCII Master
+
+#### ASCII MASTER FLOW — PANEL 1/12: 1. Citizen-centric service chain
+
+```ascii-master
+CENTRAL FOCUS
+1. Citizen-centric service chain
+  [1] Citizen is rights-holder
+        |
+        v
+  [2] Authority defines lawful service
+        |
+        v
+  [3] Charter publishes commitment
+        |
+        v
+  [4] Capability performs the work
+        |
+        v
+  [5] Culture shapes the encounter
+        |
+        v
+  [6] Grievance exposes failure
+        |
+        v
+  [7] Remedy corrects harm
+        |
+        v
+  [8] Learning redesigns the system
+        |
+        v
+VERDICT -> A charter is credible only inside a complete promise-to-learning chain.
+ANSWER USE -> Use to open any broad service-delivery answer.
+```
+
+#### ASCII MASTER FLOW — PANEL 2/12: 2. Complete charter anatomy
+
+```ascii-master
+CENTRAL FOCUS
+2. Complete charter anatomy
+  [1] Name service and eligibility
+        |
+        v
+  [2] List documents and lawful fee
+        |
+        v
+  [3] State time and quality standard
+        |
+        v
+  [4] Define clock and pause rules
+        |
+        v
+  [5] Identify responsible contact
+        |
+        v
+  [6] Explain status and reasons
+        |
+        v
+  [7] Publish grievance route
+        |
+        v
+  [8] Fix monitoring and review date
+        |
+        v
+VERDICT -> Specific, usable and reviewable commitments replace decorative declarations.
+ANSWER USE -> Use for the 2019 direct charter PYQ.
+```
+
+#### ASCII MASTER FLOW — PANEL 3/12: 3. Standard design matrix
+
+```ascii-master
+CENTRAL FOCUS
+3. Standard design matrix
+  [1] Speed without rushed disposal
+        |
+        v
+  [2] Accuracy without hidden backlog
+        |
+        v
+  [3] Fairness across social groups
+        |
+        v
+  [4] Accessibility across disabilities
+        |
+        v
+  [5] Completeness of final outcome
+        |
+        v
+  [6] Communication during delay
+        |
+        v
+  [7] Correction of official error
+        |
+        v
+  [8] Audit against target gaming
+        |
+        v
+VERDICT -> Quality, fairness and usability must discipline every time target.
+ANSWER USE -> Use for metrics and ethical-failure analysis.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/12: 4. Consultation and review loop
+
+```ascii-master
+CENTRAL FOCUS
+4. Consultation and review loop
+  [1] Map users and non-users
+        |
+        v
+  [2] Hear vulnerable groups
+        |
+        v
+  [3] Test frontline feasibility
+        |
+        v
+  [4] Publish draft standards
+        |
+        v
+  [5] Pilot the service journey
+        |
+        v
+  [6] Measure citizen experience
+        |
+        v
+  [7] Revise weak commitments
+        |
+        v
+  [8] Publish changes and reasons
+        |
+        v
+VERDICT -> A living charter learns from both citizen barriers and delivery capability.
+ANSWER USE -> Use for reform and periodic-review recommendations.
+```
+
+#### ASCII MASTER FLOW — PANEL 5/12: 5. Three instruments kept distinct
+
+```ascii-master
+CENTRAL FOCUS
+5. Three instruments kept distinct
+  [1] Charter states the promise
+        |
+        v
+  [2] Grievance registers failure
+        |
+        v
+  [3] Authority investigates complaint
+        |
+        v
+  [4] Administrative remedy may follow
+        |
+        v
+  [5] Statute creates entitlement
+        |
+        v
+  [6] Only notified services qualify
+        |
+        v
+  [7] Appeal follows applicable law
+        |
+        v
+  [8] Exact State design controls
+        |
+        v
+VERDICT -> Promise, complaint route and statutory right are connected but never
+             interchangeable.
+ANSWER USE -> Use for close-option distinctions and legal precision.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/12: 6. Sevottam and CPGRAMS route
+
+```ascii-master
+CENTRAL FOCUS
+6. Sevottam and CPGRAMS route
+  [1] Charter sets service standard
+        |
+        v
+  [2] Capability makes it feasible
+        |
+        v
+  [3] Citizen experiences delivery
+        |
+        v
+  [4] CPGRAMS records grievance
+        |
+        v
+  [5] Registration enables tracking
+        |
+        v
+  [6] Feedback tests closure
+        |
+        v
+  [7] Appeal challenges poor resolution
+        |
+        v
+  [8] Patterns drive capability repair
+        |
+        v
+VERDICT -> A portal makes failure visible; the responsible authority must still resolve it.
+ANSWER USE -> Use for current official linkage.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/12: 7. Ethical work-culture engine
+
+```ascii-master
+CENTRAL FOCUS
+7. Ethical work-culture engine
+  [1] Leadership models public service
+        |
+        v
+  [2] Professionalism joins skill and care
+        |
+        v
+  [3] Empathy reveals lived barriers
+        |
+        v
+  [4] Rules preserve equal treatment
+        |
+        v
+  [5] Teams discuss near misses
+        |
+        v
+  [6] Incentives reward true resolution
+        |
+        v
+  [7] Safe feedback prevents concealment
+        |
+        v
+  [8] Fair accountability sustains trust
+        |
+        v
+VERDICT -> Employees follow repeated signals more readily than ceremonial slogans.
+ANSWER USE -> Use for the 2025 ethical-work-culture PYQ.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/12: 8. Facilitative administration
+
+```ascii-master
+CENTRAL FOCUS
+8. Facilitative administration
+  [1] Explain lawful requirements
+        |
+        v
+  [2] Offer pre-application assistance
+        |
+        v
+  [3] Remove duplicate documents
+        |
+        v
+  [4] Coordinate a single window
+        |
+        v
+  [5] Use risk-based scrutiny
+        |
+        v
+  [6] Give reasoned decisions
+        |
+        v
+  [7] Correct curable defects
+        |
+        v
+  [8] Retain safeguards for high risk
+        |
+        v
+VERDICT -> Enabler means solution-oriented legality, not abandonment of regulation.
+ANSWER USE -> Use for the 2025 facilitator PYQ.
+```
+
+#### ASCII MASTER FLOW — PANEL 9/12: 9. Process before portal
+
+```ascii-master
+CENTRAL FOCUS
+9. Process before portal
+  [1] Map present citizen journey
+        |
+        v
+  [2] Remove avoidable touchpoints
+        |
+        v
+  [3] Assign end-to-end ownership
+        |
+        v
+  [4] Simplify evidence requirements
+        |
+        v
+  [5] Integrate back-end workflow
+        |
+        v
+  [6] Digitise with traceable records
+        |
+        v
+  [7] Provide correction and review
+        |
+        v
+  [8] Audit real outcome after launch
+        |
+        v
+VERDICT -> Computerising a fragmented process can accelerate opacity rather than service.
+ANSWER USE -> Use for e-governance and Mission Karmayogi answers.
+```
+
+#### ASCII MASTER FLOW — PANEL 10/12: 10. Last-mile inclusion ladder
+
+```ascii-master
+CENTRAL FOCUS
+10. Last-mile inclusion ladder
+  [1] Accessible physical counter
+        |
+        v
+  [2] Assisted digital channel
+        |
+        v
+  [3] Local-language communication
+        |
+        v
+  [4] Low-bandwidth alternative
+        |
+        v
+  [5] Alternative authentication
+        |
+        v
+  [6] Disability-compatible interface
+        |
+        v
+  [7] Human review of exclusion
+        |
+        v
+  [8] Outreach to remote users
+        |
+        v
+VERDICT -> Digital-by-default must never become exclusion by design.
+ANSWER USE -> Use for vulnerable-group and online-method questions.
+```
+
+#### ASCII MASTER FLOW — PANEL 11/12: 11. Metrics and anti-gaming dashboard
+
+```ascii-master
+CENTRAL FOCUS
+11. Metrics and anti-gaming dashboard
+  [1] Timeliness of final outcome
+        |
+        v
+  [2] Accuracy and correction rate
+        |
+        v
+  [3] First-contact resolution
+        |
+        v
+  [4] Repeat grievance frequency
+        |
+        v
+  [5] Appeal reversal pattern
+        |
+        v
+  [6] Citizen feedback quality
+        |
+        v
+  [7] Group-wise access and exclusion
+        |
+        v
+  [8] Independent sample-file audit
+        |
+        v
+VERDICT -> Measure resolved, correct and equitable service rather than attractive disposal
+             alone.
+ANSWER USE -> Use for diagnosis, monitoring and evaluation.
+```
+
+#### ASCII MASTER FLOW — PANEL 12/12: 12. Complete examiner answer spine
+
+```ascii-master
+CENTRAL FOCUS
+12. Complete examiner answer spine
+  [1] Define charter and citizen-centricity
+        |
+        v
+  [2] Distinguish redress and legal right
+        |
+        v
+  [3] State standards and ownership
+        |
+        v
+  [4] Add Sevottam capability logic
+        |
+        v
+  [5] Diagnose work-culture incentives
+        |
+        v
+  [6] Redesign process and access
+        |
+        v
+  [7] Use balanced metrics and review
+        |
+        v
+  [8] Conclude promise plus remedy
+        |
+        v
+VERDICT -> The strongest answer connects ethical values to an administratively testable
+             service system.
+ANSWER USE -> Use for PYQ synthesis and original Mains practice.
+```

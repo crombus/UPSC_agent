@@ -150,9 +150,16 @@ For each topic:
    - ethics or soteriology;
    - criticism;
    - inter-school comparison.
-7. Check technical Sanskrit terms and transliteration.
+7. Check technical Sanskrit/Pali terms and transliteration. Present the English
+   concept first and put the accurate IAST term immediately afterward in
+   parentheses throughout the learner-facing package.
 8. Create answer frameworks before writing the final data file.
 9. Select visuals only after matching each visual to a learning problem.
+10. Run a conceptual-completeness audit beyond the literal syllabus nouns.
+    Include indispensable doctrines required to understand the school and its
+    PYQs. For Buddhism, this must expressly verify substantial treatment of
+    both the practical Middle Path and its Noble Eightfold Path, and the
+    doctrinal middle between eternalism and annihilationism.
 
 Do not begin PDF generation until this analysis is complete.
 
@@ -221,7 +228,8 @@ Philosophy subtopic:
 ### Layer 2 - CORE UPSC
 
 - explain the complete doctrine and every relevant syllabus sub-part;
-- introduce technical and Sanskrit terminology with plain meanings;
+- introduce each concept in English first, followed immediately by its
+  Sanskrit/Pali IAST term in parentheses;
 - reconstruct arguments step by step;
 - include source grounding, examples, analogies and essential distinctions.
 

@@ -1,0 +1,400 @@
+# Probity: Concept and Philosophical Basis of Governance — Twelve-Panel ASCII Master
+
+#### ASCII MASTER FLOW — PANEL 1/12: 1. Entrusted office and legitimacy
+
+```ascii-master
+CENTRAL FOCUS
+1. Entrusted office and legitimacy
+  [1] Citizens confer authority
+        |
+        v
+  [2] Law defines competence
+        |
+        v
+  [3] Office holds discretion
+        |
+        v
+  [4] Public purpose limits use
+        |
+        v
+  [5] Reasons explain choice
+        |
+        v
+  [6] Records permit scrutiny
+        |
+        v
+  [7] Review corrects error
+        |
+        v
+  [8] Legitimacy earns trust
+        |
+        v
+VERDICT -> Public power becomes legitimate when entrusted authority remains purpose-bound and
+             reviewable.
+ANSWER USE -> Use to define probity and open governance answers.
+```
+
+#### ASCII MASTER FLOW — PANEL 2/12: 2. Non-hierarchical overlap map
+
+```ascii-master
+CENTRAL FOCUS
+2. Non-hierarchical overlap map
+  [1] Honesty: truthful disclosure
+        |
+        v
+  [2] Integrity: principle under pressure
+        |
+        v
+  [3] Propriety: fitness for office
+        |
+        v
+  [4] Transparency: visible record
+        |
+        v
+  [5] Accountability: answer and correct
+        |
+        v
+  [6] Probity: public-office test
+        |
+        v
+  [7] Concepts overlap
+        |
+        v
+  [8] No rigid nesting
+        |
+        v
+VERDICT -> Compare functional questions; never reduce honesty to a settled subset.
+ANSWER USE -> Use for definitions, distinctions and close-option traps.
+```
+
+#### ASCII MASTER FLOW — PANEL 3/12: 3. Law, propriety and remedy
+
+```ascii-master
+CENTRAL FOCUS
+3. Law, propriety and remedy
+  [1] Identify legal authority
+        |
+        v
+  [2] Check mandatory procedure
+        |
+        v
+  [3] Test equality and fairness
+        |
+        v
+  [4] Ask office appropriateness
+        |
+        v
+  [5] Ask authorised purpose
+        |
+        v
+  [6] Record proportional reasons
+        |
+        v
+  [7] Provide competent review
+        |
+        v
+  [8] Secure correction or remedy
+        |
+        v
+VERDICT -> Legality is the floor; propriety, purpose and remedy complete the probity inquiry.
+ANSWER USE -> Use for Dr. X and form-versus-substance cases.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/12: 4. Conflict and recusal route
+
+```ascii-master
+CENTRAL FOCUS
+4. Conflict and recusal route
+  [1] Identify private interest
+        |
+        v
+  [2] Assess material connection
+        |
+        v
+  [3] Disclose before decision
+        |
+        v
+  [4] Stop informal contact
+        |
+        v
+  [5] Recuse when impartiality risks
+        |
+        v
+  [6] Reassign independently
+        |
+        v
+  [7] Preserve decision record
+        |
+        v
+  [8] Review appearance and outcome
+        |
+        v
+VERDICT -> Private confidence in fairness cannot replace institutional conflict control.
+ANSWER USE -> Use for procurement, licensing and appointment cases.
+```
+
+#### ASCII MASTER FLOW — PANEL 5/12: 5. High-discretion control stack
+
+```ascii-master
+CENTRAL FOCUS
+5. High-discretion control stack
+  [1] Grade value and harm
+        |
+        v
+  [2] Publish objective criteria
+        |
+        v
+  [3] Give equal information
+        |
+        v
+  [4] Separate decision roles
+        |
+        v
+  [5] Record conflicts and recusals
+        |
+        v
+  [6] Require written reasons
+        |
+        v
+  [7] Use focused audit
+        |
+        v
+  [8] Keep appeal and remedy
+        |
+        v
+VERDICT -> Controls should intensify with discretion, value and foreseeable harm.
+ANSWER USE -> Use for land, licensing and specialised procurement.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/12: 6. Deontology and constitutional morality
+
+```ascii-master
+CENTRAL FOCUS
+6. Deontology and constitutional morality
+  [1] Duty binds despite detection
+        |
+        v
+  [2] Persons are not mere means
+        |
+        v
+  [3] Office limits private gain
+        |
+        v
+  [4] Constitution supplies values
+        |
+        v
+  [5] Equality disciplines choice
+        |
+        v
+  [6] Due process disciplines means
+        |
+        v
+  [7] Review restrains power
+        |
+        v
+  [8] Public reason joins both
+        |
+        v
+VERDICT -> Duty sets moral limits; constitutional morality gives them public institutional
+             form.
+ANSWER USE -> Use for philosophical-basis and 2019/2025 PYQs.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/12: 7. Virtue and phronesis
+
+```ascii-master
+CENTRAL FOCUS
+7. Virtue and phronesis
+  [1] Practice truthful conduct
+        |
+        v
+  [2] Build stable integrity
+        |
+        v
+  [3] Cultivate courage
+        |
+        v
+  [4] Cultivate justice
+        |
+        v
+  [5] Read context carefully
+        |
+        v
+  [6] Balance relevant duties
+        |
+        v
+  [7] Choose proportionate means
+        |
+        v
+  [8] Accept public verification
+        |
+        v
+VERDICT -> Practical wisdom applies stable virtue without abandoning reasons or institutions.
+ANSWER USE -> Use when rules leave lawful discretion.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/12: 8. Trusteeship boundary
+
+```ascii-master
+CENTRAL FOCUS
+8. Trusteeship boundary
+  [1] Authority comes from citizens
+        |
+        v
+  [2] Office is not property
+        |
+        v
+  [3] Gandhi: power as stewardship
+        |
+        v
+  [4] Means must fit ends
+        |
+        v
+  [5] Public-office trust is analogy
+        |
+        v
+  [6] Natural-resource doctrine is settled
+        |
+        v
+  [7] M.C. Mehta boundary retained
+        |
+        v
+  [8] Specific law still controls
+        |
+        v
+VERDICT -> Use trusteeship philosophically, not as a universal environmental-doctrine holding.
+ANSWER USE -> Use to gain sophistication without legal overclaiming.
+```
+
+#### ASCII MASTER FLOW — PANEL 9/12: 9. Procurement Integrity Pact
+
+```ascii-master
+CENTRAL FOCUS
+9. Procurement Integrity Pact
+  [1] Incorporate pact in bid
+        |
+        v
+  [2] Buyer rejects corrupt influence
+        |
+        v
+  [3] Sellers reject bribery
+        |
+        v
+  [4] Sellers reject collusion
+        |
+        v
+  [5] Protect electronic information
+        |
+        v
+  [6] Treat bidders equitably
+        |
+        v
+  [7] Report vigilance concerns
+        |
+        v
+  [8] Retain other safeguards
+        |
+        v
+VERDICT -> The Pact is an incorporated preventive control, not proof of guilt or a complete
+             regime.
+ANSWER USE -> Use with GeM bid document 9511605.
+```
+
+#### ASCII MASTER FLOW — PANEL 10/12: 10. Asset-disclosure distinctions
+
+```ascii-master
+CENTRAL FOCUS
+10. Asset-disclosure distinctions
+  [1] RPA s75A: elected MP
+        |
+        v
+  [2] File within 90 days of oath
+        |
+        v
+  [3] Not an annual RPA return
+        |
+        v
+  [4] CCS Rule 18: service regime
+        |
+        v
+  [5] AIS Rule 16: separate regime
+        |
+        v
+  [6] Annual property returns differ
+        |
+        v
+  [7] Lokpal s44 text substituted
+        |
+        v
+  [8] No universal online claim
+        |
+        v
+VERDICT -> State the population, timing and legal source of each disclosure duty separately.
+ANSWER USE -> Use for Prelims traps and probity mechanisms.
+```
+
+#### ASCII MASTER FLOW — PANEL 11/12: 11. RTI, audit and social audit
+
+```ascii-master
+CENTRAL FOCUS
+11. RTI, audit and social audit
+  [1] Records make action visible
+        |
+        v
+  [2] RTI enables lawful access
+        |
+        v
+  [3] Departmental audit checks systems
+        |
+        v
+  [4] CAG acts within mandate
+        |
+        v
+  [5] CVC oversees vigilance
+        |
+        v
+  [6] CVO coordinates departments
+        |
+        v
+  [7] Citizens verify lived delivery
+        |
+        v
+  [8] Follow-up supplies accountability
+        |
+        v
+VERDICT -> No single institution replaces financial, vigilance, citizen and remedial scrutiny.
+ANSWER USE -> Use for 2021 social-audit and transparency answers.
+```
+
+#### ASCII MASTER FLOW — PANEL 12/12: 12. Bona fides and proportionate review
+
+```ascii-master
+CENTRAL FOCUS
+12. Bona fides and proportionate review
+  [1] Verify authority and facts
+        |
+        v
+  [2] Disclose material interests
+        |
+        v
+  [3] Consider reasonable alternatives
+        |
+        v
+  [4] Record contemporaneous reasons
+        |
+        v
+  [5] Protect honest risk-taking
+        |
+        v
+  [6] Review without outcome bias
+        |
+        v
+  [7] Correct proven error
+        |
+        v
+  [8] Remedy supported harm
+        |
+        v
+VERDICT -> Good-faith protection blocks hindsight punishment, not evidence, review or remedy.
+ANSWER USE -> Use as the final advanced answer and case-study test.
+```

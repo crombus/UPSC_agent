@@ -2,8 +2,21 @@
   "guided_tutor": {
     "mcq_answer_leakage": "Never include correct answers in the requested reply format, examples, hints, or navigation text before the learner submits an answer.",
     "mcq_prompt": "Ask the learner to reply with choices only, without displaying an answer-pattern example.",
-    "mcq_option_placement": "Distribute correct options across A, B, C, and D without a predictable sequence such as A-B-C-D. Avoid consecutive repetition and verify that wording or option length does not reveal the answer.",
+    "mcq_option_placement": "For live Guided Tutor checks, distribute correct options across A, B, C, and D without leakage, consecutive repetition, wording clues, or option-length clues. For complete topic packages and solved workbooks, the authoritative rule is strict correct-option rotation A -> B -> C -> D, repeated in order.",
+    "complete_package_mcq_rotation": "Strict A -> B -> C -> D rotation is mandatory for every complete-package and solved-workbook MCQ sequence; it overrides the live-session anti-predictability preference.",
     "advancement": "After mastery, move to the next subtopic when the learner says Next or explicitly asks to continue.",
-    "coverage": "Use the complete learning-session Markdown and miss no substantive detail."
+    "coverage": "Use the complete learning-session Markdown and miss no substantive detail.",
+    "terminal_session_archive": "Save new substantive teaching, doubts, scores, remediation, mastery status and resume points under upsc-ai-kit\\knowledge\\<Subject>\\learning-sessions\\. Terminal-Learning-Sessions, learning-sessions-v2, and _learning-sessions are legacy compatibility aliases only.",
+    "default_export_variant": "learner-v2",
+    "workflow_approval_scope": "Learner-v2 is approved as the default workflow only. Topic approval remains explicit per topic_key + variant + generation.",
+    "section_generation": "Work subject-wise and section-wise. Before generation, create or update a complete section manifest from the official syllabus plus repository Markdown owners; then generate topics sequentially unless interrupted.",
+    "topic_command_catalog": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json is the full machine-readable source for V2-SUBJECT-SECTION-COMMAND-INDEX.md. It includes every source-ready repository topic, not only registered pilot manifests; unresolved entries are withheld from ready command blocks.",
+    "on_demand_section_manifest": "An exact learner-v2 topic command is valid even when its section has no manifest. Resolve the topic catalogue entry, materialise the complete section manifest and its three indexes automatically, then generate only that topic. The user never creates JSON manually.",
+    "completeness_sources": "Official syllabus + Basic/canonical Markdown + cross-topic/thematic Markdown + verified PYQs + Advanced Markdown last. OCR PDFs and live sources supplement; no single Markdown file proves completeness.",
+    "section_output_layout": "notes\\<Subject>\\learning-session-v2\\<section-key>\\notes\\; workbooks\\; indexes\\ with separate TOPIC-COVERAGE-INDEX.md, NOTES-PDF-INDEX.md and WORKBOOK-PDF-INDEX.md. Existing topic-folder v2 pilots remain valid compatibility paths.",
+    "section_status_refresh": "After each topic passes validation, immediately update EXPORT-PDF-STATUS.json, regenerate EXPORT-PDF-COMMAND-INDEX.md, and regenerate that section's three indexes.",
+    "topic_command_output_contract": "Every Generate learner-v2 topic command must create reusable Markdown, an indexed learning-session PDF, a separate indexed solved workbook, and a continuous at-a-glance core-first flowchart package containing a high-resolution master image, one-page large-format poster PDF, print-readable same-master tiled PDF, previews and contact sheets.",
+    "approved_flowchart_reference": "Use notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first\\ as the approved visual reference: dark high-contrast canvas, continuous cyan numbered stage rail, coloured decisive-keyword pills, highlighted answer-line bands, complete core before subordinate enrichment, and overlapping tiled crops of one master diagram.",
+    "subtopic_closure_flow": "After every completed teaching subtopic in the learning-session PDF, insert a compact closure flow before the next subtopic: heading -> exact key terms -> mechanism or argument -> consequence or contrast -> UPSC trap or answer-use. Include the answer-grabbing formulation and never defer these flows to the end."
   }
 }

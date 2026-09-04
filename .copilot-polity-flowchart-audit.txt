@@ -1,0 +1,2497 @@
+===== polity-13 | Centre State and Inter State Relations | polity-13-2026-08-24-sequential.json =====
+--- PANEL 1: The four-dimensional federal relations map ---
+CENTRE-STATE AND INTER-STATE RELATIONS
+  +-- LEGISLATIVE: Articles 245-255 + Seventh Schedule
+  +-- ADMINISTRATIVE: Articles 256-263
+  +-- FINANCIAL: Articles 264-293 + GST Articles 246A / 269A / 279A
+  +-- INTER-STATE / ECONOMIC: Articles 261-263 and 301-307
+
+OPERATING QUESTION
+Who may act -> through which constitutional route -> with what check -> with what remedy?
+
+FEDERALISM IS NOT ONE LIST
+legal competence + implementation control + fiscal capacity + bargaining institutions.
+--- PANEL 2: Legislative competence before conflict ---
+ARTICLE 245: territorial reach
+  +-- Parliament: whole or any part of India; extra-territorial operation protected
+  +-- State legislature: whole or any part of the State; territorial nexus applies
+
+ARTICLE 246 + SEVENTH SCHEDULE
+Union List 100 -> Parliament
+State List 61 -> States, subject to constitutional exceptions
+Concurrent List 52 -> both; Article 254 resolves repugnancy
+
+SPECIAL RULES
+Article 246A -> GST competence
+Article 248 + Union Entry 97 -> residuary power with Parliament.
+--- PANEL 3: Parliament's routes into the State field ---
+STATE LIST IS PRIMARY, NOT ABSOLUTE
+  |
+  +-- Article 249 -> Rajya Sabha national-interest resolution
+  +-- Article 250 -> National Emergency; temporary extension after it ends
+  +-- Article 252 -> two or more States request; other States may adopt
+  +-- Article 253 -> treaty / international obligation implementation
+  +-- Article 356 -> Parliament legislates for the affected State
+  +-- Article 246(4) -> territories not included in a State
+
+EXAM CONTROL
+State trigger, national trigger, duration and amendment/repeal control differ by route.
+--- PANEL 4: Doctrines, repugnancy and State-law control ---
+FIRST RECONCILE COMPETENCE
+pith and substance -> true nature
+harmonious construction -> preserve both entries
+incidental encroachment -> tolerated when substance is competent
+colourable legislation -> what cannot be done directly cannot be disguised
+
+THEN TEST ARTICLE 254
+Concurrent field + direct conflict -> Union law ordinarily prevails
+reserved State law + Presidential assent -> operates in that State
+Parliament may later override
+
+ASSENT CONTROL
+prior sanction != reservation; Articles 200-201 remain distinct procedures.
+--- PANEL 5: Administrative directions, delegation and common services ---
+STATE EXECUTIVE DUTY
+Article 256 -> ensure compliance with parliamentary law
+Article 257 -> do not impede Union executive power; directions in stated fields
+        |
+        +-- Article 365: non-compliance may supply material
+        +-- Article 356: still requires separate constitutional satisfaction and review
+
+COOPERATIVE ADMINISTRATION
+Articles 258 / 258A -> mutual entrustment of functions
+Article 312 -> Rajya Sabha route for All-India Services
+CBI -> DSPE Act consent architecture; State consent and federal litigation remain bounded.
+--- PANEL 6: Fiscal federalism from tax power to borrowing ---
+NO TAX WITHOUT AUTHORITY OF LAW: ARTICLE 265
+  +-- assigned / distributed taxes: Articles 268-270
+  +-- surcharge for Union purposes: Article 271
+  +-- grants: Articles 273, 275 and 282
+  +-- Finance Commission: Article 280
+  +-- borrowing: Articles 292-293
+
+GST LAYER
+Articles 246A + 269A + 279A -> shared tax field + destination rule + Council
+
+CURRENT CONTROL
+Sixteenth Finance Commission award 2026-31; report tabled in Parliament.
+Fiscal autonomy depends on predictable devolution, not State List words alone.
+--- PANEL 7: Intergovernmental forums and river-water adjudication ---
+ARTICLE 263 INTER-STATE COUNCIL
+inquiry + discussion + recommendation; constitutional and recommendatory
+
+ZONAL COUNCILS
+States Reorganisation Act, 1956; regional consultation; statutory, not constitutional
+North Eastern Council -> separate statutory regional body
+
+ARTICLE 262 WATER DISPUTES
+negotiation -> statutory tribunal -> decision/publication -> implementation
+Parliament may exclude court jurisdiction through law
+
+CURRENT LIMIT
+The 2019 permanent-tribunal Bill has not become law; do not invent one tribunal.
+--- PANEL 8: Sarkaria, Punchhi and the modes of federalism ---
+COOPERATIVE -> consultation and joint implementation
+COMPETITIVE -> innovation, investment and policy comparison
+BARGAINING -> negotiated grants, GST and political accommodation
+COERCIVE -> conditional finance, directions or unilateral central leverage
+
+SARKARIA
+strong Union within cooperation; Article 356 last resort; neutral Governor; active ISC
+
+PUNCHHI
+localised emergency debate; clearer Governor practice; consultation and dispute prevention
+
+REFORM TEST
+regular institutions + shared data + reasoned decisions + fiscal transparency.
+--- PANEL 9: Prelims controls, PYQ routes and answer synthesis ---
+PRELIMS FIREWALL
+Article 254 -> Concurrent repugnancy, not every Union-State disagreement
+Article 365 -> possible consequence, not automatic President's Rule
+GST -> Article 246A special field, not a general Concurrent List tax entry
+Zonal Councils -> statutory; Inter-State Council -> constitutional
+
+PYQ ROUTES
+2019 supremacy/harmony | 2020 centralisation | 2024 relation reform | 2025 fiscal federalism
+
+MAINS SPINE
+define dimension -> cite Article/institution -> explain mechanism -> evidence
+-> State/Union counterpoint -> commission reform -> cooperative, reviewable conclusion.
+
+===== polity-14 | Emergency Provisions | polity-14-2026-08-24-sequential.json =====
+--- PANEL 1: Three emergencies, three constitutional failures ---
+PART XVIII: ARTICLES 352-360
+  +-- Article 352 -> war, external aggression or armed rebellion
+  +-- Article 356 -> State government cannot be carried on according to Constitution
+  +-- Article 360 -> threat to financial stability or credit of India / any part
+
+THE SAME WORD 'EMERGENCY' HIDES DIFFERENT RULES
+trigger | advice | majority | duration | territorial effect | rights effect | revocation
+
+CORE PURPOSE
+preserve constitutional government in crisis, not replace limited government permanently.
+--- PANEL 2: Article 352 trigger, approval and revocation ---
+IMMINENT DANGER MAY JUSTIFY PROCLAMATION
+Cabinet decision in writing -> President -> proclamation for whole or part
+        |
+        +-- approval within one month
+        +-- special majority in each House
+        +-- renewal every six months
+        +-- Lok Sabha disapproval mechanism and presidential revocation
+
+44TH AMENDMENT CONTROLS
+internal disturbance -> armed rebellion
+written Cabinet advice + special majority + stronger Lok Sabha trigger
+
+TRAP
+Article 352 is not approved by a simple majority and is not indefinite without renewal.
+--- PANEL 3: National Emergency effects and historical evolution ---
+EFFECTS
+Union executive directions expand
+Parliament gains State List competence while States continue
+Article 354 may modify revenue-distribution operation
+Lok Sabha and Assembly terms may be extended in one-year increments
+
+HISTORY
+1962 external aggression -> 1971 external aggression -> 1975 internal emergency
+
+AMENDMENT ARC
+38th immunity -> 42nd centralisation -> 44th review, liberty and procedure safeguards
+
+VERDICT
+emergency federalisation is temporary; constitutional identity and review survive.
+--- PANEL 4: Articles 358 and 359: rights firewall ---
+ARTICLE 358                              ARTICLE 359
+automatic operation                         presidential order required
+Article 19 only                             specified Part III enforcement
+war / external aggression only              any Article 352 ground
+emergency-related law nexus after 44th       order states scope and duration
+
+PERMANENT LIBERTY CONTROL
+Articles 20 and 21 cannot be suspended through Article 359.
+
+CASE ARC
+ADM Jabalpur majority denied habeas route -> Khanna dissent
+-> Puttaswamy rejects the majority's constitutional approach.
+
+TRAP: rights are not 'abolished'; enforcement and legal consequences must be stated precisely.
+--- PANEL 5: Article 356 mechanics and constitutional consequences ---
+GOVERNOR REPORT OR OTHERWISE
+objective material -> President's proclamation -> parliamentary approval within two months
+        |
+        +-- six-month periods
+        +-- maximum three years
+        +-- beyond one year: Article 352 emergency condition + ECI certification condition
+
+CONSEQUENCES
+President assumes State executive functions
+Parliament exercises State legislative power
+High Court powers cannot be assumed
+
+FLOOR PRINCIPLE
+loss of majority is ordinarily tested in the House, not decided by private assessment.
+--- PANEL 6: Bommai, judicial review and the misuse debate ---
+S.R. BOMMAI CONTROL BOARD
+federalism is Basic Structure
+Article 356 satisfaction is reviewable
+Union must disclose relevant material
+majority ordinarily tested on the floor
+Assembly dissolution should await parliamentary approval
+court may restore the dismissed government / Assembly
+secularism is Basic Structure
+
+RAMESHWAR PRASAD
+pre-emptive dissolution based on speculative horse-trading material invalid.
+
+WHY USE DECLINED
+judicial review + coalition era + regional parties + political cost + commission norms.
+--- PANEL 7: Article 360: financial emergency without fabricated history ---
+TRIGGER
+financial stability or credit of India or any part is threatened
+
+PROCEDURE
+President -> parliamentary approval within two months -> simple-majority control
+once approved, no six-month renewal cycle is prescribed
+
+POSSIBLE DIRECTIONS
+financial propriety canons
+salary / allowance reduction, including judges
+State Money and financial Bills reserved for presidential consideration
+
+STATUS CONTROL
+India has never proclaimed a Financial Emergency.
+Do not convert economic stress, Article 293 conditions or fiscal rules into Article 360.
+--- PANEL 8: Comparison matrix, alternatives and commission safeguards ---
+ARTICLE 352         ARTICLE 356             ARTICLE 360
+national security     State constitutional failure financial stability / credit
+special majority      simple majority             simple majority
+six-month renewal     six-month renewal           no periodic renewal in text
+rights consequences   State machinery effect      fiscal directions
+
+LAST-RESORT LADDER
+warning -> consultation -> floor test / judicial remedy -> targeted ordinary law
+-> emergency only when constitutional preconditions are met
+
+SARKARIA / PUNCHHI
+speaking material, neutral Governor, floor test, restrained and localised response.
+--- PANEL 9: PYQ traps and the emergency answer spine ---
+PRELIMS CONTROLS
+armed rebellion != internal disturbance
+Article 358 != Article 359
+Articles 20-21 remain protected
+Article 356 extension conditions apply after one year
+Article 360 has never been used
+
+PYQ ROUTES
+2018 financial emergency | 2018 Article 356 | 2023 security provisions
+2023 decline of Article 356 use | supporting 2020 centralisation
+
+MAINS SPINE
+state trigger -> procedure -> effect -> 44th safeguard / Bommai
+-> misuse risk -> alternative -> emergency power remains exceptional and reviewable.
+
+===== polity-15 | President and Vice President | polity-15-2026-08-24-sequential.json =====
+--- PANEL 1: Two offices and the parliamentary executive design ---
+PRESIDENT: ARTICLES 52-62, 72, 74
+constitutional Head of State + formal Union executive power + national continuity
+
+VICE-PRESIDENT: ARTICLES 63-71
+ex officio Chairman of Rajya Sabha + constitutional reserve for presidential vacancy
+
+PARLIAMENTARY LOGIC
+President ordinarily acts on ministerial advice
+Vice-President ordinarily works inside Parliament
+
+CURRENT DATED CONTROL: 24 AUGUST 2026
+Droupadi Murmu -> President
+C. P. Radhakrishnan -> Vice-President and Rajya Sabha Chairman.
+--- PANEL 2: Presidential election, vote value and dispute route ---
+ELECTORAL COLLEGE: ARTICLE 54
+elected MPs + elected MLAs of States + elected MLAs of Delhi and Puducherry
+exclude nominated MPs, nominated MLAs and State Legislative Council members
+
+WEIGHTING: ARTICLE 55
+MLA vote value -> 1971 census population / elected Assembly strength / 1000
+MP vote value -> total MLA vote value / elected MPs
+
+COUNT
+proportional representation by single transferable vote + secret ballot
+
+DISPUTE
+Article 71 -> Supreme Court; vacancy does not invalidate the election.
+--- PANEL 3: Qualifications, oath, tenure, vacancy and removal ---
+PRESIDENT
+citizen + 35 years + qualified for Lok Sabha + no office of profit
+oath before Chief Justice of India / senior-most available Supreme Court judge
+five-year term; re-election allowed; continues until successor enters office
+casual vacancy election within six months
+
+IMPEACHMENT: ARTICLE 61
+either House starts -> 14-day notice -> one-fourth signatures
+-> two-thirds of total membership in each House -> violation of Constitution
+
+ARTICLE 361
+official-act immunity and procedural protection do not create substantive impunity.
+--- PANEL 4: Aid and advice, reconsideration and bounded discretion ---
+ARTICLE 74
+Council of Ministers with PM at head aids and advises the President
+President may require reconsideration once
+reconsidered advice binds
+court cannot inquire into what advice was tendered
+
+SITUATIONAL CHOICE
+hung Lok Sabha -> identify person most likely to command confidence
+outgoing ministry -> continuity until an alternative is formed
+
+NOT PERSONAL POLICY POWER
+Shamsher Singh: constitutional head operates through responsible government.
+
+ANSWER VERDICT
+the office can warn, encourage and require reconsideration, not create a rival executive.
+--- PANEL 5: Seven presidential power clusters ---
+EXECUTIVE -> appointments, Rules of Business, administration in President's name
+LEGISLATIVE -> summon, prorogue, dissolve LS, address, nominate, assent
+FINANCIAL -> recommendation routes, Budget presentation, Finance Commission
+JUDICIAL -> Article 72 clemency + Article 143 reference
+DIPLOMATIC -> credentials and treaty form, subject to constitutional law
+MILITARY -> Supreme Commander in constitutional form
+EMERGENCY -> Articles 352, 356 and 360 on constitutional advice
+
+CONTROL
+formal breadth is ordinarily exercised through ministerial responsibility and review.
+--- PANEL 6: Veto and ordinance: the executive-legislative interface ---
+ARTICLE 111
+ordinary Bill -> assent / withhold / return once
+repassed ordinary Bill -> assent required
+Money Bill -> cannot be returned
+Constitution Amendment Bill -> assent required
+pocket veto -> no textual decision deadline for Union Bills
+
+ARTICLE 123
+Parliament not both in session + immediate action necessary
+-> ordinance has force of Act -> laid before Parliament
+-> ceases six weeks after reassembly unless replaced / disapproved / withdrawn
+
+CASE CONTROL
+D.C. Wadhwa and Krishna Kumar Singh reject routine re-promulgation.
+--- PANEL 7: Article 72 clemency and the Governor comparison ---
+FIVE FORMS
+pardon | reprieve | respite | remission | commutation
+
+PRESIDENT: ARTICLE 72
+court-martial cases
+offences against Union executive field
+all death-sentence cases
+
+GOVERNOR: ARTICLE 161
+State executive field; cannot pardon a court-martial
+death sentence may be suspended, remitted or commuted, not pardoned under Article 161
+
+RULE-OF-LAW CONTROL
+ministerial advice + limited review for mala fides, arbitrariness or irrelevant material.
+--- PANEL 8: Vice-President: election, removal, Chair and acting role ---
+ELECTION
+members of both Houses, elected and nominated; State legislatures excluded
+
+REMOVAL
+Rajya Sabha resolution by majority of all then members
+-> agreed by Lok Sabha -> 14-day notice
+not impeachment; no 'violation of Constitution' ground is required
+
+CHAIRMAN
+procedure, discipline and casting vote; no ordinary first vote
+Tenth Schedule adjudication is reviewable; own-removal debate uses special arrangement
+
+ACTING PRESIDENT
+discharges presidential functions during vacancy / inability; separate office rules apply.
+--- PANEL 9: Conventions, cases, traps and the answer spine ---
+CASE / CONVENTION ROUTES
+Shamsher Singh -> constitutional head
+Kehar Singh / Maru Ram -> clemency on advice with bounded review
+Krishna Kumar Singh -> ordinance limits
+hung House -> confidence, not personal preference
+
+PRELIMS FIREWALL
+President and Vice-President colleges are different
+President impeachment != Vice-President removal
+six-month vacancy rule applies to President, not Vice-President
+Money Bill cannot be returned; Amendment Bill requires assent
+
+MAINS SPINE
+constitutional position -> exact power -> advice/procedure -> case -> bounded discretion
+-> accountability -> sentinel without a rival popular mandate.
+
+===== polity-16 | PM and Council of Ministers | polity-16-2026-08-24-sequential.json =====
+--- PANEL 1: Responsible executive: Articles 74, 75, 77 and 78 ---
+FORMAL HEAD                     REAL EXECUTIVE
+President                       Prime Minister + Council of Ministers
+        \                         /
+         +-- ARTICLE 74: aid and advice --+
+                         |
+ARTICLE 75 -> appointment, tenure, responsibility, six-month rule, ministry cap
+ARTICLE 77 -> Union business in President's name + Rules of Business
+ARTICLE 78 -> PM informs President and submits matters for reconsideration
+
+CORE RESULT
+executive power is politically answerable to Lok Sabha through responsible government.
+--- PANEL 2: Prime Minister appointment and government formation ---
+CLEAR MAJORITY
+President appoints recognised majority leader -> ministers on PM advice
+
+HUNG LOK SABHA
+objective support evidence -> appoint person most likely to command confidence
+-> prompt floor test -> ministry survives or resigns
+
+ELIGIBILITY
+minister may be non-member for six consecutive months
+disqualified person cannot use six-month rule to evade the Constitution
+
+TENURE
+no fixed PM term; office depends on Lok Sabha confidence and constitutional continuity.
+--- PANEL 3: Council, Cabinet, ranks and the 91st Amendment ---
+COUNCIL OF MINISTERS                 CABINET
+larger constitutional body              inner decision-making core
+Cabinet + Ministers of State + deputies senior portfolios and collective direction
+Article 74                              Article 352 expressly names Cabinet
+
+RANKS
+Cabinet Minister | Minister of State (independent charge / attached) | Deputy Minister
+labels such as parliamentary secretary do not automatically create Cabinet rank
+
+91ST AMENDMENT
+Union ministry <= 15% of Lok Sabha strength
+Tenth Schedule defector disqualified from ministerial appointment for the stated period.
+--- PANEL 4: Collective, individual and legal responsibility ---
+COLLECTIVE: ARTICLE 75(3)
+one political unit -> Cabinet solidarity -> Lok Sabha confidence
+loss of confidence -> whole ministry resigns
+
+INDIVIDUAL: ARTICLE 75(2)
+minister holds office during President's pleasure, exercised within PM-led government
+PM may require resignation or advise dismissal
+
+LEGAL RESPONSIBILITY
+India lacks the British rule requiring a ministerial countersignature on every formal act
+Article 77 authentication protects authorised orders from challenge on signature form alone
+
+ACCOUNTABILITY CHAIN
+decision -> shared defence -> questions/committee/audit -> confidence sanction.
+--- PANEL 5: Prime Minister's five relationship arenas ---
+COUNCIL / CABINET
+selects team, allocates portfolios, sets agenda, coordinates and can seek resignation
+
+PRESIDENT
+principal adviser + Article 78 information bridge + reconsideration channel
+
+PARLIAMENT
+government leader, confidence manager, policy statement and legislative programme
+
+PARTY / COALITION
+leadership depends on majority, alliance agreements, internal bargaining and legitimacy
+
+FEDERAL / NATIONAL
+intergovernmental leadership, crisis coordination and national policy direction.
+--- PANEL 6: Cabinet ecosystem: committees, Secretariat and PMO ---
+ARTICLE 77(3) RULES
+Allocation of Business -> who handles a subject
+Transaction of Business -> how important business moves and is decided
+
+CABINET COMMITTEES
+standing / ad hoc; reduce workload and coordinate cross-ministry choices
+current number, membership and chairs depend on dated notification
+
+CABINET SECRETARIAT
+Cabinet support + records + inter-ministerial coordination + crisis management
+
+PMO
+staff support, monitoring and policy coordination; not a constitutional substitute for ministries.
+--- PANEL 7: Parliamentary control, confidence and anti-defection ---
+INFORMATION
+Question Hour -> Zero Hour -> discussions -> committee evidence
+        |
+FINANCIAL CONTROL
+Budget -> grants -> appropriation -> CAG -> PAC / DRSC
+        |
+POLITICAL SANCTION
+no-confidence motion in Lok Sabha -> collective resignation if carried
+
+ANTI-DEFECTION INTERFACE
+whip supports government stability but can compress independent legislative judgment
+
+CONSTRUCTIVE NO-CONFIDENCE
+reform proposal for stability; not current constitutional law in India.
+--- PANEL 8: Coalition, minority, caretaker and prime-ministerial government ---
+MAJORITY GOVERNMENT -> stronger agenda control, risk of executive dominance
+COALITION -> bargaining and inclusion, risk of fragmented responsibility
+MINORITY -> issue-based support and greater parliamentary negotiation
+CARETAKER -> continuity with self-restraint; no separate constitutional article
+
+CABINET GOVERNMENT                     PRIME-MINISTERIAL GOVERNMENT
+collective deliberation                 central agenda and appointment influence
+ministerial expertise                   PMO / communication / electoral leadership
+
+QUALIFIED VERDICT
+PM predominance varies with party control, coalition arithmetic, institutions and public legitimacy.
+--- PANEL 9: Cases, conventions, reforms and the answer spine ---
+CONSTITUTIONAL CONTROLS
+Shamsher Singh -> responsible advice
+S.R. Chaudhuri -> six-month rule cannot be serially abused
+Tenth Schedule + 91st Amendment -> stability and anti-defection constraints
+
+PRELIMS FIREWALL
+Council != Cabinet | Article 88 gives participation, not a vote without membership
+ministry cap uses Lok Sabha strength | Cabinet Committee composition is current-sensitive
+
+REFORM
+publish reasons and outcomes, strengthen committees, limit whip, protect Cabinet deliberation
+
+MAINS SPINE
+text -> formation -> responsibility -> coordination institutions -> accountability
+-> political variation -> balanced strong-executive / responsible-government verdict.
+
+===== polity-17 | Parliament | polity-17-2026-08-24-sequential.json =====
+--- PANEL 1: Article 79 architecture, composition and representation ---
+PARLIAMENT = PRESIDENT + RAJYA SABHA + LOK SABHA
+
+LOK SABHA
+direct adult-suffrage election | normal five-year term | dissolution possible
+
+RAJYA SABHA
+indirect State/UT representation | nominated members | permanent House
+one-third retire every second year
+
+REPRESENTATION CONTROL
+seat allocation + delimitation + population-freeze chronology
+106th Amendment commencement does not itself operationalise women's reservation
+
+CORE VERDICT
+popular chamber, federal chamber and constitutional head form one legislative institution.
+--- PANEL 2: Membership, vacancies, officers and sessions ---
+MEMBERSHIP
+Article 84 qualification -> Article 102 disqualification -> Article 103 decision with ECI opinion
+vacancy, double membership, resignation and prolonged absence follow distinct rules
+
+OFFICERS
+Speaker / Deputy Speaker -> Articles 93-97
+Chairman / Deputy Chairman -> Articles 89-92
+Speaker continues after dissolution until immediately before first new-LS meeting
+
+SESSIONS
+summon -> sitting -> adjourn / adjourn sine die -> prorogue -> dissolution
+Article 85: no more than six months between sessions; no minimum sitting-day count.
+--- PANEL 3: Privileges, questions and parliamentary devices ---
+FUNCTIONAL PRIVILEGE
+speech / vote protection + House powers needed for legislative work
+not a personal licence for corruption or unrelated crime
+
+SITA SOREN (2024)
+bribery is not protected merely because it relates to a vote or speech.
+
+INFORMATION DEVICES
+starred -> oral answer + supplementaries
+unstarred -> written answer
+short-notice -> urgent public importance
+Zero Hour -> convention, not Rules
+
+MOTIONS
+no-confidence | censure | adjournment | privilege | cut motions | discussions.
+--- PANEL 4: Legislative procedure and the Bill-class firewall ---
+ORDINARY BILL
+introduction -> consideration / committee -> passage -> other House
+-> deadlock route where available -> presidential assent
+
+MONEY BILL: ARTICLES 109-110
+Lok Sabha only + presidential recommendation + Speaker certificate
+Rajya Sabha recommendations within 14 days + no joint sitting
+
+FINANCIAL BILL-I
+Article 110 matter plus others; LS only, but Rajya Sabha has full legislative power
+
+FINANCIAL BILL-II
+expenditure from Consolidated Fund; either House, recommendation before consideration
+
+ARTICLE 368 BILL
+special majority; no joint sitting; presidential assent obligatory.
+--- PANEL 5: Budget, grants, funds and financial control ---
+ARTICLE 112 ANNUAL FINANCIAL STATEMENT
+charged expenditure discussed, not voted
+voted expenditure -> demands for grants in Lok Sabha
+        |
+cut motions -> guillotine -> Appropriation Bill -> Finance Bill
+        |
+CAG audit -> PAC / committee follow-up
+
+GRANTS
+supplementary | additional | excess | vote on account | vote of credit | exceptional
+
+FUNDS
+Consolidated Fund -> appropriation by law
+Contingency Fund -> advances for urgent unforeseen expenditure
+Public Account -> other public money; no appropriation vote for withdrawal.
+--- PANEL 6: Committee architecture: Parliament's working rooms ---
+FINANCIAL COMMITTEES
+PAC 22 = 15 LS + 7 RS -> CAG / post-spending scrutiny
+Estimates 30 LS -> economy and administrative improvement
+CoPU 22 = 15 LS + 7 RS -> public undertakings
+
+DRSCs
+24 committees; each 31 = 21 LS + 10 RS; ministers excluded
+demands for grants + referred Bills + annual reports + long-term policy
+
+OTHER CONTROLS
+Subordinate Legislation | Privileges | Ethics | Assurances | Petitions | Welfare
+
+LIMIT
+reports are advisory, but evidence, publicity and follow-up make them institutionally powerful.
+--- PANEL 7: Rajya Sabha special powers, joint sitting and ordinance interface ---
+RAJYA SABHA EQUAL
+ordinary Bills | constitutional amendments | specified elections / removals
+
+RAJYA SABHA UNEQUAL
+Money Bills | demands for grants | Lok Sabha confidence
+
+RAJYA SABHA EXCLUSIVE
+Article 249 -> Parliament on State List in national interest
+Article 312 -> create All-India Services
+
+JOINT SITTING: ARTICLE 108
+ordinary / Financial Bill deadlock; Speaker presides; no Money or Amendment Bill route
+
+ORDINANCE
+Article 123 temporary law must return to parliamentary control; re-promulgation is bounded.
+--- PANEL 8: Anti-defection, sovereignty limits and reform ---
+TENTH SCHEDULE
+stability and party mandate <-> reduced individual deliberation
+Speaker / Chairman decision remains judicially reviewable
+
+PARLIAMENTARY SOVEREIGNTY IS LIMITED
+written Constitution + federal distribution + Fundamental Rights + Basic Structure
+judicial review + bicameral and procedural limits
+
+DECLINE DIAGNOSIS
+executive agenda control | whip | disruption | guillotine | weak referral | ordinances
+
+REFORM
+predictable calendar + default committee referral + reasoned bypass
+limited whip + stronger research + timely presiding-officer decisions
+
+CURRENT LIMITS
+pending / defeated Bills and unknown delimitation dates are never converted into law.
+--- PANEL 9: PYQ routes, close-option traps and answer synthesis ---
+PRELIMS FIREWALL
+President is part of Parliament, not a House member
+Question Hour is regulated; Zero Hour is conventional
+Money Bill 'only' test differs from Financial Bills
+Speaker continuity differs from Deputy Speaker
+Rajya Sabha is not uniformly inferior
+
+PYQ ROUTES
+8 solved Mains demands on committees, Speaker, Rajya Sabha and accountability
+20 routed Prelims demands with doctrinal resolutions and provenance limits
+
+MAINS SPINE
+constitutional instrument -> operating mechanism -> evidence -> executive / party constraint
+-> counter-evidence -> institutional reform -> Parliament strong in law, variable in practice.
+
+===== polity-01 | Historical Background of the Indian Constitution | polity-2026-08-23.json =====
+--- PANEL 1: From Company sovereignty to constituent sovereignty, 1765-1950 ---
+1765 DIWANI: revenue power outruns public accountability
+  |
+1773 PARLIAMENTARY REGULATION
+  Regulating Act -> Governor-General of Bengal -> Calcutta Supreme Court
+  |
+1781 JURISDICTION REPAIR -> 1784 DUAL CONTROL
+  Settlement Act          Company administration + Board supervision
+  |
+1813-1853 CHARTER TRANSFORMATION
+  monopoly opened -> Company de-commercialised -> legislation centralised
+  |
+1858 CROWN RULE -> 1861-1892 ASSOCIATION WITHOUT RESPONSIBILITY
+  |
+1909 COMMUNAL REPRESENTATION -> 1919 LIMITED RESPONSIBILITY
+  |
+1935 FEDERAL BLUEPRINT + PROVINCIAL AUTONOMY
+  |
+1947 SOVEREIGN CONSTITUENT POWER -> 1950 DEMOCRATIC CONSTITUTIONALISM
+--- PANEL 2: Who controlled whom: the imperial power hierarchy ---
+BRITISH PARLIAMENT
+  +-- 1773: begins statutory control over territorial Company rule
+  +-- 1784: creates Board of Control for political supervision
+  |     +-- BOARD OF CONTROL: civil, military and revenue direction
+  |     +-- COURT OF DIRECTORS: Company administration and patronage
+  +-- 1858: abolishes Company government
+        +-- SECRETARY OF STATE FOR INDIA: Cabinet responsibility
+        |     +-- COUNCIL OF INDIA: advisory assistance
+        +-- GOVERNOR-GENERAL = VICEROY: Crown representative in India
+              +-- provincial governments
+
+POWER SHIFT
+Company charter -> parliamentary supervision -> Crown executive responsibility
+LIMIT: accountability moved to Britain; responsible government in India did not follow.
+--- PANEL 3: 1773-1853: regulation, monopoly and centralisation compared ---
+ACT     CONTROL / ECONOMY              INSTITUTIONAL RESULT
+1773    Parliament regulates           GG of Bengal; Calcutta Supreme Court
+1781    jurisdiction clarified         executive-revenue sphere protected
+1784    political control separated    Board of Control; dual control
+1813    India trade monopoly ends       sovereignty asserted; education grant
+1833    all Company trade ends          GG of India; legislative centralisation
+        Company becomes administrative first Law Commission; no open competition yet
+1853    charter not renewed for term    legislative-executive functions differentiated
+        patronage principle weakened    competition route prepared
+
+EXAM LINE: 1833 centralised the legislative state; 1853 specialised its machinery.
+--- PANEL 4: Representation without responsibility, 1861-1919 ---
+1861: NOMINATION
+  +-- nominated Indian non-officials; portfolio system recognised
+  +-- legislative decentralisation revived; no executive responsibility
+        |
+1892: SCRUTINY
+  +-- budget discussion and questions
+  +-- indirect-election element; official majorities retained
+        |
+1909: REPRESENTATION SEGMENTED
+  +-- separate electorates for Muslims
+  +-- larger councils; Indian on Viceroy's Executive Council
+  +-- executive still not responsible to legislature
+        |
+1919: RESPONSIBILITY DIVIDED
+  +-- provincial dyarchy: reserved versus transferred subjects
+  +-- central bicameralism; direct elections and limited franchise
+  +-- ministers lacked decisive coercive and fiscal levers
+--- PANEL 5: The 1935 constitutional machine: promise and safeguards ---
+GOVERNMENT OF INDIA ACT 1935
+  +-- ALL-INDIA FEDERATION: provinces + princely states
+  |     +-- never commenced because required princely accession failed
+  +-- LEGISLATIVE DISTRIBUTION
+  |     +-- Federal List 59 | Provincial List 54 | Concurrent List 36
+  |     +-- residuary allocation vested in Governor-General
+  +-- PROVINCES
+  |     +-- dyarchy abolished -> provincial autonomy
+  |     +-- ministers responsible to provincial legislatures
+  +-- CENTRE: proposed dyarchy; not brought into operation
+  +-- INSTITUTIONS: Federal Court 1937 | PSCs | bicameral provinces
+  +-- SAFEGUARDS: discretion, special responsibilities and reserved powers
+
+VERDICT: autonomy was enlarged inside an imperial veto structure.
+--- PANEL 6: 1935 inheritance: retained, transformed, rejected ---
+1935 DEVICE             1950 TREATMENT
+Three legislative lists retained; redistributed under Seventh Schedule
+Federal Court           transformed into Supreme Court with wider review
+Provincial autonomy     retained as elected State government
+Public Service Comms.   constitutionalised for Union and States
+Emergency machinery    retained but subjected to constitutional procedure
+Governor's office       retained; democratic responsibility replaces imperial command
+All-India Services      retained as an integrating administrative instrument
+
+REJECTED OR NORMATIVELY BROKEN
+imperial sovereignty -> popular sovereignty
+communal electorates -> common electoral citizenship
+limited franchise -> universal adult suffrage
+ruler safeguards -> enforceable rights and judicial review
+--- PANEL 7: 1947 bridge: dominion legality to republican authority ---
+INDIAN INDEPENDENCE ACT 1947
+  +-- British rule ends; India and Pakistan become Dominions
+  +-- British parliamentary authority over the new Dominions ends
+  +-- princely-state suzerainty lapses; accession is not automatic absorption
+  +-- Constituent Assembly becomes sovereign constitution-maker
+  +-- Assembly also acts as Dominion legislature
+        |
+TRANSITIONAL GOVERNMENT
+  existing law and administration continue unless altered
+        |
+26 NOV 1949: Constitution adopted
+24 JAN 1950: members sign
+26 JAN 1950: Constitution commences; republic replaces dominion status
+
+BRIDGE: legal continuity prevented a vacuum; constituent power changed authority's source.
+--- PANEL 8: Colonial reform: official motive versus Indian pressure ---
+OFFICIAL PROBLEM                 IMPERIAL RESPONSE
+Company abuse / fiscal crisis   parliamentary regulation, not self-government
+administrative overload         centralisation, codification, specialised services
+nationalist representation      councils, limited elections, controlled devolution
+mass political pressure         graded responsibility with vetoes and safeguards
+communal bargaining             separate electorates and group arrangements
+
+INDIAN COUNTER-PRESSURE
+associations -> Congress demands -> Home Rule -> mass movements -> negotiation
+
+SYNTHESIS
+British policy designed controlled adaptation to preserve authority.
+Indian politics converted concessions into platforms for further claims.
+Reform was neither a unilateral gift nor a linear march to democracy.
+--- PANEL 9: Historical-background close-option control board ---
+CLAIM TO TEST                              EXACT CONTROL
+1773 created Governor-General of India     No: Governor-General of Bengal
+1784 transferred India to Crown rule       No: dual control; Crown rule begins in 1858
+1813 ended every Company monopoly          No: tea and China trade exceptions remained
+1833 introduced open civil-service exam    No: principle opened; competition came later
+1861 introduced elected representation     No: nominated Indian non-officials
+1892 made executive legislature-dependent  No: scrutiny without responsibility
+1909 began responsible government          No: representation widened, executive insulated
+1919 put dyarchy at Centre                  No: provincial dyarchy
+1935 federation operated                   No: federal part never commenced
+1935 created RBI directly                  RBI Act 1934; operations began in 1935
+1947 automatically integrated princes      No: suzerainty lapsed; integration followed
+--- PANEL 10: Exact 10/15-mark architecture: evolution into the 1950 Constitution ---
+10 MARKS / 150 WORDS
+1. Thesis: colonial statutes built machinery; 1950 changed its sovereign basis.
+2. Three phases: 1773-1858 control; 1861-1919 representation; 1935 blueprint.
+3. Evidence: one exact Act-feature pair from each phase.
+4. Pivot: 1947 transferred constituent authority and preserved legal continuity.
+5. Verdict: structural continuity plus democratic rupture.
+
+15 MARKS / 250 WORDS
+1. Open with Diwani power-accountability mismatch.
+2. Trace control: 1773 -> 1784 -> 1858.
+3. Trace participation: 1861 -> 1892 -> 1909 -> 1919.
+4. Explain 1935 lists, autonomy, institutions and safeguards.
+5. Compare retained devices with rejected imperial principles.
+6. Add Indian pressure versus British controlled adaptation.
+7. Conclude: inheritance supplied instruments, not constitutional legitimacy.
+
+===== polity-02 | Making of the Constitution | polity-2026-08-23.json =====
+--- PANEL 1: 1934-1946: the route to a constitution-making body ---
+1934  M.N. Roy advances the Constituent Assembly idea
+  |
+1935  Congress formally demands a body elected on adult franchise
+  |
+1938  Nehru: Constitution must be framed without outside interference
+  |
+1940  August Offer accepts the principle of Indian constitution-making
+  |
+1942  Cripps proposal offers post-war constitution-making
+  |
+1946  Cabinet Mission supplies the operative scheme
+       +-- indirectly elected provincial representatives
+       +-- princely-state nominees
+       +-- community allocation within provincial seats
+       +-- population ratio broadly one seat per million
+
+SHIFT: nationalist claim -> British concession -> negotiated institutional design.
+--- PANEL 2: Composition changed with Partition; authority changed with Independence ---
+CABINET MISSION PLAN: TOTAL 389
+  +-- British Indian provinces 292
+  +-- Chief Commissioners' provinces 4
+  +-- princely states 93
+        |
+PARTITION: members from areas assigned to Pakistan withdraw
+        |
+RECONSTITUTED ASSEMBLY: 299
+  +-- provinces 229
+  +-- princely states 70
+
+9 Dec 1946: first sitting under Cabinet Mission framework
+15 Aug 1947: sovereign constitution-maker + Dominion legislature
+26 Nov 1949: Constitution adopted
+26 Jan 1950: provisional Parliament role begins under the Constitution
+
+TRAP: indirect election limits representativeness; it does not erase legal authorship.
+--- PANEL 3: Committee architecture: distributed authorship, not seven-person mythology ---
+CONSTITUENT ASSEMBLY
+  +-- Union Powers Committee — Jawaharlal Nehru
+  +-- Union Constitution Committee — Jawaharlal Nehru
+  +-- Provincial Constitution Committee — Vallabhbhai Patel
+  +-- Advisory Committee — Vallabhbhai Patel
+  |     +-- Fundamental Rights Sub-Committee — J.B. Kripalani
+  |     +-- Minorities Sub-Committee — H.C. Mookherjee
+  +-- Drafting Committee — B.R. Ambedkar
+        +-- converts decisions and reports into coherent clauses
+
+B.N. RAU: comparative research -> initial draft -> technical advice
+ASSEMBLY: committee report -> debate -> amendment -> vote -> adopted text
+--- PANEL 4: Drafting pipeline from Objectives Resolution to commencement ---
+13 DEC 1946  Objectives Resolution moved
+22 JAN 1947  Resolution adopted
+      |
+committee reports + B.N. Rau draft
+      |
+29 AUG 1947  Drafting Committee appointed
+      |
+FEB 1948  Draft Constitution published for comments
+OCT 1948  revised draft
+      |
+READING 1: general discussion
+READING 2: clause-by-clause debate and amendments
+READING 3: final consideration and passage
+      |
+26 NOV 1949  adopted, enacted and given to ourselves
+24 JAN 1950  final signing
+26 JAN 1950  remaining provisions commence
+--- PANEL 5: Debate map: rights, federalism, executive and social revolution ---
+CONSTITUTIONAL CHOICE
+  +-- RIGHTS: liberty + equality + remedies
+  |     versus preventive powers, public order and social reform
+  +-- FEDERALISM: provincial autonomy
+  |     versus Partition-era need for an effective Union
+  +-- EXECUTIVE: parliamentary responsibility
+  |     versus fear of instability and concentrated leadership
+  +-- MINORITIES: cultural and educational protection
+  |     versus rejection of separate political electorates
+  +-- SOCIAL REVOLUTION
+        enforceable rights + Directive Principles + affirmative action
+
+RESULT: political democracy was joined to an unfinished social transformation.
+--- PANEL 6: Borrowed provisions became Indian constitutional adaptations ---
+SOURCE                INDIAN ADAPTATION
+United Kingdom        cabinet responsibility + parliamentary government
+United States         Fundamental Rights + judicial review + impeachment ideas
+Ireland               Directive Principles + presidential nomination method
+Canada                federation with strong Centre + residuary Union power
+Australia             Concurrent List + trade provisions + joint sitting
+Germany               Emergency ideas, constitutionally recast
+South Africa          amendment elements + Rajya Sabha election method
+GoI Act 1935          machinery stripped of imperial sovereignty
+
+TEST: borrowed device + Indian problem + altered setting = Indian constitutional rule
+VERDICT: sources supplied techniques; the Assembly supplied hierarchy and legitimacy.
+--- PANEL 7: Criticism and evidence-led reply ---
+OBJECTION: no universal adult-franchise election
+  -> indirect and limited, yet politically diverse and publicly deliberative
+OBJECTION: Congress domination
+  -> organisation enabled coordination; committees and dissent shaped outcomes
+OBJECTION: lawyer-made and over-legal
+  -> precision mediated federal, rights and transition conflicts
+OBJECTION: copied Constitution
+  -> borrowing was selective, recombined and India-specific
+OBJECTION: social under-representation
+  -> real exclusions remain; women, minorities, Dalits and regions still intervened
+OBJECTION: excessive time
+  -> 2 years, 11 months, 18 days covered Partition, integration and clause scrutiny
+
+VERDICT: legitimacy rests on process quality and constitutional performance.
+--- PANEL 8: Debates, original intent and the living text ---
+INTERPRETIVE ORDER
+  1. constitutional text
+  2. structure and settled doctrine
+  3. purpose and historical context
+  4. Constituent Assembly Debates as persuasive evidence
+
+DEBATES CAN
+  +-- reveal the mischief addressed
+  +-- clarify rejected alternatives
+  +-- illuminate institutional purpose
+
+DEBATES CANNOT
+  +-- override enacted words
+  +-- freeze broad guarantees in 1949 expectations
+  +-- convert one speaker's view into collective intent
+
+Original understanding disciplines interpretation; constitutional supremacy permits growth.
+--- PANEL 9: Exact 10/15-mark architecture: was the Assembly representative and original? ---
+10 MARKS / 150 WORDS
+1. State Cabinet Mission basis and indirect-election limitation.
+2. Give 389 -> 299 change and 15 August sovereignty shift.
+3. Show committees, Rau, Drafting Committee and full Assembly.
+4. Test one criticism against one process fact.
+5. Conclude: imperfect social representation, substantial deliberative authorship.
+
+15 MARKS / 250 WORDS
+1. Trace demand from 1934 to Cabinet Mission 1946.
+2. Explain composition, Partition and dual legislative role.
+3. Map Resolution -> committees -> draft -> three readings.
+4. Use two debate clusters and one adaptation example.
+5. Evaluate dominance, exclusions, time and legalism.
+6. Distinguish persuasive debates from supreme enacted text.
+7. Conclude with negotiated legitimacy, not hero-centred authorship.
+
+===== polity-03 | Salient Features of the Indian Constitution | polity-2026-08-23.json =====
+--- PANEL 1: The Constitution as a layered operating system ---
+INDIAN CONSTITUTION
+  +-- FORM: written, detailed, supreme, partly rigid and partly flexible
+  +-- POWER: federal distribution with a strong and coordinating Union
+  +-- GOVERNMENT: parliamentary responsibility and bicameral legislation
+  +-- LIMIT: judicial review, rule of law and basic-structure control
+  +-- PURPOSE: rights, DPSPs, duties, justice, dignity and fraternity
+  +-- PARTICIPATION: adult franchise, elections and local self-government
+  +-- INTEGRATION: single citizenship, integrated judiciary, All-India Services
+  +-- PLURALISM: language, asymmetry, minorities and special arrangements
+  +-- CRISIS MODE: Emergency powers under constitutional conditions
+
+A salient feature explains how several provisions work together.
+--- PANEL 2: Written detail and three amendment tracks ---
+WHY DETAILED?
+federal distribution + diversity + administrative continuity + rights + institutions
+
+CHANGE ROUTES
+  +-- SIMPLE MAJORITY OUTSIDE ARTICLE 368
+  |     State reorganisation and specified institutional adjustments
+  +-- ARTICLE 368 SPECIAL MAJORITY
+  |     total-membership majority + two-thirds present and voting
+  +-- SPECIAL MAJORITY + HALF OF STATE LEGISLATURES
+        federal provisions and listed Union-State institutions
+
+OUTER LIMIT
+Article 368 power -> amendment permitted
+                  -> destruction of basic structure prohibited
+
+Flexibility enables adaptation; rigidity protects constitutional identity.
+--- PANEL 3: Federal design: divided power, integrated nation ---
+FEDERAL CORE
+written supremacy + two levels + divided competence + independent adjudication
+
+CENTRALISING FEATURES
+  +-- Union-weighted fields and residuary power
+  +-- single citizenship, integrated judiciary and All-India Services
+  +-- Emergency conversion of operating balance
+
+COOPERATIVE FEATURES
+  +-- Inter-State Council | Finance Commission | GST Council
+  +-- grants, shared schemes and administrative coordination
+
+ASYMMETRIC FEATURES
+  +-- different arrangements for different States and regions
+  +-- language and tribal-area accommodation
+
+VERDICT: federal with strong integrative mechanisms, not unitary with decoration.
+--- PANEL 4: Responsible executive under constitutional checks ---
+PEOPLE -> LOK SABHA -> COUNCIL OF MINISTERS
+                         +-- collective responsibility
+                         +-- confidence requirement
+                         +-- questions, committees and financial control
+
+FORMAL EXECUTIVE: President
+REAL POLITICAL EXECUTIVE: Prime Minister-led Council of Ministers
+
+CHECKS
+Legislature makes law <-> Executive initiates and administers
+Judiciary reviews legality <-> Legislature may validly amend or reenact
+President acts constitutionally <-> limited discretion remains reviewable
+
+NO WATERTIGHT SEPARATION
+functional overlap + institutional restraint + constitutional supremacy
+--- PANEL 5: Rights, Directive Principles and Duties: the normative triangle ---
+FUNDAMENTAL RIGHTS
+  shield liberty, equality and dignity; judicially enforceable
+          +
+DIRECTIVE PRINCIPLES
+  direct welfare, redistribution and transformation; non-justiciable
+          +
+FUNDAMENTAL DUTIES
+  state civic expectations; not directly enforceable as rights
+          |
+CONSTITUTIONAL MORALITY
+power pursues public purposes through lawful and rights-respecting means
+
+MINERVA MILLS
+Harmony between Parts III and IV is part of basic structure.
+
+Rights are not absolute; DPSPs are not irrelevant; Duties do not erase rights.
+--- PANEL 6: Democratic participation and accountability ecosystem ---
+CITIZEN
+  +-- adult franchise -> representative government
+  +-- Union/State elections -> Election Commission supervision
+  +-- local democracy -> Parts IX and IXA
+
+ACCOUNTABILITY CHAIN
+  legislatures          -> political and financial scrutiny
+  CAG                   -> audit evidence
+  Finance Commission    -> fiscal distribution
+  UPSC / State PSCs     -> recruitment safeguards
+  courts                -> legality and rights review
+
+SUBSTANTIVE DEMOCRACY
+vote + local participation + affirmative action + social justice
+
+Independence requires secure tenure, resources, fair appointments and compliance.
+--- PANEL 7: Normal mode, emergency mode and restoration ---
+NORMAL MODE
+federal distribution + responsible governments + ordinary rights enforcement
+      |
+      +-- ART 352: national Emergency
+      |     Union power expands; Articles 358/359 follow exact conditions
+      +-- ART 356: failure of constitutional machinery in a State
+      |     specified State functions assumed; legislative control applies
+      +-- ART 360: financial Emergency
+            financial directions may alter ordinary fiscal autonomy
+      |
+CONTROLS
+written proclamation + parliamentary approval + duration rules + judicial review
+      |
+RESTORATION OF NORMAL CONSTITUTIONAL BALANCE
+
+Emergency is a constitutional mode, not an unreviewable constitutional suspension.
+--- PANEL 8: Feature tensions: strength on one axis, risk on another ---
+FEATURE                 CONSTITUTIONAL GAIN          INTERNAL RISK
+strong Union            integrity and coordination   central overreach
+parliamentary executive daily accountability         executive dominance
+judicial review         rights and limited power     counter-majoritarian concern
+length and detail       certainty and inclusion      complexity and legalism
+amendment blend         durability plus adaptation   strategic change
+Emergency powers        crisis capacity              normalised exception
+asymmetry               plural accommodation         unequal-bargain criticism
+independent bodies      specialised accountability   appointment dependence
+
+Constitutional morality turns institutional power into restrained trusteeship.
+--- PANEL 9: Exact 10/15-mark architecture: why the Constitution is a balanced synthesis ---
+10 MARKS / 150 WORDS
+1. Define feature as an interacting design choice, not an adjective.
+2. Select three clusters: power, limitation and social purpose.
+3. Attach one provision or institution to each cluster.
+4. Show one tension: strong Union, executive dominance or review.
+5. Conclude with balance maintained through accountability.
+
+15 MARKS / 250 WORDS
+1. Begin with written supremacy and amendment blend.
+2. Explain federalism plus centralising, cooperative and asymmetric dimensions.
+3. Link parliamentary responsibility to checks and judicial review.
+4. Integrate rights, DPSPs, duties, franchise and local democracy.
+5. Add independent bodies and Emergency modes.
+6. Evaluate two design tensions and constitutional morality.
+7. Conclude: synthesis is dynamic; tensions do not disappear.
+
+===== polity-04 | Preamble of the Constitution | polity-2026-08-23.json =====
+--- PANEL 1: From Objectives Resolution to authoritative Preamble ---
+13 DEC 1946  Objectives Resolution moved by Jawaharlal Nehru
+22 JAN 1947  Objectives Resolution adopted
+      |
+committee work + Drafting Committee language + Assembly debate
+      |
+26 NOV 1949
+"WE, THE PEOPLE OF INDIA" adopt, enact and give the Constitution to ourselves
+      |
+24 JAN 1950  members sign the Constitution
+      |
+26 JAN 1950  Constitution commences
+
+TEXTUAL MEMORY
+source -> nature of State -> objectives -> adoption/enactment declaration
+
+TRAP: adoption and commencement dates perform different constitutional work.
+--- PANEL 2: Clause architecture: authority, identity, ends and enactment ---
+WE, THE PEOPLE OF INDIA
+  +-- SOURCE: popular constituent authority
+  +-- STATE: SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC
+  +-- OBJECTIVES
+  |     +-- JUSTICE: social, economic, political
+  |     +-- LIBERTY: thought, expression, belief, faith, worship
+  |     +-- EQUALITY: status and opportunity
+  |     +-- FRATERNITY: dignity + unity and integrity
+  +-- CONSTITUENT ACT
+        adopt + enact + give to ourselves
+
+People are the source; descriptors identify the polity;
+objectives set its destination; enactment converts resolution into authority.
+--- PANEL 3: Six State descriptors: exact constitutional work ---
+DESCRIPTOR   CONSTITUTIONAL WORK
+Sovereign    no external superior; internal authority under Constitution
+Socialist    democratic welfare and distribution, not total statism
+Secular      equal citizenship with principled regulation of religion
+Democratic   popular rule through adult franchise and representation
+Republic     elected, non-hereditary head of State
+Integrity    territorial and civic cohesion
+
+42ND AMENDMENT, 1976
+inserted "Socialist", "Secular" and "integrity";
+it did not create their entire constitutional substance.
+
+Britain: democracy + hereditary monarchy | India: democracy + republic.
+--- PANEL 4: Justice, liberty, equality and fraternity as one system ---
+JUSTICE: social + economic + political
+  -> Directive Principles and social-reform powers
+LIBERTY: thought + expression + belief + faith + worship
+  -> rights, subject to constitutional limits
+EQUALITY: status + opportunity
+  -> non-discrimination plus corrective measures
+FRATERNITY: dignity + unity and integrity
+  -> personal worth joined to common citizenship
+
+BALANCE
+liberty without equality entrenches privilege;
+equality without liberty risks coercion;
+fraternity sustains both as a shared constitutional project.
+--- PANEL 5: Berubari, Kesavananda and LIC: legal status settled ---
+BERUBARI UNION, 1960
+  +-- Preamble is a key to the makers' minds
+  +-- advisory opinion did not regard it as part of Constitution
+        |
+KESAVANANDA BHARATI, 1973
+  +-- Preamble is part of Constitution
+  +-- amendable under Article 368
+  +-- amendment cannot damage basic structure
+        |
+LIC OF INDIA, 1995
+  +-- reaffirms Preamble as integral to Constitution
+
+TWO LIMITS
+No independent legislative power comes from Preamble.
+No standalone directly enforceable right comes from Preamble.
+--- PANEL 6: Amendability stops at constitutional identity ---
+ARTICLE 368
+  +-- reaches Preamble because it is part of Constitution
+  +-- 42nd Amendment validly added three expressions
+  +-- BUT amending power is limited
+        |
+BASIC-STRUCTURE TEST
+Does change alter wording while preserving constitutional identity?
+  -> permissible amendment
+Does change destroy sovereignty, democracy, secularism, republic or dignity?
+  -> invalid damage to basic structure
+
+CORRECT FORMULA
+Preamble is amendable; its basic features are not abrogable.
+--- PANEL 7: How non-justiciable words produce legal force ---
+AMBIGUOUS CONSTITUTIONAL TEXT
+        |
+Preamble identifies purpose, value and structural direction
+        +-- choose meaning consistent with justice, liberty and dignity
+        +-- reject reading defeating democratic or secular structure
+        |
+DOCTRINAL USE
+  +-- interpret rights and institutional powers
+  +-- identify basic-structure principles
+  +-- connect Parts III and IV
+
+STOP RULE
+Clear text cannot be rewritten by Preamble alone.
+No power, offence, tax or enforceable claim arises solely from Preamble.
+--- PANEL 8: Preamble claims: problem and precise response ---
+CLAIM                                      PRECISE RESPONSE
+"mere ornament"                           false: interpretive and structural force
+"source of all government power"          false: operative provisions confer power
+"directly enforceable"                    false: values guide enforceable provisions
+"unchangeable"                            false: Article 368 applies, basic structure limits
+"Socialist means State ownership"         too broad: democratic socialism is mixed
+"Secular means strict separation"         incomplete: equal respect plus reform regulation
+"Republic means direct democracy"         false: concerns non-hereditary headship
+"integrity replaced unity"                false: 42nd added integrity after unity
+
+Constitution in miniature, but not a miniature Constitution.
+--- PANEL 9: Exact 10/15-mark architecture: Preamble as identity and interpretive control ---
+10 MARKS / 150 WORDS
+1. Define Preamble as declaratory, identity-bearing and interpretive.
+2. Decode people, State, objectives and enactment.
+3. State Berubari -> Kesavananda shift.
+4. Add no standalone power and no direct enforceability.
+5. Conclude: constitutional compass bounded by operative text.
+
+15 MARKS / 250 WORDS
+1. Trace Objectives Resolution to 26 November 1949.
+2. Explain popular sovereignty and six descriptors.
+3. Analyse justice-liberty-equality-fraternity interdependence.
+4. Use Berubari, Kesavananda and LIC.
+5. Explain Article 368 plus basic-structure boundary.
+6. Show interpretive force with one rights or federalism application.
+7. Conclude: identity charter, not autonomous source of rules.
+
+===== polity-05 | Union and its Territory | polity-2026-08-23.json =====
+--- PANEL 1: Articles 1-4: the territorial power hierarchy ---
+ARTICLE 1
+  India, that is Bharat = Union of States
+  territory = States + Union territories + acquired territories
+        |
+ARTICLE 2
+  Parliament admits into Union or establishes new States
+        |
+ARTICLE 3
+  Parliament forms new States and alters area, boundary or name
+        |
+ARTICLE 4
+  consequential First/Fourth Schedule changes and supplemental provisions
+  laws under Articles 2 and 3 are not amendments under Article 368
+
+FIRST SCHEDULE = living ledger of States and Union territories
+PRINCIPLE: States have constitutional status, but no right to secede.
+--- PANEL 2: Article 3 procedure: consultation without a State veto ---
+PRESIDENT'S RECOMMENDATION REQUIRED
+        |
+BILL affects area, boundary or name of a State?
+  +-- YES -> President refers bill to affected State legislature
+  |          +-- specifies time for expressing views
+  |          +-- may extend that time
+  |          +-- Parliament is not bound by those views
+  +-- NO State affected -> proviso referral does not arise in that form
+        |
+PARLIAMENT passes by ordinary legislative majority
+        |
+PRESIDENTIAL ASSENT -> territorial and Schedule changes
+
+State view is required consultation, not consent.
+--- PANEL 3: Article 2, Article 3 and foreign-territory transfer are distinct ---
+QUESTION                         CONSTITUTIONAL ROUTE
+admit or establish new State    Article 2
+reorganise existing Indian unit Article 3
+acquire foreign territory       sovereign power; Article 1 can accommodate it
+cede Indian territory           constitutional amendment under Article 368
+settle uncertain boundary       no cession if agreement only identifies boundary
+
+BERUBARI UNION, 1960
+cession of Indian territory cannot be completed through Article 3 alone.
+
+MAGANBHAI ISHWARBHAI, 1969
+boundary settlement differs from cession.
+
+100TH AMENDMENT, 2015
+constitutional route used for India-Bangladesh land-boundary exchange.
+--- PANEL 4: First Schedule as a constitutional change ledger ---
+TERRITORIAL LAW UNDER ARTICLE 2 OR 3
+  +-- changes First Schedule: State and Union-territory description
+  +-- may change Fourth Schedule: Rajya Sabha seat allocation
+  +-- may include supplemental, incidental and consequential provisions
+        |
+ARTICLE 4 DECLARATION
+such law is not deemed an Article 368 amendment
+        |
+ORDINARY LEGISLATIVE ROUTE
+
+LIMIT
+Article 4 supports territorial reorganisation;
+it does not bypass Article 368 for unrelated constitutional changes.
+--- PANEL 5: Integration and linguistic reorganisation, 1947-1956 ---
+1947-49  accession and integration of princely states
+1950     Part A, B, C and D classification begins
+1948     Dhar Commission cautions against language-only reorganisation
+1949     JVP Committee postpones linguistic reorganisation
+1952     Potti Sriramulu's death intensifies Andhra demand
+1953     Andhra State formed; States Reorganisation Commission appointed
+1955     Fazl Ali Commission report
+1956     States Reorganisation Act + Seventh Amendment
+         +-- language accepted with unity, administration and economy
+         +-- Part classifications abolished
+         +-- States and Union territories reorganised
+
+Language became accommodation's basis, not an automatic sole test.
+--- PANEL 6: Post-1956 map-making: reorganisation, creation and renaming ---
+1956 SETTLEMENT
+  +-- 1960 Maharashtra + Gujarat
+  +-- 1963 Nagaland
+  +-- 1966 Haryana + Chandigarh; Punjab reorganised
+  +-- 1971 Himachal Pradesh
+  +-- 1972 Meghalaya, Manipur and Tripura
+  +-- 1975 Sikkim becomes a State
+  +-- 1987 Mizoram, Arunachal Pradesh and Goa
+  +-- 2000 Chhattisgarh, Uttarakhand and Jharkhand
+  +-- 2014 Telangana
+  +-- 2019 Jammu and Kashmir reorganised into two Union territories
+
+RENAMING uses Article 3 when a State name changes.
+CURRENT MAP IN SOURCE: 28 States and 8 Union territories.
+--- PANEL 7: Jammu and Kashmir reorganisation as an Article 3 stress test ---
+2019 PRESIDENT'S RULE CONTEXT
+State legislative powers exercisable by Parliament
+        |
+J&K REORGANISATION BILL
+  +-- Article 3 route
+  +-- former State divided into
+        +-- Jammu and Kashmir Union territory with legislature
+        +-- Ladakh Union territory without legislature
+        |
+FIRST SCHEDULE AND REPRESENTATIONAL CONSEQUENCES
+
+ISSUE
+Does State-to-Union-territory conversion alter the federal bargain too deeply
+for ordinary Article 3 power?
+
+EXAM USE: separate procedural validity from political desirability.
+--- PANEL 8: New-State demand: democratic claim versus viable federal unit ---
+CLAIM FOR NEW STATE
+identity + distance from capital + uneven development + administrative access
+        |
+CONSTITUTIONAL RESPONSE
+Article 3 reorganisation after required consultation
+        |
+TESTS
+  +-- administrative viability
+  +-- fiscal and resource sustainability
+  +-- minority protection inside proposed unit
+  +-- water, capital, assets, debt and employees
+  +-- security and territorial integrity
+  +-- democratic legitimacy and transition costs
+
+Smaller can improve access; it does not automatically produce capacity or equality.
+--- PANEL 9: Exact 10/15-mark architecture: flexible territory within an indestructible Union ---
+10 MARKS / 150 WORDS
+1. Open with Article 1: Union of States, not a secession compact.
+2. Distinguish Articles 2, 3 and 4.
+3. Write Article 3 referral and non-binding State view.
+4. Add Berubari cession limit.
+5. Conclude: flexible internal map, protected national territory.
+
+15 MARKS / 250 WORDS
+1. Map Articles 1-4 and First Schedule.
+2. Compare admission, reorganisation, acquisition and cession.
+3. Trace integration -> linguistic settlement -> post-1956 creation.
+4. Evaluate consultation without consent as strong-Union design.
+5. Use J&K or a new-State demand as stress test.
+6. Balance identity, viability, consent and integrity.
+7. Conclude: flexibility is a federal conflict-management device.
+
+===== polity-06 | Citizenship | polity-2026-08-23.json =====
+--- PANEL 1: Citizenship: membership, rights and single national status ---
+PERSON WITHIN INDIA
+  +-- CITIZEN
+  |     +-- political membership of India
+  |     +-- citizen-only rights: Articles 15, 16, 19, 29 and 30
+  |     +-- eligibility for specified constitutional offices
+  +-- ALIEN
+        +-- person-based guarantees include Articles 14, 20 and 21
+        +-- may be foreign national or stateless person
+
+DOMICILE = permanent legal home plus intention
+RESIDENCE = factual presence under a specified rule
+CITIZENSHIP = legal-political membership
+
+SINGLE CITIZENSHIP -> national equality of membership across Union and States
+--- PANEL 2: Articles 5-7: commencement citizenship decision tree ---
+AT COMMENCEMENT, 26 JAN 1950
+  +-- ARTICLE 5: domicile in India + one connection
+  |     birth in India | parent born in India | five years' ordinary residence
+  +-- ARTICLE 6: migrated from Pakistan to India
+  |     before 19 Jul 1948 -> ordinary-residence route
+  |     on/after 19 Jul 1948 -> registration after permit-era conditions
+  +-- ARTICLE 7: migrated to Pakistan after 1 Mar 1947
+        generally excluded
+        +-- permit for resettlement/permanent return may restore Article 6 route
+
+CONTROL
+Five-year residence alone never satisfied Article 5; domicile remained essential.
+--- PANEL 3: Articles 8-11: overseas origin, continuity and Parliament ---
+ARTICLE 8
+Indian origin abroad + registration by Indian diplomatic or consular officer
+        |
+ARTICLE 9
+voluntary foreign citizenship blocks Articles 5, 6 and 8 claim
+        |
+ARTICLE 10
+commencement citizenship continues subject to parliamentary law
+        |
+ARTICLE 11
+Parliament regulates acquisition, termination and all citizenship matters
+        |
+CITIZENSHIP ACT 1955
+
+Constitution settled founding membership; statute governs the continuing regime.
+--- PANEL 4: Five statutory routes to acquire citizenship ---
+CITIZENSHIP ACT 1955
+  +-- BY BIRTH: date and parents' status
+  +-- BY DESCENT: parent link + date-specific registration conditions
+  +-- BY REGISTRATION: listed categories and residence conditions
+  +-- BY NATURALISATION: Third Schedule qualifications and discretion
+  +-- BY INCORPORATION: Central Government specifies eligible persons
+
+NO ROUTE IS AUTOMATIC MERELY FROM
+long residence | ancestry | marriage | property | voter document
+
+PROCESS
+statutory category -> exact date -> documents -> oath and decision
+--- PANEL 5: Birth and descent rules change across dates ---
+BY BIRTH IN INDIA
+26 Jan 1950-30 Jun 1987   birth generally sufficient; exceptions apply
+1 Jul 1987-2 Dec 2004     at least one parent must be Indian citizen
+from 3 Dec 2004           one citizen parent + other not illegal migrant,
+                           or both parents citizens
+
+BY DESCENT OUTSIDE INDIA
+before 10 Dec 1992        paternal transmission under then text
+10 Dec 1992-2 Dec 2004    either Indian parent can transmit
+from 3 Dec 2004           consular registration and declaration controls
+
+A document proves facts; it does not override the date-specific statutory test.
+--- PANEL 6: Three routes of loss and their safeguards ---
+RENUNCIATION
+  adult citizen's declaration
+  -> minor child may follow, with statutory resumption protection
+
+TERMINATION
+  voluntary acquisition of another country's citizenship
+  -> India does not recognise full dual citizenship
+
+DEPRIVATION
+  Central Government order for specified grounds
+  +-- fraud or concealment
+  +-- disloyalty or unlawful enemy dealing
+  +-- specified conviction or residence conditions
+  +-- notice, inquiry and public-good control
+
+renunciation = citizen act | termination = foreign acquisition | deprivation = State order
+--- PANEL 7: Assam Section 6A: cut-offs, consequences and judicial control ---
+ASSAM-SPECIFIC SECTION 6A
+  +-- entered before 1 Jan 1966
+  |     deemed citizens under statutory scheme
+  +-- entered 1 Jan 1966-before 25 Mar 1971
+  |     detection + registration
+  |     ten-year electoral-roll exclusion
+  +-- entered on/after 25 Mar 1971
+        no Section 6A protection
+
+NRC uses 24 March 1971 midnight as Assam's cut-off reference.
+
+IN RE: SECTION 6A, 17 OCT 2024
+4:1 judgment upholds Section 6A; implementation remains crucial.
+
+TENSION: national membership + Assam migration history + cultural protection.
+--- PANEL 8: OCI and CAA: connection is not citizenship ---
+OCI
+  +-- lifelong visa-related and notified benefits
+  +-- not dual citizenship; no vote or constitutional-office entitlement
+
+CAA FACILITATION
+six communities: Hindu, Sikh, Buddhist, Jain, Parsi, Christian
+three countries: Afghanistan, Bangladesh, Pakistan
+entry: on or before 31 Dec 2014
+specified immigration exemption + application conditions
+naturalisation aggregate: five instead of eleven years for specified class
+territorial exclusions apply
+
+ARTICLE 14 DEBATE
+State: neighbouring theocracies, minorities and humanitarian classification
+Challenge: religion/country exclusions, under-inclusion, secularism and Assam impact
+
+SOURCE STATUS: 2019 Act and 2024 Rules operative; no located final merits judgment.
+--- PANEL 9: Exact 10/15-mark architecture: national membership and equality ---
+10 MARKS / 150 WORDS
+1. Distinguish citizenship, domicile and residence.
+2. State Articles 5-11 as commencement rules plus Article 11 bridge.
+3. Name five acquisition and three loss routes.
+4. Add one exact issue: Section 6A, OCI or CAA.
+5. Conclude: single citizenship integrates India but remains reviewable.
+
+15 MARKS / 250 WORDS
+1. Map citizen-only and person-based rights.
+2. Explain Articles 5-9 through Partition cut-offs; 10-11 through continuity.
+3. Compare birth/descent dates and registration/naturalisation.
+4. Distinguish renunciation, termination and deprivation.
+5. Analyse Section 6A and 2024 judgment.
+6. Evaluate CAA under Article 14 and secularism; distinguish OCI.
+7. Conclude with lawful membership, equality and documented procedure.
+
+===== polity-07 | Fundamental Rights | polity-2026-08-23.json =====
+--- PANEL 1: Part III as an operating architecture, not a list ---
+PART III
+  +-- GATEKEEPERS: Article 12 defines State; Article 13 controls law
+  +-- EQUALITY: Articles 14-18
+  +-- FREEDOMS: Articles 19-22
+  +-- EXPLOITATION: Articles 23-24
+  +-- RELIGION: Articles 25-28
+  +-- CULTURE / EDUCATION: Articles 29-30
+  +-- REMEDY: Article 32
+  +-- SAVINGS / SPECIAL CONTROL: Articles 31A-31C and 33-35
+
+REACH
+vertical: person versus State
+horizontal: express private reach in Articles 15(2), 17, 23 and 24
+positive duty: State may need to protect rights against private domination
+
+RIGHT = protected claim + justified limit + effective remedy.
+--- PANEL 2: Article 12 and 13: who is bound and what becomes void ---
+ARTICLE 12 INQUIRY
+Union/State organs + local authorities + other authorities
+  -> deep and pervasive control?
+  -> financial, functional and administrative domination?
+  -> public importance tied to government?
+  -> Pradeep Kumar Biswas: cumulative instrumentality inquiry
+
+ARTICLE 13 INQUIRY
+pre-Constitution inconsistent law -> void to extent of inconsistency
+post-Constitution abridging law  -> prohibited and void to that extent
+"law" includes ordinance, rule, regulation, notification, custom and usage
+
+DOCTRINES
+severability | eclipse | waiver generally unavailable | prospective overruling
+
+AMENDMENTS: Article 13(4) + Article 368 -> Kesavananda basic-structure review.
+--- PANEL 3: Equality code and reservation doctrine ---
+ARTICLE 14
+  equality before law + equal protection
+  classification = intelligible differentia + rational nexus
+  Royappa/Maneka = arbitrariness is antithetical to equality
+
+ARTICLES 15-16
+  non-discrimination + enabling substantive-equality clauses
+  Champakam -> First Amendment -> Article 15(4)
+  Indra Sawhney -> creamy layer, ordinary 50% ceiling, no 16(4) promotion
+  77th/81st/82nd/85th -> promotion, backlog, qualification and seniority tools
+  Nagaraj/Jarnail -> inadequacy data and Article 335 efficiency controls
+  103rd + Janhit -> EWS upheld by majority
+  Davinder Singh 2024 -> evidence-based SC sub-classification allowed, not mandated
+
+ARTICLES 17-18 abolish untouchability and reject titles with narrow exceptions.
+--- PANEL 4: Article 19: six freedoms and restriction-ground discipline ---
+ARTICLE 19(1), CITIZENS ONLY
+speech | assembly | association | movement | residence | profession
+        |
+valid law + listed ground + reasonableness + proportionality
+
+SPEECH GROUNDS UNDER 19(2)
+sovereignty/integrity | State security | friendly relations | public order
+decency/morality | contempt | defamation | incitement
+
+ANCHORS
+press and right to know derive from 19(1)(a)
+Shreya Singhal: 66A void; advocacy differs from incitement
+Anuradha Bhasin: shutdown orders require publication and proportionality
+Kedar Nath: sedition read toward incitement
+BNS section 152 requires exact analysis, not a claim that sedition was merely renamed.
+--- PANEL 5: Articles 20-22: criminal process, dignity and detention ---
+ARTICLE 20: ALL PERSONS
+  +-- no retrospective criminal offence or enhanced penalty
+  +-- no prosecution and punishment twice for same offence
+  +-- no compelled testimonial self-incrimination by an accused
+
+ARTICLE 21
+Gopalan compartmentalisation -> R.C. Cooper linkage
+  -> Maneka: just, fair and reasonable procedure
+  -> dignity family: privacy, livelihood, legal aid and speedy trial
+Puttaswamy test: legality + legitimate aim + proportionality + safeguards
+
+ARTICLE 22
+ordinary arrest: grounds + lawyer + magistrate within 24 hours
+preventive detention: distinct safeguards; no-board period remains three months
+44th Amendment's proposed two-month substitution has not commenced.
+--- PANEL 6: Exploitation, religion and minority autonomy ---
+ARTICLES 23-24
+trafficking and forced labour prohibited; minimum-wage coercion can implicate 23
+children below 14 barred from factories, mines and hazardous employment under 24
+
+ARTICLES 25-28
+individual conscience and profession, practice and propagation
+Article 26 denomination management
+limits: public order, morality, health and other FRs
+State may regulate secular activity and enact social reform
+
+ARTICLES 29-30
+29(1): any section of citizens with distinct language, script or culture
+29(2): admission non-discrimination in covered institutions
+30: religious and linguistic minorities may establish and administer institutions
+
+Autonomy survives regulation; regulation cannot erase institutional identity.
+--- PANEL 7: Article 32: writ remedies and the enforcement ladder ---
+RIGHT VIOLATED
+  +-- ARTICLE 32 -> SUPREME COURT for Fundamental Rights
+  +-- ARTICLE 226 -> HIGH COURT for FRs and other legal rights
+        |
+WRIT CHOICE
+HABEAS CORPUS   produce detained person; test detention
+MANDAMUS        compel public duty
+PROHIBITION     stop jurisdictional excess before completion
+CERTIORARI      quash completed order for jurisdictional or legal error
+QUO WARRANTO    test authority to hold public office
+
+Article 32 is itself a Fundamental Right; legal fit still matters.
+Article 226 is territorially and remedially wider, not constitutionally inferior.
+--- PANEL 8: Saving clauses, property and amendment doctrine ---
+ARTICLE 31A
+specified reform categories protected from Article 14/19 attack
+
+ARTICLE 31B + NINTH SCHEDULE
+listed-law protection
+  -> I.R. Coelho: post-24 Apr 1973 insertions face basic-structure review
+
+ARTICLE 31C
+original protection for genuine Article 39(b)/(c) laws against 14 and 19
+  -> Kesavananda limits immunity
+  -> Minerva Mills defeats extension to all DPSPs
+  -> Property Owners 2024 preserves original 31C
+  -> not every private asset is automatically a community resource
+
+44th Amendment: Article 31 leaves Part III
+Article 300A: every person; deprivation only by authority of law.
+--- PANEL 9: Article 358 and 359: emergency effects are not the same ---
+ARTICLE 358                         ARTICLE 359
+automatic operation                Presidential order required
+Article 19 only                     specified rights named in order
+war/external-aggression Emergency   Emergency while order operates
+changes State's Article 19 limit    suspends enforcement, not text
+post-44th nexus conditions apply    Articles 20 and 21 cannot be included
+
+ARTICLES 33-35
+Parliament may tailor FRs for forces and specified services;
+may indemnify martial-law acts and has exclusive competence over listed matters.
+
+MARTIAL LAW != NATIONAL EMERGENCY
+local exceptional coercive control differs from constitutional proclamation.
+
+No rule says all Fundamental Rights automatically disappear in Emergency.
+--- PANEL 10: Exact 10/15-mark architecture: liberty, limitation and remedy ---
+10 MARKS / 150 WORDS
+1. Identify claimant, State action and exact Article.
+2. State citizen/person reach, vertical/horizontal effect and duty.
+3. Apply protected interest -> listed limit -> proportionality.
+4. Add one controlling case and Article 32 or 226 remedy.
+5. Conclude on validity with a narrow qualification.
+
+15 MARKS / 250 WORDS
+1. Frame Part III through gatekeepers, rights, limits, remedies and savings.
+2. Explain the Article family with clause-level accuracy.
+3. Apply Article 14 fairness and Article 19/21 proportionality where relevant.
+4. Integrate rights-DPSP harmony through Minerva Mills.
+5. Test amendment/immunity through Kesavananda and I.R. Coelho.
+6. Distinguish Article 358 from 359 if Emergency is involved.
+7. Conclude: governance requires legality, justification and remedy.
+
+===== polity-08 | Directive Principles | polity-2026-08-24-sequential-batch.json =====
+--- PANEL 1: Part IV's constitutional operating logic ---
+PART IV: DIRECTIVE PRINCIPLES OF STATE POLICY, ARTICLES 36-51
+  |
+  +-- ARTICLE 36: "STATE" carries the Part III / Article 12 meaning
+  |     +-- the same public power is restrained by rights and directed toward welfare
+  |
+  +-- ARTICLE 37: THREE-PART CONSTITUTIONAL RULE
+        +-- no court directly enforces a Directive Principle
+        +-- the principles remain fundamental in governance
+        +-- the State has a duty to apply them in making laws
+              |
+              +-- legislation + budget + administration + political accountability
+              +-- interpretation of rights and statutes, without judicial budgeting
+
+CORE DISTINCTION
+non-justiciable != optional; constitutional duty != an automatic individual remedy.
+--- PANEL 2: Articles 38-43B: welfare, work and democratic economy ---
+SOCIAL ORDER AND DISTRIBUTION
+  +-- 38(1): welfare through social, economic and political justice
+  +-- 38(2): minimise inequalities in income, status, facilities and opportunities
+  +-- 39(a): adequate livelihood                 39(d): equal pay for equal work
+  +-- 39(b): resources serve common good         39(e): worker / child health
+  +-- 39(c): prevent harmful concentration       39(f): childhood in dignity
+
+ACCESS AND SELF-GOVERNMENT
+  +-- 39A: equal justice + free legal aid
+  +-- 40: village panchayats as units of self-government
+
+WORK, SECURITY AND ASSOCIATION
+  +-- 41: work, education and assistance, subject to economic capacity
+  +-- 42: humane work conditions + maternity relief
+  +-- 43: living wage + decent life + rural cottage industries
+  +-- 43A: workers participate in management
+  +-- 43B: voluntary, autonomous, democratic and professional co-operatives
+--- PANEL 3: Articles 44-51: reform, capability and constitutional civilisation ---
+REFORM / CAPABILITY                 ECOLOGY / INSTITUTIONS / PEACE
+44  Uniform Civil Code              48A environment, forests and wildlife
+45  care and education below six    49 nationally important monuments and objects
+46  weaker sections; especially     50 judiciary separated from executive
+    Scheduled Castes and Tribes     51(a) international peace and security
+47  nutrition, living standard,     51(b) just and honourable relations
+    public health and prohibition   51(c) international law and treaty obligations
+48  scientific agriculture and      51(d) arbitration of international disputes
+    animal husbandry; cattle rule
+
+CLOSE-OPTION CONTROLS
+Article 41 contains an economic-capacity limit; Article 46 is not confined to SCs/STs.
+Article 49 requires declaration by or under Parliamentary law.
+Article 51 does not make every treaty self-executing in domestic law.
+--- PANEL 4: Classification and amendment overlays ---
+ANALYTICAL CLASSIFICATION: THE CONSTITUTION DOES NOT CREATE THESE LABELS
+  +-- SOCIALISTIC: 38, 39, 39A, 41, 42, 43, 43A, 47
+  +-- GANDHIAN: 40, 43, 43B, 46, 47, 48
+  +-- LIBERAL-INTELLECTUAL: 44, 45, 48, 48A, 49, 50, 51
+  +-- OVERLAPS: 43, 46, 47 and 48 resist rigid pigeonholes
+
+AMENDMENT OVERLAY
+42nd, 1976 -> 39(f) recast; 39A, 43A and 48A inserted
+44th, 1978 -> Article 38(2) inserted
+86th, 2002 -> Article 21A inserted; Article 45 recast for children below six
+97th, 2011 -> Article 43B inserted
+
+EXAM RULE
+Begin with the Article's exact text; use categories only as an explanatory aid.
+--- PANEL 5: FR-DPSP evolution and the surviving Article 31C ---
+1951 CHAMPAKAM -> enforceable Fundamental Rights prevail over conflicting directives
+  |
+1st / 4th / 17th AMENDMENTS -> protective constitutional responses
+  |
+1967 GOLAKNATH -> Parliament cannot amend Fundamental Rights
+  |
+1971 24th + 25th AMENDMENTS -> amendment power affirmed; Article 31C created
+  |
+1973 KESAVANANDA -> amend, but do not damage basic structure; first limb of 31C survives
+  |
+1976 42nd -> attempted extension of 31C to every DPSP
+  |
+1980 MINERVA MILLS -> extension invalid; harmony between Parts III and IV is basic structure
+  |
+2024 PROPERTY OWNERS ASSOCIATION -> surviving shield remains for genuine 39(b)/(c) laws
+
+CURRENT SCOPE: shield against Articles 14 and 19; nexus and basic structure remain reviewable.
+--- PANEL 6: Implementation chain: directive to law, institution and outcome ---
+DPSP TEXT
+  -> legislature selects instrument and competence
+  -> appropriation funds the programme
+  -> executive creates rules, staff and delivery systems
+  -> courts review legality and interpret rights consistently where possible
+  -> audit, opposition, civil society and elections test outcomes
+
+ARTICLE 39A INSTITUTIONAL CHAIN
+NALSA -> State Authorities -> District Authorities -> Taluk Committees
+  +-- section 12 eligibility categories + prescribed income route
+  +-- section 13 prima-facie entitlement control
+
+LOK ADALAT DISTINCTION
+Ordinary Lok Adalat -> settlement only; no merits decision if compromise fails.
+Permanent Lok Adalat -> public utility dispute; conciliation, then bounded merits power.
+
+LIMIT: an implementation law illustrates a directive; it does not exhaust its meaning.
+--- PANEL 7: Article 44: equality, pluralism and federal legislative design ---
+ARTICLE 44: STATE ENDEAVOUR TO SECURE A UNIFORM CIVIL CODE FOR CITIZENS
+  |
+  +-- LEGISLATIVE BASE: Concurrent List Entry 5
+  +-- CONSTITUTIONAL AIMS: equality, dignity, legal certainty and common citizenship
+  +-- CONSTITUTIONAL LIMITS: religious freedom, cultural pluralism and federal diversity
+  |
+  +-- POSSIBLE ROUTES
+        +-- targeted removal of discriminatory rules
+        +-- optional secular civil-law route
+        +-- harmonised principles with protected diversity
+        +-- comprehensive code with consultation and transition
+
+EXAM CONTROL
+Article 44 is non-justiciable; judicial observations do not command one model.
+Directives outside Part IV must not be confused with Article 36-51 DPSP text.
+--- PANEL 8: Criticism, institutional limits and constitutional relevance ---
+CRITIQUE                              CONSTITUTIONAL RESPONSE
+no direct judicial remedy             Article 37 creates duty and political sanction
+broad, unevenly arranged aspirations  breadth permits democratic sequencing and adaptation
+resource-dependent promises           Article 41 admits capacity; budgets expose trade-offs
+judicial overreach risk               interpretation cannot become continuous administration
+Centre-State friction                 competence, finance and institutions condition delivery
+symbolic compliance                   test law + institution + implementation + outcome
+
+WHY PART IV STILL MATTERS
+  +-- sets the welfare and distributive purpose of public power
+  +-- guides legislation and rights-consistent interpretation
+  +-- supplies standards for democratic accountability
+  +-- restrains laissez-faire indifference and unbounded judicial substitution
+
+BALANCED VERDICT: direction is binding in purpose, flexible in implementation.
+--- PANEL 9: Prelims traps, PYQ routes and the Mains answer spine ---
+PRELIMS CONTROL BOARD
+36 -> Part III meaning of State        37 -> no direct enforcement, but duty remains
+39(b) resources / common good          39(c) harmful concentration
+41 -> economic-capacity qualifier      45 -> below six after 86th Amendment
+48A -> environment                     50 -> judiciary-executive separation
+51A -> Fundamental Duties, not DPSP    31C -> only 39(b)/(c); Articles 14 and 19 shield
+
+VERIFIED ROUTES
+2020: Article 50; UDHR reflection; legal aid; welfare State; Part IV force
+2021: concentration of wealth          2023 GS-II: NALSA and legal aid
+2025: constitutional Part matching, official local key verified
+
+MAINS SPINE
+1 define Part IV through Articles 36-37
+2 map exact directive / case / law demanded
+3 explain mechanism and implementation evidence
+4 qualify with rights, federal competence, finance and institutional limits
+5 conclude: distributive ends through rights-disciplined means.
+
+===== polity-09 | Fundamental Duties | polity-2026-08-24-sequential-batch.json =====
+--- PANEL 1: From absent list to Part IVA and eleven citizen duties ---
+ORIGINAL CONSTITUTION
+  +-- enforceable rights in Part III
+  +-- State duties in Part IV
+  +-- no separate constitutional list of citizen duties
+        |
+1976 SWARAN SINGH COMMITTEE
+  +-- recommended a separate chapter and eight duties
+  +-- penalties and tax duty were among proposals not fully enacted
+        |
+42ND AMENDMENT, 1976
+  +-- inserted PART IVA and ARTICLE 51A
+  +-- enacted ten duties, clauses (a) to (j)
+        |
+86TH AMENDMENT, 2002
+  +-- inserted clause (k): education opportunity for child / ward, age 6-14
+
+USSR is the conventional source influence; Indian duties remain rights-bounded.
+--- PANEL 2: The eleven duties grouped for exact recall ---
+CONSTITUTIONAL LOYALTY AND NATION
+  +-- (a) Constitution, ideals, institutions, Flag and Anthem
+  +-- (b) freedom-struggle ideals
+  +-- (c) sovereignty, unity and integrity
+  +-- (d) defend country and render national service when called
+
+SOCIAL AND CULTURAL CITIZENSHIP
+  +-- (e) harmony and brotherhood; renounce practices derogatory to women
+  +-- (f) value and preserve the rich heritage of composite culture
+
+ECOLOGICAL AND RATIONAL CITIZENSHIP
+  +-- (g) environment and compassion for living creatures
+  +-- (h) scientific temper, humanism, inquiry and reform
+
+PUBLIC ETHIC AND CAPABILITY
+  +-- (i) safeguard public property; abjure violence
+  +-- (j) strive for individual and collective excellence
+  +-- (k) education opportunity for child / ward aged six to fourteen
+--- PANEL 3: Legal character: constitutional duty mediated by enforceable law ---
+ARTICLE 51A APPLIES TO EVERY CITIZEN
+  +-- not directly to foreigners
+  +-- several clauses need legislation or institutional support
+  |
+NON-JUSTICIABLE
+  +-- no writ merely to compel abstract performance
+  +-- no automatic penalty from Article 51A alone
+  |
+LEGAL MEDIATION
+  +-- legislatures enact valid laws within competence
+  +-- the executive implements law and civic education
+  +-- courts use duty values in interpretation where relevant
+  +-- implementing laws remain subject to rights and judicial review
+
+moral and civic norm -> education + valid law + institutions -> enforceable obligation
+TRAP: no separate statute exists for every duty.
+--- PANEL 4: Rights, duties and DPSP: three constitutional directions ---
+PART III: RIGHTS
+  +-- protected claims, autonomy and enforceable remedies
+        |
+        +---- CONSTITUTIONAL BALANCE ----+
+        |                                |
+PART IVA: DUTIES                     PART IV: DIRECTIVES
+  +-- citizen responsibility            +-- State welfare purpose
+  +-- non-justiciable text               +-- non-justiciable programme
+        |                                |
+        +---------- DEMOCRATIC RECIPROCITY ----------+
+
+rights protect responsible agency
+  -> duties sustain civic conditions
+  -> DPSP directs public power toward justice
+
+LIMIT: duty cannot erase a right; right does not immunise violence or illegality.
+--- PANEL 5: Patriotism and symbols: respect without compelled conformity ---
+ARTICLE 51A(a): RESPECT CONSTITUTION, INSTITUTIONS, FLAG AND ANTHEM
+  |
+BIJOE EMMANUEL, 1986
+  +-- respectful standing without singing was protected
+  +-- genuine conscience defeated compelled conformity
+  |
+NAVEEN JINDAL, 2004
+  +-- respectful Flag display falls within Article 19(1)(a)
+  +-- use remains subject to valid statutory restrictions
+  |
+SHYAM NARAYAN CHOUKSEY
+  +-- 2016 cinema direction was interim
+  +-- 9 January 2018 final order: cinema playing optional / directory
+
+VERDICT: protect republican symbols without reducing patriotism to one performance.
+--- PANEL 6: Citizenship domains and the education triad ---
+CLAUSE   DOMAIN                  OPERATIVE DISTINCTION
+51A(e)   harmony + dignity       includes renouncing practices derogatory to women
+51A(f)   composite culture      plural inheritance, not one frozen culture
+51A(g)   environment + animals  works with Article 48A, Article 21 and statutes
+51A(h)   reason and reform       inquiry, not State-defined orthodoxy
+51A(i)   property + non-violence peaceful protest remains protected
+51A(j)   excellence             aspiration, not automatic rank or admission right
+51A(k)   child education        parent / guardian duty for ages six to fourteen
+
+EDUCATION TRIAD
+Article 21A -> State-guaranteed right, ages 6-14
+Article 45  -> early-childhood care and education below six
+51A(k)      -> parent / guardian duty, ages 6-14
+
+2023 Jallikattu ruling qualifies the stronger 2014 animal-welfare reading.
+--- PANEL 7: Verma Committee and the existing-law implementation web ---
+J.S. VERMA COMMITTEE, 1999
+  +-- preferred education, awareness and enforcement of existing laws
+  +-- did not assume that every duty needs a separate penal statute
+  +-- proposed sensitisation and Fundamental Duties Day, 3 January
+
+EXISTING-LAW WEB: ILLUSTRATIVE, NOT ONE-TO-ONE
+  +-- National Honour Act / Flag law -> clause (a)
+  +-- UAPA, election and criminal-law fields -> sovereignty and harmony
+  +-- civil-rights and atrocity laws -> dignity and fraternity
+  +-- environment, wildlife and forest laws -> clause (g)
+  +-- Public Property Act -> clause (i)
+  +-- Right to Education Act -> clause (k)
+
+CONTROL: valid statute defines offence and penalty; Article 51A supplies context.
+--- PANEL 8: Criticism, enforceability debate and proportionate reform ---
+CRITICISM                         RESPONSE / REFORM
+vague terms                        teach meaning through civic education
+non-justiciability                 enforce valid laws, not abstract commands
+Emergency-era insertion            ground duties in democratic constitutionalism
+citizens-only reach                use ordinary law for institutions and foreigners
+selective moral policing           require legality, proportionality and equality
+no duty to vote / pay tax          do not read rejected proposals into the text
+
+REFORM LADDER
+1 constitutional literacy and public education
+2 map gaps in existing laws and implementation
+3 prefer civil / administrative measures where adequate
+4 legislate narrowly for demonstrable harm
+5 preserve rights, federal competence and judicial review
+
+VERDICT: strengthen civic capacity before creating an omnibus penal code.
+--- PANEL 9: Prelims traps, supporting PYQs and the Mains answer spine ---
+PRELIMS CONTROL
+Part IVA -> Article 51A only          citizens only; text is non-justiciable
+42nd -> ten duties                   86th -> eleventh duty, clause (k)
+Swaran Singh -> eight recommended    tax duty and blanket penalties not enacted
+51A(g) citizen environment duty      48A State environment directive
+21A right / 45 below-six DPSP        51A(k) parent / guardian duty, age 6-14
+
+VERIFIED PYQ STATUS
+No directly owned routed PYQ was located.
+2020 Q8 and 2025 Q55 are supporting questions; routing stays with Polity 08.
+2025 Q55 official local Set-A key = C; 2020 answer remains explicitly inferred.
+
+MAINS SPINE
+1 define Part IVA, Article 51A and citizen-only non-justiciability
+2 state 42nd / 86th history and group the eleven clauses
+3 show law, education and interpretation as implementation routes
+4 add rights limits, Verma Committee, criticism and proportionate reform
+5 conclude: responsible citizenship within constitutional liberty.
+
+===== polity-10 | Amendment and Basic Structure | polity-2026-08-24-sequential-batch.json =====
+--- PANEL 1: Constitutional change: flexible routes, entrenched identity ---
+CONSTITUTIONAL CHANGE
+  +-- SIMPLE MAJORITY OUTSIDE ARTICLE 368
+  |     +-- ordinary legislative power; legally not an Article 368 amendment
+  |
+  +-- ARTICLE 368 SPECIAL MAJORITY
+  |     +-- majority of total membership of each House
+  |     +-- at least two-thirds of members present and voting
+  |
+  +-- SPECIAL MAJORITY + RATIFICATION BY AT LEAST HALF OF STATES
+        +-- only for the exact federal proviso subjects
+
+POWER DISTINCTION
+ordinary legislative power -> changes law within constitutional competence
+constituent power -> changes constitutional text by addition, variation or repeal
+
+IDENTITY LIMIT
+Parliament may amend every provision, but cannot destroy the Constitution's basic structure.
+--- PANEL 2: Article 368 procedure: separate Houses, no shortcuts ---
+AMENDMENT BILL
+  +-- may originate in either House of Parliament
+  +-- may be introduced by a minister or private member
+  +-- no prior Presidential recommendation is required
+        |
+EACH HOUSE PASSES SEPARATELY
+  +-- majority of total membership
+  +-- two-thirds of members present and voting
+  +-- abstentions reduce present-and-voting denominator, not total membership
+        |
+NO JOINT SITTING -> failure in either House ends the Bill
+        |
+STATE RATIFICATION, IF PROVISO APPLIES
+  +-- resolutions by at least half of State legislatures
+  +-- no time limit in Article 368; States cannot amend the Bill
+        |
+PRESIDENT SHALL ASSENT -> Constitution stands amended
+
+2026 defeated Bill: total-membership limb passed; two-thirds limb failed.
+--- PANEL 3: Federal ratification: the exact Article 368 proviso map ---
+RATIFICATION BY AT LEAST HALF OF STATES IS REQUIRED FOR CHANGE TO
+  +-- election of the President: Articles 54 and 55
+  +-- Union and State executive power: Articles 73 and 162
+  +-- Supreme Court and High Courts: Chapter IV of Part V; Chapter V of Part VI
+  +-- distribution of legislative powers: Chapter I of Part XI
+  +-- any of the Lists in the Seventh Schedule
+  +-- representation of States in Parliament
+  +-- Article 368 itself
+
+NOT THE RULE
+  +-- every amendment with federal consequences
+  +-- every change concerning a Governor
+  +-- consent of every State
+
+STATE ROLE
+ratify or refuse the passed text -> no initiation, amendment or joint conference power.
+--- PANEL 4: From Shankari Prasad to Minerva Mills: the core doctrine chain ---
+1951 SHANKARI PRASAD -> amendment is not Article 13 "law"; FR may be amended
+1965 SAJJAN SINGH    -> repeats amendability; doubts emerge
+1967 GOLAKNATH       -> Parliament cannot amend Fundamental Rights
+1971 24TH AMENDMENT  -> constituent power and mandatory assent affirmed
+1971 25TH AMENDMENT  -> Article 31C and property-related changes
+1973 KESAVANANDA     -> every provision amendable; basic structure cannot be damaged
+1975 INDIRA GANDHI   -> free and fair elections / judicial review protect democracy
+1976 42ND AMENDMENT  -> attempted unlimited amending power
+1980 MINERVA MILLS   -> limited amending power and FR-DPSP harmony protected
+1981 WAMAN RAO       -> 24 April 1973 Ninth Schedule cut-off
+2007 I.R. COELHO     -> post-cut-off insertions face basic-structure impact review
+
+FORMULA: amend the Constitution -> do not destroy its constitutional identity.
+--- PANEL 5: Basic-structure elements: non-exhaustive and case-attributed ---
+BASIC STRUCTURE IS A JUDICIAL DOCTRINE, NOT A CLOSED CONSTITUTIONAL LIST
+  +-- supremacy of the Constitution
+  +-- republican and democratic government
+  +-- secularism
+  +-- federalism
+  +-- separation of powers
+  +-- rule of law
+  +-- judicial review
+  +-- independence of the judiciary
+  +-- free and fair elections
+  +-- dignity, liberty and equality within the rights architecture
+  +-- harmony and balance between Fundamental Rights and DPSP
+  +-- limited amending power
+
+METHOD
+identify the amendment -> identify the protected feature -> prove damage, not policy dislike
+
+TRAP: Kesavananda did not supply one unanimous, exhaustive catalogue.
+--- PANEL 6: Ninth Schedule: insertion is not immunity after the 1973 cut-off ---
+FIRST AMENDMENT, 1951
+  +-- Article 31B + Ninth Schedule protect listed laws from specified rights challenge
+        |
+WAMAN RAO, 1981
+  +-- 24 April 1973 becomes the controlling cut-off
+        |
+I.R. COELHO, 2007
+  +-- post-cut-off insertions are reviewable
+  +-- court tests impact on Part III rights forming part of basic structure
+        |
+OUTCOME
+reviewable != automatically invalid
+listed != permanently immune
+pre-cut-off != beyond every constitutional question
+
+ANSWER TEST
+1 identify insertion date
+2 identify affected right / basic feature
+3 examine actual constitutional damage
+4 state the remedy narrowly.
+--- PANEL 7: The Anjum Kadari boundary: amendments versus ordinary statutes ---
+CONSTITUTIONAL AMENDMENT
+  +-- directly tested against basic structure under Article 368 doctrine
+
+ORDINARY STATUTE
+  +-- cannot be invalidated only because it offends an undefined basic feature
+  +-- invalidity must be traced to:
+        +-- legislative incompetence
+        +-- violation of Part III
+        +-- another concrete constitutional provision
+
+ANJUM KADARI, 2024 INSC 831
+  +-- supplies the current technical boundary
+  +-- basic features may guide interpretation and cumulative constitutional reading
+  +-- they do not become a free-standing super-Article against ordinary legislation
+
+EXAM CORRECTION
+write "violates Article X embodying the feature", not merely "violates basic structure".
+--- PANEL 8: Current controls and the judicial-supremacy debate ---
+106TH AMENDMENT
+  +-- S.O. 1922(E), 16 April 2026 commenced the amendment framework
+  +-- Article 334A still requires post-commencement census figures + delimitation
+  +-- therefore commenced != operational reservation
+
+131ST AMENDMENT BILL, 2026
+  +-- proposal, not law; negatived in Lok Sabha on 17 April 2026
+  +-- useful for dual-majority arithmetic, not for precedent or current seat ceilings
+
+DEBATE
+judicial defence -> majority cannot abolish elections, rights, federal voice or review
+critique          -> doctrine is unwritten, uncertain and potentially counter-majoritarian
+
+DISCIPLINED POSITION
+text + precedent + actual damage + narrow remedy -> legitimate identity review.
+--- PANEL 9: Prelims traps, verified PYQs and the Mains answer spine ---
+PRELIMS CONTROL
+Article 368 -> addition, variation or repeal      no joint sitting
+both Houses use both special-majority limbs       President shall assent
+State ratification -> at least half, exact list   simple-majority changes lie outside 368
+basic structure -> non-exhaustive doctrine        ordinary-statute boundary applies
+Ninth Schedule -> post-24 April 1973 review       reviewability is not automatic invalidity
+
+VERIFIED PYQS
+2 Mains: 2019 Q12 and 2025 Q12
+8 Prelims: 2018 Q5; 2019 Q45/Q47; 2020 Q13; 2022 Q13; 2023 Q34; 2024 Q66; 2025 Q58
+Official local keys: 2024 Q66 = D; 2025 Q58 = A. Earlier keys remain labelled inferred.
+
+MAINS SPINE
+1 distinguish ordinary, special and ratified change routes
+2 state exact Article 368 procedure
+3 trace doctrine chronology and protected identity
+4 apply Ninth Schedule / ordinary-statute / current controls
+5 evaluate flexibility versus judicial review and conclude: amend, do not destroy.
+
+===== polity-11 | Parliamentary System | polity-2026-08-24-sequential-batch.json =====
+--- PANEL 1: Responsible government: the constitutional architecture ---
+PARLIAMENTARY GOVERNMENT
+  +-- real executive is drawn from and responsible to the legislature
+  +-- survival depends on confidence of the popularly elected House
+
+UNION ARCHITECTURE
+Articles 74-75 -> PM-led Council; collective responsibility to Lok Sabha
+Article 77     -> conduct of Union business
+Article 78     -> PM's duties toward the President
+
+STATE PARALLELS
+Articles 163-164 -> CM-led Council; responsibility to Legislative Assembly
+Articles 166-167 -> State business and CM-Governor information duties
+
+SYSTEM LOGIC
+popular election -> legislative majority -> ministry -> continuing confidence -> accountability
+
+TRAP: Parliament does not elect every minister separately.
+--- PANEL 2: Nominal and real executive: advice, office and limited discretion ---
+PRESIDENT: CONSTITUTIONAL HEAD
+  +-- formal executive authority is vested in the President
+  +-- normal exercise follows Article 74 ministerial advice
+        |
+PRIME MINISTER + COUNCIL: REAL POLITICAL EXECUTIVE
+  +-- formulates policy and controls administration
+  +-- remains responsible to Lok Sabha
+        |
+ADVICE CONTROL
+  +-- President may once require reconsideration
+  +-- reconsidered advice binds
+  +-- Article 74(2) protects inquiry into advice, not every underlying act
+
+LIMITED DISCRETION / CONVENTION ZONES
+  +-- appoint PM where no clear majority exists
+  +-- test confidence on the floor
+  +-- assess dissolution where an alternative government may be possible
+--- PANEL 3: The parliamentary mechanism: fusion, membership and responsibility ---
+CLASSIC FEATURES
+  +-- dual executive: nominal head + real ministry
+  +-- majority-party / coalition government
+  +-- collective responsibility to Lok Sabha
+  +-- political homogeneity or negotiated common programme
+  +-- double membership: executive drawn from legislature
+  +-- PM leadership
+  +-- lower-House dissolution possibility
+  +-- secrecy and Cabinet solidarity
+
+COLLECTIVE RESPONSIBILITY
+Cabinet decision -> all ministers publicly support or resign
+loss of Lok Sabha confidence -> entire ministry resigns or seeks lawful dissolution
+
+INDIVIDUAL RESPONSIBILITY
+personal misconduct / departmental failure may trigger resignation without government fall
+
+FUSION != absence of checks; courts, bicameralism, committees and elections remain.
+--- PANEL 4: Confidence, no-confidence, dissolution and caretaker government ---
+GOVERNMENT FORMS
+  +-- majority ministry
+  +-- coalition ministry
+  +-- minority ministry with outside support
+        |
+CONTINUING TEST: DOES THE MINISTRY COMMAND LOK SABHA CONFIDENCE?
+  +-- no-confidence motion
+  +-- confidence motion
+  +-- defeat on an issue expressly treated as confidence
+  +-- floor test where majority is disputed
+        |
+IF CONFIDENCE IS LOST
+  +-- resign
+  +-- or advise dissolution, subject to assessment of alternatives
+        |
+CARETAKER CONVENTION
+  +-- continuity until successor takes office
+  +-- restraint in major irreversible policy unless necessity demands
+
+TRAP: an internal party setback is not automatically loss of House confidence.
+--- PANEL 5: Cabinet, Council of Ministers and Prime Ministerial leadership ---
+COUNCIL OF MINISTERS: THE WIDER CONSTITUTIONAL BODY
+  +-- Cabinet Ministers
+  +-- Ministers of State, independent charge or attached
+  +-- all ranks share collective responsibility
+
+CABINET: SMALLER INNER DECISION CORE
+  +-- major policy, legislation, budget, appointments and crisis decisions
+  +-- supported by Cabinet Committees and Secretariat coordination
+
+PRIME MINISTER
+  +-- selects / allocates portfolios through advice
+  +-- chairs Cabinet and coordinates ministries
+  +-- leads majority or coalition and government business in Parliament
+  +-- communicates between President and ministry under Article 78
+
+DOMINANCE RISKS
+party control + agenda control + ordinance / delegated legislation + weak scrutiny
+
+LIMIT: presidentialisation is an analytical label; responsibility remains parliamentary.
+--- PANEL 6: Parliamentary accountability: the corrective ecosystem ---
+DAILY / PERIODIC SCRUTINY
+  +-- Question Hour, debates, calling-attention devices and motions
+  +-- budget, demands for grants, cut motions and financial control
+  +-- committee examination of Bills, ministries and delegated legislation
+
+FINANCIAL ACCOUNTABILITY
+CAG reports -> Public Accounts Committee / other financial committees -> government response
+
+POLITICAL ACCOUNTABILITY
+opposition + media + federal second chamber + constituency pressure + elections
+
+LEGAL / CONSTITUTIONAL ACCOUNTABILITY
+judicial review + constitutional offices + statutory transparency and audit
+
+WHY CONTROL MAY WEAKEN
+whip and anti-defection pressure -> limited dissent
+compressed sittings / rushed Bills -> reduced deliberation
+executive information advantage -> scrutiny gap
+
+REFORM: time, information, committee capacity and opposition rights.
+--- PANEL 7: Parliamentary and presidential systems compared precisely ---
+AXIS                 PARLIAMENTARY                    PRESIDENTIAL
+executive-legislature  fusion / interdependence         organisational separation
+survival               continuing House confidence      fixed constitutional term
+executive form         nominal + real executive         generally single real executive
+membership             ministers usually legislators    executive normally outside legislature
+removal                 political no-confidence          exceptional impeachment process
+strength                continuous accountability        tenure stability
+risk                    dominance / instability          deadlock / rigid mandate
+
+INDIA
+  +-- parliamentary responsibility + written supreme Constitution
+  +-- federalism, judicial review and rights limit legislative majorities
+
+UK contrast: orthodox parliamentary sovereignty and constitutional monarchy
+US contrast: separately elected President and stronger personnel separation.
+--- PANEL 8: Indian adaptation: stability, coalition and current design debate ---
+WHY ADOPTED
+familiar institutions + diversity accommodation + daily accountability + flexible change
+
+MERITS                              DEMERITS
+executive-legislature coordination  Cabinet / PM dominance
+continuous responsibility           instability in fragmented Houses
+adaptable coalition bargaining      short-term politics and secrecy
+easy peaceful replacement           weak separation and limited expertise
+
+INDIAN ADAPTATIONS
+coalition agreements -> common programme -> coordination committees
+minority government -> issue-based confidence -> bargaining and instability risks
+anti-defection -> stability support, but reduced legislative independence
+
+CURRENT CONTROL
+129th Amendment Bill, 2024 remains a committee-stage proposal.
+Proposed Article 82A is not current law; use only for stability-accountability analysis.
+--- PANEL 9: Prelims traps, verified PYQs and the Mains answer spine ---
+PRELIMS CONTROL
+Articles 74-75 -> Union                Articles 163-164 -> States
+collective responsibility -> Lok Sabha / Assembly, not both Houses
+non-member minister -> maximum six consecutive months
+Cabinet != entire Council of Ministers
+no-confidence removes ministry, not Lok Sabha
+President normally acts on advice; reconsideration is once
+
+VERIFIED PYQS
+2020 Prelims Q11; 2021 Prelims Q77
+2018 GS-II Q13; 2023 GS-II Q4; 2024 GS-II Q3
+Historical objective keys remain explicitly inferred; no key is fabricated.
+
+MAINS SPINE
+1 define responsible government through executive-legislature relationship
+2 map Articles, nominal-real executive and confidence
+3 explain responsibility and accountability instruments
+4 compare presidential system; add Indian adaptation and dominance risks
+5 propose scrutiny reforms and conclude: stability must serve responsibility.
+
+===== polity-12 | Federal System | polity-2026-08-24-sequential-batch.json =====
+--- PANEL 1: Federalism: constitutional autonomy within an indestructible Union ---
+FEDERAL SYSTEM
+  +-- Constitution divides power between Union and State governments
+  +-- each level operates directly on people within assigned fields
+  +-- independent judiciary interprets the division
+
+INDIA: ARTICLE 1 -> UNION OF STATES
+  +-- federation is not founded on a secession-permitting compact
+  +-- Union is indestructible; State areas, boundaries and names are alterable by law
+  +-- holding-together design creates a stronger Union and asymmetric arrangements
+
+CLASSIC FEDERAL FEATURES
+  +-- dual polity
+  +-- written and supreme Constitution
+  +-- constitutional division of powers
+  +-- rigidity for federal provisions
+  +-- independent judiciary
+  +-- bicameral federal representation
+
+TRAP: alterable States remain constitutional governments, not Union departments.
+--- PANEL 2: Why India has a Union bias without becoming unitary ---
+CENTRALISING FEATURES
+  +-- Union List breadth and residuary power with Parliament
+  +-- Parliament's exceptional access to State subjects
+  +-- emergency provisions and Article 356
+  +-- Governors appointed by the Union
+  +-- All-India Services
+  +-- integrated judiciary, election machinery and audit architecture
+  +-- single citizenship and flexible State reorganisation
+
+FEDERAL CHECKS
+  +-- State List autonomy and elected State governments
+  +-- Rajya Sabha and State ratification for entrenched changes
+  +-- independent judicial review
+  +-- Finance Commission / GST Council / intergovernmental bargaining
+  +-- federalism protected as Basic Structure
+
+VERDICT
+Union strength supports integrity and coordination; unchecked use can become central domination.
+--- PANEL 3: Legislative distribution: Lists, hierarchy and residuary power ---
+ARTICLE 245 -> territorial reach of Union and State laws
+ARTICLE 246 -> Union / Concurrent / State hierarchy
+  +-- List I: Parliament exclusive, standard examination count 100
+  +-- List II: States exclusive subject to exceptions, standard count 61
+  +-- List III: both levels, standard count 52
+ARTICLE 246A -> special GST competence
+ARTICLE 248 + UNION LIST ENTRY 97 -> residuary power with Parliament
+ARTICLE 254 -> Concurrent repugnancy; parliamentary law ordinarily prevails
+  +-- reserved State law with Presidential assent may operate in that State
+  +-- Parliament may later override it
+
+DOCTRINES
+pith and substance -> identify true nature
+territorial nexus -> require real connection
+harmonious construction -> reconcile broad entries
+repugnancy -> final rule for irreconcilable Concurrent conflict
+
+TRAP: Article 254 is not a universal Union-State conflict clause.
+--- PANEL 4: When Parliament enters the State List ---
+PARLIAMENT ON STATE SUBJECTS
+  +-- Article 249: Rajya Sabha national-interest resolution
+  +-- Article 250: during National Emergency
+  +-- Article 252: two or more States request legislation
+  |     +-- other States may adopt later
+  |     +-- Parliament alone amends or repeals that law
+  +-- Article 253: treaty / international agreement implementation
+  +-- Article 356: during President's Rule for the State
+  +-- Article 246(4): territories not included in a State
+
+CONTROL QUESTIONS
+What is the trigger? Who initiates? How long does authority last? Who can amend or repeal?
+
+CLOSE OPTIONS
+249 begins in Rajya Sabha; 252 begins with State resolutions; 253 can reach State subjects.
+Exceptional Union access does not permanently erase the State List.
+--- PANEL 5: Federalism as Basic Structure: autonomy with constitutional integration ---
+KESAVANANDA BHARATI, 1973
+  +-- federal character enters the basic-structure constellation
+        |
+S.R. BOMMAI, 1994
+  +-- federalism and secularism constrain Article 356 abuse
+  +-- majority ordinarily tested on the legislative floor
+        |
+STATE OF RAJASTHAN / RELATED DOCTRINE
+  +-- strong Union does not convert States into administrative agents
+        |
+MOHIT MINERALS, 2022
+  +-- GST Council recommendations are not legally binding
+  +-- cooperative decision-making coexists with legislative autonomy
+        |
+CURRENT APPLICATION
+  +-- Governor, CBI, tax and representation conflicts remain constitutional disputes
+
+FORMULA: autonomy + coordination + judicially enforceable constitutional boundaries.
+--- PANEL 6: How federalism works: cooperation, competition, bargaining and asymmetry ---
+MODE             MECHANISM                         BENEFIT / RISK
+cooperative      GST Council, councils, schemes     coordination / Union leverage
+competitive      investment and policy innovation   learning / unequal capacity
+bargaining       coalition and fiscal negotiation   accommodation / opacity
+confrontational  courts, consent withdrawal, veto   rights assertion / paralysis
+
+SHARED-RULE INSTITUTIONS
+Rajya Sabha | Inter-State Council | Zonal Councils | GST Council | Finance Commission
+courts | All-India Services | inter-State dispute mechanisms
+
+ASYMMETRY
+special constitutional arrangements respond to history, geography and tribal autonomy
+asymmetry != inequality without reason; it needs constitutional source and purpose
+
+LOCAL GOVERNMENT
+73rd / 74th Amendments deepen federal participation
+but local bodies are not a co-equal third sovereign tier under the Constitution.
+--- PANEL 7: Fiscal federalism: revenue capacity, equalisation and pooled sovereignty ---
+EXPENDITURE RESPONSIBILITIES
+States carry major delivery duties in health, police, agriculture and local services
+        |
+REVENUE ARCHITECTURE
+  +-- assigned taxes and shared Union taxes
+  +-- Finance Commission devolution and grants
+  +-- GST with pooled Union-State tax sovereignty
+  +-- borrowing rules, schemes, cesses and surcharges
+        |
+CURRENT CONTROL
+16th Finance Commission award for 2026-31 retains 41% vertical share of divisible pool
+horizontal distribution balances equity, population, demographic performance,
+area, forest / ecology and contribution-related considerations
+        |
+FEDERAL TENSION
+vertical imbalance + conditional schemes + cesses outside divisible pool + GST rate autonomy
+
+VERDICT: autonomy requires predictable finance, not merely legislative competence.
+--- PANEL 8: Representation, Governors, CBI and current federal friction ---
+REPRESENTATIONAL FEDERALISM
+  +-- Rajya Sabha gives State voice but unequal population-based representation
+  +-- Lok Sabha delimitation can redistribute federal political weight
+  +-- defeated 131st Amendment Bill's 850 ceiling is not current law
+  +-- census conduct dates are not publication or delimitation dates
+
+GOVERNOR ASSENT: 20 NOVEMBER 2025 ADVISORY CONTROL
+  +-- no judicially fixed timelines
+  +-- no deemed assent
+  +-- prolonged unexplained inaction may attract a direction to act
+  +-- court cannot dictate the constitutional choice
+
+CBI CONSENT
+  +-- DSPE section 6 ordinarily protects State territorial police autonomy
+  +-- constitutional courts may order investigation without State consent
+  +-- 2024 West Bengal maintainability ruling did not decide every merits issue
+
+REFORM: consultation, neutral offices, reasons, transparent finance and timely forums.
+--- PANEL 9: Prelims traps, verified PYQs and the Mains answer spine ---
+PRELIMS CONTROL
+Union of States != secession compact       residuary power -> Parliament
+standard List counts -> 100 / 61 / 52      Article 254 -> Concurrent conflict
+Article 249 -> Rajya Sabha                 Article 252 -> State-request route
+GST Council -> recommendatory              local bodies -> not co-equal sovereign tier
+Bommai -> federal Basic Structure          strong Centre != unitary Constitution
+
+VERIFIED PYQS
+2020 GS-II Q3 cooperation / competition / confrontation
+2021 GS-II Q11 CBI consent; 2022 GS-II Q13 party centralisation / autonomy
+2021 Prelims Q86 federal feature; 2023 Prelims Q32 prisons
+Objective answers remain labelled inferred where official keys are absent.
+
+MAINS SPINE
+1 define federalism and holding-together Union
+2 map federal and centralising features
+3 explain legislative, administrative and fiscal distribution
+4 use institutions, cases, asymmetry and current friction
+5 diagnose imbalance and conclude: capable Union + autonomous, consulted States.

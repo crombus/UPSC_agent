@@ -1,0 +1,23 @@
+# Subject-wide Syllabus — Workbook PDF Index
+
+> **Section key:** `subject-wide-syllabus`
+> This index intentionally contains only one deliverable type.
+
+| # | Topic key | Display title | Solved workbook PDF | Package state | Approval | Validation | Variant / generation |
+|---:|---|---|---|---|---|---|---|
+| 1 | `essay-01` | Paper Rules, Choice and Selection | [`notes\Learner-v2-Refreshed\Essay\Subject-Wide-Syllabus\learning-sessions\essay-01\g2\essay-01_Solved-Practice-Workbook_2026-09-04.pdf`](../../../../Learner-v2-Refreshed/Essay/Subject-Wide-Syllabus/learning-sessions/essay-01/g2/essay-01_Solved-Practice-Workbook_2026-09-04.pdf) | generated | pending explicit topic approval | passed | learner-v2 / g2 |
+| 2 | `essay-02` | Philosophical Quote Decoding | [`notes\Learner-v2-Refreshed\Essay\Subject-Wide-Syllabus\learning-sessions\essay-02\essay-02_Solved-Practice-Workbook_2026-09-04.pdf`](../../../../Learner-v2-Refreshed/Essay/Subject-Wide-Syllabus/learning-sessions/essay-02/essay-02_Solved-Practice-Workbook_2026-09-04.pdf) | generated | pending explicit topic approval | passed | learner-v2 / g1 |
+| 3 | `essay-03` | Issue-Based Prompt Scoping | [`notes\Learner-v2-Refreshed\Essay\Subject-Wide-Syllabus\learning-sessions\essay-03\essay-03_Solved-Practice-Workbook_2026-09-04.pdf`](../../../../Learner-v2-Refreshed/Essay/Subject-Wide-Syllabus/learning-sessions/essay-03/essay-03_Solved-Practice-Workbook_2026-09-04.pdf) | generated | pending explicit topic approval | passed | learner-v2 / g1 |
+| 4 | `essay-04` | Brainstorming and Dimensional Expansion | [`notes\Learner-v2-Refreshed\Essay\Subject-Wide-Syllabus\learning-sessions\essay-04\essay-04_Solved-Practice-Workbook_2026-09-04.pdf`](../../../../Learner-v2-Refreshed/Essay/Subject-Wide-Syllabus/learning-sessions/essay-04/essay-04_Solved-Practice-Workbook_2026-09-04.pdf) | generated | pending explicit topic approval | passed | learner-v2 / g1 |
+| 5 | `essay-05` | Thesis, Central Argument and Argument Map | `notes\Essay\learning-session-v2\subject-wide-syllabus\workbooks\essay-05_Solved-Workbook_<YYYY-MM-DD>.pdf` | planned | not generated | pending | learner-v2 / planned |
+| 6 | `essay-06` | Introductions and Conclusions | `notes\Essay\learning-session-v2\subject-wide-syllabus\workbooks\essay-06_Solved-Workbook_<YYYY-MM-DD>.pdf` | planned | not generated | pending | learner-v2 / planned |
+| 7 | `essay-07` | Macro-Structure, Paragraph Flow and Transitions | `notes\Essay\learning-session-v2\subject-wide-syllabus\workbooks\essay-07_Solved-Workbook_<YYYY-MM-DD>.pdf` | planned | not generated | pending | learner-v2 / planned |
+| 8 | `essay-08` | Argument, Counterargument and Synthesis | `notes\Essay\learning-session-v2\subject-wide-syllabus\workbooks\essay-08_Solved-Workbook_<YYYY-MM-DD>.pdf` | planned | not generated | pending | learner-v2 / planned |
+| 9 | `essay-09` | Evidence, Examples, Data and Quotation Discipline | `notes\Essay\learning-session-v2\subject-wide-syllabus\workbooks\essay-09_Solved-Workbook_<YYYY-MM-DD>.pdf` | planned | not generated | pending | learner-v2 / planned |
+| 10 | `essay-10` | Ethical and Philosophical Frameworks and Value Conflicts | `notes\Essay\learning-session-v2\subject-wide-syllabus\workbooks\essay-10_Solved-Workbook_<YYYY-MM-DD>.pdf` | planned | not generated | pending | learner-v2 / planned |
+| 11 | `essay-11` | Cross-Sector Lenses and Scale | `notes\Essay\learning-session-v2\subject-wide-syllabus\workbooks\essay-11_Solved-Workbook_<YYYY-MM-DD>.pdf` | planned | not generated | pending | learner-v2 / planned |
+| 12 | `essay-12` | India-Centric Illustration Bank | `notes\Essay\learning-session-v2\subject-wide-syllabus\workbooks\essay-12_Solved-Workbook_<YYYY-MM-DD>.pdf` | planned | not generated | pending | learner-v2 / planned |
+| 13 | `essay-13` | Time Management, Planning and Execution | `notes\Essay\learning-session-v2\subject-wide-syllabus\workbooks\essay-13_Solved-Workbook_<YYYY-MM-DD>.pdf` | planned | not generated | pending | learner-v2 / planned |
+| 14 | `essay-14` | Language, Style and Functional Visuals | `notes\Essay\learning-session-v2\subject-wide-syllabus\workbooks\essay-14_Solved-Workbook_<YYYY-MM-DD>.pdf` | planned | not generated | pending | learner-v2 / planned |
+| 15 | `essay-15` | Self-Evaluation and Internal Practice Rubric | `notes\Essay\learning-session-v2\subject-wide-syllabus\workbooks\essay-15_Solved-Workbook_<YYYY-MM-DD>.pdf` | planned | not generated | pending | learner-v2 / planned |
+| 16 | `essay-16` | Practice Loops, PYQ Lab and Revision System | `notes\Essay\learning-session-v2\subject-wide-syllabus\workbooks\essay-16_Solved-Workbook_<YYYY-MM-DD>.pdf` | planned | not generated | pending | learner-v2 / planned |

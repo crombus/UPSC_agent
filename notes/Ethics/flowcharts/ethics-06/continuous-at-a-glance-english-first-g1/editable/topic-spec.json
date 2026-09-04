@@ -1,0 +1,1194 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ethics-06",
+  "subject": "Ethics",
+  "title": "INDIAN MORAL THINKERS AND PHILOSOPHERS",
+  "short_route": "REALIST-IDEALIST SPECTRUM IN INDIAN → KAUTILYA'S ANTI-CORRUPTION CONTROL ARCHITECTURE → BUDDHA'S MIDDLE PATH AS → GANDHI'S ETHICAL TOOLKIT: TRUSTEESHIP → VIVEKANANDA'S PRACTICAL VEDANTA AND → BASAVA'S KAYAKA, DASOHA AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-06_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics--subject-wide-syllabus-06-ascii-2026-08-29-g1.json",
+  "ascii_spec_sha256": "3587361fde4c0cba516617e3c2f3d0d87cfe3b3193a9301117329e7f52d39d67",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "REALIST-IDEALIST SPECTRUM IN INDIAN MORAL THOUGHT",
+      "structural_type": "spectrum-bar",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "REALIST-IDEALIST SPECTRUM IN INDIAN MORAL THOUGHT",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. REALIST-IDEALIST SPECTRUM IN INDIAN MORAL THOUGHT",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] KAUTILYA ANCHORS THE REALIST POLE",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSUME TEMPTATION IS STRUCTURAL.",
+          "role": "primary"
+        },
+        {
+          "text": "[2] REALIST DESIGN",
+          "role": "outcome"
+        },
+        {
+          "text": "ROTATION, DUAL CUSTODY, AUDIT, POSITIVE INCENTIVE.",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] GANDHI ANCHORS THE IDEALIST POLE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "1. Realist-idealist spectrum in Indian moral thought",
+        "[1] Kautilya anchors the realist pole: assume temptation is structural.",
+        "[2] Realist design: rotation, dual custody, audit, positive incentive.",
+        "[3] Gandhi anchors the idealist pole: moral transformation through example."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "1. Realist-idealist spectrum in Indian moral thought",
+            "[1] Kautilya anchors the realist pole: assume temptation is structural.",
+            "[2] Realist design: rotation, dual custody, audit, positive incentive."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Gandhi anchors the idealist pole: moral transformation through example.",
+            "[4] Idealist design: trusteeship, self-purification, exemplar-based reform.",
+            "[5] Vivekananda, Basava, Nanak share the idealist register with distinct mechanisms.",
+            "[6] Buddha's Middle Path sits at the synthesising centre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Modern governance is Kautilyan in institutional design, Gandhian in aspiration.",
+            "[8] Neither pole alone is sufficient; synthesis is the examiner's expected conclusion.",
+            "VERDICT → Name both registers and the synthesis point in every Indian-thinkers answer.",
+            "ANSWER USE → Use as the opening framework for any realist-vs-idealist thinker question."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Name both registers and the synthesis point in every Indian-thinkers answer.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "KAUTILYA'S ANTI-CORRUPTION CONTROL ARCHITECTURE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "KAUTILYA'S ANTI-CORRUPTION CONTROL ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "2. KAUTILYA'S ANTI-CORRUPTION CONTROL ARCHITECTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] PREMISE",
+          "role": "evidence"
+        },
+        {
+          "text": "OFFICIALS HANDLING PUBLIC MONEY FACE STRUCTURAL TEMPTATION.",
+          "role": "primary"
+        },
+        {
+          "text": "[2] ARC ANNEXURE-I(2) QUOTES KANGLE 2.9.32",
+          "role": "outcome"
+        },
+        {
+          "text": "HONEY-AND-POISON PASSAGE.",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] FISH ANALOGY (2.9.33)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "2. Kautilya's anti-corruption control architecture",
+        "[1] Premise: officials handling public money face structural temptation.",
+        "[2] ARC Annexure-I(2) quotes Kangle 2.9.32: honey-and-poison passage.",
+        "[3] Fish analogy (2.9.33): embezzlement is as unobservable as a fish drinking water."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "2. Kautilya's anti-corruption control architecture",
+            "[1] Premise: officials handling public money face structural temptation.",
+            "[2] ARC Annexure-I(2) quotes Kangle 2.9.32: honey-and-poison passage."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Fish analogy (2.9.33): embezzlement is as unobservable as a fish drinking water.",
+            "[4] Bird analogy (2.9.34): concealed intentions are harder to detect than bird paths.",
+            "[5] Response: rotation, audit, inspection, reassignment of suspect officials.",
+            "[6] Positive incentive: those who increase wealth justly are made permanent."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Modern analogues: risk-based CBDT audit, dual custody, Lokpal.",
+            "[8] Limit: pure surveillance without service-motivation demoralises honest officers.",
+            "VERDICT → Kautilya provides the structural premise; pair it with idealist motivation for balance.",
+            "ANSWER USE → Use to build the anti-corruption-design paragraph in any Kautilya question."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Kautilya provides the structural premise; pair it with idealist motivation for balance.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "BUDDHA'S MIDDLE PATH AS A DECISION-PROCEDURE",
+      "structural_type": "balance-scale",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BUDDHA'S MIDDLE PATH AS A DECISION-PROCEDURE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "3. BUDDHA'S MIDDLE PATH AS A DECISION-PROCEDURE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] OVER-REACTION POLE",
+          "role": "evidence"
+        },
+        {
+          "text": "EXCESSIVE, PUNITIVE, POPULIST CRACKDOWN.",
+          "role": "primary"
+        },
+        {
+          "text": "[2] UNDER-REACTION POLE",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPLACENT INACTION DRIVEN BY RISK-AVERSION.",
+          "role": "caution"
+        },
+        {
+          "text": "[3] MIDDLE PATH TESTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "3. Buddha's Middle Path as a decision-procedure",
+        "[1] Over-reaction pole: excessive, punitive, populist crackdown.",
+        "[2] Under-reaction pole: complacent inaction driven by risk-aversion.",
+        "[3] Middle Path tests: is this response proportionate to the actual risk?"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "3. Buddha's Middle Path as a decision-procedure",
+            "[1] Over-reaction pole: excessive, punitive, populist crackdown.",
+            "[2] Under-reaction pole: complacent inaction driven by risk-aversion."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Middle Path tests: is this response proportionate to the actual risk?",
+            "[4] Eightfold Path: Right Action (lawful conduct) maps to official duty.",
+            "[5] Eightfold Path: Right Livelihood (honest occupation) maps to career ethics.",
+            "[6] Eightfold Path: Right Mindfulness (self-aware judgement) maps to bias-checking."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Proportionality discipline prevents both populist demolitions and wilful neglect.",
+            "[8] Limit: Middle Path provides the test but not the substantive legal standard.",
+            "VERDICT → The Middle Path converts 'be balanced' from vague advice into a testable procedure.",
+            "ANSWER USE → Use as the proportionality check in any case-study or vigilance question."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → The Middle Path converts 'be balanced' from vague advice into a testable procedure.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "GANDHI'S ETHICAL TOOLKIT: TRUSTEESHIP, MEANS-ENDS, SEVEN SOCIAL SINS",
+      "structural_type": "hub-spoke",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "GANDHI'S ETHICAL TOOLKIT",
+          "role": "primary"
+        },
+        {
+          "text": "TRUSTEESHIP, MEANS-ENDS, SEVEN SOCIAL SINS",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "4. GANDHI'S ETHICAL TOOLKIT",
+          "role": "evidence"
+        },
+        {
+          "text": "[1] TRUSTEESHIP",
+          "role": "primary"
+        },
+        {
+          "text": "POWER AND WEALTH HELD FOR SOCIETY, NOT AS PERSONAL",
+          "role": "caution"
+        },
+        {
+          "text": "[2] ENDS-MEANS UNITY",
+          "role": "comparison"
+        },
+        {
+          "text": "IMPURE MEANS CORRUPT EVEN A GOOD END (STRICT DEONTOLOGICAL-VIRTUE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "4. Gandhi's ethical toolkit: trusteeship, means-ends, Seven Social Sins",
+        "[1] Trusteeship: power and wealth held for society, not as personal property.",
+        "[2] Ends-means unity: impure means corrupt even a good end (strict deontological-virtue hybrid).",
+        "[3] Seven Social Sins (ARC Box 2.8): seven decouplings that destroy ethical governance."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "4. Gandhi's ethical toolkit: trusteeship, means-ends, Seven Social Sins",
+            "[1] Trusteeship: power and wealth held for society, not as personal property.",
+            "[2] Ends-means unity: impure means corrupt even a good end (strict deontological-virtue hybrid)."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Seven Social Sins (ARC Box 2.8): seven decouplings that destroy ethical governance.",
+            "[4] ARC wording has 'leisure without conscience'; Young India 1925 has 'pleasure without conscience'.",
+            "[5] Gandhi received the list from a correspondent; he published it without claiming authorship.",
+            "[6] Satyagraha: non-violent resistance grounded in truth-force."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Administrative translation: bureaucrat holds authority in trust for citizens.",
+            "[8] Limit: idealism alone under-designs institutional safeguards.",
+            "VERDICT → Gandhi provides the aspirational register; always pair with institutional mechanism.",
+            "ANSWER USE → Use to build any Gandhi quotation, trusteeship or means-ends answer."
+          ]
+        }
+      ],
+      "mechanism_strip": "ANSWER USE → Use to build any Gandhi quotation, trusteeship or means-ends answer.",
+      "answer_line": "VERDICT → Gandhi provides the aspirational register; always pair with institutional mechanism.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "VIVEKANANDA'S PRACTICAL VEDANTA AND DARIDRA NARAYANA",
+      "structural_type": "causal-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "VIVEKANANDA'S PRACTICAL VEDANTA AND DARIDRA NARAYANA",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "5. VIVEKANANDA'S PRACTICAL VEDANTA AND DARIDRA NARAYANA",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] ADVAITA NON-DUALISM",
+          "role": "evidence"
+        },
+        {
+          "text": "THE SELF IN ALL BEINGS IS ONE.",
+          "role": "primary"
+        },
+        {
+          "text": "[2] LOGICAL CONSEQUENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "SERVING THE DEPRIVED IS SERVING THE DIVINE.",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] DARIDRA NARAYANA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "5. Vivekananda's Practical Vedanta and Daridra Narayana",
+        "[1] Advaita non-dualism: the self in all beings is one.",
+        "[2] Logical consequence: serving the deprived is serving the divine.",
+        "[3] Daridra Narayana: God in the poor, collapsing sacred-secular distinction."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "5. Vivekananda's Practical Vedanta and Daridra Narayana",
+            "[1] Advaita non-dualism: the self in all beings is one.",
+            "[2] Logical consequence: serving the deprived is serving the divine."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Daridra Narayana: God in the poor, collapsing sacred-secular distinction.",
+            "[4] Selective learning: absorb what is good from others in your own way (2024 Q3a).",
+            "[5] 2025 Q3(c): 'morality of a people' line attributed by UPSC, not in Complete Works.",
+            "[6] Welfare administration elevated from obligation to devotional duty."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Rejects charity model in favour of dignity model of service.",
+            "[8] Limit: devotional motivation needs institutional accountability to prevent paternalism.",
+            "VERDICT → Cite Practical Vedanta's logic chain, not just the inspirational conclusion.",
+            "ANSWER USE → Use to build any Vivekananda quotation or service-ethics answer."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Cite Practical Vedanta's logic chain, not just the inspirational conclusion.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "BASAVA'S KAYAKA, DASOHA AND THE ANUBHAVA MANTAPA",
+      "structural_type": "triad-diagram",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BASAVA'S KAYAKA, DASOHA AND THE ANUBHAVA MANTAPA",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. BASAVA'S KAYAKA, DASOHA AND THE ANUBHAVA MANTAPA",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] KAYAKAVE KAILASA",
+          "role": "evidence"
+        },
+        {
+          "text": "DIGNIFIED HONEST WORK IS ITSELF THE DIVINE ABODE.",
+          "role": "primary"
+        },
+        {
+          "text": "[2] DASOHA",
+          "role": "outcome"
+        },
+        {
+          "text": "SHARING SURPLUS IN COMMUNITY SERVICE, NOT PERSONAL ACCUMULATION.",
+          "role": "caution"
+        },
+        {
+          "text": "[3] ANUBHAVA MANTAPA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "6. Basava's Kayaka, Dasoha and the Anubhava Mantapa",
+        "[1] Kayakave Kailasa: dignified honest work is itself the divine abode.",
+        "[2] Dasoha: sharing surplus in community service, not personal accumulation.",
+        "[3] Anubhava Mantapa: tradition-attested assembly of sharanas across caste and gender."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "6. Basava's Kayaka, Dasoha and the Anubhava Mantapa",
+            "[1] Kayakave Kailasa: dignified honest work is itself the divine abode.",
+            "[2] Dasoha: sharing surplus in community service, not personal accumulation."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Anubhava Mantapa: tradition-attested assembly of sharanas across caste and gender.",
+            "[4] NOT 'world's first parliament': tradition-attested, not securely dated.",
+            "[5] Anticipates Article 17 (abolition of untouchability) and Article 23 (forced labour).",
+            "[6] Proto-egalitarian labour ethic: all honest labour carries equal worth."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] 12th century, Kalachuri kingdom under Bijjala.",
+            "[8] Limit: medieval concepts need disciplined analogy, not identity claims.",
+            "VERDICT → Present Basava as a historical antecedent to constitutional equality, not its source.",
+            "ANSWER USE → Use to build any Basava, dignity-of-labour or anti-discrimination answer."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Present Basava as a historical antecedent to constitutional equality, not its source.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "GURU NANAK'S THREE PILLARS AND PUBLIC-RESOURCE ETHICS",
+      "structural_type": "three-pillar-structure",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "GURU NANAK'S THREE PILLARS AND PUBLIC-RESOURCE ETHICS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "7. GURU NANAK'S THREE PILLARS AND PUBLIC-RESOURCE ETHICS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] NAAM JAPNA",
+          "role": "evidence"
+        },
+        {
+          "text": "REMEMBRANCE OF THE DIVINE NAME, GROUNDING ETHICAL CONDUCT SPIRITUALLY.",
+          "role": "primary"
+        },
+        {
+          "text": "[2] KIRAT KARO",
+          "role": "outcome"
+        },
+        {
+          "text": "EARN THROUGH HONEST LABOUR, OPPOSING RENT-SEEKING AND CORRUPTION.",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] VAND CHHAKO",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "7. Guru Nanak's three pillars and public-resource ethics",
+        "[1] Naam Japna: remembrance of the divine name, grounding ethical conduct spiritually.",
+        "[2] Kirat Karo: earn through honest labour, opposing rent-seeking and corruption.",
+        "[3] Vand Chhako: share with others, supporting equity-oriented resource allocation."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "7. Guru Nanak's three pillars and public-resource ethics",
+            "[1] Naam Japna: remembrance of the divine name, grounding ethical conduct spiritually.",
+            "[2] Kirat Karo: earn through honest labour, opposing rent-seeking and corruption."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Vand Chhako: share with others, supporting equity-oriented resource allocation.",
+            "[4] Public-finance analogy: honest revenue collection + equitable expenditure.",
+            "[5] Scriptural basis firm: Guru Granth Sahib, Angs 8 and 1245.",
+            "[6] 'Three pillars' phrasing is later pedagogical packaging, not Guru Nanak's verbatim triad."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Classical antecedent of bridging social capital through inter-community sharing.",
+            "[8] Limit: normative ideal, not a self-enforcing mechanism; needs institutional accountability.",
+            "VERDICT → Use the content accurately but flag the pedagogical packaging of the 'three pillars' label.",
+            "ANSWER USE → Use to build any Guru Nanak or public-resource ethics answer."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Use the content accurately but flag the pedagogical packaging of the 'three pillars' label.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "MAHAVIR'S FIVE MAHAVRATAS AND ANEKANTAVADA",
+      "structural_type": "layered-diagram",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "MAHAVIR'S FIVE MAHAVRATAS AND ANEKANTAVADA",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "8. MAHAVIR'S FIVE MAHAVRATAS AND ANEKANTAVADA",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] FIVE MAHAVRATAS",
+          "role": "evidence"
+        },
+        {
+          "text": "AHIMSA, SATYA, ASTEYA, BRAHMACHARYA, APARIGRAHA.",
+          "role": "primary"
+        },
+        {
+          "text": "[2] PARSHVANATHA HAD FOUR VOWS; MAHAVIR SEPARATELY ENUMERATED BRAHMACHARYA",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] ANEKANTAVADA",
+          "role": "comparison"
+        },
+        {
+          "text": "MANY-SIDEDNESS OF TRUTH, NO SINGLE PERSPECTIVE CAPTURES THE WHOLE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "8. Mahavir's five Mahavratas and Anekantavada",
+        "[1] Five Mahavratas: Ahimsa, Satya, Asteya, Brahmacharya, Aparigraha.",
+        "[2] Parshvanatha had four vows; Mahavir separately enumerated Brahmacharya as the fifth.",
+        "[3] Anekantavada: many-sidedness of truth, no single perspective captures the whole."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "8. Mahavir's five Mahavratas and Anekantavada",
+            "[1] Five Mahavratas: Ahimsa, Satya, Asteya, Brahmacharya, Aparigraha.",
+            "[2] Parshvanatha had four vows; Mahavir separately enumerated Brahmacharya as the fifth."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Anekantavada: many-sidedness of truth, no single perspective captures the whole.",
+            "[4] Syadvada: conditional predication, the logical expression of Anekantavada.",
+            "[5] Administrative use: multi-stakeholder consultation before policy decisions.",
+            "[6] Aparigraha: non-possessiveness, cautions against accumulation and nepotism."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Trap: Anekantavada is NOT 'no view is ever correct' but 'truth is many-sided'.",
+            "[8] Limit: Anekantavada taken too far risks indecision; a cut-off for deliberation is needed.",
+            "VERDICT → Present Anekantavada as a consultative process principle, not as relativism.",
+            "ANSWER USE → Use to build any Mahavir, Jain ethics or multi-stakeholder answer."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Present Anekantavada as a consultative process principle, not as relativism.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "AMBEDKAR'S CONSTITUTIONAL MORALITY, EQUALITY AND FRATERNITY",
+      "structural_type": "reinforcing-triangle",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "AMBEDKAR'S CONSTITUTIONAL MORALITY, EQUALITY AND FRATERNITY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "9. AMBEDKAR'S CONSTITUTIONAL MORALITY, EQUALITY AND FRATERNITY",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] CONSTITUTIONAL MORALITY (4 NOV 1948)",
+          "role": "evidence"
+        },
+        {
+          "text": "PARAMOUNT REVERENCE FOR CONSTITUTIONAL FORMS (GROTE).",
+          "role": "primary"
+        },
+        {
+          "text": "[2] INCLUDES THE RIGHT OF OPEN SPEECH AND UNRESTRAINED",
+          "role": "outcome"
+        },
+        {
+          "text": "[3] EQUALITY WARNING (25 NOV 1949)",
+          "role": "comparison"
+        },
+        {
+          "text": "LIFE OF CONTRADICTIONS IF SOCIAL INEQUALITY PERSISTS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "9. Ambedkar's constitutional morality, equality and fraternity",
+        "[1] Constitutional morality (4 Nov 1948): paramount reverence for constitutional forms (Grote).",
+        "[2] Includes the right of open speech and unrestrained censure of authorities.",
+        "[3] Equality warning (25 Nov 1949): life of contradictions if social inequality persists."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "9. Ambedkar's constitutional morality, equality and fraternity",
+            "[1] Constitutional morality (4 Nov 1948): paramount reverence for constitutional forms (Grote).",
+            "[2] Includes the right of open speech and unrestrained censure of authorities."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Equality warning (25 Nov 1949): life of contradictions if social inequality persists.",
+            "[4] Political equality without social equality risks democratic collapse.",
+            "[5] Fraternity: common brotherhood that makes liberty and equality self-sustaining.",
+            "[6] Without fraternity, constitutional values need a policeman to enforce them."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Institutional safeguards: judicial review, fundamental rights, minority protections.",
+            "[8] Trap: Ambedkar is NOT only a Polity figure; his ethics content is independently examinable.",
+            "VERDICT → Use the morality-equality-fraternity triad to show Ambedkar's GS-IV relevance.",
+            "ANSWER USE → Use to build any constitutional-morality, equality or affirmative-action answer."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Use the morality-equality-fraternity triad to show Ambedkar's GS-IV relevance.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SOCIAL CAPITAL: BONDING VERSUS BRIDGING",
+      "structural_type": "split-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SOCIAL CAPITAL",
+          "role": "primary"
+        },
+        {
+          "text": "BONDING VERSUS BRIDGING",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "10. SOCIAL CAPITAL",
+          "role": "evidence"
+        },
+        {
+          "text": "[1] SOCIAL CAPITAL",
+          "role": "primary"
+        },
+        {
+          "text": "NETWORKS OF TRUST ENABLING COLLECTIVE ACTION (PUTNAM).",
+          "role": "outcome"
+        },
+        {
+          "text": "[2] BONDING CAPITAL",
+          "role": "comparison"
+        },
+        {
+          "text": "WITHIN A CLOSE-KNIT GROUP, STRENGTHENS IN-GROUP COHESION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "10. Social capital: bonding versus bridging",
+        "[1] Social capital: networks of trust enabling collective action (Putnam).",
+        "[2] Bonding capital: within a close-knit group, strengthens in-group cohesion.",
+        "[3] Bridging capital: across groups, enables inclusive governance and accountability."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] Bridging capital: across groups, enables inclusive governance and accountability.",
+          "[7] Guru Nanak's Vand Chhako and Basava's Dasoha are classical bridging antecedents."
+        ],
+        [
+          "10. Social capital: bonding versus bridging",
+          "[4] Bonding-only risk: nepotism, gatekeeping, exclusion of outsiders.",
+          "[8] Limit: social capital strengthens governance only when it is inclusive, not insular."
+        ],
+        [
+          "[1] Social capital: networks of trust enabling collective action (Putnam).",
+          "[5] MKSS social audits in Rajasthan: work because bridging capital exists or is built.",
+          "VERDICT → Social capital earns marks only when the bonding-bridging distinction is drawn."
+        ],
+        [
+          "[2] Bonding capital: within a close-knit group, strengthens in-group cohesion.",
+          "[6] Jan sunwai (public hearing): requires villagers to trust the process and each other.",
+          "ANSWER USE → Use to build any social-capital, participatory-governance or social-audit answer."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "10. Social capital: bonding versus bridging",
+            "[1] Social capital: networks of trust enabling collective action (Putnam).",
+            "[2] Bonding capital: within a close-knit group, strengthens in-group cohesion."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Bridging capital: across groups, enables inclusive governance and accountability.",
+            "[4] Bonding-only risk: nepotism, gatekeeping, exclusion of outsiders.",
+            "[5] MKSS social audits in Rajasthan: work because bridging capital exists or is built.",
+            "[6] Jan sunwai (public hearing): requires villagers to trust the process and each other."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Guru Nanak's Vand Chhako and Basava's Dasoha are classical bridging antecedents.",
+            "[8] Limit: social capital strengthens governance only when it is inclusive, not insular.",
+            "VERDICT → Social capital earns marks only when the bonding-bridging distinction is drawn.",
+            "ANSWER USE → Use to build any social-capital, participatory-governance or social-audit answer."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Social capital earns marks only when the bonding-bridging distinction is drawn.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "EIGHT-THINKER COMPARISON MATRIX",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EIGHT-THINKER COMPARISON MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "11. EIGHT-THINKER COMPARISON MATRIX",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] KAUTILYA",
+          "role": "evidence"
+        },
+        {
+          "text": "STRUCTURAL REALISM, EXTERNAL CONTROLS, ANTI-CORRUPTION DESIGN.",
+          "role": "primary"
+        },
+        {
+          "text": "[2] BUDDHA",
+          "role": "outcome"
+        },
+        {
+          "text": "MIDDLE PATH PROPORTIONALITY, EIGHTFOLD PATH CONDUCT MAPPING.",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] GANDHI",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "11. Eight-thinker comparison matrix",
+        "[1] Kautilya: structural realism, external controls, anti-corruption design.",
+        "[2] Buddha: Middle Path proportionality, Eightfold Path conduct mapping.",
+        "[3] Gandhi: ends-means unity, trusteeship, Seven Social Sins, Satyagraha."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] Gandhi: ends-means unity, trusteeship, Seven Social Sins, Satyagraha.",
+          "[7] Mahavir: five Mahavratas, Anekantavada, Aparigraha."
+        ],
+        [
+          "11. Eight-thinker comparison matrix",
+          "[4] Vivekananda: Practical Vedanta, Daridra Narayana, selective learning.",
+          "[8] Ambedkar: constitutional morality, equality-fraternity, institutional safeguards."
+        ],
+        [
+          "[1] Kautilya: structural realism, external controls, anti-corruption design.",
+          "[5] Basava: Kayaka (dignified labour), Dasoha (sharing), Anubhava Mantapa.",
+          "VERDICT → Match the thinker's mechanism to the scenario, not just the thinker's name."
+        ],
+        [
+          "[2] Buddha: Middle Path proportionality, Eightfold Path conduct mapping.",
+          "[6] Guru Nanak: Kirat Karo (honest earning), Vand Chhako (equitable sharing).",
+          "ANSWER USE → Use as the rapid-recall grid before any thinker-matching or comparison question."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "11. Eight-thinker comparison matrix",
+            "[1] Kautilya: structural realism, external controls, anti-corruption design.",
+            "[2] Buddha: Middle Path proportionality, Eightfold Path conduct mapping."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Gandhi: ends-means unity, trusteeship, Seven Social Sins, Satyagraha.",
+            "[4] Vivekananda: Practical Vedanta, Daridra Narayana, selective learning.",
+            "[5] Basava: Kayaka (dignified labour), Dasoha (sharing), Anubhava Mantapa.",
+            "[6] Guru Nanak: Kirat Karo (honest earning), Vand Chhako (equitable sharing)."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Mahavir: five Mahavratas, Anekantavada, Aparigraha.",
+            "[8] Ambedkar: constitutional morality, equality-fraternity, institutional safeguards.",
+            "VERDICT → Match the thinker's mechanism to the scenario, not just the thinker's name.",
+            "ANSWER USE → Use as the rapid-recall grid before any thinker-matching or comparison question."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Match the thinker's mechanism to the scenario, not just the thinker's name.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ PATTERN AND ANSWER SYNTHESIS",
+      "structural_type": "exam-synthesis-rail",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ PATTERN AND ANSWER SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "12. PYQ PATTERN AND ANSWER SYNTHESIS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] QUOTATION-TYPE PYQS (VIVEKANANDA, GANDHI, TIRUKKURAL) DOMINATE 2018-2025.",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] TEACHING-TYPE PYQS (BUDDHA 2020, GURU NANAK 2023, MAHAVIR",
+          "role": "primary"
+        },
+        {
+          "text": "[3] SIGNIFICANCE-TYPE PYQS (GANDHI 2018) TEST PRESENT-DAY ADMINISTRATIVE RELEVANCE.",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] SOCIAL-CAPITAL PYQ (2023 Q6B) TESTS PUTNAM BONDING/BRIDGING WITH",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] ANSWER SPINE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "12. PYQ pattern and answer synthesis",
+        "[1] Quotation-type PYQs (Vivekananda, Gandhi, Tirukkural) dominate 2018-2025.",
+        "[2] Teaching-type PYQs (Buddha 2020, Guru Nanak 2023, Mahavir 2025) test mechanism.",
+        "[3] Significance-type PYQs (Gandhi 2018) test present-day administrative relevance."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "12. PYQ pattern and answer synthesis",
+            "[1] Quotation-type PYQs (Vivekananda, Gandhi, Tirukkural) dominate 2018-2025.",
+            "[2] Teaching-type PYQs (Buddha 2020, Guru Nanak 2023, Mahavir 2025) test mechanism."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Significance-type PYQs (Gandhi 2018) test present-day administrative relevance.",
+            "[4] Social-capital PYQ (2023 Q6b) tests Putnam bonding/bridging with Indian examples.",
+            "[5] Answer spine: name thinker precisely → mechanism → Indian example → limit → verdict.",
+            "[6] Attribution cautions: Seven Social Sins wording, Anubhava Mantapa dating, three pillars."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Always translate the thinker's idea into one specific administrative practice.",
+            "[8] Close with the realist-idealist synthesis to avoid a one-sided treatment.",
+            "VERDICT → The highest-scoring answer moves from thinker to mechanism to example to limitation.",
+            "ANSWER USE → Use as the revision checklist before any Indian-thinkers PYQ attempt."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → The highest-scoring answer moves from thinker to mechanism to example to limitation.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "2. CONCEPTS AND DISTINCTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DETAILED COMPARATIVE TREATMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "4. INSTITUTIONAL AND REFORM ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "5. INDIAN APPLICATIONS AND BOUNDARY CASES",
+          "role": "outcome"
+        },
+        {
+          "text": "6. LIMITATIONS AND TRADE-OFFS",
+          "role": "comparison"
+        },
+        {
+          "text": "7. MUST-KNOW FACTS FOR ADVANCED PRELIMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL ETHICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. Architecture",
+            "2. Concepts and distinctions",
+            "3. Detailed comparative treatment",
+            "4. Institutional and reform architecture"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "5. Indian applications and boundary cases",
+            "6. Limitations and trade-offs",
+            "7. Must-Know Facts for Advanced Prelims",
+            "8. Advanced Prelims traps"
+          ]
+        },
+        {
+          "heading": "ADMINISTRATIVE APPLICATION",
+          "role": "comparison",
+          "items": [
+            "9. Current application",
+            "10. PYQ-based analytical application",
+            "11. Mains-ready framework",
+            "12. Probable questions"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

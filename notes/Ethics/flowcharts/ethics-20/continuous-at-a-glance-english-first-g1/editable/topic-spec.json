@@ -1,0 +1,1220 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ethics-20",
+  "subject": "Ethics",
+  "title": "ANTI-CORRUPTION INSTITUTIONS",
+  "short_route": "ANTI-CORRUPTION INSTITUTIONAL MAP → COMPLAINT-TO-ADJUDICATION CHAIN → CVC ROLE BOUNDARY → CBI FEDERAL-JURISDICTION ROUTE → ENACTED LOKPAL DESIGN → ARC PROPOSAL VERSUS ENACTED",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-20_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics--subject-wide-syllabus-20-ascii-2026-08-29-g1.json",
+  "ascii_spec_sha256": "62c9cf648d10722cfa41667542e767237a44d6140c205a491d333594eab229fa",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ANTI-CORRUPTION INSTITUTIONAL MAP",
+      "structural_type": "role-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ANTI-CORRUPTION INSTITUTIONAL MAP",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. ANTI-CORRUPTION INSTITUTIONAL MAP",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] CVO",
+          "role": "evidence"
+        },
+        {
+          "text": "DEPARTMENTAL VIGILANCE NODE",
+          "role": "primary"
+        },
+        {
+          "text": "[2] CVC",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVICE AND SUPERINTENDENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] CBI",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "1. Anti-corruption institutional map",
+        "[1] CVO: departmental vigilance node",
+        "[2] CVC: advice and superintendence",
+        "[3] CBI: DSPE-based investigation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "1. Anti-corruption institutional map",
+            "[1] CVO: departmental vigilance node",
+            "[2] CVC: advice and superintendence"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] CBI: DSPE-based investigation",
+            "[4] Lokpal: central ombudsman jurisdiction",
+            "[5] Lokayukta: State-law ombudsman",
+            "[6] State ACB: State investigation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Prosecutor: presents the case",
+            "[8] Court: adjudicates responsibility",
+            "VERDICT → Institutional plurality works only when each role and hand-off is explicit.",
+            "ANSWER USE → Use as the opening visual in any architecture answer."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Institutional plurality works only when each role and hand-off is explicit.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "COMPLAINT-TO-ADJUDICATION CHAIN",
+      "structural_type": "stage-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "COMPLAINT-TO-ADJUDICATION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "2. COMPLAINT-TO-ADJUDICATION CHAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] RECEIVE SECURE SPECIFIC COMPLAINT",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] TRIAGE JURISDICTION AND URGENCY",
+          "role": "primary"
+        },
+        {
+          "text": "[3] CONDUCT PRELIMINARY INQUIRY",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] ORDER EVIDENCE-BASED INVESTIGATION",
+          "role": "evidence"
+        },
+        {
+          "text": "[5] DECIDE COMPETENT PROSECUTION ROUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "2. Complaint-to-adjudication chain",
+        "[1] Receive secure specific complaint",
+        "[2] Triage jurisdiction and urgency",
+        "[3] Conduct preliminary inquiry"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "2. Complaint-to-adjudication chain",
+            "[1] Receive secure specific complaint",
+            "[2] Triage jurisdiction and urgency"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Conduct preliminary inquiry",
+            "[4] Order evidence-based investigation",
+            "[5] Decide competent prosecution route",
+            "[6] Present charges before court"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Adjudicate with hearing and proof",
+            "[8] Apply remedy and system learning",
+            "VERDICT → A complaint initiates process; it never proves guilt.",
+            "ANSWER USE → Use to separate inquiry, investigation, prosecution and adjudication."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → A complaint initiates process; it never proves guilt.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CVC ROLE BOUNDARY",
+      "structural_type": "mandate-stack",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CVC ROLE BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "3. CVC ROLE BOUNDARY",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] STATUTORY BODY UNDER 2003 ACT",
+          "role": "institution"
+        },
+        {
+          "text": "[2] ORIGINS IN 1964 RESOLUTION",
+          "role": "primary"
+        },
+        {
+          "text": "[3] ADVISES UNION VIGILANCE SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] SUPERINTENDS SPECIFIED DSPE WORK",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] REVIEWS INVESTIGATION PROGRESS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "3. CVC role boundary",
+        "[1] Statutory body under 2003 Act",
+        "[2] Origins in 1964 resolution",
+        "[3] Advises Union vigilance system"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "3. CVC role boundary",
+            "[1] Statutory body under 2003 Act",
+            "[2] Origins in 1964 resolution"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Advises Union vigilance system",
+            "[4] Superintends specified DSPE work",
+            "[5] Reviews investigation progress",
+            "[6] Oversees vigilance administration"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Works through departmental CVOs",
+            "[8] Does not criminally convict",
+            "VERDICT → CVC strengthens vigilance coherence without becoming investigator, prosecutor and court.",
+            "ANSWER USE → Use for close-option role questions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → CVC strengthens vigilance coherence without becoming investigator, prosecutor and court.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CBI FEDERAL-JURISDICTION ROUTE",
+      "structural_type": "federal-gate",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CBI FEDERAL-JURISDICTION ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "4. CBI FEDERAL-JURISDICTION ROUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] CBI CREATED BY EXECUTIVE RESOLUTION",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] POLICE POWERS DERIVE FROM DSPE ACT",
+          "role": "institution"
+        },
+        {
+          "text": "[3] UNION EXTENDS DSPE JURISDICTION",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] STATE CONSENT ORDINARILY REQUIRED",
+          "role": "institution"
+        },
+        {
+          "text": "[5] GENERAL OR CASE-SPECIFIC CONSENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "4. CBI federal-jurisdiction route",
+        "[1] CBI created by executive resolution",
+        "[2] Police powers derive from DSPE Act",
+        "[3] Union extends DSPE jurisdiction"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "4. CBI federal-jurisdiction route",
+            "[1] CBI created by executive resolution",
+            "[2] Police powers derive from DSPE Act"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Union extends DSPE jurisdiction",
+            "[4] State consent ordinarily required",
+            "[5] General or case-specific consent",
+            "[6] Constitutional courts may direct"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Exceptional power used cautiously",
+            "[8] Court still adjudicates final guilt",
+            "VERDICT → State consent is the ordinary rule; constitutional-court direction is the caveat.",
+            "ANSWER USE → Use for the 2021 GS-II CBI PYQ."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → State consent is the ordinary rule; constitutional-court direction is the caveat.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ENACTED LOKPAL DESIGN",
+      "structural_type": "institution-card",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ENACTED LOKPAL DESIGN",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "5. ENACTED LOKPAL DESIGN",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] CHAIRPERSON PLUS UP TO EIGHT MEMBERS",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] AT LEAST HALF JUDICIAL MEMBERS",
+          "role": "primary"
+        },
+        {
+          "text": "[3] STATUTORY REPRESENTATION REQUIREMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] COVERS MINISTERS AND MPS",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] COVERS CENTRAL OFFICIALS A TO D",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "5. Enacted Lokpal design",
+        "[1] Chairperson plus up to eight Members",
+        "[2] At least half judicial Members",
+        "[3] Statutory representation requirement"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "5. Enacted Lokpal design",
+            "[1] Chairperson plus up to eight Members",
+            "[2] At least half judicial Members"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Statutory representation requirement",
+            "[4] Covers Ministers and MPs",
+            "[5] Covers central officials A to D",
+            "[6] Qualified Prime Minister coverage"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Specified funded bodies included",
+            "[8] Inquiry and referral powers coexist",
+            "VERDICT → The 2013 Lokpal is broader than the ARC's proposed three-member body.",
+            "ANSWER USE → Use for composition and jurisdiction answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → The 2013 Lokpal is broader than the ARC's proposed three-member body.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ARC PROPOSAL VERSUS ENACTED LAW",
+      "structural_type": "comparison-bridge",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ARC PROPOSAL VERSUS ENACTED LAW",
+          "role": "comparison"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. ARC PROPOSAL VERSUS ENACTED LAW",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] ARC YEAR",
+          "role": "evidence"
+        },
+        {
+          "text": "2007 RECOMMENDATION",
+          "role": "primary"
+        },
+        {
+          "text": "[2] ARC BODY",
+          "role": "outcome"
+        },
+        {
+          "text": "THREE MEMBERS",
+          "role": "comparison"
+        },
+        {
+          "text": "[3] ARC REMIT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "6. ARC proposal versus enacted law",
+        "[1] ARC year: 2007 recommendation",
+        "[2] ARC body: three members",
+        "[3] ARC remit: Ministers and MPs"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] ARC remit: Ministers and MPs",
+          "[7] Act remit: broader central coverage"
+        ],
+        [
+          "6. ARC proposal versus enacted law",
+          "[4] ARC PM route: Parliament",
+          "[8] Act PM route: qualified inclusion"
+        ],
+        [
+          "[1] ARC year: 2007 recommendation",
+          "[5] Act year: 2013 enactment",
+          "VERDICT → Recommendation and enactment are related developments, not identical designs."
+        ],
+        [
+          "[2] ARC body: three members",
+          "[6] Act body: Chair plus up to eight",
+          "ANSWER USE → Use to avoid the most common historical trap."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "6. ARC proposal versus enacted law",
+            "[1] ARC year: 2007 recommendation",
+            "[2] ARC body: three members"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] ARC remit: Ministers and MPs",
+            "[4] ARC PM route: Parliament",
+            "[5] Act year: 2013 enactment",
+            "[6] Act body: Chair plus up to eight"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Act remit: broader central coverage",
+            "[8] Act PM route: qualified inclusion",
+            "VERDICT → Recommendation and enactment are related developments, not identical designs.",
+            "ANSWER USE → Use to avoid the most common historical trap."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT → Recommendation and enactment are related developments, not identical designs.",
+      "answer_line": "ANSWER USE → Use to avoid the most common historical trap.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "PRIME MINISTER JURISDICTION COMPROMISE",
+      "structural_type": "threshold-funnel",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PRIME MINISTER JURISDICTION COMPROMISE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "7. PRIME MINISTER JURISDICTION COMPROMISE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] DEMOCRATIC ANSWERABILITY SUPPORTS INCLUSION",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] CONTINUITY CONCERN SUPPORTS SAFEGUARDS",
+          "role": "primary"
+        },
+        {
+          "text": "[3] FIVE SENSITIVE SUBJECTS EXCLUDED",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] FULL BENCH CONSIDERS INITIATION",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] TWO-THIRDS APPROVAL IS REQUIRED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "7. Prime Minister jurisdiction compromise",
+        "[1] Democratic answerability supports inclusion",
+        "[2] Continuity concern supports safeguards",
+        "[3] Five sensitive subjects excluded"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "7. Prime Minister jurisdiction compromise",
+            "[1] Democratic answerability supports inclusion",
+            "[2] Continuity concern supports safeguards"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Five sensitive subjects excluded",
+            "[4] Full bench considers initiation",
+            "[5] Two-thirds approval is required",
+            "[6] Proceedings remain in camera"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Dismissed records stay confidential",
+            "[8] Parliamentary accountability also remains",
+            "VERDICT → Qualified inclusion balances scrutiny with constitutional stability but resolves neither concern completely.",
+            "ANSWER USE → Use for a balanced 15- or 20-mark evaluation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Qualified inclusion balances scrutiny with constitutional stability but resolves neither concern completely.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "STATE-LEVEL INSTITUTIONAL DIVERSITY",
+      "structural_type": "federal-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "STATE-LEVEL INSTITUTIONAL DIVERSITY",
+          "role": "institution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "8. STATE-LEVEL INSTITUTIONAL DIVERSITY",
+          "role": "institution"
+        },
+        {
+          "text": "[1] CENTRAL ACT REQUIRES LOKAYUKTAS",
+          "role": "institution"
+        },
+        {
+          "text": "[2] NO SINGLE MODEL IS PRESCRIBED",
+          "role": "caution"
+        },
+        {
+          "text": "[3] STATE LAWS DEFINE COMPOSITION",
+          "role": "institution"
+        },
+        {
+          "text": "[4] STATE LAWS DEFINE JURISDICTION",
+          "role": "institution"
+        },
+        {
+          "text": "[5] STATE LAWS DEFINE INVESTIGATIVE POWERS",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "8. State-level institutional diversity",
+        "[1] Central Act requires Lokayuktas",
+        "[2] No single model is prescribed",
+        "[3] State laws define composition"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] State laws define composition",
+          "[7] CVOs remain departmental nodes"
+        ],
+        [
+          "8. State-level institutional diversity",
+          "[4] State laws define jurisdiction",
+          "[8] Common safeguards need local adaptation"
+        ],
+        [
+          "[1] Central Act requires Lokayuktas",
+          "[5] State laws define investigative powers",
+          "VERDICT → Never copy the central Lokpal-CBI model mechanically onto every State."
+        ],
+        [
+          "[2] No single model is prescribed",
+          "[6] ACBs perform State police roles",
+          "ANSWER USE → Use for federalism and Lokayukta reform."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "8. State-level institutional diversity",
+            "[1] Central Act requires Lokayuktas",
+            "[2] No single model is prescribed"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] State laws define composition",
+            "[4] State laws define jurisdiction",
+            "[5] State laws define investigative powers",
+            "[6] ACBs perform State police roles"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] CVOs remain departmental nodes",
+            "[8] Common safeguards need local adaptation",
+            "VERDICT → Never copy the central Lokpal-CBI model mechanically onto every State.",
+            "ANSWER USE → Use for federalism and Lokayukta reform."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Never copy the central Lokpal-CBI model mechanically onto every State.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ORGANIC LINKAGE FOR COLLUSION CASES",
+      "structural_type": "coordination-web",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ORGANIC LINKAGE FOR COLLUSION CASES",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "9. ORGANIC LINKAGE FOR COLLUSION CASES",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] PRESERVE ONE COMMON TRANSACTION RECORD",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] LOKPAL HOLDS POLITICAL-OFFICIAL ALLEGATION",
+          "role": "primary"
+        },
+        {
+          "text": "[3] CVO SECURES DEPARTMENTAL EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "[4] CVC PERFORMS STATUTORY VIGILANCE ROLE",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] CBI GATHERS CRIMINAL EVIDENCE LAWFULLY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "9. Organic linkage for collusion cases",
+        "[1] Preserve one common transaction record",
+        "[2] Lokpal holds political-official allegation",
+        "[3] CVO secures departmental evidence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "9. Organic linkage for collusion cases",
+            "[1] Preserve one common transaction record",
+            "[2] Lokpal holds political-official allegation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] CVO secures departmental evidence",
+            "[4] CVC performs statutory vigilance role",
+            "[5] CBI gathers criminal evidence lawfully",
+            "[6] Prosecutor tests trial readiness"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Court determines criminal responsibility",
+            "[8] Departments repair enabling controls",
+            "VERDICT → Coordination should connect specialist roles without merging them.",
+            "ANSWER USE → Use for Minister-bureaucrat collusion analysis."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Coordination should connect specialist roles without merging them.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INSTITUTIONAL QUALITY TEST",
+      "structural_type": "eight-test-grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INSTITUTIONAL QUALITY TEST",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "10. INSTITUTIONAL QUALITY TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] JURISDICTION IS CLEAR",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] APPOINTMENTS PROTECT INDEPENDENCE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] RESOURCES MATCH WORKLOAD",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] REFERRALS HAVE DEADLINES",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] EVIDENCE EXCHANGE IS SECURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "10. Institutional quality test",
+        "[1] Jurisdiction is clear",
+        "[2] Appointments protect independence",
+        "[3] Resources match workload"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL FOCUS",
+          "[3] Resources match workload",
+          "[7] Review preserves due process"
+        ],
+        [
+          "10. Institutional quality test",
+          "[4] Referrals have deadlines",
+          "[8] Outcomes feed system learning"
+        ],
+        [
+          "[1] Jurisdiction is clear",
+          "[5] Evidence exchange is secure",
+          "VERDICT → Legal existence is only the first milestone of institutional effectiveness."
+        ],
+        [
+          "[2] Appointments protect independence",
+          "[6] Findings contain reasons",
+          "ANSWER USE → Use for reform and performance questions."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "10. Institutional quality test",
+            "[1] Jurisdiction is clear",
+            "[2] Appointments protect independence"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Resources match workload",
+            "[4] Referrals have deadlines",
+            "[5] Evidence exchange is secure",
+            "[6] Findings contain reasons"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Review preserves due process",
+            "[8] Outcomes feed system learning",
+            "VERDICT → Legal existence is only the first milestone of institutional effectiveness.",
+            "ANSWER USE → Use for reform and performance questions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Legal existence is only the first milestone of institutional effectiveness.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "EXAMINER TRAP BOARD",
+      "structural_type": "trap-correction",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EXAMINER TRAP BOARD",
+          "role": "caution"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "11. EXAMINER TRAP BOARD",
+          "role": "caution"
+        },
+        {
+          "text": "[1] CVC ADVICE IS NOT CONVICTION",
+          "role": "caution"
+        },
+        {
+          "text": "[2] CBI NAME IS NOT DSPE CREATION",
+          "role": "caution"
+        },
+        {
+          "text": "[3] CONSENT RULE HAS COURT CAVEAT",
+          "role": "institution"
+        },
+        {
+          "text": "[4] LOKPAL DOES NOT REPLACE CBI",
+          "role": "caution"
+        },
+        {
+          "text": "[5] ARC PROPOSAL IS NOT 2013 DESIGN",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "11. Examiner trap board",
+        "[1] CVC advice is not conviction",
+        "[2] CBI name is not DSPE creation",
+        "[3] Consent rule has court caveat"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "11. Examiner trap board",
+            "[1] CVC advice is not conviction",
+            "[2] CBI name is not DSPE creation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Consent rule has court caveat",
+            "[4] Lokpal does not replace CBI",
+            "[5] ARC proposal is not 2013 design",
+            "[6] PM coverage is qualified"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Lokayuktas are not uniform",
+            "[8] Inquiry finding is not adjudication",
+            "VERDICT → Most marks are lost by inflating one institution into the whole system.",
+            "ANSWER USE → Use for Prelims elimination and Mains precision."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Most marks are lost by inflating one institution into the whole system.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "EXAMINER-READY ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EXAMINER-READY ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "12. EXAMINER-READY ANSWER SPINE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] DEFINE THE INSTITUTIONAL PROBLEM",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] MAP EACH BODY'S LAWFUL ROLE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] STATE THE FEDERAL OR JURISDICTION GATE",
+          "role": "institution"
+        },
+        {
+          "text": "[4] SEPARATE ALL ACCOUNTABILITY STAGES",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] USE ARC AND ENACTED-LAW CONTRAST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "12. Examiner-ready answer spine",
+        "[1] Define the institutional problem",
+        "[2] Map each body's lawful role",
+        "[3] State the federal or jurisdiction gate"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "12. Examiner-ready answer spine",
+            "[1] Define the institutional problem",
+            "[2] Map each body's lawful role"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] State the federal or jurisdiction gate",
+            "[4] Separate all accountability stages",
+            "[5] Use ARC and enacted-law contrast",
+            "[6] Add independence and due process"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Recommend coordination without merger",
+            "[8] Conclude with qualified coherence",
+            "VERDICT → Precise role plus hand-off plus safeguard produces a high-quality institutional answer.",
+            "ANSWER USE → Use to structure 10-, 15- and 20-mark responses."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Precise role plus hand-off plus safeguard produces a high-quality institutional answer.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "2. CONCEPTS AND DISTINCTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "3. DETAILED TREATMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "4. INSTITUTIONAL AND REFORM ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "5. INDIAN APPLICATIONS AND BOUNDARY CASES",
+          "role": "outcome"
+        },
+        {
+          "text": "6. LIMITATIONS AND TRADE-OFFS",
+          "role": "comparison"
+        },
+        {
+          "text": "7. MUST-KNOW FACTS FOR ADVANCED PRELIMS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL ETHICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. Architecture",
+            "2. Concepts and distinctions",
+            "3. Detailed treatment",
+            "4. Institutional and reform architecture"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "5. Indian applications and boundary cases",
+            "6. Limitations and trade-offs",
+            "7. Must-Know Facts for Advanced Prelims",
+            "8. Advanced Prelims traps"
+          ]
+        },
+        {
+          "heading": "ADMINISTRATIVE APPLICATION",
+          "role": "comparison",
+          "items": [
+            "9. Current application",
+            "10. PYQ-based analytical application",
+            "11. Mains-ready framework",
+            "12. Probable questions"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

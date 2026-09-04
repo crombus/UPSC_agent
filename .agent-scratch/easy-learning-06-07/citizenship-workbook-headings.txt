@@ -1,0 +1,63 @@
+5: # Citizenship — Learner-v2 Source-Complete Learning Session
+7: ## BASIC MCQS / REMEDIATION
+9: ### Forty core diagnostic MCQs
+11: #### Core MCQ 1. Which one of the following most accurately states the constitutional position of non-citizens?
+20: #### Core MCQ 2. A person claimed citizenship under Article 5 at commencement solely because the person had lived in India for five years. What additional constitutional requirement was indispensable?
+29: #### Core MCQ 3. Which combination correctly describes an Article 6 migrant who came to India from Pakistan on or after 19 July 1948?
+38: #### Core MCQ 4. Article 7's exception for a person who migrated to Pakistan after 1 March 1947 applies when the person
+47: #### Core MCQ 5. Article 8 primarily concerned
+56: #### Core MCQ 6. Which statement best captures Articles 10 and 11 together?
+65: #### Core MCQ 7. A person was born in India on 2 July 1987. Which minimum statutory fact, apart from the Section 3(2) exceptions, would establish citizenship by birth?
+74: #### Core MCQ 8. Which one is required for a person born outside India on or after 3 December 2004 to claim citizenship by descent?
+83: #### Core MCQ 9. Which person has a Section 5 registration route but does not become a citizen automatically from the described relationship?
+92: #### Core MCQ 10. Under the general Third Schedule rule, naturalisation ordinarily requires
+101: #### Core MCQ 11. Which statement about distinguished-service naturalisation is correct?
+110: #### Core MCQ 12. Which category is outside Section 10(1)'s deprivation gate?
+119: #### Core MCQ 13. A full-age citizen makes a valid declaration giving up Indian citizenship. This is
+128: #### Core MCQ 14. Termination under Section 9 is most directly linked to
+137: #### Core MCQ 15. Which one of the following is the best legal distinction?
+146: #### Core MCQ 16. Which textual caveat is most accurate?
+155: #### Core MCQ 17. Under Section 6A, Indian-origin persons who came from the specified territory to Assam before 1 January 1966 and met the residence condition were
+164: #### Core MCQ 18. A Section 6A person who came between 1 January 1966 and before 25 March 1971, was detected as a foreigner and registered
+173: #### Core MCQ 19. What did the controlling majority hold in *In Re: Section 6A* (2024)?
+182: #### Core MCQ 20. Justice J.B. Pardiwala's sole dissent would have
+191: #### Core MCQ 21. Which is correct regarding OCI?
+200: #### Core MCQ 22. Under the 2021 OCI notification, an OCI cardholder generally receives
+209: #### Core MCQ 23. Which set exactly matches the CAA statutory class?
+218: #### Core MCQ 24. Which statement about CAA operation is correct?
+227: #### Core MCQ 25. What is the safest statement about the Immigration and Foreigners (Exemption) Order, 2025?
+236: #### Core MCQ 26. Why is the statement "every citizen can vote as a Fundamental Right" incorrect?
+245: #### Core MCQ 27. Which distinction is textually correct?
+254: #### Core MCQ 28. Which statement correctly describes former Article 35A after the 2019 constitutional changes?
+263: #### Core MCQ 29. Section 3(2) excludes citizenship by birth in India in which situation?
+272: #### Core MCQ 30. For a person born outside India before 10 December 1992, the original descent rule ordinarily looked to
+281: #### Core MCQ 31. In Section 5 registration routes using the seven-year ordinary-residence formula, "seven years" generally means
+290: #### Core MCQ 32. Which citizen is outside Section 10(1)'s deprivation category gate?
+299: #### Core MCQ 33. What follows when a full-age citizen's renunciation declaration is registered?
+308: #### Core MCQ 34. Which statement about OCI cancellation is correct?
+317: #### Core MCQ 35. Under Section 6B, which statement is correct?
+326: #### Core MCQ 36. The territorial exclusions from Section 6B cover
+335: #### Core MCQ 37. Which statement about an Electoral Photo Identity Card is most accurate?
+344: #### Core MCQ 38. Which proposition about an Indian passport is safest?
+353: #### Core MCQ 39. Why can a citizenship decision be judicially reviewed even though citizenship is not a Fundamental Right?
+362: #### Core MCQ 40. Which is the safest current-status sentence as of 21 August 2026?
+371: ### Eight remedial MCQs for recurring traps
+373: #### Remedial MCQ 41. A student writes, "Aadhaar appears in a CAA Rules document list, so Aadhaar proves Indian citizenship." The best correction is
+382: #### Remedial MCQ 42. A candidate states, "Article 9 by itself universally bans every form of dual status in every later case." The precise correction is
+391: #### Remedial MCQ 43. A student says deprivation applies to every citizen whenever the Government alleges disloyalty. Which correction is best?
+400: #### Remedial MCQ 44. A candidate writes that all entrants before 31 December 2014 are protected by Section 6A. The correction is
+409: #### Remedial MCQ 45. A student says, "The 2024 Section 6A judgment struck the provision down because implementation was poor." The correction is
+418: #### Remedial MCQ 46. A candidate describes an OCI cardholder as "an Indian citizen residing abroad." The correct category is
+427: #### Remedial MCQ 47. A student states that the CAA's five-year rule eliminates every other naturalisation condition. The correction is
+436: #### Remedial MCQ 48. A candidate writes, "State domicile proves that India has multiple citizenships." The best response is
+445: ## PYQS AND ANSWER PRACTICE
+447: ### PYQ provenance audit
+458: ### PYQ 1. Prelims 2018, GS Paper I, Question 12 — official local paper; cross-topic citizenship-proof relevance
+478: ### PYQ 2. UPSC Prelims 2021, GS Paper I, Question 89 - verbatim-verified from the local official paper
+499: ### Six original solved Mains models
+501: ### Original 10-marker 1: Distinguish citizenship, domicile and residence. Why does the distinction matter in Indian constitutional law? (150 words)
+507: ### Original 10-marker 2: Explain why OCI is not dual citizenship. Evaluate the logic of its principal rights and restrictions. (150 words)
+513: ### Original 15-marker 1: The Constitution settled citizenship at commencement but left its future architecture to Parliament. Discuss. (250 words)
+519: ### Original 15-marker 2: Section 6A is constitutionally valid, but its implementation remains a governance challenge. Analyse in light of the 2024 Constitution Bench judgment. (250 words)
+525: ### Original 20-marker 1: Critically examine the Citizenship (Amendment) Act, 2019 as a classification under Article 14 and as an instrument of humanitarian policy. (250 words)
+531: ### Original 20-marker 2: India's single citizenship coexists with differentiated regional protections. Does this strengthen or weaken the Union? Discuss. (250 words)

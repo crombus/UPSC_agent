@@ -1,0 +1,194 @@
+{
+  "topic_key": "ancient-indian-history-09",
+  "record_id": "ancient-indian-history-09:learner-v2:g3",
+  "generated_on": "2026-08-21",
+  "approved": false,
+  "status": "passed",
+  "errors": [],
+  "h2_order": [
+    "BASIC LEARNING SESSION",
+    "BASIC MCQS / REMEDIATION",
+    "PYQS AND ANSWER PRACTICE",
+    "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+    "CONSOLIDATED REGISTER NOTES"
+  ],
+  "answer_line_count": 20,
+  "answer_line_parity": {
+    "markdown": 20,
+    "notes_pdf": 20,
+    "flowchart_pdf": 20
+  },
+  "practice": {
+    "diagnostic_core_mcqs": 48,
+    "remedial_mcqs": 12,
+    "rotation": "ABCDABCDABCDABCDABCDABCDABCDABCDABCDABCDABCDABCDABCDABCDABCD",
+    "rotation_passed": true,
+    "verified_pyq_routes": 4,
+    "pyq_status_checks": {
+      "2024_prelims_official": true,
+      "2026_prelims_provisional": true,
+      "2024_mains_exact": true,
+      "2023_mains_exact": true
+    },
+    "mains_distribution": {
+      "10_mark": 3,
+      "15_mark": 3,
+      "20_mark": 3
+    }
+  },
+  "source_owned_g2_body_preserved_in_order": true,
+  "mandatory_coverage": {
+    "A_scope_chronology": true,
+    "B_evidence_method": true,
+    "C_geography_ecology": true,
+    "D_archaeology_settlement": true,
+    "E_iron": true,
+    "F_economy": true,
+    "G_polity": true,
+    "H_royal_ritual": true,
+    "I_society": true,
+    "J_religion_thought": true,
+    "K_comparison": true,
+    "L_historiography": true,
+    "M_transition": true,
+    "N_prelims": true,
+    "O_mains": true
+  },
+  "terminology_translation_checks": {
+    "*jana*": true,
+    "*janapada*": true,
+    "*rājasūya*": true,
+    "*aśvamedha*": true,
+    "*vājapeya*": true,
+    "*śrauta*": true,
+    "*varṇa*": true,
+    "*jāti*": true,
+    "*gotra*": true,
+    "*gṛhapati*": true,
+    "*brahman*": true,
+    "*ātman*": true,
+    "*karma*": true,
+    "*śramaṇa*": true
+  },
+  "pdfs": {
+    "notes": {
+      "page_count": 87,
+      "file_size": 573213,
+      "minimum_non_whitespace_characters_on_any_page": 473,
+      "blank_or_sparse_pages_under_120_characters": [],
+      "replacement_glyph_pages": [],
+      "out_of_bounds_text_pages": [],
+      "overlapping_text_block_pages": [],
+      "answer_lines_found": 20,
+      "bookmark_count": 72
+    },
+    "workbook": {
+      "page_count": 42,
+      "file_size": 221970,
+      "minimum_non_whitespace_characters_on_any_page": 472,
+      "blank_or_sparse_pages_under_120_characters": [],
+      "replacement_glyph_pages": [],
+      "out_of_bounds_text_pages": [],
+      "overlapping_text_block_pages": [],
+      "answer_lines_found": 0,
+      "bookmark_count": 18
+    },
+    "flowchart": {
+      "page_count": 20,
+      "file_size": 150632,
+      "minimum_non_whitespace_characters_on_any_page": 1070,
+      "blank_or_sparse_pages_under_120_characters": [],
+      "replacement_glyph_pages": [],
+      "out_of_bounds_text_pages": [],
+      "overlapping_text_block_pages": [],
+      "answer_lines_found": 20,
+      "bookmark_count": 20
+    }
+  },
+  "internal_indexes": {
+    "notes_index_page": 2,
+    "notes_entries": 72,
+    "workbook_index_page": 2,
+    "workbook_entries": 18
+  },
+  "flowchart": {
+    "pages": 20,
+    "previews": 20,
+    "contact_sheets": 4,
+    "manual_preview_inspection": "completed for every page preview"
+  },
+  "identity": {
+    "record_id": "ancient-indian-history-09:learner-v2:g3",
+    "supersedes": "ancient-indian-history-09:learner-v2:g2",
+    "approved": false,
+    "approval_approved": false,
+    "validation_state": "passed"
+  },
+  "manifest": {
+    "source_canonical": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\09_The-Later-Vedic-Phase_Complete-Topic-Package.md",
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-g3\\ancient-indian-history-09_Learning-Session.md",
+    "notes_pdf": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\notes\\ancient-indian-history-09_Learning-Session_2026-08-21.pdf",
+    "workbook_pdf": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\workbooks\\ancient-indian-history-09_Solved-Workbook_2026-08-21.pdf"
+  },
+  "indexes": {
+    "EXPORT-PDF-COMMAND-INDEX.md": true,
+    "V2-SUBJECT-SECTION-COMMAND-INDEX.md": true,
+    "upsc-ai-kit\\knowledge\\STUDY-INDEX.md": true,
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\LEARNING-SESSION-COMMAND-INDEX.md": true,
+    "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\indexes\\TOPIC-COVERAGE-INDEX.md": true,
+    "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\indexes\\NOTES-PDF-INDEX.md": true,
+    "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\indexes\\WORKBOOK-PDF-INDEX.md": true
+  },
+  "immutable_prior_artifacts": {
+    "notes\\Ancient-Indian-History\\09_The-Later-Vedic-Phase_Complete-Topic-Package_2026-08-13.pdf": {
+      "before_sha256": "368644758F6AEFFA7AAE108EC40F0562DEB3DC305415A51A8CEE6817D19C090B",
+      "after_sha256": "368644758F6AEFFA7AAE108EC40F0562DEB3DC305415A51A8CEE6817D19C090B",
+      "unchanged": true,
+      "size": 479302
+    },
+    "notes\\Ancient-Indian-History\\09_The-Later-Vedic-Phase_Solved-Workbook_2026-08-13.pdf": {
+      "before_sha256": "CC5AB86CB56EEDC9F0346F1578209369DE0123ED13FAFDDD46978CE848A50CA0",
+      "after_sha256": "CC5AB86CB56EEDC9F0346F1578209369DE0123ED13FAFDDD46978CE848A50CA0",
+      "unchanged": true,
+      "size": 299123
+    },
+    "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\assets\\ancient-indian-history-09\\ancient-indian-history-09-learning-spine.png": {
+      "before_sha256": "44DD00E4E7CC15115CDBE6EA5B9305FA6A0DBD1798321A64AB0A1B7C236D9D25",
+      "after_sha256": "44DD00E4E7CC15115CDBE6EA5B9305FA6A0DBD1798321A64AB0A1B7C236D9D25",
+      "unchanged": true,
+      "size": 60918
+    },
+    "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\notes\\ancient-indian-history-09_Learning-Session_2026-08-20.pdf": {
+      "before_sha256": "FD3231F34690842EE56CA93EA2E93A0B30F53ADF22F47A696C3429E43B8C3FC5",
+      "after_sha256": "FD3231F34690842EE56CA93EA2E93A0B30F53ADF22F47A696C3429E43B8C3FC5",
+      "unchanged": true,
+      "size": 486845
+    },
+    "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\workbooks\\ancient-indian-history-09_Solved-Workbook_2026-08-20.pdf": {
+      "before_sha256": "B5FCCB8E86FFDC42E5553068640B04F863BBA39B7855ADEA323F04B5DCBD53CC",
+      "after_sha256": "B5FCCB8E86FFDC42E5553068640B04F863BBA39B7855ADEA323F04B5DCBD53CC",
+      "unchanged": true,
+      "size": 291097
+    },
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\09_The-Later-Vedic-Phase_Complete-Topic-Package.md": {
+      "before_sha256": "2908BF5A3E1B0439D20719E426583B581007D58EBAB478CA6326A7D27FFEA6DD",
+      "after_sha256": "2908BF5A3E1B0439D20719E426583B581007D58EBAB478CA6326A7D27FFEA6DD",
+      "unchanged": true,
+      "size": 200702
+    },
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\ancient-indian-history-09_Learning-Session.md": {
+      "before_sha256": "639924CA0CF87789137BB913A4722F9250324E8CBBDA63F93451469D0A82631E",
+      "after_sha256": "639924CA0CF87789137BB913A4722F9250324E8CBBDA63F93451469D0A82631E",
+      "unchanged": true,
+      "size": 207693
+    }
+  },
+  "source_findings": {
+    "repository": "Complete legacy owner and g2 retained; Basic/Advanced plus chronology, revision, Rig Vedic comparator and Topics 10/11 boundaries integrated.",
+    "rs_sharma_ocr": "Local PDF pages 142–148 support crops, nearly 700 PGW sites, royal rituals and changing deity emphasis; textbook iron dates remain source-attributed.",
+    "upinder_singh_ocr": "Local PDF pages 569–584 and 605–676 support ratnins, ritual claims, Videgha Mathava/Sadanira alternatives, OCP/BRW/late-Harappan sequences, PGW settlement variation and gender/intellectual evidence.",
+    "live": "UNESCO's Vedic Chanting page was fetched for preservation context; the Rigveda nomination URL was identified but direct PDF fetch returned 403; Rakesh Tewari's Antiquity DOI resolved and is used only to qualify iron chronology. No decorative current affairs or modern proof of ancient social conditions was added.",
+    "qdrant": "not used; repository Markdown and OCR sources were sufficient",
+    "approved_topic09_flowchart_search": "No pre-existing Ancient-Indian-History Topic 09 flowchart folder/artifact was found; the new flowchart is isolated and unapproved."
+  }
+}

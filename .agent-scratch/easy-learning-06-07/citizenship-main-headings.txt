@@ -1,0 +1,255 @@
+6: # Citizenship — Learner-v2 Source-Complete Learning Session
+13: ## BASIC LEARNING SESSION
+18: ### Source audit, preservation, syllabus boundary and package counts
+41: ### OFFICIAL LIVE-STATUS DECISION — CHECKED THROUGH 21 AUGUST 2026
+81: #### Answer-line control register
+104: ### SESSION 1 — CITIZENSHIP AS LEGAL MEMBERSHIP: CITIZEN, ALIEN AND THE CONSTITUTIONAL RIGHTS MAP
+106: #### DEFINITION / WHAT THIS IS CALLED
+112: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+116: #### MUST-WRITE KEYWORDS
+168: #### CLOSING RECALL FLOW — CITIZENSHIP AS LEGAL MEMBERSHIP: CITIZEN, ALIEN AND THE CONSTITUTIONAL RIGHTS MAP
+188: ### SESSION 2 — CITIZENSHIP, DOMICILE AND RESIDENCE - AND WHY INDIA STILL HAS SINGLE CITIZENSHIP
+190: #### DEFINITION / WHAT THIS IS CALLED
+196: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+200: #### MUST-WRITE KEYWORDS
+239: #### CLOSING RECALL FLOW — CITIZENSHIP, DOMICILE AND RESIDENCE - AND WHY INDIA STILL HAS SINGLE CITIZENSHIP
+259: ### SESSION 3 — WHY ARTICLES 5-11 ARE TRANSITIONAL, BUT NOT UNIMPORTANT
+261: #### DEFINITION / WHAT THIS IS CALLED
+267: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+271: #### MUST-WRITE KEYWORDS
+298: #### CLOSING RECALL FLOW — WHY ARTICLES 5-11 ARE TRANSITIONAL, BUT NOT UNIMPORTANT
+318: ### SESSION 4 — ARTICLE 5 - DOMICILE PLUS ONE OF THREE CONNECTING FACTORS
+320: #### DEFINITION / WHAT THIS IS CALLED
+326: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+330: #### MUST-WRITE KEYWORDS
+350: #### CLOSING RECALL FLOW — ARTICLE 5 - DOMICILE PLUS ONE OF THREE CONNECTING FACTORS
+370: ### SESSION 5 — ARTICLE 6 - MIGRANTS FROM PAKISTAN AND THE 19 JULY 1948 DIVIDE
+372: #### DEFINITION / WHAT THIS IS CALLED
+378: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+382: #### MUST-WRITE KEYWORDS
+408: #### CLOSING RECALL FLOW — ARTICLE 6 - MIGRANTS FROM PAKISTAN AND THE 19 JULY 1948 DIVIDE
+428: ### SESSION 6 — ARTICLE 7 - MIGRATION TO PAKISTAN AFTER 1 MARCH 1947 AND THE PERMIT-RETURN EXCEPTION
+430: #### DEFINITION / WHAT THIS IS CALLED
+436: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+440: #### MUST-WRITE KEYWORDS
+459: #### CLOSING RECALL FLOW — ARTICLE 7 - MIGRATION TO PAKISTAN AFTER 1 MARCH 1947 AND THE PERMIT-RETURN EXCEPTION
+479: ### SESSION 7 — ARTICLE 8 - PERSONS OF INDIAN ORIGIN ORDINARILY RESIDENT OUTSIDE INDIA
+481: #### DEFINITION / WHAT THIS IS CALLED
+487: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+491: #### MUST-WRITE KEYWORDS
+508: #### CLOSING RECALL FLOW — ARTICLE 8 - PERSONS OF INDIAN ORIGIN ORDINARILY RESIDENT OUTSIDE INDIA
+528: ### SESSION 8 — ARTICLE 9 - THE COMMENCEMENT-CONTEXT FOREIGN-CITIZENSHIP DISQUALIFIER
+530: #### DEFINITION / WHAT THIS IS CALLED
+536: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+540: #### MUST-WRITE KEYWORDS
+557: #### CLOSING RECALL FLOW — ARTICLE 9 - THE COMMENCEMENT-CONTEXT FOREIGN-CITIZENSHIP DISQUALIFIER
+577: ### SESSION 9 — ARTICLE 10 - CONTINUANCE SUBJECT TO PARLIAMENTARY LAW
+579: #### DEFINITION / WHAT THIS IS CALLED
+585: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+589: #### MUST-WRITE KEYWORDS
+604: #### CLOSING RECALL FLOW — ARTICLE 10 - CONTINUANCE SUBJECT TO PARLIAMENTARY LAW
+624: ### SESSION 10 — ARTICLE 11 - PARLIAMENT'S CITIZENSHIP POWER
+626: #### DEFINITION / WHAT THIS IS CALLED
+632: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+636: #### MUST-WRITE KEYWORDS
+653: #### CLOSING RECALL FLOW — ARTICLE 11 - PARLIAMENT'S CITIZENSHIP POWER
+673: ### SESSION 11 — CITIZENSHIP ACT, 1955 - THE STATUTORY ARCHITECTURE
+675: #### DEFINITION / WHAT THIS IS CALLED
+681: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+685: #### MUST-WRITE KEYWORDS
+714: #### CLOSING RECALL FLOW — CITIZENSHIP ACT, 1955 - THE STATUTORY ARCHITECTURE
+734: ### SESSION 12 — CITIZENSHIP BY BIRTH - THREE PERIODS, NOT ONE RULE
+736: #### DEFINITION / WHAT THIS IS CALLED
+742: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+746: #### MUST-WRITE KEYWORDS
+774: #### CLOSING RECALL FLOW — CITIZENSHIP BY BIRTH - THREE PERIODS, NOT ONE RULE
+794: ### SESSION 13 — CITIZENSHIP BY DESCENT - GENDER CHANGE, REGISTRATION AND FOREIGN-PASSPORT CONTROLS
+796: #### DEFINITION / WHAT THIS IS CALLED
+802: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+806: #### MUST-WRITE KEYWORDS
+829: #### CLOSING RECALL FLOW — CITIZENSHIP BY DESCENT - GENDER CHANGE, REGISTRATION AND FOREIGN-PASSPORT CONTROLS
+849: ### SESSION 14 — CITIZENSHIP BY REGISTRATION - LISTED CATEGORIES AND EXACT RESIDENCE LOGIC
+851: #### DEFINITION / WHAT THIS IS CALLED
+857: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+861: #### MUST-WRITE KEYWORDS
+893: #### CLOSING RECALL FLOW — CITIZENSHIP BY REGISTRATION - LISTED CATEGORIES AND EXACT RESIDENCE LOGIC
+913: ### SESSION 15 — CITIZENSHIP BY NATURALISATION - THIRD SCHEDULE, WAIVER AND THE CAA MODIFICATION
+915: #### DEFINITION / WHAT THIS IS CALLED
+921: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+925: #### MUST-WRITE KEYWORDS
+953: #### CLOSING RECALL FLOW — CITIZENSHIP BY NATURALISATION - THIRD SCHEDULE, WAIVER AND THE CAA MODIFICATION
+973: ### SESSION 16 — CITIZENSHIP BY INCORPORATION OF TERRITORY
+975: #### DEFINITION / WHAT THIS IS CALLED
+981: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+985: #### MUST-WRITE KEYWORDS
+1000: #### CLOSING RECALL FLOW — CITIZENSHIP BY INCORPORATION OF TERRITORY
+1020: ### SESSION 17 — LOSS OF CITIZENSHIP - RENUNCIATION, TERMINATION AND DEPRIVATION
+1022: #### DEFINITION / WHAT THIS IS CALLED
+1028: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+1032: #### MUST-WRITE KEYWORDS
+1049: #### Renunciation
+1053: #### Termination
+1057: #### Deprivation - category gate first, grounds second
+1079: #### CLOSING RECALL FLOW — LOSS OF CITIZENSHIP - RENUNCIATION, TERMINATION AND DEPRIVATION
+1099: ### SESSION 18 — ASSAM ACCORD, SECTION 6A AND THE NRC CUT-OFF
+1101: #### DEFINITION / WHAT THIS IS CALLED
+1107: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+1111: #### MUST-WRITE KEYWORDS
+1146: #### CLOSING RECALL FLOW — ASSAM ACCORD, SECTION 6A AND THE NRC CUT-OFF
+1166: ### SESSION 19 — IN RE: SECTION 6A (17 OCTOBER 2024) - THE CONTROLLING 4:1 JUDGMENT
+1168: #### DEFINITION / WHAT THIS IS CALLED
+1174: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+1178: #### MUST-WRITE KEYWORDS
+1191: #### Result and opinions
+1199: #### Majority reasoning
+1214: #### Sole dissent
+1226: #### CLOSING RECALL FLOW — IN RE: SECTION 6A (17 OCTOBER 2024) - THE CONTROLLING 4:1 JUDGMENT
+1246: ### SESSION 20 — OCI AND PIO EVOLUTION - DIASPORA CONNECTION WITHOUT CITIZENSHIP
+1248: #### DEFINITION / WHAT THIS IS CALLED
+1254: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+1258: #### MUST-WRITE KEYWORDS
+1275: #### Evolution
+1286: #### OCI eligibility and exclusions
+1292: #### Rights and facilities under the 4 March 2021 notification
+1305: #### Political and public-office restrictions
+1315: #### Cancellation
+1328: #### CLOSING RECALL FLOW — OCI AND PIO EVOLUTION - DIASPORA CONNECTION WITHOUT CITIZENSHIP
+1348: ### SESSION 21 — CITIZENSHIP (AMENDMENT) ACT, 2019 AND RULES 2024 - EXACT OPERATION
+1350: #### DEFINITION / WHAT THIS IS CALLED
+1356: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+1360: #### MUST-WRITE KEYWORDS
+1373: #### Exact eligible statutory class
+1384: #### What Section 6B does
+1394: #### Territorial exclusions
+1403: #### Naturalisation residence change
+1407: #### Rules 2024 process
+1422: #### Operational status
+1425: #### A. POST-2024 CURRENT-LAW CONTROL: IMMIGRATION EXEMPTION IS NOT CITIZENSHIP
+1445: #### CLOSING RECALL FLOW — CITIZENSHIP (AMENDMENT) ACT, 2019 AND RULES 2024 - EXACT OPERATION
+1465: ### SESSION 22 — CAA, ARTICLE 14, SECULARISM AND ASSAM - ARGUMENT TREE, NOT SLOGAN
+1467: #### DEFINITION / WHAT THIS IS CALLED
+1473: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+1477: #### MUST-WRITE KEYWORDS
+1494: #### Article 14 test
+1498: #### Principal criticism
+1505: #### Principal defence
+1512: #### Qualified current conclusion
+1516: #### CLOSING RECALL FLOW — CAA, ARTICLE 14, SECULARISM AND ASSAM - ARGUMENT TREE, NOT SLOGAN
+1536: ### SESSION 23 — CITIZENSHIP PROOF AND DOCUMENT TRAPS
+1538: #### DEFINITION / WHAT THIS IS CALLED
+1544: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+1548: #### MUST-WRITE KEYWORDS
+1572: #### CLOSING RECALL FLOW — CITIZENSHIP PROOF AND DOCUMENT TRAPS
+1592: ### SESSION 24 — PRELIMS CLOSE-OPTION LABORATORY
+1594: #### DEFINITION / WHAT THIS IS CALLED
+1600: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+1604: #### MUST-WRITE KEYWORDS
+1629: #### MAINS ANSWER ARCHITECTURE AND QUALIFIED CONCLUSIONS
+1635: #### Answer spine A - "How does the Constitution deal with citizenship?"
+1644: #### Answer spine B - "Single citizenship versus regional protection"
+1653: #### Answer spine C - "CAA and Article 14"
+1662: #### Qualified conclusions
+1670: #### CLOSING RECALL FLOW — PRELIMS CLOSE-OPTION LABORATORY
+1690: ## BASIC MCQS / REMEDIATION
+1692: ### Forty core diagnostic MCQs
+1694: #### Core MCQ 1. Which one of the following most accurately states the constitutional position of non-citizens?
+1703: #### Core MCQ 2. A person claimed citizenship under Article 5 at commencement solely because the person had lived in India for five years. What additional constitutional requirement was indispensable?
+1712: #### Core MCQ 3. Which combination correctly describes an Article 6 migrant who came to India from Pakistan on or after 19 July 1948?
+1721: #### Core MCQ 4. Article 7's exception for a person who migrated to Pakistan after 1 March 1947 applies when the person
+1730: #### Core MCQ 5. Article 8 primarily concerned
+1739: #### Core MCQ 6. Which statement best captures Articles 10 and 11 together?
+1748: #### Core MCQ 7. A person was born in India on 2 July 1987. Which minimum statutory fact, apart from the Section 3(2) exceptions, would establish citizenship by birth?
+1757: #### Core MCQ 8. Which one is required for a person born outside India on or after 3 December 2004 to claim citizenship by descent?
+1766: #### Core MCQ 9. Which person has a Section 5 registration route but does not become a citizen automatically from the described relationship?
+1775: #### Core MCQ 10. Under the general Third Schedule rule, naturalisation ordinarily requires
+1784: #### Core MCQ 11. Which statement about distinguished-service naturalisation is correct?
+1793: #### Core MCQ 12. Which category is outside Section 10(1)'s deprivation gate?
+1802: #### Core MCQ 13. A full-age citizen makes a valid declaration giving up Indian citizenship. This is
+1811: #### Core MCQ 14. Termination under Section 9 is most directly linked to
+1820: #### Core MCQ 15. Which one of the following is the best legal distinction?
+1829: #### Core MCQ 16. Which textual caveat is most accurate?
+1838: #### Core MCQ 17. Under Section 6A, Indian-origin persons who came from the specified territory to Assam before 1 January 1966 and met the residence condition were
+1847: #### Core MCQ 18. A Section 6A person who came between 1 January 1966 and before 25 March 1971, was detected as a foreigner and registered
+1856: #### Core MCQ 19. What did the controlling majority hold in *In Re: Section 6A* (2024)?
+1865: #### Core MCQ 20. Justice J.B. Pardiwala's sole dissent would have
+1874: #### Core MCQ 21. Which is correct regarding OCI?
+1883: #### Core MCQ 22. Under the 2021 OCI notification, an OCI cardholder generally receives
+1892: #### Core MCQ 23. Which set exactly matches the CAA statutory class?
+1901: #### Core MCQ 24. Which statement about CAA operation is correct?
+1910: #### Core MCQ 25. What is the safest statement about the Immigration and Foreigners (Exemption) Order, 2025?
+1919: #### Core MCQ 26. Why is the statement "every citizen can vote as a Fundamental Right" incorrect?
+1928: #### Core MCQ 27. Which distinction is textually correct?
+1937: #### Core MCQ 28. Which statement correctly describes former Article 35A after the 2019 constitutional changes?
+1946: #### Core MCQ 29. Section 3(2) excludes citizenship by birth in India in which situation?
+1955: #### Core MCQ 30. For a person born outside India before 10 December 1992, the original descent rule ordinarily looked to
+1964: #### Core MCQ 31. In Section 5 registration routes using the seven-year ordinary-residence formula, "seven years" generally means
+1973: #### Core MCQ 32. Which citizen is outside Section 10(1)'s deprivation category gate?
+1982: #### Core MCQ 33. What follows when a full-age citizen's renunciation declaration is registered?
+1991: #### Core MCQ 34. Which statement about OCI cancellation is correct?
+2000: #### Core MCQ 35. Under Section 6B, which statement is correct?
+2009: #### Core MCQ 36. The territorial exclusions from Section 6B cover
+2018: #### Core MCQ 37. Which statement about an Electoral Photo Identity Card is most accurate?
+2027: #### Core MCQ 38. Which proposition about an Indian passport is safest?
+2036: #### Core MCQ 39. Why can a citizenship decision be judicially reviewed even though citizenship is not a Fundamental Right?
+2045: #### Core MCQ 40. Which is the safest current-status sentence as of 21 August 2026?
+2054: ### Eight remedial MCQs for recurring traps
+2056: #### Remedial MCQ 41. A student writes, "Aadhaar appears in a CAA Rules document list, so Aadhaar proves Indian citizenship." The best correction is
+2065: #### Remedial MCQ 42. A candidate states, "Article 9 by itself universally bans every form of dual status in every later case." The precise correction is
+2074: #### Remedial MCQ 43. A student says deprivation applies to every citizen whenever the Government alleges disloyalty. Which correction is best?
+2083: #### Remedial MCQ 44. A candidate writes that all entrants before 31 December 2014 are protected by Section 6A. The correction is
+2092: #### Remedial MCQ 45. A student says, "The 2024 Section 6A judgment struck the provision down because implementation was poor." The correction is
+2101: #### Remedial MCQ 46. A candidate describes an OCI cardholder as "an Indian citizen residing abroad." The correct category is
+2110: #### Remedial MCQ 47. A student states that the CAA's five-year rule eliminates every other naturalisation condition. The correction is
+2119: #### Remedial MCQ 48. A candidate writes, "State domicile proves that India has multiple citizenships." The best response is
+2128: ## PYQS AND ANSWER PRACTICE
+2130: ### PYQ provenance audit
+2141: ### PYQ 1. Prelims 2018, GS Paper I, Question 12 — official local paper; cross-topic citizenship-proof relevance
+2161: ### PYQ 2. UPSC Prelims 2021, GS Paper I, Question 89 - verbatim-verified from the local official paper
+2182: ### Six original solved Mains models
+2184: ### Original 10-marker 1: Distinguish citizenship, domicile and residence. Why does the distinction matter in Indian constitutional law? (150 words)
+2190: ### Original 10-marker 2: Explain why OCI is not dual citizenship. Evaluate the logic of its principal rights and restrictions. (150 words)
+2196: ### Original 15-marker 1: The Constitution settled citizenship at commencement but left its future architecture to Parliament. Discuss. (250 words)
+2202: ### Original 15-marker 2: Section 6A is constitutionally valid, but its implementation remains a governance challenge. Analyse in light of the 2024 Constitution Bench judgment. (250 words)
+2208: ### Original 20-marker 1: Critically examine the Citizenship (Amendment) Act, 2019 as a classification under Article 14 and as an instrument of humanitarian policy. (250 words)
+2214: ### Original 20-marker 2: India's single citizenship coexists with differentiated regional protections. Does this strengthen or weaken the Union? Discuss. (250 words)
+2220: ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
+2222: ### A. Citizenship is a gatekeeping status, not merely a rights bundle
+2226: ### B. Fraternity and exclusion pull in opposite directions
+2230: ### C. Equality review must identify the comparator
+2234: ### D. Temporal reasonableness after the Section 6A dissent
+2238: ### E. National membership and federal asymmetry
+2242: ### F. OCI as calibrated external membership
+2246: ### G. Political Theory cross-link - bounded enrichment only
+2252: ### H. A citizenship decision has at least four review layers
+2263: ## CONSOLIDATED REGISTER NOTES
+2265: ### Controlled answer-line bank
+2287: ### Current-law rapid controls — 21 August 2026
+2300: ### Membership map and rights
+2309: ### Citizenship, domicile, residence and single citizenship
+2317: ### Articles 5-11 rapid spine
+2329: ### Article 6 and 7 date drill
+2336: ### Acquisition under the Citizenship Act, 1955
+2340: #### Birth
+2347: #### Descent
+2353: #### Registration
+2359: #### Naturalisation
+2366: #### Incorporation
+2370: ### Loss under the Act
+2384: ### Assam Accord, Section 6A and NRC
+2392: ### In Re: Section 6A, 17 October 2024
+2401: ### OCI/PIO/NRI register
+2413: ### CAA 2019 + Rules 2024
+2427: ### CAA Article 14 answer frame
+2436: ### Document and proof traps
+2445: ### PYQ and close-option recall
+2457: ### Mains one-line verdicts
+2466: ### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+2470: #### ASCII MASTER FLOW — PANEL 1/9: Citizenship: membership, rights and single national status
+2489: #### ASCII MASTER FLOW — PANEL 2/9: Articles 5-7: commencement citizenship decision tree
+2506: #### ASCII MASTER FLOW — PANEL 3/9: Articles 8-11: overseas origin, continuity and Parliament
+2526: #### ASCII MASTER FLOW — PANEL 4/9: Five statutory routes to acquire citizenship
+2543: #### ASCII MASTER FLOW — PANEL 5/9: Birth and descent rules change across dates
+2560: #### ASCII MASTER FLOW — PANEL 6/9: Three routes of loss and their safeguards
+2581: #### ASCII MASTER FLOW — PANEL 7/9: Assam Section 6A: cut-offs, consequences and judicial control
+2601: #### ASCII MASTER FLOW — PANEL 8/9: OCI and CAA: connection is not citizenship
+2623: #### ASCII MASTER FLOW — PANEL 9/9: Exact 10/15-mark architecture: national membership and equality

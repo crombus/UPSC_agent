@@ -1,0 +1,75 @@
+ASCII MASTER FLOW — PANEL 1/12: Risk grammar
+HAZARD -> potential damaging event or process
+EXPOSURE -> people and assets in harm's way
+VULNERABILITY -> susceptibility
+CAPACITY -> strengths and resources
+INTERACTION -> disaster risk
+
+ASCII MASTER FLOW — PANEL 2/12: Hazard-to-disaster threshold
+HAZARDOUS EVENT + EXPOSURE + VULNERABILITY
+                    | moderated by capacity
+                    v
+SERIOUS DISRUPTION BEYOND COPING -> DISASTER
+
+ASCII MASTER FLOW — PANEL 3/12: Risk equation firewall
+USE -> organise relationships and policy levers
+DO NOT USE -> universal arithmetic prediction
+REDUCE -> exposure / vulnerability
+BUILD -> capacity
+
+ASCII MASTER FLOW — PANEL 4/12: Resilience capabilities
+RESIST + ABSORB + ACCOMMODATE
+ADAPT + TRANSFORM + RECOVER
+PRESERVE ESSENTIAL FUNCTIONS
+TRAP -> recovery is not automatic restoration of old risk
+
+ASCII MASTER FLOW — PANEL 5/12: Pre-disaster distinctions
+PREVENTION -> avoid risk where feasible
+MITIGATION -> lessen adverse impact
+PREPAREDNESS -> readiness to anticipate and act
+QUESTION -> what changes before impact?
+
+ASCII MASTER FLOW — PANEL 6/12: Response-to-recovery bridge
+IMMEDIATE RESPONSE -> life safety and basic needs
+EARLY RECOVERY -> restore access and services
+RECONSTRUCTION -> reduce future risk
+BUILD BACK BETTER -> do not reproduce vulnerability
+
+ASCII MASTER FLOW — PANEL 7/12: DRR operating scope
+PREVENT NEW RISK
+REDUCE EXISTING RISK
+MANAGE RESIDUAL RISK
+LINK -> risk-informed sustainable development
+
+ASCII MASTER FLOW — PANEL 8/12: Risk-creation loop
+DEVELOPMENT CHOICE -> exposure / vulnerability
+HAZARD INTERACTION -> loss
+RECOVERY CHOICE -> recreate or reduce risk
+FEEDBACK -> future resilience
+
+ASCII MASTER FLOW — PANEL 9/12: Sendai architecture
+2015-2030 | voluntary and non-binding
+4 PRIORITIES -> governance pathway
+7 TARGETS -> global monitoring frame
+OUTCOME -> substantial reduction of disaster risk and losses
+
+ASCII MASTER FLOW — PANEL 10/12: Four-priority rail
+1 UNDERSTAND DISASTER RISK
+2 STRENGTHEN RISK GOVERNANCE
+3 INVEST IN DRR FOR RESILIENCE
+4 PREPARE + BUILD BACK BETTER
+MUST REMEMBER: Disaster risk joins hazard, exposure, vulnerability and capacity;...
+
+ASCII MASTER FLOW — PANEL 11/12: Seven-target matrix
+A mortality | B affected people
+C economic loss/GDP | D critical systems
+E national/local strategies | F cooperation
+G multi-hazard warning and risk information
+CLOSE DISTINCTION: Hazard occurrence is not disaster impact; vulnerability is not...
+
+ASCII MASTER FLOW — PANEL 12/12: Answer and framework boundary
+DEFINE -> MAP RISK COMPONENTS -> LOCATE CYCLE PHASE
+APPLY SENDAI PRIORITY / TARGET
+LINK ADAPTATION + SDG WITHOUT MERGER
+QUALIFY -> INPUT IS NOT OUTCOME
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Define each risk term, show the...

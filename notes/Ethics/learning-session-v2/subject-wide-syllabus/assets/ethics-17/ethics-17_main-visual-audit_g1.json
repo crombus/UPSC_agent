@@ -1,0 +1,1676 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-17_Learning-Session.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Ethics\\learning-session-v2\\subject-wide-syllabus\\notes\\ethics-17_Learning-Session_2026-08-29.pdf",
+  "mode": "main",
+  "topic_key": "ethics-17",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 34,
+      "markdown_body_line_end": 47,
+      "heading": "SESSION 1 - Citizen-centric service: charter, culture and delivery as one ethical chain",
+      "preview": "**Subject:** Ethics | **GS Paper:** GS-IV | **Topic owner:** 17 **Scope:** Citizens' Charter design and use; service standards and time limits; disclosure, consultation, monitoring, review and accountability; grievance redress; Sevottam and",
+      "metadata": {
+        "line_count": 14
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 722.691
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 493.224
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 52,
+      "markdown_body_line_end": 72,
+      "heading": "1. Citizen-centric service is an ethical chain",
+      "preview": "LAWFUL PUBLIC PURPOSE",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 468.724
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 267.724
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 89,
+      "markdown_body_line_end": 95,
+      "heading": "The citizen is not merely a customer",
+      "preview": "Customer relationship | Citizen–public authority relationship",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Customer relationship",
+          "Citizen–public authority relationship"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 650.29
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 110,
+      "markdown_body_line_end": 118,
+      "heading": "2. Three connected but distinct ownership questions",
+      "preview": "PROMISE                         FAILURE RESPONSE                   CAPABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 523.59
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 442.59
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 140,
+      "markdown_body_line_end": 142,
+      "heading": "Exam-ready definition",
+      "preview": "A Citizens' Charter is a public service organisation's accessible statement of the services it provides, the standards and time expectations it commits to, relevant responsibilities and the recourse available when the commitment is not met.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 208.79
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 127.922
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 145,
+      "markdown_body_line_end": 157,
+      "heading": "Complete charter anatomy",
+      "preview": "Component | What the citizen should be able to know",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Component",
+          "What the citizen should be able to know"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 529.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 171,
+      "markdown_body_line_end": 172,
+      "heading": "Reciprocal clarity without false equivalence",
+      "preview": "**UPSC trap:** “citizen responsibility” cannot be used to transfer an unclear, fragmented or inaccessible administrative process onto the applicant.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 356.69
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 312.022
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 186,
+      "markdown_body_line_end": 194,
+      "heading": "Credibility test",
+      "preview": "IS THE PROMISE:",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 164.322
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 83.322
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 215,
+      "markdown_body_line_end": 224,
+      "heading": "Balanced standard matrix",
+      "preview": "Dimension | Good question | Failure if omitted",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Dimension",
+          "Good question",
+          "Failure if omitted"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 606.191
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 378.39
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 253,
+      "markdown_body_line_end": 253,
+      "heading": "Quality floor",
+      "preview": "**timely + correct + accessible + reasoned + correctable**, not time alone.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 753.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 274,
+      "markdown_body_line_end": 281,
+      "heading": "How it should be disclosed",
+      "preview": "Channel | Ethical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Channel",
+          "Ethical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 485.724
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 333.922
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 302,
+      "markdown_body_line_end": 309,
+      "heading": "Consultation map",
+      "preview": "CURRENT USERS -----------+",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 132.922
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 61.922
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 345,
+      "markdown_body_line_end": 351,
+      "heading": "Internal ownership",
+      "preview": "FRONTLINE -> verifies and assists",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 359.791
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 298.791
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 441,
+      "markdown_body_line_end": 452,
+      "heading": "Sevottam's integrated logic",
+      "preview": "1. CITIZENS' CHARTER",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 689.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 578.091
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 485,
+      "markdown_body_line_end": 491,
+      "heading": "Resolution-quality test",
+      "preview": "Weak indicator | Stronger companion indicator",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Weak indicator",
+          "Stronger companion indicator"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 512,
+      "markdown_body_line_end": 519,
+      "heading": "Formal promise versus lived norm",
+      "preview": "CHARTER SAYS                 CULTURE MAY ACTUALLY SAY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 400.89
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 329.89
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 555,
+      "markdown_body_line_end": 563,
+      "heading": "Professionalism",
+      "preview": "Element | Service expression",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Element",
+          "Service expression"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 627.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 454.49
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 603,
+      "markdown_body_line_end": 623,
+      "heading": "The redesign sequence",
+      "preview": "MAP CURRENT JOURNEY",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 722.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 521.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 711,
+      "markdown_body_line_end": 720,
+      "heading": "Exclusion risks",
+      "preview": "Barrier | Ethical consequence",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Barrier",
+          "Ethical consequence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 593.09
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 723,
+      "markdown_body_line_end": 733,
+      "heading": "Multi-channel principle",
+      "preview": "DIGITAL SELF-SERVICE",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 571.09
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 470.09
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 754,
+      "markdown_body_line_end": 771,
+      "heading": "Automated mismatch route",
+      "preview": "SYSTEM FLAGS MISMATCH",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 796,
+      "markdown_body_line_end": 806,
+      "heading": "Balanced dashboard",
+      "preview": "Metric | What it reveals | Gaming risk",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Metric",
+          "What it reveals",
+          "Gaming risk"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 332.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 116.89
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 844,
+      "markdown_body_line_end": 853,
+      "heading": "Assign responsibility at the correct level",
+      "preview": "Cause | Primary response",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Cause",
+          "Primary response"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 392.991
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 198.79
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 871,
+      "markdown_body_line_end": 882,
+      "heading": "Complete reform ladder",
+      "preview": "1. DEFINE lawful citizen outcome",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 722.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 611.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 910,
+      "markdown_body_line_end": 923,
+      "heading": "Verified PYQ map",
+      "preview": "Year | Direct or neutral route | Topic 17 use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 12,
+        "headers": [
+          "Year",
+          "Direct or neutral route",
+          "Topic 17 use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 768.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 489.29
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 942,
+      "markdown_body_line_end": 962,
+      "heading": "20-mark structure",
+      "preview": "CONSTITUTIONAL CITIZENSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 964,
+      "markdown_body_line_end": 967,
+      "heading": "20-mark structure",
+      "preview": "**Final thesis:** Citizens' Charters improve service only when specific and feasible standards are joined to capable workflow, humane work culture, correct grievance and legal routes, inclusive access, balanced measurement and visible learn",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 586.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 527.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2153,
+      "markdown_body_line_end": 2158,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER** **Subject:** Ethics | **GS Paper:** GS-IV | **Topic owner:** 17 This companion deepens service-standard design, organisational culture, administrative discretion, recovery, measur",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 390.691
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 317.624
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2165,
+      "markdown_body_line_end": 2180,
+      "heading": "1. The advanced problem: making public promises credible",
+      "preview": "NORMATIVE CREDIBILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 270.924
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 119.924
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2184,
+      "markdown_body_line_end": 2191,
+      "heading": "1. The advanced problem: making public promises credible",
+      "preview": "Failure family | Example | Corrective",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Failure family",
+          "Example",
+          "Corrective"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 651.49
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2216,
+      "markdown_body_line_end": 2218,
+      "heading": "Why the metaphor must be qualified",
+      "preview": "A Citizens' Charter is a **public administrative commitment** whose moral and managerial force can be strengthened by precise standards, monitoring and remedy. Legal enforceability depends on the applicable instrument, not on contractual me",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 359.39
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 300.522
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2230,
+      "markdown_body_line_end": 2238,
+      "heading": "3. Standard design as a multi-objective problem",
+      "preview": "SPEED <------> ACCURACY",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 27
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 185.222
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 104.222
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2266,
+      "markdown_body_line_end": 2269,
+      "heading": "Two errors",
+      "preview": "Error | Why it fails",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Error",
+          "Why it fails"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 516.191
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 449.19
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2272,
+      "markdown_body_line_end": 2286,
+      "heading": "Progressive commitment model",
+      "preview": "CURRENT VERIFIED CAPABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 427.19
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 286.19
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2312,
+      "markdown_body_line_end": 2328,
+      "heading": "Reinforcement loop",
+      "preview": "LEADER SIGNAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 744.091
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 583.091
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2345,
+      "markdown_body_line_end": 2349,
+      "heading": "Espoused, enacted and experienced culture",
+      "preview": "Layer | Question",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Layer",
+          "Question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 368.091
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 279.89
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2375,
+      "markdown_body_line_end": 2386,
+      "heading": "Structured discretion",
+      "preview": "CLEAR ELIGIBILITY + PLAIN GUIDANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 34
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 746.891
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 635.891
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2405,
+      "markdown_body_line_end": 2410,
+      "heading": "7. Grievance data as service-design intelligence",
+      "preview": "Use | Question",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Use",
+          "Question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 449.791
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 340.39
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2427,
+      "markdown_body_line_end": 2429,
+      "heading": "From complaint to prevention",
+      "preview": "REGISTER -> CLASSIFY -> RESOLVE -> VERIFY -> AGGREGATE -> REDESIGN -> REVISE CHARTER",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 766.291
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2462,
+      "markdown_body_line_end": 2471,
+      "heading": "Types of remedy",
+      "preview": "Remedy | Purpose",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Remedy",
+          "Purpose"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 345.791
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 151.59
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2494,
+      "markdown_body_line_end": 2501,
+      "heading": "Common adaptations",
+      "preview": "Target | Possible gaming",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Target",
+          "Possible gaming"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 669.791
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 517.99
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2504,
+      "markdown_body_line_end": 2516,
+      "heading": "Balanced control",
+      "preview": "QUANTITATIVE METRIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 30
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 495.99
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 374.99
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2540,
+      "markdown_body_line_end": 2546,
+      "heading": "Genuine single-window test",
+      "preview": "Front-end appearance | Back-end reality to test",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Front-end appearance",
+          "Back-end reality to test"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 748.091
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 617.49
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2556,
+      "markdown_body_line_end": 2568,
+      "heading": "Risk-migration map",
+      "preview": "FRONT-END DELAY REMOVED",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 525.89
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 404.89
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2628,
+      "markdown_body_line_end": 2633,
+      "heading": "Four levels",
+      "preview": "Level | Question",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Level",
+          "Question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 406.191
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 296.79
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2674,
+      "markdown_body_line_end": 2680,
+      "heading": "Just culture",
+      "preview": "Behaviour/cause | Response",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Behaviour/cause",
+          "Response"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 511.391
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 380.79
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2714,
+      "markdown_body_line_end": 2723,
+      "heading": "Distinction bank",
+      "preview": "Pair | Advanced formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Pair",
+          "Advanced formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 724.391
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 496.59
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2760,
+      "markdown_body_line_end": 2763,
+      "heading": "Reply",
+      "preview": "**Advanced conclusion:** Citizen-centricity is not a softer style of bureaucracy. It is a demanding architecture in which public power states a specific promise, makes the whole service journey usable, remains answerable for failure, restor",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 700.091
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 641.224
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2773,
+      "markdown_body_line_end": 2802,
+      "heading": "ASCII PANEL 1/12 - 1. Citizen-centric service chain",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 542.024
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 251.024
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2806,
+      "markdown_body_line_end": 2835,
+      "heading": "ASCII PANEL 2/12 - 2. Complete charter anatomy",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2839,
+      "markdown_body_line_end": 2868,
+      "heading": "ASCII PANEL 3/12 - 3. Standard design matrix",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2872,
+      "markdown_body_line_end": 2901,
+      "heading": "ASCII PANEL 4/12 - 4. Consultation and review loop",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2905,
+      "markdown_body_line_end": 2935,
+      "heading": "ASCII PANEL 5/12 - 5. Three instruments kept distinct",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2939,
+      "markdown_body_line_end": 2968,
+      "heading": "ASCII PANEL 6/12 - 6. Sevottam and CPGRAMS route",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2972,
+      "markdown_body_line_end": 3001,
+      "heading": "ASCII PANEL 7/12 - 7. Ethical work-culture engine",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3005,
+      "markdown_body_line_end": 3034,
+      "heading": "ASCII PANEL 8/12 - 8. Facilitative administration",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3038,
+      "markdown_body_line_end": 3067,
+      "heading": "ASCII PANEL 9/12 - 9. Process before portal",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3071,
+      "markdown_body_line_end": 3100,
+      "heading": "ASCII PANEL 10/12 - 10. Last-mile inclusion ladder",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3104,
+      "markdown_body_line_end": 3134,
+      "heading": "ASCII PANEL 11/12 - 11. Metrics and anti-gaming dashboard",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3138,
+      "markdown_body_line_end": 3168,
+      "heading": "ASCII PANEL 12/12 - 12. Complete examiner answer spine",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3172,
+      "markdown_body_line_end": 3185,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 712.69
+        }
+      },
+      "pdf_pages": [
+        73,
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3299,
+      "markdown_body_line_end": 3308,
+      "heading": "RAPID DISTINCTION TABLE",
+      "preview": "Pair | Controlling distinction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Pair",
+          "Controlling distinction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 721.491
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 460.09
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    }
+  ]
+}

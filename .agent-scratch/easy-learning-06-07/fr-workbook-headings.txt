@@ -1,0 +1,85 @@
+5: # Fundamental Rights — Learner-v2 Source-Complete Learning Session
+7: ## BASIC MCQS / REMEDIATION
+9: ### Forty core diagnostic MCQs
+13: #### Q1. With reference to the architecture of Part III, consider the following statements:
+31: #### Q2. Which one of the following correctly distinguishes beneficiary and horizontal application?
+42: #### Q3. A society is almost entirely financed by government, performs a function transferred from a department, and is subject to pervasive administrative control. Which is the most appropriate constitutional approach?
+53: #### Q4. Which statement about Article 13 is correct?
+64: #### Q5. A pre-Constitution transport law conflicts with a newly enforceable Fundamental Right but is not repealed. Later, the constitutional bar is validly removed. Which doctrine most directly explains possible revival?
+75: #### Q6. Which sequence most accurately describes the amendment-Fundamental Rights relationship?
+86: #### Q7. A law creates two classes using an intelligible criterion, but the criterion has no relation to the law's stated objective. Under Article 14, the classification
+97: #### Q8. Which one best captures the relationship between classification and arbitrariness under Article 14?
+108: #### Q9. Which special provision is constitutionally authorised by Article 15(3)?
+119: #### Q10. Which statement concerning Article 16(4) is most accurate?
+130: #### Q11. Consider the following pairs:
+147: #### Q12. After *State of Punjab v. Davinder Singh* (2024), which proposition is correct?
+158: #### Q13. Which combination is correct?
+169: #### Q14. Which Article 19 restriction pairing is correct?
+180: #### Q15. With reference to the First Amendment's speech impact, consider the following:
+198: #### Q16. The 2024 Electoral Bonds judgment is best understood as holding that
+209: #### Q17. Which statement accurately compares IPC section 124A and BNS section 152?
+220: #### Q18. Which is a correct statement of *Shreya Singhal*?
+231: #### Q19. *Anuradha Bhasin* most directly supports which proposition?
+242: #### Q20. Which statement about criminal defamation is correct?
+253: #### Q21. Which Article 20 statement is correct?
+264: #### Q22. Which of the following is most likely protected by Article 20(3)?
+275: #### Q23. Which sequence best represents Article 21's doctrinal expansion?
+286: #### Q24. A court considers compulsory prenatal DNA testing solely because one party makes a bare allegation. Which is the strongest constitutional objection?
+297: #### Q25. Which statement about Article 21A is correct?
+308: #### Q26. Which is correct regarding preventive detention under the current constitutional text?
+319: #### Q27. Consider the following:
+336: #### Q28. Which statement correctly distinguishes Articles 25 and 26?
+347: #### Q29. Which is the most accurate statement of the Essential Religious Practices doctrine?
+358: #### Q30. Which statement about Articles 29 and 30 is correct?
+369: #### Q31. A tribunal is about to hear a matter that the statute plainly places outside its jurisdiction. Which writ is most directly preventive?
+380: #### Q32. Which proposition about Articles 32 and 226 is correct?
+391: #### Q33. Which statement about Article 31B is correct?
+402: #### Q34. After *Property Owners Association* (2024), which proposition is correct?
+413: #### Q35. Which combination is correctly matched?
+428: #### Q36. Which statement accurately distinguishes Articles 358 and 359?
+439: #### Q37. A candidate writes, "Article 27 prevents government from collecting any fee connected with a pilgrimage or religious institution." The correction is:
+450: #### Q38. A student writes, "Article 29 is only for minorities and Article 30 prevents all regulation." The best correction is:
+461: #### Q39. A candidate writes, "A Ninth Schedule law cannot be reviewed by any court." The correction is:
+472: #### Q40. A student states, "Article 359 suspends the Fundamental Right itself, including Articles 20 and 21." The correct position is:
+483: ### Eight remedial MCQs
+487: #### R1. A candidate writes, "All Fundamental Rights are available only to citizens." The best correction is:
+498: #### R2. A student says, "A private organisation can never face a Fundamental Rights remedy." The correct response is:
+509: #### R3. A candidate writes, "The 50 per cent reservation ceiling is an exceptionless mathematical rule." The best correction is:
+520: #### R4. A student writes, "Davinder Singh requires every State to create a Scheduled Caste sub-quota." The correction is:
+531: #### R5. A candidate writes, "Anuradha Bhasin declared internet access a Fundamental Right." The best correction is:
+542: #### R6. A student writes, "BNS section 152 is just IPC section 124A with a new number." The correct response is:
+553: #### R7. A candidate states, "Article 20(3) prevents collection of every bodily sample." The precise correction is:
+564: #### R8. A student says, "The 44th Amendment reduced preventive detention without Advisory Board approval to two months." The correct position is:
+575: ## PYQS AND ANSWER PRACTICE
+577: ### Twenty-one verified routed PYQs with independent solutions
+579: #### Mains PYQ 1. UPSC 2019 GS-II Q5 - What can France learn from the Indian Constitution's approach to secularism? (10 marks, 150 words)
+585: #### Mains PYQ 2. UPSC 2021 GS-II Q13 - Analyze the distinguishing features of the notion of Right to Equality in the Constitutions of the USA and India. (15 marks, 250 words)
+601: #### Mains PYQ 3. UPSC 2022 GS-II Q2 - "Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute." Comment. (10 marks, 150 words)
+615: #### Mains PYQ 4. UPSC 2023 GS-II Q11 - "The Constitution of India is a living instrument with capabilities of enormous dynamism. It is a constitution made for a progressive society." Illustrate with special reference to the expanding horizons of the right to life and personal liberty. (15 marks, 250 words)
+631: #### Mains PYQ 5. UPSC 2023 GS-II Q12 - Explain the constitutional perspectives of Gender Justice with the help of relevant Constitutional Provisions and case laws. (15 marks, 250 words)
+647: #### Mains PYQ 6. UPSC 2024 GS-II Q12 - Right to privacy is intrinsic to life and personal liberty and is inherently protected under Article 21 of the Constitution. Explain. In this reference discuss the law relating to D.N.A. testing of child in the womb to establish its paternity. (15 marks, 250 words)
+661: #### Prelims PYQ 1. UPSC 2018 GS-I Q92 - Privacy
+674: #### Prelims PYQ 2. UPSC 2019 GS-I Q56 - Right to marry
+687: #### Prelims PYQ 3. UPSC 2019 GS-I Q85 - Liberty
+700: #### Prelims PYQ 4. UPSC 2020 GS-I Q4 - Untouchability
+713: #### Prelims PYQ 5. UPSC 2021 GS-I Q79 - Privacy Article
+726: #### Prelims PYQ 6. UPSC 2021 GS-I Q82 - Judicial custody
+744: #### Prelims PYQ 7. UPSC 2021 GS-I Q83 - Parole
+762: #### Prelims PYQ 8. UPSC 2021 GS-I Q85 - Unguided discretion
+775: #### Prelims PYQ 9. UPSC 2021 GS-I Q92 - Right to Property
+788: #### Prelims PYQ 10. UPSC 2021 GS-I Q96 - Bharat Ratna and Padma Awards
+807: #### Prelims PYQ 11. UPSC 2022 GS-I Q18 - Mandamus and Quo Warranto
+826: #### Prelims PYQ 12. UPSC 2023 GS-I Q31 - Due Process
+839: #### Prelims PYQ 13. UPSC 2023 GS-I Q40 - Reservation and efficiency
+858: #### Prelims PYQ 14. UPSC 2024 GS-I Q76 - Right to Privacy
+871: #### Prelims PYQ 15. UPSC 2026 GS-I Q54 - Article 13 and custom
+884: ### Nine original solved Mains models
+886: #### OQ1. Fundamental Rights are qualified guarantees, not absolute liberties. Explain the constitutional method by which India limits and protects them. (10 marks, 150 words)
+900: #### OQ2. Article 13 makes judicial review practical through a family of doctrines. Discuss severability, eclipse and waiver. (10 marks, 150 words)
+916: #### OQ3. Preventive detention is a constitutional anomaly within the Right to Freedom. Examine. (10 marks, 150 words)
+932: #### OQ4. India's reservation jurisprudence seeks substantive equality but is controlled by evidence, limits and administrative efficiency. Analyse. (15 marks, 250 words)
+948: #### OQ5. India's freedom of speech is protected through a structured test, not an absolute slogan. Discuss with special reference to digital speech and political information. (15 marks, 250 words)
+966: #### OQ6. Article 21 has transformed the Supreme Court into a guarantor of dignity, but its expansion also raises institutional concerns. Critically examine. (15 marks, 250 words)
+982: #### OQ7. Religious freedom in India combines protection, regulation and reform. Critically examine the Essential Religious Practices doctrine within this model. (20 marks, 250 words)
+1000: #### OQ8. "Article 32 is the heart and soul of the Constitution, but Article 226 is the wider remedial jurisdiction." Examine. (20 marks, 250 words)
+1018: #### OQ9. Part III reconciles rights with social revolution and constitutional emergency, but not without tension. Evaluate with reference to Articles 31A-31C, 33-35 and 358-359. (20 marks, 250 words)

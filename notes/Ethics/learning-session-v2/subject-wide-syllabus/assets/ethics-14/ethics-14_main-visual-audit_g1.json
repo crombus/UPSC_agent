@@ -1,0 +1,705 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-14_Learning-Session.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Ethics\\learning-session-v2\\subject-wide-syllabus\\notes\\ethics-14_Learning-Session_2026-08-29.pdf",
+  "mode": "main",
+  "topic_key": "ethics-14",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 34,
+      "markdown_body_line_end": 41,
+      "heading": "SESSION 1 - Probity in the UPSC syllabus and the public-office setting",
+      "preview": "**Subject:** Ethics | **Tier:** Must-Do (foundation) | **GS Paper:** GS-IV. **Core area:** Probity in governance — concept, philosophical basis, and distinction from integrity and honesty (official UPSC GS-IV syllabus item: \"Philosophical b",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 621.824
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 46,
+      "markdown_body_line_end": 65,
+      "heading": "1. Visual foundation",
+      "preview": "HONESTY              INTEGRITY                    PROBITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 598.324
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 407.324
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 86,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 462.29
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 190,
+      "markdown_body_line_end": 193,
+      "heading": "8. Mains angles",
+      "preview": "**Answer thesis:** Probity is upright, impartial and public-purpose conduct in entrusted public office, made demonstrable through reasons, records and appropriate scrutiny. It overlaps with honesty and integrity without reducing to either, ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 388.391
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 315.324
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 221,
+      "markdown_body_line_end": 222,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 629.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 563.224
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 242,
+      "markdown_body_line_end": 242,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 321.424
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 276.756
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 248,
+      "markdown_body_line_end": 249,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 276.756
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 210.088
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 314,
+      "markdown_body_line_end": 314,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 741.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1481,
+      "markdown_body_line_end": 1488,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Ethics | **Tier:** Advanced | **GS Paper:** GS-IV. **Core area:** Deeper philosophical and institutional treatment of probity, good governance and their theoretical foundations. **Grounded in:** 2nd ARC, 4th Report *Ethics in G",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 343.091
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 241.624
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1493,
+      "markdown_body_line_end": 1509,
+      "heading": "1. Architecture",
+      "preview": "PHILOSOPHICAL ROOTS OF PROBITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 214.124
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 53.124
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1518,
+      "markdown_body_line_end": 1523,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 716.491
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 416.69
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1625,
+      "markdown_body_line_end": 1627,
+      "heading": "9. Current application",
+      "preview": "Current application (verify before use) | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 1,
+        "headers": [
+          "Current application (verify before use)",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 428.691
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 315.69
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1677,
+      "markdown_body_line_end": 1678,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 279.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 234.624
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1743,
+      "markdown_body_line_end": 1743,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 564.491
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 519.824
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1754,
+      "markdown_body_line_end": 1784,
+      "heading": "ASCII PANEL 1/12 - 1. Entrusted office and legitimacy",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 420.624
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 119.624
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1788,
+      "markdown_body_line_end": 1817,
+      "heading": "ASCII PANEL 2/12 - 2. Non-hierarchical overlap map",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1821,
+      "markdown_body_line_end": 1850,
+      "heading": "ASCII PANEL 3/12 - 3. Law, propriety and remedy",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1854,
+      "markdown_body_line_end": 1883,
+      "heading": "ASCII PANEL 4/12 - 4. Conflict and recusal route",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1887,
+      "markdown_body_line_end": 1916,
+      "heading": "ASCII PANEL 5/12 - 5. High-discretion control stack",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1920,
+      "markdown_body_line_end": 1950,
+      "heading": "ASCII PANEL 6/12 - 6. Deontology and constitutional morality",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1954,
+      "markdown_body_line_end": 1983,
+      "heading": "ASCII PANEL 7/12 - 7. Virtue and phronesis",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1987,
+      "markdown_body_line_end": 2016,
+      "heading": "ASCII PANEL 8/12 - 8. Trusteeship boundary",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2020,
+      "markdown_body_line_end": 2050,
+      "heading": "ASCII PANEL 9/12 - 9. Procurement Integrity Pact",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2054,
+      "markdown_body_line_end": 2083,
+      "heading": "ASCII PANEL 10/12 - 10. Asset-disclosure distinctions",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2087,
+      "markdown_body_line_end": 2116,
+      "heading": "ASCII PANEL 11/12 - 11. RTI, audit and social audit",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2120,
+      "markdown_body_line_end": 2149,
+      "heading": "ASCII PANEL 12/12 - 12. Bona fides and proportionate review",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2153,
+      "markdown_body_line_end": 2166,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 58.29
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    }
+  ]
+}

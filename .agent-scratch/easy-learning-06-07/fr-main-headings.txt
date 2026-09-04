@@ -1,0 +1,370 @@
+6: # Fundamental Rights — Learner-v2 Source-Complete Learning Session
+13: ## BASIC LEARNING SESSION
+18: ### Source audit, preservation, syllabus boundary and package counts
+27: ### OFFICIAL LIVE-STATUS DECISION — CHECKED THROUGH 21 AUGUST 2026
+38: #### Answer-line control register
+66: #### Package method, roadmap boundary and current-law control
+94: #### Roadmap
+107: ### SESSION 1 — PART III AS AN ARCHITECTURE: RIGHTS, LIMITS, REMEDIES AND SPECIAL CONTROLS
+109: #### DEFINITION / WHAT THIS IS CALLED
+115: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+119: #### MUST-WRITE KEYWORDS
+147: #### Six rights and their Article spans
+160: #### CLOSING RECALL FLOW — PART III AS AN ARCHITECTURE: RIGHTS, LIMITS, REMEDIES AND SPECIAL CONTROLS
+180: ### SESSION 2 — BENEFICIARIES, VERTICAL AND HORIZONTAL REACH, POSITIVE AND NEGATIVE DUTIES
+182: #### DEFINITION / WHAT THIS IS CALLED
+188: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+192: #### MUST-WRITE KEYWORDS
+209: #### Citizen-only and person-protective guarantees
+223: #### Vertical and horizontal application
+230: #### Negative and positive dimensions
+236: #### CLOSING RECALL FLOW — BENEFICIARIES, VERTICAL AND HORIZONTAL REACH, POSITIVE AND NEGATIVE DUTIES
+256: ### SESSION 3 — QUALIFIED RIGHTS, REASONABLE RESTRICTIONS AND PROPORTIONALITY
+258: #### DEFINITION / WHAT THIS IS CALLED
+264: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+268: #### MUST-WRITE KEYWORDS
+291: #### The modern review sequence
+302: #### CLOSING RECALL FLOW — QUALIFIED RIGHTS, REASONABLE RESTRICTIONS AND PROPORTIONALITY
+322: ### SESSION 4 — ARTICLE 12 - THE STATE AND THE INSTRUMENTALITY INQUIRY
+324: #### DEFINITION / WHAT THIS IS CALLED
+330: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+334: #### MUST-WRITE KEYWORDS
+358: #### Other authorities
+373: #### Article 12 versus Article 226
+381: #### CLOSING RECALL FLOW — ARTICLE 12 - THE STATE AND THE INSTRUMENTALITY INQUIRY
+401: ### SESSION 5 — ARTICLE 13 - LAW, JUDICIAL REVIEW AND THE VOIDNESS DOCTRINES
+403: #### DEFINITION / WHAT THIS IS CALLED
+409: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+413: #### MUST-WRITE KEYWORDS
+430: #### What "law" includes
+434: #### Pre- and post-Constitution law
+441: #### Doctrine of severability
+447: #### Doctrine of eclipse
+453: #### No waiver of Fundamental Rights
+459: #### Prospective overruling
+463: #### Constitutional amendments and basic structure
+475: #### CLOSING RECALL FLOW — ARTICLE 13 - LAW, JUDICIAL REVIEW AND THE VOIDNESS DOCTRINES
+495: ### SESSION 6 — ARTICLE 14 - TWIN EQUALITY, CLASSIFICATION AND ANTI-ARBITRARINESS
+497: #### DEFINITION / WHAT THIS IS CALLED
+503: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+507: #### MUST-WRITE KEYWORDS
+524: #### Twin concepts
+533: #### Reasonable classification test
+540: #### From classification to arbitrariness
+551: #### Constitutional exceptions and immunities
+558: #### CLOSING RECALL FLOW — ARTICLE 14 - TWIN EQUALITY, CLASSIFICATION AND ANTI-ARBITRARINESS
+578: ### SESSION 7 — ARTICLES 15 AND 16 - NON-DISCRIMINATION AND PROTECTIVE DISCRIMINATION
+580: #### DEFINITION / WHAT THIS IS CALLED
+586: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+590: #### MUST-WRITE KEYWORDS
+605: #### Article 15
+616: #### Enabling clauses under Article 15
+627: #### Article 16
+642: #### CLOSING RECALL FLOW — ARTICLES 15 AND 16 - NON-DISCRIMINATION AND PROTECTIVE DISCRIMINATION
+662: ### SESSION 8 — RESERVATION DOCTRINE: CREAMY LAYER, CEILING, PROMOTION, EFFICIENCY, EWS AND SC SUB-CLASSIFICATION
+664: #### DEFINITION / WHAT THIS IS CALLED
+670: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+674: #### MUST-WRITE KEYWORDS
+691: #### Indra Sawhney (1992)
+703: #### Promotion amendments and doctrine
+712: #### Creamy layer
+717: #### Article 335 and efficiency
+723: #### EWS
+733: #### Davinder Singh (2024)
+747: #### CLOSING RECALL FLOW — RESERVATION DOCTRINE: CREAMY LAYER, CEILING, PROMOTION, EFFICIENCY, EWS AND SC SUB-CLASSIFICATION
+767: ### SESSION 9 — ARTICLES 17 AND 18 - ANTI-UNTOUCHABILITY AND ANTI-TITLE GUARANTEES
+769: #### DEFINITION / WHAT THIS IS CALLED
+775: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+779: #### MUST-WRITE KEYWORDS
+794: #### Article 17
+805: #### Article 18
+818: #### CLOSING RECALL FLOW — ARTICLES 17 AND 18 - ANTI-UNTOUCHABILITY AND ANTI-TITLE GUARANTEES
+838: ### SESSION 10 — ARTICLE 19 - SIX FREEDOMS AND EXACT RESTRICTION GROUNDS
+840: #### DEFINITION / WHAT THIS IS CALLED
+846: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+850: #### MUST-WRITE KEYWORDS
+867: #### The six freedoms
+876: #### Exact grounds
+888: #### Internal movement, residence and travel abroad
+894: #### Assembly and association cautions
+900: #### Profession and trade
+906: #### CLOSING RECALL FLOW — ARTICLE 19 - SIX FREEDOMS AND EXACT RESTRICTION GROUNDS
+926: ### SESSION 11 — SPEECH, PRESS, RIGHT TO KNOW AND THE FIRST AMENDMENT SETTLEMENT
+928: #### DEFINITION / WHAT THIS IS CALLED
+934: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+938: #### MUST-WRITE KEYWORDS
+951: #### Press and circulation
+959: #### First Amendment, 1951
+971: #### Right to know
+981: #### CLOSING RECALL FLOW — SPEECH, PRESS, RIGHT TO KNOW AND THE FIRST AMENDMENT SETTLEMENT
+1001: ### SESSION 12 — SEDITION LINEAGE, BNS SECTION 152 AND SPEECH-INCITEMENT DISCIPLINE
+1003: #### DEFINITION / WHAT THIS IS CALLED
+1009: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+1013: #### MUST-WRITE KEYWORDS
+1024: #### Kedar Nath Singh (1962)
+1030: #### S.G. Vombatkere
+1036: #### Bharatiya Nyaya Sanhita section 152
+1052: #### CLOSING RECALL FLOW — SEDITION LINEAGE, BNS SECTION 152 AND SPEECH-INCITEMENT DISCIPLINE
+1072: ### SESSION 13 — DIGITAL SPEECH: SHREYA SINGHAL, INTERNET SHUTDOWNS AND CRIMINAL DEFAMATION
+1074: #### DEFINITION / WHAT THIS IS CALLED
+1080: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+1084: #### MUST-WRITE KEYWORDS
+1095: #### Shreya Singhal (2015)
+1106: #### Anuradha Bhasin (2020)
+1118: #### Criminal defamation
+1126: #### CLOSING RECALL FLOW — DIGITAL SPEECH: SHREYA SINGHAL, INTERNET SHUTDOWNS AND CRIMINAL DEFAMATION
+1146: ### SESSION 14 — ARTICLE 20 - EX POST FACTO LAW, DOUBLE JEOPARDY AND SELF-INCRIMINATION
+1148: #### DEFINITION / WHAT THIS IS CALLED
+1154: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+1158: #### MUST-WRITE KEYWORDS
+1175: #### Article 20(1): ex post facto criminal law
+1182: #### Article 20(2): double jeopardy
+1189: #### Article 20(3): self-incrimination
+1201: #### CLOSING RECALL FLOW — ARTICLE 20 - EX POST FACTO LAW, DOUBLE JEOPARDY AND SELF-INCRIMINATION
+1221: ### SESSION 15 — ARTICLE 21 - GOPALAN TO MANEKA: FAIR PROCEDURE AND THE DIGNITY CHARTER
+1223: #### DEFINITION / WHAT THIS IS CALLED
+1229: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+1233: #### MUST-WRITE KEYWORDS
+1250: #### Text and early approach
+1260: #### Life means dignified life
+1284: #### CLOSING RECALL FLOW — ARTICLE 21 - GOPALAN TO MANEKA: FAIR PROCEDURE AND THE DIGNITY CHARTER
+1304: ### SESSION 16 — PRIVACY, PROPORTIONALITY, DNA TESTING AND DATA PROTECTION
+1306: #### DEFINITION / WHAT THIS IS CALLED
+1312: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+1316: #### MUST-WRITE KEYWORDS
+1327: #### Puttaswamy (2017)
+1339: #### Privacy limitation test
+1348: #### DNA and paternity
+1362: #### DPDP control
+1368: #### CLOSING RECALL FLOW — PRIVACY, PROPORTIONALITY, DNA TESTING AND DATA PROTECTION
+1388: ### SESSION 17 — ARTICLE 21A - EDUCATION AS A FUNDAMENTAL RIGHT
+1390: #### DEFINITION / WHAT THIS IS CALLED
+1396: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+1400: #### MUST-WRITE KEYWORDS
+1422: #### Judicial and statutory sequence
+1432: #### CLOSING RECALL FLOW — ARTICLE 21A - EDUCATION AS A FUNDAMENTAL RIGHT
+1452: ### SESSION 18 — ARTICLE 22 - ORDINARY ARREST, PREVENTIVE DETENTION AND THE UNENFORCED 44TH AMENDMENT CLAUSE
+1454: #### DEFINITION / WHAT THIS IS CALLED
+1460: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+1464: #### MUST-WRITE KEYWORDS
+1481: #### Ordinary arrest: Articles 22(1)-(2)
+1490: #### Exceptions under Article 22(3)
+1499: #### Preventive detention
+1508: #### The Forty-fourth Amendment trap
+1516: #### CLOSING RECALL FLOW — ARTICLE 22 - ORDINARY ARREST, PREVENTIVE DETENTION AND THE UNENFORCED 44TH AMENDMENT CLAUSE
+1536: ### SESSION 19 — ARTICLES 23-24 - EXPLOITATION, FORCED LABOUR AND CHILD LABOUR
+1538: #### DEFINITION / WHAT THIS IS CALLED
+1544: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+1548: #### MUST-WRITE KEYWORDS
+1563: #### Article 23
+1577: #### Article 24
+1590: #### CLOSING RECALL FLOW — ARTICLES 23-24 - EXPLOITATION, FORCED LABOUR AND CHILD LABOUR
+1610: ### SESSION 20 — ARTICLES 25-28 - CONSCIENCE, DENOMINATION, SECULAR REGULATION AND PRINCIPLED DISTANCE
+1612: #### DEFINITION / WHAT THIS IS CALLED
+1618: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+1622: #### MUST-WRITE KEYWORDS
+1639: #### Article 25
+1653: #### Article 26
+1664: #### Essential Religious Practices doctrine
+1680: #### Article 27
+1686: #### Article 28
+1695: #### Principled-distance secularism
+1706: #### CLOSING RECALL FLOW — ARTICLES 25-28 - CONSCIENCE, DENOMINATION, SECULAR REGULATION AND PRINCIPLED DISTANCE
+1726: ### SESSION 21 — ARTICLES 29-30 - CULTURAL CONSERVATION AND MINORITY EDUCATIONAL AUTONOMY
+1728: #### DEFINITION / WHAT THIS IS CALLED
+1734: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+1738: #### MUST-WRITE KEYWORDS
+1755: #### Article 29
+1762: #### Article 30
+1772: #### Governing cases
+1780: #### Article 29(2) and Article 30 interaction
+1784: #### CLOSING RECALL FLOW — ARTICLES 29-30 - CULTURAL CONSERVATION AND MINORITY EDUCATIONAL AUTONOMY
+1804: ### SESSION 22 — ARTICLE 32 AND THE FIVE WRITS
+1806: #### DEFINITION / WHAT THIS IS CALLED
+1812: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+1816: #### MUST-WRITE KEYWORDS
+1837: #### Five writs
+1847: #### Article 32 versus Article 226
+1858: #### PIL boundary
+1862: #### CLOSING RECALL FLOW — ARTICLE 32 AND THE FIVE WRITS
+1882: ### SESSION 23 — ARTICLES 31A, 31B AND 31C - SAVING PROVISIONS WITHOUT BLANKET IMMUNITY
+1884: #### DEFINITION / WHAT THIS IS CALLED
+1890: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+1894: #### MUST-WRITE KEYWORDS
+1911: #### Article 31A
+1917: #### Article 31B and the Ninth Schedule
+1925: #### Article 31C
+1938: #### CLOSING RECALL FLOW — ARTICLES 31A, 31B AND 31C - SAVING PROVISIONS WITHOUT BLANKET IMMUNITY
+1958: ### SESSION 24 — RIGHT TO PROPERTY: ARTICLE 31 TRANSITION TO ARTICLE 300A
+1960: #### DEFINITION / WHAT THIS IS CALLED
+1966: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+1970: #### MUST-WRITE KEYWORDS
+1996: #### CLOSING RECALL FLOW — RIGHT TO PROPERTY: ARTICLE 31 TRANSITION TO ARTICLE 300A
+2016: ### SESSION 25 — ARTICLES 33-35 AND MARTIAL LAW
+2018: #### DEFINITION / WHAT THIS IS CALLED
+2024: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+2028: #### MUST-WRITE KEYWORDS
+2039: #### Article 33
+2052: #### Article 34
+2056: #### Article 35
+2064: #### Martial law versus National Emergency
+2076: #### CLOSING RECALL FLOW — ARTICLES 33-35 AND MARTIAL LAW
+2096: ### SESSION 26 — ARTICLES 358 AND 359 - TWO DIFFERENT EMERGENCY MECHANISMS
+2098: #### DEFINITION / WHAT THIS IS CALLED
+2104: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+2108: #### MUST-WRITE KEYWORDS
+2123: #### Article 358
+2133: #### Article 359
+2144: #### 358 versus 359
+2155: #### CLOSING RECALL FLOW — ARTICLES 358 AND 359 - TWO DIFFERENT EMERGENCY MECHANISMS
+2175: ### SESSION 27 — ARTICLE 359: THE NON-DEROGABLE ARTICLES 20 AND 21 CORE
+2177: #### DEFINITION / WHAT THIS IS CALLED
+2183: #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+2187: #### MUST-WRITE KEYWORDS
+2205: #### CURRENT-LAW DASHBOARD - SECURELY VERIFIED POSITIONS ONLY
+2220: #### 28. Prelims close-option laboratory
+2239: #### GS-II ANSWER ARCHITECTURE AND QUALIFIED CONCLUSIONS
+2247: #### Universal answer spine
+2257: #### Mark-scaled evidence load
+2265: #### Qualified conclusions
+2273: #### EIGHTH-EDITION INTEGRATION: DOCTRINE ROUTING AND PART XVI BOUNDARY
+2275: #### Article 13 doctrines in the wider interpretation map
+2289: #### Part XVI: identity of a class versus entitlement to a benefit
+2312: #### Answer-writing evidence chain
+2325: #### CLOSING RECALL FLOW — ARTICLE 359: THE NON-DEROGABLE ARTICLES 20 AND 21 CORE
+2345: ## BASIC MCQS / REMEDIATION
+2347: ### Forty core diagnostic MCQs
+2351: #### Q1. With reference to the architecture of Part III, consider the following statements:
+2369: #### Q2. Which one of the following correctly distinguishes beneficiary and horizontal application?
+2380: #### Q3. A society is almost entirely financed by government, performs a function transferred from a department, and is subject to pervasive administrative control. Which is the most appropriate constitutional approach?
+2391: #### Q4. Which statement about Article 13 is correct?
+2402: #### Q5. A pre-Constitution transport law conflicts with a newly enforceable Fundamental Right but is not repealed. Later, the constitutional bar is validly removed. Which doctrine most directly explains possible revival?
+2413: #### Q6. Which sequence most accurately describes the amendment-Fundamental Rights relationship?
+2424: #### Q7. A law creates two classes using an intelligible criterion, but the criterion has no relation to the law's stated objective. Under Article 14, the classification
+2435: #### Q8. Which one best captures the relationship between classification and arbitrariness under Article 14?
+2446: #### Q9. Which special provision is constitutionally authorised by Article 15(3)?
+2457: #### Q10. Which statement concerning Article 16(4) is most accurate?
+2468: #### Q11. Consider the following pairs:
+2485: #### Q12. After *State of Punjab v. Davinder Singh* (2024), which proposition is correct?
+2496: #### Q13. Which combination is correct?
+2507: #### Q14. Which Article 19 restriction pairing is correct?
+2518: #### Q15. With reference to the First Amendment's speech impact, consider the following:
+2536: #### Q16. The 2024 Electoral Bonds judgment is best understood as holding that
+2547: #### Q17. Which statement accurately compares IPC section 124A and BNS section 152?
+2558: #### Q18. Which is a correct statement of *Shreya Singhal*?
+2569: #### Q19. *Anuradha Bhasin* most directly supports which proposition?
+2580: #### Q20. Which statement about criminal defamation is correct?
+2591: #### Q21. Which Article 20 statement is correct?
+2602: #### Q22. Which of the following is most likely protected by Article 20(3)?
+2613: #### Q23. Which sequence best represents Article 21's doctrinal expansion?
+2624: #### Q24. A court considers compulsory prenatal DNA testing solely because one party makes a bare allegation. Which is the strongest constitutional objection?
+2635: #### Q25. Which statement about Article 21A is correct?
+2646: #### Q26. Which is correct regarding preventive detention under the current constitutional text?
+2657: #### Q27. Consider the following:
+2674: #### Q28. Which statement correctly distinguishes Articles 25 and 26?
+2685: #### Q29. Which is the most accurate statement of the Essential Religious Practices doctrine?
+2696: #### Q30. Which statement about Articles 29 and 30 is correct?
+2707: #### Q31. A tribunal is about to hear a matter that the statute plainly places outside its jurisdiction. Which writ is most directly preventive?
+2718: #### Q32. Which proposition about Articles 32 and 226 is correct?
+2729: #### Q33. Which statement about Article 31B is correct?
+2740: #### Q34. After *Property Owners Association* (2024), which proposition is correct?
+2751: #### Q35. Which combination is correctly matched?
+2766: #### Q36. Which statement accurately distinguishes Articles 358 and 359?
+2777: #### Q37. A candidate writes, "Article 27 prevents government from collecting any fee connected with a pilgrimage or religious institution." The correction is:
+2788: #### Q38. A student writes, "Article 29 is only for minorities and Article 30 prevents all regulation." The best correction is:
+2799: #### Q39. A candidate writes, "A Ninth Schedule law cannot be reviewed by any court." The correction is:
+2810: #### Q40. A student states, "Article 359 suspends the Fundamental Right itself, including Articles 20 and 21." The correct position is:
+2821: ### Eight remedial MCQs
+2825: #### R1. A candidate writes, "All Fundamental Rights are available only to citizens." The best correction is:
+2836: #### R2. A student says, "A private organisation can never face a Fundamental Rights remedy." The correct response is:
+2847: #### R3. A candidate writes, "The 50 per cent reservation ceiling is an exceptionless mathematical rule." The best correction is:
+2858: #### R4. A student writes, "Davinder Singh requires every State to create a Scheduled Caste sub-quota." The correction is:
+2869: #### R5. A candidate writes, "Anuradha Bhasin declared internet access a Fundamental Right." The best correction is:
+2880: #### R6. A student writes, "BNS section 152 is just IPC section 124A with a new number." The correct response is:
+2891: #### R7. A candidate states, "Article 20(3) prevents collection of every bodily sample." The precise correction is:
+2902: #### R8. A student says, "The 44th Amendment reduced preventive detention without Advisory Board approval to two months." The correct position is:
+2913: ## PYQS AND ANSWER PRACTICE
+2915: ### Twenty-one verified routed PYQs with independent solutions
+2917: #### Mains PYQ 1. UPSC 2019 GS-II Q5 - What can France learn from the Indian Constitution's approach to secularism? (10 marks, 150 words)
+2923: #### Mains PYQ 2. UPSC 2021 GS-II Q13 - Analyze the distinguishing features of the notion of Right to Equality in the Constitutions of the USA and India. (15 marks, 250 words)
+2939: #### Mains PYQ 3. UPSC 2022 GS-II Q2 - "Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute." Comment. (10 marks, 150 words)
+2953: #### Mains PYQ 4. UPSC 2023 GS-II Q11 - "The Constitution of India is a living instrument with capabilities of enormous dynamism. It is a constitution made for a progressive society." Illustrate with special reference to the expanding horizons of the right to life and personal liberty. (15 marks, 250 words)
+2969: #### Mains PYQ 5. UPSC 2023 GS-II Q12 - Explain the constitutional perspectives of Gender Justice with the help of relevant Constitutional Provisions and case laws. (15 marks, 250 words)
+2985: #### Mains PYQ 6. UPSC 2024 GS-II Q12 - Right to privacy is intrinsic to life and personal liberty and is inherently protected under Article 21 of the Constitution. Explain. In this reference discuss the law relating to D.N.A. testing of child in the womb to establish its paternity. (15 marks, 250 words)
+2999: #### Prelims PYQ 1. UPSC 2018 GS-I Q92 - Privacy
+3012: #### Prelims PYQ 2. UPSC 2019 GS-I Q56 - Right to marry
+3025: #### Prelims PYQ 3. UPSC 2019 GS-I Q85 - Liberty
+3038: #### Prelims PYQ 4. UPSC 2020 GS-I Q4 - Untouchability
+3051: #### Prelims PYQ 5. UPSC 2021 GS-I Q79 - Privacy Article
+3064: #### Prelims PYQ 6. UPSC 2021 GS-I Q82 - Judicial custody
+3082: #### Prelims PYQ 7. UPSC 2021 GS-I Q83 - Parole
+3100: #### Prelims PYQ 8. UPSC 2021 GS-I Q85 - Unguided discretion
+3113: #### Prelims PYQ 9. UPSC 2021 GS-I Q92 - Right to Property
+3126: #### Prelims PYQ 10. UPSC 2021 GS-I Q96 - Bharat Ratna and Padma Awards
+3145: #### Prelims PYQ 11. UPSC 2022 GS-I Q18 - Mandamus and Quo Warranto
+3164: #### Prelims PYQ 12. UPSC 2023 GS-I Q31 - Due Process
+3177: #### Prelims PYQ 13. UPSC 2023 GS-I Q40 - Reservation and efficiency
+3196: #### Prelims PYQ 14. UPSC 2024 GS-I Q76 - Right to Privacy
+3209: #### Prelims PYQ 15. UPSC 2026 GS-I Q54 - Article 13 and custom
+3222: ### Nine original solved Mains models
+3224: #### OQ1. Fundamental Rights are qualified guarantees, not absolute liberties. Explain the constitutional method by which India limits and protects them. (10 marks, 150 words)
+3238: #### OQ2. Article 13 makes judicial review practical through a family of doctrines. Discuss severability, eclipse and waiver. (10 marks, 150 words)
+3254: #### OQ3. Preventive detention is a constitutional anomaly within the Right to Freedom. Examine. (10 marks, 150 words)
+3270: #### OQ4. India's reservation jurisprudence seeks substantive equality but is controlled by evidence, limits and administrative efficiency. Analyse. (15 marks, 250 words)
+3286: #### OQ5. India's freedom of speech is protected through a structured test, not an absolute slogan. Discuss with special reference to digital speech and political information. (15 marks, 250 words)
+3304: #### OQ6. Article 21 has transformed the Supreme Court into a guarantor of dignity, but its expansion also raises institutional concerns. Critically examine. (15 marks, 250 words)
+3320: #### OQ7. Religious freedom in India combines protection, regulation and reform. Critically examine the Essential Religious Practices doctrine within this model. (20 marks, 250 words)
+3338: #### OQ8. "Article 32 is the heart and soul of the Constitution, but Article 226 is the wider remedial jurisdiction." Examine. (20 marks, 250 words)
+3356: #### OQ9. Part III reconciles rights with social revolution and constitutional emergency, but not without tension. Evaluate with reference to Articles 31A-31C, 33-35 and 358-359. (20 marks, 250 words)
+3372: ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
+3376: #### A. Equality as anti-subordination, not merely consistency
+3384: #### B. Proportionality and the danger of conclusory balancing
+3396: #### C. Horizontality and State protective obligations
+3409: #### D. Positive obligations and institutional competence
+3415: #### E. Transformative constitutionalism
+3421: #### F. Rights, DPSPs and the Article 31C boundary
+3427: #### G. Emergency constitutionalism and constitutional memory
+3438: #### H. A novel-hypothetical method
+3452: ## CONSOLIDATED REGISTER NOTES
+3454: #### Part III master map
+3474: #### Beneficiary and horizontal-reach drill
+3485: #### Qualification and proportionality
+3492: #### Article 12 rapid test
+3500: #### Article 13 and doctrine grid
+3513: #### Part XVI identification-benefit distinction
+3521: #### Article 14 equality code
+3531: #### Article 15 register
+3540: #### Article 16 and reservation mechanism
+3551: #### Reservation cases and amendments
+3562: #### Articles 17-18 anti-hierarchy notes
+3570: #### Article 19 exact matrix
+3586: #### Speech doctrine timeline
+3596: #### Press, digital speech and information
+3605: #### Article 20 three shields
+3614: #### Article 21 doctrinal arc
+3634: #### Privacy, DNA and data control
+3645: #### Article 21A education
+3655: #### Article 22 arrest and detention
+3663: #### Articles 23-24 exploitation
+3673: #### Articles 25-28 religion
+3686: #### ERP doctrine
+3694: #### Articles 29-30
+3704: #### Article 32 and writ recall
+3716: #### Articles 31A-31C
+3728: #### Articles 33-35 and martial law
+3737: #### Articles 358-359 emergency grid
+3752: #### Current-law dated control
+3761: #### Verified PYQ route
+3772: #### Last-minute trap sheet
+3793: #### Mains answer spines
+3819: ### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
+3823: #### ASCII MASTER FLOW — PANEL 1/10: Part III as an operating architecture, not a list
+3844: #### ASCII MASTER FLOW — PANEL 2/10: Article 12 and 13: who is bound and what becomes void
+3865: #### ASCII MASTER FLOW — PANEL 3/10: Equality code and reservation doctrine
+3885: #### ASCII MASTER FLOW — PANEL 4/10: Article 19: six freedoms and restriction-ground discipline
+3905: #### ASCII MASTER FLOW — PANEL 5/10: Articles 20-22: criminal process, dignity and detention
+3925: #### ASCII MASTER FLOW — PANEL 6/10: Exploitation, religion and minority autonomy
+3946: #### ASCII MASTER FLOW — PANEL 7/10: Article 32: writ remedies and the enforcement ladder
+3964: #### ASCII MASTER FLOW — PANEL 8/10: Saving clauses, property and amendment doctrine
+3985: #### ASCII MASTER FLOW — PANEL 9/10: Article 358 and 359: emergency effects are not the same
+4005: #### ASCII MASTER FLOW — PANEL 10/10: Exact 10/15-mark architecture: liberty, limitation and remedy

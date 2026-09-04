@@ -1,0 +1,361 @@
+ASCII MASTER FLOW — PANEL 1/12: 1. Eight-element case-study rail
+CENTRAL FOCUS
+1. Eight-element case-study rail
+  [1] Facts: given versus assumed
+        |
+        v
+  [2] Stakeholders: direct and silent
+        |
+        v
+  [3] Constraints: hard bounds
+        |
+        v
+  [4] Options: three or more
+        |
+        v
+  [5] Evaluation: theories and checks
+        |
+        v
+  [6] Decision: decisive reason
+        |
+        v
+  [7] Implementation: actor and message
+        |
+        v
+  [8] Residual risk: monitor and review
+        |
+        v
+VERDICT -> A case answer is a complete decision process, not a moral reaction.
+ANSWER USE -> Use as the universal opening architecture.
+
+ASCII MASTER FLOW — PANEL 2/12: 2. Constraint gate before option design
+CENTRAL FOCUS
+2. Constraint gate before option design
+  [1] Legality defines permission
+        |
+        v
+  [2] Delegation defines authority
+        |
+        v
+  [3] Jurisdiction defines forum
+        |
+        v
+  [4] Time defines urgency
+        |
+        v
+  [5] Information defines confidence
+        |
+        v
+  [6] Resources define capacity
+        |
+        v
+  [7] Safety defines tolerable exposure
+        |
+        v
+  [8] Survivors become real options
+        |
+        v
+VERDICT -> Impossible or unlawful proposals should never enter later balancing.
+ANSWER USE -> Use before listing options in every administrative case.
+
+ASCII MASTER FLOW — PANEL 3/12: 3. Six-check evaluation matrix
+CENTRAL FOCUS
+3. Six-check evaluation matrix
+  [1] Conflict: hard threshold
+        |
+        v
+  [2] Legality: hard threshold
+        |
+        v
+  [3] Public interest: weighted
+        |
+        v
+  [4] Proportionality: weighted
+        |
+        v
+  [5] Transparency: weighted
+        |
+        v
+  [6] Compassion: weighted
+        |
+        v
+  [7] Long-term effects: projected
+        |
+        v
+  [8] Decisive weight: stated
+        |
+        v
+VERDICT -> Eliminate first, weigh second and explain what controlled the choice.
+ANSWER USE -> Use for the ethical-evaluation element.
+
+ASCII MASTER FLOW — PANEL 4/12: 4. Conflict-of-interest resolution sequence
+CENTRAL FOCUS
+4. Conflict-of-interest resolution sequence
+  [1] Detect personal-interest link
+        |
+        v
+  [2] Disclose connection in writing
+        |
+        v
+  [3] Recuse from the decision
+        |
+        v
+  [4] Refer to untainted authority
+        |
+        v
+  [5] State objective criteria
+        |
+        v
+  [6] Apply criteria consistently
+        |
+        v
+  [7] Preserve the scoring trail
+        |
+        v
+  [8] Publish or defend the rationale
+        |
+        v
+VERDICT -> Personal honesty cannot substitute for an unconflicted process.
+ANSWER USE -> Use in procurement, licensing and privileged-information cases.
+
+ASCII MASTER FLOW — PANEL 5/12: 5. Nested dilemma and steelman loop
+CENTRAL FOCUS
+5. Nested dilemma and steelman loop
+  [1] Identify dilemma one
+        |
+        v
+  [2] Run compact ethical checks
+        |
+        v
+  [3] Identify dilemma two
+        |
+        v
+  [4] Run compact ethical checks
+        |
+        v
+  [5] Recombine compatible decisions
+        |
+        v
+  [6] State strongest objection
+        |
+        v
+  [7] Absorb valid objection
+        |
+        v
+  [8] Confirm or revise decision
+        |
+        v
+VERDICT -> Decomposition clarifies the problem; steelmanning tests the solution.
+ANSWER USE -> Use for dense cases with multiple genuine conflicts.
+
+ASCII MASTER FLOW — PANEL 6/12: 6. Residual-risk closing formula
+CENTRAL FOCUS
+6. Residual-risk closing formula
+  [1] Name inherent danger
+        |
+        v
+  [2] List preventive controls
+        |
+        v
+  [3] Test control weakness
+        |
+        v
+  [4] Add uncertainty exposure
+        |
+        v
+  [5] State surviving risk
+        |
+        v
+  [6] Choose monitoring indicator
+        |
+        v
+  [7] Name accountable authority
+        |
+        v
+  [8] Set review or trigger date
+        |
+        v
+VERDICT -> Residual risk equals inherent risk reduced by controls, with uncertainty retained.
+ANSWER USE -> Use as the final paragraph of every solved case.
+
+ASCII MASTER FLOW — PANEL 7/12: 7. Written-order response to pressure
+CENTRAL FOCUS
+7. Written-order response to pressure
+  [1] Identify improper oral direction
+        |
+        v
+  [2] Record its substance promptly
+        |
+        v
+  [3] Seek written confirmation
+        |
+        v
+  [4] State professional objection
+        |
+        v
+  [5] Preserve supporting evidence
+        |
+        v
+  [6] Refer through proper hierarchy
+        |
+        v
+  [7] Continue lawful substantive duty
+        |
+        v
+  [8] Escalate impropriety if persistent
+        |
+        v
+VERDICT -> Writing fixes responsibility and converts private resistance into institutional
+             accountability.
+ANSWER USE -> Use for ministerial, superior and corporate pressure.
+
+ASCII MASTER FLOW — PANEL 8/12: 8. Whistleblowing and dissent ladder
+CENTRAL FOCUS
+8. Whistleblowing and dissent ladder
+  [1] Preserve credible evidence
+        |
+        v
+  [2] Report to competent superior
+        |
+        v
+  [3] Skip a compromised recipient
+        |
+        v
+  [4] Use independent internal tier
+        |
+        v
+  [5] Use authorised external channel
+        |
+        v
+  [6] Protect identity and safety
+        |
+        v
+  [7] Consider public disclosure last
+        |
+        v
+  [8] Review retaliation and follow-up
+        |
+        v
+VERDICT -> Escalate only as far as failure and continuing harm require.
+ANSWER USE -> Use when loyalty, secrecy and public interest conflict.
+
+ASCII MASTER FLOW — PANEL 9/12: 9. Resignation decision test
+CENTRAL FOCUS
+9. Resignation decision test
+  [1] Record personal non-participation
+        |
+        v
+  [2] Test internal resistance
+        |
+        v
+  [3] Test independent escalation
+        |
+        v
+  [4] Assess continuing public influence
+        |
+        v
+  [5] Assess complicity from remaining
+        |
+        v
+  [6] Assess impact of departure
+        |
+        v
+  [7] Define the resignation trigger
+        |
+        v
+  [8] Resign only if net protection rises
+        |
+        v
+VERDICT -> Resignation is ethical only when it protects the public better than principled
+             service.
+ANSWER USE -> Use whenever an option list includes exit from office.
+
+ASCII MASTER FLOW — PANEL 10/12: 10. Scarce-resource triage cycle
+CENTRAL FOCUS
+10. Scarce-resource triage cycle
+  [1] Measure actual scarcity
+        |
+        v
+  [2] Protect lawful basic minima
+        |
+        v
+  [3] Choose relevant criteria
+        |
+        v
+  [4] Publish criteria in advance
+        |
+        v
+  [5] Add vulnerability safeguard
+        |
+        v
+  [6] Record each allocation
+        |
+        v
+  [7] Provide rapid review route
+        |
+        v
+  [8] Revise as conditions change
+        |
+        v
+VERDICT -> Transparent criteria are ethically superior to hidden case-by-case discretion.
+ANSWER USE -> Use for beds, staff, water, relief and compensation.
+
+ASCII MASTER FLOW — PANEL 11/12: 11. Domain adaptation map
+CENTRAL FOCUS
+11. Domain adaptation map
+  [1] Administration: lawful authority
+        |
+        v
+  [2] Corporate: stakeholder duty
+        |
+        v
+  [3] Research: consent and truth
+        |
+        v
+  [4] Health: triage and dignity
+        |
+        v
+  [5] Police: force and due process
+        |
+        v
+  [6] Environment: future generations
+        |
+        v
+  [7] Technology: privacy and harm
+        |
+        v
+  [8] Disaster: continuity and compassion
+        |
+        v
+VERDICT -> The architecture stays constant while standards, institutions and evidence change.
+ANSWER USE -> Use to transfer the method without copying remedies blindly.
+
+ASCII MASTER FLOW — PANEL 12/12: 12. Time-bound examiner answer spine
+CENTRAL FOCUS
+12. Time-bound examiner answer spine
+  [1] Minute one: demand and facts
+        |
+        v
+  [2] Minute two: stakeholders
+        |
+        v
+  [3] Minute three: constraints
+        |
+        v
+  [4] Minutes four-six: options
+        |
+        v
+  [5] Minutes seven-ten: evaluation
+        |
+        v
+  [6] Minutes eleven-twelve: decision
+        |
+        v
+  [7] Minutes thirteen-fourteen: execution
+        |
+        v
+  [8] Minute fifteen: residual risk
+        |
+        v
+VERDICT -> Compress every element; do not sacrifice the ending to an oversized introduction.
+ANSWER USE -> Use as a planning clock for a twenty-mark case.

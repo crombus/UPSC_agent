@@ -1,0 +1,371 @@
+ASCII MASTER FLOW — PANEL 1/12: 1. Sources of ethical guidance map
+CENTRAL FOCUS
+1. Sources of ethical guidance map
+  [1] Conscience signals an internal moral concern.
+        |
+        v
+  [2] Family and social learning shape early moral judgment.
+        |
+        v
+  [3] Professional ethics articulate occupational values.
+        |
+        v
+  [4] Conduct codes specify institutional expectations.
+        |
+        v
+  [5] Service rules govern defined official conduct.
+        |
+        v
+  [6] Regulations operate under delegated legal authority.
+        |
+        v
+  [7] Statutes establish binding public legal standards.
+        |
+        v
+  [8] Constitutional limits test all public authority.
+        |
+        v
+VERDICT -> Treat the sources as interacting checks, not as a mechanical ladder that legalises
+             every compliant act.
+ANSWER USE -> Use for an opening definition map before resolving a law-rule-conscience
+             conflict.
+
+ASCII MASTER FLOW — PANEL 2/12: 2. Law, rule, regulation and instruction
+CENTRAL FOCUS
+2. Law, rule, regulation and instruction
+  [1] Start with constitutional competence and rights.
+        |
+        v
+  [2] Identify the parent statute and its purpose.
+        |
+        v
+  [3] Locate any delegated rule-making power.
+        |
+        v
+  [4] Check whether a valid rule applies.
+        |
+        v
+  [5] Identify regulator-made regulations, if any.
+        |
+        v
+  [6] Separate circulars and guidelines from regulations.
+        |
+        v
+  [7] Check service-rule or contractual adoption of codes.
+        |
+        v
+  [8] Record the instrument's actual legal force.
+        |
+        v
+VERDICT -> Never call every office instruction a law or every guideline delegated legislation.
+ANSWER USE -> Use in the 2020 laws-versus-rules answer and in rule-of-law case studies.
+
+ASCII MASTER FLOW — PANEL 3/12: 3. Legality, ethics and propriety
+CENTRAL FOCUS
+3. Legality, ethics and propriety
+  [1] Ask whether the actor has legal authority.
+        |
+        v
+  [2] Check compliance with applicable rule and procedure.
+        |
+        v
+  [3] Identify the public purpose of the power.
+        |
+        v
+  [4] Test fairness and equal treatment.
+        |
+        v
+  [5] Map foreseeable harms and benefits.
+        |
+        v
+  [6] Check conflicts, gifts and appearance of bias.
+        |
+        v
+  [7] Assess trust and institutional precedent.
+        |
+        v
+  [8] State a qualified ethical-propriety verdict.
+        |
+        v
+VERDICT -> Technical legality is necessary but does not exhaust ethics or propriety.
+ANSWER USE -> Use to structure a legal-but-unethical example without implying that ethics
+             overrides law.
+
+ASCII MASTER FLOW — PANEL 4/12: 4. Ethics in making rules
+CENTRAL FOCUS
+4. Ethics in making rules
+  [1] Define the legitimate public objective.
+        |
+        v
+  [2] Identify affected groups and unequal burdens.
+        |
+        v
+  [3] Choose authority consistent with the parent law.
+        |
+        v
+  [4] Make criteria intelligible and transparent.
+        |
+        v
+  [5] Test proportionality of restrictions and sanctions.
+        |
+        v
+  [6] Build access and accommodation where authorised.
+        |
+        v
+  [7] Provide reasons, appeal and review mechanisms.
+        |
+        v
+  [8] Revise after evidence of exclusion or harm.
+        |
+        v
+VERDICT -> Ethics improves legitimacy, fairness and implementation; it does not create
+             delegated power.
+ANSWER USE -> Use for the second half of 2020 GS-IV Q4(a).
+
+ASCII MASTER FLOW — PANEL 5/12: 5. Constitutional morality in administration
+CENTRAL FOCUS
+5. Constitutional morality in administration
+  [1] Identify the constitutional value in issue.
+        |
+        v
+  [2] Check competence and legal authority.
+        |
+        v
+  [3] Protect equality and non-arbitrariness.
+        |
+        v
+  [4] Respect dignity and affected-person voice.
+        |
+        v
+  [5] Follow due process and fair hearing.
+        |
+        v
+  [6] Give intelligible public reasons.
+        |
+        v
+  [7] Resist majoritarian or partisan pressure.
+        |
+        v
+  [8] Accept competent review and correction.
+        |
+        v
+VERDICT -> Constitutional morality disciplines both majority pressure and private preference.
+ANSWER USE -> Use for the 2019 and 2025 constitutional-morality routes.
+
+ASCII MASTER FLOW — PANEL 6/12: 6. Calibrating conscience
+CENTRAL FOCUS
+6. Calibrating conscience
+  [1] Notice the moral alarm or discomfort.
+        |
+        v
+  [2] Collect facts instead of acting on impulse.
+        |
+        v
+  [3] Name the affected stakeholders and harms.
+        |
+        v
+  [4] Check personal bias and incomplete information.
+        |
+        v
+  [5] Identify applicable law and service rules.
+        |
+        v
+  [6] Test constitutional values and public purpose.
+        |
+        v
+  [7] Consult a competent institutional channel.
+        |
+        v
+  [8] Record a revisable reasoned conclusion.
+        |
+        v
+VERDICT -> Conscience is an ethical signal that becomes reliable through evidence and public
+             reasoning.
+ANSWER USE -> Use for 2023 GS-IV Q5(a) and conscience-based case studies.
+
+ASCII MASTER FLOW — PANEL 7/12: 7. Crisis of conscience response ladder
+CENTRAL FOCUS
+7. Crisis of conscience response ladder
+  [1] Define the instruction and moral conflict precisely.
+        |
+        v
+  [2] Verify facts, law and seriousness of harm.
+        |
+        v
+  [3] Reflect and seek ethical or legal clarification.
+        |
+        v
+  [4] Place a factual written objection on record.
+        |
+        v
+  [5] Seek recusal only where authority permits it.
+        |
+        v
+  [6] Escalate to a competent superior or oversight body.
+        |
+        v
+  [7] Report verified wrongdoing through available channels.
+        |
+        v
+  [8] Consider resignation only after grave unresolved complicity.
+        |
+        v
+VERDICT -> Use the lowest effective accountable channel, not silent compliance or immediate
+             public defiance.
+ANSWER USE -> Use in the 2019 crisis-of-conscience answer and public-service dilemmas.
+
+ASCII MASTER FLOW — PANEL 8/12: 8. Civil disobedience versus institutional dissent
+CENTRAL FOCUS
+8. Civil disobedience versus institutional dissent
+  [1] Citizen identifies an unjust law or policy.
+        |
+        v
+  [2] Civil resistance is public and communicative.
+        |
+        v
+  [3] Non-violence limits coercive harm.
+        |
+        v
+  [4] Acceptance of consequence signals principled protest.
+        |
+        v
+  [5] Public servant holds delegated official authority.
+        |
+        v
+  [6] Office duty requires records and confidentiality.
+        |
+        v
+  [7] Dissent begins with review and escalation channels.
+        |
+        v
+  [8] External action needs necessity and proportionality.
+        |
+        v
+VERDICT -> Do not import the citizen's civil-disobedience model unchanged into public-service
+             office duties.
+ANSWER USE -> Use to distinguish principled resistance from unaccountable disclosure.
+
+ASCII MASTER FLOW — PANEL 9/12: 9. Whistleblowing and protected channels
+CENTRAL FOCUS
+9. Whistleblowing and protected channels
+  [1] Identify evidence of serious wrongdoing or harm.
+        |
+        v
+  [2] Separate fact from policy disagreement or grievance.
+        |
+        v
+  [3] Preserve material lawfully and confidentially.
+        |
+        v
+  [4] Assess immediate public-interest urgency.
+        |
+        v
+  [5] Use the least compromised competent recipient.
+        |
+        v
+  [6] Verify current protection and confidentiality scope.
+        |
+        v
+  [7] Document retaliation risk and requested safeguard.
+        |
+        v
+  [8] Seek independent review of response or inaction.
+        |
+        v
+VERDICT -> Whistleblowing is evidence-based public-interest reporting, not an automatic
+             entitlement to leak.
+ANSWER USE -> Use for the 2022 protection route and conscience-to-accountability answers.
+
+ASCII MASTER FLOW — PANEL 10/12: 10. Snowden-type external disclosure test
+CENTRAL FOCUS
+10. Snowden-type external disclosure test
+  [1] Specify the alleged public wrong.
+        |
+        v
+  [2] Verify evidence and credibility of the concern.
+        |
+        v
+  [3] Map privacy, transparency and security values.
+        |
+        v
+  [4] Assess realistic internal oversight channels.
+        |
+        v
+  [5] Test whether those channels are inadequate.
+        |
+        v
+  [6] Consider narrower authorised disclosure alternatives.
+        |
+        v
+  [7] Minimise avoidable harm to uninvolved persons.
+        |
+        v
+  [8] Give a qualified necessity-proportionality verdict.
+        |
+        v
+VERDICT -> A serious conscience claim strengthens only when method, necessity and
+             proportionality also withstand scrutiny.
+ANSWER USE -> Use for 2018 GS-IV Q12 without treating the question's legal claims as settled
+             facts.
+
+ASCII MASTER FLOW — PANEL 11/12: 11. Form, substance and reasoned discretion
+CENTRAL FOCUS
+11. Form, substance and reasoned discretion
+  [1] Identify the statutory or scheme purpose.
+        |
+        v
+  [2] Read the applicable rule and its exception.
+        |
+        v
+  [3] Establish relevant facts and affected interests.
+        |
+        v
+  [4] Check whether equivalent compliance is authorised.
+        |
+        v
+  [5] Treat similarly placed persons alike.
+        |
+        v
+  [6] Reject ultra-vires or selective waiver.
+        |
+        v
+  [7] Record authority, alternatives and reasons.
+        |
+        v
+  [8] Enable audit, appeal and judicial review.
+        |
+        v
+VERDICT -> Substance corrects mechanical literalism only within authority, equality and review
+             safeguards.
+ANSWER USE -> Use for 2024 Q4(b) and discretionary welfare or procurement cases.
+
+ASCII MASTER FLOW — PANEL 12/12: 12. Answer-writing synthesis
+CENTRAL FOCUS
+12. Answer-writing synthesis
+  [1] Define the precise source-of-guidance issue.
+        |
+        v
+  [2] Distinguish law, rule, regulation and code.
+        |
+        v
+  [3] Identify constitutional value and legal authority.
+        |
+        v
+  [4] State the ethical harm or public-interest concern.
+        |
+        v
+  [5] Test conscience against facts and bias.
+        |
+        v
+  [6] Choose institutional channel and safeguard.
+        |
+        v
+  [7] Use a named Indian administrative illustration.
+        |
+        v
+  [8] Conclude with a qualified accountable verdict.
+        |
+        v
+VERDICT -> High-scoring answers combine ethical sensitivity with lawful, evidence-based
+             institutional action.
+ANSWER USE -> Use as the final revision checklist for theory questions and case studies.

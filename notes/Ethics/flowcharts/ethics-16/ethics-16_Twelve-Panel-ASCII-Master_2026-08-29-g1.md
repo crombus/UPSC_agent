@@ -1,0 +1,401 @@
+# Codes of Ethics and Codes of Conduct — Twelve-Panel ASCII Master
+
+#### ASCII MASTER FLOW — PANEL 1/12: 1. Dual-code foundation
+
+```ascii-master
+CENTRAL FOCUS
+1. Dual-code foundation
+  [1] Public office creates role duties
+        |
+        v
+  [2] Ethics names guiding values
+        |
+        v
+  [3] Values orient intention and judgment
+        |
+        v
+  [4] Conduct identifies recurring risks
+        |
+        v
+  [5] Rules specify acts and procedures
+        |
+        v
+  [6] Valid authority supplies enforcement
+        |
+        v
+  [7] Due process disciplines sanctions
+        |
+        v
+  [8] Learning reconnects rule and value
+        |
+        v
+VERDICT -> Aspiration and enforceability are complementary, never automatic synonyms.
+ANSWER USE -> Use to open every distinction or model-code answer.
+```
+
+#### ASCII MASTER FLOW — PANEL 2/12: 2. Values-to-rules translation
+
+```ascii-master
+CENTRAL FOCUS
+2. Values-to-rules translation
+  [1] Choose constitutional value
+        |
+        v
+  [2] Define role-specific meaning
+        |
+        v
+  [3] Map foreseeable ethical risk
+        |
+        v
+  [4] Specify required or barred act
+        |
+        v
+  [5] Create disclosure or approval route
+        |
+        v
+  [6] Assign records and ownership
+        |
+        v
+  [7] State fair consequence
+        |
+        v
+  [8] Review effects and loopholes
+        |
+        v
+VERDICT -> A value becomes administratively usable through procedures without losing its
+             purpose.
+ANSWER USE -> Use for work-culture and institutional-design questions.
+```
+
+#### ASCII MASTER FLOW — PANEL 3/12: 3. Civil-service conduct map
+
+```ascii-master
+CENTRAL FOCUS
+3. Civil-service conduct map
+  [1] Rule 3 general conduct
+        |
+        v
+  [2] Rule 5 political activity
+        |
+        v
+  [3] Rules 8-9 media and criticism
+        |
+        v
+  [4] Rule 11 official information
+        |
+        v
+  [5] Rule 13 gifts
+        |
+        v
+  [6] Rule 15 outside work
+        |
+        v
+  [7] Rule 18 property
+        |
+        v
+  [8] Disciplinary rules enforce breach
+        |
+        v
+VERDICT -> Cite the rule family safely; verify mutable thresholds in current notifications.
+ANSWER USE -> Use for CCS conduct-rule applications.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/12: 4. Neutral advice and implementation
+
+```ascii-master
+CENTRAL FOCUS
+4. Neutral advice and implementation
+  [1] Check Constitution and law
+        |
+        v
+  [2] Gather accurate evidence
+        |
+        v
+  [3] Give candid options
+        |
+        v
+  [4] Declare personal or party bias
+        |
+        v
+  [5] Record material advice
+        |
+        v
+  [6] Receive lawful policy decision
+        |
+        v
+  [7] Implement without partisan favour
+        |
+        v
+  [8] Escalate unlawful direction safely
+        |
+        v
+VERDICT -> Neutrality protects professional candour before decision and loyal legality after
+             it.
+ANSWER USE -> Use for political-neutrality and Minister-civil servant questions.
+```
+
+#### ASCII MASTER FLOW — PANEL 5/12: 5. Conflict management ladder
+
+```ascii-master
+CENTRAL FOCUS
+5. Conflict management ladder
+  [1] Identify private interest
+        |
+        v
+  [2] Classify actual potential apparent
+        |
+        v
+  [3] Disclose before participation
+        |
+        v
+  [4] Assess materiality independently
+        |
+        v
+  [5] Restrict access if needed
+        |
+        v
+  [6] Recuse reassign or divest
+        |
+        v
+  [7] Record reasons and controls
+        |
+        v
+  [8] Review outcome and recurrence
+        |
+        v
+VERDICT -> Disclosure starts management; it does not automatically cure a material conflict.
+ANSWER USE -> Use for relatives, procurement and regulatory capture.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/12: 6. Gift asset and outside-work controls
+
+```ascii-master
+CENTRAL FOCUS
+6. Gift asset and outside-work controls
+  [1] Gift may create obligation
+        |
+        v
+  [2] Hospitality may buy access
+        |
+        v
+  [3] Assets may reveal interest
+        |
+        v
+  [4] Outside work divides loyalty
+        |
+        v
+  [5] Future job may distort regulation
+        |
+        v
+  [6] Current rule fixes procedure
+        |
+        v
+  [7] Privacy limits over-disclosure
+        |
+        v
+  [8] Inquiry distinguishes risk from guilt
+        |
+        v
+VERDICT -> Control influence and appearance without guessing thresholds or presuming
+             corruption.
+ANSWER USE -> Use for close-option traps and conflict examples.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/12: 7. Ministers and legislators
+
+```ascii-master
+CENTRAL FOCUS
+7. Ministers and legislators
+  [1] Minister bears political responsibility
+        |
+        v
+  [2] Official and party resources separate
+        |
+        v
+  [3] Private interest yields to public duty
+        |
+        v
+  [4] Civil-service impartiality protected
+        |
+        v
+  [5] Member declares relevant interests
+        |
+        v
+  [6] Ethics Committee examines complaint
+        |
+        v
+  [7] Committee recommends sanction
+        |
+        v
+  [8] House acts through its procedure
+        |
+        v
+VERDICT -> Political and House accountability can arise without collapsing into criminal
+             conviction.
+ANSWER USE -> Use for comparative public-functionary answers.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/12: 8. Ethics-office ownership
+
+```ascii-master
+CENTRAL FOCUS
+8. Ethics-office ownership
+  [1] Maintain authoritative code
+        |
+        v
+  [2] Issue plain guidance
+        |
+        v
+  [3] Give confidential advice
+        |
+        v
+  [4] Train with scenarios
+        |
+        v
+  [5] Manage registers
+        |
+        v
+  [6] Receive or route complaints
+        |
+        v
+  [7] Report aggregate trends
+        |
+        v
+  [8] Propose periodic revision
+        |
+        v
+VERDICT -> A named owner turns a document into an operating ethics institution.
+ANSWER USE -> Use for Second ARC and 2025 Q6(a).
+```
+
+#### ASCII MASTER FLOW — PANEL 9/12: 9. Fair enforcement route
+
+```ascii-master
+CENTRAL FOCUS
+9. Fair enforcement route
+  [1] Identify valid applicable rule
+        |
+        v
+  [2] Preserve relevant evidence
+        |
+        v
+  [3] Give notice of allegation
+        |
+        v
+  [4] Disclose material fairly
+        |
+        v
+  [5] Use impartial inquiry
+        |
+        v
+  [6] Reach reasoned finding
+        |
+        v
+  [7] Match sanction to gravity
+        |
+        v
+  [8] Provide review or appeal
+        |
+        v
+VERDICT -> Credible discipline requires both consequence and procedural justice.
+ANSWER USE -> Use for sanction, Article 311 and workplace-enforcement analysis.
+```
+
+#### ASCII MASTER FLOW — PANEL 10/12: 10. Loophole and circumvention test
+
+```ascii-master
+CENTRAL FOCUS
+10. Loophole and circumvention test
+  [1] Look beyond formal recipient
+        |
+        v
+  [2] Aggregate connected benefits
+        |
+        v
+  [3] Check relatives and intermediaries
+        |
+        v
+  [4] Trace beneficial ownership
+        |
+        v
+  [5] Test substance against purpose
+        |
+        v
+  [6] Protect innocent explanation
+        |
+        v
+  [7] Close ambiguity prospectively
+        |
+        v
+  [8] Train from the near miss
+        |
+        v
+VERDICT -> Literal compliance cannot legitimise a scheme designed to defeat the rule.
+ANSWER USE -> Use for split gifts, shell interests and messaging avoidance.
+```
+
+#### ASCII MASTER FLOW — PANEL 11/12: 11. Ethical-competence cycle
+
+```ascii-master
+CENTRAL FOCUS
+11. Ethical-competence cycle
+  [1] Notice the ethical signal
+        |
+        v
+  [2] Find governing norm
+        |
+        v
+  [3] Map stakeholders and bias
+        |
+        v
+  [4] Generate lawful alternatives
+        |
+        v
+  [5] Seek advice early
+        |
+        v
+  [6] Choose and record reasons
+        |
+        v
+  [7] Escalate or remedy safely
+        |
+        v
+  [8] Reflect and improve practice
+        |
+        v
+VERDICT -> Competence connects character, rule knowledge and practical judgment.
+ANSWER USE -> Use for the 2019 institutional-measures PYQ.
+```
+
+#### ASCII MASTER FLOW — PANEL 12/12: 12. Complete examiner answer spine
+
+```ascii-master
+CENTRAL FOCUS
+12. Complete examiner answer spine
+  [1] Define both codes precisely
+        |
+        v
+  [2] State India's existing conduct layer
+        |
+        v
+  [3] Preserve unimplemented-ethics caveat
+        |
+        v
+  [4] Name role-specific risks
+        |
+        v
+  [5] Translate values into procedures
+        |
+        v
+  [6] Assign ownership and monitoring
+        |
+        v
+  [7] Add fair enforcement and review
+        |
+        v
+  [8] Conclude prevention plus accountability
+        |
+        v
+VERDICT -> The best answer joins aspiration, operational design and lawful consequence.
+ANSWER USE -> Use for 2024 Q5(a), 2025 Q6(a) and original Mains practice.
+```

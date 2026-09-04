@@ -1,614 +1,621 @@
 # UPSC Topic PDF Export Command Index
 
-Copy and send **one command at a time**. The topic number and title are both
-included to prevent numbering ambiguity. Each command means: use the complete
-basic and advanced sources, create the learning-session PDF and solved workbook,
-retain reusable Markdown, include relevant PYQs, mark inferred Prelims answers
-when an official key is unavailable, and validate both PDFs before completion.
+Learner-first v2 is the default for new exports. Start a subject section by
+creating/reviewing its section manifest and topic-coverage index; then generate
+the listed topics sequentially unless interrupted. The individual commands below
+remain available for targeted runs, retries and explicit topic approval tracking.
+The topic number and title are both included to prevent numbering ambiguity.
+New exports use the learner-first v2
+sequence: Basic learning session -> Basic MCQs/remediation -> PYQs and answer
+practice -> OPTIONAL ADVANCED DEPTH -> consolidated register notes.
+
+Each tracker row is keyed by `topic_key + variant + generation`; command text is
+display-only and cannot make v1 and v2 collide. The checkbox reflects the latest
+**learner-first v2** generation. Existing packages remain visible as
+**legacy/reference v1** and keep their own approval state.
 
 **Status legend:**
 
-- [x] ✅ Approved complete — user approved all three deliverables.
-- [ ] 🟡 Generated — main PDF, workbook and reusable Markdown exist; approval is pending.
-- [ ] ⚠️ Incomplete — the status ledger references a missing deliverable.
-- [ ] ⬜ Remaining — no complete package is recorded.
+- [x] ✅ Learner-first v2 approved — explicit approval for that v2 generation.
+- [ ] 🟡 Learner-first v2 generated — all deliverables exist; approval is pending.
+- [ ] ⚠️ Learner-first v2 incomplete — a recorded deliverable is missing.
+- [ ] ⬜ Learner-first v2 remaining — no v2 generation is recorded.
+- Legacy/reference v1 status is shown separately and never transfers approval to v2.
 
 > Export state is stored in `EXPORT-PDF-STATUS.json`, so regeneration does not
 > erase ticks. Only explicit user approval should set `approved` to `true`.
 > Regenerate with `python tools\generate_export_command_index.py` whenever a
 > package is generated, approved, or a subject index changes.
+> Regenerate the active section's three indexes with
+> `python tools\generate_v2_section_indexes.py --manifest <manifest.json>`.
 
 # General Studies, Essay and Qualifying Papers
 
 ## Ancient History (01–27; 27 topics)
 
-**Progress:** 0 approved · 27 generated awaiting approval · 0 remaining
+**Learner-first v2 progress:** 0 approved · 27 generated awaiting approval · 0 incomplete · 0 remaining
 
-- [ ] 🟡 `Export PDF for Ancient History 01 — Importance & Historiography of Ancient India`
-- [ ] 🟡 `Export PDF for Ancient History 02 — Sources of Ancient Indian History`
-- [ ] 🟡 `Export PDF for Ancient History 03 — Geographical Setting & Ecology`
-- [ ] 🟡 `Export PDF for Ancient History 04 — The Stone Age: Palaeolithic & Mesolithic`
-- [ ] 🟡 `Export PDF for Ancient History 05 — Neolithic & Chalcolithic Cultures`
-- [ ] 🟡 `Export PDF for Ancient History 06 — The Harappan Civilization`
-- [ ] 🟡 `Export PDF for Ancient History 07 — The Aryan Problem & Identity of Aryan Culture`
-- [ ] 🟡 `Export PDF for Ancient History 08 — The Rig Vedic Age (Early Vedic)`
-- [ ] 🟡 `Export PDF for Ancient History 09 — The Later Vedic Phase`
-- [ ] 🟡 `Export PDF for Ancient History 10 — Jainism and Buddhism`
-- [ ] 🟡 `Export PDF for Ancient History 11 — Mahajanapadas & Rise of Magadha`
-- [ ] 🟡 `Export PDF for Ancient History 12 — Iranian & Macedonian Invasions`
-- [ ] 🟡 `Export PDF for Ancient History 13 — State & Varna Society in the Age of the Buddha`
-- [ ] 🟡 `Export PDF for Ancient History 14 — The Mauryan Empire`
-- [ ] 🟡 `Export PDF for Ancient History 15 — Significance & Decline of Mauryan Rule`
-- [ ] 🟡 `Export PDF for Ancient History 16 — Central Asian Contacts: Indo-Greeks, Shakas, Kushanas`
-- [ ] 🟡 `Export PDF for Ancient History 17 — The Satavahanas & the Deccan`
-- [ ] 🟡 `Export PDF for Ancient History 18 — The Sangam Age & the Deep South`
-- [ ] 🟡 `Export PDF for Ancient History 19 — Crafts, Commerce & Urban Growth (200 BC–AD 250)`
-- [ ] 🟡 `Export PDF for Ancient History 20 — The Gupta Empire`
-- [ ] 🟡 `Export PDF for Ancient History 21 — Life & Culture in the Gupta Age`
-- [ ] 🟡 `Export PDF for Ancient History 22 — Post-Gupta India: Harsha & Eastern India`
-- [ ] 🟡 `Export PDF for Ancient History 23 — Peninsular India: Pallavas, Chalukyas & Brahmanization`
-- [ ] 🟡 `Export PDF for Ancient History 24 — Developments in Philosophy`
-- [ ] 🟡 `Export PDF for Ancient History 25 — Cultural Interaction with Asian Countries`
-- [ ] 🟡 `Export PDF for Ancient History 26 — From Ancient to Medieval: Social Change & Legacy`
-- [ ] 🟡 `Export PDF for Ancient History 27 — Imperial Cholas: State, Society, Economy & Maritime Power`
+- [ ] 🟡 `Export PDF for Ancient History 01 — Importance & Historiography of Ancient India` — `ancient-indian-history-01` · **learner-first v2:** g24 🟡 generated; approval pending; g23 🟡 generated; approval pending; g21 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Ancient History 02 — Sources of Ancient Indian History` — `ancient-indian-history-02` · **learner-first v2:** g16 🟡 generated; approval pending; g15 🟡 generated; approval pending; g14 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Ancient History 03 — Geographical Setting & Ecology` — `ancient-indian-history-03` · **learner-first v2:** g15 🟡 generated; approval pending; g14 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Ancient History 04 — The Stone Age: Palaeolithic & Mesolithic` — `ancient-indian-history-04` · **learner-first v2:** g15 🟡 generated; approval pending; g14 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Ancient History 05 — Neolithic & Chalcolithic Cultures` — `ancient-indian-history-05` · **learner-first v2:** g15 🟡 generated; approval pending; g14 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Ancient History 06 — The Harappan Civilization` — `ancient-indian-history-06` · **learner-first v2:** g15 🟡 generated; approval pending; g14 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Ancient History 07 — The Aryan Problem & Identity of Aryan Culture` — `ancient-indian-history-07` · **learner-first v2:** g15 🟡 generated; approval pending; g14 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Ancient History 08 — The Rig Vedic Age (Early Vedic)` — `ancient-indian-history-08` · **learner-first v2:** g15 🟡 generated; approval pending; g14 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Ancient History 09 — The Later Vedic Phase` — `ancient-indian-history-09` · **learner-first v2:** g16 🟡 generated; approval pending; g15 🟡 generated; approval pending; g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Ancient History 10 — Jainism and Buddhism` — `ancient-indian-history-10` · **learner-first v2:** g16 🟡 generated; approval pending; g15 🟡 generated; approval pending; g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Ancient History 11 — Mahajanapadas & Rise of Magadha` — `ancient-indian-history-11` · **learner-first v2:** g16 🟡 generated; approval pending; g15 🟡 generated; approval pending; g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Ancient History 12 — Iranian & Macedonian Invasions` — `ancient-indian-history-12` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Ancient History 13 — State & Varna Society in the Age of the Buddha` — `ancient-indian-history-13` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Ancient History 14 — The Mauryan Empire` — `ancient-indian-history-14` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Ancient History 15 — Significance & Decline of Mauryan Rule` — `ancient-indian-history-15` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Ancient History 16 — Central Asian Contacts: Indo-Greeks, Shakas, Kushanas` — `ancient-indian-history-16` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Ancient History 17 — The Satavahanas & the Deccan` — `ancient-indian-history-17` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Ancient History 18 — The Sangam Age & the Deep South` — `ancient-indian-history-18` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Ancient History 19 — Crafts, Commerce & Urban Growth (200 BC–AD 250)` — `ancient-indian-history-19` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Ancient History 20 — The Gupta Empire` — `ancient-indian-history-20` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Ancient History 21 — Life & Culture in the Gupta Age` — `ancient-indian-history-21` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Ancient History 22 — Post-Gupta India: Harsha & Eastern India` — `ancient-indian-history-22` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Ancient History 23 — Peninsular India: Pallavas, Chalukyas & Brahmanization` — `ancient-indian-history-23` · **learner-first v2:** g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Ancient History 24 — Developments in Philosophy` — `ancient-indian-history-24` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Ancient History 25 — Cultural Interaction with Asian Countries` — `ancient-indian-history-25` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Ancient History 26 — From Ancient to Medieval: Social Change & Legacy` — `ancient-indian-history-26` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Ancient History 27 — Imperial Cholas: State, Society, Economy & Maritime Power` — `ancient-indian-history-27` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
 
 ## Medieval History (01–25; 25 topics)
 
-**Progress:** 0 approved · 25 generated awaiting approval · 0 remaining
+**Learner-first v2 progress:** 0 approved · 25 generated awaiting approval · 0 incomplete · 0 remaining
 
-- [ ] 🟡 `Export PDF for Medieval History 01 — India on the Eve of the Medieval Age & Arab-Turkish Contacts`
-- [ ] 🟡 `Export PDF for Medieval History 02 — The Ghaznavids & the Ghurian Invasions`
-- [ ] 🟡 `Export PDF for Medieval History 03 — Foundation of the Delhi Sultanate: The Slave (Mamluk) Dynasty`
-- [ ] 🟡 `Export PDF for Medieval History 04 — The Khaljis: Alauddin Khalji & Market Reforms`
-- [ ] 🟡 `Export PDF for Medieval History 05 — The Tughlaqs: Muhammad bin Tughlaq & Firuz Shah`
-- [ ] 🟡 `Export PDF for Medieval History 06 — Decline of the Sultanate: Timur, Sayyids & Lodis`
-- [ ] 🟡 `Export PDF for Medieval History 07 — Administration, Economy & Society under the Sultanate`
-- [ ] 🟡 `Export PDF for Medieval History 08 — Provincial & Regional Kingdoms (Bengal, Gujarat, Malwa, Jaunpur, Kashmir) + bounded Ahom/Assam Prelims extension`
-- [ ] 🟡 `Export PDF for Medieval History 09 — Vijayanagara & the Bahmani Kingdom (Deccan)`
-- [ ] 🟡 `Export PDF for Medieval History 10 — The Bhakti & Sufi Movements`
-- [ ] 🟡 `Export PDF for Medieval History 11 — Art, Architecture & Culture of the Sultanate`
-- [ ] 🟡 `Export PDF for Medieval History 12 — Babur & the Central Asian Backdrop`
-- [ ] 🟡 `Export PDF for Medieval History 13 — Struggle for Empire: Afghans, Rajputs & Humayun`
-- [ ] 🟡 `Export PDF for Medieval History 14 — Sher Shah Sur & the Sur Empire`
-- [ ] 🟡 `Export PDF for Medieval History 15 — Akbar: Consolidation & Expansion of the Empire`
-- [ ] 🟡 `Export PDF for Medieval History 16 — State & Government under Akbar (Mansabdari, Dahsala)`
-- [ ] 🟡 `Export PDF for Medieval History 17 — Akbar's Religious Views: Ibadat Khana & Din-i-Ilahi`
-- [ ] 🟡 `Export PDF for Medieval History 18 — The Deccan & the Mughals (to 1657)`
-- [ ] 🟡 `Export PDF for Medieval History 19 — Foreign Policy of the Mughals`
-- [ ] 🟡 `Export PDF for Medieval History 20 — Jahangir & the Early Seventeenth Century (Nur Jahan)`
-- [ ] 🟡 `Export PDF for Medieval History 21 — Shah Jahan & the Evolution of the Mughal Ruling Class`
-- [ ] 🟡 `Export PDF for Medieval History 22 — Aurangzeb: Religious Policy, North India & the Rajputs`
-- [ ] 🟡 `Export PDF for Medieval History 23 — The Marathas, Shivaji & Aurangzeb's Deccan; Jagirdari Crisis`
-- [ ] 🟡 `Export PDF for Medieval History 24 — Mughal Society, Economy & Culture`
-- [ ] 🟡 `Export PDF for Medieval History 25 — Decline of the Mughal Empire & the Eighteenth Century`
+- [ ] 🟡 `Export PDF for Medieval History 01 — India on the Eve of the Medieval Age & Arab-Turkish Contacts` — `medieval-indian-history-01` · **learner-first v2:** g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Medieval History 02 — The Ghaznavids & the Ghurian Invasions` — `medieval-indian-history-02` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Medieval History 03 — Foundation of the Delhi Sultanate: The Slave (Mamluk) Dynasty` — `medieval-indian-history-03` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Medieval History 04 — The Khaljis: Alauddin Khalji & Market Reforms` — `medieval-indian-history-04` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Medieval History 05 — The Tughlaqs: Muhammad bin Tughlaq & Firuz Shah` — `medieval-indian-history-05` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Medieval History 06 — Decline of the Sultanate: Timur, Sayyids & Lodis` — `medieval-indian-history-06` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Medieval History 07 — Administration, Economy & Society under the Sultanate` — `medieval-indian-history-07` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Medieval History 08 — Provincial & Regional Kingdoms (Bengal, Gujarat, Malwa, Jaunpur, Kashmir) + bounded Ahom/Assam Prelims extension` — `medieval-indian-history-08` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Medieval History 09 — Vijayanagara & the Bahmani Kingdom (Deccan)` — `medieval-indian-history-09` · **learner-first v2:** g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Medieval History 10 — The Bhakti & Sufi Movements` — `medieval-indian-history-10` · **learner-first v2:** g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Medieval History 11 — Art, Architecture & Culture of the Sultanate` — `medieval-indian-history-11` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Medieval History 12 — Babur & the Central Asian Backdrop` — `medieval-indian-history-12` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Medieval History 13 — Struggle for Empire: Afghans, Rajputs & Humayun` — `medieval-indian-history-13` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Medieval History 14 — Sher Shah Sur & the Sur Empire` — `medieval-indian-history-14` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Medieval History 15 — Akbar: Consolidation & Expansion of the Empire` — `medieval-indian-history-15` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Medieval History 16 — State & Government under Akbar (Mansabdari, Dahsala)` — `medieval-indian-history-16` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Medieval History 17 — Akbar's Religious Views: Ibadat Khana & Din-i-Ilahi` — `medieval-indian-history-17` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Medieval History 18 — The Deccan & the Mughals (to 1657)` — `medieval-indian-history-18` · **learner-first v2:** g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Medieval History 19 — Foreign Policy of the Mughals` — `medieval-indian-history-19` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Medieval History 20 — Jahangir & the Early Seventeenth Century (Nur Jahan)` — `medieval-indian-history-20` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Medieval History 21 — Shah Jahan & the Evolution of the Mughal Ruling Class` — `medieval-indian-history-21` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Medieval History 22 — Aurangzeb: Religious Policy, North India & the Rajputs` — `medieval-indian-history-22` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Medieval History 23 — The Marathas, Shivaji & Aurangzeb's Deccan; Jagirdari Crisis` — `medieval-indian-history-23` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Medieval History 24 — Mughal Society, Economy & Culture` — `medieval-indian-history-24` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Medieval History 25 — Decline of the Mughal Empire & the Eighteenth Century` — `medieval-indian-history-25` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
 
 ## Modern History (01–38; 38 topics)
 
-**Progress:** 1 approved · 2 generated awaiting approval · 35 remaining
+**Learner-first v2 progress:** 0 approved · 38 generated awaiting approval · 0 incomplete · 0 remaining
 
-- [ ] 🟡 `Export PDF for Modern History 01 — Decline of the Mughal Empire (1707–1740s)`
-- [ ] 🟡 `Export PDF for Modern History 02 — Indian States & Society in the 18th Century (Marathas, Sikhs, successor states)`
-- [x] ✅ `Export PDF for Modern History 03 — The Beginnings of European Settlements (Portuguese → Dutch → English → French)`
-- [ ] ⬜ `Export PDF for Modern History 04 — The British Conquest of Bengal (Plassey 1757, Buxar 1764, Dual Government)`
-- [ ] ⬜ `Export PDF for Modern History 05 — British Territorial Expansion (Mysore, Marathas, Sikhs; Subsidiary Alliance & Lapse)`
-- [ ] ⬜ `Export PDF for Modern History 06 — Structure of Government & Constitutional Development, 1757–1858`
-- [ ] ⬜ `Export PDF for Modern History 07 — Economic Impact of British Rule (Drain, deindustrialisation, land-revenue, famines)`
-- [ ] ⬜ `Export PDF for Modern History 08 — Administrative Organisation (Civil Services, Army, Police, Judiciary, Rule of Law)`
-- [ ] ⬜ `Export PDF for Modern History 09 — Social & Cultural Policy — Education, the Press, State & Society`
-- [ ] ⬜ `Export PDF for Modern History 10 — Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)`
-- [ ] ⬜ `Export PDF for Modern History 11 — The Revolt of 1857`
-- [ ] ⬜ `Export PDF for Modern History 12 — Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)`
-- [ ] ⬜ `Export PDF for Modern History 13 — India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)`
-- [ ] ⬜ `Export PDF for Modern History 14 — Foundation of the INC & the Moderate Phase (1885–1905)`
-- [ ] ⬜ `Export PDF for Modern History 15 — Militant Nationalism, Swadeshi & the Partition of Bengal (1905–1908)`
-- [ ] ⬜ `Export PDF for Modern History 16 — Revolutionary Nationalism (Phase I, 1907–1917)`
-- [ ] ⬜ `Export PDF for Modern History 17 — Growth of Communalism & the Muslim League`
-- [ ] ⬜ `Export PDF for Modern History 18 — First World War, the Home Rule League & the Lucknow Pact (1914–1918)`
-- [ ] ⬜ `Export PDF for Modern History 19 — Gandhi's Rise: Champaran, Kheda, Ahmedabad; Rowlatt & Jallianwala Bagh (1917–1919)`
-- [ ] ⬜ `Export PDF for Modern History 20 — Non-Cooperation & the Khilafat Movement (1919–1922)`
-- [ ] ⬜ `Export PDF for Modern History 21 — Swarajists, Constructive Work & Revolutionaries of the 1920s (HSRA, Bhagat Singh)`
-- [ ] ⬜ `Export PDF for Modern History 22 — Simon Commission, Nehru Report, Civil Disobedience & Round Table Conferences (1927–1934)`
-- [ ] ⬜ `Export PDF for Modern History 23 — Left, Peasant, Workers' & States' Peoples' Movements (1930s)`
-- [ ] ⬜ `Export PDF for Modern History 24 — The Government of India Act 1935 & the Congress Ministries (1937–1939)`
-- [ ] ⬜ `Export PDF for Modern History 25 — Second World War, the Cripps Mission & Quit India (1939–1942)`
-- [ ] ⬜ `Export PDF for Modern History 26 — Post-War Upsurge: INA, RIN Mutiny & the Cabinet Mission (1945–1946)`
-- [ ] ⬜ `Export PDF for Modern History 27 — Independence & Partition (1946–1947)`
-- [ ] ⬜ `Export PDF for Modern History 28 — Integration of the Princely States & the Making of the Republic`
-- [ ] ⬜ `Export PDF for Modern History 29 — The Colonial Legacy & the Foundations of the Republic`
-- [ ] ⬜ `Export PDF for Modern History 30 — Linguistic Reorganisation of States & Regionalism`
-- [ ] ⬜ `Export PDF for Modern History 31 — Integration of the Tribals & National Unity`
-- [ ] ⬜ `Export PDF for Modern History 32 — The Nehru Era — Hope, Foreign Policy & Legacy`
-- [ ] ⬜ `Export PDF for Modern History 33 — Party Politics 1947–67: The Congress System & the Opposition`
-- [ ] ⬜ `Export PDF for Modern History 34 — From Shastri to Indira Gandhi, 1964–73`
-- [ ] ⬜ `Export PDF for Modern History 35 — The JP Movement & the Emergency`
-- [ ] ⬜ `Export PDF for Modern History 36 — Janata Interregnum, Indira's Return & Regional Crises`
-- [ ] ⬜ `Export PDF for Modern History 37 — The Rajiv Years & the Run-up to the Millennium`
-- [ ] ⬜ `Export PDF for Modern History 38 — Economy, Land, Society & State: A Post-Independence Synthesis`
+- [ ] 🟡 `Export PDF for Modern History 01 — Decline of the Mughal Empire (1707–1740s)` — `modern-indian-history-01` · **learner-first v2:** g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Modern History 02 — Indian States & Society in the 18th Century (Marathas, Sikhs, successor states)` — `modern-indian-history-02` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Modern History 03 — The Beginnings of European Settlements (Portuguese → Dutch → English → French)` — `modern-indian-history-03` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 ✅ approved
+- [ ] 🟡 `Export PDF for Modern History 04 — The British Conquest of Bengal (Plassey 1757, Buxar 1764, Dual Government)` — `modern-indian-history-04` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Modern History 05 — British Territorial Expansion (Mysore, Marathas, Sikhs; Subsidiary Alliance & Lapse)` — `modern-indian-history-05` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Modern History 06 — Structure of Government & Constitutional Development, 1757–1858` — `modern-indian-history-06` · **learner-first v2:** g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Modern History 07 — Economic Impact of British Rule (Drain, deindustrialisation, land-revenue, famines)` — `modern-indian-history-07` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Modern History 08 — Administrative Organisation (Civil Services, Army, Police, Judiciary, Rule of Law)` — `modern-indian-history-08` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 09 — Social & Cultural Policy — Education, the Press, State & Society` — `modern-indian-history-09` · **learner-first v2:** g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 10 — Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)` — `modern-indian-history-10` · **learner-first v2:** g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 11 — The Revolt of 1857` — `modern-indian-history-11` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 12 — Administrative & Constitutional Changes after 1858 (Crown Rule; Councils Acts)` — `modern-indian-history-12` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 13 — India and Her Neighbours (Afghanistan, Burma, Nepal, Tibet, NW Frontier)` — `modern-indian-history-13` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 14 — Foundation of the INC & the Moderate Phase (1885–1905)` — `modern-indian-history-14` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 15 — Militant Nationalism, Swadeshi & the Partition of Bengal (1905–1908)` — `modern-indian-history-15` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 16 — Revolutionary Nationalism (Phase I, 1907–1917)` — `modern-indian-history-16` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 17 — Growth of Communalism & the Muslim League` — `modern-indian-history-17` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 18 — First World War, the Home Rule League & the Lucknow Pact (1914–1918)` — `modern-indian-history-18` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 19 — Gandhi's Rise: Champaran, Kheda, Ahmedabad; Rowlatt & Jallianwala Bagh (1917–1919)` — `modern-indian-history-19` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 20 — Non-Cooperation & the Khilafat Movement (1919–1922)` — `modern-indian-history-20` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 21 — Swarajists, Constructive Work & Revolutionaries of the 1920s (HSRA, Bhagat Singh)` — `modern-indian-history-21` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 22 — Simon Commission, Nehru Report, Civil Disobedience & Round Table Conferences (1927–1934)` — `modern-indian-history-22` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 23 — Left, Peasant, Workers' & States' Peoples' Movements (1930s)` — `modern-indian-history-23` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 24 — The Government of India Act 1935 & the Congress Ministries (1937–1939)` — `modern-indian-history-24` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 25 — Second World War, the Cripps Mission & Quit India (1939–1942)` — `modern-indian-history-25` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 26 — Post-War Upsurge: INA, RIN Mutiny & the Cabinet Mission (1945–1946)` — `modern-indian-history-26` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 27 — Independence & Partition (1946–1947)` — `modern-indian-history-27` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 28 — Integration of the Princely States & the Making of the Republic` — `modern-indian-history-28` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 29 — The Colonial Legacy & the Foundations of the Republic` — `modern-indian-history-29` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 30 — Linguistic Reorganisation of States & Regionalism` — `modern-indian-history-30` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 31 — Integration of the Tribals & National Unity` — `modern-indian-history-31` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 32 — The Nehru Era — Hope, Foreign Policy & Legacy` — `modern-indian-history-32` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 33 — Party Politics 1947–67: The Congress System & the Opposition` — `modern-indian-history-33` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 34 — From Shastri to Indira Gandhi, 1964–73` — `modern-indian-history-34` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 35 — The JP Movement & the Emergency` — `modern-indian-history-35` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 36 — Janata Interregnum, Indira's Return & Regional Crises` — `modern-indian-history-36` · **learner-first v2:** g4 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 37 — The Rajiv Years & the Run-up to the Millennium` — `modern-indian-history-37` · **learner-first v2:** g5 🟡 generated; approval pending; g3 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Modern History 38 — Economy, Land, Society & State: A Post-Independence Synthesis` — `modern-indian-history-38` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
 
 ## World History (01–21; 21 topics)
 
-**Progress:** 0 approved · 0 generated awaiting approval · 20 remaining
+**Learner-first v2 progress:** 0 approved · 21 generated awaiting approval · 0 incomplete · 0 remaining
 
-- [ ] ⚠️ `Export PDF for World History 01 — Enlightenment and Age of Revolutions Overview`
-- [ ] ⬜ `Export PDF for World History 02 — American Revolution`
-- [ ] ⬜ `Export PDF for World History 03 — French Revolution and Napoleon`
-- [ ] ⬜ `Export PDF for World History 04 — Industrial Revolution`
-- [ ] ⬜ `Export PDF for World History 05 — Congress of Vienna and Concert of Europe`
-- [ ] ⬜ `Export PDF for World History 06 — Unification of Italy and Germany`
-- [ ] ⬜ `Export PDF for World History 07 — New Imperialism and Scramble for Africa`
-- [ ] ⬜ `Export PDF for World History 08 — Latin American Independence Movements`
-- [ ] ⬜ `Export PDF for World History 09 — World in 1914 and Outbreak of WWI`
-- [ ] ⬜ `Export PDF for World History 10 — First World War and Aftermath`
-- [ ] ⬜ `Export PDF for World History 11 — International Relations 1919-39`
-- [ ] ⬜ `Export PDF for World History 12 — Rise of Fascism: Italy, Germany, Japan`
-- [ ] ⬜ `Export PDF for World History 13 — Russian Revolution and USSR under Stalin`
-- [ ] ⬜ `Export PDF for World History 14 — Second World War`
-- [ ] ⬜ `Export PDF for World History 15 — Cold War and International Relations`
-- [ ] ⬜ `Export PDF for World History 16 — United Nations and Global Governance`
-- [ ] ⬜ `Export PDF for World History 17 — China, Communism and Asia`
-- [ ] ⬜ `Export PDF for World History 18 — Decolonization of Africa and Asia`
-- [ ] ⬜ `Export PDF for World History 19 — Latin America (20th Century)`
-- [ ] ⬜ `Export PDF for World History 20 — World Economy and Population since 1900`
-- [ ] ⬜ `Export PDF for World History 21 — Cold War End and New World Order`
+- [ ] 🟡 `Export PDF for World History 01 — Enlightenment and Age of Revolutions Overview` — `world-history-01` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 ⚠️ incomplete (main_pdf, workbook)
+- [ ] 🟡 `Export PDF for World History 02 — American Revolution` — `world-history-02` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for World History 03 — French Revolution and Napoleon` — `world-history-03` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for World History 04 — Industrial Revolution` — `world-history-04` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for World History 05 — Congress of Vienna and Concert of Europe` — `world-history-05` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for World History 06 — Unification of Italy and Germany` — `world-history-06` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for World History 07 — New Imperialism and Scramble for Africa` — `world-history-07` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for World History 08 — Latin American Independence Movements` — `world-history-08` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for World History 09 — World in 1914 and Outbreak of WWI` — `world-history-09` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for World History 10 — First World War and Aftermath` — `world-history-10` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for World History 11 — International Relations 1919-39` — `world-history-11` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for World History 12 — Rise of Fascism: Italy, Germany, Japan` — `world-history-12` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for World History 13 — Russian Revolution and USSR under Stalin` — `world-history-13` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for World History 14 — Second World War` — `world-history-14` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for World History 15 — Cold War and International Relations` — `world-history-15` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for World History 16 — United Nations and Global Governance` — `world-history-16` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for World History 17 — China, Communism and Asia` — `world-history-17` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for World History 18 — Decolonization of Africa and Asia` — `world-history-18` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for World History 19 — Latin America (20th Century)` — `world-history-19` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for World History 20 — World Economy and Population since 1900` — `world-history-20` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for World History 21 — Cold War End and New World Order` — `world-history-21` · **learner-first v2:** g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
 
 ## Indian Art and Culture (01–15; 15 topics)
 
-**Progress:** 0 approved · 0 generated awaiting approval · 14 remaining
+**Learner-first v2 progress:** 0 approved · 15 generated awaiting approval · 0 incomplete · 0 remaining
 
-- [ ] ⚠️ `Export PDF for Indian Art and Culture 01 — Architecture Foundations and Harappan Urbanism`
-- [ ] ⬜ `Export PDF for Indian Art and Culture 02 — Mauryan, Buddhist, Jain and Rock-Cut Heritage`
-- [ ] ⬜ `Export PDF for Indian Art and Culture 03 — Temple Architecture and Chandella Khajuraho`
-- [ ] ⬜ `Export PDF for Indian Art and Culture 04 — Indo-Islamic and Regional Architecture`
-- [ ] ⬜ `Export PDF for Indian Art and Culture 05 — Colonial and Post-Independence Architecture`
-- [ ] ⬜ `Export PDF for Indian Art and Culture 06 — Sculpture, Pottery and Iconography`
-- [ ] ⬜ `Export PDF for Indian Art and Culture 07 — Painting Traditions`
-- [ ] ⬜ `Export PDF for Indian Art and Culture 08 — Indian Music`
-- [ ] ⬜ `Export PDF for Indian Art and Culture 09 — Indian Dance`
-- [ ] ⬜ `Export PDF for Indian Art and Culture 10 — Theatre, Puppetry and Performance Traditions`
-- [ ] ⬜ `Export PDF for Indian Art and Culture 11 — Languages, Scripts, Literature and Manuscripts`
-- [ ] ⬜ `Export PDF for Indian Art and Culture 12 — Crafts, Textiles, Folk and Tribal Traditions`
-- [ ] ⬜ `Export PDF for Indian Art and Culture 13 — Religion, Philosophy and Cultural Synthesis`
-- [ ] ⬜ `Export PDF for Indian Art and Culture 14 — Heritage Conservation, Institutions and UNESCO`
-- [ ] ⬜ `Export PDF for Indian Art and Culture 15 — Indian Cinema, Film Institutions and Awards`
+- [ ] 🟡 `Export PDF for Indian Art and Culture 01 — Architecture Foundations and Harappan Urbanism` — `indian-art-and-culture-01` · **learner-first v2:** g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 ⚠️ incomplete (main_pdf, workbook)
+- [ ] 🟡 `Export PDF for Indian Art and Culture 02 — Mauryan, Buddhist, Jain and Rock-Cut Heritage` — `indian-art-and-culture-02` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Indian Art and Culture 03 — Temple Architecture and Chandella Khajuraho` — `indian-art-and-culture-03` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Indian Art and Culture 04 — Indo-Islamic and Regional Architecture` — `indian-art-and-culture-04` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Indian Art and Culture 05 — Colonial and Post-Independence Architecture` — `indian-art-and-culture-05` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Indian Art and Culture 06 — Sculpture, Pottery and Iconography` — `indian-art-and-culture-06` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Indian Art and Culture 07 — Painting Traditions` — `indian-art-and-culture-07` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Indian Art and Culture 08 — Indian Music` — `indian-art-and-culture-08` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Indian Art and Culture 09 — Indian Dance` — `indian-art-and-culture-09` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Indian Art and Culture 10 — Theatre, Puppetry and Performance Traditions` — `indian-art-and-culture-10` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Indian Art and Culture 11 — Languages, Scripts, Literature and Manuscripts` — `indian-art-and-culture-11` · **learner-first v2:** g8 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Indian Art and Culture 12 — Crafts, Textiles, Folk and Tribal Traditions` — `indian-art-and-culture-12` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Indian Art and Culture 13 — Religion, Philosophy and Cultural Synthesis` — `indian-art-and-culture-13` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Indian Art and Culture 14 — Heritage Conservation, Institutions and UNESCO` — `indian-art-and-culture-14` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Indian Art and Culture 15 — Indian Cinema, Film Institutions and Awards` — `indian-art-and-culture-15` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
 
 ## Geography (01–37; 37 topics)
 
-**Progress:** 0 approved · 24 generated awaiting approval · 13 remaining
+**Learner-first v2 progress:** 0 approved · 37 generated awaiting approval · 0 incomplete · 0 remaining
 
-- [ ] 🟡 `Export PDF for Geography 01 — India Location and Extent`
-- [ ] 🟡 `Export PDF for Geography 02 — India Geological Structure`
-- [ ] 🟡 `Export PDF for Geography 03 — India Seismic Zones`
-- [ ] 🟡 `Export PDF for Geography 04 — India Erosion Landslides Groundwater`
-- [ ] 🟡 `Export PDF for Geography 05 — India Drainage and Interlinking`
-- [ ] 🟡 `Export PDF for Geography 06 — Himalayan Glaciers GLOF`
-- [ ] 🟡 `Export PDF for Geography 07 — Thar Desertification`
-- [ ] 🟡 `Export PDF for Geography 08 — India Caves Meghalayan Age`
-- [ ] 🟡 `Export PDF for Geography 09 — India Lakes and Wetlands`
-- [ ] 🟡 `Export PDF for Geography 10 — India Coast and CRZ`
-- [ ] 🟡 `Export PDF for Geography 11 — India Islands Great Nicobar`
-- [ ] 🟡 `Export PDF for Geography 12 — Indian Ocean and IOD`
-- [ ] 🟡 `Export PDF for Geography 13 — India JetStream Western Disturbances`
-- [ ] 🟡 `Export PDF for Geography 14 — India Climatic Regions`
-- [ ] 🟡 `Export PDF for Geography 15 — India Evergreen Forests`
-- [ ] 🟡 `Export PDF for Geography 16 — India Monsoon Mechanism`
-- [ ] 🟡 `Export PDF for Geography 17 — India Deciduous and Grasslands`
-- [ ] 🟡 `Export PDF for Geography 18 — Thar Desert and GIB`
-- [ ] 🟡 `Export PDF for Geography 19 — India Himalayan Fruit Belt`
-- [ ] 🟡 `Export PDF for Geography 20 — India Wheat Granary`
-- [ ] 🟡 `Export PDF for Geography 21 — India Humid Subtropical NE`
-- [ ] 🟡 `Export PDF for Geography 22 — India Himalayan Temperate Forests`
-- [ ] 🟡 `Export PDF for Geography 23 — India Subalpine Alpine Belt`
-- [ ] 🟡 `Export PDF for Geography 24 — India Eastern Himalaya Temperate`
-- [ ] ⬜ `Export PDF for Geography 25 — India Cold Desert and Poles`
-- [ ] ⬜ `Export PDF for Geography 26 — World Population and Demographic Transition`
-- [ ] ⬜ `Export PDF for Geography 27 — Migration Theories and Patterns India`
-- [ ] ⬜ `Export PDF for Geography 28 — Human Settlements and Urbanisation`
-- [ ] ⬜ `Export PDF for Geography 29 — Regional Development and Five Year Plans`
-- [ ] ⬜ `Export PDF for Geography 30 — Primary Economic Activities Agriculture`
-- [ ] ⬜ `Export PDF for Geography 31 — Mineral Energy Resources World and India`
-- [ ] ⬜ `Export PDF for Geography 32 — Industries and Industrial Regions`
-- [ ] ⬜ `Export PDF for Geography 33 — Transport Trade and Indian Space Programme`
-- [ ] ⬜ `Export PDF for Geography 34 — World Regional Geography Continents Countries`
-- [ ] ⬜ `Export PDF for Geography 35 — Indian Political Geography Boundaries and Neighbours`
-- [ ] ⬜ `Export PDF for Geography 36 — Contemporary Geographical Issues India`
-- [ ] ⬜ `Export PDF for Geography 37 — Cultural and Social Geography of India`
+- [ ] 🟡 `Export PDF for Geography 01 — The Earth and the Universe / India Location and Extent` — `geography-01` · **learner-first v2:** g16 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 02 — The Earth's Crust, Rocks / India Geological Structure` — `geography-02` · **learner-first v2:** g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 03 — Vulcanism and Earthquakes / India Seismic Zones` — `geography-03` · **learner-first v2:** g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 04 — Weathering, Mass Movement, Groundwater / India Erosion-Landslides-Groundwater` — `geography-04` · **learner-first v2:** g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 05 — Landforms by Running Water / India Drainage and Interlinking` — `geography-05` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 06 — Landforms of Glaciation / Himalayan Glaciers-GLOF` — `geography-06` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 07 — Arid Desert Landforms / Thar Desertification` — `geography-07` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 08 — Limestone and Karst Landforms / India Caves-Meghalayan Age` — `geography-08` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 09 — Lakes / India Lakes and Wetlands` — `geography-09` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 10 — Coastal Landforms / India Coast and CRZ` — `geography-10` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 11 — Islands and Coral Reefs / India Islands-Great Nicobar` — `geography-11` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 12 — The Oceans: Currents, Tides, Salinity / Indian Ocean and IOD` — `geography-12` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 13 — Weather Elements / India Jet Stream-Western Disturbances` — `geography-13` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 14 — Climate Classification (Koppen) / India Climatic Regions` — `geography-14` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 15 — Hot Wet Equatorial Climate` — `geography-15` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 16 — Tropical Monsoon and Marine Climate` — `geography-16` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 17 — Savanna Sudan Climate` — `geography-17` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 18 — Hot and MidLatitude Desert Climate` — `geography-18` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 19 — Mediterranean Climate` — `geography-19` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 20 — Temperate Continental Steppe Climate` — `geography-20` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 21 — Warm Temperate Eastern Margin China Type` — `geography-21` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 22 — Cool Temperate Western Margin British Type` — `geography-22` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 23 — Cool Temperate Continental Siberian` — `geography-23` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 24 — Cool Temperate Eastern Margin Laurentian` — `geography-24` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 25 — Arctic or Polar Climate` — `geography-25` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 26 — World Population and Demographic Transition` — `geography-26` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 27 — Migration Theories and Patterns (India)` — `geography-27` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 28 — Human Settlements and Urbanisation` — `geography-28` · **learner-first v2:** g14 🟡 generated; approval pending; g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 29 — Regional Development and Five Year Plans` — `geography-29` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 30 — Primary Economic Activities: Agriculture` — `geography-30` · **learner-first v2:** g14 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 31 — Mineral and Energy Resources: World and India` — `geography-31` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 32 — Industries and Industrial Regions` — `geography-32` · **learner-first v2:** g16 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Geography 33 — Transport, Trade and the Indian Space Programme` — `geography-33` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Geography 34 — World Regional Geography: Continents and Countries` — `geography-34` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Geography 35 — Indian Political Geography: Boundaries and Neighbours` — `geography-35` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Geography 36 — Contemporary Geographical Issues (India)` — `geography-36` · **learner-first v2:** g4 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Geography 37 — Cultural and Social Geography of India` — `geography-37` · **learner-first v2:** g4 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
 
 ## Indian Society (01–15; 15 topics)
 
-**Progress:** 0 approved · 1 generated awaiting approval · 14 remaining
+**Learner-first v2 progress:** 0 approved · 15 generated awaiting approval · 0 incomplete · 0 remaining
 
-- [ ] 🟡 `Export PDF for Indian Society 01 — Salient Features and Diversity of Indian Society`
-- [ ] ⬜ `Export PDF for Indian Society 02 — Caste System: Structure and Contemporary Dynamics`
-- [ ] ⬜ `Export PDF for Indian Society 03 — Tribe and Tribal Society`
-- [ ] ⬜ `Export PDF for Indian Society 04 — Family, Marriage and Kinship`
-- [ ] ⬜ `Export PDF for Indian Society 05 — Rural Society and Agrarian Change`
-- [ ] ⬜ `Export PDF for Indian Society 06 — Population and Associated Issues`
-- [ ] ⬜ `Export PDF for Indian Society 07 — Women and Women's Organisations`
-- [ ] ⬜ `Export PDF for Indian Society 08 — Social Empowerment`
-- [ ] ⬜ `Export PDF for Indian Society 09 — Poverty and Developmental Issues`
-- [ ] ⬜ `Export PDF for Indian Society 10 — Urbanisation: Problems and Remedies`
-- [ ] ⬜ `Export PDF for Indian Society 11 — Effects of Globalisation on Indian Society`
-- [ ] ⬜ `Export PDF for Indian Society 12 — Social Change and Modernisation`
-- [ ] ⬜ `Export PDF for Indian Society 13 — Communalism`
-- [ ] ⬜ `Export PDF for Indian Society 14 — Regionalism`
-- [ ] ⬜ `Export PDF for Indian Society 15 — Secularism`
+- [ ] 🟡 `Export PDF for Indian Society 01 — Salient Features and Diversity of Indian Society` — `indian-society-01` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Indian Society 02 — Caste System: Structure and Contemporary Dynamics` — `indian-society-02` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Indian Society 03 — Tribe and Tribal Society` — `indian-society-03` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Indian Society 04 — Family, Marriage and Kinship` — `indian-society-04` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Indian Society 05 — Rural Society and Agrarian Change` — `indian-society-05` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Indian Society 06 — Population and Associated Issues` — `indian-society-06` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Indian Society 07 — Women and Women's Organisations` — `indian-society-07` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Indian Society 08 — Social Empowerment` — `indian-society-08` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Indian Society 09 — Poverty and Developmental Issues` — `indian-society-09` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Indian Society 10 — Urbanisation: Problems and Remedies` — `indian-society-10` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Indian Society 11 — Effects of Globalisation on Indian Society` — `indian-society-11` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Indian Society 12 — Social Change and Modernisation` — `indian-society-12` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Indian Society 13 — Communalism` — `indian-society-13` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Indian Society 14 — Regionalism` — `indian-society-14` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Indian Society 15 — Secularism` — `indian-society-15` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
 
 ## Polity (01–55; 55 topics)
 
-**Progress:** 0 approved · 33 generated awaiting approval · 22 remaining
+**Learner-first v2 progress:** 0 approved · 55 generated awaiting approval · 0 incomplete · 0 remaining
 
-- [ ] 🟡 `Export PDF for Polity 01 — Historical Background`
-- [ ] 🟡 `Export PDF for Polity 02 — Making of the Constitution`
-- [ ] 🟡 `Export PDF for Polity 03 — Salient Features`
-- [ ] 🟡 `Export PDF for Polity 04 — Preamble`
-- [ ] 🟡 `Export PDF for Polity 05 — Union and Territory`
-- [ ] 🟡 `Export PDF for Polity 06 — Citizenship`
-- [ ] 🟡 `Export PDF for Polity 07 — Fundamental Rights`
-- [ ] 🟡 `Export PDF for Polity 08 — Directive Principles`
-- [ ] 🟡 `Export PDF for Polity 09 — Fundamental Duties`
-- [ ] 🟡 `Export PDF for Polity 10 — Amendment and Basic Structure`
-- [ ] 🟡 `Export PDF for Polity 11 — Parliamentary System`
-- [ ] 🟡 `Export PDF for Polity 12 — Federal System`
-- [ ] 🟡 `Export PDF for Polity 13 — Centre State and Inter State Relations`
-- [ ] 🟡 `Export PDF for Polity 14 — Emergency Provisions`
-- [ ] 🟡 `Export PDF for Polity 15 — President and Vice President`
-- [ ] 🟡 `Export PDF for Polity 16 — PM and Council of Ministers`
-- [ ] 🟡 `Export PDF for Polity 17 — Parliament`
-- [ ] 🟡 `Export PDF for Polity 18 — Supreme Court`
-- [ ] 🟡 `Export PDF for Polity 19 — Governor CM State Council`
-- [ ] 🟡 `Export PDF for Polity 20 — State Legislature`
-- [ ] 🟡 `Export PDF for Polity 21 — High Court and Subordinate Courts`
-- [ ] 🟡 `Export PDF for Polity 22 — Special Provisions`
-- [ ] 🟡 `Export PDF for Polity 23 — Panchayati Raj`
-- [ ] 🟡 `Export PDF for Polity 24 — Municipalities`
-- [ ] 🟡 `Export PDF for Polity 25 — Union Territories`
-- [ ] 🟡 `Export PDF for Polity 26 — Scheduled and Tribal Areas`
-- [ ] 🟡 `Export PDF for Polity 27 — Election Commission`
-- [ ] 🟡 `Export PDF for Polity 28 — UPSC and SPSC`
-- [ ] 🟡 `Export PDF for Polity 29 — Finance Commission`
-- [ ] 🟡 `Export PDF for Polity 30 — GST Council`
-- [ ] 🟡 `Export PDF for Polity 31 — National Commissions SC ST BC`
-- [ ] 🟡 `Export PDF for Polity 32 — CAG`
-- [ ] 🟡 `Export PDF for Polity 33 — Attorney General and Advocate General`
-- [ ] ⬜ `Export PDF for Polity 34 — NITI Aayog`
-- [ ] ⬜ `Export PDF for Polity 35 — NHRC and SHRC`
-- [ ] ⬜ `Export PDF for Polity 36 — CIC and SIC`
-- [ ] ⬜ `Export PDF for Polity 37 — CVC and CBI`
-- [ ] ⬜ `Export PDF for Polity 38 — Lokpal and Lokayuktas`
-- [ ] ⬜ `Export PDF for Polity 39 — Cooperative Societies`
-- [ ] ⬜ `Export PDF for Polity 40 — Official Language`
-- [ ] ⬜ `Export PDF for Polity 41 — Public Services`
-- [ ] ⬜ `Export PDF for Polity 42 — Anti Defection Law`
-- [ ] ⬜ `Export PDF for Polity 43 — Political Parties`
-- [ ] ⬜ `Export PDF for Polity 44 — Pressure Groups`
-- [ ] ⬜ `Export PDF for Polity 45 — National Integration and Foreign Policy`
-- [ ] ⬜ `Export PDF for Polity 46 — Administrative Tribunals`
-- [ ] ⬜ `Export PDF for Polity 47 — Comparative Constitutional Design`
-- [ ] ⬜ `Export PDF for Polity 48 — Ministries Departments and Central Secretariat`
-- [ ] ⬜ `Export PDF for Polity 49 — Regulatory State and Quasi Judicial Institutions`
-- [ ] ⬜ `Export PDF for Polity 50 — Concept of the Constitution`
-- [ ] ⬜ `Export PDF for Polity 51 — Rights and Liabilities of the Government`
-- [ ] ⬜ `Export PDF for Polity 52 — NCRWC and Working of the Constitution`
-- [ ] ⬜ `Export PDF for Polity 53 — Special Provisions Relating to Certain Classes`
-- [ ] ⬜ `Export PDF for Polity 54 — Lok Adalats and Other Courts`
-- [ ] ⬜ `Export PDF for Polity 55 — Constitutional Interpretation Doctrines`
+- [ ] 🟡 `Export PDF for Polity 01 — Historical Background` — `polity-01` · **learner-first v2:** g16 🟡 generated; approval pending; g15 🟡 generated; approval pending; g14 🟡 generated; approval pending; g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 02 — Making of the Constitution` — `polity-02` · **learner-first v2:** g17 🟡 generated; approval pending; g16 🟡 generated; approval pending; g15 🟡 generated; approval pending; g14 🟡 generated; approval pending; g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 03 — Salient Features` — `polity-03` · **learner-first v2:** g18 🟡 generated; approval pending; g17 🟡 generated; approval pending; g16 🟡 generated; approval pending; g15 🟡 generated; approval pending; g14 🟡 generated; approval pending; g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 04 — Preamble` — `polity-04` · **learner-first v2:** g18 🟡 generated; approval pending; g17 🟡 generated; approval pending; g16 🟡 generated; approval pending; g15 🟡 generated; approval pending; g14 🟡 generated; approval pending; g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 05 — Union and Territory` — `polity-05` · **learner-first v2:** g17 🟡 generated; approval pending; g16 🟡 generated; approval pending; g15 🟡 generated; approval pending; g14 🟡 generated; approval pending; g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 06 — Citizenship` — `polity-06` · **learner-first v2:** g16 🟡 generated; approval pending; g15 🟡 generated; approval pending; g14 🟡 generated; approval pending; g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 07 — Fundamental Rights` — `polity-07` · **learner-first v2:** g17 🟡 generated; approval pending; g16 🟡 generated; approval pending; g15 🟡 generated; approval pending; g14 🟡 generated; approval pending; g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 08 — Directive Principles` — `polity-08` · **learner-first v2:** g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 09 — Fundamental Duties` — `polity-09` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 10 — Amendment and Basic Structure` — `polity-10` · **learner-first v2:** g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 11 — Parliamentary System` — `polity-11` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 12 — Federal System` — `polity-12` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 13 — Centre State and Inter State Relations` — `polity-13` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 14 — Emergency Provisions` — `polity-14` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 15 — President and Vice President` — `polity-15` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 16 — PM and Council of Ministers` — `polity-16` · **learner-first v2:** g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 17 — Parliament` — `polity-17` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 18 — Supreme Court` — `polity-18` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 19 — Governor CM State Council` — `polity-19` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 20 — State Legislature` — `polity-20` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 21 — High Court and Subordinate Courts` — `polity-21` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 22 — Special Provisions` — `polity-22` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 23 — Panchayati Raj` — `polity-23` · **learner-first v2:** g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 24 — Municipalities` — `polity-24` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 25 — Union Territories` — `polity-25` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 26 — Scheduled and Tribal Areas` — `polity-26` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 27 — Election Commission` — `polity-27` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 28 — UPSC and SPSC` — `polity-28` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 29 — Finance Commission` — `polity-29` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 30 — GST Council` — `polity-30` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 31 — National Commissions SC ST BC` — `polity-31` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 32 — CAG` — `polity-32` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 33 — Attorney General and Advocate General` — `polity-33` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 34 — NITI Aayog` — `polity-34` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 35 — NHRC and SHRC` — `polity-35` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 36 — CIC and SIC` — `polity-36` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 37 — CVC and CBI` — `polity-37` · **learner-first v2:** g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 38 — Lokpal and Lokayuktas` — `polity-38` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 39 — Cooperative Societies` — `polity-39` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 40 — Official Language` — `polity-40` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 41 — Public Services` — `polity-41` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 42 — Anti Defection Law` — `polity-42` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 43 — Political Parties` — `polity-43` · **learner-first v2:** g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 44 — Pressure Groups` — `polity-44` · **learner-first v2:** g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 45 — National Integration and Foreign Policy` — `polity-45` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 46 — Administrative Tribunals` — `polity-46` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 47 — Comparative Constitutional Design` — `polity-47` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 48 — Ministries Departments and Central Secretariat` — `polity-48` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 49 — Regulatory State and Quasi Judicial Institutions` — `polity-49` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 50 — Concept of the Constitution` — `polity-50` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 51 — Rights and Liabilities of the Government` — `polity-51` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 52 — NCRWC and Working of the Constitution` — `polity-52` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 53 — Special Provisions Relating to Certain Classes` — `polity-53` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 54 — Lok Adalats and Other Courts` — `polity-54` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Polity 55 — Constitutional Interpretation Doctrines` — `polity-55` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
 
 ## Governance (01–16; 16 topics)
 
-**Progress:** 0 approved · 1 generated awaiting approval · 15 remaining
+**Learner-first v2 progress:** 0 approved · 16 generated awaiting approval · 0 incomplete · 0 remaining
 
-- [ ] 🟡 `Export PDF for Governance 01 — Good Governance: Concepts and Frameworks`
-- [ ] ⬜ `Export PDF for Governance 02 — Government Policy Design and Implementation`
-- [ ] ⬜ `Export PDF for Governance 03 — Development Processes and the Development Industry`
-- [ ] ⬜ `Export PDF for Governance 04 — NGOs, SHGs and Civil-Society Stakeholders`
-- [ ] ⬜ `Export PDF for Governance 05 — E-Governance Models and User-Centricity`
-- [ ] ⬜ `Export PDF for Governance 06 — Digital Public Infrastructure and Data Governance`
-- [ ] ⬜ `Export PDF for Governance 07 — Citizen-Centric Administration`
-- [ ] ⬜ `Export PDF for Governance 08 — Transparency, Accountability, RTI, Grievance Redress and Social Audit`
-- [ ] ⬜ `Export PDF for Governance 09 — Civil Services and Mission Karmayogi`
-- [ ] ⬜ `Export PDF for Governance 10 — Administrative Reforms and the Second ARC`
-- [ ] ⬜ `Export PDF for Governance 11 — Regulatory Governance and Independent Regulators`
-- [ ] ⬜ `Export PDF for Governance 12 — Local Governance and Service Delivery`
-- [ ] ⬜ `Export PDF for Governance 13 — Public Finance and Service-Delivery Tools`
-- [ ] ⬜ `Export PDF for Governance 14 — Participatory Governance`
-- [ ] ⬜ `Export PDF for Governance 15 — Monitoring, Evaluation and Outcomes`
-- [ ] ⬜ `Export PDF for Governance 16 — Sports Governance, Institutions and Major Tournaments`
+- [ ] 🟡 `Export PDF for Governance 01 — Good Governance: Concepts and Frameworks` — `governance-01` · **learner-first v2:** g4 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Governance 02 — Government Policy Design and Implementation` — `governance-02` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Governance 03 — Development Processes and the Development Industry` — `governance-03` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Governance 04 — NGOs, SHGs and Civil-Society Stakeholders` — `governance-04` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Governance 05 — E-Governance Models and User-Centricity` — `governance-05` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Governance 06 — Digital Public Infrastructure and Data Governance` — `governance-06` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Governance 07 — Citizen-Centric Administration` — `governance-07` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Governance 08 — Transparency, Accountability, RTI, Grievance Redress and Social Audit` — `governance-08` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Governance 09 — Civil Services and Mission Karmayogi` — `governance-09` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Governance 10 — Administrative Reforms and the Second ARC` — `governance-10` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Governance 11 — Regulatory Governance and Independent Regulators` — `governance-11` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Governance 12 — Local Governance and Service Delivery` — `governance-12` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Governance 13 — Public Finance and Service-Delivery Tools` — `governance-13` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Governance 14 — Participatory Governance` — `governance-14` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Governance 15 — Monitoring, Evaluation and Outcomes` — `governance-15` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Governance 16 — Sports Governance, Institutions and Major Tournaments` — `governance-16` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
 
 ## Social Justice (01–17; 17 topics)
 
-**Progress:** 0 approved · 0 generated awaiting approval · 16 remaining
+**Learner-first v2 progress:** 0 approved · 17 generated awaiting approval · 0 incomplete · 0 remaining
 
-- [ ] ⚠️ `Export PDF for Social Justice 01 — Social Justice, Inclusion and Welfare-State Framework`
-- [ ] ⬜ `Export PDF for Social Justice 02 — Poverty, Hunger, Food and Nutrition Security`
-- [ ] ⬜ `Export PDF for Social Justice 03 — Health Systems, Public Health and Universal Health Coverage`
-- [ ] ⬜ `Export PDF for Social Justice 04 — Education and Human-Resource Development`
-- [ ] ⬜ `Export PDF for Social Justice 05 — Women and Gender Justice`
-- [ ] ⬜ `Export PDF for Social Justice 06 — Children and Child Protection`
-- [ ] ⬜ `Export PDF for Social Justice 07 — Scheduled Castes: Rights, Atrocities and Welfare`
-- [ ] ⬜ `Export PDF for Social Justice 08 — Scheduled Tribes, PVTGs and Tribal Welfare`
-- [ ] ⬜ `Export PDF for Social Justice 09 — OBC, EWS and Social Mobility`
-- [ ] ⬜ `Export PDF for Social Justice 10 — Minorities: Rights and Welfare`
-- [ ] ⬜ `Export PDF for Social Justice 11 — Persons with Disabilities`
-- [ ] ⬜ `Export PDF for Social Justice 12 — Elderly and Senior Citizens`
-- [ ] ⬜ `Export PDF for Social Justice 13 — Transgender Persons and Denotified/Nomadic Communities`
-- [ ] ⬜ `Export PDF for Social Justice 14 — Sanitation, Manual Scavenging and Safai Karamcharis`
-- [ ] ⬜ `Export PDF for Social Justice 15 — Labour Social Security, Unorganised and Gig Workers`
-- [ ] ⬜ `Export PDF for Social Justice 16 — Urban Poor, Homeless and Migrant Workers`
-- [ ] ⬜ `Export PDF for Social Justice 17 — Scheme Performance, Convergence, Targeting and Data`
+- [ ] 🟡 `Export PDF for Social Justice 01 — Social Justice, Inclusion and Welfare-State Framework` — `social-justice-01` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 ⚠️ incomplete (main_pdf, workbook)
+- [ ] 🟡 `Export PDF for Social Justice 02 — Poverty, Hunger, Food and Nutrition Security` — `social-justice-02` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Social Justice 03 — Health Systems, Public Health and Universal Health Coverage` — `social-justice-03` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Social Justice 04 — Education and Human-Resource Development` — `social-justice-04` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Social Justice 05 — Women and Gender Justice` — `social-justice-05` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Social Justice 06 — Children and Child Protection` — `social-justice-06` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Social Justice 07 — Scheduled Castes: Rights, Atrocities and Welfare` — `social-justice-07` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Social Justice 08 — Scheduled Tribes, PVTGs and Tribal Welfare` — `social-justice-08` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Social Justice 09 — OBC, EWS and Social Mobility` — `social-justice-09` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Social Justice 10 — Minorities: Rights and Welfare` — `social-justice-10` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Social Justice 11 — Persons with Disabilities` — `social-justice-11` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Social Justice 12 — Elderly and Senior Citizens` — `social-justice-12` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Social Justice 13 — Transgender Persons and Denotified/Nomadic Communities` — `social-justice-13` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Social Justice 14 — Sanitation, Manual Scavenging and Safai Karamcharis` — `social-justice-14` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Social Justice 15 — Labour Social Security, Unorganised and Gig Workers` — `social-justice-15` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Social Justice 16 — Urban Poor, Homeless and Migrant Workers` — `social-justice-16` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Social Justice 17 — Scheme Performance, Convergence, Targeting and Data` — `social-justice-17` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
 
 ## International Relations (01–12; 12 topics)
 
-**Progress:** 0 approved · 2 generated awaiting approval · 10 remaining
+**Learner-first v2 progress:** 0 approved · 12 generated awaiting approval · 0 incomplete · 0 remaining
 
-- [ ] 🟡 `Export PDF for International Relations 01 — Foreign-Policy Foundations and Strategic Autonomy`
-- [ ] 🟡 `Export PDF for International Relations 02 — India and the Neighbourhood`
-- [ ] ⬜ `Export PDF for International Relations 03 — India, China, Major Powers and Resilient Supply Chains`
-- [ ] ⬜ `Export PDF for International Relations 04 — Indo-Pacific, Indian Ocean and Maritime Security`
-- [ ] ⬜ `Export PDF for International Relations 05 — Central Asia, Eurasia and Connectivity`
-- [ ] ⬜ `Export PDF for International Relations 06 — West Asia, Energy Security and Connectivity`
-- [ ] ⬜ `Export PDF for International Relations 07 — India-Africa Development and Digital Partnership`
-- [ ] ⬜ `Export PDF for International Relations 08 — Global South and Development Partnering`
-- [ ] ⬜ `Export PDF for International Relations 09 — Indian Diaspora, Consular Protection and Soft Power`
-- [ ] ⬜ `Export PDF for International Relations 10 — Regional, Global and Minilateral Groupings`
-- [ ] ⬜ `Export PDF for International Relations 11 — Globalisation, Trade Agreements and External-Policy Effects`
-- [ ] ⬜ `Export PDF for International Relations 12 — UN and International Institutions: Global Governance`
+- [ ] 🟡 `Export PDF for International Relations 01 — Foreign-Policy Foundations and Strategic Autonomy` — `international-relations-01` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for International Relations 02 — India and the Neighbourhood` — `international-relations-02` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for International Relations 03 — India, China, Major Powers and Resilient Supply Chains` — `international-relations-03` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for International Relations 04 — Indo-Pacific, Indian Ocean and Maritime Security` — `international-relations-04` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for International Relations 05 — Central Asia, Eurasia and Connectivity` — `international-relations-05` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for International Relations 06 — West Asia, Energy Security and Connectivity` — `international-relations-06` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for International Relations 07 — India-Africa Development and Digital Partnership` — `international-relations-07` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for International Relations 08 — Global South and Development Partnering` — `international-relations-08` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for International Relations 09 — Indian Diaspora, Consular Protection and Soft Power` — `international-relations-09` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for International Relations 10 — Regional, Global and Minilateral Groupings` — `international-relations-10` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for International Relations 11 — Globalisation, Trade Agreements and External-Policy Effects` — `international-relations-11` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for International Relations 12 — UN and International Institutions: Global Governance` — `international-relations-12` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
 
 ## Economy (01–31; 31 topics)
 
-**Progress:** 0 approved · 0 generated awaiting approval · 30 remaining
+**Learner-first v2 progress:** 0 approved · 31 generated awaiting approval · 0 incomplete · 0 remaining
 
-- [ ] ⚠️ `Export PDF for Economy 01 — National Income: GDP, GVA, GNP, NDP and Measurement`
-- [ ] ⬜ `Export PDF for Economy 02 — Growth, Development, HDI, IHDI and MPI`
-- [ ] ⬜ `Export PDF for Economy 03 — Inflation, Price Indices and Business Cycles`
-- [ ] ⬜ `Export PDF for Economy 04 — RBI, Monetary Policy and Liquidity Management`
-- [ ] ⬜ `Export PDF for Economy 05 — Banking Structure, NBFCs and Financial Regulation`
-- [ ] ⬜ `Export PDF for Economy 06 — NPAs, Basel Norms, Resolution and Financial Inclusion`
-- [ ] ⬜ `Export PDF for Economy 07 — Money Market, Capital Market and Financial Instruments`
-- [ ] ⬜ `Export PDF for Economy 08 — Securities, Bonds, Equity, Derivatives and Investment Funds`
-- [ ] ⬜ `Export PDF for Economy 09 — Union Budget, Fiscal Policy and Deficit Indicators`
-- [ ] ⬜ `Export PDF for Economy 10 — Taxation, GST, Finance Commission and Fiscal Federalism`
-- [ ] ⬜ `Export PDF for Economy 11 — Land Reforms, Green Revolution and Cropping Systems`
-- [ ] ⬜ `Export PDF for Economy 12 — MSP, Procurement, Buffer Stocks, PDS and Food Security`
-- [ ] ⬜ `Export PDF for Economy 13 — APMC, e-NAM, FPOs and Agricultural Supply Chains`
-- [ ] ⬜ `Export PDF for Economy 14 — Irrigation, Inputs, Credit, Insurance and Sustainable Agriculture`
-- [ ] ⬜ `Export PDF for Economy 15 — Food Processing, Cold Chains and Value Addition`
-- [ ] ⬜ `Export PDF for Economy 16 — Industrial Policy, 1991 Reforms, PSUs and Disinvestment`
-- [ ] ⬜ `Export PDF for Economy 17 — MSMEs, PLI, Semiconductors and Manufacturing Strategy`
-- [ ] ⬜ `Export PDF for Economy 18 — Infrastructure, PPPs, Logistics and Public Investment`
-- [ ] ⬜ `Export PDF for Economy 19 — Balance of Payments, Exchange Rates and Forex Reserves`
-- [ ] ⬜ `Export PDF for Economy 20 — Foreign Trade, WTO, FTAs and Protectionism`
-- [ ] ⬜ `Export PDF for Economy 21 — IMF, World Bank, ADB, AIIB, NDB and Global Governance`
-- [ ] ⬜ `Export PDF for Economy 22 — Employment, Labour Codes, Skills and Demographic Dividend`
-- [ ] ⬜ `Export PDF for Economy 23 — Poverty, Inequality, Social Sector and Inclusive Growth`
-- [ ] ⬜ `Export PDF for Economy 24 — Services, Digital Economy, Fintech and Platform Markets`
-- [ ] ⬜ `Export PDF for Economy 25 — Climate Economics, Green Finance and Circular Economy`
-- [ ] ⬜ `Export PDF for Economy 26 — Economic Survey Synthesis and Current Macro Dashboard`
-- [ ] ⬜ `Export PDF for Economy 27 — Digital Agriculture, Agritech and e-Technology for Farmers`
-- [ ] ⬜ `Export PDF for Economy 28 — Direct and Indirect Farm Subsidies and WTO Rules`
-- [ ] ⬜ `Export PDF for Economy 29 — Agricultural Technology Missions and Mission-Mode Policy`
-- [ ] ⬜ `Export PDF for Economy 30 — Economics of Animal Rearing, Livestock, Dairy, Poultry and Fisheries`
-- [ ] ⬜ `Export PDF for Economy 31 — Energy Infrastructure Economics, Power, Fuels and Energy Security`
+- [ ] 🟡 `Export PDF for Economy 01 — National Income: GDP, GVA, GNP, NDP and Measurement` — `economy-01` · **learner-first v2:** g5 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 ⚠️ incomplete (main_pdf, workbook)
+- [ ] 🟡 `Export PDF for Economy 02 — Growth, Development, HDI, IHDI and MPI` — `economy-02` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 03 — Inflation, Price Indices and Business Cycles` — `economy-03` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 04 — RBI, Monetary Policy and Liquidity Management` — `economy-04` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 05 — Banking Structure, NBFCs and Financial Regulation` — `economy-05` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 06 — NPAs, Basel Norms, Resolution and Financial Inclusion` — `economy-06` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 07 — Money Market, Capital Market and Financial Instruments` — `economy-07` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 08 — Securities, Bonds, Equity, Derivatives and Investment Funds` — `economy-08` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 09 — Union Budget, Fiscal Policy and Deficit Indicators` — `economy-09` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 10 — Taxation, GST, Finance Commission and Fiscal Federalism` — `economy-10` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 11 — Land Reforms, Green Revolution and Cropping Systems` — `economy-11` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 12 — MSP, Procurement, Buffer Stocks, PDS and Food Security` — `economy-12` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 13 — APMC, e-NAM, FPOs and Agricultural Supply Chains` — `economy-13` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 14 — Irrigation, Inputs, Credit, Insurance and Sustainable Agriculture` — `economy-14` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 15 — Food Processing, Cold Chains and Value Addition` — `economy-15` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 16 — Industrial Policy, 1991 Reforms, PSUs and Disinvestment` — `economy-16` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 17 — MSMEs, PLI, Semiconductors and Manufacturing Strategy` — `economy-17` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 18 — Infrastructure, PPPs, Logistics and Public Investment` — `economy-18` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 19 — Balance of Payments, Exchange Rates and Forex Reserves` — `economy-19` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 20 — Foreign Trade, WTO, FTAs and Protectionism` — `economy-20` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 21 — IMF, World Bank, ADB, AIIB, NDB and Global Governance` — `economy-21` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 22 — Employment, Labour Codes, Skills and Demographic Dividend` — `economy-22` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 23 — Poverty, Inequality, Social Sector and Inclusive Growth` — `economy-23` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 24 — Services, Digital Economy, Fintech and Platform Markets` — `economy-24` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 25 — Climate Economics, Green Finance and Circular Economy` — `economy-25` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 26 — Economic Survey Synthesis and Current Macro Dashboard` — `economy-26` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 27 — Digital Agriculture, Agritech and e-Technology for Farmers` — `economy-27` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 28 — Direct and Indirect Farm Subsidies and WTO Rules` — `economy-28` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 29 — Agricultural Technology Missions and Mission-Mode Policy` — `economy-29` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 30 — Economics of Animal Rearing, Livestock, Dairy, Poultry and Fisheries` — `economy-30` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Economy 31 — Energy Infrastructure Economics, Power, Fuels and Energy Security` — `economy-31` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
 
 ## Environment and Ecology (01–28; 28 topics)
 
-**Progress:** 0 approved · 0 generated awaiting approval · 27 remaining
+**Learner-first v2 progress:** 0 approved · 28 generated awaiting approval · 0 incomplete · 0 remaining
 
-- [ ] ⚠️ `Export PDF for Environment and Ecology 01 — Ecosystem Structure and Function`
-- [ ] ⬜ `Export PDF for Environment and Ecology 02 — Biogeochemical Cycles and Ecological Pyramids`
-- [ ] ⬜ `Export PDF for Environment and Ecology 03 — Ecological Succession and Biomes`
-- [ ] ⬜ `Export PDF for Environment and Ecology 04 — Biodiversity Levels and Hotspots`
-- [ ] ⬜ `Export PDF for Environment and Ecology 05 — IUCN Red List and Endemism`
-- [ ] ⬜ `Export PDF for Environment and Ecology 06 — Protected Area Network India`
-- [ ] ⬜ `Export PDF for Environment and Ecology 07 — Biosphere Reserves and Ramsar Sites`
-- [ ] ⬜ `Export PDF for Environment and Ecology 08 — Wildlife Protection Act and Schedules`
-- [ ] ⬜ `Export PDF for Environment and Ecology 09 — CITES and Wildlife Trade`
-- [ ] ⬜ `Export PDF for Environment and Ecology 10 — CMS Bonn Convention Migratory Species`
-- [ ] ⬜ `Export PDF for Environment and Ecology 11 — Forest Types and Forest Rights Act`
-- [ ] ⬜ `Export PDF for Environment and Ecology 12 — Forest Governance CAMPA and Green India Mission`
-- [ ] ⬜ `Export PDF for Environment and Ecology 13 — Air Pollution and CPCB Standards`
-- [ ] ⬜ `Export PDF for Environment and Ecology 14 — Water Pollution and River Cleaning Missions`
-- [ ] ⬜ `Export PDF for Environment and Ecology 15 — Solid Plastic and E-Waste Rules`
-- [ ] ⬜ `Export PDF for Environment and Ecology 16 — Environmental Impact Assessment and NGT`
-- [ ] ⬜ `Export PDF for Environment and Ecology 17 — Climate Change Science Greenhouse Effect`
-- [ ] ⬜ `Export PDF for Environment and Ecology 18 — IPCC Assessment Reports`
-- [ ] ⬜ `Export PDF for Environment and Ecology 19 — UNFCCC COP Kyoto Paris Agreement`
-- [ ] ⬜ `Export PDF for Environment and Ecology 20 — India Climate Policy NAPCC Panchamrit LTLEDS`
-- [ ] ⬜ `Export PDF for Environment and Ecology 21 — Carbon Markets CCUS and Direct Air Capture`
-- [ ] ⬜ `Export PDF for Environment and Ecology 22 — Multilateral Environmental Conventions (CBD, Basel, Stockholm, Montreal)`
-- [ ] ⬜ `Export PDF for Environment and Ecology 23 — Desertification UNCCD and Land Degradation`
-- [ ] ⬜ `Export PDF for Environment and Ecology 24 — Coastal and Marine Ecology CRZ Blue Economy`
-- [ ] ⬜ `Export PDF for Environment and Ecology 25 — Renewable Energy and Green Hydrogen`
-- [ ] ⬜ `Export PDF for Environment and Ecology 26 — Disaster Management Framework and Sendai`
-- [ ] ⬜ `Export PDF for Environment and Ecology 27 — Environmental Institutions (MoEFCC, CPCB, NBA, WII)`
-- [ ] ⬜ `Export PDF for Environment and Ecology 28 — Species and Current Affairs Tracker`
+- [ ] 🟡 `Export PDF for Environment and Ecology 01 — Ecosystem Structure and Function` — `environment-and-ecology-01` · **learner-first v2:** g4 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 ⚠️ incomplete (main_pdf, workbook)
+- [ ] 🟡 `Export PDF for Environment and Ecology 02 — Biogeochemical Cycles and Ecological Pyramids` — `environment-and-ecology-02` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Environment and Ecology 03 — Ecological Succession and Biomes` — `environment-and-ecology-03` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Environment and Ecology 04 — Biodiversity Levels and Hotspots` — `environment-and-ecology-04` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Environment and Ecology 05 — IUCN Red List and Endemism` — `environment-and-ecology-05` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Environment and Ecology 06 — Protected Area Network India` — `environment-and-ecology-06` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Environment and Ecology 07 — Biosphere Reserves and Ramsar Sites` — `environment-and-ecology-07` · **learner-first v2:** g3 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Environment and Ecology 08 — Wildlife Protection Act and Schedules` — `environment-and-ecology-08` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Environment and Ecology 09 — CITES and Wildlife Trade` — `environment-and-ecology-09` · **learner-first v2:** g4 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Environment and Ecology 10 — CMS Bonn Convention Migratory Species` — `environment-and-ecology-10` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Environment and Ecology 11 — Forest Types and Forest Rights Act` — `environment-and-ecology-11` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Environment and Ecology 12 — Forest Governance CAMPA and Green India Mission` — `environment-and-ecology-12` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Environment and Ecology 13 — Air Pollution and CPCB Standards` — `environment-and-ecology-13` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Environment and Ecology 14 — Water Pollution and River Cleaning Missions` — `environment-and-ecology-14` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Environment and Ecology 15 — Solid Plastic and E-Waste Rules` — `environment-and-ecology-15` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Environment and Ecology 16 — Environmental Impact Assessment and NGT` — `environment-and-ecology-16` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Environment and Ecology 17 — Climate Change Science Greenhouse Effect` — `environment-and-ecology-17` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Environment and Ecology 18 — IPCC Assessment Reports` — `environment-and-ecology-18` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Environment and Ecology 19 — UNFCCC COP Kyoto Paris Agreement` — `environment-and-ecology-19` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Environment and Ecology 20 — India Climate Policy NAPCC Panchamrit LTLEDS` — `environment-and-ecology-20` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Environment and Ecology 21 — Carbon Markets CCUS and Direct Air Capture` — `environment-and-ecology-21` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Environment and Ecology 22 — Multilateral Environmental Conventions (CBD, Basel, Stockholm, Montreal)` — `environment-and-ecology-22` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Environment and Ecology 23 — Desertification UNCCD and Land Degradation` — `environment-and-ecology-23` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Environment and Ecology 24 — Coastal and Marine Ecology CRZ Blue Economy` — `environment-and-ecology-24` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Environment and Ecology 25 — Renewable Energy and Green Hydrogen` — `environment-and-ecology-25` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Environment and Ecology 26 — Disaster Management Framework and Sendai` — `environment-and-ecology-26` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Environment and Ecology 27 — Environmental Institutions (MoEFCC, CPCB, NBA, WII)` — `environment-and-ecology-27` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Environment and Ecology 28 — Species and Current Affairs Tracker` — `environment-and-ecology-28` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
 
 ## Science and Technology (01–26; 26 topics)
 
-**Progress:** 0 approved · 0 generated awaiting approval · 25 remaining
+**Learner-first v2 progress:** 0 approved · 26 generated awaiting approval · 0 incomplete · 0 remaining
 
-- [ ] ⚠️ `Export PDF for Science and Technology 01 — Space Programme: ISRO, Organisation and Launch Vehicles`
-- [ ] ⬜ `Export PDF for Science and Technology 02 — Satellites, NavIC, GAGAN and Applications`
-- [ ] ⬜ `Export PDF for Science and Technology 03 — Human Spaceflight: Gaganyaan and Planetary Missions`
-- [ ] ⬜ `Export PDF for Science and Technology 04 — Nuclear Power and the Three-Stage Programme`
-- [ ] ⬜ `Export PDF for Science and Technology 05 — Nuclear Fusion and ITER`
-- [ ] ⬜ `Export PDF for Science and Technology 06 — Defence R&D: DRDO and Missile Systems`
-- [ ] ⬜ `Export PDF for Science and Technology 07 — Defence Indigenisation: Atmanirbhar and Procurement`
-- [ ] ⬜ `Export PDF for Science and Technology 08 — Digital India and India Stack: UPI, Aadhaar`
-- [ ] ⬜ `Export PDF for Science and Technology 09 — Artificial Intelligence Governance and IndiaAI`
-- [ ] ⬜ `Export PDF for Science and Technology 10 — National Quantum Mission and Quantum Technology`
-- [ ] ⬜ `Export PDF for Science and Technology 11 — Semiconductor Mission and Electronics Manufacturing`
-- [ ] ⬜ `Export PDF for Science and Technology 12 — Data Protection: DPDP Act and Cybersecurity`
-- [ ] ⬜ `Export PDF for Science and Technology 13 — Biotechnology Fundamentals and DBT Missions`
-- [ ] ⬜ `Export PDF for Science and Technology 14 — Genetic Engineering: GM Crops and CRISPR`
-- [ ] ⬜ `Export PDF for Science and Technology 15 — Vaccines, Monoclonal Antibodies and Biopharma`
-- [ ] ⬜ `Export PDF for Science and Technology 16 — Nanotechnology and Applications`
-- [ ] ⬜ `Export PDF for Science and Technology 17 — Intellectual Property Rights and Patents`
-- [ ] ⬜ `Export PDF for Science and Technology 18 — Electric Vehicles, Batteries and Alternative Fuels`
-- [ ] ⬜ `Export PDF for Science and Technology 19 — Drones, UAVs and Robotics Policy`
-- [ ] ⬜ `Export PDF for Science and Technology 20 — Emerging Materials, Rare Earths and Critical Minerals`
-- [ ] ⬜ `Export PDF for Science and Technology 21 — General Science: Physics Fundamentals`
-- [ ] ⬜ `Export PDF for Science and Technology 22 — General Science: Chemistry Fundamentals`
-- [ ] ⬜ `Export PDF for Science and Technology 23 — General Science: Biology and Physiology`
-- [ ] ⬜ `Export PDF for Science and Technology 24 — S&T Institutions: DST, CSIR, ANRF`
-- [ ] ⬜ `Export PDF for Science and Technology 25 — Computing Fundamentals: Hardware, Software, Networks and Cloud`
-- [ ] ⬜ `Export PDF for Science and Technology 26 — Scientific Discoveries, Nobel Prizes and Scientists`
+- [ ] 🟡 `Export PDF for Science and Technology 01 — Space Programme: ISRO, Organisation and Launch Vehicles` — `science-and-technology-01` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 ⚠️ incomplete (main_pdf, workbook)
+- [ ] 🟡 `Export PDF for Science and Technology 02 — Satellites, NavIC, GAGAN and Applications` — `science-and-technology-02` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Science and Technology 03 — Human Spaceflight: Gaganyaan and Planetary Missions` — `science-and-technology-03` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Science and Technology 04 — Nuclear Power and the Three-Stage Programme` — `science-and-technology-04` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Science and Technology 05 — Nuclear Fusion and ITER` — `science-and-technology-05` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Science and Technology 06 — Defence R&D: DRDO and Missile Systems` — `science-and-technology-06` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Science and Technology 07 — Defence Indigenisation: Atmanirbhar and Procurement` — `science-and-technology-07` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Science and Technology 08 — Digital India and India Stack: UPI, Aadhaar` — `science-and-technology-08` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Science and Technology 09 — Artificial Intelligence Governance and IndiaAI` — `science-and-technology-09` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Science and Technology 10 — National Quantum Mission and Quantum Technology` — `science-and-technology-10` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Science and Technology 11 — Semiconductor Mission and Electronics Manufacturing` — `science-and-technology-11` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Science and Technology 12 — Data Protection: DPDP Act and Cybersecurity` — `science-and-technology-12` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Science and Technology 13 — Biotechnology Fundamentals and DBT Missions` — `science-and-technology-13` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Science and Technology 14 — Genetic Engineering: GM Crops and CRISPR` — `science-and-technology-14` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Science and Technology 15 — Vaccines, Monoclonal Antibodies and Biopharma` — `science-and-technology-15` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Science and Technology 16 — Nanotechnology and Applications` — `science-and-technology-16` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Science and Technology 17 — Intellectual Property Rights and Patents` — `science-and-technology-17` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Science and Technology 18 — Electric Vehicles, Batteries and Alternative Fuels` — `science-and-technology-18` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Science and Technology 19 — Drones, UAVs and Robotics Policy` — `science-and-technology-19` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Science and Technology 20 — Emerging Materials, Rare Earths and Critical Minerals` — `science-and-technology-20` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Science and Technology 21 — General Science: Physics Fundamentals` — `science-and-technology-21` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Science and Technology 22 — General Science: Chemistry Fundamentals` — `science-and-technology-22` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Science and Technology 23 — General Science: Biology and Physiology` — `science-and-technology-23` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Science and Technology 24 — S&T Institutions: DST, CSIR, ANRF` — `science-and-technology-24` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Science and Technology 25 — Computing Fundamentals: Hardware, Software, Networks and Cloud` — `science-and-technology-25` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Science and Technology 26 — Scientific Discoveries, Nobel Prizes and Scientists` — `science-and-technology-26` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
 
 ## Internal Security (01–12; 12 topics)
 
-**Progress:** 0 approved · 0 generated awaiting approval · 11 remaining
+**Learner-first v2 progress:** 0 approved · 12 generated awaiting approval · 0 incomplete · 0 remaining
 
-- [ ] ⚠️ `Export PDF for Internal Security 01 — Internal-Security Foundations and Governance`
-- [ ] ⬜ `Export PDF for Internal Security 02 — Terrorism and Counter-Terror Architecture`
-- [ ] ⬜ `Export PDF for Internal Security 03 — Left-Wing Extremism and Integrated Response`
-- [ ] ⬜ `Export PDF for Internal Security 04 — North-East Insurgency and Peace Processes`
-- [ ] ⬜ `Export PDF for Internal Security 05 — Jammu & Kashmir and Cross-Border Terrorism`
-- [ ] ⬜ `Export PDF for Internal Security 06 — Border Management and Border Area Development`
-- [ ] ⬜ `Export PDF for Internal Security 07 — Maritime and Coastal Security`
-- [ ] ⬜ `Export PDF for Internal Security 08 — Cyber Security, CII and Cybercrime`
-- [ ] ⬜ `Export PDF for Internal Security 09 — Social Media, Encrypted Messaging and Information Warfare`
-- [ ] ⬜ `Export PDF for Internal Security 10 — Terror Financing, Money Laundering and FATF`
-- [ ] ⬜ `Export PDF for Internal Security 11 — Organised Crime, Narco-Terrorism and Trafficking`
-- [ ] ⬜ `Export PDF for Internal Security 12 — Security Forces, Intelligence Coordination and Rights`
+- [ ] 🟡 `Export PDF for Internal Security 01 — Internal-Security Foundations and Governance` — `internal-security-01` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 ⚠️ incomplete (main_pdf, workbook)
+- [ ] 🟡 `Export PDF for Internal Security 02 — Terrorism and Counter-Terror Architecture` — `internal-security-02` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Internal Security 03 — Left-Wing Extremism and Integrated Response` — `internal-security-03` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Internal Security 04 — North-East Insurgency and Peace Processes` — `internal-security-04` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Internal Security 05 — Jammu & Kashmir and Cross-Border Terrorism` — `internal-security-05` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Internal Security 06 — Border Management and Border Area Development` — `internal-security-06` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Internal Security 07 — Maritime and Coastal Security` — `internal-security-07` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Internal Security 08 — Cyber Security, CII and Cybercrime` — `internal-security-08` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Internal Security 09 — Social Media, Encrypted Messaging and Information Warfare` — `internal-security-09` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Internal Security 10 — Terror Financing, Money Laundering and FATF` — `internal-security-10` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Internal Security 11 — Organised Crime, Narco-Terrorism and Trafficking` — `internal-security-11` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Internal Security 12 — Security Forces, Intelligence Coordination and Rights` — `internal-security-12` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
 
 ## Disaster Management (01–18; 18 topics)
 
-**Progress:** 0 approved · 0 generated awaiting approval · 17 remaining
+**Learner-first v2 progress:** 0 approved · 18 generated awaiting approval · 0 incomplete · 0 remaining
 
-- [ ] ⚠️ `Export PDF for Disaster Management 01 — Concepts, Risk, Resilience and Sendai`
-- [ ] ⬜ `Export PDF for Disaster Management 02 — Indian Legal and Institutional Architecture`
-- [ ] ⬜ `Export PDF for Disaster Management 03 — Community-Based DRR and Inclusive Protection`
-- [ ] ⬜ `Export PDF for Disaster Management 04 — Multi-Hazard Early Warning and Disaster Technology`
-- [ ] ⬜ `Export PDF for Disaster Management 05 — Earthquake Risk and Resilient Construction`
-- [ ] ⬜ `Export PDF for Disaster Management 06 — Tsunami and Coastal Hazard Management`
-- [ ] ⬜ `Export PDF for Disaster Management 07 — Cyclones, Storm Surge and Coastal Preparedness`
-- [ ] ⬜ `Export PDF for Disaster Management 08 — Riverine Floods and Urban Flood Resilience`
-- [ ] ⬜ `Export PDF for Disaster Management 09 — Drought, Heat Waves and Slow-Onset Risk`
-- [ ] ⬜ `Export PDF for Disaster Management 10 — Landslides, Avalanches and GLOF Risk`
-- [ ] ⬜ `Export PDF for Disaster Management 11 — Forest Fire Risk Management`
-- [ ] ⬜ `Export PDF for Disaster Management 12 — Industrial, Chemical, Nuclear and CBRN Emergencies`
-- [ ] ⬜ `Export PDF for Disaster Management 13 — Epidemics and Public Health Emergencies`
-- [ ] ⬜ `Export PDF for Disaster Management 14 — Urban and Critical Infrastructure Resilience`
-- [ ] ⬜ `Export PDF for Disaster Management 15 — Climate Risk, Adaptation and Loss and Damage`
-- [ ] ⬜ `Export PDF for Disaster Management 16 — Disaster Finance, Risk Transfer and Build Back Better`
-- [ ] ⬜ `Export PDF for Disaster Management 17 — Humanitarian Logistics, Relief, Rehabilitation and Recovery`
-- [ ] ⬜ `Export PDF for Disaster Management 18 — Governance, Capacity and International Cooperation`
+- [ ] 🟡 `Export PDF for Disaster Management 01 — Concepts, Risk, Resilience and Sendai` — `disaster-management-01` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 ⚠️ incomplete (main_pdf, workbook)
+- [ ] 🟡 `Export PDF for Disaster Management 02 — Indian Legal and Institutional Architecture` — `disaster-management-02` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Disaster Management 03 — Community-Based DRR and Inclusive Protection` — `disaster-management-03` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Disaster Management 04 — Multi-Hazard Early Warning and Disaster Technology` — `disaster-management-04` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Disaster Management 05 — Earthquake Risk and Resilient Construction` — `disaster-management-05` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Disaster Management 06 — Tsunami and Coastal Hazard Management` — `disaster-management-06` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Disaster Management 07 — Cyclones, Storm Surge and Coastal Preparedness` — `disaster-management-07` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Disaster Management 08 — Riverine Floods and Urban Flood Resilience` — `disaster-management-08` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Disaster Management 09 — Drought, Heat Waves and Slow-Onset Risk` — `disaster-management-09` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Disaster Management 10 — Landslides, Avalanches and GLOF Risk` — `disaster-management-10` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Disaster Management 11 — Forest Fire Risk Management` — `disaster-management-11` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Disaster Management 12 — Industrial, Chemical, Nuclear and CBRN Emergencies` — `disaster-management-12` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Disaster Management 13 — Epidemics and Public Health Emergencies` — `disaster-management-13` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Disaster Management 14 — Urban and Critical Infrastructure Resilience` — `disaster-management-14` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Disaster Management 15 — Climate Risk, Adaptation and Loss and Damage` — `disaster-management-15` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Disaster Management 16 — Disaster Finance, Risk Transfer and Build Back Better` — `disaster-management-16` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Disaster Management 17 — Humanitarian Logistics, Relief, Rehabilitation and Recovery` — `disaster-management-17` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Disaster Management 18 — Governance, Capacity and International Cooperation` — `disaster-management-18` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
 
 ## Ethics (01–23; 23 topics)
 
-**Progress:** 0 approved · 0 generated awaiting approval · 22 remaining
+**Learner-first v2 progress:** 0 approved · 23 generated awaiting approval · 0 incomplete · 0 remaining
 
-- [ ] ⚠️ `Export PDF for Ethics 01 — Ethics and Human Interface`
-- [ ] ⬜ `Export PDF for Ethics 02 — Human Values and Lessons from Leaders`
-- [ ] ⬜ `Export PDF for Ethics 03 — Attitude: Content, Structure and Persuasion`
-- [ ] ⬜ `Export PDF for Ethics 04 — Aptitude and Foundational Values for Civil Service`
-- [ ] ⬜ `Export PDF for Ethics 05 — Emotional Intelligence in Administration`
-- [ ] ⬜ `Export PDF for Ethics 06 — Indian Moral Thinkers and Philosophers`
-- [ ] ⬜ `Export PDF for Ethics 07 — Western Moral Philosophers and Thinkers`
-- [ ] ⬜ `Export PDF for Ethics 08 — Moral Theories: Deontology, Consequentialism, Virtue Ethics`
-- [ ] ⬜ `Export PDF for Ethics 09 — Public Service Values, Status and Ethical Dilemmas`
-- [ ] ⬜ `Export PDF for Ethics 10 — Sources of Ethical Guidance: Laws, Rules, Conscience`
-- [ ] ⬜ `Export PDF for Ethics 11 — Accountability and Ethical Governance`
-- [ ] ⬜ `Export PDF for Ethics 12 — Corporate Governance and International Ethics`
-- [ ] ⬜ `Export PDF for Ethics 13 — Emerging Ethics: Technology, AI and Environment`
-- [ ] ⬜ `Export PDF for Ethics 14 — Probity: Concept and Philosophical Basis of Governance`
-- [ ] ⬜ `Export PDF for Ethics 15 — Transparency, RTI and Information Sharing`
-- [ ] ⬜ `Export PDF for Ethics 16 — Codes of Ethics and Codes of Conduct`
-- [ ] ⬜ `Export PDF for Ethics 17 — Citizens' Charters, Work Culture and Service Delivery`
-- [ ] ⬜ `Export PDF for Ethics 18 — Utilization of Public Funds and Challenges of Corruption`
-- [ ] ⬜ `Export PDF for Ethics 19 — Corruption: Legal Framework`
-- [ ] ⬜ `Export PDF for Ethics 20 — Anti-Corruption Institutions`
-- [ ] ⬜ `Export PDF for Ethics 21 — Protecting Honest Officials and Vigilance Administration`
-- [ ] ⬜ `Export PDF for Ethics 22 — Case Study Method and Answer Architecture`
-- [ ] ⬜ `Export PDF for Ethics 23 — Comparative and Named Real Case Studies`
+- [ ] 🟡 `Export PDF for Ethics 01 — Ethics and Human Interface` — `ethics-01` · **learner-first v2:** g5 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 ⚠️ incomplete (main_pdf, workbook)
+- [ ] 🟡 `Export PDF for Ethics 02 — Human Values and Lessons from Leaders` — `ethics-02` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Ethics 03 — Attitude: Content, Structure and Persuasion` — `ethics-03` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Ethics 04 — Aptitude and Foundational Values for Civil Service` — `ethics-04` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Ethics 05 — Emotional Intelligence in Administration` — `ethics-05` · **learner-first v2:** g4 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Ethics 06 — Indian Moral Thinkers and Philosophers` — `ethics-06` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Ethics 07 — Western Moral Philosophers and Thinkers` — `ethics-07` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Ethics 08 — Moral Theories: Deontology, Consequentialism, Virtue Ethics` — `ethics-08` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Ethics 09 — Public Service Values, Status and Ethical Dilemmas` — `ethics-09` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Ethics 10 — Sources of Ethical Guidance: Laws, Rules, Conscience` — `ethics-10` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Ethics 11 — Accountability and Ethical Governance` — `ethics-11` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Ethics 12 — Corporate Governance and International Ethics` — `ethics-12` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Ethics 13 — Emerging Ethics: Technology, AI and Environment` — `ethics-13` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Ethics 14 — Probity: Concept and Philosophical Basis of Governance` — `ethics-14` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Ethics 15 — Transparency, RTI and Information Sharing` — `ethics-15` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Ethics 16 — Codes of Ethics and Codes of Conduct` — `ethics-16` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Ethics 17 — Citizens' Charters, Work Culture and Service Delivery` — `ethics-17` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Ethics 18 — Utilization of Public Funds and Challenges of Corruption` — `ethics-18` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Ethics 19 — Corruption: Legal Framework` — `ethics-19` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Ethics 20 — Anti-Corruption Institutions` — `ethics-20` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Ethics 21 — Protecting Honest Officials and Vigilance Administration` — `ethics-21` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Ethics 22 — Case Study Method and Answer Architecture` — `ethics-22` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Ethics 23 — Comparative and Named Real Case Studies` — `ethics-23` · **learner-first v2:** g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
 
 ## Political Theory (01–23; 23 topics)
 
-**Progress:** 0 approved · 0 generated awaiting approval · 22 remaining
+**Learner-first v2 progress:** 0 approved · 23 generated awaiting approval · 0 incomplete · 0 remaining
 
-- [ ] ⚠️ `Export PDF for Political Theory 01 — Nature and Significance of Political Theory`
-- [ ] ⬜ `Export PDF for Political Theory 02 — Ideology and End of Ideology`
-- [ ] ⬜ `Export PDF for Political Theory 03 — Liberalism and Neoliberalism`
-- [ ] ⬜ `Export PDF for Political Theory 04 — Marxism and Neo-Marxism`
-- [ ] ⬜ `Export PDF for Political Theory 05 — Socialism, Fascism, Anarchism and Gandhism`
-- [ ] ⬜ `Export PDF for Political Theory 06 — Feminism, Sex and Gender`
-- [ ] ⬜ `Export PDF for Political Theory 07 — Nature of Politics and Communitarianism`
-- [ ] ⬜ `Export PDF for Political Theory 08 — Approaches, Behaviouralism and Post-Behaviouralism`
-- [ ] ⬜ `Export PDF for Political Theory 09 — Interdisciplinary Political Analysis`
-- [ ] ⬜ `Export PDF for Political Theory 10 — State, Civil Society, Nation and Internationalism`
-- [ ] ⬜ `Export PDF for Political Theory 11 — Sovereignty and Pluralism`
-- [ ] ⬜ `Export PDF for Political Theory 12 — Globalisation and Challenges to Sovereignty`
-- [ ] ⬜ `Export PDF for Political Theory 13 — Diverse Perspectives on the State`
-- [ ] ⬜ `Export PDF for Political Theory 14 — Political Obligation, Resistance and Law`
-- [ ] ⬜ `Export PDF for Political Theory 15 — Power, Authority and Legitimacy`
-- [ ] ⬜ `Export PDF for Political Theory 16 — Citizenship and Its Critiques`
-- [ ] ⬜ `Export PDF for Political Theory 17 — Human Rights, Civil Liberties and Democratic Rights`
-- [ ] ⬜ `Export PDF for Political Theory 18 — Liberty, Equality and Property`
-- [ ] ⬜ `Export PDF for Political Theory 19 — Justice: Concepts and Dimensions`
-- [ ] ⬜ `Export PDF for Political Theory 20 — Diverse Perspectives on Justice`
-- [ ] ⬜ `Export PDF for Political Theory 21 — Common Good and Community`
-- [ ] ⬜ `Export PDF for Political Theory 22 — Democracy, Representation and Liberal Democracy`
-- [ ] ⬜ `Export PDF for Political Theory 23 — Contemporary Democracy, Social Change and Development`
+- [ ] 🟡 `Export PDF for Political Theory 01 — Nature and Significance of Political Theory` — `political-theory-01` · **learner-first v2:** g6 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 ⚠️ incomplete (main_pdf, workbook)
+- [ ] 🟡 `Export PDF for Political Theory 02 — Ideology and End of Ideology` — `political-theory-02` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Political Theory 03 — Liberalism and Neoliberalism` — `political-theory-03` · **learner-first v2:** g5 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Political Theory 04 — Marxism and Neo-Marxism` — `political-theory-04` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Political Theory 05 — Socialism, Fascism, Anarchism and Gandhism` — `political-theory-05` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Political Theory 06 — Feminism, Sex and Gender` — `political-theory-06` · **learner-first v2:** g6 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Political Theory 07 — Nature of Politics and Communitarianism` — `political-theory-07` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Political Theory 08 — Approaches, Behaviouralism and Post-Behaviouralism` — `political-theory-08` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Political Theory 09 — Interdisciplinary Political Analysis` — `political-theory-09` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Political Theory 10 — State, Civil Society, Nation and Internationalism` — `political-theory-10` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Political Theory 11 — Sovereignty and Pluralism` — `political-theory-11` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Political Theory 12 — Globalisation and Challenges to Sovereignty` — `political-theory-12` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Political Theory 13 — Diverse Perspectives on the State` — `political-theory-13` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Political Theory 14 — Political Obligation, Resistance and Law` — `political-theory-14` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Political Theory 15 — Power, Authority and Legitimacy` — `political-theory-15` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Political Theory 16 — Citizenship and Its Critiques` — `political-theory-16` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Political Theory 17 — Human Rights, Civil Liberties and Democratic Rights` — `political-theory-17` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Political Theory 18 — Liberty, Equality and Property` — `political-theory-18` · **learner-first v2:** g4 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Political Theory 19 — Justice: Concepts and Dimensions` — `political-theory-19` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Political Theory 20 — Diverse Perspectives on Justice` — `political-theory-20` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Political Theory 21 — Common Good and Community` — `political-theory-21` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Political Theory 22 — Democracy, Representation and Liberal Democracy` — `political-theory-22` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Political Theory 23 — Contemporary Democracy, Social Change and Development` — `political-theory-23` · **learner-first v2:** g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
 
 ## Essay (01–16; 16 topics)
 
-**Progress:** 0 approved · 0 generated awaiting approval · 15 remaining
+**Learner-first v2 progress:** 0 approved · 4 generated awaiting approval · 0 incomplete · 12 remaining
 
-- [ ] ⚠️ `Export PDF for Essay 01 — Paper Rules, Choice and Selection`
-- [ ] ⬜ `Export PDF for Essay 02 — Philosophical Quote Decoding`
-- [ ] ⬜ `Export PDF for Essay 03 — Issue-Based Prompt Scoping`
-- [ ] ⬜ `Export PDF for Essay 04 — Brainstorming and Dimensional Expansion`
-- [ ] ⬜ `Export PDF for Essay 05 — Thesis, Central Argument and Argument Map`
-- [ ] ⬜ `Export PDF for Essay 06 — Introductions and Conclusions`
-- [ ] ⬜ `Export PDF for Essay 07 — Macro-Structure, Paragraph Flow and Transitions`
-- [ ] ⬜ `Export PDF for Essay 08 — Argument, Counterargument and Synthesis`
-- [ ] ⬜ `Export PDF for Essay 09 — Evidence, Examples, Data and Quotation Discipline`
-- [ ] ⬜ `Export PDF for Essay 10 — Ethical and Philosophical Frameworks and Value Conflicts`
-- [ ] ⬜ `Export PDF for Essay 11 — Cross-Sector Lenses and Scale`
-- [ ] ⬜ `Export PDF for Essay 12 — India-Centric Illustration Bank`
-- [ ] ⬜ `Export PDF for Essay 13 — Time Management, Planning and Execution`
-- [ ] ⬜ `Export PDF for Essay 14 — Language, Style and Functional Visuals`
-- [ ] ⬜ `Export PDF for Essay 15 — Self-Evaluation and Internal Practice Rubric`
-- [ ] ⬜ `Export PDF for Essay 16 — Practice Loops, PYQ Lab and Revision System`
+- [ ] 🟡 `Export PDF for Essay 01 — Paper Rules, Choice and Selection` — `essay-01` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 ⚠️ incomplete (main_pdf, workbook)
+- [ ] 🟡 `Export PDF for Essay 02 — Philosophical Quote Decoding` — `essay-02` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Essay 03 — Issue-Based Prompt Scoping` — `essay-03` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Essay 04 — Brainstorming and Dimensional Expansion` — `essay-04` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for Essay 05 — Thesis, Central Argument and Argument Map` — `essay-05` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for Essay 06 — Introductions and Conclusions` — `essay-06` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for Essay 07 — Macro-Structure, Paragraph Flow and Transitions` — `essay-07` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for Essay 08 — Argument, Counterargument and Synthesis` — `essay-08` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for Essay 09 — Evidence, Examples, Data and Quotation Discipline` — `essay-09` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for Essay 10 — Ethical and Philosophical Frameworks and Value Conflicts` — `essay-10` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for Essay 11 — Cross-Sector Lenses and Scale` — `essay-11` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for Essay 12 — India-Centric Illustration Bank` — `essay-12` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for Essay 13 — Time Management, Planning and Execution` — `essay-13` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for Essay 14 — Language, Style and Functional Visuals` — `essay-14` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for Essay 15 — Self-Evaluation and Internal Practice Rubric` — `essay-15` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for Essay 16 — Practice Loops, PYQ Lab and Revision System` — `essay-16` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
 
-## CSAT (00–30; 12 topics)
+## CSAT (01–08; 8 topics)
 
-**Progress:** 0 approved · 0 generated awaiting approval · 11 remaining
+**Learner-first v2 progress:** 0 approved · 0 generated awaiting approval · 0 incomplete · 8 remaining
 
-- [ ] ⬜ `Export PDF for CSAT 00 — 27`
-- [ ] ⚠️ `Export PDF for CSAT 01 — Reading-Comprehension`
-- [ ] ⬜ `Export PDF for CSAT 02 — Number-Systems-and-Number-Sense`
-- [ ] ⬜ `Export PDF for CSAT 03 — Arithmetic-and-Commercial-Math`
-- [ ] ⬜ `Export PDF for CSAT 04 — Rates-Motion-Time-and-Geometry`
-- [ ] ⬜ `Export PDF for CSAT 05 — Algebra-Inequalities-and-Data-Sufficiency`
-- [ ] ⬜ `Export PDF for CSAT 06 — 29`
-- [ ] ⬜ `Export PDF for CSAT 07 — Interpersonal-and-Communication-Skills`
-- [ ] ⬜ `Export PDF for CSAT 08 — General-Mental-Ability-Integrated-Map`
-- [ ] ⬜ `Export PDF for CSAT 12 — 31`
-- [ ] ⬜ `Export PDF for CSAT 21 — 34`
-- [ ] ⬜ `Export PDF for CSAT 30 — 37`
+- [ ] ⬜ `Export PDF for CSAT 01 — Reading-Comprehension` — `csat-01` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** g1 ⚠️ incomplete (main_pdf, workbook)
+- [ ] ⬜ `Export PDF for CSAT 02 — Number-Systems-and-Number-Sense` — `csat-02` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for CSAT 03 — Arithmetic-and-Commercial-Math` — `csat-03` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for CSAT 04 — Rates-Motion-Time-and-Geometry` — `csat-04` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for CSAT 05 — Algebra-Inequalities-and-Data-Sufficiency` — `csat-05` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for CSAT 06 — Logical Reasoning Coding Counting and DI` — `csat-06` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for CSAT 07 — Interpersonal-and-Communication-Skills` — `csat-07` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for CSAT 08 — General-Mental-Ability-Integrated-Map` — `csat-08` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
 
 ## Qualifying English (01–07; 7 topics)
 
-**Progress:** 0 approved · 0 generated awaiting approval · 7 remaining
+**Learner-first v2 progress:** 0 approved · 0 generated awaiting approval · 0 incomplete · 7 remaining
 
-- [ ] ⬜ `Export PDF for Qualifying English 01 — Parts of Speech`
-- [ ] ⬜ `Export PDF for Qualifying English 02 — Sentence Grammar`
-- [ ] ⬜ `Export PDF for Qualifying English 03 — Punctuation and Capitalisation`
-- [ ] ⬜ `Export PDF for Qualifying English 04 — Vocabulary Idioms and Proverbs`
-- [ ] ⬜ `Export PDF for Qualifying English 05 — Error Correction and Transformation`
-- [ ] ⬜ `Export PDF for Qualifying English 06 — Comprehension and Precis`
-- [ ] ⬜ `Export PDF for Qualifying English 07 — Short Essay Writing`
+- [ ] ⬜ `Export PDF for Qualifying English 01 — Parts of Speech` — `qualifying-english-01` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for Qualifying English 02 — Sentence Grammar` — `qualifying-english-02` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for Qualifying English 03 — Punctuation and Capitalisation` — `qualifying-english-03` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for Qualifying English 04 — Vocabulary Idioms and Proverbs` — `qualifying-english-04` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for Qualifying English 05 — Error Correction and Transformation` — `qualifying-english-05` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for Qualifying English 06 — Comprehension and Precis` — `qualifying-english-06` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for Qualifying English 07 — Short Essay Writing` — `qualifying-english-07` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
 
 ## Qualifying Hindi (01–06; 6 topics)
 
-**Progress:** 0 approved · 0 generated awaiting approval · 6 remaining
+**Learner-first v2 progress:** 0 approved · 0 generated awaiting approval · 0 incomplete · 6 remaining
 
-- [ ] ⬜ `Export PDF for Qualifying Hindi 01 — शब्द भेद`
-- [ ] ⬜ `Export PDF for Qualifying Hindi 02 — व्याकरण वर्तनी वाक्य शुद्धि`
-- [ ] ⬜ `Export PDF for Qualifying Hindi 03 — शब्दावली मुहावरे लोकोक्तियाँ`
-- [ ] ⬜ `Export PDF for Qualifying Hindi 04 — बोध और संक्षेपण`
-- [ ] ⬜ `Export PDF for Qualifying Hindi 05 — निबन्ध लेखन`
-- [ ] ⬜ `Export PDF for Qualifying Hindi 06 — अनुवाद`
+- [ ] ⬜ `Export PDF for Qualifying Hindi 01 — शब्द भेद` — `qualifying-hindi-01` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for Qualifying Hindi 02 — व्याकरण वर्तनी वाक्य शुद्धि` — `qualifying-hindi-02` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for Qualifying Hindi 03 — शब्दावली मुहावरे लोकोक्तियाँ` — `qualifying-hindi-03` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for Qualifying Hindi 04 — बोध और संक्षेपण` — `qualifying-hindi-04` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for Qualifying Hindi 05 — निबन्ध लेखन` — `qualifying-hindi-05` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
+- [ ] ⬜ `Export PDF for Qualifying Hindi 06 — अनुवाद` — `qualifying-hindi-06` · **learner-first v2:** ⬜ remaining · **legacy/reference v1:** ⬜ remaining
 
 # Philosophy Optional
 
@@ -617,71 +624,74 @@ when an official key is unavailable, and validate both PDFs before completion.
 
 ## Philosophy Paper I — Western Philosophy (01–11; 11 topics)
 
-**Progress:** 0 approved · 11 generated awaiting approval · 0 remaining
+**Learner-first v2 progress:** 0 approved · 11 generated awaiting approval · 0 incomplete · 0 remaining
 
-- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 01 — Plato and Aristotle`
-- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 02 — Rationalism`
-- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 03 — Empiricism`
-- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 04 — Kant`
-- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 05 — Hegel`
-- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 06 — Moore, Russell and Early Wittgenstein`
-- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 07 — Logical Positivism`
-- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 08 — Later Wittgenstein`
-- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 09 — Phenomenology (Husserl)`
-- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 10 — Existentialism`
-- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 11 — Quine and Strawson`
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 01 — Plato and Aristotle` — `philosophy-paper-i-western-philosophy-01` · **learner-first v2:** g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 02 — Rationalism` — `philosophy-paper-i-western-philosophy-02` · **learner-first v2:** g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 03 — Empiricism` — `philosophy-paper-i-western-philosophy-03` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 04 — Kant` — `philosophy-paper-i-western-philosophy-04` · **learner-first v2:** g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 05 — Hegel` — `philosophy-paper-i-western-philosophy-05` · **learner-first v2:** g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 06 — Moore, Russell and Early Wittgenstein` — `philosophy-paper-i-western-philosophy-06` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 07 — Logical Positivism` — `philosophy-paper-i-western-philosophy-07` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 08 — Later Wittgenstein` — `philosophy-paper-i-western-philosophy-08` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 09 — Phenomenology (Husserl)` — `philosophy-paper-i-western-philosophy-09` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 10 — Existentialism` — `philosophy-paper-i-western-philosophy-10` · **learner-first v2:** g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Western Philosophy 11 — Quine and Strawson` — `philosophy-paper-i-western-philosophy-11` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
 
 ## Philosophy Paper I — Indian Philosophy (01–09; 9 topics)
 
-**Progress:** 0 approved · 9 generated awaiting approval · 0 remaining
+**Learner-first v2 progress:** 0 approved · 9 generated awaiting approval · 0 incomplete · 0 remaining
 
-- [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 01 — Carvaka`
-- [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 02 — Jainism`
-- [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 03 — Schools of Buddhism`
-- [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 04 — Nyaya–Vaisesika`
-- [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 05 — Samkhya`
-- [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 06 — Yoga`
-- [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 07 — Mimamsa`
-- [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 08 — Schools of Vedanta`
-- [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 09 — Aurobindo`
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 01 — Carvaka` — `philosophy-paper-i-indian-philosophy-01` · **learner-first v2:** g15 🟡 generated; approval pending; g14 🟡 generated; approval pending; g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 02 — Jainism` — `philosophy-paper-i-indian-philosophy-02` · **learner-first v2:** g15 🟡 generated; approval pending; g14 🟡 generated; approval pending; g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 03 — Schools of Buddhism` — `philosophy-paper-i-indian-philosophy-03` · **learner-first v2:** g15 🟡 generated; approval pending; g14 🟡 generated; approval pending; g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 04 — Nyaya–Vaisesika` — `philosophy-paper-i-indian-philosophy-04` · **learner-first v2:** g15 🟡 generated; approval pending; g14 🟡 generated; approval pending; g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 05 — Samkhya` — `philosophy-paper-i-indian-philosophy-05` · **learner-first v2:** g15 🟡 generated; approval pending; g14 🟡 generated; approval pending; g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 06 — Yoga` — `philosophy-paper-i-indian-philosophy-06` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 07 — Mimamsa` — `philosophy-paper-i-indian-philosophy-07` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 08 — Schools of Vedanta` — `philosophy-paper-i-indian-philosophy-08` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper I — Indian Philosophy 09 — Aurobindo` — `philosophy-paper-i-indian-philosophy-09` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
 
 ## Philosophy Paper II — Socio-Political Philosophy (01–10; 10 topics)
 
-**Progress:** 0 approved · 0 generated awaiting approval · 10 remaining
+**Learner-first v2 progress:** 0 approved · 10 generated awaiting approval · 0 incomplete · 0 remaining
 
-- [ ] ⬜ `Export PDF for Philosophy Paper II — Socio-Political Philosophy 01 — Social and Political Ideals`
-- [ ] ⬜ `Export PDF for Philosophy Paper II — Socio-Political Philosophy 02 — Sovereignty`
-- [ ] ⬜ `Export PDF for Philosophy Paper II — Socio-Political Philosophy 03 — Individual and State`
-- [ ] ⬜ `Export PDF for Philosophy Paper II — Socio-Political Philosophy 04 — Forms of Government`
-- [ ] ⬜ `Export PDF for Philosophy Paper II — Socio-Political Philosophy 05 — Political Ideologies`
-- [ ] ⬜ `Export PDF for Philosophy Paper II — Socio-Political Philosophy 06 — Humanism, Secularism and Multiculturalism`
-- [ ] ⬜ `Export PDF for Philosophy Paper II — Socio-Political Philosophy 07 — Crime and Punishment`
-- [ ] ⬜ `Export PDF for Philosophy Paper II — Socio-Political Philosophy 08 — Development and Social Progress`
-- [ ] ⬜ `Export PDF for Philosophy Paper II — Socio-Political Philosophy 09 — Gender Discrimination`
-- [ ] ⬜ `Export PDF for Philosophy Paper II — Socio-Political Philosophy 10 — Caste Discrimination: Gandhi and Ambedkar`
+- [ ] 🟡 `Export PDF for Philosophy Paper II — Socio-Political Philosophy 01 — Social and Political Ideals` — `philosophy-paper-ii-socio-political-philosophy-01` · **learner-first v2:** g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper II — Socio-Political Philosophy 02 — Sovereignty` — `philosophy-paper-ii-socio-political-philosophy-02` · **learner-first v2:** g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper II — Socio-Political Philosophy 03 — Individual and State` — `philosophy-paper-ii-socio-political-philosophy-03` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper II — Socio-Political Philosophy 04 — Forms of Government` — `philosophy-paper-ii-socio-political-philosophy-04` · **learner-first v2:** g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper II — Socio-Political Philosophy 05 — Political Ideologies` — `philosophy-paper-ii-socio-political-philosophy-05` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper II — Socio-Political Philosophy 06 — Humanism, Secularism and Multiculturalism` — `philosophy-paper-ii-socio-political-philosophy-06` · **learner-first v2:** g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper II — Socio-Political Philosophy 07 — Crime and Punishment` — `philosophy-paper-ii-socio-political-philosophy-07` · **learner-first v2:** g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper II — Socio-Political Philosophy 08 — Development and Social Progress` — `philosophy-paper-ii-socio-political-philosophy-08` · **learner-first v2:** g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper II — Socio-Political Philosophy 09 — Gender Discrimination` — `philosophy-paper-ii-socio-political-philosophy-09` · **learner-first v2:** g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Philosophy Paper II — Socio-Political Philosophy 10 — Caste Discrimination: Gandhi and Ambedkar` — `philosophy-paper-ii-socio-political-philosophy-10` · **learner-first v2:** g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
 
 ## Philosophy Paper II — Philosophy of Religion (01–10; 10 topics)
 
-**Progress:** 0 approved · 4 generated awaiting approval · 6 remaining
+**Learner-first v2 progress:** 0 approved · 10 generated awaiting approval · 0 incomplete · 0 remaining
 
-- [ ] 🟡 `Export PDF for Philosophy Paper II — Philosophy of Religion 01 — Notions of God`
-- [ ] 🟡 `Export PDF for Philosophy Paper II — Philosophy of Religion 02 — Proofs for the Existence of God`
-- [ ] 🟡 `Export PDF for Philosophy Paper II — Philosophy of Religion 03 — Problem of Evil`
-- [ ] 🟡 `Export PDF for Philosophy Paper II — Philosophy of Religion 04 — Soul: Immortality, Rebirth and Liberation`
-- [ ] ⬜ `Export PDF for Philosophy Paper II — Philosophy of Religion 05 — Reason, Revelation and Faith`
-- [ ] ⬜ `Export PDF for Philosophy Paper II — Philosophy of Religion 06 — Religious Experience`
-- [ ] ⬜ `Export PDF for Philosophy Paper II — Philosophy of Religion 07 — Religion without God`
-- [ ] ⬜ `Export PDF for Philosophy Paper II — Philosophy of Religion 08 — Religion and Morality`
-- [ ] ⬜ `Export PDF for Philosophy Paper II — Philosophy of Religion 09 — Religious Pluralism and Absolute Truth`
-- [ ] ⬜ `Export PDF for Philosophy Paper II — Philosophy of Religion 10 — Nature of Religious Language`
+- [ ] 🟡 `Export PDF for Philosophy Paper II — Philosophy of Religion 01 — Notions of God` — `philosophy-paper-ii-philosophy-of-religion-01` · **learner-first v2:** g17 🟡 generated; approval pending; g16 🟡 generated; approval pending; g15 🟡 generated; approval pending; g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper II — Philosophy of Religion 02 — Proofs for the Existence of God` — `philosophy-paper-ii-philosophy-of-religion-02` · **learner-first v2:** g14 🟡 generated; approval pending; g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper II — Philosophy of Religion 03 — Problem of Evil` — `philosophy-paper-ii-philosophy-of-religion-03` · **learner-first v2:** g14 🟡 generated; approval pending; g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper II — Philosophy of Religion 04 — Soul: Immortality, Rebirth and Liberation` — `philosophy-paper-ii-philosophy-of-religion-04` · **learner-first v2:** g14 🟡 generated; approval pending; g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending · **legacy/reference v1:** g1 🟡 generated; approval pending
+- [ ] 🟡 `Export PDF for Philosophy Paper II — Philosophy of Religion 05 — Reason, Revelation and Faith` — `philosophy-paper-ii-philosophy-of-religion-05` · **learner-first v2:** g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Philosophy Paper II — Philosophy of Religion 06 — Religious Experience` — `philosophy-paper-ii-philosophy-of-religion-06` · **learner-first v2:** g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Philosophy Paper II — Philosophy of Religion 07 — Religion without God` — `philosophy-paper-ii-philosophy-of-religion-07` · **learner-first v2:** g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Philosophy Paper II — Philosophy of Religion 08 — Religion and Morality` — `philosophy-paper-ii-philosophy-of-religion-08` · **learner-first v2:** g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Philosophy Paper II — Philosophy of Religion 09 — Religious Pluralism and Absolute Truth` — `philosophy-paper-ii-philosophy-of-religion-09` · **learner-first v2:** g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
+- [ ] 🟡 `Export PDF for Philosophy Paper II — Philosophy of Religion 10 — Nature of Religious Language` — `philosophy-paper-ii-philosophy-of-religion-10` · **learner-first v2:** g14 🟡 generated; approval pending; g13 🟡 generated; approval pending; g12 🟡 generated; approval pending; g11 🟡 generated; approval pending; g10 🟡 generated; approval pending; g9 🟡 generated; approval pending; g8 🟡 generated; approval pending; g7 🟡 generated; approval pending; g6 🟡 generated; approval pending; g5 🟡 generated; approval pending; g4 🟡 generated; approval pending; g3 🟡 generated; approval pending; g2 🟡 generated; approval pending; g1 🟡 generated; approval pending · **legacy/reference v1:** ⬜ remaining
 
 # Index Summary
 
-- **Total copy-paste commands:** 520
-- **Approved complete:** 1
-- **Generated awaiting approval:** 139
-- **Incomplete recorded packages:** 12
-- **Remaining topics:** 368
+- **Total copy-paste commands:** 516
+- **Learner-first v2 approved:** 0
+- **Learner-first v2 generated awaiting approval:** 483
+- **Learner-first v2 incomplete:** 0
+- **Learner-first v2 remaining:** 33
+- **Legacy/reference v1 records:** 194
+- **Learner-first v2 records:** 1798
 - **General/qualifying subject sections:** 22
 - **Philosophy syllabus blocks:** 4
 - **Indexes requiring manual review:** None
+- **Recorded generations outside the current syllabus map:** 0

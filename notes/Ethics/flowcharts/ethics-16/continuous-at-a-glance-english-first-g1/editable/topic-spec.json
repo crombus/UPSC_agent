@@ -1,0 +1,1142 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "ethics-16",
+  "subject": "Ethics",
+  "title": "CODES OF ETHICS AND CODES OF CONDUCT",
+  "short_route": "DUAL-CODE FOUNDATION → VALUES-TO-RULES TRANSLATION → CIVIL-SERVICE CONDUCT MAP → NEUTRAL ADVICE AND IMPLEMENTATION → CONFLICT MANAGEMENT LADDER → GIFT ASSET AND OUTSIDE-WORK",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g1 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-16_Learning-Session.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\ethics--subject-wide-syllabus-16-ascii-2026-08-29-g1.json",
+  "ascii_spec_sha256": "79d8ebfee231fad4306744449a32a04a6c87b5314264b40114ac7195dd28a18d",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "DUAL-CODE FOUNDATION",
+      "structural_type": "paired-foundation",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "DUAL-CODE FOUNDATION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. DUAL-CODE FOUNDATION",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] PUBLIC OFFICE CREATES ROLE DUTIES",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] ETHICS NAMES GUIDING VALUES",
+          "role": "primary"
+        },
+        {
+          "text": "[3] VALUES ORIENT INTENTION AND JUDGMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] CONDUCT IDENTIFIES RECURRING RISKS",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] RULES SPECIFY ACTS AND PROCEDURES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "1. Dual-code foundation",
+        "[1] Public office creates role duties",
+        "[2] Ethics names guiding values",
+        "[3] Values orient intention and judgment"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "1. Dual-code foundation",
+            "[1] Public office creates role duties",
+            "[2] Ethics names guiding values"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Values orient intention and judgment",
+            "[4] Conduct identifies recurring risks",
+            "[5] Rules specify acts and procedures",
+            "[6] Valid authority supplies enforcement"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Due process disciplines sanctions",
+            "[8] Learning reconnects rule and value",
+            "VERDICT → Aspiration and enforceability are complementary, never automatic synonyms.",
+            "ANSWER USE → Use to open every distinction or model-code answer."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Aspiration and enforceability are complementary, never automatic synonyms.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "VALUES-TO-RULES TRANSLATION",
+      "structural_type": "translation-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "VALUES-TO-RULES TRANSLATION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "2. VALUES-TO-RULES TRANSLATION",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] CHOOSE CONSTITUTIONAL VALUE",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] DEFINE ROLE-SPECIFIC MEANING",
+          "role": "primary"
+        },
+        {
+          "text": "[3] MAP FORESEEABLE ETHICAL RISK",
+          "role": "caution"
+        },
+        {
+          "text": "[4] SPECIFY REQUIRED OR BARRED ACT",
+          "role": "institution"
+        },
+        {
+          "text": "[5] CREATE DISCLOSURE OR APPROVAL ROUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "2. Values-to-rules translation",
+        "[1] Choose constitutional value",
+        "[2] Define role-specific meaning",
+        "[3] Map foreseeable ethical risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "2. Values-to-rules translation",
+            "[1] Choose constitutional value",
+            "[2] Define role-specific meaning"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Map foreseeable ethical risk",
+            "[4] Specify required or barred act",
+            "[5] Create disclosure or approval route",
+            "[6] Assign records and ownership"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] State fair consequence",
+            "[8] Review effects and loopholes",
+            "VERDICT → A value becomes administratively usable through procedures without losing its purpose.",
+            "ANSWER USE → Use for work-culture and institutional-design questions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → A value becomes administratively usable through procedures without losing its purpose.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CIVIL-SERVICE CONDUCT MAP",
+      "structural_type": "rule-cluster-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CIVIL-SERVICE CONDUCT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "3. CIVIL-SERVICE CONDUCT MAP",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] RULE 3 GENERAL CONDUCT",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] RULE 5 POLITICAL ACTIVITY",
+          "role": "primary"
+        },
+        {
+          "text": "[3] RULES 8-9 MEDIA AND CRITICISM",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] RULE 11 OFFICIAL INFORMATION",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] RULE 13 GIFTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "3. Civil-service conduct map",
+        "[1] Rule 3 general conduct",
+        "[2] Rule 5 political activity",
+        "[3] Rules 8-9 media and criticism"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "3. Civil-service conduct map",
+            "[1] Rule 3 general conduct",
+            "[2] Rule 5 political activity"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Rules 8-9 media and criticism",
+            "[4] Rule 11 official information",
+            "[5] Rule 13 gifts",
+            "[6] Rule 15 outside work"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Rule 18 property",
+            "[8] Disciplinary rules enforce breach",
+            "VERDICT → Cite the rule family safely; verify mutable thresholds in current notifications.",
+            "ANSWER USE → Use for CCS conduct-rule applications."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANSWER USE → Use for CCS conduct-rule applications.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "NEUTRAL ADVICE AND IMPLEMENTATION",
+      "structural_type": "neutrality-route",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "NEUTRAL ADVICE AND IMPLEMENTATION",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "4. NEUTRAL ADVICE AND IMPLEMENTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] CHECK CONSTITUTION AND LAW",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] GATHER ACCURATE EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] GIVE CANDID OPTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] DECLARE PERSONAL OR PARTY BIAS",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] RECORD MATERIAL ADVICE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "4. Neutral advice and implementation",
+        "[1] Check Constitution and law",
+        "[2] Gather accurate evidence",
+        "[3] Give candid options"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "4. Neutral advice and implementation",
+            "[1] Check Constitution and law",
+            "[2] Gather accurate evidence"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Give candid options",
+            "[4] Declare personal or party bias",
+            "[5] Record material advice",
+            "[6] Receive lawful policy decision"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Implement without partisan favour",
+            "[8] Escalate unlawful direction safely",
+            "VERDICT → Neutrality protects professional candour before decision and loyal legality after it.",
+            "ANSWER USE → Use for political-neutrality and Minister-civil servant questions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Neutrality protects professional candour before decision and loyal legality after it.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CONFLICT MANAGEMENT LADDER",
+      "structural_type": "conflict-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CONFLICT MANAGEMENT LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "5. CONFLICT MANAGEMENT LADDER",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] IDENTIFY PRIVATE INTEREST",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] CLASSIFY ACTUAL POTENTIAL APPARENT",
+          "role": "primary"
+        },
+        {
+          "text": "[3] DISCLOSE BEFORE PARTICIPATION",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] ASSESS MATERIALITY INDEPENDENTLY",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] RESTRICT ACCESS IF NEEDED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "5. Conflict management ladder",
+        "[1] Identify private interest",
+        "[2] Classify actual potential apparent",
+        "[3] Disclose before participation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "5. Conflict management ladder",
+            "[1] Identify private interest",
+            "[2] Classify actual potential apparent"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Disclose before participation",
+            "[4] Assess materiality independently",
+            "[5] Restrict access if needed",
+            "[6] Recuse reassign or divest"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Record reasons and controls",
+            "[8] Review outcome and recurrence",
+            "VERDICT → Disclosure starts management; it does not automatically cure a material conflict.",
+            "ANSWER USE → Use for relatives, procurement and regulatory capture."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Disclosure starts management; it does not automatically cure a material conflict.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "GIFT ASSET AND OUTSIDE-WORK CONTROLS",
+      "structural_type": "three-risk-stack",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "GIFT ASSET AND OUTSIDE-WORK CONTROLS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "6. GIFT ASSET AND OUTSIDE-WORK CONTROLS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] GIFT MAY CREATE OBLIGATION",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] HOSPITALITY MAY BUY ACCESS",
+          "role": "primary"
+        },
+        {
+          "text": "[3] ASSETS MAY REVEAL INTEREST",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] OUTSIDE WORK DIVIDES LOYALTY",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] FUTURE JOB MAY DISTORT REGULATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "6. Gift asset and outside-work controls",
+        "[1] Gift may create obligation",
+        "[2] Hospitality may buy access",
+        "[3] Assets may reveal interest"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "6. Gift asset and outside-work controls",
+            "[1] Gift may create obligation",
+            "[2] Hospitality may buy access"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Assets may reveal interest",
+            "[4] Outside work divides loyalty",
+            "[5] Future job may distort regulation",
+            "[6] Current rule fixes procedure"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Privacy limits over-disclosure",
+            "[8] Inquiry distinguishes risk from guilt",
+            "VERDICT → Control influence and appearance without guessing thresholds or presuming corruption.",
+            "ANSWER USE → Use for close-option traps and conflict examples."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Control influence and appearance without guessing thresholds or presuming corruption.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "MINISTERS AND LEGISLATORS",
+      "structural_type": "role-accountability-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MINISTERS AND LEGISLATORS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "7. MINISTERS AND LEGISLATORS",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] MINISTER BEARS POLITICAL RESPONSIBILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] OFFICIAL AND PARTY RESOURCES SEPARATE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] PRIVATE INTEREST YIELDS TO PUBLIC DUTY",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] CIVIL-SERVICE IMPARTIALITY PROTECTED",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] MEMBER DECLARES RELEVANT INTERESTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "7. Ministers and legislators",
+        "[1] Minister bears political responsibility",
+        "[2] Official and party resources separate",
+        "[3] Private interest yields to public duty"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "7. Ministers and legislators",
+            "[1] Minister bears political responsibility",
+            "[2] Official and party resources separate"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Private interest yields to public duty",
+            "[4] Civil-service impartiality protected",
+            "[5] Member declares relevant interests",
+            "[6] Ethics Committee examines complaint"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Committee recommends sanction",
+            "[8] House acts through its procedure",
+            "VERDICT → Political and House accountability can arise without collapsing into criminal conviction.",
+            "ANSWER USE → Use for comparative public-functionary answers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Political and House accountability can arise without collapsing into criminal conviction.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ETHICS-OFFICE OWNERSHIP",
+      "structural_type": "ownership-wheel",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "ETHICS-OFFICE OWNERSHIP",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "8. ETHICS-OFFICE OWNERSHIP",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] MAINTAIN AUTHORITATIVE CODE",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] ISSUE PLAIN GUIDANCE",
+          "role": "primary"
+        },
+        {
+          "text": "[3] GIVE CONFIDENTIAL ADVICE",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] TRAIN WITH SCENARIOS",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] MANAGE REGISTERS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "8. Ethics-office ownership",
+        "[1] Maintain authoritative code",
+        "[2] Issue plain guidance",
+        "[3] Give confidential advice"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "8. Ethics-office ownership",
+            "[1] Maintain authoritative code",
+            "[2] Issue plain guidance"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Give confidential advice",
+            "[4] Train with scenarios",
+            "[5] Manage registers",
+            "[6] Receive or route complaints"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Report aggregate trends",
+            "[8] Propose periodic revision",
+            "VERDICT → A named owner turns a document into an operating ethics institution.",
+            "ANSWER USE → Use for Second ARC and 2025 Q6(a)."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → A named owner turns a document into an operating ethics institution.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "FAIR ENFORCEMENT ROUTE",
+      "structural_type": "due-process-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FAIR ENFORCEMENT ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "9. FAIR ENFORCEMENT ROUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] IDENTIFY VALID APPLICABLE RULE",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] PRESERVE RELEVANT EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "[3] GIVE NOTICE OF ALLEGATION",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] DISCLOSE MATERIAL FAIRLY",
+          "role": "evidence"
+        },
+        {
+          "text": "[5] USE IMPARTIAL INQUIRY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "9. Fair enforcement route",
+        "[1] Identify valid applicable rule",
+        "[2] Preserve relevant evidence",
+        "[3] Give notice of allegation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "9. Fair enforcement route",
+            "[1] Identify valid applicable rule",
+            "[2] Preserve relevant evidence"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Give notice of allegation",
+            "[4] Disclose material fairly",
+            "[5] Use impartial inquiry",
+            "[6] Reach reasoned finding"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Match sanction to gravity",
+            "[8] Provide review or appeal",
+            "VERDICT → Credible discipline requires both consequence and procedural justice.",
+            "ANSWER USE → Use for sanction, Article 311 and workplace-enforcement analysis."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Credible discipline requires both consequence and procedural justice.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "LOOPHOLE AND CIRCUMVENTION TEST",
+      "structural_type": "anti-circumvention-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "LOOPHOLE AND CIRCUMVENTION TEST",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "10. LOOPHOLE AND CIRCUMVENTION TEST",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] LOOK BEYOND FORMAL RECIPIENT",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] AGGREGATE CONNECTED BENEFITS",
+          "role": "primary"
+        },
+        {
+          "text": "[3] CHECK RELATIVES AND INTERMEDIARIES",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] TRACE BENEFICIAL OWNERSHIP",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] TEST SUBSTANCE AGAINST PURPOSE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "10. Loophole and circumvention test",
+        "[1] Look beyond formal recipient",
+        "[2] Aggregate connected benefits",
+        "[3] Check relatives and intermediaries"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "10. Loophole and circumvention test",
+            "[1] Look beyond formal recipient",
+            "[2] Aggregate connected benefits"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Check relatives and intermediaries",
+            "[4] Trace beneficial ownership",
+            "[5] Test substance against purpose",
+            "[6] Protect innocent explanation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Close ambiguity prospectively",
+            "[8] Train from the near miss",
+            "VERDICT → Literal compliance cannot legitimise a scheme designed to defeat the rule.",
+            "ANSWER USE → Use for split gifts, shell interests and messaging avoidance."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Literal compliance cannot legitimise a scheme designed to defeat the rule.",
+      "source_references": [
+        "sessions"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ETHICAL-COMPETENCE CYCLE",
+      "structural_type": "competence-cycle",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ETHICAL-COMPETENCE CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "11. ETHICAL-COMPETENCE CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "[1] NOTICE THE ETHICAL SIGNAL",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] FIND GOVERNING NORM",
+          "role": "primary"
+        },
+        {
+          "text": "[3] MAP STAKEHOLDERS AND BIAS",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] GENERATE LAWFUL ALTERNATIVES",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] SEEK ADVICE EARLY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "11. Ethical-competence cycle",
+        "[1] Notice the ethical signal",
+        "[2] Find governing norm",
+        "[3] Map stakeholders and bias"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "11. Ethical-competence cycle",
+            "[1] Notice the ethical signal",
+            "[2] Find governing norm"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Map stakeholders and bias",
+            "[4] Generate lawful alternatives",
+            "[5] Seek advice early",
+            "[6] Choose and record reasons"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Escalate or remedy safely",
+            "[8] Reflect and improve practice",
+            "VERDICT → Competence connects character, rule knowledge and practical judgment.",
+            "ANSWER USE → Use for the 2019 institutional-measures PYQ."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → Competence connects character, rule knowledge and practical judgment.",
+      "source_references": [
+        "BASIC MCQS / REMEDIATION"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "COMPLETE EXAMINER ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "COMPLETE EXAMINER ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FOCUS",
+          "role": "outcome"
+        },
+        {
+          "text": "12. COMPLETE EXAMINER ANSWER SPINE",
+          "role": "comparison"
+        },
+        {
+          "text": "[1] DEFINE BOTH CODES PRECISELY",
+          "role": "evidence"
+        },
+        {
+          "text": "[2] STATE INDIA'S EXISTING CONDUCT LAYER",
+          "role": "institution"
+        },
+        {
+          "text": "[3] PRESERVE UNIMPLEMENTED-ETHICS CAVEAT",
+          "role": "outcome"
+        },
+        {
+          "text": "[4] NAME ROLE-SPECIFIC RISKS",
+          "role": "comparison"
+        },
+        {
+          "text": "[5] TRANSLATE VALUES INTO PROCEDURES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL FOCUS",
+        "12. Complete examiner answer spine",
+        "[1] Define both codes precisely",
+        "[2] State India's existing conduct layer",
+        "[3] Preserve unimplemented-ethics caveat"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL FOCUS",
+            "12. Complete examiner answer spine",
+            "[1] Define both codes precisely",
+            "[2] State India's existing conduct layer"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "[3] Preserve unimplemented-ethics caveat",
+            "[4] Name role-specific risks",
+            "[5] Translate values into procedures",
+            "[6] Assign ownership and monitoring"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "[7] Add fair enforcement and review",
+            "[8] Conclude prevention plus accountability",
+            "VERDICT → The best answer joins aspiration, operational design and lawful consequence.",
+            "ANSWER USE → Use for 2024 Q5(a), 2025 Q6(a) and original Mains practice."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → The best answer joins aspiration, operational design and lawful consequence.",
+      "source_references": [
+        "PYQS AND ANSWER PRACTICE"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. CODES AS AN INSTITUTIONAL SYSTEM, NOT A DOCUMENT",
+          "role": "caution"
+        },
+        {
+          "text": "2. A SPECTRUM RATHER THAN A WATERTIGHT BINARY",
+          "role": "comparison"
+        },
+        {
+          "text": "3. THE SECOND ARC'S CIVIL-SERVICE PROPOSAL",
+          "role": "evidence"
+        },
+        {
+          "text": "PRECISE READING",
+          "role": "primary"
+        },
+        {
+          "text": "4. VALUES-TO-RULES TRANSLATION",
+          "role": "outcome"
+        },
+        {
+          "text": "THE REGULATORY DESIGN PROBLEM",
+          "role": "comparison"
+        },
+        {
+          "text": "5. POLITICAL NEUTRALITY AND RESPONSIVE GOVERNMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL ETHICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. Codes as an institutional system, not a document pair",
+            "2. A spectrum rather than a watertight binary",
+            "3. The Second ARC's civil-service proposal: precise reading",
+            "4. Values-to-rules translation: the regulatory design problem"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "5. Political neutrality and responsive government",
+            "6. Speech, media and information in the digital workplace",
+            "7. Conflict of interest: beyond disclose-and-recuse",
+            "8. Gifts, hospitality and beneficial ownership"
+          ]
+        },
+        {
+          "heading": "ADMINISTRATIVE APPLICATION",
+          "role": "comparison",
+          "items": [
+            "9. Legislatures: self-regulation and public legitimacy",
+            "10. Ministers: political accountability and procedural fairness",
+            "11. Advice, investigation and adjudication",
+            "12. Monitoring: gaming-resistant ethics metrics"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

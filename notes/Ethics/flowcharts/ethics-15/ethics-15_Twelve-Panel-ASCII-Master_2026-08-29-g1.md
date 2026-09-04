@@ -1,0 +1,402 @@
+# Transparency, RTI and Information Sharing — Twelve-Panel ASCII Master
+
+#### ASCII MASTER FLOW — PANEL 1/12: 1. Information-governance distinction map
+
+```ascii-master
+CENTRAL FOCUS
+1. Information-governance distinction map
+  [1] Transparency: systemic visibility
+        |
+        v
+  [2] Disclosure: particular release
+        |
+        v
+  [3] Sharing: purpose-bound exchange
+        |
+        v
+  [4] Open data: reusable datasets
+        |
+        v
+  [5] Privacy: dignity and control
+        |
+        v
+  [6] Accountability: answerability
+        |
+        v
+  [7] Forum supplies correction
+        |
+        v
+  [8] Law sets legitimate limits
+        |
+        v
+VERDICT -> Moving information is not identical to making power accountable.
+ANSWER USE -> Use to define the topic and prevent synonym traps.
+```
+
+#### ASCII MASTER FLOW — PANEL 2/12: 2. RTI scope and rights-holder route
+
+```ascii-master
+CENTRAL FOCUS
+2. RTI scope and rights-holder route
+  [1] Section 3: citizen's right
+        |
+        v
+  [2] Identify public authority
+        |
+        v
+  [3] Locate held or controlled record
+        |
+        v
+  [4] Include law-accessible private data
+        |
+        v
+  [5] Do not demand new opinion
+        |
+        v
+  [6] Applicant need not give reasons
+        |
+        v
+  [7] Assist persons needing help
+        |
+        v
+  [8] Apply exemptions only afterward
+        |
+        v
+VERDICT -> RTI opens existing recorded information; it does not compel fresh intellectual
+             creation.
+ANSWER USE -> Use for Sections 2, 3 and 6 answers.
+```
+
+#### ASCII MASTER FLOW — PANEL 3/12: 3. Section 4 proactive-disclosure engine
+
+```ascii-master
+CENTRAL FOCUS
+3. Section 4 proactive-disclosure engine
+  [1] Catalogue and index records
+        |
+        v
+  [2] Computerise appropriate records
+        |
+        v
+  [3] Publish organisation and duties
+        |
+        v
+  [4] Publish norms and decision process
+        |
+        v
+  [5] Publish budget and programmes
+        |
+        v
+  [6] Publish subsidies and concessions
+        |
+        v
+  [7] Update, search and make accessible
+        |
+        v
+  [8] Minimise need for applications
+        |
+        v
+VERDICT -> The strongest RTI system answers routine questions before they become disputes.
+ANSWER USE -> Use for reform, capacity and anti-corruption answers.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/12: 4. Sections 6 and 7 request clock
+
+```ascii-master
+CENTRAL FOCUS
+4. Sections 6 and 7 request clock
+  [1] File written or electronic request
+        |
+        v
+  [2] Use English, Hindi or local official language
+        |
+        v
+  [3] Give contact detail, not reasons
+        |
+        v
+  [4] Transfer under Section 6(3)
+        |
+        v
+  [5] Ordinary decision: thirty days
+        |
+        v
+  [6] Life or liberty: forty-eight hours
+        |
+        v
+  [7] Silence becomes deemed refusal
+        |
+        v
+  [8] Delay makes information free
+        |
+        v
+VERDICT -> Access is meaningful only when procedure is simple, assisted and time-bound.
+ANSWER USE -> Use for application and timeline close-option questions.
+```
+
+#### ASCII MASTER FLOW — PANEL 5/12: 5. Section 8 exemption and balance
+
+```ascii-master
+CENTRAL FOCUS
+5. Section 8 exemption and balance
+  [1] Name exact exemption clause
+        |
+        v
+  [2] Identify protected interest
+        |
+        v
+  [3] Specify likely disclosure harm
+        |
+        v
+  [4] Reject generic confidentiality
+        |
+        v
+  [5] Test Section 8(2) public interest
+        |
+        v
+  [6] Consider twenty-year rule
+        |
+        v
+  [7] Record clause-linked reasons
+        |
+        v
+  [8] Preserve appeal and review
+        |
+        v
+VERDICT -> A protected interest requires a reasoned harm analysis, not a secrecy label.
+ANSWER USE -> Use for exemptions, OSA and public-interest questions.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/12: 6. Severability and third-party procedure
+
+```ascii-master
+CENTRAL FOCUS
+6. Severability and third-party procedure
+  [1] Identify protected segment
+        |
+        v
+  [2] Test reasonable separation
+        |
+        v
+  [3] Release non-exempt remainder
+        |
+        v
+  [4] Notify reasons and review rights
+        |
+        v
+  [5] Notify affected third party
+        |
+        v
+  [6] Receive timely representation
+        |
+        v
+  [7] PIO decides independently
+        |
+        v
+  [8] Notify both sides of appeal
+        |
+        v
+VERDICT -> Redaction narrows secrecy; consultation improves fairness without creating a veto.
+ANSWER USE -> Use for Sections 10 and 11.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/12: 7. Appeal, burden, remedy and penalty
+
+```ascii-master
+CENTRAL FOCUS
+7. Appeal, burden, remedy and penalty
+  [1] PIO gives decision or defaults
+        |
+        v
+  [2] First appeal within authority
+        |
+        v
+  [3] Second appeal to Commission
+        |
+        v
+  [4] PIO bears denial burden
+        |
+        v
+  [5] Commission may order access
+        |
+        v
+  [6] Commission may require system reform
+        |
+        v
+  [7] Section 20 penalty is conditional
+        |
+        v
+  [8] Persistent default may trigger discipline
+        |
+        v
+VERDICT -> RTI accountability joins access, justification, correction and personal
+             consequence.
+ANSWER USE -> Use for 2018 Q2(b) and enforcement reform.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/12: 8. Section 24 special boundary
+
+```ascii-master
+CENTRAL FOCUS
+8. Section 24 special boundary
+  [1] Check notified security organisation
+        |
+        v
+  [2] General exclusion applies
+        |
+        v
+  [3] Test corruption allegation
+        |
+        v
+  [4] Test human-rights allegation
+        |
+        v
+  [5] Corruption route remains open
+        |
+        v
+  [6] Human-rights route needs approval
+        |
+        v
+  [7] Apply special forty-five-day period
+        |
+        v
+  [8] Protect genuine operational harm
+        |
+        v
+VERDICT -> Security-organisation exclusion is broad but not absolute.
+ANSWER USE -> Use for statutory traps and balanced national-security answers.
+```
+
+#### ASCII MASTER FLOW — PANEL 9/12: 9. RTI Amendment 2019 institutional map
+
+```ascii-master
+CENTRAL FOCUS
+9. RTI Amendment 2019 institutional map
+  [1] Pre-2019 tenure fixed in Act
+        |
+        v
+  [2] Pre-2019 salary links fixed in Act
+        |
+        v
+  [3] 2019 shifts detail to Central rules
+        |
+        v
+  [4] Change covers Central Commissions
+        |
+        v
+  [5] Change also covers State Commissions
+        |
+        v
+  [6] Rules prescribe three-year term
+        |
+        v
+  [7] Independence concern is structural
+        |
+        v
+  [8] Actual interference is not proved
+        |
+        v
+VERDICT -> State the design risk precisely without claiming that RTI rights were abolished.
+ANSWER USE -> Use for institutional-independence evaluation.
+```
+
+#### ASCII MASTER FLOW — PANEL 10/12: 10. OSA and RTI interface
+
+```ascii-master
+CENTRAL FOCUS
+10. OSA and RTI interface
+  [1] OSA 1923 remains in force
+        |
+        v
+  [2] ARC recommended repeal and relocation
+        |
+        v
+  [3] Recommendation is not enacted law
+        |
+        v
+  [4] RTI Section 22 overrides inconsistency
+        |
+        v
+  [5] Section 8 protects genuine interests
+        |
+        v
+  [6] Section 8(2) weighs public interest
+        |
+        v
+  [7] Section 10 narrows withholding
+        |
+        v
+  [8] Reasoned review replaces blanket label
+        |
+        v
+VERDICT -> Official secrecy survives, but it cannot bypass the RTI Act's own decision
+             architecture.
+ANSWER USE -> Use for the 2019 direct PYQ.
+```
+
+#### ASCII MASTER FLOW — PANEL 11/12: 11. Privacy after Puttaswamy and DPDP
+
+```ascii-master
+CENTRAL FOCUS
+11. Privacy after Puttaswamy and DPDP
+  [1] Privacy protects dignity and autonomy
+        |
+        v
+  [2] State action needs legality
+        |
+        v
+  [3] Aim and proportionality matter
+        |
+        v
+  [4] Safeguards and remedy matter
+        |
+        v
+  [5] Section 44(3) commenced 13 Nov 2025
+        |
+        v
+  [6] RTI 8(1)(j) text was substituted
+        |
+        v
+  [7] Sections 8(2), 10 and 11 remain
+        |
+        v
+  [8] Sec 6(9): 13 Nov 2026; core: 13 May 2027
+        |
+        v
+VERDICT -> Use current text and acknowledge unresolved interaction instead of reviving deleted
+             wording.
+ANSWER USE -> Use for privacy-transparency and current-law answers.
+```
+
+#### ASCII MASTER FLOW — PANEL 12/12: 12. Ethical digital information-sharing design
+
+```ascii-master
+CENTRAL FOCUS
+12. Ethical digital information-sharing design
+  [1] Establish lawful authority
+        |
+        v
+  [2] Define specific purpose
+        |
+        v
+  [3] Share minimum necessary fields
+        |
+        v
+  [4] Verify accuracy and provenance
+        |
+        v
+  [5] Control access and retention
+        |
+        v
+  [6] Publish only safe aggregates
+        |
+        v
+  [7] Enable correction and appeal
+        |
+        v
+  [8] Audit necessity, use and outcomes
+        |
+        v
+VERDICT -> An accountable State should be transparent about power without making citizens
+             needlessly transparent.
+ANSWER USE -> Use for databases, open data and twenty-mark design questions.
+```

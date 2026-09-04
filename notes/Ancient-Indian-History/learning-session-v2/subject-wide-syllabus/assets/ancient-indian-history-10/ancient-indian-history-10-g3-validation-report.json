@@ -1,0 +1,252 @@
+{
+  "topic_key": "ancient-indian-history-10",
+  "record_id": "ancient-indian-history-10:learner-v2:g3",
+  "generated_on": "2026-08-22",
+  "approved": false,
+  "status": "passed",
+  "errors": [],
+  "h2_order": [
+    "BASIC LEARNING SESSION",
+    "BASIC MCQS / REMEDIATION",
+    "PYQS AND ANSWER PRACTICE",
+    "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+    "CONSOLIDATED REGISTER NOTES"
+  ],
+  "basic_before_practice_and_advanced_isolated": {
+    "basic_h3_total_headings": 38,
+    "basic_h3_classified_with_core_supporting_tags": 36,
+    "basic_h3_untagged_meta_headings": 2,
+    "basic_h3_untagged_meta_headings_list": [
+      "UPSC Relevance and Answer-Worthiness Audit",
+      "Representative source ledger"
+    ],
+    "advanced_tag_leak_into_basic_headings": 0,
+    "advanced_section_uses_own_owner_structure": true,
+    "advanced_section_headings": [
+      "Mini-timeline",
+      "1. Snapshot & core idea",
+      "2. Key classification / data",
+      "3. Study links",
+      "4. Must-Know Facts (Prelims)",
+      "5. UPSC Traps",
+      "6. Current link",
+      "7. Mains angles"
+    ]
+  },
+  "practice": {
+    "diagnostic_core_mcqs": 48,
+    "remedial_mcqs": 12,
+    "total_mcqs": 60,
+    "rotation": "ABCDABCDABCDABCDABCDABCDABCDABCDABCDABCDABCDABCDABCDABCDABCD",
+    "rotation_passed": true,
+    "rotation_distribution": {"A": 15, "B": 15, "C": 15, "D": 15},
+    "consecutive_repeats": 0,
+    "verified_prelims_pyqs": 15,
+    "verified_prelims_pyqs_breakdown": {
+      "direct_match": 12,
+      "adjacent_close_option": 3
+    },
+    "verified_mains_pyq_supports": 2,
+    "pyq_years_covered": [2018, 2019, 2020, 2022, 2023, 2024, 2026],
+    "pyq_status_checks": {
+      "2024_prelims_official_key": true,
+      "2026_prelims_provisional_key": true,
+      "2018_2023_unavailable_keys_labelled_inferred_not_official": true,
+      "no_fabricated_mains_ownership": true
+    },
+    "original_mains_distribution": {
+      "10_mark": 3,
+      "15_mark": 3,
+      "20_mark": 3,
+      "total": 9
+    },
+    "boilerplate_audit": {
+      "mcq_blocks_made_unique_of_60": "60/60",
+      "pyq_trap_blocks_made_unique_of_15": "15/15",
+      "mains_trap_blocks_made_unique_of_11": "11/11"
+    }
+  },
+  "visuals": {
+    "reused_g2_visual_count": 1,
+    "reused_g2_visual": "ancient-indian-history-10-learning-spine.png",
+    "reused_g2_visual_unchanged": true,
+    "new_g3_visual_count": 12,
+    "new_g3_visuals": [
+      "ancient-indian-history-10-g3-shramana-context-map.png",
+      "ancient-indian-history-10-g3-jain-liberation-chain.png",
+      "ancient-indian-history-10-g3-four-truths-eightfold-path.png",
+      "ancient-indian-history-10-g3-doctrine-comparison-matrix.png",
+      "ancient-indian-history-10-g3-sangha-lay-patronage-network.png",
+      "ancient-indian-history-10-g3-source-canon-timeline.png",
+      "ancient-indian-history-10-g3-sect-school-evolution-map.png",
+      "ancient-indian-history-10-g3-councils-evidence-ladder.png",
+      "ancient-indian-history-10-g3-spread-patronage-routes.png",
+      "ancient-indian-history-10-g3-art-symbol-architecture-panel.png",
+      "ancient-indian-history-10-g3-survival-decline-web.png",
+      "ancient-indian-history-10-g3-answer-spine-rapid-recall.png"
+    ],
+    "placement": "11 visuals embedded in BASIC LEARNING SESSION at matched subtopic anchors; 1 (answer-spine-rapid-recall) embedded in CONSOLIDATED REGISTER NOTES beside the FINAL REGISTER - PYQ answer spine heading.",
+    "defects_found_and_fixed_during_generation": [
+      "timeline_chart endpoint clipping at canvas edge (clamped label-box center, kept true connector origin)",
+      "bold header text overflow in card head-bands (added chars_for_bold() with 1.18x safety factor)",
+      "mid-word break of a slash-joined compound with no spaces (added spaces around the slash)",
+      "arrow-through-text in the routes schematic (added _rect_edge_point() boundary clipping so arrows run edge-to-edge)"
+    ],
+    "final_regeneration_visually_verified_clean": true,
+    "caption_distinctness_fix": {
+      "issue_found": "Initial embed pass reused each PNG's baked-in footer sentence verbatim as the external Markdown *caption* too, so the same sentence appeared twice near each of the 12 new visuals (image-internal footer + external caption identical), unlike the established g2 spine convention of three distinct texts (image footer, alt-text, external caption).",
+      "fix_applied": "Rewrote all 12 external captions to distinct, study-use framing (e.g. how/when to use the visual) while leaving each PNG's internal footer and alt-text untouched; no PNGs were regenerated.",
+      "verified_unique_anchors_replaced": 12,
+      "post_fix_spot_checks": "Visually confirmed on rendered page 11 (shramana context map) and final page 113 (answer spine) that all three text elements are now distinct with no duplication, clipping or overlap."
+    }
+  },
+  "mandatory_coverage": {
+    "shramana_second_urbanisation_context": true,
+    "evidence_source_method_and_chronology_caution": true,
+    "mahavira_and_jain_core_doctrine_jiva_ajiva_karma_triratna_five_vows": true,
+    "anekantavada_syadvada_nayavada_at_appropriate_depth": true,
+    "jain_laity_and_ascetic_lay_paths": true,
+    "buddhas_life_exam_relevant_only": true,
+    "four_noble_truths_dependent_origination_anatta_anicca_eightfold_path": true,
+    "sangha_monks_nuns_laity_rules_and_patronage": true,
+    "councils_bounded_as_conventional_traditions": true,
+    "buddhist_schools_and_mahayana_vajrayana_chronology_without_false_neatness": true,
+    "jain_shvetambara_digambara_sthanakvasi_distinctions": true,
+    "texts_canons_and_redaction_caveats": true,
+    "patronage_spread_trade_urban_links": true,
+    "art_symbols_stupas_chaityas_viharas_sanchi_bodh_gaya_nalanda": true,
+    "social_impact_and_limits": true,
+    "jain_survival_and_multi_causal_buddhist_transformation_decline": true,
+    "precise_jain_buddhist_comparison": true
+  },
+  "terminology_checks": {
+    "shramana": true, "tirthankara": true, "anekantavada": true, "syadvada": true,
+    "nayavada": true, "jiva": true, "ajiva": true, "triratna": true,
+    "digambara": true, "shvetambara": true, "sthanakvasi": true, "anatta": true,
+    "anicca": true, "dukkha": true, "nirvana": true, "sangha": true, "vinaya": true,
+    "tripitaka": true, "pali_canon": true, "mahayana": true, "vajrayana": true,
+    "theravada": true, "hinayana": true, "bodhisattva": true, "madhyamaka": true,
+    "yogacara": true, "stupa": true, "chaitya": true, "vihara": true, "sanchi": true,
+    "bodh_gaya": true, "nalanda": true, "ashoka": true, "kanishka": true,
+    "dependent_origination": true, "eightfold_path": true, "four_noble_truths": true,
+    "middle_way": true
+  },
+  "pdfs": {
+    "notes": {
+      "page_count": 113,
+      "word_count": 41805,
+      "file_size": 2516081,
+      "minimum_non_whitespace_characters_on_any_page": 200,
+      "blank_or_sparse_pages_under_120_characters": [],
+      "replacement_glyph_pages": [],
+      "out_of_bounds_text_pages": [],
+      "overlapping_text_block_pages": [],
+      "bookmark_count": 59,
+      "cover_image_correct_topic_caption": true
+    },
+    "workbook": {
+      "page_count": 64,
+      "word_count": 23968,
+      "file_size": 294493,
+      "minimum_non_whitespace_characters_on_any_page": 472,
+      "blank_or_sparse_pages_under_120_characters": [],
+      "replacement_glyph_pages": [],
+      "out_of_bounds_text_pages": [],
+      "overlapping_text_block_pages": [],
+      "bookmark_count": 5,
+      "cover_image_correct_topic_caption": true
+    },
+    "renderer": "tools/markdown_learning_pdf.py",
+    "renderer_version": "2.1",
+    "renderer_invocation": "python tools\\markdown_learning_pdf.py --variant learner-v2 --topic-key ancient-indian-history-10 --image <g2 learning-spine PNG> [--mode workbook for the workbook]",
+    "workbook_derivation": "Rendered with --mode workbook directly from the same final assembled g3 Markdown (BASIC MCQS/REMEDIATION + PYQS AND ANSWER PRACTICE sections only), not from a separately authored workbook source."
+  },
+  "internal_indexes": {
+    "notes_index_title": "CONTENTS / SESSION INDEX",
+    "notes_index_page": 2,
+    "notes_index_entries": 59,
+    "workbook_index_title": "CONTENTS / WORKBOOK INDEX",
+    "workbook_index_page": 2,
+    "workbook_index_entries": 5,
+    "quality_review": "Passed after demoting front-matter utilities, individual question/model headings and repeated optional-owner template labels from H3 to H4. The notes index now retains the document title, five major parts, 38 Basic teaching/audit headings, two practice protocol headings and 13 final register modules; the workbook index retains the document title, its two major practice parts and their protocol headings."
+  },
+  "identity": {
+    "record_id": "ancient-indian-history-10:learner-v2:g3",
+    "supersedes": "ancient-indian-history-10:learner-v2:g2",
+    "superseded_v1": "ancient-indian-history-10:legacy-v1:g1",
+    "approved": false,
+    "approval_approved": false,
+    "validation_state": "passed"
+  },
+  "manifest": {
+    "source_basic": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\10_Jainism-and-Buddhism.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\10_Jainism-and-Buddhism.md",
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\ancient-indian-history-10_Learning-Session.md",
+    "assembled_markdown_path_reused_unchanged_from_g2": true,
+    "notes_pdf": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\notes\\ancient-indian-history-10_Learning-Session_2026-08-22.pdf",
+    "workbook_pdf": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\workbooks\\ancient-indian-history-10_Solved-Workbook_2026-08-22.pdf",
+    "asset_folder": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\assets\\ancient-indian-history-10",
+    "asset_folder_reused_unchanged_from_g2": true,
+    "manifest_file": "upsc-ai-kit\\manifests\\v2\\ancient-indian-history--subject-wide-syllabus.json",
+    "manifest_topics_preserved": 27,
+    "manifest_fields_changed_for_topic": ["notes_pdf", "workbook_pdf"]
+  },
+  "indexes": {
+    "EXPORT-PDF-STATUS.json": "upserted; g2 record retained; g3 record added with validation.state=passed",
+    "EXPORT-PDF-COMMAND-INDEX.md": "regenerated (516 commands)",
+    "V2-SUBJECT-SECTION-COMMAND-INDEX.md": "regeneration invoked via generate_section_indexes(); content unchanged (topic-10 was already listed generated/unapproved, command text is generation-independent)",
+    "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\indexes\\TOPIC-COVERAGE-INDEX.md": "regenerated; topic-10 row now shows learner-v2 / g3, generated, pending explicit topic approval, passed, supersedes g2",
+    "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\indexes\\NOTES-PDF-INDEX.md": "regenerated with the 2026-08-22 notes PDF path",
+    "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\indexes\\WORKBOOK-PDF-INDEX.md": "regenerated with the 2026-08-22 workbook PDF path",
+    "STUDY-INDEX.md": "skipped intentionally; not part of the finalize_v2_topic.py workflow and modified by unrelated concurrent processes outside this task's scope"
+  },
+  "immutable_prior_artifacts": {
+    "notes\\Ancient-Indian-History\\10_Jainism-and-Buddhism_Complete-Topic-Package_2026-08-13.pdf": {
+      "sha256": "7626355E3E34AF5B6F976A6B7714D745F4C28878323EDBEA4356A688D0EF9F7C",
+      "size": 613883,
+      "unchanged": true,
+      "note": "legacy-v1 main PDF; not touched this session"
+    },
+    "notes\\Ancient-Indian-History\\10_Jainism-and-Buddhism_Solved-Workbook_2026-08-13.pdf": {
+      "sha256": "0E57E40A972A089D2F50549CF334236FB8895F328694A3192B273E311E314A6F",
+      "size": 413195,
+      "unchanged": true,
+      "note": "legacy-v1 workbook PDF; not touched this session"
+    },
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\10_Jainism-and-Buddhism_Complete-Topic-Package.md": {
+      "sha256": "C65F62CBA296A277D5D2BF260E218140E25459D68A820DC3B7EE921C6157E3E0",
+      "size": 257708,
+      "unchanged": true,
+      "note": "legacy-v1 package markdown; not touched this session"
+    },
+    "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\assets\\ancient-indian-history-10\\ancient-indian-history-10-learning-spine.png": {
+      "before_sha256": "C2FC763D997C748FC78E4A5714F91FF26247B8463943626B527C05CEC40F9CC2",
+      "after_sha256": "C2FC763D997C748FC78E4A5714F91FF26247B8463943626B527C05CEC40F9CC2",
+      "unchanged": true,
+      "size": 63493,
+      "note": "g2's sole learning-spine visual; reused as-is for the g3 body embed and as the PDF --image cover for both new PDFs"
+    },
+    "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\notes\\ancient-indian-history-10_Learning-Session_2026-08-20.pdf": {
+      "before_sha256": "02D038C00C376CD0D3C48998FF1471DD35CD1B31E13EC6339BD1C405545EDBDB",
+      "after_sha256": "02D038C00C376CD0D3C48998FF1471DD35CD1B31E13EC6339BD1C405545EDBDB",
+      "unchanged": true,
+      "size": 570174,
+      "note": "g2 main PDF; must remain intact per task instruction; verified unchanged after all g3 rendering"
+    },
+    "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\workbooks\\ancient-indian-history-10_Solved-Workbook_2026-08-20.pdf": {
+      "before_sha256": "E749A2C6BCCEFA5799F02FC7A951738EEEC4587CD0982F3DE3F3D89E84A576E2",
+      "after_sha256": "E749A2C6BCCEFA5799F02FC7A951738EEEC4587CD0982F3DE3F3D89E84A576E2",
+      "unchanged": true,
+      "size": 368141,
+      "note": "g2 workbook PDF; must remain intact per task instruction; verified unchanged after all g3 rendering"
+    }
+  },
+  "source_findings": {
+    "repository": "Regenerated the existing g2 assembled Markdown in place at its own reused path. Preserved every substantive g2 teaching/practice point; removed identical-boilerplate distractor/trap explanations (60/60 MCQ blocks, 15/15 PYQ traps, 11/11 Mains items made unique); added CORE PRELIMS / CORE MAINS / SUPPORTING / OPTIONAL ADVANCED classification tags to 36 of the 38 Basic H3 subtopics (the remaining 2 are the meta audit-table/source-ledger headings) plus a dedicated UPSC Relevance and Answer-Worthiness Audit table; added 12 new deterministic topic-specific PNG visuals; re-verified canonical H2 order, Basic-before-practice sequencing and Advanced-only-in-optional-block isolation after all edits.",
+    "basic_owner": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\basic\\10_Jainism-and-Buddhism.md read in full; all its substantive points (shramana context, Jain doctrine, Buddhist doctrine, Sangha, councils, schools, sects, texts, patronage/spread, art, comparison, decline/survival) confirmed present ahead of all practice sections.",
+    "advanced_owner": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\advanced\\10_Jainism-and-Buddhism.md confirmed reproduced only inside OPTIONAL ADVANCED DEPTH, using its own internal heading structure (Mini-timeline, Snapshot, Key classification/data, Study links, Must-Know Facts, UPSC Traps, Current link, Mains angles), with zero Advanced-only content or tags found inside the Basic section.",
+    "pyq_audit": "Audited rather than assumed: exactly 15 verified Prelims PYQ headings (12 direct-match 'Prelims PYQ' + 3 'Adjacent Prelims PYQ' for close-but-not-exact matches) and exactly 2 'Solved Mains PYQ' headings were found, matching the g2 tracker record's claimed counts (verified_pyq_headings: 17). The 2026 GS-I Q5/Q12/Q15 numbering carried over from g2 was re-checked against the routed PYQ audit files in a prior step of this same session and found correct; left unchanged.",
+    "pyq_key_status": "2024 Prelims keys remain labelled official; the 2026 key remains labelled provisional; 2018-2023 items without an official released key remain labelled inferred, never official. No Mains ownership was invented; the package's honest Mains-support-only status (2 verified Mains PYQ supports, 9 original Mains models) is unchanged from g2.",
+    "qdrant": "Not used; the regeneration worked directly on the existing g2 assembled Markdown plus the Basic/Advanced owners already resolved for this topic, per the learner-v2 source-order rules."
+  }
+}

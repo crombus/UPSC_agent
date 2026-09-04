@@ -28,6 +28,24 @@ Content determines the design. Never remove, shorten or oversimplify doctrine,
 arguments, criticisms, comparisons, PYQs or answer frameworks merely to make
 the PDF shorter or prettier.
 
+PHILOSOPHY-ONLY TERMINOLOGY AND COMPLETENESS:
+- Retain every common all-subject generation rule.
+- Use the English concept as the main expression everywhere. Put the accurate
+  Sanskrit or Pali IAST term immediately afterward in parentheses, for example
+  `dependent origination (pratītyasamutpāda)` and `Middle Path (madhyamā
+  pratipad; Pali: majjhimā paṭipadā)`.
+- Do not lead headings, prose, tables, diagrams, revision notes, questions or
+  model answers with unexplained Sanskrit/Pali. Verbatim quotations and
+  linguistic analysis still need an immediate English gloss.
+- Treat the syllabus as the minimum coverage spine. Audit and teach
+  indispensable doctrines needed to understand the named terms and PYQs.
+- For Buddhism, explain both the practical Middle Path between sensual
+  indulgence and self-mortification through the Noble Eightfold Path
+  (āryāṣṭāṅgamārga), and the doctrinal middle between eternalism
+  (śāśvatavāda) and annihilationism (ucchedavāda). Connect both to the Four
+  Noble Truths, dependent origination and liberation. A passing mention is not
+  sufficient.
+
 SOURCE PRIORITY:
 1. Official UPSC Philosophy Optional syllabus.
 2. Local Philosophy book PDFs under books\philosphy_books\ and

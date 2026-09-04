@@ -1,0 +1,132 @@
+{
+  "identity": {
+    "record_id": "ancient-indian-history-11:learner-v2:g3",
+    "supersedes": "ancient-indian-history-11:learner-v2:g2",
+    "approved": "false",
+    "generated_on": "2026-08-22",
+    "approval_false": true
+  },
+  "outputs": {
+    "markdown": "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus-g3\\ancient-indian-history-11_Learning-Session.md",
+    "main_pdf": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\notes\\ancient-indian-history-11_Learning-Session_2026-08-22.pdf",
+    "workbook": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\workbooks\\ancient-indian-history-11_Solved-Workbook_2026-08-22.pdf",
+    "flowchart": "notes\\Ancient-Indian-History\\flowcharts\\ancient-indian-history-11\\ancient-indian-history-11_Complete-MultiPage-Flowchart_2026-08-22.pdf",
+    "asset_folder": "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\assets\\ancient-indian-history-11-g3"
+  },
+  "content_validation": {
+    "exact_h2_order": true,
+    "h2_order": [
+      "BASIC LEARNING SESSION",
+      "BASIC MCQS / REMEDIATION",
+      "PYQS AND ANSWER PRACTICE",
+      "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER",
+      "CONSOLIDATED REGISTER NOTES"
+    ],
+    "g2_substantive_body_line_subsequence_preserved": true,
+    "coverage_terms_all_present": true,
+    "missing_coverage_terms": [],
+    "answer_line_count": 25,
+    "answer_line_exact_parity_main": true,
+    "answer_line_exact_parity_flowchart": true,
+    "core_mcqs": 48,
+    "remedial_mcqs": 12,
+    "strict_rotation": true,
+    "verified_pyq_routes": 3,
+    "original_mains": {
+      "10": 3,
+      "15": 3,
+      "20": 3
+    },
+    "why_this_earns_marks_count": 11,
+    "register_notes_last": true,
+    "why_marks_complete": true
+  },
+  "pdf_validation": {
+    "main": {
+      "pages": 98,
+      "bookmarks": 76,
+      "blank_pages": [],
+      "sparse_pages_under_260_chars": [],
+      "replacement_glyph_pages": [],
+      "out_of_bounds_text_pages": [],
+      "label_count": 25
+    },
+    "workbook": {
+      "pages": 56,
+      "bookmarks": 17,
+      "blank_pages": [],
+      "sparse_pages_under_260_chars": [],
+      "replacement_glyph_pages": [],
+      "out_of_bounds_text_pages": [],
+      "label_count": 0
+    },
+    "flowchart": {
+      "pages": 25,
+      "bookmarks": 25,
+      "blank_pages": [],
+      "sparse_pages_under_260_chars": [],
+      "replacement_glyph_pages": [],
+      "out_of_bounds_text_pages": [],
+      "label_count": 25
+    },
+    "flowchart_previews": 25,
+    "flowchart_contact_sheets": 5,
+    "manual_flowchart_inspection": "passed: all five contact sheets (25 pages) plus individual pages 2, 5, 6, 11 and 18 inspected; no clipping, overlap, truncation, glyph or footer defect observed"
+  },
+  "integration": {
+    "tracker_g3_exact": true,
+    "g2_record_preserved": true,
+    "manifest_latest_paths": true,
+    "export_index_g3": true,
+    "section_guide_topic_present": true,
+    "study_index_g3": true,
+    "ancient_command_index_g3": true,
+    "coverage_index_g3": true,
+    "notes_index_g3": true,
+    "workbook_index_g3": true
+  },
+  "immutable_hashes": {
+    "notes\\Ancient-Indian-History\\11_Mahajanapadas-Rise-of-Magadha_Complete-Topic-Package_2026-08-13.pdf": {
+      "before": "6E7652DA55CBC7083377D5C324DEDD34F246526834AC108747684D5F4F6FF88F",
+      "after": "6E7652DA55CBC7083377D5C324DEDD34F246526834AC108747684D5F4F6FF88F",
+      "unchanged": true
+    },
+    "notes\\Ancient-Indian-History\\11_Mahajanapadas-Rise-of-Magadha_Solved-Workbook_2026-08-13.pdf": {
+      "before": "D7FDE30DDABC1FC64F63339C13BFF95780DB3B9EC7A644947292531BFD9D1210",
+      "after": "D7FDE30DDABC1FC64F63339C13BFF95780DB3B9EC7A644947292531BFD9D1210",
+      "unchanged": true
+    },
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\11_Mahajanapadas-Rise-of-Magadha_Complete-Topic-Package.md": {
+      "before": "7D37BD7721A75FD9CC642DEAECD1D7249A1BAA3991B26A8DA27E97388FC6B000",
+      "after": "7D37BD7721A75FD9CC642DEAECD1D7249A1BAA3991B26A8DA27E97388FC6B000",
+      "unchanged": true
+    },
+    "upsc-ai-kit\\knowledge\\Ancient-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\ancient-indian-history-11_Learning-Session.md": {
+      "before": "8C9979D1F4CF31CD9A0D3BDC074E1DE36212B6EA66427847F123A45CDF118A97",
+      "after": "8C9979D1F4CF31CD9A0D3BDC074E1DE36212B6EA66427847F123A45CDF118A97",
+      "unchanged": true
+    },
+    "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\notes\\ancient-indian-history-11_Learning-Session_2026-08-20.pdf": {
+      "before": "483ACDFC855617D391FF9E492D620378AF120B331C0D0BFD68194D129AA246D6",
+      "after": "483ACDFC855617D391FF9E492D620378AF120B331C0D0BFD68194D129AA246D6",
+      "unchanged": true
+    },
+    "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\workbooks\\ancient-indian-history-11_Solved-Workbook_2026-08-20.pdf": {
+      "before": "77239F0851AA86687588C2ACE57520266E88513D3B80B2F470F6C863461A5133",
+      "after": "77239F0851AA86687588C2ACE57520266E88513D3B80B2F470F6C863461A5133",
+      "unchanged": true
+    },
+    "notes\\Ancient-Indian-History\\learning-session-v2\\subject-wide-syllabus\\assets\\ancient-indian-history-11\\ancient-indian-history-11-learning-spine.png": {
+      "before": "FAC45B19BBA389A2F295BFF1C52EC8DED311E6A952D24764C9FFF392478F0C44",
+      "after": "FAC45B19BBA389A2F295BFF1C52EC8DED311E6A952D24764C9FFF392478F0C44",
+      "unchanged": true
+    }
+  },
+  "tests": {
+    "targeted_validator": "passed",
+    "unittest": "49 passed",
+    "flowchart_visual_inspection": "passed"
+  },
+  "overall_pass": true,
+  "failed_boolean_checks": []
+}

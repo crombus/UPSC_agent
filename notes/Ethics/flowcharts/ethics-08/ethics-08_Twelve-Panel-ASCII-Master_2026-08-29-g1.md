@@ -1,0 +1,414 @@
+# Moral Theories: Deontology, Consequentialism, Virtue Ethics — Twelve-Panel ASCII Master
+
+#### ASCII MASTER FLOW — PANEL 1/12: 1. Anatomy of a morally appraised action
+
+```ascii-master
+CENTRAL FOCUS
+1. Anatomy of a morally appraised action
+  [1] Start with the situation, relevant facts and realistic alternatives.
+        |
+        v
+  [2] Identify motive: the background reason moving the agent.
+        |
+        v
+  [3] Identify intention: the result and means deliberately chosen.
+        |
+        v
+  [4] Test the chosen means for duty, dignity and legality.
+        |
+        v
+  [5] Estimate expected and reasonably foreseeable consequences.
+        |
+        v
+  [6] Record actual consequences without equating outcome with complete responsibility.
+        |
+        v
+  [7] Separate what was controlled from resultant or circumstantial luck.
+        |
+        v
+  [8] Triangulate duty, consequence and character into a reasoned verdict.
+        |
+        v
+VERDICT -> Never let a good motive or fortunate outcome substitute for appraisal of intention
+             and means.
+ANSWER USE -> Use as the opening diagnostic in any theory question or administrative case
+             study.
+```
+
+#### ASCII MASTER FLOW — PANEL 2/12: 2. Deontological duty ladder
+
+```ascii-master
+CENTRAL FOCUS
+2. Deontological duty ladder
+  [1] Good will asks whether the agent acts from duty rather than expediency.
+        |
+        v
+  [2] State the operative maxim behind the proposed administrative act.
+        |
+        v
+  [3] Universalise the maxim and test for contradiction or selective privilege.
+        |
+        v
+  [4] Apply the humanity formula: never treat persons merely as means.
+        |
+        v
+  [5] Identify the duty and rights floor that outcomes cannot ordinarily override.
+        |
+        v
+  [6] Recognise agent-relative restraints on one's own lying, coercion or falsification.
+        |
+        v
+  [7] Where duties conflict, identify their grounds instead of mechanically repeating rules.
+        |
+        v
+  [8] Give a reasoned priority while acknowledging deontology's rigidity limit.
+        |
+        v
+VERDICT -> Deontology supplies non-negotiable floors, but hard cases still require reasoned
+             priority among duties.
+ANSWER USE -> Use to write the duty-and-rights paragraph in a Mains answer or case evaluation.
+```
+
+#### ASCII MASTER FLOW — PANEL 3/12: 3. Consequentialist outcome calculus
+
+```ascii-master
+CENTRAL FOCUS
+3. Consequentialist outcome calculus
+  [1] List feasible alternatives rather than comparing action only with inaction.
+        |
+        v
+  [2] Map every materially affected stakeholder, including weak and future interests.
+        |
+        v
+  [3] Estimate expected benefits under each alternative.
+        |
+        v
+  [4] Estimate direct, indirect and opportunity-cost harms.
+        |
+        v
+  [5] Attach realistic probabilities and identify uncertainty.
+        |
+        v
+  [6] Examine distribution and the short, medium and long time horizons.
+        |
+        v
+  [7] Include precedent, institutional trust and behavioural incentives.
+        |
+        v
+  [8] Select the best expected outcome subject to an explicit rights check.
+        |
+        v
+VERDICT -> A utility total is credible only when stakeholders, uncertainty, distribution and
+             long-term trust are visible.
+ANSWER USE -> Use for policy appraisal, cost-benefit ethics and option comparison in case
+             studies.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/12: 4. Act utility versus rule utility
+
+```ascii-master
+CENTRAL FOCUS
+4. Act utility versus rule utility
+  [1] Act utilitarianism treats the individual act as the unit of evaluation.
+        |
+        v
+  [2] Rule utilitarianism evaluates the general acceptance of a rule.
+        |
+        v
+  [3] Act utility asks whether a local exception improves expected welfare.
+        |
+        v
+  [4] Rule utility asks what widespread exception-making would produce.
+        |
+        v
+  [5] General rules create predictability and administrative coordination.
+        |
+        v
+  [6] Impartial rules protect trust and reduce disguised favouritism.
+        |
+        v
+  [7] Rigid adherence can become rule worship when context defeats purpose.
+        |
+        v
+  [8] Allow only authorised, recorded and reviewable purposive exceptions.
+        |
+        v
+VERDICT -> Use welfare-promoting rules as the default and narrow purposive exceptions as the
+             safety valve.
+ANSWER USE -> Use to differentiate the two theories or analyse procurement and emergency
+             departures.
+```
+
+#### ASCII MASTER FLOW — PANEL 5/12: 5. Virtue ethics and phronesis wheel
+
+```ascii-master
+CENTRAL FOCUS
+5. Virtue ethics and phronesis wheel
+  [1] Eudaimonia supplies the wider idea of human flourishing.
+        |
+        v
+  [2] Character concerns the kind of person repeated choices create.
+        |
+        v
+  [3] Habituation converts isolated good acts into reliable dispositions.
+        |
+        v
+  [4] The mean is appropriate response between excess and deficiency.
+        |
+        v
+  [5] Phronesis perceives which features of the context ethically matter.
+        |
+        v
+  [6] Public role and entrusted power shape the virtues demanded.
+        |
+        v
+  [7] Justice, courage, honesty, compassion and temperance must work together.
+        |
+        v
+  [8] Practical wisdom supplements rather than abolishes rules and evidence.
+        |
+        v
+VERDICT -> Virtue ethics explains the quality of judgment that rules and calculations alone
+             cannot supply.
+ANSWER USE -> Use for wisdom, leadership, context-sensitive judgment and role-ethics answers.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/12: 6. Intuition-to-reason reflective loop
+
+```ascii-master
+CENTRAL FOCUS
+6. Intuition-to-reason reflective loop
+  [1] An intuitive reaction first signals that something may be morally salient.
+        |
+        v
+  [2] Experience and affect explain its speed and practical sensitivity.
+        |
+        v
+  [3] Bias, familiarity and in-group preference make intuition fallible.
+        |
+        v
+  [4] Pause before converting the felt response into official action.
+        |
+        v
+  [5] Gather facts, alternatives, law and affected-party perspectives.
+        |
+        v
+  [6] Test the reaction through duties, consequences and virtues.
+        |
+        v
+  [7] State public reasons capable of review and appeal.
+        |
+        v
+  [8] Revise the intuition or decision when the reasoned test requires it.
+        |
+        v
+VERDICT -> Intuition should trigger inquiry; reason should audit it; neither is sufficient
+             alone.
+ANSWER USE -> Use directly for 2023 Q4(b) and in the reasoning stage of any case study.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/12: 7. Doing good beyond the rulebook
+
+```ascii-master
+CENTRAL FOCUS
+7. Doing good beyond the rulebook
+  [1] Specify the public good the proposed initiative seeks.
+        |
+        v
+  [2] Confirm delegated authority to take the proposed action.
+        |
+        v
+  [3] Check for an express statutory or regulatory prohibition.
+        |
+        v
+  [4] Check purpose and structure for an implied prohibition.
+        |
+        v
+  [5] Protect rights, due process and equal treatment of comparable citizens.
+        |
+        v
+  [6] Examine resource diversion, precedent and institutional capacity.
+        |
+        v
+  [7] Record reasons, apply consistently and preserve review.
+        |
+        v
+  [8] Proceed only as calibrated initiative rather than personal benevolence.
+        |
+        v
+VERDICT -> No express prohibition is only the first gate, not a complete ethical or legal
+             permission.
+ANSWER USE -> Use as the full safeguard sequence for 2018 Q4(a) and discretion questions.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/12: 8. Means-and-ends ethical matrix
+
+```ascii-master
+CENTRAL FOCUS
+8. Means-and-ends ethical matrix
+  [1] Good end with good means is the strongest presumptive choice.
+        |
+        v
+  [2] Good end with wrongful means creates the central disputed case.
+        |
+        v
+  [3] Wrongful end cannot be rescued by procedurally proper means.
+        |
+        v
+  [4] Wrongful end with wrongful means is rejected by every lens.
+        |
+        v
+  [5] Kantian duty imposes dignity and universalisability restraints.
+        |
+        v
+  [6] Act and rule consequentialism may assess exceptions differently.
+        |
+        v
+  [7] Gandhian and virtue reasoning ask what tainted methods create.
+        |
+        v
+  [8] Final synthesis: rights floor, then necessity and proportionality.
+        |
+        v
+VERDICT -> Optimise consequences within clean means; justify emergency departures narrowly
+             rather than sloganising ends.
+ANSWER USE -> Use for 2018 Q4(b), whistleblowing, surveillance and emergency-power answers.
+```
+
+#### ASCII MASTER FLOW — PANEL 9/12: 9. Scarce-resource triage funnel
+
+```ascii-master
+CENTRAL FOCUS
+9. Scarce-resource triage funnel
+  [1] Define the scarcity, time pressure and divisible resource.
+        |
+        v
+  [2] Map patients, workers, families and institutional stakeholders.
+        |
+        v
+  [3] Use reliable clinical or need-based evidence.
+        |
+        v
+  [4] Estimate aggregate welfare and avoid preventable waste.
+        |
+        v
+  [5] Protect equal worth and prohibit status-based discrimination.
+        |
+        v
+  [6] Examine vulnerability and indirect barriers faced by weaker groups.
+        |
+        v
+  [7] Publish criteria, document choices and provide rapid review.
+        |
+        v
+  [8] Adopt a consequence-sensitive but rights-constrained hybrid decision.
+        |
+        v
+VERDICT -> Clinical benefit may guide priority, but it cannot convert social status into a
+             measure of human worth.
+ANSWER USE -> Use for health, disaster-relief and other scarce-resource allocation cases.
+```
+
+#### ASCII MASTER FLOW — PANEL 10/12: 10. Snowden-type disclosure ladder
+
+```ascii-master
+CENTRAL FOCUS
+10. Snowden-type disclosure ladder
+  [1] Identify the legal and professional duty of confidentiality.
+        |
+        v
+  [2] Identify privacy, public interest and democratic-accountability claims.
+        |
+        v
+  [3] Examine the discloser's motive without treating it as decisive.
+        |
+        v
+  [4] Examine intended audience, scope and chosen disclosure method.
+        |
+        v
+  [5] Compare public benefits with security, privacy and trust harms.
+        |
+        v
+  [6] Ask whether protected internal and oversight channels were viable.
+        |
+        v
+  [7] Apply necessity, minimisation and proportionality to the material released.
+        |
+        v
+  [8] Require accountability and an independently reviewable final verdict.
+        |
+        v
+VERDICT -> Ethical defensibility turns on targeted, necessary and accountable disclosure, not
+             moral motive alone.
+ANSWER USE -> Use for whistleblowing, secrecy-versus-conscience and public-interest disclosure
+             questions.
+```
+
+#### ASCII MASTER FLOW — PANEL 11/12: 11. Moral luck taxonomy and vigilance test
+
+```ascii-master
+CENTRAL FOCUS
+11. Moral luck taxonomy and vigilance test
+  [1] Control principle: blame should track what the agent could control.
+        |
+        v
+  [2] Resultant luck concerns how a decision actually turns out.
+        |
+        v
+  [3] Circumstantial luck concerns the situations an agent happens to face.
+        |
+        v
+  [4] Constitutive luck concerns temperament and capacities not wholly chosen.
+        |
+        v
+  [5] Causal luck concerns the antecedent causal chain shaping choice.
+        |
+        v
+  [6] Evaluate authority, evidence, diligence and foreseeable risk ex ante.
+        |
+        v
+  [7] Use outcomes as evidence and feedback, not the sole measure of blame.
+        |
+        v
+  [8] Apply the ARC-style bona-fides distinction without excusing negligence.
+        |
+        v
+VERDICT -> Protect sound good-faith judgment from hindsight bias while preserving liability
+             for bad process.
+ANSWER USE -> Use for failed projects, vigilance scrutiny, disaster command and the 2019
+             honest-officials case.
+```
+
+#### ASCII MASTER FLOW — PANEL 12/12: 12. Context-relative justice review cycle
+
+```ascii-master
+CENTRAL FOCUS
+12. Context-relative justice review cycle
+  [1] Begin with stable constitutional and ethical values.
+        |
+        v
+  [2] Identify changed facts, technology, knowledge or institutional capacity.
+        |
+        v
+  [3] Identify changed burdens, beneficiaries and patterns of exclusion.
+        |
+        v
+  [4] Ask whether the old application now produces injustice.
+        |
+        v
+  [5] Reject convenience-based relativism and preserve core rights.
+        |
+        v
+  [6] Prefer lawful substance over mechanical attachment to literal form.
+        |
+        v
+  [7] Confirm authority, record reasons and provide appeal or review.
+        |
+        v
+  [8] Continue scrutiny, including of evolving AI-assisted decisions.
+        |
+        v
+VERDICT -> Justice can require adaptive application without surrendering stable values or
+             legality.
+ANSWER USE -> Use directly for 2024 Q4 and as the current-affairs bridge to AI governance.
+```

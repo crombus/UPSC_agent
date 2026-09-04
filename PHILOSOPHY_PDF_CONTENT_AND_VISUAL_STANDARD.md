@@ -51,7 +51,29 @@ Every topic must include, where relevant:
 The Plato–Aristotle reference sample contains approximately 3,500 words across
 13 pages. Topic length may vary, but completeness must not be sacrificed.
 
-## 3A. Mandatory Five-Layer Learning Order
+### 3A. Philosophy-only terminology and completeness
+
+The common standards used for every subject remain unchanged. Philosophy
+Optional adds the following requirements:
+
+1. Make the English concept the main term in headings, prose, tables, diagrams,
+   captions, revision notes, questions and answers.
+2. Put the accurate Sanskrit or Pali IAST form immediately afterward in
+   parentheses: `dependent origination (pratītyasamutpāda)`, `no-self
+   (nairātmyavāda)` and `Middle Path (madhyamā pratipad; Pali: majjhimā
+   paṭipadā)`.
+3. Do not make learners decode an unexplained Indic term before receiving its
+   English meaning. Verbatim quotations and explicit linguistic analysis are
+   the only exceptions, and they still require an immediate gloss.
+4. Audit the conceptual framework surrounding the printed syllabus terms.
+   Syllabus wording is the minimum spine, not the maximum permitted coverage.
+5. For Buddhism, cover both the practical Middle Path between sensual
+   indulgence and self-mortification through the Noble Eightfold Path
+   (āryāṣṭāṅgamārga), and the doctrinal middle between eternalism
+   (śāśvatavāda) and annihilationism (ucchedavāda). Explain their relation to
+   the Four Noble Truths, dependent origination and liberation.
+
+## 3B. Mandatory Five-Layer Learning Order
 
 This rule applies only to Philosophy `Notes` and Philosophy `Export PDF`
 requests. Every logical subtopic must appear in this sequence:

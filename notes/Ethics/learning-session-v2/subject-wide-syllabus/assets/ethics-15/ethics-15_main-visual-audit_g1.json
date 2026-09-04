@@ -1,0 +1,1036 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Ethics\\learning-sessions\\v2\\subject-wide-syllabus\\ethics-15_Learning-Session.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Ethics\\learning-session-v2\\subject-wide-syllabus\\notes\\ethics-15_Learning-Session_2026-08-29.pdf",
+  "mode": "main",
+  "topic_key": "ethics-15",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 35,
+      "markdown_body_line_end": 42,
+      "heading": "SESSION 1 - Transparency, disclosure, information sharing, accountability and privacy",
+      "preview": "**Subject:** Ethics | **Tier:** Basic/Core | **GS Paper:** GS-IV **Scope:** Transparency and information sharing in government; Right to Information; codes of ethics; citizen-facing accountability. Full case-study method remains Topic 22-ow",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 694.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 535.824
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 47,
+      "markdown_body_line_end": 61,
+      "heading": "1. Transparency, disclosure, information sharing, accountability and privacy",
+      "preview": "PUBLIC POWER",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 512.324
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 371.324
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 72,
+      "heading": "1. Transparency, disclosure, information sharing, accountability and privacy",
+      "preview": "Concept | Precise exam meaning | What it is not",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Precise exam meaning",
+          "What it is not"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 352.124
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 121.922
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 79,
+      "markdown_body_line_end": 80,
+      "heading": "1. Transparency, disclosure, information sharing, accountability and privacy",
+      "preview": "**UPSC line:** Transparency enables accountability, but only a forum with corrective capacity completes it.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 74.322
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 43.854
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 140,
+      "markdown_body_line_end": 150,
+      "heading": "3. Proactive disclosure, record management, open data and usable information",
+      "preview": "GOOD SECTION 4 CYCLE",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 165,
+      "markdown_body_line_end": 166,
+      "heading": "3. Proactive disclosure, record management, open data and usable information",
+      "preview": "**Trap:** “Uploaded” does not necessarily mean transparent. Unsearchable scanned dumps can be compliance theatre.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 531.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 500.824
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 191,
+      "markdown_body_line_end": 199,
+      "heading": "4. Request route: application, transfer, time limits, fees and assistance",
+      "preview": "Situation | Rule",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Situation",
+          "Rule"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 229.624
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 56.622
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 217,
+      "markdown_body_line_end": 228,
+      "heading": "5. Exemptions, harm, public-interest balancing and the twenty-year rule",
+      "preview": "Exemption family | Protected interest / caution",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Exemption family",
+          "Protected interest / caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 627.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 334.49
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 233,
+      "markdown_body_line_end": 241,
+      "heading": "5. Exemptions, harm, public-interest balancing and the twenty-year rule",
+      "preview": "BALANCING TEST",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 301.09
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 220.09
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 262,
+      "markdown_body_line_end": 268,
+      "heading": "6. Severability and third-party consultation without a disclosure veto",
+      "preview": "100-page inspection report",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 693.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 632.691
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 285,
+      "markdown_body_line_end": 286,
+      "heading": "6. Severability and third-party consultation without a disclosure veto",
+      "preview": "**Trap:** Section 11 creates consultation, not consent. A contractor cannot veto disclosure merely by objecting; equally, the PIO should not ignore legitimate confidential interests.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 449.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 404.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 297,
+      "markdown_body_line_end": 302,
+      "heading": "7. Appeals, burden of proof, remedies, penalties and excluded organisations",
+      "preview": "PIO decision / deemed refusal",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 308.624
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 257.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 325,
+      "markdown_body_line_end": 325,
+      "heading": "7. Appeals, burden of proof, remedies, penalties and excluded organisations",
+      "preview": "**Trap:** “Security organisation” does not mean “no RTI under any circumstances.”",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 739.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 345,
+      "markdown_body_line_end": 350,
+      "heading": "8. Information Commission independence and the RTI Amendment Act, 2019",
+      "preview": "Balanced assessment | Content",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Balanced assessment",
+          "Content"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 548.024
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 382.622
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 356,
+      "markdown_body_line_end": 357,
+      "heading": "8. Information Commission independence and the RTI Amendment Act, 2019",
+      "preview": "**UPSC conclusion:** The 2019 change raises a legitimate institutional-design concern; state it as a risk to insulation, not as a finding of proven misconduct.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 335.022
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 290.354
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 401,
+      "markdown_body_line_end": 406,
+      "heading": "CURRENT: Current DPDP amendment and commencement position",
+      "preview": "PRIVACY–TRANSPARENCY DECISION",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 523.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 472.091
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 442,
+      "markdown_body_line_end": 450,
+      "heading": "Answer architecture",
+      "preview": "DEFINE nearest concepts",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 767.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 686.091
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1608,
+      "markdown_body_line_end": 1610,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Ethics | **Tier:** Optional Advanced Depth | **GS Paper:** GS-IV This companion deepens the corrected Basic owner. It does not replace the Basic statutory route. ✅ = sourced fact | ⚠️ = analysis/inference | 📰 = current anchor.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 335.591
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 276.724
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1623,
+      "markdown_body_line_end": 1632,
+      "heading": "1. Transparency as an information architecture of power",
+      "preview": "VISIBILITY WITHOUT STRUCTURE                 ACCOUNTABLE TRANSPARENCY",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1649,
+      "markdown_body_line_end": 1656,
+      "heading": "2. From proactive disclosure to information stewardship",
+      "preview": "Stewardship failure | Transparency consequence | Institutional response",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Stewardship failure",
+          "Transparency consequence",
+          "Institutional response"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 546.991
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 339.19
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1675,
+      "markdown_body_line_end": 1683,
+      "heading": "3. Exemption reasoning: class, harm, balance and narrowness",
+      "preview": "(1) COVERAGE: Does a Section 8 clause apply?",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1735,
+      "markdown_body_line_end": 1740,
+      "heading": "5. Third-party procedure and multi-party fairness",
+      "preview": "Actor | Legitimate interest",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Actor",
+          "Legitimate interest"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 751.891
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 642.49
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1758,
+      "markdown_body_line_end": 1761,
+      "heading": "6. Enforcement quality and institutional independence",
+      "preview": "reliable records -> trained PIO -> independent first appeal -> accessible Commission",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 482.39
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 451.39
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1802,
+      "markdown_body_line_end": 1809,
+      "heading": "7. Official Secrets Act: conflict of norms and administrative culture",
+      "preview": "SECRECY CULTURE                              RTI CULTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 732.691
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1870,
+      "markdown_body_line_end": 1873,
+      "heading": "Advanced purpose-bound sharing test",
+      "preview": "AUTHORITY -> PURPOSE -> NECESSITY -> DATA QUALITY -> ACCESS -> RETENTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 692.991
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 661.991
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1897,
+      "markdown_body_line_end": 1905,
+      "heading": "Reform matrix",
+      "preview": "Problem | Reform | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Problem",
+          "Reform",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 381.691
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 130.29
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1949,
+      "markdown_body_line_end": 1978,
+      "heading": "ASCII PANEL 1/12 - 1. Information-governance distinction map",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1982,
+      "markdown_body_line_end": 2012,
+      "heading": "ASCII PANEL 2/12 - 2. RTI scope and rights-holder route",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2016,
+      "markdown_body_line_end": 2045,
+      "heading": "ASCII PANEL 3/12 - 3. Section 4 proactive-disclosure engine",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2049,
+      "markdown_body_line_end": 2078,
+      "heading": "ASCII PANEL 4/12 - 4. Sections 6 and 7 request clock",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2082,
+      "markdown_body_line_end": 2111,
+      "heading": "ASCII PANEL 5/12 - 5. Section 8 exemption and balance",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2115,
+      "markdown_body_line_end": 2144,
+      "heading": "ASCII PANEL 6/12 - 6. Severability and third-party procedure",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 183.291
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2148,
+      "markdown_body_line_end": 2178,
+      "heading": "ASCII PANEL 7/12 - 7. Appeal, burden, remedy and penalty",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2182,
+      "markdown_body_line_end": 2211,
+      "heading": "ASCII PANEL 8/12 - 8. Section 24 special boundary",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2215,
+      "markdown_body_line_end": 2244,
+      "heading": "ASCII PANEL 9/12 - 9. RTI Amendment 2019 institutional map",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2248,
+      "markdown_body_line_end": 2278,
+      "heading": "ASCII PANEL 10/12 - 10. OSA and RTI interface",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 474.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 173.291
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2282,
+      "markdown_body_line_end": 2312,
+      "heading": "ASCII PANEL 11/12 - 11. Privacy after Puttaswamy and DPDP",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2316,
+      "markdown_body_line_end": 2346,
+      "heading": "ASCII PANEL 12/12 - 12. Ethical digital information-sharing design",
+      "preview": "CENTRAL FOCUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 163.291
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2350,
+      "markdown_body_line_end": 2363,
+      "heading": "ONE-PAGE CONCEPT GRID",
+      "preview": "Concept / thinker | Exam-ready formulation",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Concept / thinker",
+          "Exam-ready formulation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 103.09
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    }
+  ]
+}

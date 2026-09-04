@@ -1,0 +1,1467 @@
+[
+  {
+    "path": "EXPORT-PDF-STATUS.json",
+    "size": 6899323,
+    "sha256": "66402036b017f32f0fb234a56e984cd6db70e34d707eabf616ddacf79e20da3c"
+  },
+  {
+    "path": "EXPORT-PDF-COMMAND-INDEX.md",
+    "size": 129941,
+    "sha256": "4635b112a304c29912198aee8ca7868a8ea5c542d1b1c3410f3cd1affec994f1"
+  },
+  {
+    "path": "UPSC-PROGRESS-TRACKER.md",
+    "size": 6268,
+    "sha256": "fa82d34edae5ba0b8137f5ce9fc88e423d8d36d4c4b1c55ecbe64145265a2d4d"
+  },
+  {
+    "path": "V2-SUBJECT-SECTION-COMMAND-INDEX.md",
+    "size": 104689,
+    "sha256": "0efdead4df69f8b5762c6d914a0b32cdce99d53e6dde3452bb8210c495c7daa5"
+  },
+  {
+    "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g14\\polity-06_Complete-Learning-Session_2026-08-23.md",
+    "size": 172899,
+    "sha256": "527ab9bb9be70863f2f872535d6cc779f45067fb95a46807427578d0f5231ee7"
+  },
+  {
+    "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g14\\polity-06_Solved-Practice-Workbook_2026-08-23.md",
+    "size": 39544,
+    "sha256": "7627a4b45468012035ca415e67256115a5dbbc9cd0de14165ab80812f4ddee37"
+  },
+  {
+    "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Complete-Learning-Session_2026-08-23.md",
+    "size": 253633,
+    "sha256": "35ad4b4563d9a1eb8d2b5ee66f7176cd2c6f05308b6ccba081262277fc1720c3"
+  },
+  {
+    "path": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g15\\polity-07_Solved-Practice-Workbook_2026-08-23.md",
+    "size": 69610,
+    "sha256": "de188a4c77774929762118f365c1fb79af7fe2bbc9eb89d29c764568a8d0a411"
+  },
+  {
+    "path": "upsc-ai-kit\\knowledge\\Polity\\06_Citizenship_Complete-Topic-Package.md",
+    "size": 91002,
+    "sha256": "b1ffeb37cc7a02741f4adf19003256ec0628479a6d6aced950232ca339812a07"
+  },
+  {
+    "path": "upsc-ai-kit\\knowledge\\Polity\\07_Fundamental-Rights_Complete-Topic-Package.md",
+    "size": 163475,
+    "sha256": "c58afaf55d856a8eef81795df214430c7134abf75f3276703d654b3474741f0e"
+  },
+  {
+    "path": "upsc-ai-kit\\knowledge\\Polity\\basic\\Citizenship.md",
+    "size": 17297,
+    "sha256": "5a63ab5056f7e111634cd5ddfafcc614100797a1dee93c257b3e762a5ec01656"
+  },
+  {
+    "path": "upsc-ai-kit\\knowledge\\Polity\\advanced\\06_Citizenship.md",
+    "size": 7457,
+    "sha256": "c54426b83470c669a1fa4642d7db71d1bd191fc878eccd475a673ad4fd687dbc"
+  },
+  {
+    "path": "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md",
+    "size": 86507,
+    "sha256": "39bc9a74719c3f79b8817cbedd40ae46400d75623f4018c7e7f7cc54ac19e7ed"
+  },
+  {
+    "path": "upsc-ai-kit\\knowledge\\Polity\\advanced\\07_Fundamental-Rights.md",
+    "size": 25269,
+    "sha256": "3a24f3d4ca1caec3d6b1009068381730d4d6de3dddb6e412b0c47ceaf37fafc5"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g3\\master.png",
+    "size": 3531480,
+    "sha256": "fb34f18350c5dddfd33dbf11256805c0b0ca8e374e56a66cbc961927f76b5683"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g3\\poster.pdf",
+    "size": 3931020,
+    "sha256": "624f6ba212bcd6ef30737c5627f7f6d1357581972eb3479c701744902cd83158"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g3\\preservation-hashes-after.json",
+    "size": 621,
+    "sha256": "f4bf85b3e9cddcc6dceab2b3c6e9efa221603ff4060145ae49a2e302c8ea4f88"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g3\\preservation-hashes-before.json",
+    "size": 512,
+    "sha256": "4f280a8eae49f2fd89bfe90e78a99b8fd9fc880e8abd8994f7ae6521a4a942a0"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g3\\previews\\contact-sheet-01.png",
+    "size": 830195,
+    "sha256": "e039db9a48a3acfbd985054fcece8189a8d4063de187564dd12ab93a2b8f704f"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g3\\previews\\contact-sheet-02.png",
+    "size": 741017,
+    "sha256": "e6311b95d79c0423d359adadd189a536d269f20f5022d5bb0920cb8d5a1e2fd8"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g3\\previews\\contact-sheet-03.png",
+    "size": 221445,
+    "sha256": "93df63adb90e79d3969095d8a8fbbbce7c603d3c36d1d0cb72946fd3bcf490fc"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g3\\previews\\page-001.png",
+    "size": 285326,
+    "sha256": "275b8383c8425c7284f4183aaab1d88f846f014c44d5d909135c62036db6c443"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g3\\previews\\page-002.png",
+    "size": 344983,
+    "sha256": "2031516529ec427eff2e9862b9c862c3df6a183f8f4989c888fb6d3c11f9b813"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g3\\previews\\page-003.png",
+    "size": 322303,
+    "sha256": "af820682587cbcec824c10035181ebe2acae3e124a441c186dc37a58cf8cae34"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g3\\previews\\page-004.png",
+    "size": 281146,
+    "sha256": "17aa1f6c78104a52aa728f17bc8b4c6c61e356c89617f7c0256c155eff1daf3a"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g3\\previews\\page-005.png",
+    "size": 344060,
+    "sha256": "e500f26fbadb6395f628e466d6eb6f3fa9b38ff8441581bd078c1139616d98c3"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g3\\previews\\page-006.png",
+    "size": 297329,
+    "sha256": "2dab93184198205beffb7d1a4459e532875372aa428bd8738fc2cf7a71e59ea9"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g3\\previews\\page-007.png",
+    "size": 324639,
+    "sha256": "7b0e00dbdf765b85649c20e9c6b805b5e7c1309e4a1352f98cb97824c47c8ad4"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g3\\previews\\page-008.png",
+    "size": 254176,
+    "sha256": "95a619f7fe64821af34f9f4c9a2a96fd8859c8dfa259f3c2cb80bb36b84e270f"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g3\\previews\\page-009.png",
+    "size": 301052,
+    "sha256": "a536ce683f5abff4d80d1d05a96611b58142108b9e6a5b2e421dddad97a7d288"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g3\\previews\\page-010.png",
+    "size": 255862,
+    "sha256": "07327d82e5cd9fb00b0f18492d28726ab1c7f86ad525786d5bf82d001154437e"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g3\\previews\\page-011.png",
+    "size": 294320,
+    "sha256": "11ee082526660c4a87911aaeb22f203029259f2f22735043b9a2feae257fbf4a"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g3\\previews\\page-012.png",
+    "size": 256306,
+    "sha256": "e608b060e83e4584c29f73df5818a17a002f0d0f0bec9748ee934c8e366b9353"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g3\\previews\\page-013.png",
+    "size": 249723,
+    "sha256": "5258f1c5ec02427dcce315c329158b7ce913ffffe8056aefb6e4c2e3d935e033"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g3\\previews\\page-014.png",
+    "size": 256016,
+    "sha256": "71f4be22f149773a3f786282598ad79be5dd628607686e741dfb5c0461259ee2"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g3\\README.txt",
+    "size": 602,
+    "sha256": "0cdb2859ee83c27e9a7ae7b1a1e55a2c4c640ae84985b60401b387066ab4e3d0"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g3\\tiled.pdf",
+    "size": 4474700,
+    "sha256": "ee2f2ccffce7604532fdf5382f3f0d36a6d17d9316dbddfd14730176ad9bd4fb"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g3\\validation-report.txt",
+    "size": 1782,
+    "sha256": "58a7a817764798bbc9012cfe14389244639fdb1db79af23e4006ab1ce64c1f02"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g4\\master.png",
+    "size": 3008014,
+    "sha256": "704aeff50cd13c8305d5948060c84c936f3b24b1df6c831383cb3d1b062f7541"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g4\\poster.pdf",
+    "size": 3357581,
+    "sha256": "14a6bbc14a4bf210751d81956c15121c00cc80f9f3a05f17cc17ed27a28de682"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g4\\preservation-hashes-after.json",
+    "size": 668,
+    "sha256": "02c6ab9d25fc4d59ed5884ebfe89c609b53364195513213ed7d51c4d0128a55c"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g4\\preservation-hashes-before.json",
+    "size": 559,
+    "sha256": "08f321870486611e7d12bb677c5231bcdb317b27abd886a75073c974bf1eb474"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g4\\previews\\contact-sheet-01.png",
+    "size": 830840,
+    "sha256": "008ea80971b1db93a2d92c4f8b330e595ffc46de0033c4f13b9b0db408cc7333"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g4\\previews\\contact-sheet-02.png",
+    "size": 718446,
+    "sha256": "e84a2c82cbaea4dc1a32686630ef831f23d835db95fbfeef9f69a02e24fc4696"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g4\\previews\\page-001.png",
+    "size": 335598,
+    "sha256": "c9462440a9f1ebdb741936fa3a9d56d6963124daa6e5ce8b3ffe072f018a424d"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g4\\previews\\page-002.png",
+    "size": 284381,
+    "sha256": "321158f76433008f09895419a7e652ca041227b746bec8494c48ae0a509bd481"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g4\\previews\\page-003.png",
+    "size": 317329,
+    "sha256": "3281f1d8be8c3767fc8b4ac390304016fd9e28236d2a01d2758bfbfc2320c63a"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g4\\previews\\page-004.png",
+    "size": 325688,
+    "sha256": "54ba4359fe0c508004f4302e4a089d543139d3b13a80bf6fba54b79e315fedf4"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g4\\previews\\page-005.png",
+    "size": 310889,
+    "sha256": "bc13152cd092aa406ca3cd6e22e877ecbbe396a0358bf2c1d771919fe9e83d0d"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g4\\previews\\page-006.png",
+    "size": 307000,
+    "sha256": "2b6f2b00ebfcec618211b8cd14cca65a1b1d419c0fce967d1af8f2d161a133f0"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g4\\previews\\page-007.png",
+    "size": 259115,
+    "sha256": "7f71649dd17c82f445d37eaf07e501a986b7de8ebcf991bb9f5319d830142384"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g4\\previews\\page-008.png",
+    "size": 257165,
+    "sha256": "d9c51cbf9919fcfd03310f2250ada4bd5d797c2123d689882b2a105740ee5808"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g4\\previews\\page-009.png",
+    "size": 262649,
+    "sha256": "c2fbc3b9cffafa820d6c14e8582504015f8755eeaaa4826d36ae211877d16431"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g4\\previews\\page-010.png",
+    "size": 325099,
+    "sha256": "6327d2dc6b319a1b4e59823dbdb42ebcdb6f5d945e3ac3e1243d9b9b9ff8bd3f"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g4\\previews\\page-011.png",
+    "size": 281178,
+    "sha256": "8170a1bb7c5ca27f472fdba0dc6d54527c8b629e7c2e97c958bf6fa40a34d12f"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g4\\previews\\page-012.png",
+    "size": 255907,
+    "sha256": "f79844fa428fd0aa7558f93ec9924bb44847844b050455ada06282d9c42db266"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g4\\README.txt",
+    "size": 616,
+    "sha256": "b1d47d6fcc1ec044b3bef974a34213f39e77e07a22cd2f1c6eceacf2142f4052"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g4\\tiled.pdf",
+    "size": 3860926,
+    "sha256": "abc0acfa4764451ad45449661f355bc77d55de37320377df7974447c50900914"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g4\\validation-report.txt",
+    "size": 1668,
+    "sha256": "02026525ca5f530132808d55bd26cb1719d8efb626d73d243dd12e675d7dfaa2"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g5\\master.png",
+    "size": 3008014,
+    "sha256": "704aeff50cd13c8305d5948060c84c936f3b24b1df6c831383cb3d1b062f7541"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g5\\poster.pdf",
+    "size": 3357580,
+    "sha256": "a26adc0e5b065d00e7099a5ec3c6127a9b591b20dbebbd6a3d00f94e35a3d382"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g5\\preservation-hashes-after.json",
+    "size": 696,
+    "sha256": "9055343831ba6ef4163b0df14033022b3095f1b583cb832d8b3f28a7c3f366eb"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g5\\preservation-hashes-before.json",
+    "size": 587,
+    "sha256": "eb5d6fc0aea5e47520d253f33bdf05b6ec8623370828eb9f3130021b3e5abb89"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-01.png",
+    "size": 830840,
+    "sha256": "008ea80971b1db93a2d92c4f8b330e595ffc46de0033c4f13b9b0db408cc7333"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-02.png",
+    "size": 718446,
+    "sha256": "e84a2c82cbaea4dc1a32686630ef831f23d835db95fbfeef9f69a02e24fc4696"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g5\\previews\\page-001.png",
+    "size": 335598,
+    "sha256": "c9462440a9f1ebdb741936fa3a9d56d6963124daa6e5ce8b3ffe072f018a424d"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g5\\previews\\page-002.png",
+    "size": 284381,
+    "sha256": "321158f76433008f09895419a7e652ca041227b746bec8494c48ae0a509bd481"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g5\\previews\\page-003.png",
+    "size": 317329,
+    "sha256": "3281f1d8be8c3767fc8b4ac390304016fd9e28236d2a01d2758bfbfc2320c63a"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g5\\previews\\page-004.png",
+    "size": 325688,
+    "sha256": "54ba4359fe0c508004f4302e4a089d543139d3b13a80bf6fba54b79e315fedf4"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g5\\previews\\page-005.png",
+    "size": 310889,
+    "sha256": "bc13152cd092aa406ca3cd6e22e877ecbbe396a0358bf2c1d771919fe9e83d0d"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g5\\previews\\page-006.png",
+    "size": 307000,
+    "sha256": "2b6f2b00ebfcec618211b8cd14cca65a1b1d419c0fce967d1af8f2d161a133f0"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g5\\previews\\page-007.png",
+    "size": 259115,
+    "sha256": "7f71649dd17c82f445d37eaf07e501a986b7de8ebcf991bb9f5319d830142384"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g5\\previews\\page-008.png",
+    "size": 257165,
+    "sha256": "d9c51cbf9919fcfd03310f2250ada4bd5d797c2123d689882b2a105740ee5808"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g5\\previews\\page-009.png",
+    "size": 262649,
+    "sha256": "c2fbc3b9cffafa820d6c14e8582504015f8755eeaaa4826d36ae211877d16431"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g5\\previews\\page-010.png",
+    "size": 325099,
+    "sha256": "6327d2dc6b319a1b4e59823dbdb42ebcdb6f5d945e3ac3e1243d9b9b9ff8bd3f"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g5\\previews\\page-011.png",
+    "size": 281178,
+    "sha256": "8170a1bb7c5ca27f472fdba0dc6d54527c8b629e7c2e97c958bf6fa40a34d12f"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g5\\previews\\page-012.png",
+    "size": 255907,
+    "sha256": "f79844fa428fd0aa7558f93ec9924bb44847844b050455ada06282d9c42db266"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g5\\README.txt",
+    "size": 630,
+    "sha256": "a30e69aa36ef2e1178afec0bd6fb483d98f2d35bc252061355754b676a1ba4a8"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g5\\tiled.pdf",
+    "size": 3860926,
+    "sha256": "abc0acfa4764451ad45449661f355bc77d55de37320377df7974447c50900914"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g5\\validation-report.txt",
+    "size": 1682,
+    "sha256": "4b5eb6a2fa1923dbb081bc6c01ee57cdafd7c685206395ab748b8772960157d4"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g6\\master.png",
+    "size": 2866411,
+    "sha256": "c67bd09e5f4f27688812d91716a9faf3259a9c954fc6ada04c029f7e420d6d45"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g6\\poster.pdf",
+    "size": 3198433,
+    "sha256": "1a1e88738a0b048cb52a9b3372b7997a543784235f264ffc6e5f313ed92694f2"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g6\\preservation-hashes-after.json",
+    "size": 724,
+    "sha256": "368b7cd913a8329caacaace73072f33887d74a212d445f00a9dad6d4947a1e47"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g6\\preservation-hashes-before.json",
+    "size": 615,
+    "sha256": "89ca40fd61ebd3bcd1d243e0e9f29080659e1a449578daa93030583e49722295"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g6\\previews\\contact-sheet-01.png",
+    "size": 830840,
+    "sha256": "008ea80971b1db93a2d92c4f8b330e595ffc46de0033c4f13b9b0db408cc7333"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g6\\previews\\contact-sheet-02.png",
+    "size": 704930,
+    "sha256": "7f58a968bb503f97cb586e46670a757aa0f9a795906eacd7766b654a851f675a"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g6\\previews\\page-001.png",
+    "size": 335598,
+    "sha256": "c9462440a9f1ebdb741936fa3a9d56d6963124daa6e5ce8b3ffe072f018a424d"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g6\\previews\\page-002.png",
+    "size": 284381,
+    "sha256": "321158f76433008f09895419a7e652ca041227b746bec8494c48ae0a509bd481"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g6\\previews\\page-003.png",
+    "size": 317329,
+    "sha256": "3281f1d8be8c3767fc8b4ac390304016fd9e28236d2a01d2758bfbfc2320c63a"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g6\\previews\\page-004.png",
+    "size": 325688,
+    "sha256": "54ba4359fe0c508004f4302e4a089d543139d3b13a80bf6fba54b79e315fedf4"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g6\\previews\\page-005.png",
+    "size": 310889,
+    "sha256": "bc13152cd092aa406ca3cd6e22e877ecbbe396a0358bf2c1d771919fe9e83d0d"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g6\\previews\\page-006.png",
+    "size": 307000,
+    "sha256": "2b6f2b00ebfcec618211b8cd14cca65a1b1d419c0fce967d1af8f2d161a133f0"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g6\\previews\\page-007.png",
+    "size": 259115,
+    "sha256": "7f71649dd17c82f445d37eaf07e501a986b7de8ebcf991bb9f5319d830142384"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g6\\previews\\page-008.png",
+    "size": 257165,
+    "sha256": "d9c51cbf9919fcfd03310f2250ada4bd5d797c2123d689882b2a105740ee5808"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g6\\previews\\page-009.png",
+    "size": 262649,
+    "sha256": "c2fbc3b9cffafa820d6c14e8582504015f8755eeaaa4826d36ae211877d16431"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g6\\previews\\page-010.png",
+    "size": 325099,
+    "sha256": "6327d2dc6b319a1b4e59823dbdb42ebcdb6f5d945e3ac3e1243d9b9b9ff8bd3f"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g6\\previews\\page-011.png",
+    "size": 281178,
+    "sha256": "8170a1bb7c5ca27f472fdba0dc6d54527c8b629e7c2e97c958bf6fa40a34d12f"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g6\\previews\\page-012.png",
+    "size": 228378,
+    "sha256": "d72c3f14db99a71082b4d76a6bd8108b751450974330ed2d3d8054938ba97feb"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g6\\README.txt",
+    "size": 644,
+    "sha256": "15f9455a4672e037ba164f8135c77ffad2359b00a313422c0ebc0ce39338f292"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g6\\tiled.pdf",
+    "size": 3840677,
+    "sha256": "04923a2e6b5cee678f4672922658683797a6335b7371ffb99b427e43fdaf14b9"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g6\\validation-report.txt",
+    "size": 1696,
+    "sha256": "1082047e781aae5140dc9012d5bfe0bd0e0627d7934092fa2183759abc421655"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\master.png",
+    "size": 2866411,
+    "sha256": "c67bd09e5f4f27688812d91716a9faf3259a9c954fc6ada04c029f7e420d6d45"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\poster.pdf",
+    "size": 3198433,
+    "sha256": "ecc804f62c2ce05faa7e06e2027a408221f9872875e4c4f1af0da7b086c1357f"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\preservation-hashes-after.json",
+    "size": 752,
+    "sha256": "42a8d48f1c028458011e5b223fe178b86e526e73dcf8c5cccc39c5552d9e99d3"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\preservation-hashes-before.json",
+    "size": 643,
+    "sha256": "680d0bf864cbc868e5fc4234a1fa6f5c517a5b221ff4555d81c849415fd38e2e"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\previews\\contact-sheet-01.png",
+    "size": 830840,
+    "sha256": "008ea80971b1db93a2d92c4f8b330e595ffc46de0033c4f13b9b0db408cc7333"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\previews\\contact-sheet-02.png",
+    "size": 704930,
+    "sha256": "7f58a968bb503f97cb586e46670a757aa0f9a795906eacd7766b654a851f675a"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\previews\\page-001.png",
+    "size": 335598,
+    "sha256": "c9462440a9f1ebdb741936fa3a9d56d6963124daa6e5ce8b3ffe072f018a424d"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\previews\\page-002.png",
+    "size": 284381,
+    "sha256": "321158f76433008f09895419a7e652ca041227b746bec8494c48ae0a509bd481"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\previews\\page-003.png",
+    "size": 317329,
+    "sha256": "3281f1d8be8c3767fc8b4ac390304016fd9e28236d2a01d2758bfbfc2320c63a"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\previews\\page-004.png",
+    "size": 325688,
+    "sha256": "54ba4359fe0c508004f4302e4a089d543139d3b13a80bf6fba54b79e315fedf4"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\previews\\page-005.png",
+    "size": 310889,
+    "sha256": "bc13152cd092aa406ca3cd6e22e877ecbbe396a0358bf2c1d771919fe9e83d0d"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\previews\\page-006.png",
+    "size": 307000,
+    "sha256": "2b6f2b00ebfcec618211b8cd14cca65a1b1d419c0fce967d1af8f2d161a133f0"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\previews\\page-007.png",
+    "size": 259115,
+    "sha256": "7f71649dd17c82f445d37eaf07e501a986b7de8ebcf991bb9f5319d830142384"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\previews\\page-008.png",
+    "size": 257165,
+    "sha256": "d9c51cbf9919fcfd03310f2250ada4bd5d797c2123d689882b2a105740ee5808"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\previews\\page-009.png",
+    "size": 262649,
+    "sha256": "c2fbc3b9cffafa820d6c14e8582504015f8755eeaaa4826d36ae211877d16431"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\previews\\page-010.png",
+    "size": 325099,
+    "sha256": "6327d2dc6b319a1b4e59823dbdb42ebcdb6f5d945e3ac3e1243d9b9b9ff8bd3f"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\previews\\page-011.png",
+    "size": 281178,
+    "sha256": "8170a1bb7c5ca27f472fdba0dc6d54527c8b629e7c2e97c958bf6fa40a34d12f"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\previews\\page-012.png",
+    "size": 228378,
+    "sha256": "d72c3f14db99a71082b4d76a6bd8108b751450974330ed2d3d8054938ba97feb"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\README.txt",
+    "size": 658,
+    "sha256": "7b986954ed5feb93179073195fd9e6b638b991b50a9daf914b54f7b6f8195efa"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\tiled.pdf",
+    "size": 3840677,
+    "sha256": "04923a2e6b5cee678f4672922658683797a6335b7371ffb99b427e43fdaf14b9"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\continuous-at-a-glance-core-first-g7\\validation-report.txt",
+    "size": 1710,
+    "sha256": "d88be388d528b43ddba363916a843b13de2089af0f0cb6c316f149869ebe2400"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21.pdf",
+    "size": 112677,
+    "sha256": "e4219f3000dba2c956ed981c3eac6ff8b25b5110812003b698f480cfccdac560"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_contact-sheet.png",
+    "size": 660973,
+    "sha256": "3e3915262d8acbe2672e869fe7aa3ac28d9f1d3e05826e1ad2c158d23336879e"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_p01.png",
+    "size": 105635,
+    "sha256": "94ee831e0a6f8ba8bfd83d81a1a9e2e94b7c8c1655e0a464c82bd1e05265ea61"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_p02.png",
+    "size": 125986,
+    "sha256": "9cd828aabee14caac5a12482eb3d62b80d61bba9bb884747ae357cda37343d7c"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_p03.png",
+    "size": 125112,
+    "sha256": "1d3f63b6eac0f3fb6fd6028cec9e6bb36110a29e57afe7e88d0eb930289c46fb"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_p04.png",
+    "size": 145714,
+    "sha256": "632983a98116cab0d031d838a7e3fb7d5cb472f67e3737d83f118d0b3b58bf56"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_p05.png",
+    "size": 121910,
+    "sha256": "61be816afcd041e9201fc951f0908e35671d55ea1c8efda52373415450b69cf1"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_p06.png",
+    "size": 125149,
+    "sha256": "87f1ed292ed43c123fe3a6f2a2bf0890697b5bde8c3821edfe48fe41c6582242"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_p07.png",
+    "size": 135601,
+    "sha256": "8a18e052457119189c98d046a2dc9b0b4a9d23f5d68ef7f83bcb284c946694d5"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_p08.png",
+    "size": 126348,
+    "sha256": "87331ea87f65804ad7ca7be9f3663c407f7f376cc78f82652a68ae4f1f4dffb9"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_p09.png",
+    "size": 135506,
+    "sha256": "f081dbbe8fd7e0243764ff332f7d2d9a9d125d6485684b0bb9fac476f0568d81"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_p10.png",
+    "size": 128535,
+    "sha256": "8b2a5dae6acafb6d526f2716c3356ca0b5be6f41e59335e61b3b8a13183dfddf"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_p11.png",
+    "size": 103233,
+    "sha256": "9f0f26e63b0c7be355a15e561bad89d3ef5f0f8075e6d558e5c6d3a836b941bf"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_p12.png",
+    "size": 138074,
+    "sha256": "ab1ddce3362e13ef9b3409aa75ead0bba1572fb903218cd0b461c335405427b7"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g3\\master.png",
+    "size": 4580539,
+    "sha256": "6b6f23c232b19d6d275245f18e29b5a16d7f6e36cfd1178a26842a5702994565"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g3\\poster.pdf",
+    "size": 5072758,
+    "sha256": "0ea43b780b0f0a890502feab44aa8d0456e44d8840f9136915fffe4dc4cadf76"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g3\\preservation-hashes-after.json",
+    "size": 621,
+    "sha256": "45442ebbc166085c66360736751d76218c9fd3006821552d5be44f8121e2553e"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g3\\preservation-hashes-before.json",
+    "size": 512,
+    "sha256": "6b659125c047c57991c39c73688e11608b80de2c24d3b8cea856e6f364937b5e"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g3\\previews\\contact-sheet-01.png",
+    "size": 954264,
+    "sha256": "289f921786672b1167c5bd46fa48bff9bf4ffda9c82854153ea2bc93f171dc93"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g3\\previews\\contact-sheet-02.png",
+    "size": 871275,
+    "sha256": "d114cdaa2c0aebfd858de4636cd95d8694d57cb94a987784e33c67042a67aa0e"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g3\\previews\\contact-sheet-03.png",
+    "size": 595015,
+    "sha256": "cff905d08abe324c0550fdd5c48005cfc1ca878d5948203490895bd9e613e51c"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g3\\previews\\page-001.png",
+    "size": 354375,
+    "sha256": "b04c75bbeef2ca48eb7a439dc19cb3e8e3ae2c784190e17090c822a594311e1c"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g3\\previews\\page-002.png",
+    "size": 367780,
+    "sha256": "e6efe6273678fb3f71816cb5e27fa031cb972743c542c6ca5edbe88a4a8860a4"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g3\\previews\\page-003.png",
+    "size": 371676,
+    "sha256": "3d1bf8f45a798c24e3143f4b0c81477f1a6ce41b479dec666097d42f30caa5ba"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g3\\previews\\page-004.png",
+    "size": 346740,
+    "sha256": "4e69f5b87bb14287da643fec7c0a3f9dd22a18b5e26ee82089eb04154425d9e4"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g3\\previews\\page-005.png",
+    "size": 351578,
+    "sha256": "63783d7bb039e7304f9674c7877725ad6190d7a7669b8cf4d1528db7bddd9eab"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g3\\previews\\page-006.png",
+    "size": 354275,
+    "sha256": "fe628f2ff0896e50be754468c8851f871cb35a42f124f46dcf6106e7c4168818"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g3\\previews\\page-007.png",
+    "size": 341167,
+    "sha256": "ff199261daf54f3d73f10ab57ea46f9c1eea715750db3c16d97b7e02bfa2b5cb"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g3\\previews\\page-008.png",
+    "size": 263749,
+    "sha256": "9252864e7d415883c38a519e0ac32b55dffcc330453676350f37985fb9b7e534"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g3\\previews\\page-009.png",
+    "size": 308869,
+    "sha256": "bbd5b0778f2f319ef13dc7aa34c25e3e99df40c61972f5eb615f49c1207b6975"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g3\\previews\\page-010.png",
+    "size": 315964,
+    "sha256": "56ac5c0833dbf166ef8681781be622f227e8997547d904d2b83c1708379896b1"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g3\\previews\\page-011.png",
+    "size": 357972,
+    "sha256": "1c0b3473be84666e60efc82f8f1d9397c7db3a117cedede4430a53b2dcbd2d03"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g3\\previews\\page-012.png",
+    "size": 380309,
+    "sha256": "ca1095d0f621ae091db9a8fe7b319c34c7a58d9bbc0a26c7a84a4bd18ba8d476"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g3\\previews\\page-013.png",
+    "size": 336565,
+    "sha256": "41d04f10def28bddf44c61a52250ed581105e211f70e6e0142a075c9def3a65d"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g3\\previews\\page-014.png",
+    "size": 328308,
+    "sha256": "2000efb5f0c06d0816eef56fd622bb1d64f0ac0596af76fa0ddf905f0c48f2ca"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g3\\previews\\page-015.png",
+    "size": 388228,
+    "sha256": "5ea3a618bf332c4bdcd4a38783d6f0cfc0a4a443645b2354252bccfdabe92505"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g3\\previews\\page-016.png",
+    "size": 294055,
+    "sha256": "9877fb654cb0bb7f6e566390aec9953306ca7da9118664addc3857a62ef74f8e"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g3\\README.txt",
+    "size": 602,
+    "sha256": "9ab35cc34bc9337e3ab59b60227702277976121c111e9d2ac3ac795219ebdecd"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g3\\tiled.pdf",
+    "size": 5900592,
+    "sha256": "cecf4bdbceb571a3ad41fbb41ab44defd174063f97f9721ce979337ae25b5e45"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g3\\validation-report.txt",
+    "size": 1910,
+    "sha256": "85748769473a5e1068df60918a4b2518c81a6199ebb8ec6db0ea27b2c03b92d9"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g4\\master.png",
+    "size": 3830612,
+    "sha256": "38ede7be3e3ce75d0bb297da88dc66142641b3e4d8f18dbc9b8d9e5280efa82c"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g4\\poster.pdf",
+    "size": 4241860,
+    "sha256": "c4a4c427dbda546ef8d5ec26f4f47d4bdaa76e3110fd65910329e1f7fa82c534"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g4\\preservation-hashes-after.json",
+    "size": 668,
+    "sha256": "852b5e3c73be85cda2f2bb85c5408180ae9b1366258b5862e6a9ad99b666a381"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g4\\preservation-hashes-before.json",
+    "size": 559,
+    "sha256": "9bf518a4e6fc25546b448a983d09d465e6a21de4fe1dc8f9b531f132cbde4b48"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g4\\previews\\contact-sheet-01.png",
+    "size": 912717,
+    "sha256": "5af038c20e4d23c94f4763f519e115260860fd7373860a9147b48c574f4b4e42"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g4\\previews\\contact-sheet-02.png",
+    "size": 847628,
+    "sha256": "1fe0b076069b1cdacb7e3b18af4944b007c27c9648e5600cb0401613f327c61e"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g4\\previews\\contact-sheet-03.png",
+    "size": 171666,
+    "sha256": "2fc34a4c9696c317fa584e7f74b27ecf8e82e1d0cc3518574192db207123e194"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g4\\previews\\page-001.png",
+    "size": 347148,
+    "sha256": "76b77f0e8005cc97b273f95fd4a597884bc9001d36b3d711beae526a70e68efd"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g4\\previews\\page-002.png",
+    "size": 337278,
+    "sha256": "26816ee02595b8e9c40c9d427d0ed1b808d59f96fb30a88d1d2d79112179e1ec"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g4\\previews\\page-003.png",
+    "size": 357563,
+    "sha256": "ed8ec4e784b0690fcc5e042735e60ad6fc187dad50dd3f502699daea4cbd6deb"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g4\\previews\\page-004.png",
+    "size": 366919,
+    "sha256": "462abc4151924671cfa457c07f23d877c0ace01f29c6da05227e5bbf1597f003"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g4\\previews\\page-005.png",
+    "size": 369163,
+    "sha256": "2e7ced774e792ba94fc4db071a329fdbcad4350cb6eaf2302990b375825b20c2"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g4\\previews\\page-006.png",
+    "size": 276751,
+    "sha256": "ab241aa7422e12746028ec880890b062c419c8f61214737b05855f7ad2d4845e"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g4\\previews\\page-007.png",
+    "size": 253967,
+    "sha256": "eb64b053ba00d8140d24696fdea3b4aedd20d32a160d22608e73d6d54c55e5e2"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g4\\previews\\page-008.png",
+    "size": 318722,
+    "sha256": "2fccdb83177847f34bd9eec1f484c7a53b38b925382afcc09a69694c2a448436"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g4\\previews\\page-009.png",
+    "size": 339832,
+    "sha256": "506e4cffeb4f2f73ee24ad116c135a6ff725db308b61bc7f1cd6ff35d1902b28"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g4\\previews\\page-010.png",
+    "size": 365339,
+    "sha256": "f2bee1eecd72376aee4460b5ae4963626906f3f617144f8be153aff3a7a4652e"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g4\\previews\\page-011.png",
+    "size": 346183,
+    "sha256": "aae2ea0c3385ce5f5d6bf7586911db0dae8986297e52643139014400db12c183"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g4\\previews\\page-012.png",
+    "size": 287085,
+    "sha256": "4b672089427170f949dfd64caf40575498a5cf22ced490fa674f29a511fd6d62"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g4\\previews\\page-013.png",
+    "size": 368938,
+    "sha256": "58954d2c9bf492000c3d6f44dfbcc8d16c206b21ab28de45b700561092e76356"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g4\\README.txt",
+    "size": 616,
+    "sha256": "5b04c600b6bd9910ff2fe19dc0b9bcd0d62ad50be454c6bb16af4d4a26c3d9b1"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g4\\tiled.pdf",
+    "size": 4725145,
+    "sha256": "b8aad9d07da40319c933096789a85d69819f08c76abab48e20ec354d0e1a6b8c"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g4\\validation-report.txt",
+    "size": 1732,
+    "sha256": "b3f2ad05e29ff4e597af793bd3d9ce43919150ca6caf433f0531c380b970af85"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g5\\master.png",
+    "size": 3916189,
+    "sha256": "d0cb2e4f7a57023b7514ec6ef84b64810ba783bc80f1665127a02e483d922990"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g5\\poster.pdf",
+    "size": 4338242,
+    "sha256": "bfe45bec0e90b53c67e021c6cb04e530f85a9f23459cba84bc6074d4b99e8b40"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g5\\preservation-hashes-after.json",
+    "size": 696,
+    "sha256": "1f248bc890e8a70d6bd383bbc9ea5bbd32a1074deb60022a981992a664bc1d28"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g5\\preservation-hashes-before.json",
+    "size": 587,
+    "sha256": "c947515bf70e2003320175159f1eb2c0b1f3ed115e209d567744ba1c9cc8facc"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-01.png",
+    "size": 912717,
+    "sha256": "5af038c20e4d23c94f4763f519e115260860fd7373860a9147b48c574f4b4e42"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-02.png",
+    "size": 847628,
+    "sha256": "1fe0b076069b1cdacb7e3b18af4944b007c27c9648e5600cb0401613f327c61e"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g5\\previews\\contact-sheet-03.png",
+    "size": 305933,
+    "sha256": "35cb6cc6ede68ee01bdb3328a8f99e671947efaef5afff07b215bfe10e8d0dc7"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g5\\previews\\page-001.png",
+    "size": 347148,
+    "sha256": "76b77f0e8005cc97b273f95fd4a597884bc9001d36b3d711beae526a70e68efd"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g5\\previews\\page-002.png",
+    "size": 337278,
+    "sha256": "26816ee02595b8e9c40c9d427d0ed1b808d59f96fb30a88d1d2d79112179e1ec"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g5\\previews\\page-003.png",
+    "size": 357563,
+    "sha256": "ed8ec4e784b0690fcc5e042735e60ad6fc187dad50dd3f502699daea4cbd6deb"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g5\\previews\\page-004.png",
+    "size": 366919,
+    "sha256": "462abc4151924671cfa457c07f23d877c0ace01f29c6da05227e5bbf1597f003"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g5\\previews\\page-005.png",
+    "size": 369163,
+    "sha256": "2e7ced774e792ba94fc4db071a329fdbcad4350cb6eaf2302990b375825b20c2"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g5\\previews\\page-006.png",
+    "size": 276751,
+    "sha256": "ab241aa7422e12746028ec880890b062c419c8f61214737b05855f7ad2d4845e"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g5\\previews\\page-007.png",
+    "size": 253967,
+    "sha256": "eb64b053ba00d8140d24696fdea3b4aedd20d32a160d22608e73d6d54c55e5e2"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g5\\previews\\page-008.png",
+    "size": 318722,
+    "sha256": "2fccdb83177847f34bd9eec1f484c7a53b38b925382afcc09a69694c2a448436"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g5\\previews\\page-009.png",
+    "size": 339832,
+    "sha256": "506e4cffeb4f2f73ee24ad116c135a6ff725db308b61bc7f1cd6ff35d1902b28"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g5\\previews\\page-010.png",
+    "size": 365339,
+    "sha256": "f2bee1eecd72376aee4460b5ae4963626906f3f617144f8be153aff3a7a4652e"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g5\\previews\\page-011.png",
+    "size": 346183,
+    "sha256": "aae2ea0c3385ce5f5d6bf7586911db0dae8986297e52643139014400db12c183"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g5\\previews\\page-012.png",
+    "size": 287085,
+    "sha256": "4b672089427170f949dfd64caf40575498a5cf22ced490fa674f29a511fd6d62"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g5\\previews\\page-013.png",
+    "size": 391243,
+    "sha256": "6b7c36a12e4ce17f1d6a8145d5b4c2d212929f34b3d5012ec6f0badaba5aaff9"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g5\\previews\\page-014.png",
+    "size": 281539,
+    "sha256": "a75b97936acdf19d741516d3f725f91fd8b8c5d4b43ab5b91daee6734f7ad6d9"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g5\\README.txt",
+    "size": 630,
+    "sha256": "d033e95710f61afc91519c072699726ad4f747b39087db0b8875b411d7a3fdd5"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g5\\tiled.pdf",
+    "size": 5048814,
+    "sha256": "946fec38dd05b7e89b306ed59522795fa9b02164653d974ccb21ba6455f18713"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g5\\validation-report.txt",
+    "size": 1810,
+    "sha256": "ba90850fd437fe9323676b42be4662540289087c4b0a4f0a03ebbf54cb954bef"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g6\\master.png",
+    "size": 3774735,
+    "sha256": "43872b8c536e03d05ccbde8d850f9773b89d8a2f9a98a76853430af9346a02ef"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g6\\poster.pdf",
+    "size": 4178435,
+    "sha256": "d3b3d4c766b995f16b2cd27c5ca8038ca8d7637d1d4c0bee04d2117ed8df0f90"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g6\\preservation-hashes-after.json",
+    "size": 724,
+    "sha256": "1e70cc6e970baa0c565773a35258b21923df1b56d85e2c6d1f1e408b6dc83ae4"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g6\\preservation-hashes-before.json",
+    "size": 615,
+    "sha256": "71b12cc04e196e550e2213064af1b759b207a7ce1e2520cc64cf8c0a2e675dca"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g6\\previews\\contact-sheet-01.png",
+    "size": 912717,
+    "sha256": "5af038c20e4d23c94f4763f519e115260860fd7373860a9147b48c574f4b4e42"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g6\\previews\\contact-sheet-02.png",
+    "size": 847628,
+    "sha256": "1fe0b076069b1cdacb7e3b18af4944b007c27c9648e5600cb0401613f327c61e"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g6\\previews\\contact-sheet-03.png",
+    "size": 142738,
+    "sha256": "a3dd1f61c72177e6112a6890c996a75703df3e7a0e0220533f2f8bc8ae2ce673"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g6\\previews\\page-001.png",
+    "size": 347148,
+    "sha256": "76b77f0e8005cc97b273f95fd4a597884bc9001d36b3d711beae526a70e68efd"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g6\\previews\\page-002.png",
+    "size": 337278,
+    "sha256": "26816ee02595b8e9c40c9d427d0ed1b808d59f96fb30a88d1d2d79112179e1ec"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g6\\previews\\page-003.png",
+    "size": 357563,
+    "sha256": "ed8ec4e784b0690fcc5e042735e60ad6fc187dad50dd3f502699daea4cbd6deb"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g6\\previews\\page-004.png",
+    "size": 366919,
+    "sha256": "462abc4151924671cfa457c07f23d877c0ace01f29c6da05227e5bbf1597f003"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g6\\previews\\page-005.png",
+    "size": 369163,
+    "sha256": "2e7ced774e792ba94fc4db071a329fdbcad4350cb6eaf2302990b375825b20c2"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g6\\previews\\page-006.png",
+    "size": 276751,
+    "sha256": "ab241aa7422e12746028ec880890b062c419c8f61214737b05855f7ad2d4845e"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g6\\previews\\page-007.png",
+    "size": 253967,
+    "sha256": "eb64b053ba00d8140d24696fdea3b4aedd20d32a160d22608e73d6d54c55e5e2"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g6\\previews\\page-008.png",
+    "size": 318722,
+    "sha256": "2fccdb83177847f34bd9eec1f484c7a53b38b925382afcc09a69694c2a448436"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g6\\previews\\page-009.png",
+    "size": 339832,
+    "sha256": "506e4cffeb4f2f73ee24ad116c135a6ff725db308b61bc7f1cd6ff35d1902b28"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g6\\previews\\page-010.png",
+    "size": 365339,
+    "sha256": "f2bee1eecd72376aee4460b5ae4963626906f3f617144f8be153aff3a7a4652e"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g6\\previews\\page-011.png",
+    "size": 346183,
+    "sha256": "aae2ea0c3385ce5f5d6bf7586911db0dae8986297e52643139014400db12c183"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g6\\previews\\page-012.png",
+    "size": 287085,
+    "sha256": "4b672089427170f949dfd64caf40575498a5cf22ced490fa674f29a511fd6d62"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g6\\previews\\page-013.png",
+    "size": 308345,
+    "sha256": "8ff9e9b658f1b2b04020d17b3ee459d8ee8b753dc71ade47e0a4fa0a841c4b2c"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g6\\README.txt",
+    "size": 644,
+    "sha256": "f7169f97e3e767aae71fd127ca6e8229461571eab8cb6364d2b2355bc4c3801b"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g6\\tiled.pdf",
+    "size": 4677339,
+    "sha256": "3077a15659892883d3e5ac0a5771a64ca9887fa7127ad1e9ef537f843c21bf50"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g6\\validation-report.txt",
+    "size": 1760,
+    "sha256": "b13b7b620903046746f57c6ba71cbdc4d568fc191b3fbae292e37e1d43a784db"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g7\\master.png",
+    "size": 3887529,
+    "sha256": "4cb7c752fcab3560f54226504f2f63f5a060cf316a53fa57655db6326da81058"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g7\\poster.pdf",
+    "size": 4304281,
+    "sha256": "d6d3a4d3fd7763dba6d220c9de59cd7bbe7a59469237ecbefc5d6b1248cfb6c3"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g7\\preservation-hashes-after.json",
+    "size": 752,
+    "sha256": "c5e8bb752d6f903740e845f46617e64705932ee6b0e2808569de3df1a4a7ec22"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g7\\preservation-hashes-before.json",
+    "size": 643,
+    "sha256": "b65fd302bbea80527cb234209d32532898210af51ad4b8c460dff147d6b0a5f1"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g7\\previews\\contact-sheet-01.png",
+    "size": 898203,
+    "sha256": "ed8234f38dcb3377ebd15da27fa0f0549aa3fd8432ab0bbf091e07fcf6957c3c"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g7\\previews\\contact-sheet-02.png",
+    "size": 870956,
+    "sha256": "147820d5efeb62c3efdec9e4cb17f5a437db20f64a3c92cfbb67dd0b0645c8c7"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g7\\previews\\contact-sheet-03.png",
+    "size": 287997,
+    "sha256": "8fe93667f1c230f154d5a6970dde2dba8495108376b85b0d531245f9abb78ab0"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g7\\previews\\page-001.png",
+    "size": 347148,
+    "sha256": "76b77f0e8005cc97b273f95fd4a597884bc9001d36b3d711beae526a70e68efd"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g7\\previews\\page-002.png",
+    "size": 355201,
+    "sha256": "5090c02617e3ac97ebc7a605607e563fe344646a3055f3e1d1b2e99f1afdea7c"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g7\\previews\\page-003.png",
+    "size": 359068,
+    "sha256": "5615f58dea6756ec92c9951f71bd5c853325f5237cdf8fad7a75b5e251a3ad4f"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g7\\previews\\page-004.png",
+    "size": 357017,
+    "sha256": "62220218777c7be49749336838b73751d12bec4b4f042cf50565f896bcd1de82"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g7\\previews\\page-005.png",
+    "size": 342731,
+    "sha256": "9e3c40341d0f86e91258cab935c782e665f999fbbab63064e85fe37fffc41804"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g7\\previews\\page-006.png",
+    "size": 262126,
+    "sha256": "10b08177354a8835bae60697b930de9ea9a8f949e16c5060f007213f858204a7"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g7\\previews\\page-007.png",
+    "size": 308808,
+    "sha256": "228e4d51277e26fa326be0da376d4d7246f1a7a8c1abecc2406fd9eece59d4ef"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g7\\previews\\page-008.png",
+    "size": 329091,
+    "sha256": "9fa2ff7a1630d3cc18fb2143bd47c066d73763c9ac03886a4f9c77be1bf09000"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g7\\previews\\page-009.png",
+    "size": 356560,
+    "sha256": "a16c903d30ed6f969bce99617763d1d7b4febf733a0e20c5dc22b31afdd33514"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g7\\previews\\page-010.png",
+    "size": 380684,
+    "sha256": "70d42d155d29db89169bf1c74d9e2cfb775ca1ad959549c64227f8fb175d7891"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g7\\previews\\page-011.png",
+    "size": 336172,
+    "sha256": "65aa7ba69e724da0c312b7b6d255150f693530766f27d15284d7bb77314a370f"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g7\\previews\\page-012.png",
+    "size": 258550,
+    "sha256": "5983ea3084ff166787030d0546ba5fa60295c6e1fa2bab266ef240ae6781b18a"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g7\\previews\\page-013.png",
+    "size": 367787,
+    "sha256": "41f13f21972c3b1e45abec831650459c18fb4d6f5761cdbf822089d005a4ee5e"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g7\\previews\\page-014.png",
+    "size": 261807,
+    "sha256": "721a4fd1cf84929c282a7cce88b35e47092ac42f08e99ae73898515f7c3d34f3"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g7\\README.txt",
+    "size": 658,
+    "sha256": "fa91a5168fa95a2f44f05a5410281af3a44873e43cffd78fa715afb7fa899294"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g7\\tiled.pdf",
+    "size": 5076413,
+    "sha256": "8421dff993003a73005b2d127e4d4fc530f7c82625c22b63aa6a191ec95864c7"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g7\\validation-report.txt",
+    "size": 1838,
+    "sha256": "b69596dd33fc0d763a172249fcda6cc6ea195feee35efdd8d6985f7a673e730b"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\master.png",
+    "size": 3802283,
+    "sha256": "d1d703f23afdff91fe61d54f09db423c10487858144bc903b897aac42fae504d"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\poster.pdf",
+    "size": 4207992,
+    "sha256": "0067a2f4fbaec44cf5af8a51e503cfde20d306f80e464d87141fe05937ece4e4"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\preservation-hashes-after.json",
+    "size": 780,
+    "sha256": "a4c422e59f44facedc9ed5dfd78b6bb665e835bffb0657f4a98e0df141cb9f20"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\preservation-hashes-before.json",
+    "size": 671,
+    "sha256": "8f906ceee4535081d2743d36e67ed1c2853a65f6bddb8e29f4be9e98ebda2944"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\previews\\contact-sheet-01.png",
+    "size": 898203,
+    "sha256": "ed8234f38dcb3377ebd15da27fa0f0549aa3fd8432ab0bbf091e07fcf6957c3c"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\previews\\contact-sheet-02.png",
+    "size": 870956,
+    "sha256": "147820d5efeb62c3efdec9e4cb17f5a437db20f64a3c92cfbb67dd0b0645c8c7"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\previews\\contact-sheet-03.png",
+    "size": 164925,
+    "sha256": "496e43b222dfaf1834d9e5ac02d4ff76ad91021a209f1a36319d50099e385a21"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\previews\\page-001.png",
+    "size": 347148,
+    "sha256": "76b77f0e8005cc97b273f95fd4a597884bc9001d36b3d711beae526a70e68efd"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\previews\\page-002.png",
+    "size": 355201,
+    "sha256": "5090c02617e3ac97ebc7a605607e563fe344646a3055f3e1d1b2e99f1afdea7c"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\previews\\page-003.png",
+    "size": 359068,
+    "sha256": "5615f58dea6756ec92c9951f71bd5c853325f5237cdf8fad7a75b5e251a3ad4f"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\previews\\page-004.png",
+    "size": 357017,
+    "sha256": "62220218777c7be49749336838b73751d12bec4b4f042cf50565f896bcd1de82"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\previews\\page-005.png",
+    "size": 342731,
+    "sha256": "9e3c40341d0f86e91258cab935c782e665f999fbbab63064e85fe37fffc41804"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\previews\\page-006.png",
+    "size": 262126,
+    "sha256": "10b08177354a8835bae60697b930de9ea9a8f949e16c5060f007213f858204a7"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\previews\\page-007.png",
+    "size": 308808,
+    "sha256": "228e4d51277e26fa326be0da376d4d7246f1a7a8c1abecc2406fd9eece59d4ef"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\previews\\page-008.png",
+    "size": 329091,
+    "sha256": "9fa2ff7a1630d3cc18fb2143bd47c066d73763c9ac03886a4f9c77be1bf09000"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\previews\\page-009.png",
+    "size": 356560,
+    "sha256": "a16c903d30ed6f969bce99617763d1d7b4febf733a0e20c5dc22b31afdd33514"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\previews\\page-010.png",
+    "size": 380684,
+    "sha256": "70d42d155d29db89169bf1c74d9e2cfb775ca1ad959549c64227f8fb175d7891"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\previews\\page-011.png",
+    "size": 336172,
+    "sha256": "65aa7ba69e724da0c312b7b6d255150f693530766f27d15284d7bb77314a370f"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\previews\\page-012.png",
+    "size": 258550,
+    "sha256": "5983ea3084ff166787030d0546ba5fa60295c6e1fa2bab266ef240ae6781b18a"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\previews\\page-013.png",
+    "size": 350832,
+    "sha256": "dceaabbf116ae575441e4fc866d324d39bd4f753830f1e14c8e76c611ed7f086"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\README.txt",
+    "size": 672,
+    "sha256": "459e60b4dbdab6a385bfdff2bf64462012552f9d8631567b5034f50634aa0971"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\tiled.pdf",
+    "size": 4758117,
+    "sha256": "28eaf2beecb94831c83a259f471632e171bfe5f60f899482114d2c673727dfc6"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\continuous-at-a-glance-core-first-g8\\validation-report.txt",
+    "size": 1788,
+    "sha256": "8b44a21d80b9392ab8a1cb70634d97d7e2f9adfbf51e729d3b0d90d97621ad3a"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\polity-07_Complete-MultiPage-Flowchart_2026-08-21.pdf",
+    "size": 109691,
+    "sha256": "bf7755195cb959ae1166159963b48cd67dbc5622eb3e23e31f9adecab0583e81"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\polity-07_Complete-MultiPage-Flowchart_2026-08-21_contact-01.png",
+    "size": 1361140,
+    "sha256": "56597da2cb5cf2eff485bd858d32ede272ec54945a999b89cd90a54470ae62f1"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\polity-07_Complete-MultiPage-Flowchart_2026-08-21_contact-02.png",
+    "size": 1168352,
+    "sha256": "4b9d60f9522f4850355a4fd3d0163fe45f6e3c10fe50944defdb076355d5dea8"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\polity-07_Complete-MultiPage-Flowchart_2026-08-21_contact-03.png",
+    "size": 675224,
+    "sha256": "35d636603d624fa8d9a697f7f268f9caad234a8891cf227873050946ac78250c"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\polity-07_Complete-MultiPage-Flowchart_2026-08-21_p01.png",
+    "size": 181108,
+    "sha256": "d53294619497e662d456d56ecc5bd21a6fb7cf0b7806657d13f1fac5a85bee1d"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\polity-07_Complete-MultiPage-Flowchart_2026-08-21_p02.png",
+    "size": 143347,
+    "sha256": "e83f475d06687cb6fef135b426c1905d173dfa4a503a6ce4bac117ff41af96f9"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\polity-07_Complete-MultiPage-Flowchart_2026-08-21_p03.png",
+    "size": 178512,
+    "sha256": "0afd30edbc84b7ddc60403755d2a5e36f542226bb8fd610e58f31c7903324cb8"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\polity-07_Complete-MultiPage-Flowchart_2026-08-21_p04.png",
+    "size": 149354,
+    "sha256": "ec715ef912757b6a511a2bced86647efa1797cf266f4748043ba642c355b3180"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\polity-07_Complete-MultiPage-Flowchart_2026-08-21_p05.png",
+    "size": 158094,
+    "sha256": "5088783451d411202cf35df1d8d2259c0bdf66f9612c43fdb6fa2ad84ca1887b"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\polity-07_Complete-MultiPage-Flowchart_2026-08-21_p06.png",
+    "size": 133398,
+    "sha256": "4ec6943ef44e5560855c71f7dea6917263f8956718812f64b54a3bec2ea4469d"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\polity-07_Complete-MultiPage-Flowchart_2026-08-21_p07.png",
+    "size": 151608,
+    "sha256": "020727b2118281febfb3d432f57a26d8c59c6b250454922190f4afeb5a2b1d74"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\polity-07_Complete-MultiPage-Flowchart_2026-08-21_p08.png",
+    "size": 147055,
+    "sha256": "faec9c23e7e73156081c3abac066d1d0b0f4e67a6ae8233836de122d6b61456b"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\polity-07_Complete-MultiPage-Flowchart_2026-08-21_p09.png",
+    "size": 149798,
+    "sha256": "2beac16496a6f37646b9ac6363c1234cf4e74b3187b5680350e2fdfa9566eeac"
+  },
+  {
+    "path": "notes\\Polity\\flowcharts\\polity-07\\polity-07_Complete-MultiPage-Flowchart_2026-08-21_p10.png",
+    "size": 172334,
+    "sha256": "f654cbde47106275943260b5364ce2abafed0e616fb62d7158279aa7c4e55eef"
+  }
+]

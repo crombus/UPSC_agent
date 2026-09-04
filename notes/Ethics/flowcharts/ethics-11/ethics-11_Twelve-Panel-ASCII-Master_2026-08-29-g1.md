@@ -1,0 +1,399 @@
+# Accountability and Ethical Governance — Twelve-Panel ASCII Master
+
+#### ASCII MASTER FLOW — PANEL 1/12: 1. Complete accountability relationship
+
+```ascii-master
+CENTRAL FOCUS
+1. Complete accountability relationship
+  [1] Identify actor
+        |
+        v
+  [2] Assign responsibility
+        |
+        v
+  [3] Name forum
+        |
+        v
+  [4] State standard
+        |
+        v
+  [5] Provide information
+        |
+        v
+  [6] Demand explanation
+        |
+        v
+  [7] Reach judgment
+        |
+        v
+  [8] Correct, remedy or sanction
+        |
+        v
+VERDICT -> Answerability becomes accountability only when review can produce follow-up.
+ANSWER USE -> Use to define accountability and distinguish responsibility.
+```
+
+#### ASCII MASTER FLOW — PANEL 2/12: 2. Three control layers
+
+```ascii-master
+CENTRAL FOCUS
+2. Three control layers
+  [1] Departmental vigilance
+        |
+        v
+  [2] CVO preventive control
+        |
+        v
+  [3] CVC advice and superintendence
+        |
+        v
+  [4] CBI investigation
+        |
+        v
+  [5] CAG independent audit
+        |
+        v
+  [6] Legislative scrutiny
+        |
+        v
+  [7] Judicial review
+        |
+        v
+  [8] Citizen social control
+        |
+        v
+VERDICT -> Each layer addresses a different failure mode; none is self-sufficient.
+ANSWER USE -> Use to classify institutions before recommending reform.
+```
+
+#### ASCII MASTER FLOW — PANEL 3/12: 3. Responsibility versus accountability
+
+```ascii-master
+CENTRAL FOCUS
+3. Responsibility versus accountability
+  [1] Responsibility assigns duty
+        |
+        v
+  [2] Duty exists before scrutiny
+        |
+        v
+  [3] Role identifies expected action
+        |
+        v
+  [4] Delegation needs clarity
+        |
+        v
+  [5] Accountability demands reasons
+        |
+        v
+  [6] Forum tests a standard
+        |
+        v
+  [7] Judgment fixes failure
+        |
+        v
+  [8] Remedy completes the cycle
+        |
+        v
+VERDICT -> Clear responsibility is necessary but does not alone create accountability.
+ANSWER USE -> Use for a ten-mark distinction answer.
+```
+
+#### ASCII MASTER FLOW — PANEL 4/12: 4. Political and bureaucratic balance
+
+```ascii-master
+CENTRAL FOCUS
+4. Political and bureaucratic balance
+  [1] Electoral mandate
+        |
+        v
+  [2] Ministerial policy choice
+        |
+        v
+  [3] Legislative answerability
+        |
+        v
+  [4] Frank official advice
+        |
+        v
+  [5] Recorded dissent
+        |
+        v
+  [6] Lawful final direction
+        |
+        v
+  [7] Impartial execution
+        |
+        v
+  [8] Review of interference
+        |
+        v
+VERDICT -> Democratic direction and professional neutrality must remain mutually accountable.
+ANSWER USE -> Use for the 2019 politicisation question.
+```
+
+#### ASCII MASTER FLOW — PANEL 5/12: 5. Concurrent and external assurance
+
+```ascii-master
+CENTRAL FOCUS
+5. Concurrent and external assurance
+  [1] Set transaction controls
+        |
+        v
+  [2] Flag exceptions early
+        |
+        v
+  [3] Review during delivery
+        |
+        v
+  [4] Correct current loss
+        |
+        v
+  [5] Preserve audit trail
+        |
+        v
+  [6] CAG tests independently
+        |
+        v
+  [7] Legislature examines findings
+        |
+        v
+  [8] Executive reports follow-up
+        |
+        v
+VERDICT -> Internal real-time assurance complements; it never replaces independent scrutiny.
+ANSWER USE -> Use in public-fund and audit answers.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/12: 6. Social audit cycle
+
+```ascii-master
+CENTRAL FOCUS
+6. Social audit cycle
+  [1] Independent audit unit
+        |
+        v
+  [2] Proactive local records
+        |
+        v
+  [3] Worker verification
+        |
+        v
+  [4] Worksite verification
+        |
+        v
+  [5] Protected public hearing
+        |
+        v
+  [6] Reasoned findings
+        |
+        v
+  [7] Action-taken report
+        |
+        v
+  [8] Recovery and worker remedy
+        |
+        v
+VERDICT -> Disclosure without independent verification and follow-up is not social audit.
+ANSWER USE -> Use for 2021 Q6(a) and MGNREGA cases.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/12: 7. Social capital boundary
+
+```ascii-master
+CENTRAL FOCUS
+7. Social capital boundary
+  [1] Trust lowers participation cost
+        |
+        v
+  [2] Reciprocity sustains testimony
+        |
+        v
+  [3] Bridging links communities
+        |
+        v
+  [4] Collective monitoring improves
+        |
+        v
+  [5] Bonding protects insiders
+        |
+        v
+  [6] Faction can intimidate
+        |
+        v
+  [7] Rights limit social pressure
+        |
+        v
+  [8] Formal remedy remains necessary
+        |
+        v
+VERDICT -> Inclusive social capital helps social control; insular loyalty can defeat it.
+ANSWER USE -> Use for 2023 Q6(b) with a qualification.
+```
+
+#### ASCII MASTER FLOW — PANEL 8/12: 8. Accountable e-governance
+
+```ascii-master
+CENTRAL FOCUS
+8. Accountable e-governance
+  [1] Accessible service channel
+        |
+        v
+  [2] Assisted offline option
+        |
+        v
+  [3] Minimal secure data
+        |
+        v
+  [4] Traceable decision log
+        |
+        v
+  [5] Intelligible reasons
+        |
+        v
+  [6] Human exception review
+        |
+        v
+  [7] Time-bound appeal
+        |
+        v
+  [8] Service correction
+        |
+        v
+VERDICT -> Technology supports accountability only when exclusion can be reviewed and
+             remedied.
+ANSWER USE -> Use for both 2022 Q4 subparts.
+```
+
+#### ASCII MASTER FLOW — PANEL 9/12: 9. Dashboard-to-accountability test
+
+```ascii-master
+CENTRAL FOCUS
+9. Dashboard-to-accountability test
+  [1] Display reliable data
+        |
+        v
+  [2] Identify responsible officer
+        |
+        v
+  [3] Set review threshold
+        |
+        v
+  [4] Investigate anomaly
+        |
+        v
+  [5] Hear affected citizen
+        |
+        v
+  [6] Issue reasoned finding
+        |
+        v
+  [7] Correct record or service
+        |
+        v
+  [8] Learn and redesign
+        |
+        v
+VERDICT -> Visibility is evidence; accountability requires judgment, correction and learning.
+ANSWER USE -> Use to defeat the dashboard-equals-accountability trap.
+```
+
+#### ASCII MASTER FLOW — PANEL 10/12: 10. MGNREGA restoration sequence
+
+```ascii-master
+CENTRAL FOCUS
+10. MGNREGA restoration sequence
+  [1] Secure scheme records
+        |
+        v
+  [2] Match job card and demand
+        |
+        v
+  [3] Match muster and attendance
+        |
+        v
+  [4] Match wage and bank credit
+        |
+        v
+  [5] Match sanction and measurement
+        |
+        v
+  [6] Verify physical asset
+        |
+        v
+  [7] Map approving responsibility
+        |
+        v
+  [8] Restore service and controls
+        |
+        v
+VERDICT -> Reconcile the complete transaction and service chain before fixing responsibility.
+ANSWER USE -> Use as the spine for 2025 Q11.
+```
+
+#### ASCII MASTER FLOW — PANEL 11/12: 11. Corrective consequence ladder
+
+```ascii-master
+CENTRAL FOCUS
+11. Corrective consequence ladder
+  [1] Preserve evidence
+        |
+        v
+  [2] Separate error from misconduct
+        |
+        v
+  [3] Give notice and hearing
+        |
+        v
+  [4] Correct beneficiary harm
+        |
+        v
+  [5] Recover supported loss
+        |
+        v
+  [6] Initiate discipline
+        |
+        v
+  [7] Refer credible offence
+        |
+        v
+  [8] Audit recurrence controls
+        |
+        v
+VERDICT -> Consequence must be evidence-based, proportionate and joined to service remedy.
+ANSWER USE -> Use in honest-error, vigilance and fund-leakage answers.
+```
+
+#### ASCII MASTER FLOW — PANEL 12/12: 12. Mains answer spine
+
+```ascii-master
+CENTRAL FOCUS
+12. Mains answer spine
+  [1] Define actor-forum relationship
+        |
+        v
+  [2] Distinguish responsibility
+        |
+        v
+  [3] Locate control layer
+        |
+        v
+  [4] Name failure mechanism
+        |
+        v
+  [5] Use Indian illustration
+        |
+        v
+  [6] Propose targeted reform
+        |
+        v
+  [7] Add safeguard and limit
+        |
+        v
+  [8] Conclude with remedy
+        |
+        v
+VERDICT -> Mechanism-specific accountability analysis outperforms generic calls for
+             transparency.
+ANSWER USE -> Use as the final checklist for theory and case answers.
+```

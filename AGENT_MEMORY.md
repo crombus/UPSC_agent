@@ -5,7 +5,7 @@
 > Whenever the user says **"save"**, the agent does BOTH: (1) stores a Copilot memory, and
 > (2) appends/updates the rule here so it survives across sessions, machines, and other apps.
 >
-> _Last updated: 2026-08-07_
+> _Last updated: 2026-08-23_
 
 ---
 
@@ -77,6 +77,10 @@ Internal Security · Disaster Management · Current Affairs
 2. Chronological-ordering questions: **strip all years/dates** from option text — use event/conflict
    names only.
 3. Statement-based questions: verify **each statement independently** before marking correct/incorrect.
+- Keep all options comparable in length, specificity, grammar, and detail. Never let the correct
+  answer become identifiable because it is consistently the longest or most elaborated option.
+- Preserve clear, concept-rich teaching and MCQ lines from successful interactive sessions for
+  later notes, workbooks, and topic exports; do not replace them with weaker generic paraphrases.
 - **Anti-bias:** rotate the correct option A→B→C→D; never repeat the same option consecutively.
 - CA MCQs must test **concept + geography + institution + data** — NOT ceremony details
   (signing dates, venues, who represented whom). Concept-level facts = higher UPSC probability.
@@ -88,6 +92,45 @@ Internal Security · Disaster Management · Current Affairs
 - Build data `.py` → `python tools/upsc_exam_pdf.py <data.py> <out.pdf>` → delete the data `.py`.
 - Papers → `exams/papers/..._QP.pdf` · Answer keys → `exams/answer-keys/..._AK.pdf`.
 - **Set matching:** prelims QPs are **Set A only**; `Ans-*` files hold all sets → map Set A → Set A column.
+
+### Interactive topic-specific MCQ test protocol (saved 23 August 2026)
+
+**Trigger:** when the user asks for an `MCQ test`, `MCQ practice`, `test me`, or equivalent and
+specifies one or more topics, execute this protocol by default unless the user requests another
+format.
+
+1. Resolve the complete Core/Basic Markdown owners for every specified topic and build an internal
+   coverage ledger before asking questions. Use OCR PDFs only for deeper evidence and live web
+   sources for current facts; Qdrant remains optional.
+2. Ask **one MCQ at a time**. Do not show the answer before the learner responds.
+3. Rotate topics fairly and rotate correct options strictly **A → B → C → D**, continuing the
+   sequence across the whole test.
+4. Begin with foundation/medium questions, then progress to hard UPSC-style statement,
+   close-option, chronology, matching and conceptual-comparison questions once the foundation is
+   covered.
+5. After each learner response:
+   - state `Correct` or `Incorrect` and give the correct option;
+   - analyse every statement or option independently;
+   - define every relevant technical term and abbreviation;
+   - add the relevant timeline, wider context and at least one concrete example;
+   - explain the exact trap that makes the wrong choice fail;
+   - answer any doubt raised by the learner;
+   - immediately present the next MCQ unless coverage is complete or the learner asks to stop.
+6. Persist the test under
+   `upsc-ai-kit\practice\<topic-set>-MCQ\<YYYY-MM-DD>\` with:
+   - one `README.md` containing method, progress, coverage ledger, results and final audit;
+   - one separate `MCQ-NNN.md` per question containing the question, learner answer, correct answer,
+     result and full explanation;
+   - learner doubts and clarifications appended to the relevant question file.
+7. Avoid accidental duplication. Repeat a concept only for deliberate remediation, using a new
+   angle or harder framing.
+8. Continue until every major objective fact, distinction, exception, timeline and conceptual
+   trap in the specified Core files has been tested. Then run a formal coverage audit and
+   **automatically close the loop**; do not create another question merely to extend the count.
+9. At closure, report total questions, correct/incorrect counts, accuracy, topic-wise performance,
+   strongest areas and priority-revision areas. Record that no further question is pending.
+10. If the user stops early, preserve the exact pending-question state so the same loop can resume
+    later without losing answer rotation, topic rotation or coverage tracking.
 
 ---
 
@@ -125,6 +168,15 @@ Internal Security · Disaster Management · Current Affairs
   - Track completed chapters; always continue from the next pending chapter.
 - Teach **visually first** (≥1 diagram/table/flowchart per subtopic), text second.
 - One subtopic per response; never auto-advance — wait for a navigation command.
+- **Quick-glance tree-chart command (saved 3 September 2026):** `Export Tree Chart: <Subject> —
+  <Topic>` creates a concise, continuous terminal tree for that specific topic and saves it at
+  `quick_galance\<Subject>\<topic-number-or-key>_<Topic-Title>_Tree-Chart.md`. Derive it from the
+  canonical Basic owner, Advanced owner and relevant verified PYQs. Retain the definition,
+  classifications/actors, causal or operating mechanism, major laws/provisions/institutions,
+  response architecture, high-yield distinctions, traps, PYQ answer spine and qualified
+  conclusion. Use branches and arrows with minimal prose, but do not remove exact examinable
+  dates, articles, sections or names. This quick-glance chart is a separate revision artifact and
+  never replaces the complete ASCII Master Flow Diagram or graphical master-flow package.
 - **Verbatim learning-session export (all subjects):** when exporting a completed interactive
   learning session, the notes Markdown and main notes PDF must preserve the teaching **word for
   word and in the original order**, including roadmap, pre-teach checklists, visuals, tables,
@@ -135,6 +187,184 @@ Internal Security · Disaster Management · Current Affairs
   any topic, first create the complete Guided Tutor-style learning session in the approved format,
   even if that topic was not previously taught interactively. Then save the session Markdown and
   render that same session verbatim to the main PDF. Never substitute a condensed topic summary.
+- **Mandatory continuous at-a-glance flowchart standard (saved 22 August 2026, clarified by
+  user):** every topic learning-session PDF request must also produce separate flowchart
+  deliverables matching the design intelligence and validation quality of
+  `notes\Polity\flowcharts\polity-01\continuous-at-a-glance-carvaka-standard-g9`.
+  An ASCII diagram inside the notes PDF is not sufficient. Build a bespoke continuous numbered
+  rail from the complete Basic owner, Advanced owner, PYQ ledgers and cross-owned evidence.
+  Finish the full core before subordinate enrichment; vary each stage's internal grammar
+  (chains, matrices, timelines, comparisons, ladders, replacement diagrams and mechanism bands);
+  include dense keyword pills, traps/limits and unique answer-grabbing lines. Produce a
+  high-resolution master canvas, one-page poster PDF, tiled printable PDF from identical
+  overlapping crops of the same master, previews/contact sheets and a validation report inside
+  a self-contained topic flowchart folder. Validate source completeness, layout diversity,
+  overflow, required terms, same-master identity and reference immutability. Match the g9
+  quality standard, not its topic-specific content or exact stage template. Keep every generated
+  flowchart unapproved until explicit topic-generation approval.
+- **Mandatory dual master-flow rule (saved 22 August 2026, clarified at 21:25 IST):** every
+  `Notes`, complete learning-session and `Export PDF` deliverable must include both:
+  (1) the designed Carvaka-standard graphical package (master PNG, poster, same-master tiled PDF,
+  previews and validation), and (2) a terminal-friendly **ASCII MASTER FLOW DIAGRAM** like
+  `Polity 03 — Salient Features Flow Diagram`. Embed the ASCII version in the reusable Markdown
+  and main notes PDF and save it as a standalone text/Markdown artifact beside the graphical
+  package. Neither output replaces the other.
+- **ASCII master-flow parameters:** derive it from the complete Basic owner, Advanced owner,
+  audited PYQs and cross-owned evidence; use one continuous top-to-bottom flow with topic-specific
+  branches, matrices, timelines, hierarchies and bounded panels. Preserve all examinable data:
+  definitions, classifications, chronology, exact dates/numbers, articles/parts/schedules,
+  amendments/cases, technical terms, philosophers/doctrines, mechanisms, powers, causal links,
+  consequences, objections/replies, comparisons, limits, exceptions, traps and PYQ-tested minor
+  facts. Follow learning order:
+  `central question/start -> conceptual axes -> complete core -> mechanisms/relations ->
+  comparisons/criticism -> consequences -> examiner traps/PYQ anchors -> answer spine ->
+  qualified conclusion`. Keep connected distinctions together and never shorten away precise data
+  for visual neatness. Independently reconcile both master flows against the same coverage ledger
+  and require factual agreement between them.
+- **Manually authored ASCII atlas standard (saved 23 August 2026):** finalized learner-v2
+  packages require a manually authored, topic-specific panel atlas. For the active 40-topic set,
+  the four specs under `upsc-ai-kit\manifests\retrofits\ascii-panel-specs\` are authoritative;
+  preserve panel titles, order and lines exactly, with the approved Notions-of-God ten-panel
+  master as reference. Generic/heuristic panels are development-only and cannot be finalized.
+  Require exact embedded/spec and standalone/spec equality; reject generic central wording,
+  placeholders, ellipses, repeated `KEY TERMS:` scaffolding, session dumps, over-width lines,
+  missing sequence/topology and source-reference integrity failures.
+- **Basic-first, advanced-last learning sequence (saved 20 August 2026):** the main notes PDF must
+  read exactly like the easy-to-understand Guided Tutor learning session, not like dense reference
+  notes. Teach every substantive point from the `basic/` owner first, in its natural subtopic order,
+  using the normal visual -> simple explanation -> example -> exam link -> traps -> recap flow.
+  Do not interleave advanced material into the Basic teaching. Keep the established solved-PYQ,
+  MCQ/remedial and Mains-answer standards unchanged. After the complete Basic session and its exam
+  application, add every substantive point from the `advanced/` owner as a separate final teaching
+  block labelled **OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER**. Advanced content is
+  for enrichment, qualification and higher-level depth; it must not make the core session harder
+  to understand. The consolidated register notes may remain the final structural section, but must
+  preserve the Basic/Optional-Advanced distinction.
+- **Learner-first v2 export foundation (saved 20 August 2026):** v2 is Markdown-first. Assemble the
+  complete learner-facing Markdown once, validate it, and render both the main PDF and any derived
+  workbook from that Markdown with `tools\markdown_learning_pdf.py --variant learner-v2`. Never
+  create the v2 main PDF from a separate compressed data summary. Its canonical H2 sequence is:
+  `BASIC LEARNING SESSION` -> `BASIC MCQS / REMEDIATION` ->
+  `PYQS AND ANSWER PRACTICE` ->
+  `OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER` ->
+  `CONSOLIDATED REGISTER NOTES`. Subtopics use H3 or lower; register notes are the last H2.
+- **Learner-v2 is the approved default workflow (saved 20 August 2026):** use learner-v2 for every
+  new export. This is approval of the workflow and format only. Topic output approval remains
+  isolated to an exact `topic_key + variant + generation`; do not mark an existing pilot or future
+  topic `approved: true` unless the user explicitly approves that specific topic generation.
+- **Learner-v2 internal PDF indexes (saved 20 August 2026):** every learner-v2 notes PDF and every
+  learner-v2 workbook PDF has its own internal contents/index directly after the cover/title/front
+  matter and before teaching or questions. Generate it automatically from the final heading
+  hierarchy with `tools\markdown_learning_pdf.py`; topic authors never maintain page numbers
+  manually. Include meaningful parts/subtopics rather than every tiny utility heading. Page
+  numbers must be accurate after insertion and within the final PDF range; prefer PDF bookmarks
+  mirroring the same hierarchy. The notes index and workbook index are independently appropriate
+  to their own contents.
+- **Permanent subject/section workflow (saved 20 August 2026):** work subject-wise and
+  section-wise. The user supplies a section. Before content generation, reconcile the official
+  syllabus with repository topic owners, enumerate the complete section topic list, and
+  create/update its machine-readable manifest and topic-coverage index. Record planned topics,
+  syllabus mapping, Basic/canonical owner, Advanced owner, cross-topic/thematic sources, verified
+  PYQ sources, current status and expected deliverables. Present this index before starting.
+- **Sequential one-topic execution is the user-facing default:** after the manifest is accepted,
+  present and follow the manifest-ordered topic queue in
+  `V2-SUBJECT-SECTION-COMMAND-INDEX.md`. The recommended command is
+  `Generate learner-v2 topic: <Subject> — <Section name or key> — <Topic display title>`.
+  Run one topic command at a time; do not begin the next topic until the current command has
+  generated, validated and finalised that topic and refreshed the tracker, global coverage,
+  section coverage, notes-PDF and workbook-PDF indexes. A full-section command remains available
+  for explicit batch requests, but it is not the recommended default.
+- **Safe next-ten execution:** use the exact command
+  `Generate next 10 learner-v2 topics: <Subject> — <Section name or key>`. Resolve the
+  catalogue and manifest, select the next 10 planned or incomplete topics in manifest order, and
+  exclude successfully generated and validated topics unless the command explicitly ends with
+  `— Regenerate`. Process strictly one topic at a time. After each topic, validate it, finalise
+  its tracker record, and refresh the global command index plus the section coverage, notes-PDF
+  and workbook-PDF indexes before starting the next topic. Stop immediately on the first failure
+  or ambiguity and do not generate or mark any later topic complete. If fewer than 10 eligible
+  topics remain, process all remaining topics. Every newly generated topic remains
+  `approved: false` until the user explicitly approves that exact topic generation.
+- **Learner-v2 topic command controls:** append `— Regenerate` only when intentionally replacing
+  an existing topic generation, `— Generate index only` when only index reconciliation is wanted,
+  or `— Pause after generation before finalising` when the user wants a review checkpoint before
+  validation/tracker/index finalisation. Keep these suffixes out of ordinary commands unless their
+  stated behaviour is wanted.
+- **Learner-v2 answer-worthiness and anti-padding standard (saved 20 August 2026):** Topic 01's
+  learner-friendly explanatory style is the quality benchmark, but its page count is never a
+  target. Before finalising every new or regenerated topic, visibly classify major content as
+  **CORE PRELIMS**, **CORE MAINS**, **SUPPORTING**, or **OPTIONAL ADVANCED**. Preserve every
+  substantive Basic-owner point and teach it progressively with visuals, examples, traps and
+  answer use. Retain only supporting examples that improve Prelims elimination or Mains argument
+  quality; compress repetition, exhaustive catalogues, duplicated cases, scholar lists and
+  technical minutiae that do not earn marks. Teach substantial Advanced-owner depth separately
+  after all Basic and practice, but make clear that it is enrichment and is unnecessary for a
+  competent core answer. Audit official-syllabus ownership and verified PYQ frequency honestly:
+  do not inflate direct Mains relevance when a topic is mainly contextual or supportive. Length
+  must follow syllabus completeness, ease of learning and answer value—not similarity to another
+  PDF's word or page count.
+- **Single-writer rule for learner-v2 generation (saved 20 August 2026):** do not run two topic
+  generation, regeneration, finalisation or index-refresh commands simultaneously from different
+  terminals against the same repository/worktree. Topic content files may be distinct, but all
+  runs update shared state such as `EXPORT-PDF-STATUS.json`, `EXPORT-PDF-COMMAND-INDEX.md`,
+  `V2-SUBJECT-SECTION-COMMAND-INDEX.md`, global study/command indexes and section indexes. The
+  current tools use staged/atomic replacement for some writes but no repository-wide
+  cross-process lock, so concurrent runs can lose tracker records or overwrite indexes. Process
+  commands sequentially. Parallel research or read-only inspection is safe; parallel generation
+  is allowed only in isolated worktrees/branches with separate output/state files and a controlled
+  merge followed by one final tracker/index refresh in the target worktree.
+- **Section completeness rule:** Markdown is the primary content source, but no single Markdown
+  file proves completeness. Reconcile (1) official syllabus, (2) Basic/canonical owner,
+  (3) relevant cross-topic/thematic Markdown, (4) available verified PYQs, and (5) the Advanced
+  owner last. OCR-searchable local PDFs and live sources supplement this chain; Qdrant remains an
+  optional fallback.
+- **Preferred section-wise v2 paths:** use
+  `upsc-ai-kit\knowledge\<Subject>\learning-sessions\v2\<section-key>\<topic-key>_Learning-Session.md`,
+  `notes\<Subject>\learning-session-v2\<section-key>\notes\<topic-key>_Learning-Session_<date>.pdf`,
+  `notes\<Subject>\learning-session-v2\<section-key>\workbooks\<topic-key>_Solved-Workbook_<date>.pdf`,
+  and three separate indexes under
+  `notes\<Subject>\learning-session-v2\<section-key>\indexes\`: `TOPIC-COVERAGE-INDEX.md`,
+  `NOTES-PDF-INDEX.md`, and `WORKBOOK-PDF-INDEX.md`. Notes and workbooks must never share an
+  external index. These external indexes track coverage and deliverable files; they never replace
+  either PDF's internal contents/index. Existing topic-folder learner-v2 pilots remain valid
+  compatibility paths; do not move, copy, rename or overwrite them or any v1 PDF, asset or
+  Markdown.
+- **Section-generation command guide:** the authoritative user-facing file is
+  `V2-SUBJECT-SECTION-COMMAND-INDEX.md`. Follow it when the user gives section-generation
+  instructions. Its primary command catalogue comes from
+  `upsc-ai-kit\manifests\v2\topic-catalog.json` and must cover every source-ready repository
+  topic, not only topics already present in pilot section manifests. Group commands by the
+  narrowest unambiguous repository syllabus section, keep one exact copy-paste command per topic
+  in source order, and append `— Regenerate` only when a learner-v2 tracker generation already
+  exists. Unresolved entries stay in a clearly separated appendix and do not receive ready
+  commands. The guide may retain registered-pilot detail after the complete catalogue.
+- **On-demand section materialisation:** a catalogue command remains valid when its section has no
+  registered manifest. Resolve the exact catalogue entry, materialise the complete section
+  manifest and its three external indexes from the catalogue, then generate only the requested
+  topic. The user never has to create or edit JSON manually. Regenerate the catalogue and guide
+  deterministically with `python tools\generate_v2_topic_command_catalog.py --guide`.
+- **Section index refresh:** rerun `tools\generate_v2_section_indexes.py` after each topic changes
+  state. The three indexes must classify planned, incomplete, generated/unapproved and approved
+  independently from `EXPORT-PDF-STATUS.json` schema v2, remain deterministic, and never duplicate
+  rows. Use `tools\finalize_v2_topic.py` only as the safe post-topic sequence: validate known
+  outputs -> upsert the supplied tracker identity -> regenerate the global command index ->
+  regenerate that section's indexes. It does not generate content.
+- `learning-sessions\` is the canonical archive name. `Terminal-Learning-Sessions`,
+  `learning-sessions-v2` and `_learning-sessions` are legacy compatibility aliases that indexers
+  may read but new content must not use.
+- **V2 tracker identity and rollback:** each `EXPORT-PDF-STATUS.json` record is independently keyed
+  by `topic_key + variant + generation`, has a stable `record_id`, and records `supersedes`.
+  Approval belongs only to that exact variant/generation; learner-first v2 never inherits a v1
+  approval. V2 provenance must name the Basic owner, optional Advanced owner, assembled Markdown,
+  renderer name/version, generation date and superseded v1 record/topic when one exists. Rollback
+  means deleting only the v2 output folder/Markdown and its v2 tracker records; legacy v1 remains.
+- **Philosophy learner-v2 ordering override (saved 20 August 2026):** the legacy Philosophy
+  five-layer rule remains authoritative for legacy-v1 and must not be rewritten in place. For
+  `learner-v2` only, preserve all five kinds of content but reorder them package-wide: all logical
+  subtopics' `SIMPLE START` + `CORE UPSC` material forms the complete Basic session;
+  `EXAM APPLICATION` + `RAPID REVISION` becomes diagnostic/PYQ/Mains practice; every `ADVANCED`
+  point moves to the final optional teaching block labelled **OPTIONAL ADVANCED DEPTH — NOT
+  REQUIRED FOR A CORE ANSWER**; consolidated register notes remain last. This is an ordering
+  override, never permission to compress, delete or transfer approval from v1.
 - **Export completion and approval tracking:** after creating a complete package, record its main
   PDF, solved workbook and reusable Markdown paths in `EXPORT-PDF-STATUS.json`, then run
   `python tools\generate_export_command_index.py`. A package is generated only when all three
@@ -180,6 +410,23 @@ Internal Security · Disaster Management · Current Affairs
   doctrine, arguments and examples) -> **3. ADVANCED** (objections, replies, comparisons and
   refinements) -> **4. EXAM APPLICATION** (verified PYQs and answer structure) ->
   **5. RAPID REVISION** (traps, concise register notes and MCQs).
+- **Philosophy-only English-first terminology rule:** retain every common all-subject package
+  rule, but in Philosophy Optional notes make the English concept the main expression and place
+  its standard Sanskrit or Pali term immediately afterward in parentheses, using accurate IAST.
+  Write `dependent origination (pratītyasamutpāda)` and `Middle Path (madhyamā pratipad; Pali:
+  majjhimā paṭipadā)`, not an unexplained Indic term followed later by an English gloss. Apply
+  this to headings, prose, tables, diagrams, captions, revision notes, questions and model
+  answers. Exceptions are verbatim syllabus/source quotations and passages specifically analysing
+  the original term; even there, provide an immediate English gloss.
+- **Philosophy-only conceptual-completeness rule:** the printed syllabus terms are the minimum
+  coverage spine, not permission to omit indispensable background doctrines. Before finalising a
+  Philosophy topic, audit the complete school/thinker framework needed to understand the listed
+  doctrines and answer its PYQs. For Buddhism this expressly includes both senses of the
+  **Middle Path (madhyamā pratipad; Pali: majjhimā paṭipadā)**: the practical path between
+  sensual indulgence and self-mortification, concretised in the Noble Eightfold Path
+  (āryāṣṭāṅgamārga), and the doctrinal avoidance of eternalism and annihilationism. A mere passing
+  mention does not count as coverage; explain its structure, function, relation to the Four Noble
+  Truths and dependent origination, and exam relevance.
 - The explicit aliases `Philosophy Notes: <Topic>` and `Export Philosophy PDF: <Topic>` invoke
   the same Philosophy-only layered standard. A separate command is not required when the active
   learning session is already clearly identified as Philosophy.
@@ -214,6 +461,9 @@ Internal Security · Disaster Management · Current Affairs
   Remove only tool noise; do not remove or rewrite taught repetition, feedback or navigation
   content when the user requests a word-for-word export. End with complete consolidated register
   notes covering every subtopic in the learning session, after all teaching and practice material.
+  When no interactive session exists, internally construct that same learner-facing sequence:
+  complete Basic teaching first, answer/practice application unchanged, and optional Advanced depth
+  last. A thematically reorganised reference chapter is not an acceptable substitute.
 - **Separate practice-workbook rule (all subjects):** alongside the main topic PDF, create a
   second detailed PDF containing topic-complete solved PYQs plus MCQ and remedial practice with
   explanations. Include MCQs spanning nearly every subtopic and add original Mains practice
@@ -294,6 +544,32 @@ Internal Security · Disaster Management · Current Affairs
   tables. Select each visual by learning purpose, keep labels legible, add a concise caption,
   validate factual and geographical accuracy, and use externally sourced images only with
   appropriate attribution and licensing.
+- **Continuous at-a-glance flowchart rule (saved 22 August 2026):** every topic flowchart is one
+  continuous logical diagram even when it spills across pages. Each primary node must contain the
+  heading, decisive short context, exact important terms/details, and the consequence or contrast.
+  Never defer an essential qualifier to a later page. For example, state which pramanas
+  (means of valid knowledge) Carvaka accepts/rejects and contrast Nyaya in the same doctrine flow;
+  state the exact civil, military, revenue/political control associated with Pitt's India Act and
+  the Court of Directors' commercial role; state that the 1858 Act ended Company rule and began
+  Crown rule with the replacement institutional structure. Validate by reading only headings,
+  arrows and highlighted keywords: if the full distinction cannot be reconstructed at a glance,
+  regenerate the chart. Extra information is allowed, but the complete high-yield spine must come
+  first and receive the strongest visual emphasis: definitions, accepted/rejected positions, exact
+  functions or powers, mechanisms, dates, consequences, comparisons and UPSC traps. Enrichment
+  must remain visually subordinate and cannot displace or repair a missing core point.
+- **User-approved Cārvāka reference design (approved 22 August 2026):** the flowchart under
+  `notes\Philosophy\flowcharts\philosophy-paper-i-indian-philosophy-01\continuous-at-a-glance-core-first\`
+  is the mandatory visual reference for future learner-v2 topic flowcharts. Preserve its dark
+  high-contrast canvas, continuous cyan stage rail, numbered stages, coloured decisive-keyword
+  pills, highlighted answer-line bands, primary-core dominance, subordinate enrichment and
+  same-master overlapping tiled pages. Every `Generate learner-v2 topic: ...` command now produces
+  four integrated outputs: reusable Markdown, indexed learning PDF, indexed solved workbook, and
+  this continuous core-first flowchart package (master image + large poster + tiled PDF + previews).
+- **Subtopic-closure flow rule (saved 22 August 2026):** immediately after every completed teaching
+  subtopic in the learning-session PDF, insert a compact flow diagram:
+  `heading -> exact key terms -> mechanism/argument -> consequence/contrast -> UPSC trap/answer-use`.
+  It must include the subtopic's answer-grabbing formulation, appear before the next subtopic begins,
+  and cannot be deferred to a consolidated section at the end.
 - **Topic-specific final register-note rule (saved 13 August 2026):** final revision/register
   notes must use topic-specific headings rather than a fixed notes template. Do not force
   `Introduction` or `Origin` sections. Include origin/background only when it is an examinable
@@ -322,6 +598,38 @@ Internal Security · Disaster Management · Current Affairs
 - Validate the final PDF for content coverage, empty pages, clipping, overlap, and unsupported
   glyphs. Delete the temporary `_data.py` module only after successful generation.
 - Save Philosophy PDFs under the correct category folder inside `notes/Philosophy/`.
+
+### Final-learning-package deep content review standard (saved 27 August 2026)
+
+- Review work under `notes\Final-Learning-Packages\` must evaluate all four topic artifacts:
+  the complete learning session, solved workbook, Cārvāka-style graphical flowchart, and ASCII
+  master flowchart. A package cannot pass merely because files exist, open, or render cleanly.
+- The complete learning session must be checked against the official syllabus, complete Basic/Core
+  owners, relevant cross-topic owners, Advanced owners, verified PYQs, and current evidence where
+  useful. It must provide a learner-friendly beginning, explicit goals, complete core teaching,
+  must-remember lines, examinable origin/timelines where relevant, verified evidence units,
+  answer-grabbing lines, UPSC traps, current-affairs integration with source/date/status discipline,
+  and a clearly optional advanced block that is not required for a core answer.
+- The solved workbook must be reviewed for complete verified PYQ coverage, directive fidelity,
+  examiner-grade model answers, named evidence, analysis, qualification, better-answer guidance,
+  and hard MCQs covering the topic and its close-option neighbourhood. If repository PYQ ledgers
+  are incomplete, verify missing questions through official UPSC sources or reliable web evidence;
+  never invent wording, year, marks, or an official key.
+- Review both master-flow representations independently. The graphical flowchart must preserve the
+  complete core spine, readable learning order, decisive evidence, traps, comparisons, PYQ-tested
+  distinctions and visually subordinate advanced enrichment. The ASCII flowchart must preserve the
+  same facts and complete examinable logic with exact terminology, dates, provisions, thinkers,
+  evidence, limits and answer-writing routes. Reconcile factual agreement across the session,
+  workbook, graphical flowchart and ASCII flowchart.
+- Data verification is a hard gate. Record the source, date, status and uncertainty for current,
+  legal, constitutional, historical, geographical, philosophical and quantitative claims. A
+  material factual error, fabricated PYQ/key, unsupported quotation, or contradictory artifact
+  prevents passage regardless of the aggregate score.
+- Knowledge Markdown has already undergone repeated review. During package review, do not edit it
+  automatically. Record any required Markdown repair as a precise suggestion with owner path,
+  affected output, evidence and proposed change; apply it only under a separate repair command.
+- Maintain the review instructions, plan and per-topic tracker in the dedicated folder
+  `notes\Final-Learning-Packages\_deep-content-review\`.
 
 ---
 
@@ -366,3 +674,26 @@ Internal Security · Disaster Management · Current Affairs
   2. **First Secretary Anupama Singh** (India's UN Permanent Mission) called Pakistan a
      **"Frankenstein state"** at the UN (rebutting Pakistan + OIC on J&K).
   The panel did **NOT** question Misri about the First Secretary's UN remark. Do not link them.
+
+---
+
+## 9. Knowledge semantic-completeness review
+
+- **Goal:** no gaps, no missing data, no missing topic and no missing subject.
+- The crash-resumable human tracker is
+  `KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md`; the authoritative machine state is
+  `upsc-ai-kit\manifests\reviews\knowledge-semantic-completeness-status.json`.
+- Review exactly one subject and one topic at a time. Philosophy Optional comes first because it
+  has a confirmed Buddhism coverage gap; remaining subjects follow the authoritative topic
+  catalogue order.
+- Every topic requires four independently built ledgers: literal syllabus, indispensable
+  prerequisites, standard textbook taxonomy and complete PYQ demands.
+- Existing audits, keyword checks, exports and PDF validation are evidence only. A topic passes
+  only after a hostile search for absent doctrines, thinkers, mechanisms, classifications,
+  exceptions, comparisons, criticisms and demand families.
+- Repair the canonical Basic/Core owner first. Regenerate dependent sessions, workbooks,
+  flowcharts and PDFs only after the owner passes.
+- After any status update, regenerate the human tracker with:
+  `python tools\generate_semantic_completeness_tracker.py`.
+- Universal recovery command:
+  `Resume semantic-completeness review from KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md`.
