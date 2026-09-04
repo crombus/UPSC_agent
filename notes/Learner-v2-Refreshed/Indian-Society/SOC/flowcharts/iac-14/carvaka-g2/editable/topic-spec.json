@@ -1,0 +1,1099 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-society-14",
+  "subject": "Indian-Society",
+  "title": "REGIONALISM",
+  "short_route": "FOUR CONCEPTS CARD → TWO INDEPENDENT AXES → DEMAND DECOMPOSITION → DRIVER AND INSTRUMENT → COMPOUNDED CASE → MOVEMENT FORMS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-14\\g2\\indian-society-14_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-society-14-deep-review-2026-09-02-g2.json",
+  "ascii_spec_sha256": "97dd0ced5ac1ef47426c922d0506e40b5356bb5157ff7c0fb3609a83a4e2c30b",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FOUR CONCEPTS CARD",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "FOUR CONCEPTS CARD",
+          "role": "primary"
+        },
+        {
+          "text": "DISTINCT LINGUISTIC, CULTURAL, ECOLOGICAL AND HISTORICAL IDENTITIES",
+          "role": "outcome"
+        },
+        {
+          "text": "POLITICAL ASSERTION OF A REGION'S IDENTITY AND INTEREST",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSERTION WITHIN AN ALREADY-RECOGNISED STATE OR REGION",
+          "role": "institution"
+        },
+        {
+          "text": "UNEQUAL INCOME, INFRASTRUCTURE, HUMAN DEVELOPMENT, FISCAL CAPACITY",
+          "role": "primary"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "REGIONALISM IS POLITICAL, ECONOMIC OR CULTURAL MOBILISATION AROUND TERRITORY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DIVERSITY → distinct linguistic, cultural, ecological and historical identities",
+        "REGIONALISM → political assertion of a region's identity and interest",
+        "SUB-REGIONALISM → assertion within an already-recognised state or region",
+        "DISPARITY → unequal income, infrastructure, human development, fiscal capacity",
+        "MUST REMEMBER: Regionalism is political, economic or cultural mobilisation around territory and perceived interests"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DIVERSITY → distinct linguistic, cultural, ecological and historical identities",
+            "REGIONALISM → political assertion of a region's identity and interest"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SUB-REGIONALISM → assertion within an already-recognised state or region",
+            "DISPARITY → unequal income, infrastructure, human development, fiscal capacity"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Regionalism is political, economic or cultural mobilisation around territory and perceived interests",
+            "it can deepen federal representation and cultural recognition or become exclusionary when joined to unequal development, resource competition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Regionalism is political, economic or cultural mobilisation around territory and perceived interests; it can deepen federal representation and cultural recognition or become exclusionary when joined to unequal development, resource competition and insider-outsider politics.",
+      "source_references": [
+        "The four concepts examiners blur",
+        "Diversity as the base layer",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\14_Regionalism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\14_Regionalism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-14\\g2\\indian-society-14_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "TWO INDEPENDENT AXES",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO INDEPENDENT AXES",
+          "role": "primary"
+        },
+        {
+          "text": "DISTINCT AND PROSPEROUS",
+          "role": "outcome"
+        },
+        {
+          "text": "CULTURAL DIFFERENCE WITHOUT A DEVELOPMENT GAP",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTINCT AND LAGGING",
+          "role": "evidence"
+        },
+        {
+          "text": "CULTURAL DIFFERENCE WITH A DEVELOPMENT GAP",
+          "role": "primary"
+        },
+        {
+          "text": "SIMILAR AND LAGGING",
+          "role": "outcome"
+        },
+        {
+          "text": "A DEVELOPMENT GAP INSIDE A CULTURALLY SIMILAR SPACE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE AXES ARE INDEPENDENT, SO THE DEFINITIONS MUST STAY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DISTINCT AND PROSPEROUS → cultural difference without a development gap",
+        "DISTINCT AND LAGGING → cultural difference with a development gap",
+        "SIMILAR AND LAGGING → a development gap inside a culturally similar space",
+        "CONCLUSION → the axes are independent, so the definitions must stay separate"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DISTINCT AND PROSPEROUS → cultural difference without a development gap",
+          "SIMILAR AND LAGGING → a development gap inside a culturally similar space",
+          "DISTINCT AND PROSPEROUS → cultural difference without a development gap"
+        ],
+        [
+          "DISTINCT AND LAGGING → cultural difference with a development gap",
+          "CONCLUSION → the axes are independent, so the definitions must stay separate",
+          "DISTINCT AND LAGGING → cultural difference with a development gap"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DISTINCT AND PROSPEROUS → cultural difference without a development gap",
+            "DISTINCT AND LAGGING → cultural difference with a development gap"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SIMILAR AND LAGGING → a development gap inside a culturally similar space",
+            "CONCLUSION → the axes are independent, so the definitions must stay separate"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DISTINCT AND PROSPEROUS → cultural difference without a development gap",
+            "DISTINCT AND LAGGING → cultural difference with a development gap"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONCLUSION → the axes are independent, so the definitions must stay separate.",
+      "source_references": [
+        "Disparity and the independence of the two axes",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\14_Regionalism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\14_Regionalism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-14\\g2\\indian-society-14_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "DEMAND DECOMPOSITION",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DEMAND DECOMPOSITION",
+          "role": "primary"
+        },
+        {
+          "text": "PART ONE",
+          "role": "outcome"
+        },
+        {
+          "text": "DEFINE REGIONAL DISPARITY AS AN OUTCOME-BASED DEVELOPMENT GAP",
+          "role": "comparison"
+        },
+        {
+          "text": "PART TWO",
+          "role": "evidence"
+        },
+        {
+          "text": "DISTINGUISH IT FROM DIVERSITY WITH A PAIRED EXAMPLE",
+          "role": "primary"
+        },
+        {
+          "text": "PART THREE",
+          "role": "outcome"
+        },
+        {
+          "text": "ASSESS SERIOUSNESS WITH NAMED INDICATOR FAMILIES",
+          "role": "comparison"
+        },
+        {
+          "text": "FAILURE MODE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PART ONE → define regional disparity as an outcome-based development gap",
+        "PART TWO → distinguish it from diversity with a paired example",
+        "PART THREE → assess seriousness with named indicator families",
+        "FAILURE MODE → one blended paragraph that answers none of the three"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PART ONE → define regional disparity as an outcome-based development gap",
+            "PART TWO → distinguish it from diversity with a paired example"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PART THREE → assess seriousness with named indicator families",
+            "FAILURE MODE → one blended paragraph that answers none of the three"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PART ONE → define regional disparity as an outcome-based development gap",
+            "PART TWO → distinguish it from diversity with a paired example"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FAILURE MODE → one blended paragraph that answers none of the three.",
+      "source_references": [
+        "What the 2024 demand actually asks",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\14_Regionalism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\14_Regionalism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-14\\g2\\indian-society-14_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DRIVER AND INSTRUMENT",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DRIVER AND INSTRUMENT",
+          "role": "primary"
+        },
+        {
+          "text": "SEEKS LINGUISTIC STATUS, CULTURAL AUTONOMY, REPRESENTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "RECOGNITION, NOT A DEVELOPMENT PACKAGE",
+          "role": "caution"
+        },
+        {
+          "text": "SEEKS INFRASTRUCTURE, INVESTMENT, FISCAL TRANSFER",
+          "role": "evidence"
+        },
+        {
+          "text": "REDISTRIBUTION, NOT A SYMBOLIC GESTURE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "IDENTITY-DRIVEN → seeks linguistic status, cultural autonomy, representation",
+        "RESPONSE → recognition, not a development package",
+        "DISPARITY-DRIVEN → seeks infrastructure, investment, fiscal transfer",
+        "RESPONSE → redistribution, not a symbolic gesture"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "IDENTITY-DRIVEN → seeks linguistic status, cultural autonomy, representation",
+          "DISPARITY-DRIVEN → seeks infrastructure, investment, fiscal transfer",
+          "IDENTITY-DRIVEN → seeks linguistic status, cultural autonomy, representation"
+        ],
+        [
+          "RESPONSE → recognition, not a development package",
+          "RESPONSE → redistribution, not a symbolic gesture",
+          "RESPONSE → recognition, not a development package"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "IDENTITY-DRIVEN → seeks linguistic status, cultural autonomy, representation",
+            "RESPONSE → recognition, not a development package"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DISPARITY-DRIVEN → seeks infrastructure, investment, fiscal transfer",
+            "RESPONSE → redistribution, not a symbolic gesture"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "IDENTITY-DRIVEN → seeks linguistic status, cultural autonomy, representation",
+            "RESPONSE → recognition, not a development package"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "IDENTITY-DRIVEN → seeks linguistic status, cultural autonomy, representation.",
+      "source_references": [
+        "Identity-driven and disparity-driven assertion",
+        "Matching the instrument to the diagnosis",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\14_Regionalism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\14_Regionalism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-14\\g2\\indian-society-14_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "COMPOUNDED CASE",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "COMPOUNDED CASE",
+          "role": "primary"
+        },
+        {
+          "text": "DISTINCT SUB-REGIONAL IDENTITY WITHIN AN EXISTING STATE",
+          "role": "institution"
+        },
+        {
+          "text": "PERCEIVED NEGLECT IN INFRASTRUCTURE AND INVESTMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "UNDER-REPRESENTATION IN STATE-LEVEL POLITICAL POWER",
+          "role": "institution"
+        },
+        {
+          "text": "COMPOUNDING IS POSSIBLE, ESCALATION IS NEVER AUTOMATIC",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "INPUT → distinct sub-regional identity within an existing state",
+        "ADDED → perceived neglect in infrastructure and investment",
+        "ADDED → under-representation in state-level political power",
+        "RULE → compounding is possible, escalation is never automatic"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INPUT → distinct sub-regional identity within an existing state",
+            "ADDED → perceived neglect in infrastructure and investment"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ADDED → under-representation in state-level political power",
+            "RULE → compounding is possible, escalation is never automatic"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INPUT → distinct sub-regional identity within an existing state",
+            "ADDED → perceived neglect in infrastructure and investment"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → compounding is possible, escalation is never automatic.",
+      "source_references": [
+        "Compounded sub-regional grievance",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\14_Regionalism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\14_Regionalism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-14\\g2\\indian-society-14_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "MOVEMENT FORMS",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MOVEMENT FORMS",
+          "role": "primary"
+        },
+        {
+          "text": "A NEW UNIT WITHIN THE UNION",
+          "role": "outcome"
+        },
+        {
+          "text": "GREATER SELF-GOVERNANCE INSIDE AN EXISTING UNIT",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATION FROM THE UNION, THE LEAST COMMON INDIAN FORM",
+          "role": "evidence"
+        },
+        {
+          "text": "THE THREE ARE NOT A COMPULSORY ESCALATION LADDER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "STATEHOOD → a new unit within the Union",
+        "AUTONOMY → greater self-governance inside an existing unit",
+        "SECESSION → separation from the Union, the least common Indian form",
+        "PROHIBITION → the three are not a compulsory escalation ladder"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STATEHOOD → a new unit within the Union",
+            "AUTONOMY → greater self-governance inside an existing unit"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SECESSION → separation from the Union, the least common Indian form",
+            "PROHIBITION → the three are not a compulsory escalation ladder"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STATEHOOD → a new unit within the Union",
+            "AUTONOMY → greater self-governance inside an existing unit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PROHIBITION → the three are not a compulsory escalation ladder.",
+      "source_references": [
+        "Movement forms and the accommodation record",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\14_Regionalism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\14_Regionalism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-14\\g2\\indian-society-14_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ACCOMMODATION PRECEDENT",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ACCOMMODATION PRECEDENT",
+          "role": "primary"
+        },
+        {
+          "text": "STATES REORGANISATION ACT, 1956",
+          "role": "institution"
+        },
+        {
+          "text": "RESTRUCTURING SUBSTANTIALLY ALONG LINGUISTIC LINES",
+          "role": "comparison"
+        },
+        {
+          "text": "REGIONALISM ACCOMMODATED THROUGH RECOGNITION, NOT SUPPRESSED",
+          "role": "caution"
+        },
+        {
+          "text": "A PRECEDENT, NOT PROOF THAT REORGANISATION ALWAYS SUCCEEDS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "STATUTE → States Reorganisation Act, 1956",
+        "BASIS → restructuring substantially along linguistic lines",
+        "MEANING → regionalism accommodated through recognition, not suppressed",
+        "LIMIT → a precedent, not proof that reorganisation always succeeds"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "STATUTE → States Reorganisation Act, 1956",
+          "MEANING → regionalism accommodated through recognition, not suppressed",
+          "STATUTE → States Reorganisation Act, 1956"
+        ],
+        [
+          "BASIS → restructuring substantially along linguistic lines",
+          "LIMIT → a precedent, not proof that reorganisation always succeeds",
+          "BASIS → restructuring substantially along linguistic lines"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STATUTE → States Reorganisation Act, 1956",
+            "BASIS → restructuring substantially along linguistic lines"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MEANING → regionalism accommodated through recognition, not suppressed",
+            "LIMIT → a precedent, not proof that reorganisation always succeeds"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STATUTE → States Reorganisation Act, 1956",
+            "BASIS → restructuring substantially along linguistic lines"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → a precedent, not proof that reorganisation always succeeds.",
+      "source_references": [
+        "Linguistic reorganisation as accommodation",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\14_Regionalism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\14_Regionalism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-14\\g2\\indian-society-14_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INDEX CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDEX CARD",
+          "role": "primary"
+        },
+        {
+          "text": "NITI AAYOG SDG INDIA INDEX, COMPOSITE STATE AND UNION",
+          "role": "institution"
+        },
+        {
+          "text": "2023-24 IS THE MOST RECENTLY PUBLISHED AS OF JULY",
+          "role": "comparison"
+        },
+        {
+          "text": "BENCHMARKING OF STATE-WISE DEVELOPMENT OUTCOMES",
+          "role": "institution"
+        },
+        {
+          "text": "AGGREGATION HIDES A LAGGING SUB-REGION INSIDE A WELL-RANKED STATE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "SOURCE → NITI Aayog SDG India Index, composite state and union territory ranking",
+        "EDITION → 2023-24 is the most recently published as of July 2026",
+        "USE → benchmarking of state-wise development outcomes",
+        "LIMIT → aggregation hides a lagging sub-region inside a well-ranked state"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SOURCE → NITI Aayog SDG India Index, composite state and union territory ranking",
+          "USE → benchmarking of state-wise development outcomes",
+          "SOURCE → NITI Aayog SDG India Index, composite state and union territory ranking"
+        ],
+        [
+          "EDITION → 2023-24 is the most recently published as of July 2026",
+          "LIMIT → aggregation hides a lagging sub-region inside a well-ranked state",
+          "EDITION → 2023-24 is the most recently published as of July 2026"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SOURCE → NITI Aayog SDG India Index, composite state and union territory ranking",
+            "EDITION → 2023-24 is the most recently published as of July 2026"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "USE → benchmarking of state-wise development outcomes",
+            "LIMIT → aggregation hides a lagging sub-region inside a well-ranked state"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SOURCE → NITI Aayog SDG India Index, composite state and union territory ranking",
+            "EDITION → 2023-24 is the most recently published as of July 2026"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → aggregation hides a lagging sub-region inside a well-ranked state.",
+      "source_references": [
+        "The index anchor and what it hides",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\14_Regionalism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\14_Regionalism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-14\\g2\\indian-society-14_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SERIOUSNESS ASSESSMENT",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SERIOUSNESS ASSESSMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PER-CAPITA AND HOUSEHOLD OUTCOME GAPS BETWEEN REGIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "CONNECTIVITY, POWER, WATER AND SERVICE AVAILABILITY",
+          "role": "mechanism"
+        },
+        {
+          "text": "HUMAN DEVELOPMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "EDUCATION AND HEALTH ATTAINMENT",
+          "role": "primary"
+        },
+        {
+          "text": "FISCAL CAPACITY",
+          "role": "outcome"
+        },
+        {
+          "text": "THE REGION'S OWN CAPACITY TO FUND ITS CORRECTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "INCOME → per-capita and household outcome gaps between regions",
+        "INFRASTRUCTURE → connectivity, power, water and service availability",
+        "HUMAN DEVELOPMENT → education and health attainment",
+        "FISCAL CAPACITY → the region's own capacity to fund its correction"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INCOME → per-capita and household outcome gaps between regions",
+            "INFRASTRUCTURE → connectivity, power, water and service availability"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HUMAN DEVELOPMENT → education and health attainment",
+            "FISCAL CAPACITY → the region's own capacity to fund its correction"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INCOME → per-capita and household outcome gaps between regions",
+            "INFRASTRUCTURE → connectivity, power, water and service availability"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FISCAL CAPACITY → the region's own capacity to fund its correction.",
+      "source_references": [
+        "Indicator families for a seriousness verdict",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\14_Regionalism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\14_Regionalism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-14\\g2\\indian-society-14_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "COST OF A NEW UNIT",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "COST OF A NEW UNIT",
+          "role": "primary"
+        },
+        {
+          "text": "A RECOGNITION GRIEVANCE IS ANSWERED BY A NEW POLITICAL",
+          "role": "outcome"
+        },
+        {
+          "text": "THE NEW UNIT CONTAINS ITS OWN INTERNAL LAGGING SUB-REGION",
+          "role": "comparison"
+        },
+        {
+          "text": "REORGANISATION RELOCATES RATHER THAN DISSOLVES DISPARITY",
+          "role": "evidence"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "primary"
+        },
+        {
+          "text": "PAIR THE ACCOMMODATION RECORD WITH THIS INTERNAL COST",
+          "role": "outcome"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "REGION IS NOT STATE, REGIONALISM IS NOT AUTOMATICALLY SEPARATISM",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "GAIN → a recognition grievance is answered by a new political boundary",
+        "RISK → the new unit contains its own internal lagging sub-region",
+        "IMPLICATION → reorganisation relocates rather than dissolves disparity",
+        "ANSWER USE → pair the accommodation record with this internal cost",
+        "CLOSE DISTINCTION: Region is not state, regionalism is not automatically separatism, federal autonomy is not"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GAIN → a recognition grievance is answered by a new political boundary",
+            "RISK → the new unit contains its own internal lagging sub-region"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "IMPLICATION → reorganisation relocates rather than dissolves disparity",
+            "ANSWER USE → pair the accommodation record with this internal cost"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Region is not state, regionalism is not automatically separatism, federal autonomy is not sovereignty, sub-state demand",
+            "is not secession, and linguistic reorganisation, inter-state disputes, special provisions and local nativism have distinct constitutional routes."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Region is not state, regionalism is not automatically separatism, federal autonomy is not sovereignty, sub-state demand is not secession, and linguistic reorganisation, inter-state disputes, special provisions and local nativism have distinct constitutional routes.",
+      "source_references": [
+        "The cost of creating a new unit",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\14_Regionalism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\14_Regionalism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-14\\g2\\indian-society-14_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CROSS-OWNER BOUNDARY",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CROSS-OWNER BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "SOCIETY OWNS",
+          "role": "outcome"
+        },
+        {
+          "text": "GRIEVANCE, ASSERTION, MOVEMENT FORM AND ACCOMMODATION",
+          "role": "comparison"
+        },
+        {
+          "text": "GEOGRAPHY OWNS",
+          "role": "evidence"
+        },
+        {
+          "text": "FIVE-YEAR-PLAN AND REGIONAL-DEVELOPMENT POLICY MECHANICS",
+          "role": "primary"
+        },
+        {
+          "text": "POLITY OWNS",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRE-STATE FISCAL TRANSFER AND FEDERAL DOCTRINE",
+          "role": "institution"
+        },
+        {
+          "text": "CROSS-LINK THE INSTRUMENT, DO NOT RE-DERIVE IT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SOCIETY OWNS → grievance, assertion, movement form and accommodation",
+        "GEOGRAPHY OWNS → five-year-plan and regional-development policy mechanics",
+        "POLITY OWNS → Centre-State fiscal transfer and federal doctrine",
+        "RULE → cross-link the instrument, do not re-derive it",
+        "EVIDENCE LIMIT: Use Andhra, Maharashtra-Gujarat, Telangana, Gorkhaland, Bodoland, Northeast autonomy and river/resource disputes with historical"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SOCIETY OWNS → grievance, assertion, movement form and accommodation",
+          "POLITY OWNS → Centre-State fiscal transfer and federal doctrine",
+          "EVIDENCE LIMIT: Use Andhra, Maharashtra-Gujarat, Telangana, Gorkhaland, Bodoland, Northeast autonomy and river/resource disputes with historical specificity"
+        ],
+        [
+          "GEOGRAPHY OWNS → five-year-plan and regional-development policy mechanics",
+          "RULE → cross-link the instrument, do not re-derive it",
+          "distinguish grievance, leadership, mobilisation and outcome, and do not infer separatism from every regional party."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SOCIETY OWNS → grievance, assertion, movement form and accommodation",
+            "GEOGRAPHY OWNS → five-year-plan and regional-development policy mechanics"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POLITY OWNS → Centre-State fiscal transfer and federal doctrine",
+            "RULE → cross-link the instrument, do not re-derive it"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Use Andhra, Maharashtra-Gujarat, Telangana, Gorkhaland, Bodoland, Northeast autonomy and river/resource disputes with historical specificity",
+            "distinguish grievance, leadership, mobilisation and outcome, and do not infer separatism from every regional party."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → cross-link the instrument, do not re-derive it.",
+      "source_references": [
+        "Cross-owner boundaries in a regionalism answer",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\14_Regionalism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\14_Regionalism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-14\\g2\\indian-society-14_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "REGIONALISM ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "REGIONALISM ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE DIVERSITY AND DISPARITY SEPARATELY IN THE FIRST TWO",
+          "role": "outcome"
+        },
+        {
+          "text": "PAIRED EXAMPLE, THEN INDICATOR FAMILIES FOR THE SERIOUSNESS VERDICT",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTITY DRIVER AGAINST DEVELOPMENT DRIVER, THEN COMPOUNDING",
+          "role": "evidence"
+        },
+        {
+          "text": "DIAGNOSIS-MATCHED RESPONSE WITH THE INDEX LIMITATION STATED",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OPEN → define diversity and disparity separately in the first two lines",
+        "BODY → paired example, then indicator families for the seriousness verdict",
+        "TEST → identity driver against development driver, then compounding",
+        "CLOSE → diagnosis-matched response with the index limitation stated"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPEN → define diversity and disparity separately in the first two lines",
+            "BODY → paired example, then indicator families for the seriousness verdict"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEST → identity driver against development driver, then compounding",
+            "CLOSE → diagnosis-matched response with the index limitation stated"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN → define diversity and disparity separately in the first two lines",
+            "BODY → paired example, then indicator families for the seriousness verdict"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BODY → paired example, then indicator families for the seriousness verdict.",
+      "source_references": [
+        "Question ownership and the answer spine",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\14_Regionalism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\14_Regionalism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-14\\g2\\indian-society-14_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "SPECIAL FISCAL PACKAGES AND AREA-BASED DEVELOPMENT SCHEMES",
+          "role": "outcome"
+        },
+        {
+          "text": "TARGETED INFRASTRUCTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "NITI AAYOG SDG INDIA INDEX (CROSS-LINKED MEASUREMENT TOOL)",
+          "role": "evidence"
+        },
+        {
+          "text": "PROVIDES A COMPOSITE",
+          "role": "primary"
+        },
+        {
+          "text": "BOUNDARY CASE 1 — DIVERSITY WITHOUT DISPARITY",
+          "role": "outcome"
+        },
+        {
+          "text": "TWO STATES WITH SHARPLY DIFFERENT",
+          "role": "comparison"
+        },
+        {
+          "text": "BOUNDARY CASE 2 — DISPARITY WITHOUT PRONOUNCED DIVERSITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Special fiscal packages and area-based development schemes: targeted infrastructure",
+            "NITI Aayog SDG India Index (cross-linked measurement tool): provides a composite,",
+            "CAUTION: Boundary case 1 — diversity without disparity: two states with sharply different",
+            "CAUTION: Boundary case 2 — disparity without pronounced diversity: two culturally similar,"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Boundary case 3 — compounded sub-regionalism and index-masking: a sub-region within",
+            "CAUTION: Diagnosis-difficulty trade-off: correctly distinguishing whether a regionalist",
+            "CAUTION: Recognition-redistribution sequencing trade-off: granting recognition (symbolic or",
+            "CAUTION: Escalation-management trade-off: state reorganisation (creating new states) resolves"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Diversity and regional disparity are independent variables — the 2024 PYQ's exact",
+            "CAUTION: Sub-regionalism can combine identity, representation and disparity grievances, but the",
+            "The NITI Aayog SDG India Index's most recently verified edition as of July 2026 is the",
+            "CAUTION: Composite indices can mask sub-state disparity even while providing useful"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

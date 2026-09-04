@@ -1,0 +1,79 @@
+ASCII MASTER FLOW — PANEL 1/12: Maritime-coastal nesting
+MARITIME SECURITY
+|-- HIGH SEAS / SLOCs / OFFSHORE INTERESTS
+|-- EEZ AWARENESS / ENFORCEMENT
+`-- COASTAL SECURITY -> near-shore subset
+RULE -> subset is not synonym
+
+ASCII MASTER FLOW — PANEL 2/12: Maritime-zone ladder
+0-12 nm -> TERRITORIAL SEA
+12-24 nm -> CONTIGUOUS ZONE
+TO 200 nm -> EXCLUSIVE ECONOMIC ZONE
+BEYOND -> HIGH SEAS
+FIX ZONE -> THEN INSTITUTION + LAW
+
+ASCII MASTER FLOW — PANEL 3/12: Threat-to-response matrix
+SEA-BORNE TERROR | INTELLIGENCE + INTERDICTION + SUA
+PIRACY / ROBBERY | ZONE + PIRACY / OTHER LAW
+SMUGGLING / TRAFFICKING | COAST GUARD / CUSTOMS / POLICE
+PORT CYBER / SABOTAGE | PHYSICAL + DIGITAL RESILIENCE
+
+ASCII MASTER FLOW — PANEL 4/12: Institutional layers
+NAVY -> wider defence / sea control / SLOCs
+COAST GUARD -> maritime-zone security / law enforcement / coordination
+MARINE POLICE -> close coastal patrol / State investigation
+RULE -> connected mandates, not one undifferentiated force
+
+ASCII MASTER FLOW — PANEL 5/12: Coordination architecture
+NCSMCS -> APEX POLICY COORDINATION
+JOCs -> MUMBAI / VISAKHAPATNAM / KOCHI / PORT BLAIR
+NC3I / IMAC -> DOMESTIC INFORMATION FUSION
+IFC-IOR -> PARTNER INFORMATION-SHARING LAYER
+
+ASCII MASTER FLOW — PANEL 6/12: Awareness-to-action chain
+DETECT -> IDENTIFY -> FUSE -> DECIDE
+-> INTERCEPT / BOARD UNDER LAWFUL AUTHORITY
+-> INVESTIGATE -> PROSECUTE / RECOVER
+TRAP -> awareness is not interdiction
+
+ASCII MASTER FLOW — PANEL 7/12: Coastal-police capacity audit
+SCHEME SANCTION
+-> STATION / JETTY / BOAT / TRAINING INPUT
+-> STAFFING + MAINTENANCE + SEA-TIME
+-> EXERCISE PERFORMANCE + VERIFIED RESPONSE
+RULE -> never skip from input to outcome
+
+ASCII MASTER FLOW — PANEL 8/12: Fishing-community interface
+SECURITY VALUE -> LOCAL KNOWLEDGE / EARLY WARNING
+LIVELIHOOD NEED -> SAFE ACCESS / COMMUNICATION / DUE PROCESS
+TOOLS -> REGISTRATION / IDENTIFICATION / DISTRESS / REPORTING
+VERDICT -> partnership, not collective suspicion
+
+ASCII MASTER FLOW — PANEL 9/12: Port-resilience map
+WATERSIDE ACCESS + LANDSIDE ACCESS
+CARGO / CUSTOMS + INDUSTRIAL ASSETS
+OPERATIONAL TECHNOLOGY + DATA SYSTEMS
+CONTINUITY -> PREVENT / RESPOND / RECOVER / LEARN
+
+ASCII MASTER FLOW — PANEL 10/12: Maritime-law decision tree
+WHERE? -> TERRITORIAL / EEZ / HIGH SEAS
+WHAT ACT? -> PIRACY / TERROR / OTHER CRIME
+MARITIME ZONES ACT -> zone framework
+SUA ACT -> navigation / fixed-platform unlawful acts
+PIRACY ACT -> piracy-specific trigger
+MUST REMEMBER: Maritime and coastal security uses layered jurisdiction and coordination...
+
+ASCII MASTER FLOW — PANEL 11/12: Reactive-to-resilient timeline
+1977/1978 -> INDIAN COAST GUARD
+2005 -> COASTAL SECURITY SCHEME
+POST-26/11 -> JOCs / NETWORKED AWARENESS EXPANSION
+2022 -> ANTI-MARITIME PIRACY ACT
+NEXT -> anticipatory capacity + recovery
+CLOSE DISTINCTION: Naval defence is not Coast Guard law enforcement, territorial sea is...
+
+ASCII MASTER FLOW — PANEL 12/12: PYQ and end-state rail
+2022 PRELIMS -> UNCLOS ZONE CONCEPT, CROSS-OWNED
+2022 MAINS -> ORGANISATIONAL / TECHNICAL / PROCEDURAL
+2025 MAINS -> SEA TRADE + CHALLENGES + WAY FORWARD
+END -> mandate + awareness + action + community + resilience
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State legal zone, agency mandate, lead-...

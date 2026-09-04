@@ -1,0 +1,1221 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "international-relations-04",
+  "subject": "International-Relations",
+  "title": "INDO-PACIFIC, INDIAN OCEAN AND MARITIME SECURITY",
+  "short_route": "CENTRAL MARITIME QUESTION AND → DOCTRINE LADDER: SAGAR TO → LEGAL-STATUS LADDER IN THE → THREE DISTINCT MECHANISMS, THREE → INDIA'S OWN CAPABILITY INSTRUMENTS → MALDIVES INSTRUMENT PRICED COMPONENT",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g4\\international-relations-04_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\international-relations-04-deep-review-2026-09-03-g4.json",
+  "ascii_spec_sha256": "1be6d50484460ed94a41c0c3c91c40542bb43b56a12515008ab06867c4f01f20",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CENTRAL MARITIME QUESTION AND ITS ROOT DEPENDENCE",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "CENTRAL MARITIME QUESTION AND ITS ROOT DEPENDENCE",
+          "role": "primary"
+        },
+        {
+          "text": "HOW DOES INDIA SECURE A MARITIME SPACE IT DOES",
+          "role": "outcome"
+        },
+        {
+          "text": "ROOT CONDITION",
+          "role": "comparison"
+        },
+        {
+          "text": "MORE THAN HALF OF INDIA'S TRADE TRAVERSES THE STRAIT",
+          "role": "evidence"
+        },
+        {
+          "text": "26/11 TERRORISTS HIJACKED AN INDIAN FISHING VESSEL",
+          "role": "primary"
+        },
+        {
+          "text": "AXIS 1",
+          "role": "outcome"
+        },
+        {
+          "text": "UNCLOS RATIFIED 29 JUNE 1995; BBNJ SIGNED 25 SEPTEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "AXIS 2",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL QUESTION → how does India secure a maritime space it does not control?",
+        "ROOT CONDITION → more than half of India's trade traverses the Strait of Malacca v",
+        "AXIS 1 → RULES: UNCLOS ratified 29 June 1995; BBNJ signed 25 September 2024",
+        "AXIS 2 → AWARENESS: IFC-IOR 2018, Gurugram; IORA; IONS 2008",
+        "AXIS 3 → PARTNERS: island-state vision documents; non-treaty minilaterals"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "CENTRAL QUESTION → how does India secure a maritime space it does not control?",
+            "ROOT CONDITION → more than half of India's trade traverses the Strait of Malacca v formative shock: 26/11 terrorists hijacked an Indian fishing vessel",
+            "AXIS 1 → RULES: UNCLOS ratified 29 June 1995; BBNJ signed 25 September 2024"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AXIS 2 → AWARENESS: IFC-IOR 2018, Gurugram; IORA; IONS 2008",
+            "AXIS 3 → PARTNERS: island-state vision documents; non-treaty minilaterals",
+            "RULE → dependence is the premise; every later instrument answers it"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: The Indo-Pacific and Indian Ocean framework links sea-lane security,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → dependence is the premise; every later instrument answers it.",
+      "source_references": [
+        "Sea-lane dependence and the Malacca chokepoint as the baseline interest",
+        "What this maritime owner holds and how its boundaries are routed",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g2\\international-relations-04_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g3\\international-relations-04_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g4\\international-relations-04_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DOCTRINE LADDER: SAGAR TO MAHASAGAR",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DOCTRINE LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "SAGAR TO MAHASAGAR",
+          "role": "outcome"
+        },
+        {
+          "text": "12 MARCH 2015, MAURITIUS",
+          "role": "comparison"
+        },
+        {
+          "text": "SECURITY AND GROWTH FOR ALL IN THE REGION SECURITY",
+          "role": "evidence"
+        },
+        {
+          "text": "12 MARCH 2025, PORT LOUIS",
+          "role": "primary"
+        },
+        {
+          "text": "MUTUAL AND HOLISTIC ADVANCEMENT FOR",
+          "role": "outcome"
+        },
+        {
+          "text": "SECURITY AND GROWTH ACROSS REGIONS; TRADE FOR DEVELOPMENT; CAPACITY",
+          "role": "comparison"
+        },
+        {
+          "text": "MUTUAL SECURITY; TECHNOLOGY SHARING, CONCESSIONAL LOAN AND GRANTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "12 MARCH 2015, MAURITIUS → SAGAR: Security and Growth for All in the Region security",
+        "12 MARCH 2025, PORT LOUIS → MAHASAGAR: Mutual and Holistic Advancement for",
+        "Security and Growth Across Regions; trade for development; capacity building",
+        "mutual security; technology sharing, concessional loan and grants",
+        "SAME SPEECH → India is moving ahead with the SAGAR Vision"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "12 MARCH 2015, MAURITIUS → SAGAR: Security and Growth for All in the Region security cooperation + economic and developmental partnership",
+            "12 MARCH 2025, PORT LOUIS → MAHASAGAR: Mutual and Holistic Advancement for"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Security and Growth Across Regions; trade for development; capacity building",
+            "mutual security; technology sharing, concessional loan and grants"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "SAME SPEECH → India is moving ahead with the SAGAR Vision",
+            "LIMIT → extension of scope to the Global South; declared vision, not a treaty"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → extension of scope to the Global South; declared vision, not a treaty.",
+      "source_references": [
+        "SAGAR as a declared vision and not a treaty",
+        "MAHASAGAR as extension of scope and not replacement",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g2\\international-relations-04_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g3\\international-relations-04_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g4\\international-relations-04_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "LEGAL-STATUS LADDER IN THE MARITIME ORDER",
+      "structural_type": "process-flow",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LEGAL-STATUS LADDER IN THE MARITIME ORDER",
+          "role": "primary"
+        },
+        {
+          "text": "10 DECEMBER 1982",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA SIGNS THE CONVENTION ON THE LAW OF THE",
+          "role": "comparison"
+        },
+        {
+          "text": "29 JUNE 1995",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA RATIFIES; DOMESTIC ZONES UNDER THE 1976 MARITIME ZONES",
+          "role": "primary"
+        },
+        {
+          "text": "19 JUNE 2023",
+          "role": "outcome"
+        },
+        {
+          "text": "BBNJ ADOPTED",
+          "role": "comparison"
+        },
+        {
+          "text": "20 SEPTEMBER 2023",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "10 DECEMBER 1982 → India signs the Convention on the Law of the Sea",
+        "29 JUNE 1995: India ratifies; domestic zones under the 1976 Maritime Zones Act",
+        "19 JUNE 2023: BBNJ adopted → 20 SEPTEMBER 2023: opened for signature",
+        "25 SEPTEMBER 2024: India signs → 19 SEPTEMBER 2025: 60th ratification lodged",
+        "17 JANUARY 2026: BBNJ enters into force"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DATED OFFICIAL INSTRUMENT",
+          "role": "evidence",
+          "items": [
+            "10 DECEMBER 1982 → India signs the Convention on the Law of the Sea",
+            "29 JUNE 1995: India ratifies; domestic zones under the 1976 Maritime Zones Act",
+            "19 JUNE 2023: BBNJ adopted → 20 SEPTEMBER 2023: opened for signature"
+          ]
+        },
+        {
+          "heading": "EVIDENTIARY LEVEL IT REACHES",
+          "role": "mechanism",
+          "items": [
+            "25 SEPTEMBER 2024: India signs → 19 SEPTEMBER 2025: 60th ratification lodged",
+            "17 JANUARY 2026: BBNJ enters into force",
+            "STATUS → India is a signatory and not a party as of 3 August 2026"
+          ]
+        },
+        {
+          "heading": "STATUS / CLAIM LIMIT",
+          "role": "caution",
+          "items": [
+            "COST → a non-party cannot vote at the Conference of the Parties"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COST → a non-party cannot vote at the Conference of the Parties.",
+      "source_references": [
+        "India's UNCLOS position and its domestic maritime-zones law",
+        "The BBNJ Agreement and the signature-ratification gap",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g2\\international-relations-04_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g3\\international-relations-04_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g4\\international-relations-04_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "THREE DISTINCT MECHANISMS, THREE DISTINCT FUNCTIONS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE DISTINCT MECHANISMS, THREE DISTINCT FUNCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "REGIONAL INTERGOVERNMENTAL ORGANISATION; 23 MEMBERS; 12 DIALOGUE PARTNERS",
+          "role": "outcome"
+        },
+        {
+          "text": "SECRETARIAT AT EBENE, MAURITIUS; INDIA CHAIRS 2025-27 FROM NOVEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "VOLUNTARY NAVAL-COOPERATION SYMPOSIUM, ESTABLISHED 2008",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA ASSUMED THE CHAIR ON 20 FEBRUARY 2026",
+          "role": "primary"
+        },
+        {
+          "text": "INDIAN NAVY INFORMATION-FUSION CENTRE, 2018, GURUGRAM; NOVEMBER 2025",
+          "role": "outcome"
+        },
+        {
+          "text": "25 PARTNER COUNTRIES AND INTERNATIONAL LIAISON OFFICERS FROM 15",
+          "role": "comparison"
+        },
+        {
+          "text": "THREE SEPARATE BODIES, NEVER INTERCHANGEABLE NAMES FOR ONE MECHANISM",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "IORA → regional intergovernmental organisation; 23 members; 12 dialogue partners",
+        "Secretariat at Ebene, Mauritius; India chairs 2025-27 from November 2025",
+        "IONS → voluntary naval-cooperation symposium, established 2008",
+        "India assumed the chair on 20 February 2026",
+        "IFC-IOR → Indian Navy information-fusion centre, 2018, Gurugram; November 2025"
+      ],
+      "matrix": [
+        [
+          "ACTOR / INTEREST",
+          "DECISIVE DISTINCTION",
+          "STATUS TRAP / LIMIT"
+        ],
+        [
+          "IORA → regional intergovernmental organisation; 23 members; 12 dialogue partners",
+          "India assumed the chair on 20 February 2026",
+          "TRAP → three separate bodies, never interchangeable names for one mechanism"
+        ],
+        [
+          "Secretariat at Ebene, Mauritius; India chairs 2025-27 from November 2025",
+          "IFC-IOR → Indian Navy information-fusion centre, 2018, Gurugram; November 2025",
+          "LIMIT → a chairship is agenda-setting and convening power, not control"
+        ],
+        [
+          "IONS → voluntary naval-cooperation symposium, established 2008",
+          "25 partner countries and International Liaison Officers from 15 countries",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "IORA → regional intergovernmental organisation; 23 members; 12 dialogue partners",
+            "Secretariat at Ebene, Mauritius; India chairs 2025-27 from November 2025",
+            "IONS → voluntary naval-cooperation symposium, established 2008"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "India assumed the chair on 20 February 2026",
+            "IFC-IOR → Indian Navy information-fusion centre, 2018, Gurugram; November 2025",
+            "25 partner countries and International Liaison Officers from 15 countries"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → three separate bodies, never interchangeable names for one mechanism",
+            "LIMIT → a chairship is agenda-setting and convening power, not control"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → three separate bodies, never interchangeable names for one mechanism.",
+      "source_references": [
+        "IORA and the difference between a chairship and control",
+        "IONS as a voluntary naval-cooperation symposium",
+        "IFC-IOR as the operational maritime-domain-awareness layer",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g2\\international-relations-04_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g3\\international-relations-04_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g4\\international-relations-04_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "INDIA'S OWN CAPABILITY INSTRUMENTS",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDIA'S OWN CAPABILITY INSTRUMENTS",
+          "role": "primary"
+        },
+        {
+          "text": "FAR EASTERN NAVAL COMMAND",
+          "role": "outcome"
+        },
+        {
+          "text": "PORT BLAIR, CITED AS A REGIONAL ENGAGEMENT INSTRUMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "BIENNIAL NAVAL-FLEET GATHERING RUNNING SINCE 1995",
+          "role": "evidence"
+        },
+        {
+          "text": "MULTILATERAL ANTI-PIRACY COOPERATION INDIA ACTIVELY PARTICIPATES IN",
+          "role": "primary"
+        },
+        {
+          "text": "SAGAR PRAHARI BAL",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIAN NAVY FORCE RAISED IN 2009 FOR BASE AND",
+          "role": "comparison"
+        },
+        {
+          "text": "OPERATIONS ROUTE TO THE INTERNAL SECURITY MARITIME AND COASTAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FAR EASTERN NAVAL COMMAND → Port Blair, cited as a regional engagement instrument",
+        "MILAN → biennial naval-fleet gathering running since 1995",
+        "ReCAAP → multilateral anti-piracy cooperation India actively participates in",
+        "SAGAR PRAHARI BAL → Indian Navy force raised in 2009 for base and vulnerable-point protection",
+        "BOUNDARY → operations route to the Internal Security maritime and coastal owner"
+      ],
+      "matrix": [
+        [
+          "ACTOR / INTEREST",
+          "DECISIVE DISTINCTION",
+          "STATUS TRAP / LIMIT"
+        ],
+        [
+          "FAR EASTERN NAVAL COMMAND → Port Blair, cited as a regional engagement instrument",
+          "ReCAAP → multilateral anti-piracy cooperation India actively participates in",
+          "BOUNDARY → operations route to the Internal Security maritime and coastal owner"
+        ],
+        [
+          "MILAN → biennial naval-fleet gathering running since 1995",
+          "SAGAR PRAHARI BAL → Indian Navy force raised in 2009 for base and vulnerable-point protection",
+          "FAR EASTERN NAVAL COMMAND → Port Blair, cited as a regional engagement instrument"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "FAR EASTERN NAVAL COMMAND → Port Blair, cited as a regional engagement instrument",
+            "MILAN → biennial naval-fleet gathering running since 1995"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "ReCAAP → multilateral anti-piracy cooperation India actively participates in",
+            "SAGAR PRAHARI BAL → Indian Navy force raised in 2009 for base and vulnerable-point protection"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → operations route to the Internal Security maritime and coastal owner",
+            "FAR EASTERN NAVAL COMMAND → Port Blair, cited as a regional engagement instrument"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY → operations route to the Internal Security maritime and coastal owner.",
+      "source_references": [
+        "India's own naval and anti-piracy instruments",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g2\\international-relations-04_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g3\\international-relations-04_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g4\\international-relations-04_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "MALDIVES INSTRUMENT PRICED COMPONENT BY COMPONENT",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MALDIVES INSTRUMENT PRICED COMPONENT BY COMPONENT",
+          "role": "primary"
+        },
+        {
+          "text": "7 OCTOBER 2024",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA-MALDIVES JOINT VISION FOR COMPREHENSIVE ECONOMIC AND",
+          "role": "comparison"
+        },
+        {
+          "text": "MARITIME SECURITY PARTNERSHIP",
+          "role": "evidence"
+        },
+        {
+          "text": "USD 400 MILLION + INR 30 BILLION",
+          "role": "primary"
+        },
+        {
+          "text": "CURRENCY-SWAP ARRANGEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "ARRANGED FACILITY, NOT EVIDENCE OF DRAWDOWN",
+          "role": "caution"
+        },
+        {
+          "text": "25 JULY 2025",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "7 OCTOBER 2024 → India-Maldives Joint Vision for Comprehensive Economic and",
+        "Maritime Security Partnership",
+        "USD 400 MILLION + INR 30 BILLION → currency-swap arrangement",
+        "LEVEL: arranged facility, not evidence of drawdown",
+        "25 JULY 2025 → FTA Terms of Reference signed and negotiations launched"
+      ],
+      "matrix": [
+        [
+          "ACTOR / INTEREST",
+          "DECISIVE DISTINCTION",
+          "STATUS TRAP / LIMIT"
+        ],
+        [
+          "7 OCTOBER 2024 → India-Maldives Joint Vision for Comprehensive Economic and",
+          "LEVEL: arranged facility, not evidence of drawdown",
+          "LEVEL → Terms of Reference launch talks; they do not conclude an agreement"
+        ],
+        [
+          "Maritime Security Partnership",
+          "25 JULY 2025 → FTA Terms of Reference signed and negotiations launched",
+          "READING → India answered political distance with more instruments, not fewer"
+        ],
+        [
+          "USD 400 MILLION + INR 30 BILLION → currency-swap arrangement",
+          "INR 4,850 crore Line of Credit",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "7 OCTOBER 2024 → India-Maldives Joint Vision for Comprehensive Economic and",
+            "Maritime Security Partnership",
+            "USD 400 MILLION + INR 30 BILLION → currency-swap arrangement"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "LEVEL: arranged facility, not evidence of drawdown",
+            "25 JULY 2025 → FTA Terms of Reference signed and negotiations launched",
+            "INR 4,850 crore Line of Credit"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "LEVEL → Terms of Reference launch talks; they do not conclude an agreement",
+            "READING → India answered political distance with more instruments, not fewer"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "READING → India answered political distance with more instruments, not fewer.",
+      "source_references": [
+        "The India-Maldives Joint Vision as the island-state instrument",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g2\\international-relations-04_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g3\\international-relations-04_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g4\\international-relations-04_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "COLOMBO SECURITY CONCLAVE CATEGORY MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COLOMBO SECURITY CONCLAVE CATEGORY MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "STATUS ON 20 NOVEMBER 2025, NEW DELHI, NSA-LEVEL MEETING",
+          "role": "outcome"
+        },
+        {
+          "text": "SRI LANKA",
+          "role": "comparison"
+        },
+        {
+          "text": "9 FEBRUARY 2026",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA WELCOMED SEYCHELLES' DECISION TO BECOME A FULL MEMBER",
+          "role": "primary"
+        },
+        {
+          "text": "NO OFFICIALLY RECORDED EFFECTIVE ACCESSION DATE",
+          "role": "caution"
+        },
+        {
+          "text": "MEMBER, OBSERVER, GUEST AND DECIDED TO JOIN ARE FOUR",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "STATUS ON 20 NOVEMBER 2025, NEW DELHI, NSA-LEVEL MEETING",
+        "Sri Lanka",
+        "9 FEBRUARY 2026 → India welcomed Seychelles' decision to become a full member",
+        "MISSING → no officially recorded effective accession date",
+        "TRAP → member, observer, guest and decided to join are four separate claims"
+      ],
+      "matrix": [
+        [
+          "OBSERVER",
+          "Seychelles"
+        ],
+        [
+          "GUEST",
+          "Malaysia"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "STATUS ON 20 NOVEMBER 2025, NEW DELHI, NSA-LEVEL MEETING",
+            "Sri Lanka"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "9 FEBRUARY 2026 → India welcomed Seychelles' decision to become a full member",
+            "MISSING → no officially recorded effective accession date"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → member, observer, guest and decided to join are four separate claims",
+            "STATUS ON 20 NOVEMBER 2025, NEW DELHI, NSA-LEVEL MEETING"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → member, observer, guest and decided to join are four separate claims.",
+      "source_references": [
+        "Colombo Security Conclave participation categories",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g2\\international-relations-04_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g3\\international-relations-04_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g4\\international-relations-04_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INDO-PACIFIC ARCHITECTURE AND ITS SEVEN PILLARS",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INDO-PACIFIC ARCHITECTURE AND ITS SEVEN PILLARS",
+          "role": "primary"
+        },
+        {
+          "text": "4 NOVEMBER 2019, BANGKOK, 14TH EAST ASIA SUMMIT",
+          "role": "outcome"
+        },
+        {
+          "text": "INDO-PACIFIC OCEANS INITIATIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "MARITIME SECURITY",
+          "role": "evidence"
+        },
+        {
+          "text": "MARITIME ECOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "MARITIME RESOURCES CAPACITY BUILDING AND RESOURCE SHARING",
+          "role": "outcome"
+        },
+        {
+          "text": "DISASTER-RISK REDUCTION AND MANAGEMENT SCIENCE, TECHNOLOGY AND ACADEMIC COOPERATION",
+          "role": "caution"
+        },
+        {
+          "text": "TRADE, CONNECTIVITY, MARITIME TRANSPORT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "4 NOVEMBER 2019, BANGKOK, 14th EAST ASIA SUMMIT → Indo-Pacific Oceans Initiative",
+        "PILLARS → maritime security",
+        "maritime ecology",
+        "maritime resources capacity building and resource sharing",
+        "disaster-risk reduction and management science, technology and academic cooperation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "4 NOVEMBER 2019, BANGKOK, 14th EAST ASIA SUMMIT → Indo-Pacific Oceans Initiative",
+            "PILLARS → maritime security",
+            "maritime ecology"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "maritime resources capacity building and resource sharing",
+            "disaster-risk reduction and management science, technology and academic cooperation",
+            "trade, connectivity, maritime transport"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "ASEAN CENTRALITY → the Initiative and the ASEAN Outlook are complementary",
+            "FORUMS → East Asia Summit is leaders-led; ASEAN Regional Forum builds confidence",
+            "LIMIT → not a treaty, alliance or centralised funding body; weak enforcement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → not a treaty, alliance or centralised funding body; weak enforcement.",
+      "source_references": [
+        "The Indo-Pacific Oceans Initiative and ASEAN centrality",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g2\\international-relations-04_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g3\\international-relations-04_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g4\\international-relations-04_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "MINILATERAL CAPABILITY AGAINST STRUCTURAL ASYMMETRY",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MINILATERAL CAPABILITY AGAINST STRUCTURAL ASYMMETRY",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA-US EXERCISE; JAPAN ADDED; REGULAR AUSTRALIAN PARTICIPATION FROM 2020",
+          "role": "outcome"
+        },
+        {
+          "text": "INTEROPERABILITY AMONG ALL FOUR QUADRILATERAL STATES",
+          "role": "comparison"
+        },
+        {
+          "text": "DOES NOT PROVE",
+          "role": "caution"
+        },
+        {
+          "text": "ANY COLLECTIVE-DEFENCE OBLIGATION",
+          "role": "primary"
+        },
+        {
+          "text": "THAROOR'S ASYMMETRY",
+          "role": "outcome"
+        },
+        {
+          "text": "WASHINGTON HOLDS LONG-ESTABLISHED TREATY RELATIONSHIPS THAT OTHER MEMBERS, INDIA",
+          "role": "comparison"
+        },
+        {
+          "text": "THE GROUPING SUPPLEMENTS INDIAN CAPACITY; IT NEVER SUBSTITUTES FOR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MALABAR → India-US exercise; Japan added; regular Australian participation from 2020",
+        "PROVES: interoperability among all four Quadrilateral states",
+        "DOES NOT PROVE: any collective-defence obligation",
+        "THAROOR'S ASYMMETRY → Washington holds long-established treaty relationships that other members, India included, do not",
+        "CONSEQUENCE → the grouping supplements Indian capacity; it never substitutes for it"
+      ],
+      "matrix": [
+        [
+          "ACTOR / INTEREST",
+          "DECISIVE DISTINCTION",
+          "STATUS TRAP / LIMIT"
+        ],
+        [
+          "MALABAR → India-US exercise; Japan added; regular Australian participation from 2020",
+          "DOES NOT PROVE: any collective-defence obligation",
+          "CONSEQUENCE → the grouping supplements Indian capacity; it never substitutes for it"
+        ],
+        [
+          "PROVES: interoperability among all four Quadrilateral states",
+          "THAROOR'S ASYMMETRY → Washington holds long-established treaty relationships that other members, India included, do not share among themselves",
+          "OWNERSHIP → the grouping's institutional profile belongs to topic 10"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "MALABAR → India-US exercise; Japan added; regular Australian participation from 2020",
+            "PROVES: interoperability among all four Quadrilateral states"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "DOES NOT PROVE: any collective-defence obligation",
+            "THAROOR'S ASYMMETRY → Washington holds long-established treaty relationships that other members, India included, do not share among themselves"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONSEQUENCE → the grouping supplements Indian capacity; it never substitutes for it",
+            "OWNERSHIP → the grouping's institutional profile belongs to topic 10"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OWNERSHIP → the grouping's institutional profile belongs to topic 10.",
+      "source_references": [
+        "Exercise Malabar as interoperability evidence without obligation",
+        "Quad asymmetry as a structural limit on minilateral cooperation",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g2\\international-relations-04_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g3\\international-relations-04_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g4\\international-relations-04_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "AUKUS PATHWAY AND ITS OPEN QUESTIONS",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "AUKUS PATHWAY AND ITS OPEN QUESTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "15 SEPTEMBER 2021",
+          "role": "outcome"
+        },
+        {
+          "text": "AUKUS ANNOUNCED BY AUSTRALIA, THE UK AND THE UNITED",
+          "role": "comparison"
+        },
+        {
+          "text": "TRACK 1",
+          "role": "evidence"
+        },
+        {
+          "text": "CONVENTIONALLY ARMED, NUCLEAR-POWERED SUBMARINES FOR AUSTRALIA",
+          "role": "primary"
+        },
+        {
+          "text": "TRACK 2",
+          "role": "outcome"
+        },
+        {
+          "text": "CYBER, ARTIFICIAL INTELLIGENCE, QUANTUM, FURTHER UNDERSEA CAPABILITIES",
+          "role": "comparison"
+        },
+        {
+          "text": "MARCH 2023 PATHWAY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "15 SEPTEMBER 2021 → AUKUS announced by Australia, the UK and the United States",
+        "TRACK 1 → conventionally armed, nuclear-powered submarines for Australia",
+        "TRACK 2 → cyber, artificial intelligence, quantum, further undersea capabilities",
+        "MARCH 2023 PATHWAY → rotational UK-US presence from as early as 2027",
+        "Virginia-class sale from the early 2030s subject to US approval; later SSN-AUKUS"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "15 SEPTEMBER 2021 → AUKUS announced by Australia, the UK and the United States",
+            "TRACK 1 → conventionally armed, nuclear-powered submarines for Australia",
+            "TRACK 2 → cyber, artificial intelligence, quantum, further undersea capabilities"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MARCH 2023 PATHWAY → rotational UK-US presence from as early as 2027",
+            "Virginia-class sale from the early 2030s subject to US approval; later SSN-AUKUS",
+            "JUNE 2022 → EUR 555 million settlement over the cancelled French programme"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "NOVEMBER 2025 → IAEA Article 14 safeguards arrangement still under negotiation",
+            "INDIA → not an AUKUS member; its Quadrilateral route is parallel and non-treaty",
+            "CLOSE DISTINCTION: UNCLOS membership is not acceptance of every maritime claim, freedom..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: UNCLOS membership is not acceptance of every maritime claim, freedom.",
+      "source_references": [
+        "AUKUS, the submarine pathway and the safeguards question",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g2\\international-relations-04_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g3\\international-relations-04_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g4\\international-relations-04_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SECTORAL RULE-MAKING AT THE INTERNATIONAL MARITIME ORGANIZATION",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SECTORAL RULE-MAKING AT THE INTERNATIONAL MARITIME ORGANIZATION",
+          "role": "primary"
+        },
+        {
+          "text": "1948 CONVENTION ADOPTED",
+          "role": "outcome"
+        },
+        {
+          "text": "1958 ENTRY INTO FORCE",
+          "role": "comparison"
+        },
+        {
+          "text": "UN SPECIALISED AGENCY",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSEMBLY (ALL MEMBERS)",
+          "role": "institution"
+        },
+        {
+          "text": "COUNCIL (EXECUTIVE)",
+          "role": "institution"
+        },
+        {
+          "text": "MSC, MEPC, LEGAL, TC, FAL",
+          "role": "comparison"
+        },
+        {
+          "text": "BALLAST WATER MANAGEMENT, IN FORCE 2017",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1948 CONVENTION ADOPTED → 1958 ENTRY INTO FORCE → UN specialised agency",
+        "ORGANS → Assembly (all members)",
+        "Council (executive)",
+        "MSC, MEPC, Legal, TC, FAL",
+        "INSTRUMENTS → SOLAS"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "1948 CONVENTION ADOPTED → 1958 ENTRY INTO FORCE → UN specialised agency",
+            "ORGANS → Assembly (all members)",
+            "Council (executive)",
+            "MSC, MEPC, Legal, TC, FAL"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INSTRUMENTS → SOLAS",
+            "Ballast Water Management, in force 2017",
+            "Hong Kong ship recycling, in force 26 June 2025",
+            "1 JANUARY 2020 → global sulphur limit cut from 3.50% to 0.50% m/m"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "2023 GHG STRATEGY → net zero by or around 2050, with 2030 and 2040 checkpoints",
+            "OCTOBER 2025 → Net-Zero Framework approved at committee level, NOT adopted; adjourned",
+            "INDIA → elected to Council Category (b) for 2026-27; access, not guaranteed outcomes",
+            "EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Verify grouping membership, exercise..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Verify grouping membership, exercise.",
+      "source_references": [
+        "The International Maritime Organization and India's Council seat",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g2\\international-relations-04_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g3\\international-relations-04_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g4\\international-relations-04_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANSWER SPINE FOR A MARITIME DEMAND",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER SPINE FOR A MARITIME DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "NAME THE SEA-LANE DEPENDENCE AND THE EXACT INTEREST IT",
+          "role": "outcome"
+        },
+        {
+          "text": "RULES, AWARENESS AND PARTNERS, EACH WITH ONE DATED INSTRUMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "PRICE EXTERNAL-POWER BASING, ISLAND-STATE AGENCY AND MINILATERAL ASYMMETRY",
+          "role": "institution"
+        },
+        {
+          "text": "QUALIFY THE NET SECURITY PROVIDER LABEL AND GIVE A",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OPEN → name the sea-lane dependence and the exact interest it creates",
+        "BUILD → rules, awareness and partners, each with one dated instrument at its level",
+        "TEST → price external-power basing, island-state agency and minilateral asymmetry",
+        "CLOSE → qualify the net security provider label and give a graded contested-order verdict"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "OPEN → name the sea-lane dependence and the exact interest it creates",
+            "BUILD → rules, awareness and partners, each with one dated instrument at its level"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEST → price external-power basing, island-state agency and minilateral asymmetry",
+            "CLOSE → qualify the net security provider label and give a graded contested-order verdict"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "OPEN → name the sea-lane dependence and the exact interest it creates",
+            "BUILD → rules, awareness and partners, each with one dated instrument at its level"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → qualify the net security provider label and give a graded contested-order verdict.",
+      "source_references": [
+        "India as a user and defender of the treaty-based maritime order",
+        "External-power basing, island-state agency and honest question ownership",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g2\\international-relations-04_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g3\\international-relations-04_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-04\\g4\\international-relations-04_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE PRINCIPAL REGIONAL POLITICAL FORUM FOR LITTORAL-STATE",
+          "role": "institution"
+        },
+        {
+          "text": "IONS (2008)",
+          "role": "comparison"
+        },
+        {
+          "text": "VOLUNTARY NAVAL-COOPERATION SYMPOSIUM AMONG INDIAN OCEAN",
+          "role": "evidence"
+        },
+        {
+          "text": "IFC-IOR (2018, GURUGRAM)",
+          "role": "primary"
+        },
+        {
+          "text": "THE OPERATIONAL INFORMATION-SHARING LAYER FOR",
+          "role": "outcome"
+        },
+        {
+          "text": "SAGAR PRAHARI BAL (2009)",
+          "role": "comparison"
+        },
+        {
+          "text": "A SPECIALISED INDIAN NAVY FORCE FOR BASE AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE AND INSTRUMENT DEPTH",
+          "role": "evidence",
+          "items": [
+            "IORA: the principal regional political forum for littoral-state",
+            "IONS (2008): voluntary naval-cooperation symposium among Indian Ocean",
+            "IFC-IOR (2018, Gurugram): the operational information-sharing layer for",
+            "Sagar Prahari Bal (2009): a specialised Indian Navy force for base and"
+          ]
+        },
+        {
+          "heading": "STATUS, DATE AND FIGURE LIMIT",
+          "role": "caution",
+          "items": [
+            "India-Maldives Vision for Comprehensive Economic and Maritime Security",
+            "CAUTION: Quad's maritime-security dimension: a non-treaty, asymmetric coalition",
+            "CAUTION: Colombo Security Conclave: a regional maritime and security-cooperation",
+            "CAUTION: Route Internal Security (naval/anti-piracy operations) to"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE DIPLOMATIC NUANCE",
+          "role": "comparison",
+          "items": [
+            "Direct PYQ boundary case (2024 Q20): the question explicitly asks about",
+            "CAUTION: Boundary case — Maldives' own hedging: consistent with island-state",
+            "CAUTION: Boundary case — chairship without control: India simultaneously chairs",
+            "CAUTION: Boundary case — Quad asymmetry: Tharoor's point about unequal treaty"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

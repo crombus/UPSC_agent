@@ -1,0 +1,1097 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-society-11",
+  "subject": "Indian-Society",
+  "title": "EFFECTS OF GLOBALISATION ON INDIAN SOCIETY",
+  "short_route": "GLOBALISATION CHANNELS → CONSUMER CULTURE IN TWO → CONVERGENCE AGAINST ADAPTATION → DOMAIN MATRIX → LABOUR EVIDENCE CARD → EVIDENCE-STRENGTH LADDER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-11\\g2\\indian-society-11_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-society-11-deep-review-2026-09-02-g2.json",
+  "ascii_spec_sha256": "e80c8637bac955fab382c7e5a638e97d21c006e1049cbe2fbdfa373042446bb4",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "GLOBALISATION CHANNELS",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "GLOBALISATION CHANNELS",
+          "role": "primary"
+        },
+        {
+          "text": "CONSUMER MARKETS, URBAN LABOUR MIGRATION, FOOD INDUSTRY, DIGITAL ACCESS",
+          "role": "outcome"
+        },
+        {
+          "text": "SOCIETY LAYER",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTITY, HOUSEHOLD AUTHORITY, WORK PATTERNS, INFORMATION ACCESS",
+          "role": "evidence"
+        },
+        {
+          "text": "TRADE AND INVESTMENT MACROECONOMICS OWNED BY ECONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "LABOUR CODES AND GIG-WORK LAW OWNED BY SOCIAL JUSTICE",
+          "role": "outcome"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "GLOBALISATION INTENSIFIES CROSS-BORDER FLOWS OF CAPITAL, GOODS, SERVICES, PEOPLE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ENTRY → consumer markets, urban labour migration, food industry, digital access",
+        "SOCIETY LAYER → identity, household authority, work patterns, information access",
+        "EXCLUDED → trade and investment macroeconomics owned by Economy",
+        "EXCLUDED → labour codes and gig-work law owned by Social Justice",
+        "MUST REMEMBER: Globalisation intensifies cross-border flows of capital, goods, services, people, information and culture"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ENTRY → consumer markets, urban labour migration, food industry, digital access",
+            "SOCIETY LAYER → identity, household authority, work patterns, information access"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXCLUDED → trade and investment macroeconomics owned by Economy",
+            "EXCLUDED → labour codes and gig-work law owned by Social Justice"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Globalisation intensifies cross-border flows of capital, goods, services, people, information and culture,",
+            "producing glocalisation, consumption change, labour-market restructuring, care chains, diaspora networks and uneven bargaining power."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Globalisation intensifies cross-border flows of capital, goods, services, people, information and culture, producing glocalisation, consumption change, labour-market restructuring, care chains, diaspora networks and uneven bargaining power.",
+      "source_references": [
+        "How globalisation enters Indian society",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\11_Effects-of-Globalisation-on-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\11_Effects-of-Globalisation-on-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-11\\g2\\indian-society-11_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CONSUMER CULTURE IN TWO LAYERS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CONSUMER CULTURE IN TWO LAYERS",
+          "role": "primary"
+        },
+        {
+          "text": "MARKET ACCESS, PURCHASING CAPACITY, RETAIL EXPANSION, CREDIT",
+          "role": "outcome"
+        },
+        {
+          "text": "STATUS SIGNALLING, BRAND IDENTITY, ASPIRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "THE STRUCTURAL LAYER CAN PRECEDE AND OUTLIVE THE CULTURAL",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCEDE CONSUMPTION PRECISELY, THEN REFUSE THE EXCLUSIVITY CLAIM",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "STRUCTURAL → market access, purchasing capacity, retail expansion, credit",
+        "CULTURAL → status signalling, brand identity, aspiration",
+        "ORDER → the structural layer can precede and outlive the cultural one",
+        "USE → concede consumption precisely, then refuse the exclusivity claim"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "STRUCTURAL → market access, purchasing capacity, retail expansion, credit",
+          "ORDER → the structural layer can precede and outlive the cultural one",
+          "STRUCTURAL → market access, purchasing capacity, retail expansion, credit"
+        ],
+        [
+          "CULTURAL → status signalling, brand identity, aspiration",
+          "USE → concede consumption precisely, then refuse the exclusivity claim",
+          "CULTURAL → status signalling, brand identity, aspiration"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STRUCTURAL → market access, purchasing capacity, retail expansion, credit",
+            "CULTURAL → status signalling, brand identity, aspiration"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ORDER → the structural layer can precede and outlive the cultural one",
+            "USE → concede consumption precisely, then refuse the exclusivity claim"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STRUCTURAL → market access, purchasing capacity, retail expansion, credit",
+            "CULTURAL → status signalling, brand identity, aspiration"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "USE → concede consumption precisely, then refuse the exclusivity claim.",
+      "source_references": [
+        "Consumer culture and its two layers",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\11_Effects-of-Globalisation-on-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\11_Effects-of-Globalisation-on-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-11\\g2\\indian-society-11_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CONVERGENCE AGAINST ADAPTATION",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CONVERGENCE AGAINST ADAPTATION",
+          "role": "primary"
+        },
+        {
+          "text": "PREDICTED CONVERGENCE OF BRANDS, FORMATS AND CONSUMPTION",
+          "role": "outcome"
+        },
+        {
+          "text": "OBSERVED ADAPTATION OF MENUS, LANGUAGE AND PLATFORM CONTENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE IS A PREDICTION, THE OTHER AN OBSERVATION",
+          "role": "evidence"
+        },
+        {
+          "text": "TREATING THEM AS RIVAL THEORIES WITH ONE WINNER",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "HOMOGENISATION → predicted convergence of brands, formats and consumption",
+        "GLOCALISATION → observed adaptation of menus, language and platform content",
+        "STATUS → one is a prediction, the other an observation",
+        "ERROR → treating them as rival theories with one winner"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "HOMOGENISATION → predicted convergence of brands, formats and consumption",
+          "STATUS → one is a prediction, the other an observation",
+          "HOMOGENISATION → predicted convergence of brands, formats and consumption"
+        ],
+        [
+          "GLOCALISATION → observed adaptation of menus, language and platform content",
+          "ERROR → treating them as rival theories with one winner",
+          "GLOCALISATION → observed adaptation of menus, language and platform content"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HOMOGENISATION → predicted convergence of brands, formats and consumption",
+            "GLOCALISATION → observed adaptation of menus, language and platform content"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STATUS → one is a prediction, the other an observation",
+            "ERROR → treating them as rival theories with one winner"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "HOMOGENISATION → predicted convergence of brands, formats and consumption",
+            "GLOCALISATION → observed adaptation of menus, language and platform content"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ERROR → treating them as rival theories with one winner.",
+      "source_references": [
+        "Homogenisation as a prediction",
+        "Glocalisation as the observed counter-move",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\11_Effects-of-Globalisation-on-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\11_Effects-of-Globalisation-on-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-11\\g2\\indian-society-11_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DOMAIN MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DOMAIN MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "STRONG CONVERGENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "GLOBAL BRAND RECOGNITION AND SHARED MEDIA FORMATS",
+          "role": "comparison"
+        },
+        {
+          "text": "STRONG ADAPTATION",
+          "role": "evidence"
+        },
+        {
+          "text": "REGIONAL-LANGUAGE CONTENT AND LOCALLY CUSTOMISED MENUS",
+          "role": "primary"
+        },
+        {
+          "text": "BOTH PROCESSES RUN AT ONCE IN DIFFERENT DOMAINS",
+          "role": "outcome"
+        },
+        {
+          "text": "ANSWER MOVE",
+          "role": "comparison"
+        },
+        {
+          "text": "NAME THE DOMAIN, DO NOT DELIVER A SINGLE GLOBAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "STRONG CONVERGENCE → global brand recognition and shared media formats",
+        "STRONG ADAPTATION → regional-language content and locally customised menus",
+        "RULE → both processes run at once in different domains",
+        "ANSWER MOVE → name the domain, do not deliver a single global verdict"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "STRONG CONVERGENCE → global brand recognition and shared media formats",
+          "RULE → both processes run at once in different domains",
+          "STRONG CONVERGENCE → global brand recognition and shared media formats"
+        ],
+        [
+          "STRONG ADAPTATION → regional-language content and locally customised menus",
+          "ANSWER MOVE → name the domain, do not deliver a single global verdict",
+          "STRONG ADAPTATION → regional-language content and locally customised menus"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STRONG CONVERGENCE → global brand recognition and shared media formats",
+            "STRONG ADAPTATION → regional-language content and locally customised menus"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RULE → both processes run at once in different domains",
+            "ANSWER MOVE → name the domain, do not deliver a single global verdict"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STRONG CONVERGENCE → global brand recognition and shared media formats",
+            "STRONG ADAPTATION → regional-language content and locally customised menus"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANSWER MOVE → name the domain, do not deliver a single global verdict.",
+      "source_references": [
+        "Holding both processes together",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\11_Effects-of-Globalisation-on-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\11_Effects-of-Globalisation-on-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-11\\g2\\indian-society-11_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "LABOUR EVIDENCE CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LABOUR EVIDENCE CARD",
+          "role": "evidence"
+        },
+        {
+          "text": "PLFS 2023-24",
+          "role": "outcome"
+        },
+        {
+          "text": "RELEASED 23 SEPTEMBER 2024, FEMALE LFPR 41.7 PER CENT",
+          "role": "comparison"
+        },
+        {
+          "text": "37.0 PER CENT IN 2022-23, WORKER POPULATION RATIO 40.3",
+          "role": "evidence"
+        },
+        {
+          "text": "PLFS 2025",
+          "role": "primary"
+        },
+        {
+          "text": "RELEASED MARCH 2026, USUAL-STATUS FEMALE LFPR 40.0 PER CENT",
+          "role": "outcome"
+        },
+        {
+          "text": "JANUARY TO DECEMBER 2025 PERIOD REPLACES THE JULY TO",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PLFS 2023-24 → released 23 September 2024, female LFPR 41.7 per cent",
+        "COMPARATOR → 37.0 per cent in 2022-23, worker population ratio 40.3 per cent",
+        "PLFS 2025 → released March 2026, usual-status female LFPR 40.0 per cent",
+        "CAUTION → January to December 2025 period replaces the July to June cycle"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PLFS 2023-24 → released 23 September 2024, female LFPR 41.7 per cent",
+          "PLFS 2025 → released March 2026, usual-status female LFPR 40.0 per cent",
+          "PLFS 2023-24 → released 23 September 2024, female LFPR 41.7 per cent"
+        ],
+        [
+          "COMPARATOR → 37.0 per cent in 2022-23, worker population ratio 40.3 per cent",
+          "CAUTION → January to December 2025 period replaces the July to June cycle",
+          "COMPARATOR → 37.0 per cent in 2022-23, worker population ratio 40.3 per cent"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PLFS 2023-24 → released 23 September 2024, female LFPR 41.7 per cent",
+            "COMPARATOR → 37.0 per cent in 2022-23, worker population ratio 40.3 per cent"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PLFS 2025 → released March 2026, usual-status female LFPR 40.0 per cent",
+            "CAUTION → January to December 2025 period replaces the July to June cycle"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PLFS 2023-24 → released 23 September 2024, female LFPR 41.7 per cent",
+            "COMPARATOR → 37.0 per cent in 2022-23, worker population ratio 40.3 per cent"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → January to December 2025 period replaces the July to June cycle.",
+      "source_references": [
+        "Reading the two labour-force reports",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\11_Effects-of-Globalisation-on-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\11_Effects-of-Globalisation-on-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-11\\g2\\indian-society-11_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "EVIDENCE-STRENGTH LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EVIDENCE-STRENGTH LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "AGGREGATE PARTICIPATION IN THE LABOUR FORCE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE EMPLOYMENT CONTEXT OF A MIGRATION DECISION",
+          "role": "comparison"
+        },
+        {
+          "text": "DOES NOT ESTABLISH",
+          "role": "caution"
+        },
+        {
+          "text": "SIZE, AGE, MARITAL STATUS, DESTINATION OR CAUSE",
+          "role": "mechanism"
+        },
+        {
+          "text": "NO MIGRATION STREAM MAY BE INFERRED FROM A PARTICIPATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ESTABLISHES → aggregate participation in the labour force",
+        "SUGGESTS → the employment context of a migration decision",
+        "DOES NOT ESTABLISH → size, age, marital status, destination or cause",
+        "PROHIBITION → no migration stream may be inferred from a participation rate"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ESTABLISHES → aggregate participation in the labour force",
+            "SUGGESTS → the employment context of a migration decision"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DOES NOT ESTABLISH → size, age, marital status, destination or cause",
+            "PROHIBITION → no migration stream may be inferred from a participation rate"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ESTABLISHES → aggregate participation in the labour force",
+            "SUGGESTS → the employment context of a migration decision"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PROHIBITION → no migration stream may be inferred from a participation rate.",
+      "source_references": [
+        "What a participation rate cannot prove",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\11_Effects-of-Globalisation-on-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\11_Effects-of-Globalisation-on-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-11\\g2\\indian-society-11_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FREEDOM AND RENEGOTIATION",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FREEDOM AND RENEGOTIATION",
+          "role": "primary"
+        },
+        {
+          "text": "INCOME AND RESIDENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "MOBILITY, SPENDING AUTONOMY, LATER MARRIAGE, PARTNER VOICE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTINUING TIE",
+          "role": "evidence"
+        },
+        {
+          "text": "REMITTANCE, RITUAL PARTICIPATION, PERIODIC VISITS",
+          "role": "primary"
+        },
+        {
+          "text": "DAY-TO-DAY PARENTAL OVERSIGHT",
+          "role": "outcome"
+        },
+        {
+          "text": "COEXISTENCE AND RENEGOTIATION, NEVER SEVERANCE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "INCOME AND RESIDENCE → mobility, spending autonomy, later marriage, partner voice",
+        "CONTINUING TIE → remittance, ritual participation, periodic visits",
+        "WEAKENED → day-to-day parental oversight",
+        "VERDICT → coexistence and renegotiation, never severance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INCOME AND RESIDENCE → mobility, spending autonomy, later marriage, partner voice",
+            "CONTINUING TIE → remittance, ritual participation, periodic visits"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WEAKENED → day-to-day parental oversight",
+            "VERDICT → coexistence and renegotiation, never severance"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INCOME AND RESIDENCE → mobility, spending autonomy, later marriage, partner voice",
+            "CONTINUING TIE → remittance, ritual participation, periodic visits"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTINUING TIE → remittance, ritual participation, periodic visits.",
+      "source_references": [
+        "Personal freedom under urban work",
+        "Family renegotiation and its security cost",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\11_Effects-of-Globalisation-on-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\11_Effects-of-Globalisation-on-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-11\\g2\\indian-society-11_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "FREEDOM AND SECURITY TRADE-OFF",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FREEDOM AND SECURITY TRADE-OFF",
+          "role": "primary"
+        },
+        {
+          "text": "INDEPENDENT DECISION-MAKING AWAY FROM HOUSEHOLD SUPERVISION",
+          "role": "outcome"
+        },
+        {
+          "text": "THINNER FAMILY SUPPORT DURING HARASSMENT OR HEALTH EMERGENCY",
+          "role": "comparison"
+        },
+        {
+          "text": "WORKPLACE AND HOUSING SAFETY BECOME THE BINDING CONSTRAINT",
+          "role": "evidence"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "primary"
+        },
+        {
+          "text": "QUALIFY THE FREEDOM CLAIM INSTEAD OF CELEBRATING IT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "GAIN → independent decision-making away from household supervision",
+        "COST → thinner family support during harassment or health emergency",
+        "IMPLICATION → workplace and housing safety become the binding constraint",
+        "ANSWER USE → qualify the freedom claim instead of celebrating it"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GAIN → independent decision-making away from household supervision",
+            "COST → thinner family support during harassment or health emergency"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "IMPLICATION → workplace and housing safety become the binding constraint",
+            "ANSWER USE → qualify the freedom claim instead of celebrating it"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GAIN → independent decision-making away from household supervision",
+            "COST → thinner family support during harassment or health emergency"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANSWER USE → qualify the freedom claim instead of celebrating it.",
+      "source_references": [
+        "Family renegotiation and its security cost",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\11_Effects-of-Globalisation-on-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\11_Effects-of-Globalisation-on-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-11\\g2\\indian-society-11_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "FAST-FOOD PARADOX DRIVERS",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FAST-FOOD PARADOX DRIVERS",
+          "role": "primary"
+        },
+        {
+          "text": "DUAL-INCOME URBAN HOUSEHOLDS FACE REAL CONSTRAINTS ON HOME COOKING",
+          "role": "outcome"
+        },
+        {
+          "text": "PRICE AND DELIVERY",
+          "role": "comparison"
+        },
+        {
+          "text": "PLATFORM LOGISTICS LOWER THE COST OF CONVENIENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "BRANDED CONSUMPTION SIGNALS URBAN MODERN IDENTITY",
+          "role": "primary"
+        },
+        {
+          "text": "LOCALLY CUSTOMISED MENUS WIDEN THE ADDRESSABLE MARKET",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "TIME → dual-income urban households face real constraints on home cooking",
+        "PRICE AND DELIVERY → platform logistics lower the cost of convenience",
+        "ASPIRATION → branded consumption signals urban modern identity",
+        "ADAPTATION → locally customised menus widen the addressable market"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TIME → dual-income urban households face real constraints on home cooking",
+            "PRICE AND DELIVERY → platform logistics lower the cost of convenience"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ASPIRATION → branded consumption signals urban modern identity",
+            "ADAPTATION → locally customised menus widen the addressable market"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TIME → dual-income urban households face real constraints on home cooking",
+            "PRICE AND DELIVERY → platform logistics lower the cost of convenience"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ADAPTATION → locally customised menus widen the addressable market.",
+      "source_references": [
+        "The fast-food paradox stated precisely",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\11_Effects-of-Globalisation-on-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\11_Effects-of-Globalisation-on-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-11\\g2\\indian-society-11_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "BEHAVIOURAL LENS CARD",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BEHAVIOURAL LENS CARD",
+          "role": "primary"
+        },
+        {
+          "text": "CLASSICAL PREDICTION",
+          "role": "outcome"
+        },
+        {
+          "text": "RISING HEALTH AWARENESS REDUCES CONSUMPTION",
+          "role": "comparison"
+        },
+        {
+          "text": "AWARENESS AND INDUSTRY GROWTH COEXIST",
+          "role": "evidence"
+        },
+        {
+          "text": "BOUNDED RATIONALITY WEIGHS CONVENIENCE AND STATUS AGAINST LONG-RUN HEALTH",
+          "role": "primary"
+        },
+        {
+          "text": "A LENS, NOT PROOF THAT ONE MOTIVE DOMINATES EVERY",
+          "role": "caution"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "GLOBALISATION IS NOT WESTERNISATION, LIBERALISATION IS NOT PRIVATISATION, CULTURAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CLASSICAL PREDICTION → rising health awareness reduces consumption",
+        "OBSERVED → awareness and industry growth coexist",
+        "LENS → bounded rationality weighs convenience and status against long-run health",
+        "LIMIT → a lens, not proof that one motive dominates every purchase",
+        "CLOSE DISTINCTION: Globalisation is not westernisation, liberalisation is not privatisation, cultural diffusion is not homogenisation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CLASSICAL PREDICTION → rising health awareness reduces consumption",
+            "OBSERVED → awareness and industry growth coexist"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LENS → bounded rationality weighs convenience and status against long-run health",
+            "LIMIT → a lens, not proof that one motive dominates every purchase"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Globalisation is not westernisation, liberalisation is not privatisation, cultural diffusion is not homogenisation, hybridity is",
+            "not equal exchange, and aggregate growth or connectivity does not establish inclusion, causation or uniform local response."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Globalisation is not westernisation, liberalisation is not privatisation, cultural diffusion is not homogenisation, hybridity is not equal exchange, and aggregate growth or connectivity does not establish inclusion, causation or uniform local response.",
+      "source_references": [
+        "Bounded rationality and domestic food systems",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\11_Effects-of-Globalisation-on-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\11_Effects-of-Globalisation-on-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-11\\g2\\indian-society-11_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "DIGITAL ACCESS LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DIGITAL ACCESS LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "ROUND SIX FACT SHEETS",
+          "role": "outcome"
+        },
+        {
+          "text": "EVER-INTERNET USE 64.3 PER CENT, WOMEN AGED 15 TO",
+          "role": "comparison"
+        },
+        {
+          "text": "ROUND FIVE COMPARATOR",
+          "role": "evidence"
+        },
+        {
+          "text": "33.3 PER CENT FOR THE SAME MEASURE",
+          "role": "primary"
+        },
+        {
+          "text": "ROUND SIX RESULTS ARE LABELLED PROVISIONAL",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCESS IS UNEQUAL BY INCOME, GENDER, REGION AND GENERATION",
+          "role": "comparison"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ROUND SIX FACT SHEETS → ever-internet use 64.3 per cent, women aged 15 to 49",
+        "ROUND FIVE COMPARATOR → 33.3 per cent for the same measure",
+        "STATUS → round six results are labelled provisional",
+        "DIVIDE → access is unequal by income, gender, region and generation",
+        "EVIDENCE LIMIT: Use IT-Bengaluru, garment clusters, Kerala-Gulf migration, platform work, food/media"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ROUND SIX FACT SHEETS → ever-internet use 64.3 per cent, women aged 15 to 49",
+            "ROUND FIVE COMPARATOR → 33.3 per cent for the same measure",
+            "STATUS → round six results are labelled provisional"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DIVIDE → access is unequal by income, gender, region and generation",
+            "EVIDENCE LIMIT: Use IT-Bengaluru, garment clusters, Kerala-Gulf migration, platform work, food/media",
+            "hybridity and farmer/artisan value chains with sector and region qualifications"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "distinguish policy chronology, firm strategy, technology and household agency."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "distinguish policy chronology, firm strategy, technology and household agency.",
+      "source_references": [
+        "The digital-access anchor and its status",
+        "The digital divide",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\11_Effects-of-Globalisation-on-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\11_Effects-of-Globalisation-on-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-11\\g2\\indian-society-11_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "GLOBALISATION ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "GLOBALISATION ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "NAME THE CHANNELS, REFUSE THE SINGLE-FORCE FRAMING",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCEDE CONSUMPTION, THEN ADD LABOUR, FAMILY AND DIGITAL CHANNELS",
+          "role": "comparison"
+        },
+        {
+          "text": "CONVERGENCE AGAINST ADAPTATION, DOMAIN BY DOMAIN",
+          "role": "evidence"
+        },
+        {
+          "text": "GRADED VERDICT WITH THE STATISTIC AND STATUS CAVEATS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OPEN → name the channels, refuse the single-force framing",
+        "BODY → concede consumption, then add labour, family and digital channels",
+        "TEST → convergence against adaptation, domain by domain",
+        "CLOSE → graded verdict with the statistic and status caveats"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPEN → name the channels, refuse the single-force framing",
+            "BODY → concede consumption, then add labour, family and digital channels"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEST → convergence against adaptation, domain by domain",
+            "CLOSE → graded verdict with the statistic and status caveats"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN → name the channels, refuse the single-force framing",
+            "BODY → concede consumption, then add labour, family and digital channels"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → graded verdict with the statistic and status caveats.",
+      "source_references": [
+        "Question ownership and the answer spine",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\11_Effects-of-Globalisation-on-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\11_Effects-of-Globalisation-on-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-11\\g2\\indian-society-11_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "DIGITAL-DIVIDE CORRECTION EFFORTS",
+          "role": "outcome"
+        },
+        {
+          "text": "RURAL AND GENDER-LINKED INTERNET-ACCESS GAPS",
+          "role": "comparison"
+        },
+        {
+          "text": "BOUNDARY CASE 1 — PURE HOMOGENISATION",
+          "role": "evidence"
+        },
+        {
+          "text": "NEAR-IDENTICAL GLOBAL SMARTPHONE/SOCIAL",
+          "role": "primary"
+        },
+        {
+          "text": "BOUNDARY CASE 2 — PURE GLOCALISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "A GLOBAL FAST-FOOD CHAIN'S INDIA-SPECIFIC",
+          "role": "comparison"
+        },
+        {
+          "text": "BOUNDARY CASE 3 — FREEDOM-FAMILY COEXISTENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Digital-divide correction efforts: rural and gender-linked internet-access gaps",
+            "CAUTION: Boundary case 1 — pure homogenisation: near-identical global smartphone/social",
+            "CAUTION: Boundary case 2 — pure glocalisation: a global fast-food chain's India-specific",
+            "CAUTION: Boundary case 3 — freedom-family coexistence: a woman migrant retaining significant"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Homogenisation-glocalisation measurement difficulty: it is analytically hard to",
+            "CAUTION: Freedom-versus-security trade-off: independent urban migration expands personal",
+            "CAUTION: Convenience-versus-health-outcome trade-off: the fast-food paradox reflects a",
+            "MoSPI's PLFS Annual Report 2023-24 (released 23 September 2024) recorded female labour"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "NFHS-6 (2023-24) national fact sheets report women's ever-internet-use at 64.3% for ages 15-49; it is a",
+            "CAUTION: Bounded rationality is one useful behavioural-economics lens for the fast-food paradox;",
+            "CAUTION: Glocalisation and homogenisation are not mutually exclusive; Indian evidence shows both",
+            "CAUTION: All three PYQs analysed here (2024 Q19, 2025 Q10, 2025 Q18) share the underlying"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

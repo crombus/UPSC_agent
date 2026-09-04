@@ -1,0 +1,82 @@
+ASCII MASTER FLOW — PANEL 1/12: Household forms
+JOINT -> multi-generational, may share residence or property
+NUCLEAR -> parents and unmarried children in one household
+SHARED FEATURE -> obligation can outlive shared residence
+RULE -> classify the form, then test the function separately
+MUST REMEMBER: Family, household, marriage and kinship are separate but connected institutions
+  organising reproduction, care, property, residence, descent, alliance and identity;
+  nuclearisation, migration, education, work and law alter functions more than they simply
+  dissolve families.
+
+ASCII MASTER FLOW — PANEL 2/12: Two kinds of nuclearisation
+STRUCTURAL -> separate, smaller household residence
+FUNCTIONAL -> independence from support and decision authority
+OBSERVED -> structure moves first, function lags behind
+ERROR PREVENTED -> reading separate residence as family decline
+
+ASCII MASTER FLOW — PANEL 3/12: Nuclearisation chain
+MIGRATION -> employment pulls a unit out of the ancestral home
+HOUSING -> urban cost and space make joint residence impractical
+PERSISTENCE -> remittance and ritual participation continue
+GENERATIONAL DRIFT -> ties weaken for the migrant's children
+
+ASCII MASTER FLOW — PANEL 4/12: Marriage rule stack
+ENDOGAMY -> outer boundary is the caste or sub-caste
+GOTRA EXOGAMY -> clan lineage excluded inside that boundary
+FORMS -> monogamy, arranged, self-choice, rare polygamy
+VARIATION -> region, class, education and generation
+
+ASCII MASTER FLOW — PANEL 5/12: Descent systems
+PATRILINEAL -> descent, surname and property via the father
+MATRILINEAL -> Khasi of Meghalaya, traditionally Nair of Kerala
+KHASI DETAIL -> youngest daughter customarily inherits the home
+CAUTION -> matriliny is descent, not matriarchal authority
+
+ASCII MASTER FLOW — PANEL 6/12: Family as transmitter
+INPUT -> caste, religious and gender norms of the previous generation
+PROCESS -> socialisation of children inside the household
+OUTPUT -> reproduction or contestation of those norms
+SIGNAL -> social change appears here before it appears in law
+
+ASCII MASTER FLOW — PANEL 7/12: Law against acceptance
+DOWRY -> legally prohibited, sociologically persistent
+LIVE-IN -> protection expanded faster than social normalisation
+CIVIL MARRIAGE -> Special Marriage Act, 1954 route exists
+RULE -> a legal route is not a social permission
+
+ASCII MASTER FLOW — PANEL 8/12: Two boundaries compared
+INTERCASTE -> parity protects family status and resources
+INTERRELIGIOUS -> belonging, kinship and community sanction
+TEST -> a civil route exists, so law is not the operative barrier
+VERDICT -> different guards produce different speeds
+
+ASCII MASTER FLOW — PANEL 9/12: Work from home audit
+GAIN -> presence at home, flexible care, less commuting
+STRAIN -> blurred work-care boundary in shared space
+INEQUALITY -> domestic labour load reproduced by gender norms
+CONDITION -> housing, occupation and control over time decide
+
+ASCII MASTER FLOW — PANEL 10/12: Mediated socialisation test
+DISPLACED -> what direct interaction is being replaced
+AGE AND CONTEXT -> what the child needs at this stage
+MEDIATION -> is an adult present in the digital interaction
+GAIN -> contact and learning that would not otherwise occur
+CLOSE DISTINCTION: Family is not household, joint is not necessarily co-resident, monogamy is
+  not gender equality, patriarchy is not identical across communities, and patriliny,
+  matriliny, patrilocality, matrilocality, inheritance and authority must be compared on
+  separate axes.
+
+ASCII MASTER FLOW — PANEL 11/12: Data boundary
+NFHS-5 2019-21 -> national Total Fertility Rate of 2.0
+NFHS-6 2023-24 -> released on 29 May 2026
+MEASURES -> fertility, not household form or marriage acceptance
+RULE -> quote a metric only from its released fact sheet
+EVIDENCE LIMIT: Use Hindu Succession reform, personal-law and Special Marriage Act boundaries
+  with Khasi/Garo, Nair, north Indian and south Indian kinship variation; legal capacity and
+  formal equality must not be reported as automatic bargaining power or social acceptance.
+
+ASCII MASTER FLOW — PANEL 12/12: Family answer spine
+OPEN -> redistribution of functions, not institutional decline
+BODY -> residence, obligation, marriage boundary, socialisation
+CONDITION -> region, class, gender norms and mediation
+CLOSE -> differentiated verdict with the data caveat

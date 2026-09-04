@@ -1,0 +1,1108 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-society-15",
+  "subject": "Indian-Society",
+  "title": "SECULARISM",
+  "short_route": "THREE LEVELS CARD → EVIDENCE DIRECTION → LIVED-PRACTICE INDICATORS → TWO MODELS AS IDEAL → THREE RESPONSES TO DIFFERENCE → PRACTICE TEST",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g2\\indian-society-15_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-society-15-deep-review-2026-09-02-g2.json",
+  "ascii_spec_sha256": "3ccd8461cad0100356a562af99c432d49e4927f10d7e4e16e8e7f82f1f31249d",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THREE LEVELS CARD",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THREE LEVELS CARD",
+          "role": "primary"
+        },
+        {
+          "text": "SOCIETY LEVEL",
+          "role": "outcome"
+        },
+        {
+          "text": "LIVED PRACTICE, SYNCRETISM, EQUAL PUBLIC SPACE, SHARED CIVIC LIFE",
+          "role": "comparison"
+        },
+        {
+          "text": "POLITY LEVEL",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLES 25 TO 28, THE PREAMBLE, STATE NEUTRALITY DOCTRINE",
+          "role": "institution"
+        },
+        {
+          "text": "PHILOSOPHY LEVEL",
+          "role": "outcome"
+        },
+        {
+          "text": "BHARGAVA, TAYLOR AND KYMLICKA ON PRINCIPLED DISTANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "DECLARE THE LEVEL, THEN CROSS-LINK THE OTHER TWO",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SOCIETY LEVEL → lived practice, syncretism, equal public space, shared civic life",
+        "POLITY LEVEL → Articles 25 to 28, the Preamble, state neutrality doctrine",
+        "PHILOSOPHY LEVEL → Bhargava, Taylor and Kymlicka on principled distance",
+        "RULE → declare the level, then cross-link the other two",
+        "MUST REMEMBER: Indian secularism combines equal citizenship, freedom of conscience, principled state"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SOCIETY LEVEL → lived practice, syncretism, equal public space, shared civic life",
+            "POLITY LEVEL → Articles 25 to 28, the Preamble, state neutrality doctrine",
+            "PHILOSOPHY LEVEL → Bhargava, Taylor and Kymlicka on principled distance"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RULE → declare the level, then cross-link the other two",
+            "MUST REMEMBER: Indian secularism combines equal citizenship, freedom of conscience, principled state",
+            "engagement and reform of exclusionary practices within a religiously plural society"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "it is structured by Fundamental Rights, minority protections, public order and constitutional morality."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → declare the level, then cross-link the other two.",
+      "source_references": [
+        "Three levels of one word",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\15_Secularism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\15_Secularism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g2\\indian-society-15_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "EVIDENCE DIRECTION",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EVIDENCE DIRECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "WHAT THE STATE MUST DO, STATED BY CONSTITUTIONAL DOCTRINE",
+          "role": "institution"
+        },
+        {
+          "text": "WHAT ACTUALLY HAPPENS IN SHARED SOCIAL SPACE",
+          "role": "comparison"
+        },
+        {
+          "text": "CANNOT PROVE",
+          "role": "evidence"
+        },
+        {
+          "text": "COEXISTENCE DOES NOT ESTABLISH DOCTRINAL COMPLIANCE",
+          "role": "caution"
+        },
+        {
+          "text": "CANNOT DISPROVE",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE EXCLUSION EPISODE DOES NOT VOID THE DOCTRINE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NORMATIVE → what the state must do, stated by constitutional doctrine",
+        "DESCRIPTIVE → what actually happens in shared social space",
+        "CANNOT PROVE → coexistence does not establish doctrinal compliance",
+        "CANNOT DISPROVE → one exclusion episode does not void the doctrine"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "NORMATIVE → what the state must do, stated by constitutional doctrine",
+          "CANNOT PROVE → coexistence does not establish doctrinal compliance",
+          "NORMATIVE → what the state must do, stated by constitutional doctrine"
+        ],
+        [
+          "DESCRIPTIVE → what actually happens in shared social space",
+          "CANNOT DISPROVE → one exclusion episode does not void the doctrine",
+          "DESCRIPTIVE → what actually happens in shared social space"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NORMATIVE → what the state must do, stated by constitutional doctrine",
+            "DESCRIPTIVE → what actually happens in shared social space"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CANNOT PROVE → coexistence does not establish doctrinal compliance",
+            "CANNOT DISPROVE → one exclusion episode does not void the doctrine"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NORMATIVE → what the state must do, stated by constitutional doctrine",
+            "DESCRIPTIVE → what actually happens in shared social space"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CANNOT DISPROVE → one exclusion episode does not void the doctrine.",
+      "source_references": [
+        "Normative doctrine against descriptive outcome",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\15_Secularism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\15_Secularism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g2\\indian-society-15_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "LIVED-PRACTICE INDICATORS",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LIVED-PRACTICE INDICATORS",
+          "role": "primary"
+        },
+        {
+          "text": "SHARED SHRINES, SUFI AND BHAKTI IDIOMS, COMMON REGIONAL FESTIVALS",
+          "role": "outcome"
+        },
+        {
+          "text": "EQUAL PUBLIC SPACE",
+          "role": "comparison"
+        },
+        {
+          "text": "MARKETS, SCHOOLS, TRANSPORT AND CIVIC INSTITUTIONS OPEN TO ALL",
+          "role": "evidence"
+        },
+        {
+          "text": "SHARED CIVIC LIFE",
+          "role": "primary"
+        },
+        {
+          "text": "SCHOOLS, WORKPLACES AND ELECTIONS FUNCTIONING ACROSS FAITHS",
+          "role": "outcome"
+        },
+        {
+          "text": "ROUTINE INTERACTION RATHER THAN A SINGLE CEREMONIAL OCCASION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SYNCRETISM → shared shrines, Sufi and Bhakti idioms, common regional festivals",
+        "EQUAL PUBLIC SPACE → markets, schools, transport and civic institutions open to all",
+        "SHARED CIVIC LIFE → schools, workplaces and elections functioning across faiths",
+        "TEST → routine interaction rather than a single ceremonial occasion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SYNCRETISM → shared shrines, Sufi and Bhakti idioms, common regional festivals",
+            "EQUAL PUBLIC SPACE → markets, schools, transport and civic institutions open to all"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SHARED CIVIC LIFE → schools, workplaces and elections functioning across faiths",
+            "TEST → routine interaction rather than a single ceremonial occasion"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SYNCRETISM → shared shrines, Sufi and Bhakti idioms, common regional festivals",
+            "EQUAL PUBLIC SPACE → markets, schools, transport and civic institutions open to all"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TEST → routine interaction rather than a single ceremonial occasion.",
+      "source_references": [
+        "Syncretism and equal public space",
+        "Shared civic and economic life",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\15_Secularism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\15_Secularism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g2\\indian-society-15_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "TWO MODELS AS IDEAL TYPES",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO MODELS AS IDEAL TYPES",
+          "role": "primary"
+        },
+        {
+          "text": "WESTERN IDEAL TYPE",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPARATION BETWEEN CHURCH AND STATE",
+          "role": "institution"
+        },
+        {
+          "text": "INDIAN IDEAL TYPE",
+          "role": "evidence"
+        },
+        {
+          "text": "EQUAL RESPECT WITH CONTEXT-SENSITIVE PUBLIC ENGAGEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "SARVA-DHARMA-SAMA-BHAVA AS THE CIVILISATIONAL SOCIAL PRINCIPLE",
+          "role": "outcome"
+        },
+        {
+          "text": "NEITHER IDEAL TYPE GUARANTEES EQUALITY IN PRACTICE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "WESTERN IDEAL TYPE → separation between church and state",
+        "INDIAN IDEAL TYPE → equal respect with context-sensitive public engagement",
+        "ANCHOR → sarva-dharma-sama-bhava as the civilisational social principle",
+        "CAUTION → neither ideal type guarantees equality in practice"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "WESTERN IDEAL TYPE → separation between church and state",
+          "ANCHOR → sarva-dharma-sama-bhava as the civilisational social principle",
+          "WESTERN IDEAL TYPE → separation between church and state"
+        ],
+        [
+          "INDIAN IDEAL TYPE → equal respect with context-sensitive public engagement",
+          "CAUTION → neither ideal type guarantees equality in practice",
+          "INDIAN IDEAL TYPE → equal respect with context-sensitive public engagement"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WESTERN IDEAL TYPE → separation between church and state",
+            "INDIAN IDEAL TYPE → equal respect with context-sensitive public engagement"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ANCHOR → sarva-dharma-sama-bhava as the civilisational social principle",
+            "CAUTION → neither ideal type guarantees equality in practice"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WESTERN IDEAL TYPE → separation between church and state",
+            "INDIAN IDEAL TYPE → equal respect with context-sensitive public engagement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → neither ideal type guarantees equality in practice.",
+      "source_references": [
+        "Equal respect and the ideal-type comparison",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\15_Secularism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\15_Secularism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g2\\indian-society-15_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "THREE RESPONSES TO DIFFERENCE",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THREE RESPONSES TO DIFFERENCE",
+          "role": "primary"
+        },
+        {
+          "text": "DIFFERENCE IS PERMITTED BY WITHHOLDING INTERFERENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "DIFFERENCE IS ABSORBED INTO A DOMINANT NORM",
+          "role": "comparison"
+        },
+        {
+          "text": "DIFFERENCE IS RETAINED WITH EQUAL PARTICIPATION SECURED",
+          "role": "evidence"
+        },
+        {
+          "text": "THE THREE ARE NEVER INTERCHANGEABLE IN AN ANSWER",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "TOLERANCE → difference is permitted by withholding interference",
+        "ASSIMILATION → difference is absorbed into a dominant norm",
+        "PLURALISM → difference is retained with equal participation secured",
+        "PROHIBITION → the three are never interchangeable in an answer"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TOLERANCE → difference is permitted by withholding interference",
+            "ASSIMILATION → difference is absorbed into a dominant norm"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PLURALISM → difference is retained with equal participation secured",
+            "PROHIBITION → the three are never interchangeable in an answer"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TOLERANCE → difference is permitted by withholding interference",
+            "ASSIMILATION → difference is absorbed into a dominant norm"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PROHIBITION → the three are never interchangeable in an answer.",
+      "source_references": [
+        "Tolerance, assimilation and pluralism",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\15_Secularism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\15_Secularism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g2\\indian-society-15_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PRACTICE TEST",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PRACTICE TEST",
+          "role": "primary"
+        },
+        {
+          "text": "STEP ONE",
+          "role": "outcome"
+        },
+        {
+          "text": "NAME THE PRACTICE AND THE SHARED SPACE IT OPERATES",
+          "role": "comparison"
+        },
+        {
+          "text": "STEP TWO",
+          "role": "evidence"
+        },
+        {
+          "text": "IDENTIFY THE EXCLUSION OR COERCION MECHANISM AT WORK",
+          "role": "mechanism"
+        },
+        {
+          "text": "STEP THREE",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE THE RIGHTS AND PLURALISM RESPONSE TO THAT MECHANISM",
+          "role": "institution"
+        },
+        {
+          "text": "NEVER MOVE FROM A PRACTICE TO A VERDICT ABOUT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STEP ONE → name the practice and the shared space it operates in",
+        "STEP TWO → identify the exclusion or coercion mechanism at work",
+        "STEP THREE → state the rights and pluralism response to that mechanism",
+        "LIMIT → never move from a practice to a verdict about a community"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STEP ONE → name the practice and the shared space it operates in",
+            "STEP TWO → identify the exclusion or coercion mechanism at work"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STEP THREE → state the rights and pluralism response to that mechanism",
+            "LIMIT → never move from a practice to a verdict about a community"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STEP ONE → name the practice and the shared space it operates in",
+            "STEP TWO → identify the exclusion or coercion mechanism at work"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → never move from a practice to a verdict about a community.",
+      "source_references": [
+        "When a practice challenges secularism",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\15_Secularism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\15_Secularism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g2\\indian-society-15_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "TWO EQUALITIES",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO EQUALITIES",
+          "role": "primary"
+        },
+        {
+          "text": "FORMAL EQUALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "IDENTICAL RULES APPLIED REGARDLESS OF RELIGION",
+          "role": "comparison"
+        },
+        {
+          "text": "SUBSTANTIVE EQUALITY",
+          "role": "evidence"
+        },
+        {
+          "text": "WHETHER THE ARRANGEMENT IMPROVES REAL POSITION",
+          "role": "primary"
+        },
+        {
+          "text": "PROPONENT USE",
+          "role": "outcome"
+        },
+        {
+          "text": "UNIFORMITY REMOVES DISCRIMINATORY PERSONAL-LAW PROVISIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "CRITIC USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FORMAL EQUALITY → identical rules applied regardless of religion",
+        "SUBSTANTIVE EQUALITY → whether the arrangement improves real position",
+        "PROPONENT USE → uniformity removes discriminatory personal-law provisions",
+        "CRITIC USE → an unconsulted code can universalise one community's template"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FORMAL EQUALITY → identical rules applied regardless of religion",
+          "PROPONENT USE → uniformity removes discriminatory personal-law provisions",
+          "FORMAL EQUALITY → identical rules applied regardless of religion"
+        ],
+        [
+          "SUBSTANTIVE EQUALITY → whether the arrangement improves real position",
+          "CRITIC USE → an unconsulted code can universalise one community's template",
+          "SUBSTANTIVE EQUALITY → whether the arrangement improves real position"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FORMAL EQUALITY → identical rules applied regardless of religion",
+            "SUBSTANTIVE EQUALITY → whether the arrangement improves real position"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PROPONENT USE → uniformity removes discriminatory personal-law provisions",
+            "CRITIC USE → an unconsulted code can universalise one community's template"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FORMAL EQUALITY → identical rules applied regardless of religion",
+            "SUBSTANTIVE EQUALITY → whether the arrangement improves real position"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CRITIC USE → an unconsulted code can universalise one community's template.",
+      "source_references": [
+        "Two equalities and two rights claims",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\15_Secularism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\15_Secularism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g2\\indian-society-15_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "AUTONOMY AND INDIVIDUAL RIGHTS",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "AUTONOMY AND INDIVIDUAL RIGHTS",
+          "role": "primary"
+        },
+        {
+          "text": "COMMUNITY AUTONOMY",
+          "role": "outcome"
+        },
+        {
+          "text": "THE GROUP GOVERNS ITS OWN FAMILY-LAW AFFAIRS",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIVIDUAL RIGHTS",
+          "role": "evidence"
+        },
+        {
+          "text": "MEMBERS DISADVANTAGED INSIDE THE GROUP ARE PROTECTED",
+          "role": "primary"
+        },
+        {
+          "text": "NEITHER PRINCIPLE RESOLVES THE CONFLICT ABSOLUTELY",
+          "role": "outcome"
+        },
+        {
+          "text": "RIGHTS-SENSITIVE REFORM WITH GENUINE MULTI-COMMUNITY CONSULTATION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "COMMUNITY AUTONOMY → the group governs its own family-law affairs",
+        "INDIVIDUAL RIGHTS → members disadvantaged inside the group are protected",
+        "TENSION → neither principle resolves the conflict absolutely",
+        "RESOLUTION → rights-sensitive reform with genuine multi-community consultation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COMMUNITY AUTONOMY → the group governs its own family-law affairs",
+            "INDIVIDUAL RIGHTS → members disadvantaged inside the group are protected"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TENSION → neither principle resolves the conflict absolutely",
+            "RESOLUTION → rights-sensitive reform with genuine multi-community consultation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COMMUNITY AUTONOMY → the group governs its own family-law affairs",
+            "INDIVIDUAL RIGHTS → members disadvantaged inside the group are protected"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESOLUTION → rights-sensitive reform with genuine multi-community consultation.",
+      "source_references": [
+        "Two equalities and two rights claims",
+        "Internal diversity inside every side",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\15_Secularism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\15_Secularism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g2\\indian-society-15_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "INTERNAL DIVERSITY",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INTERNAL DIVERSITY",
+          "role": "primary"
+        },
+        {
+          "text": "NOT ONE VOICE",
+          "role": "caution"
+        },
+        {
+          "text": "WOMEN DIFFER BY CLASS, REGION, EDUCATION AND HOUSEHOLD",
+          "role": "comparison"
+        },
+        {
+          "text": "A RELIGIOUS COMMUNITY CONTAINS REFORMERS AND TRADITIONALISTS",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSULTATION DESIGN IS PART OF THE SUBSTANCE OF REFORM",
+          "role": "primary"
+        },
+        {
+          "text": "TREATING EITHER SIDE AS A UNIFIED BLOC IN THE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "NOT ONE VOICE → women differ by class, region, education and household",
+        "NOT ONE VOICE → a religious community contains reformers and traditionalists",
+        "CONSEQUENCE → consultation design is part of the substance of reform",
+        "ERROR → treating either side as a unified bloc in the argument"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NOT ONE VOICE → women differ by class, region, education and household",
+            "NOT ONE VOICE → a religious community contains reformers and traditionalists"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONSEQUENCE → consultation design is part of the substance of reform",
+            "ERROR → treating either side as a unified bloc in the argument"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NOT ONE VOICE → women differ by class, region, education and household",
+            "NOT ONE VOICE → a religious community contains reformers and traditionalists"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ERROR → treating either side as a unified bloc in the argument.",
+      "source_references": [
+        "Internal diversity inside every side",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\15_Secularism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\15_Secularism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g2\\indian-society-15_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "UTTARAKHAND STATUS CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "UTTARAKHAND STATUS CARD",
+          "role": "primary"
+        },
+        {
+          "text": "UNIFORM CIVIL CODE, UTTARAKHAND, 2024, IN FORCE FROM 27",
+          "role": "outcome"
+        },
+        {
+          "text": "THE RULES, 2025 ACCOMPANY THE CODE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE 2026 REVISION WAS REPORTED AS AN ORDINANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "IT MAY NOT BE CALLED AN AMENDMENT ACT WITHOUT",
+          "role": "caution"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "SECULARISM IS NOT ATHEISM, EQUAL RESPECT IS NOT UNCONDITIONAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CODE → Uniform Civil Code, Uttarakhand, 2024, in force from 27 January 2025",
+        "RULES → the Rules, 2025 accompany the code",
+        "AMENDMENT → the 2026 revision was reported as an ordinance",
+        "PROHIBITION → it may not be called an Amendment Act without an enacted text",
+        "CLOSE DISTINCTION: Secularism is not atheism, equal respect is not unconditional non-intervention, religious freedom is"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CODE → Uniform Civil Code, Uttarakhand, 2024, in force from 27 January 2025",
+          "AMENDMENT → the 2026 revision was reported as an ordinance",
+          "CLOSE DISTINCTION: Secularism is not atheism, equal respect is not unconditional non-intervention, religious freedom is not immunity from"
+        ],
+        [
+          "RULES → the Rules, 2025 accompany the code",
+          "PROHIBITION → it may not be called an Amendment Act without an enacted text",
+          "health, morality, public order or other rights, and minority educational rights are not a general exemption from regulation."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CODE → Uniform Civil Code, Uttarakhand, 2024, in force from 27 January 2025",
+            "RULES → the Rules, 2025 accompany the code"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AMENDMENT → the 2026 revision was reported as an ordinance",
+            "PROHIBITION → it may not be called an Amendment Act without an enacted text"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Secularism is not atheism, equal respect is not unconditional non-intervention, religious freedom is not immunity from",
+            "health, morality, public order or other rights, and minority educational rights are not a general exemption from regulation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Secularism is not atheism, equal respect is not unconditional non-intervention, religious freedom is not immunity from health, morality, public order or other rights, and minority educational rights are not a general exemption from regulation.",
+      "source_references": [
+        "The Uttarakhand code and its exact status",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\15_Secularism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\15_Secularism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g2\\indian-society-15_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "FOUR EVIDENTIARY QUESTIONS",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FOUR EVIDENTIARY QUESTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "ESTABLISHED BY THE CODE AND ITS COMMENCEMENT DATE",
+          "role": "outcome"
+        },
+        {
+          "text": "ESTABLISHED BY THE REPORTED 2026 ORDINANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "REGISTRATION, AWARENESS AND PRACTICAL ACCESS, NOT ESTABLISHED",
+          "role": "caution"
+        },
+        {
+          "text": "SOCIAL EFFECT AND COMMUNITY TRUST, NOT ESTABLISHED",
+          "role": "caution"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "USE ARTICLES 14-16, 25-30, 44 AND RELEVANT CONSTITUTIONAL DOCTRINE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ENACTMENT → established by the code and its commencement date",
+        "REVISION → established by the reported 2026 ordinance",
+        "IMPLEMENTATION → registration, awareness and practical access, not established",
+        "OUTCOME → social effect and community trust, not established",
+        "EVIDENCE LIMIT: Use Articles 14-16, 25-30, 44 and relevant constitutional doctrine with precise institutional boundaries"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ENACTMENT → established by the code and its commencement date",
+            "REVISION → established by the reported 2026 ordinance"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "IMPLEMENTATION → registration, awareness and practical access, not established",
+            "OUTCOME → social effect and community trust, not established"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Use Articles 14-16, 25-30, 44 and relevant constitutional doctrine with precise institutional boundaries",
+            "distinguish legal secularism from social outcomes, avoid homogenising religions, and qualify comparisons with strict separation or establishment models."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Use Articles 14-16, 25-30, 44 and relevant constitutional doctrine with precise institutional boundaries; distinguish legal secularism from social outcomes, avoid homogenising religions, and qualify comparisons with strict separation or establishment models.",
+      "source_references": [
+        "Enactment, implementation and comparison claims",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\15_Secularism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\15_Secularism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g2\\indian-society-15_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "SECULARISM ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "SECULARISM ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "NAME THE LEVEL AND DEFINE THE CONCEPT THE DEMAND",
+          "role": "outcome"
+        },
+        {
+          "text": "LIVED MECHANISMS, THEN THE REFORM TENSION WITH BOTH SIDES",
+          "role": "comparison"
+        },
+        {
+          "text": "TOLERANCE AGAINST ASSIMILATION AGAINST PLURALISM",
+          "role": "evidence"
+        },
+        {
+          "text": "RIGHTS-SENSITIVE CONSULTATIVE REFORM WITH THE STATUS CAVEATS STATED",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OPEN → name the level and define the concept the demand actually uses",
+        "BODY → lived mechanisms, then the reform tension with both sides fairly stated",
+        "TEST → tolerance against assimilation against pluralism",
+        "CLOSE → rights-sensitive consultative reform with the status caveats stated"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPEN → name the level and define the concept the demand actually uses",
+            "BODY → lived mechanisms, then the reform tension with both sides fairly stated"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEST → tolerance against assimilation against pluralism",
+            "CLOSE → rights-sensitive consultative reform with the status caveats stated"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN → name the level and define the concept the demand actually uses",
+            "BODY → lived mechanisms, then the reform tension with both sides fairly stated"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → rights-sensitive consultative reform with the status caveats stated.",
+      "source_references": [
+        "Question ownership and the answer spine",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\15_Secularism.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\15_Secularism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g2\\indian-society-15_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "STATE-LEVEL UCC AS A FEDERALISM-LINKED SOCIAL EXPERIMENT (CROSS-LINKED)",
+          "role": "institution"
+        },
+        {
+          "text": "MULTI-COMMUNITY CONSULTATION MECHANISMS",
+          "role": "comparison"
+        },
+        {
+          "text": "GENUINE CONSULTATION PROCESSES (RATHER",
+          "role": "evidence"
+        },
+        {
+          "text": "BOUNDARY CASE 1 — SUBSTANTIVE-EQUALITY GAIN",
+          "role": "primary"
+        },
+        {
+          "text": "A WOMAN FROM A COMMUNITY WHOSE",
+          "role": "outcome"
+        },
+        {
+          "text": "BOUNDARY CASE 2 — COMMUNITY-AUTONOMY CONCERN",
+          "role": "comparison"
+        },
+        {
+          "text": "A MINORITY COMMUNITY PERCEIVING THAT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: State-level UCC as a federalism-linked social experiment (cross-linked): whether",
+            "CAUTION: Multi-community consultation mechanisms: genuine consultation processes (rather",
+            "CAUTION: Boundary case 1 — substantive-equality gain: a woman from a community whose",
+            "CAUTION: Boundary case 2 — community-autonomy concern: a minority community perceiving that"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Boundary case 3 — implementation evidence and stability-versus-grievance balance: a",
+            "CAUTION: Equality-versus-autonomy trade-off: no single UCC design can simultaneously",
+            "CAUTION: Consultation-versus-timeline trade-off: genuine multi-community consultation before",
+            "CAUTION: Single-state-precedent-versus-national-uniformity trade-off: a state-level UCC"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "The Uniform Civil Code, Uttarakhand, 2024 has been in force since 27 January 2025, and",
+            "CAUTION: Uttarakhand's post-Independence state code must be distinguished from Goa's separate,",
+            "CAUTION: Substantive equality and community autonomy are the two principal, genuinely competing",
+            "CAUTION: Doctrinal enactment (legislating a UCC) and social implementation (registration,"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

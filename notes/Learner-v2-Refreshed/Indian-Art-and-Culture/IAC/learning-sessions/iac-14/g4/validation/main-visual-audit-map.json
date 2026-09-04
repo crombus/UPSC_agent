@@ -1,0 +1,2842 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g4\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g4\\indian-art-and-culture-14_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "indian-art-and-culture-14",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Heritage Conservation, Institutions and UNESCO - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 389.624
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 160.622
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 55,
+      "markdown_body_line_end": 55,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-14\\g4\\assets\\indian-art-and-culture-14_Teaching-Navigation_2026-09-01.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 337.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 799.89
+        }
+      },
+      "pdf_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 69,
+      "markdown_body_line_end": 69,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The four-category firewall should be analysed as a relation among Four-category firewall, World Heritage mechanism, Intangible heritage mechanism, Memory of the World mechanism and GI is domestic IP, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 617.29
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 536.422
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 84,
+      "markdown_body_line_end": 100,
+      "heading": "VISUAL FIRST",
+      "preview": "THE FOUR-CATEGORY FIREWALL",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 341.622
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 180.622
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 132,
+      "markdown_body_line_end": 139,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 275.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 171.023
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 151,
+      "markdown_body_line_end": 151,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "World Heritage as conditional obligation should be analysed as a relation among World Heritage mechanism and Danger List conditionality, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 166,
+      "markdown_body_line_end": 173,
+      "heading": "VISUAL FIRST",
+      "preview": "WORLD HERITAGE AS CONDITIONAL OBLIGATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 313.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 202,
+      "markdown_body_line_end": 209,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 713.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 616.023
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 221,
+      "markdown_body_line_end": 221,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Living and documentary heritage should be analysed as a relation among Intangible heritage mechanism and Memory of the World mechanism, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 466.823
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 400.155
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 236,
+      "markdown_body_line_end": 243,
+      "heading": "VISUAL FIRST",
+      "preview": "LIVING AND DOCUMENTARY HERITAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 272,
+      "markdown_body_line_end": 279,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 362.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 264.623
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 291,
+      "markdown_body_line_end": 291,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "ASI and the statutory base should be analysed as a relation among ASI and its statutes, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 143.823
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 77.155
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 306,
+      "markdown_body_line_end": 310,
+      "heading": "VISUAL FIRST",
+      "preview": "ASI AND THE STATUTORY BASE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 647.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 606.691
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 338,
+      "markdown_body_line_end": 345,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 326.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 230.173
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 357,
+      "markdown_body_line_end": 357,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Akademis and cultural institutions should be analysed as a relation among Akademi mandate map and Documentary and research institutions, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 372,
+      "markdown_body_line_end": 379,
+      "heading": "VISUAL FIRST",
+      "preview": "AKADEMIS AND CULTURAL INSTITUTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 476.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 408,
+      "markdown_body_line_end": 415,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 137.024
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 39.355
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 427,
+      "markdown_body_line_end": 427,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Constitutional heritage duties should be analysed as a relation among Constitutional heritage frame, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 442,
+      "markdown_body_line_end": 446,
+      "heading": "VISUAL FIRST",
+      "preview": "CONSTITUTIONAL HERITAGE DUTIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 417.824
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 376.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 474,
+      "markdown_body_line_end": 481,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 68.424
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 726.923
+        }
+      },
+      "pdf_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 493,
+      "markdown_body_line_end": 493,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "AMASR zones and UNESCO buffers should be analysed as a relation among AMASR zone firewall, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 591.923
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 525.255
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 508,
+      "markdown_body_line_end": 512,
+      "heading": "VISUAL FIRST",
+      "preview": "AMASR ZONES AND UNESCO BUFFERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 330.455
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 289.455
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 540,
+      "markdown_body_line_end": 547,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 733.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 636.223
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 559,
+      "markdown_body_line_end": 559,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Threats and instrument fit should be analysed as a relation among Threat-to-instrument matching, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 501.223
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 434.555
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 574,
+      "markdown_body_line_end": 578,
+      "heading": "VISUAL FIRST",
+      "preview": "THREATS AND INSTRUMENT FIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 606,
+      "markdown_body_line_end": 613,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 466.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 378.123
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 625,
+      "markdown_body_line_end": 625,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Conservation versus restoration should be analysed as a relation among Conservation and restoration, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 243.123
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 176.455
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 640,
+      "markdown_body_line_end": 644,
+      "heading": "VISUAL FIRST",
+      "preview": "CONSERVATION VERSUS RESTORATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 692.691
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 672,
+      "markdown_body_line_end": 679,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 412.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 315.023
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 691,
+      "markdown_body_line_end": 691,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Community rights and living use should be analysed as a relation among Community rights in living sites, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 180.023
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 113.355
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 706,
+      "markdown_body_line_end": 710,
+      "heading": "VISUAL FIRST",
+      "preview": "COMMUNITY RIGHTS AND LIVING USE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 682.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 641.091
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 738,
+      "markdown_body_line_end": 745,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 361.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 263.423
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 757,
+      "markdown_body_line_end": 757,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Moidams form and status should be analysed as a relation among Moidams evidence, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 142.623
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 75.955
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 772,
+      "markdown_body_line_end": 776,
+      "heading": "VISUAL FIRST",
+      "preview": "MOIDAMS FORM AND STATUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 647.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 606.691
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 804,
+      "markdown_body_line_end": 811,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 326.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 238.523
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 823,
+      "markdown_body_line_end": 823,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Recent World Heritage chronology should be analysed as a relation among Recent World Heritage ledger, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 103.523
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 801.024
+        }
+      },
+      "pdf_pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 838,
+      "markdown_body_line_end": 842,
+      "heading": "VISUAL FIRST",
+      "preview": "RECENT WORLD HERITAGE CHRONOLOGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 606.224
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 870,
+      "markdown_body_line_end": 877,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 242.624
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 144.955
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 889,
+      "markdown_body_line_end": 889,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Indian ICH chronology should be analysed as a relation among Intangible heritage ledger, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 904,
+      "markdown_body_line_end": 908,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIAN ICH CHRONOLOGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 936,
+      "markdown_body_line_end": 943,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 111.024
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 779.823
+        }
+      },
+      "pdf_pages": [
+        23,
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 955,
+      "markdown_body_line_end": 955,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Schemes, funds and statutes should be analysed as a relation among Schemes, funds and statutes, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 644.823
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 578.155
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 970,
+      "markdown_body_line_end": 974,
+      "heading": "VISUAL FIRST",
+      "preview": "SCHEMES, FUNDS AND STATUTES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 383.355
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 342.355
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1002,
+      "markdown_body_line_end": 1009,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 62.355
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 726.923
+        }
+      },
+      "pdf_pages": [
+        24,
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1021,
+      "markdown_body_line_end": 1021,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sarnath, safeguarding PYQ and final spine should be analysed as a relation among Current World Heritage status and Verified heritage PYQ routes, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 558.723
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 492.055
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1036,
+      "markdown_body_line_end": 1043,
+      "heading": "VISUAL FIRST",
+      "preview": "SARNATH, SAFEGUARDING PYQ AND FINAL SPINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1072,
+      "markdown_body_line_end": 1079,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 348.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 250.423
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1083,
+      "markdown_body_line_end": 1095,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Indian Art & Culture | **Tier:** Must-Do (foundation) | **GS Paper:** GS-I. **Core area:** Tangible/intangible/documentary heritage categories; ASI, NMMA, SNA, LKA, Sahitya Akademi, IGNCA/archives; AMASR and Antiquities law bas",
+      "metadata": {
+        "line_count": 13
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 250.423
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 98.555
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1106,
+      "markdown_body_line_end": 1113,
+      "heading": "2. Essential vocabulary",
+      "preview": "Term | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Term",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 722.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 402.89
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1171,
+      "markdown_body_line_end": 1188,
+      "heading": "5. Visual map or comparison table",
+      "preview": "TANGIBLE          INTANGIBLE         DOCUMENTARY        DOMESTIC IP",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 662.691
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 491.691
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1190,
+      "markdown_body_line_end": 1195,
+      "heading": "5. Visual map or comparison table",
+      "preview": "Category | Governing instrument | India's count (book-period)",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Category",
+          "Governing instrument",
+          "India's count (book-period)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 491.691
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 348.69
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1197,
+      "markdown_body_line_end": 1203,
+      "heading": "5. Visual map or comparison table",
+      "preview": "Current sequence | Status",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Current sequence",
+          "Status"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 348.69
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 206.888
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1343,
+      "markdown_body_line_end": 1347,
+      "heading": "13. Answer architecture (10/15/20-mark support)",
+      "preview": "**Core-sufficiency note.** This is the folder's capstone and the owner of every conservation, institution and heritage-status demand — the demand family most likely to appear in an unfamiliar wording, because it is where art and culture mee",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1351,
+      "markdown_body_line_end": 1355,
+      "heading": "13.0 Direct Mains demands owned by this Core file",
+      "preview": "**Core routing supersedes older `advanced/` pointers (final pass, 2026-08-13).** The controlling ledger [`_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`](../../_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md) routes the demand below to `advan",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 728.424
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 647.556
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1357,
+      "markdown_body_line_end": 1359,
+      "heading": "13.0 Direct Mains demands owned by this Core file",
+      "preview": "Year | Verbatim routed demand | Directive · marks | ✅ Core section that answers it",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Verbatim routed demand",
+          "Directive · marks",
+          "✅ Core section that answers it"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 647.556
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 582.154
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1382,
+      "markdown_body_line_end": 1391,
+      "heading": "13.1 Directive and demand map",
+      "preview": "If the question says | It is really testing | Do NOT write",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "If the question says",
+          "It is really testing",
+          "Do NOT write"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 389.754
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 94.753
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1421,
+      "markdown_body_line_end": 1427,
+      "heading": "13.3 Mark-scaled structures",
+      "preview": "Marks | Structure",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Marks",
+          "Structure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 536.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 237.69
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1431,
+      "markdown_body_line_end": 1436,
+      "heading": "13.4 Evidence bank A - the four-category firewall (the highest-frequency error)",
+      "preview": "Category | Governing instrument | Granting body | India's status (verified 4 September 2026)",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Category",
+          "Governing instrument",
+          "Granting body",
+          "India's status (verified 4 September 2026)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 586.89
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1444,
+      "markdown_body_line_end": 1450,
+      "heading": "13.5 Evidence bank B - institutions with precise mandates",
+      "preview": "Institution | ✅ Mandate and detail",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Institution",
+          "✅ Mandate and detail"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 536.49
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 215.488
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1477,
+      "markdown_body_line_end": 1485,
+      "heading": "13.7 Evidence bank D - threats, mechanisms and responses",
+      "preview": "Pressure | Mechanism of damage | Response available in Core",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Pressure",
+          "Mechanism of damage",
+          "Response available in Core"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 662.891
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 344.29
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1520,
+      "markdown_body_line_end": 1527,
+      "heading": "13.8A Evidence bank E+ - the dated Indian World Heritage ledger (2016-2026)",
+      "preview": "**Why this section exists.** A hostile review found that this file carried India's **WHS count** and its two most recent properties but no **dated, named ledger**, so cross-links from topics 01, 03 and 05 — Dholavira, the Hoysala ensembles,",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 719.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 610.024
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1529,
+      "markdown_body_line_end": 1539,
+      "heading": "13.8A Evidence bank E+ - the dated Indian World Heritage ledger (2016-2026)",
+      "preview": "Year | ✅ Official property name | State / UT | Components and notes | Cross-link",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 9,
+        "headers": [
+          "Year",
+          "✅ Official property name",
+          "State / UT",
+          "Components and notes",
+          "Cross-link"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 610.024
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 319.39
+        }
+      },
+      "pdf_pages": [
+        35,
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1568,
+      "markdown_body_line_end": 1576,
+      "heading": "13.8B Evidence bank E++ - the dated Indian Intangible Cultural Heritage ledger",
+      "preview": "**Why this section exists.** A hostile review found that this file carried India's **ICH count** and a \"latest inclusion\" caution, but no **dated element-by-element ledger**, so a candidate could not say when Kutiyattam, Yoga or Durga Puja ",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 700.024
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1578,
+      "markdown_body_line_end": 1595,
+      "heading": "13.8B Evidence bank E++ - the dated Indian Intangible Cultural Heritage ledger",
+      "preview": "Year | ✅ Official element name (UNESCO Representative List) | Domain | Region / association",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 16,
+        "headers": [
+          "Year",
+          "✅ Official element name (UNESCO Representative List)",
+          "Domain",
+          "Region / association"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 700.024
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 580.89
+        }
+      },
+      "pdf_pages": [
+        37,
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1629,
+      "markdown_body_line_end": 1637,
+      "heading": "13.8C Evidence bank E+++ - heritage schemes and participation instruments, distinguished from statute",
+      "preview": "**Why this section exists.** The same review found that this file owned the **statutes** (AMASR 1958, Antiquities 1972, GI 1999) and the **institutions** (ASI and the akademis) but named **no scheme** — so any question on public-private par",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 312.29
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 188.822
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1639,
+      "markdown_body_line_end": 1645,
+      "heading": "13.8C Evidence bank E+++ - heritage schemes and participation instruments, distinguished from statute",
+      "preview": "Instrument | Type | ✅ What is verified, and by whom | ⚠️ Status discipline",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Instrument",
+          "Type",
+          "✅ What is verified, and by whom",
+          "⚠️ Status discipline"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 193.89
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1664,
+      "markdown_body_line_end": 1669,
+      "heading": "13.9 Conservation versus restoration, and community rights",
+      "preview": "Question | Conservation | Restoration",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Question",
+          "Conservation",
+          "Restoration"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 633.09
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1765,
+      "markdown_body_line_end": 1767,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 302.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 221.424
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1773,
+      "markdown_body_line_end": 1775,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 169.824
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 62.422
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1781,
+      "markdown_body_line_end": 1781,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 770.091
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 725.424
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1788,
+      "markdown_body_line_end": 1790,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 725.424
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 630.356
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1796,
+      "markdown_body_line_end": 1798,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 578.756
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 492.354
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1804,
+      "markdown_body_line_end": 1804,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 453.154
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 408.487
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1811,
+      "markdown_body_line_end": 1813,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 408.487
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 327.619
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1819,
+      "markdown_body_line_end": 1821,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 276.019
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 189.617
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1827,
+      "markdown_body_line_end": 1827,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 150.417
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 105.75
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2781,
+      "markdown_body_line_end": 2783,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 632.891
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 552.024
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2789,
+      "markdown_body_line_end": 2791,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 500.424
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 393.022
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2797,
+      "markdown_body_line_end": 2797,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 353.822
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 309.154
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2804,
+      "markdown_body_line_end": 2806,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 309.154
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 214.087
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2812,
+      "markdown_body_line_end": 2814,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 162.487
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 76.085
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2820,
+      "markdown_body_line_end": 2820,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2827,
+      "markdown_body_line_end": 2829,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 758.624
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 677.756
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2835,
+      "markdown_body_line_end": 2837,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 626.156
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 539.754
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2843,
+      "markdown_body_line_end": 2843,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 500.554
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 455.887
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2858,
+      "markdown_body_line_end": 2859,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 372.087
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 305.419
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2865,
+      "markdown_body_line_end": 2867,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 253.819
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 156.917
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2873,
+      "markdown_body_line_end": 2873,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 117.717
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 73.05
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3128,
+      "markdown_body_line_end": 3138,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Indian Art & Culture | **Tier:** Advanced | **GS Paper:** GS-I. **Core area:** UNESCO criteria and management trade-offs; conservation ethics; repatriation/provenance discipline; digitisation; institutional and policy trade-off",
+      "metadata": {
+        "line_count": 11
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 219.091
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 103.424
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3159,
+      "markdown_body_line_end": 3165,
+      "heading": "2. Advanced vocabulary",
+      "preview": "Term | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Term",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 651.691
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 308.29
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3169,
+      "markdown_body_line_end": 3174,
+      "heading": "3. Comparative framework",
+      "preview": "Benefit of WHS status | Corresponding trade-off/cost | Where documented",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Benefit of WHS status",
+          "Corresponding trade-off/cost",
+          "Where documented"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 286.29
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 98.488
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3203,
+      "markdown_body_line_end": 3225,
+      "heading": "5. Visual synthesis table",
+      "preview": "UNESCO WHS INSCRIPTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 21,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 575.691
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 354.691
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3350,
+      "markdown_body_line_end": 3351,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 429.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 362.624
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3357,
+      "markdown_body_line_end": 3359,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 311.024
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 214.122
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3365,
+      "markdown_body_line_end": 3365,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 174.922
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 130.254
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3374,
+      "markdown_body_line_end": 3382,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Four-category firewall",
+      "preview": "WHS -> tangible or mixed property",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 733.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 650.891
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3386,
+      "markdown_body_line_end": 3391,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Conditional-status loop",
+      "preview": "INSCRIPTION -> recognition and duty",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 628.891
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 577.091
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3395,
+      "markdown_body_line_end": 3400,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Institution mandate map",
+      "preview": "ASI -> monuments and archaeology",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 555.091
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 503.291
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3404,
+      "markdown_body_line_end": 3409,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Constitutional ladder",
+      "preview": "ARTICLE 29 -> community cultural right",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 38
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 481.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 429.491
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3413,
+      "markdown_body_line_end": 3418,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Boundary firewall",
+      "preview": "AMASR 100 m -> generally prohibited",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 407.491
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 355.691
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3422,
+      "markdown_body_line_end": 3430,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Threat-response matrix",
+      "preview": "VISITOR LOAD -> access management",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 333.691
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 251.291
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3434,
+      "markdown_body_line_end": 3439,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Conservation-restoration test",
+      "preview": "CONSERVE -> stabilise existing fabric",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3443,
+      "markdown_body_line_end": 3448,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Living-site balance",
+      "preview": "ACTIVE WORSHIP? -> protect access",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3452,
+      "markdown_body_line_end": 3457,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Moidams form map",
+      "preview": "VAULT -> hollow royal burial chamber",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3461,
+      "markdown_body_line_end": 3466,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Recent WH ledger",
+      "preview": "2016 -> Nalanda",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3470,
+      "markdown_body_line_end": 3475,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Scheme-statute firewall",
+      "preview": "AMASR / ANTIQUITIES -> statutes",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3479,
+      "markdown_body_line_end": 3487,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Heritage answer spine",
+      "preview": "DIAGNOSE -> category and threat",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 335.891
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    }
+  ]
+}

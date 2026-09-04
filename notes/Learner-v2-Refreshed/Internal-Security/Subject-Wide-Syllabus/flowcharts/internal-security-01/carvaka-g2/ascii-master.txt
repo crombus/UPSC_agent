@@ -1,0 +1,74 @@
+ASCII MASTER FLOW — PANEL 1/12: Security boundary map
+INTERNAL -> peace, law and order, rule of law, sovereignty within territory
+EXTERNAL -> defence against foreign aggression
+INTERFACE -> neighbours, proxies, borders, finance and information
+RULE -> different lead institutions, connected threat environment
+
+ASCII MASTER FLOW — PANEL 2/12: Kautilya fourfold matrix
+INTERNAL | EXTERNAL
+INTERNALLY AIDED EXTERNAL | EXTERNALLY AIDED INTERNAL
+DIAGNOSIS -> identify actor and support relationship separately
+TRAP -> proxy status does not erase sponsor attribution standards
+
+ASCII MASTER FLOW — PANEL 3/12: Protected-attribute rail
+THREAT -> territorial integrity / peace / law and order
+THREAT -> rule of law / equality / freedom from fear
+THREAT -> coexistence / communal harmony
+ANSWER -> name the exact attribute under stress
+
+ASCII MASTER FLOW — PANEL 4/12: Eight-element doctrine wheel
+POLITICAL + SOCIO-ECONOMIC + GOVERNANCE
+POLICE / FORCES + CENTRE-STATE + INTELLIGENCE
+BORDER MANAGEMENT + CYBER SECURITY
+USE -> hypotheses to test, not eight generic headings
+
+ASCII MASTER FLOW — PANEL 5/12: Cause-trigger-actor chain
+STRUCTURAL CONDITION -> exclusion, weak justice, porous border
+TRIGGER -> incident, notice, arrest, riot or shock
+ORGANISED ACTOR -> recruitment, coercion, parallel authority
+CONSEQUENCE -> violence, fear, legitimacy loss
+
+ASCII MASTER FLOW — PANEL 6/12: Risk grammar
+THREAT + VULNERABILITY
+        | countered by CAPABILITY
+        v
+CONSEQUENCE if exploitation succeeds
+POLICY LEVER -> reduce vulnerability and build lawful capability
+
+ASCII MASTER FLOW — PANEL 7/12: Federal competence ladder
+STATE LIST ENTRY 1 -> public order
+STATE LIST ENTRY 2 -> police
+UNION LIST ENTRY 2A -> armed force in aid of civil power
+ARTICLE 355 -> Union protective duty
+END-STATE -> cooperative action without competence erasure
+
+ASCII MASTER FLOW — PANEL 8/12: Response calibration
+VIOLENT SECESSION / SEPARATISM -> lawful coercive containment
+REGIONAL / ETHNIC ASPIRATION -> dialogue and accommodation
+MIXED CASE -> security plus political settlement
+SAFEGUARD -> necessity, proportionality, accountability
+
+ASCII MASTER FLOW — PANEL 9/12: Security-development sequence
+SECURE ACCESS -> HOLD THROUGH CIVIL ADMINISTRATION
+DELIVER RIGHTS / SERVICES -> RESTORE TRUST
+REASSESS VULNERABILITY -> PREVENT RELAPSE
+RULE -> scheme launch is not governance outcome
+
+ASCII MASTER FLOW — PANEL 10/12: Prevention versus response
+PREVENTION -> intelligence, trust, vulnerability reduction
+RESPONSE -> containment, rescue, investigation support
+MEASUREMENT -> absence of event versus visible outputs
+BUDGET TRAP -> visibility can bias resources toward response
+
+ASCII MASTER FLOW — PANEL 11/12: Legal-rung firewall
+LAW -> NOTIFICATION -> DEPLOYMENT / REGISTRATION
+INVESTIGATION -> CHARGE-SHEET -> TRIAL / DECISION
+AGREEMENT -> IMPLEMENTATION -> VERIFIED OUTCOME
+RULE -> never jump to the next rung
+
+ASCII MASTER FLOW — PANEL 12/12: PYQ answer spine
+DEFINE -> CLASSIFY ACTOR / THREAT
+DIAGNOSE -> ATTRIBUTE + VULNERABILITY + DOCTRINE GAP
+MAP -> STATE LEAD + UNION AID + COORDINATION
+CALIBRATE -> SECURITY + DEVELOPMENT + RIGHTS
+QUALIFY -> EVIDENCE RUNG, ATTRIBUTION AND END-STATE

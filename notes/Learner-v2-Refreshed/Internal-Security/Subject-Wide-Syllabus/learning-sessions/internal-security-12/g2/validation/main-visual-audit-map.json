@@ -1,0 +1,1778 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-12\\g2\\internal-security-12_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-12\\g2\\internal-security-12_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "internal-security-12",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Security Forces, Intelligence Coordination and Rights - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 28,
+      "markdown_body_line_end": 39,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 373.09
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 65,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-12\\g2\\assets\\internal-security-12_Teaching-Navigation_2026-09-04.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 541.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 234.356
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 79,
+      "markdown_body_line_end": 79,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Constitutional allocation and cooperative federalism as a sequence: identify Constitutional allocation, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 94,
+      "markdown_body_line_end": 101,
+      "heading": "VISUAL FIRST",
+      "preview": "CONSTITUTIONAL ALLOCATION AND COOPERATIVE FEDERALISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 112
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 452.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 138,
+      "markdown_body_line_end": 155,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CONSTITUTIONAL ALLOCATION AND COOPERATIVE FEDERALISM",
+      "preview": "START / CONCEPT: FOUNDATION — Constitutional allocation and cooperative federalism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 269
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 650.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 419.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 166,
+      "markdown_body_line_end": 166,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Armed Forces CAPFs State police and specialised agencies as a sequence: identify Current CAPF map, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 265.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 184.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 181,
+      "markdown_body_line_end": 185,
+      "heading": "VISUAL FIRST",
+      "preview": "ARMED FORCES CAPFS STATE POLICE AND SPECIALISED AGENCIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 692.691
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 221,
+      "markdown_body_line_end": 238,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - ARMED FORCES CAPFS STATE POLICE AND SPECIALISED AGENCIES",
+      "preview": "START / CONCEPT: FOUNDATION — Armed Forces CAPFs State police and specialised agencies",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 264
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 267.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 46.491
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 249,
+      "markdown_body_line_end": 249,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Seven-force CAPF map and separate organisations as a sequence: identify Force-mandate fingerprints, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 264,
+      "markdown_body_line_end": 268,
+      "heading": "VISUAL FIRST",
+      "preview": "SEVEN-FORCE CAPF MAP AND SEPARATE ORGANISATIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 109
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 304,
+      "markdown_body_line_end": 321,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - SEVEN-FORCE CAPF MAP AND SEPARATE ORGANISATIONS",
+      "preview": "START / CONCEPT: FOUNDATION — Seven-force CAPF map and separate organisations",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 265
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 442.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 332,
+      "markdown_body_line_end": 332,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Border internal-security and installation mandates as a sequence: identify Dual-and-specialised forces, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 288.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 207.424
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 347,
+      "markdown_body_line_end": 351,
+      "heading": "VISUAL FIRST",
+      "preview": "BORDER INTERNAL-SECURITY AND INSTALLATION MANDATES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 387,
+      "markdown_body_line_end": 404,
+      "heading": "CLOSING RECALL FLOW - CORE - BORDER INTERNAL-SECURITY AND INSTALLATION MANDATES",
+      "preview": "START / CONCEPT: CORE — Border internal-security and installation mandates",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 269
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 305.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 64.691
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 415,
+      "markdown_body_line_end": 415,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Assam Rifles Coast Guard and command arrangements as a sequence: identify Home Guards status, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 430,
+      "markdown_body_line_end": 434,
+      "heading": "VISUAL FIRST",
+      "preview": "ASSAM RIFLES COAST GUARD AND COMMAND ARRANGEMENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 102
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 370.424
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 319.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 470,
+      "markdown_body_line_end": 487,
+      "heading": "CLOSING RECALL FLOW - CORE - ASSAM RIFLES COAST GUARD AND COMMAND ARRANGEMENTS",
+      "preview": "START / CONCEPT: CORE — Assam Rifles Coast Guard and command arrangements",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 259
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 627.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 386.091
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 498,
+      "markdown_body_line_end": 498,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Home Guards and Border Wing Home Guards as a sequence: identify Army Corps PYQ facts, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 232.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 151.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 513,
+      "markdown_body_line_end": 520,
+      "heading": "VISUAL FIRST",
+      "preview": "HOME GUARDS AND BORDER WING HOME GUARDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 112
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 730.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 649.691
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 557,
+      "markdown_body_line_end": 574,
+      "heading": "CLOSING RECALL FLOW - CORE - HOME GUARDS AND BORDER WING HOME GUARDS",
+      "preview": "START / CONCEPT: CORE — Home Guards and Border Wing Home Guards",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 251
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 585,
+      "markdown_body_line_end": 585,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Army Corps routed factual anchors as a sequence: identify Intelligence cycle, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 411.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 344.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 600,
+      "markdown_body_line_end": 604,
+      "heading": "VISUAL FIRST",
+      "preview": "ARMY CORPS ROUTED FACTUAL ANCHORS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 115
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 640,
+      "markdown_body_line_end": 657,
+      "heading": "CLOSING RECALL FLOW - CORE - ARMY CORPS ROUTED FACTUAL ANCHORS",
+      "preview": "START / CONCEPT: CORE — Army Corps routed factual anchors",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 243
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 338.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 97.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 668,
+      "markdown_body_line_end": 668,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read State-police first-response and investigation primacy as a sequence: identify IB-R&AW boundary, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 683,
+      "markdown_body_line_end": 687,
+      "heading": "VISUAL FIRST",
+      "preview": "STATE-POLICE FIRST-RESPONSE AND INVESTIGATION PRIMACY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 357.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 723,
+      "markdown_body_line_end": 740,
+      "heading": "CLOSING RECALL FLOW - CORE - STATE-POLICE FIRST-RESPONSE AND INVESTIGATION PRIMACY",
+      "preview": "START / CONCEPT: CORE — State-police first-response and investigation primacy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 261
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 710.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 499.691
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 751,
+      "markdown_body_line_end": 751,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Intelligence cycle collection analysis and feedback as a sequence: identify MAC-SMAC coordination, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 345.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 264.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 766,
+      "markdown_body_line_end": 770,
+      "heading": "VISUAL FIRST",
+      "preview": "INTELLIGENCE CYCLE COLLECTION ANALYSIS AND FEEDBACK",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 806,
+      "markdown_body_line_end": 823,
+      "heading": "CLOSING RECALL FLOW - CORE - INTELLIGENCE CYCLE COLLECTION ANALYSIS AND FEEDBACK",
+      "preview": "START / CONCEPT: CORE — Intelligence cycle collection analysis and feedback",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 264
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 334.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 93.091
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 834,
+      "markdown_body_line_end": 834,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read IB R&AW and absence of arrest power as a sequence: identify NATGRID boundary, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 665.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 598.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 849,
+      "markdown_body_line_end": 853,
+      "heading": "VISUAL FIRST",
+      "preview": "IB R&AW AND ABSENCE OF ARREST POWER",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 117
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 417.824
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 366.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 889,
+      "markdown_body_line_end": 906,
+      "heading": "CLOSING RECALL FLOW - CORE - IB R&AW AND ABSENCE OF ARREST POWER",
+      "preview": "START / CONCEPT: CORE — IB R&AW and absence of arrest power",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 243
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 917,
+      "markdown_body_line_end": 917,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: NIA mandate - NSG mandate Qualified use: Treat sharing as coordination, not investigation or command.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 350.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 284.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 932,
+      "markdown_body_line_end": 939,
+      "heading": "VISUAL FIRST",
+      "preview": "MAC SMAC AND INTELLIGENCE SHARING",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 110
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 976,
+      "markdown_body_line_end": 993,
+      "heading": "CLOSING RECALL FLOW - CORE - MAC SMAC AND INTELLIGENCE SHARING",
+      "preview": "START / CONCEPT: CORE — MAC SMAC and intelligence sharing",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 242
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1004,
+      "markdown_body_line_end": 1004,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read NATGRID data integration and safeguards as a sequence: identify Intelligence-evidence chain, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 321.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1019,
+      "markdown_body_line_end": 1023,
+      "heading": "VISUAL FIRST",
+      "preview": "NATGRID DATA INTEGRATION AND SAFEGUARDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 135
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1059,
+      "markdown_body_line_end": 1076,
+      "heading": "CLOSING RECALL FLOW - CORE - NATGRID DATA INTEGRATION AND SAFEGUARDS",
+      "preview": "START / CONCEPT: CORE — NATGRID data integration and safeguards",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 287
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 281.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        27,
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1087,
+      "markdown_body_line_end": 1087,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read NIA investigation NSG response and Special Courts as a sequence: identify Federal coordination, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1102,
+      "markdown_body_line_end": 1106,
+      "heading": "VISUAL FIRST",
+      "preview": "NIA INVESTIGATION NSG RESPONSE AND SPECIAL COURTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 112
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1142,
+      "markdown_body_line_end": 1159,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - NIA INVESTIGATION NSG RESPONSE AND SPECIAL COURTS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — NIA investigation NSG response and Special Courts",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 261
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 650.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 409.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1170,
+      "markdown_body_line_end": 1170,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Intelligence lead evidence attribution and prosecution as a sequence: identify Police-reform architecture, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next sta",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 255.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 174.424
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1185,
+      "markdown_body_line_end": 1192,
+      "heading": "VISUAL FIRST",
+      "preview": "INTELLIGENCE LEAD EVIDENCE ATTRIBUTION AND PROSECUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 662.691
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1229,
+      "markdown_body_line_end": 1246,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - INTELLIGENCE LEAD EVIDENCE ATTRIBUTION AND PROSECUTION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Intelligence lead evidence attribution and prosecution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 272
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 553.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1257,
+      "markdown_body_line_end": 1257,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Intelligence Bureau and the Research and Analysis Wing operate on executive orders (IB tracing to 1887; R&AW created in 1968 under the Cabinet Secretariat), without an enabling Act or a statutory parliamentary oversight committee. ⚠️ Th",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 314.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 91.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1272,
+      "markdown_body_line_end": 1279,
+      "heading": "VISUAL FIRST",
+      "preview": "POLICE REFORM USE OF FORCE RIGHTS AND ACCOUNTABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 109
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 679.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 598.091
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1315,
+      "markdown_body_line_end": 1328,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Internal Security | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III. **Core area:** CAPF mandates; Assam Rifles, SPG, RPF and Indian Coast Guard; IB/NIA/MAC/NATGRID intelligence architecture; the intelligence-to- prosecut",
+      "metadata": {
+        "line_count": 14
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 629.024
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1332,
+      "markdown_body_line_end": 1359,
+      "heading": "1. Visual foundation",
+      "preview": "CAPFs (MHA's current classification)",
+      "metadata": {
+        "language": "text",
+        "line_count": 26,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 607.024
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 336.024
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1368,
+      "markdown_body_line_end": 1375,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 456.29
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1611,
+      "markdown_body_line_end": 1613,
+      "heading": "12. Core answer architecture - mandates, cooperative federalism and accountability",
+      "preview": "**Core firewall:** This Core section independently supports the 2023 agencies route and the 2023/2026 Prelims routing. Advanced content is optional, not marks-essential.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 730.491
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 663.824
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1653,
+      "markdown_body_line_end": 1658,
+      "heading": "Claim -> evidence -> analysis -> qualification bank",
+      "preview": "Claim | Named evidence/example | What it proves | Qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim",
+          "Named evidence/example",
+          "What it proves",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 332.224
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 121.322
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1694,
+      "markdown_body_line_end": 1711,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - POLICE REFORM USE OF FORCE RIGHTS AND ACCOUNTABILITY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Police reform use of force rights and accountability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1394
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 293.291
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2880,
+      "markdown_body_line_end": 2892,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Internal Security | **Tier:** Advanced | **GS Paper:** GS-III. **Core area:** Overlap and command-and-control diagnosis; state-police capacity as the structural bottleneck; technology/intelligence-sharing reform; civil-libertie",
+      "metadata": {
+        "line_count": 13
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 613.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 469.224
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2912,
+      "markdown_body_line_end": 2919,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 198.69
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2923,
+      "markdown_body_line_end": 2960,
+      "heading": "3. Causal model",
+      "preview": "CONSTITUTIONAL DIVISION OF POWERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 36,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 416.291
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3217,
+      "markdown_body_line_end": 3226,
+      "heading": "Security Forces, Intelligence Coordination and Rights: HOME GUARDS, CORPS FACTS AND THREE CONSERVATIVE PYQ SPINES",
+      "preview": "FIX STATE LIST 1 2 UNION LIST 2A AND ARTICLE 355",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 525.891
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 434.891
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3236,
+      "markdown_body_line_end": 3242,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Constitutional security map",
+      "preview": "STATE LIST 1 -> PUBLIC ORDER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3246,
+      "markdown_body_line_end": 3251,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Force-category hierarchy",
+      "preview": "ARMED FORCES -> MILITARY SERVICES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 651.491
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3255,
+      "markdown_body_line_end": 3260,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Current CAPF firewall",
+      "preview": "CAPFs -> ASSAM RIFLES / BSF / CISF / CRPF / ITBP / NSG / SSB",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 629.491
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 577.691
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3264,
+      "markdown_body_line_end": 3270,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Mandate fingerprint map",
+      "preview": "BSF / ITBP / SSB -> DESIGNATED BORDER ROLES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 555.691
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 493.691
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3274,
+      "markdown_body_line_end": 3279,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Auxiliary and formation facts",
+      "preview": "HOME GUARDS -> STATE / UT ACTS + AUXILIARY ROLE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 471.691
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 419.891
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3283,
+      "markdown_body_line_end": 3289,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: State-police primacy chain",
+      "preview": "LOCAL INTELLIGENCE / COMPLAINT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 397.891
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 335.891
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3293,
+      "markdown_body_line_end": 3298,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Intelligence cycle",
+      "preview": "DIRECTION -> COLLECTION -> PROCESSING",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 313.891
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 262.091
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3302,
+      "markdown_body_line_end": 3308,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Intelligence institution map",
+      "preview": "IB -> DOMESTIC INTELLIGENCE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3312,
+      "markdown_body_line_end": 3317,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Response-investigation split",
+      "preview": "NSG -> SPECIALISED TACTICAL RESPONSE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 651.491
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3321,
+      "markdown_body_line_end": 3328,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Intelligence-to-judgment ladder",
+      "preview": "INTELLIGENCE LEAD",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 629.491
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3332,
+      "markdown_body_line_end": 3339,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Rights and reform architecture",
+      "preview": "PRAKASH SINGH -> STRUCTURE / TENURE / COMPLAINTS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 463.091
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3343,
+      "markdown_body_line_end": 3350,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: PYQ and accountable-security rail",
+      "preview": "2023 GS-III -> CHALLENGES + INTELLIGENCE / INVESTIGATIVE ROLES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 441.091
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 368.891
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    }
+  ]
+}

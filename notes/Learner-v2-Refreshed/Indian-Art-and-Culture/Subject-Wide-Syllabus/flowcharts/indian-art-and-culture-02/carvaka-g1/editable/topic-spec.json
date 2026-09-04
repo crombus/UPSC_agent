@@ -1,0 +1,1007 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-art-and-culture-02",
+  "subject": "Indian-Art-and-Culture",
+  "title": "MAURYAN, BUDDHIST, JAIN AND ROCK-CUT HERITAGE",
+  "short_route": "MAURYAN ART CLASSIFICATION → ASHOKAN PILLAR SYSTEM → BARABAR EVIDENCE CARD → STUPA ANATOMY → SANCHI ACCRETION → CHAITYA VERSUS VIHARA",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\Subject-Wide-Syllabus\\learning-sessions\\indian-art-and-culture-02\\indian-art-and-culture-02_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-art-and-culture-01-02-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "b99ff000360efd584f8f6b424deeed529ce97031cb3d76731a2ed8724106e84d",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "MAURYAN ART CLASSIFICATION",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MAURYAN ART CLASSIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "PILLARS AND PALACE ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "YAKSHA, TERRACOTTA AND DONORS",
+          "role": "comparison"
+        },
+        {
+          "text": "ROYAL AJIVIKA CAVE DEDICATIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "USEFUL CATEGORIES, POROUS BOUNDARY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "COURT → pillars and palace architecture",
+        "NON-COURTLY → yaksha, terracotta and donors",
+        "CROSSOVER → royal Ajivika cave dedications",
+        "VERDICT → useful categories, porous boundary"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "COURT → pillars and palace architecture",
+          "CROSSOVER → royal Ajivika cave dedications",
+          "COURT → pillars and palace architecture"
+        ],
+        [
+          "NON-COURTLY → yaksha, terracotta and donors",
+          "VERDICT → useful categories, porous boundary",
+          "NON-COURTLY → yaksha, terracotta and donors"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COURT → pillars and palace architecture",
+            "NON-COURTLY → yaksha, terracotta and donors"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CROSSOVER → royal Ajivika cave dedications",
+            "VERDICT → useful categories, porous boundary"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COURT → pillars and palace architecture",
+            "NON-COURTLY → yaksha, terracotta and donors"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CROSSOVER → royal Ajivika cave dedications; VERDICT → useful categories, porous boundary.",
+      "source_references": [
+        "Court art and category limits"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ASHOKAN PILLAR SYSTEM",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ASHOKAN PILLAR SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "CHUNAR SANDSTONE",
+          "role": "outcome"
+        },
+        {
+          "text": "MONOLITHIC SHAFT",
+          "role": "comparison"
+        },
+        {
+          "text": "IMPERIAL FINISH",
+          "role": "evidence"
+        },
+        {
+          "text": "LION, BULL OR OTHER ANIMAL FORMS",
+          "role": "primary"
+        },
+        {
+          "text": "MESSAGE VARIES BY SITE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CHUNAR SANDSTONE → monolithic shaft",
+        "POLISH → imperial finish",
+        "CAPITAL → lion, bull or other animal forms",
+        "INSCRIPTION → message varies by site"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CHUNAR SANDSTONE → monolithic shaft",
+            "POLISH → imperial finish"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CAPITAL → lion, bull or other animal forms",
+            "INSCRIPTION → message varies by site"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CHUNAR SANDSTONE → monolithic shaft",
+            "POLISH → imperial finish"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAPITAL → lion, bull or other animal forms.",
+      "source_references": [
+        "Ashokan pillars as communication"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "BARABAR EVIDENCE CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BARABAR EVIDENCE CARD",
+          "role": "evidence"
+        },
+        {
+          "text": "JEHANABAD DISTRICT, BIHAR",
+          "role": "outcome"
+        },
+        {
+          "text": "THIRD CENTURY BCE",
+          "role": "comparison"
+        },
+        {
+          "text": "ASHOKA AND DASHARATHA",
+          "role": "evidence"
+        },
+        {
+          "text": "AJIVIKAS, NOT BUDDHISTS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PLACE → Jehanabad district, Bihar",
+        "DATE → third century BCE",
+        "PATRONS → Ashoka and Dasharatha",
+        "SECT → Ajivikas, not Buddhists"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PLACE → Jehanabad district, Bihar",
+          "PATRONS → Ashoka and Dasharatha",
+          "PLACE → Jehanabad district, Bihar"
+        ],
+        [
+          "DATE → third century BCE",
+          "SECT → Ajivikas, not Buddhists",
+          "DATE → third century BCE"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PLACE → Jehanabad district, Bihar",
+            "DATE → third century BCE"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PATRONS → Ashoka and Dasharatha",
+            "SECT → Ajivikas, not Buddhists"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PLACE → Jehanabad district, Bihar",
+            "DATE → third century BCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PATRONS → Ashoka and Dasharatha; SECT → Ajivikas, not Buddhists.",
+      "source_references": [
+        "Barabar, Nagarjuni and the Ajivikas"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "STUPA ANATOMY",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "STUPA ANATOMY",
+          "role": "primary"
+        },
+        {
+          "text": "RELIC MOUND",
+          "role": "outcome"
+        },
+        {
+          "text": "VEDIKA + PATH",
+          "role": "comparison"
+        },
+        {
+          "text": "BOUNDARY AND MOVEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "HARMIKA + CHATTRA",
+          "role": "primary"
+        },
+        {
+          "text": "SUMMIT AND HONOUR",
+          "role": "outcome"
+        },
+        {
+          "text": "NARRATIVE GATEWAY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ANDA → relic mound",
+        "VEDIKA + PATH → boundary and movement",
+        "HARMIKA + CHATTRA → summit and honour",
+        "TORANA → narrative gateway"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ANDA → relic mound",
+            "VEDIKA + PATH → boundary and movement"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HARMIKA + CHATTRA → summit and honour",
+            "TORANA → narrative gateway"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ANDA → relic mound",
+            "VEDIKA + PATH → boundary and movement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HARMIKA + CHATTRA → summit and honour; TORANA → narrative gateway.",
+      "source_references": [
+        "Stupa origin and anatomy"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SANCHI ACCRETION",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SANCHI ACCRETION",
+          "role": "primary"
+        },
+        {
+          "text": "BRICK CORE AND PILLAR",
+          "role": "outcome"
+        },
+        {
+          "text": "ENLARGEMENT AND STONE FACING",
+          "role": "comparison"
+        },
+        {
+          "text": "SATAVAHANA PERIOD",
+          "role": "evidence"
+        },
+        {
+          "text": "CARVED TORANAS",
+          "role": "primary"
+        },
+        {
+          "text": "SHRINES AND LATER ADDITIONS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "MAURYAN → brick core and pillar",
+        "SUNGA → enlargement and stone facing",
+        "SATAVAHANA PERIOD → carved toranas",
+        "GUPTA → shrines and later additions"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MAURYAN → brick core and pillar",
+            "SUNGA → enlargement and stone facing"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SATAVAHANA PERIOD → carved toranas",
+            "GUPTA → shrines and later additions"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MAURYAN → brick core and pillar",
+            "SUNGA → enlargement and stone facing"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SATAVAHANA PERIOD → carved toranas; GUPTA → shrines and later additions.",
+      "source_references": [
+        "Sanchi as a layered monument"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CHAITYA VERSUS VIHARA",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CHAITYA VERSUS VIHARA",
+          "role": "comparison"
+        },
+        {
+          "text": "PRAYER AND ASSEMBLY",
+          "role": "institution"
+        },
+        {
+          "text": "CHAITYA PLAN",
+          "role": "comparison"
+        },
+        {
+          "text": "APSE, COLUMNS AND STUPA",
+          "role": "evidence"
+        },
+        {
+          "text": "MONASTIC RESIDENCE",
+          "role": "primary"
+        },
+        {
+          "text": "FUNCTION EXPLAINS FORM",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CHAITYA → prayer and assembly",
+        "CHAITYA PLAN → apse, columns and stupa",
+        "VIHARA → monastic residence",
+        "RULE → function explains form"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CHAITYA → prayer and assembly",
+          "VIHARA → monastic residence",
+          "CHAITYA → prayer and assembly"
+        ],
+        [
+          "CHAITYA PLAN → apse, columns and stupa",
+          "RULE → function explains form",
+          "CHAITYA PLAN → apse, columns and stupa"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CHAITYA → prayer and assembly",
+            "CHAITYA PLAN → apse, columns and stupa"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VIHARA → monastic residence",
+            "RULE → function explains form"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CHAITYA → prayer and assembly",
+            "CHAITYA PLAN → apse, columns and stupa"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VIHARA → monastic residence; RULE → function explains form.",
+      "source_references": [
+        "Chaitya and vihara"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "AJANTA IDENTIFIER",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "AJANTA IDENTIFIER",
+          "role": "primary"
+        },
+        {
+          "text": "WAGHORA RIVER",
+          "role": "outcome"
+        },
+        {
+          "text": "HORSESHOE GORGE",
+          "role": "comparison"
+        },
+        {
+          "text": "ROCK-CUT SETTING",
+          "role": "evidence"
+        },
+        {
+          "text": "EARLY PHASE",
+          "role": "primary"
+        },
+        {
+          "text": "LATER PHASE",
+          "role": "outcome"
+        },
+        {
+          "text": "VAKATAKA FLORESCENCE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "WAGHORA RIVER → horseshoe gorge",
+        "SAHYADRI → rock-cut setting",
+        "EARLY PHASE → Satavahana-linked",
+        "LATER PHASE → Vakataka florescence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WAGHORA RIVER → horseshoe gorge",
+            "SAHYADRI → rock-cut setting"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EARLY PHASE → Satavahana-linked",
+            "LATER PHASE → Vakataka florescence"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WAGHORA RIVER → horseshoe gorge",
+            "SAHYADRI → rock-cut setting"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EARLY PHASE → Satavahana-linked; LATER PHASE → Vakataka florescence.",
+      "source_references": [
+        "Ajanta's landscape and phases"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ELLORA SHARED HILLSIDE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ELLORA SHARED HILLSIDE",
+          "role": "primary"
+        },
+        {
+          "text": "MONASTERIES AND WORSHIP HALLS",
+          "role": "outcome"
+        },
+        {
+          "text": "KAILASHA AMONG MAJOR WORKS",
+          "role": "comparison"
+        },
+        {
+          "text": "DIGAMBARA CAVE GROUP",
+          "role": "evidence"
+        },
+        {
+          "text": "BROAD SEQUENCE WITH OVERLAP",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "BUDDHIST → monasteries and worship halls",
+        "BRAHMANICAL → Kailasha among major works",
+        "JAIN → Digambara cave group",
+        "CHRONOLOGY → broad sequence with overlap"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "BUDDHIST → monasteries and worship halls",
+          "JAIN → Digambara cave group",
+          "BUDDHIST → monasteries and worship halls"
+        ],
+        [
+          "BRAHMANICAL → Kailasha among major works",
+          "CHRONOLOGY → broad sequence with overlap",
+          "BRAHMANICAL → Kailasha among major works"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BUDDHIST → monasteries and worship halls",
+            "BRAHMANICAL → Kailasha among major works"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "JAIN → Digambara cave group",
+            "CHRONOLOGY → broad sequence with overlap"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BUDDHIST → monasteries and worship halls",
+            "BRAHMANICAL → Kailasha among major works"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "JAIN → Digambara cave group; CHRONOLOGY → broad sequence with overlap.",
+      "source_references": [
+        "Ellora and the Kailasha monolith"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "INSCRIPTION EVIDENCE TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INSCRIPTION EVIDENCE TEST",
+          "role": "evidence"
+        },
+        {
+          "text": "NAMES PATRON OR CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "MONUMENT AND LANGUAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "GRANT, EDICT OR EULOGY",
+          "role": "evidence"
+        },
+        {
+          "text": "OMISSION LIMITS NEUTRALITY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "TEXT → names patron or claim",
+        "CONTEXT → monument and language",
+        "GENRE → grant, edict or eulogy",
+        "SILENCE → omission limits neutrality"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TEXT → names patron or claim",
+            "CONTEXT → monument and language"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GENRE → grant, edict or eulogy",
+            "SILENCE → omission limits neutrality"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TEXT → names patron or claim",
+            "CONTEXT → monument and language"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GENRE → grant, edict or eulogy; SILENCE → omission limits neutrality.",
+      "source_references": [
+        "Udayagiri-Khandagiri",
+        "Inscriptions and evidence limits"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "JAIN ARCHITECTURE SCALES",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "JAIN ARCHITECTURE SCALES",
+          "role": "primary"
+        },
+        {
+          "text": "UDAYAGIRI-KHANDAGIRI AND ELLORA",
+          "role": "outcome"
+        },
+        {
+          "text": "DILWARA, RANAKPUR AND KHAJURAHO",
+          "role": "comparison"
+        },
+        {
+          "text": "SHRAVANABELAGOLA RITUAL FOCUS",
+          "role": "evidence"
+        },
+        {
+          "text": "PALITANA AND SHIKHARJI",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CAVE → Udayagiri-Khandagiri and Ellora",
+        "TEMPLE → Dilwara, Ranakpur and Khajuraho",
+        "COLOSSUS → Shravanabelagola ritual focus",
+        "LANDSCAPE → Palitana and Shikharji"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CAVE → Udayagiri-Khandagiri and Ellora",
+            "TEMPLE → Dilwara, Ranakpur and Khajuraho"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COLOSSUS → Shravanabelagola ritual focus",
+            "LANDSCAPE → Palitana and Shikharji"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAVE → Udayagiri-Khandagiri and Ellora",
+            "TEMPLE → Dilwara, Ranakpur and Khajuraho"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COLOSSUS → Shravanabelagola ritual focus; LANDSCAPE → Palitana and Shikharji.",
+      "source_references": [
+        "Jain architecture beyond caves"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "IMAGE-PROGRAMME TRANSITION",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "IMAGE-PROGRAMME TRANSITION",
+          "role": "primary"
+        },
+        {
+          "text": "BUDDHA REPRESENTED BY SYMBOLS",
+          "role": "outcome"
+        },
+        {
+          "text": "NARRATIVE AND ANICONIC PROGRAMME",
+          "role": "comparison"
+        },
+        {
+          "text": "ANTHROPOMORPHIC BUDDHA IMAGES",
+          "role": "evidence"
+        },
+        {
+          "text": "FIGURAL IMAGE JOINS SACRED FOCUS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "EARLY → Buddha represented by symbols",
+        "STUPA → narrative and aniconic programme",
+        "LATER → anthropomorphic Buddha images",
+        "SHRINE → figural image joins sacred focus"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EARLY → Buddha represented by symbols",
+            "STUPA → narrative and aniconic programme"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LATER → anthropomorphic Buddha images",
+            "SHRINE → figural image joins sacred focus"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EARLY → Buddha represented by symbols",
+            "STUPA → narrative and aniconic programme"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LATER → anthropomorphic Buddha images; SHRINE → figural image joins sacred focus.",
+      "source_references": [
+        "Aniconic and iconic programmes"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ROCK-CUT ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ROCK-CUT ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "EXCAVATED, DURABLE ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "PLAN, PATRON, INSCRIPTION AND STYLE",
+          "role": "evidence"
+        },
+        {
+          "text": "BARABAR, AJANTA AND ELLORA",
+          "role": "evidence"
+        },
+        {
+          "text": "DURABLE PATRONAGE IS NOT ALL SOCIAL LIFE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DEFINE → excavated, durable architecture",
+        "EVIDENCE → plan, patron, inscription and style",
+        "COMPARE → Barabar, Ajanta and Ellora",
+        "QUALIFY → durable patronage is not all social life"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE → excavated, durable architecture",
+            "EVIDENCE → plan, patron, inscription and style"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMPARE → Barabar, Ajanta and Ellora",
+            "QUALIFY → durable patronage is not all social life"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINE → excavated, durable architecture",
+            "EVIDENCE → plan, patron, inscription and style"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY → durable patronage is not all social life.",
+      "source_references": [
+        "Verified PYQ answer spine"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ASI'S CONSERVATION MANDATE EXPLICITLY COVERS SCULPTURES AND PAINTINGS",
+          "role": "outcome"
+        },
+        {
+          "text": "TREATING ELLORA'S TRI-RELIGIOUS CHARACTER AS EVIDENCE OF SIMULTANEOUS",
+          "role": "evidence"
+        },
+        {
+          "text": "TREATING THE COURT/POPULAR BINARY AS A LITERAL FUNDING MAP.",
+          "role": "institution"
+        },
+        {
+          "text": "CITING THE HATHIGUMPHA INSCRIPTION AS A COMPLETE, NEUTRAL HISTORICAL",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSUMING MAURYAN POLISH REMAINED A NORMAL GUPTA TECHNIQUE.",
+          "role": "outcome"
+        },
+        {
+          "text": "PHILOSOPHY OWNS THE DOCTRINAL CONTENT OF BUDDHISM, JAINISM AND",
+          "role": "comparison"
+        },
+        {
+          "text": "ANCIENT HISTORY OWNS FULL DYNASTIC POLITICAL NARRATIVE (MAURYAN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "ASI's conservation mandate explicitly covers sculptures and paintings",
+            "NOT: Treating Ellora's tri-religious character as evidence of simultaneous,",
+            "NOT: Treating the court/popular binary as a literal funding map.",
+            "NOT: Citing the Hathigumpha inscription as a complete, neutral historical"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / INTERPRETIVE LIMIT",
+          "role": "caution",
+          "items": [
+            "NOT: Assuming Mauryan polish remained a normal Gupta technique. - Its",
+            "NOT: Philosophy owns the doctrinal content of Buddhism, Jainism and the",
+            "NOT: Ancient History owns full dynastic political narrative (Mauryan",
+            "This file's layered-patronage method is directly reusable for topic"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE HERITAGE NUANCE",
+          "role": "comparison",
+          "items": [
+            "00 Master-Framework.md Section 4 — the evidence hierarchy (direct",
+            "CAUTION: Downstream topics: Topic 03 applies the same layered-patronage",
+            "Verified against Nitinpdf , PDF pp. 40-69 directly, including the",
+            "CAUTION: Open caution: precise dynastic attribution for some individual"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

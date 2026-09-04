@@ -1,0 +1,1083 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-society-07",
+  "subject": "Indian-Society",
+  "title": "WOMEN AND WOMEN'S ORGANISATIONS",
+  "short_route": "ORGANISATIONAL LAYERING → PRECEDENCE CARD → FOUR ORGANISATIONAL MODELS → TRICHOTOMY DEFINITIONS → WHERE THE CHAIN STALLS → TIME AND SPACE CONSTRAINTS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\Subject-Wide-Syllabus\\learning-sessions\\indian-society-07\\indian-society-07_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-society-07-2026-09-02-sequential.json",
+  "ascii_spec_sha256": "4e2fde5f62c3a02f87ca36b990a34fd2ffc160ab713c717b39e1aaa1555981cc",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ORGANISATIONAL LAYERING",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ORGANISATIONAL LAYERING",
+          "role": "primary"
+        },
+        {
+          "text": "REFORM ERA",
+          "role": "outcome"
+        },
+        {
+          "text": "ELITE-LED ADVOCACY ON WIDOW REMARRIAGE AND CHILD MARRIAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "EARLY NATIONAL",
+          "role": "evidence"
+        },
+        {
+          "text": "WOMEN'S INDIAN ASSOCIATION, THEN ALL INDIA WOMEN'S CONFERENCE 1927",
+          "role": "primary"
+        },
+        {
+          "text": "RIGHTS ERA",
+          "role": "outcome"
+        },
+        {
+          "text": "NATIONAL FEDERATION OF INDIAN WOMEN ON WAGES AND DOWRY",
+          "role": "comparison"
+        },
+        {
+          "text": "ECONOMIC ERA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "REFORM ERA → elite-led advocacy on widow remarriage and child marriage",
+        "EARLY NATIONAL → Women's Indian Association, then All India Women's Conference 1927",
+        "RIGHTS ERA → National Federation of Indian Women on wages and dowry",
+        "ECONOMIC ERA → Self Employed Women's Association, then federated self-help groups"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "REFORM ERA → elite-led advocacy on widow remarriage and child marriage",
+            "EARLY NATIONAL → Women's Indian Association, then All India Women's Conference 1927"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "RIGHTS ERA → National Federation of Indian Women on wages and dowry",
+            "ECONOMIC ERA → Self Employed Women's Association, then federated self-help groups"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "REFORM ERA → elite-led advocacy on widow remarriage and child marriage",
+            "EARLY NATIONAL → Women's Indian Association, then All India Women's Conference 1927"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ECONOMIC ERA → Self Employed Women's Association, then federated self-help groups.",
+      "source_references": [
+        "How women's organising is layered",
+        "Early national bodies and the precedence rule"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "PRECEDENCE CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PRECEDENCE CARD",
+          "role": "primary"
+        },
+        {
+          "text": "EARLIER BODY",
+          "role": "outcome"
+        },
+        {
+          "text": "WOMEN'S INDIAN ASSOCIATION",
+          "role": "comparison"
+        },
+        {
+          "text": "FOUNDED 1927",
+          "role": "evidence"
+        },
+        {
+          "text": "ALL INDIA WOMEN'S CONFERENCE, EDUCATION FIRST",
+          "role": "primary"
+        },
+        {
+          "text": "LATER SCOPE",
+          "role": "outcome"
+        },
+        {
+          "text": "LEGAL AND SOCIAL REFORM ADVOCACY",
+          "role": "comparison"
+        },
+        {
+          "text": "NEVER DESCRIBE THE 1927 BODY AS INDIA'S FIRST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EARLIER BODY → Women's Indian Association",
+        "FOUNDED 1927 → All India Women's Conference, education first",
+        "LATER SCOPE → legal and social reform advocacy",
+        "PROHIBITION → never describe the 1927 body as India's first"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "EARLIER BODY → Women's Indian Association",
+          "LATER SCOPE → legal and social reform advocacy",
+          "EARLIER BODY → Women's Indian Association"
+        ],
+        [
+          "FOUNDED 1927 → All India Women's Conference, education first",
+          "PROHIBITION → never describe the 1927 body as India's first",
+          "FOUNDED 1927 → All India Women's Conference, education first"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "EARLIER BODY → Women's Indian Association",
+            "FOUNDED 1927 → All India Women's Conference, education first"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "LATER SCOPE → legal and social reform advocacy",
+            "PROHIBITION → never describe the 1927 body as India's first"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "EARLIER BODY → Women's Indian Association",
+            "FOUNDED 1927 → All India Women's Conference, education first"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PROHIBITION → never describe the 1927 body as India's first.",
+      "source_references": [
+        "Early national bodies and the precedence rule"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "FOUR ORGANISATIONAL MODELS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FOUR ORGANISATIONAL MODELS",
+          "role": "primary"
+        },
+        {
+          "text": "RIGHTS ADVOCACY",
+          "role": "outcome"
+        },
+        {
+          "text": "ALL INDIA WOMEN'S CONFERENCE PLATFORM WORK",
+          "role": "comparison"
+        },
+        {
+          "text": "WAGE AND DOWRY",
+          "role": "evidence"
+        },
+        {
+          "text": "NATIONAL FEDERATION OF INDIAN WOMEN MOBILISATION",
+          "role": "primary"
+        },
+        {
+          "text": "TRADE UNION",
+          "role": "outcome"
+        },
+        {
+          "text": "SELF EMPLOYED WOMEN'S ASSOCIATION COLLECTIVE BARGAINING",
+          "role": "comparison"
+        },
+        {
+          "text": "SAVINGS FEDERATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RIGHTS ADVOCACY → All India Women's Conference platform work",
+        "WAGE AND DOWRY → National Federation of Indian Women mobilisation",
+        "TRADE UNION → Self Employed Women's Association collective bargaining",
+        "SAVINGS FEDERATION → self-help groups federating upward"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "RIGHTS ADVOCACY → All India Women's Conference platform work",
+          "TRADE UNION → Self Employed Women's Association collective bargaining",
+          "RIGHTS ADVOCACY → All India Women's Conference platform work"
+        ],
+        [
+          "WAGE AND DOWRY → National Federation of Indian Women mobilisation",
+          "SAVINGS FEDERATION → self-help groups federating upward",
+          "WAGE AND DOWRY → National Federation of Indian Women mobilisation"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "RIGHTS ADVOCACY → All India Women's Conference platform work",
+            "WAGE AND DOWRY → National Federation of Indian Women mobilisation"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "TRADE UNION → Self Employed Women's Association collective bargaining",
+            "SAVINGS FEDERATION → self-help groups federating upward"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "RIGHTS ADVOCACY → All India Women's Conference platform work",
+            "WAGE AND DOWRY → National Federation of Indian Women mobilisation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRADE UNION → Self Employed Women's Association collective bargaining.",
+      "source_references": [
+        "Rights and wage organising after Independence",
+        "Economic organising through a trade union",
+        "Federated savings and credit as the mass form"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "TRICHOTOMY DEFINITIONS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TRICHOTOMY DEFINITIONS",
+          "role": "primary"
+        },
+        {
+          "text": "EQUAL RIGHTS, STATUS AND OPPORTUNITY AS THE BASELINE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTEXT-RESPONSIVE MEASURES AGAINST UNEQUAL STARTING CONDITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "EXPANDED AGENCY, CAPABILITY, RESOURCES AND VOICE",
+          "role": "evidence"
+        },
+        {
+          "text": "A RIGHT OR A COVERAGE FIGURE NEVER PROVES THE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "EQUALITY → equal rights, status and opportunity as the baseline",
+        "EQUITY → context-responsive measures against unequal starting conditions",
+        "EMPOWERMENT → expanded agency, capability, resources and voice",
+        "RULE → a right or a coverage figure never proves the third term"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "EQUALITY → equal rights, status and opportunity as the baseline",
+          "EMPOWERMENT → expanded agency, capability, resources and voice",
+          "EQUALITY → equal rights, status and opportunity as the baseline"
+        ],
+        [
+          "EQUITY → context-responsive measures against unequal starting conditions",
+          "RULE → a right or a coverage figure never proves the third term",
+          "EQUITY → context-responsive measures against unequal starting conditions"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "EQUALITY → equal rights, status and opportunity as the baseline",
+            "EQUITY → context-responsive measures against unequal starting conditions"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "EMPOWERMENT → expanded agency, capability, resources and voice",
+            "RULE → a right or a coverage figure never proves the third term"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "EQUALITY → equal rights, status and opportunity as the baseline",
+            "EQUITY → context-responsive measures against unequal starting conditions"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → a right or a coverage figure never proves the third term.",
+      "source_references": [
+        "Equality, equity and empowerment defined"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "WHERE THE CHAIN STALLS",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WHERE THE CHAIN STALLS",
+          "role": "primary"
+        },
+        {
+          "text": "INSTRUMENT EXISTS",
+          "role": "outcome"
+        },
+        {
+          "text": "IS IT REACHABLE BY THIS WOMAN AT ALL",
+          "role": "comparison"
+        },
+        {
+          "text": "WAS IT ACTUALLY TAKEN UP RATHER THAN MERELY OFFERED",
+          "role": "evidence"
+        },
+        {
+          "text": "DID THE USE CHANGE A RECOGNISED DECISION",
+          "role": "primary"
+        },
+        {
+          "text": "STALL POINT",
+          "role": "outcome"
+        },
+        {
+          "text": "COVERAGE WITHOUT UPTAKE, OR UPTAKE WITHOUT FOLLOW-THROUGH",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "INSTRUMENT EXISTS → is it reachable by this woman at all",
+        "REACHED → was it actually taken up rather than merely offered",
+        "USED → did the use change a recognised decision",
+        "STALL POINT → coverage without uptake, or uptake without follow-through"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "INSTRUMENT EXISTS → is it reachable by this woman at all",
+            "REACHED → was it actually taken up rather than merely offered"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "USED → did the use change a recognised decision",
+            "STALL POINT → coverage without uptake, or uptake without follow-through"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INSTRUMENT EXISTS → is it reachable by this woman at all",
+            "REACHED → was it actually taken up rather than merely offered"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STALL POINT → coverage without uptake, or uptake without follow-through.",
+      "source_references": [
+        "Why the trichotomy is not a ladder",
+        "Membership against substantive voice"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TIME AND SPACE CONSTRAINTS",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TIME AND SPACE CONSTRAINTS",
+          "role": "primary"
+        },
+        {
+          "text": "UNPAID CARE AND DOMESTIC WORK COMPRESS SCHOOLING AND PAID",
+          "role": "outcome"
+        },
+        {
+          "text": "MOBILITY LIMITS, HARASSMENT AND SAFETY CONDITION PUBLIC PRESENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "WORKPLACE ACCESS AND TREATMENT SHAPE CONTINUITY OF EMPLOYMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "INTERNET AND DEVICE ACCESS SHAPE INFORMATION AND MARKET REACH",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "TIME → unpaid care and domestic work compress schooling and paid work",
+        "SPACE → mobility limits, harassment and safety condition public presence",
+        "WORK → workplace access and treatment shape continuity of employment",
+        "DIGITAL → internet and device access shape information and market reach"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "TIME → unpaid care and domestic work compress schooling and paid work",
+          "WORK → workplace access and treatment shape continuity of employment",
+          "TIME → unpaid care and domestic work compress schooling and paid work"
+        ],
+        [
+          "SPACE → mobility limits, harassment and safety condition public presence",
+          "DIGITAL → internet and device access shape information and market reach",
+          "SPACE → mobility limits, harassment and safety condition public presence"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "TIME → unpaid care and domestic work compress schooling and paid work",
+            "SPACE → mobility limits, harassment and safety condition public presence"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "WORK → workplace access and treatment shape continuity of employment",
+            "DIGITAL → internet and device access shape information and market reach"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "TIME → unpaid care and domestic work compress schooling and paid work",
+            "SPACE → mobility limits, harassment and safety condition public presence"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DIGITAL → internet and device access shape information and market reach.",
+      "source_references": [
+        "Time poverty and the care burden",
+        "Mobility, safety and contested space"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ACCESS INDICATOR CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ACCESS INDICATOR CARD",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL FAMILY HEALTH SURVEY ROUND FIVE, 2019-21",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCOUNT USE",
+          "role": "comparison"
+        },
+        {
+          "text": "78.6 PER CENT OF WOMEN AGED 15-49 WITH AN",
+          "role": "evidence"
+        },
+        {
+          "text": "33.3 PER CENT HAD EVER USED THE INTERNET",
+          "role": "primary"
+        },
+        {
+          "text": "DATED REACH INDICATORS; ROUND SIX WAS RELEASED 29 MAY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "SOURCE → National Family Health Survey round five, 2019-21",
+        "ACCOUNT USE → 78.6 per cent of women aged 15-49 with an account they used",
+        "INTERNET → 33.3 per cent had ever used the internet",
+        "STATUS → dated reach indicators; round six was released 29 May 2026"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "SOURCE → National Family Health Survey round five, 2019-21",
+          "INTERNET → 33.3 per cent had ever used the internet",
+          "SOURCE → National Family Health Survey round five, 2019-21"
+        ],
+        [
+          "ACCOUNT USE → 78.6 per cent of women aged 15-49 with an account they used",
+          "STATUS → dated reach indicators; round six was released 29 May 2026",
+          "ACCOUNT USE → 78.6 per cent of women aged 15-49 with an account they used"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "SOURCE → National Family Health Survey round five, 2019-21",
+            "ACCOUNT USE → 78.6 per cent of women aged 15-49 with an account they used"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "INTERNET → 33.3 per cent had ever used the internet",
+            "STATUS → dated reach indicators; round six was released 29 May 2026"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "SOURCE → National Family Health Survey round five, 2019-21",
+            "ACCOUNT USE → 78.6 per cent of women aged 15-49 with an account they used"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATUS → dated reach indicators; round six was released 29 May 2026.",
+      "source_references": [
+        "Reading access indicators honestly"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INTERSECTIONAL REACH",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INTERSECTIONAL REACH",
+          "role": "primary"
+        },
+        {
+          "text": "UNIVERSAL FRAMING",
+          "role": "outcome"
+        },
+        {
+          "text": "WOMEN TREATED AS ONE ANALYTICAL CATEGORY",
+          "role": "comparison"
+        },
+        {
+          "text": "CASTE, CLASS, TRIBE AND RELIGION DIFFERENTIATE CONSTRAINT",
+          "role": "evidence"
+        },
+        {
+          "text": "SEPARATE DALIT AND TRIBAL WOMEN'S ORGANISATIONS EMERGED",
+          "role": "primary"
+        },
+        {
+          "text": "A CORRECTIVE TO REACH, NOT A FRAGMENTATION OF THE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "UNIVERSAL FRAMING → women treated as one analytical category",
+        "CRITIQUE → caste, class, tribe and religion differentiate constraint",
+        "EVIDENCE → separate Dalit and tribal women's organisations emerged",
+        "READING → a corrective to reach, not a fragmentation of the movement"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "UNIVERSAL FRAMING → women treated as one analytical category",
+            "CRITIQUE → caste, class, tribe and religion differentiate constraint"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "EVIDENCE → separate Dalit and tribal women's organisations emerged",
+            "READING → a corrective to reach, not a fragmentation of the movement"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "UNIVERSAL FRAMING → women treated as one analytical category",
+            "CRITIQUE → caste, class, tribe and religion differentiate constraint"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "READING → a corrective to reach, not a fragmentation of the movement.",
+      "source_references": [
+        "The intersectionality cut"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "THREE BOUNDARY CASES",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE BOUNDARY CASES",
+          "role": "primary"
+        },
+        {
+          "text": "EQUALITY WITHOUT EQUITY",
+          "role": "outcome"
+        },
+        {
+          "text": "FULL LEGAL RIGHTS, NO INCOME OR MOBILITY SUPPORT",
+          "role": "caution"
+        },
+        {
+          "text": "EQUITY WITHOUT EMPOWERMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "CREDIT RECEIVED, LOAN USE CONTROLLED BY ANOTHER",
+          "role": "primary"
+        },
+        {
+          "text": "FULL CHAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "CREDIT, COLLECTIVE BARGAINING, THEN AN INDEPENDENT DECISION",
+          "role": "comparison"
+        },
+        {
+          "text": "CASTE-BASED WAGE DISCRIMINATION ADDED TO GENDER CONSTRAINT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EQUALITY WITHOUT EQUITY → full legal rights, no income or mobility support",
+        "EQUITY WITHOUT EMPOWERMENT → credit received, loan use controlled by another",
+        "FULL CHAIN → credit, collective bargaining, then an independent decision",
+        "COMPOUNDED → caste-based wage discrimination added to gender constraint"
+      ],
+      "matrix": [
+        [
+          "SOCIAL UNIT / DEFINITION",
+          "DECISIVE DISTINCTION",
+          "EXAM TRAP / LIMIT"
+        ],
+        [
+          "EQUALITY WITHOUT EQUITY → full legal rights, no income or mobility support",
+          "FULL CHAIN → credit, collective bargaining, then an independent decision",
+          "EQUALITY WITHOUT EQUITY → full legal rights, no income or mobility support"
+        ],
+        [
+          "EQUITY WITHOUT EMPOWERMENT → credit received, loan use controlled by another",
+          "COMPOUNDED → caste-based wage discrimination added to gender constraint",
+          "EQUITY WITHOUT EMPOWERMENT → credit received, loan use controlled by another"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOCIAL UNIT / DEFINITION",
+          "role": "primary",
+          "items": [
+            "EQUALITY WITHOUT EQUITY → full legal rights, no income or mobility support",
+            "EQUITY WITHOUT EMPOWERMENT → credit received, loan use controlled by another"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "FULL CHAIN → credit, collective bargaining, then an independent decision",
+            "COMPOUNDED → caste-based wage discrimination added to gender constraint"
+          ]
+        },
+        {
+          "heading": "EXAM TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "EQUALITY WITHOUT EQUITY → full legal rights, no income or mobility support",
+            "EQUITY WITHOUT EMPOWERMENT → credit received, loan use controlled by another"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMPOUNDED → caste-based wage discrimination added to gender constraint.",
+      "source_references": [
+        "Three boundary cases"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "GIG-WORK VERDICT",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "GIG-WORK VERDICT",
+          "role": "primary"
+        },
+        {
+          "text": "WIDER ENTRY, FLEXIBLE HOURS, INDEPENDENT EARNING OPPORTUNITY",
+          "role": "outcome"
+        },
+        {
+          "text": "INCOME VOLATILITY, ALGORITHMIC CONTROL, THIN SOCIAL PROTECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "DO EARNINGS, SAFETY AND VOICE IMPROVE TOGETHER",
+          "role": "evidence"
+        },
+        {
+          "text": "PLATFORM LEGAL STATUS IS OWNED BY SOCIAL JUSTICE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "GAIN → wider entry, flexible hours, independent earning opportunity",
+        "COST → income volatility, algorithmic control, thin social protection",
+        "TEST → do earnings, safety and voice improve together",
+        "BOUNDARY → platform legal status is owned by Social Justice"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "GAIN → wider entry, flexible hours, independent earning opportunity",
+            "COST → income volatility, algorithmic control, thin social protection"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "TEST → do earnings, safety and voice improve together",
+            "BOUNDARY → platform legal status is owned by Social Justice"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GAIN → wider entry, flexible hours, independent earning opportunity",
+            "COST → income volatility, algorithmic control, thin social protection"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY → platform legal status is owned by Social Justice.",
+      "source_references": [
+        "The gig-economy test"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CAUSAL RESTRAINT",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CAUSAL RESTRAINT",
+          "role": "primary"
+        },
+        {
+          "text": "REPORTED CATEGORY",
+          "role": "outcome"
+        },
+        {
+          "text": "AN OUTCOME RECORD, NEVER A PROOF OF CAUSE",
+          "role": "mechanism"
+        },
+        {
+          "text": "CANDIDATE PATHWAYS, EXAMINED WITHOUT ATTRIBUTION",
+          "role": "evidence"
+        },
+        {
+          "text": "NATIONAL SUICIDE PREVENTION STRATEGY OF 2022, SURVEILLANCE TO RESILIENCE",
+          "role": "primary"
+        },
+        {
+          "text": "SUPPORT ACCESS AND NON-STIGMATISING DISCUSSION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "REPORTED CATEGORY → an outcome record, never a proof of cause",
+        "STRESSORS → candidate pathways, examined without attribution",
+        "FRAME → National Suicide Prevention Strategy of 2022, surveillance to resilience",
+        "CLOSE → support access and non-stigmatising discussion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "REPORTED CATEGORY → an outcome record, never a proof of cause",
+            "STRESSORS → candidate pathways, examined without attribution"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "FRAME → National Suicide Prevention Strategy of 2022, surveillance to resilience",
+            "CLOSE → support access and non-stigmatising discussion"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "REPORTED CATEGORY → an outcome record, never a proof of cause",
+            "STRESSORS → candidate pathways, examined without attribution"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FRAME → National Suicide Prevention Strategy of 2022, surveillance to resilience.",
+      "source_references": [
+        "Evidence restraint and the answer spine"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "WOMEN AND ORGANISATIONS SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "WOMEN AND ORGANISATIONS SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE THE EXACT TERM THE DIRECTIVE NAMES",
+          "role": "outcome"
+        },
+        {
+          "text": "ORGANISATIONAL MECHANISM, THEN REACH ACROSS CASTE AND CLASS",
+          "role": "mechanism"
+        },
+        {
+          "text": "INSTRUMENT REACHED, TAKEN UP, AND CONVERTED INTO A DECISION",
+          "role": "evidence"
+        },
+        {
+          "text": "AGENCY VERDICT WITH THE COVERAGE-IS-NOT-AGENCY CAVEAT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "OPEN → define the exact term the directive names",
+        "BODY → organisational mechanism, then reach across caste and class",
+        "TEST → instrument reached, taken up, and converted into a decision",
+        "CLOSE → agency verdict with the coverage-is-not-agency caveat"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "SOCIAL STRUCTURE / CONCEPT",
+          "role": "primary",
+          "items": [
+            "OPEN → define the exact term the directive names",
+            "BODY → organisational mechanism, then reach across caste and class"
+          ]
+        },
+        {
+          "heading": "MECHANISM OF CHANGE",
+          "role": "mechanism",
+          "items": [
+            "TEST → instrument reached, taken up, and converted into a decision",
+            "CLOSE → agency verdict with the coverage-is-not-agency caveat"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN → define the exact term the directive names",
+            "BODY → organisational mechanism, then reach across caste and class"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → agency verdict with the coverage-is-not-agency caveat.",
+      "source_references": [
+        "Evidence restraint and the answer spine"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INTERSECTIONAL ORGANISATIONAL GAPS",
+          "role": "outcome"
+        },
+        {
+          "text": "MAINSTREAM WOMEN'S ORGANISATIONS HAVE",
+          "role": "comparison"
+        },
+        {
+          "text": "SHG-FEDERATION ARCHITECTURE (CROSS-LINKED)",
+          "role": "evidence"
+        },
+        {
+          "text": "THE BONDING-BRIDGING-LINKING SOCIAL",
+          "role": "primary"
+        },
+        {
+          "text": "REFORM DIRECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "ANALYSTS INCREASINGLY ARGUE FOR ORGANISATIONAL STRATEGIES THAT",
+          "role": "comparison"
+        },
+        {
+          "text": "BOUNDARY CASE 1 — EQUALITY WITHOUT EQUITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL THEORETICAL DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Intersectional organisational gaps: mainstream women's organisations have",
+            "SHG-federation architecture (cross-linked): the bonding-bridging-linking social",
+            "CAUTION: Reform direction: analysts increasingly argue for organisational strategies that",
+            "CAUTION: Boundary case 1 — equality without equity: a woman with full legal voting and"
+          ]
+        },
+        {
+          "heading": "DATA / CLAIM LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Boundary case 2 — equity without sustained empowerment: an SHG member who receives",
+            "CAUTION: Boundary case 3 — full trichotomy realised: a SEWA member who gains credit, joins",
+            "CAUTION: Membership-versus-voice trade-off: organisational membership statistics",
+            "CAUTION: Universal-versus-intersectional-design trade-off: designing a single national"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE SOCIAL NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Equity-instrument-access-versus-uptake gap: an equity instrument's mere existence",
+            "AIWC (1927) is an influential pan-Indian women's organisation originally focused on",
+            "SEWA, founded in Gujarat, is registered as a trade union of self-employed women workers,",
+            "NFHS-5 (2019-21) recorded 78.6% of women aged 15-49 with a bank/savings account they"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

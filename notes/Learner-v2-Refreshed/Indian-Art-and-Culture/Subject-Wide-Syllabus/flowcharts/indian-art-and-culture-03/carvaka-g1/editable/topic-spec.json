@@ -1,0 +1,1014 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-art-and-culture-03",
+  "subject": "Indian-Art-and-Culture",
+  "title": "TEMPLE ARCHITECTURE AND CHANDELLA KHAJURAHO",
+  "short_route": "TEMPLE RITUAL SEQUENCE → REGIONAL MORPHOLOGY → KHAJURAHO POWER-TO-FORM → KHAJURAHO AXIAL CHAIN → MOUNTAIN SILHOUETTE → BREADTH-OF-LIFE LEDGER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\Subject-Wide-Syllabus\\learning-sessions\\indian-art-and-culture-03\\indian-art-and-culture-03_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-art-and-culture-03-04-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "a9981ec0398e07284b515bdf2486f6f9601945ecb3c1577233b7d1325cc98498",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TEMPLE RITUAL SEQUENCE",
+      "structural_type": "process-flow",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TEMPLE RITUAL SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "ELEVATED SACRED PLATFORM",
+          "role": "outcome"
+        },
+        {
+          "text": "CONGREGATIONAL APPROACH",
+          "role": "comparison"
+        },
+        {
+          "text": "TRANSITION TO SANCTUM",
+          "role": "evidence"
+        },
+        {
+          "text": "DEITY AND RITUAL FOCUS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "JAGATI → elevated sacred platform",
+        "MANDAPA → congregational approach",
+        "ANTARALA → transition to sanctum",
+        "GARBHAGRIHA → deity and ritual focus"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "JAGATI → elevated sacred platform",
+            "MANDAPA → congregational approach"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ANTARALA → transition to sanctum",
+            "GARBHAGRIHA → deity and ritual focus"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "JAGATI → elevated sacred platform",
+            "MANDAPA → congregational approach"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANTARALA → transition to sanctum; GARBHAGRIHA → deity and ritual focus.",
+      "source_references": [
+        "Temple space and ritual movement"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "REGIONAL MORPHOLOGY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REGIONAL MORPHOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "CURVILINEAR SHIKHARA",
+          "role": "outcome"
+        },
+        {
+          "text": "TIERED VIMANA AND ENCLOSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "SELECTIVE NORTHERN-SOUTHERN GRAMMAR",
+          "role": "evidence"
+        },
+        {
+          "text": "BRICK, TERRACOTTA AND BANGLA ROOF",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "NAGARA → curvilinear shikhara",
+        "DRAVIDA → tiered vimana and enclosure",
+        "DECCAN → selective northern-southern grammar",
+        "EASTERN → brick, terracotta and Bangla roof"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "NAGARA → curvilinear shikhara",
+          "DECCAN → selective northern-southern grammar",
+          "NAGARA → curvilinear shikhara"
+        ],
+        [
+          "DRAVIDA → tiered vimana and enclosure",
+          "EASTERN → brick, terracotta and Bangla roof",
+          "DRAVIDA → tiered vimana and enclosure"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NAGARA → curvilinear shikhara",
+            "DRAVIDA → tiered vimana and enclosure"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DECCAN → selective northern-southern grammar",
+            "EASTERN → brick, terracotta and Bangla roof"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NAGARA → curvilinear shikhara",
+            "DRAVIDA → tiered vimana and enclosure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DECCAN → selective northern-southern grammar; EASTERN → brick, terracotta and Bangla roof.",
+      "source_references": [
+        "From Gupta shrine to regional schools"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "KHAJURAHO POWER-TO-FORM",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "KHAJURAHO POWER-TO-FORM",
+          "role": "mechanism"
+        },
+        {
+          "text": "CHANELLA ASSERTION",
+          "role": "outcome"
+        },
+        {
+          "text": "VISIBLE PATRONAGE NEED",
+          "role": "comparison"
+        },
+        {
+          "text": "MAHARAJADHIRAJA CONTEXT",
+          "role": "evidence"
+        },
+        {
+          "text": "TEMPLE CLUSTER",
+          "role": "primary"
+        },
+        {
+          "text": "SOVEREIGNTY IN STONE",
+          "role": "outcome"
+        },
+        {
+          "text": "NO INVENTED VICTORY DEDICATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CHANELLA ASSERTION → visible patronage need",
+        "DHANGA → maharajadhiraja context",
+        "TEMPLE CLUSTER → sovereignty in stone",
+        "LIMIT → no invented victory dedication"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CHANELLA ASSERTION → visible patronage need",
+            "DHANGA → maharajadhiraja context"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEMPLE CLUSTER → sovereignty in stone",
+            "LIMIT → no invented victory dedication"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CHANELLA ASSERTION → visible patronage need",
+            "DHANGA → maharajadhiraja context"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TEMPLE CLUSTER → sovereignty in stone; LIMIT → no invented victory dedication.",
+      "source_references": [
+        "Chandella sovereignty and patronage"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "KHAJURAHO AXIAL CHAIN",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "KHAJURAHO AXIAL CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "ENTRANCE PORCH",
+          "role": "outcome"
+        },
+        {
+          "text": "GARBHAGRIHA + SHIKHARA",
+          "role": "comparison"
+        },
+        {
+          "text": "SACRED CLIMAX",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARDHAMANDAPA → entrance porch",
+        "MANDAPA → hall",
+        "ANTARALA → vestibule",
+        "GARBHAGRIHA + SHIKHARA → sacred climax"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ARDHAMANDAPA → entrance porch",
+            "MANDAPA → hall"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ANTARALA → vestibule",
+            "GARBHAGRIHA + SHIKHARA → sacred climax"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARDHAMANDAPA → entrance porch",
+            "MANDAPA → hall"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANTARALA → vestibule; GARBHAGRIHA + SHIKHARA → sacred climax.",
+      "source_references": [
+        "Khajuraho plan and massing"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "MOUNTAIN SILHOUETTE",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MOUNTAIN SILHOUETTE",
+          "role": "primary"
+        },
+        {
+          "text": "MAIN SHIKHARA",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL VERTICAL MASS",
+          "role": "comparison"
+        },
+        {
+          "text": "CLUSTERED REPLICA SPIRES",
+          "role": "evidence"
+        },
+        {
+          "text": "RAISED HORIZONTAL BASE",
+          "role": "primary"
+        },
+        {
+          "text": "MOUNTAIN-RANGE COMPOSITION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "MAIN SHIKHARA → central vertical mass",
+        "URUSHRINGAS → clustered replica spires",
+        "JAGATI → raised horizontal base",
+        "RESULT → mountain-range composition"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MAIN SHIKHARA → central vertical mass",
+            "URUSHRINGAS → clustered replica spires"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "JAGATI → raised horizontal base",
+            "RESULT → mountain-range composition"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MAIN SHIKHARA → central vertical mass",
+            "URUSHRINGAS → clustered replica spires"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "JAGATI → raised horizontal base; RESULT → mountain-range composition.",
+      "source_references": [
+        "Khajuraho plan and massing"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "BREADTH-OF-LIFE LEDGER",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BREADTH-OF-LIFE LEDGER",
+          "role": "primary"
+        },
+        {
+          "text": "DEITIES AND WORSHIPPERS",
+          "role": "outcome"
+        },
+        {
+          "text": "TEACHERS, DANCERS AND MUSICIANS",
+          "role": "comparison"
+        },
+        {
+          "text": "VYALAS AND NARRATIVE FORMS",
+          "role": "evidence"
+        },
+        {
+          "text": "MAITHUNA AS ONE REGISTER",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SACRED → deities and worshippers",
+        "SOCIAL → teachers, dancers and musicians",
+        "IMAGINATIVE → vyalas and narrative forms",
+        "INTIMATE → maithuna as one register"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SACRED → deities and worshippers",
+          "IMAGINATIVE → vyalas and narrative forms",
+          "SACRED → deities and worshippers"
+        ],
+        [
+          "SOCIAL → teachers, dancers and musicians",
+          "INTIMATE → maithuna as one register",
+          "SOCIAL → teachers, dancers and musicians"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SACRED → deities and worshippers",
+            "SOCIAL → teachers, dancers and musicians"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "IMAGINATIVE → vyalas and narrative forms",
+            "INTIMATE → maithuna as one register"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SACRED → deities and worshippers",
+            "SOCIAL → teachers, dancers and musicians"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "IMAGINATIVE → vyalas and narrative forms; INTIMATE → maithuna as one register.",
+      "source_references": [
+        "Vigour and breadth"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CHAUSATH YOGINI DISTINCTION",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CHAUSATH YOGINI DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "CHANDELLA LANDSCAPE",
+          "role": "outcome"
+        },
+        {
+          "text": "KHAJURAHO FORM",
+          "role": "comparison"
+        },
+        {
+          "text": "OPEN-AIR GRANITE ENCLOSURE",
+          "role": "evidence"
+        },
+        {
+          "text": "NEAR MORENA, KACHCHHAPAGHATA",
+          "role": "primary"
+        },
+        {
+          "text": "MITAOLI FORM",
+          "role": "outcome"
+        },
+        {
+          "text": "CIRCULAR; POPULAR PARLIAMENT LINK",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "KHAJURAHO → Chandella landscape",
+        "KHAJURAHO FORM → open-air granite enclosure",
+        "MITAOLI → near Morena, Kachchhapaghata",
+        "MITAOLI FORM → circular; popular Parliament link"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "KHAJURAHO → Chandella landscape",
+          "MITAOLI → near Morena, Kachchhapaghata",
+          "KHAJURAHO → Chandella landscape"
+        ],
+        [
+          "KHAJURAHO FORM → open-air granite enclosure",
+          "MITAOLI FORM → circular; popular Parliament link",
+          "KHAJURAHO FORM → open-air granite enclosure"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "KHAJURAHO → Chandella landscape",
+            "KHAJURAHO FORM → open-air granite enclosure"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MITAOLI → near Morena, Kachchhapaghata",
+            "MITAOLI FORM → circular; popular Parliament link"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "KHAJURAHO → Chandella landscape",
+            "KHAJURAHO FORM → open-air granite enclosure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MITAOLI → near Morena, Kachchhapaghata; MITAOLI FORM → circular; popular Parliament link.",
+      "source_references": [
+        "Chausath Yogini identification"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PALLAVA TRANSITION",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "PALLAVA TRANSITION",
+          "role": "primary"
+        },
+        {
+          "text": "ROCK-CUT MANDAPAS",
+          "role": "outcome"
+        },
+        {
+          "text": "MONOLITHIC PANCHA RATHAS",
+          "role": "comparison"
+        },
+        {
+          "text": "STRUCTURAL SHORE TEMPLE",
+          "role": "evidence"
+        },
+        {
+          "text": "CHOLA STRUCTURAL EXPANSION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "MAHENDRAVARMAN → rock-cut mandapas",
+        "MAMALLA → monolithic Pancha Rathas",
+        "RAJASIMHA → structural Shore Temple",
+        "LEGACY → Chola structural expansion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MAHENDRAVARMAN → rock-cut mandapas",
+            "MAMALLA → monolithic Pancha Rathas"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RAJASIMHA → structural Shore Temple",
+            "LEGACY → Chola structural expansion"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MAHENDRAVARMAN → rock-cut mandapas",
+            "MAMALLA → monolithic Pancha Rathas"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RAJASIMHA → structural Shore Temple; LEGACY → Chola structural expansion.",
+      "source_references": [
+        "Pallava transition"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CHOLA ACHIEVEMENT SYSTEM",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CHOLA ACHIEVEMENT SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "GRANITE TEMPLE",
+          "role": "outcome"
+        },
+        {
+          "text": "MONUMENTAL STATE FORM",
+          "role": "institution"
+        },
+        {
+          "text": "BRONZE + MURAL",
+          "role": "evidence"
+        },
+        {
+          "text": "PORTABLE AND PAINTED ART",
+          "role": "primary"
+        },
+        {
+          "text": "ADMINISTRATION AND PATRONAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "LIVING WORSHIP",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTINUING CULTURAL MEMORY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GRANITE TEMPLE → monumental state form",
+        "BRONZE + MURAL → portable and painted art",
+        "INSCRIPTION → administration and patronage",
+        "LIVING WORSHIP → continuing cultural memory"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GRANITE TEMPLE → monumental state form",
+            "BRONZE + MURAL → portable and painted art"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INSCRIPTION → administration and patronage",
+            "LIVING WORSHIP → continuing cultural memory"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GRANITE TEMPLE → monumental state form",
+            "BRONZE + MURAL → portable and painted art"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BRONZE + MURAL → portable and painted art.",
+      "source_references": [
+        "Chola living achievement"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "DECCAN EXPERIMENT",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DECCAN EXPERIMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PATTADAKAL VIRUPAKSHA",
+          "role": "outcome"
+        },
+        {
+          "text": "DRAVIDA TOWER",
+          "role": "comparison"
+        },
+        {
+          "text": "PATTADAKAL PAPANATHA",
+          "role": "evidence"
+        },
+        {
+          "text": "NAGARA TOWER",
+          "role": "primary"
+        },
+        {
+          "text": "STELLATE SOAPSTONE DENSITY",
+          "role": "outcome"
+        },
+        {
+          "text": "DESCRIBE EVIDENCE BEFORE VESARA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PATTADAKAL VIRUPAKSHA → Dravida tower",
+        "PATTADAKAL PAPANATHA → Nagara tower",
+        "HOYSALA → stellate soapstone density",
+        "VERDICT → describe evidence before Vesara"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PATTADAKAL VIRUPAKSHA → Dravida tower",
+          "HOYSALA → stellate soapstone density",
+          "PATTADAKAL VIRUPAKSHA → Dravida tower"
+        ],
+        [
+          "PATTADAKAL PAPANATHA → Nagara tower",
+          "VERDICT → describe evidence before Vesara",
+          "PATTADAKAL PAPANATHA → Nagara tower"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PATTADAKAL VIRUPAKSHA → Dravida tower",
+            "PATTADAKAL PAPANATHA → Nagara tower"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HOYSALA → stellate soapstone density",
+            "VERDICT → describe evidence before Vesara"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PATTADAKAL VIRUPAKSHA → Dravida tower",
+            "PATTADAKAL PAPANATHA → Nagara tower"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HOYSALA → stellate soapstone density; VERDICT → describe evidence before Vesara.",
+      "source_references": [
+        "Deccan experiment"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "LATE DRAVIDA SHIFT",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "LATE DRAVIDA SHIFT",
+          "role": "primary"
+        },
+        {
+          "text": "VIMANA-DOMINANT IMPERIAL COMPLEX",
+          "role": "outcome"
+        },
+        {
+          "text": "RAYA GOPURAM AND MANDAPAS",
+          "role": "comparison"
+        },
+        {
+          "text": "GRADED GATEWAYS AND PRAKARAMS",
+          "role": "evidence"
+        },
+        {
+          "text": "PROCESSION, GATHERING AND RITUAL EXPANSION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CHOLA → vimana-dominant imperial complex",
+        "VIJAYANAGARA → raya gopuram and mandapas",
+        "NAYAKA → graded gateways and prakarams",
+        "FUNCTION → procession, gathering and ritual expansion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CHOLA → vimana-dominant imperial complex",
+            "VIJAYANAGARA → raya gopuram and mandapas"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NAYAKA → graded gateways and prakarams",
+            "FUNCTION → procession, gathering and ritual expansion"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CHOLA → vimana-dominant imperial complex",
+            "VIJAYANAGARA → raya gopuram and mandapas"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NAYAKA → graded gateways and prakarams; FUNCTION → procession, gathering and ritual expansion.",
+      "source_references": [
+        "Vijayanagara and Nayaka"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TEMPLE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TEMPLE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "SCHOOL, DYNASTY AND MONUMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "PLAN, TOWER, MATERIAL AND ENCLOSURE",
+          "role": "evidence"
+        },
+        {
+          "text": "PATRONAGE, SCULPTURE AND SOCIETY",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPARISON, SOURCE LIMIT AND STATUS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NAME → school, dynasty and monument",
+        "DESCRIBE → plan, tower, material and enclosure",
+        "ANALYSE → patronage, sculpture and society",
+        "QUALIFY → comparison, source limit and status"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NAME → school, dynasty and monument",
+            "DESCRIBE → plan, tower, material and enclosure"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ANALYSE → patronage, sculpture and society",
+            "QUALIFY → comparison, source limit and status"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NAME → school, dynasty and monument",
+            "DESCRIBE → plan, tower, material and enclosure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANALYSE → patronage, sculpture and society; QUALIFY → comparison, source limit and status.",
+      "source_references": [
+        "PYQ cluster and final answer spine"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "UNESCO'S KHAJURAHO GROUP OF MONUMENTS PROPERTY REMAINS INSCRIBED",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESENTING MITHUNA/EROTIC SCULPTURE AS UNIQUE TO KHAJURAHO. - THE",
+          "role": "comparison"
+        },
+        {
+          "text": "TREATING EVERY KHAJURAHO TEMPLE'S ORIENTATION, SCALE OR DEDICATION AS",
+          "role": "evidence"
+        },
+        {
+          "text": "CONFUSING THE NUMBER OF SURVIVING KHAJURAHO TEMPLES WITH THE",
+          "role": "primary"
+        },
+        {
+          "text": "ATTRIBUTING A SPECIFIC NAMED TEMPLE TO A SPECIFIC CHANDELLA",
+          "role": "outcome"
+        },
+        {
+          "text": "REPEATING THE TEXTBOOK'S CIRCULAR-PLAN DESCRIPTION FOR KHAJURAHO'S",
+          "role": "comparison"
+        },
+        {
+          "text": "TREATING \"VESARA\" AS A SETTLED, SELF-EXPLANATORY CATEGORY. - USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "UNESCO's Khajuraho Group of Monuments property remains inscribed",
+            "NOT: Presenting mithuna/erotic sculpture as unique to Khajuraho. - The",
+            "NOT: Treating every Khajuraho temple's orientation, scale or dedication as",
+            "NOT: Confusing the number of surviving Khajuraho temples with the current"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / INTERPRETIVE LIMIT",
+          "role": "caution",
+          "items": [
+            "NOT: Attributing a specific named temple to a specific Chandella ruler",
+            "NOT: Repeating the textbook's circular-plan description for Khajuraho's",
+            "NOT: Treating \"Vesara\" as a settled, self-explanatory category. - Use it",
+            "NOT: Silently normalising \"Chandella\" to \"Chandela\" (or vice versa) when"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE HERITAGE NUANCE",
+          "role": "comparison",
+          "items": [
+            "NOT: Medieval History owns the detailed Chandella-Pratihara-Pala",
+            "NOT: Society/Gender Studies owns a doctrinal or normative reading of",
+            "CAUTION: Conservation, tourism and integrity trade-off (examiner angle):",
+            "Cross-links: Topic 06 (sculptural technique/iconographic reading"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

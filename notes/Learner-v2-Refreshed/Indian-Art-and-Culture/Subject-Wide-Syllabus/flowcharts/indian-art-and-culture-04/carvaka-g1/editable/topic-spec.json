@@ -1,0 +1,1017 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-art-and-culture-04",
+  "subject": "Indian-Art-and-Culture",
+  "title": "INDO-ISLAMIC AND REGIONAL ARCHITECTURE",
+  "short_route": "STRUCTURAL TRANSITION → SYNTHESIS MECHANISM → ORNAMENT IDENTIFICATION → SULTANATE CLASSIFICATION → QUTB LAYERED MONUMENT → SPOLIA EVIDENCE BOUNDARY",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\Subject-Wide-Syllabus\\learning-sessions\\indian-art-and-culture-04\\indian-art-and-culture-04_Complete-Learning-Session_2026-09-01.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-art-and-culture-03-04-2026-09-01-sequential.json",
+  "ascii_spec_sha256": "a9981ec0398e07284b515bdf2486f6f9601945ecb3c1577233b7d1325cc98498",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "STRUCTURAL TRANSITION",
+      "structural_type": "comparison",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "STRUCTURAL TRANSITION",
+          "role": "primary"
+        },
+        {
+          "text": "POST AND LINTEL",
+          "role": "outcome"
+        },
+        {
+          "text": "ARCH, VAULT AND DOME",
+          "role": "comparison"
+        },
+        {
+          "text": "LIME MORTAR",
+          "role": "evidence"
+        },
+        {
+          "text": "STRONGER WIDE-SPAN WORK",
+          "role": "primary"
+        },
+        {
+          "text": "COEXISTENCE, NOT REPLACEMENT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TRABEATE → post and lintel",
+        "ARCUATE → arch, vault and dome",
+        "LIME MORTAR → stronger wide-span work",
+        "OUTCOME → coexistence, not replacement"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TRABEATE → post and lintel",
+            "ARCUATE → arch, vault and dome"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LIME MORTAR → stronger wide-span work",
+            "OUTCOME → coexistence, not replacement"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRABEATE → post and lintel",
+            "ARCUATE → arch, vault and dome"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIME MORTAR → stronger wide-span work; OUTCOME → coexistence, not replacement.",
+      "source_references": [
+        "Trabeate and arcuate systems"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SYNTHESIS MECHANISM",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SYNTHESIS MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "ARCUATE KNOWLEDGE",
+          "role": "outcome"
+        },
+        {
+          "text": "NEW STRUCTURAL RANGE",
+          "role": "comparison"
+        },
+        {
+          "text": "LOCAL CRAFT",
+          "role": "evidence"
+        },
+        {
+          "text": "TRABEATE SKILL AND MOTIFS",
+          "role": "primary"
+        },
+        {
+          "text": "REGIONAL MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "STONE, BRICK AND MORTAR",
+          "role": "comparison"
+        },
+        {
+          "text": "BUILDING INDUSTRY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARCUATE KNOWLEDGE → new structural range",
+        "LOCAL CRAFT → trabeate skill and motifs",
+        "REGIONAL MATERIAL → stone, brick and mortar",
+        "BUILDING INDUSTRY → hybrid results"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ARCUATE KNOWLEDGE → new structural range",
+            "LOCAL CRAFT → trabeate skill and motifs"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REGIONAL MATERIAL → stone, brick and mortar",
+            "BUILDING INDUSTRY → hybrid results"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARCUATE KNOWLEDGE → new structural range",
+            "LOCAL CRAFT → trabeate skill and motifs"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REGIONAL MATERIAL → stone, brick and mortar; BUILDING INDUSTRY → hybrid results.",
+      "source_references": [
+        "One hybrid building industry"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ORNAMENT IDENTIFICATION",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ORNAMENT IDENTIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "PERFORATED LIGHT SCREEN",
+          "role": "outcome"
+        },
+        {
+          "text": "GEOMETRIC-VEGETAL CONTINUITY",
+          "role": "comparison"
+        },
+        {
+          "text": "FOUR-PART GARDEN",
+          "role": "evidence"
+        },
+        {
+          "text": "PIETRA DURA",
+          "role": "primary"
+        },
+        {
+          "text": "FITTED STONE INLAY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "JAALI → perforated light screen",
+        "ARABESQUE → geometric-vegetal continuity",
+        "CHARBAGH → four-part garden",
+        "PIETRA DURA → fitted stone inlay"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "JAALI → perforated light screen",
+          "CHARBAGH → four-part garden",
+          "JAALI → perforated light screen"
+        ],
+        [
+          "ARABESQUE → geometric-vegetal continuity",
+          "PIETRA DURA → fitted stone inlay",
+          "ARABESQUE → geometric-vegetal continuity"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "JAALI → perforated light screen",
+            "ARABESQUE → geometric-vegetal continuity"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CHARBAGH → four-part garden",
+            "PIETRA DURA → fitted stone inlay"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "JAALI → perforated light screen",
+            "ARABESQUE → geometric-vegetal continuity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CHARBAGH → four-part garden; PIETRA DURA → fitted stone inlay.",
+      "source_references": [
+        "The ornamental grammar"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SULTANATE CLASSIFICATION",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SULTANATE CLASSIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "SLAVE, KHILJI, TUGHLAQ, LODI",
+          "role": "outcome"
+        },
+        {
+          "text": "BANGLA ROOF",
+          "role": "comparison"
+        },
+        {
+          "text": "NO UNIVERSAL MINAR",
+          "role": "caution"
+        },
+        {
+          "text": "BULBOUS DOME EXPERIMENT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "IMPERIAL → Slave, Khilji, Tughlaq, Lodi",
+        "BENGAL → Bangla roof",
+        "JAUNPUR/MALWA → no universal minar",
+        "BIJAPUR → bulbous dome experiment"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "IMPERIAL → Slave, Khilji, Tughlaq, Lodi",
+            "BENGAL → Bangla roof"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "JAUNPUR/MALWA → no universal minar",
+            "BIJAPUR → bulbous dome experiment"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "IMPERIAL → Slave, Khilji, Tughlaq, Lodi",
+            "BENGAL → Bangla roof"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "JAUNPUR/MALWA → no universal minar; BIJAPUR → bulbous dome experiment.",
+      "source_references": [
+        "Imperial and provincial classification"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "QUTB LAYERED MONUMENT",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "QUTB LAYERED MONUMENT",
+          "role": "primary"
+        },
+        {
+          "text": "BEGINS TOWER",
+          "role": "outcome"
+        },
+        {
+          "text": "SUBSTANTIAL COMPLETION",
+          "role": "comparison"
+        },
+        {
+          "text": "FIROZ SHAH",
+          "role": "evidence"
+        },
+        {
+          "text": "UPPER REPAIR OR REBUILDING",
+          "role": "primary"
+        },
+        {
+          "text": "ONE MONUMENT, SEVERAL REIGNS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "AIBAK → begins tower",
+        "ILTUTMISH → substantial completion",
+        "FIROZ SHAH → upper repair or rebuilding",
+        "LESSON → one monument, several reigns"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AIBAK → begins tower",
+            "ILTUTMISH → substantial completion"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FIROZ SHAH → upper repair or rebuilding",
+            "LESSON → one monument, several reigns"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AIBAK → begins tower",
+            "ILTUTMISH → substantial completion"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FIROZ SHAH → upper repair or rebuilding; LESSON → one monument, several reigns.",
+      "source_references": [
+        "Qutb complex as accretion and reuse"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SPOLIA EVIDENCE BOUNDARY",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SPOLIA EVIDENCE BOUNDARY",
+          "role": "evidence"
+        },
+        {
+          "text": "RECORDS REUSED MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "TWENTY-SEVEN TEMPLES AT THIS SITE",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIFIC DOCUMENTED REUSE",
+          "role": "evidence"
+        },
+        {
+          "text": "NO PERIOD-WIDE GENERALISATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "INSCRIPTION → records reused material",
+        "COUNT → twenty-seven temples at this site",
+        "CLAIM → specific documented reuse",
+        "PROHIBITION → no period-wide generalisation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INSCRIPTION → records reused material",
+            "COUNT → twenty-seven temples at this site"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CLAIM → specific documented reuse",
+            "PROHIBITION → no period-wide generalisation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INSCRIPTION → records reused material",
+            "COUNT → twenty-seven temples at this site"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLAIM → specific documented reuse; PROHIBITION → no period-wide generalisation.",
+      "source_references": [
+        "Qutb complex as accretion and reuse"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "PROVINCIAL CLIMATE MAP",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PROVINCIAL CLIMATE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "RAIN-RESPONSIVE SLOPING ROOF",
+          "role": "outcome"
+        },
+        {
+          "text": "WINDOWS, PAVILIONS AND BAULIS",
+          "role": "comparison"
+        },
+        {
+          "text": "SCREEN FACADE WITHOUT MINARS",
+          "role": "evidence"
+        },
+        {
+          "text": "DECCANI DOME GEOMETRY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "BENGAL → rain-responsive sloping roof",
+        "MALWA → windows, pavilions and baulis",
+        "JAUNPUR → screen facade without minars",
+        "BIJAPUR → Deccani dome geometry"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "BENGAL → rain-responsive sloping roof",
+          "JAUNPUR → screen facade without minars",
+          "BENGAL → rain-responsive sloping roof"
+        ],
+        [
+          "MALWA → windows, pavilions and baulis",
+          "BIJAPUR → Deccani dome geometry",
+          "MALWA → windows, pavilions and baulis"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BENGAL → rain-responsive sloping roof",
+            "MALWA → windows, pavilions and baulis"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "JAUNPUR → screen facade without minars",
+            "BIJAPUR → Deccani dome geometry"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BENGAL → rain-responsive sloping roof",
+            "MALWA → windows, pavilions and baulis"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "JAUNPUR → screen facade without minars; BIJAPUR → Deccani dome geometry.",
+      "source_references": [
+        "Bengal and Jaunpur",
+        "Malwa and Bijapur"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "MUGHAL MATERIAL CHRONOLOGY",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MUGHAL MATERIAL CHRONOLOGY",
+          "role": "evidence"
+        },
+        {
+          "text": "RED SANDSTONE MASS",
+          "role": "outcome"
+        },
+        {
+          "text": "NUR JAHAN/JAHANGIR",
+          "role": "comparison"
+        },
+        {
+          "text": "WHITE MARBLE TURN",
+          "role": "evidence"
+        },
+        {
+          "text": "SHAH JAHAN",
+          "role": "primary"
+        },
+        {
+          "text": "MARBLE AND INLAY CULMINATION",
+          "role": "outcome"
+        },
+        {
+          "text": "REGIONAL CONTINUATION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "AKBAR → red sandstone mass",
+        "NUR JAHAN/JAHANGIR → white marble turn",
+        "SHAH JAHAN → marble and inlay culmination",
+        "LATER → regional continuation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AKBAR → red sandstone mass",
+            "NUR JAHAN/JAHANGIR → white marble turn"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SHAH JAHAN → marble and inlay culmination",
+            "LATER → regional continuation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AKBAR → red sandstone mass",
+            "NUR JAHAN/JAHANGIR → white marble turn"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SHAH JAHAN → marble and inlay culmination; LATER → regional continuation.",
+      "source_references": [
+        "Akbar's architectural phase",
+        "Marble transition"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "FATEHPUR SIKRI BOUNDARY",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FATEHPUR SIKRI BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "IMPERIAL CAPITAL AND COMPLEX",
+          "role": "outcome"
+        },
+        {
+          "text": "IBADAT KHANA",
+          "role": "comparison"
+        },
+        {
+          "text": "DEBATE SETTING",
+          "role": "evidence"
+        },
+        {
+          "text": "OWNS SPATIAL EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "PRIMARY OWNERSHIP ELSEWHERE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PLACE → imperial capital and complex",
+        "IBADAT KHANA → debate setting",
+        "ARCHITECTURE → owns spatial evidence",
+        "DOCTRINE → primary ownership elsewhere"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PLACE → imperial capital and complex",
+          "ARCHITECTURE → owns spatial evidence",
+          "PLACE → imperial capital and complex"
+        ],
+        [
+          "IBADAT KHANA → debate setting",
+          "DOCTRINE → primary ownership elsewhere",
+          "IBADAT KHANA → debate setting"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PLACE → imperial capital and complex",
+            "IBADAT KHANA → debate setting"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ARCHITECTURE → owns spatial evidence",
+            "DOCTRINE → primary ownership elsewhere"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PLACE → imperial capital and complex",
+            "IBADAT KHANA → debate setting"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ARCHITECTURE → owns spatial evidence; DOCTRINE → primary ownership elsewhere.",
+      "source_references": [
+        "Akbar's architectural phase"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "WORKSHOP AUTHORSHIP",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WORKSHOP AUTHORSHIP",
+          "role": "primary"
+        },
+        {
+          "text": "SHAH JAHAN",
+          "role": "outcome"
+        },
+        {
+          "text": "DESIGNERS AND CRAFTSMEN",
+          "role": "comparison"
+        },
+        {
+          "text": "COLLECTIVE EXECUTION",
+          "role": "evidence"
+        },
+        {
+          "text": "NO UNCONTESTED SOLE MASTERMIND",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PATRON → Shah Jahan",
+        "SPECIALISTS → designers and craftsmen",
+        "WORKSHOP → collective execution",
+        "VERDICT → no uncontested sole mastermind"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PATRON → Shah Jahan",
+            "SPECIALISTS → designers and craftsmen"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WORKSHOP → collective execution",
+            "VERDICT → no uncontested sole mastermind"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PATRON → Shah Jahan",
+            "SPECIALISTS → designers and craftsmen"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WORKSHOP → collective execution; VERDICT → no uncontested sole mastermind.",
+      "source_references": [
+        "Taj authorship and workshops"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "REGIONAL CONTINUATION",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REGIONAL CONTINUATION",
+          "role": "primary"
+        },
+        {
+          "text": "JHAROKHA AND COURT DISPLAY",
+          "role": "institution"
+        },
+        {
+          "text": "CHHATRI, CORNICE AND ONION DOME",
+          "role": "comparison"
+        },
+        {
+          "text": "MORTAR AND IMAMBARA SCALE",
+          "role": "evidence"
+        },
+        {
+          "text": "TERRAIN-BASED FORT NETWORK",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "RAJPUT → jharokha and court display",
+        "SIKH → chhatri, cornice and onion dome",
+        "AWADH → mortar and imambara scale",
+        "MARATHA → terrain-based fort network"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "RAJPUT → jharokha and court display",
+          "AWADH → mortar and imambara scale",
+          "RAJPUT → jharokha and court display"
+        ],
+        [
+          "SIKH → chhatri, cornice and onion dome",
+          "MARATHA → terrain-based fort network",
+          "SIKH → chhatri, cornice and onion dome"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RAJPUT → jharokha and court display",
+            "SIKH → chhatri, cornice and onion dome"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AWADH → mortar and imambara scale",
+            "MARATHA → terrain-based fort network"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RAJPUT → jharokha and court display",
+            "SIKH → chhatri, cornice and onion dome"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AWADH → mortar and imambara scale; MARATHA → terrain-based fort network.",
+      "source_references": [
+        "Rajput, Sikh and Awadh adaptations",
+        "Maratha comparison and answer spine"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "INDO-ISLAMIC ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "INDO-ISLAMIC ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "TRABEATE-ARCUATE COEXISTENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "MONUMENT, MATERIAL AND WORKSHOP",
+          "role": "evidence"
+        },
+        {
+          "text": "PROVINCIAL AND REGIONAL SOLUTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "REUSE, AUTHORSHIP AND TERMINOLOGY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEFINE → trabeate-arcuate coexistence",
+        "EVIDENCE → monument, material and workshop",
+        "COMPARE → provincial and regional solutions",
+        "QUALIFY → reuse, authorship and terminology"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE → trabeate-arcuate coexistence",
+            "EVIDENCE → monument, material and workshop"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMPARE → provincial and regional solutions",
+            "QUALIFY → reuse, authorship and terminology"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINE → trabeate-arcuate coexistence",
+            "EVIDENCE → monument, material and workshop"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMPARE → provincial and regional solutions; QUALIFY → reuse, authorship and terminology.",
+      "source_references": [
+        "Maratha comparison and answer spine"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "UNESCO'S 2025 INSCRIPTION OF THE MARATHA MILITARY LANDSCAPES OF",
+          "role": "evidence"
+        },
+        {
+          "text": "DESCRIBING THE QUWWAT-UL-ISLAM MOSQUE AS THE CONVERSION OF ONE",
+          "role": "comparison"
+        },
+        {
+          "text": "TREATING \"INDO-ISLAMIC\" AND \"INDO-SARACENIC\" AS ALWAYS REFERRING TO",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSUMING RED SANDSTONE AND WHITE MARBLE WERE USED INTERCHANGEABLY",
+          "role": "primary"
+        },
+        {
+          "text": "EXPLAINING REDUCED AURANGZEB-ERA IMPERIAL BUILDING SOLELY THROUGH A",
+          "role": "outcome"
+        },
+        {
+          "text": "CONVERTING WORKSHOP PRODUCTION INTO SINGLE-GENIUS AUTHORSHIP. - THE",
+          "role": "comparison"
+        },
+        {
+          "text": "MEDIEVAL HISTORY OWNS THE FULL DELHI SULTANATE/MUGHAL POLITICAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "UNESCO's 2025 inscription of the Maratha Military Landscapes of",
+            "NOT: Describing the Quwwat-ul-Islam mosque as the conversion of one Jain",
+            "NOT: Treating \"Indo-Islamic\" and \"Indo-Saracenic\" as always referring to",
+            "NOT: Assuming red sandstone and white marble were used interchangeably"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / INTERPRETIVE LIMIT",
+          "role": "caution",
+          "items": [
+            "NOT: Explaining reduced Aurangzeb-era imperial building solely through a",
+            "NOT: Converting workshop production into single-genius authorship. - The",
+            "NOT: Medieval History owns the full Delhi Sultanate/Mughal political",
+            "NOT: Medieval History topic 17 owns Akbar's religious policy; Art &"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE HERITAGE NUANCE",
+          "role": "comparison",
+          "items": [
+            "This file's layered-patronage and material-dating methods (Section 4)",
+            "00 Master-Framework.md Section 4 — the evidence hierarchy reused for",
+            "CAUTION: Downstream topics: Topic 05 continues into colonial Indo-Saracenic",
+            "Verified against Nitinpdf , PDF pp. 125-148 directly."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

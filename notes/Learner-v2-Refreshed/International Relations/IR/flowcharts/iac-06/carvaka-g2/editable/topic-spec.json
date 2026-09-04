@@ -1,0 +1,1214 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "international-relations-06",
+  "subject": "International Relations",
+  "title": "WEST ASIA, ENERGY SECURITY AND CONNECTIVITY",
+  "short_route": "CENTRAL QUESTION AND THE → TWO VARIABLES ANSWERS KEEP → ENERGY TRILEMMA AS THE → ISRAEL TRACK: DEPTH ACROSS → GULF ARCHITECTURE WITH DATES → TRADE INSTRUMENTS AND THEIR",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-06\\g2\\international-relations-06_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\international-relations-06-deep-review-2026-09-03-g2.json",
+  "ascii_spec_sha256": "678d37a22bc764fa334179e236a3e89f9f1d2a7db367d050ca7d2707013216d4",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CENTRAL QUESTION AND THE THREE PARALLEL TRACKS",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "CENTRAL QUESTION AND THE THREE PARALLEL TRACKS",
+          "role": "primary"
+        },
+        {
+          "text": "HOW DOES ONE REGION CARRY ENERGY, PEOPLE AND CORRIDORS",
+          "role": "outcome"
+        },
+        {
+          "text": "ROOT CONDITION",
+          "role": "comparison"
+        },
+        {
+          "text": "CRUDE-OIL IMPORT DEPENDENCE OF 88.2% IN FY2024-25",
+          "role": "evidence"
+        },
+        {
+          "text": "ABOUT 88.7% PROVISIONAL IN FY2025-26; SIKRI'S BOOK PERIOD",
+          "role": "primary"
+        },
+        {
+          "text": "APPROXIMATELY 70%",
+          "role": "outcome"
+        },
+        {
+          "text": "TRACK 1",
+          "role": "comparison"
+        },
+        {
+          "text": "GULF AND ARAB WORLD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL QUESTION → how does one region carry energy, people and corridors at once?",
+        "ROOT CONDITION → crude-oil import dependence of 88.2% in FY2024-25",
+        "about 88.7% provisional in FY2025-26; Sikri's book period: approximately 70%",
+        "TRACK 1 → GULF and ARAB WORLD: energy and diaspora",
+        "TRACK 2 → ISRAEL: technology, defence, agriculture, innovation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL QUESTION → how does one region carry energy, people and corridors at once?",
+            "ROOT CONDITION → crude-oil import dependence of 88.2% in FY2024-25",
+            "about 88.7% provisional in FY2025-26; Sikri's book period: approximately 70%"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRACK 1 → GULF and ARAB WORLD: energy and diaspora",
+            "TRACK 2 → ISRAEL: technology, defence, agriculture, innovation",
+            "TRACK 3 → IRAN: energy history and Chabahar connectivity"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DOCTRINE → Look West, named by Tharoor as a parallel to Look East",
+            "RULE → parallel and non-exclusive tracks, never a sequence of choices",
+            "MUST REMEMBER: West Asia policy balances energy security, diaspora welfare, remittances,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → parallel and non-exclusive tracks, never a sequence of choices.",
+      "source_references": [
+        "What this West Asian owner holds and how its boundaries are routed",
+        "Look West as a declared regional doctrine",
+        "Crude-oil import dependence and its exact period boundaries",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\06_West-Asia-Energy-Security-and-Connectivity.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\06_West-Asia-Energy-Security-and-Connectivity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-06\\g2\\international-relations-06_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "TWO VARIABLES ANSWERS KEEP MERGING",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO VARIABLES ANSWERS KEEP MERGING",
+          "role": "primary"
+        },
+        {
+          "text": "WIDENING THE SET OF SUPPLIERS AND EQUITY SOURCES",
+          "role": "outcome"
+        },
+        {
+          "text": "US SHARE 4.6%",
+          "role": "comparison"
+        },
+        {
+          "text": "8.1%; UAE SHARE 9.4%",
+          "role": "evidence"
+        },
+        {
+          "text": "11.1%, APRIL-NOVEMBER FY26",
+          "role": "primary"
+        },
+        {
+          "text": "ALSO ROSE",
+          "role": "outcome"
+        },
+        {
+          "text": "EGYPT, NIGERIA, LIBYA",
+          "role": "comparison"
+        },
+        {
+          "text": "RUSSIA, SAUDI ARABIA, IRAQ, VENEZUELA",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DIVERSIFICATION → widening the set of suppliers and equity sources",
+        "EVIDENCE: US share 4.6% → 8.1%; UAE share 9.4% → 11.1%, April-November FY26",
+        "ALSO ROSE: Egypt, Nigeria, Libya",
+        "DECLINED: Russia, Saudi Arabia, Iraq, Venezuela",
+        "DEPENDENCE REDUCTION → lowering the share of consumption that must be imported"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DIVERSIFICATION → widening the set of suppliers and equity sources",
+          "DECLINED: Russia, Saudi Arabia, Iraq, Venezuela",
+          "VERDICT → diversification of sources, expressly not reduction of dependence"
+        ],
+        [
+          "EVIDENCE: US share 4.6% → 8.1%; UAE share 9.4% → 11.1%, April-November FY26",
+          "DEPENDENCE REDUCTION → lowering the share of consumption that must be imported",
+          "BRAKE → refineries devised for the quality of crude that Iran supplies"
+        ],
+        [
+          "ALSO ROSE: Egypt, Nigeria, Libya",
+          "EVIDENCE: aggregate dependence remained very high across the same period",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DIVERSIFICATION → widening the set of suppliers and equity sources",
+            "EVIDENCE: US share 4.6% → 8.1%; UAE share 9.4% → 11.1%, April-November FY26",
+            "ALSO ROSE: Egypt, Nigeria, Libya"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DECLINED: Russia, Saudi Arabia, Iraq, Venezuela",
+            "DEPENDENCE REDUCTION → lowering the share of consumption that must be imported",
+            "EVIDENCE: aggregate dependence remained very high across the same period"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → diversification of sources, expressly not reduction of dependence",
+            "BRAKE → refineries devised for the quality of crude that Iran supplies"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → diversification of sources, expressly not reduction of dependence.",
+      "source_references": [
+        "Supplier diversification against dependence reduction",
+        "Refinery configuration as a hidden switching cost",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\06_West-Asia-Energy-Security-and-Connectivity.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\06_West-Asia-Energy-Security-and-Connectivity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-06\\g2\\international-relations-06_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ENERGY TRILEMMA AS THE EVALUATIVE FRAME",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ENERGY TRILEMMA AS THE EVALUATIVE FRAME",
+          "role": "primary"
+        },
+        {
+          "text": "SUSTAINABILITY SUPPLY",
+          "role": "outcome"
+        },
+        {
+          "text": "PRICE EXPOSURE AND",
+          "role": "comparison"
+        },
+        {
+          "text": "TRANSITION PRESSURE AND RELIABILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "IMPORT-BILL BURDEN",
+          "role": "primary"
+        },
+        {
+          "text": "LONG-HORIZON SUBSTITUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "A SECURITY-ONLY FRAME HIDES TRADE-OFFS BETWEEN THESE THREE LIMBS",
+          "role": "comparison"
+        },
+        {
+          "text": "DIVERSIFICATION SERVES SECURITY; IT DOES NOT SETTLE AFFORDABILITY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SUSTAINABILITY supply",
+        "price exposure and",
+        "transition pressure and reliability",
+        "import-bill burden",
+        "long-horizon substitution"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SUSTAINABILITY supply",
+          "import-bill burden",
+          "APPLIED → diversification serves security; it does not settle affordability"
+        ],
+        [
+          "price exposure and",
+          "long-horizon substitution",
+          "APPLIED → transition pressure reshapes what security will mean over time"
+        ],
+        [
+          "transition pressure and reliability",
+          "TENSION → a security-only frame hides trade-offs between these three limbs",
+          "RULE → evaluate the portfolio on all three axes, not on supply alone"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SUSTAINABILITY supply",
+            "price exposure and",
+            "transition pressure and reliability"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "import-bill burden",
+            "long-horizon substitution",
+            "TENSION → a security-only frame hides trade-offs between these three limbs"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "APPLIED → diversification serves security; it does not settle affordability",
+            "APPLIED → transition pressure reshapes what security will mean over time",
+            "RULE → evaluate the portfolio on all three axes, not on supply alone"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → evaluate the portfolio on all three axes, not on supply alone.",
+      "source_references": [
+        "The energy trilemma as the correct evaluative frame",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\06_West-Asia-Energy-Security-and-Connectivity.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\06_West-Asia-Energy-Security-and-Connectivity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-06\\g2\\international-relations-06_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ISRAEL TRACK: DEPTH ACROSS DISTINCT DOMAINS",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ISRAEL TRACK",
+          "role": "primary"
+        },
+        {
+          "text": "DEPTH ACROSS DISTINCT DOMAINS",
+          "role": "outcome"
+        },
+        {
+          "text": "FULL DIPLOMATIC RELATIONS ESTABLISHED",
+          "role": "comparison"
+        },
+        {
+          "text": "JULY 2017",
+          "role": "evidence"
+        },
+        {
+          "text": "FIRST VISIT BY AN INDIAN PRIME MINISTER TO ISRAEL",
+          "role": "primary"
+        },
+        {
+          "text": "PROCUREMENT, COUNTER-TERRORISM, CO-DEVELOPMENT; BARAK-8",
+          "role": "outcome"
+        },
+        {
+          "text": "INDO-ISRAEL AGRICULTURAL PROJECT CENTRES OF EXCELLENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "INDUSTRIAL R&D AND TECHNOLOGICAL INNOVATION FUND, 2017",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1992 → full diplomatic relations established",
+        "JULY 2017 → first visit by an Indian Prime Minister to Israel",
+        "DEFENCE: procurement, counter-terrorism, co-development; Barak-8",
+        "AGRICULTURE: Indo-Israel Agricultural Project Centres of Excellence",
+        "INNOVATION: Industrial R&D and Technological Innovation Fund, 2017"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1992 → full diplomatic relations established",
+            "JULY 2017 → first visit by an Indian Prime Minister to Israel",
+            "DEFENCE: procurement, counter-terrorism, co-development; Barak-8"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AGRICULTURE: Indo-Israel Agricultural Project Centres of Excellence",
+            "INNOVATION: Industrial R&D and Technological Innovation Fund, 2017",
+            "MINILATERAL: I2U2 food, water, energy and technology cooperation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMITS → transfer depth, cost, extension and scaling, regional conflict"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMITS → transfer depth, cost, extension and scaling, regional conflict.",
+      "source_references": [
+        "The India-Israel relationship in its full diversity",
+        "I2U2 and the honest limitation on its recent activity",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\06_West-Asia-Energy-Security-and-Connectivity.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\06_West-Asia-Energy-Security-and-Connectivity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-06\\g2\\international-relations-06_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "GULF ARCHITECTURE WITH DATES AND FORUMS",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GULF ARCHITECTURE WITH DATES AND FORUMS",
+          "role": "primary"
+        },
+        {
+          "text": "9 SEPTEMBER 2024, RIYADH",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA-GCC JOINT ACTION PLAN 2024-2028, ADOPTED AT THE FIRST",
+          "role": "comparison"
+        },
+        {
+          "text": "22 APRIL 2025, JEDDAH",
+          "role": "evidence"
+        },
+        {
+          "text": "SECOND INDIA-SAUDI ARABIA STRATEGIC PARTNERSHIP COUNCIL",
+          "role": "institution"
+        },
+        {
+          "text": "18 FEBRUARY 2025",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA-QATAR AGREEMENT ON A BILATERAL STRATEGIC PARTNERSHIP",
+          "role": "comparison"
+        },
+        {
+          "text": "25 JANUARY 2017",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "9 SEPTEMBER 2024, RIYADH → India-GCC Joint Action Plan 2024-2028, adopted at the first Joint",
+        "22 APRIL 2025, JEDDAH → second India-Saudi Arabia Strategic Partnership Council",
+        "18 FEBRUARY 2025 → India-Qatar Agreement on a Bilateral Strategic Partnership",
+        "25 JANUARY 2017 → India-UAE Comprehensive Strategic Partnership",
+        "RULE → name the dated instrument and its forum, never an undated partnership"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "9 SEPTEMBER 2024, RIYADH → India-GCC Joint Action Plan 2024-2028, adopted at the first Joint Ministerial Meeting for Strategic Dialogue",
+          "18 FEBRUARY 2025 → India-Qatar Agreement on a Bilateral Strategic Partnership",
+          "RULE → name the dated instrument and its forum, never an undated partnership"
+        ],
+        [
+          "22 APRIL 2025, JEDDAH → second India-Saudi Arabia Strategic Partnership Council",
+          "25 JANUARY 2017 → India-UAE Comprehensive Strategic Partnership",
+          "9 SEPTEMBER 2024, RIYADH → India-GCC Joint Action Plan 2024-2028, adopted at the first Joint Ministerial Meeting for Strategic Dialogue"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "9 SEPTEMBER 2024, RIYADH → India-GCC Joint Action Plan 2024-2028, adopted at the first Joint Ministerial Meeting for Strategic Dialogue",
+            "22 APRIL 2025, JEDDAH → second India-Saudi Arabia Strategic Partnership Council"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "18 FEBRUARY 2025 → India-Qatar Agreement on a Bilateral Strategic Partnership",
+            "25 JANUARY 2017 → India-UAE Comprehensive Strategic Partnership"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → name the dated instrument and its forum, never an undated partnership",
+            "9 SEPTEMBER 2024, RIYADH → India-GCC Joint Action Plan 2024-2028, adopted at the first Joint Ministerial Meeting for Strategic Dialogue"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → name the dated instrument and its forum, never an undated partnership.",
+      "source_references": [
+        "The Gulf institutional architecture and its dated instruments",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\06_West-Asia-Energy-Security-and-Connectivity.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\06_West-Asia-Energy-Security-and-Connectivity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-06\\g2\\international-relations-06_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TRADE INSTRUMENTS AND THEIR FORCE STATUS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TRADE INSTRUMENTS AND THEIR FORCE STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA-UAE CEPA",
+          "role": "outcome"
+        },
+        {
+          "text": "IN FORCE SINCE 1 MAY 2022 REPORTED BILATERAL TRADE",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA-OMAN CEPA",
+          "role": "evidence"
+        },
+        {
+          "text": "SIGNED ON 18 DECEMBER 2025 ENTRY INTO FORCE REQUIRES",
+          "role": "primary"
+        },
+        {
+          "text": "TARIFF AND TRADE-VOLUME MECHANICS BELONG TO THE ECONOMY OWNER",
+          "role": "outcome"
+        },
+        {
+          "text": "IR KEEPS",
+          "role": "comparison"
+        },
+        {
+          "text": "THE STRATEGIC-PARTNERSHIP SIGNIFICANCE OF EACH INSTRUMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDIA-UAE CEPA → IN FORCE since 1 May 2022 reported bilateral trade approximately USD 100",
+        "INDIA-OMAN CEPA → SIGNED on 18 December 2025 entry into force requires separate verification",
+        "BOUNDARY → tariff and trade-volume mechanics belong to the Economy owner",
+        "IR KEEPS → the strategic-partnership significance of each instrument"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "INDIA-UAE CEPA → IN FORCE since 1 May 2022 reported bilateral trade approximately USD 100 billion in FY2024-25",
+          "BOUNDARY → tariff and trade-volume mechanics belong to the Economy owner",
+          "INDIA-UAE CEPA → IN FORCE since 1 May 2022 reported bilateral trade approximately USD 100 billion in FY2024-25"
+        ],
+        [
+          "INDIA-OMAN CEPA → SIGNED on 18 December 2025 entry into force requires separate verification",
+          "IR KEEPS → the strategic-partnership significance of each instrument",
+          "INDIA-OMAN CEPA → SIGNED on 18 December 2025 entry into force requires separate verification"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INDIA-UAE CEPA → IN FORCE since 1 May 2022 reported bilateral trade approximately USD 100 billion in FY2024-25",
+            "INDIA-OMAN CEPA → SIGNED on 18 December 2025 entry into force requires separate verification"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BOUNDARY → tariff and trade-volume mechanics belong to the Economy owner",
+            "IR KEEPS → the strategic-partnership significance of each instrument"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INDIA-UAE CEPA → IN FORCE since 1 May 2022 reported bilateral trade approximately USD 100 billion in FY2024-25",
+            "INDIA-OMAN CEPA → SIGNED on 18 December 2025 entry into force requires separate verification"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "IR KEEPS → the strategic-partnership significance of each instrument.",
+      "source_references": [
+        "Trade agreements in the Gulf and their exact force status",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\06_West-Asia-Energy-Security-and-Connectivity.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\06_West-Asia-Energy-Security-and-Connectivity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-06\\g2\\international-relations-06_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CORRIDOR DIPLOMACY AGAINST CORRIDOR INFRASTRUCTURE",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CORRIDOR DIPLOMACY AGAINST CORRIDOR INFRASTRUCTURE",
+          "role": "primary"
+        },
+        {
+          "text": "9 SEPTEMBER 2023, NEW DELHI",
+          "role": "outcome"
+        },
+        {
+          "text": "IMEC MEMORANDUM SIGNED BY EIGHT PARTIES",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA, US, SAUDI ARABIA, UAE, EU, FRANCE, GERMANY, ITALY",
+          "role": "evidence"
+        },
+        {
+          "text": "24 JUNE 2024",
+          "role": "primary"
+        },
+        {
+          "text": "MEA INDIA-UAE READOUT REFERS TO COMMENCEMENT OF WORK",
+          "role": "outcome"
+        },
+        {
+          "text": "NO COMPLETED CONSTRUCTION OR OPERATING SEGMENT OFFICIALLY ESTABLISHED",
+          "role": "caution"
+        },
+        {
+          "text": "CONNECTIVITY DIPLOMACY CREATES MOMENTUM, NOT DELIVERED INFRASTRUCTURE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "9 SEPTEMBER 2023, NEW DELHI → IMEC memorandum signed by eight parties",
+        "India, US, Saudi Arabia, UAE, EU, France, Germany, Italy",
+        "24 JUNE 2024: MEA India-UAE readout refers to commencement of work",
+        "STATUS: no completed construction or operating segment officially established",
+        "CONSEQUENCE → connectivity diplomacy creates momentum, not delivered infrastructure"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "9 SEPTEMBER 2023, NEW DELHI → IMEC memorandum signed by eight parties",
+            "India, US, Saudi Arabia, UAE, EU, France, Germany, Italy"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "24 JUNE 2024: MEA India-UAE readout refers to commencement of work",
+            "STATUS: no completed construction or operating segment officially established"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONSEQUENCE → connectivity diplomacy creates momentum, not delivered infrastructure",
+            "STRESS TEST → regional conflict raises political, security and route-risk costs"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STRESS TEST → regional conflict raises political, security and route-risk costs.",
+      "source_references": [
+        "The corridor memorandum and the difference between intent and infrastructure",
+        "India's Palestine position and the balance it must hold",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\06_West-Asia-Energy-Security-and-Connectivity.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\06_West-Asia-Energy-Security-and-Connectivity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-06\\g2\\international-relations-06_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "IRAN TRACK: INSTRUMENT, WITHDRAWAL AND DISPUTED STATUS",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "IRAN TRACK",
+          "role": "primary"
+        },
+        {
+          "text": "INSTRUMENT, WITHDRAWAL AND DISPUTED STATUS",
+          "role": "outcome"
+        },
+        {
+          "text": "14 JULY 2015",
+          "role": "comparison"
+        },
+        {
+          "text": "JOINT COMPREHENSIVE PLAN OF ACTION CONCLUDED, IRAN WITH E3/EU+3",
+          "role": "evidence"
+        },
+        {
+          "text": "ENDORSED BY UN SECURITY COUNCIL RESOLUTION 2231",
+          "role": "institution"
+        },
+        {
+          "text": "8 MAY 2018",
+          "role": "outcome"
+        },
+        {
+          "text": "UNITED STATES ANNOUNCES WITHDRAWAL; SANCTIONS RESTORED IN STAGES",
+          "role": "comparison"
+        },
+        {
+          "text": "MAY 2019",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "14 JULY 2015 → Joint Comprehensive Plan of Action concluded, Iran with E3/EU+3",
+        "endorsed by UN Security Council resolution 2231",
+        "8 MAY 2018 → United States announces withdrawal; sanctions restored in stages",
+        "MAY 2019 → Significant Reduction Exceptions end; India ceases Iranian crude purchases",
+        "13 MAY 2024 → ten-year Chabahar contract signed"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "14 JULY 2015 → Joint Comprehensive Plan of Action concluded, Iran with E3/EU+3",
+            "endorsed by UN Security Council resolution 2231",
+            "8 MAY 2018 → United States announces withdrawal; sanctions restored in stages"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MAY 2019 → Significant Reduction Exceptions end; India ceases Iranian crude purchases",
+            "13 MAY 2024 → ten-year Chabahar contract signed",
+            "29 SEPTEMBER 2025 → the 2018 Chabahar exception revoked with effect from this date"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "2025 → after the E3 snapback action the status of restored UN measures is disputed by Iran, Russia and China",
+            "do not call the Plan normally functioning"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "2025 → after the E3 snapback action the status of restored UN measures is disputed by Iran, Russia and China; do not call the Plan normally functioning.",
+      "source_references": [
+        "The nuclear-diplomacy instrument and its disputed present status",
+        "The oil-sourcing transmission of another state's policy",
+        "The Chabahar carve-out and its reversal",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\06_West-Asia-Energy-Security-and-Connectivity.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\06_West-Asia-Energy-Security-and-Connectivity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-06\\g2\\international-relations-06_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "COMPOUNDING RISK AT ONE CHOKEPOINT",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "COMPOUNDING RISK AT ONE CHOKEPOINT",
+          "role": "caution"
+        },
+        {
+          "text": "STRAIT OF HORMUZ",
+          "role": "outcome"
+        },
+        {
+          "text": "NARROW OUTLET FROM THE PERSIAN GULF TO THE GULF",
+          "role": "comparison"
+        },
+        {
+          "text": "FREIGHT, INSURANCE AND SUPPLY INSECURITY TRANSMIT IMMEDIATELY",
+          "role": "evidence"
+        },
+        {
+          "text": "PHYSICAL SAFETY OF A VERY LARGE EXPATRIATE POPULATION IS",
+          "role": "primary"
+        },
+        {
+          "text": "CORRIDOR AND PROJECT VIABILITY IS EXPOSED AT THE SAME",
+          "role": "outcome"
+        },
+        {
+          "text": "DIVERSIFICATION DOES NOT REMOVE COMMON-ROUTE EXPOSURE",
+          "role": "caution"
+        },
+        {
+          "text": "RESERVES AND ALTERNATIVE ENERGY REDUCE BUT DO NOT REMOVE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "STRAIT OF HORMUZ → narrow outlet from the Persian Gulf to the Gulf of Oman",
+        "ENERGY: freight, insurance and supply insecurity transmit immediately",
+        "DIASPORA: physical safety of a very large expatriate population is exposed",
+        "CONNECTIVITY: corridor and project viability is exposed at the same moment",
+        "LIMIT → diversification does not remove common-route exposure"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STRAIT OF HORMUZ → narrow outlet from the Persian Gulf to the Gulf of Oman",
+            "ENERGY: freight, insurance and supply insecurity transmit immediately",
+            "DIASPORA: physical safety of a very large expatriate population is exposed"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONNECTIVITY: corridor and project viability is exposed at the same moment",
+            "LIMIT → diversification does not remove common-route exposure",
+            "LIMIT → reserves and alternative energy reduce but do not remove the risk"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DISTINCTIVE → compounding rather than isolated risk, unlike most partner regions"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DISTINCTIVE → compounding rather than isolated risk, unlike most partner regions.",
+      "source_references": [
+        "The Strait of Hormuz and compounding route risk",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\06_West-Asia-Energy-Security-and-Connectivity.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\06_West-Asia-Energy-Security-and-Connectivity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-06\\g2\\international-relations-06_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "DIASPORA EXPOSURE PRICED WITH DATED EVIDENCE",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DIASPORA EXPOSURE PRICED WITH DATED EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "A DIASPORA OF 5 MILLION IN THE GULF, PERIOD-SPECIFIC",
+          "role": "outcome"
+        },
+        {
+          "text": "THE ARAB WORLD IS HOME TO NEARLY 6 MILLION",
+          "role": "comparison"
+        },
+        {
+          "text": "MEA TABLE, JANUARY 2026",
+          "role": "evidence"
+        },
+        {
+          "text": "UAE 4,344,008",
+          "role": "primary"
+        },
+        {
+          "text": "SAUDI ARABIA 2,750,551",
+          "role": "outcome"
+        },
+        {
+          "text": "POPULATION-STOCK ESTIMATES, NOT CITIZENSHIP OR OCI COUNTS",
+          "role": "caution"
+        },
+        {
+          "text": "27 JUNE 2025",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SIKRI → a diaspora of 5 million in the Gulf, period-specific",
+        "THAROOR → the Arab world is home to nearly 6 million Indians, period-specific",
+        "MEA TABLE, JANUARY 2026 → UAE 4,344,008",
+        "Saudi Arabia 2,750,551",
+        "STATUS → population-stock estimates, not citizenship or OCI counts"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SIKRI → a diaspora of 5 million in the Gulf, period-specific",
+          "Saudi Arabia 2,750,551",
+          "3,597 from Iran and 818 from Israel"
+        ],
+        [
+          "THAROOR → the Arab world is home to nearly 6 million Indians, period-specific",
+          "STATUS → population-stock estimates, not citizenship or OCI counts",
+          "BOUNDARY → relief logistics to Disaster Management; consular diplomacy here and topic 09"
+        ],
+        [
+          "MEA TABLE, JANUARY 2026 → UAE 4,344,008",
+          "27 JUNE 2025 → Operation Sindhu evacuated 4,415 nationals",
+          "CLOSE DISTINCTION: Political declaration, memorandum, treaty, investment pledge, corridor..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SIKRI → a diaspora of 5 million in the Gulf, period-specific",
+            "THAROOR → the Arab world is home to nearly 6 million Indians, period-specific",
+            "MEA TABLE, JANUARY 2026 → UAE 4,344,008"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Saudi Arabia 2,750,551",
+            "STATUS → population-stock estimates, not citizenship or OCI counts",
+            "27 JUNE 2025 → Operation Sindhu evacuated 4,415 nationals"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "3,597 from Iran and 818 from Israel",
+            "BOUNDARY → relief logistics to Disaster Management; consular diplomacy here and topic 09",
+            "CLOSE DISTINCTION: Political declaration, memorandum, treaty, investment pledge, corridor..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Political declaration, memorandum, treaty, investment pledge, corridor.",
+      "source_references": [
+        "Gulf diaspora scale and the exact status of every figure",
+        "Operation Sindhu as dated evidence of the consular obligation",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\06_West-Asia-Energy-Security-and-Connectivity.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\06_West-Asia-Energy-Security-and-Connectivity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-06\\g2\\international-relations-06_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "BALANCING WITHOUT CONTRADICTION",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "BALANCING WITHOUT CONTRADICTION",
+          "role": "primary"
+        },
+        {
+          "text": "DEEPENING ISRAEL TIES COULD BE READ AS A SLIGHT",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA VALUES ISRAEL TIES BUT NOT AT THE EXPENSE",
+          "role": "caution"
+        },
+        {
+          "text": "A TWO-STATE POSITION COULD BE READ AS ABANDONING ISRAEL",
+          "role": "institution"
+        },
+        {
+          "text": "RECOGNITION OF THE STATE OF PALESTINE IN 1988 RUNS",
+          "role": "institution"
+        },
+        {
+          "text": "THE OCTOBER 2023 CONFLICT TESTS BOTH LIMBS AT ONCE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONDEMN TERRORISM, SEEK HUMANITARIAN PROTECTION, HOSTAGE RELEASE, DIALOGUE",
+          "role": "comparison"
+        },
+        {
+          "text": "ACTIVE BALANCING SUSTAINED BY CONTINUOUS EFFORT, NOT A SINGLE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PROBLEM → deepening Israel ties could be read as a slight by Arab partners",
+        "RESPONSE: India values Israel ties but not at the expense of Arab and Muslim friendships",
+        "PROBLEM → a two-state position could be read as abandoning Israel cooperation",
+        "RESPONSE: recognition of the State of Palestine in 1988 runs alongside full relations",
+        "PROBLEM → the October 2023 conflict tests both limbs at once"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PROBLEM → deepening Israel ties could be read as a slight by Arab partners",
+            "RESPONSE: India values Israel ties but not at the expense of Arab and Muslim friendships",
+            "PROBLEM → a two-state position could be read as abandoning Israel cooperation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESPONSE: recognition of the State of Palestine in 1988 runs alongside full relations",
+            "PROBLEM → the October 2023 conflict tests both limbs at once",
+            "RESPONSE: condemn terrorism, seek humanitarian protection, hostage release, dialogue"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → active balancing sustained by continuous effort, not a single declaration",
+            "EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Use named evidence with ministry,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → active balancing sustained by continuous effort, not a single declaration.",
+      "source_references": [
+        "The Israel-Arab balancing principle stated in the source",
+        "India's Palestine position and the balance it must hold",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\06_West-Asia-Energy-Security-and-Connectivity.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\06_West-Asia-Energy-Security-and-Connectivity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-06\\g2\\international-relations-06_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANSWER SPINE FOR A WEST ASIA DEMAND",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER SPINE FOR A WEST ASIA DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "STATE THE DEPENDENCE BASELINE WITH ITS EXACT FINANCIAL YEAR",
+          "role": "institution"
+        },
+        {
+          "text": "ENERGY, DIASPORA, TECHNOLOGY AND CONNECTIVITY, EACH WITH ONE DATED",
+          "role": "comparison"
+        },
+        {
+          "text": "PRICE CHOKEPOINT EXPOSURE, SANCTIONS TRANSMISSION AND UNVERIFIED MINILATERAL ACTIVITY",
+          "role": "evidence"
+        },
+        {
+          "text": "GIVE A TRILEMMA VERDICT ON A NON-EXCLUSIVE PORTFOLIO, PREDICTING",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OPEN → state the dependence baseline with its exact financial year and basis",
+        "BUILD → energy, diaspora, technology and connectivity, each with one dated instrument",
+        "TEST → price chokepoint exposure, sanctions transmission and unverified minilateral activity",
+        "CLOSE → give a trilemma verdict on a non-exclusive portfolio, predicting no price or outcome"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPEN → state the dependence baseline with its exact financial year and basis",
+            "BUILD → energy, diaspora, technology and connectivity, each with one dated instrument"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEST → price chokepoint exposure, sanctions transmission and unverified minilateral activity",
+            "CLOSE → give a trilemma verdict on a non-exclusive portfolio, predicting no price or outcome"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN → state the dependence baseline with its exact financial year and basis",
+            "BUILD → energy, diaspora, technology and connectivity, each with one dated instrument"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → give a trilemma verdict on a non-exclusive portfolio, predicting no price or outcome.",
+      "source_references": [
+        "The energy trilemma as the correct evaluative frame",
+        "Honest question ownership for this West Asian owner",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\06_West-Asia-Energy-Security-and-Connectivity.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\06_West-Asia-Energy-Security-and-Connectivity.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-06\\g2\\international-relations-06_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA-GCC JOINT ACTION PLAN (2024-2028)",
+          "role": "outcome"
+        },
+        {
+          "text": "ADOPTED AT THE FIRST INDIA-GCC",
+          "role": "comparison"
+        },
+        {
+          "text": "BILATERAL STRATEGIC ARCHITECTURE",
+          "role": "evidence"
+        },
+        {
+          "text": "THE INDIA-SAUDI STRATEGIC PARTNERSHIP",
+          "role": "primary"
+        },
+        {
+          "text": "UAE-INDIA CEPA (IN FORCE 1 MAY 2022)",
+          "role": "outcome"
+        },
+        {
+          "text": "A BILATERAL TRADE-AGREEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "I2U2 (INDIA-ISRAEL-UAE-US)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "India-GCC Joint Action Plan (2024-2028): adopted at the first India-GCC",
+            "Bilateral strategic architecture: the India-Saudi Strategic Partnership",
+            "CAUTION: UAE-India CEPA (in force 1 May 2022): a bilateral trade-agreement",
+            "CAUTION: I2U2 (India-Israel-UAE-US): a minilateral framework on food security,"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "IMEC/IMEEC: an eight-party MoU signed on 9 September 2023 (India, US,",
+            "Chabahar port (Iran): 10-year contract signed 13 May 2024; US sanctions",
+            "Direct PYQ boundary case (2025 Q19): the question's framing — energy",
+            "CAUTION: Boundary case — Iran under sanctions pressure: Tharoor notes \"Iran's"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: Boundary case — Israel-Palestine escalation risk: any escalation",
+            "CAUTION: Boundary case — diaspora welfare during regional conflict: any Gulf/",
+            "CAUTION: Diversification manages risk but does not eliminate dependence: equity",
+            "CAUTION: Triangular balancing requires continuous diplomatic management: the"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

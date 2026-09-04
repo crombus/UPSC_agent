@@ -1,0 +1,1056 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "internal-security-09",
+  "subject": "Internal-Security",
+  "title": "SOCIAL MEDIA, ENCRYPTED MESSAGING AND INFORMATION WARFARE",
+  "short_route": "PLATFORM-ACTOR MAP → DUAL-USE COMMUNICATION BALANCE → ENCRYPTION LAWFUL-ACCESS MATRIX → INFORMATION-DISORDER TAXONOMY → INFLUENCE-LABEL LADDER → INFORMATION-OPERATION CHAIN",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-09\\internal-security-09_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\internal-security-09-2026-09-04-sequential.json",
+  "ascii_spec_sha256": "910f3204c7f1e37ecd7a818c00ddbf423ecf63273c80bbc37037638d82d00964",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "PLATFORM-ACTOR MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PLATFORM-ACTOR MAP",
+          "role": "primary"
+        },
+        {
+          "text": "SHARES CONTENT",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERMEDIARY DUTY",
+          "role": "comparison"
+        },
+        {
+          "text": "DUE PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "LAWFUL ORDER",
+          "role": "primary"
+        },
+        {
+          "text": "FOUR ACTORS, NOT ONE UNDIFFERENTIATED SPEAKER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "USER → CREATES / SHARES CONTENT",
+        "PLATFORM → HOSTS / RECOMMENDS / AMPLIFIES",
+        "INTERMEDIARY DUTY → DUE PROCESS / GRIEVANCE / COMPLIANCE",
+        "STATE → LAWFUL ORDER / INVESTIGATION / REVIEW",
+        "RULE → four actors, not one undifferentiated speaker"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "USER → CREATES / SHARES CONTENT",
+            "PLATFORM → HOSTS / RECOMMENDS / AMPLIFIES"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "INTERMEDIARY DUTY → DUE PROCESS / GRIEVANCE / COMPLIANCE",
+            "STATE → LAWFUL ORDER / INVESTIGATION / REVIEW"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → four actors, not one undifferentiated speaker",
+            "USER → CREATES / SHARES CONTENT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → four actors, not one undifferentiated speaker.",
+      "source_references": [
+        "Platform-intermediary distinction"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DUAL-USE COMMUNICATION BALANCE",
+      "structural_type": "balance-scale",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DUAL-USE COMMUNICATION BALANCE",
+          "role": "primary"
+        },
+        {
+          "text": "EMERGENCY COMMUNICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "HOSTILE NARRATIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "SAME ENABLER",
+          "role": "evidence"
+        },
+        {
+          "text": "SPEED + REACH + DECENTRALISATION",
+          "role": "primary"
+        },
+        {
+          "text": "GOVERN MISUSE WITHOUT DESTROYING LEGITIMATE SECURITY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "GAIN → PARTICIPATION / AWARENESS / EMERGENCY COMMUNICATION",
+        "RISK → RADICALISATION / INCITEMENT / FRAUD / HOSTILE NARRATIVE",
+        "SAME ENABLER → SPEED + REACH + DECENTRALISATION",
+        "VERDICT → govern misuse without destroying legitimate security"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "GAIN → PARTICIPATION / AWARENESS / EMERGENCY COMMUNICATION",
+            "RISK → RADICALISATION / INCITEMENT / FRAUD / HOSTILE NARRATIVE"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "SAME ENABLER → SPEED + REACH + DECENTRALISATION",
+            "VERDICT → govern misuse without destroying legitimate security"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "GAIN → PARTICIPATION / AWARENESS / EMERGENCY COMMUNICATION",
+            "RISK → RADICALISATION / INCITEMENT / FRAUD / HOSTILE NARRATIVE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → govern misuse without destroying legitimate security.",
+      "source_references": [
+        "Dual-use communication"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ENCRYPTION LAWFUL-ACCESS MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ENCRYPTION LAWFUL-ACCESS MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "CONTENT READABLE AT ENDPOINTS",
+          "role": "outcome"
+        },
+        {
+          "text": "IDENTITY CONCEALMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "RULE 4(2)",
+          "role": "evidence"
+        },
+        {
+          "text": "FIRST ORIGINATOR ON DEFINED ORDER",
+          "role": "primary"
+        },
+        {
+          "text": "METADATA REQUEST",
+          "role": "outcome"
+        },
+        {
+          "text": "SYSTEM ARCHITECTURE EFFECT",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT THE ANSWER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "E2EE → CONTENT READABLE AT ENDPOINTS",
+        "ANONYMITY → IDENTITY CONCEALMENT",
+        "RULE 4(2) → FIRST ORIGINATOR ON DEFINED ORDER",
+        "DISPUTE → METADATA REQUEST / SYSTEM ARCHITECTURE EFFECT",
+        "NOT THE ANSWER → blanket weakening"
+      ],
+      "matrix": [
+        [
+          "THREAT / INSTITUTION / INSTRUMENT",
+          "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "ATTRIBUTION / IMPLEMENTATION LIMIT"
+        ],
+        [
+          "E2EE → CONTENT READABLE AT ENDPOINTS",
+          "RULE 4(2) → FIRST ORIGINATOR ON DEFINED ORDER",
+          "NOT THE ANSWER → blanket weakening"
+        ],
+        [
+          "ANONYMITY → IDENTITY CONCEALMENT",
+          "DISPUTE → METADATA REQUEST / SYSTEM ARCHITECTURE EFFECT",
+          "E2EE → CONTENT READABLE AT ENDPOINTS"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "E2EE → CONTENT READABLE AT ENDPOINTS",
+            "ANONYMITY → IDENTITY CONCEALMENT"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "RULE 4(2) → FIRST ORIGINATOR ON DEFINED ORDER",
+            "DISPUTE → METADATA REQUEST / SYSTEM ARCHITECTURE EFFECT"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "NOT THE ANSWER → blanket weakening",
+            "E2EE → CONTENT READABLE AT ENDPOINTS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE 4(2) → FIRST ORIGINATOR ON DEFINED ORDER.",
+      "source_references": [
+        "End-to-end encryption",
+        "Encryption-anonymity boundary",
+        "Lawful-access debate"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "INFORMATION-DISORDER TAXONOMY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INFORMATION-DISORDER TAXONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "NO NECESSARY DECEPTIVE INTENT",
+          "role": "caution"
+        },
+        {
+          "text": "FALSE OR MANIPULATED",
+          "role": "comparison"
+        },
+        {
+          "text": "MALICIOUS CONTEXT OR USE",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTEXTUAL REBUTTAL",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "MISINFORMATION → FALSE / NO NECESSARY DECEPTIVE INTENT",
+        "DISINFORMATION → FALSE OR MANIPULATED / DELIBERATE",
+        "MALINFORMATION → GENUINE / MALICIOUS CONTEXT OR USE",
+        "REMEDY → correction",
+        "contextual rebuttal"
+      ],
+      "matrix": [
+        [
+          "THREAT / INSTITUTION / INSTRUMENT",
+          "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "ATTRIBUTION / IMPLEMENTATION LIMIT"
+        ],
+        [
+          "MISINFORMATION → FALSE / NO NECESSARY DECEPTIVE INTENT",
+          "MALINFORMATION → GENUINE / MALICIOUS CONTEXT OR USE",
+          "contextual rebuttal"
+        ],
+        [
+          "DISINFORMATION → FALSE OR MANIPULATED / DELIBERATE",
+          "REMEDY → correction",
+          "MISINFORMATION → FALSE / NO NECESSARY DECEPTIVE INTENT"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "MISINFORMATION → FALSE / NO NECESSARY DECEPTIVE INTENT",
+            "DISINFORMATION → FALSE OR MANIPULATED / DELIBERATE"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "MALINFORMATION → GENUINE / MALICIOUS CONTEXT OR USE",
+            "REMEDY → correction"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "contextual rebuttal",
+            "MISINFORMATION → FALSE / NO NECESSARY DECEPTIVE INTENT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REMEDY → correction | attribution | contextual rebuttal.",
+      "source_references": [
+        "Misinformation",
+        "Disinformation",
+        "Malinformation"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "INFLUENCE-LABEL LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INFLUENCE-LABEL LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "PERSUASIVE CONTENT",
+          "role": "outcome"
+        },
+        {
+          "text": "SYSTEMATIC PROPAGANDA",
+          "role": "comparison"
+        },
+        {
+          "text": "COORDINATED INFLUENCE OPERATION",
+          "role": "evidence"
+        },
+        {
+          "text": "STRATEGIC INFORMATION WARFARE",
+          "role": "primary"
+        },
+        {
+          "text": "PROVE ACTOR, COORDINATION, OBJECTIVE AND CONTEXT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PERSUASIVE CONTENT",
+        "SYSTEMATIC PROPAGANDA",
+        "COORDINATED INFLUENCE OPERATION",
+        "STRATEGIC INFORMATION WARFARE",
+        "RULE → prove actor, coordination, objective and context"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "PERSUASIVE CONTENT",
+            "SYSTEMATIC PROPAGANDA"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COORDINATED INFLUENCE OPERATION",
+            "STRATEGIC INFORMATION WARFARE"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → prove actor, coordination, objective and context",
+            "PERSUASIVE CONTENT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → prove actor, coordination, objective and context.",
+      "source_references": [
+        "Propaganda-influence-warfare ladder"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "INFORMATION-OPERATION CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INFORMATION-OPERATION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "NETWORK AMPLIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "TARGETED AUDIENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "INSTITUTIONAL CONSEQUENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "REACH IS NOT PROOF OF PERSUASION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ACTOR → NARRATIVE / CONTENT",
+        "PLATFORM / NETWORK AMPLIFICATION",
+        "TARGETED AUDIENCE",
+        "BEHAVIOURAL / INSTITUTIONAL CONSEQUENCE",
+        "TRAP → reach is not proof of persuasion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "ACTOR → NARRATIVE / CONTENT",
+            "PLATFORM / NETWORK AMPLIFICATION"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TARGETED AUDIENCE",
+            "BEHAVIOURAL / INSTITUTIONAL CONSEQUENCE"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP → reach is not proof of persuasion",
+            "ACTOR → NARRATIVE / CONTENT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → reach is not proof of persuasion.",
+      "source_references": [
+        "Information-operation chain"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DEEPFAKE EVIDENCE LADDER",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DEEPFAKE EVIDENCE LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "MANIPULATED MEDIA DETECTED",
+          "role": "outcome"
+        },
+        {
+          "text": "VERIFY PROVENANCE + CONTEXT",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSESS INTENT",
+          "role": "evidence"
+        },
+        {
+          "text": "PRESERVE EVIDENCE + CORRECT",
+          "role": "evidence"
+        },
+        {
+          "text": "NOT PROVED",
+          "role": "caution"
+        },
+        {
+          "text": "CREATOR, SPONSOR OR OFFENCE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SYNTHETIC / MANIPULATED MEDIA DETECTED",
+        "VERIFY PROVENANCE + CONTEXT",
+        "ASSESS INTENT / COORDINATION / HARM",
+        "PRESERVE EVIDENCE + CORRECT / INVESTIGATE",
+        "NOT PROVED → creator, sponsor or offence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "SYNTHETIC / MANIPULATED MEDIA DETECTED",
+            "VERIFY PROVENANCE + CONTEXT"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ASSESS INTENT / COORDINATION / HARM",
+            "PRESERVE EVIDENCE + CORRECT / INVESTIGATE"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "NOT PROVED → creator, sponsor or offence",
+            "SYNTHETIC / MANIPULATED MEDIA DETECTED"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PRESERVE EVIDENCE + CORRECT / INVESTIGATE; NOT PROVED → creator, sponsor or offence.",
+      "source_references": [
+        "Deepfake boundary",
+        "Attribution ladder"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INTERMEDIARY LAW MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INTERMEDIARY LAW MAP",
+          "role": "primary"
+        },
+        {
+          "text": "RULE 3",
+          "role": "outcome"
+        },
+        {
+          "text": "DUE DILIGENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "RULE 4(1)",
+          "role": "evidence"
+        },
+        {
+          "text": "SIGNIFICANT-INTERMEDIARY COMPLIANCE ROLES",
+          "role": "primary"
+        },
+        {
+          "text": "RULE 7",
+          "role": "outcome"
+        },
+        {
+          "text": "SECTION 79 SAFE-HARBOUR CONSEQUENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "SECTION 69A",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RULE 3 → DUE DILIGENCE / GRIEVANCE",
+        "RULE 4(1) → SIGNIFICANT-INTERMEDIARY COMPLIANCE ROLES",
+        "RULE 7 → SECTION 79 SAFE-HARBOUR CONSEQUENCE",
+        "SECTION 69A → PRESCRIBED BLOCKING PROCESS",
+        "RULE → duty and a specific lawful order remain distinct"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "RULE 3 → DUE DILIGENCE / GRIEVANCE",
+            "RULE 4(1) → SIGNIFICANT-INTERMEDIARY COMPLIANCE ROLES"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "RULE 7 → SECTION 79 SAFE-HARBOUR CONSEQUENCE",
+            "SECTION 69A → PRESCRIBED BLOCKING PROCESS"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → duty and a specific lawful order remain distinct",
+            "RULE 3 → DUE DILIGENCE / GRIEVANCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → duty and a specific lawful order remain distinct.",
+      "source_references": [
+        "Intermediary-duties map",
+        "Blocking-process boundary"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "RESTRICTION PROPORTIONALITY RAIL",
+      "structural_type": "audit-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RESTRICTION PROPORTIONALITY RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "LEGAL AUTHORITY + LEGITIMATE AIM",
+          "role": "outcome"
+        },
+        {
+          "text": "SUITABILITY + NECESSITY",
+          "role": "comparison"
+        },
+        {
+          "text": "TIME-BOUND DESIGN",
+          "role": "evidence"
+        },
+        {
+          "text": "ANURADHA BHASIN",
+          "role": "primary"
+        },
+        {
+          "text": "NO INDEFINITE SUSPENSION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "LEGAL AUTHORITY + LEGITIMATE AIM",
+        "SUITABILITY + NECESSITY",
+        "LEAST-RESTRICTIVE / TIME-BOUND DESIGN",
+        "PUBLICATION / REVIEW / REMEDY",
+        "ANURADHA BHASIN → no indefinite suspension"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "LEGAL AUTHORITY + LEGITIMATE AIM",
+            "SUITABILITY + NECESSITY"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LEAST-RESTRICTIVE / TIME-BOUND DESIGN",
+            "PUBLICATION / REVIEW / REMEDY"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "ANURADHA BHASIN → no indefinite suspension",
+            "LEGAL AUTHORITY + LEGITIMATE AIM"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PUBLICATION / REVIEW / REMEDY; ANURADHA BHASIN → no indefinite suspension.",
+      "source_references": [
+        "Network-restriction boundary",
+        "Rights-proportionality test"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INCIDENT-CRIME-OPERATION FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INCIDENT-CRIME-OPERATION FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "CYBER INCIDENT",
+          "role": "outcome"
+        },
+        {
+          "text": "ENTITY RESPONSE",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE POLICE",
+          "role": "institution"
+        },
+        {
+          "text": "I4C SUPPORT",
+          "role": "primary"
+        },
+        {
+          "text": "INFORMATION OPERATION",
+          "role": "outcome"
+        },
+        {
+          "text": "INTELLIGENCE + LEGAL + DIPLOMATIC ASSESSMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTENT GOVERNANCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CYBER INCIDENT → CERT-In / ENTITY RESPONSE",
+        "CYBERCRIME → STATE POLICE / I4C SUPPORT",
+        "INFORMATION OPERATION → INTELLIGENCE + LEGAL + DIPLOMATIC ASSESSMENT",
+        "CONTENT GOVERNANCE → platform and lawful-process layer"
+      ],
+      "matrix": [
+        [
+          "THREAT / INSTITUTION / INSTRUMENT",
+          "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "ATTRIBUTION / IMPLEMENTATION LIMIT"
+        ],
+        [
+          "CYBER INCIDENT → CERT-In / ENTITY RESPONSE",
+          "INFORMATION OPERATION → INTELLIGENCE + LEGAL + DIPLOMATIC ASSESSMENT",
+          "CYBER INCIDENT → CERT-In / ENTITY RESPONSE"
+        ],
+        [
+          "CYBERCRIME → STATE POLICE / I4C SUPPORT",
+          "CONTENT GOVERNANCE → platform and lawful-process layer",
+          "CYBERCRIME → STATE POLICE / I4C SUPPORT"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "THREAT / INSTITUTION / INSTRUMENT",
+          "role": "primary",
+          "items": [
+            "CYBER INCIDENT → CERT-In / ENTITY RESPONSE",
+            "CYBERCRIME → STATE POLICE / I4C SUPPORT"
+          ]
+        },
+        {
+          "heading": "DECISIVE LEGAL OR STATUS DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "INFORMATION OPERATION → INTELLIGENCE + LEGAL + DIPLOMATIC ASSESSMENT",
+            "CONTENT GOVERNANCE → platform and lawful-process layer"
+          ]
+        },
+        {
+          "heading": "ATTRIBUTION / IMPLEMENTATION LIMIT",
+          "role": "caution",
+          "items": [
+            "CYBER INCIDENT → CERT-In / ENTITY RESPONSE",
+            "CYBERCRIME → STATE POLICE / I4C SUPPORT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INFORMATION OPERATION → INTELLIGENCE + LEGAL + DIPLOMATIC ASSESSMENT.",
+      "source_references": [
+        "Cyber-content firewall"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CROSS-BORDER ATTRIBUTION LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CROSS-BORDER ATTRIBUTION LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "TECHNICAL INDICATOR",
+          "role": "outcome"
+        },
+        {
+          "text": "INFRASTRUCTURE CONTROL",
+          "role": "comparison"
+        },
+        {
+          "text": "INTELLIGENCE + LEGAL EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "PUBLIC POLITICAL FINDING",
+          "role": "primary"
+        },
+        {
+          "text": "JURISDICTION AND EVIDENCE ACCESS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONTENT / TECHNICAL INDICATOR",
+        "COORDINATION / INFRASTRUCTURE CONTROL",
+        "INTELLIGENCE + LEGAL EVIDENCE",
+        "PUBLIC POLITICAL FINDING",
+        "LIMIT → jurisdiction and evidence access"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "STARTING CONDITION / THREAT",
+          "role": "evidence",
+          "items": [
+            "CONTENT / TECHNICAL INDICATOR",
+            "COORDINATION / INFRASTRUCTURE CONTROL"
+          ]
+        },
+        {
+          "heading": "GOVERNANCE / RESPONSE MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INTELLIGENCE + LEGAL EVIDENCE",
+            "PUBLIC POLITICAL FINDING"
+          ]
+        },
+        {
+          "heading": "RIGHTS / STATUS / OUTCOME LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → jurisdiction and evidence access",
+            "CONTENT / TECHNICAL INDICATOR"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PUBLIC POLITICAL FINDING; LIMIT → jurisdiction and evidence access.",
+      "source_references": [
+        "Attribution ladder",
+        "Extraterritorial limit"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ AND RESILIENCE RAIL",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ AND RESILIENCE RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "2024 GS-III",
+          "role": "outcome"
+        },
+        {
+          "text": "MULTI-LEVEL MEASURES + OTHER REMEDIES",
+          "role": "comparison"
+        },
+        {
+          "text": "2025 GS-IV",
+          "role": "evidence"
+        },
+        {
+          "text": "CROSS-OWNED ETHICAL DILEMMAS",
+          "role": "primary"
+        },
+        {
+          "text": "2023 GS-IV",
+          "role": "outcome"
+        },
+        {
+          "text": "CROSS-OWNED CYBERBULLYING CASE",
+          "role": "comparison"
+        },
+        {
+          "text": "RIGHTS, EVIDENCE STATUS AND ATTRIBUTION CONFIDENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "2024 GS-III → MULTI-LEVEL MEASURES + OTHER REMEDIES",
+        "2025 GS-IV → CROSS-OWNED ETHICAL DILEMMAS",
+        "2023 GS-IV → CROSS-OWNED CYBERBULLYING CASE",
+        "END → VERIFY / COMMUNICATE / GOVERN / INVESTIGATE / EDUCATE",
+        "QUALIFY → rights, evidence status and attribution confidence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "THREAT / GOVERNANCE CONCEPT",
+          "role": "primary",
+          "items": [
+            "2024 GS-III → MULTI-LEVEL MEASURES + OTHER REMEDIES",
+            "2025 GS-IV → CROSS-OWNED ETHICAL DILEMMAS"
+          ]
+        },
+        {
+          "heading": "INSTITUTIONAL RESPONSE",
+          "role": "mechanism",
+          "items": [
+            "2023 GS-IV → CROSS-OWNED CYBERBULLYING CASE",
+            "END → VERIFY / COMMUNICATE / GOVERN / INVESTIGATE / EDUCATE"
+          ]
+        },
+        {
+          "heading": "LEGAL / EVIDENTIARY LIMIT",
+          "role": "caution",
+          "items": [
+            "QUALIFY → rights, evidence status and attribution confidence",
+            "2024 GS-III → MULTI-LEVEL MEASURES + OTHER REMEDIES"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY → rights, evidence status and attribution confidence.",
+      "source_references": [
+        "Information-resilience end-state"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "IT (INTERMEDIARY GUIDELINES AND DIGITAL MEDIA ETHICS CODE) RULES",
+          "role": "outcome"
+        },
+        {
+          "text": "THE 2023 FACT-CHECK-UNIT AMENDMENT AS A DECIDED PROPORTIONALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "FACT-CHECKING AND MEDIA-LITERACY ECOSYSTEM",
+          "role": "evidence"
+        },
+        {
+          "text": "VISIONIAS'S \"WAY",
+          "role": "primary"
+        },
+        {
+          "text": "CHRISTCHURCH CALL TO ACTION",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA'S SIGNATURE SIGNALS",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIONAL COUNTER RANSOMWARE TASK FORCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / INSTITUTION DEPTH",
+          "role": "evidence",
+          "items": [
+            "IT (Intermediary Guidelines and Digital Media Ethics Code) Rules,",
+            "CAUTION: The 2023 fact-check-unit amendment as a decided proportionality",
+            "CAUTION: Fact-checking and media-literacy ecosystem: VisionIAS's \"way",
+            "Christchurch Call to Action: India's signature signals"
+          ]
+        },
+        {
+          "heading": "LAW, ATTRIBUTION OR STATUS LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: National Counter Ransomware Task Force: while primarily a",
+            "Current-anchor institutional detail: verify any specific platform",
+            "CAUTION: The J&K post-2008 stone-pelting/crowd-mobilisation tactic (topic 05)",
+            "CAUTION: The 2012 North-East exodus panic and 2013 Muzaffarnagar riots as"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE GOVERNANCE / RIGHTS NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: The Zhenhua Data case as a boundary case between IR and Internal",
+            "CAUTION: Weakening encryption for lawful access degrades security for all",
+            "CAUTION: Platform due-diligence obligations, if implemented without clear",
+            "CAUTION: Domestic legal remedies cannot reach foreign-based hybrid-warfare"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

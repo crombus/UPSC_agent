@@ -1,0 +1,1777 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-07\\g2\\internal-security-07_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-07\\g2\\internal-security-07_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "internal-security-07",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Maritime and Coastal Security - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 28,
+      "markdown_body_line_end": 39,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 421.09
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 65,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-07\\g2\\assets\\internal-security-07_Teaching-Navigation_2026-09-04.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 573.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 265.756
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 79,
+      "markdown_body_line_end": 79,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Maritime security covers sea lanes, offshore interests, the EEZ and high seas, while coastal security is its near-shore subset protecting the coast and maritime approaches from sea-originating threats.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 106.756
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 40.088
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 94,
+      "markdown_body_line_end": 101,
+      "heading": "VISUAL FIRST",
+      "preview": "MARITIME AND COASTAL SECURITY DISTINCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 557.691
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 138,
+      "markdown_body_line_end": 155,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - MARITIME AND COASTAL SECURITY DISTINCTION",
+      "preview": "START / CONCEPT: FOUNDATION — Maritime and coastal security distinction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 254
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 166,
+      "markdown_body_line_end": 166,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The decisive boundary is Do not confuse territorial sea, contiguous zone, EEZ and high seas.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 181,
+      "markdown_body_line_end": 185,
+      "heading": "VISUAL FIRST",
+      "preview": "TERRITORIAL SEA CONTIGUOUS ZONE EEZ AND HIGH SEAS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 221,
+      "markdown_body_line_end": 238,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - TERRITORIAL SEA CONTIGUOUS ZONE EEZ AND HIGH SEAS",
+      "preview": "START / CONCEPT: FOUNDATION — Territorial sea contiguous zone EEZ and high seas",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 253
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 334.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 113.091
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 249,
+      "markdown_body_line_end": 249,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Threat categories and sea-trade exposure as a sequence: identify Navy role, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 264,
+      "markdown_body_line_end": 268,
+      "heading": "VISUAL FIRST",
+      "preview": "THREAT CATEGORIES AND SEA-TRADE EXPOSURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 304,
+      "markdown_body_line_end": 321,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THREAT CATEGORIES AND SEA-TRADE EXPOSURE",
+      "preview": "START / CONCEPT: FOUNDATION — Threat categories and sea-trade exposure",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 241
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 489.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 332,
+      "markdown_body_line_end": 332,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Navy role and wider maritime defence as a sequence: identify Coast Guard role, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 354.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 288.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 347,
+      "markdown_body_line_end": 351,
+      "heading": "VISUAL FIRST",
+      "preview": "NAVY ROLE AND WIDER MARITIME DEFENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 105
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 387,
+      "markdown_body_line_end": 404,
+      "heading": "CLOSING RECALL FLOW - CORE - NAVY ROLE AND WIDER MARITIME DEFENCE",
+      "preview": "START / CONCEPT: CORE — Navy role and wider maritime defence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 244
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 309.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 88.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 415,
+      "markdown_body_line_end": 415,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Coast Guard mandate and coordination as a sequence: identify Marine Police role, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 430,
+      "markdown_body_line_end": 434,
+      "heading": "VISUAL FIRST",
+      "preview": "COAST GUARD MANDATE AND COORDINATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 470,
+      "markdown_body_line_end": 487,
+      "heading": "CLOSING RECALL FLOW - CORE - COAST GUARD MANDATE AND COORDINATION",
+      "preview": "START / CONCEPT: CORE — Coast Guard mandate and coordination",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 246
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 509.891
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 498,
+      "markdown_body_line_end": 498,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read State Marine Police and Coastal Security Scheme as a sequence: identify Layered-architecture boundary, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 355.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 275.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 513,
+      "markdown_body_line_end": 520,
+      "heading": "VISUAL FIRST",
+      "preview": "STATE MARINE POLICE AND COASTAL SECURITY SCHEME",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 120
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 557,
+      "markdown_body_line_end": 574,
+      "heading": "CLOSING RECALL FLOW - CORE - STATE MARINE POLICE AND COASTAL SECURITY SCHEME",
+      "preview": "START / CONCEPT: CORE — State Marine Police and Coastal Security Scheme",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 268
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 585,
+      "markdown_body_line_end": 585,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Layered architecture and command clarity as a sequence: identify Joint Operations Centres, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 392.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 325.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 600,
+      "markdown_body_line_end": 604,
+      "heading": "VISUAL FIRST",
+      "preview": "LAYERED ARCHITECTURE AND COMMAND CLARITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 640,
+      "markdown_body_line_end": 657,
+      "heading": "CLOSING RECALL FLOW - CORE - LAYERED ARCHITECTURE AND COMMAND CLARITY",
+      "preview": "START / CONCEPT: CORE — Layered architecture and command clarity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 256
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 127.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 668,
+      "markdown_body_line_end": 668,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read NCSMCS and Joint Operations Centres as a sequence: identify NC3I function, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 683,
+      "markdown_body_line_end": 687,
+      "heading": "VISUAL FIRST",
+      "preview": "NCSMCS AND JOINT OPERATIONS CENTRES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 109
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 381.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 723,
+      "markdown_body_line_end": 740,
+      "heading": "CLOSING RECALL FLOW - CORE - NCSMCS AND JOINT OPERATIONS CENTRES",
+      "preview": "START / CONCEPT: CORE — NCSMCS and Joint Operations Centres",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 240
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 751,
+      "markdown_body_line_end": 751,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Information Management and Analysis Centre supports India's maritime picture, while the Navy-hosted IFC-IOR adds partner information-sharing for the Indian Ocean Region; awareness cooperation is not itself interdiction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 331.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 265.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 766,
+      "markdown_body_line_end": 770,
+      "heading": "VISUAL FIRST",
+      "preview": "NC3I IMAC AND IFC-IOR INFORMATION SHARING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 806,
+      "markdown_body_line_end": 823,
+      "heading": "CLOSING RECALL FLOW - CORE - NC3I IMAC AND IFC-IOR INFORMATION SHARING",
+      "preview": "START / CONCEPT: CORE — NC3I IMAC and IFC-IOR information sharing",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 252
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 324.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 83.091
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 834,
+      "markdown_body_line_end": 834,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Maritime-domain awareness versus interdiction as a sequence: identify Awareness-interdiction distinction, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stag",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 849,
+      "markdown_body_line_end": 853,
+      "heading": "VISUAL FIRST",
+      "preview": "MARITIME-DOMAIN AWARENESS VERSUS INTERDICTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 343.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 889,
+      "markdown_body_line_end": 906,
+      "heading": "CLOSING RECALL FLOW - CORE - MARITIME-DOMAIN AWARENESS VERSUS INTERDICTION",
+      "preview": "START / CONCEPT: CORE — Maritime-domain awareness versus interdiction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 271
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 442.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 917,
+      "markdown_body_line_end": 917,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Coastal surveillance and vessel identification as a sequence: identify Surveillance-system role, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 288.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 207.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 932,
+      "markdown_body_line_end": 939,
+      "heading": "VISUAL FIRST",
+      "preview": "COASTAL SURVEILLANCE AND VESSEL IDENTIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 112
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 976,
+      "markdown_body_line_end": 993,
+      "heading": "CLOSING RECALL FLOW - CORE - COASTAL SURVEILLANCE AND VESSEL IDENTIFICATION",
+      "preview": "START / CONCEPT: CORE — Coastal surveillance and vessel identification",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 262
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1004,
+      "markdown_body_line_end": 1004,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Fishing communities safety livelihood and reporting as a sequence: identify Port-security convergence, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 321.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1019,
+      "markdown_body_line_end": 1023,
+      "heading": "VISUAL FIRST",
+      "preview": "FISHING COMMUNITIES SAFETY LIVELIHOOD AND REPORTING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 121
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1059,
+      "markdown_body_line_end": 1076,
+      "heading": "CLOSING RECALL FLOW - CORE - FISHING COMMUNITIES SAFETY LIVELIHOOD AND REPORTING",
+      "preview": "START / CONCEPT: CORE — Fishing communities safety livelihood and reporting",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 268
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 324.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 93.091
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1087,
+      "markdown_body_line_end": 1087,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Ports as physical and cyber security nodes as a sequence: identify Coastal Security Scheme, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1102,
+      "markdown_body_line_end": 1106,
+      "heading": "VISUAL FIRST",
+      "preview": "PORTS AS PHYSICAL AND CYBER SECURITY NODES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 343.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1142,
+      "markdown_body_line_end": 1159,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PORTS AS PHYSICAL AND CYBER SECURITY NODES",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Ports as physical and cyber security nodes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 257
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 710.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 469.691
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1170,
+      "markdown_body_line_end": 1170,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Maritime Zones SUA and Piracy Acts as a sequence: identify Three-statute legal map, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 315.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 249.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1185,
+      "markdown_body_line_end": 1192,
+      "heading": "VISUAL FIRST",
+      "preview": "MARITIME ZONES SUA AND PIRACY ACTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1229,
+      "markdown_body_line_end": 1246,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - MARITIME ZONES SUA AND PIRACY ACTS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Maritime Zones SUA and Piracy Acts",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 249
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1257,
+      "markdown_body_line_end": 1257,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Reactive build-out resilience and way forward as a sequence: identify Reactive-buildout lesson, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 382.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 301.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1272,
+      "markdown_body_line_end": 1279,
+      "heading": "VISUAL FIRST",
+      "preview": "REACTIVE BUILD-OUT RESILIENCE AND WAY FORWARD",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1315,
+      "markdown_body_line_end": 1327,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Internal Security | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III. **Core area:** Maritime vs. coastal security; threat categories; the Navy-Coast Guard-Marine Police layered architecture; the post-26/11 coastal securit",
+      "metadata": {
+        "line_count": 13
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 209.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 43.424
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1331,
+      "markdown_body_line_end": 1359,
+      "heading": "1. Visual foundation",
+      "preview": "MARITIME SECURITY (broader)",
+      "metadata": {
+        "language": "text",
+        "line_count": 27,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1371,
+      "markdown_body_line_end": 1380,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 212.29
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1564,
+      "markdown_body_line_end": 1566,
+      "heading": "12. Core answer architecture - sea trade, layered security and port resilience",
+      "preview": "**Core firewall:** This Core section independently supports the 2022 organisational/procedural route and the 2025 maritime/coastal-security route. The Advanced companion is optional.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 393.091
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 326.424
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1604,
+      "markdown_body_line_end": 1609,
+      "heading": "Claim -> evidence -> analysis -> qualification bank",
+      "preview": "Claim | Named evidence/example | What it proves | Qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim",
+          "Named evidence/example",
+          "What it proves",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 767.091
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 535.19
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1633,
+      "markdown_body_line_end": 1650,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - REACTIVE BUILD-OUT RESILIENCE AND WAY FORWARD",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Reactive build-out resilience and way forward",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 509
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2839,
+      "markdown_body_line_end": 2851,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Internal Security | **Tier:** Advanced | **GS Paper:** GS-III. **Core area:** The reactive-institutionalisation pattern since 26/11; jurisdictional-boundary ambiguity between Navy, Coast Guard and Marine Police; fishermen as an",
+      "metadata": {
+        "line_count": 13
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 310.091
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 180.224
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2870,
+      "markdown_body_line_end": 2877,
+      "heading": "2. Conceptual distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 131.49
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2881,
+      "markdown_body_line_end": 2916,
+      "heading": "3. Causal model",
+      "preview": "VULNERABILITY EPISODE",
+      "metadata": {
+        "language": "text",
+        "line_count": 34,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 436.291
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3149,
+      "markdown_body_line_end": 3158,
+      "heading": "Maritime and Coastal Security: MARITIME LAW AND THREE CONSERVATIVE PYQ SPINES",
+      "preview": "DEFINE COASTAL SECURITY AS A SUBSET OF MARITIME SECURITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 182.291
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 91.291
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3168,
+      "markdown_body_line_end": 3174,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Maritime-coastal nesting",
+      "preview": "MARITIME SECURITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 662.491
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3178,
+      "markdown_body_line_end": 3184,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Maritime-zone ladder",
+      "preview": "0-12 nm -> TERRITORIAL SEA",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 36
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 516.491
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3188,
+      "markdown_body_line_end": 3193,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Threat-to-response matrix",
+      "preview": "SEA-BORNE TERROR | INTELLIGENCE + INTERDICTION + SUA",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 494.491
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 442.691
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3197,
+      "markdown_body_line_end": 3202,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Institutional layers",
+      "preview": "NAVY -> wider defence / sea control / SLOCs",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 368.891
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3206,
+      "markdown_body_line_end": 3211,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Coordination architecture",
+      "preview": "NCSMCS -> APEX POLICY COORDINATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 346.891
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 295.091
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3215,
+      "markdown_body_line_end": 3220,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Awareness-to-action chain",
+      "preview": "DETECT -> IDENTIFY -> FUSE -> DECIDE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3224,
+      "markdown_body_line_end": 3230,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Coastal-police capacity audit",
+      "preview": "SCHEME SANCTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 651.491
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3234,
+      "markdown_body_line_end": 3239,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Fishing-community interface",
+      "preview": "SECURITY VALUE -> LOCAL KNOWLEDGE / EARLY WARNING",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 629.491
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 577.691
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3243,
+      "markdown_body_line_end": 3248,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Port-resilience map",
+      "preview": "WATERSIDE ACCESS + LANDSIDE ACCESS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 555.691
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 503.891
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3252,
+      "markdown_body_line_end": 3259,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Maritime-law decision tree",
+      "preview": "WHERE? -> TERRITORIAL / EEZ / HIGH SEAS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 481.891
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 409.691
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3263,
+      "markdown_body_line_end": 3270,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Reactive-to-resilient timeline",
+      "preview": "1977/1978 -> INDIAN COAST GUARD",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 387.691
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 315.491
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3274,
+      "markdown_body_line_end": 3280,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: PYQ and end-state rail",
+      "preview": "2022 PRELIMS -> UNCLOS ZONE CONCEPT, CROSS-OWNED",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    }
+  ]
+}

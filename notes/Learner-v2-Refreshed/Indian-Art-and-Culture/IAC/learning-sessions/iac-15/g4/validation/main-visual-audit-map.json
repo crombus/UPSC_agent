@@ -1,0 +1,2096 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g4\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g4\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "indian-art-and-culture-15",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Indian Cinema, Film Institutions and Awards - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 389.624
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 160.622
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 50,
+      "markdown_body_line_end": 50,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g4\\assets\\indian-art-and-culture-15_Teaching-Navigation_2026-09-01.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 423.691
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 116.156
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 64,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cinema as a composite modern art should be analysed as a relation among Cinema as composite art, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 79,
+      "markdown_body_line_end": 83,
+      "heading": "VISUAL FIRST",
+      "preview": "CINEMA AS A COMPOSITE MODERN ART",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 417.824
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 376.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 111,
+      "markdown_body_line_end": 118,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 82.624
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 726.923
+        }
+      },
+      "pdf_pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 130,
+      "markdown_body_line_end": 130,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Camera, editing and the frame should be analysed as a relation among Film-form vocabulary, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 591.923
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 525.255
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 145,
+      "markdown_body_line_end": 149,
+      "heading": "VISUAL FIRST",
+      "preview": "CAMERA, EDITING AND THE FRAME",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 330.455
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 289.455
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 177,
+      "markdown_body_line_end": 184,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 767.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 677.773
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 196,
+      "markdown_body_line_end": 196,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Documentary and animation should be analysed as a relation among Documentary and animation, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 542.773
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 476.105
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 211,
+      "markdown_body_line_end": 215,
+      "heading": "VISUAL FIRST",
+      "preview": "DOCUMENTARY AND ANIMATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 243,
+      "markdown_body_line_end": 250,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 466.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 368.623
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 262,
+      "markdown_body_line_end": 262,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "From exhibition to Indian production should be analysed as a relation among Arrival and indigenisation, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 233.623
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 166.955
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 277,
+      "markdown_body_line_end": 281,
+      "heading": "VISUAL FIRST",
+      "preview": "FROM EXHIBITION TO INDIAN PRODUCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 692.691
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 309,
+      "markdown_body_line_end": 316,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 398.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 300.823
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 328,
+      "markdown_body_line_end": 328,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Silent film, live music and Phalke should be analysed as a relation among Silent cinema and Phalke, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 165.823
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 99.155
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 343,
+      "markdown_body_line_end": 347,
+      "heading": "VISUAL FIRST",
+      "preview": "SILENT FILM, LIVE MUSIC AND PHALKE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 664.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 623.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 375,
+      "markdown_body_line_end": 382,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 343.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 246.223
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 394,
+      "markdown_body_line_end": 394,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Women behind the camera should be analysed as a relation among Fatma Begum milestone, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 125.423
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 58.755
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 409,
+      "markdown_body_line_end": 413,
+      "heading": "VISUAL FIRST",
+      "preview": "WOMEN BEHIND THE CAMERA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 573.491
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 441,
+      "markdown_body_line_end": 448,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 293.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 205.323
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 460,
+      "markdown_body_line_end": 460,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sound transforms cinema should be analysed as a relation among Talkie and recorded song, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 475,
+      "markdown_body_line_end": 479,
+      "heading": "VISUAL FIRST",
+      "preview": "SOUND TRANSFORMS CINEMA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 507,
+      "markdown_body_line_end": 514,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 226.824
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 138.655
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 526,
+      "markdown_body_line_end": 526,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The colour-film close option should be analysed as a relation among Colour-film firewall, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 541,
+      "markdown_body_line_end": 545,
+      "heading": "VISUAL FIRST",
+      "preview": "THE COLOUR-FILM CLOSE OPTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 573,
+      "markdown_body_line_end": 580,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 111.024
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 770.323
+        }
+      },
+      "pdf_pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 592,
+      "markdown_body_line_end": 592,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Parallel and commercial cinema should be analysed as a relation among Parallel cinema, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 649.523
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 582.855
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 607,
+      "markdown_body_line_end": 611,
+      "heading": "VISUAL FIRST",
+      "preview": "PARALLEL AND COMMERCIAL CINEMA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 388.055
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 347.055
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 639,
+      "markdown_body_line_end": 646,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 38.655
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 705.623
+        }
+      },
+      "pdf_pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 658,
+      "markdown_body_line_end": 658,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Representation and social evidence should be analysed as a relation among Representation is bounded evidence, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 570.623
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 503.955
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 673,
+      "markdown_body_line_end": 677,
+      "heading": "VISUAL FIRST",
+      "preview": "REPRESENTATION AND SOCIAL EVIDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 309.155
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 268.155
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 705,
+      "markdown_body_line_end": 712,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 733.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 636.223
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 724,
+      "markdown_body_line_end": 724,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Indian cinema as many language markets should be analysed as a relation among Multilingual regional field, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 501.223
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 434.555
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 739,
+      "markdown_body_line_end": 743,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIAN CINEMA AS MANY LANGUAGE MARKETS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 771,
+      "markdown_body_line_end": 778,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 452.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 354.423
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 790,
+      "markdown_body_line_end": 790,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cinematograph Act and CBFC should be analysed as a relation among MIB, Act and CBFC and Certification powers and federal split, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 219.423
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 152.755
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 805,
+      "markdown_body_line_end": 812,
+      "heading": "VISUAL FIRST",
+      "preview": "CINEMATOGRAPH ACT AND CBFC",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 716.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 645.491
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 841,
+      "markdown_body_line_end": 848,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 305.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 208.023
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 860,
+      "markdown_body_line_end": 860,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Certification and censorship tension should be analysed as a relation among Certification versus censorship, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 875,
+      "markdown_body_line_end": 879,
+      "heading": "VISUAL FIRST",
+      "preview": "CERTIFICATION AND CENSORSHIP TENSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 907,
+      "markdown_body_line_end": 914,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 184.224
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 86.555
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 926,
+      "markdown_body_line_end": 926,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Training, archive and development should be analysed as a relation among FTII training function and NFAI and NFDC consolidation, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 941,
+      "markdown_body_line_end": 948,
+      "heading": "VISUAL FIRST",
+      "preview": "TRAINING, ARCHIVE AND DEVELOPMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 327.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 977,
+      "markdown_body_line_end": 984,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 713.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 616.023
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 996,
+      "markdown_body_line_end": 996,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Awards, preservation, Boong and PYQ boundary should be analysed as a relation among Award and festival firewall, Dadasaheb Phalke Award, Preservation and soft power and Boong and verified route, not as an isolated list of names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 433.623
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 352.755
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1011,
+      "markdown_body_line_end": 1024,
+      "heading": "VISUAL FIRST",
+      "preview": "AWARDS, PRESERVATION, BOONG AND PYQ BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 656.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1055,
+      "markdown_body_line_end": 1062,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 140.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 770.323
+        }
+      },
+      "pdf_pages": [
+        25,
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1066,
+      "markdown_body_line_end": 1070,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Indian Art & Culture | **Tier:** Must-Do (foundation) | **GS Paper:** GS-I + Prelims. **Core area:** Cinema as a modern Indian art form; film language; institutions, certification, preservation, festivals and national/internati",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 770.323
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 632.655
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1074,
+      "markdown_body_line_end": 1083,
+      "heading": "1. Cinema as a composite art",
+      "preview": "story / literature",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 610.655
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 519.655
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1089,
+      "markdown_body_line_end": 1097,
+      "heading": "2. Essential vocabulary",
+      "preview": "Term | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Term",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 469.255
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 273.854
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1101,
+      "markdown_body_line_end": 1111,
+      "heading": "3. Indian institutional architecture",
+      "preview": "Institution/law | Core role",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Institution/law",
+          "Core role"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 403.89
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1115,
+      "markdown_body_line_end": 1121,
+      "heading": "4. Award and festival distinctions",
+      "preview": "Recognition | What it is | Do not confuse with",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Recognition",
+          "What it is",
+          "Do not confuse with"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 381.89
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 217.688
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1146,
+      "markdown_body_line_end": 1152,
+      "heading": "7. History of Indian cinema (source-grounded)",
+      "preview": "Phase | ✅ Evidence | Why it matters",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Phase",
+          "✅ Evidence",
+          "Why it matters"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 107.89
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1257,
+      "markdown_body_line_end": 1262,
+      "heading": "11. Answer architecture (10/15/20-mark support)",
+      "preview": "**Core-sufficiency note.** `advanced/15` holds only an analytical matrix and has **no page-level source grounding**, so every factual claim about Indian cinema must come from this Core file. Sections 7-10 above were added for exactly that r",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 515.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 420.824
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1266,
+      "markdown_body_line_end": 1274,
+      "heading": "11.1 Directive and demand map",
+      "preview": "If the question says | It is really testing | Do NOT write",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "If the question says",
+          "It is really testing",
+          "Do NOT write"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 125.022
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1303,
+      "markdown_body_line_end": 1307,
+      "heading": "11.3 Mark-scaled structures",
+      "preview": "Marks | Structure",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Structure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 583.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 473.29
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1311,
+      "markdown_body_line_end": 1324,
+      "heading": "11.4 Evidence bank A - dated firsts (identification-ready, trap-aware)",
+      "preview": "Claim | ✅ Fact | The trap it defeats",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 12,
+        "headers": [
+          "Claim",
+          "✅ Fact",
+          "The trap it defeats"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 451.29
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 93.888
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1328,
+      "markdown_body_line_end": 1337,
+      "heading": "11.5 Evidence bank B - institutions and instruments, distinguished",
+      "preview": "Instrument | What it does | What it is **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Instrument",
+          "What it does",
+          "What it is **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 492.29
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1341,
+      "markdown_body_line_end": 1348,
+      "heading": "11.5A Evidence bank B+ - film institutions by function, with FTII and the archive",
+      "preview": "**Why this exists.** A hostile review found that this file named the **regulator** (CBFC), the **statute** (Cinematograph Act, 1952), the **awards** and the **festival**, but no **training** institution and no **archive** — so any question ",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 492.29
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 383.022
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1350,
+      "markdown_body_line_end": 1357,
+      "heading": "11.5A Evidence bank B+ - film institutions by function, with FTII and the archive",
+      "preview": "Function | ✅ Institution | ✅ What is verified, and by whom | ⚠️ Status discipline",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Function",
+          "✅ Institution",
+          "✅ What is verified, and by whom",
+          "⚠️ Status discipline"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 383.022
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 267.39
+        }
+      },
+      "pdf_pages": [
+        33,
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1443,
+      "markdown_body_line_end": 1445,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 136.691
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 55.824
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1451,
+      "markdown_body_line_end": 1453,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 768.891
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 650.99
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1459,
+      "markdown_body_line_end": 1459,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 611.79
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 567.122
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2332,
+      "markdown_body_line_end": 2334,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 298.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 217.424
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2340,
+      "markdown_body_line_end": 2342,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 165.824
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 47.922
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2348,
+      "markdown_body_line_end": 2348,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 770.091
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 725.424
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2579,
+      "markdown_body_line_end": 2581,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Indian Art & Culture | **Tier:** Advanced | **GS Paper:** GS-I. **Purpose:** Cinema as cultural memory, regional representation, soft power and a field of preservation/certification debate. *Companion: `basic/15_Indian-Cinema-F",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 182.891
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 124.024
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2589,
+      "markdown_body_line_end": 2596,
+      "heading": "2. Analytical matrix",
+      "preview": "Dimension | Question",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "Question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 635.49
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2621,
+      "markdown_body_line_end": 2629,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Composite-art root",
+      "preview": "STORY / LITERATURE -> narrative",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 316.29
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 233.89
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2633,
+      "markdown_body_line_end": 2638,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Film-form grammar",
+      "preview": "CINEMATOGRAPHY -> moving image",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 36
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2642,
+      "markdown_body_line_end": 2647,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Indigenisation timeline",
+      "preview": "1896 -> Bombay exhibition",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2651,
+      "markdown_body_line_end": 2656,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Silent-era circuit",
+      "preview": "SILENT IMAGE -> live instruments",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2660,
+      "markdown_body_line_end": 2665,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Sound-colour sequence",
+      "preview": "1931 -> Alam-Ara talkie",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 38
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2669,
+      "markdown_body_line_end": 2677,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Two-cinema matrix",
+      "preview": "COMMERCIAL -> mass entertainment",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 409.691
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2681,
+      "markdown_body_line_end": 2686,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Representation test",
+      "preview": "WHAT IS SHOWN? -> representation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 387.691
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 335.891
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2690,
+      "markdown_body_line_end": 2695,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Multilingual field",
+      "preview": "LANGUAGE MARKET -> production",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 313.891
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 262.091
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2699,
+      "markdown_body_line_end": 2704,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Regulatory chain",
+      "preview": "CBFC -> U / UA7+ / UA13+ / UA16+ / A / S",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2708,
+      "markdown_body_line_end": 2713,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Institution function map",
+      "preview": "FTII -> training",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2717,
+      "markdown_body_line_end": 2722,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Recognition firewall",
+      "preview": "CERTIFICATE -> exhibition status",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2726,
+      "markdown_body_line_end": 2734,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Cinema answer spine",
+      "preview": "FORM -> camera, sound and editing",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 483.491
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    }
+  ]
+}

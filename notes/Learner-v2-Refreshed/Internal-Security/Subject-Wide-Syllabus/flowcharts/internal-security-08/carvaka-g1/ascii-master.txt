@@ -1,0 +1,76 @@
+ASCII MASTER FLOW — PANEL 1/12: CIA impact map
+CONFIDENTIALITY -> unauthorised disclosure
+INTEGRITY -> unauthorised alteration / trust loss
+AVAILABILITY -> disruption / denial of service
+RULE -> identify the property before the remedy
+
+ASCII MASTER FLOW — PANEL 2/12: Cyber-risk chain
+THREAT ACTOR / EVENT
+-> EXPLOITS VULNERABILITY
+-> OPERATIONAL / SOCIAL CONSEQUENCE
+CAPABILITY -> prevent / contain / recover / learn
+
+ASCII MASTER FLOW — PANEL 3/12: Incident-crime-operation matrix
+INCIDENT -> CERT-In / entity -> contain and recover
+CRIME -> police / I4C support -> investigate and prosecute
+WARFARE -> state-linked strategic activity -> graded attribution
+TERRORISM -> Section 66F conduct + intent
+
+ASCII MASTER FLOW — PANEL 4/12: Attribution confidence ladder
+TECHNICAL INDICATOR
+-> OPERATIONAL PATTERN / INFRASTRUCTURE CONTROL
+-> LEGAL EVIDENCE
+-> POLITICAL ATTRIBUTION
+RULE -> false flags and compromised systems require qualification
+
+ASCII MASTER FLOW — PANEL 5/12: IT Act CII ladder
+SECTION 70 -> CII / PROTECTED SYSTEM
+SECTION 70A -> NCIIPC / CII PROTECTION
+SECTION 70B -> CERT-In / INCIDENT RESPONSE
+TRAP -> designation and incident handling are not the same function
+
+ASCII MASTER FLOW — PANEL 6/12: Cybercrime governance chain
+CITIZEN / ENTITY REPORT
+-> POLICE REGISTRATION / INVESTIGATION
+-> I4C COORDINATION / CAPACITY SUPPORT
+-> ELECTRONIC EVIDENCE -> PROSECUTION / ADJUDICATION
+
+ASCII MASTER FLOW — PANEL 7/12: Sectoral-resilience system
+CII OWNER -> asset inventory / continuity / controls
+SECTOR REGULATOR / CERT -> domain standards / response
+NCIIPC -> CII coordination
+CERT-In -> national incident coordination
+RULE -> accountability stays distributed but interoperable
+
+ASCII MASTER FLOW — PANEL 8/12: CERT-In reporting boundary
+28 APR 2022 -> DIRECTIONS
+NOTICE OF SPECIFIED INCIDENT
+-> REPORT WITHIN SIX HOURS
+-> CONTAIN / COORDINATE / RECOVER
+NOT PROVED -> crime, culprit or foreign attribution
+
+ASCII MASTER FLOW — PANEL 9/12: Cyber-law powers firewall
+SECTION 69 -> intercept / monitor / decrypt
+SECTION 69A -> block public access
+SECTION 69B -> monitor / collect traffic data
+SECTION 66A -> STRUCK DOWN IN 2015
+RULE -> purpose + procedure + proportionality
+
+ASCII MASTER FLOW — PANEL 10/12: CyberDome model
+KERALA POLICE HUB
+-> SPECIALISTS / INDUSTRY / ACADEMIA
+-> RESEARCH / FORENSICS / AWARENESS / CAPACITY
+LIMIT -> State collaboration is not CERT-In or NCIIPC
+
+ASCII MASTER FLOW — PANEL 11/12: DPDP-versus-cybersecurity
+DPDP -> PERSONAL DATA / FIDUCIARY OBLIGATIONS / BOARD
+IT ACT / CERT-In -> INCIDENTS / OFFENCES / RESPONSE
+NCIIPC -> CII PROTECTION
+13 NOV 2025 -> RULES NOTIFIED; COMMENCEMENT STAGGERED
+
+ASCII MASTER FLOW — PANEL 12/12: PYQ and resilience rail
+2019 -> CYBERDOME UTILITY + LIMIT
+2021 -> CROSS-BORDER IMPACT + DEFENSIVE RESILIENCE
+2022 -> ELEMENTS + CHALLENGES + STRATEGY ASSESSMENT
+END -> IDENTIFY / PROTECT / DETECT / RESPOND / RECOVER / LEARN
+QUALIFY -> evidence rung and attribution confidence

@@ -1,0 +1,1836 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-01\\g3\\internal-security-01_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-01\\g3\\internal-security-01_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "internal-security-01",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Internal-Security Foundations and Governance - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 27,
+      "markdown_body_line_end": 38,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 421.09
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 63,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-01\\g3\\assets\\internal-security-01_Teaching-Navigation_2026-09-04.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 675.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 368.156
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 77,
+      "markdown_body_line_end": 77,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The decisive boundary is Do not treat internal and external security as fully separable.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 209.156
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 156.688
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 92,
+      "markdown_body_line_end": 99,
+      "heading": "VISUAL FIRST",
+      "preview": "INTERNAL AND EXTERNAL SECURITY BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 730.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 659.691
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 136,
+      "markdown_body_line_end": 153,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - INTERNAL AND EXTERNAL SECURITY BOUNDARY",
+      "preview": "START / CONCEPT: FOUNDATION — Internal and external security boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 250
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 164,
+      "markdown_body_line_end": 164,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The decisive boundary is Do not convert every root cause into a threat actor.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 449.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 397.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 179,
+      "markdown_body_line_end": 183,
+      "heading": "VISUAL FIRST",
+      "preview": "KAUTILYA THREAT CLASSIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 219,
+      "markdown_body_line_end": 236,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - KAUTILYA THREAT CLASSIFICATION",
+      "preview": "START / CONCEPT: FOUNDATION — Kautilya threat classification",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 240
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 127.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 247,
+      "markdown_body_line_end": 247,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Security attributes Qualified use: Show which protected attribute the threat actually undermines.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 262,
+      "markdown_body_line_end": 266,
+      "heading": "VISUAL FIRST",
+      "preview": "ATTRIBUTES OF INTERNAL SECURITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 302,
+      "markdown_body_line_end": 319,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - ATTRIBUTES OF INTERNAL SECURITY",
+      "preview": "START / CONCEPT: FOUNDATION — Attributes of internal security",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 235
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 509.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 330,
+      "markdown_body_line_end": 330,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Eight-element doctrine Qualified use: Use the doctrine diagnostically to identify the weakest elements.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 389.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 322.424
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 345,
+      "markdown_body_line_end": 349,
+      "heading": "VISUAL FIRST",
+      "preview": "EIGHT-ELEMENT DOCTRINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 385,
+      "markdown_body_line_end": 402,
+      "heading": "CLOSING RECALL FLOW - CORE - EIGHT-ELEMENT DOCTRINE",
+      "preview": "START / CONCEPT: CORE — Eight-element doctrine",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 229
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 127.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 413,
+      "markdown_body_line_end": 413,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Root causes triggers and organised conversion as a sequence: identify Root-cause matrix, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 428,
+      "markdown_body_line_end": 432,
+      "heading": "VISUAL FIRST",
+      "preview": "ROOT CAUSES TRIGGERS AND ORGANISED CONVERSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 468,
+      "markdown_body_line_end": 485,
+      "heading": "CLOSING RECALL FLOW - CORE - ROOT CAUSES TRIGGERS AND ORGANISED CONVERSION",
+      "preview": "START / CONCEPT: CORE — Root causes triggers and organised conversion",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 254
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 710.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 489.691
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 496,
+      "markdown_body_line_end": 496,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A threat is a hostile actor or event, a vulnerability is an exploitable weakness, capability is the State's actual preventive or responsive means, and consequence is the realised harm when the first exploits the second.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 335.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 269.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 511,
+      "markdown_body_line_end": 518,
+      "heading": "VISUAL FIRST",
+      "preview": "THREAT VULNERABILITY CAPABILITY AND CONSEQUENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 555,
+      "markdown_body_line_end": 572,
+      "heading": "CLOSING RECALL FLOW - CORE - THREAT VULNERABILITY CAPABILITY AND CONSEQUENCE",
+      "preview": "START / CONCEPT: CORE — Threat vulnerability capability and consequence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 263
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 583,
+      "markdown_body_line_end": 583,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read External state actors proxies and deniability as a sequence: identify State List primacy, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 392.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 325.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 598,
+      "markdown_body_line_end": 602,
+      "heading": "VISUAL FIRST",
+      "preview": "EXTERNAL STATE ACTORS PROXIES AND DENIABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 638,
+      "markdown_body_line_end": 655,
+      "heading": "CLOSING RECALL FLOW - CORE - EXTERNAL STATE ACTORS PROXIES AND DENIABILITY",
+      "preview": "START / CONCEPT: CORE — External state actors proxies and deniability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 255
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 127.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 666,
+      "markdown_body_line_end": 666,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Public order police and State primacy as a sequence: identify Union aid boundary, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 681,
+      "markdown_body_line_end": 685,
+      "heading": "VISUAL FIRST",
+      "preview": "PUBLIC ORDER POLICE AND STATE PRIMACY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 101
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 381.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 721,
+      "markdown_body_line_end": 738,
+      "heading": "CLOSING RECALL FLOW - CORE - PUBLIC ORDER POLICE AND STATE PRIMACY",
+      "preview": "START / CONCEPT: CORE — Public order police and State primacy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 247
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 509.891
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 749,
+      "markdown_body_line_end": 749,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Union aid under Entry 2A and Article 355 as a sequence: identify Article 355 duty, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 370.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 303.424
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 764,
+      "markdown_body_line_end": 768,
+      "heading": "VISUAL FIRST",
+      "preview": "UNION AID UNDER ENTRY 2A AND ARTICLE 355",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 104
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 804,
+      "markdown_body_line_end": 821,
+      "heading": "CLOSING RECALL FLOW - CORE - UNION AID UNDER ENTRY 2A AND ARTICLE 355",
+      "preview": "START / CONCEPT: CORE — Union aid under Entry 2A and Article 355",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 248
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 338.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 117.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 832,
+      "markdown_body_line_end": 832,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Because policing is primarily State-owned while intelligence, border guarding and several central capabilities are Union-linked, Centre-State coordination is a structural constitutional requirement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 847,
+      "markdown_body_line_end": 851,
+      "heading": "VISUAL FIRST",
+      "preview": "CENTRE-STATE COORDINATION ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 357.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 887,
+      "markdown_body_line_end": 904,
+      "heading": "CLOSING RECALL FLOW - CORE - CENTRE-STATE COORDINATION ARCHITECTURE",
+      "preview": "START / CONCEPT: CORE — Centre-State coordination architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 246
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 915,
+      "markdown_body_line_end": 915,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Coercion accommodation and calibrated response as a sequence: identify Coercion-accommodation calibration, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next sta",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 345.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 265.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 930,
+      "markdown_body_line_end": 937,
+      "heading": "VISUAL FIRST",
+      "preview": "COERCION ACCOMMODATION AND CALIBRATED RESPONSE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 974,
+      "markdown_body_line_end": 991,
+      "heading": "CLOSING RECALL FLOW - CORE - COERCION ACCOMMODATION AND CALIBRATED RESPONSE",
+      "preview": "START / CONCEPT: CORE — Coercion accommodation and calibrated response",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 272
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1002,
+      "markdown_body_line_end": 1002,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Security development and rights sequencing as a sequence: identify Prevention-response distinction, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 331.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1017,
+      "markdown_body_line_end": 1021,
+      "heading": "VISUAL FIRST",
+      "preview": "SECURITY DEVELOPMENT AND RIGHTS SEQUENCING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1057,
+      "markdown_body_line_end": 1074,
+      "heading": "CLOSING RECALL FLOW - CORE - SECURITY DEVELOPMENT AND RIGHTS SEQUENCING",
+      "preview": "START / CONCEPT: CORE — Security development and rights sequencing",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 265
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 334.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 93.091
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1085,
+      "markdown_body_line_end": 1085,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Prevention response and measurement asymmetry as a sequence: identify Statutory-power boundary, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1100,
+      "markdown_body_line_end": 1104,
+      "heading": "VISUAL FIRST",
+      "preview": "PREVENTION RESPONSE AND MEASUREMENT ASYMMETRY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 343.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1140,
+      "markdown_body_line_end": 1157,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PREVENTION RESPONSE AND MEASUREMENT ASYMMETRY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Prevention response and measurement asymmetry",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 261
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 650.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 419.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1168,
+      "markdown_body_line_end": 1168,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Area management should protect people, deny coercive support networks and restore durable civil administration; clearing territory is not the same as holding it through legitimate governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 265.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 198.624
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1183,
+      "markdown_body_line_end": 1190,
+      "heading": "VISUAL FIRST",
+      "preview": "AREA MANAGEMENT LOCAL PERCEPTION AND GOVERNANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 691.091
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1227,
+      "markdown_body_line_end": 1244,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - AREA MANAGEMENT LOCAL PERCEPTION AND GOVERNANCE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Area management local perception and governance",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 257
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 523.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1255,
+      "markdown_body_line_end": 1255,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Legal distinctions PYQ routing and answer spine as a sequence: identify OSA-Arms boundary, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 369.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 288.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1270,
+      "markdown_body_line_end": 1277,
+      "heading": "VISUAL FIRST",
+      "preview": "LEGAL DISTINCTIONS PYQ ROUTING AND ANSWER SPINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1313,
+      "markdown_body_line_end": 1324,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Internal Security | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III. **Core area:** Internal vs. external security; Kautilya's four-fold threat classification; attributes of internal security; root causes; the eight-eleme",
+      "metadata": {
+        "line_count": 12
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 266.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 114.424
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1328,
+      "markdown_body_line_end": 1353,
+      "heading": "1. Visual foundation",
+      "preview": "ROOT CAUSE",
+      "metadata": {
+        "language": "text",
+        "line_count": 24,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1365,
+      "markdown_body_line_end": 1372,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 457.491
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 171.29
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1428,
+      "markdown_body_line_end": 1433,
+      "heading": "4A. Threat, vulnerability and capability - the three-variable habit",
+      "preview": "Variable | Definition (VisionIAS, *Communication Network*, PDF p. 14) | Internal-security example",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Variable",
+          "Definition (VisionIAS, *Communication Network*, PDF p. 14)",
+          "Internal-security example"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 331.091
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 143.29
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1548,
+      "markdown_body_line_end": 1550,
+      "heading": "12. Core answer architecture - doctrine, local support and external actors",
+      "preview": "**Core firewall:** This section is sufficient for a directive-sensitive 10/15/20-mark answer. The Advanced companion may deepen the analysis but is not required for any routed paper demand.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 378.891
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 312.224
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1596,
+      "markdown_body_line_end": 1601,
+      "heading": "Claim -> evidence -> analysis -> qualification bank",
+      "preview": "Claim | Named evidence/example | What it proves | Qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim",
+          "Named evidence/example",
+          "What it proves",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 648.491
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 416.59
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1605,
+      "markdown_body_line_end": 1609,
+      "heading": "Direct PYQ routes now owned in Core",
+      "preview": "Demand family | Core route",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Demand family",
+          "Core route"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 394.59
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 205.588
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1643,
+      "markdown_body_line_end": 1660,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - LEGAL DISTINCTIONS PYQ ROUTING AND ANSWER SPINE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Legal distinctions PYQ routing and answer spine",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 319
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 607.491
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 346.491
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2817,
+      "markdown_body_line_end": 2827,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Internal Security | **Tier:** Advanced | **GS Paper:** GS-III. **Core area:** Political settlement versus coercion; the security- development-rights sequencing problem; Centre-State coordination failure modes; using the doctrin",
+      "metadata": {
+        "line_count": 11
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 437.891
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 322.224
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2842,
+      "markdown_body_line_end": 2850,
+      "heading": "2. Conceptual distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 199.89
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2854,
+      "markdown_body_line_end": 2885,
+      "heading": "3. Causal model",
+      "preview": "STRUCTURAL CONDITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 30,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 476.291
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3111,
+      "markdown_body_line_end": 3120,
+      "heading": "Internal-Security Foundations and Governance: AREA-MANAGEMENT AND ANSWER-WRITING SPINE",
+      "preview": "DEFINE INTERNAL SECURITY AND ITS PROTECTED ATTRIBUTES",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 350.691
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 259.691
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3130,
+      "markdown_body_line_end": 3135,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Security boundary map",
+      "preview": "INTERNAL -> peace, law and order, rule of law, sovereignty within territory",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 711.491
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3139,
+      "markdown_body_line_end": 3144,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Kautilya fourfold matrix",
+      "preview": "INTERNAL | EXTERNAL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 689.491
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 637.691
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3148,
+      "markdown_body_line_end": 3153,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Protected-attribute rail",
+      "preview": "THREAT -> territorial integrity / peace / law and order",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 615.691
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 563.891
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3157,
+      "markdown_body_line_end": 3162,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Eight-element doctrine wheel",
+      "preview": "POLITICAL + SOCIO-ECONOMIC + GOVERNANCE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 541.891
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 490.091
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3166,
+      "markdown_body_line_end": 3171,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Cause-trigger-actor chain",
+      "preview": "STRUCTURAL CONDITION -> exclusion, weak justice, porous border",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 468.091
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 416.291
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3175,
+      "markdown_body_line_end": 3181,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Risk grammar",
+      "preview": "THREAT + VULNERABILITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 394.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 332.291
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3185,
+      "markdown_body_line_end": 3191,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Federal competence ladder",
+      "preview": "STATE LIST ENTRY 1 -> public order",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 310.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 248.291
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3195,
+      "markdown_body_line_end": 3200,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Response calibration",
+      "preview": "VIOLENT SECESSION / SEPARATISM -> lawful coercive containment",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3204,
+      "markdown_body_line_end": 3209,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Security-development sequence",
+      "preview": "SECURE ACCESS -> HOLD THROUGH CIVIL ADMINISTRATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3213,
+      "markdown_body_line_end": 3219,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Prevention versus response",
+      "preview": "PREVENTION -> intelligence, trust, vulnerability reduction",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 577.691
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3223,
+      "markdown_body_line_end": 3229,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Legal-rung firewall",
+      "preview": "LAW -> NOTIFICATION -> DEPLOYMENT / REGISTRATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 555.691
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 493.691
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3233,
+      "markdown_body_line_end": 3240,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: PYQ answer spine",
+      "preview": "DEFINE -> CLASSIFY ACTOR / THREAT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 471.691
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 399.491
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    }
+  ]
+}

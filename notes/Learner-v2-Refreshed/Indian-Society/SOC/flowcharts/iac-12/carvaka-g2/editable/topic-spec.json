@@ -1,0 +1,1107 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-society-12",
+  "subject": "Indian-Society",
+  "title": "SOCIAL CHANGE AND MODERNISATION",
+  "short_route": "LENS SET FOR SOCIAL → ONE EPISODE, TWO READINGS → THREE AXES CARD → STATUS INCONSISTENCY CHAIN → TWO CULTURAL STREAMS → TWO-WAY EXCHANGE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-12\\g2\\indian-society-12_Complete-Learning-Session_2026-09-02.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-society-12-deep-review-2026-09-02-g2.json",
+  "ascii_spec_sha256": "0c9ab3a24168f56b7cddda5aaf6f32a8aa3b56d46f1d6d219955201dde581713",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "LENS SET FOR SOCIAL CHANGE",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "LENS SET FOR SOCIAL CHANGE",
+          "role": "primary"
+        },
+        {
+          "text": "STRUCTURAL-FUNCTIONAL EQUILIBRIUM AGAINST CONFLICT-DRIVEN CONTRADICTION",
+          "role": "outcome"
+        },
+        {
+          "text": "OLDER FAMILIES",
+          "role": "comparison"
+        },
+        {
+          "text": "EVOLUTIONARY UNILINEAR DEVELOPMENT AND CYCLICAL RISE AND FALL",
+          "role": "evidence"
+        },
+        {
+          "text": "DIFFUSIONIST SPREAD OF PRACTICES, TECHNOLOGY AND IDEAS",
+          "role": "primary"
+        },
+        {
+          "text": "REFORM CHRONOLOGY OWNED BY MODERN INDIAN HISTORY",
+          "role": "outcome"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "SOCIAL CHANGE ALTERS INSTITUTIONS, RELATIONS, NORMS AND IDENTITIES THROUGH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MACRO → structural-functional equilibrium against conflict-driven contradiction",
+        "OLDER FAMILIES → evolutionary unilinear development and cyclical rise and fall",
+        "TRANSMISSION → diffusionist spread of practices, technology and ideas",
+        "EXCLUDED → reform chronology owned by Modern Indian History",
+        "MUST REMEMBER: Social change alters institutions, relations, norms and identities through"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MACRO → structural-functional equilibrium against conflict-driven contradiction",
+            "OLDER FAMILIES → evolutionary unilinear development and cyclical rise and fall",
+            "TRANSMISSION → diffusionist spread of practices, technology and ideas"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXCLUDED → reform chronology owned by Modern Indian History",
+            "MUST REMEMBER: Social change alters institutions, relations, norms and identities through",
+            "Sanskritisation, westernisation, secularisation, modernisation, democratisation, education, technology, migration, social movements and state action"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "continuity and change coexist at different speeds."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Sanskritisation, westernisation, secularisation, modernisation, democratisation, education, technology, migration, social movements and state action; continuity and change coexist at different speeds.",
+      "source_references": [
+        "How a social-change question is framed",
+        "The two macro-theories side by side",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\12_Social-Change-and-Modernisation.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\12_Social-Change-and-Modernisation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-12\\g2\\indian-society-12_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ONE EPISODE, TWO READINGS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ONE EPISODE, TWO READINGS",
+          "role": "primary"
+        },
+        {
+          "text": "AN UNTOUCHABILITY PRACTICE ENDS IN A VILLAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "FUNCTIONAL READING",
+          "role": "comparison"
+        },
+        {
+          "text": "THE SYSTEM REDUCES DISRUPTIVE TENSION AND RENEGOTIATES ROLES",
+          "role": "evidence"
+        },
+        {
+          "text": "CONFLICT READING",
+          "role": "primary"
+        },
+        {
+          "text": "SUSTAINED LOWER-CASTE MOBILISATION DEFEATS ENTRENCHED INTEREST",
+          "role": "outcome"
+        },
+        {
+          "text": "ANSWER RULE",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE WHICH MECHANISM THE EVIDENCE BETTER SUPPORTS",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "EPISODE → an untouchability practice ends in a village",
+        "FUNCTIONAL READING → the system reduces disruptive tension and renegotiates roles",
+        "CONFLICT READING → sustained lower-caste mobilisation defeats entrenched interest",
+        "ANSWER RULE → state which mechanism the evidence better supports"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "EPISODE → an untouchability practice ends in a village",
+          "CONFLICT READING → sustained lower-caste mobilisation defeats entrenched interest",
+          "EPISODE → an untouchability practice ends in a village"
+        ],
+        [
+          "FUNCTIONAL READING → the system reduces disruptive tension and renegotiates roles",
+          "ANSWER RULE → state which mechanism the evidence better supports",
+          "FUNCTIONAL READING → the system reduces disruptive tension and renegotiates roles"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EPISODE → an untouchability practice ends in a village",
+            "FUNCTIONAL READING → the system reduces disruptive tension and renegotiates roles"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONFLICT READING → sustained lower-caste mobilisation defeats entrenched interest",
+            "ANSWER RULE → state which mechanism the evidence better supports"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EPISODE → an untouchability practice ends in a village",
+            "FUNCTIONAL READING → the system reduces disruptive tension and renegotiates roles"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANSWER RULE → state which mechanism the evidence better supports.",
+      "source_references": [
+        "Choosing the better-supported reading",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\12_Social-Change-and-Modernisation.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\12_Social-Change-and-Modernisation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-12\\g2\\indian-society-12_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THREE AXES CARD",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE AXES CARD",
+          "role": "primary"
+        },
+        {
+          "text": "STATUS AXIS, POSITION CHANGES INSIDE AN UNCHANGED HIERARCHY",
+          "role": "outcome"
+        },
+        {
+          "text": "VALUE AXIS, EQUALITY, INDIVIDUAL RIGHTS AND RATIONALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "STRUCTURAL AXIS, RATIONAL-LEGAL INSTITUTIONS AND ROLE DIFFERENTIATION",
+          "role": "evidence"
+        },
+        {
+          "text": "THE THREE ARE NOT STAGES OF ONE LADDER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SANSKRITISATION → status axis, position changes inside an unchanged hierarchy",
+        "WESTERNISATION → value axis, equality, individual rights and rationality",
+        "MODERNISATION → structural axis, rational-legal institutions and role differentiation",
+        "PROHIBITION → the three are not stages of one ladder"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SANSKRITISATION → status axis, position changes inside an unchanged hierarchy",
+          "MODERNISATION → structural axis, rational-legal institutions and role differentiation",
+          "SANSKRITISATION → status axis, position changes inside an unchanged hierarchy"
+        ],
+        [
+          "WESTERNISATION → value axis, equality, individual rights and rationality",
+          "PROHIBITION → the three are not stages of one ladder",
+          "WESTERNISATION → value axis, equality, individual rights and rationality"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SANSKRITISATION → status axis, position changes inside an unchanged hierarchy",
+            "WESTERNISATION → value axis, equality, individual rights and rationality"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MODERNISATION → structural axis, rational-legal institutions and role differentiation",
+            "PROHIBITION → the three are not stages of one ladder"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SANSKRITISATION → status axis, position changes inside an unchanged hierarchy",
+            "WESTERNISATION → value axis, equality, individual rights and rationality"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PROHIBITION → the three are not stages of one ladder.",
+      "source_references": [
+        "Sanskritisation as status claim",
+        "Westernisation as value import",
+        "Modernisation and the three axes",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\12_Social-Change-and-Modernisation.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\12_Social-Change-and-Modernisation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-12\\g2\\indian-society-12_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "STATUS INCONSISTENCY CHAIN",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "STATUS INCONSISTENCY CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "NEW RESOURCES THROUGH EDUCATION, MIGRATION INCOME OR MARKET ACCESS",
+          "role": "outcome"
+        },
+        {
+          "text": "SANSKRITISE, WESTERNISE, MODERNISE OR COMBINE, BY SOCIAL CONTEXT",
+          "role": "comparison"
+        },
+        {
+          "text": "NEW VALUES AND STRUCTURAL POSITION WITHOUT MATCHING LOCAL STATUS",
+          "role": "evidence"
+        },
+        {
+          "text": "THE INCONSISTENCY GENERATES FURTHER PRESSURE FOR CHANGE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "INPUT → new resources through education, migration income or market access",
+        "RESPONSE → Sanskritise, Westernise, modernise or combine, by social context",
+        "MISMATCH → new values and structural position without matching local status",
+        "OUTPUT → the inconsistency generates further pressure for change"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INPUT → new resources through education, migration income or market access",
+            "RESPONSE → Sanskritise, Westernise, modernise or combine, by social context"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MISMATCH → new values and structural position without matching local status",
+            "OUTPUT → the inconsistency generates further pressure for change"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INPUT → new resources through education, migration income or market access",
+            "RESPONSE → Sanskritise, Westernise, modernise or combine, by social context"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTPUT → the inconsistency generates further pressure for change.",
+      "source_references": [
+        "Status inconsistency as a change engine",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\12_Social-Change-and-Modernisation.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\12_Social-Change-and-Modernisation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-12\\g2\\indian-society-12_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "TWO CULTURAL STREAMS",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TWO CULTURAL STREAMS",
+          "role": "primary"
+        },
+        {
+          "text": "GREAT TRADITION",
+          "role": "outcome"
+        },
+        {
+          "text": "PAN-INDIAN, TEXTUAL, REFLECTIVE STREAM",
+          "role": "comparison"
+        },
+        {
+          "text": "LITTLE TRADITION",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL, ORAL, FOLK STREAM",
+          "role": "primary"
+        },
+        {
+          "text": "ROBERT REDFIELD, APPLIED TO INDIAN VILLAGES BY MCKIM MARRIOTT",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTINUOUS INTERACTION, NEVER ISOLATION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "GREAT TRADITION → pan-Indian, textual, reflective stream",
+        "LITTLE TRADITION → local, oral, folk stream",
+        "AUTHORSHIP → Robert Redfield, applied to Indian villages by McKim Marriott",
+        "RELATION → continuous interaction, never isolation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GREAT TRADITION → pan-Indian, textual, reflective stream",
+            "LITTLE TRADITION → local, oral, folk stream"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AUTHORSHIP → Robert Redfield, applied to Indian villages by McKim Marriott",
+            "RELATION → continuous interaction, never isolation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GREAT TRADITION → pan-Indian, textual, reflective stream",
+            "LITTLE TRADITION → local, oral, folk stream"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AUTHORSHIP → Robert Redfield, applied to Indian villages by McKim Marriott.",
+      "source_references": [
+        "Great Tradition and Little Tradition",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\12_Social-Change-and-Modernisation.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\12_Social-Change-and-Modernisation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-12\\g2\\indian-society-12_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TWO-WAY EXCHANGE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TWO-WAY EXCHANGE",
+          "role": "primary"
+        },
+        {
+          "text": "LOCAL DEITY OR FESTIVAL RISES INTO PAN-INDIAN RECOGNITION",
+          "role": "outcome"
+        },
+        {
+          "text": "PILGRIMAGE NETWORKS, TEXTUAL INCORPORATION, PATRONAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "PAN-INDIAN RITUAL ADAPTED TO LOCAL RESOURCES AND LANGUAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "LAYERED, REGIONALLY VARIABLE PRACTICE RATHER THAN UNIFORM CULTURE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "UNIVERSALISATION → local deity or festival rises into pan-Indian recognition",
+        "CARRIERS → pilgrimage networks, textual incorporation, patronage",
+        "PAROCHIALISATION → pan-Indian ritual adapted to local resources and language",
+        "RESULT → layered, regionally variable practice rather than uniform culture"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "UNIVERSALISATION → local deity or festival rises into pan-Indian recognition",
+            "CARRIERS → pilgrimage networks, textual incorporation, patronage"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PAROCHIALISATION → pan-Indian ritual adapted to local resources and language",
+            "RESULT → layered, regionally variable practice rather than uniform culture"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "UNIVERSALISATION → local deity or festival rises into pan-Indian recognition",
+            "CARRIERS → pilgrimage networks, textual incorporation, patronage"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → layered, regionally variable practice rather than uniform culture.",
+      "source_references": [
+        "Universalisation and parochialisation",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\12_Social-Change-and-Modernisation.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\12_Social-Change-and-Modernisation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-12\\g2\\indian-society-12_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "THREE LEVELS OF THE RELIGIOUS QUESTION",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THREE LEVELS OF THE RELIGIOUS QUESTION",
+          "role": "primary"
+        },
+        {
+          "text": "INSTITUTIONAL DIFFERENTIATION OF RELIGIOUS AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "LEGAL AND POLITICAL DOCTRINE OF STATE NEUTRALITY",
+          "role": "institution"
+        },
+        {
+          "text": "EXPERIENTIAL DECLINE OF THE SACRED IN PARTICULAR PRACTICES",
+          "role": "caution"
+        },
+        {
+          "text": "COLLAPSING ANY TWO OF THE THREE INTO ONE TERM",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SECULARISATION → institutional differentiation of religious authority",
+        "SECULARISM → legal and political doctrine of state neutrality",
+        "DESACRALISATION → experiential decline of the sacred in particular practices",
+        "ERROR → collapsing any two of the three into one term"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SECULARISATION → institutional differentiation of religious authority",
+            "SECULARISM → legal and political doctrine of state neutrality"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DESACRALISATION → experiential decline of the sacred in particular practices",
+            "ERROR → collapsing any two of the three into one term"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SECULARISATION → institutional differentiation of religious authority",
+            "SECULARISM → legal and political doctrine of state neutrality"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ERROR → collapsing any two of the three into one term.",
+      "source_references": [
+        "Secularisation and its two neighbours",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\12_Social-Change-and-Modernisation.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\12_Social-Change-and-Modernisation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-12\\g2\\indian-society-12_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CONTINUITY MECHANISMS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CONTINUITY MECHANISMS",
+          "role": "primary"
+        },
+        {
+          "text": "FAMILY AND KIN",
+          "role": "outcome"
+        },
+        {
+          "text": "SOCIALISATION AGAINST MIGRATION AND EDUCATION PRESSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "RITUAL AND FESTIVAL",
+          "role": "evidence"
+        },
+        {
+          "text": "SHARED PRACTICE AGAINST MEDIA AND MARKET PRESSURE",
+          "role": "primary"
+        },
+        {
+          "text": "LANGUAGE AND REGION",
+          "role": "outcome"
+        },
+        {
+          "text": "REGIONAL CULTURE AGAINST STANDARDISATION PRESSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "UNIVERSALISATION AND PAROCHIALISATION ABSORB THE PRESSURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FAMILY AND KIN → socialisation against migration and education pressure",
+        "RITUAL AND FESTIVAL → shared practice against media and market pressure",
+        "LANGUAGE AND REGION → regional culture against standardisation pressure",
+        "ADAPTATION → universalisation and parochialisation absorb the pressure"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FAMILY AND KIN → socialisation against migration and education pressure",
+          "LANGUAGE AND REGION → regional culture against standardisation pressure",
+          "FAMILY AND KIN → socialisation against migration and education pressure"
+        ],
+        [
+          "RITUAL AND FESTIVAL → shared practice against media and market pressure",
+          "ADAPTATION → universalisation and parochialisation absorb the pressure",
+          "RITUAL AND FESTIVAL → shared practice against media and market pressure"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FAMILY AND KIN → socialisation against migration and education pressure",
+            "RITUAL AND FESTIVAL → shared practice against media and market pressure"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LANGUAGE AND REGION → regional culture against standardisation pressure",
+            "ADAPTATION → universalisation and parochialisation absorb the pressure"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FAMILY AND KIN → socialisation against migration and education pressure",
+            "RITUAL AND FESTIVAL → shared practice against media and market pressure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ADAPTATION → universalisation and parochialisation absorb the pressure.",
+      "source_references": [
+        "Continuity alongside change",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\12_Social-Change-and-Modernisation.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\12_Social-Change-and-Modernisation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-12\\g2\\indian-society-12_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CUSTOM AND REASON TEST",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CUSTOM AND REASON TEST",
+          "role": "primary"
+        },
+        {
+          "text": "STEP ONE",
+          "role": "outcome"
+        },
+        {
+          "text": "IDENTIFY THE PRACTICE AND ITS LIVED MEANING",
+          "role": "comparison"
+        },
+        {
+          "text": "STEP TWO",
+          "role": "evidence"
+        },
+        {
+          "text": "ASK WHETHER AN APPLICATION BLOCKS INQUIRY, AGENCY OR EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "STEP THREE",
+          "role": "outcome"
+        },
+        {
+          "text": "NAME REFORM, EDUCATION AND INTERNAL DISSENT AS MECHANISMS",
+          "role": "comparison"
+        },
+        {
+          "text": "NEVER MOVE FROM A PRACTICE TO A VERDICT ABOUT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STEP ONE → identify the practice and its lived meaning",
+        "STEP TWO → ask whether an application blocks inquiry, agency or evidence",
+        "STEP THREE → name reform, education and internal dissent as mechanisms",
+        "LIMIT → never move from a practice to a verdict about a community"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STEP ONE → identify the practice and its lived meaning",
+            "STEP TWO → ask whether an application blocks inquiry, agency or evidence"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STEP THREE → name reform, education and internal dissent as mechanisms",
+            "LIMIT → never move from a practice to a verdict about a community"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STEP ONE → identify the practice and its lived meaning",
+            "STEP TWO → ask whether an application blocks inquiry, agency or evidence"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → never move from a practice to a verdict about a community.",
+      "source_references": [
+        "Custom, reason and obscurantism",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\12_Social-Change-and-Modernisation.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\12_Social-Change-and-Modernisation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-12\\g2\\indian-society-12_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "TECHNOLOGY ON THE SOCIETY LAYER",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TECHNOLOGY ON THE SOCIETY LAYER",
+          "role": "primary"
+        },
+        {
+          "text": "SOCIETY LAYER",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCESS, TRUST, WORK, IDENTITY AND UNEQUAL RISK",
+          "role": "caution"
+        },
+        {
+          "text": "INSTRUMENT MECHANICS OWNED BY ECONOMY AND SCIENCE AND TECHNOLOGY",
+          "role": "evidence"
+        },
+        {
+          "text": "NO PRICE, LEGAL STATUS OR ADOPTION FIGURE IS ASSERTED",
+          "role": "caution"
+        },
+        {
+          "text": "A SOCIAL EFFECT ARGUED FROM ACCESS AND USE, NOT",
+          "role": "caution"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "MODERNISATION IS NOT WESTERNISATION, SECULARISATION IS NOT NECESSARILY DECLINING",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SOCIETY LAYER → access, trust, work, identity and unequal risk",
+        "CROSS-LINKED → instrument mechanics owned by Economy and Science and Technology",
+        "PROHIBITION → no price, legal status or adoption figure is asserted",
+        "OUTPUT → a social effect argued from access and use, not from a label",
+        "CLOSE DISTINCTION: Modernisation is not westernisation, secularisation is not necessarily declining belief, Sanskritisation is not"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SOCIETY LAYER → access, trust, work, identity and unequal risk",
+            "CROSS-LINKED → instrument mechanics owned by Economy and Science and Technology"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PROHIBITION → no price, legal status or adoption figure is asserted",
+            "OUTPUT → a social effect argued from access and use, not from a label"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Modernisation is not westernisation, secularisation is not necessarily declining belief, Sanskritisation is not structural equality, mobility",
+            "is not transformation of the hierarchy, and legal reform is not identical to normative or behavioural change."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Modernisation is not westernisation, secularisation is not necessarily declining belief, Sanskritisation is not structural equality, mobility is not transformation of the hierarchy, and legal reform is not identical to normative or behavioural change.",
+      "source_references": [
+        "Technology as a social-change question",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\12_Social-Change-and-Modernisation.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\12_Social-Change-and-Modernisation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-12\\g2\\indian-society-12_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "EVIDENCE-STATUS CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EVIDENCE-STATUS CARD",
+          "role": "evidence"
+        },
+        {
+          "text": "NAMED SCHOLARS",
+          "role": "outcome"
+        },
+        {
+          "text": "M. N. SRINIVAS, ROBERT REDFIELD, MCKIM MARRIOTT",
+          "role": "comparison"
+        },
+        {
+          "text": "DATED ANCHOR",
+          "role": "evidence"
+        },
+        {
+          "text": "NONE IS REQUIRED FOR THIS DURABLE-THEORY TOPIC",
+          "role": "primary"
+        },
+        {
+          "text": "RECENT DEMANDS",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE ROUTED 2025 DEMAND, THREE ROUTED 2018 TO 2021",
+          "role": "comparison"
+        },
+        {
+          "text": "NO VILLAGE STUDY, SURVEY FIGURE OR DATE IS INVENTED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NAMED SCHOLARS → M. N. Srinivas, Robert Redfield, McKim Marriott",
+        "DATED ANCHOR → none is required for this durable-theory topic",
+        "RECENT DEMANDS → one routed 2025 demand, three routed 2018 to 2021 demands",
+        "PROHIBITION → no village study, survey figure or date is invented",
+        "EVIDENCE LIMIT: Use M.N."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "NAMED SCHOLARS → M. N. Srinivas, Robert Redfield, McKim Marriott",
+          "PROHIBITION → no village study, survey figure or date is invented",
+          "avoid linear tradition-to-modernity teleology and identify feedback, resistance, regional paths and unintended effects."
+        ],
+        [
+          "DATED ANCHOR → none is required for this durable-theory topic",
+          "EVIDENCE LIMIT: Use M.N.",
+          ""
+        ],
+        [
+          "RECENT DEMANDS → one routed 2025 demand, three routed 2018 to 2021 demands",
+          "Srinivas and Yogendra Singh as bounded analytical frameworks, alongside education, media, urban and movement examples",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NAMED SCHOLARS → M. N. Srinivas, Robert Redfield, McKim Marriott",
+            "DATED ANCHOR → none is required for this durable-theory topic",
+            "RECENT DEMANDS → one routed 2025 demand, three routed 2018 to 2021 demands"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PROHIBITION → no village study, survey figure or date is invented",
+            "EVIDENCE LIMIT: Use M.N.",
+            "Srinivas and Yogendra Singh as bounded analytical frameworks, alongside education, media, urban and movement examples"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "avoid linear tradition-to-modernity teleology and identify feedback, resistance, regional paths and unintended effects."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Use M.N. Srinivas and Yogendra Singh as bounded analytical frameworks, alongside education, media, urban and movement examples; avoid linear tradition-to-modernity teleology and identify feedback, resistance, regional paths and unintended effects.",
+      "source_references": [
+        "Question ownership and the answer spine",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\12_Social-Change-and-Modernisation.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\12_Social-Change-and-Modernisation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-12\\g2\\indian-society-12_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "SOCIAL-CHANGE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "SOCIAL-CHANGE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "NAME THE LENS AND THE AXIS THE QUESTION IS",
+          "role": "outcome"
+        },
+        {
+          "text": "APPLY THE INDIA-SPECIFIC VOCABULARY WITH ONE WORKED EXAMPLE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTINUITY MECHANISMS AGAINST THEIR PARALLEL CHANGE PRESSURES",
+          "role": "evidence"
+        },
+        {
+          "text": "GRADED VERDICT WITH THE CROSS-OWNER BOUNDARY STATED",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OPEN → name the lens and the axis the question is testing",
+        "BODY → apply the India-specific vocabulary with one worked example",
+        "TEST → continuity mechanisms against their parallel change pressures",
+        "CLOSE → graded verdict with the cross-owner boundary stated"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPEN → name the lens and the axis the question is testing",
+            "BODY → apply the India-specific vocabulary with one worked example"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEST → continuity mechanisms against their parallel change pressures",
+            "CLOSE → graded verdict with the cross-owner boundary stated"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN → name the lens and the axis the question is testing",
+            "BODY → apply the India-specific vocabulary with one worked example"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → graded verdict with the cross-owner boundary stated.",
+      "source_references": [
+        "Question ownership and the answer spine",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\12_Social-Change-and-Modernisation.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\12_Social-Change-and-Modernisation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-12\\g2\\indian-society-12_Complete-Learning-Session_2026-09-02.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "SOCIO-RELIGIOUS REFORM MOVEMENTS AS CHANGE CATALYSTS (CROSS-LINKED)",
+          "role": "outcome"
+        },
+        {
+          "text": "EDUCATIONAL AND LEGAL INSTITUTIONS AS MODERNISATION ENGINES",
+          "role": "comparison"
+        },
+        {
+          "text": "FORMAL SCHOOLING AND",
+          "role": "evidence"
+        },
+        {
+          "text": "BOUNDARY CASE 1 — MODERNISATION WITHOUT SANSKRITISATION",
+          "role": "primary"
+        },
+        {
+          "text": "A FAMILY THAT GAINS FORMAL",
+          "role": "outcome"
+        },
+        {
+          "text": "BOUNDARY CASE 2 — SANSKRITISATION WITHOUT MODERNISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "A JATI ADOPTING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Socio-religious reform movements as change catalysts (cross-linked): 19th-20th",
+            "CAUTION: Educational and legal institutions as modernisation engines: formal schooling and",
+            "CAUTION: Boundary case 1 — Modernisation without Sanskritisation: a family that gains formal",
+            "CAUTION: Boundary case 2 — Sanskritisation without Modernisation: a jati adopting"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Boundary case 3 — universalisation and secularisation together: a regional folk",
+            "CAUTION: Single-theory-overreach limitation: applying only structural-functionalism or only",
+            "CAUTION: Status-inconsistency trade-off: differential pace across Sanskritisation,",
+            "CAUTION: Secularisation-secularism conflation risk: treating institutional secularisation as"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Sanskritisation, Westernisation and Modernisation operate on distinct axes — status,",
+            "Universalisation and parochialisation are bidirectional processes linking Great and",
+            "CAUTION: Secularisation (institutional differentiation), secularism (constitutional doctrine)",
+            "CAUTION: Status inconsistency (differential pace across change axes) is a recognised source of"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

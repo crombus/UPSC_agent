@@ -1,0 +1,2122 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g3\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-04.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g3\\indian-art-and-culture-15_Complete-Learning-Session_2026-09-04.pdf",
+  "mode": "main",
+  "topic_key": "indian-art-and-culture-15",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Indian Cinema, Film Institutions and Awards - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 389.624
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 160.622
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 50,
+      "markdown_body_line_end": 50,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Art-and-Culture\\IAC\\learning-sessions\\iac-15\\g3\\assets\\indian-art-and-culture-15_Teaching-Navigation_2026-09-01.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 486.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 178.956
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 64,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Shared acting does not make cinema a branch of theatre.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 636.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 79,
+      "markdown_body_line_end": 83,
+      "heading": "VISUAL FIRST",
+      "preview": "CINEMA AS A COMPOSITE MODERN ART",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 441.424
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 400.424
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 111,
+      "markdown_body_line_end": 128,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CINEMA AS A COMPOSITE MODERN ART",
+      "preview": "START / CONCEPT: FOUNDATION — Cinema as a composite modern art",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 124
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 139,
+      "markdown_body_line_end": 139,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cinematography creates moving images through camera, lens, lighting, framing and movement; editing arranges shots; mise-en-scene organises setting, costume, light, performance and composition within the frame.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 154,
+      "markdown_body_line_end": 158,
+      "heading": "VISUAL FIRST",
+      "preview": "CAMERA, EDITING AND THE FRAME",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 186,
+      "markdown_body_line_end": 203,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CAMERA, EDITING AND THE FRAME",
+      "preview": "START / CONCEPT: FOUNDATION — Camera, editing and the frame",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 238
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 262.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 214,
+      "markdown_body_line_end": 214,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Documentary is non-fiction but still selected and framed, while animation creates movement from drawn, modelled or computer-generated frames; neither is a lesser appendage to feature fiction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 141.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 74.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 229,
+      "markdown_body_line_end": 233,
+      "heading": "VISUAL FIRST",
+      "preview": "DOCUMENTARY AND ANIMATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 661.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 261,
+      "markdown_body_line_end": 278,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - DOCUMENTARY AND ANIMATION",
+      "preview": "START / CONCEPT: FOUNDATION — Documentary and animation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 220
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 337.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 126.891
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 289,
+      "markdown_body_line_end": 289,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Motion pictures were shown in Bombay in 1896, an Indian-shot film appeared in 1897, Indian filmmakers made shorts by 1899 and Indian-owned exhibition infrastructure developed before the indigenous feature of 1913.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 304,
+      "markdown_body_line_end": 308,
+      "heading": "VISUAL FIRST",
+      "preview": "FROM EXHIBITION TO INDIAN PRODUCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 336,
+      "markdown_body_line_end": 353,
+      "heading": "CLOSING RECALL FLOW - CORE - FROM EXHIBITION TO INDIAN PRODUCTION",
+      "preview": "START / CONCEPT: CORE — From exhibition to Indian production",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 242
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 364,
+      "markdown_body_line_end": 364,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Indian silent films used live musical accompaniment; Raja Harishchandra in 1913 is the first indigenous Indian silent feature, while Lanka Dahan in 1917 is identified as the first box-office hit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 449.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 383.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 379,
+      "markdown_body_line_end": 383,
+      "heading": "VISUAL FIRST",
+      "preview": "SILENT FILM, LIVE MUSIC AND PHALKE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 411,
+      "markdown_body_line_end": 428,
+      "heading": "CLOSING RECALL FLOW - CORE - SILENT FILM, LIVE MUSIC AND PHALKE",
+      "preview": "START / CONCEPT: CORE — Silent film, live music and Phalke",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 224
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 252.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 439,
+      "markdown_body_line_end": 439,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Fatma Begum became the first Indian woman to produce and direct her own film with Bulbul-e-Paristan in 1926; this is a dated production-history fact, not a general claim about equality in the industry.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 131.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 64.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 454,
+      "markdown_body_line_end": 458,
+      "heading": "VISUAL FIRST",
+      "preview": "WOMEN BEHIND THE CAMERA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 587.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 486,
+      "markdown_body_line_end": 503,
+      "heading": "CLOSING RECALL FLOW - CORE - WOMEN BEHIND THE CAMERA",
+      "preview": "START / CONCEPT: CORE — Women behind the camera",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 230
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 304.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 83.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 514,
+      "markdown_body_line_end": 514,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Talkie and recorded song Qualified use: Explain how sound reshaped markets and performance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 655.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 529,
+      "markdown_body_line_end": 533,
+      "heading": "VISUAL FIRST",
+      "preview": "SOUND TRANSFORMS CINEMA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 474.624
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 433.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 561,
+      "markdown_body_line_end": 578,
+      "heading": "CLOSING RECALL FLOW - CORE - SOUND TRANSFORMS CINEMA",
+      "preview": "START / CONCEPT: CORE — Sound transforms cinema",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 136
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 596.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 589,
+      "markdown_body_line_end": 589,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Colour-film firewall Qualified use: Defeat the 1933 versus 1937 trap.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 489.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 437.224
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 604,
+      "markdown_body_line_end": 608,
+      "heading": "VISUAL FIRST",
+      "preview": "THE COLOUR-FILM CLOSE OPTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 636,
+      "markdown_body_line_end": 653,
+      "heading": "CLOSING RECALL FLOW - CORE - THE COLOUR-FILM CLOSE OPTION",
+      "preview": "START / CONCEPT: CORE — The colour-film close option",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 176
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 252.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 664,
+      "markdown_body_line_end": 664,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Parallel cinema Qualified use: Compare form, theme and circulation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 159.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 107.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 679,
+      "markdown_body_line_end": 683,
+      "heading": "VISUAL FIRST",
+      "preview": "PARALLEL AND COMMERCIAL CINEMA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 679.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 638.091
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 711,
+      "markdown_body_line_end": 728,
+      "heading": "CLOSING RECALL FLOW - CORE - PARALLEL AND COMMERCIAL CINEMA",
+      "preview": "START / CONCEPT: CORE — Parallel and commercial cinema",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 146
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 326.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 125.691
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 739,
+      "markdown_body_line_end": 739,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Representation is bounded evidence Qualified use: Use gender and class evidence cautiously.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 655.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 754,
+      "markdown_body_line_end": 758,
+      "heading": "VISUAL FIRST",
+      "preview": "REPRESENTATION AND SOCIAL EVIDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 474.624
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 433.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 786,
+      "markdown_body_line_end": 803,
+      "heading": "CLOSING RECALL FLOW - CORE - REPRESENTATION AND SOCIAL EVIDENCE",
+      "preview": "START / CONCEPT: CORE — Representation and social evidence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 211
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 814,
+      "markdown_body_line_end": 814,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Indian cinema is structured through multiple language markets, regional production, dubbing and administration; it cannot be equated with Hindi-language cinema or Bollywood.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 829,
+      "markdown_body_line_end": 833,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIAN CINEMA AS MANY LANGUAGE MARKETS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 861,
+      "markdown_body_line_end": 878,
+      "heading": "CLOSING RECALL FLOW - CORE - INDIAN CINEMA AS MANY LANGUAGE MARKETS",
+      "preview": "START / CONCEPT: CORE — Indian cinema as many language markets",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 202
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 449.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 218.091
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 889,
+      "markdown_body_line_end": 889,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Ministry of Information and Broadcasting is the Union policy anchor, the Cinematograph Act, 1952 supplies the certification framework, and CBFC certifies public exhibition rather than judging artistic merit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 904,
+      "markdown_body_line_end": 911,
+      "heading": "VISUAL FIRST",
+      "preview": "CINEMATOGRAPH ACT AND CBFC",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 476.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 940,
+      "markdown_body_line_end": 957,
+      "heading": "CLOSING RECALL FLOW - CORE - CINEMATOGRAPH ACT AND CBFC",
+      "preview": "START / CONCEPT: CORE — Cinematograph Act and CBFC",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 240
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 968,
+      "markdown_body_line_end": 968,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Certification classifies audiences, while censorship modifies or suppresses content; India's formal certification system can have censoring effects through excision and refusal powers, and current appellate or sub-category claims require da",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 321.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 983,
+      "markdown_body_line_end": 987,
+      "heading": "VISUAL FIRST",
+      "preview": "CERTIFICATION AND CENSORSHIP TENSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1015,
+      "markdown_body_line_end": 1032,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - CERTIFICATION AND CENSORSHIP TENSION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Certification and censorship tension",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 286
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 189.691
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1043,
+      "markdown_body_line_end": 1043,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Film preservation was institutionally associated with NFAI from 1964, while the Government's 23 December 2020 decision merged the functions of NFAI, Films Division, DFF and CFSI into NFDC's integrated development architecture.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1058,
+      "markdown_body_line_end": 1065,
+      "heading": "VISUAL FIRST",
+      "preview": "TRAINING, ARCHIVE AND DEVELOPMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 476.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1094,
+      "markdown_body_line_end": 1111,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - TRAINING, ARCHIVE AND DEVELOPMENT",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Training, archive and development",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 255
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1122,
+      "markdown_body_line_end": 1122,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "❌ Do not confuse Sairandhri (1933, first colour, processed in Germany) with Kisan Kanya (1937, first indigenously made colour film). ❌ Do not treat certification as an award, festival selection as a prize, or BAFTA and the Academy Awards as",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 393.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 185.224
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1137,
+      "markdown_body_line_end": 1150,
+      "heading": "VISUAL FIRST",
+      "preview": "AWARDS, PRESERVATION, BOONG AND PYQ BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 616.891
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1180,
+      "markdown_body_line_end": 1184,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Indian Art & Culture | **Tier:** Must-Do (foundation) | **GS Paper:** GS-I + Prelims. **Core area:** Cinema as a modern Indian art form; film language; institutions, certification, preservation, festivals and national/internati",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 685.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1188,
+      "markdown_body_line_end": 1197,
+      "heading": "1. Cinema as a composite art",
+      "preview": "story / literature",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 663.824
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 572.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1203,
+      "markdown_body_line_end": 1211,
+      "heading": "2. Essential vocabulary",
+      "preview": "Term | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Term",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 522.424
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 327.022
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1215,
+      "markdown_body_line_end": 1225,
+      "heading": "3. Indian institutional architecture",
+      "preview": "Institution/law | Core role",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Institution/law",
+          "Core role"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 415.09
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1229,
+      "markdown_body_line_end": 1235,
+      "heading": "4. Award and festival distinctions",
+      "preview": "Recognition | What it is | Do not confuse with",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Recognition",
+          "What it is",
+          "Do not confuse with"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 393.09
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 228.888
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1256,
+      "markdown_body_line_end": 1262,
+      "heading": "7. History of Indian cinema (source-grounded)",
+      "preview": "Phase | ✅ Evidence | Why it matters",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Phase",
+          "✅ Evidence",
+          "Why it matters"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 107.89
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1367,
+      "markdown_body_line_end": 1372,
+      "heading": "11. Answer architecture (10/15/20-mark support)",
+      "preview": "**Core-sufficiency note.** `advanced/15` holds only an analytical matrix and has **no page-level source grounding**, so every factual claim about Indian cinema must come from this Core file. Sections 7-10 above were added for exactly that r",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 515.891
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 420.824
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1376,
+      "markdown_body_line_end": 1384,
+      "heading": "11.1 Directive and demand map",
+      "preview": "If the question says | It is really testing | Do NOT write",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "If the question says",
+          "It is really testing",
+          "Do NOT write"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 125.022
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1413,
+      "markdown_body_line_end": 1417,
+      "heading": "11.3 Mark-scaled structures",
+      "preview": "Marks | Structure",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Marks",
+          "Structure"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 583.891
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 473.29
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1421,
+      "markdown_body_line_end": 1434,
+      "heading": "11.4 Evidence bank A - dated firsts (identification-ready, trap-aware)",
+      "preview": "Claim | ✅ Fact | The trap it defeats",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 12,
+        "headers": [
+          "Claim",
+          "✅ Fact",
+          "The trap it defeats"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 451.29
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 93.888
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1438,
+      "markdown_body_line_end": 1447,
+      "heading": "11.5 Evidence bank B - institutions and instruments, distinguished",
+      "preview": "Instrument | What it does | What it is **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Instrument",
+          "What it does",
+          "What it is **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 492.29
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1451,
+      "markdown_body_line_end": 1458,
+      "heading": "11.5A Evidence bank B+ - film institutions by function, with FTII and the archive",
+      "preview": "**Why this exists.** A hostile review found that this file named the **regulator** (CBFC), the **statute** (Cinematograph Act, 1952), the **awards** and the **festival**, but no **training** institution and no **archive** — so any question ",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 492.29
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 383.022
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1460,
+      "markdown_body_line_end": 1467,
+      "heading": "11.5A Evidence bank B+ - film institutions by function, with FTII and the archive",
+      "preview": "Function | ✅ Institution | ✅ What is verified, and by whom | ⚠️ Status discipline",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Function",
+          "✅ Institution",
+          "✅ What is verified, and by whom",
+          "⚠️ Status discipline"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 383.022
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 204.39
+        }
+      },
+      "pdf_pages": [
+        36,
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1551,
+      "markdown_body_line_end": 1553,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1559,
+      "markdown_body_line_end": 1561,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 676.824
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 558.922
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1567,
+      "markdown_body_line_end": 1567,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 519.722
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 475.054
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1572,
+      "markdown_body_line_end": 1589,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - AWARDS, PRESERVATION, BOONG AND PYQ BOUNDARY",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Awards, preservation, Boong and PYQ boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1329
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 453.054
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 82.054
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2425,
+      "markdown_body_line_end": 2427,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 298.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 217.424
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2433,
+      "markdown_body_line_end": 2435,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 165.824
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 47.922
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2441,
+      "markdown_body_line_end": 2441,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 770.091
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 725.424
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2672,
+      "markdown_body_line_end": 2674,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Indian Art & Culture | **Tier:** Advanced | **GS Paper:** GS-I. **Purpose:** Cinema as cultural memory, regional representation, soft power and a field of preservation/certification debate. *Companion: `basic/15_Indian-Cinema-F",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 182.891
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 124.024
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2682,
+      "markdown_body_line_end": 2689,
+      "heading": "2. Analytical matrix",
+      "preview": "Dimension | Question",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Dimension",
+          "Question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 635.49
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2714,
+      "markdown_body_line_end": 2725,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Composite-art root",
+      "preview": "STORY / LITERATURE -> narrative",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 316.29
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 203.29
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2729,
+      "markdown_body_line_end": 2734,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Film-form grammar",
+      "preview": "CINEMATOGRAPHY -> moving image",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 36
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2738,
+      "markdown_body_line_end": 2743,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Indigenisation timeline",
+      "preview": "1896 -> Bombay exhibition",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2747,
+      "markdown_body_line_end": 2752,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Silent-era circuit",
+      "preview": "SILENT IMAGE -> live instruments",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2756,
+      "markdown_body_line_end": 2761,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Sound-colour sequence",
+      "preview": "1931 -> Alam-Ara talkie",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 38
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2765,
+      "markdown_body_line_end": 2770,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Two-cinema matrix",
+      "preview": "COMMERCIAL -> mass entertainment",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2774,
+      "markdown_body_line_end": 2779,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Representation test",
+      "preview": "WHAT IS SHOWN? -> representation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2783,
+      "markdown_body_line_end": 2788,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Multilingual field",
+      "preview": "LANGUAGE MARKET -> production",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 292.691
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2792,
+      "markdown_body_line_end": 2797,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Regulatory chain",
+      "preview": "CINEMATOGRAPH ACT -> statutory frame",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 38
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2801,
+      "markdown_body_line_end": 2812,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Institution function map",
+      "preview": "FTII -> training",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2816,
+      "markdown_body_line_end": 2827,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Recognition firewall",
+      "preview": "CERTIFICATE -> exhibition status",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 465.491
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2831,
+      "markdown_body_line_end": 2836,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Cinema answer spine",
+      "preview": "FORM -> camera, sound and editing",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 443.491
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 391.691
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    }
+  ]
+}

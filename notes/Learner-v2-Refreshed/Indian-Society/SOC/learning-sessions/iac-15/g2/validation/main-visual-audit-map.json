@@ -1,0 +1,2018 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g2\\indian-society-15_Complete-Learning-Session_2026-09-02.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g2\\indian-society-15_Complete-Learning-Session_2026-09-02.pdf",
+  "mode": "main",
+  "topic_key": "indian-society-15",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Secularism - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-02. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 741.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 28,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 541.89
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 52,
+      "markdown_body_line_end": 52,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g2\\assets\\indian-society-15_Teaching-Navigation_2026-09-02.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 66,
+      "markdown_body_line_end": 66,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Three levels of one word Qualified use: Open a secularism answer by declaring which of the three levels it will occupy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 355.756
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 289.088
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 81,
+      "markdown_body_line_end": 85,
+      "heading": "VISUAL FIRST",
+      "preview": "THREE LEVELS OF ONE WORD",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 124
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 113,
+      "markdown_body_line_end": 130,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THREE LEVELS OF ONE WORD",
+      "preview": "START / CONCEPT: FOUNDATION — Three levels of one word",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 179
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 410.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 199.691
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 141,
+      "markdown_body_line_end": 141,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Normative doctrine against descriptive outcome Qualified use: Protect an answer from the commonest evidentiary error on this topic.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 703.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 156,
+      "markdown_body_line_end": 160,
+      "heading": "VISUAL FIRST",
+      "preview": "NORMATIVE DOCTRINE AGAINST DESCRIPTIVE OUTCOME",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 105
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 508.424
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 457.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 188,
+      "markdown_body_line_end": 205,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - NORMATIVE DOCTRINE AGAINST DESCRIPTIVE OUTCOME",
+      "preview": "START / CONCEPT: FOUNDATION — Normative doctrine against descriptive outcome",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 351
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 216,
+      "markdown_body_line_end": 216,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Lived secularism is everyday social coexistence across religious lines through shared public space, syncretic practice and common civic participation, and it complements rather than displaces constitutional rights and institutional neutrali",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 411.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 330.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 231,
+      "markdown_body_line_end": 235,
+      "heading": "VISUAL FIRST",
+      "preview": "LIVED SECULARISM DEFINED",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 263,
+      "markdown_body_line_end": 280,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - LIVED SECULARISM DEFINED",
+      "preview": "START / CONCEPT: FOUNDATION — Lived secularism defined",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 272
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 189.691
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 291,
+      "markdown_body_line_end": 291,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Syncretism is a historical social form and equal public space is observed in practice more than in law.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 306,
+      "markdown_body_line_end": 313,
+      "heading": "VISUAL FIRST",
+      "preview": "SYNCRETISM AND EQUAL PUBLIC SPACE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 115
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 576.224
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 495.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 342,
+      "markdown_body_line_end": 359,
+      "heading": "CLOSING RECALL FLOW - CORE - SYNCRETISM AND EQUAL PUBLIC SPACE",
+      "preview": "START / CONCEPT: CORE — Syncretism and equal public space",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 294
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 370,
+      "markdown_body_line_end": 370,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Shared civic and economic life in schools, workplaces and elections functioning across religious lines is the third lived-practice indicator alongside syncretism and equal public space, and it is what makes coexistence routine rather than c",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 431.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 350.424
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 385,
+      "markdown_body_line_end": 389,
+      "heading": "VISUAL FIRST",
+      "preview": "SHARED CIVIC AND ECONOMIC LIFE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 108
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 417,
+      "markdown_body_line_end": 434,
+      "heading": "CLOSING RECALL FLOW - CORE - SHARED CIVIC AND ECONOMIC LIFE",
+      "preview": "START / CONCEPT: CORE — Shared civic and economic life",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 279
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 410.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 179.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 445,
+      "markdown_body_line_end": 445,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sarva-dharma-sama-bhava, the principle of equal respect for all faiths, is commonly cited as the civilisational and social basis of Indian secularism and is distinct from the Western model of separation between church and state.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 460,
+      "markdown_body_line_end": 467,
+      "heading": "VISUAL FIRST",
+      "preview": "EQUAL RESPECT AND THE IDEAL-TYPE COMPARISON",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 101
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 466.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 496,
+      "markdown_body_line_end": 513,
+      "heading": "CLOSING RECALL FLOW - CORE - EQUAL RESPECT AND THE IDEAL-TYPE COMPARISON",
+      "preview": "START / CONCEPT: CORE — Equal respect and the ideal-type comparison",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 309
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 524,
+      "markdown_body_line_end": 524,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Assimilation absorbs difference into a dominant norm while pluralism enables equal participation with difference retained, so tolerance, assimilation and pluralism must never be used as synonyms in an answer that is asked to justify one of ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 401.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 320.424
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 539,
+      "markdown_body_line_end": 546,
+      "heading": "VISUAL FIRST",
+      "preview": "TOLERANCE, ASSIMILATION AND PLURALISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 575,
+      "markdown_body_line_end": 592,
+      "heading": "CLOSING RECALL FLOW - CORE - TOLERANCE, ASSIMILATION AND PLURALISM",
+      "preview": "START / CONCEPT: CORE — Tolerance, assimilation and pluralism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 274
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 345.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 104.091
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 603,
+      "markdown_body_line_end": 603,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A cultural or social practice challenges secularism when it operates as an exclusion or coercion mechanism in shared space rather than merely because it is religious, so the analysis must name the mechanism and the rights response instead o",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 618,
+      "markdown_body_line_end": 622,
+      "heading": "VISUAL FIRST",
+      "preview": "WHEN A PRACTICE CHALLENGES SECULARISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 343.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 650,
+      "markdown_body_line_end": 667,
+      "heading": "CLOSING RECALL FLOW - CORE - WHEN A PRACTICE CHALLENGES SECULARISM",
+      "preview": "START / CONCEPT: CORE — When a practice challenges secularism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 290
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 678,
+      "markdown_body_line_end": 678,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "As a social rather than purely legal question, the Uniform Civil Code debate asks how substantive gender equality, community autonomy, genuine consultation and practical access are balanced in personal law covering marriage, divorce, inheri",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 388.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 307.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 693,
+      "markdown_body_line_end": 697,
+      "heading": "VISUAL FIRST",
+      "preview": "THE UNIFORM CIVIL CODE AS A SOCIAL DEBATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 725,
+      "markdown_body_line_end": 742,
+      "heading": "CLOSING RECALL FLOW - CORE - THE UNIFORM CIVIL CODE AS A SOCIAL DEBATE",
+      "preview": "START / CONCEPT: CORE — The Uniform Civil Code as a social debate",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 345
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 179.691
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 753,
+      "markdown_body_line_end": 753,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Substantive against formal equality - Community autonomy and individual rights Qualified use: Build the tension fairly so the conclusion is reasoned rather than partisan.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 768,
+      "markdown_body_line_end": 775,
+      "heading": "VISUAL FIRST",
+      "preview": "TWO EQUALITIES AND TWO RIGHTS CLAIMS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 481.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 804,
+      "markdown_body_line_end": 821,
+      "heading": "CLOSING RECALL FLOW - CORE - TWO EQUALITIES AND TWO RIGHTS CLAIMS",
+      "preview": "START / CONCEPT: CORE — Two equalities and two rights claims",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 374
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 516.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 832,
+      "markdown_body_line_end": 832,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Communities are internally diverse Qualified use: Explain why the process of reform carries as much weight as its content.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 395.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 328.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 847,
+      "markdown_body_line_end": 851,
+      "heading": "VISUAL FIRST",
+      "preview": "INTERNAL DIVERSITY INSIDE EVERY SIDE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 113
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 879,
+      "markdown_body_line_end": 896,
+      "heading": "CLOSING RECALL FLOW - CORE - INTERNAL DIVERSITY INSIDE EVERY SIDE",
+      "preview": "START / CONCEPT: CORE — Internal diversity inside every side",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 257
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 424.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 193.891
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 907,
+      "markdown_body_line_end": 907,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Uniform Civil Code, Uttarakhand, 2024 has been in force since 27 January 2025 together with its Rules, 2025, and the 2026 amendment was reported as an ordinance, so it may not be called an Amendment Act in the absence of an official ena",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 922,
+      "markdown_body_line_end": 926,
+      "heading": "VISUAL FIRST",
+      "preview": "THE UTTARAKHAND CODE AND ITS EXACT STATUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 113
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 482.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 954,
+      "markdown_body_line_end": 971,
+      "heading": "CLOSING RECALL FLOW - CORE - THE UTTARAKHAND CODE AND ITS EXACT STATUS",
+      "preview": "START / CONCEPT: CORE — The Uttarakhand code and its exact status",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 279
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 982,
+      "markdown_body_line_end": 982,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Enactment against implementation - First and only claims need qualification Qualified use: Keep a current example from being over-read in either direction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 335.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 997,
+      "markdown_body_line_end": 1004,
+      "heading": "VISUAL FIRST",
+      "preview": "ENACTMENT, IMPLEMENTATION AND COMPARISON CLAIMS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 110
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1033,
+      "markdown_body_line_end": 1050,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - ENACTMENT, IMPLEMENTATION AND COMPARISON CLAIMS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Enactment, implementation and comparison claims",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 315
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 293.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 42.691
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1061,
+      "markdown_body_line_end": 1061,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Places of Worship (Special Provisions) Act, 1991 is referenced here only as a lived-coexistence and stability test case, with its Section 4 freeze as on 15 August 1947 and its statutory exceptions treated fully in the Communalism owner ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1076,
+      "markdown_body_line_end": 1080,
+      "heading": "VISUAL FIRST",
+      "preview": "THE 1991 ACT AS A COEXISTENCE TEST",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 133
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1108,
+      "markdown_body_line_end": 1125,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - THE 1991 ACT AS A COEXISTENCE TEST",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — The 1991 Act as a coexistence test",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 335
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 489.891
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1136,
+      "markdown_body_line_end": 1136,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Verified direct Mains demands and one support role Qualified use: Assemble the secularism answer spine with honest question ownership.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 350.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 283.424
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1151,
+      "markdown_body_line_end": 1155,
+      "heading": "VISUAL FIRST",
+      "preview": "QUESTION OWNERSHIP AND THE ANSWER SPINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 114
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1182,
+      "markdown_body_line_end": 1191,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Indian Society | **Tier:** Must-Do (foundation) | **GS Paper:** GS-I; brief cross-link to Polity (constitutional doctrine) and Philosophy (political-philosophy theory). **Core area:** Lived secularism as social practice — syncr",
+      "metadata": {
+        "line_count": 10
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 361.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 224.024
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1195,
+      "markdown_body_line_end": 1215,
+      "heading": "1. Visual foundation",
+      "preview": "SECULARISM AS LIVED SOCIAL PRACTICE",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1224,
+      "markdown_body_line_end": 1230,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 507.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 242.49
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1341,
+      "markdown_body_line_end": 1345,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Indian secularism has lived, constitutional and institutional dimensions. Syncretism and equal public space complement rights and state neutrality; UCC and places-of-worship questions require a dated, rights-sensitive ana",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 328.491
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 255.424
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1369,
+      "markdown_body_line_end": 1371,
+      "heading": "13. Answer architecture (10/15/20-mark support)",
+      "preview": "**Core-only.** This is a society owner: it explains lived coexistence, pluralism and the social trade-off around reform. Constitutional doctrine and thinkers remain expressly cross-linked rather than copied.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 730.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 663.824
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1375,
+      "markdown_body_line_end": 1381,
+      "heading": "13.1 Directive-to-structure map",
+      "preview": "Demand family | What is tested | Structure that scores",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Demand family",
+          "What is tested",
+          "Structure that scores"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 641.824
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 421.622
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1444,
+      "markdown_body_line_end": 1449,
+      "heading": "13.6 Direct Mains demands this Core file must answer alone",
+      "preview": "Year · Paper · Q | Demand | Core route",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Year · Paper · Q",
+          "Demand",
+          "Core route"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 429.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 319.89
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1451,
+      "markdown_body_line_end": 1452,
+      "heading": "13.6 Direct Mains demands this Core file must answer alone",
+      "preview": "**Routing correction:** Core routing supersedes old `advanced/15` pointers. Comparative constitutional doctrine and political philosophy remain explicit cross-owner support.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 319.89
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 275.222
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1456,
+      "markdown_body_line_end": 1473,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - QUESTION OWNERSHIP AND THE ANSWER SPINE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Question ownership and the answer spine",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 298
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2333,
+      "markdown_body_line_end": 2334,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 119.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 52.624
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2340,
+      "markdown_body_line_end": 2345,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 768.891
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 484.49
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2354,
+      "markdown_body_line_end": 2354,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 393.69
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 349.022
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2693,
+      "markdown_body_line_end": 2701,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Indian Society | **Tier:** Advanced | **GS Paper:** GS-I; brief cross-link to Polity and Philosophy. **Core area:** The substantive-equality-versus-community-autonomy causal architecture of the UCC debate, and the Places of Wor",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 664.624
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2705,
+      "markdown_body_line_end": 2730,
+      "heading": "1. Architecture",
+      "preview": "LIVED SECULARISM (social practice level)",
+      "metadata": {
+        "language": "text",
+        "line_count": 24,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 642.624
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 391.624
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2740,
+      "markdown_body_line_end": 2746,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 231.09
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2915,
+      "markdown_body_line_end": 2916,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 225.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 158.624
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2922,
+      "markdown_body_line_end": 2927,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 518.89
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2936,
+      "markdown_body_line_end": 2936,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 428.09
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 383.422
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2983,
+      "markdown_body_line_end": 2989,
+      "heading": "Secularism: ANSWER-WRITING SPINE",
+      "preview": "DEFINE THE SOCIAL UNIT -> STATE THE BOUNDARY RULE AND WHO IS INCLUDED",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 505.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 444.291
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2999,
+      "markdown_body_line_end": 3008,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Three levels card",
+      "preview": "SOCIETY LEVEL -> lived practice, syncretism, equal public space, shared civic life",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3012,
+      "markdown_body_line_end": 3017,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Evidence direction",
+      "preview": "NORMATIVE -> what the state must do, stated by constitutional doctrine",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3021,
+      "markdown_body_line_end": 3026,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Lived-practice indicators",
+      "preview": "SYNCRETISM -> shared shrines, Sufi and Bhakti idioms, common regional festivals",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 598.891
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 547.091
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3030,
+      "markdown_body_line_end": 3035,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Two models as ideal types",
+      "preview": "WESTERN IDEAL TYPE -> separation between church and state",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 525.091
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3039,
+      "markdown_body_line_end": 3044,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Three responses to difference",
+      "preview": "TOLERANCE -> difference is permitted by withholding interference",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 399.491
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3048,
+      "markdown_body_line_end": 3053,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Practice test",
+      "preview": "STEP ONE -> name the practice and the shared space it operates in",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 377.491
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 325.691
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3057,
+      "markdown_body_line_end": 3062,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Two equalities",
+      "preview": "FORMAL EQUALITY -> identical rules applied regardless of religion",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 303.691
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 251.891
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3066,
+      "markdown_body_line_end": 3071,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Autonomy and individual rights",
+      "preview": "COMMUNITY AUTONOMY -> the group governs its own family-law affairs",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3075,
+      "markdown_body_line_end": 3080,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Internal diversity",
+      "preview": "NOT ONE VOICE -> women differ by class, region, education and household",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3084,
+      "markdown_body_line_end": 3092,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Uttarakhand status card",
+      "preview": "CODE -> Uniform Civil Code, Uttarakhand, 2024, in force from 27 January 2025",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3096,
+      "markdown_body_line_end": 3105,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Four evidentiary questions",
+      "preview": "ENACTMENT -> established by the code and its commencement date",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 442.691
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3109,
+      "markdown_body_line_end": 3114,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Secularism answer spine",
+      "preview": "OPEN -> name the level and define the concept the demand actually uses",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 368.891
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    }
+  ]
+}
