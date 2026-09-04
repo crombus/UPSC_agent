@@ -1,0 +1,2101 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g2\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g2\\international-relations-09_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "international-relations-09",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Indian Diaspora, Consular Protection and Soft Power - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 33,
+      "markdown_body_line_end": 43,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 498.29
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 75,
+      "markdown_body_line_end": 75,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g2\\assets\\international-relations-09_Teaching-Navigation_2026-09-03.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 336.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 784.89
+        }
+      },
+      "pdf_pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 89,
+      "markdown_body_line_end": 89,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: What this diaspora owner holds and how its boundaries are routed Qualified use: Open a diaspora demand by fixing ownership so the answer does not drift into another owner's evidence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 583.29
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 516.622
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 104,
+      "markdown_body_line_end": 108,
+      "heading": "VISUAL FIRST",
+      "preview": "WHAT THIS DIASPORA OWNER HOLDS AND HOW ITS BOUNDARIES ARE ROUTED",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 169
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 321.822
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 270.822
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 136,
+      "markdown_body_line_end": 153,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - WHAT THIS DIASPORA OWNER HOLDS AND HOW ITS BOUNDARIES ARE ROUTED",
+      "preview": "START / CONCEPT: FOUNDATION — What this diaspora owner holds and how its boundaries are routed",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1019
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 407.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 66.491
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 164,
+      "markdown_body_line_end": 164,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The diaspora categories and the exact status of every figure Qualified use: Secure the definitional and numerical marks that most diaspora answers concede in the first paragraph.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 179,
+      "markdown_body_line_end": 183,
+      "heading": "VISUAL FIRST",
+      "preview": "FOUR CATEGORIES AND THE EXACT STATUS OF EVERY NUMBER",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 131
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 362.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 211,
+      "markdown_body_line_end": 228,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - FOUR CATEGORIES AND THE EXACT STATUS OF EVERY NUMBER",
+      "preview": "START / CONCEPT: FOUNDATION — Four categories and the exact status of every number",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 859
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 557.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 256.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 239,
+      "markdown_body_line_end": 239,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The owners state flatly that Overseas Citizen of India status is not dual citizenship but a specific set of rights and benefits for persons of Indian origin who hold foreign citizenship, and they route the precise legal doctrine to the Poli",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 700.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 254,
+      "markdown_body_line_end": 258,
+      "heading": "VISUAL FIRST",
+      "preview": "WHAT OVERSEAS CITIZEN OF INDIA STATUS IS AND IS NOT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 124
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 519.424
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 468.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 286,
+      "markdown_body_line_end": 303,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - WHAT OVERSEAS CITIZEN OF INDIA STATUS IS AND IS NOT",
+      "preview": "START / CONCEPT: FOUNDATION — What Overseas Citizen of India status is and is not",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 598
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 314,
+      "markdown_body_line_end": 314,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Pravasi Bharatiya Divas as the dated convening instrument Qualified use: Replace an undated diaspora-engagement claim with a checkable event and theme.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 356.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 289.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 329,
+      "markdown_body_line_end": 333,
+      "heading": "VISUAL FIRST",
+      "preview": "THE DATED CONVENING INSTRUMENT AND ITS HONEST SILENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 121
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 361,
+      "markdown_body_line_end": 378,
+      "heading": "CLOSING RECALL FLOW - CORE - THE DATED CONVENING INSTRUMENT AND ITS HONEST SILENCE",
+      "preview": "START / CONCEPT: CORE — The dated convening instrument and its honest silence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 662
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 389,
+      "markdown_body_line_end": 389,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The MADAD grievance portal and its successor version - The welfare stack behind the portal Qualified use: Evidence routine consular capacity with named instruments and correctly bounded figures.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 281.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 214.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 404,
+      "markdown_body_line_end": 411,
+      "heading": "VISUAL FIRST",
+      "preview": "THE GRIEVANCE PORTAL AND THE WELFARE STACK BEHIND IT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 133
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 440,
+      "markdown_body_line_end": 457,
+      "heading": "CLOSING RECALL FLOW - CORE - THE GRIEVANCE PORTAL AND THE WELFARE STACK BEHIND IT",
+      "preview": "START / CONCEPT: CORE — The grievance portal and the welfare stack behind it",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 752
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 446.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 468,
+      "markdown_body_line_end": 468,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Protector General of Emigrants is the Ministry of External Affairs authority overseeing emigration clearance and protection of migrant workers, particularly for Emigration-Check-Required categories heading to specified countries, and th",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 249.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 126.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 483,
+      "markdown_body_line_end": 487,
+      "heading": "VISUAL FIRST",
+      "preview": "THE CLEARANCE CATEGORY AS THE LEGAL HINGE OF PROTECTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 113
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 699.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 648.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 515,
+      "markdown_body_line_end": 532,
+      "heading": "CLOSING RECALL FLOW - CORE - THE CLEARANCE CATEGORY AS THE LEGAL HINGE OF PROTECTION",
+      "preview": "START / CONCEPT: CORE — The clearance category as the legal hinge of protection",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 659
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 516.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 543,
+      "markdown_body_line_end": 543,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The United Nations Audiovisual Library of International Law page on the Vienna Convention on Consular Relations, checked live on 2026-09-03, records that the United Nations Conference on Consular Relations was held at Vienna from 4 March to",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 262.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 82.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 558,
+      "markdown_body_line_end": 562,
+      "heading": "VISUAL FIRST",
+      "preview": "THE TREATY FRAME AND THE LIMIT OF ARTICLE 36",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 128
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 661.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 610.891
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 590,
+      "markdown_body_line_end": 607,
+      "heading": "CLOSING RECALL FLOW - CORE - THE TREATY FRAME AND THE LIMIT OF ARTICLE 36",
+      "preview": "START / CONCEPT: CORE — The treaty frame and the limit of Article 36",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1123
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 456.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 618,
+      "markdown_body_line_end": 618,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Consular caseload as a scale indicator - Operation Sindhu and the evacuation-diplomacy boundary Qualified use: Show the operating scale of protection and demonstrate the obligation with one dated operation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 302.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 235.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 633,
+      "markdown_body_line_end": 640,
+      "heading": "VISUAL FIRST",
+      "preview": "CASELOAD, SCALE AND THE HONEST READING OF BOTH",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 114
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 669,
+      "markdown_body_line_end": 686,
+      "heading": "CLOSING RECALL FLOW - CORE - CASELOAD, SCALE AND THE HONEST READING OF BOTH",
+      "preview": "START / CONCEPT: CORE — Caseload, scale and the honest reading of both",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 680
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 456.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 697,
+      "markdown_body_line_end": 697,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Economic Survey 2025-26 records India as the world's largest recipient of remittances, with inflows rising from USD 55.6 billion in the financial year 2011 to USD 135.4 billion provisional in the financial year 2025, about 3.5 per cent ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 259.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 136.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 712,
+      "markdown_body_line_end": 716,
+      "heading": "VISUAL FIRST",
+      "preview": "REMITTANCES AS LINKAGE, NOT AS THE POLITICAL ANSWER",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 699.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 658.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 744,
+      "markdown_body_line_end": 761,
+      "heading": "CLOSING RECALL FLOW - CORE - REMITTANCES AS LINKAGE, NOT AS THE POLITICAL ANSWER",
+      "preview": "START / CONCEPT: CORE — Remittances as linkage, not as the political answer",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 674
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 772,
+      "markdown_body_line_end": 772,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The remittance composition shift and what it changes - The instrument-population mismatch Qualified use: Convert a statistic into a policy-design argument, which is where the analytical marks sit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 281.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 214.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 787,
+      "markdown_body_line_end": 794,
+      "heading": "VISUAL FIRST",
+      "preview": "THE COMPOSITION SHIFT AND THE INSTRUMENT MISMATCH IT EXPOSES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 129
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 823,
+      "markdown_body_line_end": 840,
+      "heading": "CLOSING RECALL FLOW - CORE - THE COMPOSITION SHIFT AND THE INSTRUMENT MISMATCH IT EXPOSES",
+      "preview": "START / CONCEPT: CORE — The composition shift and the instrument mismatch it exposes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 733
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 423.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 851,
+      "markdown_body_line_end": 851,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The soft-power inventory in the source's own terms Qualified use: Give the cultural track a precise vocabulary instead of a general claim of civilisational appeal.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 226.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 160.024
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 866,
+      "markdown_body_line_end": 870,
+      "heading": "VISUAL FIRST",
+      "preview": "THE SOFT-POWER INVENTORY IN THE SOURCE'S OWN TERMS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 127
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 682.691
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 898,
+      "markdown_body_line_end": 915,
+      "heading": "CLOSING RECALL FLOW - CORE - THE SOFT-POWER INVENTORY IN THE SOURCE'S OWN TERMS",
+      "preview": "START / CONCEPT: CORE — The soft-power inventory in the source's own terms",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 646
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 926,
+      "markdown_body_line_end": 926,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Now-Required-Indians as a conditional policy argument Qualified use: Deploy the phrase with its condition attached, which is what distinguishes a read answer from a quoted one.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 309.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 243.024
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 941,
+      "markdown_body_line_end": 945,
+      "heading": "VISUAL FIRST",
+      "preview": "NOW-REQUIRED-INDIANS AS A CONDITIONAL POLICY ARGUMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 127
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 973,
+      "markdown_body_line_end": 990,
+      "heading": "CLOSING RECALL FLOW - CORE - NOW-REQUIRED-INDIANS AS A CONDITIONAL POLICY ARGUMENT",
+      "preview": "START / CONCEPT: CORE — Now-Required-Indians as a conditional policy argument",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 595
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1001,
+      "markdown_body_line_end": 1001,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The institutional-fragmentation critique - Authenticity and self-inflicted soft-power damage Qualified use: Supply the analytical spine for any question asking how India should improve its soft power.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 295.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 228.824
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1016,
+      "markdown_body_line_end": 1023,
+      "heading": "VISUAL FIRST",
+      "preview": "FRAGMENTATION AND AUTHENTICITY AS THE TWO INTERNAL CONSTRAINTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 121
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1052,
+      "markdown_body_line_end": 1069,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - FRAGMENTATION AND AUTHENTICITY AS THE TWO INTERNAL CONSTRAINTS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Fragmentation and authenticity as the two internal constraints",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 693
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 433.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1080,
+      "markdown_body_line_end": 1080,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Technical cooperation as cultural diplomacy and its regional limit Qualified use: Evidence a working instrument while refusing the uniform-effect overstatement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 293.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 226.824
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1095,
+      "markdown_body_line_end": 1099,
+      "heading": "VISUAL FIRST",
+      "preview": "TECHNICAL COOPERATION, ITS CULTURAL ROLE AND ITS REGIONAL LIMIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 117
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1127,
+      "markdown_body_line_end": 1144,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - TECHNICAL COOPERATION, ITS CULTURAL ROLE AND ITS REGIONAL LIMIT",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Technical cooperation, its cultural role and its regional limit",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 809
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1155,
+      "markdown_body_line_end": 1155,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Political influence and the liability side of the same asset - Honest question ownership for this diaspora owner Qualified use: Close the political limb with named evidence and state exactly which demands this owner owns.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 319.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 238.424
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1170,
+      "markdown_body_line_end": 1177,
+      "heading": "VISUAL FIRST",
+      "preview": "POLITICAL INFLUENCE, ITS LIMITS AND HONEST QUESTION OWNERSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 119
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1205,
+      "markdown_body_line_end": 1211,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** International Relations | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II. **Core area:** Diaspora categories; diaspora diplomacy; remittances as context; cultural and knowledge links; consular support. **Grounded in:** Sh",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 557.891
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 434.424
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1215,
+      "markdown_body_line_end": 1245,
+      "heading": "1. Visual foundation",
+      "preview": "INDIAN DIASPORA",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 412.424
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 111.424
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1254,
+      "markdown_body_line_end": 1264,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 46.824
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 613.09
+        }
+      },
+      "pdf_pages": [
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1471,
+      "markdown_body_line_end": 1477,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** India's diaspora and soft-power diplomacy operates on two linked tracks — welfare/consular protection (MADAD, the Protector General of Emigrants) and cultural-soft-power projection (ICCR, ITEC, and the broader Tharoor inv",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 320.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 247.224
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1506,
+      "markdown_body_line_end": 1507,
+      "heading": "11A. Answer architecture (10/15/20-mark support)",
+      "preview": "**Reasoned verdict:** Diaspora is an external-capability multiplier only when India avoids instrumentalising citizens abroad and pairs engagement with credible protection.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 663.691
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 619.024
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1525,
+      "markdown_body_line_end": 1526,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 450.224
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 383.556
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1532,
+      "markdown_body_line_end": 1535,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 331.956
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 172.554
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1542,
+      "markdown_body_line_end": 1542,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 116.154
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 71.487
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1547,
+      "markdown_body_line_end": 1564,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - POLITICAL INFLUENCE, ITS LIMITS AND HONEST QUESTION OWNERSHIP",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Political influence, its limits and honest question ownership",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 822
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 443.291
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2396,
+      "markdown_body_line_end": 2397,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 185.491
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 118.824
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2403,
+      "markdown_body_line_end": 2406,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 109,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 109,
+          "frame_y": 643.89
+        }
+      },
+      "pdf_pages": [
+        109
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2413,
+      "markdown_body_line_end": 2413,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 109,
+          "frame_y": 587.49
+        },
+        "end": {
+          "page": 109,
+          "frame_y": 542.822
+        }
+      },
+      "pdf_pages": [
+        109
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2437,
+      "markdown_body_line_end": 2438,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 109,
+          "frame_y": 251.822
+        },
+        "end": {
+          "page": 109,
+          "frame_y": 185.154
+        }
+      },
+      "pdf_pages": [
+        109
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2444,
+      "markdown_body_line_end": 2447,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 110,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 110,
+          "frame_y": 643.89
+        }
+      },
+      "pdf_pages": [
+        110
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2454,
+      "markdown_body_line_end": 2454,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 110,
+          "frame_y": 587.49
+        },
+        "end": {
+          "page": 110,
+          "frame_y": 542.822
+        }
+      },
+      "pdf_pages": [
+        110
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2739,
+      "markdown_body_line_end": 2747,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** International Relations | **Tier:** Advanced | **GS Paper:** GS-II. **Core area:** Welfare/protection; political sensitivity in host states; evacuation coordination; diaspora as bridge, not foreign-policy instrument alone. **Gr",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 127,
+          "frame_y": 256.491
+        },
+        "end": {
+          "page": 127,
+          "frame_y": 155.024
+        }
+      },
+      "pdf_pages": [
+        127
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2751,
+      "markdown_body_line_end": 2787,
+      "heading": "1. Architecture",
+      "preview": "DIASPORA AS ASSET AND RESPONSIBILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 35,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 128,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 128,
+          "frame_y": 426.291
+        }
+      },
+      "pdf_pages": [
+        128
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2798,
+      "markdown_body_line_end": 2806,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 129,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 129,
+          "frame_y": 132.69
+        }
+      },
+      "pdf_pages": [
+        129
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3034,
+      "markdown_body_line_end": 3035,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 133,
+          "frame_y": 383.891
+        },
+        "end": {
+          "page": 133,
+          "frame_y": 317.224
+        }
+      },
+      "pdf_pages": [
+        133
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3041,
+      "markdown_body_line_end": 3044,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 133,
+          "frame_y": 265.624
+        },
+        "end": {
+          "page": 133,
+          "frame_y": 106.222
+        }
+      },
+      "pdf_pages": [
+        133
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3051,
+      "markdown_body_line_end": 3051,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 134,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 134,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        134
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3106,
+      "markdown_body_line_end": 3113,
+      "heading": "Indian Diaspora, Consular Protection and Soft Power: ANSWER-WRITING SPINE",
+      "preview": "NAME INDIA'S PRECISE INTEREST -> IDENTIFY THE EXTERNAL ACTOR AND ITS OWN INCENTIVE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 138,
+          "frame_y": 470.291
+        },
+        "end": {
+          "page": 138,
+          "frame_y": 399.291
+        }
+      },
+      "pdf_pages": [
+        138
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3123,
+      "markdown_body_line_end": 3133,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Central question and the three faces of one population",
+      "preview": "CENTRAL QUESTION -> is a diaspora an asset, an obligation or a liability?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 139,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 139,
+          "frame_y": 660.491
+        }
+      },
+      "pdf_pages": [
+        139
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3137,
+      "markdown_body_line_end": 3146,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Categories and the population table read correctly",
+      "preview": "MEA TABLE, AS ON JANUARY 2026 -> 35,421,987 overseas Indians",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 139,
+          "frame_y": 638.491
+        },
+        "end": {
+          "page": 139,
+          "frame_y": 545.891
+        }
+      },
+      "pdf_pages": [
+        139
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3150,
+      "markdown_body_line_end": 3160,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Welfare and consular stack, instrument by instrument",
+      "preview": "PRAVASI BHARATIYA DIVAS -> 18th edition, 8-10 January 2025, Bhubaneswar, Odisha",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 139,
+          "frame_y": 523.891
+        },
+        "end": {
+          "page": 139,
+          "frame_y": 421.091
+        }
+      },
+      "pdf_pages": [
+        139
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3164,
+      "markdown_body_line_end": 3174,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: The treaty frame with its dates and its exact limit",
+      "preview": "4 MARCH - 22 APRIL 1963 -> UN Conference on Consular Relations at Vienna;",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 139,
+          "frame_y": 399.091
+        },
+        "end": {
+          "page": 139,
+          "frame_y": 296.291
+        }
+      },
+      "pdf_pages": [
+        139
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3178,
+      "markdown_body_line_end": 3187,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Routine consular work against crisis evacuation",
+      "preview": "ROUTINE -> grievances, documentation, welfare, prisoner and undertrial access",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 140,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 140,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        140
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3191,
+      "markdown_body_line_end": 3199,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Remittance weight and the boundary it must not cross",
+      "preview": "WORLD'S LARGEST RECIPIENT -> Economic Survey 2025-26",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 140,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 140,
+          "frame_y": 590.291
+        }
+      },
+      "pdf_pages": [
+        140
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3203,
+      "markdown_body_line_end": 3211,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Where the money now comes from and why it matters",
+      "preview": "RBI SIXTH SURVEY ON REMITTANCES, FY24 -> advanced economies exceed the GCC",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 140,
+          "frame_y": 568.291
+        },
+        "end": {
+          "page": 140,
+          "frame_y": 485.891
+        }
+      },
+      "pdf_pages": [
+        140
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3215,
+      "markdown_body_line_end": 3223,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: The mismatch between instrument and population",
+      "preview": "PROBLEM -> the protection stack is tied to the ECR clearance category",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 140,
+          "frame_y": 463.891
+        },
+        "end": {
+          "page": 140,
+          "frame_y": 381.491
+        }
+      },
+      "pdf_pages": [
+        140
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3227,
+      "markdown_body_line_end": 3241,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: The soft-power inventory and the training instrument",
+      "preview": "CULTURAL -> Bollywood cinema | books and music | cultural schemes",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 140,
+          "frame_y": 359.491
+        },
+        "end": {
+          "page": 140,
+          "frame_y": 215.891
+        }
+      },
+      "pdf_pages": [
+        140
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3245,
+      "markdown_body_line_end": 3256,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Two internal constraints that outweigh external competition",
+      "preview": "CONSTRAINT 1 -> institutional fragmentation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 141,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 141,
+          "frame_y": 674.291
+        }
+      },
+      "pdf_pages": [
+        141
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3260,
+      "markdown_body_line_end": 3272,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Political access and the same asset as a liability",
+      "preview": "ACCESS -> Kamala Harris, US Vice-President 2021-2025",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 141,
+          "frame_y": 652.291
+        },
+        "end": {
+          "page": 141,
+          "frame_y": 529.091
+        }
+      },
+      "pdf_pages": [
+        141
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3276,
+      "markdown_body_line_end": 3284,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Answer spine for a diaspora or soft-power demand",
+      "preview": "OPEN -> name the category, its stock figure and its exact status in one line",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 141,
+          "frame_y": 507.091
+        },
+        "end": {
+          "page": 141,
+          "frame_y": 424.691
+        }
+      },
+      "pdf_pages": [
+        141
+      ]
+    }
+  ]
+}

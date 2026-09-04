@@ -1,0 +1,2427 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-03\\g2\\international-relations-03_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-03\\g2\\international-relations-03_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "international-relations-03",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "India, China, Major Powers and Resilient Supply Chains - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 28,
+      "markdown_body_line_end": 38,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 554.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 249.09
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 65,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-03\\g2\\assets\\international-relations-03_Teaching-Navigation_2026-09-03.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 315.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 79,
+      "markdown_body_line_end": 79,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: What this owner holds and how its boundaries are routed Qualified use: Open a major-power demand by fixing ownership so the answer does not drift into another owner's evidence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 294.156
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 227.488
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 94,
+      "markdown_body_line_end": 98,
+      "heading": "VISUAL FIRST",
+      "preview": "WHAT THE MAJOR-POWER OWNER HOLDS AND HOW ITS BOUNDARIES ARE ROUTED",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 150
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 126,
+      "markdown_body_line_end": 143,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - WHAT THE MAJOR-POWER OWNER HOLDS AND HOW ITS BOUNDARIES ARE ROUTED",
+      "preview": "START / CONCEPT: FOUNDATION — What the major-power owner holds and how its boundaries are routed",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 380
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 513.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 154,
+      "markdown_body_line_end": 154,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The India-China economic-strategic paradox - Trade-pattern asymmetry as an economic grievance layered on strategic mistrust Qualified use: Separate economic interdependence from strategic trust, which is the commonest scorin",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 302.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 221.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 169,
+      "markdown_body_line_end": 176,
+      "heading": "VISUAL FIRST",
+      "preview": "THE CHINA PARADOX AND THE TRADE-PATTERN ASYMMETRY BENEATH IT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 113
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 205,
+      "markdown_body_line_end": 222,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THE CHINA PARADOX AND THE TRADE-PATTERN ASYMMETRY BENEATH IT",
+      "preview": "START / CONCEPT: FOUNDATION — The China paradox and the trade-pattern asymmetry beneath it",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 694
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 423.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 233,
+      "markdown_body_line_end": 233,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: De-risking against decoupling - Friend-shoring and trusted supply chains as the Western policy logic Qualified use: Use the correct policy term so the answer describes India's actual posture rather than a stronger one.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 212.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 145.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 248,
+      "markdown_body_line_end": 255,
+      "heading": "VISUAL FIRST",
+      "preview": "DE-RISKING AGAINST DECOUPLING AND THE FRIEND-SHORING LOGIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 128
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 716.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 635.491
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 284,
+      "markdown_body_line_end": 301,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - DE-RISKING AGAINST DECOUPLING AND THE FRIEND-SHORING LOGIC",
+      "preview": "START / CONCEPT: FOUNDATION — De-risking against decoupling and the friend-shoring logic",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 749
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 689.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 348.491
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 312,
+      "markdown_body_line_end": 312,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The United States track as technology-led tactical convergence - Technology-access asymmetry as unresolved friction Qualified use: Adopt the vocabulary discipline that keeps the relationship correctly classified throughout t",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 327,
+      "markdown_body_line_end": 334,
+      "heading": "VISUAL FIRST",
+      "preview": "THE UNITED STATES TRACK AS TACTICAL CONVERGENCE WITH UNRESOLVED FRICTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 123
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 466.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 363,
+      "markdown_body_line_end": 380,
+      "heading": "CLOSING RECALL FLOW - CORE - THE UNITED STATES TRACK AS TACTICAL CONVERGENCE WITH UNRESOLVED FRICTION",
+      "preview": "START / CONCEPT: CORE — The United States track as tactical convergence with unresolved friction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 642
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 593.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 272.491
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 391,
+      "markdown_body_line_end": 391,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The initiative on Critical and Emerging Technology and its exact status Qualified use: Cite the dated technology instrument that a supply-chain demand expects, without inflating its legal character.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 118.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 51.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 406,
+      "markdown_body_line_end": 410,
+      "heading": "VISUAL FIRST",
+      "preview": "THE CRITICAL AND EMERGING TECHNOLOGY INITIATIVE AND ITS EXACT STATUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 108
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 563.491
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 438,
+      "markdown_body_line_end": 455,
+      "heading": "CLOSING RECALL FLOW - CORE - THE CRITICAL AND EMERGING TECHNOLOGY INITIATIVE AND ITS EXACT STATUS",
+      "preview": "START / CONCEPT: CORE — The critical and emerging technology initiative and its exact status",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 593
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 493.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 466,
+      "markdown_body_line_end": 466,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Clean-energy supply-chain commitments of September 2024 - TRUST, COMPACT and Mission 500 of February 2025 Qualified use: Add two further dated examples of Western diversification interest without asserting a legal succession",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 282.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 201.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 481,
+      "markdown_body_line_end": 488,
+      "heading": "VISUAL FIRST",
+      "preview": "CLEAN-ENERGY COMMITMENTS AND THE TRUST, COMPACT AND MISSION 500 BRANDING",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 104
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 681.091
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 517,
+      "markdown_body_line_end": 534,
+      "heading": "CLOSING RECALL FLOW - CORE - CLEAN-ENERGY COMMITMENTS AND THE TRUST, COMPACT AND MISSION 500 BRANDING",
+      "preview": "START / CONCEPT: CORE — Clean-energy commitments and the TRUST, COMPACT and Mission 500 branding",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 744
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 433.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 545,
+      "markdown_body_line_end": 545,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The ten-year defence framework of October 2025 and its non-treaty character - The enabling-agreement architecture and what it does not create Qualified use: Evidence defence depth precisely while refusing alliance language t",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 236.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 155.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 560,
+      "markdown_body_line_end": 567,
+      "heading": "VISUAL FIRST",
+      "preview": "THE TEN-YEAR DEFENCE FRAMEWORK AND THE ENABLING-AGREEMENT ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 119
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 716.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 635.491
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 596,
+      "markdown_body_line_end": 613,
+      "heading": "CLOSING RECALL FLOW - CORE - THE TEN-YEAR DEFENCE FRAMEWORK AND THE ENABLING-AGREEMENT ARCHITECTURE",
+      "preview": "START / CONCEPT: CORE — The ten-year defence framework and the enabling-agreement architecture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 561
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 736.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 455.891
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 624,
+      "markdown_body_line_end": 624,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sikri grounds the India-Russia relationship in the observation that India is an energy-deficient country and Russia an energy-surplus one, and records that Russia remains the only foreign military supplier from whom India is able to procure",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 316.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 192.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 639,
+      "markdown_body_line_end": 643,
+      "heading": "VISUAL FIRST",
+      "preview": "RUSSIA AS DEFENCE-ENERGY COMPLEMENTARITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 123
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 711.091
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 671,
+      "markdown_body_line_end": 688,
+      "heading": "CLOSING RECALL FLOW - CORE - RUSSIA AS DEFENCE-ENERGY COMPLEMENTARITY",
+      "preview": "START / CONCEPT: CORE — Russia as defence-energy complementarity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 637
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 699,
+      "markdown_body_line_end": 699,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The Russian installed base, joint production and third-party sanctions exposure Qualified use: Convert a dependence claim into a bounded, evidenced argument instead of a general assertion.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 281.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 214.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 714,
+      "markdown_body_line_end": 718,
+      "heading": "VISUAL FIRST",
+      "preview": "THE INSTALLED BASE, JOINT PRODUCTION AND THIRD-PARTY SANCTIONS EXPOSURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 122
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 746,
+      "markdown_body_line_end": 763,
+      "heading": "CLOSING RECALL FLOW - CORE - THE INSTALLED BASE, JOINT PRODUCTION AND THIRD-PARTY SANCTIONS EXPOSURE",
+      "preview": "START / CONCEPT: CORE — The installed base, joint production and third-party sanctions exposure",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 785
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 774,
+      "markdown_body_line_end": 774,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The twenty-third India-Russia Annual Summit of December 2025 Qualified use: Cite one dated continuity anchor to prove that the Russia track was not sacrificed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 276.691
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 210.024
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 789,
+      "markdown_body_line_end": 793,
+      "heading": "VISUAL FIRST",
+      "preview": "THE TWENTY-THIRD INDIA-RUSSIA ANNUAL SUMMIT AS CONTINUITY EVIDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 109
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 821,
+      "markdown_body_line_end": 838,
+      "heading": "CLOSING RECALL FLOW - CORE - THE TWENTY-THIRD INDIA-RUSSIA ANNUAL SUMMIT AS CONTINUITY EVIDENCE",
+      "preview": "START / CONCEPT: CORE — The twenty-third India-Russia Annual Summit as continuity evidence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 643
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 493.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 849,
+      "markdown_body_line_end": 849,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The India-China border and dialogue architecture as process, not settlement Qualified use: Refuse the settlement reading while still crediting the dated de-escalation and dialogue steps.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 339.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 272.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 864,
+      "markdown_body_line_end": 868,
+      "heading": "VISUAL FIRST",
+      "preview": "THE INDIA-CHINA BORDER AND DIALOGUE ARCHITECTURE AS PROCESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 119
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 896,
+      "markdown_body_line_end": 913,
+      "heading": "CLOSING RECALL FLOW - CORE - THE INDIA-CHINA BORDER AND DIALOGUE ARCHITECTURE AS PROCESS",
+      "preview": "START / CONCEPT: CORE — The India-China border and dialogue architecture as process",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 231
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 924,
+      "markdown_body_line_end": 924,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The United States tariff cycle of 2025-26 as an architecture stress test Qualified use: Supply the decisive counter-evidence to a one-directional fostering reading of Western interest.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 304.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 237.424
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 939,
+      "markdown_body_line_end": 943,
+      "heading": "VISUAL FIRST",
+      "preview": "THE TARIFF CYCLE OF 2025-26 AS AN ARCHITECTURE STRESS TEST",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 109
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 971,
+      "markdown_body_line_end": 988,
+      "heading": "CLOSING RECALL FLOW - CORE - THE TARIFF CYCLE OF 2025-26 AS AN ARCHITECTURE STRESS TEST",
+      "preview": "START / CONCEPT: CORE — The tariff cycle of 2025-26 as an architecture stress test",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1001
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 466.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 999,
+      "markdown_body_line_end": 999,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The Japan pillar as a non-treaty security, infrastructure and technology partner Qualified use: Widen the diversification argument beyond the United States without overstating any single instrument.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 165.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 98.824
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1014,
+      "markdown_body_line_end": 1018,
+      "heading": "VISUAL FIRST",
+      "preview": "THE JAPAN PILLAR AS A NON-TREATY SECURITY, INFRASTRUCTURE AND TECHNOLOGY PARTNER",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 108
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 664.891
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 613.891
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1046,
+      "markdown_body_line_end": 1063,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - THE JAPAN PILLAR AS A NON-TREATY SECURITY, INFRASTRUCTURE AND TECHNOLOGY PARTNER",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — The Japan pillar as a non-treaty security, infrastructure and technology partner",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1115
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 433.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1074,
+      "markdown_body_line_end": 1074,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The European Union pillar and the not-yet-in-force qualification Qualified use: Apply the legal-status discipline in its clearest form inside a live economic-diplomacy example.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 222.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 155.824
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1089,
+      "markdown_body_line_end": 1093,
+      "heading": "VISUAL FIRST",
+      "preview": "THE EUROPEAN UNION PILLAR AND THE NOT-YET-IN-FORCE QUALIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 716.491
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 675.491
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1121,
+      "markdown_body_line_end": 1138,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - THE EUROPEAN UNION PILLAR AND THE NOT-YET-IN-FORCE QUALIFICATION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — The European Union pillar and the not-yet-in-force qualification",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 703
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 483.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1149,
+      "markdown_body_line_end": 1149,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The Ukraine posture, minilateral balancing and honest question ownership Qualified use: Close with the systemic frame, the coordination limit and an explicit ownership boundary.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 187.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 120.624
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1164,
+      "markdown_body_line_end": 1168,
+      "heading": "VISUAL FIRST",
+      "preview": "UKRAINE POSTURE, MINILATERAL BALANCING AND HONEST QUESTION OWNERSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 117
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 682.091
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 631.091
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1195,
+      "markdown_body_line_end": 1202,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** International Relations | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II. **Core area:** India's relationships with the US, China, Russia, the EU and Japan; supply-chain resilience and critical/emerging technologies. **Gr",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 752.891
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 629.424
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1206,
+      "markdown_body_line_end": 1231,
+      "heading": "1. Visual foundation",
+      "preview": "MAJOR-POWER RELATIONSHIPS",
+      "metadata": {
+        "language": "text",
+        "line_count": 24,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 607.424
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 356.424
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1242,
+      "markdown_body_line_end": 1250,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 267.09
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1538,
+      "markdown_body_line_end": 1544,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** India manages structurally different major-power relationships — economic interdependence with strategic mistrust toward China, technology-led tactical convergence with the US, and defence-energy complementarity with Russ",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 641.691
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 568.624
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1576,
+      "markdown_body_line_end": 1578,
+      "heading": "Direct Mains demands owned by Core",
+      "preview": "**Reasoned verdict:** India's major-power policy is successful when diversified partnerships expand capability without converting any one dependence into a veto over national choices.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 219.224
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 174.556
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1594,
+      "markdown_body_line_end": 1596,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 752.691
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 671.824
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1602,
+      "markdown_body_line_end": 1604,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 620.224
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 523.322
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1610,
+      "markdown_body_line_end": 1610,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 484.122
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 439.454
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1617,
+      "markdown_body_line_end": 1618,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 439.454
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 372.787
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1624,
+      "markdown_body_line_end": 1626,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 321.187
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 245.285
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1632,
+      "markdown_body_line_end": 1632,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 206.085
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 161.417
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1639,
+      "markdown_body_line_end": 1641,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** Th",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 161.417
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 66.35
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1647,
+      "markdown_body_line_end": 1652,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 768.891
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 505.49
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1661,
+      "markdown_body_line_end": 1661,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 414.69
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 370.022
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1666,
+      "markdown_body_line_end": 1683,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - UKRAINE POSTURE, MINILATERAL BALANCING AND HONEST QUESTION OWNERSHIP",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Ukraine posture, minilateral balancing and honest question ownership",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1406
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 393.291
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2542,
+      "markdown_body_line_end": 2544,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 235.491
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 154.624
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2550,
+      "markdown_body_line_end": 2552,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 706.39
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2558,
+      "markdown_body_line_end": 2558,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 667.19
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 622.522
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2565,
+      "markdown_body_line_end": 2566,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 622.522
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 555.854
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2572,
+      "markdown_body_line_end": 2574,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 504.254
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 428.353
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2580,
+      "markdown_body_line_end": 2580,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 389.153
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 344.485
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2587,
+      "markdown_body_line_end": 2589,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** Th",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 344.485
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 249.417
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2595,
+      "markdown_body_line_end": 2600,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 539.89
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2609,
+      "markdown_body_line_end": 2609,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 449.09
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 404.422
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2633,
+      "markdown_body_line_end": 2634,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 157.822
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 91.154
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2640,
+      "markdown_body_line_end": 2644,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 114,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 114,
+          "frame_y": 581.39
+        }
+      },
+      "pdf_pages": [
+        114
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2652,
+      "markdown_body_line_end": 2652,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 114,
+          "frame_y": 507.79
+        },
+        "end": {
+          "page": 114,
+          "frame_y": 463.122
+        }
+      },
+      "pdf_pages": [
+        114
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2990,
+      "markdown_body_line_end": 2997,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** International Relations | **Tier:** Advanced | **GS Paper:** GS-II. **Core area:** Competition/cooperation with major powers; de-risking versus decoupling; strategic-technology dependence; minilateral balancing. **Grounded in:*",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 135,
+          "frame_y": 722.691
+        },
+        "end": {
+          "page": 135,
+          "frame_y": 621.224
+        }
+      },
+      "pdf_pages": [
+        135
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3001,
+      "markdown_body_line_end": 3031,
+      "heading": "1. Architecture",
+      "preview": "THREE STRUCTURALLY DIFFERENT MAJOR-POWER TIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 135,
+          "frame_y": 599.224
+        },
+        "end": {
+          "page": 135,
+          "frame_y": 298.224
+        }
+      },
+      "pdf_pages": [
+        135
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3041,
+      "markdown_body_line_end": 3048,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 136,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 136,
+          "frame_y": 400.29
+        }
+      },
+      "pdf_pages": [
+        136
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3299,
+      "markdown_body_line_end": 3300,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 140,
+          "frame_y": 399.091
+        },
+        "end": {
+          "page": 140,
+          "frame_y": 332.424
+        }
+      },
+      "pdf_pages": [
+        140
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3306,
+      "markdown_body_line_end": 3310,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 140,
+          "frame_y": 280.824
+        },
+        "end": {
+          "page": 140,
+          "frame_y": 58.922
+        }
+      },
+      "pdf_pages": [
+        140
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3318,
+      "markdown_body_line_end": 3318,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 141,
+          "frame_y": 735.691
+        },
+        "end": {
+          "page": 141,
+          "frame_y": 691.024
+        }
+      },
+      "pdf_pages": [
+        141
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3370,
+      "markdown_body_line_end": 3377,
+      "heading": "India, China, Major Powers and Resilient Supply Chains: ANSWER-WRITING SPINE",
+      "preview": "NAME INDIA'S PRECISE INTEREST -> IDENTIFY THE EXTERNAL ACTOR AND ITS OWN INCENTIVE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 145,
+          "frame_y": 592.891
+        },
+        "end": {
+          "page": 145,
+          "frame_y": 521.891
+        }
+      },
+      "pdf_pages": [
+        145
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3387,
+      "markdown_body_line_end": 3396,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Three structurally different major-power ties",
+      "preview": "CHINA -> interdependence plus mistrust; largest trade partner in the book-period",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 145,
+          "frame_y": 317.291
+        },
+        "end": {
+          "page": 145,
+          "frame_y": 224.691
+        }
+      },
+      "pdf_pages": [
+        145
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3400,
+      "markdown_body_line_end": 3405,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Policy-term discipline",
+      "preview": "DE-RISKING -> reduce overconcentration while sustaining engagement; India's posture",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 146,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 146,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        146
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3409,
+      "markdown_body_line_end": 3416,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: India-United States technology timeline",
+      "preview": "MAY 2022 -> initiative on Critical and Emerging Technology announced",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 146,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 146,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        146
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3420,
+      "markdown_body_line_end": 3427,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Defence architecture ladder",
+      "preview": "2016 -> India designated a Major Defence Partner by the United States",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 146,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 146,
+          "frame_y": 547.091
+        }
+      },
+      "pdf_pages": [
+        146
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3431,
+      "markdown_body_line_end": 3438,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Russia track evidence card",
+      "preview": "COMPLEMENTARITY -> India energy-deficient, Russia energy-surplus",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 146,
+          "frame_y": 525.091
+        },
+        "end": {
+          "page": 146,
+          "frame_y": 452.891
+        }
+      },
+      "pdf_pages": [
+        146
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3442,
+      "markdown_body_line_end": 3450,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: India-China process architecture",
+      "preview": "21 OCTOBER 2024 -> patrolling arrangements announced; specified as Depsang and Demchok",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 146,
+          "frame_y": 430.891
+        },
+        "end": {
+          "page": 146,
+          "frame_y": 348.491
+        }
+      },
+      "pdf_pages": [
+        146
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3454,
+      "markdown_body_line_end": 3460,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Designated border-trade points",
+      "preview": "LIPULEKH -> existing designated point provided for in the reopening arrangement",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 146,
+          "frame_y": 326.491
+        },
+        "end": {
+          "page": 146,
+          "frame_y": 264.491
+        }
+      },
+      "pdf_pages": [
+        146
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3464,
+      "markdown_body_line_end": 3472,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Tariff cycle stress test",
+      "preview": "7 AUGUST 2025 -> 25 per cent India-specific reciprocal duty, Executive Order 14326",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 147,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 147,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        147
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3476,
+      "markdown_body_line_end": 3483,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Japan diversification pillar",
+      "preview": "2014 -> elevated to a Special Strategic and Global Partnership",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 147,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 147,
+          "frame_y": 610.691
+        }
+      },
+      "pdf_pages": [
+        147
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3487,
+      "markdown_body_line_end": 3494,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: European Union pillar and legal status",
+      "preview": "CHANNEL -> Trade and Technology Council for technology, green transition and standards",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 147,
+          "frame_y": 588.691
+        },
+        "end": {
+          "page": 147,
+          "frame_y": 516.491
+        }
+      },
+      "pdf_pages": [
+        147
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3498,
+      "markdown_body_line_end": 3506,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Ukraine engine and minilateral balancing",
+      "preview": "PRINCIPLES -> dialogue and diplomacy; sovereignty and territorial integrity invoked",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 147,
+          "frame_y": 494.491
+        },
+        "end": {
+          "page": 147,
+          "frame_y": 412.091
+        }
+      },
+      "pdf_pages": [
+        147
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3510,
+      "markdown_body_line_end": 3515,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Answer spine for a major-power demand",
+      "preview": "OPEN -> state the structural difference between the China, United States and Russia ties",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 147,
+          "frame_y": 390.091
+        },
+        "end": {
+          "page": 147,
+          "frame_y": 338.291
+        }
+      },
+      "pdf_pages": [
+        147
+      ]
+    }
+  ]
+}

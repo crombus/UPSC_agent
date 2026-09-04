@@ -1,0 +1,38 @@
+topic=international-relations-10
+renderer=carvaka-continuous-at-a-glance-graphical-v2
+renderer_version=2.0
+generated=2026-09-03T12:27:49.074643+05:30
+approved=false
+reference_master_sha256=c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62
+master_dimensions_px=4800x12906
+master_dpi_metadata=300x300
+poster_dimensions_points=2834.64x7621.64
+poster_pages=1
+tiled_pages=5
+same_master_identity=PASS
+tile_overlap_min_px=816
+preview_count=5
+contact_sheet_count=1
+core_stage_count=12
+total_card_count=13
+layout_diversity=6:columns,dialectic,hierarchy,matrix,synthesis,timeline
+header_legend_status=PASS
+continuous_numbered_rail=PASS
+final_synthesis_before_extra=PASS
+extra_visually_subordinate=PASS
+core_before_extra=PASS
+answer_grabbing_lines=PASS
+pill_count_and_colour_diversity=PASS
+internal_2_to_4_column_structure=PASS
+overflow_clipping_edge_contact=PASS
+replacement_glyph_check=PASS
+poster_exact_master_embedding=PASS
+tiled_exact_master_crops=PASS
+reference_byte_preservation=PASS
+tile_coordinates=
+  page-001: y=0..3234; overlap=0; from=00; continues=03
+  page-002: y=2418..5652; overlap=816; from=02; continues=05
+  page-003: y=4836..8070; overlap=816; from=04; continues=07
+  page-004: y=7254..10488; overlap=816; from=07; continues=10
+  page-005: y=9672..12906; overlap=816; from=09; continues=E
+errors=none

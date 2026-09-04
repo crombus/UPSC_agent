@@ -1,0 +1,1254 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "international-relations-09",
+  "subject": "International-Relations",
+  "title": "INDIAN DIASPORA, CONSULAR PROTECTION AND SOFT POWER",
+  "short_route": "CENTRAL QUESTION AND THE → CATEGORIES AND THE POPULATION → WELFARE AND CONSULAR STACK → THE TREATY FRAME WITH → ROUTINE CONSULAR WORK AGAINST → REMITTANCE WEIGHT AND THE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g4\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\international-relations-09-deep-review-2026-09-03-g4.json",
+  "ascii_spec_sha256": "0a2a6b598041decc4796dd9a31546004833121d0707c934e5af344840c3e2fb3",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CENTRAL QUESTION AND THE THREE FACES OF ONE POPULATION",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "CENTRAL QUESTION AND THE THREE FACES OF ONE POPULATION",
+          "role": "primary"
+        },
+        {
+          "text": "IS A DIASPORA AN ASSET, AN OBLIGATION OR A",
+          "role": "outcome"
+        },
+        {
+          "text": "ALL THREE AT ONCE, WHICH IS WHY THE TRACKS",
+          "role": "comparison"
+        },
+        {
+          "text": "TRACK 1",
+          "role": "evidence"
+        },
+        {
+          "text": "WELFARE AND CONSULAR PROTECTION",
+          "role": "primary"
+        },
+        {
+          "text": "A STANDING STATE OBLIGATION",
+          "role": "institution"
+        },
+        {
+          "text": "TRACK 2",
+          "role": "comparison"
+        },
+        {
+          "text": "SOFT POWER AND CULTURAL PROJECTION",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "CENTRAL QUESTION → is a diaspora an asset, an obligation or a liability?",
+        "ANSWER → all three at once, which is why the tracks must be separated",
+        "TRACK 1 → WELFARE AND CONSULAR PROTECTION: a standing state obligation",
+        "TRACK 2 → SOFT POWER AND CULTURAL PROJECTION: an influence asset",
+        "TRACK 3 → HOST-COUNTRY POLITICS: access, advocacy and friction together"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "CENTRAL QUESTION → is a diaspora an asset, an obligation or a liability?",
+            "ANSWER → all three at once, which is why the tracks must be separated",
+            "TRACK 1 → WELFARE AND CONSULAR PROTECTION: a standing state obligation"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRACK 2 → SOFT POWER AND CULTURAL PROJECTION: an influence asset",
+            "TRACK 3 → HOST-COUNTRY POLITICS: access, advocacy and friction together",
+            "FRAME → two-way bridge, expressly not a foreign-policy lever to be directed"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → OCI doctrine to Polity; remittance mechanics to Economy",
+            "relief logistics to Disaster Management; Gulf exposure to topic 06",
+            "MUST REMEMBER: Diaspora and consular policy joins citizenship status, migration channels,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Diaspora and consular policy joins citizenship status, migration channels,.",
+      "source_references": [
+        "What this diaspora owner holds and how its boundaries are routed",
+        "Political influence and the liability side of the same asset",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g2\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g3\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g4\\international-relations-09_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CATEGORIES AND THE POPULATION TABLE READ CORRECTLY",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CATEGORIES AND THE POPULATION TABLE READ CORRECTLY",
+          "role": "primary"
+        },
+        {
+          "text": "MEA TABLE, AS ON JANUARY 2026",
+          "role": "outcome"
+        },
+        {
+          "text": "35,421,987 OVERSEAS INDIANS",
+          "role": "comparison"
+        },
+        {
+          "text": "NRIS (INDIAN CITIZENS RESIDENT ABROAD)",
+          "role": "evidence"
+        },
+        {
+          "text": "PIOS (FOREIGN NATIONALS OF INDIAN ORIGIN)",
+          "role": "primary"
+        },
+        {
+          "text": "TOP HOSTS",
+          "role": "outcome"
+        },
+        {
+          "text": "UNITED STATES 6,079,221",
+          "role": "comparison"
+        },
+        {
+          "text": "UNITED ARAB EMIRATES 4,344,008",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MEA TABLE, AS ON JANUARY 2026 → 35,421,987 overseas Indians",
+        "NRIs (Indian citizens resident abroad) → 19,571,375",
+        "PIOs (foreign nationals of Indian origin) → 15,850,612",
+        "TOP HOSTS → United States 6,079,221",
+        "United Arab Emirates 4,344,008"
+      ],
+      "matrix": [
+        [
+          "TOP HOSTS → United States 6,079,221",
+          "United Arab Emirates 4,344,008"
+        ],
+        [
+          "Malaysia 2,902,370",
+          "Saudi Arabia 2,750,551"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "MEA TABLE, AS ON JANUARY 2026 → 35,421,987 overseas Indians",
+            "NRIs (Indian citizens resident abroad) → 19,571,375",
+            "PIOs (foreign nationals of Indian origin) → 15,850,612",
+            "TOP HOSTS → United States 6,079,221"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "United Arab Emirates 4,344,008",
+            "Malaysia 2,902,370",
+            "Saudi Arabia 2,750,551",
+            "STATUS → population-stock estimates only"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "NOT → a count of Indian citizens abroad; not a count of OCI cards issued",
+            "OCI → rights and benefits for foreign nationals of Indian origin, not dual citizenship"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OCI → rights and benefits for foreign nationals of Indian origin, not dual citizenship.",
+      "source_references": [
+        "The diaspora categories and the exact status of every figure",
+        "Overseas Citizen of India status and the citizenship boundary",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g2\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g3\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g4\\international-relations-09_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "WELFARE AND CONSULAR STACK, INSTRUMENT BY INSTRUMENT",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WELFARE AND CONSULAR STACK, INSTRUMENT BY INSTRUMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PRAVASI BHARATIYA DIVAS",
+          "role": "outcome"
+        },
+        {
+          "text": "18TH EDITION, 8-10 JANUARY 2025, BHUBANESWAR, ODISHA THEME",
+          "role": "comparison"
+        },
+        {
+          "text": "DIASPORA'S CONTRIBUTION TO A VIKSIT BHARAT; NO 19TH EDITION",
+          "role": "caution"
+        },
+        {
+          "text": "LAUNCHED 21 FEBRUARY 2015; MADAD 2.0 LAUNCHED DECEMBER 2025",
+          "role": "primary"
+        },
+        {
+          "text": "EMERGENCY MEDICAL CARE, AIR PASSAGE AND LEGAL AID E-MIGRATE",
+          "role": "outcome"
+        },
+        {
+          "text": "REGISTERS AND CLEARS ECR WORKERS; ROUTES GRIEVANCES TO MADAD",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPULSORY ECR INSURANCE; TEN LAKH RUPEES ACCIDENTAL-DEATH COVER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRAVASI BHARATIYA DIVAS → 18th edition, 8-10 January 2025, Bhubaneswar, Odisha theme: Diaspora's Contribution to",
+        "no 19th edition recorded",
+        "MADAD → launched 21 February 2015; MADAD 2.0 launched December 2025, linked with e-Migrate and",
+        "ICWF → emergency medical care, air passage and legal aid e-MIGRATE → registers and clears",
+        "PBBY → compulsory ECR insurance; ten lakh rupees accidental-death cover"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DATED OFFICIAL INSTRUMENT",
+          "role": "evidence",
+          "items": [
+            "PRAVASI BHARATIYA DIVAS → 18th edition, 8-10 January 2025, Bhubaneswar, Odisha theme: Diaspora's Contribution to a Viksit Bharat",
+            "no 19th edition recorded",
+            "MADAD → launched 21 February 2015; MADAD 2.0 launched December 2025, linked with e-Migrate and the Pravasi Bharatiya Sahayata Kendras"
+          ]
+        },
+        {
+          "heading": "EVIDENTIARY LEVEL IT REACHES",
+          "role": "mechanism",
+          "items": [
+            "ICWF → emergency medical care, air passage and legal aid e-MIGRATE → registers and clears ECR workers; routes grievances to MADAD",
+            "PBBY → compulsory ECR insurance; ten lakh rupees accidental-death cover",
+            "8,536,398 beneficiaries and 2,222 claims settled through October 2025"
+          ]
+        },
+        {
+          "heading": "STATUS / CLAIM LIMIT",
+          "role": "caution",
+          "items": [
+            "PROTECTOR GENERAL OF EMIGRANTS → emigration clearance and worker protection"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PROTECTOR GENERAL OF EMIGRANTS → emigration clearance and worker protection.",
+      "source_references": [
+        "Pravasi Bharatiya Divas as the dated convening instrument",
+        "The MADAD grievance portal and its successor version",
+        "The welfare stack behind the portal",
+        "The Protector General of Emigrants and the clearance category",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g2\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g3\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g4\\international-relations-09_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "THE TREATY FRAME WITH ITS DATES AND ITS EXACT LIMIT",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THE TREATY FRAME WITH ITS DATES AND ITS EXACT",
+          "role": "primary"
+        },
+        {
+          "text": "4 MARCH - 22 APRIL 1963",
+          "role": "outcome"
+        },
+        {
+          "text": "UN CONFERENCE ON CONSULAR RELATIONS AT VIENNA",
+          "role": "comparison"
+        },
+        {
+          "text": "ATTENDED BY DELEGATES OF NINETY-FIVE STATES",
+          "role": "evidence"
+        },
+        {
+          "text": "24 APRIL 1963",
+          "role": "primary"
+        },
+        {
+          "text": "CONVENTION ADOPTED AND OPENED FOR SIGNATURE, TOGETHER WITH THE",
+          "role": "outcome"
+        },
+        {
+          "text": "OPTIONAL PROTOCOL CONCERNING ACQUISITION OF NATIONALITY AND THE OPTIONAL",
+          "role": "comparison"
+        },
+        {
+          "text": "PROTOCOL CONCERNING THE COMPULSORY SETTLEMENT OF DISPUTES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "4 MARCH - 22 APRIL 1963 → UN Conference on Consular Relations at Vienna",
+        "attended by delegates of ninety-five States",
+        "24 APRIL 1963 → Convention adopted and opened for signature, together with the",
+        "Optional Protocol concerning Acquisition of Nationality and the Optional",
+        "Protocol concerning the Compulsory Settlement of Disputes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DATED OFFICIAL INSTRUMENT",
+          "role": "evidence",
+          "items": [
+            "4 MARCH - 22 APRIL 1963 → UN Conference on Consular Relations at Vienna",
+            "attended by delegates of ninety-five States",
+            "24 APRIL 1963 → Convention adopted and opened for signature, together with the"
+          ]
+        },
+        {
+          "heading": "EVIDENTIARY LEVEL IT REACHES",
+          "role": "mechanism",
+          "items": [
+            "Optional Protocol concerning Acquisition of Nationality and the Optional",
+            "Protocol concerning the Compulsory Settlement of Disputes",
+            "19 MARCH 1967 → the Convention and both Optional Protocols come into force"
+          ]
+        },
+        {
+          "heading": "STATUS / CLAIM LIMIT",
+          "role": "caution",
+          "items": [
+            "STRUCTURE → 79 articles",
+            "ARTICLE 36 → consular notification and effective access on arrest or detention",
+            "LIMIT → a reciprocal procedural safeguard, not a power to override host law"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → a reciprocal procedural safeguard, not a power to override host law.",
+      "source_references": [
+        "The consular treaty frame and what Article 36 actually guarantees",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g2\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g3\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g4\\international-relations-09_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ROUTINE CONSULAR WORK AGAINST CRISIS EVACUATION",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ROUTINE CONSULAR WORK AGAINST CRISIS EVACUATION",
+          "role": "primary"
+        },
+        {
+          "text": "GRIEVANCES, DOCUMENTATION, WELFARE, PRISONER AND UNDERTRIAL ACCESS",
+          "role": "outcome"
+        },
+        {
+          "text": "10,152 INDIAN PRISONERS AND UNDERTRIALS ABROAD, LOK SABHA ANSWER",
+          "role": "comparison"
+        },
+        {
+          "text": "HOST-GOVERNMENT NEGOTIATION, AIR ACCESS, CONSULAR READINESS",
+          "role": "evidence"
+        },
+        {
+          "text": "WORKED EXAMPLE",
+          "role": "primary"
+        },
+        {
+          "text": "OPERATION SINDHU, 4,415 NATIONALS EVACUATED BY 27 JUNE 2025",
+          "role": "outcome"
+        },
+        {
+          "text": "3,597 FROM IRAN AND 818 FROM ISRAEL",
+          "role": "comparison"
+        },
+        {
+          "text": "OWNED HERE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROUTINE → grievances, documentation, welfare, prisoner and undertrial access",
+        "SCALE: 10,152 Indian prisoners and undertrials abroad, Lok Sabha answer dated 28 March 2025; a",
+        "CRISIS → host-government negotiation, air access, consular readiness",
+        "WORKED EXAMPLE: Operation Sindhu, 4,415 nationals evacuated by 27 June 2025",
+        "3,597 from Iran and 818 from Israel"
+      ],
+      "matrix": [
+        [
+          "ACTOR / INTEREST",
+          "DECISIVE DISTINCTION",
+          "STATUS TRAP / LIMIT"
+        ],
+        [
+          "ROUTINE → grievances, documentation, welfare, prisoner and undertrial access",
+          "WORKED EXAMPLE: Operation Sindhu, 4,415 nationals evacuated by 27 June 2025",
+          "OWNED ELSEWHERE → the relief and logistics cycle, by Disaster Management"
+        ],
+        [
+          "SCALE: 10,152 Indian prisoners and undertrials abroad, Lok Sabha answer dated 28 March 2025; a workload measure, never a wrongdoing measure",
+          "3,597 from Iran and 818 from Israel",
+          ""
+        ],
+        [
+          "CRISIS → host-government negotiation, air access, consular readiness",
+          "OWNED HERE → the diplomacy that makes an evacuation possible",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "ROUTINE → grievances, documentation, welfare, prisoner and undertrial access",
+            "SCALE: 10,152 Indian prisoners and undertrials abroad, Lok Sabha answer dated 28 March 2025; a workload measure, never a wrongdoing measure",
+            "CRISIS → host-government negotiation, air access, consular readiness"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "WORKED EXAMPLE: Operation Sindhu, 4,415 nationals evacuated by 27 June 2025",
+            "3,597 from Iran and 818 from Israel",
+            "OWNED HERE → the diplomacy that makes an evacuation possible"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "OWNED ELSEWHERE → the relief and logistics cycle, by Disaster Management"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OWNED ELSEWHERE → the relief and logistics cycle, by Disaster Management.",
+      "source_references": [
+        "Consular caseload as a scale indicator",
+        "Operation Sindhu and the evacuation-diplomacy boundary",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g2\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g3\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g4\\international-relations-09_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "REMITTANCE WEIGHT AND THE BOUNDARY IT MUST NOT CROSS",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REMITTANCE WEIGHT AND THE BOUNDARY IT MUST NOT CROSS",
+          "role": "caution"
+        },
+        {
+          "text": "WORLD'S LARGEST RECIPIENT",
+          "role": "outcome"
+        },
+        {
+          "text": "ECONOMIC SURVEY 2025-26",
+          "role": "comparison"
+        },
+        {
+          "text": "USD 55.6 BILLION",
+          "role": "evidence"
+        },
+        {
+          "text": "USD 135.4 BILLION PROVISIONAL, ABOUT 3.5 PER CENT OF",
+          "role": "primary"
+        },
+        {
+          "text": "H1 FY26",
+          "role": "outcome"
+        },
+        {
+          "text": "USD 73 BILLION AGAINST USD 64.7 BILLION A YEAR",
+          "role": "comparison"
+        },
+        {
+          "text": "OWNED BY ECONOMY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WORLD'S LARGEST RECIPIENT → Economic Survey 2025-26",
+        "FY11 → USD 55.6 billion",
+        "FY25 → USD 135.4 billion provisional, about 3.5 per cent of GDP",
+        "H1 FY26 → USD 73 billion against USD 64.7 billion a year earlier",
+        "OWNED BY ECONOMY → the macroeconomic mechanics of these flows"
+      ],
+      "matrix": [
+        [
+          "ACTOR / INTEREST",
+          "DECISIVE DISTINCTION",
+          "STATUS TRAP / LIMIT"
+        ],
+        [
+          "WORLD'S LARGEST RECIPIENT → Economic Survey 2025-26",
+          "H1 FY26 → USD 73 billion against USD 64.7 billion a year earlier",
+          "RULE → never answer a political-influence question with a remittance number"
+        ],
+        [
+          "FY11 → USD 55.6 billion",
+          "OWNED BY ECONOMY → the macroeconomic mechanics of these flows",
+          ""
+        ],
+        [
+          "FY25 → USD 135.4 billion provisional, about 3.5 per cent of GDP",
+          "OWNED HERE → the diplomatic and cultural bridge the flows accompany",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "WORLD'S LARGEST RECIPIENT → Economic Survey 2025-26",
+            "FY11 → USD 55.6 billion",
+            "FY25 → USD 135.4 billion provisional, about 3.5 per cent of GDP"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "H1 FY26 → USD 73 billion against USD 64.7 billion a year earlier",
+            "OWNED BY ECONOMY → the macroeconomic mechanics of these flows",
+            "OWNED HERE → the diplomatic and cultural bridge the flows accompany"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → never answer a political-influence question with a remittance number"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → never answer a political-influence question with a remittance number.",
+      "source_references": [
+        "Remittances as a diplomatic linkage and the Economy boundary",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g2\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g3\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g4\\international-relations-09_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "WHERE THE MONEY NOW COMES FROM AND WHY IT MATTERS",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "WHERE THE MONEY NOW COMES FROM AND WHY IT",
+          "role": "primary"
+        },
+        {
+          "text": "RBI SIXTH SURVEY ON REMITTANCES, FY24",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED ECONOMIES EXCEED THE GCC",
+          "role": "comparison"
+        },
+        {
+          "text": "UNITED STATES 27.7%",
+          "role": "evidence"
+        },
+        {
+          "text": "UNITED ARAB EMIRATES 19.2%",
+          "role": "primary"
+        },
+        {
+          "text": "UNITED KINGDOM 10.8%",
+          "role": "outcome"
+        },
+        {
+          "text": "SINGAPORE 6.6%",
+          "role": "comparison"
+        },
+        {
+          "text": "THE CENTRE OF GRAVITY SHIFTS FROM LOW-SKILLED GULF LABOUR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RBI SIXTH SURVEY ON REMITTANCES, FY24 → advanced economies exceed the GCC",
+        "United States 27.7%",
+        "United Arab Emirates 19.2%",
+        "United Kingdom 10.8%",
+        "Singapore 6.6%"
+      ],
+      "matrix": [
+        [
+          "United States 27.7%",
+          "United Arab Emirates 19.2%"
+        ],
+        [
+          "United Kingdom 10.8%",
+          "Singapore 6.6%"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "RBI SIXTH SURVEY ON REMITTANCES, FY24 → advanced economies exceed the GCC",
+            "United States 27.7%",
+            "United Arab Emirates 19.2%"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "United Kingdom 10.8%",
+            "Singapore 6.6%",
+            "MEANING → the centre of gravity shifts from low-skilled Gulf labour towards skilled professional migration to advanced economies"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONSEQUENCE → different host relationships now carry the consular weight",
+            "CONSEQUENCE → different instruments are needed, not simply more of the same"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONSEQUENCE → different instruments are needed, not simply more of the same.",
+      "source_references": [
+        "The remittance composition shift and what it changes",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g2\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g3\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g4\\international-relations-09_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "THE MISMATCH BETWEEN INSTRUMENT AND POPULATION",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "THE MISMATCH BETWEEN INSTRUMENT AND POPULATION",
+          "role": "primary"
+        },
+        {
+          "text": "THE PROTECTION STACK IS TIED TO THE ECR CLEARANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "IT WORKS WELL FOR LOW-WAGE GULF MIGRATION AND REACHES",
+          "role": "comparison"
+        },
+        {
+          "text": "THE FASTEST-GROWING SEGMENT IS SKILLED MIGRATION TO ADVANCED ECONOMIES",
+          "role": "evidence"
+        },
+        {
+          "text": "ITS CONSTRAINTS ARE VISA REGIMES, SOCIAL-SECURITY PORTABILITY AND PROFESSIONAL",
+          "role": "primary"
+        },
+        {
+          "text": "A DESIGN GAP, EXPRESSLY NOT A FUNDING SHORTFALL",
+          "role": "caution"
+        },
+        {
+          "text": "MATCH THE INSTRUMENT TO THE SEGMENT BEFORE ADDING CAPACITY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PROBLEM → the protection stack is tied to the ECR clearance category",
+        "RESPONSE: it works well for low-wage Gulf migration and reaches that group",
+        "PROBLEM → the fastest-growing segment is skilled migration to advanced economies",
+        "RESPONSE: its constraints are visa regimes, social-security portability and professional qualification recognition, none of which",
+        "DIAGNOSIS → a design gap, expressly not a funding shortfall"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DATED OFFICIAL INSTRUMENT",
+          "role": "evidence",
+          "items": [
+            "PROBLEM → the protection stack is tied to the ECR clearance category",
+            "RESPONSE: it works well for low-wage Gulf migration and reaches that group"
+          ]
+        },
+        {
+          "heading": "EVIDENTIARY LEVEL IT REACHES",
+          "role": "mechanism",
+          "items": [
+            "PROBLEM → the fastest-growing segment is skilled migration to advanced economies",
+            "RESPONSE: its constraints are visa regimes, social-security portability and professional qualification recognition, none of which clearance touches"
+          ]
+        },
+        {
+          "heading": "STATUS / CLAIM LIMIT",
+          "role": "caution",
+          "items": [
+            "DIAGNOSIS → a design gap, expressly not a funding shortfall",
+            "PRESCRIPTION → match the instrument to the segment before adding capacity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "its constraints are visa regimes, social-security portability and professional qualification recognition, none of which clearance touches.",
+      "source_references": [
+        "The instrument-population mismatch",
+        "The Protector General of Emigrants and the clearance category",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g2\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g3\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g4\\international-relations-09_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "THE SOFT-POWER INVENTORY AND THE TRAINING INSTRUMENT",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THE SOFT-POWER INVENTORY AND THE TRAINING INSTRUMENT",
+          "role": "mechanism"
+        },
+        {
+          "text": "BOLLYWOOD CINEMA",
+          "role": "outcome"
+        },
+        {
+          "text": "BOOKS AND MUSIC",
+          "role": "comparison"
+        },
+        {
+          "text": "CULTURAL SCHEMES",
+          "role": "evidence"
+        },
+        {
+          "text": "EDUCATIONAL OPPORTUNITIES",
+          "role": "primary"
+        },
+        {
+          "text": "HEALTH CARE",
+          "role": "outcome"
+        },
+        {
+          "text": "SPORTING EXCHANGES",
+          "role": "comparison"
+        },
+        {
+          "text": "THE TRANSFORMED IMAGE OF THE COUNTRY CREATED BY ITS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CULTURAL → Bollywood cinema",
+        "books and music",
+        "cultural schemes",
+        "KNOWLEDGE → educational opportunities",
+        "health care"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DATED OFFICIAL INSTRUMENT",
+          "role": "evidence",
+          "items": [
+            "CULTURAL → Bollywood cinema",
+            "books and music",
+            "cultural schemes",
+            "KNOWLEDGE → educational opportunities",
+            "health care"
+          ]
+        },
+        {
+          "heading": "EVIDENTIARY LEVEL IT REACHES",
+          "role": "mechanism",
+          "items": [
+            "WELLNESS → Ayurveda",
+            "PEOPLE → sporting exchanges",
+            "IMAGE → the transformed image of the country created by its thriving diaspora",
+            "INSTITUTIONS → Indian Council for Cultural Relations; public diplomacy division",
+            "ITEC (Economic Survey 2025-26) → more than two lakh persons trained from over one hundred and sixty countries, civilian and defence sectors"
+          ]
+        },
+        {
+          "heading": "STATUS / CLAIM LIMIT",
+          "role": "caution",
+          "items": [
+            "an important tool of cultural diplomacy, especially the South Asian region",
+            "LIMIT → the cultural-diplomacy effect is not uniform across all partner countries",
+            "DO NOT CONFUSE → ITEC is training cooperation with partner governments, while",
+            "Pravasi Bharatiya Divas is a diaspora-recognition convening event",
+            "RULE → evidence soft power through this inventory, never through vague appeal"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → evidence soft power through this inventory, never through vague appeal.",
+      "source_references": [
+        "The soft-power inventory in the source's own terms",
+        "Technical cooperation as cultural diplomacy and its regional limit",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g2\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g3\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g4\\international-relations-09_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "TWO INTERNAL CONSTRAINTS THAT OUTWEIGH EXTERNAL COMPETITION",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TWO INTERNAL CONSTRAINTS THAT OUTWEIGH EXTERNAL COMPETITION",
+          "role": "primary"
+        },
+        {
+          "text": "CONSTRAINT 1",
+          "role": "outcome"
+        },
+        {
+          "text": "INSTITUTIONAL FRAGMENTATION PROMOTION LEFT SOLELY TO ICCR AND THE",
+          "role": "comparison"
+        },
+        {
+          "text": "PROPOSED REMEDY",
+          "role": "evidence"
+        },
+        {
+          "text": "MAKE IT INTEGRAL TO THE SUBSTANTIVE TERRITORIAL DIVISIONS",
+          "role": "primary"
+        },
+        {
+          "text": "A DOCUMENTED PROPOSAL, EXPRESSLY NOT AN IMPLEMENTED REFORM",
+          "role": "caution"
+        },
+        {
+          "text": "CONSTRAINT 2",
+          "role": "comparison"
+        },
+        {
+          "text": "AUTHENTICITY A NARROW OR RESTRICTED VERSION OF INDIANNESS DOES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONSTRAINT 1 → institutional fragmentation promotion left solely to ICCR and the public diplomacy division",
+        "proposed remedy: make it integral to the substantive territorial divisions",
+        "STATUS: a documented proposal, expressly not an implemented reform",
+        "CONSTRAINT 2 → authenticity a narrow or restricted version of Indianness does not project soft",
+        "it must reflect multi-religious identities and linguistic diversity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "CONSTRAINT 1 → institutional fragmentation promotion left solely to ICCR and the public diplomacy division",
+            "proposed remedy: make it integral to the substantive territorial divisions",
+            "STATUS: a documented proposal, expressly not an implemented reform"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONSTRAINT 2 → authenticity a narrow or restricted version of Indianness does not project soft power",
+            "it must reflect multi-religious identities and linguistic diversity",
+            "ASYMMETRY: one domestic incident can undo cumulative external investment"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "POLICY ARGUMENT → Now-Required-Indians, conditional on a channelling policy",
+            "CLOSE DISTINCTION: Indian citizen, Overseas Citizen of India cardholder, Person of Indian..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Indian citizen, Overseas Citizen of India cardholder, Person of Indian.",
+      "source_references": [
+        "The institutional-fragmentation critique",
+        "Authenticity and self-inflicted soft-power damage",
+        "Now-Required-Indians as a conditional policy argument",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g2\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g3\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g4\\international-relations-09_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "POLITICAL ACCESS AND THE SAME ASSET AS A LIABILITY",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "POLITICAL ACCESS AND THE SAME ASSET AS A LIABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "KAMALA HARRIS, US VICE-PRESIDENT 2021-2025",
+          "role": "outcome"
+        },
+        {
+          "text": "RISHI SUNAK, UK PRIME MINISTER 2022-2024",
+          "role": "comparison"
+        },
+        {
+          "text": "119TH CONGRESS",
+          "role": "evidence"
+        },
+        {
+          "text": "SIX INDIAN-AMERICAN MEMBERS OF THE HOUSE",
+          "role": "primary"
+        },
+        {
+          "text": "NETWORKS AND COALITIONS, NOT VOTES ALONE; SCHOLARSHIP ON THE",
+          "role": "caution"
+        },
+        {
+          "text": "2005-2008 INDIA-US CIVIL-NUCLEAR INITIATIVE RECORDS ORGANISATIONAL ADVOCACY",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFICE-HOLDERS ACT UNDER HOST-COUNTRY MANDATES, NOT AS AGENTS OF",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ACCESS → Kamala Harris, US Vice-President 2021-2025",
+        "Rishi Sunak, UK Prime Minister 2022-2024",
+        "119th Congress: six Indian-American members of the House",
+        "MECHANISM → networks and coalitions, not votes alone; scholarship on the",
+        "2005-2008 India-US civil-nuclear initiative records organisational advocacy"
+      ],
+      "matrix": [
+        [
+          "ACTOR / INTEREST",
+          "DECISIVE DISTINCTION",
+          "STATUS TRAP / LIMIT"
+        ],
+        [
+          "ACCESS → Kamala Harris, US Vice-President 2021-2025",
+          "2005-2008 India-US civil-nuclear initiative records organisational advocacy",
+          "DISCIPLINE → separate allegation, charge, plea and final judicial finding"
+        ],
+        [
+          "Rishi Sunak, UK Prime Minister 2022-2024",
+          "LIMIT → office-holders act under host-country mandates, not as agents of India",
+          "EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Use the Vienna Convention on Consular..."
+        ],
+        [
+          "119th Congress: six Indian-American members of the House",
+          "LIMIT → party, constituency and committee incentives outweigh ancestry",
+          ""
+        ],
+        [
+          "MECHANISM → networks and coalitions, not votes alone; scholarship on the",
+          "LIABILITY → diaspora-linked separatism or a security dispute converts a community connection into a sovereignty and law-enforcement problem",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "ACCESS → Kamala Harris, US Vice-President 2021-2025",
+            "Rishi Sunak, UK Prime Minister 2022-2024",
+            "119th Congress: six Indian-American members of the House",
+            "MECHANISM → networks and coalitions, not votes alone; scholarship on the"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "2005-2008 India-US civil-nuclear initiative records organisational advocacy",
+            "LIMIT → office-holders act under host-country mandates, not as agents of India",
+            "LIMIT → party, constituency and committee incentives outweigh ancestry",
+            "LIABILITY → diaspora-linked separatism or a security dispute converts a community connection into a sovereignty and law-enforcement problem"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "DISCIPLINE → separate allegation, charge, plea and final judicial finding",
+            "EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Use the Vienna Convention on Consular..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Use the Vienna Convention on Consular.",
+      "source_references": [
+        "Political influence and the liability side of the same asset",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g2\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g3\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g4\\international-relations-09_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANSWER SPINE FOR A DIASPORA OR SOFT-POWER DEMAND",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER SPINE FOR A DIASPORA OR SOFT-POWER DEMAND",
+          "role": "mechanism"
+        },
+        {
+          "text": "NAME THE CATEGORY, ITS STOCK FIGURE AND ITS EXACT",
+          "role": "outcome"
+        },
+        {
+          "text": "WELFARE AND CONSULAR PROTECTION AGAINST CULTURAL SOFT-POWER PROJECTION",
+          "role": "mechanism"
+        },
+        {
+          "text": "TREATY FRAME, WELFARE STACK, ONE DATED EVACUATION, REMITTANCE SHIFT",
+          "role": "evidence"
+        },
+        {
+          "text": "ACCESS AND ADVOCACY WITH THE HOST-COUNTRY MANDATE LIMIT ATTACHED",
+          "role": "caution"
+        },
+        {
+          "text": "FRAGMENTATION, AUTHENTICITY AND THE INSTRUMENT-POPULATION MISMATCH",
+          "role": "outcome"
+        },
+        {
+          "text": "THE 2020 COMMENT AND 2023 DESCRIBE DEMANDS ARE THE",
+          "role": "comparison"
+        },
+        {
+          "text": "BRIDGE RATHER THAN LEVER; PREDICT NO HOST-COUNTRY POLITICAL OUTCOME",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "OPEN → name the category, its stock figure and its exact status in one line",
+        "SPLIT → welfare and consular protection against cultural soft-power projection",
+        "EVIDENCE → treaty frame, welfare stack, one dated evacuation, remittance shift",
+        "POLITICS → access and advocacy with the host-country mandate limit attached",
+        "DIAGNOSE → fragmentation, authenticity and the instrument-population mismatch"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "OPEN → name the category, its stock figure and its exact status in one line",
+            "SPLIT → welfare and consular protection against cultural soft-power projection",
+            "EVIDENCE → treaty frame, welfare stack, one dated evacuation, remittance shift"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POLITICS → access and advocacy with the host-country mandate limit attached",
+            "DIAGNOSE → fragmentation, authenticity and the instrument-population mismatch",
+            "OWNERSHIP → the 2020 Comment and 2023 Describe demands are the routed questions"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "CLOSE → bridge rather than lever; predict no host-country political outcome"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE → treaty frame, welfare stack, one dated evacuation, remittance shift.",
+      "source_references": [
+        "Honest question ownership for this diaspora owner",
+        "The instrument-population mismatch",
+        "upsc-ai-kit\\knowledge\\International-Relations\\basic\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+        "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g2\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g3\\international-relations-09_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-09\\g4\\international-relations-09_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE TRADITIONAL CULTURAL-DIPLOMACY INSTITUTION; THAROOR'S",
+          "role": "institution"
+        },
+        {
+          "text": "PRAVASI BHARATIYA DIVAS (18TH EDITION, 8-10 JANUARY 2025)",
+          "role": "comparison"
+        },
+        {
+          "text": "THE CURRENT",
+          "role": "evidence"
+        },
+        {
+          "text": "MADAD AND THE PROTECTOR GENERAL OF EMIGRANTS",
+          "role": "primary"
+        },
+        {
+          "text": "THE WELFARE/PROTECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "PER THE ECONOMIC SURVEY 2025-26, A TECHNICAL-COOPERATION",
+          "role": "comparison"
+        },
+        {
+          "text": "TERRITORIAL-DIVISION MAINSTREAMING (THAROOR'S PROPOSED REFORM)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE AND INSTRUMENT DEPTH",
+          "role": "evidence",
+          "items": [
+            "ICCR: the traditional cultural-diplomacy institution; Tharoor's",
+            "Pravasi Bharatiya Divas (18th edition, 8-10 January 2025): the current",
+            "CAUTION: MADAD and the Protector General of Emigrants: the welfare/protection",
+            "ITEC: per the Economic Survey 2025-26, a technical-cooperation"
+          ]
+        },
+        {
+          "heading": "STATUS, DATE AND FIGURE LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION: Territorial-division mainstreaming (Tharoor's proposed reform): an",
+            "CAUTION: Boundary case — diaspora political mobilisation in a host state:",
+            "CAUTION: Boundary case — remittances versus diplomatic bridge role: the",
+            "CAUTION: Boundary case — evacuation diplomacy versus consular routine: routine"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE DIPLOMATIC NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Boundary case — authenticity as a two-way requirement: Tharoor's",
+            "CAUTION: Institutional fragmentation is a persistent, not easily resolved,",
+            "CAUTION: Diaspora mobilisation carries host-state political risk: encouraging",
+            "CAUTION: Authenticity failures have asymmetric impact: a single domestic"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

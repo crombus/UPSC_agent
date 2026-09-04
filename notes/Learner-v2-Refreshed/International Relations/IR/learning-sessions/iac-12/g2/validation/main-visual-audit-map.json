@@ -1,0 +1,2457 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\international-relations-12_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "international-relations-12",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "UN and International Institutions: Global Governance - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 36,
+      "markdown_body_line_end": 46,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 406.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 101.69
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 81,
+      "markdown_body_line_end": 81,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-12\\g2\\assets\\international-relations-12_Teaching-Navigation_2026-09-03.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 95,
+      "markdown_body_line_end": 95,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: What this global-governance owner holds and how its boundaries are routed Qualified use: Open an institutions demand by fixing ownership so the answer does not drift into another owner's evidence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 294.156
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 227.488
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 110,
+      "markdown_body_line_end": 114,
+      "heading": "VISUAL FIRST",
+      "preview": "WHAT THIS GLOBAL-GOVERNANCE OWNER HOLDS AND HOW ITS BOUNDARIES ARE ROUTED",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 176
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 142,
+      "markdown_body_line_end": 159,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - WHAT THIS GLOBAL-GOVERNANCE OWNER HOLDS AND HOW ITS BOUNDARIES ARE ROUTED",
+      "preview": "START / CONCEPT: FOUNDATION — What this global-governance owner holds and how its boundaries are routed",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1049
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 413.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 170,
+      "markdown_body_line_end": 170,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The owners set out the principal organs with distinct functions that must not be merged: the General Assembly with universal membership, deliberating and recommending; the Security Council with primary responsibility for international peace",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 643.224
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 185,
+      "markdown_body_line_end": 189,
+      "heading": "VISUAL FIRST",
+      "preview": "FIVE ORGANS, FIVE FUNCTIONS AND INDIA'S DUAL-TRACK DEMAND",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 144
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 462.624
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 411.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 217,
+      "markdown_body_line_end": 234,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - FIVE ORGANS, FIVE FUNCTIONS AND INDIA'S DUAL-TRACK DEMAND",
+      "preview": "START / CONCEPT: FOUNDATION — Five organs, five functions and India's dual-track demand",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 949
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 621.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 310.891
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 245,
+      "markdown_body_line_end": 245,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Composition and election under the Charter's own words - What a Council decision actually obliges and where its powers come from Qualified use: Quote the governing article rather than a textbook paraphrase, which is what an ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 260,
+      "markdown_body_line_end": 267,
+      "heading": "VISUAL FIRST",
+      "preview": "COMPOSITION, ELECTION AND DELEGATED RESPONSIBILITY IN THE CHARTER'S OWN WORDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 452.624
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 296,
+      "markdown_body_line_end": 313,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - COMPOSITION, ELECTION AND DELEGATED RESPONSIBILITY IN THE CHARTER'S OWN WORDS",
+      "preview": "START / CONCEPT: FOUNDATION — Composition, election and delegated responsibility in the Charter's own words",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1127
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 343.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 324,
+      "markdown_body_line_end": 324,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The voting rule and what the word veto precisely denotes Qualified use: Convert a vague statement about great-power privilege into an exact procedural claim.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 175.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 108.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 339,
+      "markdown_body_line_end": 343,
+      "heading": "VISUAL FIRST",
+      "preview": "THE VOTING RULE AND WHAT THE WORD VETO ACTUALLY DENOTES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 123
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 696.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 645.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 371,
+      "markdown_body_line_end": 388,
+      "heading": "CLOSING RECALL FLOW - CORE - THE VOTING RULE AND WHAT THE WORD VETO ACTUALLY DENOTES",
+      "preview": "START / CONCEPT: CORE — The voting rule and what the word veto actually denotes",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1080
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 436.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 399,
+      "markdown_body_line_end": 399,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The amendment rule that locks the whole reform debate Qualified use: Explain the impasse structurally instead of attributing it only to great-power rivalry.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 197.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 130.424
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 414,
+      "markdown_body_line_end": 418,
+      "heading": "VISUAL FIRST",
+      "preview": "THE AMENDMENT RULE THAT LOCKS THE DEBATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 131
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 699.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 648.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 446,
+      "markdown_body_line_end": 463,
+      "heading": "CLOSING RECALL FLOW - CORE - THE AMENDMENT RULE THAT LOCKS THE DEBATE",
+      "preview": "START / CONCEPT: CORE — The amendment rule that locks the debate",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 964
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 476.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 474,
+      "markdown_body_line_end": 474,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Krishna's statement in India's first year on the Council that the international structure for maintaining peace and security and peacebuilding needs to be reformed because global power and the capacities to address problems are much more di",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 312.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 203.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 489,
+      "markdown_body_line_end": 493,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA INSIDE THE EXISTING STRUCTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 102
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 521,
+      "markdown_body_line_end": 538,
+      "heading": "CLOSING RECALL FLOW - CORE - INDIA INSIDE THE EXISTING STRUCTURE",
+      "preview": "START / CONCEPT: CORE — India inside the existing structure",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 571
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 516.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 549,
+      "markdown_body_line_end": 549,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The owners record that the Counter-Terrorism Committee is a subsidiary body established by Security Council resolution 1373 of 28 September 2001, that India chaired it responsibly during its 2011-12 non-permanent term, that India hosted a s",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 262.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 82.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 564,
+      "markdown_body_line_end": 568,
+      "heading": "VISUAL FIRST",
+      "preview": "THE COUNTER-TERRORISM MACHINERY AND THE BODY BEING JUDGED",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 124
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 647.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 596.691
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 596,
+      "markdown_body_line_end": 613,
+      "heading": "CLOSING RECALL FLOW - CORE - THE COUNTER-TERRORISM MACHINERY AND THE BODY BEING JUDGED",
+      "preview": "START / CONCEPT: CORE — The counter-terrorism machinery and the body being judged",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1060
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 453.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 624,
+      "markdown_body_line_end": 624,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The reform coalition, the process it replaced and the wider demand Qualified use: Explain why reform momentum shifted after 2010 without producing an outcome.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 285.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 218.424
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 639,
+      "markdown_body_line_end": 643,
+      "heading": "VISUAL FIRST",
+      "preview": "THE ADVOCACY COALITION, THE PROCESS IT REPLACED AND ITS OPPONENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 142
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 671,
+      "markdown_body_line_end": 688,
+      "heading": "CLOSING RECALL FLOW - CORE - THE ADVOCACY COALITION, THE PROCESS IT REPLACED AND ITS OPPONENTS",
+      "preview": "START / CONCEPT: CORE — The advocacy coalition, the process it replaced and its opponents",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 988
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 433.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 699,
+      "markdown_body_line_end": 699,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The coalition's dated statement and the Common African Position - India's stated national position at the negotiations Qualified use: Cite dated reform evidence at its exact evidentiary level, which is the discipline the 202",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 194.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 113.224
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 714,
+      "markdown_body_line_end": 721,
+      "heading": "VISUAL FIRST",
+      "preview": "THE DATED COALITION STATEMENT AND INDIA'S STATED POSITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 111
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 682.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 601.091
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 750,
+      "markdown_body_line_end": 767,
+      "heading": "CLOSING RECALL FLOW - CORE - THE DATED COALITION STATEMENT AND INDIA'S STATED POSITION",
+      "preview": "START / CONCEPT: CORE — The dated coalition statement and India's stated position",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 940
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 570.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 189.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 778,
+      "markdown_body_line_end": 778,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The owners record that the Pact for the Future was adopted at the Summit of the Future on 22 September 2024 with Annex I, the Global Digital Compact, and Annex II, the Declaration on Future Generations, and they record that the Global Digit",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 489.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 323.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 793,
+      "markdown_body_line_end": 800,
+      "heading": "VISUAL FIRST",
+      "preview": "PROCESS STATUS AND THE SUMMIT DOCUMENT THAT RECORDS INTENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 133
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 829,
+      "markdown_body_line_end": 846,
+      "heading": "CLOSING RECALL FLOW - CORE - PROCESS STATUS AND THE SUMMIT DOCUMENT THAT RECORDS INTENT",
+      "preview": "START / CONCEPT: CORE — Process status and the summit document that records intent",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 961
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 703.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 312.691
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 857,
+      "markdown_body_line_end": 857,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The owners record two administrative tracks that change how the Organization works without changing who sits on the Council: the UN80 Initiative launched by the Secretary-General on 12 March 2025, covering Secretariat efficiency, mandate-im",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 657.424
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 872,
+      "markdown_body_line_end": 876,
+      "heading": "VISUAL FIRST",
+      "preview": "CHANGE MIGRATING TO TRACKS THAT NEED NO RATIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 124
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 462.624
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 411.624
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 904,
+      "markdown_body_line_end": 921,
+      "heading": "CLOSING RECALL FLOW - CORE - CHANGE MIGRATING TO TRACKS THAT NEED NO RATIFICATION",
+      "preview": "START / CONCEPT: CORE — Change migrating to tracks that need no ratification",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 914
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 634.891
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 323.891
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 932,
+      "markdown_body_line_end": 932,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The Court's advisory function and the exact limit of an advisory opinion - The judicial-body distinction and India's own treaty position Qualified use: Use a dated advisory opinion correctly instead of presenting it as an en",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 169.891
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 89.024
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 947,
+      "markdown_body_line_end": 954,
+      "heading": "VISUAL FIRST",
+      "preview": "THE COURT'S ADVISORY FUNCTION AND THE JUDICIAL-BODY DISTINCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 148
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 647.691
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 566.691
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 983,
+      "markdown_body_line_end": 1000,
+      "heading": "CLOSING RECALL FLOW - CORE - THE COURT'S ADVISORY FUNCTION AND THE JUDICIAL-BODY DISTINCTION",
+      "preview": "START / CONCEPT: CORE — The Court's advisory function and the judicial-body distinction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1430
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 343.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1011,
+      "markdown_body_line_end": 1011,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Peacekeeping principles and what India's contribution does and does not buy Qualified use: Evidence the responsible-multilateralism claim while conceding exactly what it does not prove.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1026,
+      "markdown_body_line_end": 1030,
+      "heading": "VISUAL FIRST",
+      "preview": "PEACEKEEPING PRINCIPLES AND THE LIMIT OF CONTRIBUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 129
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 496.824
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1058,
+      "markdown_body_line_end": 1075,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - PEACEKEEPING PRINCIPLES AND THE LIMIT OF CONTRIBUTION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Peacekeeping principles and the limit of contribution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1143
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 621.891
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 290.891
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1086,
+      "markdown_body_line_end": 1086,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The specialised agencies as the effectiveness test - Financial and trade governance as the parallel reform dimension Qualified use: Answer the 2019 and 2020 agency demands and supply the financing dimension that most reform ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1101,
+      "markdown_body_line_end": 1108,
+      "heading": "VISUAL FIRST",
+      "preview": "THE SPECIALISED AGENCIES AND THE PARALLEL FINANCING DIMENSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 199
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 452.624
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1137,
+      "markdown_body_line_end": 1154,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - THE SPECIALISED AGENCIES AND THE PARALLEL FINANCING DIMENSION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — The specialised agencies and the parallel financing dimension",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 2210
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 689.491
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 148.491
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1165,
+      "markdown_body_line_end": 1165,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "⚠️ Always distinguish \"reform discussed\" from \"reform achieved\" — a recurring, high-value distinction across both anchor PYQs. ⚠️ Cite the specific dated instrument (Pact for the Future, G4 statement) rather than an undated \"UN reform\" clai",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 489.891
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 380.624
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1180,
+      "markdown_body_line_end": 1184,
+      "heading": "VISUAL FIRST",
+      "preview": "VERIFIED QUESTION OWNERSHIP ACROSS BOTH EXAMINATION STAGES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 183
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1211,
+      "markdown_body_line_end": 1217,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** International Relations | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II. **Core area:** UN organs (UNSC, UNGA, ECOSOC, ICJ, Secretariat); selected agencies; IMF, World Bank and WTO structures and mandates. **Grounded in:",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 656.891
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 547.624
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1221,
+      "markdown_body_line_end": 1247,
+      "heading": "1. Visual foundation",
+      "preview": "UNITED NATIONS ORGANS",
+      "metadata": {
+        "language": "text",
+        "line_count": 25,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 525.624
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 264.624
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1257,
+      "markdown_body_line_end": 1263,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 298.29
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1267,
+      "markdown_body_line_end": 1271,
+      "heading": "2. Essential definitions",
+      "preview": "Institution | Core mandate",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Institution",
+          "Core mandate"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 279.09
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 190.888
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1612,
+      "markdown_body_line_end": 1617,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** India engages UN and Bretton Woods institutions on two tracks — substantive participation within existing structures (UNSC non-permanent membership, CTC chairmanship) and sustained, dated reform advocacy (G4, IGN, the Pac",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 641.691
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 568.624
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1647,
+      "markdown_body_line_end": 1649,
+      "heading": "11A. Answer architecture (10/15/20-mark support)",
+      "preview": "**Reasoned verdict:** International institutions remain indispensable rule and coordination platforms, but effectiveness depends on member-state compliance, representative governance and enforceable or adequately financed mandates.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 238.224
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 179.356
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1666,
+      "markdown_body_line_end": 1668,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 689.024
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1674,
+      "markdown_body_line_end": 1679,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 637.424
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 353.022
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1688,
+      "markdown_body_line_end": 1688,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 262.222
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 217.554
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1695,
+      "markdown_body_line_end": 1697,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`, `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key ",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 217.554
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 108.287
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1703,
+      "markdown_body_line_end": 1707,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 591.89
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1715,
+      "markdown_body_line_end": 1715,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 518.29
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 473.622
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1722,
+      "markdown_body_line_end": 1724,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** Th",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 473.622
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 378.554
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1730,
+      "markdown_body_line_end": 1745,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 14,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 326.954
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 238.39
+        }
+      },
+      "pdf_pages": [
+        57,
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1764,
+      "markdown_body_line_end": 1764,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 734.491
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 689.824
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1769,
+      "markdown_body_line_end": 1786,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - VERIFIED QUESTION OWNERSHIP ACROSS BOTH EXAMINATION STAGES",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Verified question ownership across both examination stages",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1298
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 654.824
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 213.824
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2621,
+      "markdown_body_line_end": 2623,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 148,
+          "frame_y": 341.691
+        },
+        "end": {
+          "page": 148,
+          "frame_y": 260.824
+        }
+      },
+      "pdf_pages": [
+        148
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2629,
+      "markdown_body_line_end": 2634,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 149,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 149,
+          "frame_y": 518.89
+        }
+      },
+      "pdf_pages": [
+        149
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2643,
+      "markdown_body_line_end": 2643,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 149,
+          "frame_y": 428.09
+        },
+        "end": {
+          "page": 149,
+          "frame_y": 383.422
+        }
+      },
+      "pdf_pages": [
+        149
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2650,
+      "markdown_body_line_end": 2652,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`, `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key ",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 149,
+          "frame_y": 383.422
+        },
+        "end": {
+          "page": 149,
+          "frame_y": 274.154
+        }
+      },
+      "pdf_pages": [
+        149
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2658,
+      "markdown_body_line_end": 2662,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 150,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 150,
+          "frame_y": 591.89
+        }
+      },
+      "pdf_pages": [
+        150
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2670,
+      "markdown_body_line_end": 2670,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 150,
+          "frame_y": 518.29
+        },
+        "end": {
+          "page": 150,
+          "frame_y": 473.622
+        }
+      },
+      "pdf_pages": [
+        150
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2677,
+      "markdown_body_line_end": 2679,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** Th",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 150,
+          "frame_y": 473.622
+        },
+        "end": {
+          "page": 150,
+          "frame_y": 378.554
+        }
+      },
+      "pdf_pages": [
+        150
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2685,
+      "markdown_body_line_end": 2700,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 14,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 150,
+          "frame_y": 326.954
+        },
+        "end": {
+          "page": 151,
+          "frame_y": 238.39
+        }
+      },
+      "pdf_pages": [
+        150,
+        151
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2719,
+      "markdown_body_line_end": 2719,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 152,
+          "frame_y": 734.491
+        },
+        "end": {
+          "page": 152,
+          "frame_y": 689.824
+        }
+      },
+      "pdf_pages": [
+        152
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2755,
+      "markdown_body_line_end": 2756,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 152,
+          "frame_y": 382.024
+        },
+        "end": {
+          "page": 152,
+          "frame_y": 315.356
+        }
+      },
+      "pdf_pages": [
+        152
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2762,
+      "markdown_body_line_end": 2766,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 152,
+          "frame_y": 263.756
+        },
+        "end": {
+          "page": 152,
+          "frame_y": 41.854
+        }
+      },
+      "pdf_pages": [
+        152
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2774,
+      "markdown_body_line_end": 2774,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 153,
+          "frame_y": 735.691
+        },
+        "end": {
+          "page": 153,
+          "frame_y": 691.024
+        }
+      },
+      "pdf_pages": [
+        153
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3137,
+      "markdown_body_line_end": 3143,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** International Relations | **Tier:** Advanced | **GS Paper:** GS-II. **Core area:** Representation, legitimacy, veto, financing, compliance/ enforcement, UN reform and India's reform case. **Grounded in:** Shashi Tharoor, *Pax I",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 179,
+          "frame_y": 185.491
+        },
+        "end": {
+          "page": 179,
+          "frame_y": 98.224
+        }
+      },
+      "pdf_pages": [
+        179
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3147,
+      "markdown_body_line_end": 3182,
+      "heading": "1. Architecture",
+      "preview": "LEGITIMACY PROBLEM",
+      "metadata": {
+        "language": "text",
+        "line_count": 34,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 180,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 180,
+          "frame_y": 436.291
+        }
+      },
+      "pdf_pages": [
+        180
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3193,
+      "markdown_body_line_end": 3200,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 181,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 181,
+          "frame_y": 355.49
+        }
+      },
+      "pdf_pages": [
+        181
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3486,
+      "markdown_body_line_end": 3487,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 186,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 186,
+          "frame_y": 703.224
+        }
+      },
+      "pdf_pages": [
+        186
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3493,
+      "markdown_body_line_end": 3497,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 186,
+          "frame_y": 651.624
+        },
+        "end": {
+          "page": 186,
+          "frame_y": 429.722
+        }
+      },
+      "pdf_pages": [
+        186
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3505,
+      "markdown_body_line_end": 3505,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 186,
+          "frame_y": 356.122
+        },
+        "end": {
+          "page": 186,
+          "frame_y": 311.454
+        }
+      },
+      "pdf_pages": [
+        186
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3565,
+      "markdown_body_line_end": 3572,
+      "heading": "UN and International Institutions: Global Governance: ANSWER-WRITING SPINE",
+      "preview": "NAME INDIA'S PRECISE INTEREST -> IDENTIFY THE EXTERNAL ACTOR AND ITS OWN INCENTIVE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 192,
+          "frame_y": 347.691
+        },
+        "end": {
+          "page": 192,
+          "frame_y": 276.691
+        }
+      },
+      "pdf_pages": [
+        192
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3582,
+      "markdown_body_line_end": 3593,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Central question and the four reform dimensions",
+      "preview": "CENTRAL QUESTION -> why is reform discussed for decades without being achieved?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 193,
+          "frame_y": 722.891
+        },
+        "end": {
+          "page": 193,
+          "frame_y": 609.891
+        }
+      },
+      "pdf_pages": [
+        193
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3597,
+      "markdown_body_line_end": 3610,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: The Charter's own words on composition and obligation",
+      "preview": "ARTICLE 23 -> the Council shall consist of fifteen Members",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 193,
+          "frame_y": 587.891
+        },
+        "end": {
+          "page": 193,
+          "frame_y": 454.491
+        }
+      },
+      "pdf_pages": [
+        193
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3614,
+      "markdown_body_line_end": 3624,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: What the word veto actually denotes",
+      "preview": "ARTICLE 27(1) -> each member of the Council shall have one vote",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 193,
+          "frame_y": 432.491
+        },
+        "end": {
+          "page": 193,
+          "frame_y": 329.691
+        }
+      },
+      "pdf_pages": [
+        193
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3628,
+      "markdown_body_line_end": 3639,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: The amendment lock in two articles",
+      "preview": "ARTICLE 108 -> amendments come into force for all Members when",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 193,
+          "frame_y": 307.691
+        },
+        "end": {
+          "page": 193,
+          "frame_y": 194.691
+        }
+      },
+      "pdf_pages": [
+        193
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3643,
+      "markdown_body_line_end": 3655,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: India inside the Council and its committees",
+      "preview": "2011-12 -> non-permanent term; elected by record margin, with Germany and",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 194,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 194,
+          "frame_y": 664.091
+        }
+      },
+      "pdf_pages": [
+        194
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3659,
+      "markdown_body_line_end": 3670,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Which counter-terrorism body does what",
+      "preview": "COUNTER-TERRORISM COMMITTEE -> created by resolution 1373 (2001)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 194,
+          "frame_y": 642.091
+        },
+        "end": {
+          "page": 194,
+          "frame_y": 529.091
+        }
+      },
+      "pdf_pages": [
+        194
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3674,
+      "markdown_body_line_end": 3687,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: The reform process at its exact evidentiary level",
+      "preview": "2010 -> the Group of Four takes the debate away from the Open-Ended",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 194,
+          "frame_y": 507.091
+        },
+        "end": {
+          "page": 194,
+          "frame_y": 373.691
+        }
+      },
+      "pdf_pages": [
+        194
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3691,
+      "markdown_body_line_end": 3703,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Where institutional change is actually happening",
+      "preview": "TRACK THAT NEEDS RATIFICATION -> Security Council composition and veto",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 194,
+          "frame_y": 351.691
+        },
+        "end": {
+          "page": 194,
+          "frame_y": 228.491
+        }
+      },
+      "pdf_pages": [
+        194
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3707,
+      "markdown_body_line_end": 3720,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: The Court's advisory function and its exact limit",
+      "preview": "PROBLEM -> organisations cannot be parties to a contentious case",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 195,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 195,
+          "frame_y": 653.891
+        }
+      },
+      "pdf_pages": [
+        195
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3724,
+      "markdown_body_line_end": 3735,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Peacekeeping principles and India's record",
+      "preview": "PRINCIPLE 1 -> consent of the parties; consent at the top is not consent below",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 195,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 195,
+          "frame_y": 518.891
+        }
+      },
+      "pdf_pages": [
+        195
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3739,
+      "markdown_body_line_end": 3754,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Specialised agencies under funding and delivery stress",
+      "preview": "EDUCATION AND CULTURE AGENCY -> created 1945; General Conference of all",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 14,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 195,
+          "frame_y": 496.891
+        },
+        "end": {
+          "page": 195,
+          "frame_y": 343.091
+        }
+      },
+      "pdf_pages": [
+        195
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3758,
+      "markdown_body_line_end": 3770,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Answer spine for a United Nations or institutions demand",
+      "preview": "OPEN -> name the organ or body and the instrument that created it",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 195,
+          "frame_y": 321.091
+        },
+        "end": {
+          "page": 195,
+          "frame_y": 197.891
+        }
+      },
+      "pdf_pages": [
+        195
+      ]
+    }
+  ]
+}

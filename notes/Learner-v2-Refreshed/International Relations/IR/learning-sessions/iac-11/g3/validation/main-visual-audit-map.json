@@ -1,0 +1,2293 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g3\\international-relations-11_Complete-Learning-Session_2026-09-03.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g3\\international-relations-11_Complete-Learning-Session_2026-09-03.pdf",
+  "mode": "main",
+  "topic_key": "international-relations-11",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Globalisation, Trade Agreements and External-Policy Effects - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 35,
+      "markdown_body_line_end": 45,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 554.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 249.69
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 79,
+      "markdown_body_line_end": 79,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International Relations\\IR\\learning-sessions\\iac-11\\g3\\assets\\international-relations-11_Teaching-Navigation_2026-09-03.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 93,
+      "markdown_body_line_end": 93,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: What this external-effects owner holds and how its boundaries are routed Qualified use: Open an external-effects demand by fixing ownership so the answer does not drift into another owner's evidence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 294.156
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 227.488
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 108,
+      "markdown_body_line_end": 112,
+      "heading": "VISUAL FIRST",
+      "preview": "WHAT THIS EXTERNAL-EFFECTS OWNER HOLDS AND HOW ITS BOUNDARIES ARE ROUTED",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 172
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 140,
+      "markdown_body_line_end": 157,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - WHAT THIS EXTERNAL-EFFECTS OWNER HOLDS AND HOW ITS BOUNDARIES ARE ROUTED",
+      "preview": "START / CONCEPT: FOUNDATION — What this external-effects owner holds and how its boundaries are routed",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 971
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 423.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 168,
+      "markdown_body_line_end": 168,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The owners insist that globalisation, understood as the intensifying cross-border integration of trade, capital, technology and information flows that characterised the post-Cold-War decades, and sovereign nationalism, understood as a resur",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 169.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 671.624
+        }
+      },
+      "pdf_pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 183,
+      "markdown_body_line_end": 187,
+      "heading": "VISUAL FIRST",
+      "preview": "WANING RATHER THAN ENDED AS THE GOVERNING FRAME",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 133
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 491.024
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 440.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 215,
+      "markdown_body_line_end": 232,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - WANING RATHER THAN ENDED AS THE GOVERNING FRAME",
+      "preview": "START / CONCEPT: FOUNDATION — Waning rather than ended as the governing frame",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 814
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 429.891
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 243,
+      "markdown_body_line_end": 243,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Prelims: Retain the exact actor, document title, doctrine label, dated instrument and evidentiary level attached to Three channels and why the channel must be named, and never upgrade a vision statement into a treaty, a signature into a rat",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 261.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 166.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 258,
+      "markdown_body_line_end": 262,
+      "heading": "VISUAL FIRST",
+      "preview": "THREE CHANNELS AND WHY THE CHANNEL MUST BE NAMED",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 130
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 696.891
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 290,
+      "markdown_body_line_end": 307,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - THREE CHANNELS AND WHY THE CHANNEL MUST BE NAMED",
+      "preview": "START / CONCEPT: FOUNDATION — Three channels and why the channel must be named",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 726
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 318,
+      "markdown_body_line_end": 318,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: What the trade organisation is and how it actually decides Qualified use: Ground any reform demand in the organisation's actual decision structure rather than in its reputation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 232.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 166.224
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 333,
+      "markdown_body_line_end": 337,
+      "heading": "VISUAL FIRST",
+      "preview": "WHAT THE TRADE ORGANISATION IS AND HOW IT DECIDES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 130
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 682.691
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 365,
+      "markdown_body_line_end": 382,
+      "heading": "CLOSING RECALL FLOW - CORE - WHAT THE TRADE ORGANISATION IS AND HOW IT DECIDES",
+      "preview": "START / CONCEPT: CORE — What the trade organisation is and how it decides",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1044
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 446.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 393,
+      "markdown_body_line_end": 393,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The ministerial cycle and what the fourteenth conference actually did - Consensus as the veto point that near-unanimity cannot overcome Qualified use: Answer the 2018 reform demand with the procedural veto point named exactl",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 221.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 140.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 408,
+      "markdown_body_line_end": 415,
+      "heading": "VISUAL FIRST",
+      "preview": "THE MINISTERIAL CYCLE AND THE LIMIT OF NEAR-UNANIMITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 699.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 628.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 444,
+      "markdown_body_line_end": 461,
+      "heading": "CLOSING RECALL FLOW - CORE - THE MINISTERIAL CYCLE AND THE LIMIT OF NEAR-UNANIMITY",
+      "preview": "START / CONCEPT: CORE — The ministerial cycle and the limit of near-unanimity",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1187
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 584.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 183.491
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 472,
+      "markdown_body_line_end": 472,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The owners record that the Appellate Body lost its three-member quorum for new appeals on 10 December 2019 and has had zero members since 30 November 2020, that some thirty members participate in the interim multi-party interim appeal arbit",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 560.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 380.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 487,
+      "markdown_body_line_end": 491,
+      "heading": "VISUAL FIRST",
+      "preview": "A PARALYSED APPELLATE STAGE INSIDE INDIA'S OWN DOCKET",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 134
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 519,
+      "markdown_body_line_end": 536,
+      "heading": "CLOSING RECALL FLOW - CORE - A PARALYSED APPELLATE STAGE INSIDE INDIA'S OWN DOCKET",
+      "preview": "START / CONCEPT: CORE — A paralysed appellate stage inside India's own docket",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1069
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 456.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 547,
+      "markdown_body_line_end": 547,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The World Trade Organization page checked live on 2026-09-03 records that the Agreement on Fisheries Subsidies prohibits harmful fisheries subsidies, that it is the first agreement of the organisation to focus on the environment, the first ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 614.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 562,
+      "markdown_body_line_end": 566,
+      "heading": "VISUAL FIRST",
+      "preview": "ADOPTION, ENTRY INTO FORCE AND INDIVIDUAL ACCEPTANCE IN ONE CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 126
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 420.024
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 369.024
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 594,
+      "markdown_body_line_end": 611,
+      "heading": "CLOSING RECALL FLOW - CORE - ADOPTION, ENTRY INTO FORCE AND INDIVIDUAL ACCEPTANCE IN ONE CHAIN",
+      "preview": "START / CONCEPT: CORE — Adoption, entry into force and individual acceptance in one chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1200
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 407.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 66.491
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 622,
+      "markdown_body_line_end": 622,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The owners record that the Agreement on Agriculture disciplines market access, domestic support and export competition, that the 2013 Bali peace clause protects eligible developing-country public-stockholding programmes from specified legal",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 589.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 437.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 637,
+      "markdown_body_line_end": 641,
+      "heading": "VISUAL FIRST",
+      "preview": "AGRICULTURE, STOCKHOLDING AND A DISTRIBUTIVE REFORM DEMAND",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 122
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 669,
+      "markdown_body_line_end": 686,
+      "heading": "CLOSING RECALL FLOW - CORE - AGRICULTURE, STOCKHOLDING AND A DISTRIBUTIVE REFORM DEMAND",
+      "preview": "START / CONCEPT: CORE — Agriculture, stockholding and a distributive reform demand",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 830
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 697,
+      "markdown_body_line_end": 697,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The owners require every trade instrument to be described at its exact legal stage, and they supply a dated ladder for India: the India-United Arab Emirates Comprehensive Economic Partnership Agreement in force from 1 May 2022 and the India",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 600.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 712,
+      "markdown_body_line_end": 716,
+      "heading": "VISUAL FIRST",
+      "preview": "THE LADDER FROM CONCLUDED TO IN FORCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 120
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 405.824
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 354.824
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 744,
+      "markdown_body_line_end": 761,
+      "heading": "CLOSING RECALL FLOW - CORE - THE LADDER FROM CONCLUDED TO IN FORCE",
+      "preview": "START / CONCEPT: CORE — The ladder from concluded to in force",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1283
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 420.491
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 69.491
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 772,
+      "markdown_body_line_end": 772,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The owners record the India-United Kingdom Comprehensive Economic and Trade Agreement as signed at London on 24 July 2025 and entered into force on 15 July 2026, with the Double Contributions Convention entering into force on the same day a",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 617.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 480.024
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 787,
+      "markdown_body_line_end": 794,
+      "heading": "VISUAL FIRST",
+      "preview": "TWO AGREEMENTS IN FORCE AND WHAT EACH ACTUALLY CARRIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 127
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 823,
+      "markdown_body_line_end": 840,
+      "heading": "CLOSING RECALL FLOW - CORE - TWO AGREEMENTS IN FORCE AND WHAT EACH ACTUALLY CARRIES",
+      "preview": "START / CONCEPT: CORE — Two agreements in force and what each actually carries",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 725
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 436.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 851,
+      "markdown_body_line_end": 851,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The owners record that India-European Union free trade agreement negotiations were concluded on 27 January 2026 at the sixteenth India-European Union Summit and that the agreement was neither signed nor ratified nor in force, and they recor",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 225.491
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 87.824
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 866,
+      "markdown_body_line_end": 873,
+      "heading": "VISUAL FIRST",
+      "preview": "CONCLUDED NEGOTIATIONS AND THE BOUNDARY INDIA DREW",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 129
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 647.691
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 566.691
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 902,
+      "markdown_body_line_end": 919,
+      "heading": "CLOSING RECALL FLOW - CORE - CONCLUDED NEGOTIATIONS AND THE BOUNDARY INDIA DREW",
+      "preview": "START / CONCEPT: CORE — Concluded negotiations and the boundary India drew",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 751
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 620.691
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 279.691
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 930,
+      "markdown_body_line_end": 930,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: The carbon-border mechanism as the third channel in operation Qualified use: Evidence the climate channel with a regime that is actually in operation rather than proposed.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 717.424
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 945,
+      "markdown_body_line_end": 949,
+      "heading": "VISUAL FIRST",
+      "preview": "THE CARBON-BORDER REGIME AS A LIVE THIRD CHANNEL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 136
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 522.624
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 471.624
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 977,
+      "markdown_body_line_end": 994,
+      "heading": "CLOSING RECALL FLOW - CORE - THE CARBON-BORDER REGIME AS A LIVE THIRD CHANNEL",
+      "preview": "START / CONCEPT: CORE — The carbon-border regime as a live third channel",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1056
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 649.091
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 318.091
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1005,
+      "markdown_body_line_end": 1005,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Unilateral tariff action and why volatility rather than level is the mechanism Qualified use: Convert a tariff narrative into a mechanism argument, which is where the analytical marks sit.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1020,
+      "markdown_body_line_end": 1024,
+      "heading": "VISUAL FIRST",
+      "preview": "VOLATILITY RATHER THAN LEVEL AS THE TARIFF MECHANISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 144
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 496.824
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1052,
+      "markdown_body_line_end": 1069,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - VOLATILITY RATHER THAN LEVEL AS THE TARIFF MECHANISM",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Volatility rather than level as the tariff mechanism",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 802
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1080,
+      "markdown_body_line_end": 1080,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Climate diplomacy as an external-policy arena in its own right - The structural indicator behind the export-diversification push Qualified use: Answer the 2022 climate-fora demand and ground a diversification recommendation ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 319.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 238.424
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1095,
+      "markdown_body_line_end": 1102,
+      "heading": "VISUAL FIRST",
+      "preview": "CLIMATE DIPLOMACY AND THE COMPOSITION INDICATOR BEHIND DIVERSIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 147
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1131,
+      "markdown_body_line_end": 1148,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - CLIMATE DIPLOMACY AND THE COMPOSITION INDICATOR BEHIND DIVERSIFICATION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Climate diplomacy and the composition indicator behind diversification",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 919
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 689.491
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 308.491
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1159,
+      "markdown_body_line_end": 1159,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Agreement proliferation as continuity of liberalisation and its fragmentation cost - Honest question ownership for this external-effects owner Qualified use: Close with a bounded verdict and an exact statement of which deman",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1174,
+      "markdown_body_line_end": 1181,
+      "heading": "VISUAL FIRST",
+      "preview": "CONTINUITY, ITS COSTS AND VERIFIED QUESTION OWNERSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 133
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 466.824
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1209,
+      "markdown_body_line_end": 1220,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** International Relations | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II. **Core area:** Globalisation and protectionism; sanctions and export controls; supply chains; FTAs/CEPAs; WTO rules as context. **Grounded in:** WT",
+      "metadata": {
+        "line_count": 12
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 430.091
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 264.024
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1224,
+      "markdown_body_line_end": 1253,
+      "heading": "1. Visual foundation",
+      "preview": "GLOBALISATION (economic/technological/",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1263,
+      "markdown_body_line_end": 1271,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 289.49
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1324,
+      "markdown_body_line_end": 1335,
+      "heading": "4. Institutions and agreements",
+      "preview": "Agreement | Status | Date",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Agreement",
+          "Status",
+          "Date"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 453.091
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 182.89
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1485,
+      "markdown_body_line_end": 1491,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** The post-Cold-War world exhibits waning multilateral globalisation and rising sovereign nationalism as co-present, not sequential, forces — expressed through protectionism, sanctions, export controls and a shift from WTO-",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 646.691
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 559.424
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1519,
+      "markdown_body_line_end": 1521,
+      "heading": "11A. Answer architecture (10/15/20-mark support)",
+      "preview": "**Reasoned verdict:** India must remain open enough to gain markets and technology while building resilience and shaping external rules that otherwise transmit foreign priorities into domestic costs.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 257.424
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 212.756
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1536,
+      "markdown_body_line_end": 1537,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1543,
+      "markdown_body_line_end": 1545,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 691.024
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 615.122
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1551,
+      "markdown_body_line_end": 1551,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 575.922
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 531.254
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1558,
+      "markdown_body_line_end": 1559,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 531.254
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 464.587
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1565,
+      "markdown_body_line_end": 1568,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 412.987
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 253.585
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1575,
+      "markdown_body_line_end": 1575,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 197.185
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 152.517
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1580,
+      "markdown_body_line_end": 1597,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - CONTINUITY, ITS COSTS AND VERIFIED QUESTION OWNERSHIP",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Continuity, its costs and verified question ownership",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 1201
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 343.291
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2429,
+      "markdown_body_line_end": 2430,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 123,
+          "frame_y": 116.291
+        },
+        "end": {
+          "page": 123,
+          "frame_y": 49.624
+        }
+      },
+      "pdf_pages": [
+        123
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2436,
+      "markdown_body_line_end": 2438,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 124,
+          "frame_y": 751.691
+        },
+        "end": {
+          "page": 124,
+          "frame_y": 675.79
+        }
+      },
+      "pdf_pages": [
+        124
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2444,
+      "markdown_body_line_end": 2444,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 124,
+          "frame_y": 636.59
+        },
+        "end": {
+          "page": 124,
+          "frame_y": 591.922
+        }
+      },
+      "pdf_pages": [
+        124
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2451,
+      "markdown_body_line_end": 2452,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 124,
+          "frame_y": 591.922
+        },
+        "end": {
+          "page": 124,
+          "frame_y": 525.254
+        }
+      },
+      "pdf_pages": [
+        124
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2458,
+      "markdown_body_line_end": 2461,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 124,
+          "frame_y": 473.654
+        },
+        "end": {
+          "page": 124,
+          "frame_y": 314.253
+        }
+      },
+      "pdf_pages": [
+        124
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2468,
+      "markdown_body_line_end": 2468,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 124,
+          "frame_y": 257.853
+        },
+        "end": {
+          "page": 124,
+          "frame_y": 213.185
+        }
+      },
+      "pdf_pages": [
+        124
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2487,
+      "markdown_body_line_end": 2488,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 125,
+          "frame_y": 766.891
+        },
+        "end": {
+          "page": 125,
+          "frame_y": 700.224
+        }
+      },
+      "pdf_pages": [
+        125
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2494,
+      "markdown_body_line_end": 2496,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 125,
+          "frame_y": 648.624
+        },
+        "end": {
+          "page": 125,
+          "frame_y": 562.222
+        }
+      },
+      "pdf_pages": [
+        125
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2502,
+      "markdown_body_line_end": 2502,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 125,
+          "frame_y": 523.022
+        },
+        "end": {
+          "page": 125,
+          "frame_y": 478.354
+        }
+      },
+      "pdf_pages": [
+        125
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2814,
+      "markdown_body_line_end": 2826,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** International Relations | **Tier:** Advanced | **GS Paper:** GS-II. **Core area:** Sovereign nationalism; de-risking; trade-technology-climate linkages; policy transmission to Indian interests. **Grounded in:** WTO ministerial-",
+      "metadata": {
+        "line_count": 13
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 146,
+          "frame_y": 387.291
+        },
+        "end": {
+          "page": 146,
+          "frame_y": 243.224
+        }
+      },
+      "pdf_pages": [
+        146
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2830,
+      "markdown_body_line_end": 2855,
+      "heading": "1. Architecture",
+      "preview": "GLOBALISATION (integration) <-----> SOVEREIGN NATIONALISM (control)",
+      "metadata": {
+        "language": "text",
+        "line_count": 24,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 147,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 147,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        147
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2866,
+      "markdown_body_line_end": 2873,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 148,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 148,
+          "frame_y": 277.09
+        }
+      },
+      "pdf_pages": [
+        148
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3107,
+      "markdown_body_line_end": 3108,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 152,
+          "frame_y": 500.291
+        },
+        "end": {
+          "page": 152,
+          "frame_y": 433.624
+        }
+      },
+      "pdf_pages": [
+        152
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3114,
+      "markdown_body_line_end": 3116,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 152,
+          "frame_y": 382.024
+        },
+        "end": {
+          "page": 152,
+          "frame_y": 295.622
+        }
+      },
+      "pdf_pages": [
+        152
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3122,
+      "markdown_body_line_end": 3122,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 152,
+          "frame_y": 256.422
+        },
+        "end": {
+          "page": 152,
+          "frame_y": 211.754
+        }
+      },
+      "pdf_pages": [
+        152
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3178,
+      "markdown_body_line_end": 3185,
+      "heading": "Globalisation, Trade Agreements and External-Policy Effects: ANSWER-WRITING SPINE",
+      "preview": "NAME INDIA'S PRECISE INTEREST -> IDENTIFY THE EXTERNAL ACTOR AND ITS OWN INCENTIVE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 158,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 158,
+          "frame_y": 714.291
+        }
+      },
+      "pdf_pages": [
+        158
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3195,
+      "markdown_body_line_end": 3207,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Central question and the co-presence answer",
+      "preview": "CENTRAL QUESTION -> has globalisation ended or is it being contested?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 158,
+          "frame_y": 396.091
+        },
+        "end": {
+          "page": 158,
+          "frame_y": 272.891
+        }
+      },
+      "pdf_pages": [
+        158
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3211,
+      "markdown_body_line_end": 3220,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Three transmission channels into Indian interests",
+      "preview": "TRADE CHANNEL -> protectionism | stalled multilateral liberalisation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 159,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 159,
+          "frame_y": 694.691
+        }
+      },
+      "pdf_pages": [
+        159
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3224,
+      "markdown_body_line_end": 3234,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: How the trade organisation is actually built",
+      "preview": "MEMBER-DRIVEN -> run by member governments; no delegated board or head",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 159,
+          "frame_y": 672.691
+        },
+        "end": {
+          "page": 159,
+          "frame_y": 569.891
+        }
+      },
+      "pdf_pages": [
+        159
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3238,
+      "markdown_body_line_end": 3250,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Ministerial cycle and the consensus chokepoint",
+      "preview": "26 FEBRUARY - 2 MARCH 2024 -> MC13, Abu Dhabi; Abu Dhabi Ministerial",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 159,
+          "frame_y": 547.891
+        },
+        "end": {
+          "page": 159,
+          "frame_y": 424.691
+        }
+      },
+      "pdf_pages": [
+        159
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3254,
+      "markdown_body_line_end": 3265,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: The appellate void and India's own notified appeals",
+      "preview": "10 DECEMBER 2019 -> Appellate Body loses its quorum for new appeals",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 159,
+          "frame_y": 402.691
+        },
+        "end": {
+          "page": 159,
+          "frame_y": 289.691
+        }
+      },
+      "pdf_pages": [
+        159
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3269,
+      "markdown_body_line_end": 3280,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: One agreement, three legal steps, three dates",
+      "preview": "STEP 1 ADOPTION -> Agreement on Fisheries Subsidies adopted at MC12,",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 160,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 160,
+          "frame_y": 674.291
+        }
+      },
+      "pdf_pages": [
+        160
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3284,
+      "markdown_body_line_end": 3294,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Agriculture and the reform demand India actually makes",
+      "preview": "PROBLEM -> public-stockholding procurement collides with domestic-support rules",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 160,
+          "frame_y": 652.291
+        },
+        "end": {
+          "page": 160,
+          "frame_y": 549.491
+        }
+      },
+      "pdf_pages": [
+        160
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3298,
+      "markdown_body_line_end": 3310,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: The legal-stage ladder for India's agreements",
+      "preview": "IN FORCE -> India-UAE CEPA, 1 May 2022",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 160,
+          "frame_y": 527.491
+        },
+        "end": {
+          "page": 160,
+          "frame_y": 404.291
+        }
+      },
+      "pdf_pages": [
+        160
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3314,
+      "markdown_body_line_end": 3324,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Four verbs in one communique",
+      "preview": "16th INDIA-EU SUMMIT, 27 JANUARY 2026",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 9,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 160,
+          "frame_y": 382.291
+        },
+        "end": {
+          "page": 160,
+          "frame_y": 279.491
+        }
+      },
+      "pdf_pages": [
+        160
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3328,
+      "markdown_body_line_end": 3341,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: The carbon-border regime in operation",
+      "preview": "DEFINITIVE REGIME -> applies from 1 January 2026",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 161,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 161,
+          "frame_y": 653.891
+        }
+      },
+      "pdf_pages": [
+        161
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3345,
+      "markdown_body_line_end": 3357,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Tariff volatility as the transmission mechanism",
+      "preview": "7 AUGUST 2025 -> 25 per cent reciprocal duty on India takes effect",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 161,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 161,
+          "frame_y": 508.691
+        }
+      },
+      "pdf_pages": [
+        161
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3361,
+      "markdown_body_line_end": 3373,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Answer spine for a globalisation or trade-effects demand",
+      "preview": "OPEN -> define both forces and state that they are co-present, not sequential",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 161,
+          "frame_y": 486.691
+        },
+        "end": {
+          "page": 161,
+          "frame_y": 363.491
+        }
+      },
+      "pdf_pages": [
+        161
+      ]
+    }
+  ]
+}

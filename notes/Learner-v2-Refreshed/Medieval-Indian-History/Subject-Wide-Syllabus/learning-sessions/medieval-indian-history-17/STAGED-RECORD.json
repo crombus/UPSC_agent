@@ -1,0 +1,133 @@
+{
+  "record_id": "medieval-indian-history-17:learner-v2:g2",
+  "topic_key": "medieval-indian-history-17",
+  "variant": "learner-v2",
+  "generation": 2,
+  "supersedes": "medieval-indian-history-17:legacy-v1:g1",
+  "command": "Generate learner-v2 topic: Medieval History - Subject-wide Syllabus - Akbar's Religious Views: Ibadat Khana & Din-i-Ilahi",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-17\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-17\\medieval-indian-history-17_Solved-Practice-Workbook_2026-08-30.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-17\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-17\\medieval-indian-history-17_Solved-Practice-Workbook_2026-08-30.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-17\\assets",
+  "generated_on": "2026-08-30",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-refreshed-new-topic",
+    "source_basic": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\17_Akbar-Religious-Views-Ibadat-Khana-Din-i-Ilahi_Complete-Topic-Package.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\17_Akbar-Religious-Views-Din-i-Ilahi.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\00_Master-Chronology.md",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\README.md",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\ANSWER-WORTHINESS-AUDIT.md",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\REVISION-CHART_Ages-Eras-and-Distinctive-Features.md",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\LEARNING-SESSION-COMMAND-INDEX.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md"
+    ],
+    "official_question_sources": [
+      "knowledge-export\\Mains PYQ\\UPSC Mains 2025 GS Paper 1.md"
+    ],
+    "local_ocr_sources": [
+      "books\\medival_history\\Satish Chandra History of Medieval India.pdf",
+      "books\\medival_history\\Medieval-History-Satish-Chandra-1526-1748-Part-2.pdf"
+    ],
+    "live_sources": [
+      "https://whc.unesco.org/en/list/255/"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-17\\medieval-indian-history-17_Complete-Learning-Session_2026-08-30.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.4"
+    },
+    "generation_date": "2026-08-30",
+    "superseded_v1": "medieval-indian-history-17:legacy-v1:g1",
+    "source_hashes": {
+      "books\\medival_history\\Medieval-History-Satish-Chandra-1526-1748-Part-2.pdf": "bf0e7fe8dbd739efd925ddb1eee4433d4b0dc17aabc71ae68483f40ed864cd03",
+      "books\\medival_history\\Satish Chandra History of Medieval India.pdf": "f9cffedc2c2d807b961e9442571e74fede925bd99f57cf51fd8c601ee0712d58",
+      "knowledge-export\\Mains PYQ\\UPSC Mains 2025 GS Paper 1.md": "079ac0cd1601f91e79e6ef71d9c3021cbf8b6ac37a4ce5ad233fd8b94e75c983",
+      "notes\\Medieval-Indian-History\\17_Akbar-Religious-Views-Ibadat-Khana-Din-i-Ilahi_Complete-Learning-Session_2026-08-18.pdf": "8548e39a8c5401403a8c987e3eab823dafdb1922cb850366ac4fad7f37964241",
+      "notes\\Medieval-Indian-History\\17_Akbar-Religious-Views-Ibadat-Khana-Din-i-Ilahi_Premium-Solved-PYQ-Workbook_2026-08-18.pdf": "2c74da8a5263800939cab69cf905576daefe84ab7f16ab838c07c1ec747e27ce",
+      "notes\\Medieval-Indian-History\\assets\\17_Akbar-Religious-Views-Ibadat-Khana-Din-i-Ilahi\\01_01_cover.png": "0799f50706cb76ff7f85d6913731c207dcde9ff7c27fa2e22241e28e50d47337",
+      "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md": "f2aed989ef31ed3961bf3fa232fc9520ea1425a9f3ba7ba91fe45c961803fa5a",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\00_Master-Chronology.md": "9e8eef80ce34563c7a9b659a7102da7bfa3e7dc348589b95aecc9f9ab4c5d4d2",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\17_Akbar-Religious-Views-Ibadat-Khana-Din-i-Ilahi_Complete-Topic-Package.md": "f84a09d5ed2a7f195cc8457da52b979d2eaff737b8082caf956c971acb62ee0f",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\17_Akbar-Religious-Views-Din-i-Ilahi.md": "437d3f3fea9b81041e56454190d21974e2f413ebd8c3fd545d3119a3e5d45664",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\ANSWER-WORTHINESS-AUDIT.md": "a7844101ffe674d25fc726e8e4b694189522b4f3de56e72a696c12a6b9d32981",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\17_Akbar-Religious-Views-Din-i-Ilahi.md": "394571eda8f0f0c70583608d23bd349dd66683fc548b09f3eb5884f7cfeebb14",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\LEARNING-SESSION-COMMAND-INDEX.md": "98442fc4705dc9ce4719caca0e3793023dabe49d16570e2f9202b08a210bd38d",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\17_Akbar-Religious-Views-Ibadat-Khana-Din-i-Ilahi_Complete-Learning-Session_2026-08-18.md": "2b42224bcb476e83f81f255f01015270327e64f29d4beb2e1fbbc5beb683b4ce",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\17_Akbar-Religious-Views-Ibadat-Khana-Din-i-Ilahi_Premium-Solved-PYQ-Workbook_2026-08-18.md": "0dbc46d3849b558c23e74dfad9f02b728c479db6487d20ce87194b27ade5f675",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\medieval-indian-history-17_Learning-Session.md": "842c1df1751cf867e026c843e834c4c7b20378a5ea6f8b608504e47426e78e44",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "1a4552d27c0d690fcb32bc9b2f810147050e33c38cf9129ee6aaa53ec776efd8",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\README.md": "1f137985e4d76e1ac205f42b0676f2c46aa1d078a17423f2b6395f3859c90acb",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\REVISION-CHART_Ages-Eras-and-Distinctive-Features.md": "8bbf312e095cbee1c1b60e64774d70316a005b3e1cc5a405c78ef96029d722cb",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md": "42474c847c02c1f14298907a34bb7daca8f361ef6b9235fe6c1a4910a4d7057f",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md": "dcb4f893fe829496d419d46f060b770b9aa056bfc13c7ac54280cc7c9edb4b97",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md": "5304d55d4a720f5d92fcdf81476ddb0bae811a9f9e2634815fb72651c267c9df",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-17-18-2026-08-30-sequential.json": "bdbad14940f0beb13daff8d8aa946f9ae31f068f7701a66134f42349f97060ed",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Medieval-Indian-History\\medieval-indian-history-17.json": "28b8610b238369847340d2118b2a60d6ef35682192f6123ef9cc5eea83242740",
+      "upsc-ai-kit\\manifests\\v2\\medieval-indian-history--subject-wide-syllabus.json": "ab8d9c3622889689e5504f1b1e17fab6dca60c953402a3c7d4e6f4d5e3696ce4",
+      "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "1 verified direct 2025 GS-I Mains PYQ; 18 learning, 40 broad and 12 remedial MCQs; 10 solved Mains answers with source criticism.",
+    "current_linkage_note": "UNESCO's Fatehpur Sikri property page was rechecked on 30 August 2026. It supports a bounded material-history bridge: Akbar made the planned city his capital, its administrative and religious ensemble expresses a late sixteenth-century imperial centre, and ASI manages its conservation. It does not identify a surviving structure as the Ibadat Khana with final archaeological certainty or prove the content, participants, motives or effects of court debates; those remain controlled by repository Markdown, OCR books and source criticism.",
+    "pyq_status_note": "Locally held papers and routing ledgers control wording and ownership; unavailable official keys remain explicitly inferred or provisional.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 4,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "0720d6795e3724a4b0f2e034a5fbdd9d4c2aa656dac629cd4e5a405957f6b5c8"
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "medieval-indian-history-17:learner-v2:g2"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-30",
+    "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-17\\carvaka-g2",
+    "master_image": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-17\\carvaka-g2\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-17\\carvaka-g2\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-17\\carvaka-g2\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-17\\carvaka-g2\\editable",
+    "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-17\\medieval-indian-history-17_Graphical-Spec-g2.json",
+    "graphical_spec_sha256": "aa4158f3a4c1f45e71de8f07832b25ec0aee86d1a707b9a96c8b51fc13124f90",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-17\\carvaka-g2\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-17\\carvaka-g2\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-17\\carvaka-g2\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-17\\carvaka-g2\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-17\\carvaka-g2\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-17\\carvaka-g2\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-17\\carvaka-g2\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_source": "manual-authored-spec",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-17-18-2026-08-30-sequential.json",
+    "ascii_master_spec_sha256": "bdbad14940f0beb13daff8d8aa946f9ae31f068f7701a66134f42349f97060ed"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

@@ -1,0 +1,1222 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "international-relations-07",
+  "subject": "International-Relations",
+  "title": "INDIA-AFRICA DEVELOPMENT AND DIGITAL PARTNERSHIP",
+  "short_route": "CENTRAL QUESTION AND THE → SUMMIT ARCHITECTURE WITH EXACT → CAPACITY-BUILDING STACK AND THE → DIGITAL LAYER AS A → THE CURRENT DATED INSTRUMENT → THREE GAPS THAT SEPARATE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\Subject-Wide-Syllabus\\learning-sessions\\international-relations-07\\international-relations-07_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\international-relations-07-2026-09-03-sequential.json",
+  "ascii_spec_sha256": "667f55d9e91c45f3253db94e2821b8512ffd8e85927e49464d1cdf920842002c",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CENTRAL QUESTION AND THE TWO THINGS THIS TOPIC IS JUDGED ON",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "CENTRAL QUESTION AND THE TWO THINGS THIS TOPIC IS",
+          "role": "primary"
+        },
+        {
+          "text": "IS THIS A DONOR RELATIONSHIP OR A CO-DEVELOPMENT PARTNERSHIP?",
+          "role": "outcome"
+        },
+        {
+          "text": "JUDGED ON",
+          "role": "comparison"
+        },
+        {
+          "text": "HUMAN CAPITAL AND INSTITUTIONS, NOT INFRASTRUCTURE VOLUME",
+          "role": "caution"
+        },
+        {
+          "text": "LIMB 1",
+          "role": "primary"
+        },
+        {
+          "text": "CAPACITY BUILDING",
+          "role": "outcome"
+        },
+        {
+          "text": "GRANT, TRAINING POSITIONS, JOINT INSTITUTIONS, STUDENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "LIMB 2",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL QUESTION → is this a donor relationship or a co-development partnership?",
+        "JUDGED ON → human capital and institutions, not infrastructure volume",
+        "LIMB 1 → CAPACITY BUILDING: grant, training positions, joint institutions, students",
+        "LIMB 2 → DIGITAL PARTNERSHIP: Pan African e-Network → e-VBAB → SADC MoU pillar",
+        "FRAME → demand-driven, non-intrusive support to democratic institutions"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "CENTRAL QUESTION → is this a donor relationship or a co-development partnership?",
+            "JUDGED ON → human capital and institutions, not infrastructure volume",
+            "LIMB 1 → CAPACITY BUILDING: grant, training positions, joint institutions, students"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LIMB 2 → DIGITAL PARTNERSHIP: Pan African e-Network → e-VBAB → SADC MoU pillar",
+            "FRAME → demand-driven, non-intrusive support to democratic institutions",
+            "TEST → does the institution or network still work after the launch ceremony?"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → trade mechanics to Economy; representation to topic 08; diaspora to topic 09"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY → trade mechanics to Economy; representation to topic 08; diaspora to topic 09.",
+      "source_references": [
+        "What this India-Africa owner holds and how its boundaries are routed",
+        "Demand-driven and non-intrusive co-development as the model claim"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SUMMIT ARCHITECTURE WITH EXACT DATES AND AN HONEST GAP",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SUMMIT ARCHITECTURE WITH EXACT DATES AND AN HONEST GAP",
+          "role": "primary"
+        },
+        {
+          "text": "NEW DELHI, 8-9 APRIL 2008",
+          "role": "outcome"
+        },
+        {
+          "text": "GRANT OF 500 MILLION USD ANNOUNCED",
+          "role": "comparison"
+        },
+        {
+          "text": "ADDIS ABABA, 24-25 MAY 2011",
+          "role": "evidence"
+        },
+        {
+          "text": "IAFS-III→ NEW DELHI, 26-29 OCTOBER 2015",
+          "role": "primary"
+        },
+        {
+          "text": "LAST EDITION ACTUALLY HELD",
+          "role": "outcome"
+        },
+        {
+          "text": "23 APRIL 2026",
+          "role": "comparison"
+        },
+        {
+          "text": "IAFS-IV ANNOUNCED FOR NEW DELHI",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "IAFS-I → NEW DELHI, 8-9 APRIL 2008",
+        "grant of 500 million USD announced",
+        "IAFS-II → ADDIS ABABA, 24-25 MAY 2011",
+        "IAFS-III→ NEW DELHI, 26-29 OCTOBER 2015",
+        "last edition actually held"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DATED OFFICIAL INSTRUMENT",
+          "role": "evidence",
+          "items": [
+            "IAFS-I → NEW DELHI, 8-9 APRIL 2008",
+            "grant of 500 million USD announced",
+            "IAFS-II → ADDIS ABABA, 24-25 MAY 2011"
+          ]
+        },
+        {
+          "heading": "EVIDENTIARY LEVEL IT REACHES",
+          "role": "mechanism",
+          "items": [
+            "IAFS-III→ NEW DELHI, 26-29 OCTOBER 2015",
+            "last edition actually held",
+            "23 APRIL 2026 → IAFS-IV announced for New Delhi"
+          ]
+        },
+        {
+          "heading": "STATUS / CLAIM LIMIT",
+          "role": "caution",
+          "items": [
+            "21 MAY 2026 → India and the African Union agree to convene it later",
+            "STATUS → announced and postponed, expressly not held",
+            "ANALYTICAL POINT → programme continuity is not political-architecture continuity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANALYTICAL POINT → programme continuity is not political-architecture continuity.",
+      "source_references": [
+        "The India-Africa Forum Summit cycle and its honest gap",
+        "The capacity-building grant announced at the first summit"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CAPACITY-BUILDING STACK AND THE FIGURES THAT MUST NOT MERGE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CAPACITY-BUILDING STACK AND THE FIGURES THAT MUST NOT MERGE",
+          "role": "caution"
+        },
+        {
+          "text": "1600 TRAINING POSITIONS UNDER INDIA'S TECHNICAL COOPERATION PROGRAMME",
+          "role": "outcome"
+        },
+        {
+          "text": "GLOBAL TOTAL",
+          "role": "comparison"
+        },
+        {
+          "text": "MORE THAN TWO LAKH PERSONS FROM OVER 160 COUNTRIES",
+          "role": "evidence"
+        },
+        {
+          "text": "ITEC EMPHASIS RECORDED BY ECONOMIC SURVEY 2025-26",
+          "role": "primary"
+        },
+        {
+          "text": "ESPECIALLY THE SOUTH ASIAN REGION",
+          "role": "outcome"
+        },
+        {
+          "text": "JOINT INSTITUTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "NINETEEN, BUILT WITH THE AFRICAN UNION COMMISSION AND MEMBER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AFRICA-SPECIFIC → 1600 training positions under India's technical cooperation programme",
+        "GLOBAL TOTAL → ITEC: more than two lakh persons from over 160 countries",
+        "ITEC emphasis recorded by Economic Survey 2025-26: especially the South Asian region",
+        "JOINT INSTITUTIONS → nineteen, built with the African Union Commission and member states",
+        "Foreign Trade"
+      ],
+      "matrix": [
+        [
+          "ACTOR / INTEREST",
+          "DECISIVE DISTINCTION",
+          "STATUS TRAP / LIMIT"
+        ],
+        [
+          "AFRICA-SPECIFIC → 1600 training positions under India's technical cooperation programme",
+          "Foreign Trade",
+          "STUDENTS → at least 10,000 to 15,000 African students in India at any time"
+        ],
+        [
+          "GLOBAL TOTAL → ITEC: more than two lakh persons from over 160 countries",
+          "Educational Planning and Administration",
+          "TRAP → quoting the two-lakh ITEC total as an Africa figure is a factual error"
+        ],
+        [
+          "ITEC emphasis recorded by Economic Survey 2025-26: especially the South Asian region",
+          "Diamond Institute ten vocational training centres",
+          ""
+        ],
+        [
+          "JOINT INSTITUTIONS → nineteen, built with the African Union Commission and member states",
+          "five human settlement institutes",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "AFRICA-SPECIFIC → 1600 training positions under India's technical cooperation programme",
+            "GLOBAL TOTAL → ITEC: more than two lakh persons from over 160 countries",
+            "ITEC emphasis recorded by Economic Survey 2025-26: especially the South Asian region",
+            "JOINT INSTITUTIONS → nineteen, built with the African Union Commission and member states"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "Foreign Trade",
+            "Educational Planning and Administration",
+            "Diamond Institute ten vocational training centres",
+            "five human settlement institutes"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "STUDENTS → at least 10,000 to 15,000 African students in India at any time",
+            "TRAP → quoting the two-lakh ITEC total as an Africa figure is a factual error"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → quoting the two-lakh ITEC total as an Africa figure is a factual error.",
+      "source_references": [
+        "Training positions and the technical-cooperation boundary",
+        "The nineteen jointly established institutions",
+        "African student mobility as a human-capital multiplier"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DIGITAL LAYER AS A DATED SUCCESSION, NOT A SLOGAN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DIGITAL LAYER AS A DATED SUCCESSION, NOT A SLOGAN",
+          "role": "caution"
+        },
+        {
+          "text": "PAN AFRICAN E-NETWORK",
+          "role": "outcome"
+        },
+        {
+          "text": "TELE-EDUCATION AND ICT CONNECTIVITY AGAINST THE DIGITAL DIVIDE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONCLUDED 2017 (MINISTRY OF EXTERNAL AFFAIRS RECORD)",
+          "role": "evidence"
+        },
+        {
+          "text": "E-VIDYABHARATI AND E-AROGYABHARATI NETWORK PROJECT",
+          "role": "primary"
+        },
+        {
+          "text": "THE NAMED SUCCESSOR IMPLEMENTATION AGREEMENT WITH TELECOMMUNICATIONS CONSULTANTS INDIA",
+          "role": "outcome"
+        },
+        {
+          "text": "MEA APRIL 2026 BRIEF",
+          "role": "comparison"
+        },
+        {
+          "text": "22 AFRICAN COUNTRIES; 15,116 SCHOLARSHIPS OFFERED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PAN AFRICAN e-NETWORK → tele-education and ICT connectivity against the digital divide",
+        "CONCLUDED 2017 (Ministry of External Affairs record)",
+        "e-VidyaBharati and e-ArogyaBharati Network Project: the named successor implementation agreement with Telecommunications Consultants India Limited",
+        "project launched 2019",
+        "MEA April 2026 brief: 22 African countries; 15,116 scholarships offered"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "DATED OFFICIAL INSTRUMENT",
+          "role": "evidence",
+          "items": [
+            "PAN AFRICAN e-NETWORK → tele-education and ICT connectivity against the digital divide",
+            "CONCLUDED 2017 (Ministry of External Affairs record)",
+            "e-VidyaBharati and e-ArogyaBharati Network Project: the named successor implementation agreement with Telecommunications Consultants India Limited, signed 10 September"
+          ]
+        },
+        {
+          "heading": "EVIDENTIARY LEVEL IT REACHES",
+          "role": "mechanism",
+          "items": [
+            "project launched 2019",
+            "MEA April 2026 brief: 22 African countries; 15,116 scholarships offered",
+            "LIMIT → scholarships offered is an input measure, not completion or employment"
+          ]
+        },
+        {
+          "heading": "STATUS / CLAIM LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → no continent-wide digital public infrastructure rollout is established"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → no continent-wide digital public infrastructure rollout is established.",
+      "source_references": [
+        "The Pan African e-Network and its named successor",
+        "Successor-network coverage and the offered-versus-completed line"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "THE CURRENT DATED INSTRUMENT FOR THE DIGITAL PILLAR",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE CURRENT DATED INSTRUMENT FOR THE DIGITAL PILLAR",
+          "role": "primary"
+        },
+        {
+          "text": "2 JULY 2024, SADC SECRETARIAT",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA-SADC MOU ON ECONOMIC COOPERATION SIGNED BY",
+          "role": "comparison"
+        },
+        {
+          "text": "SADC EXECUTIVE SECRETARY ELIAS MPEDI MAGOSI AND INDIA'S HIGH",
+          "role": "evidence"
+        },
+        {
+          "text": "BOTSWANA AND SPECIAL REPRESENTATIVE TO SADC, BHARATH KUMAR KUTHATI",
+          "role": "primary"
+        },
+        {
+          "text": "THE EARLIER INDIA-SADC ECONOMIC-COOPERATION MEMORANDUM OF 14 OCTOBER 1997",
+          "role": "outcome"
+        },
+        {
+          "text": "FRAMED AGAINST",
+          "role": "comparison"
+        },
+        {
+          "text": "SADC'S RISDP 2020-2030 AND ITS DIGITAL TRANSFORMATION STRATEGY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "2 JULY 2024, SADC SECRETARIAT → India-SADC MoU on Economic Cooperation signed by",
+        "SADC Executive Secretary Elias Mpedi Magosi and India's High Commissioner to",
+        "Botswana and Special Representative to SADC, Bharath Kumar Kuthati",
+        "RENEWS → the earlier India-SADC economic-cooperation memorandum of 14 October 1997",
+        "FRAMED AGAINST → SADC's RISDP 2020-2030 and its Digital Transformation Strategy"
+      ],
+      "matrix": [
+        [
+          "ACTOR / INTEREST",
+          "DECISIVE DISTINCTION",
+          "STATUS TRAP / LIMIT"
+        ],
+        [
+          "2 JULY 2024, SADC SECRETARIAT → India-SADC MoU on Economic Cooperation signed by",
+          "human and social development",
+          "space cooperation"
+        ],
+        [
+          "SADC Executive Secretary Elias Mpedi Magosi and India's High Commissioner to",
+          "new and emerging technologies (ICT development, connectivity, access, digital public infrastructure)",
+          "green growth"
+        ],
+        [
+          "Botswana and Special Representative to SADC, Bharath Kumar Kuthati",
+          "trade and investment",
+          "research and innovation"
+        ],
+        [
+          "RENEWS → the earlier India-SADC economic-cooperation memorandum of 14 October 1997",
+          "disaster risk management",
+          "STATUS → statement of intent; entry into force and delivery need separate verification"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "2 JULY 2024, SADC SECRETARIAT → India-SADC MoU on Economic Cooperation signed by",
+            "SADC Executive Secretary Elias Mpedi Magosi and India's High Commissioner to",
+            "Botswana and Special Representative to SADC, Bharath Kumar Kuthati",
+            "RENEWS → the earlier India-SADC economic-cooperation memorandum of 14 October 1997",
+            "FRAMED AGAINST → SADC's RISDP 2020-2030 and its Digital Transformation Strategy"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "human and social development",
+            "new and emerging technologies (ICT development, connectivity, access, digital public infrastructure)",
+            "trade and investment",
+            "disaster risk management",
+            "women-led development"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "space cooperation",
+            "green growth",
+            "research and innovation",
+            "STATUS → statement of intent; entry into force and delivery need separate verification"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATUS → statement of intent; entry into force and delivery need separate verification.",
+      "source_references": [
+        "The India-SADC economic-cooperation memorandum of 2 July 2024",
+        "Digital sovereignty as an unresolved design question"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "THREE GAPS THAT SEPARATE ANNOUNCEMENT FROM DELIVERY",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE GAPS THAT SEPARATE ANNOUNCEMENT FROM DELIVERY",
+          "role": "primary"
+        },
+        {
+          "text": "DELIVERY QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "CORRECT WORDING",
+          "role": "comparison"
+        },
+        {
+          "text": "500 MILLION USD GRANT",
+          "role": "evidence"
+        },
+        {
+          "text": "WAS IT DISBURSED?",
+          "role": "primary"
+        },
+        {
+          "text": "ANNOUNCED COMMITMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "190+ LOCS, USD 10 BN",
+          "role": "comparison"
+        },
+        {
+          "text": "WERE FUNDS DRAWN AND SPENT?",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DELIVERY QUESTION",
+        "CORRECT WORDING",
+        "500 million USD grant",
+        "was it disbursed?",
+        "announced commitment"
+      ],
+      "matrix": [
+        [
+          "COMMITMENT",
+          "DELIVERY QUESTION",
+          "CORRECT WORDING"
+        ],
+        [
+          "500 million USD grant",
+          "was it disbursed?",
+          "announced commitment"
+        ],
+        [
+          "190+ LoCs, USD 10 bn",
+          "were funds drawn and spent?",
+          "extended to 41 countries"
+        ],
+        [
+          "19 joint institutions",
+          "staffed and functioning?",
+          "being established jointly"
+        ],
+        [
+          "15,116 scholarships",
+          "were they completed?",
+          "offered, in 22 countries"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "DELIVERY QUESTION",
+            "CORRECT WORDING",
+            "500 million USD grant",
+            "was it disbursed?",
+            "announced commitment"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "were funds drawn and spent?",
+            "extended to 41 countries",
+            "19 joint institutions",
+            "staffed and functioning?",
+            "being established jointly"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "were they completed?",
+            "offered, in 22 countries",
+            "RULE → name the gap explicitly; the marks sit in the distinction, not the number",
+            "TRADE BOUNDARY → USD 81.99 billion in FY2024-25 is scale context, owned by Economy"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → name the gap explicitly; the marks sit in the distinction, not the number.",
+      "source_references": [
+        "Lines of credit as commitments rather than disbursements",
+        "India-Africa trade and the Economy boundary",
+        "The implementation and maintenance test"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CO-DEVELOPMENT AGAINST DONOR CONDITIONALITY",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CO-DEVELOPMENT AGAINST DONOR CONDITIONALITY",
+          "role": "primary"
+        },
+        {
+          "text": "IS INDIA SIMPLY ANOTHER EXTERNAL DONOR WITH A TEMPLATE?",
+          "role": "outcome"
+        },
+        {
+          "text": "INSTITUTIONS BUILT JOINTLY WITH THE AFRICAN UNION COMMISSION AND",
+          "role": "comparison"
+        },
+        {
+          "text": "DOES SUPPORT CARRY POLITICAL CONDITIONALITY?",
+          "role": "evidence"
+        },
+        {
+          "text": "NON-INTRUSIVE SUPPORT TO THE DEVELOPMENT OF DEMOCRATIC INSTITUTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "DOES NON-INTRUSIVE MEAN INDIA IS POLITICALLY ABSENT?",
+          "role": "outcome"
+        },
+        {
+          "text": "NO, IT MEANS ENGAGEMENT WITHOUT CONDITIONALITY OR PRESCRIPTIVENESS",
+          "role": "caution"
+        },
+        {
+          "text": "OPEN QUESTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROBLEM → is India simply another external donor with a template?",
+        "RESPONSE: institutions built jointly with the African Union Commission and members",
+        "PROBLEM → does support carry political conditionality?",
+        "RESPONSE: non-intrusive support to the development of democratic institutions",
+        "PROBLEM → does non-intrusive mean India is politically absent?"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "PROBLEM → is India simply another external donor with a template?",
+            "RESPONSE: institutions built jointly with the African Union Commission and members",
+            "PROBLEM → does support carry political conditionality?"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESPONSE: non-intrusive support to the development of democratic institutions",
+            "PROBLEM → does non-intrusive mean India is politically absent?",
+            "RESPONSE: no, it means engagement without conditionality or prescriptiveness"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "OPEN QUESTION → uniform realisation needs country-specific dated evidence"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OPEN QUESTION → uniform realisation needs country-specific dated evidence.",
+      "source_references": [
+        "Demand-driven and non-intrusive co-development as the model claim",
+        "The nineteen jointly established institutions"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "THE MAINTENANCE TEST AS THE REAL MEASURE OF LONG-TERM",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THE MAINTENANCE TEST AS THE REAL MEASURE OF LONG-TERM",
+          "role": "primary"
+        },
+        {
+          "text": "SUMMIT PLEDGE, MEMORANDUM SIGNATURE OR LAUNCH CEREMONY",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSTRUCTION OR ENROLMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "THE VISIBLE FIRST-YEAR OUTPUT",
+          "role": "evidence"
+        },
+        {
+          "text": "STAFFING, FUNDING AND TECHNICAL SUPPORT AFTER THE LAUNCH",
+          "role": "primary"
+        },
+        {
+          "text": "CONTINUED USE BY THE PARTNER INSTITUTION AND ITS OWN",
+          "role": "institution"
+        },
+        {
+          "text": "ONLY THE LAST TWO STEPS EVIDENCE A LONG-TERM INSTITUTIONAL",
+          "role": "evidence"
+        },
+        {
+          "text": "ANSWER-WRITING MUST CITE CONTINUITY, NOT THE SIZE OF THE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ANNOUNCEMENT → summit pledge, memorandum signature or launch ceremony",
+        "CONSTRUCTION or ENROLMENT: the visible first-year output",
+        "STAFFING, FUNDING and TECHNICAL SUPPORT after the launch",
+        "CONTINUED USE by the partner institution and its own students or patients",
+        "VERDICT → only the last two steps evidence a long-term institutional partnership"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "ANNOUNCEMENT → summit pledge, memorandum signature or launch ceremony",
+            "CONSTRUCTION or ENROLMENT: the visible first-year output"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STAFFING, FUNDING and TECHNICAL SUPPORT after the launch",
+            "CONTINUED USE by the partner institution and its own students or patients"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "VERDICT → only the last two steps evidence a long-term institutional partnership",
+            "CONSEQUENCE → answer-writing must cite continuity, not the size of the pledge"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → only the last two steps evidence a long-term institutional partnership.",
+      "source_references": [
+        "The implementation and maintenance test",
+        "Successor-network coverage and the offered-versus-completed line"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SECURITY LIMB WITH ITS EXACT LIMITS",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SECURITY LIMB WITH ITS EXACT LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "FEBRUARY 2020, LUCKNOW",
+          "role": "outcome"
+        },
+        {
+          "text": "FIRST INDIA-AFRICA DEFENCE MINISTERS CONCLAVE",
+          "role": "comparison"
+        },
+        {
+          "text": "LUCKNOW DECLARATION ADOPTED",
+          "role": "evidence"
+        },
+        {
+          "text": "OCTOBER 2022, GANDHINAGAR",
+          "role": "primary"
+        },
+        {
+          "text": "SECOND INDIA-AFRICA DEFENCE DIALOGUE; DECLARATION ON DEFENCE AND SECURITY",
+          "role": "outcome"
+        },
+        {
+          "text": "AFRICA-INDIA FIELD TRAINING EXERCISE, HELD IN INDIA IN 2019",
+          "role": "comparison"
+        },
+        {
+          "text": "ANTI-PIRACY DEPLOYMENTS AND CAPACITY COOPERATION, WESTERN INDIAN OCEAN AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FEBRUARY 2020, LUCKNOW → first India-Africa Defence Ministers Conclave",
+        "Lucknow Declaration adopted",
+        "OCTOBER 2022, GANDHINAGAR → second India-Africa Defence Dialogue; declaration on defence and security cooperation",
+        "AFINDEX → Africa-India Field Training Exercise, held in India in 2019 and March 2023",
+        "MARITIME → anti-piracy deployments and capacity cooperation, western Indian Ocean and the Gulf of Aden"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "FEBRUARY 2020, LUCKNOW → first India-Africa Defence Ministers Conclave",
+            "Lucknow Declaration adopted",
+            "OCTOBER 2022, GANDHINAGAR → second India-Africa Defence Dialogue; declaration on defence and security cooperation"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AFINDEX → Africa-India Field Training Exercise, held in India in 2019 and March 2023",
+            "MARITIME → anti-piracy deployments and capacity cooperation, western Indian Ocean and the Gulf of Aden",
+            "LIMIT → declarations and offers are not operational capability transfer"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "LIMIT → episodic exercises do not create a defence alliance"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → episodic exercises do not create a defence alliance.",
+      "source_references": [
+        "The defence-dialogue and field-exercise limb"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ONE DELIVERED REPRESENTATION OUTCOME, PRICED CORRECTLY",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ONE DELIVERED REPRESENTATION OUTCOME, PRICED CORRECTLY",
+          "role": "primary"
+        },
+        {
+          "text": "9 SEPTEMBER 2023, NEW DELHI SUMMIT",
+          "role": "outcome"
+        },
+        {
+          "text": "THE AFRICAN UNION BECOMES A PERMANENT MEMBER OF THE",
+          "role": "comparison"
+        },
+        {
+          "text": "WHY IT MATTERS",
+          "role": "evidence"
+        },
+        {
+          "text": "PARTNERSHIP LANGUAGE CONVERTED INTO AN INSTITUTIONAL RESULT",
+          "role": "primary"
+        },
+        {
+          "text": "REAL SCALE",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE FORUM, ONE SEAT",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT RESOLVED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "9 SEPTEMBER 2023, NEW DELHI SUMMIT → the African Union becomes a permanent member of",
+        "WHY IT MATTERS → partnership language converted into an institutional result",
+        "REAL SCALE → one forum, one seat",
+        "NOT RESOLVED → Africa's financing deficit, implementation deficit and United Nations representation deficit remain open",
+        "USE → cite as the benchmark for what a realistic representation success looks like"
+      ],
+      "matrix": [
+        [
+          "ACTOR / INTEREST",
+          "DECISIVE DISTINCTION",
+          "STATUS TRAP / LIMIT"
+        ],
+        [
+          "9 SEPTEMBER 2023, NEW DELHI SUMMIT → the African Union becomes a permanent member of the Group of Twenty",
+          "REAL SCALE → one forum, one seat",
+          "USE → cite as the benchmark for what a realistic representation success looks like"
+        ],
+        [
+          "WHY IT MATTERS → partnership language converted into an institutional result",
+          "NOT RESOLVED → Africa's financing deficit, implementation deficit and United Nations representation deficit remain open",
+          "9 SEPTEMBER 2023, NEW DELHI SUMMIT → the African Union becomes a permanent member of the Group of Twenty"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "9 SEPTEMBER 2023, NEW DELHI SUMMIT → the African Union becomes a permanent member of the Group of Twenty",
+            "WHY IT MATTERS → partnership language converted into an institutional result"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "REAL SCALE → one forum, one seat",
+            "NOT RESOLVED → Africa's financing deficit, implementation deficit and United Nations representation deficit remain open"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "USE → cite as the benchmark for what a realistic representation success looks like",
+            "9 SEPTEMBER 2023, NEW DELHI SUMMIT → the African Union becomes a permanent member of the Group of Twenty"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WHY IT MATTERS → partnership language converted into an institutional result.",
+      "source_references": [
+        "The African Union's permanent seat in the Group of Twenty"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "POLITICAL RISK AND THE COMPARATOR, WITHOUT CARICATURE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "POLITICAL RISK AND THE COMPARATOR, WITHOUT CARICATURE",
+          "role": "caution"
+        },
+        {
+          "text": "SAHEL AND WEST AFRICA",
+          "role": "outcome"
+        },
+        {
+          "text": "COUPS IN MALI, GUINEA, BURKINA FASO AND NIGER, 2020-2023",
+          "role": "comparison"
+        },
+        {
+          "text": "PROJECT DELAY, HIGHER COMMERCIAL RISK, HARDER PARTNER SELECTION",
+          "role": "caution"
+        },
+        {
+          "text": "ROUTED OBJECTIVE DEMANDS",
+          "role": "primary"
+        },
+        {
+          "text": "2023 PRELIMS QUESTION 98; 2024 PRELIMS QUESTION 91",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPETING ROUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "CHINA'S FORUM ON CHINA-AFRICA COOPERATION AND INFRASTRUCTURE FINANCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SAHEL AND WEST AFRICA → coups in Mali, Guinea, Burkina Faso and Niger, 2020-2023",
+        "EFFECT: project delay, higher commercial risk, harder partner selection",
+        "ROUTED OBJECTIVE DEMANDS: 2023 Prelims question 98; 2024 Prelims question 91",
+        "COMPETING ROUTE → China's Forum on China-Africa Cooperation and infrastructure finance",
+        "INDIA'S COMPARATIVE EDGE → training, affordable technology, digital public infrastructure, demand-driven project selection"
+      ],
+      "matrix": [
+        [
+          "ACTOR / INTEREST",
+          "DECISIVE DISTINCTION",
+          "STATUS TRAP / LIMIT"
+        ],
+        [
+          "SAHEL AND WEST AFRICA → coups in Mali, Guinea, Burkina Faso and Niger, 2020-2023",
+          "COMPETING ROUTE → China's Forum on China-Africa Cooperation and infrastructure finance",
+          "DISCIPLINE → do not assume African states passively choose between India and China"
+        ],
+        [
+          "EFFECT: project delay, higher commercial risk, harder partner selection",
+          "INDIA'S COMPARATIVE EDGE → training, affordable technology, digital public infrastructure, demand-driven project selection",
+          ""
+        ],
+        [
+          "ROUTED OBJECTIVE DEMANDS: 2023 Prelims question 98; 2024 Prelims question 91",
+          "DISCIPLINE → do not generalise instability to the continent",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "ACTOR / INTEREST",
+          "role": "primary",
+          "items": [
+            "SAHEL AND WEST AFRICA → coups in Mali, Guinea, Burkina Faso and Niger, 2020-2023",
+            "EFFECT: project delay, higher commercial risk, harder partner selection",
+            "ROUTED OBJECTIVE DEMANDS: 2023 Prelims question 98; 2024 Prelims question 91"
+          ]
+        },
+        {
+          "heading": "DECISIVE DISTINCTION",
+          "role": "comparison",
+          "items": [
+            "COMPETING ROUTE → China's Forum on China-Africa Cooperation and infrastructure finance",
+            "INDIA'S COMPARATIVE EDGE → training, affordable technology, digital public infrastructure, demand-driven project selection",
+            "DISCIPLINE → do not generalise instability to the continent"
+          ]
+        },
+        {
+          "heading": "STATUS TRAP / LIMIT",
+          "role": "caution",
+          "items": [
+            "DISCIPLINE → do not assume African states passively choose between India and China"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DISCIPLINE → do not assume African states passively choose between India and China.",
+      "source_references": [
+        "Political risk in the Sahel and the comparator question",
+        "Honest question ownership for this India-Africa owner"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANSWER SPINE TESTED AGAINST AFRICA'S OWN PLAN",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER SPINE TESTED AGAINST AFRICA'S OWN PLAN",
+          "role": "primary"
+        },
+        {
+          "text": "NAME THE PARTNERSHIP'S TWO LIMBS AND THE DATED SUMMIT",
+          "role": "outcome"
+        },
+        {
+          "text": "CAPACITY BUILDING, JOINT INSTITUTIONS, DIGITAL SUCCESSION, ONE DATED MEMORANDUM",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMITMENT AGAINST DISBURSEMENT, ANNOUNCEMENT AGAINST FUNCTIONING INSTITUTION",
+          "role": "institution"
+        },
+        {
+          "text": "SET THE MODEL AGAINST AGENDA 2063, SIGNED AS THE",
+          "role": "primary"
+        },
+        {
+          "text": "DECLARATION IN MAY 2013, WITH ITS 2013 TO 2063",
+          "role": "outcome"
+        },
+        {
+          "text": "GRADED VERDICT ON DELIVERY AND LOCAL OWNERSHIP; PREDICT NO",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "OPEN → name the partnership's two limbs and the dated summit framework with its gap",
+        "BUILD → capacity building, joint institutions, digital succession, one dated memorandum",
+        "TEST → commitment against disbursement, announcement against functioning institution",
+        "ALIGN → set the model against Agenda 2063, signed as the 50th Anniversary Solemn",
+        "Declaration in May 2013, with its 2013 to 2063 horizon and ten-year implementation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "INTEREST / DOCTRINE",
+          "role": "primary",
+          "items": [
+            "OPEN → name the partnership's two limbs and the dated summit framework with its gap",
+            "BUILD → capacity building, joint institutions, digital succession, one dated memorandum",
+            "TEST → commitment against disbursement, announcement against functioning institution"
+          ]
+        },
+        {
+          "heading": "DIPLOMATIC MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ALIGN → set the model against Agenda 2063, signed as the 50th Anniversary Solemn",
+            "Declaration in May 2013, with its 2013 to 2063 horizon and ten-year implementation",
+            "plans, and its Pan-African Vision of an integrated, prosperous and peaceful Africa"
+          ]
+        },
+        {
+          "heading": "CONSTRAINT / TRADE-OFF",
+          "role": "caution",
+          "items": [
+            "CLOSE → graded verdict on delivery and local ownership; predict no summit or project"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → graded verdict on delivery and local ownership; predict no summit or project.",
+      "source_references": [
+        "Agenda 2063 as the African-owned framework the partnership must fit",
+        "Honest question ownership for this India-Africa owner"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NINETEEN JOINT INSTITUTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "THE CORE INSTITUTIONAL ARCHITECTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "PAN AFRICAN E-NETWORK",
+          "role": "evidence"
+        },
+        {
+          "text": "HISTORICAL TELE-EDUCATION-CENTRED PRECURSOR",
+          "role": "primary"
+        },
+        {
+          "text": "SUCCESSOR TELE-EDUCATION AND TELE-MEDICINE NETWORK (MEA-TCIL",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA-SADC MEMORANDUM OF UNDERSTANDING ON ECONOMIC COOPERATION (2 JULY",
+          "role": "comparison"
+        },
+        {
+          "text": "QUANTITATIVE BACKDROP (MEA AFRICA BRIEF, APRIL 2026)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE AND INSTRUMENT DEPTH",
+          "role": "evidence",
+          "items": [
+            "Nineteen joint institutions: the core institutional architecture,",
+            "Pan African e-Network: historical tele-education-centred precursor",
+            "e-VBAB: successor tele-education and tele-medicine network (MEA-TCIL",
+            "India-SADC Memorandum of Understanding on Economic Cooperation (2 July"
+          ]
+        },
+        {
+          "heading": "STATUS, DATE AND FIGURE LIMIT",
+          "role": "caution",
+          "items": [
+            "Quantitative backdrop (MEA Africa brief, April 2026): more than 190",
+            "CAUTION: ITEC (Indian Technical and Economic Cooperation Programme): per the",
+            "CAUTION: India-Africa Forum Summit (IAFS): the umbrella political mechanism —",
+            "Direct PYQ boundary case (2025 Q9): the question's own framing —"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE DIPLOMATIC NUANCE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Boundary case — digital-partnership scale claims: an advanced answer",
+            "CAUTION: Boundary case — ITEC's dual role: ITEC serves both a general technical",
+            "CAUTION: Boundary case — African agency in setting priorities: the model's",
+            "CAUTION: Announcement-to-delivery gap: grant announcements ($500 million) and"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

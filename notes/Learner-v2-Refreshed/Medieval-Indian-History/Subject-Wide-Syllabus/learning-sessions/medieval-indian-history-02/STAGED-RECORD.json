@@ -1,0 +1,129 @@
+{
+  "record_id": "medieval-indian-history-02:learner-v2:g2",
+  "topic_key": "medieval-indian-history-02",
+  "variant": "learner-v2",
+  "generation": 2,
+  "supersedes": "medieval-indian-history-02:legacy-v1:g1",
+  "command": "Generate learner-v2 topic: Medieval History — Subject-wide Syllabus — The Ghaznavids & the Ghurian Invasions",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-02\\medieval-indian-history-02_Complete-Learning-Session_2026-08-30.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-02\\medieval-indian-history-02_Solved-Practice-Workbook_2026-08-30.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-02\\medieval-indian-history-02_Complete-Learning-Session_2026-08-30.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-02\\medieval-indian-history-02_Solved-Practice-Workbook_2026-08-30.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-02\\assets",
+  "generated_on": "2026-08-30",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-refreshed-new-topic",
+    "source_basic": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\02_Ghaznavids-and-Ghurian-Invasions.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\02_Ghaznavids-Ghurian-Invasions_Complete-Topic-Package.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\02_Ghaznavids-and-Ghurian-Invasions.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\00_Master-Chronology.md",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\README.md",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\ANSWER-WORTHINESS-AUDIT.md",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\REVISION-CHART_Ages-Eras-and-Distinctive-Features.md",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\LEARNING-SESSION-COMMAND-INDEX.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md"
+    ],
+    "official_question_sources": [],
+    "local_ocr_sources": [
+      "books\\medival_history\\Satish Chandra History of Medieval India.pdf",
+      "books\\medival_history\\dokumen.pub_medieval-india-from-sultanat-to-the-mughals-part-i-8124119899-9788124119891.pdf"
+    ],
+    "live_sources": [
+      "https://whc.unesco.org/en/list/211",
+      "https://www.unesco.org/en/culture-emergencies/heritage-emergency-fund/urgent-repairs-monuments-and-emergency-protective-measures-archaeological-sites-kabul-zabul-and",
+      "https://whc.unesco.org/en/list/233/"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-02\\medieval-indian-history-02_Complete-Learning-Session_2026-08-30.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.4"
+    },
+    "generation_date": "2026-08-30",
+    "superseded_v1": "medieval-indian-history-02:legacy-v1:g1",
+    "source_hashes": {
+      "books\\medival_history\\dokumen.pub_medieval-india-from-sultanat-to-the-mughals-part-i-8124119899-9788124119891.pdf": "cb13220e1c5fe92e4de5deb1c7270fb1dcbbe2a7c1bb95d6a5c45a8b23527deb",
+      "books\\medival_history\\Satish Chandra History of Medieval India.pdf": "f9cffedc2c2d807b961e9442571e74fede925bd99f57cf51fd8c601ee0712d58",
+      "notes\\Medieval-Indian-History\\02_Ghaznavids-Ghurian-Invasions_Complete-Topic-Package_2026-08-13.pdf": "f1cf65c172f26ad80d79346203faaf8f979859bd59cf03bd2f3face72a659441",
+      "notes\\Medieval-Indian-History\\02_Ghaznavids-Ghurian-Invasions_Solved-Workbook_2026-08-13.pdf": "f471173a2d0faf8a03fadd97f2646464d348c39a1f39db96ef15a04ca786f628",
+      "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md": "f2aed989ef31ed3961bf3fa232fc9520ea1425a9f3ba7ba91fe45c961803fa5a",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\00_Master-Chronology.md": "9e8eef80ce34563c7a9b659a7102da7bfa3e7dc348589b95aecc9f9ab4c5d4d2",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\02_Ghaznavids-Ghurian-Invasions_Complete-Topic-Package.md": "bd668c8dd9168e1ceeeb01fb91ee45a8e47f3dd672eb550a88bef5bb58d1036b",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\02_Ghaznavids-and-Ghurian-Invasions.md": "6506301ecb3e559d6475771d15d4e928ee5d782b591c1e496e79727085f8b956",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\ANSWER-WORTHINESS-AUDIT.md": "a7844101ffe674d25fc726e8e4b694189522b4f3de56e72a696c12a6b9d32981",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\02_Ghaznavids-and-Ghurian-Invasions.md": "00976d86e601bf21241ace5052f70cebd3446c8b99b84e3d90ce3a1de9c1664e",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\LEARNING-SESSION-COMMAND-INDEX.md": "98442fc4705dc9ce4719caca0e3793023dabe49d16570e2f9202b08a210bd38d",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\medieval-indian-history-02_Learning-Session.md": "eb4d074cb41823dd3dd377c500c2f10d227bb25fcfed5dcb65d0397c54ef90bd",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "1a4552d27c0d690fcb32bc9b2f810147050e33c38cf9129ee6aaa53ec776efd8",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\README.md": "1f137985e4d76e1ac205f42b0676f2c46aa1d078a17423f2b6395f3859c90acb",
+      "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\REVISION-CHART_Ages-Eras-and-Distinctive-Features.md": "8bbf312e095cbee1c1b60e64774d70316a005b3e1cc5a405c78ef96029d722cb",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md": "42474c847c02c1f14298907a34bb7daca8f361ef6b9235fe6c1a4910a4d7057f",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md": "dcb4f893fe829496d419d46f060b770b9aa056bfc13c7ac54280cc7c9edb4b97",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md": "5304d55d4a720f5d92fcdf81476ddb0bae811a9f9e2634815fb72651c267c9df",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-01-02-2026-08-30-sequential.json": "641ca2a46aa013ec038aff9130b3c80e41be1affc6811143ae78ecd539c8b006",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Medieval-Indian-History\\medieval-indian-history-02.json": "94ad05a524c59475404397366d51b215f5e639b8aa35fa0547a563fbd45f116b",
+      "upsc-ai-kit\\manifests\\v2\\medieval-indian-history--subject-wide-syllabus.json": "ab8d9c3622889689e5504f1b1e17fab6dca60c953402a3c7d4e6f4d5e3696ce4",
+      "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "3 verified/routed PYQs; 48 hard and 12 remedial MCQs; 9 original solved Mains questions.",
+    "current_linkage_note": "UNESCO's Minaret and Archaeological Remains of Jam record was rechecked on 30 August 2026. It confirms the 1194 Ghurid monument, its influence on later architecture including the Qutb Minar, and continuing conservation requirements. This heritage linkage does not establish campaign chronology, motives or territorial control.",
+    "pyq_status_note": "Locally held papers and routing ledgers control wording and ownership; unavailable official keys remain explicitly inferred or provisional.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 4,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "edab429a131926d4216e6e4e6d7c9320a5b8c2bc610f421e64f19b7359c59396"
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "medieval-indian-history-02:learner-v2:g2"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-30",
+    "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-02\\carvaka-g2",
+    "master_image": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-02\\carvaka-g2\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-02\\carvaka-g2\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-02\\carvaka-g2\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-02\\carvaka-g2\\editable",
+    "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\medieval-indian-history-02\\medieval-indian-history-02_Graphical-Spec-g2.json",
+    "graphical_spec_sha256": "3ca484879e91b79b300ede2786fc95d5d98d5b0bc63183472be4ff6f47b733ce",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-02\\carvaka-g2\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-02\\carvaka-g2\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-02\\carvaka-g2\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-02\\carvaka-g2\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-02\\carvaka-g2\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-02\\carvaka-g2\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Medieval-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\medieval-indian-history-02\\carvaka-g2\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_source": "manual-authored-spec",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-01-02-2026-08-30-sequential.json",
+    "ascii_master_spec_sha256": "641ca2a46aa013ec038aff9130b3c80e41be1affc6811143ae78ecd539c8b006"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

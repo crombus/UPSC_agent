@@ -1,0 +1,1141 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "medieval-indian-history-01",
+  "subject": "Medieval-Indian-History",
+  "title": "INDIA ON THE EVE OF THE MEDIEVAL AGE & ARAB-TURKISH CONTACTS",
+  "short_route": "TRANSITION WITHOUT A POLITICAL → FOUR CONTACT LAYERS → CHRONOLOGY OF CONTACT AND → MONSOON MARITIME CIRCUIT → SIND AS CONQUEST AND → FORMATION OF THE PERSIANATE-TURKISH",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Complete-Learning-Session_2026-09-03.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\medieval-indian-history-01-deep-review-2026-09-03-g5.json",
+  "ascii_spec_sha256": "1fe4e4bd8d50207c5c6872be2d720dc845d4cd18a458e0c358be70002761a988",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TRANSITION WITHOUT A POLITICAL VACUUM",
+      "structural_type": "network-map",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TRANSITION WITHOUT A POLITICAL VACUUM",
+          "role": "primary"
+        },
+        {
+          "text": "PALA ---- PRATIHARA ---- RASHTRAKUTA COMPETITIVE ORDER REGIONAL REDISTRIBUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "SOUTHERN AXIS",
+          "role": "comparison"
+        },
+        {
+          "text": "CHOLA STATE, PORTS AND INDIAN OCEAN NETWORKS",
+          "role": "institution"
+        },
+        {
+          "text": "SUBSTANTIAL STATE CAPACITY SURVIVED; POOLED COMMAND REMAINED DIFFICULT.",
+          "role": "institution"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "REGIONAL STATES AND ACTIVE INDIAN OCEAN NETWORKS MEAN POLITICAL",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PALA ---- PRATIHARA ---- RASHTRAKUTA competitive order regional redistribution",
+        "SOUTHERN AXIS → Chola state, ports and Indian Ocean networks",
+        "VERDICT: substantial state capacity survived; pooled command remained difficult.",
+        "MUST REMEMBER: Regional states and active Indian Ocean networks mean political plurality, not a civilisational"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "PALA ---- PRATIHARA ---- RASHTRAKUTA competitive order regional redistribution",
+            "SOUTHERN AXIS → Chola state, ports and Indian Ocean networks"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "VERDICT: substantial state capacity survived; pooled command remained difficult.",
+            "MUST REMEMBER: Regional states and active Indian Ocean networks mean political plurality, not a civilisational vacuum."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "PALA ---- PRATIHARA ---- RASHTRAKUTA competitive order regional redistribution",
+            "SOUTHERN AXIS → Chola state, ports and Indian Ocean networks"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: substantial state capacity survived; pooled command remained difficult.",
+      "answer_line": "substantial state capacity survived; pooled command remained difficult.",
+      "source_references": [
+        "Political setting",
+        "Regional successor states",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\01_India-on-the-Eve-of-Medieval-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g4\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "FOUR CONTACT LAYERS",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FOUR CONTACT LAYERS",
+          "role": "primary"
+        },
+        {
+          "text": "ARAB AND INDIAN MERCHANTS, PORTS AND MONSOON ROUTES",
+          "role": "outcome"
+        },
+        {
+          "text": "NUMERALS, ASTRONOMY, MEDICINE, LANGUAGE AND TRANSLATION",
+          "role": "comparison"
+        },
+        {
+          "text": "SIND, KABUL, ZABUL, JALALABAD AND PUNJAB",
+          "role": "evidence"
+        },
+        {
+          "text": "CAVALRY, ROADS, IQTA LOGIC AND CONCENTRATED COMMAND",
+          "role": "primary"
+        },
+        {
+          "text": "CONTACT PRECEDED CONQUEST, AND THE FOUR LAYERS CHANGED AT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "COMMERCIAL → Arab and Indian merchants, ports and monsoon routes",
+        "CULTURAL → numerals, astronomy, medicine, language and translation",
+        "FRONTIER → Sind, Kabul, Zabul, Jalalabad and Punjab",
+        "MILITARY-INSTITUTIONAL → cavalry, roads, iqta logic and concentrated command",
+        "RULE: contact preceded conquest, and the four layers changed at different speeds."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "COMMERCIAL → Arab and Indian merchants, ports and monsoon routes",
+          "FRONTIER → Sind, Kabul, Zabul, Jalalabad and Punjab",
+          "RULE: contact preceded conquest, and the four layers changed at different speeds."
+        ],
+        [
+          "CULTURAL → numerals, astronomy, medicine, language and translation",
+          "MILITARY-INSTITUTIONAL → cavalry, roads, iqta logic and concentrated command",
+          "COMMERCIAL → Arab and Indian merchants, ports and monsoon routes"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "COMMERCIAL → Arab and Indian merchants, ports and monsoon routes",
+            "CULTURAL → numerals, astronomy, medicine, language and translation"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "FRONTIER → Sind, Kabul, Zabul, Jalalabad and Punjab",
+            "MILITARY-INSTITUTIONAL → cavalry, roads, iqta logic and concentrated command"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "RULE: contact preceded conquest, and the four layers changed at different speeds.",
+            "COMMERCIAL → Arab and Indian merchants, ports and monsoon routes"
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: contact preceded conquest, and the four layers changed at different speeds.",
+      "answer_line": "contact preceded conquest, and the four layers changed at different speeds.",
+      "source_references": [
+        "Scope",
+        "Arab-Turkish distinction",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\01_India-on-the-Eve-of-Medieval-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g4\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CHRONOLOGY OF CONTACT AND FRONTIER CHANGE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CHRONOLOGY OF CONTACT AND FRONTIER CHANGE",
+          "role": "primary"
+        },
+        {
+          "text": "MUHAMMAD BIN QASIM ESTABLISHES LIMITED ARAB RULE IN SINDH",
+          "role": "outcome"
+        },
+        {
+          "text": "ALPTIGIN AND SABUKTIGIN BUILD THE GHAZNI FRONTIER STATE",
+          "role": "institution"
+        },
+        {
+          "text": "PUNJAB INCORPORATION DIFFERS FROM RAIDS INTO THE PLAINS",
+          "role": "evidence"
+        },
+        {
+          "text": "SOMNATH RAID; MOTIVES AND BOOTY NUMBERS REQUIRE SOURCE CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "GHURID DEFEATS IN GUJARAT AND TARAIN I PRESERVE CONTINGENCY",
+          "role": "outcome"
+        },
+        {
+          "text": "TARAIN II AND CHANDAWAR CREATE A NEW CONQUEST BRIDGE",
+          "role": "comparison"
+        },
+        {
+          "text": "AIBAK AND EASTERN COMMANDERS MOVE TOWARD DELEGATED STATE FORMATION.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "711-12 → Muhammad bin Qasim establishes limited Arab rule in Sindh",
+        "963 / 977 → Alptigin and Sabuktigin build the Ghazni frontier state",
+        "998-1030 → Mahmud: Punjab incorporation differs from raids into the plains",
+        "1025-26 → Somnath raid; motives and booty numbers require source caution",
+        "1178 / 1191 → Ghurid defeats in Gujarat and Tarain I preserve contingency"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "711-12 → Muhammad bin Qasim establishes limited Arab rule in Sindh",
+            "963 / 977 → Alptigin and Sabuktigin build the Ghazni frontier state"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "998-1030 → Mahmud: Punjab incorporation differs from raids into the plains",
+            "1025-26 → Somnath raid; motives and booty numbers require source caution"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "1178 / 1191 → Ghurid defeats in Gujarat and Tarain I preserve contingency",
+            "1192 / 1194 → Tarain II and Chandawar create a new conquest bridge c. 1200 → Aibak and eastern commanders move toward delegated state formation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "711-12 → Muhammad bin Qasim establishes limited Arab rule in Sindh.",
+      "source_references": [
+        "Chronology",
+        "Transition",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\01_India-on-the-Eve-of-Medieval-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g4\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "MONSOON MARITIME CIRCUIT",
+      "structural_type": "network-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MONSOON MARITIME CIRCUIT",
+          "role": "primary"
+        },
+        {
+          "text": "PERSIAN GULF",
+          "role": "outcome"
+        },
+        {
+          "text": "RED SEA",
+          "role": "comparison"
+        },
+        {
+          "text": "ARAB AND INDIAN MERCHANTS + MONSOON NAVIGATION",
+          "role": "evidence"
+        },
+        {
+          "text": "GUJARAT COAST ---- MALABAR COAST ---- SRI LANKA",
+          "role": "primary"
+        },
+        {
+          "text": "SOUTHEAST ASIA GOODS + RESIDENT COMMUNITIES + WORSHIP SPACES",
+          "role": "outcome"
+        },
+        {
+          "text": "A MOSQUE OR MERCHANT SETTLEMENT DOES NOT PROVE FOREIGN",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PERSIAN GULF / RED SEA",
+        "Arab and Indian merchants + monsoon navigation",
+        "GUJARAT COAST ---- MALABAR COAST ---- SRI LANKA / SOUTHEAST ASIA goods + resident communities",
+        "LIMIT: a mosque or merchant settlement does not prove foreign sovereignty."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "PERSIAN GULF / RED SEA",
+            "Arab and Indian merchants + monsoon navigation"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "GUJARAT COAST ---- MALABAR COAST ---- SRI LANKA / SOUTHEAST ASIA goods + resident communities + worship spaces + knowledge",
+            "LIMIT: a mosque or merchant settlement does not prove foreign sovereignty."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "PERSIAN GULF / RED SEA",
+            "Arab and Indian merchants + monsoon navigation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: a mosque or merchant settlement does not prove foreign sovereignty.",
+      "source_references": [
+        "Arab maritime trade",
+        "Malabar",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\01_India-on-the-Eve-of-Medieval-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g4\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SIND AS CONQUEST AND CONDUIT",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SIND AS CONQUEST AND CONDUIT",
+          "role": "primary"
+        },
+        {
+          "text": "711-12 CAMPAIGN",
+          "role": "outcome"
+        },
+        {
+          "text": "MUHAMMAD BIN QASIM DEFEATS DAHIR AND HOLDS KEY SINDH",
+          "role": "comparison"
+        },
+        {
+          "text": "GARRISONS + TAXATION + RETAINED LOCAL PERSONNEL + NEGOTIATED",
+          "role": "evidence"
+        },
+        {
+          "text": "SINDH AND MULTAN FOOTHOLD, NOT A STRAIGHT ROAD TO",
+          "role": "caution"
+        },
+        {
+          "text": "EARLY-13TH-CENTURY PERSIAN NARRATIVE ABOUT 8TH-CENTURY EVENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "SOURCE RULE",
+          "role": "evidence"
+        },
+        {
+          "text": "CHRONICLE + INSCRIPTION + COIN + ARCHAEOLOGY MUST BE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "711-12 CAMPAIGN → Muhammad bin Qasim defeats Dahir and holds key Sindh towns",
+        "RULE → garrisons + taxation + retained local personnel + negotiated accommodation",
+        "LIMIT → Sindh and Multan foothold, not a straight road to all-India conquest",
+        "CHACHNAMA → early-13th-century Persian narrative about 8th-century events",
+        "SOURCE RULE → chronicle + inscription + coin + archaeology must be compared"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "711-12 CAMPAIGN → Muhammad bin Qasim defeats Dahir and holds key Sindh towns",
+            "RULE → garrisons + taxation + retained local personnel + negotiated accommodation",
+            "LIMIT → Sindh and Multan foothold, not a straight road to all-India conquest"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "CHACHNAMA → early-13th-century Persian narrative about 8th-century events",
+            "SOURCE RULE → chronicle + inscription + coin + archaeology must be compared",
+            "CONDUIT → merchants + mathematics + astronomy + medicine + translation"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "VERDICT: limited conquest and durable contact were both historically important."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: limited conquest and durable contact were both historically important.",
+      "answer_line": "limited conquest and durable contact were both historically important.",
+      "source_references": [
+        "Sind",
+        "Knowledge transfer",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\01_India-on-the-Eve-of-Medieval-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g4\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "FORMATION OF THE PERSIANATE-TURKISH PACKAGE",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FORMATION OF THE PERSIANATE-TURKISH PACKAGE",
+          "role": "primary"
+        },
+        {
+          "text": "ABBASID FRAGMENTATION REGIONAL IRANIAN AND CENTRAL ASIAN MILITARY STATES",
+          "role": "outcome"
+        },
+        {
+          "text": "TURKIC COMMANDERS + ISLAMISATION + PERSIAN LANGUAGE AND COURT",
+          "role": "institution"
+        },
+        {
+          "text": "PERSIANATE DESCRIBES CULTURE AND ADMINISTRATION, NOT ETHNICITY.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ABBASID FRAGMENTATION regional Iranian and Central Asian military states",
+        "Turkic commanders + Islamisation + Persian language and court culture cavalry command + documentary kingship",
+        "TRAP: Persianate describes culture and administration, not ethnicity."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "ABBASID FRAGMENTATION regional Iranian and Central Asian military states",
+            "Turkic commanders + Islamisation + Persian language and court culture cavalry command + documentary kingship + revenue-service institutions"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "TRAP: Persianate describes culture and administration, not ethnicity.",
+            "ABBASID FRAGMENTATION regional Iranian and Central Asian military states"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "Turkic commanders + Islamisation + Persian language and court culture cavalry command + documentary kingship + revenue-service institutions",
+            "TRAP: Persianate describes culture and administration, not ethnicity."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP: Persianate describes culture and administration, not ethnicity.",
+      "source_references": [
+        "Persianisation",
+        "Turkish military elites",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\01_India-on-the-Eve-of-Medieval-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g4\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FRONTIER DEPTH AND THE OUTER BASTIONS",
+      "structural_type": "spatial-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FRONTIER DEPTH AND THE OUTER BASTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL ASIA",
+          "role": "outcome"
+        },
+        {
+          "text": "GANGA PLAIN ROADS, BASES, SUPPLY AND INTELLIGENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "HINDU SHAHI CONTROL",
+          "role": "evidence"
+        },
+        {
+          "text": "STRATEGIC DEPTH",
+          "role": "primary"
+        },
+        {
+          "text": "SHAHI LOSSES + PUNJAB BASE",
+          "role": "outcome"
+        },
+        {
+          "text": "SHORTER OPERATIONAL CORRIDOR",
+          "role": "comparison"
+        },
+        {
+          "text": "GUJARAT 1178-79 AND TARAIN 1191 DEFEATS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL ASIA → GHAZNI → KABUL → JALALABAD → PUNJAB → GANGA PLAIN roads, bases",
+        "HINDU SHAHI CONTROL → strategic depth",
+        "SHAHI LOSSES + PUNJAB BASE → shorter operational corridor",
+        "COUNTER-EVIDENCE → Gujarat 1178-79 and Tarain 1191 defeats",
+        "VERDICT: access enabled campaigns; it did not determine victory."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CHRONOLOGY / PHASE",
+          "role": "evidence",
+          "items": [
+            "CENTRAL ASIA → GHAZNI → KABUL → JALALABAD → PUNJAB → GANGA PLAIN roads, bases, supply and intelligence",
+            "HINDU SHAHI CONTROL → strategic depth"
+          ]
+        },
+        {
+          "heading": "MATERIAL / INSTITUTION",
+          "role": "mechanism",
+          "items": [
+            "SHAHI LOSSES + PUNJAB BASE → shorter operational corridor",
+            "COUNTER-EVIDENCE → Gujarat 1178-79 and Tarain 1191 defeats"
+          ]
+        },
+        {
+          "heading": "IMPACT / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT: access enabled campaigns; it did not determine victory.",
+            "CENTRAL ASIA → GHAZNI → KABUL → JALALABAD → PUNJAB → GANGA PLAIN roads, bases, supply and intelligence"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: access enabled campaigns; it did not determine victory.",
+      "answer_line": "access enabled campaigns; it did not determine victory.",
+      "source_references": [
+        "Hindu Shahis",
+        "Outer bastions",
+        "Frontier logistics",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\01_India-on-the-Eve-of-Medieval-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g4\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "RAJPUT CAPACITY AND COORDINATION",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RAJPUT CAPACITY AND COORDINATION",
+          "role": "primary"
+        },
+        {
+          "text": "STRENGTHS LIMITS AGRARIAN REVENUE RIVAL SOVEREIGN CENTRES FORTS AND",
+          "role": "outcome"
+        },
+        {
+          "text": "GUJARAT AND TARAIN I VICTORIES PRITHVIRAJ'S POLITICAL ISOLATION",
+          "role": "comparison"
+        },
+        {
+          "text": "COURAGE AND CAPACITY EXISTED; DURABLE COMMON COMMAND WAS WEAKER.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STRENGTHS LIMITS agrarian revenue rival sovereign centres forts and feudatory",
+        "armies uneven intelligence sharing regional legitimacy delayed pooled reinforcement",
+        "Gujarat and Tarain I victories Prithviraj's political isolation",
+        "VERDICT: courage and capacity existed; durable common command was weaker."
+      ],
+      "matrix": [
+        [
+          "POLITY / ECONOMY / SOCIETY",
+          "EVIDENCE / MECHANISM",
+          "DEBATE / LEGACY"
+        ],
+        [
+          "STRENGTHS LIMITS agrarian revenue rival sovereign centres forts and feudatory",
+          "Gujarat and Tarain I victories Prithviraj's political isolation",
+          "STRENGTHS LIMITS agrarian revenue rival sovereign centres forts and feudatory"
+        ],
+        [
+          "armies uneven intelligence sharing regional legitimacy delayed pooled reinforcement",
+          "VERDICT: courage and capacity existed; durable common command was weaker.",
+          "armies uneven intelligence sharing regional legitimacy delayed pooled reinforcement"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "STRENGTHS LIMITS agrarian revenue rival sovereign centres forts and feudatory",
+            "armies uneven intelligence sharing regional legitimacy delayed pooled reinforcement"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "Gujarat and Tarain I victories Prithviraj's political isolation",
+            "VERDICT: courage and capacity existed; durable common command was weaker."
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "STRENGTHS LIMITS agrarian revenue rival sovereign centres forts and feudatory",
+            "armies uneven intelligence sharing regional legitimacy delayed pooled reinforcement"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: courage and capacity existed; durable common command was weaker.",
+      "answer_line": "courage and capacity existed; durable common command was weaker.",
+      "source_references": [
+        "Rajput political order",
+        "Coordination",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\01_India-on-the-Eve-of-Medieval-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g4\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "MILITARY-FISCAL INTERACTION",
+      "structural_type": "cause-mechanism-effect",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MILITARY-FISCAL INTERACTION",
+          "role": "primary"
+        },
+        {
+          "text": "REVENUE ASSIGNMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "IQTA LOGIC",
+          "role": "comparison"
+        },
+        {
+          "text": "MAINTAINED MOUNTED FORCE",
+          "role": "evidence"
+        },
+        {
+          "text": "ROADS + BASES + REMOUNTS",
+          "role": "primary"
+        },
+        {
+          "text": "MOBILITY AND OPERATIONAL ENDURANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "RECONNAISSANCE + RESERVES",
+          "role": "comparison"
+        },
+        {
+          "text": "TACTICAL FLEXIBILITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "REVENUE ASSIGNMENT / IQTA LOGIC → maintained mounted force",
+        "ROADS + BASES + REMOUNTS → mobility and operational endurance",
+        "RECONNAISSANCE + RESERVES → tactical flexibility",
+        "CONCENTRATED COMMAND → rapid decision and reinforcement",
+        "NO SINGLE CAUSE: horses without finance, roads and command were insufficient."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "REVENUE ASSIGNMENT / IQTA LOGIC → maintained mounted force",
+            "ROADS + BASES + REMOUNTS → mobility and operational endurance"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "RECONNAISSANCE + RESERVES → tactical flexibility",
+            "CONCENTRATED COMMAND → rapid decision and reinforcement"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "NO SINGLE CAUSE: horses without finance, roads and command were insufficient.",
+            "REVENUE ASSIGNMENT / IQTA LOGIC → maintained mounted force"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO SINGLE CAUSE: horses without finance, roads and command were insufficient.",
+      "source_references": [
+        "Iqta",
+        "Cavalry",
+        "Military organisation",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\01_India-on-the-Eve-of-Medieval-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g4\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CONDITION, MECHANISM AND TRIGGER",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CONDITION, MECHANISM AND TRIGGER",
+          "role": "mechanism"
+        },
+        {
+          "text": "FRONTIER-DEPTH LOSS + REGIONAL RIVALRY",
+          "role": "outcome"
+        },
+        {
+          "text": "MOBILITY + FISCAL CONCENTRATION + LOGISTICS + COMMAND",
+          "role": "comparison"
+        },
+        {
+          "text": "LEADERSHIP + DIPLOMACY + TACTICAL ADAPTATION",
+          "role": "evidence"
+        },
+        {
+          "text": "TURKISH REVERSES SHOW STRUCTURES CHANGED ODDS, NOT CERTAINTY",
+          "role": "caution"
+        },
+        {
+          "text": "FINAL FORMULA",
+          "role": "outcome"
+        },
+        {
+          "text": "PROBABILITY, NOT INEVITABILITY; ORGANISATION, NOT RACE.",
+          "role": "caution"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CONDITION → frontier-depth loss + regional rivalry",
+        "MECHANISM → mobility + fiscal concentration + logistics + command",
+        "TRIGGER → leadership + diplomacy + tactical adaptation",
+        "COUNTERFACT → Turkish reverses show structures changed odds, not certainty",
+        "FINAL FORMULA: probability, not inevitability; organisation, not race."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "CONDITION → frontier-depth loss + regional rivalry",
+            "MECHANISM → mobility + fiscal concentration + logistics + command"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "TRIGGER → leadership + diplomacy + tactical adaptation",
+            "COUNTERFACT → Turkish reverses show structures changed odds, not certainty"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "FINAL FORMULA: probability, not inevitability; organisation, not race.",
+            "CLOSE DISTINCTION: Arab maritime and Sind contacts preceded the later Persianate-Turkish military-state transition."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Arab maritime and Sind contacts preceded the later Persianate-Turkish military-state transition.",
+      "source_references": [
+        "Causation",
+        "Contingency",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\01_India-on-the-Eve-of-Medieval-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g4\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "EVIDENCE DISCIPLINE",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EVIDENCE DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "PERSIAN CHRONICLES",
+          "role": "outcome"
+        },
+        {
+          "text": "CAMPAIGNS AND IDEALS",
+          "role": "comparison"
+        },
+        {
+          "text": "PATRONAGE AND HINDSIGHT",
+          "role": "evidence"
+        },
+        {
+          "text": "REMEMBERED SINDH CONQUEST",
+          "role": "primary"
+        },
+        {
+          "text": "LATE PERSIAN MULTI-GENRE NARRATIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCAL ACTS AND AUTHORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "UNEVEN SURVIVAL AND REACH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ARABIC / PERSIAN CHRONICLES → campaigns and ideals",
+        "patronage and hindsight",
+        "CHACHNAMA → remembered Sindh conquest",
+        "late Persian multi-genre narrative",
+        "INSCRIPTIONS / COINS → local acts and authority"
+      ],
+      "matrix": [
+        [
+          "ARABIC / PERSIAN CHRONICLES → campaigns and ideals",
+          "patronage and hindsight"
+        ],
+        [
+          "CHACHNAMA → remembered Sindh conquest",
+          "late Persian multi-genre narrative"
+        ],
+        [
+          "INSCRIPTIONS / COINS → local acts and authority",
+          "uneven survival and reach"
+        ],
+        [
+          "ARCHAEOLOGY → ports, forts and settlements",
+          "identification and dating limits"
+        ],
+        [
+          "LATER EPICS → political memory",
+          "recension, romance and anachronism"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "SOURCE / MATERIAL",
+          "role": "evidence",
+          "items": [
+            "ARABIC / PERSIAN CHRONICLES → campaigns and ideals",
+            "patronage and hindsight",
+            "CHACHNAMA → remembered Sindh conquest",
+            "late Persian multi-genre narrative",
+            "INSCRIPTIONS / COINS → local acts and authority"
+          ]
+        },
+        {
+          "heading": "METHOD / DEBATE",
+          "role": "comparison",
+          "items": [
+            "uneven survival and reach",
+            "ARCHAEOLOGY → ports, forts and settlements",
+            "identification and dating limits",
+            "LATER EPICS → political memory",
+            "recension, romance and anachronism"
+          ]
+        },
+        {
+          "heading": "HISTORICAL RESULT",
+          "role": "outcome",
+          "items": [
+            "PRITHVIRAJA VIJAYA / RASO → nearer eulogy versus much later literary memory",
+            "METHOD: claim → source date/genre → corroboration → explicit uncertainty.",
+            "EVIDENCE LIMIT: Persianate identifies a cultural-administrative formation, not a single ethnicity or automatic sovereignty."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Persianate identifies a cultural-administrative formation, not a single ethnicity or automatic sovereignty.",
+      "source_references": [
+        "Sources",
+        "Historical method",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\01_India-on-the-Eve-of-Medieval-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g4\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 01 ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 01 ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA WAS CONNECTED AND POLITICALLY REGIONALISED, NOT ISOLATED",
+          "role": "caution"
+        },
+        {
+          "text": "TRADE, SETTLEMENTS AND KNOWLEDGE WITHOUT AUTOMATIC CONQUEST",
+          "role": "comparison"
+        },
+        {
+          "text": "WEST/CENTRAL ASIA",
+          "role": "evidence"
+        },
+        {
+          "text": "PERSIANISED TURKISH MILITARY STATES",
+          "role": "primary"
+        },
+        {
+          "text": "SHAHI DEPTH, ROADS AND PUNJAB BASE",
+          "role": "outcome"
+        },
+        {
+          "text": "RAJPUT CAPACITY PLUS COORDINATION LIMITS",
+          "role": "comparison"
+        },
+        {
+          "text": "CONDITION + MECHANISM + CONTINGENT TRIGGER",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "OPEN → India was connected and politically regionalised, not isolated",
+        "SEA → trade, settlements and knowledge without automatic conquest",
+        "WEST/CENTRAL ASIA → Persianised Turkish military states",
+        "FRONTIER → Shahi depth, roads and Punjab base",
+        "POLITY → Rajput capacity plus coordination limits"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "POLITY / ECONOMY / SOCIETY",
+          "role": "primary",
+          "items": [
+            "OPEN → India was connected and politically regionalised, not isolated",
+            "SEA → trade, settlements and knowledge without automatic conquest",
+            "WEST/CENTRAL ASIA → Persianised Turkish military states"
+          ]
+        },
+        {
+          "heading": "EVIDENCE / MECHANISM",
+          "role": "evidence",
+          "items": [
+            "FRONTIER → Shahi depth, roads and Punjab base",
+            "POLITY → Rajput capacity plus coordination limits",
+            "CAUSATION → condition + mechanism + contingent trigger"
+          ]
+        },
+        {
+          "heading": "DEBATE / LEGACY",
+          "role": "comparison",
+          "items": [
+            "CLOSE → interaction and institutional recombination shaped the transition."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → interaction and institutional recombination shaped the transition.",
+      "source_references": [
+        "Answer architecture",
+        "Synthesis",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\basic\\01_India-on-the-Eve-of-Medieval-Age.md",
+        "upsc-ai-kit\\knowledge\\Medieval-Indian-History\\advanced\\01_India-on-the-Eve-of-Medieval-Age.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g4\\medieval-indian-history-01_Complete-Learning-Session_2026-08-30.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Medieval\\MH\\learning-sessions\\mhi-01\\g5\\medieval-indian-history-01_Complete-Learning-Session_2026-09-03.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA ON THE EVE OF THE MEDIEVAL AGE &",
+          "role": "outcome"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "comparison"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "primary"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "outcome"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "comparison"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "India on the Eve of the Medieval Age & Arab-Turkish Contacts — ADVANCED",
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "+ Concept — \"Outer bastions\" of India",
+            "Satish Chandra separates two processes: Arab maritime-commercial contact with India and the later Central Asian Turkish military thrust.",
+            "Indian merchants, vaids and craftsmen were present around the Persian Gulf and beyond"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}
