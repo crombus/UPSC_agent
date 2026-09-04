@@ -1,0 +1,195 @@
+ASCII MASTER FLOW — PANEL 1/12: The 1971 Census baseline and the decisive asymmetry
+ATTRIBUTED BASELINE -> THE 1971 CENSUS (never 1951, never current data)
+        over 400 tribal communities | nearly 38 million people | nearly 6.9 per cent of India
+CONCENTRATIONS -> Madhya Pradesh | Bihar | Orissa | north-eastern India | West Bengal
+               -> Maharashtra | Gujarat | Rajasthan
++--------------------------------+-----------------------------------------------+
+| NORTH-EAST                     | EVERYWHERE ELSE                               |
+| overwhelming local majority    | minorities in their own home states           |
+| self-government is possible    | only protective regulation is available       |
++--------------------------------+-----------------------------------------------+
+WHY IT MATTERS -> this asymmetry, not sentiment, dictates which Schedule applies
+MUST REMEMBER: The Fifth and Sixth Schedules, community-sensitive development, the Naga
+  settlement and statehood process, and the 1986 Mizo Accord represent different
+  constitutional and negotiated routes.
+
+ASCII MASTER FLOW — PANEL 2/12: Colonial dispossession and the revolt tradition
+1 MARKET PENETRATION -> money-lenders, traders, revenue farmers, middlemen, petty officials
+2 DEBT AND LAND LOSS -> families engulfed in debt -> land passes to outsiders
+                     -> reduced to agricultural labourers, sharecroppers, rack-rented tenants
+                     -> belated anti-alienation legislation FAILS to halt the process
+3 FOREST LAW         -> large tracts regulated for conservation and commercial exploitation
+                     -> shifting cultivation forbidden; access to forest produce restricted
+4 OFFICIAL EXTORTION -> police, forest officials and other government officers
+      v
+REVOLT TRADITION -> Santhal uprising | Munda rebellion led by Birsa Munda
+      v
+PARTICIPATION -> national and peasant movements in Orissa, Bihar, West Bengal, Andhra,
+                 Maharashtra and Gujarat
+THIS IS THE HARM -> the post-1947 protective machinery is a reply to these four causes
+
+ASCII MASTER FLOW — PANEL 3/12: Two options rejected, one policy adopted
+INFLUENCES -> VERRIER ELWIN (lived among tribal people; "formative influence" on policy)
+           -> JAWAHARLAL NEHRU ("the main influence in shaping the government's attitude")
+OPTION A: LEAVE THEM ALONE
+   defect 1 -> treated "as museum specimens to be observed and written about" = "to insult them"
+   defect 2 -> impossible anyway; penetration by the outside world had gone too far
+OPTION B: ASSIMILATE THEM QUICKLY
+   defect 1 -> "engulfed by the masses of Indian humanity" -> loss of social and cultural identity
+   defect 2 -> unscrupulous outsiders would take possession of tribal lands and forests
+      v
+ADOPTED -> INTEGRATION WITH A PRESERVED DISTINCT IDENTITY
+FRAMING -> India must signify "not only a protecting force but a liberating one"
+
+ASCII MASTER FLOW — PANEL 4/12: The two parameters as a marking scheme
++----------------------------------+----------------------------------------------+
+| PARAMETER 1                      | PARAMETER 2                                  |
+| "the tribal areas have to        | "they have to progress in their own way"     |
+|  progress"                       |                                              |
++----------------------------------+----------------------------------------------+
+| rules out museum isolation       | rules out forced assimilation                |
+| tests DEVELOPMENT DELIVERY       | tests IDENTITY PRESERVATION                  |
++----------------------------------+----------------------------------------------+
+QUALIFIER 1 -> progress is not "merely to duplicate what we have got in other parts of India"
+QUALIFIER 2 -> whatever changes are needed are "worked out by the tribals themselves"
+USE IT -> political accommodation satisfies parameter 2; developmental failure breaks parameter 1
+=> the honest verdict on this topic is a SPLIT verdict, and this panel is why
+
+ASCII MASTER FLOW — PANEL 5/12: The five guidelines and the label caution
+FIVE BROAD GUIDELINES -> later labelled "Tribal Panchsheel" (a LABEL, not a dated decree)
+1 OWN GENIUS       -> develop along their own lines; no imposition, no compulsion
+                   -> non-tribals to hold no superiority complex; an EQUAL contribution
+2 LAND AND FOREST  -> tribal rights respected; no outsider to take possession of tribal land
+                   -> market incursion strictly controlled and regulated
+3 LANGUAGES        -> "all possible support"; conditions for flourishing safeguarded
+4 TRIBAL PERSONNEL -> administrators recruited and trained from among tribal people
+                   -> as few outsiders as possible, and those carefully chosen
+5 NO OVER-ADMIN    -> develop through their own social and cultural institutions
+ROOTS -> nationalist constructive work from the 1920s; Gandhi's ashrams in tribal areas
+      -> supported after independence by Rajendra Prasad, first President of India
+CAUTION -> do NOT attach an exact proclamation year to the label
+
+ASCII MASTER FLOW — PANEL 6/12: Article 46 and the four-part protective machinery
+A DIRECTIVE -> ARTICLE 46: promote with special care the educational and economic interests
+               of the tribal people; protect from social injustice and all forms of exploitation
+B GUBERNATORIAL -> special responsibility of Governors of states containing tribal areas
+               -> power to MODIFY central and state laws in their application there
+               -> power to frame regulations on land rights and against money-lenders
+C POLITICAL -> full political rights extended
+            -> reserved seats in the legislatures and reserved posts in the services
+D ADVISORY AND INVESTIGATIVE
+            -> TRIBAL ADVISORY COUNCILS in all states containing tribal areas
+            -> COMMISSIONER FOR SCHEDULED CASTES AND SCHEDULED TRIBES, appointed by the
+               President, to investigate whether the safeguards were being observed
+NOTE -> component D is what later DOCUMENTS the failure of components A to C
+
+ASCII MASTER FLOW — PANEL 7/12: Fifth Schedule and Sixth Schedule: a design matrix
++-----------------------------------+---------------------------------------------+
+| SITUATION: LOCALLY DOMINANT       | SITUATION: DISPERSED MINORITY               |
+| tribal areas of Assam / North-East| other Scheduled Areas                       |
++-----------------------------------+---------------------------------------------+
+| INSTRUMENT: SIXTH SCHEDULE        | INSTRUMENT: FIFTH SCHEDULE + machinery      |
+| autonomous districts              | Tribal Advisory Councils                    |
+| district and regional councils    | Article 46 directive                        |
+| some legislative and judicial     | reserved seats and services                 |
+| functions, within the overall     | Commissioner for Scheduled Castes and       |
+| jurisdiction of the legislature   | Scheduled Tribes                            |
+| and Parliament                    |                                             |
++-----------------------------------+---------------------------------------------+
+STATED OBJECTIVE -> enable tribal people "to live according to their own ways"
+OFFER -> the Government of India was willing to amend the provisions to widen autonomy
+BOUND -> but never secession, never independence, never tolerated violence
+RULE -> the two Schedules are NEVER interchangeable; details belong to the Polity owner
+
+ASCII MASTER FLOW — PANEL 8/12: Where the policy failed: execution, not design
+FAILURES                                   | GAINS
+1 weak execution of well-intentioned       | literacy and education spread
+  measures                                 | reservations in services and higher education
+2 divergence between central and state     | Panchayati Raj and repeated elections
+  policy                                   | rising political participation and
+3 Tribal Advisory Councils ineffective     |   representation
+4 funds unspent, unproductive or           | demands for a greater share in national
+  misappropriated                          |   economic development
+5 anti-alienation laws evaded -> land loss |
+6 mines, industries and deforestation      |
+  displace and dispossess                  |
+7 a small tribal elite captures the gains  |
+OUTSIDE THE NORTH-EAST -> tribal people remained poor, indebted, landless, often unemployed
+SPLIT VERDICT -> POLITICAL ACCOMMODATION SUCCEEDED | DEVELOPMENTAL DELIVERY DID NOT
+ATTRIBUTION -> the failure is attributed to implementation and neglect, not to the design
+
+ASCII MASTER FLOW — PANEL 9/12: Why the North-East differed, and the NEFA control case
+REASON 1 DEMOGRAPHY -> over a hundred groups; overwhelming local majority
+                    -> non-tribals had not penetrated to any significant extent
+REASON 2 COLONIAL ADMINISTRATION -> separate administrative status inside Assam province
+                    -> socio-political structure undisturbed; plainsmen barred from buying land
+                    -> LITTLE LOSS OF LAND; missionaries permitted: schools, hospitals, churches
+REASON 3 DETACHMENT -> "virtual absence of any political or cultural contact" with Indian
+                    political life; the anti-imperialist bond had little purchase here
+                    -> some missionaries and foreigners promoted separatist sentiment after 1947
+CONTROL CASE -> NEFA created 1948 out of the border areas of Assam
+             -> a Union Territory OUTSIDE Assam's jurisdiction, special cadre of officers
+             -> develop WITHOUT disturbing social and cultural patterns of life
+             -> Nehru's and Elwin's policies "implemented best of all" here
+             -> RENAMED ARUNACHAL PRADESH 1972; STATEHOOD 1987
+OCR CAVEAT -> the local book compresses naming and statehood into one 1987 sentence
+
+ASCII MASTER FLOW — PANEL 10/12: The Naga two-track template, 1955 to 1963
+1955 -> Phizo-led separatists declare an "independent government"; violent insurrection
+        |
+        +--- TRACK 1: REFUSE ------------------+--- TRACK 2: OFFER --------------------+
+        |  secession firmly opposed            |  a large degree of autonomy           |
+        |  no negotiation while independence   |  prolonged negotiation with moderate, |
+        |  and arms are retained               |  non-violent, non-secessionist leaders|
+        |  EARLY 1956 -> army sent to restore  |  conciliation is the stated objective |
+        |  peace and order                     |                                       |
+        +--------------------------------------+---------------------------------------+
+        v
+MID-1957 -> the back of the armed rebellion is broken
+        v
+MODERATES -> Dr Imkongliba Ao and others come forward and negotiate for a state in the union
+        v
+1963 -> THE STATE OF NAGALAND COMES INTO EXISTENCE (within the Union, never independence)
+AFTER -> politics in Nagaland follows the pattern of other states of the union
+CLOSE DISTINCTION: Nehru's tribal policy rejected both forced assimilation and museum-like
+  isolation, but administrative practice, land alienation, forests, displacement and autonomy
+  remained contested.
+
+ASCII MASTER FLOW — PANEL 11/12: A language trigger becomes the reorganisation of 1972
+GRIEVANCE -> hill tribes have no cultural affinity with Assamese and Bengali plainsmen
+          -> fear of "Assamization"; resentment at the attitudes of non-tribal officials
+1960 -> Assamese leaders move to make Assamese the SOLE official language of the state
+1960 -> hill parties merge into the ALL PARTY HILL LEADERS CONFERENCE; separate state demanded
+     -> the Assam Official Language Act triggers hartals, demonstrations, a major agitation
+1962 -> separate-state advocates sweep the tribal-area Assembly seats and boycott the Assembly
+1969 -> constitutional amendment: MEGHALAYA as "a state within a state"
+     -> complete autonomy EXCEPT law and order; shared High Court, Public Service Commission,
+        Governor
+1972 -> REORGANISATION OF THE NORTH-EAST
+        MEGHALAYA becomes a separate state (Garo, Khasi and Jaintia tribes)
+        MANIPUR and TRIPURA are simultaneously granted statehood
+        NEFA is renamed ARUNACHAL PRADESH (statehood follows in 1987)
+BRIDGE -> this is where language politics and tribal politics meet directly
+EVIDENCE LIMIT: Constitutional text, Verrier Elwin's influence, movement records and tribal
+  voices must be compared; integration is a negotiated process, not proof of cultural
+  absorption or completed equality.
+
+ASCII MASTER FLOW — PANEL 12/12: Mizoram and Jharkhand: two endings, two lessons
+MIZORAM -> the accommodation model, over twenty-one years
+  1959 famine relief failure | 1961 Assamese made the state's official language -> grievance
+  MIZO NATIONAL FRONT formed, LALDENGA president; elections contested, military wing built
+  MAR 1966 independence declared, military uprising, attacks -> crushed within a few weeks
+  1973 demand scaled down to a state within the union -> MIZORAM constituted a UNION TERRITORY
+  1986 ACCORD -> arms surrendered, underground activity abandoned, full statehood granted
+  FEB 1987 LALDENGA SWORN IN AS CHIEF MINISTER
+  CAUTION -> the model case, NOT the universal outcome; no current security claim belongs here
+JHARKHAND -> the demography model, an identity claim that outgrew its own base
+  1950 JHARKHAND PARTY founded by JAIPAL SINGH | 1952 32 SEATS, main opposition in Bihar
+  1957 25 seats | 1962 20 seats -> electoral decline
+  Scheduled Tribes: Chota Nagpur 31.15% (1951) -> 30.94% (1971)
+                    Santhal Parganas 44.67% (1951) -> 36.22% (1971)
+  => nearly TWO-THIRDS of the region non-tribal in 1971
+  1955 SRC refuses a Jharkhand state: "the region did not have a common language"
+  1963 Jaipal Singh and much of the leadership join the Congress
+  1972 JHARKHAND MUKTI MORCHA formed; SHIBU SOREN emerges; demand recast as REGIONAL
+  LIMIT -> the shift was never complete; the movement stayed built on tribal identity

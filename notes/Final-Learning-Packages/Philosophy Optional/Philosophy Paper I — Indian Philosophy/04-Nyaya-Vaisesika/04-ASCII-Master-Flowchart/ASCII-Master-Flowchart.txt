@@ -1,0 +1,123 @@
+ASCII MASTER FLOW — PANEL 1/9: Realist system map
+NYĀYA: valid knowledge and argument       VAIŚEṢIKA: inventory of reality
+                  \                              /
+                   \                            /
+                    +---- NYĀYA–VAIŚEṢIKA ----+
+                    realism + pluralism + liberation through truth
+                              |
+ valid cognition (pramā) -> objects correctly known -> false notions removed -> faults cease
+                              |
+ karma-producing action ceases -> rebirth and pain cease -> RELEASE (apavarga).
+Nyāya: 4 means of valid knowledge (pramāṇas) | classical Vaiśeṣika: perception + inference
+historically two allied systems; later synthesis, not identity from the start
+
+ASCII MASTER FLOW — PANEL 2/9: Sixteen Nyāya topics versus seven Vaiśeṣika categories
+NYĀYA 16 = topics of inquiry, proof and debate
+means of valid knowledge (pramāṇa) | prameya | saṃśaya | prayojana | dṛṣṭānta | established
+  conclusion (siddhānta)
+avayava | hypothetical reasoning (tarka) | nirṇaya | vāda | jalpa | vitaṇḍā
+hetvābhāsa | chala | jāti | nigrahasthāna
+PRAMEYA 12: self -> body/senses/objects -> cognition/mind -> activity/defects
+             -> rebirth/fruit/suffering -> release
+VAIŚEṢIKA 7 = kinds of being: substance (dravya) | quality (guṇa) | motion or action (karma)
+                viśeṣa | inherence (samavāya) | absence (abhāva)
+DO NOT FLATTEN: Nyāya inquiry map != Vaiśeṣika ontology
+
+ASCII MASTER FLOW — PANEL 3/9: Seven categories (padārthas)
+CATEGORY (padārtha): whatever is nameable and knowable
+ 1 DRAVYA: earth, water, fire, air, ākāśa, time, space, self, mind
+ 2 QUALITY (guṇa): quality; depends on substance, does not itself possess quality/action
+ 3 ACTION AND MORAL CONSEQUENCE (karma): motion/action in a substance
+ 4 SĀMĀNYA: real universal, one-in-many
+ 5 VIŚEṢA: ultimate particularity individuating eternal atoms and selves
+ 6 INHERENCE (samavāya): eternal inherence; whole-parts, universal-particular, quality-substance
+ 7 ABSENCE (abhāva): absence — prior, posterior, mutual, absolute
+ CAUTION: inherence (samavāya) is not conjunction (saṃyoga), which is separable.
+
+ASCII MASTER FLOW — PANEL 4/9: Four means of valid knowledge (pramāṇas) and perception
+MEANS OF VALID KNOWLEDGE (pramāṇas)
+ +-> perception (pratyakṣa): sense-object contact -> nirvikalpaka -> savikalpaka recognition
+ +-> inference (anumāna): sign (liṅga/hetu) through invariable concomitance (vyāpti) to property
+   to be proved (sādhya)
+ +-> comparison (upamāna): knowledge through similarity and prior description
+ +-> verbal testimony (śabda): trustworthy utterance, ultimately āpta testimony
+                         |
+ PERCEPTION TYPES: external/internal | ordinary/alaukika
+ alaukika: sāmānyalakṣaṇa, jñānalakṣaṇa, yogaja
+ ERROR is mislocation of a real qualifier: misplacement theory of error (anyathākhyāti).
+verbal testimony (śabda) sentence: ākāṅkṣā + yogyatā + sannidhi/āsatti + tātparya
+absence: locus (anuyogin) qualified by absent counterpositive (pratiyogin)
+Nyāya knows absence through perception/inference, not separate non-cognition (anupalabdhi)
+
+ASCII MASTER FLOW — PANEL 5/9: Inference engine
+SVĀRTHĀNUMĀNA: inference for oneself | PARĀRTHĀNUMĀNA: demonstrated to another
+ five members:
+ 1 pratijñā: hill has fire
+ 2 reason (hetu): because it has smoke
+ 3 udāharaṇa: wherever smoke, fire — as kitchen
+ 4 upanaya: hill has such smoke
+ 5 nigamana: therefore hill has fire
+                         |
+ pakṣadharmatā + invariable concomitance (vyāpti) + uncontradicted application -> conclusion
+ HETVĀBHĀSA: savyabhicāra, viruddha, satpratipakṣa, asiddha, bādhita.
+purpose: svārtha | parārtha
+direction: pūrvavat | śeṣavat | sāmānyatodṛṣṭa
+concomitance: kevalānvayi | kevalavyatireki | anvayavyatireki
+
+ASCII MASTER FLOW — PANEL 6/9: Causation and atomism
+NON-EXISTENCE OF THE EFFECT BEFORE PRODUCTION (asatkāryavāda) / NEW PRODUCTION (ārambhavāda):
+  effect is a new beginning, not pre-existent as effect
+ causes: samavāyi (inherent) | asamavāyi (non-inherent) | nimitta (efficient)
+                         |
+ earth/water/fire/air 2 atoms (paramāṇu) -> imperceptible dyad; 3 dyads -> perceptible triad ->
+   gross composite
+                         |
+ pralaya: composites dissolve; eternal atoms, selves, space, time remain
+ sṛṣṭi: Lord (īśvara) activates atoms according to unseen causal force (adṛṣṭa)/action and moral
+   consequence (karma)
+ TRAP: God orders atoms; God is not the material cause and atoms are not created ex nihilo.
+cause = unconditional + invariable antecedent (ananyathāsiddha)
+exclude remote, accidental, co-effect and redundant antecedents (anyathāsiddha)
+
+ASCII MASTER FLOW — PANEL 7/9: Self, God and liberation
+ENDURING SELF (ātman): eternal, many, all-pervasive substrate of cognition, desire and volition
+ SENSORY MIND (manas): atomic inner sense linking self to one cognition at a time
+                         |
+ LORD (īśvara): eternal omniscient efficient cause; author/teacher of Veda;
+ coordinates atoms and karmic deserts without abolishing individual agency
+                         |
+ true knowledge -> doṣa removed -> pravṛtti ceases -> action and moral consequence (karma)
+   exhausted -> release (apavarga)
+ release (apavarga) = complete cessation of pain; classical Nyāya does not define it as
+   Brahman-union.
+six self-marks: desire | aversion | effort | pleasure | pain | cognition
+Kaṇāda does not foreground creator God unambiguously; later synthesis is explicit
+
+ASCII MASTER FLOW — PANEL 8/9: Proof, objection and comparison
+UDAYANA ROUTES: kāryāt (effect) | āyojanāt (combination) | dhṛtyādeḥ (support)
+ padāt (word-use) | pratyayataḥ (trust) | śruteḥ (Veda) | vākyāt (sentences)
+ saṃkhyāviśeṣāt (number) | adṛṣṭāt (moral order)
+                         |
+ OBJECTION: atoms + action and moral consequence (karma) may make God redundant; bodies expose
+   unequal suffering
+ REPLY: unconscious atoms/unseen causal force (adṛṣṭa) cannot intelligently initiate and allocate
+   order
+                         |
+ SĀṂKHYA: pre-existence of the effect in the cause (satkāryavāda), primordial material nature
+   (prakṛti) material cause | NYĀYA: new effect from atoms
+ BUDDHISM: momentary process | NYĀYA: enduring substances and selves.
+YOGA LORD (īśvara): special conscious witness (puruṣa) + meditative support
+NYĀYA LORD (īśvara): inferred arranger, efficient cause and karmic governor
+same name != same proof or systematic function
+
+ASCII MASTER FLOW — PANEL 9/9: PYQ answer spine
+DEFINE two-system synthesis -> distinguish Nyāya 16 inquiry topics from Vaiśeṣika 7 ontological
+  categories
+       -> four means of valid knowledge (pramāṇas) -> perception stages -> five-member inference
+       -> misplacement theory of error (anyathākhyāti) -> self/sensory mind (manas) -> Lord
+         (īśvara) proofs and objection
+       -> new production (ārambhavāda) + three causes -> atomistic creation cycle
+       -> release (apavarga) -> compare Sāṃkhya/Buddhism -> qualified verdict
+                         |
+ VERDICT: the system gains explanatory integration from realism and logical method;
+ its pressure points are inherence, the leap from order to God, and austere liberation.

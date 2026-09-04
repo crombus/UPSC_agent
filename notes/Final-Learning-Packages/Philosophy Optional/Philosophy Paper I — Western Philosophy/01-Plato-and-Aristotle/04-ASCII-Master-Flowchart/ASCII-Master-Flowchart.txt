@@ -1,0 +1,130 @@
+ASCII MASTER FLOW — PANEL 1/10: Central problem: one, many, knowledge and stability
+CENTRAL QUESTION: HOW CAN MANY CHANGING THINGS SHARE ONE KNOWABLE CHARACTER?
+        |
+        +--> ONE-MANY: many just acts -> one intelligible standard of Justice
+        |
+        +--> KNOWLEDGE: episteme requires a stable object, not flux alone
+        |
+        +--> PLATO (MIDDLE DIALOGUES): separate Forms; particulars participate or imitate
+        |
+        +--> COST: separation makes the Form-particular relation hard to explain
+
+ASCII MASTER FLOW — PANEL 2/10: Two-level ontology and the ascent from opinion to knowledge
+PLATO'S TWO-LEVEL ONTOLOGY
++----------------------------+      +----------------------------+
+| INTELLIGIBLE                |      | SENSIBLE                   |
+| Forms: stable, universal    |      | particulars: many, changing|
+| episteme through reason     |      | doxa through perception     |
++-------------+--------------+      +-------------+--------------+
+              ^ participation / imitation          |
+              +-------------------------------------+
+CAVE: shadows -> visible things -> mathematics -> Forms -> Good
+LINE: eikasia -> pistis -> dianoia -> noesis
+SUN: the Good grounds being/knowability; it is not simply the Timaeus Demiurge.
+
+ASCII MASTER FLOW — PANEL 3/10: Participation pressure and Aristotle's immanent repair
+PLATONIC EXPLANATION                     ARISTOTELIAN PRESSURE
+Form F -> participation -> many F-things | participation remains metaphorical
+separate paradigm explains common F     | separation duplicates the explanandum
+        |                                | likeness invites another Form
+        v                                v
+THIRD MAN: particulars + Form F resemble -> further Form F2 -> regress
+        |
+        +--> REPLY: deny unrestricted self-predication or restrict the premise
+        |
+        +--> RESIDUAL: how does a separate Form causally determine a particular?
+ARISTOTLE'S REPAIR: retain form, but make it immanent in concrete substance.
+
+ASCII MASTER FLOW — PANEL 4/10: Aristotle's substance hierarchy and explanatory essence
+ARISTOTLE: WHAT EXISTS PRIMARILY, AND WHAT MAKES IT WHAT IT IS?
+                           SUBSTANCE
+                              |
+              +---------------+----------------+
+              |                                |
+CATEGORIES: WHICH THINGS?          METAPHYSICS: SUBSTANCE-HOOD?
+primary = this person/horse         form or essence explains the compound
+secondary = species and genus       matter alone is not a determinate this
+accidents exist in a substance      universal and genus are not primary
+              |                                |
+              +--> safe synthesis: individual exists; form explains its identity
+
+ASCII MASTER FLOW — PANEL 5/10: Hylomorphic composite: matter, form and substantial unity
+ONE SENSIBLE NATURAL SUBSTANCE = MATTER INFORMED BY IMMANENT FORM
++--------------------------+     +--------------------------+
+| MATTER                   |     | FORM                     |
+| that out of which        |     | what-it-is / essence     |
+| relative potentiality    |     | organisation / actuality |
+| can receive determination|     | makes the composite one  |
++-------------+------------+     +-------------+------------+
+              +---------------+---------------+
+                              v
+                    CONCRETE COMPOSITE
+bronze + statue-form; wood + table-form; body + soul in a living organism
+LIMIT: prime matter is disputed and never independent; accidents and pure act are not compounds.
+
+ASCII MASTER FLOW — PANEL 6/10: Four causes as a matrix of explanatory completeness
+ONE QUESTION, FOUR COMPLEMENTARY SENSES OF WHY
++-------------+----------------------+----------------------+----------------------+
+| MATERIAL    | FORMAL               | EFFICIENT            | FINAL                |
+| made of what| what it is           | source of change     | for the sake of what |
+| wood        | table structure      | carpenter and tools  | usable working surface|
++-------------+----------------------+----------------------+----------------------+
+NATURAL CASE: acorn matter + oak form + generating parent/process + mature oak telos
+        |
+        +--> formal, efficient and final causes may coincide in natural development
+        |
+        +--> teleology need not mean a conscious external designer
+CHANGE: subject/matter + privation -> acquired form; identity is completed actuality.
+CHANGE: subject/matter + privation -> acquired form; identity is completed actuality.
+RESULT: explanatory completeness is richer than efficient succession alone.
+
+ASCII MASTER FLOW — PANEL 7/10: Potentiality to actuality: change without creation from nothing
+GROUNDED CAPACITY -> PROCESS OF ACTUALISATION -> FULFILLED ACTUALITY
+wood fit for a table -> cutting and joining -> completed table
+acorn ordered to oak -> organic development -> mature oak
+        |                    |                    |
+     dynamis             kinesis          energeia / entelecheia
+        |
+        +--> change = actuality of the potential precisely as potential
+        +--> actuality is prior in definition, end and species-level explanation
+        +--> qualification: potentiality may be earlier in an individual's time
+RESULT: becoming is structured being-in-capacity, not emergence from sheer non-being.
+
+ASCII MASTER FLOW — PANEL 8/10: Teleological order and pure actuality
+MOTION HERE AND NOW REQUIRES ACTUALITY, BUT THE SERIES CANNOT BE PURE POTENCY
+moved mover -> moved mover -> ordered eternal motion
+        |
+        v
+UNMOVED MOVER = PURE ACTUALITY WITHOUT UNREALISED POTENTIALITY
+        |
+        +--> moves as final cause: object of desire and thought
+        +--> thought thinking itself; no material composition
+        +--> not a temporal first event or material cause
+LIMIT: do not equate Aristotle's mover with a personal efficient creator.
+
+ASCII MASTER FLOW — PANEL 9/10: Plato and Aristotle on form: comparison, criticism and reply
++---------------------------+---------------------------+---------------------------+
+| AXIS                      | PLATO                     | ARISTOTLE                 |
++---------------------------+---------------------------+---------------------------+
+| status of form            | transcendent and separate | immanent in substance     |
+| primary reality           | universal Form            | concrete individual       |
+| relation to particulars   | participation / imitation | hylomorphic constitution  |
+| explanation of change     | Forms/Good/Demiurge vary   | causes plus potency-act    |
++---------------------------+---------------------------+---------------------------+
+OBJECTION TO PLATO -> duplication, regress and causal gap
+REPLY FOR PLATO -> stable universals secure objectivity, definition and norms
+OBJECTION TO ARISTOTLE -> universality and prime matter remain difficult
+VERDICT -> Aristotle transforms Plato's insight; he does not simply erase it.
+
+ASCII MASTER FLOW — PANEL 10/10: Answer spine and precision distinctions
+DIRECTIVE -> DEFINITION -> ARGUMENT -> EXAMPLE -> OBJECTION -> REPLY -> VERDICT
+        |
+        +--> FORM: organising actuality; UNIVERSAL: predicable of many
+        +--> ESSENCE: what-it-is; SUBSTANCE: primary bearer / concrete being
+        +--> MATTER: capacity principle; CAUSE: explanatory because
+        +--> POTENTIALITY: qualified capacity; ACTUALITY: fulfilment or activity
+PYQ ROUTES
+Forms -> one-many + knowledge + participation; Substance -> Categories/Metaphysics
+Causes -> four complementary explanations; Change -> potentiality to actuality
+Comparison -> transcendent Form versus immanent form on matched axes
+FINAL CONTROL: answer printed metaphysics; soul, ethics, politics and logic stay optional.

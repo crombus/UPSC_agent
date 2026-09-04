@@ -1,0 +1,88 @@
+ASCII MASTER FLOW — PANEL 1/8: 1. Proof architecture
+THEISTIC ARGUMENTS START FROM DIFFERENT DATA
+ +-> concept of God -> ONTOLOGICAL (a priori)
+ +-> contingent/moved/caused world -> COSMOLOGICAL (a posteriori)
+ +-> order and purposiveness -> TELEOLOGICAL
+ +-> objective obligation -> MORAL
+ +-> Indian effect/order/language/karma -> NYĀYA-UDAYANA
+                         |
+ CONTROL: proofs may be deductive, abductive or cumulative;
+ BURDEN: premise -> inference -> theological identification
+ never judge all by the standard of a single demonstrative syllogism.
+
+ASCII MASTER FLOW — PANEL 2/8: 2. Ontological line
+ANSELM: God = that than which nothing greater can be conceived
+ existing in reality > existing only in understanding
+ therefore the greatest conceivable being exists in reality
+                         |
+ DESCARTES: necessary existence belongs to supremely perfect being
+ MODAL FORM: possibly necessary God -> necessarily God, if S5 possibility is granted
+                         |
+ GAUNILO: perfect-island parody | KANT: existence is not a real predicate
+ reply: necessary being is unlike contingent islands; pressure shifts to coherent possibility.
+
+ASCII MASTER FLOW — PANEL 3/8: 3. Cosmological family
+AQUINAS: motion -> unmoved mover | efficient causes -> first cause
+ contingency -> necessary being; not “every event has a cause”
+ KALĀM: whatever begins has a cause; universe began; therefore a cause
+ LEIBNIZ: principle of sufficient reason -> why something rather than nothing?
+                         |
+ HUME: causal principle may not extend beyond experience; universe may be brute
+ RUSSELL: universe is “just there”; composition fallacy
+ REPLY: argument concerns contingent totality's explanation, not a member-cause in time.
+
+ASCII MASTER FLOW — PANEL 4/8: 4. Design and fine-tuning
+PALEY: complex purposive adaptation -> watchmaker analogy -> designer
+ FINE-TUNING: life-permitting constants appear within narrow range
+                         |
+ rival explanations
+ +-> design
+ +-> physical necessity
+ +-> chance / multiverse + selection effect
+ +-> unknown deeper law
+ HUME: weak analogy, many designers, imperfect designer | DARWIN: adaptation by selection
+ verdict: modern design is probabilistic/abductive, not Paley's biological inference unchanged.
+
+ASCII MASTER FLOW — PANEL 5/8: 5. Moral argument
+CONSCIENCE/LAW: obligation -> personal lawgiver (contested)
+ OBJECTIVE VALUE: moral realism -> transcendent ground (abductive)
+ KANT: morality does not theoretically prove God
+ highest good (virtue proportioned to happiness) -> practical postulates:
+ freedom + immortality + God
+                         |
+ contemporary route: objective moral obligations -> adequate personal ground
+ objection: Euthyphro dilemma; secular realism can ground moral facts
+ reply: modified divine command grounds obligation in commands flowing from good nature
+ limit: the move from normativity to one religiously specified God remains underdetermined.
+
+ASCII MASTER FLOW — PANEL 6/8: 6. Nyāya-Udayana proof cluster
+UDAYANA'S ROUTES TO ĪŚVARA
+ kāryāt: world as effect -> maker        āyojanāt: atomic combination -> arranger
+ dhṛtyādeḥ: support/dissolution          padāt: conventional word-use
+ pratyayataḥ: trustworthy cognition      śruteḥ/vākyāt: Vedic discourse
+ saṃkhyāviśeṣāt: determinate magnitudes  adṛṣṭāt: karmic allocation
+                         |
+ ĪŚVARA = omniscient efficient cause; eternal atoms = material causes
+ not creation ex nihilo; proof aims at intelligent coordination of a realist cosmos.
+
+ASCII MASTER FLOW — PANEL 7/8: 7. Indian and Western critiques
+CĀRVĀKA: no perception of God; inference overreaches
+ BUDDHIST: momentary dependent series needs no permanent creator
+ JAINA: beginningless jīva/ajīva and karma; creation makes God responsible for evil
+ MĪMĀṂSĀ: Veda is authorless; dharma/apūrva explains ritual fruit without divine author
+ SĀṂKHYA: unconscious nature (prakṛti) evolves without a creator
+                         |
+ HUME/KANT: causal/design inference exceeds categories or experience
+ NYĀYA REPLY: unconscious atoms, apūrva or karma cannot intelligently allocate order
+ COUNTER: coordination may show explanatory gap, not uniquely the Nyāya God.
+
+ASCII MASTER FLOW — PANEL 8/8: 8. Cumulative verdict and answer plan
+DEFINE target God -> classify argument -> formalise premises -> expose hidden bridge
+ -> strongest named critic -> best reply -> test what conclusion actually establishes
+                         |
+ ontological: necessity if possibility | cosmological: ground if PSR
+ design: probability, not deduction | moral: practical/normative support
+ Nyāya: intelligent order within atomism
+                         |
+ QUALIFIED VERDICT: no proof compels every rational agent; together they can form a
+ cumulative case only if their contested modal, causal, probabilistic and moral premises stand.
