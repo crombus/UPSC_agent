@@ -1,0 +1,1081 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-10",
+  "subject": "Modern-Indian-History",
+  "title": "SOCIO-RELIGIOUS REFORM MOVEMENTS (BRAHMO, ARYA, RAMAKRISHNA, ALIGARH, ETC.)",
+  "short_route": "ATMIYA SABHA IN SOCIO-RELIGIOUS → BRAHMO SAMAJ IN SOCIO-RELIGIOUS → DEBENDRANATH TAGORE IN SOCIO-RELIGIOUS → SADHARAN BRAHMO SAMAJ IN → YOUNG BENGAL IN SOCIO-RELIGIOUS → PRARTHANA SAMAJ IN SOCIO-RELIGIOUS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g3\\modern-indian-history-10_Complete-Learning-Session_2026-08-31.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-10-deep-review-2026-08-31-g3.json",
+  "ascii_spec_sha256": "70e622956421611d147b4d125956be2bda53d4c52f182c2f42b8caeee007b6f7",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ATMIYA SABHA IN SOCIO-RELIGIOUS REFORM",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ATMIYA SABHA IN SOCIO-RELIGIOUS REFORM",
+          "role": "primary"
+        },
+        {
+          "text": "ATMIYA SABHA",
+          "role": "outcome"
+        },
+        {
+          "text": "RAMMOHAN ROY FOUNDED THE ATMIYA SABHA IN CALCUTTA IN",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE ATMIYA SABHA TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER ATMIYA SABHA TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "BRAHMO SAMAJ (1828), SATYASHODHAK SAMAJ (1873), ARYA SAMAJ (1875)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Atmiya Sabha",
+        "EVIDENCE → Rammohan Roy founded the Atmiya Sabha in Calcutta in 1815 as an early",
+        "EXAM USE → use Atmiya Sabha to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Atmiya Sabha to another institution or theatre.",
+        "MUST REMEMBER: Brahmo Samaj (1828), Satyashodhak Samaj (1873), Arya Samaj (1875), MAO College"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Atmiya Sabha",
+            "EVIDENCE → Rammohan Roy founded the Atmiya Sabha in Calcutta in 1815 as an early reform association."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Atmiya Sabha to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Atmiya Sabha to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Brahmo Samaj (1828), Satyashodhak Samaj (1873), Arya Samaj (1875), MAO College",
+            "(1875), Ramakrishna Mission (1897), Singh Sabha and Deoband belong to distinct regional-intellectual projects."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Atmiya Sabha to match actor, date, mechanism and limit.",
+      "answer_line": "(1875), Ramakrishna Mission (1897), Singh Sabha and Deoband belong to distinct regional-intellectual projects.",
+      "source_references": [
+        "Atmiya Sabha",
+        "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\10_Socio-Religious-Reform-Movements.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\10_Socio-Religious-Reform-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g2\\modern-indian-history-10_Complete-Learning-Session_2026-08-31.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g3\\modern-indian-history-10_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "BRAHMO SAMAJ IN SOCIO-RELIGIOUS REFORM",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BRAHMO SAMAJ IN SOCIO-RELIGIOUS REFORM",
+          "role": "primary"
+        },
+        {
+          "text": "BRAHMO SAMAJ",
+          "role": "outcome"
+        },
+        {
+          "text": "RAMMOHAN ROY FOUNDED THE BRAHMO SAMAJ IN CALCUTTA IN",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE BRAHMO SAMAJ TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER BRAHMO SAMAJ TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Brahmo Samaj",
+        "EVIDENCE → Rammohan Roy founded the Brahmo Samaj in Calcutta in 1828 around monotheism, reason",
+        "EXAM USE → use Brahmo Samaj to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Brahmo Samaj to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Brahmo Samaj",
+            "EVIDENCE → Rammohan Roy founded the Brahmo Samaj in Calcutta in 1828 around monotheism, reason and social reform."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Brahmo Samaj to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Brahmo Samaj to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Brahmo Samaj",
+            "EVIDENCE → Rammohan Roy founded the Brahmo Samaj in Calcutta in 1828 around monotheism, reason and social reform."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Brahmo Samaj to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Brahmo Samaj to another institution or theatre.",
+      "source_references": [
+        "Brahmo Samaj",
+        "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\10_Socio-Religious-Reform-Movements.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\10_Socio-Religious-Reform-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g2\\modern-indian-history-10_Complete-Learning-Session_2026-08-31.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g3\\modern-indian-history-10_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "DEBENDRANATH TAGORE IN SOCIO-RELIGIOUS REFORM",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DEBENDRANATH TAGORE IN SOCIO-RELIGIOUS REFORM",
+          "role": "primary"
+        },
+        {
+          "text": "DEBENDRANATH TAGORE",
+          "role": "outcome"
+        },
+        {
+          "text": "DEBENDRANATH TAGORE REVITALISED THE BRAHMO MOVEMENT AFTER RAMMOHAN ROY.",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE DEBENDRANATH TAGORE TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER DEBENDRANATH TAGORE TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Debendranath Tagore",
+        "EVIDENCE → Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy.",
+        "EXAM USE → use Debendranath Tagore to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Debendranath Tagore to another institution or theatre."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FOCUS → Debendranath Tagore",
+          "EXAM USE → use Debendranath Tagore to match actor, date, mechanism and limit.",
+          "FOCUS → Debendranath Tagore"
+        ],
+        [
+          "EVIDENCE → Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy.",
+          "LIMIT → do not transfer Debendranath Tagore to another institution or theatre.",
+          "EVIDENCE → Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Debendranath Tagore",
+            "EVIDENCE → Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Debendranath Tagore to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Debendranath Tagore to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Debendranath Tagore",
+            "EVIDENCE → Debendranath Tagore revitalised the Brahmo movement after Rammohan Roy."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Debendranath Tagore to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Debendranath Tagore to another institution or theatre.",
+      "source_references": [
+        "Debendranath Tagore",
+        "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\10_Socio-Religious-Reform-Movements.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\10_Socio-Religious-Reform-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g2\\modern-indian-history-10_Complete-Learning-Session_2026-08-31.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g3\\modern-indian-history-10_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SADHARAN BRAHMO SAMAJ IN SOCIO-RELIGIOUS REFORM",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SADHARAN BRAHMO SAMAJ IN SOCIO-RELIGIOUS REFORM",
+          "role": "primary"
+        },
+        {
+          "text": "SADHARAN BRAHMO SAMAJ",
+          "role": "outcome"
+        },
+        {
+          "text": "THE SADHARAN BRAHMO SAMAJ FORMED IN 1878 AFTER CONFLICT",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE SADHARAN BRAHMO SAMAJ TO MATCH ACTOR, DATE, MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER SADHARAN BRAHMO SAMAJ TO ANOTHER INSTITUTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Sadharan Brahmo Samaj",
+        "EVIDENCE → The Sadharan Brahmo Samaj formed in 1878 after conflict around Keshab Chandra Sen.",
+        "EXAM USE → use Sadharan Brahmo Samaj to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Sadharan Brahmo Samaj to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Sadharan Brahmo Samaj",
+            "EVIDENCE → The Sadharan Brahmo Samaj formed in 1878 after conflict around Keshab Chandra Sen."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Sadharan Brahmo Samaj to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Sadharan Brahmo Samaj to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Sadharan Brahmo Samaj",
+            "EVIDENCE → The Sadharan Brahmo Samaj formed in 1878 after conflict around Keshab Chandra Sen."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Sadharan Brahmo Samaj to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Sadharan Brahmo Samaj to another institution or theatre.",
+      "source_references": [
+        "Sadharan Brahmo Samaj",
+        "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\10_Socio-Religious-Reform-Movements.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\10_Socio-Religious-Reform-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g2\\modern-indian-history-10_Complete-Learning-Session_2026-08-31.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g3\\modern-indian-history-10_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "YOUNG BENGAL IN SOCIO-RELIGIOUS REFORM",
+      "structural_type": "evidence-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "YOUNG BENGAL IN SOCIO-RELIGIOUS REFORM",
+          "role": "primary"
+        },
+        {
+          "text": "YOUNG BENGAL",
+          "role": "outcome"
+        },
+        {
+          "text": "HENRY VIVIAN DEROZIO'S YOUNG BENGAL CURRENT PROMOTED FREE THOUGHT",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE YOUNG BENGAL TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER YOUNG BENGAL TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Young Bengal",
+        "EVIDENCE → Henry Vivian Derozio's Young Bengal current promoted free thought and criticism of orthodoxy.",
+        "EXAM USE → use Young Bengal to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Young Bengal to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Young Bengal",
+            "EVIDENCE → Henry Vivian Derozio's Young Bengal current promoted free thought and criticism of orthodoxy."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Young Bengal to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Young Bengal to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Young Bengal",
+            "EVIDENCE → Henry Vivian Derozio's Young Bengal current promoted free thought and criticism of orthodoxy."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Young Bengal to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Young Bengal to another institution or theatre.",
+      "source_references": [
+        "Young Bengal",
+        "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\10_Socio-Religious-Reform-Movements.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\10_Socio-Religious-Reform-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g2\\modern-indian-history-10_Complete-Learning-Session_2026-08-31.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g3\\modern-indian-history-10_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PRARTHANA SAMAJ IN SOCIO-RELIGIOUS REFORM",
+      "structural_type": "argument-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PRARTHANA SAMAJ IN SOCIO-RELIGIOUS REFORM",
+          "role": "primary"
+        },
+        {
+          "text": "PRARTHANA SAMAJ",
+          "role": "outcome"
+        },
+        {
+          "text": "ATMARAM PANDURANG, M.G. RANADE AND R.G. BHANDARKAR SHAPED THE",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE PRARTHANA SAMAJ TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER PRARTHANA SAMAJ TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Prarthana Samaj",
+        "EVIDENCE → Atmaram Pandurang, M.G. Ranade and R.G. Bhandarkar shaped the Prarthana Samaj's cautious social",
+        "EXAM USE → use Prarthana Samaj to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Prarthana Samaj to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Prarthana Samaj",
+            "EVIDENCE → Atmaram Pandurang, M.G. Ranade and R.G. Bhandarkar shaped the Prarthana Samaj's cautious social reform."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Prarthana Samaj to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Prarthana Samaj to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Prarthana Samaj",
+            "EVIDENCE → Atmaram Pandurang, M.G. Ranade and R.G. Bhandarkar shaped the Prarthana Samaj's cautious social reform."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Prarthana Samaj to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Prarthana Samaj to another institution or theatre.",
+      "source_references": [
+        "Prarthana Samaj",
+        "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\10_Socio-Religious-Reform-Movements.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\10_Socio-Religious-Reform-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g2\\modern-indian-history-10_Complete-Learning-Session_2026-08-31.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g3\\modern-indian-history-10_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ARYA SAMAJ IN SOCIO-RELIGIOUS REFORM",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ARYA SAMAJ IN SOCIO-RELIGIOUS REFORM",
+          "role": "primary"
+        },
+        {
+          "text": "ARYA SAMAJ",
+          "role": "outcome"
+        },
+        {
+          "text": "DAYANAND SARASWATI FOUNDED ARYA SAMAJ IN 1875 AND CALLED",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE ARYA SAMAJ TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER ARYA SAMAJ TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Arya Samaj",
+        "EVIDENCE → Dayanand Saraswati founded Arya Samaj in 1875 and called for a return to",
+        "EXAM USE → use Arya Samaj to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Arya Samaj to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Arya Samaj",
+            "EVIDENCE → Dayanand Saraswati founded Arya Samaj in 1875 and called for a return to the"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Arya Samaj to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Arya Samaj to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Arya Samaj",
+            "EVIDENCE → Dayanand Saraswati founded Arya Samaj in 1875 and called for a return to the"
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Arya Samaj to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Arya Samaj to another institution or theatre.",
+      "source_references": [
+        "Arya Samaj",
+        "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\10_Socio-Religious-Reform-Movements.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\10_Socio-Religious-Reform-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g2\\modern-indian-history-10_Complete-Learning-Session_2026-08-31.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g3\\modern-indian-history-10_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ARYA INSTITUTIONS IN SOCIO-RELIGIOUS REFORM",
+      "structural_type": "causal-chain",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "ARYA INSTITUTIONS IN SOCIO-RELIGIOUS REFORM",
+          "role": "primary"
+        },
+        {
+          "text": "ARYA INSTITUTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "SATYARTH PRAKASH, SHUDDHI AND DAV EDUCATION ARE CENTRAL ASSOCIATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE ARYA INSTITUTIONS TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER ARYA INSTITUTIONS TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Arya institutions",
+        "EVIDENCE → Satyarth Prakash, shuddhi and DAV education are central associations of Arya",
+        "EXAM USE → use Arya institutions to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Arya institutions to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Arya institutions",
+            "EVIDENCE → Satyarth Prakash, shuddhi and DAV education are central associations of Arya"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Arya institutions to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Arya institutions to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Arya institutions",
+            "EVIDENCE → Satyarth Prakash, shuddhi and DAV education are central associations of Arya"
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Arya institutions to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Arya institutions to another institution or theatre.",
+      "source_references": [
+        "Arya institutions",
+        "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\10_Socio-Religious-Reform-Movements.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\10_Socio-Religious-Reform-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g2\\modern-indian-history-10_Complete-Learning-Session_2026-08-31.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g3\\modern-indian-history-10_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "RAMAKRISHNA MISSION IN SOCIO-RELIGIOUS REFORM",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RAMAKRISHNA MISSION IN SOCIO-RELIGIOUS REFORM",
+          "role": "primary"
+        },
+        {
+          "text": "RAMAKRISHNA MISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "VIVEKANANDA FOUNDED THE RAMAKRISHNA MISSION IN 1897 AFTER HIS",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE RAMAKRISHNA MISSION TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER RAMAKRISHNA MISSION TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Ramakrishna Mission",
+        "EVIDENCE → Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago address.",
+        "EXAM USE → use Ramakrishna Mission to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Ramakrishna Mission to another institution or theatre."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FOCUS → Ramakrishna Mission",
+          "EXAM USE → use Ramakrishna Mission to match actor, date, mechanism and limit.",
+          "FOCUS → Ramakrishna Mission"
+        ],
+        [
+          "EVIDENCE → Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago address.",
+          "LIMIT → do not transfer Ramakrishna Mission to another institution or theatre.",
+          "EVIDENCE → Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago address."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Ramakrishna Mission",
+            "EVIDENCE → Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago address."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Ramakrishna Mission to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Ramakrishna Mission to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Ramakrishna Mission",
+            "EVIDENCE → Vivekananda founded the Ramakrishna Mission in 1897 after his 1893 Chicago address."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Ramakrishna Mission to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Ramakrishna Mission to another institution or theatre.",
+      "source_references": [
+        "Ramakrishna Mission",
+        "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\10_Socio-Religious-Reform-Movements.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\10_Socio-Religious-Reform-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g2\\modern-indian-history-10_Complete-Learning-Session_2026-08-31.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g3\\modern-indian-history-10_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SATYASHODHAK SAMAJ IN SOCIO-RELIGIOUS REFORM",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SATYASHODHAK SAMAJ IN SOCIO-RELIGIOUS REFORM",
+          "role": "primary"
+        },
+        {
+          "text": "SATYASHODHAK SAMAJ",
+          "role": "outcome"
+        },
+        {
+          "text": "JOTIRAO PHULE FOUNDED SATYASHODHAK SAMAJ IN 1873 TO CHALLENGE",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE SATYASHODHAK SAMAJ TO MATCH ACTOR, DATE, MECHANISM AND",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER SATYASHODHAK SAMAJ TO ANOTHER INSTITUTION OR",
+          "role": "caution"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "REFORM, REVIVAL, CASTE CRITIQUE, WOMEN'S RIGHTS AND COMMUNITY CONSOLIDATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Satyashodhak Samaj",
+        "EVIDENCE → Jotirao Phule founded Satyashodhak Samaj in 1873 to challenge Brahmanical domination and organise",
+        "EXAM USE → use Satyashodhak Samaj to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Satyashodhak Samaj to another institution or theatre.",
+        "CLOSE DISTINCTION: Reform, revival, caste critique, women's rights and community consolidation overlapped but were not"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Satyashodhak Samaj",
+            "EVIDENCE → Jotirao Phule founded Satyashodhak Samaj in 1873 to challenge Brahmanical domination and organise non-Brahman groups."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Satyashodhak Samaj to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Satyashodhak Samaj to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Reform, revival, caste critique, women's rights and community consolidation overlapped but were not one linear liberal movement",
+            "legal enactment never proves social implementation."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Satyashodhak Samaj to match actor, date, mechanism and limit.",
+      "answer_line": "CLOSE DISTINCTION: Reform, revival, caste critique, women's rights and community consolidation overlapped but were not one linear liberal movement; legal enactment never proves social implementation.",
+      "source_references": [
+        "Satyashodhak Samaj",
+        "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\10_Socio-Religious-Reform-Movements.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\10_Socio-Religious-Reform-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g2\\modern-indian-history-10_Complete-Learning-Session_2026-08-31.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g3\\modern-indian-history-10_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "PHULE GIRLS' SCHOOL IN SOCIO-RELIGIOUS REFORM",
+      "structural_type": "evidence-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PHULE GIRLS' SCHOOL IN SOCIO-RELIGIOUS REFORM",
+          "role": "primary"
+        },
+        {
+          "text": "PHULE GIRLS' SCHOOL",
+          "role": "outcome"
+        },
+        {
+          "text": "JOTIRAO AND SAVITRIBAI PHULE OPENED A GIRLS' SCHOOL AT",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE PHULE GIRLS' SCHOOL TO MATCH ACTOR, DATE, MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "DO NOT TRANSFER PHULE GIRLS' SCHOOL TO ANOTHER INSTITUTION",
+          "role": "caution"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "FEMINIST, DALIT-BAHUJAN AND REGIONAL EVIDENCE MUST QUALIFY ELITE MALE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Phule girls' school",
+        "EVIDENCE → Jotirao and Savitribai Phule opened a girls' school at Poona in 1851.",
+        "EXAM USE → use Phule girls' school to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Phule girls' school to another institution or theatre.",
+        "EVIDENCE LIMIT: Feminist, Dalit-bahujan and regional evidence must qualify elite male reform narratives"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Phule girls' school",
+            "EVIDENCE → Jotirao and Savitribai Phule opened a girls' school at Poona in 1851."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Phule girls' school to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Phule girls' school to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Feminist, Dalit-bahujan and regional evidence must qualify elite male reform narratives,",
+            "while colonial archives cannot be treated as neutral measures of Indian society."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Phule girls' school to match actor, date, mechanism and limit.",
+      "answer_line": "EVIDENCE LIMIT: Feminist, Dalit-bahujan and regional evidence must qualify elite male reform narratives, while colonial archives cannot be treated as neutral measures of Indian society.",
+      "source_references": [
+        "Phule girls' school",
+        "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\10_Socio-Religious-Reform-Movements.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\10_Socio-Religious-Reform-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g2\\modern-indian-history-10_Complete-Learning-Session_2026-08-31.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g3\\modern-indian-history-10_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "BETHUNE SCHOOL AND VIDYASAGAR IN SOCIO-RELIGIOUS REFORM",
+      "structural_type": "argument-map",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "BETHUNE SCHOOL AND VIDYASAGAR IN SOCIO-RELIGIOUS REFORM",
+          "role": "primary"
+        },
+        {
+          "text": "BETHUNE SCHOOL AND VIDYASAGAR",
+          "role": "outcome"
+        },
+        {
+          "text": "BETHUNE SCHOOL OPENED IN CALCUTTA IN 1849, AND VIDYASAGAR",
+          "role": "comparison"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "evidence"
+        },
+        {
+          "text": "USE BETHUNE SCHOOL AND VIDYASAGAR TO MATCH ACTOR, DATE",
+          "role": "primary"
+        },
+        {
+          "text": "DO NOT TRANSFER BETHUNE SCHOOL AND VIDYASAGAR TO ANOTHER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOCUS → Bethune School and Vidyasagar",
+        "EVIDENCE → Bethune School opened in Calcutta in 1849, and Vidyasagar served as its Secretary",
+        "EXAM USE → use Bethune School and Vidyasagar to match actor, date, mechanism and limit.",
+        "LIMIT → do not transfer Bethune School and Vidyasagar to another institution or theatre."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOCUS → Bethune School and Vidyasagar",
+            "EVIDENCE → Bethune School opened in Calcutta in 1849, and Vidyasagar served as its Secretary and advanced women's education."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXAM USE → use Bethune School and Vidyasagar to match actor, date, mechanism and limit.",
+            "LIMIT → do not transfer Bethune School and Vidyasagar to another institution or theatre."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOCUS → Bethune School and Vidyasagar",
+            "EVIDENCE → Bethune School opened in Calcutta in 1849, and Vidyasagar served as its Secretary and advanced women's education."
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM USE → use Bethune School and Vidyasagar to match actor, date, mechanism and limit.",
+      "answer_line": "LIMIT → do not transfer Bethune School and Vidyasagar to another institution or theatre.",
+      "source_references": [
+        "Bethune School and Vidyasagar",
+        "Socio-Religious Reform Movements (Brahmo, Arya, Ramakrishna, Aligarh, etc.)",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\10_Socio-Religious-Reform-Movements.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\10_Socio-Religious-Reform-Movements.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g2\\modern-indian-history-10_Complete-Learning-Session_2026-08-31.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-10\\g3\\modern-indian-history-10_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "BIPIN CHANDRA TREATS THE REFORM MOVEMENTS AS PART OF",
+          "role": "outcome"
+        },
+        {
+          "text": "BY MODERN EDUCATION, PRINT CULTURE, NEW MIDDLE CLASSES AND",
+          "role": "comparison"
+        },
+        {
+          "text": "THE REFORMERS DID NOT SIMPLY IMITATE THE WEST",
+          "role": "caution"
+        },
+        {
+          "text": "THEY SELECTIVELY USED REASON, SCRIPTURE AND PUBLIC DEBATE TO",
+          "role": "primary"
+        },
+        {
+          "text": "RAJA RAMMOHAN ROY'S BRAHMO PROGRAMME FUSED MONOTHEISM, RATIONAL RELIGION",
+          "role": "outcome"
+        },
+        {
+          "text": "SUPPORT FOR ENGLISH EDUCATION AND JOURNALISM THROUGH SAMBAD KAUMUDI",
+          "role": "comparison"
+        },
+        {
+          "text": "THE BRAHMO MOVEMENT DIVERSIFIED UNDER DEBENDRANATH TAGORE AND KESHAB",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Bipin Chandra treats the reform movements as part of the wider intellectual awakening produced",
+            "by modern education, print culture, new middle classes and contact with Western liberal-rational ideas.",
+            "CAUTION: The reformers did not simply imitate the West",
+            "they selectively used reason, scripture and public debate to defend social change within Indian cultural idioms."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "Raja Rammohan Roy's Brahmo programme fused monotheism, rational religion, anti-sati agitation,",
+            "support for English education and journalism through Sambad Kaumudi .",
+            "The Brahmo movement diversified under Debendranath Tagore and Keshab Chandra Sen",
+            "the later split and Sadharan Brahmo Samaj (1878) showed tensions over leadership, social radicalism and religious authority."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Arya Samaj was revivalist in slogan — \"Back to the Vedas\" — but",
+            "modern in organisation, education and mobilisation through DAV institutions and public debate.",
+            "Ramakrishna-Vivekananda placed spiritual universalism and service at the centre",
+            "Vivekananda's Chicago address in 1893 helped convert spiritual confidence into national self-respect."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1130 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-07",
+  "subject": "Modern-Indian-History",
+  "title": "ECONOMIC IMPACT OF BRITISH RULE (DRAIN, DEINDUSTRIALISATION, LAND-REVENUE, FAMINES)",
+  "short_route": "EXTRACTION BECAME STRUCTURAL UNDERDEVELOPMENT → THREE LAND-REVENUE SYSTEMS COMPARED → COMMERCIALISATION SHIFTED RISK DOWNWARD → INDIGO, PABNA AND DECCAN → DEINDUSTRIALISATION WAS A CAUSAL → THE 2024 HOW-FAR ANSWER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g3\\modern-indian-history-07_Complete-Learning-Session_2026-08-31.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-07-deep-review-2026-08-31-g3.json",
+  "ascii_spec_sha256": "126b999739a038948d5c26e524274348a033fe098147fa5c4cfe8f8618f5ba2d",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "EXTRACTION BECAME STRUCTURAL UNDERDEVELOPMENT",
+      "structural_type": "causal-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EXTRACTION BECAME STRUCTURAL UNDERDEVELOPMENT",
+          "role": "primary"
+        },
+        {
+          "text": "COMPANY PLUNDER",
+          "role": "outcome"
+        },
+        {
+          "text": "EARLY DIRECT EXTRACTION AFTER CONQUEST AND DIWANI",
+          "role": "comparison"
+        },
+        {
+          "text": "SYSTEMIC DRAIN",
+          "role": "evidence"
+        },
+        {
+          "text": "HOME CHARGES, REMITTANCES, PROFITS, PENSIONS AND IMPERIAL COSTS",
+          "role": "primary"
+        },
+        {
+          "text": "STRUCTURAL CHANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "REVENUE PRESSURE, DEINDUSTRIALISATION AND DEPENDENT TRADE",
+          "role": "comparison"
+        },
+        {
+          "text": "POVERTY AND MODERNISATION WITHOUT AUTONOMOUS DEVELOPMENT.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COMPANY PLUNDER → early direct extraction after conquest and Diwani",
+        "SYSTEMIC DRAIN → home charges, remittances, profits, pensions and imperial costs",
+        "STRUCTURAL CHANGE → revenue pressure, deindustrialisation and dependent trade",
+        "OUTCOME → poverty and modernisation without autonomous development.",
+        "MUST REMEMBER: Drain, deindustrialisation, land-revenue pressure and famine vulnerability are related mechanisms, not interchangeable slogans"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COMPANY PLUNDER → early direct extraction after conquest and Diwani",
+            "SYSTEMIC DRAIN → home charges, remittances, profits, pensions and imperial costs",
+            "STRUCTURAL CHANGE → revenue pressure, deindustrialisation and dependent trade"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OUTCOME → poverty and modernisation without autonomous development.",
+            "MUST REMEMBER: Drain, deindustrialisation, land-revenue pressure and famine vulnerability are related mechanisms, not interchangeable slogans",
+            "Dadabhai Naoroji and R.C."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Dutt made specific economic arguments."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Drain, deindustrialisation, land-revenue pressure and famine vulnerability are related mechanisms, not interchangeable slogans; Dadabhai Naoroji and R.C. Dutt made specific economic arguments.",
+      "source_references": [
+        "1. Periodisation and the extraction-to-underdevelopment frame",
+        "21. Comparative synthesis: extraction, transformation and colonial modernisation",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\07_Economic-Impact-of-British-Rule.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g3\\modern-indian-history-07_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THREE LAND-REVENUE SYSTEMS COMPARED",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE LAND-REVENUE SYSTEMS COMPARED",
+          "role": "primary"
+        },
+        {
+          "text": "ZAMINDARI ESTATE",
+          "role": "outcome"
+        },
+        {
+          "text": "FIXED IN PERPETUITY",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIVIDUAL RYOT",
+          "role": "evidence"
+        },
+        {
+          "text": "PERIODIC REVISION",
+          "role": "primary"
+        },
+        {
+          "text": "VILLAGE OR MAHAL",
+          "role": "outcome"
+        },
+        {
+          "text": "NORTH-WEST AND PUNJAB",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMON CORE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PERMANENT → zamindari estate",
+        "fixed in perpetuity",
+        "RYOTWARI → individual ryot",
+        "periodic revision",
+        "MAHALWARI → village or mahal"
+      ],
+      "matrix": [
+        [
+          "PERMANENT → zamindari estate",
+          "fixed in perpetuity",
+          "Bengal-Bihar-Orissa"
+        ],
+        [
+          "RYOTWARI → individual ryot",
+          "periodic revision",
+          "Madras-Bombay"
+        ],
+        [
+          "MAHALWARI → village or mahal",
+          "periodic revision",
+          "north-west and Punjab"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PERMANENT → zamindari estate",
+            "fixed in perpetuity",
+            "RYOTWARI → individual ryot"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "periodic revision",
+            "MAHALWARI → village or mahal",
+            "north-west and Punjab"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COMMON CORE → cash demand and secure colonial revenue, with different risk carriers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMMON CORE → cash demand and secure colonial revenue, with different risk carriers.",
+      "source_references": [
+        "3. The Permanent Settlement, 1793: Cornwallis, zamindar property and fixed demand",
+        "4. The Ryotwari settlement: Read, Munro, and direct settlement with uncertainty",
+        "5. The Mahalwari settlement: Holt Mackenzie's framework and Bird's implementation",
+        "6. Comparative synthesis of the three land-revenue systems",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\07_Economic-Impact-of-British-Rule.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g3\\modern-indian-history-07_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "COMMERCIALISATION SHIFTED RISK DOWNWARD",
+      "structural_type": "causal-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "COMMERCIALISATION SHIFTED RISK DOWNWARD",
+          "role": "caution"
+        },
+        {
+          "text": "EXPORT DEMAND",
+          "role": "outcome"
+        },
+        {
+          "text": "PLANTER ADVANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "CASH-CROP COMMITMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "REVENUE CALENDAR + CREDIT",
+          "role": "primary"
+        },
+        {
+          "text": "DEPENDENCE ON MONEYLENDER OR PLANTER",
+          "role": "outcome"
+        },
+        {
+          "text": "HARVEST SHOCK",
+          "role": "comparison"
+        },
+        {
+          "text": "CULTIVATOR BEARS THE LOSS WHILE CLAIMS REMAIN DUE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EXPORT DEMAND / PLANTER ADVANCE → cash-crop commitment",
+        "REVENUE CALENDAR + CREDIT → dependence on moneylender or planter",
+        "PRICE / HARVEST SHOCK → cultivator bears the loss while claims remain due",
+        "RESULT → indebtedness, land alienation and differentiated agrarian protest."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EXPORT DEMAND / PLANTER ADVANCE → cash-crop commitment",
+            "REVENUE CALENDAR + CREDIT → dependence on moneylender or planter"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PRICE / HARVEST SHOCK → cultivator bears the loss while claims remain due",
+            "RESULT → indebtedness, land alienation and differentiated agrarian protest."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EXPORT DEMAND / PLANTER ADVANCE → cash-crop commitment",
+            "REVENUE CALENDAR + CREDIT → dependence on moneylender or planter"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → indebtedness, land alienation and differentiated agrarian protest.",
+      "source_references": [
+        "7. Commercialisation: crops, coercion, credit and risk",
+        "19. Poverty, demography, indebtedness and ecological/social variation",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\07_Economic-Impact-of-British-Rule.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g3\\modern-indian-history-07_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "INDIGO, PABNA AND DECCAN WERE NOT ONE MOVEMENT",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDIGO, PABNA AND DECCAN WERE NOT ONE MOVEMENT",
+          "role": "caution"
+        },
+        {
+          "text": "INDIGO 1859-60",
+          "role": "outcome"
+        },
+        {
+          "text": "EUROPEAN PLANTERS",
+          "role": "comparison"
+        },
+        {
+          "text": "COLLECTIVE REFUSAL TO SOW",
+          "role": "evidence"
+        },
+        {
+          "text": "PABNA FROM 1873",
+          "role": "primary"
+        },
+        {
+          "text": "LEAGUES, RENT RESISTANCE AND LITIGATION",
+          "role": "outcome"
+        },
+        {
+          "text": "DECCAN 1875",
+          "role": "comparison"
+        },
+        {
+          "text": "SEIZURE AND DESTRUCTION OF DEBT BONDS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDIGO 1859-60 → European planters → collective refusal to sow",
+        "PABNA FROM 1873 → zamindars → leagues, rent resistance and litigation",
+        "DECCAN 1875 → moneylenders → seizure and destruction of debt bonds",
+        "EXAM RULE → match target, grievance and repertoire before comparing outcomes."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "INDIGO 1859-60 → European planters → collective refusal to sow",
+          "DECCAN 1875 → moneylenders → seizure and destruction of debt bonds",
+          "INDIGO 1859-60 → European planters → collective refusal to sow"
+        ],
+        [
+          "PABNA FROM 1873 → zamindars → leagues, rent resistance and litigation",
+          "EXAM RULE → match target, grievance and repertoire before comparing outcomes.",
+          "PABNA FROM 1873 → zamindars → leagues, rent resistance and litigation"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INDIGO 1859-60 → European planters → collective refusal to sow",
+            "PABNA FROM 1873 → zamindars → leagues, rent resistance and litigation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DECCAN 1875 → moneylenders → seizure and destruction of debt bonds",
+            "EXAM RULE → match target, grievance and repertoire before comparing outcomes."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INDIGO 1859-60 → European planters → collective refusal to sow",
+            "PABNA FROM 1873 → zamindars → leagues, rent resistance and litigation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXAM RULE → match target, grievance and repertoire before comparing outcomes.",
+      "source_references": [
+        "8. Case studies in economic protest: Indigo, Pabna, Deccan",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\07_Economic-Impact-of-British-Rule.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g3\\modern-indian-history-07_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "DEINDUSTRIALISATION WAS A CAUSAL WEB",
+      "structural_type": "causal-web",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "DEINDUSTRIALISATION WAS A CAUSAL WEB",
+          "role": "primary"
+        },
+        {
+          "text": "ENGLISH MECHANISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CHEAPER FACTORY CLOTH",
+          "role": "comparison"
+        },
+        {
+          "text": "TARIFF ASYMMETRY",
+          "role": "evidence"
+        },
+        {
+          "text": "UNEQUAL ACCESS TO BRITISH AND INDIAN MARKETS",
+          "role": "primary"
+        },
+        {
+          "text": "COURT DECLINE",
+          "role": "caution"
+        },
+        {
+          "text": "LOST ELITE DEMAND FOR FINE CRAFTS",
+          "role": "comparison"
+        },
+        {
+          "text": "RAIL PENETRATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ENGLISH MECHANISATION → cheaper factory cloth",
+        "TARIFF ASYMMETRY → unequal access to British and Indian markets",
+        "COURT DECLINE → lost elite demand for fine crafts",
+        "RAIL PENETRATION → imports reach interior markets",
+        "RESULT → uneven output and employment decline, not total craft extinction."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ENGLISH MECHANISATION → cheaper factory cloth",
+            "TARIFF ASYMMETRY → unequal access to British and Indian markets"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COURT DECLINE → lost elite demand for fine crafts",
+            "RAIL PENETRATION → imports reach interior markets"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RESULT → uneven output and employment decline, not total craft extinction.",
+            "ENGLISH MECHANISATION → cheaper factory cloth"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → uneven output and employment decline, not total craft extinction.",
+      "source_references": [
+        "9. The deindustrialisation causal web",
+        "11. Artisan displacement, de-urbanisation and the limits of \"deindustrialisation\"",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\07_Economic-Impact-of-British-Rule.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g3\\modern-indian-history-07_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "THE 2024 HOW-FAR ANSWER",
+      "structural_type": "argument-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THE 2024 HOW-FAR ANSWER",
+          "role": "primary"
+        },
+        {
+          "text": "NECESSARY CONDITION",
+          "role": "outcome"
+        },
+        {
+          "text": "INDUSTRIAL REVOLUTION LOWERED BRITISH PRODUCTION COSTS",
+          "role": "comparison"
+        },
+        {
+          "text": "TRANSMISSION MECHANISMS",
+          "role": "evidence"
+        },
+        {
+          "text": "TARIFFS, POLITICAL POWER, COURT DECLINE AND RAIL ACCESS",
+          "role": "caution"
+        },
+        {
+          "text": "REGION, CRAFT AND TIMING PREVENT A TOTAL-EXTINCTION CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "SUBSTANTIALLY RESPONSIBLE, BUT NOT SUFFICIENT WITHOUT COLONIAL POLICY.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NECESSARY CONDITION → Industrial Revolution lowered British production costs",
+        "TRANSMISSION MECHANISMS → tariffs, political power, court decline and rail access",
+        "VARIATION → region, craft and timing prevent a total-extinction claim",
+        "VERDICT → substantially responsible, but not sufficient without colonial policy."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NECESSARY CONDITION → Industrial Revolution lowered British production costs",
+            "TRANSMISSION MECHANISMS → tariffs, political power, court decline and rail access"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VARIATION → region, craft and timing prevent a total-extinction claim",
+            "VERDICT → substantially responsible, but not sufficient without colonial policy."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NECESSARY CONDITION → Industrial Revolution lowered British production costs",
+            "TRANSMISSION MECHANISMS → tariffs, political power, court decline and rail access"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → substantially responsible, but not sufficient without colonial policy.",
+      "source_references": [
+        "10. The 2024 \"how far\" demand: Industrial Revolution and Indian handicrafts",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\07_Economic-Impact-of-British-Rule.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g3\\modern-indian-history-07_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DRAIN THEORY NAMES CHANNELS, NOT AN INVENTED TOTAL",
+      "structural_type": "channel-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DRAIN THEORY NAMES CHANNELS, NOT AN INVENTED TOTAL",
+          "role": "caution"
+        },
+        {
+          "text": "INDIAN REVENUE",
+          "role": "outcome"
+        },
+        {
+          "text": "HOME CHARGES AND INDIA OFFICE COSTS",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFICIAL INCOME",
+          "role": "evidence"
+        },
+        {
+          "text": "SALARIES, PENSIONS AND PRIVATE REMITTANCES",
+          "role": "primary"
+        },
+        {
+          "text": "BRITISH CAPITAL",
+          "role": "outcome"
+        },
+        {
+          "text": "PROFITS, INTEREST AND GUARANTEED RETURNS",
+          "role": "comparison"
+        },
+        {
+          "text": "IMPERIAL PROCUREMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDIAN REVENUE → home charges and India Office costs",
+        "OFFICIAL INCOME → salaries, pensions and private remittances",
+        "BRITISH CAPITAL → profits, interest and guaranteed returns",
+        "IMPERIAL PROCUREMENT / WAR → stores and external costs charged to India",
+        "RULE → explain mechanism and significance; do not invent a percentage."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INDIAN REVENUE → home charges and India Office costs",
+            "OFFICIAL INCOME → salaries, pensions and private remittances"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BRITISH CAPITAL → profits, interest and guaranteed returns",
+            "IMPERIAL PROCUREMENT / WAR → stores and external costs charged to India"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → explain mechanism and significance; do not invent a percentage.",
+            "INDIAN REVENUE → home charges and India Office costs"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → explain mechanism and significance; do not invent a percentage.",
+      "source_references": [
+        "12. Drain theory: plunder, systemic drain and its channels",
+        "13. Naoroji, R.C. Dutt and M.G. Ranade: the nationalist economic critique",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\07_Economic-Impact-of-British-Rule.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g3\\modern-indian-history-07_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "EXPORT SURPLUS COULD FINANCE TRANSFER",
+      "structural_type": "process-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "EXPORT SURPLUS COULD FINANCE TRANSFER",
+          "role": "primary"
+        },
+        {
+          "text": "INDIAN EXPORTS EXCEED VISIBLE IMPORTS",
+          "role": "outcome"
+        },
+        {
+          "text": "APPARENT TRADE SURPLUS",
+          "role": "comparison"
+        },
+        {
+          "text": "COUNCIL-BILL MECHANISM",
+          "role": "institution"
+        },
+        {
+          "text": "STERLING CLAIMS AND RUPEE PAYMENTS CONNECT THE ACCOUNTS",
+          "role": "primary"
+        },
+        {
+          "text": "HOME CHARGES",
+          "role": "outcome"
+        },
+        {
+          "text": "SURPLUS SERVICES EXTERNAL OBLIGATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "ANALYTICAL POINT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDIAN EXPORTS EXCEED VISIBLE IMPORTS → apparent trade surplus",
+        "COUNCIL-BILL MECHANISM → sterling claims and rupee payments connect the accounts",
+        "HOME CHARGES / REMITTANCES → surplus services external obligations",
+        "ANALYTICAL POINT → a surplus need not mean resources remained available in India."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INDIAN EXPORTS EXCEED VISIBLE IMPORTS → apparent trade surplus",
+            "COUNCIL-BILL MECHANISM → sterling claims and rupee payments connect the accounts"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HOME CHARGES / REMITTANCES → surplus services external obligations",
+            "ANALYTICAL POINT → a surplus need not mean resources remained available in India."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INDIAN EXPORTS EXCEED VISIBLE IMPORTS → apparent trade surplus",
+            "COUNCIL-BILL MECHANISM → sterling claims and rupee payments connect the accounts"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANALYTICAL POINT → a surplus need not mean resources remained available in India.",
+      "source_references": [
+        "14. Export surplus, Council Bills and the colonial fiscal-financial system",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\07_Economic-Impact-of-British-Rule.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g3\\modern-indian-history-07_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "INFRASTRUCTURE HAD A DUAL EFFECT",
+      "structural_type": "dialectic",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "INFRASTRUCTURE HAD A DUAL EFFECT",
+          "role": "primary"
+        },
+        {
+          "text": "IMPERIAL DESIGN",
+          "role": "outcome"
+        },
+        {
+          "text": "TROOPS, ADMINISTRATION, RAW-MATERIAL EXPORT AND IMPORT REACH",
+          "role": "evidence"
+        },
+        {
+          "text": "PRIVATE BRITISH CAPITAL PROTECTED THROUGH THE GUARANTEE SYSTEM",
+          "role": "evidence"
+        },
+        {
+          "text": "UNINTENDED EFFECT",
+          "role": "primary"
+        },
+        {
+          "text": "MARKET INTEGRATION AND LATER NATIONALIST MOBILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "SAFE VERDICT",
+          "role": "comparison"
+        },
+        {
+          "text": "MODERN INFRASTRUCTURE WITHOUT AUTONOMOUS DEVELOPMENTAL PRIORITY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "IMPERIAL DESIGN → troops, administration, raw-material export and import reach",
+        "FINANCING → private British capital protected through the Guarantee System",
+        "UNINTENDED EFFECT → market integration and later nationalist mobility",
+        "SAFE VERDICT → modern infrastructure without autonomous developmental priority."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "IMPERIAL DESIGN → troops, administration, raw-material export and import reach",
+            "FINANCING → private British capital protected through the Guarantee System"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "UNINTENDED EFFECT → market integration and later nationalist mobility",
+            "SAFE VERDICT → modern infrastructure without autonomous developmental priority."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "IMPERIAL DESIGN → troops, administration, raw-material export and import reach",
+            "FINANCING → private British capital protected through the Guarantee System"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SAFE VERDICT → modern infrastructure without autonomous developmental priority.",
+      "source_references": [
+        "15. Infrastructure: railways, ports, roads, telegraph, canals and forests",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\07_Economic-Impact-of-British-Rule.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g3\\modern-indian-history-07_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "COLONIAL INDUSTRIALISATION WAS REAL BUT CONSTRAINED",
+      "structural_type": "balance-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "COLONIAL INDUSTRIALISATION WAS REAL BUT CONSTRAINED",
+          "role": "primary"
+        },
+        {
+          "text": "PLANTATIONS, JUTE, COTTON, COAL, MINES AND LATER STEEL",
+          "role": "outcome"
+        },
+        {
+          "text": "FOREIGN CAPITAL REMAINED POWERFUL IN KEY SECTORS",
+          "role": "comparison"
+        },
+        {
+          "text": "FINANCE, POLICY BIAS, TECHNOLOGY AND NARROW DOMESTIC DEMAND",
+          "role": "evidence"
+        },
+        {
+          "text": "INDUSTRY DEVELOPED UNEVENLY; DEINDUSTRIALISATION DID NOT MEAN ZERO INDUSTRY.",
+          "role": "caution"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "PERMANENT, RYOTWARI AND MAHALWARI SETTLEMENTS DIFFERED BY REGION, ASSESSMENT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "GROWTH → plantations, jute, cotton, coal, mines and later steel",
+        "OWNERSHIP → foreign capital remained powerful in key sectors",
+        "CONSTRAINTS → finance, policy bias, technology and narrow domestic demand",
+        "VERDICT → industry developed unevenly; deindustrialisation did not mean zero industry.",
+        "CLOSE DISTINCTION: Permanent, Ryotwari and Mahalwari settlements differed by region, assessment unit and intermediary structure"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GROWTH → plantations, jute, cotton, coal, mines and later steel",
+            "OWNERSHIP → foreign capital remained powerful in key sectors"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONSTRAINTS → finance, policy bias, technology and narrow domestic demand",
+            "VERDICT → industry developed unevenly; deindustrialisation did not mean zero industry."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Permanent, Ryotwari and Mahalwari settlements differed by region, assessment unit and intermediary structure",
+            "no one settlement covered all India or remained unchanged in practice."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → industry developed unevenly; deindustrialisation did not mean zero industry.",
+      "source_references": [
+        "16. Colonial industrialisation: plantations, mines and modern industry",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\07_Economic-Impact-of-British-Rule.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g3\\modern-indian-history-07_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "FAMINE WAS SHOCK PLUS STRUCTURAL AMPLIFICATION",
+      "structural_type": "causal-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FAMINE WAS SHOCK PLUS STRUCTURAL AMPLIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "HARVEST SHOCK",
+          "role": "outcome"
+        },
+        {
+          "text": "IMMEDIATE SCARCITY RISK",
+          "role": "caution"
+        },
+        {
+          "text": "REVENUE RIGIDITY + COMMERCIALISATION",
+          "role": "evidence"
+        },
+        {
+          "text": "WEAK HOUSEHOLD BUFFERS",
+          "role": "primary"
+        },
+        {
+          "text": "PRICE-LED TRANSPORT + LAISSEZ-FAIRE RELIEF",
+          "role": "outcome"
+        },
+        {
+          "text": "ENTITLEMENT FAILURE",
+          "role": "comparison"
+        },
+        {
+          "text": "ADMINISTRATIVE DELAY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CLIMATE / HARVEST SHOCK → immediate scarcity risk",
+        "REVENUE RIGIDITY + COMMERCIALISATION → weak household buffers",
+        "PRICE-LED TRANSPORT + LAISSEZ-FAIRE RELIEF → entitlement failure",
+        "ADMINISTRATIVE DELAY → mortality and distress deepen",
+        "RULE → avoid both climate-only and export-only explanations."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CLIMATE / HARVEST SHOCK → immediate scarcity risk",
+            "REVENUE RIGIDITY + COMMERCIALISATION → weak household buffers",
+            "PRICE-LED TRANSPORT + LAISSEZ-FAIRE RELIEF → entitlement failure"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ADMINISTRATIVE DELAY → mortality and distress deepen",
+            "RULE → avoid both climate-only and export-only explanations.",
+            "EVIDENCE LIMIT: Nationalist, Marxist and revisionist scholarship must be tied to wage, trade,"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "craft, revenue and mortality evidence, with regional variation and data limits made explicit."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → avoid both climate-only and export-only explanations.",
+      "source_references": [
+        "17. Famine causation: climate shock versus entitlement and governance",
+        "18. The famine case sequence and colonial famine policy",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\07_Economic-Impact-of-British-Rule.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g3\\modern-indian-history-07_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "HISTORIOGRAPHY AND FINAL SYNTHESIS",
+      "structural_type": "synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "HISTORIOGRAPHY AND FINAL SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "DRAIN AND DEINDUSTRIALISATION EXPLAIN POVERTY",
+          "role": "outcome"
+        },
+        {
+          "text": "DEPENDENT INTEGRATION INTO WORLD CAPITALISM",
+          "role": "comparison"
+        },
+        {
+          "text": "DISPUTES SCALE AND MEASUREMENT, NOT ALL STRUCTURAL CHANGE",
+          "role": "caution"
+        },
+        {
+          "text": "OUTCOMES VARIED BY PLACE, SECTOR AND SOCIAL GROUP",
+          "role": "primary"
+        },
+        {
+          "text": "EXTRACTION AND TRANSFORMATION MUST BE ASSESSED TOGETHER.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "NATIONALIST → drain and deindustrialisation explain poverty",
+        "STRUCTURAL → dependent integration into world capitalism",
+        "REVISIONIST → disputes scale and measurement, not all structural change",
+        "REGIONAL → outcomes varied by place, sector and social group",
+        "SYNTHESIS → extraction and transformation must be assessed together."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NATIONALIST → drain and deindustrialisation explain poverty",
+            "STRUCTURAL → dependent integration into world capitalism"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REVISIONIST → disputes scale and measurement, not all structural change",
+            "REGIONAL → outcomes varied by place, sector and social group"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SYNTHESIS → extraction and transformation must be assessed together.",
+            "NATIONALIST → drain and deindustrialisation explain poverty"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SYNTHESIS → extraction and transformation must be assessed together.",
+      "source_references": [
+        "20. Historiography of the colonial economy",
+        "21. Comparative synthesis: extraction, transformation and colonial modernisation",
+        "22. Topic boundaries and a bounded current link",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\07_Economic-Impact-of-British-Rule.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-07\\g3\\modern-indian-history-07_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "DADABHAI NAOROJI ARGUED THAT INDIA WAS POOR NOT BECAUSE",
+          "role": "caution"
+        },
+        {
+          "text": "R.C. DUTT LINKED REVENUE PRESSURE, FREE TRADE, FAMINES AND",
+          "role": "comparison"
+        },
+        {
+          "text": "DRAIN OCCURRED THROUGH HOME CHARGES , REMITTANCES OF OFFICIALS",
+          "role": "evidence"
+        },
+        {
+          "text": "PROFITS, INTEREST PAYMENTS AND MILITARY EXPENDITURE CHARGED TO INDIAN",
+          "role": "primary"
+        },
+        {
+          "text": "THE DRAIN THEORY WAS MORE THAN A BUDGET CALCULATION",
+          "role": "outcome"
+        },
+        {
+          "text": "IT WAS AN IDEOLOGICAL WEAPON THAT GAVE EARLY NATIONALISM",
+          "role": "comparison"
+        },
+        {
+          "text": "MODERATE NATIONALISM USED ECONOMIC CRITIQUE TO SHOW THAT POVERTY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Dadabhai Naoroji argued that India was poor not because of climate or culture but because colonial rule transferred wealth abroad without return.",
+            "R.C. Dutt linked revenue pressure, free trade, famines and deindustrialisation into a systematic critique of British economic policy.",
+            "Drain occurred through home charges , remittances of officials, salaries, pensions,",
+            "profits, interest payments and military expenditure charged to Indian revenues."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: The drain theory was more than a budget calculation",
+            "it was an ideological weapon that gave early nationalism a rational, empirical and all-India grievance.",
+            "CAUTION: Moderate nationalism used economic critique to show that poverty was",
+            "politically produced, thereby connecting elite constitutional politics with mass material suffering."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Indian handicrafts declined under pressure from British machine-made imports, discriminatory tariff policy and the loss of traditional patronage.",
+            "Deindustrialisation pushed artisans toward land, intensifying rural pressure and making agriculture absorb population without corresponding productivity growth.",
+            "Commercialisation of agriculture connected peasants to global markets through cash crops such as",
+            "indigo and cotton, but often increased vulnerability to price shocks and coercive intermediaries."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "record_id": "modern-indian-history-08:learner-v2:g1",
+  "topic_key": "modern-indian-history-08",
+  "variant": "learner-v2",
+  "generation": 1,
+  "supersedes": null,
+  "command": "Generate learner-v2 topic: Modern History — Subject-wide Syllabus — Administrative Organisation (Civil Services, Army, Police, Judiciary, Rule of Law)",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-08\\modern-indian-history-08_Complete-Learning-Session_2026-08-30.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-08\\modern-indian-history-08_Solved-Practice-Workbook_2026-08-30.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-08\\modern-indian-history-08_Complete-Learning-Session_2026-08-30.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-08\\modern-indian-history-08_Solved-Practice-Workbook_2026-08-30.md",
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-08\\assets",
+  "generated_on": "2026-08-30",
+  "approved": false,
+  "provenance": {
+    "workflow": "learner-first-v2-refreshed-new-topic",
+    "source_basic": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\08_Administrative-Organisation.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\08_Administrative-Organisation-Civil-Services-Army-Police-Judiciary-Rule-of-Law_Complete-Topic-Package.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\08_Administrative-Organisation.md",
+    "cross_topic_sources": [
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\00_Master-Chronology.md",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\README.md",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\09_Social-and-Cultural-Policy-Education-Press.md",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\11_The-Revolt-of-1857.md",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\12_Administrative-Changes-After-1858.md"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md"
+    ],
+    "official_question_sources": [
+      "knowledge-export\\Prelims PYQ\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf.md",
+      "knowledge-export\\Prelims PYQ\\GENERAL STUDIES PAPER I.pdf.md",
+      "knowledge-export\\Prelims PYQ\\2025-GS1-Set A.md",
+      "knowledge-export\\Prelims PYQ\\Ans-2025-GS1.md",
+      "knowledge-export\\Mains PYQ\\QP-CSM-22-GENERAL-STUDIES-PAPER I-190922.pdf.md"
+    ],
+    "local_ocr_sources": [
+      "books\\modern india\\MODERN INDIA -- BIPIN CHANDRA -- ENGLISH ##.pdf",
+      "books\\modern india\\INDIA STRUGGLE FOR INDEPENDENCE-- BIPIN C ENG.pdf",
+      "books\\medival_history\\FROM PLASY TO PARTITION -- SEKAR B -- ENGLISH.pdf"
+    ],
+    "live_sources": [
+      "https://pib.gov.in/PressReleasePage.aspx?PRID=2150998",
+      "https://bprd.nic.in/page/new_criminal_laws"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-08\\modern-indian-history-08_Complete-Learning-Session_2026-08-30.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.5"
+    },
+    "generation_date": "2026-08-30",
+    "superseded_v1": null,
+    "source_hashes": {
+      "books\\medival_history\\FROM PLASY TO PARTITION -- SEKAR B -- ENGLISH.pdf": "dd2296588b681bc6a1ac98569861188149e56d8d11468ff07b26a9ebd35102b7",
+      "books\\modern india\\INDIA STRUGGLE FOR INDEPENDENCE-- BIPIN C ENG.pdf": "4286a90b1b963848d1a3ff6d0e53b4b31d2245c53ba35b544986f143f398dd8e",
+      "books\\modern india\\MODERN INDIA -- BIPIN CHANDRA -- ENGLISH ##.pdf": "7e67395d871f52df0d1f54d8e0c899d14acfe4462ada6b095acc99d4242ff49a",
+      "knowledge-export\\Mains PYQ\\QP-CSM-22-GENERAL-STUDIES-PAPER I-190922.pdf.md": "9676f766ceea282b8c7583741a0bbad4cec890e75924cebb8cd94fab81af9e1e",
+      "knowledge-export\\Prelims PYQ\\2025-GS1-Set A.md": "87e8ce3d9a977fd83ef40f0faef361396d75ffe2cde038228843e31b20f172b6",
+      "knowledge-export\\Prelims PYQ\\Ans-2025-GS1.md": "0db28be0d054c7e554c9ad379f4a4001a55f5e8fbc917f7414d93ccdb02adf25",
+      "knowledge-export\\Prelims PYQ\\GENERAL STUDIES PAPER I.pdf.md": "550f4e4ed61c32cc8db80a30fe792c6ab48dfd08885096cb0d6e1f180f4c861c",
+      "knowledge-export\\Prelims PYQ\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf.md": "baabf29c5901c7ff19af4f1fc8a864f95e3272d71ae008806e0f2921e8c030e5",
+      "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md": "f2aed989ef31ed3961bf3fa232fc9520ea1425a9f3ba7ba91fe45c961803fa5a",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\00_Master-Chronology.md": "c7de6a0680c23b5041663da331f679610fbb60f671f7be9e39a25fac89392261",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\08_Administrative-Organisation-Civil-Services-Army-Police-Judiciary-Rule-of-Law_Complete-Topic-Package.md": "242745d2316913f09058bc07ca8642f1dcc40cf8c2d717a891485240dda633be",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\08_Administrative-Organisation.md": "c1ad3d91d0ba461d3a15a20bc0529ccc1e5c2c27d2ae6339255881b93f4f701f",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\07_Economic-Impact-of-British-Rule.md": "e91a0a07b8a24fe8f3cce71e646f267b88b8257c2206f9d9c848b314c32d9798",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\08_Administrative-Organisation.md": "73196a71eaf24d9dcea55bc4414a68977d7919a02c4c5e056930cda30318ffce",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\09_Social-and-Cultural-Policy-Education-Press.md": "e6ade5afa8f05c88ea302d321cd8dd12128ebe4d07e30297c90aaa90d792bcd9",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\11_The-Revolt-of-1857.md": "e5013daa99668c215c1c3cc22f9a8590d7924150f5c622de938fa667a2f3eae1",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\12_Administrative-Changes-After-1858.md": "ea6077fbea7f0429ec63b50b040ece5eafa0f508a3020ca61106986c2b4e415f",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\modern-indian-history-08_Learning-Session.md": "7c433d21b3117c15cc13f228f01a560e27cce8ce5409432ed5129c01ea04f242",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\learning-sessions\\v2\\subject-wide-syllabus\\modern-indian-history-08_Solved-Workbook.md": "eb253c837ac489048da7336af5079462522b2137dd7382befe124e0a4a978ada",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "a4478f62e7893ae6aa2f08f83a872411edc6bed088e0be821786e5d455594ea0",
+      "upsc-ai-kit\\knowledge\\Modern-Indian-History\\README.md": "43542caece514b70597d61be1b0963a4bcb0d8ee998fc4e2e65d5746147f7b5b",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2018-2023.md": "42474c847c02c1f14298907a34bb7daca8f361ef6b9235fe6c1a4910a4d7057f",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2024-2025.md": "dcb4f893fe829496d419d46f060b770b9aa056bfc13c7ac54280cc7c9edb4b97",
+      "upsc-ai-kit\\knowledge\\PYQ-INTEGRATION-AUDIT-2026.md": "5304d55d4a720f5d92fcdf81476ddb0bae811a9f9e2634815fb72651c267c9df",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-07-08-2026-08-30-sequential.json": "221d5059df7fc105f4d832744fd171c6b76201ab60e5fd929a05467fb1fa74be",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Modern-Indian-History\\modern-indian-history-08.json": "61750f03ec40ff2de9ef656ae878205ddc069d2178d0bb774afa2a8160a779e4",
+      "upsc-ai-kit\\manifests\\v2\\modern-indian-history--subject-wide-syllabus.json": "f008dd53ed92217d76dbc92f94e75ff67a2025fdff11dcdf1ffaa9b9619e93fe",
+      "upsc-ai-kit\\manifests\\v2\\topic-catalog.json": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27"
+    },
+    "session_contract": "named-session definition/opening/keywords/use/closure",
+    "mcq_keys": "strict A-B-C-D rotation",
+    "practice_profile": "80 unique MCQ stems with substantive explanations; strict A-B-C-D repeated 20 times; original 10/15/20-mark Mains practice and verified/inferred PYQ provenance retained in both session and solved workbook Markdown.",
+    "current_linkage_note": "PIB's 31 July 2025 Mission Karmayogi update and BPR&D's new-criminal-laws hub provide bounded contrasts with colonial recruitment, training, policing and codification. They are not evidence for nineteenth-century institutional facts.",
+    "pyq_status_note": "The repository's 2018-2026 PYQ integration audits route zero direct questions to Topic 08. The package therefore uses a transparent zero-PYQ audit and labels any Topic 05, 06 or 09 question only as an adjacent bridge, never as Topic-08-owned.",
+    "new_visual_count": 1,
+    "new_flowchart_page_count": 4,
+    "flowchart_renderer": "Cārvāka-style continuous same-master PNG/poster/tiled renderer",
+    "tracker_updated": false,
+    "tracker_sha256": "f4b7cfb5c2ae5adc94880d273705f0d28bbc131cd8f3ddbfd670a6ab98e8e405"
+  },
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "modern-indian-history-08:learner-v2:g1"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-08-30",
+    "validator": "tools/refresh_all_v2_learning_sessions.py new-topic + tools/validate_v2_export.py"
+  },
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-08\\carvaka-g1",
+    "master_image": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-08\\carvaka-g1\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-08\\carvaka-g1\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-08\\carvaka-g1\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-08\\carvaka-g1\\editable",
+    "graphical_spec": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-08\\modern-indian-history-08_Graphical-Spec-g1.json",
+    "graphical_spec_sha256": "cbb4b8f12b015dd0d0d003896986c3e7eeaeabae59f13025bb4c6e7b6f83fc03",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-08\\carvaka-g1\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-08\\carvaka-g1\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-08\\carvaka-g1\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-08\\carvaka-g1\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-08\\carvaka-g1\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-08\\carvaka-g1\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\flowcharts\\modern-indian-history-08\\carvaka-g1\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_source": "manual-authored-spec",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-07-08-2026-08-30-sequential.json",
+    "ascii_master_spec_sha256": "221d5059df7fc105f4d832744fd171c6b76201ab60e5fd929a05467fb1fa74be"
+  },
+  "refresh_profile": "learner-v2-refreshed-new-topic"
+}

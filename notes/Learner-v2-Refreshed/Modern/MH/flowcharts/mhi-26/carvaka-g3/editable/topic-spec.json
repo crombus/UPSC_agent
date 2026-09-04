@@ -1,0 +1,1195 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-26",
+  "subject": "Modern-Indian-History",
+  "title": "POST-WAR UPSURGE: INA, RIN MUTINY & THE CABINET MISSION (1945–1946)",
+  "short_route": "TWO INDIAN NATIONAL ARMIES → RASH BEHARI BOSE: POLITICAL → AZAD HIND: GOVERNMENT, ARMY → IMPHAL-KOHIMA AND THE MILITARY → RED FORT TRIAL: THREE → WHAT ACTUALLY HAPPENED TO",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-26\\g3\\modern-indian-history-26_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-26-deep-review-2026-09-04-g3.json",
+  "ascii_spec_sha256": "2fee5d15d248c55af0b814ba63a67ce93e414bed38bfd92aa3826f0d71f8070e",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TWO INDIAN NATIONAL ARMIES, 1942 AND 1943",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TWO INDIAN NATIONAL ARMIES, 1942 AND 1943",
+          "role": "primary"
+        },
+        {
+          "text": "FIRST INA",
+          "role": "outcome"
+        },
+        {
+          "text": "MOHAN SINGH + INDIAN POWS (MALAYA, SINGAPORE) + JAPANESE",
+          "role": "comparison"
+        },
+        {
+          "text": "EARLY 1943",
+          "role": "evidence"
+        },
+        {
+          "text": "FIRST INA COLLAPSES; MOHAN SINGH REMOVED AND ARRESTED OVER",
+          "role": "primary"
+        },
+        {
+          "text": "MAY 1943",
+          "role": "outcome"
+        },
+        {
+          "text": "SUBHAS CHANDRA BOSE REACHES SOUTHEAST ASIA AND REORGANISES THE",
+          "role": "comparison"
+        },
+        {
+          "text": "OCT 1943",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1942 → FIRST INA → Mohan Singh + Indian POWs (Malaya, Singapore) + Japanese support",
+        "EARLY 1943 → first INA collapses; Mohan Singh removed and arrested over subsidiary status",
+        "MAY 1943 → Subhas Chandra Bose reaches Southeast Asia and reorganises the force",
+        "OCT 1943 → SECOND INA under Azad Hind → larger, politically directed, claimant government",
+        "RULE → two armies, two dates, two leaderships; never one continuous force."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1942 → FIRST INA → Mohan Singh + Indian POWs (Malaya, Singapore) + Japanese support",
+            "EARLY 1943 → first INA collapses; Mohan Singh removed and arrested over subsidiary status",
+            "MAY 1943 → Subhas Chandra Bose reaches Southeast Asia and reorganises the force"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OCT 1943 → SECOND INA under Azad Hind → larger, politically directed, claimant government",
+            "RULE → two armies, two dates, two leaderships; never one continuous force.",
+            "MUST REMEMBER: Mohan Singh's first INA in 1942, Subhas Chandra Bose's 1943 reorganisation and"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Azad Hind government, Red Fort trials from 1945, RIN revolt of 18-23 February 1946 and",
+            "Cabinet Mission proposals were distinct."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → two armies, two dates, two leaderships; never one continuous force.",
+      "source_references": [
+        "Two Indian National Armies: 1942 under Mohan Singh, 1943 under Bose",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-26\\g3\\modern-indian-history-26_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "RASH BEHARI BOSE: POLITICAL COVER, NOT FIELD COMMAND",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RASH BEHARI BOSE",
+          "role": "primary"
+        },
+        {
+          "text": "POLITICAL COVER, NOT FIELD COMMAND",
+          "role": "caution"
+        },
+        {
+          "text": "INDIAN INDEPENDENCE LEAGUE (POLITICAL ROOF OVER THE PRISONER-OF-WAR ARMY)",
+          "role": "comparison"
+        },
+        {
+          "text": "CONVENES TOKYO AND BANGKOK CONFERENCES; NEGOTIATES WITH JAPAN",
+          "role": "evidence"
+        },
+        {
+          "text": "HANDOVER 1943",
+          "role": "primary"
+        },
+        {
+          "text": "LEAGUE AND INA LEADERSHIP PASS TO SUBHAS CHANDRA BOSE",
+          "role": "outcome"
+        },
+        {
+          "text": "FIELD COMMAND",
+          "role": "comparison"
+        },
+        {
+          "text": "MOHAN SINGH (1942), THEN BOSE'S INA OFFICERS (1943-45)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDIAN INDEPENDENCE LEAGUE (political roof over the prisoner-of-war army)",
+        "RASH BEHARI BOSE → convenes Tokyo and Bangkok conferences; negotiates with Japan",
+        "HANDOVER 1943 → League and INA leadership pass to Subhas Chandra Bose",
+        "FIELD COMMAND → Mohan Singh (1942), then Bose's INA officers (1943-45)",
+        "RULE → political sponsorship and field command are two different offices."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INDIAN INDEPENDENCE LEAGUE (political roof over the prisoner-of-war army)",
+            "RASH BEHARI BOSE → convenes Tokyo and Bangkok conferences; negotiates with Japan"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HANDOVER 1943 → League and INA leadership pass to Subhas Chandra Bose",
+            "FIELD COMMAND → Mohan Singh (1942), then Bose's INA officers (1943-45)"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → political sponsorship and field command are two different offices.",
+            "INDIAN INDEPENDENCE LEAGUE (political roof over the prisoner-of-war army)"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → political sponsorship and field command are two different offices.",
+      "source_references": [
+        "Rash Behari Bose: political cover, not field command",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-26\\g3\\modern-indian-history-26_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "AZAD HIND: GOVERNMENT, ARMY AND SYMBOLS",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "AZAD HIND",
+          "role": "primary"
+        },
+        {
+          "text": "GOVERNMENT, ARMY AND SYMBOLS",
+          "role": "outcome"
+        },
+        {
+          "text": "PROVISIONAL GOVERNMENT OF AZAD HIND (SINGAPORE, OCTOBER 1943)",
+          "role": "comparison"
+        },
+        {
+          "text": "SUPREME COMMANDER",
+          "role": "evidence"
+        },
+        {
+          "text": "SUBHAS CHANDRA BOSE",
+          "role": "primary"
+        },
+        {
+          "text": "\"DILLI CHALO\"",
+          "role": "outcome"
+        },
+        {
+          "text": "REORGANISED INA",
+          "role": "comparison"
+        },
+        {
+          "text": "WOMEN'S UNIT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROVISIONAL GOVERNMENT OF AZAD HIND (Singapore, October 1943)",
+        "SUPREME COMMANDER → Subhas Chandra Bose",
+        "SLOGAN → \"Dilli Chalo\"",
+        "ARMY → reorganised INA",
+        "WOMEN'S UNIT → Rani of Jhansi Regiment (Lakshmi Sahgal)"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PROVISIONAL GOVERNMENT OF AZAD HIND (Singapore, October 1943)",
+            "SUPREME COMMANDER → Subhas Chandra Bose",
+            "SLOGAN → \"Dilli Chalo\""
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ARMY → reorganised INA",
+            "WOMEN'S UNIT → Rani of Jhansi Regiment (Lakshmi Sahgal)",
+            "TERRITORY CLAIMED → Andaman and Nicobar renamed Shaheed and Swaraj"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → a claimant government's symbols, not a record of battlefield success."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → a claimant government's symbols, not a record of battlefield success.",
+      "source_references": [
+        "Azad Hind: provisional government, army and symbols",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-26\\g3\\modern-indian-history-26_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "IMPHAL-KOHIMA AND THE MILITARY VERDICT",
+      "structural_type": "causal-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "IMPHAL-KOHIMA AND THE MILITARY VERDICT",
+          "role": "primary"
+        },
+        {
+          "text": "8 MAR 1944",
+          "role": "outcome"
+        },
+        {
+          "text": "IMPHAL CAMPAIGN LAUNCHED WITH JAPANESE FORCES",
+          "role": "comparison"
+        },
+        {
+          "text": "IMPHAL + KOHIMA",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCE BROKEN; RETREAT THROUGH BURMA DESTROYS THE FORMATION",
+          "role": "primary"
+        },
+        {
+          "text": "SUPPLY FAILURE + MONSOON + ALLIED AIR POWER (MILITARY",
+          "role": "mechanism"
+        },
+        {
+          "text": "AUG 1945",
+          "role": "comparison"
+        },
+        {
+          "text": "BOSE OFFICIALLY REPORTED DEAD IN AN AIR CRASH; NOTHING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "8 MAR 1944 → Imphal campaign launched with Japanese forces → objective: Delhi",
+        "IMPHAL + KOHIMA → advance broken; retreat through Burma destroys the formation",
+        "CAUSES → supply failure + monsoon + Allied air power (military, not political)",
+        "AUG 1945 → Bose officially reported dead in an air crash; nothing beyond the report",
+        "RULE → the military verdict is defeat; the political verdict comes later."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "8 MAR 1944 → Imphal campaign launched with Japanese forces → objective: Delhi",
+            "IMPHAL + KOHIMA → advance broken; retreat through Burma destroys the formation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CAUSES → supply failure + monsoon + Allied air power (military, not political)",
+            "AUG 1945 → Bose officially reported dead in an air crash; nothing beyond the report"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → the military verdict is defeat; the political verdict comes later.",
+            "8 MAR 1944 → Imphal campaign launched with Japanese forces → objective: Delhi"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → the military verdict is defeat; the political verdict comes later.",
+      "source_references": [
+        "Imphal-Kohima: state the military verdict plainly",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-26\\g3\\modern-indian-history-26_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "RED FORT TRIAL: THREE DEFENDANTS, ONE MESSAGE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RED FORT TRIAL",
+          "role": "primary"
+        },
+        {
+          "text": "THREE DEFENDANTS, ONE MESSAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "RED FORT TRIAL (1945-46)",
+          "role": "comparison"
+        },
+        {
+          "text": "THREE OFFICERS TRIED TOGETHER",
+          "role": "evidence"
+        },
+        {
+          "text": "SHAH NAWAZ KHAN (MUSLIM)",
+          "role": "primary"
+        },
+        {
+          "text": "PREM SAHGAL",
+          "role": "outcome"
+        },
+        {
+          "text": "SEHGAL (HINDU)",
+          "role": "comparison"
+        },
+        {
+          "text": "G.S. DHILLON (SIKH)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RED FORT TRIAL (1945-46) → three officers tried together",
+        "SHAH NAWAZ KHAN (Muslim)",
+        "PREM SAHGAL / SEHGAL (Hindu)",
+        "G.S. DHILLON (Sikh)",
+        "DEFENCE → Bhulabhai Desai, Tej Bahadur Sapru, K.N. Katju, Nehru, Asaf Ali"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "RED FORT TRIAL (1945-46) → three officers tried together",
+          "G.S. DHILLON (Sikh)",
+          "EFFECT → prosecution reads as punishment of patriotism across three communities."
+        ],
+        [
+          "SHAH NAWAZ KHAN (Muslim)",
+          "DEFENCE → Bhulabhai Desai, Tej Bahadur Sapru, K.N. Katju, Nehru, Asaf Ali",
+          ""
+        ],
+        [
+          "PREM SAHGAL / SEHGAL (Hindu)",
+          "CONGRESS → INA Relief and Enquiry Committee; INA becomes an election plank",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RED FORT TRIAL (1945-46) → three officers tried together",
+            "SHAH NAWAZ KHAN (Muslim)",
+            "PREM SAHGAL / SEHGAL (Hindu)"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "G.S. DHILLON (Sikh)",
+            "DEFENCE → Bhulabhai Desai, Tej Bahadur Sapru, K.N. Katju, Nehru, Asaf Ali",
+            "CONGRESS → INA Relief and Enquiry Committee; INA becomes an election plank"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EFFECT → prosecution reads as punishment of patriotism across three communities."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EFFECT → prosecution reads as punishment of patriotism across three communities.",
+      "source_references": [
+        "The first Red Fort trial and its cross-communal symbolism",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-26\\g3\\modern-indian-history-26_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "WHAT ACTUALLY HAPPENED TO THE SENTENCES",
+      "structural_type": "causal-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WHAT ACTUALLY HAPPENED TO THE SENTENCES",
+          "role": "primary"
+        },
+        {
+          "text": "WAGING WAR AGAINST THE KING",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSPORTATION FOR LIFE",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMANDER-IN-CHIEF REMITS THE SENTENCES",
+          "role": "evidence"
+        },
+        {
+          "text": "OFFICERS RELEASED",
+          "role": "primary"
+        },
+        {
+          "text": "ARMY OPINION FAVOURS LENIENCY; NWFP GOVERNOR URGES ABANDONMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "WIDER PROSECUTIONS ABANDONED; THE SENTENCES WERE NOT CARRIED OUT",
+          "role": "caution"
+        },
+        {
+          "text": "A GOVERNMENT RETREAT, NOT AN EXECUTION.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CONVICTION → waging war against the King → transportation for life",
+        "REMISSION → Commander-in-Chief remits the sentences → officers released",
+        "PRESSURE → army opinion favours leniency; NWFP Governor urges abandonment",
+        "RESULT → wider prosecutions abandoned; the sentences were not carried out",
+        "RULE → a government retreat, not an execution."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONVICTION → waging war against the King → transportation for life",
+            "REMISSION → Commander-in-Chief remits the sentences → officers released"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PRESSURE → army opinion favours leniency; NWFP Governor urges abandonment",
+            "RESULT → wider prosecutions abandoned; the sentences were not carried out"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → a government retreat, not an execution.",
+            "CONVICTION → waging war against the King → transportation for life"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → a government retreat, not an execution.",
+      "source_references": [
+        "What actually happened to the Red Fort sentences",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-26\\g3\\modern-indian-history-26_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "WEIGHING INA AND RIN INSIDE A MULTI-CAUSAL ENDGAME",
+      "structural_type": "balance-sheet",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WEIGHING INA AND RIN INSIDE A MULTI-CAUSAL ENDGAME",
+          "role": "primary"
+        },
+        {
+          "text": "WHY THE BRITISH LEFT",
+          "role": "outcome"
+        },
+        {
+          "text": "RANKED, NOT LISTED",
+          "role": "caution"
+        },
+        {
+          "text": "COLLABORATION COLLAPSE",
+          "role": "evidence"
+        },
+        {
+          "text": "SERVICES, POLICE, ARMED FORCES NO LONGER RELIABLE",
+          "role": "caution"
+        },
+        {
+          "text": "WARTIME EXHAUSTION",
+          "role": "outcome"
+        },
+        {
+          "text": "ECONOMIC DEPLETION, DEMOBILISATION, LABOUR GOVERNMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "MASS NATIONALISM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WHY THE BRITISH LEFT → ranked, not listed",
+        "COLLABORATION COLLAPSE → services, police, armed forces no longer reliable",
+        "WARTIME EXHAUSTION → economic depletion, demobilisation, Labour government",
+        "MASS NATIONALISM → 1920-22, 1930-34, 1942 → consent already impossible",
+        "INTERNATIONAL + DEADLOCK → decolonisation climate; 1946 constitutional impasse"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WHY THE BRITISH LEFT → ranked, not listed",
+            "COLLABORATION COLLAPSE → services, police, armed forces no longer reliable",
+            "WARTIME EXHAUSTION → economic depletion, demobilisation, Labour government"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MASS NATIONALISM → 1920-22, 1930-34, 1942 → consent already impossible",
+            "INTERNATIONAL + DEADLOCK → decolonisation climate; 1946 constitutional impasse",
+            "CHRONOLOGY GUARD → Mission dispatch decided 22 Jan 1946, before the 18 Feb strike"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → INA and RIN sharpen the timing; they do not replace the other causes."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → INA and RIN sharpen the timing; they do not replace the other causes.",
+      "source_references": [
+        "Weighing INA and RIN inside a multi-causal endgame",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-26\\g3\\modern-indian-history-26_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "FAILED NEGOTIATIONS OF 1944-45",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FAILED NEGOTIATIONS OF 1944-45",
+          "role": "primary"
+        },
+        {
+          "text": "APR 1944",
+          "role": "outcome"
+        },
+        {
+          "text": "C.R. FORMULA",
+          "role": "comparison"
+        },
+        {
+          "text": "PLEBISCITE IN CONTIGUOUS MUSLIM-MAJORITY DISTRICTS",
+          "role": "evidence"
+        },
+        {
+          "text": "DEFERRED UNTIL AFTER TRANSFER OF POWER; NOT AN OFFICIAL",
+          "role": "caution"
+        },
+        {
+          "text": "SEP 1944",
+          "role": "outcome"
+        },
+        {
+          "text": "GANDHI-JINNAH TALKS BREAK DOWN",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATION WITHIN THE FAMILY VS SOVEREIGNTY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "APR 1944 → C.R. FORMULA → plebiscite in contiguous Muslim-majority districts",
+        "deferred until after transfer of power; not an official Congress offer",
+        "SEP 1944 → GANDHI-JINNAH TALKS BREAK DOWN → separation within the family vs sovereignty",
+        "25 JUN - 14 JUL 1945 → SIMLA CONFERENCE (Wavell) → all-Indian Executive Council",
+        "BREAKDOWN → League claims a monopoly of Muslim nominations; Azad is Congress president."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "APR 1944 → C.R. FORMULA → plebiscite in contiguous Muslim-majority districts",
+            "deferred until after transfer of power; not an official Congress offer"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SEP 1944 → GANDHI-JINNAH TALKS BREAK DOWN → separation within the family vs sovereignty",
+            "25 JUN - 14 JUL 1945 → SIMLA CONFERENCE (Wavell) → all-Indian Executive Council"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BREAKDOWN → League claims a monopoly of Muslim nominations; Azad is Congress president.",
+            "APR 1944 → C.R. FORMULA → plebiscite in contiguous Muslim-majority districts"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BREAKDOWN → League claims a monopoly of Muslim nominations; Azad is Congress president.",
+      "source_references": [
+        "Failed negotiations of 1944-45: C.R. Formula, Gandhi-Jinnah, Simla",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-26\\g3\\modern-indian-history-26_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ELECTIONS OF WINTER 1945-46: MANDATE, NOT PLEBISCITE",
+      "structural_type": "data-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ELECTIONS OF WINTER 1945-46",
+          "role": "primary"
+        },
+        {
+          "text": "MANDATE, NOT PLEBISCITE",
+          "role": "caution"
+        },
+        {
+          "text": "WINTER 1945-46 ELECTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "TWO MANDATES IN TWO SEPARATE ELECTORATES",
+          "role": "evidence"
+        },
+        {
+          "text": "OVER 90% OF GENERAL SEATS; 80.9% OF GENERAL-CONSTITUENCY VOTES",
+          "role": "primary"
+        },
+        {
+          "text": "MUSLIM LEAGUE",
+          "role": "outcome"
+        },
+        {
+          "text": "74.7% OF VOTES CAST IN MUSLIM CONSTITUENCIES",
+          "role": "comparison"
+        },
+        {
+          "text": "ABOUT 10% OF THE POPULATION; SEPARATE ELECTORATES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WINTER 1945-46 ELECTIONS → two mandates in two separate electorates",
+        "CONGRESS → over 90% of general seats; 80.9% of general-constituency votes",
+        "MUSLIM LEAGUE → 74.7% of votes cast in Muslim constituencies",
+        "FRANCHISE → about 10% of the population; separate electorates",
+        "LIMIT → no boundary, constitution or population question was on any ballot"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "WINTER 1945-46 ELECTIONS → two mandates in two separate electorates",
+          "MUSLIM LEAGUE → 74.7% of votes cast in Muslim constituencies",
+          "LIMIT → no boundary, constitution or population question was on any ballot"
+        ],
+        [
+          "CONGRESS → over 90% of general seats; 80.9% of general-constituency votes",
+          "FRANCHISE → about 10% of the population; separate electorates",
+          "RULE → mandate, not plebiscite; representation was settled, territory was not."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WINTER 1945-46 ELECTIONS → two mandates in two separate electorates",
+            "CONGRESS → over 90% of general seats; 80.9% of general-constituency votes"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MUSLIM LEAGUE → 74.7% of votes cast in Muslim constituencies",
+            "FRANCHISE → about 10% of the population; separate electorates"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → no boundary, constitution or population question was on any ballot",
+            "RULE → mandate, not plebiscite; representation was settled, territory was not."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → mandate, not plebiscite; representation was settled, territory was not.",
+      "source_references": [
+        "Elections of the winter of 1945-46: mandate, not plebiscite",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-26\\g3\\modern-indian-history-26_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "RIN UPRISING: 18 FEBRUARY 1946 AND ITS LIMITS",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "RIN UPRISING",
+          "role": "primary"
+        },
+        {
+          "text": "18 FEBRUARY 1946 AND ITS LIMITS",
+          "role": "outcome"
+        },
+        {
+          "text": "18 FEB 1946",
+          "role": "comparison"
+        },
+        {
+          "text": "HMIS TALWAR, BOMBAY",
+          "role": "evidence"
+        },
+        {
+          "text": "RATINGS' UPRISING BEGINS",
+          "role": "primary"
+        },
+        {
+          "text": "DEMOBILISATION ANXIETY, RATIONS AND SERVICE CONDITIONS, RACIAL INSULT",
+          "role": "outcome"
+        },
+        {
+          "text": "BETTER CONDITIONS, NON-VICTIMISATION OF STRIKERS, FREE TRIALS FOR INA",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMONLY CITED ESTIMATES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "18 FEB 1946 → HMIS TALWAR, BOMBAY → ratings' uprising begins",
+        "GRIEVANCES → demobilisation anxiety, rations and service conditions, racial insult",
+        "DEMANDS → better conditions, non-victimisation of strikers, free trials for INA men",
+        "SCALE → commonly cited estimates: roughly 20,000 ratings, 78 ships, 20 shore stations",
+        "LIMITS → short-lived, urban, service-centred; surrendered within days"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "18 FEB 1946 → HMIS TALWAR, BOMBAY → ratings' uprising begins",
+            "GRIEVANCES → demobilisation anxiety, rations and service conditions, racial insult",
+            "DEMANDS → better conditions, non-victimisation of strikers, free trials for INA men",
+            "SCALE → commonly cited estimates: roughly 20,000 ratings, 78 ships, 20 shore stations",
+            "LIMITS → short-lived, urban, service-centred; surrendered within days"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESPONSES → Congress withholds official support (tactics and timing judged wrong)",
+            "Patel urges surrender before overwhelming British mobilisation in Bombay",
+            "Jinnah's surrender advice addressed to Muslim ratings alone",
+            "workers, students and the left supply the civilian sympathy",
+            "DISPATCH → 22 JAN 1946 Cabinet decides to send the Mission (before the uprising)"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Attlee's 19 FEB 1946 Commons announcement had been slated a week earlier",
+            "RULE → the uprising did not cause or trigger the dispatch of the Cabinet Mission.",
+            "CLOSE DISTINCTION: The Cabinet Mission's 16 May 1946 plan preserved a weak union with provincial groupings",
+            "INA/RIN impact on British calculations must not be promoted into a single-cause transfer-of-power claim."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → the uprising did not cause or trigger the dispatch of the Cabinet Mission.",
+      "source_references": [
+        "18 February 1946: how the Royal Indian Navy uprising began",
+        "Scale of the uprising: commonly cited estimates, carefully qualified",
+        "Why the uprising was not a nationwide revolution",
+        "Divided political responses to the uprising",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-26\\g3\\modern-indian-history-26_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CABINET MISSION: 16 MAY PLAN AND 16 JUNE PROPOSAL",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CABINET MISSION",
+          "role": "primary"
+        },
+        {
+          "text": "16 MAY PLAN AND 16 JUNE PROPOSAL",
+          "role": "outcome"
+        },
+        {
+          "text": "CABINET MISSION 1946",
+          "role": "comparison"
+        },
+        {
+          "text": "STAFFORD CRIPPS",
+          "role": "evidence"
+        },
+        {
+          "text": "A.V. ALEXANDER",
+          "role": "primary"
+        },
+        {
+          "text": "16 MAY 1946",
+          "role": "outcome"
+        },
+        {
+          "text": "LONG-TERM PLAN",
+          "role": "comparison"
+        },
+        {
+          "text": "SOVEREIGN PAKISTAN REJECTED; THREE-TIER UNION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CABINET MISSION 1946 → Pethick-Lawrence",
+        "Stafford Cripps",
+        "A.V. Alexander",
+        "16 MAY 1946 → LONG-TERM PLAN → sovereign Pakistan rejected; three-tier union",
+        "UNION SUBJECTS → foreign affairs, defence, communications"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CABINET MISSION 1946 → Pethick-Lawrence",
+          "UNION SUBJECTS → foreign affairs, defence, communications",
+          "EVIDENCE LIMIT: Military intelligence, trial proceedings, service unrest and Cabinet records require attribution alongside labour and public mobilisation"
+        ],
+        [
+          "Stafford Cripps",
+          "plus power to raise the finances required for those subjects",
+          "nationalist memory alone cannot settle causal weight."
+        ],
+        [
+          "A.V. Alexander",
+          "16 JUN 1946 → SEPARATE INTERIM-GOVERNMENT PROPOSAL → a different document",
+          ""
+        ],
+        [
+          "16 MAY 1946 → LONG-TERM PLAN → sovereign Pakistan rejected; three-tier union",
+          "RULE → one mission, two dated documents; never merge them.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CABINET MISSION 1946 → Pethick-Lawrence",
+            "Stafford Cripps",
+            "A.V. Alexander",
+            "16 MAY 1946 → LONG-TERM PLAN → sovereign Pakistan rejected; three-tier union"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "UNION SUBJECTS → foreign affairs, defence, communications",
+            "plus power to raise the finances required for those subjects",
+            "16 JUN 1946 → SEPARATE INTERIM-GOVERNMENT PROPOSAL → a different document",
+            "RULE → one mission, two dated documents; never merge them."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Military intelligence, trial proceedings, service unrest and Cabinet records require attribution alongside labour and public mobilisation",
+            "nationalist memory alone cannot settle causal weight."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → one mission, two dated documents; never merge them.",
+      "source_references": [
+        "Cabinet Mission: the 16 May plan and the 16 June proposal",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-26\\g3\\modern-indian-history-26_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "SECTIONS A, B AND C AND THE ENDGAME TO 9 DECEMBER 1946",
+      "structural_type": "institution-map",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "SECTIONS A, B AND C AND THE ENDGAME TO",
+          "role": "primary"
+        },
+        {
+          "text": "MADRAS, BOMBAY, UNITED PROVINCES, BIHAR, CENTRAL PROVINCES, ORISSA",
+          "role": "outcome"
+        },
+        {
+          "text": "PUNJAB, NORTH-WEST FRONTIER PROVINCE, SIND, BRITISH BALUCHISTAN",
+          "role": "comparison"
+        },
+        {
+          "text": "BENGAL, ASSAM (GROUPING",
+          "role": "evidence"
+        },
+        {
+          "text": "FEDERAL DEVICE INSIDE ONE UNION)",
+          "role": "primary"
+        },
+        {
+          "text": "6 JUN",
+          "role": "outcome"
+        },
+        {
+          "text": "LEAGUE ACCEPTS (GROUPING READ AS COMPULSORY)",
+          "role": "comparison"
+        },
+        {
+          "text": "7 JUL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SECTIONS → A: Madras, Bombay, United Provinces, Bihar, Central Provinces, Orissa",
+        "B: Punjab, North-West Frontier Province, Sind, British Baluchistan",
+        "C: Bengal, Assam (grouping = federal device inside one union)",
+        "6 JUN → League accepts (grouping read as compulsory)",
+        "7 JUL → Nehru's AICC statement"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SECTIONS → A: Madras, Bombay, United Provinces, Bihar, Central Provinces, Orissa",
+            "B: Punjab, North-West Frontier Province, Sind, British Baluchistan",
+            "C: Bengal, Assam (grouping = federal device inside one union)",
+            "6 JUN → League accepts (grouping read as compulsory)"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "7 JUL → Nehru's AICC statement",
+            "29 JUL → League withdraws",
+            "16 AUG → Direct Action Day",
+            "2 SEP → Interim Government"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "26 OCT → League joins",
+            "6 DEC → HMG concedes the compulsory-grouping reading",
+            "9 DEC 1946 → Constituent Assembly first meets; League boycotts",
+            "RULE → incompatible readings plus incompatible goals; no single cause of failure."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → incompatible readings plus incompatible goals; no single cause of failure.",
+      "source_references": [
+        "Groups, incompatible readings and the endgame to 9 December 1946",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\26_Post-War-Upsurge-INA-RIN-Mutiny-Cabinet-Mission.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-26\\g3\\modern-indian-history-26_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA'S STRUGGLE FOR INDEPENDENCE TREATS THE INA TRIALS, WORKERS'",
+          "role": "outcome"
+        },
+        {
+          "text": "AND RIN MUTINY AS A CUMULATIVE POST-WAR UPSURGE RATHER",
+          "role": "comparison"
+        },
+        {
+          "text": "THE INA'S MILITARY DEFEAT WAS OVERSHADOWED BY THE POLITICAL",
+          "role": "evidence"
+        },
+        {
+          "text": "RED FORT TRIALS, WHICH MADE COLONIAL PROSECUTION LOOK LIKE",
+          "role": "primary"
+        },
+        {
+          "text": "THE SYMBOLIC HINDU-MUSLIM-SIKH COMPOSITION OF SHAH NAWAZ KHAN, PREM",
+          "role": "outcome"
+        },
+        {
+          "text": "DHILLON ALLOWED NATIONALIST MOBILISATION TO CUT ACROSS COMMUNAL CATEGORIES",
+          "role": "comparison"
+        },
+        {
+          "text": "THE RIN REVOLT ALARMED OFFICIALS BY EXPOSING DISAFFECTION IN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "India's Struggle for Independence treats the INA trials, workers' protests, student demonstrations",
+            "and RIN Mutiny as a cumulative post-war upsurge rather than isolated incidents.",
+            "The INA's military defeat was overshadowed by the political power of the",
+            "Red Fort trials, which made colonial prosecution look like punishment of patriotism."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "The symbolic Hindu-Muslim-Sikh composition of Shah Nawaz Khan, Prem Sahgal and Gurbaksh Singh",
+            "Dhillon allowed nationalist mobilisation to cut across communal categories for a brief moment.",
+            "The RIN revolt alarmed officials by exposing disaffection in a coercive arm of the Raj.",
+            "Chandra nevertheless stresses its limits: it was short-lived, concentrated in a few urban centres and lacked the breadth of earlier mass movements."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "The Cabinet Mission rejected a sovereign Pakistan because it considered partition administratively, economically and strategically damaging.",
+            "Its three-tier structure offered a weak Union centre for defence, foreign affairs and communications; groups of provinces; and individual provinces.",
+            "Congress accepted the Constituent Assembly route but resisted compulsory grouping",
+            "the League accepted grouping as a route to parity and later withdrew amid distrust."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

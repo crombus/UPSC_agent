@@ -1,0 +1,1197 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-29",
+  "subject": "Modern-Indian-History",
+  "title": "THE COLONIAL LEGACY & THE FOUNDATIONS OF THE REPUBLIC",
+  "short_route": "THE BALANCE SHEET THE → HOW UNDERDEVELOPMENT WAS DEVELOPED → THE AGRARIAN LEGACY IN → THE HUMAN BASELINE OF → THE STATE THAT WAS → THREE FRANCHISES, ONE BREAK",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-29\\modern-indian-history-29_Complete-Learning-Session_2026-08-31.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-28-29-2026-08-31-sequential.json",
+  "ascii_spec_sha256": "b6a382560bdf9924896c8dd6b72f2625ec3cd52cd0fa03c5ce7eca1a624613ae",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE BALANCE SHEET THE REPUBLIC OPENED WITH",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE BALANCE SHEET THE REPUBLIC OPENED WITH",
+          "role": "primary"
+        },
+        {
+          "text": "COLONIAL LIABILITY (ECONOMIC AND ADMINISTRATIVE)",
+          "role": "outcome"
+        },
+        {
+          "text": "MOVEMENT ASSET (POLITICAL) DEPENDENT, STAGNANT, FAMINE-PRONE ECONOMY",
+          "role": "comparison"
+        },
+        {
+          "text": "TESTED ALL-INDIA LEADERSHIP MASS ILLITERACY AND LOW LIFE EXPECTANCY",
+          "role": "evidence"
+        },
+        {
+          "text": "PARTY ORGANISED IN EVERY PROVINCE RENTIER AGRICULTURE, RISING LANDLESSNESS",
+          "role": "primary"
+        },
+        {
+          "text": "DEMOCRACY, CIVIL LIBERTIES, SECULARISM APPARATUS BUILT FOR EXTRACTION AND",
+          "role": "outcome"
+        },
+        {
+          "text": "THREE DECADES OF PRACTISED ORGANISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "HOW DID THE SECOND COLUMN CARRY THE FIRST WITHOUT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COLONIAL LIABILITY (economic and administrative)",
+        "MOVEMENT ASSET (political) dependent, stagnant, famine-prone economy",
+        "tested all-India leadership mass illiteracy and low life expectancy",
+        "party organised in every province rentier agriculture, rising landlessness",
+        "democracy, civil liberties, secularism apparatus built for extraction and order"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "COLONIAL LIABILITY (economic and administrative)",
+          "party organised in every province rentier agriculture, rising landlessness",
+          "CENTRAL QUESTION → how did the second column carry the first without collapsing?"
+        ],
+        [
+          "MOVEMENT ASSET (political) dependent, stagnant, famine-prone economy",
+          "democracy, civil liberties, secularism apparatus built for extraction and order",
+          "ERROR TO AVOID → merging the columns and crediting the empire with Indian democracy."
+        ],
+        [
+          "tested all-India leadership mass illiteracy and low life expectancy",
+          "three decades of practised organisation",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COLONIAL LIABILITY (economic and administrative)",
+            "MOVEMENT ASSET (political) dependent, stagnant, famine-prone economy",
+            "tested all-India leadership mass illiteracy and low life expectancy"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "party organised in every province rentier agriculture, rising landlessness",
+            "democracy, civil liberties, secularism apparatus built for extraction and order",
+            "three decades of practised organisation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CENTRAL QUESTION → how did the second column carry the first without collapsing?",
+            "ERROR TO AVOID → merging the columns and crediting the empire with Indian democracy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ERROR TO AVOID → merging the columns and crediting the empire with Indian democracy.",
+      "source_references": [
+        "Two inheritances: colonial liabilities against movement assets"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "HOW UNDERDEVELOPMENT WAS DEVELOPED",
+      "structural_type": "causal-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "HOW UNDERDEVELOPMENT WAS DEVELOPED",
+          "role": "primary"
+        },
+        {
+          "text": "SUBORDINATE INTEGRATION WITH THE WORLD CAPITALIST SYSTEM SINCE THE",
+          "role": "outcome"
+        },
+        {
+          "text": "FORCED INTERNATIONAL DIVISION OF LABOUR",
+          "role": "comparison"
+        },
+        {
+          "text": "RAW MATERIALS OUT, MANUFACTURES IN",
+          "role": "evidence"
+        },
+        {
+          "text": "REAL CHANGE IN RAILWAYS, ADMINISTRATION, EDUCATION, FINANCE AND COMMUNICATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "BUT CHANGE OPERATING INSIDE A COLONIAL FRAME CRYSTALLISES A",
+          "role": "outcome"
+        },
+        {
+          "text": "POVERTY, DEPENDENCE AND SUBORDINATION REPRODUCED RATHER THAN GROWTH GENERATED",
+          "role": "comparison"
+        },
+        {
+          "text": "THE PHRASE DEVELOPMENT OF UNDERDEVELOPMENT BELONGS TO A. GUNDER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SUBORDINATE INTEGRATION with the world capitalist system since the 1750s",
+        "forced international division of labour: raw materials out, manufactures in",
+        "real change in railways, administration, education, finance and communications",
+        "but change operating INSIDE a colonial frame crystallises a dependent structure",
+        "poverty, dependence and subordination reproduced rather than growth generated"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SUBORDINATE INTEGRATION with the world capitalist system since the 1750s",
+            "forced international division of labour: raw materials out, manufactures in"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "real change in railways, administration, education, finance and communications",
+            "but change operating INSIDE a colonial frame crystallises a dependent structure"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "poverty, dependence and subordination reproduced rather than growth generated",
+            "ATTRIBUTION → the phrase development of underdevelopment belongs to A. Gunder Frank."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ATTRIBUTION → the phrase development of underdevelopment belongs to A. Gunder Frank.",
+      "source_references": [
+        "The development of underdevelopment and its exact attribution"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THE AGRARIAN LEGACY IN ATTRIBUTED NUMBERS",
+      "structural_type": "data-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE AGRARIAN LEGACY IN ATTRIBUTED NUMBERS",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE-ATTRIBUTED VALUE PER CAPITA AGRICULTURAL PRODUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "FALLS ABOUT 14% BETWEEN 1901 AND 1941 PER CAPITA",
+          "role": "comparison"
+        },
+        {
+          "text": "FALLS FURTHER THAN TOTAL PRODUCTION LANDLESS AGRICULTURAL LABOURERS",
+          "role": "evidence"
+        },
+        {
+          "text": "ABOUT 13% IN 1871 RISING TO ABOUT 28% BY",
+          "role": "primary"
+        },
+        {
+          "text": "REPORTED AS OVER 70% IN THE LOCAL TEXT",
+          "role": "outcome"
+        },
+        {
+          "text": "LANDLORDS, MONEYLENDERS, MERCHANTS AND THE COLONIAL REVENUE STATE",
+          "role": "institution"
+        },
+        {
+          "text": "RACK-RENTING AND USURY ARE SAFER THAN INVESTMENT, SO STAGNATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SOURCE-ATTRIBUTED VALUE per capita agricultural production",
+        "falls about 14% between 1901 and 1941 per capita foodgrains",
+        "falls further than total production landless agricultural labourers",
+        "about 13% in 1871 rising to about 28% by 1951 land controlled by landlords by",
+        "reported as over 70% in the local text"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SOURCE-ATTRIBUTED VALUE per capita agricultural production",
+          "about 13% in 1871 rising to about 28% by 1951 land controlled by landlords by the 1940s",
+          "INCENTIVE → rack-renting and usury are safer than investment, so stagnation is rational."
+        ],
+        [
+          "falls about 14% between 1901 and 1941 per capita foodgrains",
+          "reported as over 70% in the local text",
+          ""
+        ],
+        [
+          "falls further than total production landless agricultural labourers",
+          "STRUCTURE → landlords, moneylenders, merchants and the colonial revenue state",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SOURCE-ATTRIBUTED VALUE per capita agricultural production",
+            "falls about 14% between 1901 and 1941 per capita foodgrains",
+            "falls further than total production landless agricultural labourers"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "about 13% in 1871 rising to about 28% by 1951 land controlled by landlords by the 1940s",
+            "reported as over 70% in the local text",
+            "STRUCTURE → landlords, moneylenders, merchants and the colonial revenue state"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INCENTIVE → rack-renting and usury are safer than investment, so stagnation is rational."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INCENTIVE → rack-renting and usury are safer than investment, so stagnation is rational.",
+      "source_references": [
+        "The agrarian legacy: landlessness, stagnation and rent"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "THE HUMAN BASELINE OF 1951",
+      "structural_type": "data-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE HUMAN BASELINE OF 1951",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE-ATTRIBUTED VALUE (1951 UNLESS STATED) ILLITERACY, ALL INDIANS",
+          "role": "evidence"
+        },
+        {
+          "text": "NEARLY 84 PER CENT ILLITERACY, WOMEN",
+          "role": "comparison"
+        },
+        {
+          "text": "ABOUT 92 PER CENT; ABOUT 8 LITERATE WOMEN IN",
+          "role": "evidence"
+        },
+        {
+          "text": "BARELY 32 YEARS FOR AN INDIAN BORN BETWEEN 1940",
+          "role": "primary"
+        },
+        {
+          "text": "ABOUT 25 PER 1,000 PERSONS A YEAR INFANT MORTALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "BETWEEN 175 AND 190 PER 1,000 LIVE BIRTHS",
+          "role": "comparison"
+        },
+        {
+          "text": "COLONIAL NEGLECT OF MASS, TECHNICAL AND FEMALE EDUCATION, NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SOURCE-ATTRIBUTED VALUE (1951 unless stated) illiteracy, all Indians",
+        "nearly 84 per cent illiteracy, women",
+        "about 92 per cent; about 8 literate women in every 100 life expectancy at birth",
+        "barely 32 years for an Indian born between 1940 and 1951 death rate, 1941-50",
+        "about 25 per 1,000 persons a year infant mortality"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SOURCE-ATTRIBUTED VALUE (1951 unless stated) illiteracy, all Indians",
+          "barely 32 years for an Indian born between 1940 and 1951 death rate, 1941-50",
+          "CAUSE → colonial neglect of mass, technical and female education, not poverty alone."
+        ],
+        [
+          "nearly 84 per cent illiteracy, women",
+          "about 25 per 1,000 persons a year infant mortality",
+          ""
+        ],
+        [
+          "about 92 per cent; about 8 literate women in every 100 life expectancy at birth",
+          "between 175 and 190 per 1,000 live births",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SOURCE-ATTRIBUTED VALUE (1951 unless stated) illiteracy, all Indians",
+            "nearly 84 per cent illiteracy, women",
+            "about 92 per cent; about 8 literate women in every 100 life expectancy at birth"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "barely 32 years for an Indian born between 1940 and 1951 death rate, 1941-50",
+            "about 25 per 1,000 persons a year infant mortality",
+            "between 175 and 190 per 1,000 live births"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUSE → colonial neglect of mass, technical and female education, not poverty alone."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUSE → colonial neglect of mass, technical and female education, not poverty alone.",
+      "source_references": [
+        "Bodies and minds in 1951: literacy and life expectancy"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "THE STATE THAT WAS KEPT RATHER THAN DISMANTLED",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THE STATE THAT WAS KEPT RATHER THAN DISMANTLED",
+          "role": "institution"
+        },
+        {
+          "text": "INHERITED APPARATUS",
+          "role": "outcome"
+        },
+        {
+          "text": "AUTHORITARIAN CORE",
+          "role": "comparison"
+        },
+        {
+          "text": "REPRESSIVE LAWS FRAMED WITHOUT INDIAN DEMOCRATIC CONSENT",
+          "role": "evidence"
+        },
+        {
+          "text": "→ WIDE ARBITRARY POWER WITH CIVIL SERVANTS AND POLICE",
+          "role": "mechanism"
+        },
+        {
+          "text": "→ COLLECTOR AND DISTRICT MAGISTRATE IN ONE OFFICE",
+          "role": "outcome"
+        },
+        {
+          "text": "LIBERAL FRAGMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "RULE OF LAW",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INHERITED APPARATUS",
+        "AUTHORITARIAN CORE → repressive laws framed without Indian democratic consent",
+        "→ wide arbitrary power with civil servants and police",
+        "→ collector and district magistrate in one office",
+        "LIBERAL FRAGMENTS → rule of law"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INHERITED APPARATUS",
+            "AUTHORITARIAN CORE → repressive laws framed without Indian democratic consent",
+            "→ wide arbitrary power with civil servants and police"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "→ collector and district magistrate in one office",
+            "LIBERAL FRAGMENTS → rule of law",
+            "relatively independent judiciary"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "→ press, speech and association tolerated in calm periods",
+            "REPUBLIC'S TASK → convert an instrument of order and extraction into one of development",
+            "THESIS → continuity with conversion, not rupture; that conversion is the real legacy problem."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIBERAL FRAGMENTS → rule of law | relatively independent judiciary.",
+      "source_references": [
+        "The colonial state the republic actually inherited"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "THREE FRANCHISES, ONE BREAK",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE FRANCHISES, ONE BREAK",
+          "role": "primary"
+        },
+        {
+          "text": "AFTER 1919",
+          "role": "outcome"
+        },
+        {
+          "text": "ABOUT 3 PER CENT OF INDIANS COULD VOTE",
+          "role": "comparison"
+        },
+        {
+          "text": "LEGISLATURES WITH LITTLE POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "AFTER 1935",
+          "role": "primary"
+        },
+        {
+          "text": "ABOUT 15 PER CENT COULD VOTE",
+          "role": "outcome"
+        },
+        {
+          "text": "SUPREME POWER STILL WITH THE BRITISH",
+          "role": "mechanism"
+        },
+        {
+          "text": "UNIVERSAL ADULT FRANCHISE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AFTER 1919",
+        "about 3 per cent of Indians could vote",
+        "legislatures with little power",
+        "AFTER 1935",
+        "about 15 per cent could vote"
+      ],
+      "matrix": [
+        [
+          "AFTER 1919",
+          "about 3 per cent of Indians could vote",
+          "legislatures with little power"
+        ],
+        [
+          "AFTER 1935",
+          "about 15 per cent could vote",
+          "supreme power still with the British"
+        ],
+        [
+          "REPUBLIC",
+          "universal adult franchise",
+          "free and fair elections by right"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AFTER 1919",
+            "about 3 per cent of Indians could vote",
+            "legislatures with little power",
+            "AFTER 1935"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "about 15 per cent could vote",
+            "supreme power still with the British",
+            "universal adult franchise",
+            "free and fair elections by right"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COLONIAL PURPOSE → co-opt and weaken the national movement while keeping the reins",
+            "UNINTENDED EFFECT → Indians gain practical experience of elections and elected organs",
+            "THE BREAK → the republic replaced the colonial franchise; it did not widen it by degrees."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "THE BREAK → the republic replaced the colonial franchise; it did not widen it by degrees.",
+      "source_references": [
+        "About 3 per cent and about 15 per cent: the franchise refused",
+        "Universal adult franchise as the boldest decision of the period"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "MOVEMENT ASSETS CONVERTED INTO REPUBLICAN INSTITUTIONS",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MOVEMENT ASSETS CONVERTED INTO REPUBLICAN INSTITUTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL MOVEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "RAJENDRA PRASAD",
+          "role": "comparison"
+        },
+        {
+          "text": "NO SINGLE REGION OR COMMUNITY",
+          "role": "caution"
+        },
+        {
+          "text": "FIRST NEHRU CABINET OF FOURTEEN INCLUDES FIVE NON-CONGRESSMEN",
+          "role": "primary"
+        },
+        {
+          "text": "→ B.R. AMBEDKAR CHAIRS THE DRAFTING COMMITTEE",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCOMMODATIVE POLITICS; THREE DECADES OF ELECTIONS, ARGUMENT, ORGANISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ALL-INDIA SERVICES AND A NATIONAL ARMY ON MERIT, UNDER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NATIONAL MOVEMENT",
+        "LEADERSHIP → Nehru",
+        "Rajendra Prasad → no single region or community",
+        "BREADTH → first Nehru cabinet of fourteen includes five non-Congressmen",
+        "→ B.R. Ambedkar chairs the Drafting Committee"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NATIONAL MOVEMENT",
+            "LEADERSHIP → Nehru",
+            "Rajendra Prasad → no single region or community"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BREADTH → first Nehru cabinet of fourteen includes five non-Congressmen",
+            "→ B.R. Ambedkar chairs the Drafting Committee",
+            "HABITS → accommodative politics; three decades of elections, argument, organisation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONVERSION → all-India services and a national army on merit, under civilian control",
+            "LATER COST → the same dominance becomes the Congress system whose decay is a later topic."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LATER COST → the same dominance becomes the Congress system whose decay is a later topic.",
+      "source_references": [
+        "The national movement as an institutional, not sentimental, asset"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "FOUR PRESSURES IN THE SAME MONTHS",
+      "structural_type": "balance-sheet",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "FOUR PRESSURES IN THE SAME MONTHS",
+          "role": "primary"
+        },
+        {
+          "text": "COMMUNAL VIOLENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "REFUGEE MOVEMENT, KILLING, MINORITY INSECURITY",
+          "role": "comparison"
+        },
+        {
+          "text": "TELANGANA INSURGENCY",
+          "role": "evidence"
+        },
+        {
+          "text": "ARMED COMMUNIST CHALLENGE INSIDE THE NEW REPUBLIC",
+          "role": "primary"
+        },
+        {
+          "text": "PRINCELY INTEGRATION",
+          "role": "outcome"
+        },
+        {
+          "text": "MORE THAN 560 UNITS TO ACCEDE, MERGE AND DEMOCRATISE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTESTED FRONTIER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COMMUNAL VIOLENCE → refugee movement, killing, minority insecurity",
+        "TELANGANA INSURGENCY → armed communist challenge inside the new republic",
+        "PRINCELY INTEGRATION → more than 560 units to accede, merge and democratise",
+        "CONTESTED FRONTIER → fighting and an international reference in Kashmir",
+        "PLUS → a divided army and a divided treasury inherited on the first day"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COMMUNAL VIOLENCE → refugee movement, killing, minority insecurity",
+            "TELANGANA INSURGENCY → armed communist challenge inside the new republic",
+            "PRINCELY INTEGRATION → more than 560 units to accede, merge and democratise"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONTESTED FRONTIER → fighting and an international reference in Kashmir",
+            "PLUS → a divided army and a divided treasury inherited on the first day",
+            "METHOD → secular reassurance + coercive capacity + reconciliation, democracy not suspended"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONSEQUENCE → the constitutional preference for a strong centre and emergency provisions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONSEQUENCE → the constitutional preference for a strong centre and emergency provisions.",
+      "source_references": [
+        "Simultaneity: why the initial years are one crisis, not four"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "READING THE TWO MOST MISUSED FIGURES",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "READING THE TWO MOST MISUSED FIGURES",
+          "role": "primary"
+        },
+        {
+          "text": "WHAT IT IS",
+          "role": "outcome"
+        },
+        {
+          "text": "WHAT IT IS NOT NEARLY SIX MILLION",
+          "role": "caution"
+        },
+        {
+          "text": "REFUGEES ENTERING INDIA",
+          "role": "evidence"
+        },
+        {
+          "text": "TOTAL DISPLACEMENT BOTH WAYS ROUGHLY 500,000 DEAD",
+          "role": "primary"
+        },
+        {
+          "text": "CHANDRA'S ESTIMATE",
+          "role": "outcome"
+        },
+        {
+          "text": "SETTLED OR AGREED SCHOLARSHIP",
+          "role": "comparison"
+        },
+        {
+          "text": "WEST FLOW",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "WHAT IT IS",
+        "WHAT IT IS NOT nearly six million",
+        "refugees ENTERING India",
+        "total displacement both ways roughly 500,000 dead",
+        "Chandra's estimate"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "WHAT IT IS",
+          "total displacement both ways roughly 500,000 dead",
+          "WEST FLOW → largely one movement in 1947; land vacated; resettled substantially by 1951"
+        ],
+        [
+          "WHAT IT IS NOT nearly six million",
+          "Chandra's estimate",
+          "EAST FLOW → continuous migration from East Bengal; little land; urban underclass formed"
+        ],
+        [
+          "refugees ENTERING India",
+          "settled or agreed scholarship",
+          "SAFE SENTENCE → name the author, mark the direction, record that other scholarship differs."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WHAT IT IS",
+            "WHAT IT IS NOT nearly six million",
+            "refugees ENTERING India"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "total displacement both ways roughly 500,000 dead",
+            "Chandra's estimate",
+            "settled or agreed scholarship"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WEST FLOW → largely one movement in 1947; land vacated; resettled substantially by 1951",
+            "EAST FLOW → continuous migration from East Bengal; little land; urban underclass formed",
+            "SAFE SENTENCE → name the author, mark the direction, record that other scholarship differs."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SAFE SENTENCE → name the author, mark the direction, record that other scholarship differs.",
+      "source_references": [
+        "Nearly six million: a one-directional figure and how to use it",
+        "Roughly 500,000: attribution, dispute and answer discipline"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "FROM ASSASSINATION TO THE LIFTED BAN",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FROM ASSASSINATION TO THE LIFTED BAN",
+          "role": "primary"
+        },
+        {
+          "text": "JAN 1948",
+          "role": "outcome"
+        },
+        {
+          "text": "AFTER A FAST BY GANDHI, RS 550 MILLION PAID",
+          "role": "comparison"
+        },
+        {
+          "text": "30 JAN 1948",
+          "role": "evidence"
+        },
+        {
+          "text": "GANDHI ASSASSINATED BY NATHURAM GODSE",
+          "role": "primary"
+        },
+        {
+          "text": "COMMUNALISM RETREATS SHARPLY",
+          "role": "outcome"
+        },
+        {
+          "text": "RASHTRIYA SWAYAMSEVAK SANGH BANNED; LEADERS AND FUNCTIONARIES ARRESTED",
+          "role": "comparison"
+        },
+        {
+          "text": "JUN 1949",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "JAN 1948 → after a fast by Gandhi, Rs 550 million paid to Pakistan (assets",
+        "30 JAN 1948 → Gandhi assassinated by Nathuram Godse → communalism retreats sharply",
+        "IMMEDIATE → Rashtriya Swayamsevak Sangh banned; leaders and functionaries arrested",
+        "JUN 1949 → Nehru records a preference for fewer bans and detentions",
+        "JULY 1949 → ban lifted on accepted conditions: written and published constitution, cultural activity only"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "JAN 1948 → after a fast by Gandhi, Rs 550 million paid to Pakistan (assets settlement)",
+            "30 JAN 1948 → Gandhi assassinated by Nathuram Godse → communalism retreats sharply",
+            "IMMEDIATE → Rashtriya Swayamsevak Sangh banned; leaders and functionaries arrested"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "JUN 1949 → Nehru records a preference for fewer bans and detentions",
+            "JULY 1949 → ban lifted on accepted conditions: written and published constitution, cultural activity only, no violence or secrecy, loyalty to flag and",
+            "Constitution, democratic internal organisation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "READING → proscription used and then withdrawn on terms, not permanent suppression."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "READING → proscription used and then withdrawn on terms, not permanent suppression.",
+      "source_references": [
+        "30 January 1948: assassination, ban and the conditions of 1949"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "INSURRECTION CONVERTED INTO OPPOSITION",
+      "structural_type": "causal-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INSURRECTION CONVERTED INTO OPPOSITION",
+          "role": "primary"
+        },
+        {
+          "text": "LATE 1946",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMUNIST-LED PEASANT STRUGGLE DEVELOPS IN TELANGANA INSIDE HYDERABAD STATE",
+          "role": "institution"
+        },
+        {
+          "text": "FEB 1948",
+          "role": "evidence"
+        },
+        {
+          "text": "B.T. RANADIVE LINE DECLARES INDEPENDENCE FALSE AND ADOPTS ARMED",
+          "role": "primary"
+        },
+        {
+          "text": "INSURGENCY CONTAINED BY THE STATE WHILE THE POLITICAL DOOR",
+          "role": "institution"
+        },
+        {
+          "text": "TELANGANA STRUGGLE CALLED OFF; THE PARLIAMENTARY PATH IS ADOPTED",
+          "role": "comparison"
+        },
+        {
+          "text": "PARTY LEGALISED EVERYWHERE; LEADERS AND CADRES RELEASED; ELECTIONS CONTESTED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LATE 1946 → Communist-led peasant struggle develops in Telangana inside Hyderabad state",
+        "FEB 1948 → B.T. Ranadive line declares independence false and adopts armed struggle",
+        "1948-51 → insurgency contained by the state while the political door is kept open",
+        "MID-1951 → Telangana struggle called off; the parliamentary path is adopted",
+        "THEN → party legalised everywhere; leaders and cadres released; elections contested"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LATE 1946 → Communist-led peasant struggle develops in Telangana inside Hyderabad state",
+            "FEB 1948 → B.T. Ranadive line declares independence false and adopts armed struggle"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1948-51 → insurgency contained by the state while the political door is kept open",
+            "MID-1951 → Telangana struggle called off; the parliamentary path is adopted"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "THEN → party legalised everywhere; leaders and cadres released; elections contested",
+            "LESSON → the armed challenge was defeated and the party was not abolished."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LESSON → the armed challenge was defeated and the party was not abolished.",
+      "source_references": [
+        "Insurrection to elections: the Communist transition and Telangana"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "FOUR DOMAINS, TWO DATES AND ONE COMPLETED MAP",
+      "structural_type": "balance-sheet",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "FOUR DOMAINS, TWO DATES AND ONE COMPLETED MAP",
+          "role": "primary"
+        },
+        {
+          "text": "INTEGRATION, CONSTITUTION 26 NOV 1949",
+          "role": "outcome"
+        },
+        {
+          "text": "26 JAN 1950, UNIVERSAL ADULT FRANCHISE",
+          "role": "comparison"
+        },
+        {
+          "text": "STRONG-CENTRE BIAS AND UNRESOLVED REGIONAL QUESTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "PLANNED, STATE-LED DEVELOPMENT WITH A PUBLIC-SECTOR CORE AND LAND-REFORM",
+          "role": "institution"
+        },
+        {
+          "text": "SLOW GROWTH AND LAND REFORM LARGELY UNIMPLEMENTED",
+          "role": "outcome"
+        },
+        {
+          "text": "FROM ABOUT 84 PER CENT ILLITERACY TO DELIBERATE SCIENTIFIC",
+          "role": "comparison"
+        },
+        {
+          "text": "ELITE-FIRST EXPANSION; PRIMARY AND FEMALE EDUCATION LAG BADLY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "POLITY → integration, Constitution 26 Nov 1949 / 26 Jan 1950, universal adult franchise",
+        "LIMIT: strong-centre bias and unresolved regional questions",
+        "ECONOMY → planned, state-led development with a public-sector core and land-reform law",
+        "LIMIT: slow growth and land reform largely unimplemented",
+        "EDUCATION → from about 84 per cent illiteracy to deliberate scientific and technical investment"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "POLITY → integration, Constitution 26 Nov 1949 / 26 Jan 1950, universal adult franchise",
+            "LIMIT: strong-centre bias and unresolved regional questions",
+            "ECONOMY → planned, state-led development with a public-sector core and land-reform law",
+            "LIMIT: slow growth and land reform largely unimplemented"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EDUCATION → from about 84 per cent illiteracy to deliberate scientific and technical investment",
+            "LIMIT: elite-first expansion; primary and female education lag badly",
+            "INT. REL. → non-alignment and Asian solidarity; Pondicherry 1954; Goa 17 December 1961",
+            "LIMIT: limited hard power"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TWO DATES → independence 15 Aug 1947",
+            "republic 26 Jan 1950; the 2026 parade is the 77th precisely because 1950 counts as the first",
+            "DO NOT CONFUSE → Operation Vijay (Goa, Dec 1961) with Operation Polo (Hyderabad, Sep 1948)."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DO NOT CONFUSE → Operation Vijay (Goa, Dec 1961) with Operation Polo (Hyderabad, Sep 1948).",
+      "source_references": [
+        "Completing the map: Pondicherry, Goa, and two Operations",
+        "The four-domain answer and the seventy-seventh Republic Day"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE COLONIAL ECONOMY WAS STRUCTURALLY DEPENDENT — COMMERCIALISED AGRICULTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "GROWTH, ARRESTED INDUSTRIALISATION, AND A STATE GEARED TO EXTRACTION",
+          "role": "institution"
+        },
+        {
+          "text": "LANDLESS AGRICULTURAL LABOUR HAD RISEN FROM ABOUT 13% (1871)",
+          "role": "evidence"
+        },
+        {
+          "text": "THE PARADOX OF 1947 IS THAT INDIA WAS ECONOMICALLY",
+          "role": "primary"
+        },
+        {
+          "text": "THE MOST CONFIDENT — BECAUSE THE FREEDOM STRUGGLE HAD",
+          "role": "outcome"
+        },
+        {
+          "text": "CHANDRA'S ARGUMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "THE NATIONAL MOVEMENT \" INDIGENISED DEMOCRACY ,\" GIVING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "The colonial economy was structurally dependent — commercialised agriculture without productivity",
+            "growth, arrested industrialisation, and a state geared to extraction, not development.",
+            "Landless agricultural labour had risen from about 13% (1871) to 28% (1951) , a marker of colonial agrarian distress.",
+            "CAUTION: The paradox of 1947 is that India was economically among the poorest nations yet politically among"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "the most confident — because the freedom struggle had already built a democratic, participatory political culture.",
+            "CAUTION: Chandra's argument: the national movement \" indigenised democracy ,\" giving",
+            "the new institutions a legitimacy that most decolonising states lacked.",
+            "Four simultaneous threats — communal violence, the Telangana insurgency, princely-state integration, and"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "the Kashmir war — could have Balkanised or militarised the state.",
+            "The leadership chose secularism plus force plus reconciliation : containing riots, banning and then rehabilitating",
+            "the RSS, integrating states, and defeating the Communist insurgency while keeping the CPI legal.",
+            "CAUTION: The decision to adopt universal adult franchise at once — in a poor, largely illiterate"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

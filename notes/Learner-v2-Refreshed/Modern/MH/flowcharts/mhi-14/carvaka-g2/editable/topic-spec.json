@@ -1,0 +1,1141 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-14",
+  "subject": "Modern-Indian-History",
+  "title": "FOUNDATION OF THE INC & THE MODERATE PHASE (1885–1905)",
+  "short_route": "ASSOCIATIONS CONVERGED INTO AN → THE FIRST CONGRESS SESSION → SAFETY VALVE VERSUS NATIONAL → MODERATE CONSTITUTIONAL REPERTOIRE → ECONOMIC NATIONALISM MADE POVERTY → DEMAND MAP OF THE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-14\\g2\\modern-indian-history-14_Complete-Learning-Session_2026-08-31.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-14-deep-review-2026-08-31-g2.json",
+  "ascii_spec_sha256": "9f1a3a1e65d2ee6e4196e04b74dfceb60bfa476d5b079851ca53dc02df595152",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ASSOCIATIONS CONVERGED INTO AN ALL-INDIA PLATFORM",
+      "structural_type": "chronology",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ASSOCIATIONS CONVERGED INTO AN ALL-INDIA PLATFORM",
+          "role": "primary"
+        },
+        {
+          "text": "1851 BRITISH INDIAN ASSOCIATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ELITE ARTICULATION IN BENGAL",
+          "role": "comparison"
+        },
+        {
+          "text": "1866 EAST INDIA ASSOCIATION",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIAN CLAIMS BEFORE BRITISH OPINION",
+          "role": "primary"
+        },
+        {
+          "text": "1870 POONA SARVAJANIK SABHA",
+          "role": "outcome"
+        },
+        {
+          "text": "PUBLIC REPRESENTATION IN WESTERN INDIA",
+          "role": "comparison"
+        },
+        {
+          "text": "1876 INDIAN ASSOCIATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1851 BRITISH INDIAN ASSOCIATION → elite articulation in Bengal",
+        "1866 EAST INDIA ASSOCIATION → Indian claims before British opinion",
+        "1870 POONA SARVAJANIK SABHA → public representation in western India",
+        "1876 INDIAN ASSOCIATION → broader political mobilisation",
+        "1884-85 MADRAS / BOMBAY BODIES → regional networks ready for Congress"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1851 BRITISH INDIAN ASSOCIATION → elite articulation in Bengal",
+            "1866 EAST INDIA ASSOCIATION → Indian claims before British opinion",
+            "1870 POONA SARVAJANIK SABHA → public representation in western India"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1876 INDIAN ASSOCIATION → broader political mobilisation",
+            "1884-85 MADRAS / BOMBAY BODIES → regional networks ready for Congress",
+            "DEC 1885 INC → one annual all-India platform, not a political beginning from zero."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: The INC met first at Bombay in December 1885 under W.C.",
+            "Hume mattered organisationally, but Indian associations, economic critique and political networks predated it."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: The INC met first at Bombay in December 1885 under W.C. Bonnerjee; A.O. Hume mattered organisationally, but Indian associations, economic critique and political networks predated it.",
+      "source_references": [
+        "Mini-timeline",
+        "Pre-1885 groundwork",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\14_Foundation-of-INC-and-Moderate-Phase.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\14_Foundation-of-INC-and-Moderate-Phase.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-14\\g2\\modern-indian-history-14_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THE FIRST CONGRESS SESSION IDENTITY CARD",
+      "structural_type": "identity-card",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THE FIRST CONGRESS SESSION IDENTITY CARD",
+          "role": "primary"
+        },
+        {
+          "text": "DECEMBER 1885",
+          "role": "outcome"
+        },
+        {
+          "text": "W.C. BONNERJEE",
+          "role": "comparison"
+        },
+        {
+          "text": "A.O. HUME HELPED CONVENE",
+          "role": "evidence"
+        },
+        {
+          "text": "EXAM LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "ORGANISER DOES NOT EQUAL CREATOR OF INDIAN NATIONALISM.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PLACE → Bombay",
+        "DATE → December 1885",
+        "DELEGATES → 72",
+        "PRESIDENT → W.C. Bonnerjee",
+        "ORGANISER → A.O. Hume helped convene"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PLACE → Bombay",
+            "DATE → December 1885"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DELEGATES → 72",
+            "PRESIDENT → W.C. Bonnerjee"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ORGANISER → A.O. Hume helped convene",
+            "EXAM LIMIT → organiser does not equal creator of Indian nationalism."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXAM LIMIT → organiser does not equal creator of Indian nationalism.",
+      "source_references": [
+        "Foundation and the safety-valve controversy",
+        "Must-Know Facts",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\14_Foundation-of-INC-and-Moderate-Phase.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\14_Foundation-of-INC-and-Moderate-Phase.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-14\\g2\\modern-indian-history-14_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SAFETY VALVE VERSUS NATIONAL MOVEMENT",
+      "structural_type": "argument-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SAFETY VALVE VERSUS NATIONAL MOVEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "SAFETY-VALVE CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "HUME CHANNELLED DANGEROUS DISCONTENT",
+          "role": "comparison"
+        },
+        {
+          "text": "PROBLEM 1",
+          "role": "evidence"
+        },
+        {
+          "text": "MOTIVE OF ONE ORGANISER CANNOT EXPLAIN A SOCIAL MOVEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PROBLEM 2",
+          "role": "outcome"
+        },
+        {
+          "text": "ASSOCIATIONS, PRESS AND GRIEVANCES EXISTED BEFORE 1885",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIONAL-MOVEMENT THESIS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SAFETY-VALVE CLAIM → Hume channelled dangerous discontent",
+        "PROBLEM 1 → motive of one organiser cannot explain a social movement",
+        "PROBLEM 2 → associations, press and grievances existed before 1885",
+        "NATIONAL-MOVEMENT THESIS → Indian forces supplied cause and content",
+        "BALANCED VERDICT → Hume explains facilitation, not historical ownership."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SAFETY-VALVE CLAIM → Hume channelled dangerous discontent",
+            "PROBLEM 1 → motive of one organiser cannot explain a social movement"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PROBLEM 2 → associations, press and grievances existed before 1885",
+            "NATIONAL-MOVEMENT THESIS → Indian forces supplied cause and content"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BALANCED VERDICT → Hume explains facilitation, not historical ownership.",
+            "SAFETY-VALVE CLAIM → Hume channelled dangerous discontent"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BALANCED VERDICT → Hume explains facilitation, not historical ownership.",
+      "source_references": [
+        "Foundation and the safety-valve controversy",
+        "Qualified thesis options",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\14_Foundation-of-INC-and-Moderate-Phase.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\14_Foundation-of-INC-and-Moderate-Phase.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-14\\g2\\modern-indian-history-14_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "MODERATE CONSTITUTIONAL REPERTOIRE",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MODERATE CONSTITUTIONAL REPERTOIRE",
+          "role": "primary"
+        },
+        {
+          "text": "RESOLUTION AT ANNUAL CONGRESS",
+          "role": "outcome"
+        },
+        {
+          "text": "PETITION, MEMORIAL AND PRESS CAMPAIGN",
+          "role": "comparison"
+        },
+        {
+          "text": "MEETINGS, NEWSPAPERS AND BRITISH DEPUTATIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "LEGISLATIVE QUESTION AND BUDGET CRITICISM",
+          "role": "primary"
+        },
+        {
+          "text": "EDUCATE INDIAN OPINION AND PRESSURE IMPERIAL LIBERALISM",
+          "role": "outcome"
+        },
+        {
+          "text": "THE COLONIAL EXECUTIVE RETAINED DECISIVE POWER.",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "GRIEVANCE → resolution at annual Congress",
+        "RESOLUTION → petition, memorial and press campaign",
+        "PUBLICITY → meetings, newspapers and British deputations",
+        "INSTITUTION → legislative question and budget criticism",
+        "PURPOSE → educate Indian opinion and pressure imperial liberalism"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GRIEVANCE → resolution at annual Congress",
+            "RESOLUTION → petition, memorial and press campaign"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PUBLICITY → meetings, newspapers and British deputations",
+            "INSTITUTION → legislative question and budget criticism"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PURPOSE → educate Indian opinion and pressure imperial liberalism",
+            "CEILING → the colonial executive retained decisive power."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CEILING → the colonial executive retained decisive power.",
+      "source_references": [
+        "Constitutional method",
+        "Mechanism - how petitioning built a nation",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\14_Foundation-of-INC-and-Moderate-Phase.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\14_Foundation-of-INC-and-Moderate-Phase.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-14\\g2\\modern-indian-history-14_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ECONOMIC NATIONALISM MADE POVERTY POLITICAL",
+      "structural_type": "causal-web",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ECONOMIC NATIONALISM MADE POVERTY POLITICAL",
+          "role": "primary"
+        },
+        {
+          "text": "RESOURCES TRANSFERRED WITHOUT EQUIVALENT RETURN",
+          "role": "outcome"
+        },
+        {
+          "text": "OLDER PRODUCTION WEAKENED UNDER DEPENDENT TRADE",
+          "role": "comparison"
+        },
+        {
+          "text": "REVENUE PRESSURE",
+          "role": "evidence"
+        },
+        {
+          "text": "CULTIVATORS CARRIED FISCAL RISK",
+          "role": "caution"
+        },
+        {
+          "text": "MILITARY COST",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIAN REVENUES FINANCED IMPERIAL PRIORITIES",
+          "role": "comparison"
+        },
+        {
+          "text": "SERVICE EXCLUSION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DRAIN → resources transferred without equivalent return",
+        "DEINDUSTRIALISATION → older production weakened under dependent trade",
+        "REVENUE PRESSURE → cultivators carried fiscal risk",
+        "MILITARY COST → Indian revenues financed imperial priorities",
+        "SERVICE EXCLUSION → salaries and authority remained racially unequal"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DRAIN → resources transferred without equivalent return",
+            "DEINDUSTRIALISATION → older production weakened under dependent trade"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REVENUE PRESSURE → cultivators carried fiscal risk",
+            "MILITARY COST → Indian revenues financed imperial priorities"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SERVICE EXCLUSION → salaries and authority remained racially unequal",
+            "CONCLUSION → poverty became an indictment of colonial structure."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONCLUSION → poverty became an indictment of colonial structure.",
+      "source_references": [
+        "Economic nationalism - the intellectual achievement",
+        "Drain theory",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\14_Foundation-of-INC-and-Moderate-Phase.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\14_Foundation-of-INC-and-Moderate-Phase.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-14\\g2\\modern-indian-history-14_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "DEMAND MAP OF THE MODERATES",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DEMAND MAP OF THE MODERATES",
+          "role": "primary"
+        },
+        {
+          "text": "ENLARGEMENT, ELECTIVE PRINCIPLE, QUESTIONS AND BUDGETS",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIANISATION AND SIMULTANEOUS ICS EXAMINATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "LOWER MILITARY SPENDING AND SCRUTINY OF HOME CHARGES",
+          "role": "evidence"
+        },
+        {
+          "text": "SPEECH, PRESS AND ASSOCIATION",
+          "role": "primary"
+        },
+        {
+          "text": "ACCOUNTABILITY AND RACIAL EQUALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "REFORM OF EMPIRE, NOT IMMEDIATE COMPLETE INDEPENDENCE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "COUNCILS → enlargement, elective principle, questions and budgets",
+        "SERVICES → Indianisation and simultaneous ICS examinations",
+        "FINANCE → lower military spending and scrutiny of home charges",
+        "RIGHTS → speech, press and association",
+        "ADMINISTRATION → accountability and racial equality"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "COUNCILS → enlargement, elective principle, questions and budgets",
+          "FINANCE → lower military spending and scrutiny of home charges",
+          "ADMINISTRATION → accountability and racial equality"
+        ],
+        [
+          "SERVICES → Indianisation and simultaneous ICS examinations",
+          "RIGHTS → speech, press and association",
+          "BOUNDARY → reform of empire, not immediate complete independence."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COUNCILS → enlargement, elective principle, questions and budgets",
+            "SERVICES → Indianisation and simultaneous ICS examinations"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FINANCE → lower military spending and scrutiny of home charges",
+            "RIGHTS → speech, press and association"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ADMINISTRATION → accountability and racial equality",
+            "BOUNDARY → reform of empire, not immediate complete independence."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY → reform of empire, not immediate complete independence.",
+      "source_references": [
+        "Key classification / data",
+        "Moderate demands",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\14_Foundation-of-INC-and-Moderate-Phase.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\14_Foundation-of-INC-and-Moderate-Phase.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-14\\g2\\modern-indian-history-14_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "INDIAN COUNCILS ACT 1892: GAIN AND CEILING",
+      "structural_type": "balance-sheet",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INDIAN COUNCILS ACT 1892",
+          "role": "institution"
+        },
+        {
+          "text": "GAIN AND CEILING",
+          "role": "outcome"
+        },
+        {
+          "text": "ENLARGED LEGISLATIVE COUNCILS",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIRECT ELECTION-LIKE RECOMMENDING BODIES",
+          "role": "evidence"
+        },
+        {
+          "text": "BUDGET DISCUSSION AND QUESTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "NO GAIN",
+          "role": "caution"
+        },
+        {
+          "text": "ELECTED MAJORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "EXECUTIVE RESPONSIBILITY OR BUDGET CONTROL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GAIN → enlarged legislative councils",
+        "GAIN → indirect election-like recommending bodies",
+        "GAIN → budget discussion and questions",
+        "NO GAIN → elected majority",
+        "NO GAIN → executive responsibility or budget control"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GAIN → enlarged legislative councils",
+            "GAIN → indirect election-like recommending bodies"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GAIN → budget discussion and questions",
+            "NO GAIN → elected majority"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NO GAIN → executive responsibility or budget control",
+            "VERDICT → procedure expanded while colonial power remained intact."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → procedure expanded while colonial power remained intact.",
+      "source_references": [
+        "Concrete institutional gains",
+        "Factual-risk cautions",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\14_Foundation-of-INC-and-Moderate-Phase.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\14_Foundation-of-INC-and-Moderate-Phase.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-14\\g2\\modern-indian-history-14_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ANNUAL CONGRESS AS POLITICAL EDUCATION",
+      "structural_type": "feedback-loop",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "ANNUAL CONGRESS AS POLITICAL EDUCATION",
+          "role": "primary"
+        },
+        {
+          "text": "ANNUAL SESSION",
+          "role": "outcome"
+        },
+        {
+          "text": "LEADERS COMPARE REGIONAL GRIEVANCES",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMON LANGUAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "RIGHTS, ECONOMY, REPRESENTATION AND ACCOUNTABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "PRESS REPRODUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "ARGUMENTS REACH PROVINCIAL PUBLICS",
+          "role": "comparison"
+        },
+        {
+          "text": "COUNCIL PRACTICE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ANNUAL SESSION → leaders compare regional grievances",
+        "COMMON LANGUAGE → rights, economy, representation and accountability",
+        "PRESS REPRODUCTION → arguments reach provincial publics",
+        "COUNCIL PRACTICE → evidence, questions and budget criticism improve",
+        "NEW PUBLIC → Indians imagine a shared political community"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ANNUAL SESSION → leaders compare regional grievances",
+            "COMMON LANGUAGE → rights, economy, representation and accountability"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PRESS REPRODUCTION → arguments reach provincial publics",
+            "COUNCIL PRACTICE → evidence, questions and budget criticism improve"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NEW PUBLIC → Indians imagine a shared political community",
+            "LOOP → public pressure strengthens the next annual session."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LOOP → public pressure strengthens the next annual session.",
+      "source_references": [
+        "Political education",
+        "Mechanism - how petitioning built a nation",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\14_Foundation-of-INC-and-Moderate-Phase.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\14_Foundation-of-INC-and-Moderate-Phase.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-14\\g2\\modern-indian-history-14_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "THE SOCIAL-BASE PARADOX",
+      "structural_type": "two-sided",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THE SOCIAL-BASE PARADOX",
+          "role": "primary"
+        },
+        {
+          "text": "EDUCATED LAWYERS, JOURNALISTS AND TEACHERS MASTERED PRINT AND LAW",
+          "role": "outcome"
+        },
+        {
+          "text": "PRESIDENCY-TOWN NETWORKS ENABLED ALL-INDIA COORDINATION",
+          "role": "comparison"
+        },
+        {
+          "text": "PEASANTS, WORKERS, WOMEN AND MANY LOWER CASTES REMAINED OUTSIDE",
+          "role": "evidence"
+        },
+        {
+          "text": "ENGLISH AND INSTITUTIONAL POLITICS RESTRICTED ACCESS",
+          "role": "primary"
+        },
+        {
+          "text": "STRONG ARGUMENT AND WEAK MASS REACH",
+          "role": "outcome"
+        },
+        {
+          "text": "NEXT PHASE",
+          "role": "comparison"
+        },
+        {
+          "text": "BOYCOTT SOUGHT MOBILISATION BEYOND THE PETITIONING ELITE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STRENGTH → educated lawyers, journalists and teachers mastered print and law",
+        "STRENGTH → presidency-town networks enabled all-India coordination",
+        "LIMIT → peasants, workers, women and many lower castes remained outside",
+        "LIMIT → English and institutional politics restricted access",
+        "RESULT → strong argument and weak mass reach"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STRENGTH → educated lawyers, journalists and teachers mastered print and law",
+            "STRENGTH → presidency-town networks enabled all-India coordination"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LIMIT → peasants, workers, women and many lower castes remained outside",
+            "LIMIT → English and institutional politics restricted access"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RESULT → strong argument and weak mass reach",
+            "NEXT PHASE → boycott sought mobilisation beyond the petitioning elite."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → strong argument and weak mass reach.",
+      "source_references": [
+        "Social base and its consequences",
+        "Counter-evidence, balance and variation",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\14_Foundation-of-INC-and-Moderate-Phase.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\14_Foundation-of-INC-and-Moderate-Phase.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-14\\g2\\modern-indian-history-14_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ACHIEVEMENT DEPENDS ON THE MEASURING SCALE",
+      "structural_type": "evaluation-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ACHIEVEMENT DEPENDS ON THE MEASURING SCALE",
+          "role": "primary"
+        },
+        {
+          "text": "POWER TRANSFER",
+          "role": "mechanism"
+        },
+        {
+          "text": "NO RESPONSIBLE GOVERNMENT",
+          "role": "caution"
+        },
+        {
+          "text": "PROCEDURAL OPENING",
+          "role": "evidence"
+        },
+        {
+          "text": "1892 COUNCILS",
+          "role": "primary"
+        },
+        {
+          "text": "ECONOMIC CRITIQUE",
+          "role": "outcome"
+        },
+        {
+          "text": "COLONIAL EXPLOITATION EXPOSED",
+          "role": "comparison"
+        },
+        {
+          "text": "ENDURING ALL-INDIA PLATFORM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "POWER TRANSFER → LOW: no responsible government",
+        "PROCEDURAL OPENING → LIMITED: 1892 councils",
+        "ECONOMIC CRITIQUE → HIGH: colonial exploitation exposed",
+        "ORGANISATION → HIGH: enduring all-India platform",
+        "POLITICAL EDUCATION → HIGH: trained leaders and public opinion"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "POWER TRANSFER → LOW: no responsible government",
+          "ORGANISATION → HIGH: enduring all-India platform",
+          "CLOSE DISTINCTION: The 'safety-valve' claim is not an adequate monocausal origin theory"
+        ],
+        [
+          "PROCEDURAL OPENING → LIMITED: 1892 councils",
+          "POLITICAL EDUCATION → HIGH: trained leaders and public opinion",
+          "Moderate constitutional methods could be limited yet still create an all-India political vocabulary and economic indictment."
+        ],
+        [
+          "ECONOMIC CRITIQUE → HIGH: colonial exploitation exposed",
+          "VERDICT → immediate failure coexisted with foundational success.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "POWER TRANSFER → LOW: no responsible government",
+            "PROCEDURAL OPENING → LIMITED: 1892 councils",
+            "ECONOMIC CRITIQUE → HIGH: colonial exploitation exposed"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ORGANISATION → HIGH: enduring all-India platform",
+            "POLITICAL EDUCATION → HIGH: trained leaders and public opinion",
+            "VERDICT → immediate failure coexisted with foundational success."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: The 'safety-valve' claim is not an adequate monocausal origin theory",
+            "Moderate constitutional methods could be limited yet still create an all-India political vocabulary and economic indictment."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → immediate failure coexisted with foundational success.",
+      "source_references": [
+        "Evaluation of Moderates",
+        "Verdict scaffolds",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\14_Foundation-of-INC-and-Moderate-Phase.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\14_Foundation-of-INC-and-Moderate-Phase.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-14\\g2\\modern-indian-history-14_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MODERATES TO MILITANTS: CONTINUITY AND RUPTURE",
+      "structural_type": "bridge",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MODERATES TO MILITANTS",
+          "role": "primary"
+        },
+        {
+          "text": "CONTINUITY AND RUPTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "DRAIN CRITIQUE AND COLONIAL ECONOMIC INDICTMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "CONGRESS AS THE NATIONAL ORGANISATIONAL ARENA",
+          "role": "evidence"
+        },
+        {
+          "text": "CIVIL LIBERTIES AND REPRESENTATIVE CLAIMS",
+          "role": "primary"
+        },
+        {
+          "text": "FAITH IN BRITISH JUSTICE DECLINED",
+          "role": "outcome"
+        },
+        {
+          "text": "PETITION YIELDED TO BOYCOTT, SELF-RELIANCE AND PASSIVE RESISTANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "LIMITATION OF ONE METHOD GENERATED THE NEXT REPERTOIRE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONTINUITY → drain critique and colonial economic indictment",
+        "CONTINUITY → Congress as the national organisational arena",
+        "CONTINUITY → civil liberties and representative claims",
+        "RUPTURE → faith in British justice declined",
+        "RUPTURE → petition yielded to boycott, self-reliance and passive resistance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONTINUITY → drain critique and colonial economic indictment",
+            "CONTINUITY → Congress as the national organisational arena",
+            "CONTINUITY → civil liberties and representative claims"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RUPTURE → faith in British justice declined",
+            "RUPTURE → petition yielded to boycott, self-reliance and passive resistance",
+            "1905 → limitation of one method generated the next repertoire."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Nationalist, Cambridge and subaltern accounts should be compared through membership, petitions,",
+            "associations, press and provincial participation, including the movement's narrow early social base."
+          ]
+        }
+      ],
+      "mechanism_strip": "1905 → limitation of one method generated the next repertoire.",
+      "answer_line": "EVIDENCE LIMIT: Nationalist, Cambridge and subaltern accounts should be compared through membership, petitions, associations, press and provincial participation, including the movement's narrow early social base.",
+      "source_references": [
+        "Why Extremism followed",
+        "Continuity/rupture",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\14_Foundation-of-INC-and-Moderate-Phase.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\14_Foundation-of-INC-and-Moderate-Phase.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-14\\g2\\modern-indian-history-14_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "MODERATE ANSWER-WRITING SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "MODERATE ANSWER-WRITING SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CONSTITUTIONAL NATIONALISM WITH AN EDUCATED MIDDLE-CLASS BASE",
+          "role": "outcome"
+        },
+        {
+          "text": "PRE-1885 ASSOCIATIONS PLUS COMMON COLONIAL GRIEVANCES",
+          "role": "comparison"
+        },
+        {
+          "text": "PETITION, PRESS, COUNCILS AND DEPUTATIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "ORGANISATION, ECONOMIC CRITIQUE AND POLITICAL EDUCATION",
+          "role": "primary"
+        },
+        {
+          "text": "NARROW REACH, LOYALIST FAITH AND LIMITED CONCESSIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "FAILED TO GAIN POWER, SUCCEEDED IN MAKING LATER STRUGGLE",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "DEFINE → constitutional nationalism with an educated middle-class base",
+        "ORIGIN → pre-1885 associations plus common colonial grievances",
+        "METHOD → petition, press, councils and deputations",
+        "ACHIEVEMENT → organisation, economic critique and political education",
+        "LIMIT → narrow reach, loyalist faith and limited concessions"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE → constitutional nationalism with an educated middle-class base",
+            "ORIGIN → pre-1885 associations plus common colonial grievances"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "METHOD → petition, press, councils and deputations",
+            "ACHIEVEMENT → organisation, economic critique and political education"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → narrow reach, loyalist faith and limited concessions",
+            "VERDICT → failed to gain power, succeeded in making later struggle possible."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → failed to gain power, succeeded in making later struggle possible.",
+      "source_references": [
+        "Mark-scaled structure",
+        "Verdict scaffolds",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\14_Foundation-of-INC-and-Moderate-Phase.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\14_Foundation-of-INC-and-Moderate-Phase.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-14\\g2\\modern-indian-history-14_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA'S STRUGGLE FOR INDEPENDENCE REJECTS THE CRUDE \"SAFETY-VALVE\" EXPLANATION",
+          "role": "outcome"
+        },
+        {
+          "text": "IT TREATS THE INC AS THE PRODUCT OF DEVELOPING",
+          "role": "comparison"
+        },
+        {
+          "text": "HUME'S \"LIGHTNING-CONDUCTOR\" ROLE MATTERED ORGANISATIONALLY, BUT INDIAN LEADERS AND",
+          "role": "evidence"
+        },
+        {
+          "text": "PRE-CONGRESS BODIES SUCH AS THE EAST INDIA ASSOCIATION, POONA",
+          "role": "primary"
+        },
+        {
+          "text": "AND BOMBAY PRESIDENCY ASSOCIATION CREATED TRAINED CADRES, PUBLICITY NETWORKS",
+          "role": "outcome"
+        },
+        {
+          "text": "THE SAFETY-VALVE THEORY SURVIVES IN EXAM TRAPS BECAUSE IT",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE ORGANISER'S MOTIVE WITH THE BROADER SOCIAL PROCESS THAT",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "India's Struggle for Independence rejects the crude \"safety-valve\" explanation that reduces the Congress to a British device",
+            "it treats the INC as the product of developing national consciousness, modern education, press, railways, economic critique and",
+            "A.O.",
+            "Hume's \"lightning-conductor\" role mattered organisationally, but Indian leaders and Indian political pressures supplied the real historical content of"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "Pre-Congress bodies such as the East India Association, Poona Sarvajanik Sabha, Indian Association, Madras Mahajan Sabha",
+            "and Bombay Presidency Association created trained cadres, publicity networks and habits of collective political work.",
+            "CAUTION: The safety-valve theory survives in exam traps because it confuses",
+            "one organiser's motive with the broader social process that produced nationalism."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Dadabhai Naoroji, R.C.",
+            "Dutt, M.G.",
+            "Ranade and Gokhale exposed colonial rule as economically exploitative through the drain theory, critique of high military expenditure,",
+            "Moderates used the press, legislatures, public speeches, resolutions and British parliamentary opinion to delegitimise the moral claims of empire."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1116 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-04",
+  "subject": "Modern-Indian-History",
+  "title": "THE BRITISH CONQUEST OF BENGAL (PLASSEY 1757, BUXAR 1764, DUAL GOVERNMENT)",
+  "short_route": "BENGAL BEFORE 1756: SUCCESSOR → CALCUTTA CRISIS AND THE → PLASSEY'S HIDDEN BATTLE: CONSPIRACY → PLASSEY AND THE MIR → MIR QASIM: REFORM, EQUALITY → BUXAR: COALITION BREADTH VERSUS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-04\\g4\\modern-indian-history-04_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-04-deep-review-2026-09-04-g4.json",
+  "ascii_spec_sha256": "8a14c2501a58093320f417345100bda0ebc496cf4da17cb687b1025c63e8a021",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "BENGAL BEFORE 1756: SUCCESSOR STATE AND SOVEREIGNTY CONFLICT",
+      "structural_type": "scope-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "BENGAL BEFORE 1756",
+          "role": "primary"
+        },
+        {
+          "text": "SUCCESSOR STATE AND SOVEREIGNTY CONFLICT",
+          "role": "institution"
+        },
+        {
+          "text": "WEALTHY MUGHAL SUCCESSOR STATE, NOT A POLITICAL VACUUM",
+          "role": "caution"
+        },
+        {
+          "text": "1717 FARMAN",
+          "role": "evidence"
+        },
+        {
+          "text": "BOUNDED PRIVILEGE FOR COMPANY TRADE",
+          "role": "primary"
+        },
+        {
+          "text": "DASTAK ABUSE",
+          "role": "outcome"
+        },
+        {
+          "text": "SERVANTS' PRIVATE TRADE",
+          "role": "comparison"
+        },
+        {
+          "text": "FORTIFICATION + CUSTOMS + JURISDICTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BENGAL → wealthy Mughal successor state, not a political vacuum",
+        "1717 FARMAN → bounded privilege for Company trade",
+        "DASTAK ABUSE → servants' private trade",
+        "FORTIFICATION + customs + jurisdiction → commercial dispute becomes sovereignty dispute",
+        "SIRAJ 1756 → inherits court rivalry and a Company testing Nawabi authority."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BENGAL → wealthy Mughal successor state, not a political vacuum",
+            "1717 FARMAN → bounded privilege for Company trade",
+            "DASTAK ABUSE → servants' private trade"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FORTIFICATION + customs + jurisdiction → commercial dispute becomes sovereignty dispute",
+            "SIRAJ 1756 → inherits court rivalry and a Company testing Nawabi authority.",
+            "MUST REMEMBER: Plassey on 23 June 1757, Buxar on 22 October 1764, the 1765"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Allahabad settlement and Diwani grant, and the 1765-72 Dual Government are separate stages."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Plassey on 23 June 1757, Buxar on 22 October 1764, the 1765 Allahabad settlement and Diwani grant, and the 1765-72 Dual Government are separate stages.",
+      "source_references": [
+        "1. Bengal's political economy before 1756",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\04_British-Conquest-of-Bengal.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\04_British-Conquest-of-Bengal.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-04\\g4\\modern-indian-history-04_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CALCUTTA CRISIS AND THE BLACK HOLE CAUTION",
+      "structural_type": "escalation-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CALCUTTA CRISIS AND THE BLACK HOLE CAUTION",
+          "role": "caution"
+        },
+        {
+          "text": "UNAUTHORISED FORTIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "KASIMBAZAR SEIZED",
+          "role": "comparison"
+        },
+        {
+          "text": "FORT WILLIAM FALLS IN JUNE 1756",
+          "role": "evidence"
+        },
+        {
+          "text": "CALCUTTA RECOVERED",
+          "role": "primary"
+        },
+        {
+          "text": "CHANDERNAGORE REMOVED AS COUNTERWEIGHT",
+          "role": "outcome"
+        },
+        {
+          "text": "BLACK HOLE",
+          "role": "comparison"
+        },
+        {
+          "text": "HOLWELL IS AN INTERESTED, WEAKLY CORROBORATED NARRATOR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UNAUTHORISED FORTIFICATION → Kasimbazar seized → Fort William falls in June 1756",
+        "CLIVE / WATSON → Calcutta recovered → Alinagar → Chandernagore removed as counterweight",
+        "BLACK HOLE → Holwell is an interested, weakly corroborated narrator",
+        "RULE → never make a disputed body count or atrocity story the causal centre of"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "UNAUTHORISED FORTIFICATION → Kasimbazar seized → Fort William falls in June 1756",
+            "CLIVE / WATSON → Calcutta recovered → Alinagar → Chandernagore removed as counterweight"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BLACK HOLE → Holwell is an interested, weakly corroborated narrator",
+            "RULE → never make a disputed body count or atrocity story the causal centre of conquest."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "UNAUTHORISED FORTIFICATION → Kasimbazar seized → Fort William falls in June 1756",
+            "CLIVE / WATSON → Calcutta recovered → Alinagar → Chandernagore removed as counterweight"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → never make a disputed body count or atrocity story the causal centre of conquest.",
+      "source_references": [
+        "2. Siraj-ud-Daulah, the Calcutta crisis and the fall of Fort William, 1756",
+        "3. The 'Black Hole' of Calcutta: what the evidence supports, and what it does not",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\04_British-Conquest-of-Bengal.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\04_British-Conquest-of-Bengal.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-04\\g4\\modern-indian-history-04_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "PLASSEY'S HIDDEN BATTLE: CONSPIRACY AND COLLABORATION",
+      "structural_type": "actor-network",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PLASSEY'S HIDDEN BATTLE",
+          "role": "primary"
+        },
+        {
+          "text": "CONSPIRACY AND COLLABORATION",
+          "role": "outcome"
+        },
+        {
+          "text": "REGIME-CHANGE PLAN + SECRET CORRESPONDENCE + COERCIVE LEVERAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "MIR JAFAR",
+          "role": "evidence"
+        },
+        {
+          "text": "JAGAT SETH",
+          "role": "primary"
+        },
+        {
+          "text": "CREDIT AND SECURITY",
+          "role": "outcome"
+        },
+        {
+          "text": "RAI DURLABH",
+          "role": "comparison"
+        },
+        {
+          "text": "BROKER LATER DECEIVED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COMPANY / CLIVE → regime-change plan + secret correspondence + coercive leverage",
+        "MIR JAFAR → throne",
+        "JAGAT SETH → credit and security",
+        "RAI DURLABH → office",
+        "AMICHAND → broker later deceived"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COMPANY / CLIVE → regime-change plan + secret correspondence + coercive leverage",
+            "MIR JAFAR → throne",
+            "JAGAT SETH → credit and security"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RAI DURLABH → office",
+            "AMICHAND → broker later deceived",
+            "MIR MADAN / MOHAN LAL → loyal resistance"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → interests explain collaboration better than a one-word betrayal morality tale."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → interests explain collaboration better than a one-word betrayal morality tale.",
+      "source_references": [
+        "4. Plassey's hidden battle: the conspiracy network of 1757",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\04_British-Conquest-of-Bengal.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\04_British-Conquest-of-Bengal.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-04\\g4\\modern-indian-history-04_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PLASSEY AND THE MIR JAFAR CLIENT REGIME",
+      "structural_type": "causal-chain",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "PLASSEY AND THE MIR JAFAR CLIENT REGIME",
+          "role": "primary"
+        },
+        {
+          "text": "PLASSEY, 23 JUNE 1757",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSPIRACY NEUTRALISES MOST NAWABI COMMAND",
+          "role": "comparison"
+        },
+        {
+          "text": "MIR JAFAR INSTALLED; COMPANY BECOMES KINGMAKER AND GAINS POLITICAL",
+          "role": "evidence"
+        },
+        {
+          "text": "CLIENT CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "DEEPER COMPANY LEVERAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "PLASSEY CHANGED THE RULER; IT DID NOT YET GRANT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PLASSEY, 23 JUNE 1757 → conspiracy neutralises most Nawabi command",
+        "RESULT → Mir Jafar installed; Company becomes kingmaker and gains political entry",
+        "CLIENT CYCLE → dependence → transfers / concessions → deeper Company leverage",
+        "LIMIT → Plassey changed the ruler; it did not yet grant legal-fiscal sovereignty."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PLASSEY, 23 JUNE 1757 → conspiracy neutralises most Nawabi command",
+            "RESULT → Mir Jafar installed; Company becomes kingmaker and gains political entry"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CLIENT CYCLE → dependence → transfers / concessions → deeper Company leverage",
+            "LIMIT → Plassey changed the ruler; it did not yet grant legal-fiscal sovereignty."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PLASSEY, 23 JUNE 1757 → conspiracy neutralises most Nawabi command",
+            "RESULT → Mir Jafar installed; Company becomes kingmaker and gains political entry"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → Mir Jafar installed; Company becomes kingmaker and gains political entry.",
+      "source_references": [
+        "5. Plassey, 23 June 1757: why this was a political coup, not a conventional military triumph",
+        "6. Mir Jafar's Bengal and Company extraction, 1757-60",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\04_British-Conquest-of-Bengal.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\04_British-Conquest-of-Bengal.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-04\\g4\\modern-indian-history-04_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "MIR QASIM: REFORM, EQUALITY AND CONFLICT",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MIR QASIM",
+          "role": "primary"
+        },
+        {
+          "text": "REFORM, EQUALITY AND CONFLICT",
+          "role": "outcome"
+        },
+        {
+          "text": "MIR QASIM 1760",
+          "role": "comparison"
+        },
+        {
+          "text": "SHIFTS CAPITAL TO MUNGER + STRENGTHENS ADMINISTRATION AND ARMY",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPANY PRIVATE TRADE",
+          "role": "primary"
+        },
+        {
+          "text": "DUTY PRIVILEGE DISTORTS COMPETITION AND WEAKENS NAWABI REVENUE",
+          "role": "outcome"
+        },
+        {
+          "text": "RESPONSE 1763",
+          "role": "comparison"
+        },
+        {
+          "text": "ABOLISH INLAND DUTIES FOR ALL TRADERS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MIR QASIM 1760 → shifts capital to Munger + strengthens administration and army",
+        "COMPANY PRIVATE TRADE → duty privilege distorts competition and weakens Nawabi revenue",
+        "RESPONSE 1763 → abolish inland duties for all traders: equality, not modern nationalism",
+        "COMPANY RESISTS LOST ADVANTAGE → war → Mir Qasim seeks an Awadh-Mughal coalition."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MIR QASIM 1760 → shifts capital to Munger + strengthens administration and army",
+            "COMPANY PRIVATE TRADE → duty privilege distorts competition and weakens Nawabi revenue"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESPONSE 1763 → abolish inland duties for all traders: equality, not modern nationalism",
+            "COMPANY RESISTS LOST ADVANTAGE → war → Mir Qasim seeks an Awadh-Mughal coalition."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MIR QASIM 1760 → shifts capital to Munger + strengthens administration and army",
+            "COMPANY PRIVATE TRADE → duty privilege distorts competition and weakens Nawabi revenue"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMPANY RESISTS LOST ADVANTAGE → war → Mir Qasim seeks an Awadh-Mughal coalition.",
+      "source_references": [
+        "7. Mir Qasim, Munger and the equality crisis, 1760-63",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\04_British-Conquest-of-Bengal.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\04_British-Conquest-of-Bengal.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-04\\g4\\modern-indian-history-04_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "BUXAR: COALITION BREADTH VERSUS UNIFIED COMPANY COMMAND",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COALITION BREADTH VERSUS UNIFIED COMPANY COMMAND",
+          "role": "comparison"
+        },
+        {
+          "text": "MIR QASIM + SHUJA-UD-DAULA + SHAH ALAM II; DISTINCT",
+          "role": "outcome"
+        },
+        {
+          "text": "STRUCTURAL WEAKNESS",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATE TREASURIES, COMMANDS AND POLITICAL OBJECTIVES",
+          "role": "evidence"
+        },
+        {
+          "text": "HECTOR MUNRO'S INTEGRATED COMMAND, SUPPLY AND PAYMENT SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "BUXAR, 22 OCTOBER 1764",
+          "role": "outcome"
+        },
+        {
+          "text": "OPEN MILITARY SUPREMACY, UNLIKE PLASSEY'S PALACE COUP.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "COALITION → Mir Qasim + Shuja-ud-Daula + Shah Alam II; distinct motives",
+        "STRUCTURAL WEAKNESS → separate treasuries, commands and political objectives",
+        "COMPANY → Hector Munro's integrated command, supply and payment system",
+        "BUXAR, 22 OCTOBER 1764 → open military supremacy, unlike Plassey's palace coup."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "COALITION → Mir Qasim + Shuja-ud-Daula + Shah Alam II; distinct motives",
+          "COMPANY → Hector Munro's integrated command, supply and payment system",
+          "COALITION → Mir Qasim + Shuja-ud-Daula + Shah Alam II; distinct motives"
+        ],
+        [
+          "STRUCTURAL WEAKNESS → separate treasuries, commands and political objectives",
+          "BUXAR, 22 OCTOBER 1764 → open military supremacy, unlike Plassey's palace coup.",
+          "STRUCTURAL WEAKNESS → separate treasuries, commands and political objectives"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COALITION → Mir Qasim + Shuja-ud-Daula + Shah Alam II; distinct motives",
+            "STRUCTURAL WEAKNESS → separate treasuries, commands and political objectives"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMPANY → Hector Munro's integrated command, supply and payment system",
+            "BUXAR, 22 OCTOBER 1764 → open military supremacy, unlike Plassey's palace coup."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COALITION → Mir Qasim + Shuja-ud-Daula + Shah Alam II; distinct motives",
+            "STRUCTURAL WEAKNESS → separate treasuries, commands and political objectives"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BUXAR, 22 OCTOBER 1764 → open military supremacy, unlike Plassey's palace coup.",
+      "source_references": [
+        "8. The road to Buxar: Mir Qasim, Shuja-ud-Daula and Shah Alam II form a coalition",
+        "9. Buxar, 22 October 1764: why this battle mattered more than Plassey",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\04_British-Conquest-of-Bengal.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\04_British-Conquest-of-Bengal.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-04\\g4\\modern-indian-history-04_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "THREE-STAGE CONQUEST THESIS",
+      "structural_type": "three-stage-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THREE-STAGE CONQUEST THESIS",
+          "role": "primary"
+        },
+        {
+          "text": "PLASSEY 1757",
+          "role": "outcome"
+        },
+        {
+          "text": "POLITICAL ENTRY",
+          "role": "comparison"
+        },
+        {
+          "text": "CLIENT NAWAB AND COMPANY KINGMAKING",
+          "role": "evidence"
+        },
+        {
+          "text": "BUXAR 1764",
+          "role": "primary"
+        },
+        {
+          "text": "MILITARY SUPREMACY",
+          "role": "outcome"
+        },
+        {
+          "text": "BENGAL-AWADH-EMPEROR COALITION DEFEATED",
+          "role": "comparison"
+        },
+        {
+          "text": "DIWANI 1765",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PLASSEY 1757 → POLITICAL ENTRY: client Nawab and Company kingmaking",
+        "BUXAR 1764 → MILITARY SUPREMACY: Bengal-Awadh-emperor coalition defeated",
+        "ALLAHABAD / DIWANI 1765 → LEGAL-FISCAL TITLE: revenue authority institutionalised",
+        "RULE → Plassey alone did not complete Company sovereignty over Bengal."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PLASSEY 1757 → POLITICAL ENTRY: client Nawab and Company kingmaking",
+            "BUXAR 1764 → MILITARY SUPREMACY: Bengal-Awadh-emperor coalition defeated"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ALLAHABAD / DIWANI 1765 → LEGAL-FISCAL TITLE: revenue authority institutionalised",
+            "RULE → Plassey alone did not complete Company sovereignty over Bengal."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PLASSEY 1757 → POLITICAL ENTRY: client Nawab and Company kingmaking",
+            "BUXAR 1764 → MILITARY SUPREMACY: Bengal-Awadh-emperor coalition defeated"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → Plassey alone did not complete Company sovereignty over Bengal.",
+      "source_references": [
+        "9. Buxar, 22 October 1764: why this battle mattered more than Plassey",
+        "10. The Treaty of Allahabad, 1765: two treaties, one day",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\04_British-Conquest-of-Bengal.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\04_British-Conquest-of-Bengal.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-04\\g4\\modern-indian-history-04_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ALLAHABAD, DIWANI, NIZAMAT AND THE AWADH BUFFER",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ALLAHABAD, DIWANI, NIZAMAT AND THE AWADH BUFFER",
+          "role": "primary"
+        },
+        {
+          "text": "SHAH ALAM II SETTLEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPANY RECEIVES DIWANI OF BENGAL, BIHAR AND ORISSA",
+          "role": "comparison"
+        },
+        {
+          "text": "SHUJA-UD-DAULA SETTLEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "AWADH RESTORED AS A STRATEGIC BUFFER, NOT ANNEXED",
+          "role": "caution"
+        },
+        {
+          "text": "CIVIL SIDE",
+          "role": "outcome"
+        },
+        {
+          "text": "NOMINAL POLICE, CRIMINAL AND MILITARY SIDE",
+          "role": "comparison"
+        },
+        {
+          "text": "DIWANI WAS NOT NAWABSHIP AND THE LEGAL SPLIT WAS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SHAH ALAM II SETTLEMENT → Company receives Diwani of Bengal, Bihar and Orissa",
+        "SHUJA-UD-DAULA SETTLEMENT → Awadh restored as a strategic buffer, not annexed",
+        "DIWANI → revenue / civil side",
+        "NIZAMAT → nominal police, criminal and military side",
+        "CAUTION → Diwani was not Nawabship and the legal split was not equal power-sharing."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SHAH ALAM II SETTLEMENT → Company receives Diwani of Bengal, Bihar and Orissa",
+            "SHUJA-UD-DAULA SETTLEMENT → Awadh restored as a strategic buffer, not annexed"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DIWANI → revenue / civil side",
+            "NIZAMAT → nominal police, criminal and military side"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION → Diwani was not Nawabship and the legal split was not equal power-sharing.",
+            "SHAH ALAM II SETTLEMENT → Company receives Diwani of Bengal, Bihar and Orissa"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → Diwani was not Nawabship and the legal split was not equal power-sharing.",
+      "source_references": [
+        "10. The Treaty of Allahabad, 1765: two treaties, one day",
+        "11. Diwani and Nizamat: one power, two legal labels",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\04_British-Conquest-of-Bengal.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\04_British-Conquest-of-Bengal.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-04\\g4\\modern-indian-history-04_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "DUAL GOVERNMENT: POWER SEPARATED FROM RESPONSIBILITY",
+      "structural_type": "accountability-loop",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "DUAL GOVERNMENT",
+          "role": "primary"
+        },
+        {
+          "text": "POWER SEPARATED FROM RESPONSIBILITY",
+          "role": "mechanism"
+        },
+        {
+          "text": "COMPANY HOLDS REVENUE POWER THROUGH INDIAN DEPUTIES",
+          "role": "mechanism"
+        },
+        {
+          "text": "NAWAB'S ESTABLISHMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "NOMINAL NIZAMAT AND PUBLIC RESPONSIBILITY WITHOUT RESOURCES",
+          "role": "primary"
+        },
+        {
+          "text": "COMPANY POWER WITHOUT RESPONSIBILITY",
+          "role": "mechanism"
+        },
+        {
+          "text": "NAWAB RESPONSIBILITY WITHOUT POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "EXTRACTION INCENTIVES + DIFFUSED ACCOUNTABILITY + WEAK CORRECTIVE CAPACITY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1765-72 → Company holds revenue power through Indian deputies",
+        "NAWAB'S ESTABLISHMENT → nominal Nizamat and public responsibility without resources",
+        "PARADOX → Company power without responsibility / Nawab responsibility without power",
+        "RESULT → extraction incentives + diffused accountability + weak corrective capacity."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1765-72 → Company holds revenue power through Indian deputies",
+            "NAWAB'S ESTABLISHMENT → nominal Nizamat and public responsibility without resources"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PARADOX → Company power without responsibility / Nawab responsibility without power",
+            "RESULT → extraction incentives + diffused accountability + weak corrective capacity."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1765-72 → Company holds revenue power through Indian deputies",
+            "NAWAB'S ESTABLISHMENT → nominal Nizamat and public responsibility without resources"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → extraction incentives + diffused accountability + weak corrective capacity.",
+      "source_references": [
+        "12. The Dual Government, 1765-72: Clive's design and its accountability paradox",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\04_British-Conquest-of-Bengal.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\04_British-Conquest-of-Bengal.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-04\\g4\\modern-indian-history-04_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "FAMINE, ACCOUNTABILITY AND THE 1772 TERMINATION",
+      "structural_type": "causal-web",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FAMINE, ACCOUNTABILITY AND THE 1772 TERMINATION",
+          "role": "primary"
+        },
+        {
+          "text": "1770 FAMINE",
+          "role": "outcome"
+        },
+        {
+          "text": "HARVEST FAILURE",
+          "role": "comparison"
+        },
+        {
+          "text": "DROUGHT AND DISEASE CREATE THE NATURAL SHOCK",
+          "role": "evidence"
+        },
+        {
+          "text": "DUAL GOVERNMENT",
+          "role": "primary"
+        },
+        {
+          "text": "REVENUE RIGIDITY AND ADMINISTRATIVE CONFUSION AMPLIFY VULNERABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPANY POLICY MATTERED BUT DID NOT ALONE CAUSE DROUGHT",
+          "role": "caution"
+        },
+        {
+          "text": "HASTINGS 1772",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1770 FAMINE → harvest failure / drought and disease create the natural shock",
+        "DUAL GOVERNMENT → revenue rigidity and administrative confusion amplify vulnerability",
+        "CAUTION → Company policy mattered but did not alone cause drought or the catastrophe",
+        "HASTINGS 1772 → ends Dual Government; direct administration bridges to Topic 06.",
+        "CLOSE DISTINCTION: Plassey enabled political leverage through conspiracy and finance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1770 FAMINE → harvest failure / drought and disease create the natural shock",
+            "DUAL GOVERNMENT → revenue rigidity and administrative confusion amplify vulnerability",
+            "CAUTION → Company policy mattered but did not alone cause drought or the catastrophe"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HASTINGS 1772 → ends Dual Government; direct administration bridges to Topic 06.",
+            "CLOSE DISTINCTION: Plassey enabled political leverage through conspiracy and finance",
+            "Buxar established a broader military-fiscal superiority against Mir Qasim, Shuja-ud-Daula and Shah"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Alam II."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Plassey enabled political leverage through conspiracy and finance; Buxar established a broader military-fiscal superiority against Mir Qasim, Shuja-ud-Daula and Shah.",
+      "source_references": [
+        "13. The Bengal famine of 1770: a bounded causal reading",
+        "16. Comparative synthesis: Plassey, Buxar, Allahabad and the Dual Government, and the bridge forward",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\04_British-Conquest-of-Bengal.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\04_British-Conquest-of-Bengal.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-04\\g4\\modern-indian-history-04_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "COMPANY-STATE, EARLY DRAIN MECHANISM AND HISTORIOGRAPHY",
+      "structural_type": "lens-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "COMPANY-STATE, EARLY DRAIN MECHANISM AND HISTORIOGRAPHY",
+          "role": "institution"
+        },
+        {
+          "text": "TRADE PRIVILEGE",
+          "role": "outcome"
+        },
+        {
+          "text": "REVENUE FUNDS PURCHASES AND ARMIES",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIAN AGENCY",
+          "role": "evidence"
+        },
+        {
+          "text": "COLLABORATION, RESISTANCE AND ADMINISTRATION OPERATE UNDER UNEQUAL POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "NATIONALIST EXTRACTION",
+          "role": "outcome"
+        },
+        {
+          "text": "CORPORATE-FISCAL STATE",
+          "role": "institution"
+        },
+        {
+          "text": "BENGAL CONTINUITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TRADE PRIVILEGE → kingmaking → Diwani → revenue funds purchases and armies",
+        "INDIAN AGENCY → collaboration, resistance and administration operate under unequal power",
+        "LENSES → nationalist extraction",
+        "corporate-fiscal state",
+        "Bengal continuity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TRADE PRIVILEGE → kingmaking → Diwani → revenue funds purchases and armies",
+            "INDIAN AGENCY → collaboration, resistance and administration operate under unequal power",
+            "LENSES → nationalist extraction"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "corporate-fiscal state",
+            "Bengal continuity",
+            "2026 MEMORY ANCHOR → revisit Plassey beyond betrayal; static causation remains book-grounded."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Company records and later nationalist accounts must be checked against Bengal court, banking and revenue evidence",
+            "conquest was contingent, collaborative and coercive."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Company records and later nationalist accounts must be checked against Bengal court, banking and revenue evidence; conquest was contingent, collaborative and coercive.",
+      "source_references": [
+        "14. From trader to revenue sovereign: the Company's transformation and the spectrum of Indian agency",
+        "15. Reading the conquest: four historiographical lenses",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\04_British-Conquest-of-Bengal.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\04_British-Conquest-of-Bengal.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-04\\g4\\modern-indian-history-04_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 04 ANSWER SPINE AND BOUNDARIES",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 04 ANSWER SPINE AND BOUNDARIES",
+          "role": "primary"
+        },
+        {
+          "text": "SOVEREIGNTY CONFLICT OVER PRIVILEGE, PRIVATE TRADE, FORTIFICATION AND JURISDICTION",
+          "role": "outcome"
+        },
+        {
+          "text": "CLIENT REGIME",
+          "role": "comparison"
+        },
+        {
+          "text": "REFORM AND WAR",
+          "role": "evidence"
+        },
+        {
+          "text": "DUAL GOVERNMENT",
+          "role": "primary"
+        },
+        {
+          "text": "COLLABORATION + COMPANY CAPACITY; FAMINE IS MULTICAUSAL; REJECT FALSE",
+          "role": "caution"
+        },
+        {
+          "text": "1772 ENDS THIS TOPIC; EXPANSION AND 1773+ REGULATION PASS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "OPEN → sovereignty conflict over privilege, private trade, fortification and jurisdiction",
+        "TRACE → conspiracy / client regime → reform and war → Buxar → Diwani →",
+        "WEIGH → collaboration + Company capacity; famine is multicausal; reject false precision",
+        "CLOSE → 1772 ends this topic; expansion and 1773+ regulation pass to Topics 05-06."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPEN → sovereignty conflict over privilege, private trade, fortification and jurisdiction",
+            "TRACE → conspiracy / client regime → reform and war → Buxar → Diwani → Dual Government"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WEIGH → collaboration + Company capacity; famine is multicausal; reject false precision",
+            "CLOSE → 1772 ends this topic; expansion and 1773+ regulation pass to Topics 05-06."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPEN → sovereignty conflict over privilege, private trade, fortification and jurisdiction",
+            "TRACE → conspiracy / client regime → reform and war → Buxar → Diwani → Dual Government"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → 1772 ends this topic; expansion and 1773+ regulation pass to Topics 05-06.",
+      "source_references": [
+        "15. Reading the conquest: four historiographical lenses",
+        "16. Comparative synthesis: Plassey, Buxar, Allahabad and the Dual Government, and the bridge forward",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\04_British-Conquest-of-Bengal.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\04_British-Conquest-of-Bengal.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-04\\g4\\modern-indian-history-04_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE COMPANY USED THE 1717 FARMAN AND DASTAKS TO",
+          "role": "outcome"
+        },
+        {
+          "text": "BEYOND LEGITIMATE COMPANY GOODS, DAMAGING THE NAWAB'S REVENUE AND",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPANY SERVANTS PURSUED PRIVATE TRADE UNDER THE COVER OF",
+          "role": "evidence"
+        },
+        {
+          "text": "CREATING A CONFLICT BETWEEN BENGAL'S FISCAL SOVEREIGNTY AND COMPANY",
+          "role": "primary"
+        },
+        {
+          "text": "FORTIFICATION OF CALCUTTA WITHOUT NAWAB PERMISSION CHALLENGED SIRAJ-UD-DAULA'S AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "THE BLACK HOLE NARRATIVE SHOULD BE TREATED CAUTIOUSLY BECAUSE",
+          "role": "comparison"
+        },
+        {
+          "text": "PLASSEY WAS A PALACE-AND-BANKING CONSPIRACY INVOLVING MIR JAFAR, RAI",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "The Company used the 1717 farman and dastaks to expand duty-free trade",
+            "beyond legitimate Company goods, damaging the Nawab's revenue and Indian merchants.",
+            "Company servants pursued private trade under the cover of Company privileges,",
+            "creating a conflict between Bengal's fiscal sovereignty and Company commercial immunity."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "Fortification of Calcutta without Nawab permission challenged Siraj-ud-Daula's authority and made the Company appear like a political power.",
+            "CAUTION: The Black Hole narrative should be treated cautiously because its details and later use as imperial justification are contested.",
+            "Plassey was a palace-and-banking conspiracy involving Mir Jafar, Rai Durlabh, Jagat Seth and Amichand",
+            "it gave the Company a pliant Nawab and enormous leverage."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Mir Qasim tried to restore autonomy through administrative reform, military reorganisation and abolition of inland duties",
+            "this threatened Company privilege.",
+            "Buxar mattered more militarily because the Company defeated a combined Bengal-Awadh-Mughal force, proving supremacy beyond palace politics.",
+            "Allahabad (1765) gave the Company Diwani while keeping Awadh as a buffer, producing a revenue-backed territorial corporation."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

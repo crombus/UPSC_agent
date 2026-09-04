@@ -1,0 +1,1096 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-01",
+  "subject": "Modern-Indian-History",
+  "title": "DECLINE OF THE MUGHAL EMPIRE (1707–1740S)",
+  "short_route": "SCOPE: DECLINE OF COMMAND → CHRONOLOGY FROM AURANGZEB TO → SUCCESSION INSTABILITY: THRONE BECOMES → FACTIONS AND THE SAYYID → JAGIRDARI VOCABULARY PREVENTS CATEGORY → FISCAL-MILITARY FEEDBACK LOOP",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g6 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-01\\g6\\modern-indian-history-01_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-01-deep-review-2026-09-04-g6.json",
+  "ascii_spec_sha256": "f2054873f0203897a72315424a64a15766bca8b67d3d344ca82fd7fbf1063523",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "SCOPE: DECLINE OF COMMAND, NOT DISAPPEARANCE",
+      "structural_type": "scope-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DECLINE OF COMMAND, NOT DISAPPEARANCE",
+          "role": "caution"
+        },
+        {
+          "text": "IMPERIAL COMMAND WEAKENS; DYNASTY, TITLES AND PERSIANATE GRAMMAR ENDURE",
+          "role": "outcome"
+        },
+        {
+          "text": "CORE WINDOW",
+          "role": "comparison"
+        },
+        {
+          "text": "SUCCESSION, FACTIONS, JAGIRS, REGIONS AND NADIR SHAH TO THE",
+          "role": "evidence"
+        },
+        {
+          "text": "NOT THE CLAIM",
+          "role": "caution"
+        },
+        {
+          "text": "INSTANT 1707 COLLAPSE, UNIVERSAL INDIAN DECLINE OR COMPANY INEVITABILITY",
+          "role": "caution"
+        },
+        {
+          "text": "ANSWER RULE",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTINGUISH ENFORCEABLE AUTHORITY FROM SYMBOLIC LEGITIMACY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1707 → imperial command weakens; dynasty, titles and Persianate grammar endure",
+        "CORE WINDOW → succession, factions, jagirs, regions and Nadir Shah to the 1740s",
+        "NOT THE CLAIM → instant 1707 collapse, universal Indian decline or Company inevitability",
+        "ANSWER RULE → distinguish enforceable authority from symbolic legitimacy.",
+        "MUST REMEMBER: Aurangzeb's death in 1707 begins the core sequence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1707 → imperial command weakens; dynasty, titles and Persianate grammar endure",
+            "CORE WINDOW → succession, factions, jagirs, regions and Nadir Shah to the 1740s"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NOT THE CLAIM → instant 1707 collapse, universal Indian decline or Company inevitability",
+            "ANSWER RULE → distinguish enforceable authority from symbolic legitimacy."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Aurangzeb's death in 1707 begins the core sequence",
+            "succession wars, factional competition, jagirdari-fiscal stress, regional assertion and Nadir Shah's 1739 invasion interacted."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANSWER RULE → distinguish enforceable authority from symbolic legitimacy.",
+      "source_references": [
+        "01. Meaning, scope and governing thesis",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\01_Decline-of-the-Mughal-Empire.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\01_Decline-of-the-Mughal-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-01\\g6\\modern-indian-history-01_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CHRONOLOGY FROM AURANGZEB TO THE 1740S",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "CHRONOLOGY FROM AURANGZEB TO THE 1740S",
+          "role": "primary"
+        },
+        {
+          "text": "1707 AURANGZEB DIES",
+          "role": "outcome"
+        },
+        {
+          "text": "BAHADUR SHAH I 1707-12",
+          "role": "comparison"
+        },
+        {
+          "text": "JAHANDAR SHAH 1712-13",
+          "role": "evidence"
+        },
+        {
+          "text": "1713 FARRUKHSIYAR RISES WITH SAYYID SUPPORT",
+          "role": "primary"
+        },
+        {
+          "text": "1719 DEPOSITION AND ENTHRONEMENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "1720 SAYYIDS FALL",
+          "role": "comparison"
+        },
+        {
+          "text": "1724 NIZAM'S HYDERABAD AUTONOMY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1707 Aurangzeb dies → Bahadur Shah I 1707-12 → Jahandar Shah 1712-13",
+        "1713 Farrukhsiyar rises with Sayyid support → 1719 deposition and enthronements",
+        "1720 Sayyids fall → 1724 Nizam's Hyderabad autonomy → 1739 Karnal and Delhi",
+        "1740s → regional bargaining and frontier pressure; later Durrani/Panipat stay bounded."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1707 Aurangzeb dies → Bahadur Shah I 1707-12 → Jahandar Shah 1712-13",
+            "1713 Farrukhsiyar rises with Sayyid support → 1719 deposition and enthronements"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1720 Sayyids fall → 1724 Nizam's Hyderabad autonomy → 1739 Karnal and Delhi",
+            "1740s → regional bargaining and frontier pressure; later Durrani/Panipat stay bounded."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1707 Aurangzeb dies → Bahadur Shah I 1707-12 → Jahandar Shah 1712-13",
+            "1713 Farrukhsiyar rises with Sayyid support → 1719 deposition and enthronements"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1740s → regional bargaining and frontier pressure; later Durrani/Panipat stay bounded.",
+      "source_references": [
+        "01. Meaning, scope and governing thesis",
+        "08. Court politics",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\01_Decline-of-the-Mughal-Empire.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\01_Decline-of-the-Mughal-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-01\\g6\\modern-indian-history-01_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SUCCESSION INSTABILITY: THRONE BECOMES A PRIZE",
+      "structural_type": "causal-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SUCCESSION INSTABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "THRONE BECOMES A PRIZE",
+          "role": "outcome"
+        },
+        {
+          "text": "NO FIXED PRIMOGENITURE",
+          "role": "caution"
+        },
+        {
+          "text": "PRINCES MOBILISE HOUSEHOLDS AND NOBLE CLIENTS",
+          "role": "evidence"
+        },
+        {
+          "text": "SUCCESSION WAR",
+          "role": "primary"
+        },
+        {
+          "text": "VICTORY REALLOCATES MANSAB, JAGIR AND OFFICE",
+          "role": "outcome"
+        },
+        {
+          "text": "REPEATED CONTEST",
+          "role": "comparison"
+        },
+        {
+          "text": "EMPEROR CANNOT CREDIBLY ARBITRATE ELITE COMPETITION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NO FIXED PRIMOGENITURE → princes mobilise households and noble clients",
+        "SUCCESSION WAR → victory reallocates mansab, jagir and office",
+        "REPEATED CONTEST → emperor cannot credibly arbitrate elite competition",
+        "RESULT → political transmission fails; it is a mechanism, not a lone cause."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NO FIXED PRIMOGENITURE → princes mobilise households and noble clients",
+            "SUCCESSION WAR → victory reallocates mansab, jagir and office"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REPEATED CONTEST → emperor cannot credibly arbitrate elite competition",
+            "RESULT → political transmission fails; it is a mechanism, not a lone cause."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NO FIXED PRIMOGENITURE → princes mobilise households and noble clients",
+            "SUCCESSION WAR → victory reallocates mansab, jagir and office"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → political transmission fails; it is a mechanism, not a lone cause.",
+      "source_references": [
+        "08. Court politics",
+        "19. Why central authority declined",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\01_Decline-of-the-Mughal-Empire.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\01_Decline-of-the-Mughal-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-01\\g6\\modern-indian-history-01_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FACTIONS AND THE SAYYID MOMENT",
+      "structural_type": "actor-network",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "FACTIONS AND THE SAYYID MOMENT",
+          "role": "primary"
+        },
+        {
+          "text": "SHIFTING PATRONAGE FORMATIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "FARRUKHSIYAR 1713",
+          "role": "comparison"
+        },
+        {
+          "text": "SAYYID BROTHERS SUPPLY MILITARY-POLITICAL SUPPORT",
+          "role": "evidence"
+        },
+        {
+          "text": "KINGMAKING EXPOSES THE THRONE'S DEPENDENCE ON COALITION CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "SAYYIDS REMOVED; FACTIONAL POLITICS SURVIVES THE TWO INDIVIDUALS.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "TURANI / IRANI / AFGHAN / HINDUSTANI → shifting patronage formations",
+        "FARRUKHSIYAR 1713 → Sayyid Brothers supply military-political support",
+        "1719 → kingmaking exposes the throne's dependence on coalition control",
+        "1720 → Sayyids removed; factional politics survives the two individuals."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TURANI / IRANI / AFGHAN / HINDUSTANI → shifting patronage formations",
+            "FARRUKHSIYAR 1713 → Sayyid Brothers supply military-political support"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1719 → kingmaking exposes the throne's dependence on coalition control",
+            "1720 → Sayyids removed; factional politics survives the two individuals."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TURANI / IRANI / AFGHAN / HINDUSTANI → shifting patronage formations",
+            "FARRUKHSIYAR 1713 → Sayyid Brothers supply military-political support"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1720 → Sayyids removed; factional politics survives the two individuals.",
+      "source_references": [
+        "08. Court politics",
+        "09. The Sayyid Brothers",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\01_Decline-of-the-Mughal-Empire.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\01_Decline-of-the-Mughal-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-01\\g6\\modern-indian-history-01_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "JAGIRDARI VOCABULARY PREVENTS CATEGORY ERRORS",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "JAGIRDARI VOCABULARY PREVENTS CATEGORY ERRORS",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSFERABLE REVENUE ASSIGNMENT, NOT PRIVATE LANDOWNERSHIP",
+          "role": "caution"
+        },
+        {
+          "text": "ASSESSED CLAIM",
+          "role": "comparison"
+        },
+        {
+          "text": "REALISED COLLECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "RESERVE ASSIGNABLE POOL",
+          "role": "primary"
+        },
+        {
+          "text": "USABLE JAGIR SHORTAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "NOMINAL ASSESSMENT NEVER AUTOMATICALLY MEASURES TREASURY CASH OR WELFARE.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "JAGIR → transferable revenue assignment, not private landownership",
+        "JAMA → assessed claim",
+        "HASIL → realised collection",
+        "PAIBAQI → reserve assignable pool",
+        "BE-JAGIRI → usable jagir shortage"
+      ],
+      "matrix": [
+        [
+          "JAMA → assessed claim",
+          "HASIL → realised collection"
+        ],
+        [
+          "PAIBAQI → reserve assignable pool",
+          "BE-JAGIRI → usable jagir shortage"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "JAGIR → transferable revenue assignment, not private landownership",
+            "JAMA → assessed claim"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HASIL → realised collection",
+            "PAIBAQI → reserve assignable pool"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BE-JAGIRI → usable jagir shortage",
+            "TRAP → nominal assessment never automatically measures treasury cash or welfare."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → nominal assessment never automatically measures treasury cash or welfare.",
+      "source_references": [
+        "03. Imperial structure inherited in 1707",
+        "11. Jagirdari crisis",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\01_Decline-of-the-Mughal-Empire.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\01_Decline-of-the-Mughal-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-01\\g6\\modern-indian-history-01_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "FISCAL-MILITARY FEEDBACK LOOP",
+      "structural_type": "feedback-loop",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FISCAL-MILITARY FEEDBACK LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "MORE CLAIMANTS + WEAK PAIBAQI",
+          "role": "outcome"
+        },
+        {
+          "text": "SCRAMBLE FOR PRODUCTIVE JAGIRS",
+          "role": "comparison"
+        },
+        {
+          "text": "SHORT TENURE",
+          "role": "evidence"
+        },
+        {
+          "text": "RESISTANCE, EVASION, FLIGHT OR NEGOTIATION",
+          "role": "primary"
+        },
+        {
+          "text": "LOWER HASIL",
+          "role": "outcome"
+        },
+        {
+          "text": "UNPAID CONTINGENTS AND WEAKER IMPERIAL SERVICE",
+          "role": "comparison"
+        },
+        {
+          "text": "WEAKER CONTROL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MORE CLAIMANTS + WEAK PAIBAQI → scramble for productive jagirs",
+        "SHORT TENURE / EXTRACTION → resistance, evasion, flight or negotiation",
+        "LOWER HASIL → unpaid contingents and weaker imperial service",
+        "WEAKER CONTROL → regional retention of revenue → still lower central capacity."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MORE CLAIMANTS + WEAK PAIBAQI → scramble for productive jagirs",
+            "SHORT TENURE / EXTRACTION → resistance, evasion, flight or negotiation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LOWER HASIL → unpaid contingents and weaker imperial service",
+            "WEAKER CONTROL → regional retention of revenue → still lower central capacity."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MORE CLAIMANTS + WEAK PAIBAQI → scramble for productive jagirs",
+            "SHORT TENURE / EXTRACTION → resistance, evasion, flight or negotiation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WEAKER CONTROL → regional retention of revenue → still lower central capacity.",
+      "source_references": [
+        "11. Jagirdari crisis",
+        "19. Why central authority declined",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\01_Decline-of-the-Mughal-Empire.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\01_Decline-of-the-Mughal-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-01\\g6\\modern-indian-history-01_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "AURANGZEB'S LEGACY: A WEIGHTED BACKGROUND",
+      "structural_type": "balance-sheet",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "AURANGZEB'S LEGACY",
+          "role": "primary"
+        },
+        {
+          "text": "A WEIGHTED BACKGROUND",
+          "role": "outcome"
+        },
+        {
+          "text": "DECCAN WAR",
+          "role": "comparison"
+        },
+        {
+          "text": "GARRISONS, TRANSPORT, REMOUNTS AND UNRESOLVED MARATHA CHALLENGE",
+          "role": "evidence"
+        },
+        {
+          "text": "TERRITORY AND CLAIMS GROW FASTER THAN RELIABLE REALISATION",
+          "role": "primary"
+        },
+        {
+          "text": "NORTH ABSENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "STRAINS OF SUPERVISION AND ARBITRATION",
+          "role": "comparison"
+        },
+        {
+          "text": "LEGACY MATTERED, BUT AURANGZEB ALONE CANNOT EXPLAIN POST-1707 FACTIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DECCAN WAR → garrisons, transport, remounts and unresolved Maratha challenge",
+        "ANNEXATIONS → territory and claims grow faster than reliable realisation",
+        "NORTH ABSENCE → strains of supervision and arbitration",
+        "QUALIFY → legacy mattered, but Aurangzeb alone cannot explain post-1707 factions or regions."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DECCAN WAR → garrisons, transport, remounts and unresolved Maratha challenge",
+            "ANNEXATIONS → territory and claims grow faster than reliable realisation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NORTH ABSENCE → strains of supervision and arbitration",
+            "QUALIFY → legacy mattered, but Aurangzeb alone cannot explain post-1707 factions or regions."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DECCAN WAR → garrisons, transport, remounts and unresolved Maratha challenge",
+            "ANNEXATIONS → territory and claims grow faster than reliable realisation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY → legacy mattered, but Aurangzeb alone cannot explain post-1707 factions or regions.",
+      "source_references": [
+        "04. Late-Aurangzeb strains",
+        "19. Why central authority declined",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\01_Decline-of-the-Mughal-Empire.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\01_Decline-of-the-Mughal-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-01\\g6\\modern-indian-history-01_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "AGRARIAN AND REGIONAL ASSERTION",
+      "structural_type": "systems-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "AGRARIAN AND REGIONAL ASSERTION",
+          "role": "primary"
+        },
+        {
+          "text": "REVENUE PRESSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "ZAMINDARS, PEASANTS AND INTERMEDIARIES BARGAIN OR RESIST",
+          "role": "comparison"
+        },
+        {
+          "text": "GOVERNORS + BANKERS + ARMED FOLLOWINGS",
+          "role": "evidence"
+        },
+        {
+          "text": "PROVINCIAL RESOURCE CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "JAT MOBILISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTINCT POLITICAL ROUTES, NOT ONE REBELLION",
+          "role": "caution"
+        },
+        {
+          "text": "DELHI'S WEAKENING AND REGIONAL STATE-MAKING REINFORCE EACH OTHER.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "REVENUE PRESSURE → zamindars, peasants and intermediaries bargain or resist",
+        "GOVERNORS + BANKERS + ARMED FOLLOWINGS → provincial resource control",
+        "MARATHA / SIKH / JAT mobilisation → distinct political routes, not one rebellion",
+        "RESULT → Delhi's weakening and regional state-making reinforce each other."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "REVENUE PRESSURE → zamindars, peasants and intermediaries bargain or resist",
+            "GOVERNORS + BANKERS + ARMED FOLLOWINGS → provincial resource control"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MARATHA / SIKH / JAT mobilisation → distinct political routes, not one rebellion",
+            "RESULT → Delhi's weakening and regional state-making reinforce each other."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "REVENUE PRESSURE → zamindars, peasants and intermediaries bargain or resist",
+            "GOVERNORS + BANKERS + ARMED FOLLOWINGS → provincial resource control"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → Delhi's weakening and regional state-making reinforce each other.",
+      "source_references": [
+        "12. Agrarian pressure",
+        "13. Regional assertion",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\01_Decline-of-the-Mughal-Empire.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\01_Decline-of-the-Mughal-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-01\\g6\\modern-indian-history-01_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SUCCESSOR-STATE SPECTRUM",
+      "structural_type": "authority-spectrum",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "SUCCESSOR-STATE SPECTRUM",
+          "role": "institution"
+        },
+        {
+          "text": "MURSHID QULI KHAN",
+          "role": "outcome"
+        },
+        {
+          "text": "SAADAT KHAN",
+          "role": "comparison"
+        },
+        {
+          "text": "IMPERIAL OFFICE",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL REVENUE, ARMY AND PATRONAGE BECOME DURABLE",
+          "role": "primary"
+        },
+        {
+          "text": "FORMAL MUGHAL LEGITIMACY MAY REMAIN USEFUL",
+          "role": "outcome"
+        },
+        {
+          "text": "AUTONOMY IN SUBSTANCE DOES NOT REQUIRE A MODERN DECLARATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BENGAL → Murshid Quli Khan",
+        "AWADH → Saadat Khan",
+        "HYDERABAD → Nizam-ul-Mulk",
+        "IMPERIAL OFFICE → local revenue, army and patronage become durable",
+        "COIN / KHUTBA / TITLE → formal Mughal legitimacy may remain useful"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BENGAL → Murshid Quli Khan",
+            "AWADH → Saadat Khan"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HYDERABAD → Nizam-ul-Mulk",
+            "IMPERIAL OFFICE → local revenue, army and patronage become durable"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COIN / KHUTBA / TITLE → formal Mughal legitimacy may remain useful",
+            "TRAP → autonomy in substance does not require a modern declaration of independence."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → autonomy in substance does not require a modern declaration of independence.",
+      "source_references": [
+        "14. Provincial autonomy",
+        "20. Continuities after political contraction",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\01_Decline-of-the-Mughal-Empire.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\01_Decline-of-the-Mughal-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-01\\g6\\modern-indian-history-01_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "NADIR SHAH: SHOCK EXPOSES A PRIOR CRISIS",
+      "structural_type": "shock-sequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "NADIR SHAH",
+          "role": "primary"
+        },
+        {
+          "text": "SHOCK EXPOSES A PRIOR CRISIS",
+          "role": "outcome"
+        },
+        {
+          "text": "FRONTIER WEAKNESS + PERSIAN MILITARY CAPACITY",
+          "role": "comparison"
+        },
+        {
+          "text": "INVASION OPPORTUNITY",
+          "role": "evidence"
+        },
+        {
+          "text": "KARNAL, 24 FEBRUARY 1739",
+          "role": "primary"
+        },
+        {
+          "text": "FRAGMENTED COMMAND LOSES TO UNIFIED COMMAND",
+          "role": "outcome"
+        },
+        {
+          "text": "SACK, TREASURY LOSS AND PRESTIGE SHOCK; MUHAMMAD SHAH REMAINS",
+          "role": "comparison"
+        },
+        {
+          "text": "ACCELERANT AND REVEALER, NOT THE ORIGINAL CAUSE OF DECLINE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FRONTIER WEAKNESS + Persian military capacity → invasion opportunity",
+        "KARNAL, 24 FEBRUARY 1739 → fragmented command loses to unified command",
+        "DELHI → sack, treasury loss and prestige shock; Muhammad Shah remains emperor",
+        "VERDICT → accelerant and revealer, not the original cause of decline.",
+        "CLOSE DISTINCTION: Decline of enforceable central command did not mean instant state collapse"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FRONTIER WEAKNESS + Persian military capacity → invasion opportunity",
+            "KARNAL, 24 FEBRUARY 1739 → fragmented command loses to unified command"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DELHI → sack, treasury loss and prestige shock; Muhammad Shah remains emperor",
+            "VERDICT → accelerant and revealer, not the original cause of decline."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Decline of enforceable central command did not mean instant state collapse,",
+            "civilisational decline or disappearance of Mughal titles, revenue forms and Persianate legitimacy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → accelerant and revealer, not the original cause of decline.",
+      "source_references": [
+        "18. Nadir Shah's invasion",
+        "19. Why central authority declined",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\01_Decline-of-the-Mughal-Empire.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\01_Decline-of-the-Mughal-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-01\\g6\\modern-indian-history-01_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "INSTITUTIONAL CONTINUITY AFTER CONTRACTION",
+      "structural_type": "continuity-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INSTITUTIONAL CONTINUITY AFTER CONTRACTION",
+          "role": "primary"
+        },
+        {
+          "text": "SYMBOLIC ARBITRATION AND LEGAL VOCABULARY",
+          "role": "outcome"
+        },
+        {
+          "text": "COIN + KHUTBA",
+          "role": "comparison"
+        },
+        {
+          "text": "LAYERED LEGITIMACY",
+          "role": "evidence"
+        },
+        {
+          "text": "PERSIAN CHANCERY",
+          "role": "primary"
+        },
+        {
+          "text": "PORTABLE ADMINISTRATION",
+          "role": "outcome"
+        },
+        {
+          "text": "INSTITUTIONS REPURPOSED IN REGIONAL ARENAS",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTINUITY OF FORM COEXISTS WITH CHANGE IN WHO COMMANDS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EMPEROR / FARMAN / SANAD → symbolic arbitration and legal vocabulary",
+        "COIN + KHUTBA → layered legitimacy",
+        "PERSIAN CHANCERY → portable administration",
+        "MANSAB / DIWAN / ZAMINDAR → institutions repurposed in regional arenas",
+        "RULE → continuity of form coexists with change in who commands resources."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EMPEROR / FARMAN / SANAD → symbolic arbitration and legal vocabulary",
+            "COIN + KHUTBA → layered legitimacy",
+            "PERSIAN CHANCERY → portable administration"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MANSAB / DIWAN / ZAMINDAR → institutions repurposed in regional arenas",
+            "RULE → continuity of form coexists with change in who commands resources.",
+            "EVIDENCE LIMIT: Satish Chandra's jagirdari analysis, regional-state evidence and court chronicles must be compared"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "no single-ruler or British-inevitability thesis is sufficient."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → continuity of form coexists with change in who commands resources.",
+      "source_references": [
+        "20. Continuities after political contraction",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\01_Decline-of-the-Mughal-Empire.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\01_Decline-of-the-Mughal-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-01\\g6\\modern-indian-history-01_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TOPIC 01 ANSWER SPINE",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TOPIC 01 ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL FISCAL-MILITARY COMMAND DECLINED INSIDE A CONTINUING POLITICAL CULTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "SUCCESSION + FACTION + JAGIR-AGRARIAN STRAIN + REGIONAL ASSERTION",
+          "role": "comparison"
+        },
+        {
+          "text": "DECCAN LEGACY MATTERS; REJECT AURANGZEB-ONLY MONOCAUSALITY",
+          "role": "caution"
+        },
+        {
+          "text": "NADIR 1739 EXPOSES WEAKNESS; CONTINUITY AND REGIONAL VARIATION QUALIFY",
+          "role": "primary"
+        },
+        {
+          "text": "STOP CORE CHRONOLOGY IN THE 1740S.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "OPEN → central fiscal-military command declined inside a continuing political culture",
+        "EXPLAIN → succession + faction + jagir-agrarian strain + regional assertion",
+        "WEIGH → Deccan legacy matters; reject Aurangzeb-only monocausality",
+        "TEST → Nadir 1739 exposes weakness; continuity and regional variation qualify conclusion",
+        "CLOSE → stop core chronology in the 1740s."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPEN → central fiscal-military command declined inside a continuing political culture",
+            "EXPLAIN → succession + faction + jagir-agrarian strain + regional assertion"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WEIGH → Deccan legacy matters; reject Aurangzeb-only monocausality",
+            "TEST → Nadir 1739 exposes weakness; continuity and regional variation qualify conclusion"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE → stop core chronology in the 1740s.",
+            "OPEN → central fiscal-military command declined inside a continuing political culture"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TEST → Nadir 1739 exposes weakness; continuity and regional variation qualify conclusion.",
+      "source_references": [
+        "19. Why central authority declined",
+        "20. Continuities after political contraction",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\01_Decline-of-the-Mughal-Empire.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\01_Decline-of-the-Mughal-Empire.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-01\\g6\\modern-indian-history-01_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE DECLINE OF THE MUGHAL EMPIRE (1707–1740S) — ADVANCED",
+          "role": "caution"
+        },
+        {
+          "text": "1. SNAPSHOT & CORE IDEA",
+          "role": "comparison"
+        },
+        {
+          "text": "2. KEY CLASSIFICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "3. STUDY LINKS",
+          "role": "primary"
+        },
+        {
+          "text": "4. MUST-KNOW FACTS (PRELIMS)",
+          "role": "outcome"
+        },
+        {
+          "text": "5. UPSC TRAPS",
+          "role": "comparison"
+        },
+        {
+          "text": "6. CURRENT LINK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "The Decline of the Mughal Empire (1707–1740s) — ADVANCED",
+            "Mini-timeline",
+            "1. Snapshot & core idea",
+            "2. Key classification / data"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "3. Study links",
+            "4. Must-Know Facts (Prelims)",
+            "5. UPSC Traps",
+            "6. Current link"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "7. Mains angles",
+            "+ Historiography note (PYQ-gap)",
+            "Bipin Chandra frames decline as structural , not merely a matter of \"bad kings\": the jagirdari and agrarian crisis was central.",
+            "The number of nobles (mansabdars) and their claims outran the supply of revenue-yielding jagirs , producing a scramble"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

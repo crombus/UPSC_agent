@@ -1,0 +1,1125 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-16",
+  "subject": "Modern-Indian-History",
+  "title": "REVOLUTIONARY NATIONALISM (PHASE I, 1907–1917)",
+  "short_route": "LAYERED CHRONOLOGY FROM PRECURSOR → TRANSNATIONAL REVOLUTIONARY NETWORK → ORGANISATION, PUBLICATION, LEADER AND → FROM REPRESSION TO EXEMPLARY → MUZAFFARPUR ACTION TO ALIPORE → ABHINAV BHARAT AND THE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g2 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-16\\g2\\modern-indian-history-16_Complete-Learning-Session_2026-08-31.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-16-deep-review-2026-08-31-g2.json",
+  "ascii_spec_sha256": "6d638cd9a251af7fc5367478d5820238eae4a8c9112818fb34b8b19273427c00",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "LAYERED CHRONOLOGY FROM PRECURSOR TO POLITICAL TRANSITION",
+      "structural_type": "chronology",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "LAYERED CHRONOLOGY FROM PRECURSOR TO POLITICAL TRANSITION",
+          "role": "primary"
+        },
+        {
+          "text": "1897 CHAPEKAR",
+          "role": "outcome"
+        },
+        {
+          "text": "ARMED PRECURSOR IN POONA",
+          "role": "comparison"
+        },
+        {
+          "text": "1904-09 CELLS",
+          "role": "evidence"
+        },
+        {
+          "text": "ABHINAV BHARAT, BENGAL NETWORKS, LONDON AND NASIK",
+          "role": "primary"
+        },
+        {
+          "text": "1912-13 EXPANSION",
+          "role": "outcome"
+        },
+        {
+          "text": "HARDINGE CONSPIRACY AND PACIFIC-COAST GHADAR",
+          "role": "comparison"
+        },
+        {
+          "text": "1914-15 WAR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1897 CHAPEKAR → armed precursor in Poona",
+        "1904-09 CELLS → Abhinav Bharat, Bengal networks, London and Nasik",
+        "1912-13 EXPANSION → Hardinge conspiracy and Pacific-coast Ghadar",
+        "1914-15 WAR → return plan, Berlin-Kabul links and Singapore context",
+        "1915 REPRESSION → Defence of India Act, Lahore trials and Balasore"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1897 CHAPEKAR → armed precursor in Poona",
+            "1904-09 CELLS → Abhinav Bharat, Bengal networks, London and Nasik",
+            "1912-13 EXPANSION → Hardinge conspiracy and Pacific-coast Ghadar"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1914-15 WAR → return plan, Berlin-Kabul links and Singapore context",
+            "1915 REPRESSION → Defence of India Act, Lahore trials and Balasore",
+            "1916-17 SHIFT → Home Rule, Lucknow and open Gandhian satyagraha."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Anushilan, Jugantar, Abhinav Bharat, India House and the Ghadar movement",
+            "had different geographies, ideologies and organisational forms across the 1907-17 phase."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1916-17 SHIFT → Home Rule, Lucknow and open Gandhian satyagraha.",
+      "source_references": [
+        "Boundary, chronology and theatre map",
+        "Repression, law and network attrition",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\16_Revolutionary-Nationalism-Phase-I.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\16_Revolutionary-Nationalism-Phase-I.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-16\\g2\\modern-indian-history-16_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "TRANSNATIONAL REVOLUTIONARY NETWORK",
+      "structural_type": "network-map",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TRANSNATIONAL REVOLUTIONARY NETWORK",
+          "role": "primary"
+        },
+        {
+          "text": "ANUSHILAN, DACCA ANUSHILAN, BARINDRA AND JUGANTAR",
+          "role": "outcome"
+        },
+        {
+          "text": "MITRA MELA, ABHINAV BHARAT AND NASIK",
+          "role": "comparison"
+        },
+        {
+          "text": "RASH BEHARI BOSE, SACHIN SANYAL AND HARDINGE ATTACK",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA HOUSE, INDIAN SOCIOLOGIST, CAMA AND S.R. RANA",
+          "role": "primary"
+        },
+        {
+          "text": "FREE HINDUSTAN, SWADESH SEVAK, YUGANTAR ASHRAM AND GHADAR",
+          "role": "outcome"
+        },
+        {
+          "text": "WARTIME ASSISTANCE AND PROVISIONAL-GOVERNMENT ATTEMPT.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "BENGAL → Anushilan, Dacca Anushilan, Barindra and Jugantar",
+        "MAHARASHTRA → Mitra Mela, Abhinav Bharat and Nasik",
+        "DELHI → Rash Behari Bose, Sachin Sanyal and Hardinge attack",
+        "LONDON / PARIS → India House, Indian Sociologist, Cama and S.R. Rana",
+        "PACIFIC → Free Hindustan, Swadesh Sevak, Yugantar Ashram and Ghadar"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BENGAL → Anushilan, Dacca Anushilan, Barindra and Jugantar",
+            "MAHARASHTRA → Mitra Mela, Abhinav Bharat and Nasik"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DELHI → Rash Behari Bose, Sachin Sanyal and Hardinge attack",
+            "LONDON / PARIS → India House, Indian Sociologist, Cama and S.R. Rana"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PACIFIC → Free Hindustan, Swadesh Sevak, Yugantar Ashram and Ghadar",
+            "BERLIN / KABUL → wartime assistance and provisional-government attempt."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BERLIN / KABUL → wartime assistance and provisional-government attempt.",
+      "source_references": [
+        "Boundary, chronology and theatre map",
+        "Berlin, Kabul and Singapore in the wartime network",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\16_Revolutionary-Nationalism-Phase-I.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\16_Revolutionary-Nationalism-Phase-I.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-16\\g2\\modern-indian-history-16_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ORGANISATION, PUBLICATION, LEADER AND ARENA MATRIX",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ORGANISATION, PUBLICATION, LEADER AND ARENA MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "BENGAL NETWORK; NOT IDENTICAL TO JUGANTAR",
+          "role": "caution"
+        },
+        {
+          "text": "NETWORK PLUS NEWSPAPER; CONTEXT DECIDES THE MEANING",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA HOUSE",
+          "role": "evidence"
+        },
+        {
+          "text": "FOUNDED BY SHYAMJI; SAVARKAR BECAME A KEY ORGANISER",
+          "role": "primary"
+        },
+        {
+          "text": "ORGANISATION AND PAPER; HINDI ASSOCIATION WAS THE ORIGIN",
+          "role": "outcome"
+        },
+        {
+          "text": "S.R. RANA",
+          "role": "comparison"
+        },
+        {
+          "text": "EUROPEAN PROPAGANDA, NOT GHADAR FOUNDERS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ANUSHILAN → Bengal network; not identical to Jugantar",
+        "JUGANTAR → network plus newspaper; context decides the meaning",
+        "INDIA HOUSE → founded by Shyamji; Savarkar became a key organiser",
+        "GHADAR → organisation and paper; Hindi Association was the origin",
+        "CAMA / S.R. RANA → European propaganda, not Ghadar founders"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ANUSHILAN → Bengal network; not identical to Jugantar",
+          "INDIA HOUSE → founded by Shyamji; Savarkar became a key organiser",
+          "CAMA / S.R. RANA → European propaganda, not Ghadar founders"
+        ],
+        [
+          "JUGANTAR → network plus newspaper; context decides the meaning",
+          "GHADAR → organisation and paper; Hindi Association was the origin",
+          "EXAM RULE → match actor + institution + publication + place."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ANUSHILAN → Bengal network; not identical to Jugantar",
+            "JUGANTAR → network plus newspaper; context decides the meaning"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INDIA HOUSE → founded by Shyamji; Savarkar became a key organiser",
+            "GHADAR → organisation and paper; Hindi Association was the origin"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAMA / S.R. RANA → European propaganda, not Ghadar founders",
+            "EXAM RULE → match actor + institution + publication + place."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXAM RULE → match actor + institution + publication + place.",
+      "source_references": [
+        "Anushilan, Dacca Anushilan and Jugantar",
+        "India House identity and London confrontation",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\16_Revolutionary-Nationalism-Phase-I.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\16_Revolutionary-Nationalism-Phase-I.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-16\\g2\\modern-indian-history-16_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FROM REPRESSION TO EXEMPLARY ACTION",
+      "structural_type": "causal-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FROM REPRESSION TO EXEMPLARY ACTION",
+          "role": "primary"
+        },
+        {
+          "text": "SWADESHI DECLINE + REPRESSION",
+          "role": "caution"
+        },
+        {
+          "text": "IMPATIENCE WITH OPEN POLITICS",
+          "role": "comparison"
+        },
+        {
+          "text": "SECRET CELL",
+          "role": "evidence"
+        },
+        {
+          "text": "DISCIPLINE, TRAINING, PROPAGANDA AND ARMS",
+          "role": "primary"
+        },
+        {
+          "text": "TARGETED ACTION",
+          "role": "outcome"
+        },
+        {
+          "text": "BREAK FEAR AND DRAMATISE COLONIAL VULNERABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "EXPECTED EFFECT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SWADESHI DECLINE + REPRESSION → impatience with open politics",
+        "SECRET CELL → discipline, training, propaganda and arms",
+        "TARGETED ACTION → break fear and dramatise colonial vulnerability",
+        "EXPECTED EFFECT → public courage and wider rising",
+        "ACTUAL CEILING → secrecy, weak mass organisation and fragmented command"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SWADESHI DECLINE + REPRESSION → impatience with open politics",
+            "SECRET CELL → discipline, training, propaganda and arms"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TARGETED ACTION → break fear and dramatise colonial vulnerability",
+            "EXPECTED EFFECT → public courage and wider rising"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ACTUAL CEILING → secrecy, weak mass organisation and fragmented command",
+            "VERDICT → strategic choice with symbolic reach, not automatic succession."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → strategic choice with symbolic reach, not automatic succession.",
+      "source_references": [
+        "Swadeshi repression and the armed turn",
+        "Revolutionary theory, methods and social ceiling",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\16_Revolutionary-Nationalism-Phase-I.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\16_Revolutionary-Nationalism-Phase-I.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-16\\g2\\modern-indian-history-16_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "MUZAFFARPUR ACTION TO ALIPORE PROSECUTION",
+      "structural_type": "procedure-sequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MUZAFFARPUR ACTION TO ALIPORE PROSECUTION",
+          "role": "primary"
+        },
+        {
+          "text": "APR 1908",
+          "role": "outcome"
+        },
+        {
+          "text": "KHUDIRAM BOSE AND PRAFULLA CHAKI TARGET KINGSFORD",
+          "role": "comparison"
+        },
+        {
+          "text": "ACTUAL RESULT",
+          "role": "evidence"
+        },
+        {
+          "text": "TWO EUROPEAN WOMEN ARE KILLED; KINGSFORD SURVIVES",
+          "role": "primary"
+        },
+        {
+          "text": "MANIKTALA GARDEN AND WIDER CIRCLE EXPOSED",
+          "role": "outcome"
+        },
+        {
+          "text": "1908-09 ALIPORE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSPIRACY PROSECUTION OF BARINDRA-LINKED NETWORK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "APR 1908 → Khudiram Bose and Prafulla Chaki target Kingsford",
+        "ACTUAL RESULT → two European women are killed; Kingsford survives",
+        "INVESTIGATION → Maniktala garden and wider circle exposed",
+        "1908-09 ALIPORE → conspiracy prosecution of Barindra-linked network",
+        "PUBLIC EFFECT → martyr memory and courtroom politics"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "APR 1908 → Khudiram Bose and Prafulla Chaki target Kingsford",
+            "ACTUAL RESULT → two European women are killed; Kingsford survives"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INVESTIGATION → Maniktala garden and wider circle exposed",
+            "1908-09 ALIPORE → conspiracy prosecution of Barindra-linked network"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PUBLIC EFFECT → martyr memory and courtroom politics",
+            "TRAP → the attack and the case are connected, not identical."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → the attack and the case are connected, not identical.",
+      "source_references": [
+        "Muzaffarpur action and Alipore prosecution",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\16_Revolutionary-Nationalism-Phase-I.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\16_Revolutionary-Nationalism-Phase-I.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-16\\g2\\modern-indian-history-16_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ABHINAV BHARAT AND THE NASIK SEQUENCE",
+      "structural_type": "chronology",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ABHINAV BHARAT AND THE NASIK SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "1897 POONA",
+          "role": "outcome"
+        },
+        {
+          "text": "CHAPEKAR PRECURSOR",
+          "role": "comparison"
+        },
+        {
+          "text": "MITRA MELA",
+          "role": "evidence"
+        },
+        {
+          "text": "SAVARKAR'S EARLY ASSOCIATION",
+          "role": "primary"
+        },
+        {
+          "text": "1904 ABHINAV BHARAT",
+          "role": "outcome"
+        },
+        {
+          "text": "OATH-BOUND REVOLUTIONARY ORGANISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "DEC 1909 NASIK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1897 POONA → Chapekar precursor",
+        "MITRA MELA → Savarkar's early association",
+        "1904 ABHINAV BHARAT → oath-bound revolutionary organisation",
+        "DEC 1909 NASIK → Anant Kanhere kills A.M.T. Jackson",
+        "PROSECUTION → links and arms networks investigated"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1897 POONA → Chapekar precursor",
+            "MITRA MELA → Savarkar's early association"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1904 ABHINAV BHARAT → oath-bound revolutionary organisation",
+            "DEC 1909 NASIK → Anant Kanhere kills A.M.T. Jackson"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PROSECUTION → links and arms networks investigated",
+            "TRAP → keep Poona, organisation and Nasik as separate anchors."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → keep Poona, organisation and Nasik as separate anchors.",
+      "source_references": [
+        "Maharashtra, Abhinav Bharat and the Nasik case",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\16_Revolutionary-Nationalism-Phase-I.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\16_Revolutionary-Nationalism-Phase-I.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-16\\g2\\modern-indian-history-16_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "INDIA HOUSE IDENTITY CARD",
+      "structural_type": "identity-card",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INDIA HOUSE IDENTITY CARD",
+          "role": "primary"
+        },
+        {
+          "text": "SHYAMJI KRISHNA VARMA",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIAN SOCIOLOGIST",
+          "role": "comparison"
+        },
+        {
+          "text": "V.D. SAVARKAR LATER BECAME CENTRAL",
+          "role": "evidence"
+        },
+        {
+          "text": "1 JUL 1909",
+          "role": "primary"
+        },
+        {
+          "text": "DHINGRA KILLS CURZON-WYLLIE",
+          "role": "outcome"
+        },
+        {
+          "text": "SURVEILLANCE INTENSIFIES AND THE NETWORK DISPERSES.",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "FOUNDER → Shyamji Krishna Varma",
+        "PLACE → London",
+        "PUBLICATION → Indian Sociologist",
+        "ORGANISER → V.D. Savarkar later became central",
+        "1 JUL 1909 → Dhingra kills Curzon-Wyllie"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOUNDER → Shyamji Krishna Varma",
+            "PLACE → London"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PUBLICATION → Indian Sociologist",
+            "ORGANISER → V.D. Savarkar later became central"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1 JUL 1909 → Dhingra kills Curzon-Wyllie",
+            "OUTCOME → surveillance intensifies and the network disperses."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTCOME → surveillance intensifies and the network disperses.",
+      "source_references": [
+        "India House identity and London confrontation",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\16_Revolutionary-Nationalism-Phase-I.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\16_Revolutionary-Nationalism-Phase-I.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-16\\g2\\modern-indian-history-16_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "GHADAR PRINT AND MOBILISATION FLOW",
+      "structural_type": "process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "GHADAR PRINT AND MOBILISATION FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "MIGRANT GRIEVANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "RACIAL EXCLUSION AND LABOUR INSECURITY",
+          "role": "comparison"
+        },
+        {
+          "text": "EARLY PRINT",
+          "role": "evidence"
+        },
+        {
+          "text": "FREE HINDUSTAN AND SWADESH SEVAK",
+          "role": "primary"
+        },
+        {
+          "text": "MAY 1913",
+          "role": "outcome"
+        },
+        {
+          "text": "HINDI ASSOCIATION OF THE PACIFIC COAST",
+          "role": "comparison"
+        },
+        {
+          "text": "YUGANTAR ASHRAM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MIGRANT GRIEVANCE → racial exclusion and labour insecurity",
+        "EARLY PRINT → Free Hindustan and Swadesh Sevak",
+        "MAY 1913 → Hindi Association of the Pacific Coast",
+        "YUGANTAR ASHRAM → headquarters and printing centre",
+        "LATE 1913 → Urdu Ghadar first; Gurmukhi edition follows"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MIGRANT GRIEVANCE → racial exclusion and labour insecurity",
+            "EARLY PRINT → Free Hindustan and Swadesh Sevak"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MAY 1913 → Hindi Association of the Pacific Coast",
+            "YUGANTAR ASHRAM → headquarters and printing centre"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LATE 1913 → Urdu Ghadar first; Gurmukhi edition follows",
+            "WAR → return to India and attempted military rising."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WAR → return to India and attempted military rising.",
+      "source_references": [
+        "Pacific migration before Ghadar",
+        "Ghadar organisation, paper and programme",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\16_Revolutionary-Nationalism-Phase-I.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\16_Revolutionary-Nationalism-Phase-I.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-16\\g2\\modern-indian-history-16_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "KOMAGATA MARU VOYAGE AND POLITICAL EFFECT",
+      "structural_type": "spatial-cross-section",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "KOMAGATA MARU VOYAGE AND POLITICAL EFFECT",
+          "role": "primary"
+        },
+        {
+          "text": "PASSENGERS TRAVEL TOWARD CANADA",
+          "role": "outcome"
+        },
+        {
+          "text": "EXCLUSIONARY IMMIGRATION REGIME BLOCKS LANDING",
+          "role": "comparison"
+        },
+        {
+          "text": "PACIFIC RETURN",
+          "role": "evidence"
+        },
+        {
+          "text": "IMPERIAL CITIZENSHIP CLAIM IS DENIED",
+          "role": "primary"
+        },
+        {
+          "text": "BUDGE BUDGE",
+          "role": "outcome"
+        },
+        {
+          "text": "COERCIVE COLONIAL RECEPTION AFTER RETURN",
+          "role": "comparison"
+        },
+        {
+          "text": "POLITICAL EFFECT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PUNJAB / ASIA → passengers travel toward Canada",
+        "VANCOUVER → exclusionary immigration regime blocks landing",
+        "PACIFIC RETURN → imperial citizenship claim is denied",
+        "BUDGE BUDGE → coercive colonial reception after return",
+        "POLITICAL EFFECT → diasporic anger feeds wartime mobilisation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PUNJAB / ASIA → passengers travel toward Canada",
+            "VANCOUVER → exclusionary immigration regime blocks landing"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PACIFIC RETURN → imperial citizenship claim is denied",
+            "BUDGE BUDGE → coercive colonial reception after return"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "POLITICAL EFFECT → diasporic anger feeds wartime mobilisation",
+            "EVIDENCE RULE → explain exclusion; omit unsupported casualty totals."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE RULE → explain exclusion; omit unsupported casualty totals.",
+      "source_references": [
+        "Komagata Maru and racial exclusion",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\16_Revolutionary-Nationalism-Phase-I.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\16_Revolutionary-Nationalism-Phase-I.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-16\\g2\\modern-indian-history-16_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "THE 1915 FAILURE FUNNEL",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "THE 1915 FAILURE FUNNEL",
+          "role": "primary"
+        },
+        {
+          "text": "RETURNING ACTIVISTS",
+          "role": "outcome"
+        },
+        {
+          "text": "SEEK SUPPORT IN PUNJAB AND CANTONMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "COORDINATED MILITARY RISING AROUND 19 FEBRUARY 1915",
+          "role": "evidence"
+        },
+        {
+          "text": "INFORMERS REVEAL DATES, LEADERS AND LOCATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "ARRESTS AND ALTERED PLANS BREAK COORDINATION",
+          "role": "outcome"
+        },
+        {
+          "text": "LAHORE CONSPIRACY PROSECUTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "ATTEMPTED REVOLT NEVER BECOMES A GENERAL INSURRECTION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RETURNING ACTIVISTS → seek support in Punjab and cantonments",
+        "PLAN → coordinated military rising around 19 February 1915",
+        "PENETRATION → informers reveal dates, leaders and locations",
+        "DISRUPTION → arrests and altered plans break coordination",
+        "AFTERMATH → Lahore conspiracy prosecutions"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RETURNING ACTIVISTS → seek support in Punjab and cantonments",
+            "PLAN → coordinated military rising around 19 February 1915",
+            "PENETRATION → informers reveal dates, leaders and locations"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DISRUPTION → arrests and altered plans break coordination",
+            "AFTERMATH → Lahore conspiracy prosecutions",
+            "LIMIT → attempted revolt never becomes a general insurrection."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: The 1908 Muzaffarpur action, Alipore case, wartime Indo-German plans and",
+            "Ghadar efforts must not be merged into one continuous centrally directed conspiracy."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Ghadar efforts must not be merged into one continuous centrally directed conspiracy.",
+      "source_references": [
+        "February 1915 plan and failure funnel",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\16_Revolutionary-Nationalism-Phase-I.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\16_Revolutionary-Nationalism-Phase-I.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-16\\g2\\modern-indian-history-16_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "STATE REPRESSION AND SPECIAL-LAW LADDER",
+      "structural_type": "institution-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "STATE REPRESSION AND SPECIAL-LAW LADDER",
+          "role": "institution"
+        },
+        {
+          "text": "MAIL, TRAVEL, ASSOCIATIONS AND INFORMERS",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSPIRACY CASES",
+          "role": "comparison"
+        },
+        {
+          "text": "ALIPORE, NASIK AND LAHORE",
+          "role": "evidence"
+        },
+        {
+          "text": "WARTIME POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "DEFENCE OF INDIA ACT 1915",
+          "role": "institution"
+        },
+        {
+          "text": "ARMED PURSUIT",
+          "role": "comparison"
+        },
+        {
+          "text": "BAGHA JATIN DIES NEAR BALASORE IN 1915",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SURVEILLANCE → mail, travel, associations and informers",
+        "CONSPIRACY CASES → Alipore, Nasik and Lahore",
+        "WARTIME POWER → Defence of India Act 1915",
+        "ARMED PURSUIT → Bagha Jatin dies near Balasore in 1915",
+        "NETWORK EFFECT → small cells lose leaders and communications"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SURVEILLANCE → mail, travel, associations and informers",
+            "CONSPIRACY CASES → Alipore, Nasik and Lahore",
+            "WARTIME POWER → Defence of India Act 1915"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ARMED PURSUIT → Bagha Jatin dies near Balasore in 1915",
+            "NETWORK EFFECT → small cells lose leaders and communications",
+            "POLITICAL EFFECT → repression becomes a later nationalist grievance."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Revolutionary writings, trial records and intelligence files require source criticism",
+            "courage and sacrifice do not erase strategic limits, civilian harm or ideological diversity."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Revolutionary writings, trial records and intelligence files require source criticism; courage and sacrifice do not erase strategic limits, civilian harm or ideological diversity.",
+      "source_references": [
+        "Repression, law and network attrition",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\16_Revolutionary-Nationalism-Phase-I.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\16_Revolutionary-Nationalism-Phase-I.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-16\\g2\\modern-indian-history-16_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "REVOLUTIONARY AND GANDHIAN STRATEGY MATRIX",
+      "structural_type": "comparison",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "REVOLUTIONARY AND GANDHIAN STRATEGY MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "REVOLUTIONARY AGENT",
+          "role": "outcome"
+        },
+        {
+          "text": "DISCIPLINED CLANDESTINE VANGUARD",
+          "role": "comparison"
+        },
+        {
+          "text": "REVOLUTIONARY METHOD",
+          "role": "evidence"
+        },
+        {
+          "text": "SELECTIVE VIOLENCE, ARMS AND ATTEMPTED MUTINY",
+          "role": "primary"
+        },
+        {
+          "text": "GANDHIAN AGENT",
+          "role": "outcome"
+        },
+        {
+          "text": "OPEN, WIDER AND DISCIPLINED PUBLIC PARTICIPATION",
+          "role": "comparison"
+        },
+        {
+          "text": "GANDHIAN METHOD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "REVOLUTIONARY AGENT → disciplined clandestine vanguard",
+        "REVOLUTIONARY METHOD → selective violence, arms and attempted mutiny",
+        "GANDHIAN AGENT → open, wider and disciplined public participation",
+        "GANDHIAN METHOD → non-violent satyagraha and constructive organisation",
+        "CONTINUITY → courage, sacrifice and refusal of political submission"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "REVOLUTIONARY AGENT → disciplined clandestine vanguard",
+            "REVOLUTIONARY METHOD → selective violence, arms and attempted mutiny"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GANDHIAN AGENT → open, wider and disciplined public participation",
+            "GANDHIAN METHOD → non-violent satyagraha and constructive organisation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONTINUITY → courage, sacrifice and refusal of political submission",
+            "VERDICT → symbolic bridge without a deterministic causal succession."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → symbolic bridge without a deterministic causal succession.",
+      "source_references": [
+        "Achievement, limits, Gandhian shift and PYQ route",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\16_Revolutionary-Nationalism-Phase-I.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\16_Revolutionary-Nationalism-Phase-I.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-16\\g2\\modern-indian-history-16_Complete-Learning-Session_2026-08-31.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA'S STRUGGLE FOR INDEPENDENCE TREATS EARLY REVOLUTIONARY ACTIVITY AS",
+          "role": "outcome"
+        },
+        {
+          "text": "DECLINE, COLONIAL REPRESSION AND THE IMPATIENCE OF YOUNG NATIONALISTS",
+          "role": "caution"
+        },
+        {
+          "text": "THE REVOLUTIONARIES BELIEVED THAT ASSASSINATION, BOMB-MAKING, ARMS PROCUREMENT AND",
+          "role": "evidence"
+        },
+        {
+          "text": "BREAK FEAR, INSPIRE PATRIOTIC SACRIFICE AND EXPOSE THE VULNERABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "SECRET ORGANISATIONS SUCH AS ANUSHILAN SAMITI, JUGANTAR AND ABHINAV",
+          "role": "outcome"
+        },
+        {
+          "text": "COMBINED PHYSICAL TRAINING, IDEOLOGICAL READING, OATH-BOUND DISCIPLINE AND SELECTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE STRATEGY'S CENTRAL WEAKNESS WAS SUBSTITUTING HEROIC CONSPIRACY FOR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "India's Struggle for Independence treats early revolutionary activity as a response to Swadeshi's",
+            "decline, colonial repression and the impatience of young nationalists seeking immediate action.",
+            "The revolutionaries believed that assassination, bomb-making, arms procurement and planned mutiny could",
+            "break fear, inspire patriotic sacrifice and expose the vulnerability of colonial authority."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "Secret organisations such as Anushilan Samiti, Jugantar and Abhinav Bharat",
+            "combined physical training, ideological reading, oath-bound discipline and selective violence.",
+            "CAUTION: The strategy's central weakness was substituting heroic conspiracy for sustained mass mobilisation.",
+            "India House in London, Madame Cama in Europe and the Ghadar Party in North America made anti-colonial politics transnational."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Ghadar linked racial discrimination abroad, peasant-soldier migration, anti-imperial propaganda and First",
+            "World War opportunity into a plan for revolt in India.",
+            "The 1915 mutiny plan failed because British intelligence penetrated networks",
+            "and because revolutionary groups lacked coordinated mass support inside India."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

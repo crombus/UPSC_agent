@@ -1,0 +1,979 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-35",
+  "subject": "Modern-Indian-History",
+  "title": "THE JP MOVEMENT & THE EMERGENCY",
+  "short_route": "THE 1972-73 ECONOMIC CRISIS → NAV NIRMAN AND THE → THE RAILWAY STRIKE, MAY → THE ALLAHABAD HIGH COURT → THE SUPREME COURT'S CONDITIONAL → THE PROCLAMATION: DATED 25",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • active generation g1 • explicit approval of this exact generation is required • all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern-Indian-History\\Subject-Wide-Syllabus\\learning-sessions\\modern-indian-history-35\\modern-indian-history-35_Complete-Learning-Session_2026-08-31.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-34-35-2026-08-31-sequential.json",
+  "ascii_spec_sha256": "8bf38aedece5e079d29c95de8a63b025fd86dc9c10024afe326bc731697630e9",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE 1972-73 ECONOMIC CRISIS",
+      "structural_type": "causal-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THE 1972-73 ECONOMIC CRISIS",
+          "role": "primary"
+        },
+        {
+          "text": "TWIN MONSOON FAILURES + 1973 OIL SHOCK",
+          "role": "outcome"
+        },
+        {
+          "text": "DEEPENING SCARCITY",
+          "role": "comparison"
+        },
+        {
+          "text": "PRICE RISE",
+          "role": "evidence"
+        },
+        {
+          "text": "ABOUT 22 PER CENT OVER 1972-73",
+          "role": "primary"
+        },
+        {
+          "text": "INFLATION, UNEMPLOYMENT, FOOD SCARCITY ERODE INDIRA GANDHI'S POPULARITY",
+          "role": "outcome"
+        },
+        {
+          "text": "FOLLOWS DIRECTLY ON THE 1971 GARIBI HATAO LANDSLIDE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "TWIN MONSOON FAILURES + 1973 OIL SHOCK → deepening scarcity",
+        "PRICE RISE → about 22 per cent over 1972-73",
+        "EFFECT → inflation, unemployment, food scarcity erode Indira Gandhi's popularity",
+        "TIMING → follows directly on the 1971 Garibi Hatao landslide"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TWIN MONSOON FAILURES + 1973 OIL SHOCK → deepening scarcity",
+            "PRICE RISE → about 22 per cent over 1972-73"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EFFECT → inflation, unemployment, food scarcity erode Indira Gandhi's popularity",
+            "TIMING → follows directly on the 1971 Garibi Hatao landslide"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TWIN MONSOON FAILURES + 1973 OIL SHOCK → deepening scarcity",
+            "PRICE RISE → about 22 per cent over 1972-73"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TIMING → follows directly on the 1971 Garibi Hatao landslide.",
+      "source_references": [
+        "The 1972-73 economic crisis: drought, inflation and the oil shock"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "NAV NIRMAN AND THE BIHAR MOVEMENT, 1974",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "NAV NIRMAN AND THE BIHAR MOVEMENT, 1974",
+          "role": "primary"
+        },
+        {
+          "text": "NAV NIRMAN",
+          "role": "outcome"
+        },
+        {
+          "text": "GUJARAT, JANUARY 1974; STUDENTS PROTEST PRICES AND CORRUPTION",
+          "role": "comparison"
+        },
+        {
+          "text": "BIHAR MOVEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "MARCH 1974; JP TAKES LEADERSHIP",
+          "role": "primary"
+        },
+        {
+          "text": "JP'S CALL",
+          "role": "outcome"
+        },
+        {
+          "text": "\"TOTAL REVOLUTION\"",
+          "role": "comparison"
+        },
+        {
+          "text": "SAMPOORNA KRANTI",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NAV NIRMAN → Gujarat, JANUARY 1974; students protest prices and corruption",
+        "BIHAR MOVEMENT → MARCH 1974; JP takes leadership",
+        "JP'S CALL → \"Total Revolution\" / Sampoorna Kranti",
+        "SPREAD → student unrest becomes a nationwide anti-government movement"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NAV NIRMAN → Gujarat, JANUARY 1974; students protest prices and corruption",
+            "BIHAR MOVEMENT → MARCH 1974; JP takes leadership"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "JP'S CALL → \"Total Revolution\" / Sampoorna Kranti",
+            "SPREAD → student unrest becomes a nationwide anti-government movement"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NAV NIRMAN → Gujarat, JANUARY 1974; students protest prices and corruption",
+            "BIHAR MOVEMENT → MARCH 1974; JP takes leadership"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SPREAD → student unrest becomes a nationwide anti-government movement.",
+      "source_references": [
+        "Nav Nirman: the Gujarat student agitation, January 1974",
+        "The Bihar movement and JP's Total Revolution, March 1974"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THE RAILWAY STRIKE, MAY 1974",
+      "structural_type": "procedure-sequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THE RAILWAY STRIKE, MAY 1974",
+          "role": "primary"
+        },
+        {
+          "text": "ALL-INDIA RAILWAY STRIKE",
+          "role": "outcome"
+        },
+        {
+          "text": "MAY 1974, LASTING 22 DAYS",
+          "role": "comparison"
+        },
+        {
+          "text": "DIRECT CHALLENGE",
+          "role": "evidence"
+        },
+        {
+          "text": "TO THE GOVERNMENT'S AUTHORITY",
+          "role": "primary"
+        },
+        {
+          "text": "ADDED DIMENSION",
+          "role": "outcome"
+        },
+        {
+          "text": "ECONOMIC DISRUPTION LAYERED ONTO THE POLITICAL CRISIS",
+          "role": "comparison"
+        },
+        {
+          "text": "DEEPENS THE CRISIS JP'S MOVEMENT WAS ALREADY BUILDING ON",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ALL-INDIA RAILWAY STRIKE → MAY 1974, lasting 22 days",
+        "DIRECT CHALLENGE → to the government's authority",
+        "ADDED DIMENSION → economic disruption layered onto the political crisis",
+        "CONTEXT → deepens the crisis JP's movement was already building on"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ALL-INDIA RAILWAY STRIKE → MAY 1974, lasting 22 days",
+            "DIRECT CHALLENGE → to the government's authority"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ADDED DIMENSION → economic disruption layered onto the political crisis",
+            "CONTEXT → deepens the crisis JP's movement was already building on"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ALL-INDIA RAILWAY STRIKE → MAY 1974, lasting 22 days",
+            "DIRECT CHALLENGE → to the government's authority"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTEXT → deepens the crisis JP's movement was already building on.",
+      "source_references": [
+        "The railway strike of May 1974"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "THE ALLAHABAD HIGH COURT JUDGMENT, 12 JUNE 1975",
+      "structural_type": "chronology",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THE ALLAHABAD HIGH COURT JUDGMENT, 12 JUNE 1975",
+          "role": "institution"
+        },
+        {
+          "text": "RAJ NARAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "JUSTICE JAGMOHANLAL SINHA, ALLAHABAD HIGH COURT",
+          "role": "institution"
+        },
+        {
+          "text": "12 JUNE 1975",
+          "role": "evidence"
+        },
+        {
+          "text": "SETS ASIDE INDIRA GANDHI'S 1971 ELECTION ON ELECTORAL MALPRACTICE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PETITIONER → Raj Narain",
+        "JUDGE → Justice Jagmohanlal Sinha, Allahabad High Court",
+        "DATE → 12 JUNE 1975",
+        "RULING → sets aside Indira Gandhi's 1971 election on electoral malpractice"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PETITIONER → Raj Narain",
+            "JUDGE → Justice Jagmohanlal Sinha, Allahabad High Court"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DATE → 12 JUNE 1975",
+            "RULING → sets aside Indira Gandhi's 1971 election on electoral malpractice"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PETITIONER → Raj Narain",
+            "JUDGE → Justice Jagmohanlal Sinha, Allahabad High Court"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULING → sets aside Indira Gandhi's 1971 election on electoral malpractice.",
+      "source_references": [
+        "The Allahabad High Court judgment, 12 June 1975"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "THE SUPREME COURT'S CONDITIONAL STAY, 24 JUNE 1975",
+      "structural_type": "chronology",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THE SUPREME COURT'S CONDITIONAL STAY, 24 JUNE 1975",
+          "role": "institution"
+        },
+        {
+          "text": "SUPREME COURT, JUSTICE V.R. KRISHNA IYER",
+          "role": "institution"
+        },
+        {
+          "text": "24 JUNE 1975",
+          "role": "comparison"
+        },
+        {
+          "text": "CONDITIONAL STAY OF THE ALLAHABAD VERDICT",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIRA GANDHI REMAINS PRIME MINISTER WHILE THE APPEAL IS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "COURT → Supreme Court, Justice V.R. Krishna Iyer",
+        "DATE → 24 JUNE 1975",
+        "RULING → CONDITIONAL stay of the Allahabad verdict",
+        "EFFECT → Indira Gandhi remains Prime Minister while the appeal is pending"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COURT → Supreme Court, Justice V.R. Krishna Iyer",
+            "DATE → 24 JUNE 1975"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RULING → CONDITIONAL stay of the Allahabad verdict",
+            "EFFECT → Indira Gandhi remains Prime Minister while the appeal is pending"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COURT → Supreme Court, Justice V.R. Krishna Iyer",
+            "DATE → 24 JUNE 1975"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULING → CONDITIONAL stay of the Allahabad verdict.",
+      "source_references": [
+        "The Supreme Court's conditional stay, 24 June 1975"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "THE PROCLAMATION: DATED 25 JUNE, ANNOUNCED 26 JUNE",
+      "structural_type": "chronology",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THE PROCLAMATION",
+          "role": "primary"
+        },
+        {
+          "text": "DATED 25 JUNE, ANNOUNCED 26 JUNE",
+          "role": "outcome"
+        },
+        {
+          "text": "JP'S DELHI RALLY",
+          "role": "comparison"
+        },
+        {
+          "text": "25 JUNE 1975; CALLS FOR CIVIL DISOBEDIENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 352, DATED 25 JUNE 1975",
+          "role": "institution"
+        },
+        {
+          "text": "PUBLIC ANNOUNCEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "ONLY ON 26 JUNE 1975",
+          "role": "comparison"
+        },
+        {
+          "text": "THE TWO DATES MUST NEVER BE COLLAPSED INTO ONE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "JP'S DELHI RALLY → 25 JUNE 1975; calls for civil disobedience",
+        "PROCLAMATION → Article 352, DATED 25 JUNE 1975",
+        "PUBLIC ANNOUNCEMENT → only on 26 JUNE 1975",
+        "TRAP → the two dates must never be collapsed into one"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "JP'S DELHI RALLY → 25 JUNE 1975; calls for civil disobedience",
+            "PROCLAMATION → Article 352, DATED 25 JUNE 1975"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PUBLIC ANNOUNCEMENT → only on 26 JUNE 1975",
+            "TRAP → the two dates must never be collapsed into one"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "JP'S DELHI RALLY → 25 JUNE 1975; calls for civil disobedience",
+            "PROCLAMATION → Article 352, DATED 25 JUNE 1975"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → the two dates must never be collapsed into one.",
+      "source_references": [
+        "JP's 25 June rally and the proclamation of Emergency"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "INSTRUMENTS OF THE EMERGENCY: MISA, CENSORSHIP, 42ND AMENDMENT",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INSTRUMENTS OF THE EMERGENCY",
+          "role": "primary"
+        },
+        {
+          "text": "MISA, CENSORSHIP, 42ND AMENDMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "UNDER MISA; OVER 100,000 HELD WITHOUT TRIAL, ~19 MONTHS",
+          "role": "comparison"
+        },
+        {
+          "text": "CENSORSHIP IMPOSED",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSTITUTIONAL CHANGE",
+          "role": "primary"
+        },
+        {
+          "text": "42ND AMENDMENT, 1976; EXPANDS CENTRAL/EXECUTIVE POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "TWENTY-POINT PROGRAMME, 1 JULY 1975",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DETENTIONS → under MISA; over 100,000 held without trial, ~19 months",
+        "PRESS → censorship imposed",
+        "CONSTITUTIONAL CHANGE → 42nd Amendment, 1976; expands central/executive power",
+        "AGENDA → Twenty-Point Programme, 1 July 1975"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DETENTIONS → under MISA; over 100,000 held without trial, ~19 months",
+            "PRESS → censorship imposed"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONSTITUTIONAL CHANGE → 42nd Amendment, 1976; expands central/executive power",
+            "AGENDA → Twenty-Point Programme, 1 July 1975"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DETENTIONS → under MISA; over 100,000 held without trial, ~19 months",
+            "PRESS → censorship imposed"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONSTITUTIONAL CHANGE → 42nd Amendment, 1976; expands central/executive power.",
+      "source_references": [
+        "The Emergency's legal instruments: MISA, censorship and the 42nd Amendment"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "SANJAY GANDHI'S EXTRA-CONSTITUTIONAL POWER AND ITS EXCESSES",
+      "structural_type": "problem-response",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "SANJAY GANDHI'S EXTRA-CONSTITUTIONAL POWER AND ITS EXCESSES",
+          "role": "mechanism"
+        },
+        {
+          "text": "NO FORMAL OFFICE; EXTRA-CONSTITUTIONAL POWER CENTRE",
+          "role": "caution"
+        },
+        {
+          "text": "HIS OWN FOUR-POINT PROGRAMME, 1976",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPULSORY STERILISATION DRIVES",
+          "role": "evidence"
+        },
+        {
+          "text": "SLUM-DEMOLITION DRIVES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "POSITION → no formal office; extra-constitutional power centre",
+        "PROGRAMME → his own four-point programme, 1976",
+        "EXCESSES → compulsory sterilisation drives",
+        "EXCESSES → slum-demolition drives"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "POSITION → no formal office; extra-constitutional power centre",
+            "PROGRAMME → his own four-point programme, 1976"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXCESSES → compulsory sterilisation drives",
+            "EXCESSES → slum-demolition drives"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "POSITION → no formal office; extra-constitutional power centre",
+            "PROGRAMME → his own four-point programme, 1976"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "POSITION → no formal office; extra-constitutional power centre.",
+      "source_references": [
+        "Sanjay Gandhi's extra-constitutional power and its excesses"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "1977: THE ELECTORAL REVERSAL",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THE ELECTORAL REVERSAL",
+          "role": "primary"
+        },
+        {
+          "text": "ELECTIONS CALLED",
+          "role": "outcome"
+        },
+        {
+          "text": "JANUARY 1977",
+          "role": "comparison"
+        },
+        {
+          "text": "ELECTIONS HELD",
+          "role": "evidence"
+        },
+        {
+          "text": "MARCH 1977",
+          "role": "primary"
+        },
+        {
+          "text": "CONGRESS AND SANJAY GANDHI DEFEATED",
+          "role": "outcome"
+        },
+        {
+          "text": "A VERDICT FOR CIVIL LIBERTIES; ENDS THE EMERGENCY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ELECTIONS CALLED → January 1977",
+        "ELECTIONS HELD → March 1977",
+        "RESULT → Congress and Sanjay Gandhi defeated",
+        "MEANING → a verdict FOR civil liberties; ends the Emergency"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ELECTIONS CALLED → January 1977",
+            "ELECTIONS HELD → March 1977"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESULT → Congress and Sanjay Gandhi defeated",
+            "MEANING → a verdict FOR civil liberties; ends the Emergency"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ELECTIONS CALLED → January 1977",
+            "ELECTIONS HELD → March 1977"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MEANING → a verdict FOR civil liberties; ends the Emergency.",
+      "source_references": [
+        "The 1977 elections and the Emergency's end"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "WHAT HELD AND WHAT FAILED",
+      "structural_type": "evidence-debate",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "WHAT HELD AND WHAT FAILED",
+          "role": "primary"
+        },
+        {
+          "text": "THE ELECTORAL MACHINERY ITSELF; FREE VERDICT DELIVERED IN 1977",
+          "role": "outcome"
+        },
+        {
+          "text": "PARLIAMENT; FAILED TO CHECK THE EXECUTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE RULING PARTY; OFFERED NO INTERNAL RESTRAINT",
+          "role": "caution"
+        },
+        {
+          "text": "JUDICIARY'S DETENTION JURISPRUDENCE, IN THE MISA CASES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "HELD → the electoral machinery itself; free verdict delivered in 1977",
+        "FAILED → Parliament; failed to check the executive",
+        "FAILED → the ruling party; offered no internal restraint",
+        "FAILED → judiciary's detention jurisprudence, in the MISA cases"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HELD → the electoral machinery itself; free verdict delivered in 1977",
+            "FAILED → Parliament; failed to check the executive"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FAILED → the ruling party; offered no internal restraint",
+            "FAILED → judiciary's detention jurisprudence, in the MISA cases"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "HELD → the electoral machinery itself; free verdict delivered in 1977",
+            "FAILED → Parliament; failed to check the executive"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HELD → the electoral machinery itself; free verdict delivered in 1977.",
+      "source_references": [
+        "What held and what failed: a balanced verdict"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "THE JP MOVEMENT'S SOCIAL BASE",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THE JP MOVEMENT'S SOCIAL BASE",
+          "role": "primary"
+        },
+        {
+          "text": "STUDENTS, MIDDLE CLASS, TRADERS, INTELLIGENTSIA",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT THE BASE",
+          "role": "caution"
+        },
+        {
+          "text": "RURAL POOR OR THE ORGANISED URBAN WORKING CLASS",
+          "role": "evidence"
+        },
+        {
+          "text": "MORAL AUTHORITY SUFFICIENT TO DESTABILISE THE GOVERNMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NO BASE BROAD ENOUGH TO GOVERN AFTER 1977",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BASE → students, middle class, traders, intelligentsia",
+        "NOT THE BASE → rural poor or the organised urban working class",
+        "STRENGTH → moral authority sufficient to destabilise the government",
+        "LIMITATION → no base broad enough to govern after 1977"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BASE → students, middle class, traders, intelligentsia",
+            "NOT THE BASE → rural poor or the organised urban working class"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STRENGTH → moral authority sufficient to destabilise the government",
+            "LIMITATION → no base broad enough to govern after 1977"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BASE → students, middle class, traders, intelligentsia",
+            "NOT THE BASE → rural poor or the organised urban working class"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMITATION → no base broad enough to govern after 1977.",
+      "source_references": [
+        "The JP movement's social base: strength and limitation"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "FIFTY YEARS OF THE EMERGENCY, 2025",
+      "structural_type": "application-pyq",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "FIFTY YEARS OF THE EMERGENCY, 2025",
+          "role": "primary"
+        },
+        {
+          "text": "UNION CABINET RESOLUTION, 25 JUNE 2025",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMEMORATES FIFTY YEARS SINCE THE EMERGENCY",
+          "role": "comparison"
+        },
+        {
+          "text": "HONOURS RESISTANCE; REAFFIRMS CONSTITUTIONAL DEMOCRACY",
+          "role": "evidence"
+        },
+        {
+          "text": "PIB, PRID 2139543 (NO PUBLIC URL RECORDED BY THE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "EVENT → Union Cabinet resolution, 25 JUNE 2025",
+        "CONTENT → commemorates fifty years since the Emergency",
+        "FRAMING → honours resistance; reaffirms constitutional democracy",
+        "SOURCE → PIB, PRID 2139543 (no public URL recorded by the owner)"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EVENT → Union Cabinet resolution, 25 JUNE 2025",
+            "CONTENT → commemorates fifty years since the Emergency"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FRAMING → honours resistance; reaffirms constitutional democracy",
+            "SOURCE → PIB, PRID 2139543 (no public URL recorded by the owner)"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVENT → Union Cabinet resolution, 25 JUNE 2025",
+            "CONTENT → commemorates fifty years since the Emergency"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SOURCE → PIB, PRID 2139543 (no public URL recorded by the owner).",
+      "source_references": [
+        "Fifty years of the Emergency: the 2025 commemoration"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CHANDRA'S STRUCTURAL READING",
+          "role": "outcome"
+        },
+        {
+          "text": "A GENUINE ECONOMIC CRISIS (RECESSION, UNEMPLOYMENT, INFLATION, SCARCITY, OIL",
+          "role": "comparison"
+        },
+        {
+          "text": "WITH A POLITICAL CRISIS (CONGRESS DECAY, CORRUPTION, DE-INSTITUTIONALISATION) TO",
+          "role": "evidence"
+        },
+        {
+          "text": "HE IS EVEN-HANDED IN ASSIGNING RESPONSIBILITY",
+          "role": "primary"
+        },
+        {
+          "text": "JP'S EXTRA-PARLIAMENTARY MOVEMENT — CALLING ON THE POLICE AND",
+          "role": "outcome"
+        },
+        {
+          "text": "ARMY TO DISOBEY \"ILLEGAL\" ORDERS — OPENED THE DOOR",
+          "role": "comparison"
+        },
+        {
+          "text": "EQUALLY, INDIRA HAD A CONSTITUTIONAL EXIT SHE REFUSED —",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Chandra's structural reading: a genuine economic crisis (recession, unemployment, inflation, scarcity, oil shock) fused",
+            "with a political crisis (Congress decay, corruption, de-institutionalisation) to create a revolutionary situation.",
+            "CAUTION: He is even-handed in assigning responsibility: JP's extra-parliamentary movement — calling on the police and",
+            "army to disobey \"illegal\" orders — opened the door to undemocratic, even quasi-fascist , possibilities."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Equally, Indira had a constitutional exit she refused — dissolving the",
+            "Lok Sabha and holding early elections — choosing instead an authoritarian remedy.",
+            "The Emergency is thus framed as a temporary abnormal expedient that turned draconian , not an inevitability.",
+            "The Emergency was initially accepted by many for restoring order, ending strikes,"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "disciplining smugglers and stabilising prices — under a constitutional, \"temporary\" framing.",
+            "Disillusion grew with censorship, mass arrests (MISA), the 42nd Amendment , Sanjay",
+            "Gandhi's extra-constitutional power , and above all coercive sterilisation and slum demolitions.",
+            "The 1977 verdict showed that attachment to civil liberties, fundamental rights and"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

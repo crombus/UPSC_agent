@@ -1,0 +1,1109 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-05",
+  "subject": "Modern-Indian-History",
+  "title": "BRITISH TERRITORIAL EXPANSION (MYSORE, MARATHAS, SIKHS; SUBSIDIARY ALLIANCE & LAPSE)",
+  "short_route": "EXPANSION WAS A LADDER → THE COMPANY FISCAL-MILITARY FLYWHEEL → MYSORE RESISTANCE AND FOUR-WAR → TIPU: REFORM, DIPLOMACY AND → MARATHA CONFEDERACY AND THE → THREE ANGLO-MARATHA WARS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g4\\modern-indian-history-05_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-05-deep-review-2026-09-04-g4.json",
+  "ascii_spec_sha256": "62dc83d8b1a0db4499f868088a17166352bb93db417bc01b430dc5590aae1e16",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "EXPANSION WAS A LADDER, NOT ONE METHOD",
+      "structural_type": "strategy-map",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EXPANSION WAS A LADDER, NOT ONE METHOD",
+          "role": "caution"
+        },
+        {
+          "text": "FRIENDLY BUFFER PROTECTS COMPANY TERRITORY",
+          "role": "outcome"
+        },
+        {
+          "text": "SUBSIDIARY ALLIANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "RULER SURVIVES BUT LOSES ARMY, DIPLOMACY AND FISCAL AUTONOMY",
+          "role": "evidence"
+        },
+        {
+          "text": "COMPANY CLAIMS A SUPERIOR RIGHT TO ARBITRATE INDIAN-STATE CONDUCT",
+          "role": "institution"
+        },
+        {
+          "text": "CONQUEST, LAPSE OR ALLEGED MISGOVERNMENT BRINGS DIRECT ADMINISTRATION.",
+          "role": "outcome"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "KEEP THE ANGLO-MYSORE, ANGLO-MARATHA AND ANGLO-SIKH WARS IN THEIR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RING-FENCE → friendly buffer protects Company territory",
+        "SUBSIDIARY ALLIANCE → ruler survives but loses army, diplomacy and fiscal autonomy",
+        "PARAMOUNTCY → Company claims a superior right to arbitrate Indian-state conduct",
+        "ANNEXATION → conquest, lapse or alleged misgovernment brings direct administration.",
+        "MUST REMEMBER: Keep the Anglo-Mysore, Anglo-Maratha and Anglo-Sikh wars in their distinct"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RING-FENCE → friendly buffer protects Company territory",
+            "SUBSIDIARY ALLIANCE → ruler survives but loses army, diplomacy and fiscal autonomy"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PARAMOUNTCY → Company claims a superior right to arbitrate Indian-state conduct",
+            "ANNEXATION → conquest, lapse or alleged misgovernment brings direct administration."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Keep the Anglo-Mysore, Anglo-Maratha and Anglo-Sikh wars in their distinct",
+            "sequences, and separate Wellesley's Subsidiary Alliance from Dalhousie's Doctrine of Lapse."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Keep the Anglo-Mysore, Anglo-Maratha and Anglo-Sikh wars in their distinct sequences, and separate Wellesley's Subsidiary Alliance from Dalhousie's Doctrine of Lapse.",
+      "source_references": [
+        "1. From commercial-fiscal base to military-fiscal state: ring-fence, buffer, subsidiary dependency, paramountcy, annexation",
+        "26. Comparative synthesis: Mysore vs Maratha vs Sikh; war vs alliance vs lapse vs misgovernance",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\05_British-Territorial-Expansion.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\05_British-Territorial-Expansion.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g4\\modern-indian-history-05_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THE COMPANY FISCAL-MILITARY FLYWHEEL",
+      "structural_type": "causal-cycle",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THE COMPANY FISCAL-MILITARY FLYWHEEL",
+          "role": "primary"
+        },
+        {
+          "text": "BENGAL DIWANI",
+          "role": "outcome"
+        },
+        {
+          "text": "PREDICTABLE REVENUE AND CREDIT",
+          "role": "comparison"
+        },
+        {
+          "text": "SALARIED SEPOYS + OFFICERS + ARTILLERY + SUPPLY",
+          "role": "evidence"
+        },
+        {
+          "text": "ARMY + INDIAN ALLIES",
+          "role": "primary"
+        },
+        {
+          "text": "SERIAL VICTORY AGAINST ISOLATED OPPONENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "CEDED TERRITORY",
+          "role": "comparison"
+        },
+        {
+          "text": "MORE REVENUE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BENGAL DIWANI → predictable revenue and credit",
+        "REVENUE → salaried sepoys + officers + artillery + supply",
+        "ARMY + INDIAN ALLIES → serial victory against isolated opponents",
+        "VICTORY → indemnity / ceded territory → more revenue → a larger military machine."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BENGAL DIWANI → predictable revenue and credit",
+            "REVENUE → salaried sepoys + officers + artillery + supply"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ARMY + INDIAN ALLIES → serial victory against isolated opponents",
+            "VICTORY → indemnity / ceded territory → more revenue → a larger military machine."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BENGAL DIWANI → predictable revenue and credit",
+            "REVENUE → salaried sepoys + officers + artillery + supply"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VICTORY → indemnity / ceded territory → more revenue → a larger military machine.",
+      "source_references": [
+        "3. Why Company armies prevailed I: Bengal revenue, the sepoy army, officers, artillery and logistics",
+        "4. Why Company armies prevailed II: credit and supply, maritime reinforcement, diplomacy, serial isolation, Indian allies and recruits -- and the Company's own reverses",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\05_British-Territorial-Expansion.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\05_British-Territorial-Expansion.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g4\\modern-indian-history-05_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "MYSORE RESISTANCE AND FOUR-WAR SEQUENCE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MYSORE RESISTANCE AND FOUR-WAR SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "1767-69 FIRST",
+          "role": "outcome"
+        },
+        {
+          "text": "TREATY OF MADRAS; HAIDAR FORCES A NEGOTIATED PEACE",
+          "role": "comparison"
+        },
+        {
+          "text": "1780-84 SECOND",
+          "role": "evidence"
+        },
+        {
+          "text": "HAIDAR DIES 1782; TREATY OF MANGALORE RESTORES CONQUESTS",
+          "role": "primary"
+        },
+        {
+          "text": "1790-92 THIRD",
+          "role": "outcome"
+        },
+        {
+          "text": "ANTI-TIPU COALITION; TREATY OF SERINGAPATAM CUTS MYSORE",
+          "role": "comparison"
+        },
+        {
+          "text": "1799 FOURTH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1767-69 FIRST → Treaty of Madras; Haidar forces a negotiated peace",
+        "1780-84 SECOND → Haidar dies 1782; Treaty of Mangalore restores conquests",
+        "1790-92 THIRD → anti-Tipu coalition; Treaty of Seringapatam cuts Mysore",
+        "1799 FOURTH → Tipu dies; Wodeyars restored under subsidiary dependence."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1767-69 FIRST → Treaty of Madras; Haidar forces a negotiated peace",
+            "1780-84 SECOND → Haidar dies 1782; Treaty of Mangalore restores conquests"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1790-92 THIRD → anti-Tipu coalition; Treaty of Seringapatam cuts Mysore",
+            "1799 FOURTH → Tipu dies; Wodeyars restored under subsidiary dependence."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1767-69 FIRST → Treaty of Madras; Haidar forces a negotiated peace",
+            "1780-84 SECOND → Haidar dies 1782; Treaty of Mangalore restores conquests"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1799 FOURTH → Tipu dies; Wodeyars restored under subsidiary dependence.",
+      "source_references": [
+        "5. Mysore's state capacity: Haidar Ali's rise, army reform and Tipu's \"military fiscalism\"",
+        "6. Four Anglo-Mysore Wars: alliances, treaties, Madras/Mangalore/Seringapatam",
+        "8. The 1799 settlement: Seringapatam, Wodeyar restoration, subsidiary control, and why resistance failed",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\05_British-Territorial-Expansion.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\05_British-Territorial-Expansion.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g4\\modern-indian-history-05_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "TIPU: REFORM, DIPLOMACY AND BOUNDED INTERPRETATION",
+      "structural_type": "evidence-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "REFORM, DIPLOMACY AND BOUNDED INTERPRETATION",
+          "role": "primary"
+        },
+        {
+          "text": "STATE CAPACITY",
+          "role": "institution"
+        },
+        {
+          "text": "DIRECT REVENUE, ARMY REFORM, STATE COMMERCE AND STRATEGIC PORTS",
+          "role": "institution"
+        },
+        {
+          "text": "OTTOMAN, AFGHAN AND FRENCH CONTACTS SOUGHT COUNTERWEIGHTS TO COMPANY",
+          "role": "evidence"
+        },
+        {
+          "text": "OUTREACH DID NOT CREATE A DEPENDABLE ANTI-BRITISH COALITION",
+          "role": "caution"
+        },
+        {
+          "text": "SAFE VERDICT",
+          "role": "outcome"
+        },
+        {
+          "text": "REAL REFORM AND RESISTANCE, NEITHER CARICATURE NOR MODERN NATION-STATE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "STATE CAPACITY → direct revenue, army reform, state commerce and strategic ports",
+        "DIPLOMACY → Ottoman, Afghan and French contacts sought counterweights to Company power",
+        "LIMIT → outreach did not create a dependable anti-British coalition",
+        "SAFE VERDICT → real reform and resistance, neither caricature nor modern nation-state myth."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STATE CAPACITY → direct revenue, army reform, state commerce and strategic ports",
+            "DIPLOMACY → Ottoman, Afghan and French contacts sought counterweights to Company power"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LIMIT → outreach did not create a dependable anti-British coalition",
+            "SAFE VERDICT → real reform and resistance, neither caricature nor modern nation-state myth."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STATE CAPACITY → direct revenue, army reform, state commerce and strategic ports",
+            "DIPLOMACY → Ottoman, Afghan and French contacts sought counterweights to Company power"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SAFE VERDICT → real reform and resistance, neither caricature nor modern nation-state myth.",
+      "source_references": [
+        "5. Mysore's state capacity: Haidar Ali's rise, army reform and Tipu's \"military fiscalism\"",
+        "7. Malabar, Travancore and Tipu's diplomacy: the French connection without myth",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\05_British-Territorial-Expansion.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\05_British-Territorial-Expansion.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g4\\modern-indian-history-05_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "MARATHA CONFEDERACY AND THE COHESION PROBLEM",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MARATHA CONFEDERACY AND THE COHESION PROBLEM",
+          "role": "primary"
+        },
+        {
+          "text": "PESHWA AT PUNE",
+          "role": "outcome"
+        },
+        {
+          "text": "NOMINAL CONFEDERATE CENTRE",
+          "role": "comparison"
+        },
+        {
+          "text": "REGIONAL HOUSES WITH SEPARATE INTERESTS",
+          "role": "evidence"
+        },
+        {
+          "text": "REACH, CAVALRY, REVENUE CLAIMS AND EXPERIENCED COMMANDERS",
+          "role": "primary"
+        },
+        {
+          "text": "NO DURABLE COMMON COMMAND; COMPANY BARGAINS AND FIGHTS ONE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PESHWA at Pune → nominal confederate centre",
+        "GAEKWAD → regional houses with separate interests",
+        "STRENGTH → reach, cavalry, revenue claims and experienced commanders",
+        "WEAKNESS → no durable common command; Company bargains and fights one house at a time."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PESHWA at Pune → nominal confederate centre",
+            "GAEKWAD → regional houses with separate interests"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STRENGTH → reach, cavalry, revenue claims and experienced commanders",
+            "WEAKNESS → no durable common command; Company bargains and fights one house at a time."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PESHWA at Pune → nominal confederate centre",
+            "GAEKWAD → regional houses with separate interests"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WEAKNESS → no durable common command; Company bargains and fights one house at a time.",
+      "source_references": [
+        "9. The Maratha confederacy: structure, five houses, and the cost of a headless polity",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\05_British-Territorial-Expansion.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\05_British-Territorial-Expansion.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g4\\modern-indian-history-05_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "THREE ANGLO-MARATHA WARS",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "THREE ANGLO-MARATHA WARS",
+          "role": "primary"
+        },
+        {
+          "text": "1775-82 FIRST",
+          "role": "outcome"
+        },
+        {
+          "text": "RAGHUNATH RAO CRISIS",
+          "role": "comparison"
+        },
+        {
+          "text": "WADGAON REVERSE",
+          "role": "evidence"
+        },
+        {
+          "text": "TREATY OF SALBAI",
+          "role": "primary"
+        },
+        {
+          "text": "1802 BASSEIN",
+          "role": "outcome"
+        },
+        {
+          "text": "PESHWA ACCEPTS SUBSIDIARY TERMS AFTER HOLKAR'S VICTORY",
+          "role": "comparison"
+        },
+        {
+          "text": "1803-05 SECOND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1775-82 FIRST → Raghunath Rao crisis → Wadgaon reverse → Treaty of Salbai",
+        "1802 BASSEIN → Peshwa accepts subsidiary terms after Holkar's victory",
+        "1803-05 SECOND → Scindia and Bhonsle defeated; Holkar resists and settlement follows",
+        "1817-18 THIRD → Peshwaship abolished; Baji Rao II pensioned at Bithur."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1775-82 FIRST → Raghunath Rao crisis → Wadgaon reverse → Treaty of Salbai",
+            "1802 BASSEIN → Peshwa accepts subsidiary terms after Holkar's victory"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1803-05 SECOND → Scindia and Bhonsle defeated; Holkar resists and settlement follows",
+            "1817-18 THIRD → Peshwaship abolished; Baji Rao II pensioned at Bithur."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "1775-82 FIRST → Raghunath Rao crisis → Wadgaon reverse → Treaty of Salbai",
+            "1802 BASSEIN → Peshwa accepts subsidiary terms after Holkar's victory"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1817-18 THIRD → Peshwaship abolished; Baji Rao II pensioned at Bithur.",
+      "source_references": [
+        "10. First Anglo-Maratha War: Raghunath Rao, Surat, Purandar, Wadgaon, Salbai",
+        "11. Treaty of Bassein, 1802: the turning point",
+        "12. Second Anglo-Maratha War: Assaye, Delhi, Laswari, and Holkar's resistance",
+        "13. Third Anglo-Maratha War: Pindaris, 1817-18, Baji Rao II, and the end of the Peshwaship",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\05_British-Territorial-Expansion.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\05_British-Territorial-Expansion.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g4\\modern-indian-history-05_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SUBSIDIARY ALLIANCE DISMANTLED SOVEREIGNTY",
+      "structural_type": "mechanism-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SUBSIDIARY ALLIANCE DISMANTLED SOVEREIGNTY",
+          "role": "primary"
+        },
+        {
+          "text": "BRITISH FORCE STATIONED",
+          "role": "outcome"
+        },
+        {
+          "text": "RULER PAYS CASH OR CEDES REVENUE TERRITORY",
+          "role": "comparison"
+        },
+        {
+          "text": "RESIDENT AT COURT",
+          "role": "institution"
+        },
+        {
+          "text": "CONTINUOUS POLITICAL LEVERAGE",
+          "role": "primary"
+        },
+        {
+          "text": "NO INDEPENDENT WAR",
+          "role": "caution"
+        },
+        {
+          "text": "EUROPEAN EMPLOYMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "EXTERNAL SOVEREIGNTY REMOVED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BRITISH FORCE STATIONED → ruler pays cash or cedes revenue territory",
+        "RESIDENT AT COURT → continuous political leverage",
+        "NO INDEPENDENT WAR / DIPLOMACY / EUROPEAN EMPLOYMENT → external sovereignty removed",
+        "RESULT → protection without capacity; ruler bears blame for a state Britain constrains."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BRITISH FORCE STATIONED → ruler pays cash or cedes revenue territory",
+            "RESIDENT AT COURT → continuous political leverage"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NO INDEPENDENT WAR / DIPLOMACY / EUROPEAN EMPLOYMENT → external sovereignty removed",
+            "RESULT → protection without capacity; ruler bears blame for a state Britain constrains."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BRITISH FORCE STATIONED → ruler pays cash or cedes revenue territory",
+            "RESIDENT AT COURT → continuous political leverage"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → protection without capacity; ruler bears blame for a state Britain constrains.",
+      "source_references": [
+        "14. Precedents and Wellesley's systematisation: the exact core clauses",
+        "16. Sovereignty eroded: dependency, the Resident, and the responsibility paradox",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\05_British-Territorial-Expansion.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\05_British-Territorial-Expansion.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g4\\modern-indian-history-05_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ALLIANCE CASE SEQUENCE AND CONSEQUENCES",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ALLIANCE CASE SEQUENCE AND CONSEQUENCES",
+          "role": "primary"
+        },
+        {
+          "text": "HYDERABAD 1798/1800",
+          "role": "outcome"
+        },
+        {
+          "text": "FRENCH-TRAINED FORCE REMOVED; DEPENDENCE DEEPENS",
+          "role": "comparison"
+        },
+        {
+          "text": "MYSORE 1799",
+          "role": "evidence"
+        },
+        {
+          "text": "RESTORED WODEYAR STATE ENTERS SUBSIDIARY CONTROL",
+          "role": "institution"
+        },
+        {
+          "text": "AWADH 1801",
+          "role": "outcome"
+        },
+        {
+          "text": "TERRITORIAL CESSION SUBSTITUTES FOR ENLARGED SUBSIDY",
+          "role": "comparison"
+        },
+        {
+          "text": "BASSEIN 1802",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HYDERABAD 1798/1800 → French-trained force removed; dependence deepens",
+        "MYSORE 1799 → restored Wodeyar state enters subsidiary control",
+        "AWADH 1801 → territorial cession substitutes for enlarged subsidy",
+        "BASSEIN 1802 → Peshwa's acceptance transforms a Maratha civil conflict into Company war."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HYDERABAD 1798/1800 → French-trained force removed; dependence deepens",
+            "MYSORE 1799 → restored Wodeyar state enters subsidiary control"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AWADH 1801 → territorial cession substitutes for enlarged subsidy",
+            "BASSEIN 1802 → Peshwa's acceptance transforms a Maratha civil conflict into Company war."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "HYDERABAD 1798/1800 → French-trained force removed; dependence deepens",
+            "MYSORE 1799 → restored Wodeyar state enters subsidiary control"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BASSEIN 1802 → Peshwa's acceptance transforms a Maratha civil conflict into Company war.",
+      "source_references": [
+        "15. The case sequence: Hyderabad 1798, Mysore 1799, Awadh 1801, Bassein 1802 and after",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\05_British-Territorial-Expansion.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\05_British-Territorial-Expansion.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g4\\modern-indian-history-05_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SINDH AND THE NORTHWEST STRATEGIC CORRIDOR",
+      "structural_type": "frontier-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SINDH AND THE NORTHWEST STRATEGIC CORRIDOR",
+          "role": "primary"
+        },
+        {
+          "text": "INDUS COMMERCE + AFGHAN FRONTIER ANXIETY",
+          "role": "outcome"
+        },
+        {
+          "text": "RISING COMPANY ATTENTION",
+          "role": "comparison"
+        },
+        {
+          "text": "1832 COMMERCIAL OPENING",
+          "role": "evidence"
+        },
+        {
+          "text": "RIVER NAVIGATION WITHOUT MILITARY TRANSPORT",
+          "role": "primary"
+        },
+        {
+          "text": "1839 PRESSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "SUBSIDIARY OBLIGATIONS LINKED TO THE AFGHAN CAMPAIGN",
+          "role": "comparison"
+        },
+        {
+          "text": "1843 MIANI + DABO",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDUS COMMERCE + AFGHAN FRONTIER ANXIETY → rising Company attention",
+        "1832 COMMERCIAL OPENING → river navigation without military transport",
+        "1839 PRESSURE → subsidiary obligations linked to the Afghan campaign",
+        "1843 MIANI + DABO → Napier defeats the Amirs; Sindh is annexed."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INDUS COMMERCE + AFGHAN FRONTIER ANXIETY → rising Company attention",
+            "1832 COMMERCIAL OPENING → river navigation without military transport"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1839 PRESSURE → subsidiary obligations linked to the Afghan campaign",
+            "1843 MIANI + DABO → Napier defeats the Amirs; Sindh is annexed."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INDUS COMMERCE + AFGHAN FRONTIER ANXIETY → rising Company attention",
+            "1832 COMMERCIAL OPENING → river navigation without military transport"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1843 MIANI + DABO → Napier defeats the Amirs; Sindh is annexed.",
+      "source_references": [
+        "17. Sindh: commercial and strategic context, and Napier's 1843 annexation",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\05_British-Territorial-Expansion.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\05_British-Territorial-Expansion.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g4\\modern-indian-history-05_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SIKH STRENGTH, SUCCESSION CRISIS AND TWO WARS",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SIKH STRENGTH, SUCCESSION CRISIS AND TWO WARS",
+          "role": "primary"
+        },
+        {
+          "text": "RANJIT SINGH",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSOLIDATED PUNJAB + MODERNISED KHALSA ARMY",
+          "role": "comparison"
+        },
+        {
+          "text": "AMRITSAR 1809",
+          "role": "evidence"
+        },
+        {
+          "text": "SUTLEJ BOUNDARY STABILISES COMPANY-SIKH RELATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "COURT FACTION, RAPID SUCCESSION AND ARMY POLITICISATION",
+          "role": "institution"
+        },
+        {
+          "text": "1845-46 FIRST",
+          "role": "comparison"
+        },
+        {
+          "text": "1848-49 SECOND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RANJIT SINGH → consolidated Punjab + modernised Khalsa army",
+        "AMRITSAR 1809 → Sutlej boundary stabilises Company-Sikh relations",
+        "POST-1839 → court faction, rapid succession and army politicisation",
+        "1845-46 FIRST → Lahore/Bhyrowal",
+        "1848-49 SECOND → Gujrat → Punjab annexed."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RANJIT SINGH → consolidated Punjab + modernised Khalsa army",
+            "AMRITSAR 1809 → Sutlej boundary stabilises Company-Sikh relations",
+            "POST-1839 → court faction, rapid succession and army politicisation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "1845-46 FIRST → Lahore/Bhyrowal",
+            "1848-49 SECOND → Gujrat → Punjab annexed.",
+            "CLOSE DISTINCTION: Awadh was annexed in 1856 on the stated ground of misgovernment, not under the Doctrine of Lapse"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "treaty, subsidiary control, conquest and annexation are not synonyms."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Awadh was annexed in 1856 on the stated ground of misgovernment, not under the Doctrine of Lapse; treaty, subsidiary control, conquest and annexation are not synonyms.",
+      "source_references": [
+        "18. Ranjit Singh's state, the Khalsa army, and the Treaty of Amritsar, 1809",
+        "19. Post-1839 succession crisis: factional instability after Ranjit Singh",
+        "20. First Anglo-Sikh War: Mudki to Sobraon, Lahore, and Bhyrowal",
+        "21. Second Anglo-Sikh War: the Multan trigger, Chillianwala, Gujrat, and 1849 annexation",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\05_British-Territorial-Expansion.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\05_British-Territorial-Expansion.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g4\\modern-indian-history-05_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "LAPSE, TITLE DENIAL AND MISGOVERNMENT ARE DISTINCT",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LAPSE, TITLE DENIAL AND MISGOVERNMENT ARE DISTINCT",
+          "role": "primary"
+        },
+        {
+          "text": "ADOPTED HEIR NOT RECOGNISED",
+          "role": "caution"
+        },
+        {
+          "text": "SATARA, JHANSI AND NAGPUR ANNEXED",
+          "role": "comparison"
+        },
+        {
+          "text": "PENSION DENIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "NANA SAHIB'S PENSION CLAIM IS NOT A TERRITORIAL LAPSE",
+          "role": "caution"
+        },
+        {
+          "text": "AWADH ANNEXED IN 1856 DESPITE A RECOGNISED RULING DYNASTY",
+          "role": "outcome"
+        },
+        {
+          "text": "EXAM RULE",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTIFY THE LEGAL PRETEXT BEFORE NAMING THE ANNEXATION POLICY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LAPSE → adopted heir not recognised → Satara, Jhansi and Nagpur annexed",
+        "TITLE / PENSION DENIAL → Nana Sahib's pension claim is not a territorial lapse case",
+        "MISGOVERNMENT → Awadh annexed in 1856 despite a recognised ruling dynasty",
+        "EXAM RULE → identify the legal pretext before naming the annexation policy.",
+        "EVIDENCE LIMIT: Campaign maps, treaty clauses, succession disputes and Indian alliance choices"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "LAPSE → adopted heir not recognised → Satara, Jhansi and Nagpur annexed",
+          "MISGOVERNMENT → Awadh annexed in 1856 despite a recognised ruling dynasty",
+          "EVIDENCE LIMIT: Campaign maps, treaty clauses, succession disputes and Indian alliance choices"
+        ],
+        [
+          "TITLE / PENSION DENIAL → Nana Sahib's pension claim is not a territorial lapse case",
+          "EXAM RULE → identify the legal pretext before naming the annexation policy.",
+          "qualify any account of uniform British military superiority or passive regional defeat."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LAPSE → adopted heir not recognised → Satara, Jhansi and Nagpur annexed",
+            "TITLE / PENSION DENIAL → Nana Sahib's pension claim is not a territorial lapse case"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MISGOVERNMENT → Awadh annexed in 1856 despite a recognised ruling dynasty",
+            "EXAM RULE → identify the legal pretext before naming the annexation policy."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Campaign maps, treaty clauses, succession disputes and Indian alliance choices",
+            "qualify any account of uniform British military superiority or passive regional defeat."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXAM RULE → identify the legal pretext before naming the annexation policy.",
+      "source_references": [
+        "22. The Doctrine of Lapse: principles, paramountcy, and the verified cases",
+        "23. Awadh, 1856: misgovernance, explicitly NOT Lapse",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\05_British-Territorial-Expansion.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\05_British-Territorial-Expansion.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g4\\modern-indian-history-05_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "COMPARATIVE ANSWER SPINE AND 1857 BRIDGE",
+      "structural_type": "synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "COMPARATIVE ANSWER SPINE AND 1857 BRIDGE",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRALISED REFORM BUT DIPLOMATIC ISOLATION",
+          "role": "outcome"
+        },
+        {
+          "text": "WIDE CONFEDERATE POWER BUT FRACTURED COMMAND",
+          "role": "mechanism"
+        },
+        {
+          "text": "STRONG ARMY AND STATE UNDER RANJIT SINGH; DESTABILISED AFTER",
+          "role": "institution"
+        },
+        {
+          "text": "1857 BRIDGE",
+          "role": "primary"
+        },
+        {
+          "text": "DISPOSSESSED RULERS, TALUQDARS AND SOLDIERS ADD GRIEVANCES, NOT ONE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MYSORE → centralised reform but diplomatic isolation",
+        "MARATHAS → wide confederate power but fractured command",
+        "SIKHS → strong army and state under Ranjit Singh; destabilised after 1839",
+        "1857 BRIDGE → dispossessed rulers, taluqdars and soldiers add grievances, not one cause."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MYSORE → centralised reform but diplomatic isolation",
+            "MARATHAS → wide confederate power but fractured command"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SIKHS → strong army and state under Ranjit Singh; destabilised after 1839",
+            "1857 BRIDGE → dispossessed rulers, taluqdars and soldiers add grievances, not one cause."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MYSORE → centralised reform but diplomatic isolation",
+            "MARATHAS → wide confederate power but fractured command"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1857 BRIDGE → dispossessed rulers, taluqdars and soldiers add grievances, not one cause.",
+      "source_references": [
+        "24. Dispossession and the road to 1857: a bounded bridge, not a monocausal claim",
+        "25. Historiography: four lenses on British territorial expansion",
+        "26. Comparative synthesis: Mysore vs Maratha vs Sikh; war vs alliance vs lapse vs misgovernance",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\05_British-Territorial-Expansion.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\05_British-Territorial-Expansion.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-05\\g4\\modern-indian-history-05_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "EARLY COMPANY POLICY OFTEN SOUGHT BUFFERS, BUT AFTER BENGAL",
+          "role": "outcome"
+        },
+        {
+          "text": "INCREASINGLY USED WAR, DIPLOMACY, RESIDENTS AND SUBSIDIES TO DOMINATE",
+          "role": "comparison"
+        },
+        {
+          "text": "WELLESLEY'S SUBSIDIARY ALLIANCE TRANSFORMED RULERS INTO DEPENDENT ALLIES",
+          "role": "evidence"
+        },
+        {
+          "text": "THEY HOSTED BRITISH",
+          "role": "primary"
+        },
+        {
+          "text": "TROOPS, PAID SUBSIDIES, ACCEPTED A RESIDENT AND SURRENDERED INDEPENDENT",
+          "role": "outcome"
+        },
+        {
+          "text": "THIS PRODUCED INDIRECT RULE",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIAN RULERS SURVIVED FORMALLY, BUT SOVEREIGNTY SHIFTED TO THE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Early Company policy often sought buffers, but after Bengal the Company",
+            "increasingly used war, diplomacy, Residents and subsidies to dominate Indian states.",
+            "Wellesley's Subsidiary Alliance transformed rulers into dependent allies: they hosted British",
+            "troops, paid subsidies, accepted a Resident and surrendered independent external relations."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: This produced indirect rule : Indian rulers survived formally, but sovereignty shifted to the Company.",
+            "Dalhousie's Doctrine of Lapse moved from indirect control to annexation by denying adoption rights in selected states.",
+            "Awadh's annexation in 1856 used the separate justification of alleged misgovernance, showing that British expansion used multiple legal pretexts.",
+            "Mysore under Haidar Ali and Tipu Sultan resisted through military reform, diplomacy and attempts to balance British power."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Maratha weakness lay in confederate rivalries; British diplomacy exploited divisions among the Peshwa, Scindia, Holkar, Bhonsle and Gaekwad.",
+            "Sikh power was consolidated under Ranjit Singh, but after his death court",
+            "factionalism and military tensions enabled British victory in the Anglo-Sikh wars.",
+            "CAUTION: Bengal revenues, sepoy armies and superior logistics allowed the Company to fight repeated wars far beyond its original coastal bases."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

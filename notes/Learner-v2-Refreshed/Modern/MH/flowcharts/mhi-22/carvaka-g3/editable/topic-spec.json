@@ -1,0 +1,1096 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "modern-indian-history-22",
+  "subject": "Modern-Indian-History",
+  "title": "SIMON COMMISSION, NEHRU REPORT, CIVIL DISOBEDIENCE & ROUND TABLE CONFERENCES (1927–1934)",
+  "short_route": "SIMON EXCLUSION AND BOYCOTT → LAJPAT RAI EXACT CHRONOLOGY → NEHRU REPORT CONSTITUTIONAL MATRIX → FROM CALCUTTA TO LAHORE → DANDI MARCH EXACT-DATA RAIL → REGIONAL CIVIL-DISOBEDIENCE MAP",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-22\\g3\\modern-indian-history-22_Complete-Learning-Session_2026-09-04.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\modern-indian-history-22-deep-review-2026-09-04-g3.json",
+  "ascii_spec_sha256": "e32005e1a8015084e69a2ffa378d7ef74a219989dc86afae0e9ad416427921b9",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "SIMON EXCLUSION AND BOYCOTT",
+      "structural_type": "causal-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SIMON EXCLUSION AND BOYCOTT",
+          "role": "primary"
+        },
+        {
+          "text": "ALL-BRITISH SIMON COMMISSION APPOINTED; NO INDIAN MEMBER",
+          "role": "caution"
+        },
+        {
+          "text": "3 FEB 1928",
+          "role": "comparison"
+        },
+        {
+          "text": "HARTALS + BLACK FLAGS + \"SIMON GO BACK\"",
+          "role": "evidence"
+        },
+        {
+          "text": "POLITICAL RESPONSE",
+          "role": "primary"
+        },
+        {
+          "text": "BOYCOTT CONVERTS CONSTITUTIONAL EXCLUSION INTO MASS PROTEST",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSTITUTIONAL EXCLUSION BECOMES A NATIONAL LEGITIMACY CRISIS.",
+          "role": "comparison"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1927 → all-British Simon Commission appointed; no Indian member",
+        "3 FEB 1928 → arrival → hartals + black flags + \"Simon Go Back\"",
+        "POLITICAL RESPONSE → boycott converts constitutional exclusion into mass protest",
+        "EFFECT → constitutional exclusion becomes a national legitimacy crisis.",
+        "MUST REMEMBER: Simon Commission protest, the 1928 Nehru Report, Lahore's Purna Swaraj resolution in"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1927 → all-British Simon Commission appointed; no Indian member",
+            "3 FEB 1928 → arrival → hartals + black flags + \"Simon Go Back\"",
+            "POLITICAL RESPONSE → boycott converts constitutional exclusion into mass protest"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EFFECT → constitutional exclusion becomes a national legitimacy crisis.",
+            "MUST REMEMBER: Simon Commission protest, the 1928 Nehru Report, Lahore's Purna Swaraj resolution in",
+            "1929, the 1930 salt march, Gandhi-Irwin Pact of 5 March 1931 and three Round"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Table Conferences form separate stages."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Simon Commission protest, the 1928 Nehru Report, Lahore's Purna Swaraj resolution in 1929, the 1930 salt march, Gandhi-Irwin Pact of 5 March 1931 and three Round.",
+      "source_references": [
+        "Simon Commission: exclusion becomes a mass issue",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\22_Simon-Nehru-Report-CDM-and-RTC.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\22_Simon-Nehru-Report-CDM-and-RTC.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-22\\g3\\modern-indian-history-22_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "LAJPAT RAI EXACT CHRONOLOGY",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "LAJPAT RAI EXACT CHRONOLOGY",
+          "role": "primary"
+        },
+        {
+          "text": "30 OCT 1928",
+          "role": "outcome"
+        },
+        {
+          "text": "LAHORE LATHI-CHARGE DURING ANTI-SIMON PROTEST",
+          "role": "comparison"
+        },
+        {
+          "text": "17 NOV 1928",
+          "role": "evidence"
+        },
+        {
+          "text": "LALA LAJPAT RAI DIES",
+          "role": "primary"
+        },
+        {
+          "text": "POLITICAL AFTERLIFE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE DEATH INTENSIFIES ANTI-COLONIAL ANGER",
+          "role": "comparison"
+        },
+        {
+          "text": "DEC 1928",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "30 OCT 1928 → Lahore lathi-charge during anti-Simon protest",
+        "17 NOV 1928 → Lala Lajpat Rai dies",
+        "POLITICAL AFTERLIFE → the death intensifies anti-colonial anger",
+        "DEC 1928 → Saunders retaliation belongs to the later HSRA chain."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "30 OCT 1928 → Lahore lathi-charge during anti-Simon protest",
+            "17 NOV 1928 → Lala Lajpat Rai dies"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POLITICAL AFTERLIFE → the death intensifies anti-colonial anger",
+            "DEC 1928 → Saunders retaliation belongs to the later HSRA chain."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "30 OCT 1928 → Lahore lathi-charge during anti-Simon protest",
+            "17 NOV 1928 → Lala Lajpat Rai dies"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DEC 1928 → Saunders retaliation belongs to the later HSRA chain.",
+      "source_references": [
+        "Lala Lajpat Rai: exact protest chronology and political afterlife",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\22_Simon-Nehru-Report-CDM-and-RTC.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\22_Simon-Nehru-Report-CDM-and-RTC.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-22\\g3\\modern-indian-history-22_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "NEHRU REPORT CONSTITUTIONAL MATRIX",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NEHRU REPORT CONSTITUTIONAL MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "DOMINION STATUS, NOT COMPLETE INDEPENDENCE",
+          "role": "caution"
+        },
+        {
+          "text": "RESPONSIBLE EXECUTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSTITUTIONAL GUARANTEES",
+          "role": "evidence"
+        },
+        {
+          "text": "JOINT ELECTORATES + QUALIFIED MINORITY RESERVATIONS",
+          "role": "primary"
+        },
+        {
+          "text": "CONSTITUTION-MAKING MILESTONE; COMMUNAL SETTLEMENT INCOMPLETE.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "STATUS → Dominion Status, not complete independence",
+        "GOVERNMENT → responsible executive",
+        "RIGHTS → constitutional guarantees",
+        "ELECTION → joint electorates + qualified minority reservations",
+        "LIMIT → constitution-making milestone; communal settlement incomplete."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "STATUS → Dominion Status, not complete independence",
+          "RIGHTS → constitutional guarantees",
+          "LIMIT → constitution-making milestone; communal settlement incomplete."
+        ],
+        [
+          "GOVERNMENT → responsible executive",
+          "ELECTION → joint electorates + qualified minority reservations",
+          "STATUS → Dominion Status, not complete independence"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STATUS → Dominion Status, not complete independence",
+            "GOVERNMENT → responsible executive"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RIGHTS → constitutional guarantees",
+            "ELECTION → joint electorates + qualified minority reservations"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → constitution-making milestone; communal settlement incomplete.",
+            "STATUS → Dominion Status, not complete independence"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ELECTION → joint electorates + qualified minority reservations.",
+      "source_references": [
+        "Nehru Report: an Indian constitutional design",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\22_Simon-Nehru-Report-CDM-and-RTC.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\22_Simon-Nehru-Report-CDM-and-RTC.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-22\\g3\\modern-indian-history-22_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FROM CALCUTTA TO LAHORE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FROM CALCUTTA TO LAHORE",
+          "role": "primary"
+        },
+        {
+          "text": "DEC 1928",
+          "role": "outcome"
+        },
+        {
+          "text": "CALCUTTA GIVES A ONE-YEAR DOMINION ULTIMATUM",
+          "role": "comparison"
+        },
+        {
+          "text": "31 OCT 1929",
+          "role": "evidence"
+        },
+        {
+          "text": "IRWIN DECLARATION",
+          "role": "primary"
+        },
+        {
+          "text": "DELHI MANIFESTO SEEKS IMPLEMENTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "DEC 1929",
+          "role": "comparison"
+        },
+        {
+          "text": "LAHORE ADOPTS PURNA SWARAJ",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEC 1928 → Calcutta gives a one-year Dominion ultimatum",
+        "31 OCT 1929 → Irwin Declaration",
+        "Delhi Manifesto seeks implementation",
+        "DEC 1929 → Lahore adopts Purna Swaraj",
+        "26 JAN 1930 → Independence Pledge."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEC 1928 → Calcutta gives a one-year Dominion ultimatum",
+            "31 OCT 1929 → Irwin Declaration"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Delhi Manifesto seeks implementation",
+            "DEC 1929 → Lahore adopts Purna Swaraj"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "26 JAN 1930 → Independence Pledge.",
+            "DEC 1928 → Calcutta gives a one-year Dominion ultimatum"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "31 OCT 1929 → Irwin Declaration | Delhi Manifesto seeks implementation.",
+      "source_references": [
+        "Calcutta ultimatum, Irwin Declaration and Delhi Manifesto",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\22_Simon-Nehru-Report-CDM-and-RTC.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\22_Simon-Nehru-Report-CDM-and-RTC.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-22\\g3\\modern-indian-history-22_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "DANDI MARCH EXACT-DATA RAIL",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "DANDI MARCH EXACT-DATA RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "12 MAR 1930",
+          "role": "outcome"
+        },
+        {
+          "text": "GANDHI + 78 CHOSEN FOLLOWERS",
+          "role": "comparison"
+        },
+        {
+          "text": "ABOUT 385/388 KM; SOME HISTORICAL SOURCES STATE 240 MILES",
+          "role": "institution"
+        },
+        {
+          "text": "6 APR 1930",
+          "role": "primary"
+        },
+        {
+          "text": "SALT LAW BROKEN",
+          "role": "outcome"
+        },
+        {
+          "text": "INITIAL PARTY IS NOT THE TOTAL CROWD THROUGHOUT THE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "12 MAR 1930 → Sabarmati → Gandhi + 78 chosen followers",
+        "ROUTE → about 385/388 km; some historical sources state 240 miles",
+        "6 APR 1930 → Dandi → salt law broken",
+        "RULE → initial party is not the total crowd throughout the march."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "12 MAR 1930 → Sabarmati → Gandhi + 78 chosen followers",
+            "ROUTE → about 385/388 km; some historical sources state 240 miles"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "6 APR 1930 → Dandi → salt law broken",
+            "RULE → initial party is not the total crowd throughout the march."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "12 MAR 1930 → Sabarmati → Gandhi + 78 chosen followers",
+            "ROUTE → about 385/388 km; some historical sources state 240 miles"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → initial party is not the total crowd throughout the march.",
+      "source_references": [
+        "Dandi March: dates, followers and distance discipline",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\22_Simon-Nehru-Report-CDM-and-RTC.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\22_Simon-Nehru-Report-CDM-and-RTC.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-22\\g3\\modern-indian-history-22_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "REGIONAL CIVIL-DISOBEDIENCE MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "REGIONAL CIVIL-DISOBEDIENCE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "KHUDAI KHIDMATGARS",
+          "role": "outcome"
+        },
+        {
+          "text": "REFUSAL TO FIRE",
+          "role": "comparison"
+        },
+        {
+          "text": "SAROJINI NAIDU",
+          "role": "evidence"
+        },
+        {
+          "text": "TEMPORARY BREAKDOWN OF AUTHORITY.",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "VEDARANYAM → Rajagopalachari",
+        "PAYYANNUR → Kelappan",
+        "ANDHRA → sibirams",
+        "PESHAWAR → Khudai Khidmatgars",
+        "GARHWALI → refusal to fire"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "VEDARANYAM → Rajagopalachari",
+            "PAYYANNUR → Kelappan",
+            "ANDHRA → sibirams"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PESHAWAR → Khudai Khidmatgars",
+            "GARHWALI → refusal to fire",
+            "DHARASANA → Sarojini Naidu"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SHOLAPUR → temporary breakdown of authority."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GARHWALI → refusal to fire | DHARASANA → Sarojini Naidu.",
+      "source_references": [
+        "Regional spread: coast, Andhra, forests and local repertoires",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\22_Simon-Nehru-Report-CDM-and-RTC.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\22_Simon-Nehru-Report-CDM-and-RTC.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-22\\g3\\modern-indian-history-22_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "PARTICIPATION AND VARIATION",
+      "structural_type": "balance-sheet",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PARTICIPATION AND VARIATION",
+          "role": "primary"
+        },
+        {
+          "text": "SALT-MAKING + PICKETING + BOYCOTT VISIBILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "MUSLIM PARTICIPATION",
+          "role": "comparison"
+        },
+        {
+          "text": "UNEVEN; NWFP IS THE MAJOR EXCEPTION",
+          "role": "evidence"
+        },
+        {
+          "text": "REGIONAL FORMS",
+          "role": "primary"
+        },
+        {
+          "text": "SALT + REVENUE + FOREST + WORKER ACTION",
+          "role": "outcome"
+        },
+        {
+          "text": "WIDE MOVEMENT, NOT UNIFORM SOCIAL GEOGRAPHY.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "WOMEN → salt-making + picketing + boycott visibility",
+        "MUSLIM PARTICIPATION → uneven; NWFP is the major exception",
+        "REGIONAL FORMS → salt + revenue + forest + worker action",
+        "VERDICT → wide movement, not uniform social geography."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WOMEN → salt-making + picketing + boycott visibility",
+            "MUSLIM PARTICIPATION → uneven; NWFP is the major exception"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REGIONAL FORMS → salt + revenue + forest + worker action",
+            "VERDICT → wide movement, not uniform social geography."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WOMEN → salt-making + picketing + boycott visibility",
+            "MUSLIM PARTICIPATION → uneven; NWFP is the major exception"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → wide movement, not uniform social geography.",
+      "source_references": [
+        "Dharasana, Sholapur, women and uneven participation",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\22_Simon-Nehru-Report-CDM-and-RTC.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\22_Simon-Nehru-Report-CDM-and-RTC.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-22\\g3\\modern-indian-history-22_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "GANDHI-IRWIN CONCESSION BALANCE",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GANDHI-IRWIN CONCESSION BALANCE",
+          "role": "primary"
+        },
+        {
+          "text": "SUSPENDS CDM + AGREES TO SECOND RTC",
+          "role": "outcome"
+        },
+        {
+          "text": "BOUNDED RELEASE, RESTORATION, SALT AND PICKETING CONCESSIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "INQUIRY INTO POLICE EXCESSES",
+          "role": "evidence"
+        },
+        {
+          "text": "5 MAR 1931",
+          "role": "primary"
+        },
+        {
+          "text": "TACTICAL TRUCE, NOT INDEPENDENCE.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CONGRESS → suspends CDM + agrees to Second RTC",
+        "GOVERNMENT → bounded release, restoration, salt and picketing concessions",
+        "REFUSED → inquiry into police excesses",
+        "5 MAR 1931 → tactical truce, not independence."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CONGRESS → suspends CDM + agrees to Second RTC",
+          "REFUSED → inquiry into police excesses",
+          "CONGRESS → suspends CDM + agrees to Second RTC"
+        ],
+        [
+          "GOVERNMENT → bounded release, restoration, salt and picketing concessions",
+          "5 MAR 1931 → tactical truce, not independence.",
+          "GOVERNMENT → bounded release, restoration, salt and picketing concessions"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONGRESS → suspends CDM + agrees to Second RTC",
+            "GOVERNMENT → bounded release, restoration, salt and picketing concessions"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REFUSED → inquiry into police excesses",
+            "5 MAR 1931 → tactical truce, not independence."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONGRESS → suspends CDM + agrees to Second RTC",
+            "GOVERNMENT → bounded release, restoration, salt and picketing concessions"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "5 MAR 1931 → tactical truce, not independence.",
+      "source_references": [
+        "First RTC and the Gandhi-Irwin Pact balance",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\22_Simon-Nehru-Report-CDM-and-RTC.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\22_Simon-Nehru-Report-CDM-and-RTC.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-22\\g3\\modern-indian-history-22_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ROUND TABLE CONFERENCE SEQUENCE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ROUND TABLE CONFERENCE SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "FIRST RTC, NOV 1930-JAN 1931",
+          "role": "outcome"
+        },
+        {
+          "text": "CONGRESS ABSENT",
+          "role": "comparison"
+        },
+        {
+          "text": "SECOND RTC, 1931",
+          "role": "evidence"
+        },
+        {
+          "text": "GANDHI SOLE CONGRESS REPRESENTATIVE",
+          "role": "primary"
+        },
+        {
+          "text": "THIRD RTC, 1932",
+          "role": "outcome"
+        },
+        {
+          "text": "CONGRESS ABSENT; LIMITED/FORMAL IMPORTANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONFERENCING CANNOT REPLACE POLITICAL LEVERAGE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FIRST RTC, NOV 1930-JAN 1931 → Congress absent",
+        "SECOND RTC, 1931 → Gandhi sole Congress representative → deadlock",
+        "THIRD RTC, 1932 → Congress absent; limited/formal importance",
+        "RESULT → conferencing cannot replace political leverage."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FIRST RTC, NOV 1930-JAN 1931 → Congress absent",
+            "SECOND RTC, 1931 → Gandhi sole Congress representative → deadlock"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "THIRD RTC, 1932 → Congress absent; limited/formal importance",
+            "RESULT → conferencing cannot replace political leverage."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FIRST RTC, NOV 1930-JAN 1931 → Congress absent",
+            "SECOND RTC, 1931 → Gandhi sole Congress representative → deadlock"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "THIRD RTC, 1932 → Congress absent; limited/formal importance.",
+      "source_references": [
+        "Karachi, Second RTC and renewed repression",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\22_Simon-Nehru-Report-CDM-and-RTC.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\22_Simon-Nehru-Report-CDM-and-RTC.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-22\\g3\\modern-indian-history-22_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "KARACHI SOCIAL-CONTENT BRIDGE",
+      "structural_type": "concept-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "KARACHI SOCIAL-CONTENT BRIDGE",
+          "role": "primary"
+        },
+        {
+          "text": "KARACHI, MARCH 1931 RATIFIES GANDHI-IRWIN PACT",
+          "role": "outcome"
+        },
+        {
+          "text": "FUNDAMENTAL RIGHTS",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIONAL ECONOMIC PROGRAMME",
+          "role": "evidence"
+        },
+        {
+          "text": "SHOWS WHAT SWARAJ SHOULD MEAN SOCIALLY AND ECONOMICALLY.",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "THE COMMUNAL AWARD AND POONA PACT BELONG TO 1932",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "KARACHI, MARCH 1931 ratifies Gandhi-Irwin Pact",
+        "Fundamental Rights",
+        "National Economic Programme",
+        "USE → shows what Swaraj should mean socially and economically.",
+        "CLOSE DISTINCTION: The Communal Award and Poona Pact belong to 1932 and addressed representation differently"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "KARACHI, MARCH 1931 ratifies Gandhi-Irwin Pact",
+            "Fundamental Rights"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "National Economic Programme",
+            "USE → shows what Swaraj should mean socially and economically."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: The Communal Award and Poona Pact belong to 1932 and addressed representation differently",
+            "Civil Disobedience changed phases before formal withdrawal in"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: The Communal Award and Poona Pact belong to 1932 and addressed representation differently; Civil Disobedience changed phases before formal withdrawal in.",
+      "source_references": [
+        "Karachi, Second RTC and renewed repression",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\22_Simon-Nehru-Report-CDM-and-RTC.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\22_Simon-Nehru-Report-CDM-and-RTC.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-22\\g3\\modern-indian-history-22_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "COMMUNAL AWARD TO POONA PACT",
+      "structural_type": "replacement-diagram",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "COMMUNAL AWARD TO POONA PACT",
+          "role": "primary"
+        },
+        {
+          "text": "COMMUNAL AWARD",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPARATE ELECTORATES FOR DEPRESSED CLASSES",
+          "role": "comparison"
+        },
+        {
+          "text": "20 SEP 1932",
+          "role": "evidence"
+        },
+        {
+          "text": "GANDHI'S FAST BEGINS",
+          "role": "primary"
+        },
+        {
+          "text": "24 SEP 1932",
+          "role": "outcome"
+        },
+        {
+          "text": "POONA PACT",
+          "role": "comparison"
+        },
+        {
+          "text": "RESERVED SEATS IN JOINT ELECTORATES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COMMUNAL AWARD → separate electorates for Depressed Classes",
+        "20 SEP 1932 → Gandhi's fast begins",
+        "24 SEP 1932 → Poona Pact",
+        "REPLACEMENT → reserved seats in joint electorates",
+        "DEBATE → integration versus independent political voice; coercive context."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COMMUNAL AWARD → separate electorates for Depressed Classes",
+            "20 SEP 1932 → Gandhi's fast begins",
+            "24 SEP 1932 → Poona Pact"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REPLACEMENT → reserved seats in joint electorates",
+            "DEBATE → integration versus independent political voice; coercive context.",
+            "EVIDENCE LIMIT: Official conference records, Congress resolutions, Ambedkar-Gandhi positions and"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "regional no-tax or forest struggles prevent an elite-negotiation-only account."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Official conference records, Congress resolutions, Ambedkar-Gandhi positions and regional no-tax or forest struggles prevent an elite-negotiation-only account.",
+      "source_references": [
+        "Communal Award, Gandhi-Ambedkar debate and Poona Pact",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\22_Simon-Nehru-Report-CDM-and-RTC.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\22_Simon-Nehru-Report-CDM-and-RTC.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-22\\g3\\modern-indian-history-22_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "DISPUTED NUMBER AND MOVEMENT CLOSURE",
+      "structural_type": "accountability-map",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "DISPUTED NUMBER AND MOVEMENT CLOSURE",
+          "role": "primary"
+        },
+        {
+          "text": "POONA PROVINCIAL SEATS",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCAL OCR 147",
+          "role": "comparison"
+        },
+        {
+          "text": "WIDESPREAD CONVENTION 148",
+          "role": "evidence"
+        },
+        {
+          "text": "ATTRIBUTE VARIATION; NEVER PRESENT THE TOTAL AS UNCONTESTED",
+          "role": "primary"
+        },
+        {
+          "text": "CDM RESUMES UNDER REPRESSION",
+          "role": "outcome"
+        },
+        {
+          "text": "EARLY APRIL 1934",
+          "role": "comparison"
+        },
+        {
+          "text": "MOVEMENT WITHDRAWN.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "POONA PROVINCIAL SEATS → local OCR 147",
+        "widespread convention 148",
+        "RULE → attribute variation; never present the total as uncontested",
+        "1932-34 → CDM resumes under repression",
+        "EARLY APRIL 1934 → movement withdrawn."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "POONA PROVINCIAL SEATS → local OCR 147",
+            "widespread convention 148"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RULE → attribute variation; never present the total as uncontested",
+            "1932-34 → CDM resumes under repression"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EARLY APRIL 1934 → movement withdrawn.",
+            "POONA PROVINCIAL SEATS → local OCR 147"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → attribute variation; never present the total as uncontested.",
+      "source_references": [
+        "Poona seat-number caution, Third RTC and CDM withdrawal",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\basic\\22_Simon-Nehru-Report-CDM-and-RTC.md",
+        "upsc-ai-kit\\knowledge\\Modern-Indian-History\\advanced\\22_Simon-Nehru-Report-CDM-and-RTC.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Modern\\MH\\learning-sessions\\mhi-22\\g3\\modern-indian-history-22_Complete-Learning-Session_2026-09-04.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA'S STRUGGLE FOR INDEPENDENCE TREATS THE LATE 1920S AS",
+          "role": "outcome"
+        },
+        {
+          "text": "THE NEHRU REPORT OFFERED DOMINION STATUS, FUNDAMENTAL RIGHTS, RESPONSIBLE",
+          "role": "comparison"
+        },
+        {
+          "text": "REJECTION BY JINNAH AND SECTIONS OF THE HINDU MAHASABHA",
+          "role": "evidence"
+        },
+        {
+          "text": "JAWAHARLAL NEHRU AND SUBHAS CHANDRA BOSE PUSHED BEYOND DOMINION",
+          "role": "primary"
+        },
+        {
+          "text": "THE LAHORE RESOLUTION WAS THEREFORE NOT A SUDDEN RHETORICAL",
+          "role": "caution"
+        },
+        {
+          "text": "IT CRYSTALLISED FRUSTRATION WITH BRITISH DELAY, THE LIMITS OF",
+          "role": "comparison"
+        },
+        {
+          "text": "GANDHI'S CHOICE OF SALT TURNED AN EVERYDAY NECESSITY INTO",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "India's Struggle for Independence treats the late 1920s as a convergence of constitutional agitation and mass politics.",
+            "The Nehru Report offered dominion status, fundamental rights, responsible government and joint electorates.",
+            "Rejection by Jinnah and sections of the Hindu Mahasabha showed that communal representation remained unresolved.",
+            "Jawaharlal Nehru and Subhas Chandra Bose pushed beyond dominion status toward full independence."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: The Lahore resolution was therefore not a sudden rhetorical leap",
+            "it crystallised frustration with British delay, the limits of dominion politics and the pressure of radical youth.",
+            "Gandhi's choice of salt turned an everyday necessity into a moral challenge to colonial taxation.",
+            "Spread to Dharasana , Peshawar , Sholapur , the NWFP and forests made CDM more than one march."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Khan Abdul Ghaffar Khan and the Khudai Khidmatgars carried disciplined non-violence into the Frontier.",
+            "Women participated visibly in picketing, salt-making and boycott campaigns, widening the social base of nationalist politics.",
+            "The Gandhi–Irwin Pact was a tactical truce, not an independence settlement.",
+            "The Second RTC exposed deadlock over minorities, princes and Congress's national claim."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}
